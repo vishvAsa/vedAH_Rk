@@ -6,59 +6,59 @@ title = "Rig Veda 10.40.3"
 - \[adverb\]
 - “at dawn; early.”
 ------------------------------------------------------------------------
-- *jarethe* \< *jṛ*
+- *jarethe* ← *jṛ*
 - \[verb\], dual, Present indikative
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
 ------------------------------------------------------------------------
-- *jaraṇeva* \< *jaraṇā* \< *jaraṇa*
+- *jaraṇeva* ← *jaraṇā* ← *jaraṇa*
 - \[noun\], nominative, dual, masculine
 - “digestive; old.”
 ------------------------------------------------------------------------
-- *jaraṇeva* \< *iva*
+- *jaraṇeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *kāpayā* \< *kāpā*
+- *kāpayā* ← *kāpā*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *vastor* \< *vastoḥ* \< *vastu*
+- *vastor* ← *vastoḥ* ← *vastu*
 - \[noun\], genitive, singular, feminine
 - “dawn.”
 ------------------------------------------------------------------------
-- *vastor* \< *vastoḥ* \< *vastu*
+- *vastor* ← *vastoḥ* ← *vastu*
 - \[noun\], genitive, singular, feminine
 - “dawn.”
 ------------------------------------------------------------------------
-- *yajatā* \< *yajata*
+- *yajatā* ← *yajata*
 - \[noun\], nominative, dual, masculine
 - “holy; august; sacrificial.”
 ------------------------------------------------------------------------
-- *gacchatho* \< *gacchathaḥ* \< *gam*
+- *gacchatho* ← *gacchathaḥ* ← *gam*
 - \[verb\], dual, Present indikative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *gṛham* \< *gṛha*
+- *gṛham* ← *gṛha*
 - \[noun\], accusative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
 ------------------------------------------------------------------------
-- *kasya* \< *ka*
+- *kasya* ← *ka*
 - \[noun\], genitive, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *dhvasrā* \< *dhvasra*
+- *dhvasrā* ← *dhvasra*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *bhavathaḥ* \< *bhū*
+- *bhavathaḥ* ← *bhū*
 - \[verb\], dual, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *kasya* \< *ka*
+- *kasya* ← *ka*
 - \[noun\], genitive, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -66,31 +66,31 @@ title = "Rig Veda 10.40.3"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *narā* \< *nṛ*
+- *narā* ← *nṛ*
 - \[noun\], nominative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *rājaputreva* \< *rāja* \< *rājan*
+- *rājaputreva* ← *rāja* ← *rājan*
 - \[noun\], masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *rājaputreva* \< *putrā* \< *putra*
+- *rājaputreva* ← *putrā* ← *putra*
 - \[noun\], nominative, dual, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
-- *rājaputreva* \< *iva*
+- *rājaputreva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *savanāva* \< *savanā* \< *savana*
+- *savanāva* ← *savanā* ← *savana*
 - \[noun\], accusative, plural, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
-- *savanāva* \< *ava*
+- *savanāva* ← *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *gacchathaḥ* \< *gam*
+- *gacchathaḥ* ← *gam*
 - \[verb\], dual, Present indikative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

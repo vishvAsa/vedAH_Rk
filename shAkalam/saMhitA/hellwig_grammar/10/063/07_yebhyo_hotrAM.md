@@ -2,15 +2,15 @@
 title = "Rig Veda 10.63.7"
 
 +++
--   *yebhyo* \< *yebhyaḥ* \< *yad*
+-   *yebhyo* ← *yebhyaḥ* ← *yad*
 - \[noun\], dative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *hotrām* \< *hotrā*
+- *hotrām* ← *hotrā*
 - \[noun\], accusative, singular, feminine
 - “hotrā \[word\]; Hautra.”
 ------------------------------------------------------------------------
-- *prathamām* \< *prathama*
+- *prathamām* ← *prathama*
 - \[noun\], accusative, singular, feminine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
@@ -19,73 +19,73 @@ title = "Rig Veda 10.63.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yeje* \< *yaj*
+- *yeje* ← *yaj*
 - \[verb\], singular, Perfect indicative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *manuḥ* \< *manu*
+- *manuḥ* ← *manu*
 - \[noun\], nominative, singular, masculine
 - “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
     incantation; sacred text.”
 ------------------------------------------------------------------------
-- *samiddhāgnir* \< *samiddha* \< *samindh* \< *√indh*
+- *samiddhāgnir* ← *samiddha* ← *samindh* ← *√indh*
 - \[verb noun\]
 - “kindle; blaze.”
 ------------------------------------------------------------------------
-- *samiddhāgnir* \< *agniḥ* \< *agni*
+- *samiddhāgnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], instrumental, plural, masculine
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *hotṛbhiḥ* \< *hotṛ*
+- *hotṛbhiḥ* ← *hotṛ*
 - \[noun\], instrumental, plural, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tad*
+- *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ādityā* \< *ādityāḥ* \< *āditya*
+- *ādityā* ← *ādityāḥ* ← *āditya*
 - \[noun\], nominative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
-- *abhayaṃ* \< *abhayam* \< *abhaya*
+- *abhayaṃ* ← *abhayam* ← *abhaya*
 - \[noun\], accusative, singular, neuter
 - “security; abhayamudrā; Abhaya.”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *yacchata* \< *yam*
+- *yacchata* ← *yam*
 - \[verb\], plural, Present imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *sugā* \< *su*
+- *sugā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sugā* \< *gāḥ* \< *ga*
+- *sugā* ← *gāḥ* ← *ga*
 - \[noun\], accusative, plural, masculine
 - “located; moving; flowing; passable; ga \[word\]; accordant.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *karta* \< *kṛ*
+- *karta* ← *kṛ*
 - \[verb\], plural, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -96,16 +96,16 @@ title = "Rig Veda 10.63.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *supathā* \< *su*
+- *supathā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *supathā* \< *pathā* \< *patha*
+- *supathā* ← *pathā* ← *patha*
 - \[noun\], accusative, plural, masculine
 - “way; method; passage; road; scope; path; patha \[word\]; path;
     region; way.”
 ------------------------------------------------------------------------
-- *svastaye* \< *svasti*
+- *svastaye* ← *svasti*
 - \[noun\], dative, singular, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”

@@ -2,23 +2,23 @@
 title = "Rig Veda 9.71.9"
 
 +++
--   *ukṣeva* \< *ukṣā* \< *ukṣan*
+-   *ukṣeva* ← *ukṣā* ← *ukṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; ukṣan \[word\].”
 ------------------------------------------------------------------------
-- *ukṣeva* \< *iva*
+- *ukṣeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *yūthā* \< *yūtha*
+- *yūthā* ← *yūtha*
 - \[noun\], accusative, plural, neuter
 - “herd; troop; battalion.”
 ------------------------------------------------------------------------
-- *pariyann* \< *pariyan* \< *parī* \< *√i*
+- *pariyann* ← *pariyan* ← *parī* ← *√i*
 - \[verb noun\], nominative, singular
 - “circumambulate; wander; revolve; overwhelm.”
 ------------------------------------------------------------------------
-- *arāvīd* \< *arāvīt* \< *ru*
+- *arāvīd* ← *arāvīt* ← *ru*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “bellow; howl.”
 ------------------------------------------------------------------------
@@ -26,41 +26,41 @@ title = "Rig Veda 9.71.9"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *tviṣīr* \< *tviṣīḥ* \< *tviṣi*
+- *tviṣīr* ← *tviṣīḥ* ← *tviṣi*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *adhita* \< *dhā*
+- *adhita* ← *dhā*
 - \[verb\], singular, Root aorist (Ind.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *sūryasya* \< *sūrya*
+- *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *divyaḥ* \< *divya*
+- *divyaḥ* ← *divya*
 - \[noun\], nominative, singular, masculine
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
 ------------------------------------------------------------------------
-- *suparṇo* \< *suparṇaḥ* \< *suparṇa*
+- *suparṇo* ← *suparṇaḥ* ← *suparṇa*
 - \[noun\], nominative, singular, masculine
 - “Garuda; Suparṇa; bird of prey; Suparṇa; suparṇa; Suparṇa; eagle.”
 ------------------------------------------------------------------------
-- *'va* \< *ava*
+- *'va* ← *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *cakṣata* \< *cakṣ*
+- *cakṣata* ← *cakṣ*
 - \[verb\], singular, Present injunctive
 - “watch; look.”
 ------------------------------------------------------------------------
-- *kṣāṃ* \< *kṣām* \< *kṣā*
+- *kṣāṃ* ← *kṣām* ← *kṣā*
 - \[noun\], accusative, singular, feminine
 - “Earth; Earth.”
 ------------------------------------------------------------------------
-- *somaḥ* \< *soma*
+- *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -68,17 +68,17 @@ title = "Rig Veda 9.71.9"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *kratunā* \< *kratu*
+- *kratunā* ← *kratu*
 - \[noun\], instrumental, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *paśyate* \< *paś*
+- *paśyate* ← *paś*
 - \[verb\], singular, Present indikative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *jāḥ* \< *jā*
+- *jāḥ* ← *jā*
 - \[noun\], accusative, plural, feminine
 - “child; jā; being.”
 ------------------------------------------------------------------------

@@ -2,11 +2,11 @@
 title = "Rig Veda 10.149.5"
 
 +++
--   *hiraṇyastūpaḥ* \< *hiraṇyastūpa*
+-   *hiraṇyastūpaḥ* ← *hiraṇyastūpa*
 - \[noun\], nominative, singular, masculine
 - “Hiraṇyastūpa.”
 ------------------------------------------------------------------------
-- *savitar* \< *savitṛ*
+- *savitar* ← *savitṛ*
 - \[noun\], vocative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
@@ -14,56 +14,56 @@ title = "Rig Veda 10.149.5"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *tvāṅgiraso* \< *tu*
+- *tvāṅgiraso* ← *tu*
 - \[adverb\]
 - “now; then; but; and; now; however; then; then; surely.”
 ------------------------------------------------------------------------
-- *tvāṅgiraso* \< *āṅgirasaḥ* \< *āṅgirasa*
+- *tvāṅgiraso* ← *āṅgirasaḥ* ← *āṅgirasa*
 - \[noun\], nominative, singular, masculine
 - “Aṅgiras; Brihaspati; Bṛhaspati; Jupiter.”
 ------------------------------------------------------------------------
-- *juhve* \< *hvā*
+- *juhve* ← *hvā*
 - \[verb\], singular, Perfect indicative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *vāje* \< *vāja*
+- *vāje* ← *vāja*
 - \[noun\], locative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *asmin* \< *idam*
+- *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *evā* \< *eva*
+- *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *tvārcann* \< *tvā* \< *tvad*
+- *tvārcann* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tvārcann* \< *arcan* \< *arc*
+- *tvārcann* ← *arcan* ← *arc*
 - \[verb noun\], nominative, singular
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *avase* \< *av*
+- *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *vandamānaḥ* \< *vand*
+- *vandamānaḥ* ← *vand*
 - \[verb noun\], nominative, singular
 - “worship; laud.”
 ------------------------------------------------------------------------
-- *somasyevāṃśum* \< *somasya* \< *soma*
+- *somasyevāṃśum* ← *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somasyevāṃśum* \< *iva*
+- *somasyevāṃśum* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *somasyevāṃśum* \< *aṃśum* \< *aṃśu*
+- *somasyevāṃśum* ← *aṃśum* ← *aṃśu*
 - \[noun\], accusative, singular, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
 ------------------------------------------------------------------------
@@ -71,11 +71,11 @@ title = "Rig Veda 10.149.5"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *jāgarāham* \< *jāgara* \< *jāgṛ*
+- *jāgarāham* ← *jāgara* ← *jāgṛ*
 - \[verb\], singular, Perfect indicative
 - “wake; watch; awaken; wake up; oversee.”
 ------------------------------------------------------------------------
-- *jāgarāham* \< *aham* \< *mad*
+- *jāgarāham* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------

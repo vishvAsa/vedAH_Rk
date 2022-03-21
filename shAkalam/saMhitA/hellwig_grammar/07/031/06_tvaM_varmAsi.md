@@ -2,29 +2,29 @@
 title = "Rig Veda 7.31.6"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *varmāsi* \< *varmā* \< *varman*
+- *varmāsi* ← *varmā* ← *varman*
 - \[noun\], nominative, plural, neuter
 - “cuirass; armor; varman \[word\]; protective covering; Varman;
     varman.”
 ------------------------------------------------------------------------
-- *varmāsi* \< *asi* \< *as*
+- *varmāsi* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *saprathaḥ* \< *saprathas*
+- *saprathaḥ* ← *saprathas*
 - \[noun\], nominative, singular, neuter
 - “extensive; wide; extended.”
 ------------------------------------------------------------------------
-- *puroyodhaś* \< *puras*
+- *puroyodhaś* ← *puras*
 - \[adverb\]
 - “ahead; puras \[word\]; easterly; eastward; east; earlier.”
 ------------------------------------------------------------------------
-- *puroyodhaś* \< *yodhaḥ* \< *yodha*
+- *puroyodhaś* ← *yodhaḥ* ← *yodha*
 - \[noun\], nominative, singular, masculine
 - “soldier.”
 ------------------------------------------------------------------------
@@ -36,7 +36,7 @@ title = "Rig Veda 7.31.6"
 - \[noun\], vocative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *tvayā* \< *tvad*
+- *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -44,12 +44,12 @@ title = "Rig Veda 7.31.6"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *bruve* \< *brū*
+- *bruve* ← *brū*
 - \[verb\], singular, Present indikative
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
 ------------------------------------------------------------------------
-- *yujā* \< *yuj*
+- *yujā* ← *yuj*
 - \[noun\], instrumental, singular, masculine
 - “ally; friend; pair; two; companion.”
 ------------------------------------------------------------------------

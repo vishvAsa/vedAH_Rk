@@ -2,64 +2,64 @@
 title = "Rig Veda 6.68.11"
 
 +++
--   *indrāvaruṇā* \< *indrāvaruṇa*
+-   *indrāvaruṇā* ← *indrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Indra.”
 ------------------------------------------------------------------------
-- *madhumattamasya* \< *madhumattama*
+- *madhumattamasya* ← *madhumattama*
 - \[noun\], genitive, singular, masculine
 - “sweetest.”
 ------------------------------------------------------------------------
-- *vṛṣṇaḥ* \< *vṛṣan*
+- *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
 ------------------------------------------------------------------------
-- *somasya* \< *soma*
+- *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *vṛṣaṇā* \< *vṛṣan*
+- *vṛṣaṇā* ← *vṛṣan*
 - \[noun\], vocative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *vṛṣethām* \< *vṛṣ*
+- *vṛṣethām* ← *vṛṣ*
 - \[verb\], dual, Present imperative
 - “shower; rain; effuse; shower; drench.”
 ------------------------------------------------------------------------
-- *idaṃ* \< *idam*
+- *idaṃ* ← *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *andhaḥ* \< *andhas*
+- *andhaḥ* ← *andhas*
 - \[noun\], nominative, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
-- *pariṣiktam* \< *pariṣic* \< *√sic*
+- *pariṣiktam* ← *pariṣic* ← *√sic*
 - \[verb noun\], nominative, singular
 - “sprinkle; effuse; rub.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *āsadyāsmin* \< *āsadya* \< *āsad* \< *√sad*
+- *āsadyāsmin* ← *āsadya* ← *āsad* ← *√sad*
 - \[verb noun\]
 - “approach; attack; sit down; approach; find; arrive.”
 ------------------------------------------------------------------------
-- *āsadyāsmin* \< *asmin* \< *idam*
+- *āsadyāsmin* ← *asmin* ← *idam*
 - \[noun\], locative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *barhiṣi* \< *barhis*
+- *barhiṣi* ← *barhis*
 - \[noun\], locative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *mādayethām* \< *māday* \< *√mad*
+- *mādayethām* ← *māday* ← *√mad*
 - \[verb\], dual, Present imperative
 - “delight; enjoy; intoxicate.”
 ------------------------------------------------------------------------

@@ -2,58 +2,58 @@
 title = "Rig Veda 8.8.16"
 
 +++
--   *prāsmā* \< *pra*
+-   *prāsmā* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prāsmā* \< *asmai* \< *idam*
+- *prāsmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ūrjaṃ* \< *ūrjam* \< *ūrj*
+- *ūrjaṃ* ← *ūrjam* ← *ūrj*
 - \[noun\], accusative, singular, feminine
 - “strength; refreshment; vigor; food; strengthening.”
 ------------------------------------------------------------------------
-- *ghṛtaścutam* \< *ghṛtaścut*
+- *ghṛtaścutam* ← *ghṛtaścut*
 - \[noun\], accusative, singular, feminine
 - “ghee-dripping.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *yacchataṃ* \< *yacchatam* \< *yam*
+- *yacchataṃ* ← *yacchatam* ← *yam*
 - \[verb\], dual, Present imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *yuvam* \< *tvad*
+- *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *sumnāya* \< *sumna*
+- *sumnāya* ← *sumna*
 - \[noun\], dative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
-- *tuṣṭavad* \< *tuṣṭavat* \< *stu*
+- *tuṣṭavad* ← *tuṣṭavat* ← *stu*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *vasūyād* \< *vasūyāt* \< *vasūy*
+- *vasūyād* ← *vasūyāt* ← *vasūy*
 - \[verb\], singular, Present conjunctive (subjunctive)
 ------------------------------------------------------------------------
-- *dānunas* \< *dānunaḥ* \< *dānu*
+- *dānunas* ← *dānunaḥ* ← *dānu*
 - \[noun\], genitive, singular, neuter
 - “Dānu; dew; drop.”
 ------------------------------------------------------------------------
-- *patī* \< *pati*
+- *patī* ← *pati*
 - \[noun\], vocative, dual, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”

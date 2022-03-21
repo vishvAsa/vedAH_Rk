@@ -2,7 +2,7 @@
 title = "Rig Veda 6.26.7"
 
 +++
--   *ahaṃ* \< *aham* \< *mad*
+-   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -10,25 +10,25 @@ title = "Rig Veda 6.26.7"
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *tat* \< *tad*
+- *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *sūribhir* \< *sūribhiḥ* \< *sūri*
+- *sūribhir* ← *sūribhiḥ* ← *sūri*
 - \[noun\], instrumental, plural, masculine
 - “patron.”
 ------------------------------------------------------------------------
-- *ānaśyāṃ* \< *ānaśyām* \< *aś*
+- *ānaśyāṃ* ← *ānaśyām* ← *aś*
 - \[verb\], singular, Perfect optative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *jyāya* \< *jyāyaḥ* \< *jyāyas*
+- *jyāya* ← *jyāyaḥ* ← *jyāyas*
 - \[noun\], accusative, singular, neuter
 - “better; elder; greater; bigger.”
 ------------------------------------------------------------------------
@@ -37,15 +37,15 @@ title = "Rig Veda 6.26.7"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sumnam* \< *sumna*
+- *sumnam* ← *sumna*
 - \[noun\], accusative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
-- *ojaḥ* \< *ojas*
+- *ojaḥ* ← *ojas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *tvayā* \< *tvad*
+- *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -53,26 +53,26 @@ title = "Rig Veda 6.26.7"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *stavante* \< *stu*
+- *stavante* ← *stu*
 - \[verb\], plural, Present indikative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
 - *sadhavīra*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *vīrās* \< *vīrāḥ* \< *vīra*
+- *vīrās* ← *vīrāḥ* ← *vīra*
 - \[noun\], nominative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *trivarūthena* \< *tri*
+- *trivarūthena* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *trivarūthena* \< *varūthena* \< *varūtha*
+- *trivarūthena* ← *varūthena* ← *varūtha*
 - \[noun\], instrumental, singular, masculine
 - “defense; protective covering.”
 ------------------------------------------------------------------------
-- *nahuṣā* \< *nahus*
+- *nahuṣā* ← *nahus*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
 - *śaviṣṭha*

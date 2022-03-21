@@ -2,11 +2,11 @@
 title = "Rig Veda 1.88.5"
 
 +++
--   *etat* \< *etad*
+-   *etat* ← *etad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *tyan* \< *tyad* \< *tya*
+- *tyan* ← *tyad* ← *tya*
 - \[noun\], nominative, singular, neuter
 - “that.”
 ------------------------------------------------------------------------
@@ -14,11 +14,11 @@ title = "Rig Veda 1.88.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yojanam* \< *yojana*
+- *yojanam* ← *yojana*
 - \[noun\], nominative, singular, neuter
 - “yojana; use; yojana \[word\]; team.”
 ------------------------------------------------------------------------
-- *aceti* \< *cit*
+- *aceti* ← *cit*
 - \[verb\], singular, Aorist passive
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
@@ -30,50 +30,50 @@ title = "Rig Veda 1.88.5"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *yan* \< *yat*
+- *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], accusative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *gotamo* \< *gotamaḥ* \< *gotama*
+- *gotamo* ← *gotamaḥ* ← *gotama*
 - \[noun\], nominative, singular, masculine
 - “Gotama; gotama \[word\].”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *paśyan* \< *paś*
+- *paśyan* ← *paś*
 - \[verb noun\], nominative, singular
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *hiraṇyacakrān* \< *hiraṇya*
+- *hiraṇyacakrān* ← *hiraṇya*
 - \[noun\], neuter
 - “gold; jewelry; hiraṇya \[word\]; gold.”
 ------------------------------------------------------------------------
-- *hiraṇyacakrān* \< *cakrān* \< *cakra*
+- *hiraṇyacakrān* ← *cakrān* ← *cakra*
 - \[noun\], accusative, plural, masculine
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
 ------------------------------------------------------------------------
-- *ayodaṃṣṭrān* \< *ayaḥ* \< *ayas*
+- *ayodaṃṣṭrān* ← *ayaḥ* ← *ayas*
 - \[noun\], neuter
 - “iron; kāntaloha; ayas \[word\]; tīkṣṇaloha; metallic element;
     weapon.”
 ------------------------------------------------------------------------
-- *ayodaṃṣṭrān* \< *daṃṣṭrān* \< *daṃṣṭra*
+- *ayodaṃṣṭrān* ← *daṃṣṭrān* ← *daṃṣṭra*
 - \[noun\], accusative, plural, masculine
 - “tusk; fang; tooth; fang; bite.”
 ------------------------------------------------------------------------
-- *vidhāvato* \< *vidhāvataḥ* \< *vidhāv* \< *√dhāv*
+- *vidhāvato* ← *vidhāvataḥ* ← *vidhāv* ← *√dhāv*
 - \[verb noun\], accusative, plural
 - “run; run off.”
 ------------------------------------------------------------------------
-- *varāhūn* \< *varāhu*
+- *varāhūn* ← *varāhu*
 - \[noun\], accusative, plural, masculine
 - “wild boar.”
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 10.42.5"
 
 +++
--   *dhanaṃ* \< *dhanam* \< *dhana*
+-   *dhanaṃ* ← *dhanam* ← *dhana*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
@@ -11,28 +11,28 @@ title = "Rig Veda 10.42.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *syandram* \< *syandra*
+- *syandram* ← *syandra*
 - \[noun\], accusative, singular, neuter
 - “flowing; fleet.”
 ------------------------------------------------------------------------
-- *bahulaṃ* \< *bahulam* \< *bahula*
+- *bahulaṃ* ← *bahulam* ← *bahula*
 - \[noun\], accusative, singular, neuter
 - “frequent; endowed; much(a); many; abounding in(p); abundant; bahula
     \[word\]; accompanied; prevailing.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *asmai* \< *idam*
+- *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *tīvrān* \< *tīvra*
+- *tīvrān* ← *tīvra*
 - \[noun\], accusative, plural, masculine
 - “intense; severe; pungent; acute; potent; loud.”
 ------------------------------------------------------------------------
-- *somāṃ* \< *soma*
+- *somāṃ* ← *soma*
 - \[noun\], accusative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -40,32 +40,32 @@ title = "Rig Veda 10.42.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sunoti* \< *su*
+- *sunoti* ← *su*
 - \[verb\], singular, Present indikative
 - “press out; su.”
 ------------------------------------------------------------------------
-- *prayasvān* \< *prayasvat*
+- *prayasvān* ← *prayasvat*
 - \[noun\], nominative, singular, masculine
 - “offering.”
 ------------------------------------------------------------------------
-- *tasmai* \< *tad*
+- *tasmai* ← *tad*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *śatrūn* \< *śatru*
+- *śatrūn* ← *śatru*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------
-- *sutukān* \< *sutuka*
+- *sutukān* ← *sutuka*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
 - *prātar*
 - \[adverb\]
 - “at dawn; early.”
 ------------------------------------------------------------------------
-- *ahno* \< *ahnaḥ* \< *ahar*
+- *ahno* ← *ahnaḥ* ← *ahar*
 - \[noun\], genitive, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
@@ -73,20 +73,20 @@ title = "Rig Veda 10.42.5"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *svaṣṭrān* \< *svaṣṭra*
+- *svaṣṭrān* ← *svaṣṭra*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *yuvati* \< *yu*
+- *yuvati* ← *yu*
 - \[verb\], singular, Present indikative
 - “unite.”
 ------------------------------------------------------------------------
-- *hanti* \< *han*
+- *hanti* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *vṛtram* \< *vṛtra*
+- *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------

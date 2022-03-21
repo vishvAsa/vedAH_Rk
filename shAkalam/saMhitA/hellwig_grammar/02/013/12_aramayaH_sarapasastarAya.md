@@ -2,21 +2,21 @@
 title = "Rig Veda 2.13.12"
 
 +++
--   *aramayaḥ* \< *ramay* \< *√ram*
+-   *aramayaḥ* ← *ramay* ← *√ram*
 - \[verb\], singular, Imperfect
 - “love; please; gladden; dam.”
 ------------------------------------------------------------------------
-- *sarapasas* \< *sarapasaḥ* \< *sarapas*
+- *sarapasas* ← *sarapasaḥ* ← *sarapas*
 - \[noun\], genitive, singular, neuter
 ------------------------------------------------------------------------
-- *tarāya* \< *tara*
+- *tarāya* ← *tara*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *kaṃ* \< *kam* \< *kaṃ*
+- *kaṃ* ← *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
 ------------------------------------------------------------------------
-- *turvītaye* \< *turvīti*
+- *turvītaye* ← *turvīti*
 - \[noun\], dative, singular, masculine
 - “Turvīti.”
 ------------------------------------------------------------------------
@@ -24,14 +24,14 @@ title = "Rig Veda 2.13.12"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *vayyāya* \< *vayya*
+- *vayyāya* ← *vayya*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *srutim* \< *sruti*
+- *srutim* ← *sruti*
 - \[noun\], accusative, singular, feminine
 - “discharge; path; road; stream.”
 ------------------------------------------------------------------------
@@ -39,7 +39,7 @@ title = "Rig Veda 2.13.12"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *santam* \< *as*
+- *santam* ← *as*
 - \[verb noun\], accusative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -48,41 +48,41 @@ title = "Rig Veda 2.13.12"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *anayaḥ* \< *nī*
+- *anayaḥ* ← *nī*
 - \[verb\], singular, Imperfect
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *parāvṛjam* \< *parāvṛj*
+- *parāvṛjam* ← *parāvṛj*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *prāndhaṃ* \< *pra*
+- *prāndhaṃ* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prāndhaṃ* \< *andham* \< *andha*
+- *prāndhaṃ* ← *andham* ← *andha*
 - \[noun\], accusative, singular, masculine
 - “blind; andha \[word\]; andha; blind; complete; dark.”
 ------------------------------------------------------------------------
-- *śroṇaṃ* \< *śroṇam* \< *śroṇa*
+- *śroṇaṃ* ← *śroṇam* ← *śroṇa*
 - \[noun\], accusative, singular, masculine
 - “crippled.”
 ------------------------------------------------------------------------
-- *śravayan* \< *śravay* \< *√śru*
+- *śravayan* ← *śravay* ← *√śru*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *sāsy* \< *sa* \< *tad*
+- *sāsy* ← *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *sāsy* \< *asi* \< *as*
+- *sāsy* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *ukthyaḥ* \< *ukthya*
+- *ukthyaḥ* ← *ukthya*
 - \[noun\], nominative, singular, masculine
 - “applaudable.”
 ------------------------------------------------------------------------

@@ -6,7 +6,7 @@ title = "Rig Veda 8.1.18"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *jmo* \< *jmaḥ* \< *jm*
+- *jmo* ← *jmaḥ* ← *jm*
 - \[noun\], ablative, singular, feminine
 ------------------------------------------------------------------------
 - *adha*
@@ -17,16 +17,16 @@ title = "Rig Veda 8.1.18"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *bṛhato* \< *bṛhataḥ* \< *bṛhat*
+- *bṛhato* ← *bṛhataḥ* ← *bṛhat*
 - \[noun\], ablative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *rocanād* \< *rocanāt* \< *rocana*
+- *rocanād* ← *rocanāt* ← *rocana*
 - \[noun\], ablative, singular, neuter
 - “light; celestial sphere.”
 ------------------------------------------------------------------------
@@ -34,41 +34,41 @@ title = "Rig Veda 8.1.18"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *ayā* \< *idam*
+- *ayā* ← *idam*
 - \[noun\], instrumental, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vardhasva* \< *vṛdh*
+- *vardhasva* ← *vṛdh*
 - \[verb\], singular, Present imperative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *tanvā* \< *tanu*
+- *tanvā* ← *tanu*
 - \[noun\], instrumental, singular, feminine
 - “body; embodiment; life; life; root; body; form.”
 ------------------------------------------------------------------------
-- *girā* \< *giri*
+- *girā* ← *giri*
 - \[noun\], locative, singular, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
 ------------------------------------------------------------------------
-- *mamā* \< *mama* \< *mad*
+- *mamā* ← *mama* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *jātā* \< *jāta*
+- *jātā* ← *jāta*
 - \[noun\], accusative, plural, neuter
 - “kind; object; descendant; kin; being; reincarnation.”
 ------------------------------------------------------------------------
-- *sukrato* \< *su*
+- *sukrato* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukrato* \< *krato* \< *kratu*
+- *sukrato* ← *krato* ← *kratu*
 - \[noun\], vocative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *pṛṇa* \< *pṛṇ*
+- *pṛṇa* ← *pṛṇ*
 - \[verb\], singular, Present imperative
 - “satisfy.”
 ------------------------------------------------------------------------

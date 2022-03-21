@@ -2,69 +2,69 @@
 title = "Rig Veda 10.159.3"
 
 +++
--   *mama* \< *mad*
+-   *mama* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *putrāḥ* \< *putra*
+- *putrāḥ* ← *putra*
 - \[noun\], nominative, plural, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
-- *śatruhaṇo* \< *śatru*
+- *śatruhaṇo* ← *śatru*
 - \[noun\], masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------
-- *śatruhaṇo* \< *haṇaḥ* \< *han*
+- *śatruhaṇo* ← *haṇaḥ* ← *han*
 - \[noun\], nominative, plural, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
-- *'tho* \< *atho*
+- *'tho* ← *atho*
 - \[adverb\]
 - “now; but; furthermore.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *duhitā* \< *duhitṛ*
+- *duhitā* ← *duhitṛ*
 - \[noun\], nominative, singular, feminine
 - “daughter; duhitṛ \[word\].”
 ------------------------------------------------------------------------
-- *virāṭ* \< *virāj*
+- *virāṭ* ← *virāj*
 - \[noun\], nominative, singular, feminine
 - “regnant; chief(a).”
 ------------------------------------------------------------------------
-- *utāham* \< *uta*
+- *utāham* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *utāham* \< *aham* \< *mad*
+- *utāham* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asmi* \< *as*
+- *asmi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *saṃjayā* \< *saṃjaya*
+- *saṃjayā* ← *saṃjaya*
 - \[noun\], nominative, singular, feminine
 - “victorious.”
 ------------------------------------------------------------------------
-- *patyau* \< *pati*
+- *patyau* ← *pati*
 - \[noun\], locative, singular
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śloka* \< *ślokaḥ* \< *śloka*
+- *śloka* ← *ślokaḥ* ← *śloka*
 - \[noun\], nominative, singular, masculine
 - “Śloka; fame; hymn; śloka \[word\]; praise; glory; verse.”
 ------------------------------------------------------------------------
-- *uttamaḥ* \< *uttama*
+- *uttamaḥ* ← *uttama*
 - \[noun\], nominative, singular, masculine
 - “best; excellent; highest; better; extreme; last; first; topmost;
     chief(a); higher; highest; maximal; uttama \[word\]; prevailing;

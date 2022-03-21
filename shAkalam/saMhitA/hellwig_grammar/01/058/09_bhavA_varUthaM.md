@@ -2,25 +2,25 @@
 title = "Rig Veda 1.58.9"
 
 +++
--   *bhavā* \< *bhava* \< *bhū*
+-   *bhavā* ← *bhava* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *varūthaṃ* \< *varūtham* \< *varūtha*
+- *varūthaṃ* ← *varūtham* ← *varūtha*
 - \[noun\], nominative, singular, neuter
 - “defense; protective covering.”
 ------------------------------------------------------------------------
-- *gṛṇate* \< *gṛ*
+- *gṛṇate* ← *gṛ*
 - \[verb noun\], dative, singular
 - “praise.”
 ------------------------------------------------------------------------
-- *vibhāvo* \< *vibhāvaḥ* \< *vibhāva*
+- *vibhāvo* ← *vibhāvaḥ* ← *vibhāva*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *bhavā* \< *bhū*
+- *bhavā* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
@@ -31,29 +31,29 @@ title = "Rig Veda 1.58.9"
 - \[noun\], vocative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *maghavadbhyaḥ* \< *maghavan*
+- *maghavadbhyaḥ* ← *maghavan*
 - \[noun\], dative, plural, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], nominative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *uruṣyāgne* \< *uruṣya* \< *uruṣy*
+- *uruṣyāgne* ← *uruṣya* ← *uruṣy*
 - \[verb\], singular, Present imperative
 - “protect; help.”
 ------------------------------------------------------------------------
-- *uruṣyāgne* \< *agne* \< *agni*
+- *uruṣyāgne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *aṃhaso* \< *aṃhasaḥ* \< *aṃhas*
+- *aṃhaso* ← *aṃhasaḥ* ← *aṃhas*
 - \[noun\], ablative, singular, neuter
 - “trouble; sin.”
 ------------------------------------------------------------------------
-- *gṛṇantam* \< *gṛ*
+- *gṛṇantam* ← *gṛ*
 - \[verb noun\], accusative, singular
 - “praise.”
 ------------------------------------------------------------------------
@@ -65,11 +65,11 @@ title = "Rig Veda 1.58.9"
 - \[adverb\]
 - “promptly; soon; quickly.”
 ------------------------------------------------------------------------
-- *dhiyāvasur* \< *dhiyāvasuḥ* \< *dhiyāvasu*
+- *dhiyāvasur* ← *dhiyāvasuḥ* ← *dhiyāvasu*
 - \[noun\], nominative, singular, masculine
 - “wise.”
 ------------------------------------------------------------------------
-- *jagamyāt* \< *gam*
+- *jagamyāt* ← *gam*
 - \[verb\], singular, Perfect optative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

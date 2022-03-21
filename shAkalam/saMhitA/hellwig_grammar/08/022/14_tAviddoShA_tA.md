@@ -2,7 +2,7 @@
 title = "Rig Veda 8.22.14"
 
 +++
--   *tāv* \< *tau* \< *tad*
+-   *tāv* ← *tau* ← *tad*
 - \[noun\], accusative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -16,25 +16,25 @@ title = "Rig Veda 8.22.14"
 - \[adverb\]
 - “in the evening.”
 ------------------------------------------------------------------------
-- *tā* \< *tau* \< *tad*
+- *tā* ← *tau* ← *tad*
 - \[noun\], accusative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *uṣasi* \< *uṣas*
+- *uṣasi* ← *uṣas*
 - \[noun\], locative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *śubhas* \< *śubhaḥ* \< *śubh*
+- *śubhas* ← *śubhaḥ* ← *śubh*
 - \[noun\], genitive, singular, feminine
 ------------------------------------------------------------------------
-- *patī* \< *pati*
+- *patī* ← *pati*
 - \[noun\], accusative, dual, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *tā* \< *tad*
+- *tā* ← *tad*
 - \[noun\], accusative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -44,7 +44,7 @@ title = "Rig Veda 8.22.14"
 - \[noun\], locative, singular, neuter
 - “expedition; path; expedition; arrival.”
 ------------------------------------------------------------------------
-- *rudravartanī* \< *rudravartani*
+- *rudravartanī* ← *rudravartani*
 - \[noun\], accusative, dual, masculine
 - “Asvins.”
 ------------------------------------------------------------------------
@@ -52,26 +52,26 @@ title = "Rig Veda 8.22.14"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *martāya* \< *marta*
+- *martāya* ← *marta*
 - \[noun\], dative, singular, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *ripave* \< *ripu*
+- *ripave* ← *ripu*
 - \[noun\], dative, singular, masculine
 - “punic; deceitful; unfriendly.”
 ------------------------------------------------------------------------
-- *vājinīvasū* \< *vājinīvasu*
+- *vājinīvasū* ← *vājinīvasu*
 - \[noun\], vocative, dual, masculine
 ------------------------------------------------------------------------
-- *paro* \< *paras*
+- *paro* ← *paras*
 - \[adverb\]
 - “beyond; away; farther.”
 ------------------------------------------------------------------------
-- *rudrāv* \< *rudrau* \< *rudra*
+- *rudrāv* ← *rudrau* ← *rudra*
 - \[noun\], vocative, dual, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
@@ -79,7 +79,7 @@ title = "Rig Veda 8.22.14"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *khyatam* \< *khyā*
+- *khyatam* ← *khyā*
 - \[verb\], dual, Aorist imperative
 - “name; describe; call; enumerate; watch; know.”
 ------------------------------------------------------------------------

@@ -6,83 +6,83 @@ title = "Rig Veda 1.157.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ūrjaṃ* \< *ūrjam* \< *ūrj*
+- *ūrjaṃ* ← *ūrjam* ← *ūrj*
 - \[noun\], accusative, singular, feminine
 - “strength; refreshment; vigor; food; strengthening.”
 ------------------------------------------------------------------------
-- *vahatam* \< *vah*
+- *vahatam* ← *vah*
 - \[verb\], dual, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *yuvam* \< *tvad*
+- *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *madhumatyā* \< *madhumat*
+- *madhumatyā* ← *madhumat*
 - \[noun\], instrumental, singular, feminine
 - “sweet; honeyed; sweet; pleasant.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *kaśayā* \< *kaśā*
+- *kaśayā* ← *kaśā*
 - \[noun\], instrumental, singular, feminine
 - “whip.”
 ------------------------------------------------------------------------
-- *mimikṣatam* \< *mikṣ*
+- *mimikṣatam* ← *mikṣ*
 - \[verb\], dual, Perfect imperative
 - “season.”
 ------------------------------------------------------------------------
-- *prāyus* \< *pra*
+- *prāyus* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prāyus* \< *āyuḥ* \< *āyus*
+- *prāyus* ← *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------
-- *tāriṣṭaṃ* \< *tāriṣṭam* \< *tṛ*
+- *tāriṣṭaṃ* ← *tāriṣṭam* ← *tṛ*
 - \[verb\], dual, Aorist inj. (proh.)
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *nī* \< *niḥ*
+- *nī* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *rapāṃsi* \< *rapas*
+- *rapāṃsi* ← *rapas*
 - \[noun\], accusative, plural, neuter
 - “injury; disease; infirmity; damage.”
 ------------------------------------------------------------------------
-- *mṛkṣataṃ* \< *mṛkṣatam* \< *mṛj*
+- *mṛkṣataṃ* ← *mṛkṣatam* ← *mṛj*
 - \[verb\], dual, Aorist imperative
 - “purify; polish; rub; remove.”
 ------------------------------------------------------------------------
-- *sedhataṃ* \< *sedhatam* \< *sidh*
+- *sedhataṃ* ← *sedhatam* ← *sidh*
 - \[verb\], dual, Present imperative
 - “chase away; repel.”
 ------------------------------------------------------------------------
-- *dveṣo* \< *dveṣaḥ* \< *dveṣas*
+- *dveṣo* ← *dveṣaḥ* ← *dveṣas*
 - \[noun\], accusative, singular, neuter
 - “hostility; enemy.”
 ------------------------------------------------------------------------
-- *bhavataṃ* \< *bhavatam* \< *bhū*
+- *bhavataṃ* ← *bhavatam* ← *bhū*
 - \[verb\], dual, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *sacābhuvā* \< *sacābhū*
+- *sacābhuvā* ← *sacābhū*
 - \[noun\], nominative, dual, masculine
 - “ally.”
 ------------------------------------------------------------------------

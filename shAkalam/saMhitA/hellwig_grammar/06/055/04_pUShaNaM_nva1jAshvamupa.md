@@ -2,15 +2,15 @@
 title = "Rig Veda 6.55.4"
 
 +++
--   *pūṣaṇaṃ* \< *pūṣaṇam* \< *pūṣaṇa*
+-   *pūṣaṇaṃ* ← *pūṣaṇam* ← *pūṣaṇa*
 - \[noun\], accusative, singular, masculine
 - “Pushan; sun.”
 ------------------------------------------------------------------------
-- *nv* \< *nu*
+- *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *ajāśvam* \< *ajāśva*
+- *ajāśvam* ← *ajāśva*
 - \[noun\], accusative, singular, masculine
 - “Pushan.”
 ------------------------------------------------------------------------
@@ -18,27 +18,27 @@ title = "Rig Veda 6.55.4"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *stoṣāma* \< *stu*
+- *stoṣāma* ← *stu*
 - \[verb\], plural, Aorist conj./subj.
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *vājinam* \< *vājin*
+- *vājinam* ← *vājin*
 - \[noun\], accusative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------
-- *svasur* \< *svasuḥ* \< *svasṛ*
+- *svasur* ← *svasuḥ* ← *svasṛ*
 - \[noun\], genitive, singular, feminine
 - “sister; svasṛ \[word\].”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *jāra* \< *jāraḥ* \< *jāra*
+- *jāra* ← *jāraḥ* ← *jāra*
 - \[noun\], nominative, singular, masculine
 - “fancy man.”
 ------------------------------------------------------------------------
-- *ucyate* \< *vac*
+- *ucyate* ← *vac*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;

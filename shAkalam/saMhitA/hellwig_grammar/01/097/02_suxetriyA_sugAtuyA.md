@@ -15,7 +15,7 @@ title = "Rig Veda 1.97.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *yajāmahe* \< *yaj*
+- *yajāmahe* ← *yaj*
 - \[verb\], plural, Present indikative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
@@ -23,15 +23,15 @@ title = "Rig Veda 1.97.2"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śośucad* \< *śośucat* \< *śośuc* \< *√śuc*
+- *śośucad* ← *śośucat* ← *śośuc* ← *√śuc*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “blaze.”
 ------------------------------------------------------------------------
-- *agham* \< *agha*
+- *agham* ← *agha*
 - \[noun\], accusative, singular, neuter
 - “sin; evil; impurity; agha \[word\].”
 ------------------------------------------------------------------------

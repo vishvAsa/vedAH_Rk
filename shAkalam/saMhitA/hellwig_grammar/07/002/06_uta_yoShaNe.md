@@ -6,16 +6,16 @@ title = "Rig Veda 7.2.6"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *yoṣaṇe* \< *yoṣaṇā*
+- *yoṣaṇe* ← *yoṣaṇā*
 - \[noun\], nominative, dual, feminine
 - “girl; wife.”
 ------------------------------------------------------------------------
-- *divye* \< *divya*
+- *divye* ← *divya*
 - \[noun\], nominative, dual, feminine
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
 ------------------------------------------------------------------------
-- *mahī* \< *mahi*
+- *mahī* ← *mahi*
 - \[noun\], nominative, dual, feminine
 - “great; firm.”
 ------------------------------------------------------------------------
@@ -27,34 +27,34 @@ title = "Rig Veda 7.2.6"
 - \[noun\], nominative, singular, feminine
 - “dawn; night.”
 ------------------------------------------------------------------------
-- *sudugheva* \< *su*
+- *sudugheva* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudugheva* \< *dughā* \< *dugha*
+- *sudugheva* ← *dughā* ← *dugha*
 - \[noun\], nominative, singular, feminine
 - “yielding.”
 ------------------------------------------------------------------------
-- *sudugheva* \< *iva*
+- *sudugheva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *dhenuḥ* \< *dhenu*
+- *dhenuḥ* ← *dhenu*
 - \[noun\], nominative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *barhiṣadā* \< *barhiṣad*
+- *barhiṣadā* ← *barhiṣad*
 - \[noun\], nominative, dual, feminine
 ------------------------------------------------------------------------
-- *puruhūte* \< *puru*
+- *puruhūte* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *puruhūte* \< *hūte* \< *hvā*
+- *puruhūte* ← *hūte* ← *hvā*
 - \[verb noun\], nominative, dual
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *maghonī* \< *maghavan*
+- *maghonī* ← *maghavan*
 - \[noun\], nominative, dual, feminine
 - “big.”
 ------------------------------------------------------------------------
@@ -62,15 +62,15 @@ title = "Rig Veda 7.2.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yajñiye* \< *yajñiya*
+- *yajñiye* ← *yajñiya*
 - \[noun\], nominative, dual, feminine
 - “sacrificial; divine; devoted.”
 ------------------------------------------------------------------------
-- *suvitāya* \< *suvita*
+- *suvitāya* ← *suvita*
 - \[noun\], dative, singular, neuter
 - “prosperity; well-being.”
 ------------------------------------------------------------------------
-- *śrayetām* \< *śri*
+- *śrayetām* ← *śri*
 - \[verb\], dual, Present optative
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 ------------------------------------------------------------------------

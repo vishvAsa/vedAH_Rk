@@ -2,15 +2,15 @@
 title = "Rig Veda 9.72.1"
 
 +++
--   *harim* \< *hari*
+-   *harim* ← *hari*
 - \[noun\], accusative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
-- *mṛjanty* \< *mṛjanti* \< *mṛj*
+- *mṛjanty* ← *mṛjanti* ← *mṛj*
 - \[verb\], plural, Present indikative
 - “purify; polish; rub; remove.”
 ------------------------------------------------------------------------
-- *aruṣo* \< *aruṣaḥ* \< *aruṣa*
+- *aruṣo* ← *aruṣaḥ* ← *aruṣa*
 - \[noun\], nominative, singular, masculine
 - “red; red.”
 ------------------------------------------------------------------------
@@ -18,7 +18,7 @@ title = "Rig Veda 9.72.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yujyate* \< *yuj*
+- *yujyate* ← *yuj*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -26,23 +26,23 @@ title = "Rig Veda 9.72.1"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *dhenubhiḥ* \< *dhenu*
+- *dhenubhiḥ* ← *dhenu*
 - \[noun\], instrumental, plural, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *kalaśe* \< *kalaśa*
+- *kalaśe* ← *kalaśa*
 - \[noun\], locative, singular, masculine
 - “jar.”
 ------------------------------------------------------------------------
-- *somo* \< *somaḥ* \< *soma*
+- *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *ajyate* \< *añj*
+- *ajyate* ← *añj*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
@@ -50,27 +50,27 @@ title = "Rig Veda 9.72.1"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *vācam* \< *vāc*
+- *vācam* ← *vāc*
 - \[noun\], accusative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
 ------------------------------------------------------------------------
-- *īrayati* \< *īray* \< *√īr*
+- *īrayati* ← *īray* ← *√īr*
 - \[verb\], singular, Present indikative
 - “name; describe; propel; shoot; state; call; raise; expel; tell;
     enumerate.”
 ------------------------------------------------------------------------
-- *hinvate* \< *hi*
+- *hinvate* ← *hi*
 - \[verb\], plural, Present indikative
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
-- *matī* \< *mati*
+- *matī* ← *mati*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *puruṣṭutasya* \< *puruṣṭuta*
+- *puruṣṭutasya* ← *puruṣṭuta*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
 - *kati*
@@ -81,6 +81,6 @@ title = "Rig Veda 9.72.1"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *paripriyaḥ* \< *pariprī*
+- *paripriyaḥ* ← *pariprī*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------

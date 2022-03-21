@@ -6,11 +6,11 @@ title = "Rig Veda 1.70.10"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *naraḥ* \< *nṛ*
+- *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
@@ -18,11 +18,11 @@ title = "Rig Veda 1.70.10"
 - \[adverb\]
 - “distributively.”
 ------------------------------------------------------------------------
-- *saparyan* \< *sapary*
+- *saparyan* ← *sapary*
 - \[verb\], plural, Imperfect
 - “worship.”
 ------------------------------------------------------------------------
-- *pitur* \< *pituḥ* \< *pitṛ*
+- *pitur* ← *pituḥ* ← *pitṛ*
 - \[noun\], genitive, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
@@ -31,7 +31,7 @@ title = "Rig Veda 1.70.10"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *jivrer* \< *jivreḥ* \< *jivri*
+- *jivrer* ← *jivreḥ* ← *jivri*
 - \[noun\], genitive, singular, masculine
 - “old.”
 ------------------------------------------------------------------------
@@ -39,11 +39,11 @@ title = "Rig Veda 1.70.10"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vedo* \< *vedaḥ* \< *vedas*
+- *vedo* ← *vedaḥ* ← *vedas*
 - \[noun\], accusative, singular, neuter
 - “property.”
 ------------------------------------------------------------------------
-- *bharanta* \< *bhṛ*
+- *bharanta* ← *bhṛ*
 - \[verb\], plural, Present injunctive
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”

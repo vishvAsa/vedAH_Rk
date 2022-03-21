@@ -2,45 +2,45 @@
 title = "Rig Veda 7.32.8"
 
 +++
--   *sunotā* \< *sunota* \< *su*
+-   *sunotā* ← *sunota* ← *su*
 - \[verb\], plural, Present imperative
 - “press out; su.”
 ------------------------------------------------------------------------
-- *somapāvne* \< *soma*
+- *somapāvne* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somapāvne* \< *pāvne* \< *pāvan*
+- *somapāvne* ← *pāvne* ← *pāvan*
 - \[noun\], dative, singular, masculine
 - “drinking.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vajriṇe* \< *vajrin*
+- *vajriṇe* ← *vajrin*
 - \[noun\], dative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
 ------------------------------------------------------------------------
-- *pacatā* \< *pacata* \< *pac*
+- *pacatā* ← *pacata* ← *pac*
 - \[verb\], plural, Present imperative
 - “heat; cook; digest; boil; ripen; fester; burn; boil; cauterize;
     fry; cook; suppurate; inflame.”
 ------------------------------------------------------------------------
-- *paktīr* \< *paktīḥ* \< *pakti*
+- *paktīr* ← *paktīḥ* ← *pakti*
 - \[noun\], accusative, plural, feminine
 - “digestion; food.”
 ------------------------------------------------------------------------
-- *avase* \< *av*
+- *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *kṛṇudhvam* \< *kṛ*
+- *kṛṇudhvam* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -51,24 +51,24 @@ title = "Rig Veda 7.32.8"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *pṛṇann* \< *pṛṇan* \< *pṛṇ*
+- *pṛṇann* ← *pṛṇan* ← *pṛṇ*
 - \[verb noun\], nominative, singular
 - “satisfy.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *pṛṇate* \< *pṛ*
+- *pṛṇate* ← *pṛ*
 - \[verb noun\], dative, singular
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
 ------------------------------------------------------------------------
-- *mayaḥ* \< *mayas*
+- *mayaḥ* ← *mayas*
 - \[noun\], nominative, singular, neuter
 - “pleasure; refreshment.”
 ------------------------------------------------------------------------

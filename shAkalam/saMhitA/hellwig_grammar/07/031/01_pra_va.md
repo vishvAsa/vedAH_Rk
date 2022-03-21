@@ -6,36 +6,36 @@ title = "Rig Veda 7.31.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *mādanaṃ* \< *mādanam* \< *mādana*
+- *mādanaṃ* ← *mādanam* ← *mādana*
 - \[noun\], accusative, singular, neuter
 - “exhilarating; intoxicant.”
 ------------------------------------------------------------------------
-- *haryaśvāya* \< *haryaśva*
+- *haryaśvāya* ← *haryaśva*
 - \[noun\], dative, singular, masculine
 - “Indra; Haryaśva.”
 ------------------------------------------------------------------------
-- *gāyata* \< *gā*
+- *gāyata* ← *gā*
 - \[verb\], plural, Present imperative
 - “sing; praise; jap; recite; describe.”
 ------------------------------------------------------------------------
-- *sakhāyaḥ* \< *sakhi*
+- *sakhāyaḥ* ← *sakhi*
 - \[noun\], nominative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *somapāvne* \< *soma*
+- *somapāvne* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somapāvne* \< *pāvne* \< *pāvan*
+- *somapāvne* ← *pāvne* ← *pāvan*
 - \[noun\], dative, singular, masculine
 - “drinking.”
 ------------------------------------------------------------------------

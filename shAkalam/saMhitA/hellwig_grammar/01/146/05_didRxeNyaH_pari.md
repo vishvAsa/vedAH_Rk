@@ -2,34 +2,34 @@
 title = "Rig Veda 1.146.5"
 
 +++
--   *didṛkṣeṇyaḥ* \< *didṛkṣeṇya*
+-   *didṛkṣeṇyaḥ* ← *didṛkṣeṇya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *pari*
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *kāṣṭhāsu* \< *kāṣṭhā*
+- *kāṣṭhāsu* ← *kāṣṭhā*
 - \[noun\], locative, plural, feminine
 - “kāṣṭhā; quarter; body of water.”
 ------------------------------------------------------------------------
-- *jenya* \< *jenyaḥ* \< *jenya*
+- *jenya* ← *jenyaḥ* ← *jenya*
 - \[noun\], nominative, singular, masculine
 - “noble.”
 ------------------------------------------------------------------------
-- *īﾱenyo* \< *īḍenyaḥ* \< *īḍ*
+- *īﾱenyo* ← *īḍenyaḥ* ← *īḍ*
 - \[verb noun\], nominative, singular
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
-- *maho* \< *mahaḥ* \< *mah*
+- *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *arbhāya* \< *arbha*
+- *arbhāya* ← *arbha*
 - \[noun\], dative, singular, masculine
 - “few; small; unimportant.”
 ------------------------------------------------------------------------
-- *jīvase* \< *jīv*
+- *jīvase* ← *jīv*
 - \[verb noun\]
 - “survive; be; exist; live on; dwell.”
 ------------------------------------------------------------------------
@@ -37,45 +37,45 @@ title = "Rig Veda 1.146.5"
 - \[adverb\]
 - “distributively.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *abhavat* \< *bhū*
+- *abhavat* ← *bhū*
 - \[verb\], singular, Imperfect
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *sūr* \< *sūḥ* \< *sū*
+- *sūr* ← *sūḥ* ← *sū*
 - \[noun\], nominative, singular, feminine
 - “sū; mother.”
 ------------------------------------------------------------------------
-- *ahaibhyo* \< *aha*
+- *ahaibhyo* ← *aha*
 - \[adverb\]
 - “aha \[word\]; indeed.”
 ------------------------------------------------------------------------
-- *ahaibhyo* \< *ebhyaḥ* \< *idam*
+- *ahaibhyo* ← *ebhyaḥ* ← *idam*
 - \[noun\], dative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *garbhebhyo* \< *garbhebhyaḥ* \< *garbha*
+- *garbhebhyo* ← *garbhebhyaḥ* ← *garbha*
 - \[noun\], dative, plural, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
 ------------------------------------------------------------------------
-- *maghavā* \< *maghavan*
+- *maghavā* ← *maghavan*
 - \[noun\], nominative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *viśvadarśataḥ* \< *viśva*
+- *viśvadarśataḥ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvadarśataḥ* \< *darśataḥ* \< *darśata*
+- *viśvadarśataḥ* ← *darśataḥ* ← *darśata*
 - \[noun\], nominative, singular, masculine
 - “beautiful; visible; beautiful.”
 ------------------------------------------------------------------------

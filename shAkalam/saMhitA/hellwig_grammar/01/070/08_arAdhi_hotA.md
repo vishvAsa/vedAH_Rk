@@ -2,11 +2,11 @@
 title = "Rig Veda 1.70.8"
 
 +++
--   *arādhi* \< *rādh*
+-   *arādhi* ← *rādh*
 - \[verb\], singular, Aorist passive
 - “thrive; boom; succeed.”
 ------------------------------------------------------------------------
-- *hotā* \< *hotṛ*
+- *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
@@ -14,11 +14,11 @@ title = "Rig Veda 1.70.8"
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *niṣattaḥ* \< *niṣad* \< *√sad*
+- *niṣattaḥ* ← *niṣad* ← *√sad*
 - \[verb noun\], nominative, singular
 - “sit down; sit; put.”
 ------------------------------------------------------------------------
-- *kṛṇvan* \< *kṛ*
+- *kṛṇvan* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -29,16 +29,16 @@ title = "Rig Veda 1.70.8"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *viśvāny* \< *viśvāni* \< *viśva*
+- *viśvāny* ← *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *apāṃsi* \< *apas*
+- *apāṃsi* ← *apas*
 - \[noun\], accusative, plural, neuter
 - “work; deed.”
 ------------------------------------------------------------------------
-- *satyā* \< *satya*
+- *satyā* ← *satya*
 - \[noun\], accusative, plural, neuter
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------

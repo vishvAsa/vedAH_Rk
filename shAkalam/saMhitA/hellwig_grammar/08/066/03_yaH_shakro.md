@@ -2,22 +2,22 @@
 title = "Rig Veda 8.66.3"
 
 +++
--   *yaḥ* \< *yad*
+-   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *śakro* \< *śakraḥ* \< *śakra*
+- *śakro* ← *śakraḥ* ← *śakra*
 - \[noun\], nominative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *mṛkṣo* \< *mṛkṣaḥ* \< *mṛkṣa*
+- *mṛkṣo* ← *mṛkṣaḥ* ← *mṛkṣa*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *aśvyo* \< *aśvyaḥ* \< *aśvya*
+- *aśvyo* ← *aśvyaḥ* ← *aśvya*
 - \[noun\], nominative, singular, masculine
 - “equine.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -25,40 +25,40 @@ title = "Rig Veda 8.66.3"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *kījo* \< *kījaḥ* \< *kīja*
+- *kījo* ← *kījaḥ* ← *kīja*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *hiraṇyayaḥ* \< *hiraṇyaya*
+- *hiraṇyayaḥ* ← *hiraṇyaya*
 - \[noun\], nominative, singular, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
 ------------------------------------------------------------------------
-- *sa* \< *saḥ* \< *tad*
+- *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ūrvasya* \< *ūrva*
+- *ūrvasya* ← *ūrva*
 - \[noun\], genitive, singular, masculine
 - “pen; Aurva; ocean.”
 ------------------------------------------------------------------------
-- *rejayaty* \< *rejayati* \< *rejay* \< *√rej*
+- *rejayaty* ← *rejayati* ← *rejay* ← *√rej*
 - \[verb\], singular, Present indikative
 - “shake.”
 ------------------------------------------------------------------------
-- *apāvṛtim* \< *apāvṛti*
+- *apāvṛtim* ← *apāvṛti*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *gavyasya* \< *gavya*
+- *gavyasya* ← *gavya*
 - \[noun\], genitive, singular, masculine
 - “bovine.”
 ------------------------------------------------------------------------
-- *vṛtrahā* \< *vṛtrahan*
+- *vṛtrahā* ← *vṛtrahan*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------

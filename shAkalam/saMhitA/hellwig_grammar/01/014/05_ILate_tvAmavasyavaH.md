@@ -2,33 +2,33 @@
 title = "Rig Veda 1.14.5"
 
 +++
--   *īḍate* \< *īḍ*
+-   *īḍate* ← *īḍ*
 - \[verb\], plural, Present indikative
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
-- *tvām* \< *tvad*
+- *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *avasyavaḥ* \< *avasyu*
+- *avasyavaḥ* ← *avasyu*
 - \[noun\], nominative, plural, masculine
 - “seeking protection; helpless.”
 ------------------------------------------------------------------------
-- *kaṇvāso* \< *kaṇvāsaḥ* \< *kaṇva*
+- *kaṇvāso* ← *kaṇvāsaḥ* ← *kaṇva*
 - \[noun\], nominative, plural, masculine
 - “Kaṇva; Kaṇva; kaṇva \[word\].”
 ------------------------------------------------------------------------
-- *vṛktabarhiṣaḥ* \< *vṛkta* \< *vṛj*
+- *vṛktabarhiṣaḥ* ← *vṛkta* ← *vṛj*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *vṛktabarhiṣaḥ* \< *barhiṣaḥ* \< *barhis*
+- *vṛktabarhiṣaḥ* ← *barhiṣaḥ* ← *barhis*
 - \[noun\], nominative, plural, masculine
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *haviṣmanto* \< *haviṣmantaḥ* \< *haviṣmat*
+- *haviṣmanto* ← *haviṣmantaḥ* ← *haviṣmat*
 - \[noun\], nominative, plural, masculine
 - “sacrificing.”
 ------------------------------------------------------------------------
-- *araṅkṛtaḥ* \< *araṃkṛt*
+- *araṅkṛtaḥ* ← *araṃkṛt*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------

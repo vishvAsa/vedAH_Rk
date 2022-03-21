@@ -6,39 +6,39 @@ title = "Rig Veda 10.115.9"
 - \[adverb\]
 - “thus; so; iti \[word\].”
 ------------------------------------------------------------------------
-- *tvāgne* \< *tvā* \< *tvad*
+- *tvāgne* ← *tvā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tvāgne* \< *agne* \< *agni*
+- *tvāgne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *vṛṣṭihavyasya* \< *vṛṣṭihavya*
+- *vṛṣṭihavyasya* ← *vṛṣṭihavya*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *putrā* \< *putrāḥ* \< *putra*
+- *putrā* ← *putrāḥ* ← *putra*
 - \[noun\], nominative, plural, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
-- *upastutāsa* \< *upastutāsaḥ* \< *upastuta*
+- *upastutāsa* ← *upastutāsaḥ* ← *upastuta*
 - \[noun\], nominative, plural, masculine
 - “Upastuta.”
 ------------------------------------------------------------------------
-- *ṛṣayo* \< *ṛṣayaḥ* \< *ṛṣi*
+- *ṛṣayo* ← *ṛṣayaḥ* ← *ṛṣi*
 - \[noun\], nominative, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *'vocan* \< *avocan* \< *vac*
+- *'vocan* ← *avocan* ← *vac*
 - \[verb\], plural, Thematic aorist (Ind.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
 ------------------------------------------------------------------------
-- *tāṃś* \< *tān* \< *tad*
+- *tāṃś* ← *tān* ← *tad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -48,11 +48,11 @@ title = "Rig Veda 10.115.9"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *gṛṇataś* \< *gṛṇataḥ* \< *gṛ*
+- *gṛṇataś* ← *gṛṇataḥ* ← *gṛ*
 - \[verb noun\], accusative, plural
 - “praise.”
 ------------------------------------------------------------------------
@@ -60,49 +60,49 @@ title = "Rig Veda 10.115.9"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *sūrīn* \< *sūri*
+- *sūrīn* ← *sūri*
 - \[noun\], accusative, plural, masculine
 - “priest.”
 ------------------------------------------------------------------------
-- *vaṣaḍ* \< *vaṣaṭ*
+- *vaṣaḍ* ← *vaṣaṭ*
 - \[adverb\]
 - “vaṣaṭ!; vaṣat \[word\].”
 ------------------------------------------------------------------------
-- *vaṣaḍ* \< *vaṣaṭ*
+- *vaṣaḍ* ← *vaṣaṭ*
 - \[adverb\]
 - “vaṣaṭ!; vaṣat \[word\].”
 ------------------------------------------------------------------------
-- *ity* \< *iti*
+- *ity* ← *iti*
 - \[adverb\]
 - “thus; so; iti \[word\].”
 ------------------------------------------------------------------------
-- *ūrdhvāso* \< *ūrdhvāsaḥ* \< *ūrdhva*
+- *ūrdhvāso* ← *ūrdhvāsaḥ* ← *ūrdhva*
 - \[noun\], nominative, plural, masculine
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
 ------------------------------------------------------------------------
-- *anakṣan* \< *nakṣ*
+- *anakṣan* ← *nakṣ*
 - \[verb\], plural, Imperfect
 - “reach; approach.”
 ------------------------------------------------------------------------
-- *namo* \< *namaḥ* \< *namas*
+- *namo* ← *namaḥ* ← *namas*
 - \[noun\], nominative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *nama* \< *namaḥ* \< *namas*
+- *nama* ← *namaḥ* ← *namas*
 - \[noun\], nominative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *ity* \< *iti*
+- *ity* ← *iti*
 - \[adverb\]
 - “thus; so; iti \[word\].”
 ------------------------------------------------------------------------
-- *ūrdhvāso* \< *ūrdhvāsaḥ* \< *ūrdhva*
+- *ūrdhvāso* ← *ūrdhvāsaḥ* ← *ūrdhva*
 - \[noun\], nominative, plural, masculine
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
 ------------------------------------------------------------------------
-- *anakṣan* \< *nakṣ*
+- *anakṣan* ← *nakṣ*
 - \[verb\], plural, Imperfect
 - “reach; approach.”
 ------------------------------------------------------------------------

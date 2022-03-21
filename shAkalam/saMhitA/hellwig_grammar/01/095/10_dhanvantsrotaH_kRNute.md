@@ -6,12 +6,12 @@ title = "Rig Veda 1.95.10"
 - \[noun\], locative, singular, neuter
 - “bow; desert; steppe; barren.”
 ------------------------------------------------------------------------
-- *srotaḥ* \< *srotas*
+- *srotaḥ* ← *srotas*
 - \[noun\], nominative, singular, neuter
 - “srotas; vessel; current; torrent; srotas \[word\]; flow; cavity;
     orifice; passage; tube.”
 ------------------------------------------------------------------------
-- *kṛṇute* \< *kṛ*
+- *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -22,19 +22,19 @@ title = "Rig Veda 1.95.10"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *gātum* \< *gātu*
+- *gātum* ← *gātu*
 - \[noun\], accusative, singular, masculine
 - “path; way.”
 ------------------------------------------------------------------------
-- *ūrmiṃ* \< *ūrmim* \< *ūrmi*
+- *ūrmiṃ* ← *ūrmim* ← *ūrmi*
 - \[noun\], accusative, singular, masculine
 - “wave; billow.”
 ------------------------------------------------------------------------
-- *śukrair* \< *śukraiḥ* \< *śukra*
+- *śukrair* ← *śukraiḥ* ← *śukra*
 - \[noun\], instrumental, plural, masculine
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *ūrmibhir* \< *ūrmibhiḥ* \< *ūrmi*
+- *ūrmibhir* ← *ūrmibhiḥ* ← *ūrmi*
 - \[noun\], instrumental, plural, masculine
 - “wave; billow.”
 ------------------------------------------------------------------------
@@ -42,48 +42,48 @@ title = "Rig Veda 1.95.10"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *nakṣati* \< *nakṣ*
+- *nakṣati* ← *nakṣ*
 - \[verb\], singular, Present indikative
 - “reach; approach.”
 ------------------------------------------------------------------------
-- *kṣām* \< *kṣā*
+- *kṣām* ← *kṣā*
 - \[noun\], accusative, singular, feminine
 - “Earth; Earth.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *sanāni* \< *sana*
+- *sanāni* ← *sana*
 - \[noun\], accusative, plural, neuter
 - “age-old; ancient.”
 ------------------------------------------------------------------------
-- *jaṭhareṣu* \< *jaṭhara*
+- *jaṭhareṣu* ← *jaṭhara*
 - \[noun\], locative, plural, neuter
 - “abdomen; udara; Jaṭhara; edema; garbha; inside; stomach; belly.”
 ------------------------------------------------------------------------
-- *dhatte* \< *dhā*
+- *dhatte* ← *dhā*
 - \[verb\], singular, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *'ntar* \< *antar*
+- *'ntar* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *navāsu* \< *nava*
+- *navāsu* ← *nava*
 - \[noun\], locative, plural, feminine
 - “new; fresh; young; matutinal; recent; nava \[word\]; modern;
     fresh.”
 ------------------------------------------------------------------------
-- *carati* \< *car*
+- *carati* ← *car*
 - \[verb\], singular, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *prasūṣu* \< *prasū*
+- *prasūṣu* ← *prasū*
 - \[noun\], locative, plural, feminine
 - “mother; grass.”
 ------------------------------------------------------------------------

@@ -2,15 +2,15 @@
 title = "Rig Veda 3.41.8"
 
 +++
--   *māre* \< *mā*
+-   *māre* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *māre* \< *āre*
+- *māre* ← *āre*
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *asmad* \< *asmat* \< *mad*
+- *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -18,7 +18,7 @@ title = "Rig Veda 3.41.8"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *mumuco* \< *mumucaḥ* \< *muc*
+- *mumuco* ← *mumucaḥ* ← *muc*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
     fill into; shoot; spill; lose; ejaculate; exclude; free; remove;
@@ -26,21 +26,21 @@ title = "Rig Veda 3.41.8"
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
 ------------------------------------------------------------------------
-- *haripriyārvāṅ* \< *hari*
+- *haripriyārvāṅ* ← *hari*
 - \[noun\], masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *haripriyārvāṅ* \< *priya*
+- *haripriyārvāṅ* ← *priya*
 - \[noun\], vocative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *haripriyārvāṅ* \< *arvāṅ* \< *arvāñc*
+- *haripriyārvāṅ* ← *arvāṅ* ← *arvāñc*
 - \[noun\], nominative, singular, masculine
 - “approaching; facing; less.”
 ------------------------------------------------------------------------
-- *yāhi* \< *yā*
+- *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
@@ -50,15 +50,15 @@ title = "Rig Veda 3.41.8"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *svadhāvo* \< *svadhāvas* \< *svadhāvat*
+- *svadhāvo* ← *svadhāvas* ← *svadhāvat*
 - \[noun\], vocative, singular, masculine
 - “autonomous; independent.”
 ------------------------------------------------------------------------
-- *matsveha* \< *matsva* \< *mad*
+- *matsveha* ← *matsva* ← *mad*
 - \[verb\], singular, Aorist imperative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *matsveha* \< *iha*
+- *matsveha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------

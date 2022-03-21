@@ -6,16 +6,16 @@ title = "Rig Veda 10.85.47"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *añjantu* \< *añj*
+- *añjantu* ← *añj*
 - \[verb\], plural, Present imperative
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *viśve* \< *viśva*
+- *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *devāḥ* \< *deva*
+- *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -24,16 +24,16 @@ title = "Rig Veda 10.85.47"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *āpo* \< *āpaḥ* \< *ap*
+- *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, neuter
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *hṛdayāni* \< *hṛdaya*
+- *hṛdayāni* ← *hṛdaya*
 - \[noun\], accusative, plural, neuter
 - “heart; heart; mind; hṛdaya \[word\]; science; thorax;
     Aṣṭāṅgahṛdayasaṃhitā; soul.”
 ------------------------------------------------------------------------
-- *nau* \< *mad*
+- *nau* ← *mad*
 - \[noun\], genitive, dual
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -41,15 +41,15 @@ title = "Rig Veda 10.85.47"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *mātariśvā* \< *mātariśvan*
+- *mātariśvā* ← *mātariśvan*
 - \[noun\], nominative, singular, masculine
 - “wind; Mātariśvan; Vayu; vāta.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *dhātā* \< *dhātṛ*
+- *dhātā* ← *dhātṛ*
 - \[noun\], nominative, singular, masculine
 - “Brahma; Dhātṛ; creator; Dhātṛ.”
 ------------------------------------------------------------------------
@@ -64,12 +64,12 @@ title = "Rig Veda 10.85.47"
 - *deṣṭrī*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *dadhātu* \< *dhā*
+- *dadhātu* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *nau* \< *mad*
+- *nau* ← *mad*
 - \[noun\], accusative, dual
 - “I; mine.”
 ------------------------------------------------------------------------

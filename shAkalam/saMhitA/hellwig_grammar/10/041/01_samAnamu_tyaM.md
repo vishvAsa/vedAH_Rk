@@ -2,7 +2,7 @@
 title = "Rig Veda 10.41.1"
 
 +++
--   *samānam* \< *samāna*
+-   *samānam* ← *samāna*
 - \[noun\], accusative, singular, masculine
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
@@ -11,68 +11,68 @@ title = "Rig Veda 10.41.1"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tyam* \< *tya*
+- *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *puruhūtam* \< *puru*
+- *puruhūtam* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *puruhūtam* \< *hūtam* \< *hvā*
+- *puruhūtam* ← *hūtam* ← *hvā*
 - \[verb noun\], accusative, singular
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *ukthyaṃ* \< *ukthyam* \< *ukthya*
+- *ukthyaṃ* ← *ukthyam* ← *ukthya*
 - \[noun\], accusative, singular, masculine
 - “applaudable.”
 ------------------------------------------------------------------------
-- *rathaṃ* \< *ratham* \< *ratha*
+- *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *tricakraṃ* \< *tri*
+- *tricakraṃ* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *tricakraṃ* \< *cakram* \< *cakra*
+- *tricakraṃ* ← *cakram* ← *cakra*
 - \[noun\], accusative, singular, masculine
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
 ------------------------------------------------------------------------
-- *savanā* \< *savana*
+- *savanā* ← *savana*
 - \[noun\], accusative, plural, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
-- *ganigmatam* \< *ganīgam* \< *√gam*
+- *ganigmatam* ← *ganīgam* ← *√gam*
 - \[verb noun\], accusative, singular
 - “return.”
 ------------------------------------------------------------------------
-- *parijmānaṃ* \< *parijmānam* \< *parijman*
+- *parijmānaṃ* ← *parijmānam* ← *parijman*
 - \[noun\], accusative, singular, masculine
 - “encompassing(a).”
 ------------------------------------------------------------------------
-- *vidathyaṃ* \< *vidathyam* \< *vidathya*
+- *vidathyaṃ* ← *vidathyam* ← *vidathya*
 - \[noun\], accusative, singular, masculine
 - “wise.”
 ------------------------------------------------------------------------
-- *suvṛktibhir* \< *suvṛktibhiḥ* \< *suvṛkti*
+- *suvṛktibhir* ← *suvṛktibhiḥ* ← *suvṛkti*
 - \[noun\], instrumental, plural, feminine
 - “praise.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vyuṣṭā* \< *vyuṣṭau* \< *vyuṣṭi*
+- *vyuṣṭā* ← *vyuṣṭau* ← *vyuṣṭi*
 - \[noun\], locative, singular, feminine
 - “dawn; happiness; consequence.”
 ------------------------------------------------------------------------
-- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], genitive, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *havāmahe* \< *hvā*
+- *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------

@@ -6,40 +6,40 @@ title = "Rig Veda 9.71.7"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *vyakto* \< *vyaktaḥ* \< *vyañj* \< *√añj*
+- *vyakto* ← *vyaktaḥ* ← *vyañj* ← *√añj*
 - \[verb noun\], nominative, singular
 - “decorate; fan; anoint.”
 ------------------------------------------------------------------------
-- *aruṣo* \< *aruṣaḥ* \< *aruṣa*
+- *aruṣo* ← *aruṣaḥ* ← *aruṣa*
 - \[noun\], nominative, singular, masculine
 - “red; red.”
 ------------------------------------------------------------------------
-- *divaḥ* \< *div*
+- *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *kavir* \< *kaviḥ* \< *kavi*
+- *kavir* ← *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣan*
+- *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *tripṛṣṭho* \< *tri*
+- *tripṛṣṭho* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *tripṛṣṭho* \< *pṛṣṭhaḥ* \< *pṛṣṭha*
+- *tripṛṣṭho* ← *pṛṣṭhaḥ* ← *pṛṣṭha*
 - \[noun\], nominative, singular, masculine
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
 ------------------------------------------------------------------------
-- *anaviṣṭa* \< *nu*
+- *anaviṣṭa* ← *nu*
 - \[verb\], singular, Athematic is aor. (Ind.)
 ------------------------------------------------------------------------
-- *gā* \< *gāḥ* \< *go*
+- *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -48,18 +48,18 @@ title = "Rig Veda 9.71.7"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *sahasraṇītir* \< *sahasraṇītiḥ* \< *sahasraṇīti*
+- *sahasraṇītir* ← *sahasraṇītiḥ* ← *sahasraṇīti*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *yatiḥ* \< *yati*
+- *yatiḥ* ← *yati*
 - \[noun\], nominative, singular, masculine
 - “ascetic; Yati.”
 ------------------------------------------------------------------------
-- *parāyatī* \< *pare* \< *√i*
+- *parāyatī* ← *pare* ← *√i*
 - \[verb noun\], nominative, singular
 - “travel; depart; go; die.”
 ------------------------------------------------------------------------
-- *rebho* \< *rebhaḥ* \< *rebha*
+- *rebho* ← *rebhaḥ* ← *rebha*
 - \[noun\], nominative, singular, masculine
 - “bard; eulogist.”
 ------------------------------------------------------------------------
@@ -67,13 +67,13 @@ title = "Rig Veda 9.71.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pūrvīr* \< *pūrvīḥ* \< *pūrva*
+- *pūrvīr* ← *pūrvīḥ* ← *pūrva*
 - \[noun\], accusative, plural, feminine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], accusative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
@@ -81,7 +81,7 @@ title = "Rig Veda 9.71.7"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *rājati* \< *rāj*
+- *rājati* ← *rāj*
 - \[verb\], singular, Present indikative
 - “govern; shine; glitter; direct.”
 ------------------------------------------------------------------------

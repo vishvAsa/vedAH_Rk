@@ -2,19 +2,19 @@
 title = "Rig Veda 9.32.4"
 
 +++
--   *ubhe* \< *ubh*
+-   *ubhe* ← *ubh*
 - \[noun\], accusative, dual, feminine
 - “both(a).”
 ------------------------------------------------------------------------
-- *somāvacākaśan* \< *soma*
+- *somāvacākaśan* ← *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somāvacākaśan* \< *avacākaśan* \< *avacākaś* \< *√kāś*
+- *somāvacākaśan* ← *avacākaśan* ← *avacākaś* ← *√kāś*
 - \[verb noun\], nominative, singular
 - “look.”
 ------------------------------------------------------------------------
-- *mṛgo* \< *mṛgaḥ* \< *mṛga*
+- *mṛgo* ← *mṛgaḥ* ← *mṛga*
 - \[noun\], nominative, singular, masculine
 - “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
 ------------------------------------------------------------------------
@@ -22,23 +22,23 @@ title = "Rig Veda 9.32.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *takto* \< *taktaḥ* \< *tak*
+- *takto* ← *taktaḥ* ← *tak*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *arṣasi* \< *ṛṣ*
+- *arṣasi* ← *ṛṣ*
 - \[verb\], singular, Present indikative
 - “run.”
 ------------------------------------------------------------------------
-- *sīdann* \< *sīdan* \< *sad*
+- *sīdann* ← *sīdan* ← *sad*
 - \[verb noun\], nominative, singular
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *yonim* \< *yoni*
+- *yonim* ← *yoni*
 - \[noun\], accusative, singular, feminine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;

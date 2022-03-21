@@ -2,11 +2,11 @@
 title = "Rig Veda 8.24.16"
 
 +++
--   *ed* \< *ā*
+-   *ed* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *ed* \< *id*
+- *ed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -14,30 +14,30 @@ title = "Rig Veda 8.24.16"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *madhvo* \< *madhvaḥ* \< *madhu*
+- *madhvo* ← *madhvaḥ* ← *madhu*
 - \[noun\], ablative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *madintaraṃ* \< *madintaram* \< *madintara*
+- *madintaraṃ* ← *madintaram* ← *madintara*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *siñca* \< *sic*
+- *siñca* ← *sic*
 - \[verb\], singular, Present imperative
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 ------------------------------------------------------------------------
-- *vādhvaryo* \< *vā*
+- *vādhvaryo* ← *vā*
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *vādhvaryo* \< *adhvaryo* \< *adhvaryu*
+- *vādhvaryo* ← *adhvaryo* ← *adhvaryu*
 - \[noun\], vocative, singular, masculine
 - “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
 ------------------------------------------------------------------------
-- *andhasaḥ* \< *andhas*
+- *andhasaḥ* ← *andhas*
 - \[noun\], genitive, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
-- *evā* \< *eva*
+- *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
@@ -50,10 +50,10 @@ title = "Rig Veda 8.24.16"
 - \[noun\], vocative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *stavate* \< *stu*
+- *stavate* ← *stu*
 - \[verb\], singular, Present indikative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *sadāvṛdhaḥ* \< *sadāvṛdha*
+- *sadāvṛdhaḥ* ← *sadāvṛdha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

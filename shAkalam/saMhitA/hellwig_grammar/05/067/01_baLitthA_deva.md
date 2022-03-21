@@ -2,7 +2,7 @@
 title = "Rig Veda 5.67.1"
 
 +++
--   *baﾱ* \< *baṭ*
+-   *baﾱ* ← *baṭ*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *itthā*
@@ -14,15 +14,15 @@ title = "Rig Veda 5.67.1"
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *niṣkṛtam* \< *niṣkṛta*
+- *niṣkṛtam* ← *niṣkṛta*
 - \[noun\], accusative, singular, neuter
 - “place; rendezvous.”
 ------------------------------------------------------------------------
-- *ādityā* \< *āditya*
+- *ādityā* ← *āditya*
 - \[noun\], vocative, dual, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
-- *yajatam* \< *yajata*
+- *yajatam* ← *yajata*
 - \[noun\], accusative, singular, neuter
 - “holy; august; sacrificial.”
 ------------------------------------------------------------------------
@@ -36,23 +36,23 @@ title = "Rig Veda 5.67.1"
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *mitrāryaman* \< *mitra*
+- *mitrāryaman* ← *mitra*
 - \[noun\], vocative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *mitrāryaman* \< *aryaman*
+- *mitrāryaman* ← *aryaman*
 - \[noun\], vocative, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
 ------------------------------------------------------------------------
-- *varṣiṣṭhaṃ* \< *varṣiṣṭham* \< *varṣiṣṭha*
+- *varṣiṣṭhaṃ* ← *varṣiṣṭham* ← *varṣiṣṭha*
 - \[noun\], accusative, singular, neuter
 - “highest.”
 ------------------------------------------------------------------------
-- *kṣatram* \< *kṣatra*
+- *kṣatram* ← *kṣatra*
 - \[noun\], accusative, singular, neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
 ------------------------------------------------------------------------
-- *āśāthe* \< *aś*
+- *āśāthe* ← *aś*
 - \[verb\], dual, Perfect indicative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------

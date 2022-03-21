@@ -2,27 +2,27 @@
 title = "Rig Veda 1.34.7"
 
 +++
--   *trir* \< *tris*
+-   *trir* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *yajatā* \< *yajata*
+- *yajatā* ← *yajata*
 - \[noun\], vocative, dual, masculine
 - “holy; august; sacrificial.”
 ------------------------------------------------------------------------
-- *dive* \< *diva*
+- *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
 ------------------------------------------------------------------------
-- *dive* \< *diva*
+- *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
 ------------------------------------------------------------------------
@@ -30,58 +30,58 @@ title = "Rig Veda 1.34.7"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *tridhātu* \< *tri*
+- *tridhātu* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *tridhātu* \< *dhātu*
+- *tridhātu* ← *dhātu*
 - \[noun\], accusative, singular, neuter
 - “mineral; dhātu; saptadhātu; Sanskrit verbal root; etymon; aṣṭaloha;
     mahābhūta; gairika; component; navadhātu; svarṇamākṣika; doṣa;
     inorganic compound.”
 ------------------------------------------------------------------------
-- *pṛthivīm* \< *pṛthivī*
+- *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *aśāyatam* \< *śī*
+- *aśāyatam* ← *śī*
 - \[verb\], dual, Imperfect
 - “lie; sleep.”
 ------------------------------------------------------------------------
-- *tisro* \< *tisraḥ* \< *tri*
+- *tisro* ← *tisraḥ* ← *tri*
 - \[noun\], accusative, plural, feminine
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *nāsatyā* \< *nāsatya*
+- *nāsatyā* ← *nāsatya*
 - \[noun\], vocative, dual, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *rathyā* \< *rathya*
+- *rathyā* ← *rathya*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *parāvata* \< *parāvataḥ* \< *parāvat*
+- *parāvata* ← *parāvataḥ* ← *parāvat*
 - \[noun\], accusative, plural, feminine
 - “distance; distance; distance.”
 ------------------------------------------------------------------------
-- *ātmeva* \< *ātmā* \< *ātman*
+- *ātmeva* ← *ātmā* ← *ātman*
 - \[noun\], nominative, singular, masculine
 - “self; nature; Ātman; mind; soul; self; body; character; ātman
     \[word\]; person; life; peculiarity.”
 ------------------------------------------------------------------------
-- *ātmeva* \< *iva*
+- *ātmeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *vātaḥ* \< *vāta*
+- *vātaḥ* ← *vāta*
 - \[noun\], nominative, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *svasarāṇi* \< *svasara*
+- *svasarāṇi* ← *svasara*
 - \[noun\], accusative, plural, neuter
 - “pasture; stall.”
 ------------------------------------------------------------------------
-- *gacchatam* \< *gam*
+- *gacchatam* ← *gam*
 - \[verb\], dual, Present imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

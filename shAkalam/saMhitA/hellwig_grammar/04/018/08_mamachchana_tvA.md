@@ -2,82 +2,82 @@
 title = "Rig Veda 4.18.8"
 
 +++
--   *mamac* \< *mamat*
+-   *mamac* ← *mamat*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *yuvatiḥ* \< *yuvati*
+- *yuvatiḥ* ← *yuvati*
 - \[noun\], nominative, singular, feminine
 - “girl; woman.”
 ------------------------------------------------------------------------
-- *parāsa* \< *parās* \< *√as*
+- *parāsa* ← *parās* ← *√as*
 - \[verb\], singular, Perfect indicative
 ------------------------------------------------------------------------
-- *mamac* \< *mamat*
+- *mamac* ← *mamat*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
 - *kuṣavā*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *jagāra* \< *gṛ*
+- *jagāra* ← *gṛ*
 - \[verb\], singular, Perfect indicative
 - “devour; swallow; surround.”
 ------------------------------------------------------------------------
-- *mamac* \< *mamat*
+- *mamac* ← *mamat*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *āpaḥ* \< *ap*
+- *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *śiśave* \< *śiśu*
+- *śiśave* ← *śiśu*
 - \[noun\], dative, singular, masculine
 - “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
 ------------------------------------------------------------------------
-- *mamṛḍyur* \< *mamṛḍyuḥ* \< *mṛḍ*
+- *mamṛḍyur* ← *mamṛḍyuḥ* ← *mṛḍ*
 - \[verb\], plural, Perfect optative
 - “pardon.”
 ------------------------------------------------------------------------
-- *mamac* \< *mamat*
+- *mamac* ← *mamat*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sahasod* \< *sahasā* \< *sahas*
+- *sahasod* ← *sahasā* ← *sahas*
 - \[noun\], instrumental, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *sahasod* \< *ud*
+- *sahasod* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *atiṣṭhat* \< *sthā*
+- *atiṣṭhat* ← *sthā*
 - \[verb\], singular, Imperfect
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;

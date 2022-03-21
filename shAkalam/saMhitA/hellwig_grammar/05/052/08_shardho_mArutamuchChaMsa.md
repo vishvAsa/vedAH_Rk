@@ -2,32 +2,32 @@
 title = "Rig Veda 5.52.8"
 
 +++
--   *śardho* \< *śardhaḥ* \< *śardhas*
+-   *śardho* ← *śardhaḥ* ← *śardhas*
 - \[noun\], accusative, singular, neuter
 - “troop.”
 ------------------------------------------------------------------------
-- *mārutam* \< *māruta*
+- *mārutam* ← *māruta*
 - \[noun\], accusative, singular, neuter
 - “Marut(a).”
 ------------------------------------------------------------------------
-- *uc* \< *ud*
+- *uc* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *chaṃsa* \< *śaṃsa* \< *śaṃs*
+- *chaṃsa* ← *śaṃsa* ← *śaṃs*
 - \[verb\], singular, Present imperative
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
 ------------------------------------------------------------------------
-- *satyaśavasam* \< *satya*
+- *satyaśavasam* ← *satya*
 - \[noun\], neuter
 - “truth; oath; satya \[word\]; promise.”
 ------------------------------------------------------------------------
-- *satyaśavasam* \< *śavasam* \< *śavas*
+- *satyaśavasam* ← *śavasam* ← *śavas*
 - \[noun\], accusative, singular, masculine
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *ṛbhvasam* \< *ṛbhvas*
+- *ṛbhvasam* ← *ṛbhvas*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *uta*
@@ -37,17 +37,17 @@ title = "Rig Veda 5.52.8"
 - *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *śubhe* \< *śubh*
+- *śubhe* ← *śubh*
 - \[verb noun\]
 - “look; shine; beautify.”
 ------------------------------------------------------------------------
-- *naraḥ* \< *nṛ*
+- *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
@@ -55,11 +55,11 @@ title = "Rig Veda 5.52.8"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *syandrā* \< *syandrāḥ* \< *syandra*
+- *syandrā* ← *syandrāḥ* ← *syandra*
 - \[noun\], accusative, plural, feminine
 - “flowing; fleet.”
 ------------------------------------------------------------------------
-- *yujata* \< *yuj*
+- *yujata* ← *yuj*
 - \[verb\], plural, Aorist inj. (proh.)
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -67,7 +67,7 @@ title = "Rig Veda 5.52.8"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *tmanā* \< *tman*
+- *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
 ------------------------------------------------------------------------

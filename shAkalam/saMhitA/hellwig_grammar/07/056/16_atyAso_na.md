@@ -2,7 +2,7 @@
 title = "Rig Veda 7.56.16"
 
 +++
--   *atyāso* \< *atyāsaḥ* \< *atya*
+-   *atyāso* ← *atyāsaḥ* ← *atya*
 - \[noun\], nominative, plural, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------
@@ -10,22 +10,22 @@ title = "Rig Veda 7.56.16"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *svañco* \< *svañcaḥ* \< *svañc*
+- *svañco* ← *svañcaḥ* ← *svañc*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *yakṣadṛśo* \< *yakṣa*
+- *yakṣadṛśo* ← *yakṣa*
 - \[noun\], masculine
 - “Yakṣa; Kubera; thirteen; banyan.”
 ------------------------------------------------------------------------
-- *yakṣadṛśo* \< *dṛśaḥ* \< *dṛś*
+- *yakṣadṛśo* ← *dṛśaḥ* ← *dṛś*
 - \[noun\], nominative, plural, masculine
 - “seeing; knowing.”
 ------------------------------------------------------------------------
@@ -33,23 +33,23 @@ title = "Rig Veda 7.56.16"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śubhayanta* \< *śubhay* \< *√śubh*
+- *śubhayanta* ← *śubhay* ← *√śubh*
 - \[verb\], plural, Present injunctive
 ------------------------------------------------------------------------
-- *maryāḥ* \< *marya*
+- *maryāḥ* ← *marya*
 - \[noun\], nominative, plural, masculine
 - “young buck; boyfriend.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *harmyeṣṭhāḥ* \< *harmyeṣṭhā*
+- *harmyeṣṭhāḥ* ← *harmyeṣṭhā*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *śiśavo* \< *śiśavaḥ* \< *śiśu*
+- *śiśavo* ← *śiśavaḥ* ← *śiśu*
 - \[noun\], nominative, plural, masculine
 - “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
 ------------------------------------------------------------------------
@@ -57,11 +57,11 @@ title = "Rig Veda 7.56.16"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śubhrā* \< *śubhrāḥ* \< *śubhra*
+- *śubhrā* ← *śubhrāḥ* ← *śubhra*
 - \[noun\], nominative, plural, masculine
 - “white; beautiful; attractive; śubhra \[word\]; light.”
 ------------------------------------------------------------------------
-- *vatsāso* \< *vatsāsaḥ* \< *vatsa*
+- *vatsāso* ← *vatsāsaḥ* ← *vatsa*
 - \[noun\], nominative, plural, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
@@ -70,14 +70,14 @@ title = "Rig Veda 7.56.16"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *prakrīﾱinaḥ* \< *prakrīḍinaḥ* \< *prakrīḍin*
+- *prakrīﾱinaḥ* ← *prakrīḍinaḥ* ← *prakrīḍin*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *payodhāḥ* \< *payaḥ* \< *payas*
+- *payodhāḥ* ← *payaḥ* ← *payas*
 - \[noun\], neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
-- *payodhāḥ* \< *dhāḥ* \< *dhā*
+- *payodhāḥ* ← *dhāḥ* ← *dhā*
 - \[noun\], nominative, plural, masculine
 - “giving.”
 ------------------------------------------------------------------------

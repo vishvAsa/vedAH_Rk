@@ -2,31 +2,31 @@
 title = "Rig Veda 9.97.20"
 
 +++
--   *araśmāno* \< *a*
+-   *araśmāno* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *araśmāno* \< *raśmānaḥ* \< *raśman*
+- *araśmāno* ← *raśmānaḥ* ← *raśman*
 - \[noun\], nominative, plural, masculine
 - “rein.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *'rathā* \< *a*
+- *'rathā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *'rathā* \< *rathāḥ* \< *ratha*
+- *'rathā* ← *rathāḥ* ← *ratha*
 - \[noun\], nominative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *ayuktā* \< *a*
+- *ayuktā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *ayuktā* \< *yuktāḥ* \< *yuj*
+- *ayuktā* ← *yuktāḥ* ← *yuj*
 - \[verb noun\], nominative, plural
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -34,7 +34,7 @@ title = "Rig Veda 9.97.20"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *atyāso* \< *atyāsaḥ* \< *atya*
+- *atyāso* ← *atyāsaḥ* ← *atya*
 - \[noun\], nominative, plural, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------
@@ -42,37 +42,37 @@ title = "Rig Veda 9.97.20"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sasṛjānāsa* \< *sasṛjānāsaḥ* \< *sṛj*
+- *sasṛjānāsa* ← *sasṛjānāsaḥ* ← *sṛj*
 - \[verb noun\], nominative, plural
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *ājau* \< *āji*
+- *ājau* ← *āji*
 - \[noun\], locative, singular, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
 ------------------------------------------------------------------------
-- *ete* \< *etad*
+- *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *śukrāso* \< *śukrāsaḥ* \< *śukra*
+- *śukrāso* ← *śukrāsaḥ* ← *śukra*
 - \[noun\], nominative, plural, masculine
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *dhanvanti* \< *dhanv*
+- *dhanvanti* ← *dhanv*
 - \[verb\], plural, Present indikative
 - “run.”
 ------------------------------------------------------------------------
-- *somā* \< *somāḥ* \< *soma*
+- *somā* ← *somāḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *devāsas* \< *devāsaḥ* \< *deva*
+- *devāsas* ← *devāsaḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *tāṃ* \< *tad*
+- *tāṃ* ← *tad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -82,12 +82,12 @@ title = "Rig Veda 9.97.20"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *yātā* \< *yāta* \< *yā*
+- *yātā* ← *yāta* ← *yā*
 - \[verb\], plural, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *pibadhyai* \< *pā*
+- *pibadhyai* ← *pā*
 - \[verb noun\]
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------

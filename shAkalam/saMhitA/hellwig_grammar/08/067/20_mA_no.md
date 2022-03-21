@@ -6,27 +6,27 @@ title = "Rig Veda 8.67.20"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *hetir* \< *hetiḥ* \< *heti*
+- *hetir* ← *hetiḥ* ← *heti*
 - \[noun\], nominative, singular, feminine
 - “projectile; heti \[word\].”
 ------------------------------------------------------------------------
-- *vivasvata* \< *vivasvataḥ* \< *vivasvant*
+- *vivasvata* ← *vivasvataḥ* ← *vivasvant*
 - \[noun\], genitive, singular, masculine
 - “Surya; sun; Vivasvant; Vivasvant.”
 ------------------------------------------------------------------------
-- *ādityāḥ* \< *āditya*
+- *ādityāḥ* ← *āditya*
 - \[noun\], vocative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
-- *kṛtrimā* \< *kṛtrima*
+- *kṛtrimā* ← *kṛtrima*
 - \[noun\], nominative, singular, feminine
 - “factitious; artificial; fake.”
 ------------------------------------------------------------------------
-- *śaruḥ* \< *śaru*
+- *śaruḥ* ← *śaru*
 - \[noun\], nominative, singular, feminine
 - “arrow.”
 ------------------------------------------------------------------------
@@ -38,11 +38,11 @@ title = "Rig Veda 8.67.20"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *jaraso* \< *jarasaḥ* \< *jaras*
+- *jaraso* ← *jarasaḥ* ← *jaras*
 - \[noun\], ablative, singular, feminine
 - “old age.”
 ------------------------------------------------------------------------
-- *vadhīt* \< *vadh*
+- *vadhīt* ← *vadh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “kill; assail; kick; māray; destroy; beat.”
 ------------------------------------------------------------------------

@@ -6,21 +6,21 @@ title = "Rig Veda 4.38.5"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *smainaṃ* \< *smā* \< *sma*
+- *smainaṃ* ← *smā* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *smainaṃ* \< *enam* \< *enad*
+- *smainaṃ* ← *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
-- *vastramathiṃ* \< *vastramathim* \< *vastramathi*
+- *vastramathiṃ* ← *vastramathim* ← *vastramathi*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tāyum* \< *tāyu*
+- *tāyum* ← *tāyu*
 - \[noun\], accusative, singular, masculine
 - “thief.”
 ------------------------------------------------------------------------
@@ -28,24 +28,24 @@ title = "Rig Veda 4.38.5"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *krośanti* \< *kruś*
+- *krośanti* ← *kruś*
 - \[verb\], plural, Present indikative
 - “cry; shout; lament.”
 ------------------------------------------------------------------------
-- *kṣitayo* \< *kṣitayaḥ* \< *kṣiti*
+- *kṣitayo* ← *kṣitayaḥ* ← *kṣiti*
 - \[noun\], nominative, plural, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
 ------------------------------------------------------------------------
-- *bhareṣu* \< *bhara*
+- *bhareṣu* ← *bhara*
 - \[noun\], locative, plural, masculine
 - “battle; weight; foray; bhṛ; load.”
 ------------------------------------------------------------------------
-- *nīcāyamānaṃ* \< *\_* \< *√\_*
+- *nīcāyamānaṃ* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *jasuriṃ* \< *jasurim* \< *jasuri*
+- *jasuriṃ* ← *jasurim* ← *jasuri*
 - \[noun\], accusative, singular, masculine
 - “starved.”
 ------------------------------------------------------------------------
@@ -53,23 +53,23 @@ title = "Rig Veda 4.38.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śyenaṃ* \< *śyenam* \< *śyena*
+- *śyenaṃ* ← *śyenam* ← *śyena*
 - \[noun\], accusative, singular, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
 ------------------------------------------------------------------------
-- *śravaś* \< *śravaḥ* \< *śravas*
+- *śravaś* ← *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *cācchā* \< *ca*
+- *cācchā* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cācchā* \< *acchā*
+- *cācchā* ← *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *paśumac* \< *paśumat*
+- *paśumac* ← *paśumat*
 - \[noun\], accusative, singular, neuter
 - “rich in cattle.”
 ------------------------------------------------------------------------
@@ -77,7 +77,7 @@ title = "Rig Veda 4.38.5"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *yūtham* \< *yūtha*
+- *yūtham* ← *yūtha*
 - \[noun\], accusative, singular, neuter
 - “herd; troop; battalion.”
 ------------------------------------------------------------------------

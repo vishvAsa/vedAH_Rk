@@ -2,12 +2,12 @@
 title = "Rig Veda 5.60.3"
 
 +++
--   *parvataś* \< *parvataḥ* \< *parvata*
+-   *parvataś* ← *parvataḥ* ← *parvata*
 - \[noun\], nominative, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -15,16 +15,16 @@ title = "Rig Veda 5.60.3"
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *vṛddho* \< *vṛddhaḥ* \< *vṛdh*
+- *vṛddho* ← *vṛddhaḥ* ← *vṛdh*
 - \[verb noun\], nominative, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *bibhāya* \< *bhī*
+- *bibhāya* ← *bhī*
 - \[verb\], singular, Perfect indicative
 - “fear; fear.”
 ------------------------------------------------------------------------
-- *divaś* \< *divaḥ* \< *div*
+- *divaś* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -36,15 +36,15 @@ title = "Rig Veda 5.60.3"
 - \[noun\], nominative, singular, neuter
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------
-- *rejata* \< *rej*
+- *rejata* ← *rej*
 - \[verb\], singular, Present injunctive
 - “tremor; flicker.”
 ------------------------------------------------------------------------
-- *svane* \< *svana*
+- *svane* ← *svana*
 - \[noun\], locative, singular, masculine
 - “noise; sound; svan.”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
@@ -52,18 +52,18 @@ title = "Rig Veda 5.60.3"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *krīﾱatha* \< *krīḷatha* \< *krīḍ*
+- *krīﾱatha* ← *krīḷatha* ← *krīḍ*
 - \[verb\], plural, Present indikative
 - “frolic; love; play; amuse.”
 ------------------------------------------------------------------------
-- *maruta* \< *marutaḥ* \< *marut*
+- *maruta* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *ṛṣṭimanta* \< *ṛṣṭimantaḥ* \< *ṛṣṭimat*
+- *ṛṣṭimanta* ← *ṛṣṭimantaḥ* ← *ṛṣṭimat*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *āpa* \< *āpaḥ* \< *ap*
+- *āpa* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -71,9 +71,9 @@ title = "Rig Veda 5.60.3"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sadhryañco* \< *sadhryañcaḥ* \< *sadhryañc*
+- *sadhryañco* ← *sadhryañcaḥ* ← *sadhryañc*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *dhavadhve* \< *dhav*
+- *dhavadhve* ← *dhav*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------

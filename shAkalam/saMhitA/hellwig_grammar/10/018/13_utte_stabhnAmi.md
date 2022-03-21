@@ -2,100 +2,100 @@
 title = "Rig Veda 10.18.13"
 
 +++
--   *ut* \< *ud*
+-   *ut* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *stabhnāmi* \< *stambh*
+- *stabhnāmi* ← *stambh*
 - \[verb\], singular, Present indikative
 - “paralyze; stiffen; fixate; fixate; stambh; rear; stop; strengthen;
     constipate.”
 ------------------------------------------------------------------------
-- *pṛthivīṃ* \< *pṛthivīm* \< *pṛthivī*
+- *pṛthivīṃ* ← *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *tvat* \< *tvad*
+- *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *parīmaṃ* \< *pari*
+- *parīmaṃ* ← *pari*
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *parīmaṃ* \< *imam* \< *idam*
+- *parīmaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *logaṃ* \< *logam* \< *loga*
+- *logaṃ* ← *logam* ← *loga*
 - \[noun\], accusative, singular, masculine
 - “ball.”
 ------------------------------------------------------------------------
-- *nidadhan* \< *nidhā* \< *√dhā*
+- *nidadhan* ← *nidhā* ← *√dhā*
 - \[verb noun\], nominative, singular
 - “put; fill into; stow; insert; ignite; insert; add; put on;
     establish; keep down.”
 ------------------------------------------------------------------------
-- *mo* \< *mā*
+- *mo* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *mo* \< *u*
+- *mo* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ahaṃ* \< *aham* \< *mad*
+- *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *riṣam* \< *riṣ*
+- *riṣam* ← *riṣ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “suffer; harm.”
 ------------------------------------------------------------------------
-- *etāṃ* \< *etām* \< *etad*
+- *etāṃ* ← *etām* ← *etad*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *sthūṇām* \< *sthūṇā*
+- *sthūṇām* ← *sthūṇā*
 - \[noun\], accusative, singular, feminine
 - “column; post.”
 ------------------------------------------------------------------------
-- *pitaro* \< *pitaraḥ* \< *pitṛ*
+- *pitaro* ← *pitaraḥ* ← *pitṛ*
 - \[noun\], nominative, plural
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *dhārayantu* \< *dhāray* \< *√dhṛ*
+- *dhārayantu* ← *dhāray* ← *√dhṛ*
 - \[verb\], plural, Present imperative
 - “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
     preserve; remember; stow; stop; have; fill into; endure; support;
     understand; fixate; govern; restrain.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *'trā* \< *atrā* \< *atra*
+- *'trā* ← *atrā* ← *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *yamaḥ* \< *yama*
+- *yamaḥ* ← *yama*
 - \[noun\], nominative, singular, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
 ------------------------------------------------------------------------
-- *sādanā* \< *sādana*
+- *sādanā* ← *sādana*
 - \[noun\], accusative, plural, neuter
 - “home; dwelling; seat.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *minotu* \< *mi*
+- *minotu* ← *mi*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------

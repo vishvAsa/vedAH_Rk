@@ -6,27 +6,27 @@ title = "Rig Veda 9.75.3"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *dyutānaḥ* \< *dyut*
+- *dyutānaḥ* ← *dyut*
 - \[verb noun\], nominative, singular
 - “shine; inflame.”
 ------------------------------------------------------------------------
-- *kalaśāṃ* \< *kalaśa*
+- *kalaśāṃ* ← *kalaśa*
 - \[noun\], accusative, plural, masculine
 - “jar.”
 ------------------------------------------------------------------------
-- *acikradan* \< *acikradat* \< *krand*
+- *acikradan* ← *acikradat* ← *krand*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “roar; neigh; cry; howl; shout.”
 ------------------------------------------------------------------------
-- *nṛbhir* \< *nṛbhiḥ* \< *nṛ*
+- *nṛbhir* ← *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *yemānaḥ* \< *yam*
+- *yemānaḥ* ← *yam*
 - \[verb noun\], nominative, singular
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *kośa* \< *kośe* \< *kośa*
+- *kośa* ← *kośe* ← *kośa*
 - \[noun\], locative, singular, masculine
 - “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
     treasure; calyx; container; bucket; box.”
@@ -35,42 +35,42 @@ title = "Rig Veda 9.75.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *hiraṇyaye* \< *hiraṇyaya*
+- *hiraṇyaye* ← *hiraṇyaya*
 - \[noun\], locative, singular, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
 ------------------------------------------------------------------------
-- *abhīm* \< *abhi*
+- *abhīm* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *abhīm* \< *īm* \< *īṃ*
+- *abhīm* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *dohanā* \< *dohanāḥ* \< *dohana*
+- *dohanā* ← *dohanāḥ* ← *dohana*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *anūṣatādhi* \< *anūṣata* \< *nū*
+- *anūṣatādhi* ← *anūṣata* ← *nū*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “praise; shout.”
 ------------------------------------------------------------------------
-- *anūṣatādhi* \< *adhi*
+- *anūṣatādhi* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *tripṛṣṭha* \< *tri*
+- *tripṛṣṭha* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *tripṛṣṭha* \< *pṛṣṭhaḥ* \< *pṛṣṭha*
+- *tripṛṣṭha* ← *pṛṣṭhaḥ* ← *pṛṣṭha*
 - \[noun\], nominative, singular, masculine
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
 ------------------------------------------------------------------------
-- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], accusative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
@@ -78,7 +78,7 @@ title = "Rig Veda 9.75.3"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *rājati* \< *rāj*
+- *rājati* ← *rāj*
 - \[verb\], singular, Present indikative
 - “govern; shine; glitter; direct.”
 ------------------------------------------------------------------------

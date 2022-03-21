@@ -6,20 +6,20 @@ title = "Rig Veda 1.58.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vātajūto* \< *vāta*
+- *vātajūto* ← *vāta*
 - \[noun\], masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *vātajūto* \< *jūtaḥ* \< *jū*
+- *vātajūto* ← *jūtaḥ* ← *jū*
 - \[verb noun\], nominative, singular
 - “animate; encourage; impel; inspire.”
 ------------------------------------------------------------------------
-- *ataseṣu* \< *atasa*
+- *ataseṣu* ← *atasa*
 - \[noun\], locative, plural, neuter
 - “shrub; scrub.”
 ------------------------------------------------------------------------
-- *tiṣṭhate* \< *sthā*
+- *tiṣṭhate* ← *sthā*
 - \[verb\], singular, Present indikative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
@@ -29,54 +29,54 @@ title = "Rig Veda 1.58.4"
 - \[adverb\]
 - “vainly; incorrectly; unnecessarily; at will.”
 ------------------------------------------------------------------------
-- *juhūbhiḥ* \< *juhū*
+- *juhūbhiḥ* ← *juhū*
 - \[noun\], instrumental, plural, feminine
 - “tongue; fire; ladle.”
 ------------------------------------------------------------------------
-- *sṛṇyā* \< *sṛṇi*
+- *sṛṇyā* ← *sṛṇi*
 - \[noun\], instrumental, singular, feminine
 - “sickle.”
 ------------------------------------------------------------------------
-- *tuviṣvaṇiḥ* \< *tuviṣvaṇi*
+- *tuviṣvaṇiḥ* ← *tuviṣvaṇi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *tṛṣu*
 - \[noun\], accusative, singular, neuter
 - “dry.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *vanino* \< *vaninaḥ* \< *vanin*
+- *vanino* ← *vaninaḥ* ← *vanin*
 - \[noun\], accusative, plural, masculine
 - “tree.”
 ------------------------------------------------------------------------
-- *vṛṣāyase* \< *vṛṣāy*
+- *vṛṣāyase* ← *vṛṣāy*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *kṛṣṇaṃ* \< *kṛṣṇam* \< *kṛṣṇa*
+- *kṛṣṇaṃ* ← *kṛṣṇam* ← *kṛṣṇa*
 - \[noun\], nominative, singular, neuter
 - “black; dark; dark; blue; black.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ema* \< *eman*
+- *ema* ← *eman*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *ruśadūrme* \< *ruśat*
+- *ruśadūrme* ← *ruśat*
 - \[noun\]
 - “white; bright; bright.”
 ------------------------------------------------------------------------
-- *ruśadūrme* \< *ūrme* \< *ūrmi*
+- *ruśadūrme* ← *ūrme* ← *ūrmi*
 - \[noun\], vocative, singular, masculine
 - “wave; billow.”
 ------------------------------------------------------------------------

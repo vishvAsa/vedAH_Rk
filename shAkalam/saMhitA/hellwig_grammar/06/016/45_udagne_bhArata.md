@@ -6,7 +6,7 @@ title = "Rig Veda 6.16.45"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -15,19 +15,19 @@ title = "Rig Veda 6.16.45"
 - *bhārata*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *dyumad* \< *dyumat*
+- *dyumad* ← *dyumat*
 - \[noun\], vocative, singular, masculine
 - “bright; brilliant; brilliant; loud.”
 ------------------------------------------------------------------------
-- *ajasreṇa* \< *ajasra*
+- *ajasreṇa* ← *ajasra*
 - \[noun\], instrumental, singular, masculine
 - “ceaseless; ageless; incessant.”
 ------------------------------------------------------------------------
-- *davidyutat* \< *davidyut* \< *√dyut*
+- *davidyutat* ← *davidyut* ← *√dyut*
 - \[verb noun\], nominative, singular
 - “flash.”
 ------------------------------------------------------------------------
-- *śocā* \< *\_* \< *√\_*
+- *śocā* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
@@ -35,7 +35,7 @@ title = "Rig Veda 6.16.45"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *bhāhy* \< *bhāhi* \< *bhā*
+- *bhāhy* ← *bhāhi* ← *bhā*
 - \[verb\], singular, Present imperative
 - “look; shine; show; look like; glitter; reflect.”
 ------------------------------------------------------------------------

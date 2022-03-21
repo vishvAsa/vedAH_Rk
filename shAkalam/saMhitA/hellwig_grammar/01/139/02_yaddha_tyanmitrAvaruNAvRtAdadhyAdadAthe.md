@@ -2,88 +2,88 @@
 title = "Rig Veda 1.139.2"
 
 +++
--   *yaddha* \< *yat*
+-   *yaddha* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yaddha* \< *ha*
+- *yaddha* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *tyan* \< *tyad* \< *tya*
+- *tyan* ← *tyad* ← *tya*
 - \[noun\], accusative, singular, neuter
 - “that.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇāv* \< *mitrāvaruṇau* \< *mitrāvaruṇa*
+- *mitrāvaruṇāv* ← *mitrāvaruṇau* ← *mitrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *ṛtād* \< *ṛtāt* \< *ṛta*
+- *ṛtād* ← *ṛtāt* ← *ṛta*
 - \[noun\], ablative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *adhy* \< *adhi*
+- *adhy* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *ādadāthe* \< *ādā* \< *√dā*
+- *ādadāthe* ← *ādā* ← *√dā*
 - \[verb\], dual, Perfect indicative
 - “take; take away; take out; pick; extract; drink; grasp; put;
     collect; accept; get; choose; remove; steal; bring; press out;
     impound; keep; eat; use; distill.”
 ------------------------------------------------------------------------
-- *anṛtaṃ* \< *anṛtam* \< *anṛta*
+- *anṛtaṃ* ← *anṛtam* ← *anṛta*
 - \[noun\], accusative, singular, neuter
 - “falsehood; lying; lie; cheat.”
 ------------------------------------------------------------------------
-- *svena* \< *sva*
+- *svena* ← *sva*
 - \[noun\], instrumental, singular, masculine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *manyunā* \< *manyu*
+- *manyunā* ← *manyu*
 - \[noun\], instrumental, singular, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------
-- *dakṣasya* \< *dakṣa*
+- *dakṣasya* ← *dakṣa*
 - \[noun\], genitive, singular, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
 ------------------------------------------------------------------------
-- *svena* \< *sva*
+- *svena* ← *sva*
 - \[noun\], instrumental, singular, masculine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *manyunā* \< *manyu*
+- *manyunā* ← *manyu*
 - \[noun\], instrumental, singular, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------
-- *yuvor* \< *yuvoḥ* \< *tvad*
+- *yuvor* ← *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *itthādhi* \< *itthā*
+- *itthādhi* ← *itthā*
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *itthādhi* \< *adhi*
+- *itthādhi* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *sadmasv* \< *sadmasu* \< *sadman*
+- *sadmasv* ← *sadmasu* ← *sadman*
 - \[noun\], locative, plural, neuter
 - “seat; house; stable; dwelling.”
 ------------------------------------------------------------------------
-- *apaśyāma* \< *paś*
+- *apaśyāma* ← *paś*
 - \[verb\], plural, Imperfect
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *hiraṇyayam* \< *hiraṇyaya*
+- *hiraṇyayam* ← *hiraṇyaya*
 - \[noun\], accusative, singular, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
 ------------------------------------------------------------------------
-- *dhībhiś* \< *dhībhiḥ* \< *dhī*
+- *dhībhiś* ← *dhībhiḥ* ← *dhī*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
@@ -92,30 +92,30 @@ title = "Rig Veda 1.139.2"
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *svebhir* \< *svebhiḥ* \< *sva*
+- *svebhir* ← *svebhiḥ* ← *sva*
 - \[noun\], instrumental, plural, neuter
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *akṣabhiḥ* \< *akṣa*
+- *akṣabhiḥ* ← *akṣa*
 - \[noun\], instrumental, plural, neuter
 - “eye; akṣa \[word\]; hole.”
 ------------------------------------------------------------------------
-- *somasya* \< *soma*
+- *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *svebhir* \< *svebhiḥ* \< *sva*
+- *svebhir* ← *svebhiḥ* ← *sva*
 - \[noun\], instrumental, plural, neuter
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *akṣabhiḥ* \< *akṣa*
+- *akṣabhiḥ* ← *akṣa*
 - \[noun\], instrumental, plural, neuter
 - “eye; akṣa \[word\]; hole.”
 ------------------------------------------------------------------------

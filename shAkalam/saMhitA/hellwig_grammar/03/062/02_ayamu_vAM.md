@@ -2,7 +2,7 @@
 title = "Rig Veda 3.62.2"
 
 +++
--   *ayam* \< *idam*
+-   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -10,61 +10,61 @@ title = "Rig Veda 3.62.2"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *purutamo* \< *purutamaḥ* \< *purutama*
+- *purutamo* ← *purutamaḥ* ← *purutama*
 - \[noun\], nominative, singular, masculine
 - “most(a).”
 ------------------------------------------------------------------------
-- *rayīyañchaśvattamam* \< *rayīyan* \< *rayīyat*
+- *rayīyañchaśvattamam* ← *rayīyan* ← *rayīyat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *rayīyañchaśvattamam* \< *śaśvattamam* \< *śaśvattama*
+- *rayīyañchaśvattamam* ← *śaśvattamam* ← *śaśvattama*
 - \[noun\], accusative, singular, neuter
 - “frequent.”
 ------------------------------------------------------------------------
-- *avase* \< *avas*
+- *avase* ← *avas*
 - \[noun\], dative, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *johavīti* \< *johav* \< *√hvā*
+- *johavīti* ← *johav* ← *√hvā*
 - \[verb\], singular, Present indikative
 - “appeal.”
 ------------------------------------------------------------------------
-- *sajoṣāv* \< *sa*
+- *sajoṣāv* ← *sa*
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *sajoṣāv* \< *joṣau* \< *joṣa*
+- *sajoṣāv* ← *joṣau* ← *joṣa*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *indrāvaruṇā* \< *indrāvaruṇāḥ* \< *indrāvaruṇa*
+- *indrāvaruṇā* ← *indrāvaruṇāḥ* ← *indrāvaruṇa*
 - \[noun\], vocative, plural, masculine
 - “Varuna; Indra.”
 ------------------------------------------------------------------------
-- *marudbhir* \< *marudbhiḥ* \< *marut*
+- *marudbhir* ← *marudbhiḥ* ← *marut*
 - \[noun\], instrumental, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *divā* \< *div*
+- *divā* ← *div*
 - \[noun\], instrumental, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *pṛthivyā* \< *pṛthivī*
+- *pṛthivyā* ← *pṛthivī*
 - \[noun\], instrumental, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *śṛṇutaṃ* \< *śṛṇutam* \< *śru*
+- *śṛṇutaṃ* ← *śṛṇutam* ← *śru*
 - \[verb\], dual, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *havam* \< *hava*
+- *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------

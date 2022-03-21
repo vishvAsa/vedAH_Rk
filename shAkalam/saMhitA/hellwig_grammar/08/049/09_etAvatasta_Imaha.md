@@ -2,15 +2,15 @@
 title = "Rig Veda 8.49.9"
 
 +++
--   *etāvatas* \< *etāvataḥ* \< *etāvat*
+-   *etāvatas* ← *etāvataḥ* ← *etāvat*
 - \[noun\], genitive, singular, neuter
 - “such(a); such(a).”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *īmaha* \< *īmahe* \< *ī* \< *√i*
+- *īmaha* ← *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------
@@ -19,11 +19,11 @@ title = "Rig Veda 8.49.9"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sumnasya* \< *sumna*
+- *sumnasya* ← *sumna*
 - \[noun\], genitive, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
-- *gomataḥ* \< *gomat*
+- *gomataḥ* ← *gomat*
 - \[noun\], genitive, singular, masculine
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------
@@ -31,7 +31,7 @@ title = "Rig Veda 8.49.9"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *prāvo* \< *prāvaḥ* \< *prāv* \< *√av*
+- *prāvo* ← *prāvaḥ* ← *prāv* ← *√av*
 - \[verb\], singular, Imperfect
 - “help; promote.”
 ------------------------------------------------------------------------
@@ -39,7 +39,7 @@ title = "Rig Veda 8.49.9"
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *medhyātithiṃ* \< *medhyātithim* \< *medhyātithi*
+- *medhyātithiṃ* ← *medhyātithim* ← *medhyātithi*
 - \[noun\], accusative, singular, masculine
 - “Kaṇva.”
 ------------------------------------------------------------------------
@@ -47,10 +47,10 @@ title = "Rig Veda 8.49.9"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *nīpātithiṃ* \< *nīpātithim* \< *nīpātithi*
+- *nīpātithiṃ* ← *nīpātithim* ← *nīpātithi*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *dhane* \< *dhana*
+- *dhane* ← *dhana*
 - \[noun\], locative, singular, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”

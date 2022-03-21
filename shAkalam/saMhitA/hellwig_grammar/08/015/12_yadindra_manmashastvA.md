@@ -2,7 +2,7 @@
 title = "Rig Veda 8.15.12"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -14,7 +14,7 @@ title = "Rig Veda 8.15.12"
 - *manmaśas*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *tvā* \< *tva*
+- *tvā* ← *tva*
 - \[noun\], instrumental, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
@@ -22,23 +22,23 @@ title = "Rig Veda 8.15.12"
 - \[adverb\]
 - “variously; differently; many; individually.”
 ------------------------------------------------------------------------
-- *havanta* \< *havante* \< *hvā*
+- *havanta* ← *havante* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *ūtaye* \< *ūti*
+- *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *asmākebhir* \< *asmākebhiḥ* \< *asmāka*
+- *asmākebhir* ← *asmākebhiḥ* ← *asmāka*
 - \[noun\], instrumental, plural, masculine
 - “our; asmāka \[word\].”
 ------------------------------------------------------------------------
-- *nṛbhir* \< *nṛbhiḥ* \< *nṛ*
+- *nṛbhir* ← *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *atrā* \< *atra*
+- *atrā* ← *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
@@ -47,7 +47,7 @@ title = "Rig Veda 8.15.12"
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *jaya* \< *ji*
+- *jaya* ← *ji*
 - \[verb\], singular, Present imperative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”

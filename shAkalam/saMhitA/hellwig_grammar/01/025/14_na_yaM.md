@@ -6,14 +6,14 @@ title = "Rig Veda 1.25.14"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dipsanti* \< *dips* \< *√dabh*
+- *dipsanti* ← *dips* ← *√dabh*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *dipsavo* \< *dipsavaḥ* \< *dipsu*
+- *dipsavo* ← *dipsavaḥ* ← *dipsu*
 - \[noun\], nominative, plural, masculine
 - “noxious; hurtful; baleful.”
 ------------------------------------------------------------------------
@@ -21,11 +21,11 @@ title = "Rig Veda 1.25.14"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *druhvāṇo* \< *druhvāṇaḥ* \< *druhvan*
+- *druhvāṇo* ← *druhvāṇaḥ* ← *druhvan*
 - \[noun\], nominative, plural, masculine
 - “deceitful; evil.”
 ------------------------------------------------------------------------
-- *janānām* \< *jana*
+- *janānām* ← *jana*
 - \[noun\], genitive, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
@@ -34,12 +34,12 @@ title = "Rig Veda 1.25.14"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *devam* \< *deva*
+- *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *abhimātayaḥ* \< *abhimāti*
+- *abhimātayaḥ* ← *abhimāti*
 - \[noun\], nominative, plural, masculine
 - “unfriendly.”
 ------------------------------------------------------------------------

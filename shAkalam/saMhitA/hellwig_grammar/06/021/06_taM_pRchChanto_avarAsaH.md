@@ -2,32 +2,32 @@
 title = "Rig Veda 6.21.6"
 
 +++
--   *tam* \< *tad*
+-   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *pṛcchanto* \< *pṛcchantaḥ* \< *pracch*
+- *pṛcchanto* ← *pṛcchantaḥ* ← *pracch*
 - \[verb noun\], nominative, plural
 - “ask; ask; ask; consult; interrogate.”
 ------------------------------------------------------------------------
-- *'varāsaḥ* \< *avarāsaḥ* \< *avara*
+- *'varāsaḥ* ← *avarāsaḥ* ← *avara*
 - \[noun\], nominative, plural, masculine
 - “worst; avara \[word\]; lower; nearer; base; short; low; abject;
     later(a); worse; antecedent.”
 ------------------------------------------------------------------------
-- *parāṇi* \< *para*
+- *parāṇi* ← *para*
 - \[noun\], accusative, plural, neuter
 - “best; other; following; devoted(p); extreme; highest; otherwordly;
     better; hostile; maximal; distant; another(a); para \[word\]; upper;
     concluding; foreign; earlier; worse; longer; finest; excessive.”
 ------------------------------------------------------------------------
-- *pratnā* \< *pratna*
+- *pratnā* ← *pratna*
 - \[noun\], accusative, plural, neuter
 - “age-old; pratna \[word\].”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -36,19 +36,19 @@ title = "Rig Veda 6.21.6"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *śrutyānu* \< *śrutya* \< *śru*
+- *śrutyānu* ← *śrutya* ← *śru*
 - \[verb noun\]
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *śrutyānu* \< *anu*
+- *śrutyānu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *yemuḥ* \< *yam*
+- *yemuḥ* ← *yam*
 - \[verb\], plural, Perfect indicative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *arcāmasi* \< *arc*
+- *arcāmasi* ← *arc*
 - \[verb\], plural, Present indikative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
@@ -56,15 +56,15 @@ title = "Rig Veda 6.21.6"
 - \[noun\], vocative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *brahmavāho* \< *brahma* \< *brahman*
+- *brahmavāho* ← *brahma* ← *brahman*
 - \[noun\], neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *brahmavāho* \< *vāhaḥ* \< *vāhas*
+- *brahmavāho* ← *vāhaḥ* ← *vāhas*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *yād* \< *yāt*
+- *yād* ← *yāt*
 - \[adverb\]
 - “wherein.”
 ------------------------------------------------------------------------
@@ -73,7 +73,7 @@ title = "Rig Veda 6.21.6"
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *vidma* \< *vid*
+- *vidma* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
@@ -82,11 +82,11 @@ title = "Rig Veda 6.21.6"
 - \[adverb\]
 - “tāt; there.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *mahāntam* \< *mahat*
+- *mahāntam* ← *mahat*
 - \[noun\], accusative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;

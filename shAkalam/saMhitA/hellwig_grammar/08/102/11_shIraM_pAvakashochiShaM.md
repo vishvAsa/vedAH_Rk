@@ -2,27 +2,27 @@
 title = "Rig Veda 8.102.11"
 
 +++
--   *śīram* \< *śīra*
+-   *śīram* ← *śīra*
 - \[noun\], accusative, singular, masculine
 - “sharp; acerb.”
 ------------------------------------------------------------------------
-- *pāvakaśociṣaṃ* \< *pāvaka*
+- *pāvakaśociṣaṃ* ← *pāvaka*
 - \[noun\]
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
 ------------------------------------------------------------------------
-- *pāvakaśociṣaṃ* \< *śociṣam* \< *śocis*
+- *pāvakaśociṣaṃ* ← *śociṣam* ← *śocis*
 - \[noun\], accusative, singular, masculine
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------
-- *jyeṣṭho* \< *jyeṣṭhaḥ* \< *jyeṣṭha*
+- *jyeṣṭho* ← *jyeṣṭhaḥ* ← *jyeṣṭha*
 - \[noun\], nominative, singular, masculine
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dameṣv* \< *dameṣu* \< *dama*
+- *dameṣv* ← *dameṣu* ← *dama*
 - \[noun\], locative, plural, masculine
 - “dwelling; home.”
 ------------------------------------------------------------------------
@@ -30,14 +30,14 @@ title = "Rig Veda 8.102.11"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dīdāya* \< *dīdī*
+- *dīdāya* ← *dīdī*
 - \[verb\], singular, Perfect indicative
 - “shine; glitter.”
 ------------------------------------------------------------------------
-- *dīrghaśruttamaḥ* \< *dīrgha*
+- *dīrghaśruttamaḥ* ← *dīrgha*
 - \[noun\]
 - “long; long; long; large; far; deep; dīrgha \[word\].”
 ------------------------------------------------------------------------
-- *dīrghaśruttamaḥ* \< *śruttamaḥ* \< *śruttama*
+- *dīrghaśruttamaḥ* ← *śruttamaḥ* ← *śruttama*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

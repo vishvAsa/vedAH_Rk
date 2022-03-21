@@ -2,20 +2,20 @@
 title = "Rig Veda 9.63.5"
 
 +++
--   *indraṃ* \< *indram* \< *indra*
+-   *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vardhanto* \< *vardhantaḥ* \< *vṛdh*
+- *vardhanto* ← *vardhantaḥ* ← *vṛdh*
 - \[verb noun\], nominative, plural
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *apturaḥ* \< *aptur*
+- *apturaḥ* ← *aptur*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *kṛṇvanto* \< *kṛṇvantaḥ* \< *kṛ*
+- *kṛṇvanto* ← *kṛṇvantaḥ* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -26,20 +26,20 @@ title = "Rig Veda 9.63.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *viśvam* \< *viśva*
+- *viśvam* ← *viśva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *āryam* \< *ārya*
+- *āryam* ← *ārya*
 - \[noun\], accusative, singular, neuter
 - “noble; noble; Indo-European; ārya \[word\]; honorable; noble.”
 ------------------------------------------------------------------------
-- *apaghnanto* \< *apaghnantaḥ* \< *apahan* \< *√han*
+- *apaghnanto* ← *apaghnantaḥ* ← *apahan* ← *√han*
 - \[verb noun\], nominative, plural
 - “remove; cure; ward off; repel.”
 ------------------------------------------------------------------------
-- *arāvṇaḥ* \< *arāvan*
+- *arāvṇaḥ* ← *arāvan*
 - \[noun\], accusative, plural, masculine
 - “begrudging; hostile; stingy.”
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 10.29.6"
 
 +++
--   *mātre* \< *mātrā*
+-   *mātre* ← *mātrā*
 - \[noun\], nominative, dual, feminine
 - “measure; weight; quantity; syllable; mātrā; property; part;
     particle; mātrā \[word\]; household effects; morsel; mirror;
@@ -12,15 +12,15 @@ title = "Rig Veda 10.29.6"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sumite* \< *su*
+- *sumite* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sumite* \< *mite* \< *mā*
+- *sumite* ← *mite* ← *mā*
 - \[verb noun\], nominative, dual
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
 ------------------------------------------------------------------------
@@ -29,15 +29,15 @@ title = "Rig Veda 10.29.6"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pūrvī* \< *puru*
+- *pūrvī* ← *puru*
 - \[noun\], nominative, dual, feminine
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *dyaur* \< *dyauḥ* \< *div*
+- *dyaur* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *majmanā* \< *majman*
+- *majmanā* ← *majman*
 - \[noun\], instrumental, singular, masculine
 - “size.”
 ------------------------------------------------------------------------
@@ -45,23 +45,23 @@ title = "Rig Veda 10.29.6"
 - \[noun\], nominative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *kāvyena* \< *kāvya*
+- *kāvyena* ← *kāvya*
 - \[noun\], instrumental, singular, neuter
 - “Uśanas; poem; Kāvya; wisdom.”
 ------------------------------------------------------------------------
-- *varāya* \< *vara*
+- *varāya* ← *vara*
 - \[noun\], dative, singular, masculine
 - “gift; favor; wish; privilege; varac; wages.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ghṛtavantaḥ* \< *ghṛtavat*
+- *ghṛtavantaḥ* ← *ghṛtavat*
 - \[noun\], nominative, plural, masculine
 - “buttery.”
 ------------------------------------------------------------------------
-- *sutāsaḥ* \< *suta*
+- *sutāsaḥ* ← *suta*
 - \[noun\], nominative, plural, masculine
 - “son; child.”
 ------------------------------------------------------------------------
@@ -69,18 +69,18 @@ title = "Rig Veda 10.29.6"
 - \[noun\], locative, singular, masculine
 - “preference; sweetness.”
 ------------------------------------------------------------------------
-- *bhavantu* \< *bhū*
+- *bhavantu* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *pītaye* \< *pīti*
+- *pītaye* ← *pīti*
 - \[noun\], dative, singular, feminine
 - “drinking; haritāla.”
 ------------------------------------------------------------------------
-- *madhūni* \< *madhu*
+- *madhūni* ← *madhu*
 - \[noun\], nominative, plural, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------

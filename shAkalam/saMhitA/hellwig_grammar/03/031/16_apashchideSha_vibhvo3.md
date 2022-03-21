@@ -2,23 +2,23 @@
 title = "Rig Veda 3.31.16"
 
 +++
--   *apaś* \< *apaḥ* \< *ap*
+-   *apaś* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *eṣa* \< *etad*
+- *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *vibhvo* \< *vibhvaḥ* \< *vibhu*
+- *vibhvo* ← *vibhvaḥ* ← *vibhu*
 - \[noun\], accusative, plural, feminine
 - “mighty; abundant; big.”
 ------------------------------------------------------------------------
-- *damūnāḥ* \< *damūnas*
+- *damūnāḥ* ← *damūnas*
 - \[noun\], nominative, singular, masculine
 - “master.”
 ------------------------------------------------------------------------
@@ -26,51 +26,51 @@ title = "Rig Veda 3.31.16"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *sadhrīcīr* \< *sadhrīcīḥ* \< *sadhryañc*
+- *sadhrīcīr* ← *sadhrīcīḥ* ← *sadhryañc*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *asṛjad* \< *asṛjat* \< *sṛj*
+- *asṛjad* ← *asṛjat* ← *sṛj*
 - \[verb\], singular, Imperfect
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *viśvaścandrāḥ* \< *viśva*
+- *viśvaścandrāḥ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvaścandrāḥ* \< *ścandrāḥ* \< *ścandra*
+- *viśvaścandrāḥ* ← *ścandrāḥ* ← *ścandra*
 - \[noun\], accusative, plural, feminine
 - “shining; glistening; brilliant.”
 ------------------------------------------------------------------------
-- *madhvaḥ* \< *madhu*
+- *madhvaḥ* ← *madhu*
 - \[noun\], accusative, plural, feminine
 - “sweet; deft.”
 ------------------------------------------------------------------------
-- *punānāḥ* \< *pū*
+- *punānāḥ* ← *pū*
 - \[verb noun\], accusative, plural
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *kavibhiḥ* \< *kavi*
+- *kavibhiḥ* ← *kavi*
 - \[noun\], instrumental, plural, neuter
 - “mental; wise; mental; enlightened.”
 ------------------------------------------------------------------------
-- *pavitrair* \< *pavitraiḥ* \< *pavitra*
+- *pavitrair* ← *pavitraiḥ* ← *pavitra*
 - \[noun\], instrumental, plural, neuter
 - “strainer.”
 ------------------------------------------------------------------------
-- *dyubhir* \< *dyubhiḥ* \< *div*
+- *dyubhir* ← *dyubhiḥ* ← *div*
 - \[noun\], instrumental, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *hinvanty* \< *hinvanti* \< *hi*
+- *hinvanty* ← *hinvanti* ← *hi*
 - \[verb\], plural, Present indikative
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
-- *aktubhir* \< *aktubhiḥ* \< *aktu*
+- *aktubhir* ← *aktubhiḥ* ← *aktu*
 - \[noun\], instrumental, plural, masculine
 - “night; dark; beam.”
 ------------------------------------------------------------------------
-- *dhanutrīḥ* \< *dhanutṛ*
+- *dhanutrīḥ* ← *dhanutṛ*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------

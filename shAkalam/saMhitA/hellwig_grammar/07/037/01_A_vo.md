@@ -6,35 +6,35 @@ title = "Rig Veda 7.37.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *vāhiṣṭho* \< *vāhiṣṭhaḥ* \< *vāhiṣṭha*
+- *vāhiṣṭho* ← *vāhiṣṭhaḥ* ← *vāhiṣṭha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vahatu* \< *vah*
+- *vahatu* ← *vah*
 - \[verb\], singular, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *stavadhyai* \< *stu*
+- *stavadhyai* ← *stu*
 - \[verb noun\]
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *ratho* \< *rathaḥ* \< *ratha*
+- *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *vājā* \< *vājāḥ* \< *vāja*
+- *vājā* ← *vājāḥ* ← *vāja*
 - \[noun\], vocative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *ṛbhukṣaṇo* \< *ṛbhukṣaṇaḥ* \< *ṛbhukṣan*
+- *ṛbhukṣaṇo* ← *ṛbhukṣaṇaḥ* ← *ṛbhukṣan*
 - \[noun\], vocative, plural, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *amṛktaḥ* \< *amṛkta*
+- *amṛktaḥ* ← *amṛkta*
 - \[noun\], nominative, singular, masculine
 - “new; undamaged; complete.”
 ------------------------------------------------------------------------
@@ -42,42 +42,42 @@ title = "Rig Veda 7.37.1"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *tripṛṣṭhaiḥ* \< *tri*
+- *tripṛṣṭhaiḥ* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *tripṛṣṭhaiḥ* \< *pṛṣṭhaiḥ* \< *pṛṣṭha*
+- *tripṛṣṭhaiḥ* ← *pṛṣṭhaiḥ* ← *pṛṣṭha*
 - \[noun\], instrumental, plural, masculine
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
 ------------------------------------------------------------------------
-- *savaneṣu* \< *savana*
+- *savaneṣu* ← *savana*
 - \[noun\], locative, plural, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
-- *somair* \< *somaiḥ* \< *soma*
+- *somair* ← *somaiḥ* ← *soma*
 - \[noun\], instrumental, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *made* \< *mada*
+- *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *suśiprā* \< *su*
+- *suśiprā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśiprā* \< *śiprāḥ* \< *śiprā*
+- *suśiprā* ← *śiprāḥ* ← *śiprā*
 - \[noun\], vocative, plural, masculine
 - “lip; śiprā.”
 ------------------------------------------------------------------------
-- *mahabhiḥ* \< *mahan*
+- *mahabhiḥ* ← *mahan*
 - \[noun\], instrumental, plural, neuter
 - “greatness.”
 ------------------------------------------------------------------------
-- *pṛṇadhvam* \< *pṛṇ*
+- *pṛṇadhvam* ← *pṛṇ*
 - \[verb\], plural, Present imperative
 - “satisfy.”
 ------------------------------------------------------------------------

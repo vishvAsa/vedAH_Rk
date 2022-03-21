@@ -2,11 +2,11 @@
 title = "Rig Veda 2.34.8"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yuñjate* \< *yuj*
+- *yuñjate* ← *yuj*
 - \[verb\], plural, Present indikative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -14,27 +14,27 @@ title = "Rig Veda 2.34.8"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *rukmavakṣaso* \< *rukma*
+- *rukmavakṣaso* ← *rukma*
 - \[noun\], neuter
 - “gold; svarṇamākṣika.”
 ------------------------------------------------------------------------
-- *rukmavakṣaso* \< *vakṣasaḥ* \< *vakṣas*
+- *rukmavakṣaso* ← *vakṣasaḥ* ← *vakṣas*
 - \[noun\], nominative, plural, masculine
 - “breast; breast; bosom; thorax.”
 ------------------------------------------------------------------------
-- *'śvān* \< *aśvān* \< *aśva*
+- *'śvān* ← *aśvān* ← *aśva*
 - \[noun\], accusative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *ratheṣu* \< *ratha*
+- *ratheṣu* ← *ratha*
 - \[noun\], locative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *bhaga* \< *bhage* \< *bhaga*
+- *bhaga* ← *bhage* ← *bhaga*
 - \[noun\], locative, singular, masculine
 - “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
     well-being; happiness; overlord.”
@@ -43,11 +43,11 @@ title = "Rig Veda 2.34.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sudānavaḥ* \< *sudānu*
+- *sudānavaḥ* ← *sudānu*
 - \[noun\], nominative, plural, masculine
 - “big; lavish.”
 ------------------------------------------------------------------------
-- *dhenur* \< *dhenuḥ* \< *dhenu*
+- *dhenur* ← *dhenuḥ* ← *dhenu*
 - \[noun\], nominative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
@@ -55,36 +55,36 @@ title = "Rig Veda 2.34.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śiśve* \< *śiśu*
+- *śiśve* ← *śiśu*
 - \[noun\], dative, singular, masculine
 - “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
 ------------------------------------------------------------------------
-- *svasareṣu* \< *svasara*
+- *svasareṣu* ← *svasara*
 - \[noun\], locative, plural, neuter
 - “pasture; stall.”
 ------------------------------------------------------------------------
-- *pinvate* \< *pinv*
+- *pinvate* ← *pinv*
 - \[verb\], singular, Present indikative
 - “swell; swell; overflow; abound.”
 ------------------------------------------------------------------------
-- *janāya* \< *jana*
+- *janāya* ← *jana*
 - \[noun\], dative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *rātahaviṣe* \< *rāta* \< *rā*
+- *rātahaviṣe* ← *rāta* ← *rā*
 - \[verb noun\]
 - “give; impart.”
 ------------------------------------------------------------------------
-- *rātahaviṣe* \< *haviṣe* \< *havis*
+- *rātahaviṣe* ← *haviṣe* ← *havis*
 - \[noun\], dative, singular, masculine
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *mahīm* \< *mah*
+- *mahīm* ← *mah*
 - \[noun\], accusative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *iṣam* \< *iṣ*
+- *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------

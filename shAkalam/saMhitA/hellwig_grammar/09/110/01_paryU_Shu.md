@@ -2,15 +2,15 @@
 title = "Rig Veda 9.110.1"
 
 +++
--   *pary* \< *pari*
+-   *pary* ← *pari*
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *ū* \< *u*
+- *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
@@ -18,15 +18,15 @@ title = "Rig Veda 9.110.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *dhanva* \< *dhanv*
+- *dhanva* ← *dhanv*
 - \[verb\], singular, Present imperative
 - “run.”
 ------------------------------------------------------------------------
-- *vājasātaye* \< *vāja*
+- *vājasātaye* ← *vāja*
 - \[noun\], masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vājasātaye* \< *sātaye* \< *sāti*
+- *vājasātaye* ← *sātaye* ← *sāti*
 - \[noun\], dative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------
@@ -34,29 +34,29 @@ title = "Rig Veda 9.110.1"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *vṛtrāṇi* \< *vṛtra*
+- *vṛtrāṇi* ← *vṛtra*
 - \[noun\], accusative, plural, neuter
 - “enemy.”
 ------------------------------------------------------------------------
-- *sakṣaṇiḥ* \< *sakṣaṇi*
+- *sakṣaṇiḥ* ← *sakṣaṇi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *dviṣas* \< *dviṣaḥ* \< *dviṣ*
+- *dviṣas* ← *dviṣaḥ* ← *dviṣ*
 - \[noun\], accusative, plural, masculine
 - “hostile; hating.”
 ------------------------------------------------------------------------
-- *taradhyā* \< *taradhyai* \< *tṛ*
+- *taradhyā* ← *taradhyai* ← *tṛ*
 - \[verb noun\]
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *ṛṇayā* \< *ṛṇayāḥ* \< *ṛṇayā*
+- *ṛṇayā* ← *ṛṇayāḥ* ← *ṛṇayā*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *īyase* \< *ī* \< *√i*
+- *īyase* ← *ī* ← *√i*
 - \[verb\], singular, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------

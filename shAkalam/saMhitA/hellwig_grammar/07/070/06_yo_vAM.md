@@ -2,27 +2,27 @@
 title = "Rig Veda 7.70.6"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *yajño* \< *yajñaḥ* \< *yajña*
+- *yajño* ← *yajñaḥ* ← *yajña*
 - \[noun\], nominative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *nāsatyā* \< *nāsatyāḥ* \< *nāsatya*
+- *nāsatyā* ← *nāsatyāḥ* ← *nāsatya*
 - \[noun\], vocative, plural, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *haviṣmān* \< *haviṣmat*
+- *haviṣmān* ← *haviṣmat*
 - \[noun\], nominative, singular, masculine
 - “sacrificing.”
 ------------------------------------------------------------------------
-- *kṛtabrahmā* \< *kṛta* \< *kṛ*
+- *kṛtabrahmā* ← *kṛta* ← *kṛ*
 - \[verb noun\]
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -33,15 +33,15 @@ title = "Rig Veda 7.70.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *kṛtabrahmā* \< *brahmā* \< *brahman*
+- *kṛtabrahmā* ← *brahmā* ← *brahman*
 - \[noun\], nominative, singular, masculine
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *samaryo* \< *samaryaḥ* \< *samarya*
+- *samaryo* ← *samaryaḥ* ← *samarya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *bhavāti* \< *bhū*
+- *bhavāti* ← *bhū*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
@@ -56,12 +56,12 @@ title = "Rig Veda 7.70.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yātaṃ* \< *yātam* \< *yā*
+- *yātaṃ* ← *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *varam* \< *vara*
+- *varam* ← *vara*
 - \[noun\], accusative, singular, masculine
 - “gift; favor; wish; privilege; varac; wages.”
 ------------------------------------------------------------------------
@@ -69,24 +69,24 @@ title = "Rig Veda 7.70.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vasiṣṭham* \< *vasiṣṭha*
+- *vasiṣṭham* ← *vasiṣṭha*
 - \[noun\], accusative, singular, masculine
 - “Vasiṣṭha; vasiṣṭha \[word\].”
 ------------------------------------------------------------------------
-- *imā* \< *idam*
+- *imā* ← *idam*
 - \[noun\], nominative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *brahmāṇy* \< *brahmāṇi* \< *brahman*
+- *brahmāṇy* ← *brahmāṇi* ← *brahman*
 - \[noun\], nominative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *ṛcyante* \< *arc*
+- *ṛcyante* ← *arc*
 - \[verb\], plural, Indikativ Pr￤s. Passiv
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *yuvabhyām* \< *yuvan*
+- *yuvabhyām* ← *yuvan*
 - \[noun\], dative, dual, masculine
 - “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
     buck; young.”

@@ -2,26 +2,26 @@
 title = "Rig Veda 5.4.1"
 
 +++
--   *tvām* \< *tvad*
+-   *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *vasupatiṃ* \< *vasu*
+- *vasupatiṃ* ← *vasu*
 - \[noun\], neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *vasupatiṃ* \< *patim* \< *pati*
+- *vasupatiṃ* ← *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *vasūnām* \< *vasu*
+- *vasūnām* ← *vasu*
 - \[noun\], genitive, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
@@ -33,11 +33,11 @@ title = "Rig Veda 5.4.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *mande* \< *mand*
+- *mande* ← *mand*
 - \[verb\], singular, Present indikative
 - “rejoice; exhilarate.”
 ------------------------------------------------------------------------
-- *adhvareṣu* \< *adhvara*
+- *adhvareṣu* ← *adhvara*
 - \[noun\], locative, plural, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
@@ -45,37 +45,37 @@ title = "Rig Veda 5.4.1"
 - \[noun\], vocative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *tvayā* \< *tvad*
+- *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vājaṃ* \< *vājam* \< *vāja*
+- *vājaṃ* ← *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vājayanto* \< *vājayantaḥ* \< *vājay* \< *√vaj*
+- *vājayanto* ← *vājayantaḥ* ← *vājay* ← *√vaj*
 - \[verb noun\], nominative, plural
 - “incite.”
 ------------------------------------------------------------------------
-- *jayemābhi* \< *jayema* \< *ji*
+- *jayemābhi* ← *jayema* ← *ji*
 - \[verb\], plural, Present optative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *jayemābhi* \< *abhi*
+- *jayemābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *ṣyāma* \< *as*
+- *ṣyāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *pṛtsutīr* \< *pṛtsutīḥ* \< *pṛtsuti*
+- *pṛtsutīr* ← *pṛtsutīḥ* ← *pṛtsuti*
 - \[noun\], accusative, plural, feminine
 - “battle.”
 ------------------------------------------------------------------------
-- *martyānām* \< *martya*
+- *martyānām* ← *martya*
 - \[noun\], genitive, plural, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------

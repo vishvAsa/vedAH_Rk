@@ -2,45 +2,45 @@
 title = "Rig Veda 8.71.8"
 
 +++
--   *agne* \< *agni*
+-   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *mākiṣ* \< *mākir*
+- *mākiṣ* ← *mākir*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ṭe* \< *te* \< *tvad*
+- *ṭe* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *devasya* \< *deva*
+- *devasya* ← *deva*
 - \[noun\], genitive, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *rātim* \< *rāti*
+- *rātim* ← *rāti*
 - \[noun\], accusative, singular, feminine
 - “gift; bounty; favor.”
 ------------------------------------------------------------------------
-- *adevo* \< *adevaḥ* \< *adeva*
+- *adevo* ← *adevaḥ* ← *adeva*
 - \[noun\], nominative, singular, masculine
 - “godless.”
 ------------------------------------------------------------------------
-- *yuyota* \< *yu*
+- *yuyota* ← *yu*
 - \[verb\], singular, Present injunctive
 - “keep away; separate; ward off.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *īśiṣe* \< *īś*
+- *īśiṣe* ← *īś*
 - \[verb\], singular, Present indikative
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *vasūnām* \< *vasu*
+- *vasūnām* ← *vasu*
 - \[noun\], genitive, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------

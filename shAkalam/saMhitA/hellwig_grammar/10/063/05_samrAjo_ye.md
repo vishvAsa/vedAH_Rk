@@ -2,43 +2,43 @@
 title = "Rig Veda 10.63.5"
 
 +++
--   *samrājo* \< *samrājaḥ* \< *samrāj*
+-   *samrājo* ← *samrājaḥ* ← *samrāj*
 - \[noun\], nominative, plural, masculine
 - “sovereign; ruler.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *suvṛdho* \< *suvṛdhaḥ* \< *suvṛdh*
+- *suvṛdho* ← *suvṛdhaḥ* ← *suvṛdh*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *āyayur* \< *āyayuḥ* \< *āyā* \< *√yā*
+- *āyayur* ← *āyayuḥ* ← *āyā* ← *√yā*
 - \[verb\], plural, Perfect indicative
 - “enter (a state); come; transform; approach; arrive; reach; enter.”
 ------------------------------------------------------------------------
-- *aparihvṛtā* \< *aparihvṛtāḥ* \< *aparihvṛta*
+- *aparihvṛtā* ← *aparihvṛtāḥ* ← *aparihvṛta*
 - \[noun\], nominative, plural, masculine
 - “aparihvṛta \[word\]; unhampered.”
 ------------------------------------------------------------------------
-- *dadhire* \< *dhā*
+- *dadhire* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *divi* \< *div*
+- *divi* ← *div*
 - \[noun\], locative, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *kṣayam* \< *kṣaya*
+- *kṣayam* ← *kṣaya*
 - \[noun\], accusative, singular, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
 ------------------------------------------------------------------------
-- *tāṃ* \< *tad*
+- *tāṃ* ← *tad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -48,31 +48,31 @@ title = "Rig Veda 10.63.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vivāsa* \< *vivās* \< *√van*
+- *vivāsa* ← *vivās* ← *√van*
 - \[verb\], singular, Present imperative
 - “invite; endeavor; try for.”
 ------------------------------------------------------------------------
-- *namasā* \< *namas*
+- *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *suvṛktibhir* \< *suvṛktibhiḥ* \< *suvṛkti*
+- *suvṛktibhir* ← *suvṛktibhiḥ* ← *suvṛkti*
 - \[noun\], instrumental, plural, feminine
 - “praise.”
 ------------------------------------------------------------------------
-- *maho* \< *\_* \< *√\_*
+- *maho* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *ādityāṃ* \< *āditya*
+- *ādityāṃ* ← *āditya*
 - \[noun\], accusative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
-- *aditiṃ* \< *aditim* \< *aditi*
+- *aditiṃ* ← *aditim* ← *aditi*
 - \[noun\], accusative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *svastaye* \< *svasti*
+- *svastaye* ← *svasti*
 - \[noun\], dative, singular, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”

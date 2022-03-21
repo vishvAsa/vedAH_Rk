@@ -12,5 +12,5 @@ I do not know if we should see a difference in nuance between the augmented impf
 
 The stem abhī́ka- ‘close quarters, face-to-face’ is elsewhere used in contrast to ‘wide(ness)’, VII.85.1 … uruṣyatām abhī́ke, X.133.1 abhī́ke cid ulokakṛ́t, and this contrast is evident here as well, with the positive ákṛṇod ulokám ending c, and the negative kar abhī́kam in d.
 
-As Oldenberg points out, kar would be better as a heavy syllable; he suggests underlying *karr (< *kar-t). See comm. ad VII.75.1.
+As Oldenberg points out, kar would be better as a heavy syllable; he suggests underlying *karr (← *kar-t). See comm. ad VII.75.1.
 

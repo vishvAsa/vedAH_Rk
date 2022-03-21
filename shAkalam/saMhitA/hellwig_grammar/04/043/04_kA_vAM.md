@@ -2,56 +2,56 @@
 title = "Rig Veda 4.43.4"
 
 +++
--   *kā* \< *ka*
+-   *kā* ← *ka*
 - \[noun\], nominative, singular, feminine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *bhūd* \< *bhūt* \< *bhū*
+- *bhūd* ← *bhūt* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *upamātiḥ* \< *upamāti*
+- *upamātiḥ* ← *upamāti*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *kayā* \< *ka*
+- *kayā* ← *ka*
 - \[noun\], instrumental, singular, feminine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *āśvinā* \< *āśvina*
+- *āśvinā* ← *āśvina*
 - \[noun\], nominative, dual, masculine
 - “Asin.”
 ------------------------------------------------------------------------
-- *gamatho* \< *gamathaḥ* \< *gam*
+- *gamatho* ← *gamathaḥ* ← *gam*
 - \[verb\], dual, Present indikative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *hūyamānā* \< *hu*
+- *hūyamānā* ← *hu*
 - \[verb noun\], nominative, dual
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
-- *ko* \< *kaḥ* \< *ka*
+- *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *mahaś* \< *mahaḥ* \< *mah*
+- *mahaś* ← *mahaḥ* ← *mah*
 - \[noun\], ablative, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
@@ -59,14 +59,14 @@ title = "Rig Veda 4.43.4"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *tyajaso* \< *tyajasaḥ* \< *tyajas*
+- *tyajaso* ← *tyajasaḥ* ← *tyajas*
 - \[noun\], ablative, singular, neuter
 ------------------------------------------------------------------------
-- *abhīka* \< *abhīke* \< *abhīka*
+- *abhīka* ← *abhīke* ← *abhīka*
 - \[noun\], locative, singular, neuter
 - “battle; meeting.”
 ------------------------------------------------------------------------
-- *uruṣyatam* \< *uruṣy*
+- *uruṣyatam* ← *uruṣy*
 - \[verb\], dual, Present imperative
 - “protect; help.”
 ------------------------------------------------------------------------
@@ -74,15 +74,15 @@ title = "Rig Veda 4.43.4"
 - \[noun\], vocative, dual, masculine
 - “sweet; sweet.”
 ------------------------------------------------------------------------
-- *dasrā* \< *dasra*
+- *dasrā* ← *dasra*
 - \[noun\], vocative, dual, masculine
 - “Asvins.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ūtī* \< *ūti*
+- *ūtī* ← *ūti*
 - \[noun\], instrumental, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------

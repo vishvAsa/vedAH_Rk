@@ -2,38 +2,38 @@
 title = "Rig Veda 5.27.5"
 
 +++
--   *yasya* \< *yad*
+-   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *paruṣāḥ* \< *paruṣa*
+- *paruṣāḥ* ← *paruṣa*
 - \[noun\], nominative, plural, masculine
 - “rough; harsh; boisterous; unsightly; varicolored; patched; cruel;
     clear.”
 ------------------------------------------------------------------------
-- *śatam* \< *śata*
+- *śatam* ← *śata*
 - \[noun\], nominative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *uddharṣayanty* \< *uddharṣayanti* \< *uddharṣay* \< *√hṛṣ*
+- *uddharṣayanty* ← *uddharṣayanti* ← *uddharṣay* ← *√hṛṣ*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *ukṣaṇaḥ* \< *ukṣan*
+- *ukṣaṇaḥ* ← *ukṣan*
 - \[noun\], nominative, plural, masculine
 - “bull; ukṣan \[word\].”
 ------------------------------------------------------------------------
-- *aśvamedhasya* \< *aśvamedha*
+- *aśvamedhasya* ← *aśvamedha*
 - \[noun\], genitive, singular, masculine
 - “aśvamedha; Aśvamedha.”
 ------------------------------------------------------------------------
-- *dānāḥ* \< *dāna*
+- *dānāḥ* ← *dāna*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *somā* \< *somāḥ* \< *soma*
+- *somā* ← *somāḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -41,11 +41,11 @@ title = "Rig Veda 5.27.5"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *tryāśiraḥ* \< *tri*
+- *tryāśiraḥ* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *tryāśiraḥ* \< *āśiraḥ* \< *āśir*
+- *tryāśiraḥ* ← *āśiraḥ* ← *āśir*
 - \[noun\], nominative, plural, masculine
 - “mixture.”
 ------------------------------------------------------------------------

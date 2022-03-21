@@ -6,25 +6,25 @@ title = "Rig Veda 9.75.1"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *priyāṇi* \< *priya*
+- *priyāṇi* ← *priya*
 - \[noun\], accusative, plural, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *pavate* \< *pū*
+- *pavate* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *canohito* \< *canohitaḥ* \< *canohita*
+- *canohito* ← *canohitaḥ* ← *canohita*
 - \[noun\], nominative, singular, masculine
 - “popular; favorable.”
 ------------------------------------------------------------------------
-- *nāmāni* \< *nāman*
+- *nāmāni* ← *nāman*
 - \[noun\], accusative, plural, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
 ------------------------------------------------------------------------
-- *yahvo* \< *yahvaḥ* \< *yahva*
+- *yahvo* ← *yahvaḥ* ← *yahva*
 - \[noun\], nominative, singular, masculine
 - “youngest; youthful; active.”
 ------------------------------------------------------------------------
@@ -32,11 +32,11 @@ title = "Rig Veda 9.75.1"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *yeṣu* \< *yad*
+- *yeṣu* ← *yad*
 - \[noun\], locative, plural, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vardhate* \< *vṛdh*
+- *vardhate* ← *vṛdh*
 - \[verb\], singular, Present indikative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
@@ -45,17 +45,17 @@ title = "Rig Veda 9.75.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sūryasya* \< *sūrya*
+- *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *bṛhato* \< *bṛhataḥ* \< *bṛhat*
+- *bṛhato* ← *bṛhataḥ* ← *bṛhat*
 - \[noun\], genitive, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *bṛhann* \< *bṛhan* \< *bṛhat*
+- *bṛhann* ← *bṛhan* ← *bṛhat*
 - \[noun\], nominative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
@@ -64,19 +64,19 @@ title = "Rig Veda 9.75.1"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *rathaṃ* \< *ratham* \< *ratha*
+- *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *viṣvañcam* \< *viṣvañc*
+- *viṣvañcam* ← *viṣvañc*
 - \[noun\], accusative, singular, masculine
 - “dispersed; viṣvañc \[word\].”
 ------------------------------------------------------------------------
-- *aruhad* \< *aruhat* \< *ruh*
+- *aruhad* ← *aruhat* ← *ruh*
 - \[verb\], singular, Imperfect
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
 ------------------------------------------------------------------------
-- *vicakṣaṇaḥ* \< *vicakṣaṇa*
+- *vicakṣaṇaḥ* ← *vicakṣaṇa*
 - \[noun\], nominative, singular, masculine
 - “expert; wise; discerning; clear-sighted; conversant(p); bright.”
 ------------------------------------------------------------------------

@@ -2,52 +2,52 @@
 title = "Rig Veda 10.68.10"
 
 +++
--   *himeva* \< *himā* \< *hima*
+-   *himeva* ← *himā* ← *hima*
 - \[noun\], instrumental, singular, neuter
 - “snow; frost; hima \[word\]; winter; tin; silver; pearl;
     sauvīrāñjana; year; ague; Himalayas; coldness.”
 ------------------------------------------------------------------------
-- *himeva* \< *iva*
+- *himeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *parṇā* \< *parṇa*
+- *parṇā* ← *parṇa*
 - \[noun\], accusative, plural, neuter
 - “leaf; feather; parṇa \[word\]; leaf; wing.”
 ------------------------------------------------------------------------
-- *muṣitā* \< *muṣ*
+- *muṣitā* ← *muṣ*
 - \[verb noun\], nominative, plural
 - “rob; remove; steal.”
 ------------------------------------------------------------------------
-- *vanāni* \< *vana*
+- *vanāni* ← *vana*
 - \[noun\], nominative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
-- *bṛhaspatinākṛpayad* \< *bṛhaspatinā* \< *bṛhaspati*
+- *bṛhaspatinākṛpayad* ← *bṛhaspatinā* ← *bṛhaspati*
 - \[noun\], instrumental, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *bṛhaspatinākṛpayad* \< *akṛpayat* \< *kṛpay* \< *√kṛp*
+- *bṛhaspatinākṛpayad* ← *akṛpayat* ← *kṛpay* ← *√kṛp*
 - \[verb\], singular, Imperfect
 - “miss.”
 ------------------------------------------------------------------------
-- *valo* \< *valaḥ* \< *vala*
+- *valo* ← *valaḥ* ← *vala*
 - \[noun\], nominative, singular, masculine
 - “Vala; vala; cave.”
 ------------------------------------------------------------------------
-- *gāḥ* \< *go*
+- *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *anānukṛtyam* \< *anānukṛtya*
+- *anānukṛtyam* ← *anānukṛtya*
 - \[noun\], accusative, singular, neuter
 - “inimitable.”
 ------------------------------------------------------------------------
-- *apunaś* \< *apunar*
+- *apunaś* ← *apunar*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *cakāra* \< *kṛ*
+- *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -62,15 +62,15 @@ title = "Rig Veda 10.68.10"
 - \[adverb\]
 - “wherein.”
 ------------------------------------------------------------------------
-- *sūryāmāsā* \< *sūryāmāsa*
+- *sūryāmāsā* ← *sūryāmāsa*
 - \[noun\], nominative, dual, masculine
 - “moon.”
 ------------------------------------------------------------------------
-- *mitha* \< *mithas*
+- *mitha* ← *mithas*
 - \[adverb\]
 - “together; mutually; alternately.”
 ------------------------------------------------------------------------
-- *uccarātaḥ* \< *uccar* \< *√car*
+- *uccarātaḥ* ← *uccar* ← *√car*
 - \[verb\], dual, Present conjunctive (subjunctive)
 - “rise.”
 ------------------------------------------------------------------------

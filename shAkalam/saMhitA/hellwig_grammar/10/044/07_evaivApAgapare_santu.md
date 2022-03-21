@@ -2,49 +2,49 @@
 title = "Rig Veda 10.44.7"
 
 +++
--   *evaivāpāg* \< *eva*
+-   *evaivāpāg* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *evaivāpāg* \< *eva*
+- *evaivāpāg* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *evaivāpāg* \< *apāk*
+- *evaivāpāg* ← *apāk*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *apare* \< *apara*
+- *apare* ← *apara*
 - \[noun\], nominative, plural, masculine
 - “other; another(a); following; western; future; apara \[word\];
     elder; remaining; some(a); later(a); back(a).”
 ------------------------------------------------------------------------
-- *santu* \< *as*
+- *santu* ← *as*
 - \[verb\], plural, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *dūḍhyo* \< *dūḍhyaḥ* \< *dūḍhī*
+- *dūḍhyo* ← *dūḍhyaḥ* ← *dūḍhī*
 - \[noun\], nominative, plural, masculine
 - “malevolent.”
 ------------------------------------------------------------------------
-- *'śvā* \< *aśvāḥ* \< *aśva*
+- *'śvā* ← *aśvāḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *yeṣāṃ* \< *yeṣām* \< *yad*
+- *yeṣāṃ* ← *yeṣām* ← *yad*
 - \[noun\], genitive, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *duryuja* \< *duryujaḥ* \< *duryuj*
+- *duryuja* ← *duryujaḥ* ← *duryuj*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yuyujre* \< *yuj*
+- *yuyujre* ← *yuj*
 - \[verb\], plural, Perfect indicative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -56,31 +56,31 @@ title = "Rig Veda 10.44.7"
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *prāg* \< *prāk*
+- *prāg* ← *prāk*
 - \[adverb\]
 - “earlier; first.”
 ------------------------------------------------------------------------
-- *upare* \< *upara*
+- *upare* ← *upara*
 - \[noun\], nominative, plural, masculine
 - “later(a); future(a); nether.”
 ------------------------------------------------------------------------
-- *santi* \< *as*
+- *santi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *dāvane* \< *dā*
+- *dāvane* ← *dā*
 - \[verb noun\]
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *purūṇi* \< *puru*
+- *purūṇi* ← *puru*
 - \[noun\], nominative, plural, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
@@ -88,11 +88,11 @@ title = "Rig Veda 10.44.7"
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *vayunāni* \< *vayuna*
+- *vayunāni* ← *vayuna*
 - \[noun\], nominative, plural, neuter
 - “convention; custom; means.”
 ------------------------------------------------------------------------
-- *bhojanā* \< *bhojana*
+- *bhojanā* ← *bhojana*
 - \[noun\], nominative, plural, neuter
 - “food; eating; foodstuff; meal; property; sevana; enjoyment.”
 ------------------------------------------------------------------------

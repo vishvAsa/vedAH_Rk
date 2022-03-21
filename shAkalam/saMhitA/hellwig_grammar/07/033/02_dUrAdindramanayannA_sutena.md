@@ -2,16 +2,16 @@
 title = "Rig Veda 7.33.2"
 
 +++
--   *dūrād* \< *dūrāt*
+-   *dūrād* ← *dūrāt*
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *anayann* \< *anayan* \< *nī*
+- *anayann* ← *anayan* ← *nī*
 - \[verb\], plural, Imperfect
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
@@ -20,55 +20,55 @@ title = "Rig Veda 7.33.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sutena* \< *suta*
+- *sutena* ← *suta*
 - \[noun\], instrumental, singular, masculine
 - “Soma.”
 ------------------------------------------------------------------------
-- *tiro* \< *tiras*
+- *tiro* ← *tiras*
 - \[adverb\]
 - “tiras \[word\]; away; secretly.”
 ------------------------------------------------------------------------
-- *vaiśantam* \< *vaiśanta*
+- *vaiśantam* ← *vaiśanta*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
 - *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *pāntam* \< *pānta*
+- *pāntam* ← *pānta*
 - \[noun\], accusative, singular, masculine
 - “drink; beverage.”
 ------------------------------------------------------------------------
-- *ugram* \< *ugra*
+- *ugram* ← *ugra*
 - \[noun\], accusative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *pāśadyumnasya* \< *pāśadyumna*
+- *pāśadyumnasya* ← *pāśadyumna*
 - \[noun\], genitive, singular, masculine
 - “Pāśadyumna.”
 ------------------------------------------------------------------------
-- *vāyatasya* \< *vāyata*
+- *vāyatasya* ← *vāyata*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *somāt* \< *soma*
+- *somāt* ← *soma*
 - \[noun\], ablative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *sutād* \< *sutāt* \< *su*
+- *sutād* ← *sutāt* ← *su*
 - \[verb noun\], ablative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *'vṛṇītā* \< *avṛṇīta* \< *vṛ*
+- *'vṛṇītā* ← *avṛṇīta* ← *vṛ*
 - \[verb\], singular, Imperfect
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *vasiṣṭhān* \< *vasiṣṭha*
+- *vasiṣṭhān* ← *vasiṣṭha*
 - \[noun\], accusative, plural, masculine
 - “Vasiṣṭha; vasiṣṭha \[word\].”
 ------------------------------------------------------------------------

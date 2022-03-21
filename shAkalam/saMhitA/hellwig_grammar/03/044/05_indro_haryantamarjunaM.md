@@ -2,45 +2,45 @@
 title = "Rig Veda 3.44.5"
 
 +++
--   *indro* \< *indraḥ* \< *indra*
+-   *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *haryantam* \< *hary*
+- *haryantam* ← *hary*
 - \[verb noun\], accusative, singular
 - “delight.”
 ------------------------------------------------------------------------
-- *arjunaṃ* \< *arjunam* \< *arjuna*
+- *arjunaṃ* ← *arjunam* ← *arjuna*
 - \[noun\], accusative, singular, masculine
 - “white; clean; light.”
 ------------------------------------------------------------------------
-- *vajraṃ* \< *vajram* \< *vajra*
+- *vajraṃ* ← *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *śukrair* \< *śukraiḥ* \< *śukra*
+- *śukrair* ← *śukraiḥ* ← *śukra*
 - \[noun\], instrumental, plural, masculine
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *abhīvṛtam* \< *abhivṛ* \< *√vṛ*
+- *abhīvṛtam* ← *abhivṛ* ← *√vṛ*
 - \[verb noun\], accusative, singular
 - “cover.”
 ------------------------------------------------------------------------
-- *apāvṛṇoddharibhir* \< *apāvṛṇot* \< *apāvṛ* \< *√vṛ*
+- *apāvṛṇoddharibhir* ← *apāvṛṇot* ← *apāvṛ* ← *√vṛ*
 - \[verb\], singular, Imperfect
 - “open; gape.”
 ------------------------------------------------------------------------
-- *apāvṛṇoddharibhir* \< *haribhiḥ* \< *hari*
+- *apāvṛṇoddharibhir* ← *haribhiḥ* ← *hari*
 - \[noun\], instrumental, plural, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
-- *adribhiḥ* \< *adri*
+- *adribhiḥ* ← *adri*
 - \[noun\], instrumental, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *sutam* \< *su*
+- *sutam* ← *su*
 - \[verb noun\], accusative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
@@ -48,16 +48,16 @@ title = "Rig Veda 3.44.5"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *gā* \< *gāḥ* \< *go*
+- *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *haribhir* \< *haribhiḥ* \< *hari*
+- *haribhir* ← *haribhiḥ* ← *hari*
 - \[noun\], instrumental, plural, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *ājata* \< *āj* \< *√aj*
+- *ājata* ← *āj* ← *√aj*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------

@@ -2,74 +2,74 @@
 title = "Rig Veda 7.60.10"
 
 +++
--   *sasvaś* \< *sasvar*
+-   *sasvaś* ← *sasvar*
 - \[adverb\]
 - “secretly.”
 ------------------------------------------------------------------------
-- *ciddhi* \< *cit*
+- *ciddhi* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ciddhi* \< *hi*
+- *ciddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *samṛtis* \< *samṛtiḥ* \< *samṛti*
+- *samṛtis* ← *samṛtiḥ* ← *samṛti*
 - \[noun\], nominative, singular, feminine
 - “battle; contact.”
 ------------------------------------------------------------------------
-- *tveṣy* \< *tveṣī* \< *tveṣin*
+- *tveṣy* ← *tveṣī* ← *tveṣin*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *eṣām* \< *idam*
+- *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *apīcyena* \< *apīcya*
+- *apīcyena* ← *apīcya*
 - \[noun\], instrumental, singular, neuter
 - “secret; hidden; cryptic.”
 ------------------------------------------------------------------------
-- *sahasā* \< *sahas*
+- *sahasā* ← *sahas*
 - \[noun\], instrumental, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *sahante* \< *sah*
+- *sahante* ← *sah*
 - \[verb\], plural, Present indikative
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------
-- *yuṣmad* \< *yuṣmat* \< *tvad*
+- *yuṣmad* ← *yuṣmat* ← *tvad*
 - \[noun\], ablative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *bhiyā* \< *bhī*
+- *bhiyā* ← *bhī*
 - \[noun\], instrumental, singular, feminine
 - “fear; bhī; alarm.”
 ------------------------------------------------------------------------
-- *vṛṣaṇo* \< *vṛṣaṇaḥ* \< *vṛṣan*
+- *vṛṣaṇo* ← *vṛṣaṇaḥ* ← *vṛṣan*
 - \[noun\], vocative, plural, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *rejamānā* \< *rejamānāḥ* \< *rej*
+- *rejamānā* ← *rejamānāḥ* ← *rej*
 - \[verb noun\], nominative, plural
 - “tremor; flicker.”
 ------------------------------------------------------------------------
-- *dakṣasya* \< *dakṣa*
+- *dakṣasya* ← *dakṣa*
 - \[noun\], genitive, singular, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *mahinā* \< *mahina*
+- *mahinā* ← *mahina*
 - \[noun\], instrumental, singular, neuter
 - “greatness; enormousness.”
 ------------------------------------------------------------------------
-- *mṛﾱatā* \< *mṛḍata* \< *mṛḍ*
+- *mṛﾱatā* ← *mṛḍata* ← *mṛḍ*
 - \[verb\], plural, Present imperative
 - “pardon.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

@@ -2,58 +2,58 @@
 title = "Rig Veda 10.7.7"
 
 +++
--   *bhavā* \< *bhū*
+-   *bhavā* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *'vitota* \< *avitā* \< *avitṛ*
+- *'vitota* ← *avitā* ← *avitṛ*
 - \[noun\], nominative, singular, masculine
 - “favorable.”
 ------------------------------------------------------------------------
-- *'vitota* \< *uta*
+- *'vitota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *gopā* \< *gopāḥ* \< *gopā*
+- *gopā* ← *gopāḥ* ← *gopā*
 - \[noun\], nominative, singular, masculine
 - “herder; defender.”
 ------------------------------------------------------------------------
-- *bhavā* \< *bhū*
+- *bhavā* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *vayaskṛd* \< *vayaskṛt*
+- *vayaskṛd* ← *vayaskṛt*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vayodhāḥ* \< *vayodhas*
+- *vayodhāḥ* ← *vayodhas*
 - \[noun\], nominative, singular, masculine
 - “fortifying.”
 ------------------------------------------------------------------------
-- *rāsvā* \< *rā*
+- *rāsvā* ← *rā*
 - \[verb\], singular, Aorist imperative
 - “give; impart.”
 ------------------------------------------------------------------------
@@ -61,38 +61,38 @@ title = "Rig Veda 10.7.7"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sumaho* \< *su*
+- *sumaho* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sumaho* \< *mahaḥ* \< *mahas*
+- *sumaho* ← *mahaḥ* ← *mahas*
 - \[noun\], vocative, singular, masculine
 - “greatness; festival; glory; reward; gladness.”
 ------------------------------------------------------------------------
-- *havyadātiṃ* \< *havyadātim* \< *havyadāti*
+- *havyadātiṃ* ← *havyadātim* ← *havyadāti*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *trāsvota* \< *trāsva* \< *trā*
+- *trāsvota* ← *trāsva* ← *trā*
 - \[verb\], singular, Present imperative
 - “protect; help.”
 ------------------------------------------------------------------------
-- *trāsvota* \< *uta*
+- *trāsvota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *nas* \< *naḥ* \< *mad*
+- *nas* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tanvo* \< *tanvaḥ* \< *tanū*
+- *tanvo* ← *tanvaḥ* ← *tanū*
 - \[noun\], accusative, plural, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *aprayucchan* \< *aprayucchat*
+- *aprayucchan* ← *aprayucchat*
 - \[noun\], nominative, singular, masculine
 - “ceaseless; attentive.”
 ------------------------------------------------------------------------

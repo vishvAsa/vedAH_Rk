@@ -6,48 +6,48 @@ title = "Rig Veda 5.87.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *mahe* \< *mah*
+- *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *matayo* \< *matayaḥ* \< *mati*
+- *matayo* ← *matayaḥ* ← *mati*
 - \[noun\], nominative, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *yantu* \< *i*
+- *yantu* ← *i*
 - \[verb\], plural, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *viṣṇave* \< *viṣṇu*
+- *viṣṇave* ← *viṣṇu*
 - \[noun\], dative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
 ------------------------------------------------------------------------
-- *marutvate* \< *marutvat*
+- *marutvate* ← *marutvat*
 - \[noun\], dative, singular, masculine
 - “Marut(a).”
 ------------------------------------------------------------------------
-- *girijā* \< *giri*
+- *girijā* ← *giri*
 - \[noun\], masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
 ------------------------------------------------------------------------
-- *girijā* \< *jāḥ* \< *jā*
+- *girijā* ← *jāḥ* ← *jā*
 - \[noun\], nominative, singular, masculine
 - “born.”
 ------------------------------------------------------------------------
-- *evayāmarut* \< *eva*
+- *evayāmarut* ← *eva*
 - \[noun\]
 - “fast; rapid; agile.”
 ------------------------------------------------------------------------
-- *evayāmarut* \< *yā*
+- *evayāmarut* ← *yā*
 - \[noun\]
 - “going.”
 ------------------------------------------------------------------------
-- *evayāmarut* \< *marut*
+- *evayāmarut* ← *marut*
 - \[noun\], nominative, singular, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
@@ -55,42 +55,42 @@ title = "Rig Veda 5.87.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *śardhāya* \< *śardha*
+- *śardhāya* ← *śardha*
 - \[noun\], dative, singular, masculine
 - “troop.”
 ------------------------------------------------------------------------
-- *prayajyave* \< *prayajyu*
+- *prayajyave* ← *prayajyu*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *sukhādaye* \< *su*
+- *sukhādaye* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukhādaye* \< *khādaye* \< *khādi*
+- *sukhādaye* ← *khādaye* ← *khādi*
 - \[noun\], dative, singular, masculine
 - “ring.”
 ------------------------------------------------------------------------
-- *tavase* \< *tavas*
+- *tavase* ← *tavas*
 - \[noun\], dative, singular, masculine
 - “strong; energetic.”
 ------------------------------------------------------------------------
-- *bhandadiṣṭaye* \< *bhandat* \< *bhand*
+- *bhandadiṣṭaye* ← *bhandat* ← *bhand*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *bhandadiṣṭaye* \< *iṣṭaye* \< *iṣṭi*
+- *bhandadiṣṭaye* ← *iṣṭaye* ← *iṣṭi*
 - \[noun\], dative, singular, masculine
 - “yajña; offering; brick.”
 ------------------------------------------------------------------------
-- *dhunivratāya* \< *dhuni*
+- *dhunivratāya* ← *dhuni*
 - \[noun\]
 - “deafening; boisterous; noisy.”
 ------------------------------------------------------------------------
-- *dhunivratāya* \< *vratāya* \< *vrata*
+- *dhunivratāya* ← *vratāya* ← *vrata*
 - \[noun\], dative, singular, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *śavase* \< *śavas*
+- *śavase* ← *śavas*
 - \[noun\], dative, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------

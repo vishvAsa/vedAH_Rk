@@ -2,11 +2,11 @@
 title = "Rig Veda 1.129.10"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -15,14 +15,14 @@ title = "Rig Veda 1.129.10"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *rāyā* \< *rai*
+- *rāyā* ← *rai*
 - \[noun\], instrumental, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *tarūṣasograṃ* \< *tarūṣasā* \< *tarūṣas*
+- *tarūṣasograṃ* ← *tarūṣasā* ← *tarūṣas*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
-- *tarūṣasograṃ* \< *ugram* \< *ugra*
+- *tarūṣasograṃ* ← *ugram* ← *ugra*
 - \[noun\], accusative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
@@ -31,35 +31,35 @@ title = "Rig Veda 1.129.10"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *mahimā* \< *mahiman*
+- *mahimā* ← *mahiman*
 - \[noun\], nominative, singular, masculine
 - “greatness; power; mahiman.”
 ------------------------------------------------------------------------
-- *sakṣad* \< *sakṣat* \< *sac*
+- *sakṣad* ← *sakṣat* ← *sac*
 - \[verb\], singular, Aorist conj./subj.
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *avase* \< *av*
+- *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *mahe* \< *mah*
+- *mahe* ← *mah*
 - \[noun\], dative, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *mitraṃ* \< *mitram* \< *mitra*
+- *mitraṃ* ← *mitram* ← *mitra*
 - \[noun\], accusative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *nāvase* \< *na*
+- *nāvase* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāvase* \< *avase* \< *av*
+- *nāvase* ← *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
@@ -67,23 +67,23 @@ title = "Rig Veda 1.129.10"
 - \[noun\], vocative, singular, masculine
 - “powerful.”
 ------------------------------------------------------------------------
-- *trātar* \< *trātṛ*
+- *trātar* ← *trātṛ*
 - \[noun\], vocative, singular, masculine
 - “defender; savior.”
 ------------------------------------------------------------------------
-- *avitā* \< *av*
+- *avitā* ← *av*
 - \[verb\], singular, periphrast. future
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *rathaṃ* \< *ratham* \< *ratha*
+- *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *kaṃ* \< *kam* \< *ka*
+- *kaṃ* ← *kam* ← *ka*
 - \[noun\], accusative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -91,40 +91,40 @@ title = "Rig Veda 1.129.10"
 - \[noun\], vocative, singular, masculine
 - “immortal.”
 ------------------------------------------------------------------------
-- *anyam* \< *anya*
+- *anyam* ← *anya*
 - \[noun\], accusative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *asmad* \< *asmat* \< *mad*
+- *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ririṣeḥ* \< *riṣ*
+- *ririṣeḥ* ← *riṣ*
 - \[verb\], singular, Aorist optative
 - “suffer; harm.”
 ------------------------------------------------------------------------
-- *kaṃ* \< *kam* \< *ka*
+- *kaṃ* ← *kam* ← *ka*
 - \[noun\], accusative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *adrivo* \< *adrivas* \< *adrivat*
+- *adrivo* ← *adrivas* ← *adrivat*
 - \[noun\], vocative, singular, masculine
 - “rocky; petrous.”
 ------------------------------------------------------------------------
-- *ririkṣantaṃ* \< *\_* \< *√\_*
+- *ririkṣantaṃ* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *adrivaḥ* \< *adrivas* \< *adrivat*
+- *adrivaḥ* ← *adrivas* ← *adrivat*
 - \[noun\], vocative, singular, masculine
 - “rocky; petrous.”
 ------------------------------------------------------------------------

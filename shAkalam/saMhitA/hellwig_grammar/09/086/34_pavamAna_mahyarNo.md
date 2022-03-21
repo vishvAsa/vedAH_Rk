@@ -2,15 +2,15 @@
 title = "Rig Veda 9.86.34"
 
 +++
--   *pavamāna* \< *pū*
+-   *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *mahy* \< *mahi*
+- *mahy* ← *mahi*
 - \[noun\], nominative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *arṇo* \< *arṇaḥ* \< *arṇas*
+- *arṇo* ← *arṇaḥ* ← *arṇas*
 - \[noun\], nominative, singular, neuter
 - “body of water; water.”
 ------------------------------------------------------------------------
@@ -18,11 +18,11 @@ title = "Rig Veda 9.86.34"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *dhāvasi* \< *dhāv*
+- *dhāvasi* ← *dhāv*
 - \[verb\], singular, Present indikative
 - “run; run; wash.”
 ------------------------------------------------------------------------
-- *sūro* \< *sūraḥ* \< *sūra*
+- *sūro* ← *sūraḥ* ← *sūra*
 - \[noun\], nominative, singular, masculine
 - “sun.”
 ------------------------------------------------------------------------
@@ -30,52 +30,52 @@ title = "Rig Veda 9.86.34"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *citro* \< *citraḥ* \< *citra*
+- *citro* ← *citraḥ* ← *citra*
 - \[noun\], nominative, singular, masculine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *avyayāni* \< *avyaya*
+- *avyayāni* ← *avyaya*
 - \[noun\], accusative, plural, neuter
 - “sheep.”
 ------------------------------------------------------------------------
-- *pavyayā* \< *pavyaya*
+- *pavyayā* ← *pavyaya*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *gabhastipūto* \< *gabhasti*
+- *gabhastipūto* ← *gabhasti*
 - \[noun\], masculine
 - “beam; hand; sun.”
 ------------------------------------------------------------------------
-- *gabhastipūto* \< *pūtaḥ* \< *pū*
+- *gabhastipūto* ← *pūtaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *nṛbhir* \< *nṛbhiḥ* \< *nṛ*
+- *nṛbhir* ← *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *adribhiḥ* \< *adri*
+- *adribhiḥ* ← *adri*
 - \[noun\], instrumental, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *suto* \< *sutaḥ* \< *su*
+- *suto* ← *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *mahe* \< *mah*
+- *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *vājāya* \< *vāja*
+- *vājāya* ← *vāja*
 - \[noun\], dative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *dhanyāya* \< *dhanya*
+- *dhanyāya* ← *dhanya*
 - \[noun\], dative, singular, masculine
 - “fortunate; auspicious; affluent.”
 ------------------------------------------------------------------------
-- *dhanvasi* \< *dhanv*
+- *dhanvasi* ← *dhanv*
 - \[verb\], singular, Present indikative
 - “run.”
 ------------------------------------------------------------------------

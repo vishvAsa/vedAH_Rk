@@ -6,23 +6,23 @@ title = "Rig Veda 10.102.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ratham* \< *ratha*
+- *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *mithūkṛtam* \< *mithūkṛt*
+- *mithūkṛtam* ← *mithūkṛt*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *'vatu* \< *avatu* \< *av*
+- *'vatu* ← *avatu* ← *av*
 - \[verb\], singular, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
@@ -30,11 +30,11 @@ title = "Rig Veda 10.102.1"
 - \[adverb\]
 - “boldly.”
 ------------------------------------------------------------------------
-- *asminn* \< *asmin* \< *idam*
+- *asminn* ← *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ājau* \< *āji*
+- *ājau* ← *āji*
 - \[noun\], locative, singular, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
 ------------------------------------------------------------------------
@@ -42,24 +42,24 @@ title = "Rig Veda 10.102.1"
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu.”
 ------------------------------------------------------------------------
-- *śravāyye* \< *śravāyya*
+- *śravāyye* ← *śravāyya*
 - \[noun\], locative, singular, masculine
 - “celebrated.”
 ------------------------------------------------------------------------
-- *dhanabhakṣeṣu* \< *dhana*
+- *dhanabhakṣeṣu* ← *dhana*
 - \[noun\], neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
 ------------------------------------------------------------------------
-- *dhanabhakṣeṣu* \< *bhakṣeṣu* \< *bhakṣa*
+- *dhanabhakṣeṣu* ← *bhakṣeṣu* ← *bhakṣa*
 - \[noun\], locative, plural, masculine
 - “food; eating; drink; beverage.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *'va* \< *ava* \< *av*
+- *'va* ← *ava* ← *av*
 - \[verb\], singular, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------

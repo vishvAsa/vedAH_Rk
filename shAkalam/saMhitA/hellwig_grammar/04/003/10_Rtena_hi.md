@@ -2,7 +2,7 @@
 title = "Rig Veda 4.3.10"
 
 +++
--   *ṛtena* \< *ṛta*
+-   *ṛtena* ← *ṛta*
 - \[noun\], instrumental, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
@@ -10,73 +10,73 @@ title = "Rig Veda 4.3.10"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *ṣmā* \< *sma*
+- *ṣmā* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *vṛṣabhaś* \< *vṛṣabhaḥ* \< *vṛṣabha*
+- *vṛṣabhaś* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *aktaḥ* \< *añj*
+- *aktaḥ* ← *añj*
 - \[verb noun\], nominative, singular
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *pumāṃ* \< *puṃs*
+- *pumāṃ* ← *puṃs*
 - \[noun\], nominative, singular, masculine
 - “man; masculine; man; puṃvajra; puruṣa; son; puṃs \[word\].”
 ------------------------------------------------------------------------
-- *agniḥ* \< *agni*
+- *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *payasā* \< *payas*
+- *payasā* ← *payas*
 - \[noun\], instrumental, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
-- *pṛṣṭhyena* \< *pṛṣṭhya*
+- *pṛṣṭhyena* ← *pṛṣṭhya*
 - \[noun\], instrumental, singular, neuter
 ------------------------------------------------------------------------
-- *aspandamāno* \< *a*
+- *aspandamāno* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *aspandamāno* \< *spandamānaḥ* \< *spand*
+- *aspandamāno* ← *spandamānaḥ* ← *spand*
 - \[verb noun\], nominative, singular
 - “quiver.”
 ------------------------------------------------------------------------
-- *acarad* \< *acarat* \< *car*
+- *acarad* ← *acarat* ← *car*
 - \[verb\], singular, Imperfect
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *vayodhā* \< *vayodhāḥ* \< *vayodhas*
+- *vayodhā* ← *vayodhāḥ* ← *vayodhas*
 - \[noun\], nominative, singular, masculine
 - “fortifying.”
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣan*
+- *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *śukraṃ* \< *śukram* \< *śukra*
+- *śukraṃ* ← *śukram* ← *śukra*
 - \[noun\], accusative, singular, neuter
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *duduhe* \< *duh*
+- *duduhe* ← *duh*
 - \[verb\], singular, Perfect indicative
 - “milk.”
 ------------------------------------------------------------------------
-- *pṛśnir* \< *pṛśniḥ* \< *pṛśni*
+- *pṛśnir* ← *pṛśniḥ* ← *pṛśni*
 - \[noun\], nominative, singular, feminine
 - “Pṛśni; beam.”
 ------------------------------------------------------------------------
-- *ūdhaḥ* \< *ūdhas*
+- *ūdhaḥ* ← *ūdhas*
 - \[noun\], accusative, singular, neuter
 - “udder; ūdhas \[word\]; night.”
 ------------------------------------------------------------------------

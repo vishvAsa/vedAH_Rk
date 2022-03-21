@@ -2,25 +2,25 @@
 title = "Rig Veda 2.24.14"
 
 +++
--   *brahmaṇaspater* \< *brahmaṇaspateḥ* \< *brahmaṇaspati*
+-   *brahmaṇaspater* ← *brahmaṇaspateḥ* ← *brahmaṇaspati*
 - \[noun\], genitive, singular, masculine
 - “Brahmaṇaspati.”
 ------------------------------------------------------------------------
-- *abhavad* \< *abhavat* \< *bhū*
+- *abhavad* ← *abhavat* ← *bhū*
 - \[verb\], singular, Imperfect
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *yathāvaśaṃ* \< *yathāvaśam*
+- *yathāvaśaṃ* ← *yathāvaśam*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *satyo* \< *satyaḥ* \< *satya*
+- *satyo* ← *satyaḥ* ← *satya*
 - \[noun\], nominative, singular, masculine
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *manyur* \< *manyuḥ* \< *manyu*
+- *manyur* ← *manyuḥ* ← *manyu*
 - \[noun\], nominative, singular, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------
@@ -28,7 +28,7 @@ title = "Rig Veda 2.24.14"
 - \[noun\], accusative, plural, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *karmā* \< *karman*
+- *karmā* ← *karman*
 - \[noun\], accusative, plural, neuter
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
     function; production; job; operation; karman \[word\]; act; job;
@@ -36,7 +36,7 @@ title = "Rig Veda 2.24.14"
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
 ------------------------------------------------------------------------
-- *kariṣyataḥ* \< *kṛ*
+- *kariṣyataḥ* ← *kṛ*
 - \[verb noun\], genitive, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -47,25 +47,25 @@ title = "Rig Veda 2.24.14"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *gā* \< *gāḥ* \< *go*
+- *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *udājat* \< *udaj* \< *√aj*
+- *udājat* ← *udaj* ← *√aj*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *dive* \< *diva*
+- *dive* ← *diva*
 - \[noun\], accusative, dual, neuter
 - “day; sky; Svarga.”
 ------------------------------------------------------------------------
@@ -73,33 +73,33 @@ title = "Rig Veda 2.24.14"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *cābhajan* \< *ca*
+- *cābhajan* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cābhajan* \< *abhajat* \< *bhaj*
+- *cābhajan* ← *abhajat* ← *bhaj*
 - \[verb\], singular, Imperfect
 - “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
     one's share; partake; share; get; approach; love; use.”
 ------------------------------------------------------------------------
-- *mahīva* \< *mahī* \< *mah*
+- *mahīva* ← *mahī* ← *mah*
 - \[noun\], nominative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *mahīva* \< *iva*
+- *mahīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *rītiḥ* \< *rīti*
+- *rītiḥ* ← *rīti*
 - \[noun\], nominative, singular, feminine
 - “brass; rītikā; method; bell metal; stream; expressive style;
     manner.”
 ------------------------------------------------------------------------
-- *śavasāsarat* \< *śavasā* \< *śavas*
+- *śavasāsarat* ← *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *śavasāsarat* \< *asarat* \< *sṛ*
+- *śavasāsarat* ← *asarat* ← *sṛ*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “sṛ; liquefy; run; spread; stretch out.”
 ------------------------------------------------------------------------

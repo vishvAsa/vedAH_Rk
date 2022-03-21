@@ -2,57 +2,57 @@
 title = "Rig Veda 6.29.6"
 
 +++
--   *eved* \< *eva*
+-   *eved* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *eved* \< *id*
+- *eved* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *suhava* \< *su*
+- *suhava* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suhava* \< *havaḥ* \< *hava*
+- *suhava* ← *havaḥ* ← *hava*
 - \[noun\], nominative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *ṛṣvo* \< *ṛṣvaḥ* \< *ṛṣva*
+- *ṛṣvo* ← *ṛṣvaḥ* ← *ṛṣva*
 - \[noun\], nominative, singular, masculine
 - “distinguished; high; noble; enormous.”
 ------------------------------------------------------------------------
-- *astūtī* \< *astu* \< *as*
+- *astūtī* ← *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *astūtī* \< *ūtī* \< *ūti*
+- *astūtī* ← *ūtī* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *anūtī* \< *an*
+- *anūtī* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *anūtī* \< *ūtī* \< *ūti*
+- *anūtī* ← *ūtī* ← *ūti*
 - \[noun\], instrumental, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *hiriśipraḥ* \< *hiriśipra*
+- *hiriśipraḥ* ← *hiriśipra*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *satvā* \< *satvan*
+- *satvā* ← *satvan*
 - \[noun\], nominative, singular, masculine
 - “warrior.”
 ------------------------------------------------------------------------
-- *evā* \< *eva*
+- *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
@@ -61,21 +61,21 @@ title = "Rig Veda 6.29.6"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *jāto* \< *jātaḥ* \< *jan*
+- *jāto* ← *jātaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *asamātyojāḥ* \< *asamāti*
+- *asamātyojāḥ* ← *asamāti*
 - \[noun\]
 - “alone(p).”
 ------------------------------------------------------------------------
-- *asamātyojāḥ* \< *ojāḥ* \< *ojas*
+- *asamātyojāḥ* ← *ojāḥ* ← *ojas*
 - \[noun\], nominative, singular, masculine
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *purū* \< *puru*
+- *purū* ← *puru*
 - \[noun\], accusative, plural, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
@@ -83,11 +83,11 @@ title = "Rig Veda 6.29.6"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *vṛtrā* \< *vṛtra*
+- *vṛtrā* ← *vṛtra*
 - \[noun\], accusative, plural, neuter
 - “enemy.”
 ------------------------------------------------------------------------
-- *hanati* \< *han*
+- *hanati* ← *han*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
@@ -97,7 +97,7 @@ title = "Rig Veda 6.29.6"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *dasyūn* \< *dasyu*
+- *dasyūn* ← *dasyu*
 - \[noun\], accusative, plural, masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------

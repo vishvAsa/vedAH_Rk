@@ -6,44 +6,44 @@ title = "Rig Veda 9.98.7"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *tyaṃ* \< *tyam* \< *tya*
+- *tyaṃ* ← *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *haryataṃ* \< *haryatam* \< *haryata*
+- *haryataṃ* ← *haryatam* ← *haryata*
 - \[noun\], accusative, singular, masculine
 - “desirable; delightful.”
 ------------------------------------------------------------------------
-- *harim* \< *hari*
+- *harim* ← *hari*
 - \[noun\], accusative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
-- *babhrum* \< *babhru*
+- *babhrum* ← *babhru*
 - \[noun\], accusative, singular, masculine
 - “tawny; brown.”
 ------------------------------------------------------------------------
-- *punanti* \< *pū*
+- *punanti* ← *pū*
 - \[verb\], plural, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *vāreṇa* \< *vāra*
+- *vāreṇa* ← *vāra*
 - \[noun\], instrumental, singular, masculine
 - “strainer.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *devān* \< *deva*
+- *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *viśvāṃ* \< *viśva*
+- *viśvāṃ* ← *viśva*
 - \[noun\], accusative, plural, masculine
 - “Viśvakarman; Viśvedevās; Vishnu.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -51,7 +51,7 @@ title = "Rig Veda 9.98.7"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *madena* \< *mada*
+- *madena* ← *mada*
 - \[noun\], instrumental, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
@@ -61,7 +61,7 @@ title = "Rig Veda 9.98.7"
 - \[adverb\]
 - “together; together; with; jointly; together; saha \[word\]; along.”
 ------------------------------------------------------------------------
-- *gacchati* \< *gam*
+- *gacchati* ← *gam*
 - \[verb\], singular, Present indikative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

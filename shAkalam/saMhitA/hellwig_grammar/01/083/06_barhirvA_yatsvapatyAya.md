@@ -2,7 +2,7 @@
 title = "Rig Veda 1.83.6"
 
 +++
--   *barhir* \< *barhiḥ* \< *barhis*
+-   *barhir* ← *barhiḥ* ← *barhis*
 - \[noun\], nominative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
@@ -14,18 +14,18 @@ title = "Rig Veda 1.83.6"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *svapatyāya* \< *su*
+- *svapatyāya* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svapatyāya* \< *apatyāya* \< *apatya*
+- *svapatyāya* ← *apatyāya* ← *apatya*
 - \[noun\], dative, singular, neuter
 - “child; offspring; patronymic; descendant.”
 ------------------------------------------------------------------------
-- *vṛjyate* \< *vṛj*
+- *vṛjyate* ← *vṛj*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 ------------------------------------------------------------------------
-- *'rko* \< *arkaḥ* \< *arka*
+- *'rko* ← *arkaḥ* ← *arka*
 - \[noun\], nominative, singular, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
@@ -34,19 +34,19 @@ title = "Rig Veda 1.83.6"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *ślokam* \< *śloka*
+- *ślokam* ← *śloka*
 - \[noun\], accusative, singular, masculine
 - “Śloka; fame; hymn; śloka \[word\]; praise; glory; verse.”
 ------------------------------------------------------------------------
-- *āghoṣate* \< *āghuṣ* \< *√ghuṣ*
+- *āghoṣate* ← *āghuṣ* ← *√ghuṣ*
 - \[verb\], singular, Present indikative
 - “listen.”
 ------------------------------------------------------------------------
-- *divi* \< *div*
+- *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *grāvā* \< *grāvan*
+- *grāvā* ← *grāvan*
 - \[noun\], nominative, singular, masculine
 - “stone; millstone; grindstone; mountain.”
 ------------------------------------------------------------------------
@@ -54,38 +54,38 @@ title = "Rig Veda 1.83.6"
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *vadati* \< *vad*
+- *vadati* ← *vad*
 - \[verb\], singular, Present indikative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
 ------------------------------------------------------------------------
-- *kārur* \< *kāruḥ* \< *kāru*
+- *kārur* ← *kāruḥ* ← *kāru*
 - \[noun\], nominative, singular, masculine
 - “poet; singer.”
 ------------------------------------------------------------------------
-- *ukthyas* \< *ukthyaḥ* \< *ukthya*
+- *ukthyas* ← *ukthyaḥ* ← *ukthya*
 - \[noun\], nominative, singular, masculine
 - “applaudable.”
 ------------------------------------------------------------------------
-- *tasyed* \< *tasya* \< *tad*
+- *tasyed* ← *tasya* ← *tad*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tasyed* \< *id*
+- *tasyed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *abhipitveṣu* \< *abhipitva*
+- *abhipitveṣu* ← *abhipitva*
 - \[noun\], locative, plural, neuter
 ------------------------------------------------------------------------
-- *raṇyati* \< *raṇ*
+- *raṇyati* ← *raṇ*
 - \[verb\], singular, Present indikative
 - “rejoice.”
 ------------------------------------------------------------------------

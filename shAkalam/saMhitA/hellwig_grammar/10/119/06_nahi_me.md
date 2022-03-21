@@ -5,37 +5,37 @@ title = "Rig Veda 10.119.6"
 -   *nahi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *akṣipac* \< *akṣipat*
+- *akṣipac* ← *akṣipat*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *canācchāntsuḥ* \< *cana*
+- *canācchāntsuḥ* ← *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *canācchāntsuḥ* \< *acchāntsuḥ* \< *chand*
+- *canācchāntsuḥ* ← *acchāntsuḥ* ← *chand*
 - \[verb\], plural, Athematic s aor. (Ind.)
 ------------------------------------------------------------------------
-- *pañca* \< *pañcan*
+- *pañca* ← *pañcan*
 - \[noun\], nominative, plural, feminine
 - “five; fifth; pañcan \[word\].”
 ------------------------------------------------------------------------
-- *kṛṣṭayaḥ* \< *kṛṣṭi*
+- *kṛṣṭayaḥ* ← *kṛṣṭi*
 - \[noun\], nominative, plural, feminine
 - “people; citizenry.”
 ------------------------------------------------------------------------
-- *kuvit* \< *kuvid*
+- *kuvit* ← *kuvid*
 - \[adverb\]
 - “surely; indeed.”
 ------------------------------------------------------------------------
-- *somasyāpām* \< *somasya* \< *soma*
+- *somasyāpām* ← *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somasyāpām* \< *apām* \< *pā*
+- *somasyāpām* ← *apām* ← *pā*
 - \[verb\], singular, Root aorist (Ind.)
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------

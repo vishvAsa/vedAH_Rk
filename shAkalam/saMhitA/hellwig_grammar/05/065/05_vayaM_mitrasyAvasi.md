@@ -2,42 +2,42 @@
 title = "Rig Veda 5.65.5"
 
 +++
--   *vayam* \< *mad*
+-   *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mitrasyāvasi* \< *mitrasya* \< *mitra*
+- *mitrasyāvasi* ← *mitrasya* ← *mitra*
 - \[noun\], genitive, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *mitrasyāvasi* \< *avasi* \< *avas*
+- *mitrasyāvasi* ← *avasi* ← *avas*
 - \[noun\], locative, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *syāma* \< *as*
+- *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *saprathastame* \< *saprathastama*
+- *saprathastame* ← *saprathastama*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *anehasas* \< *anehasaḥ* \< *anehas*
+- *anehasas* ← *anehasaḥ* ← *anehas*
 - \[noun\], nominative, plural, masculine
 - “faultless; anehas \[word\]; incomparable.”
 ------------------------------------------------------------------------
-- *tvotayaḥ* \< *tvoti*
+- *tvotayaḥ* ← *tvoti*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *satrā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *varuṇaśeṣasaḥ* \< *varuṇa*
+- *varuṇaśeṣasaḥ* ← *varuṇa*
 - \[noun\], masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *varuṇaśeṣasaḥ* \< *śeṣasaḥ* \< *śeṣas*
+- *varuṇaśeṣasaḥ* ← *śeṣasaḥ* ← *śeṣas*
 - \[noun\], genitive, singular, neuter
 - “offspring.”
 ------------------------------------------------------------------------

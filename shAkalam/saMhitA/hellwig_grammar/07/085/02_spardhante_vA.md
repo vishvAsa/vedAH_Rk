@@ -2,11 +2,11 @@
 title = "Rig Veda 7.85.2"
 
 +++
--   *spardhante* \< *spṛdh*
+-   *spardhante* ← *spṛdh*
 - \[verb\], plural, Present indikative
 - “rival.”
 ------------------------------------------------------------------------
-- *vā* \< *vai*
+- *vā* ← *vai*
 - \[adverb\]
 - “surely; on the other hand; vai \[word\]; indeed.”
 ------------------------------------------------------------------------
@@ -14,7 +14,7 @@ title = "Rig Veda 7.85.2"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *devahūye* \< *devahūya*
+- *devahūye* ← *devahūya*
 - \[noun\], locative, singular, neuter
 - “devahūya \[word\].”
 ------------------------------------------------------------------------
@@ -23,56 +23,56 @@ title = "Rig Veda 7.85.2"
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *yeṣu* \< *yad*
+- *yeṣu* ← *yad*
 - \[noun\], locative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dhvajeṣu* \< *dhvaja*
+- *dhvajeṣu* ← *dhvaja*
 - \[noun\], locative, plural, masculine
 - “flag; flagpole; penis; flag; sign.”
 ------------------------------------------------------------------------
-- *didyavaḥ* \< *didyu*
+- *didyavaḥ* ← *didyu*
 - \[noun\], nominative, plural, masculine
 - “arrow; projectile.”
 ------------------------------------------------------------------------
-- *patanti* \< *pat*
+- *patanti* ← *pat*
 - \[verb\], plural, Present indikative
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
 ------------------------------------------------------------------------
-- *yuvaṃ* \< *yuvam* \< *tvad*
+- *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *tāṃ* \< *tad*
+- *tāṃ* ← *tad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *indrāvaruṇāv* \< *indrāvaruṇau* \< *indrāvaruṇa*
+- *indrāvaruṇāv* ← *indrāvaruṇau* ← *indrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Indra.”
 ------------------------------------------------------------------------
-- *amitrān* \< *amitra*
+- *amitrān* ← *amitra*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe.”
 ------------------------------------------------------------------------
-- *hatam* \< *han*
+- *hatam* ← *han*
 - \[verb\], dual, Present imperative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *parācaḥ* \< *parāñc*
+- *parācaḥ* ← *parāñc*
 - \[noun\], accusative, plural, masculine
 - “fleeing(a); departing(a).”
 ------------------------------------------------------------------------
-- *śarvā* \< *śaru*
+- *śarvā* ← *śaru*
 - \[noun\], instrumental, singular, feminine
 - “arrow.”
 ------------------------------------------------------------------------
-- *viṣūcaḥ* \< *viṣvañc*
+- *viṣūcaḥ* ← *viṣvañc*
 - \[noun\], accusative, plural, masculine
 - “dispersed; viṣvañc \[word\].”
 ------------------------------------------------------------------------

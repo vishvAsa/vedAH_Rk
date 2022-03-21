@@ -2,16 +2,16 @@
 title = "Rig Veda 8.20.11"
 
 +++
--   *samānam* \< *samāna*
+-   *samānam* ← *samāna*
 - \[noun\], nominative, singular, neuter
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
 ------------------------------------------------------------------------
-- *añjy* \< *añji*
+- *añjy* ← *añji*
 - \[noun\], nominative, singular, neuter
 - “color; ointment; adornment.”
 ------------------------------------------------------------------------
-- *eṣāṃ* \< *eṣām* \< *idam*
+- *eṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -19,11 +19,11 @@ title = "Rig Veda 8.20.11"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *bhrājante* \< *bhrāj*
+- *bhrājante* ← *bhrāj*
 - \[verb\], plural, Present indikative
 - “shine; glitter; look.”
 ------------------------------------------------------------------------
-- *rukmāso* \< *rukmāsaḥ* \< *rukma*
+- *rukmāso* ← *rukmāsaḥ* ← *rukma*
 - \[noun\], nominative, plural, masculine
 - “adornment.”
 ------------------------------------------------------------------------
@@ -31,15 +31,15 @@ title = "Rig Veda 8.20.11"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *bāhuṣu* \< *bāhu*
+- *bāhuṣu* ← *bāhu*
 - \[noun\], locative, plural, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
-- *davidyutaty* \< *davidyutati* \< *davidyut* \< *√dyut*
+- *davidyutaty* ← *davidyutati* ← *davidyut* ← *√dyut*
 - \[verb\], plural, Present indikative
 - “flash.”
 ------------------------------------------------------------------------
-- *ṛṣṭayaḥ* \< *ṛṣṭi*
+- *ṛṣṭayaḥ* ← *ṛṣṭi*
 - \[noun\], nominative, plural, feminine
 - “spear.”
 ------------------------------------------------------------------------

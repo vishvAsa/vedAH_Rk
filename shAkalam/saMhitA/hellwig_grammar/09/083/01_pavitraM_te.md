@@ -2,51 +2,51 @@
 title = "Rig Veda 9.83.1"
 
 +++
--   *pavitraṃ* \< *pavitram* \< *pavitra*
+-   *pavitraṃ* ← *pavitram* ← *pavitra*
 - \[noun\], nominative, singular, neuter
 - “strainer.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vitatam* \< *vitan* \< *√tan*
+- *vitatam* ← *vitan* ← *√tan*
 - \[verb noun\], nominative, singular
 - “expand; perform; scatter; prolong; increase.”
 ------------------------------------------------------------------------
-- *brahmaṇaspate* \< *brahmaṇaspati*
+- *brahmaṇaspate* ← *brahmaṇaspati*
 - \[noun\], vocative, singular, masculine
 - “Brahmaṇaspati.”
 ------------------------------------------------------------------------
-- *prabhur* \< *prabhuḥ* \< *prabhu*
+- *prabhur* ← *prabhuḥ* ← *prabhu*
 - \[noun\], nominative, singular, masculine
 - “mighty; powerful.”
 ------------------------------------------------------------------------
-- *gātrāṇi* \< *gātra*
+- *gātrāṇi* ← *gātra*
 - \[noun\], accusative, plural, neuter
 - “body part; body; limb; part; largeness.”
 ------------------------------------------------------------------------
-- *pary* \< *pari*
+- *pary* ← *pari*
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *eṣi* \< *i*
+- *eṣi* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *viśvataḥ* \< *viśvatas*
+- *viśvataḥ* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
 ------------------------------------------------------------------------
-- *ataptatanūr* \< *a*
+- *ataptatanūr* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *ataptatanūr* \< *tapta* \< *tap*
+- *ataptatanūr* ← *tapta* ← *tap*
 - \[verb noun\]
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
 ------------------------------------------------------------------------
-- *ataptatanūr* \< *tanūḥ* \< *tanū*
+- *ataptatanūr* ← *tanūḥ* ← *tanū*
 - \[noun\], nominative, singular, masculine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
@@ -54,21 +54,21 @@ title = "Rig Veda 9.83.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *āmo* \< *āmaḥ* \< *āma*
+- *āmo* ← *āmaḥ* ← *āma*
 - \[noun\], nominative, singular, masculine
 - “uncooked; unfestering; unburnt; green; undigested; fusty; raw.”
 ------------------------------------------------------------------------
-- *aśnute* \< *aś*
+- *aśnute* ← *aś*
 - \[verb\], singular, Present indikative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *śṛtāsa* \< *śṛtāsaḥ* \< *śrī*
+- *śṛtāsa* ← *śṛtāsaḥ* ← *śrī*
 - \[verb noun\], nominative, plural
 - “cook; boil; heat; cook; mix.”
 ------------------------------------------------------------------------
@@ -76,12 +76,12 @@ title = "Rig Veda 9.83.1"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *vahantas* \< *vahantaḥ* \< *vah*
+- *vahantas* ← *vahantaḥ* ← *vah*
 - \[verb noun\], nominative, plural
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *tat* \< *tad*
+- *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -91,7 +91,7 @@ title = "Rig Veda 9.83.1"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *āśata* \< *aś*
+- *āśata* ← *aś*
 - \[verb\], plural, Root aorist (Ind.)
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------

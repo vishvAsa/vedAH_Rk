@@ -2,18 +2,18 @@
 title = "Rig Veda 10.103.12"
 
 +++
--   *amīṣāṃ* \< *amīṣām* \< *adas*
+-   *amīṣāṃ* ← *amīṣām* ← *adas*
 - \[noun\], genitive, plural, masculine
 - “that; John Doe; yonder; from here.”
 ------------------------------------------------------------------------
-- *cittam* \< *citta*
+- *cittam* ← *citta*
 - \[noun\], accusative, singular, neuter
 - “mind; attention; idea; thinking; fondness; purpose.”
 ------------------------------------------------------------------------
-- *pratilobhayantī* \< *pratilobhay* \< *√lubh*
+- *pratilobhayantī* ← *pratilobhay* ← *√lubh*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *gṛhāṇāṅgāny* \< *gṛhāṇa* \< *grah*
+- *gṛhāṇāṅgāny* ← *gṛhāṇa* ← *grah*
 - \[verb\], singular, Present imperative
 - “take; grasp; take out; extract; perceive; pick; assume; include;
     accept; understand; use; learn; possess; keep; choose; accept;
@@ -21,16 +21,16 @@ title = "Rig Veda 10.103.12"
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
 ------------------------------------------------------------------------
-- *gṛhāṇāṅgāny* \< *aṅgāni* \< *aṅga*
+- *gṛhāṇāṅgāny* ← *aṅgāni* ← *aṅga*
 - \[noun\], accusative, plural, neuter
 - “body part; body; part; limb; extremity; Vedāṅga; section; root;
     army unit; aṅga \[word\]; subsection; aṅgamantra; part; body;
     ingredient.”
 ------------------------------------------------------------------------
-- *apve* \< *apvā*
+- *apve* ← *apvā*
 - \[noun\], vocative, singular, feminine
 ------------------------------------------------------------------------
-- *parehi* \< *pare* \< *√i*
+- *parehi* ← *pare* ← *√i*
 - \[verb\], singular, Present imperative
 - “travel; depart; go; die.”
 ------------------------------------------------------------------------
@@ -38,42 +38,42 @@ title = "Rig Veda 10.103.12"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *prehi* \< *pre* \< *√i*
+- *prehi* ← *pre* ← *√i*
 - \[verb\], singular, Present imperative
 - “die; proceed; advance; continue; begin; depart.”
 ------------------------------------------------------------------------
-- *nir* \< *niḥ*
+- *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *daha* \< *dah*
+- *daha* ← *dah*
 - \[verb\], singular, Present imperative
 - “burn; cauterize; heat; burn; burn; burn; roast; blaze; burn;
     distress; destroy.”
 ------------------------------------------------------------------------
-- *hṛtsu* \< *hṛd*
+- *hṛtsu* ← *hṛd*
 - \[noun\], locative, plural
 - “heart; heart; mind; breast; hṛd \[word\].”
 ------------------------------------------------------------------------
-- *śokair* \< *śokaiḥ* \< *śoka*
+- *śokair* ← *śokaiḥ* ← *śoka*
 - \[noun\], instrumental, plural, masculine
 - “sorrow; grief; pain; heat; śoka \[word\]; fire; flare; heat;
     trouble.”
 ------------------------------------------------------------------------
-- *andhenāmitrās* \< *andhena* \< *andha*
+- *andhenāmitrās* ← *andhena* ← *andha*
 - \[noun\], instrumental, singular, neuter
 - “blind; andha \[word\]; andha; blind; complete; dark.”
 ------------------------------------------------------------------------
-- *andhenāmitrās* \< *amitrāḥ* \< *amitra*
+- *andhenāmitrās* ← *amitrāḥ* ← *amitra*
 - \[noun\], nominative, plural, masculine
 - “enemy; foe.”
 ------------------------------------------------------------------------
-- *tamasā* \< *tamas*
+- *tamasā* ← *tamas*
 - \[noun\], instrumental, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
 ------------------------------------------------------------------------
-- *sacantām* \< *sac*
+- *sacantām* ← *sac*
 - \[verb\], plural, Present imperative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------

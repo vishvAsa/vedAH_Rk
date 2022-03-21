@@ -2,26 +2,26 @@
 title = "Rig Veda 1.127.2"
 
 +++
--   *yajiṣṭhaṃ* \< *yajiṣṭham* \< *yajiṣṭha*
+-   *yajiṣṭhaṃ* ← *yajiṣṭham* ← *yajiṣṭha*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *yajamānā* \< *yajamānāḥ* \< *yaj*
+- *yajamānā* ← *yajamānāḥ* ← *yaj*
 - \[verb noun\], nominative, plural
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *huvema* \< *hu*
+- *huvema* ← *hu*
 - \[verb\], plural, Aorist optative
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
-- *jyeṣṭham* \< *jyeṣṭha*
+- *jyeṣṭham* ← *jyeṣṭha*
 - \[noun\], accusative, singular, masculine
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
 ------------------------------------------------------------------------
-- *aṅgirasāṃ* \< *aṅgirasām* \< *aṅgiras*
+- *aṅgirasāṃ* ← *aṅgirasām* ← *aṅgiras*
 - \[noun\], genitive, plural, masculine
 - “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
     Aṅgiras.”
@@ -30,11 +30,11 @@ title = "Rig Veda 1.127.2"
 - \[noun\], vocative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *manmabhir* \< *manmabhiḥ* \< *manman*
+- *manmabhir* ← *manmabhiḥ* ← *manman*
 - \[noun\], instrumental, plural, neuter
 - “hymn; idea; purpose.”
 ------------------------------------------------------------------------
-- *viprebhiḥ* \< *vipra*
+- *viprebhiḥ* ← *vipra*
 - \[noun\], instrumental, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
@@ -42,11 +42,11 @@ title = "Rig Veda 1.127.2"
 - \[noun\], vocative, singular, masculine
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *manmabhiḥ* \< *manman*
+- *manmabhiḥ* ← *manman*
 - \[noun\], instrumental, plural, neuter
 - “hymn; idea; purpose.”
 ------------------------------------------------------------------------
-- *parijmānam* \< *parijman*
+- *parijmānam* ← *parijman*
 - \[noun\], accusative, singular, masculine
 - “encompassing(a).”
 ------------------------------------------------------------------------
@@ -54,47 +54,47 @@ title = "Rig Veda 1.127.2"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *dyāṃ* \< *dyām* \< *div*
+- *dyāṃ* ← *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *hotāraṃ* \< *hotāram* \< *hotṛ*
+- *hotāraṃ* ← *hotāram* ← *hotṛ*
 - \[noun\], accusative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *carṣaṇīnām* \< *carṣaṇi*
+- *carṣaṇīnām* ← *carṣaṇi*
 - \[noun\], genitive, plural, feminine
 - “people.”
 ------------------------------------------------------------------------
-- *śociṣkeśaṃ* \< *śociṣkeśam* \< *śociṣkeśa*
+- *śociṣkeśaṃ* ← *śociṣkeśam* ← *śociṣkeśa*
 - \[noun\], accusative, singular, masculine
 - “Agni.”
 ------------------------------------------------------------------------
-- *vṛṣaṇaṃ* \< *vṛṣaṇam* \< *vṛṣan*
+- *vṛṣaṇaṃ* ← *vṛṣaṇam* ← *vṛṣan*
 - \[noun\], accusative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *yam* \< *yad*
+- *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *imā* \< *imāḥ* \< *idam*
+- *imā* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *viśaḥ* \< *viś*
+- *viśaḥ* ← *viś*
 - \[noun\], nominative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *prāvantu* \< *prāv* \< *√av*
+- *prāvantu* ← *prāv* ← *√av*
 - \[verb\], plural, Present imperative
 - “help; promote.”
 ------------------------------------------------------------------------
-- *jūtaye* \< *jūti*
+- *jūtaye* ← *jūti*
 - \[noun\], dative, singular, feminine
 - “jūti \[word\].”
 ------------------------------------------------------------------------
-- *viśaḥ* \< *viśas* \< *viś*
+- *viśaḥ* ← *viśas* ← *viś*
 - \[verb noun\], vocative, singular
 - “enter; penetrate; settle; settle.”
 ------------------------------------------------------------------------

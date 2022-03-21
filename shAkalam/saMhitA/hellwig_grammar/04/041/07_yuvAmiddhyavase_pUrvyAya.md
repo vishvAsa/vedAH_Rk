@@ -2,23 +2,23 @@
 title = "Rig Veda 4.41.7"
 
 +++
--   *yuvām* \< *tvad*
+-   *yuvām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *iddhy* \< *id*
+- *iddhy* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *iddhy* \< *hi*
+- *iddhy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *avase* \< *av*
+- *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *pūrvyāya* \< *pūrvya*
+- *pūrvyāya* ← *pūrvya*
 - \[noun\], dative, singular, neuter
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------
@@ -26,52 +26,52 @@ title = "Rig Veda 4.41.7"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *prabhūtī* \< *prabhūti*
+- *prabhūtī* ← *prabhūti*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------
-- *gaviṣaḥ* \< *gaviṣ*
+- *gaviṣaḥ* ← *gaviṣ*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *svāpī* \< *su*
+- *svāpī* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svāpī* \< *āpī* \< *āpi*
+- *svāpī* ← *āpī* ← *āpi*
 - \[noun\], accusative, dual, masculine
 - “friend.”
 ------------------------------------------------------------------------
-- *vṛṇīmahe* \< *vṛ*
+- *vṛṇīmahe* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *sakhyāya* \< *sakhya*
+- *sakhyāya* ← *sakhya*
 - \[noun\], dative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *priyāya* \< *priya*
+- *priyāya* ← *priya*
 - \[noun\], dative, singular, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *śūrā* \< *śūra*
+- *śūrā* ← *śūra*
 - \[noun\], accusative, dual, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *maṃhiṣṭhā* \< *maṃhiṣṭha*
+- *maṃhiṣṭhā* ← *maṃhiṣṭha*
 - \[noun\], accusative, dual, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *pitareva* \< *pitarā* \< *pitṛ*
+- *pitareva* ← *pitarā* ← *pitṛ*
 - \[noun\], accusative, dual, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *pitareva* \< *iva*
+- *pitareva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *śambhū* \< *śambhu*
+- *śambhū* ← *śambhu*
 - \[noun\], accusative, dual, masculine
 - “kind; benevolent.”
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 10.176.3"
 
 +++
--   *ayam* \< *idam*
+-   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -10,7 +10,7 @@ title = "Rig Veda 10.176.3"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣya* \< *tya*
+- *ṣya* ← *tya*
 - \[noun\], nominative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
@@ -18,24 +18,24 @@ title = "Rig Veda 10.176.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *devayur* \< *devayuḥ* \< *devayu*
+- *devayur* ← *devayuḥ* ← *devayu*
 - \[noun\], nominative, singular, masculine
 - “devout; devoted.”
 ------------------------------------------------------------------------
-- *hotā* \< *hotṛ*
+- *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *yajñāya* \< *yajña*
+- *yajñāya* ← *yajña*
 - \[noun\], dative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *nīyate* \< *nī*
+- *nīyate* ← *nī*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *ratho* \< *rathaḥ* \< *ratha*
+- *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -43,22 +43,22 @@ title = "Rig Veda 10.176.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yor* \< *yoḥ* \< *yos*
+- *yor* ← *yoḥ* ← *yos*
 - \[noun\], accusative, singular
 - “fortune.”
 ------------------------------------------------------------------------
-- *abhīvṛto* \< *abhīvṛtaḥ* \< *abhīvṛta*
+- *abhīvṛto* ← *abhīvṛtaḥ* ← *abhīvṛta*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *ghṛṇīvāñ* \< *ghṛṇīvān* \< *ghṛṇīvat*
+- *ghṛṇīvāñ* ← *ghṛṇīvān* ← *ghṛṇīvat*
 - \[noun\], nominative, singular, masculine
 - “aglow(p).”
 ------------------------------------------------------------------------
-- *cetati* \< *cit*
+- *cetati* ← *cit*
 - \[verb\], singular, Present indikative
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *tmanā* \< *tman*
+- *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
 ------------------------------------------------------------------------

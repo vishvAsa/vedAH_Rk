@@ -6,27 +6,27 @@ title = "Rig Veda 7.32.27"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ajñātā* \< *ajñāta*
+- *ajñātā* ← *ajñāta*
 - \[noun\], nominative, plural, neuter
 - “unknown; unexpected.”
 ------------------------------------------------------------------------
-- *vṛjanā* \< *vṛjana*
+- *vṛjanā* ← *vṛjana*
 - \[noun\], nominative, plural, neuter
 - “community; settlement.”
 ------------------------------------------------------------------------
-- *durādhyo* \< *durādhyaḥ* \< *durādhī*
+- *durādhyo* ← *durādhyaḥ* ← *durādhī*
 - \[noun\], nominative, plural, masculine
 - “malevolent.”
 ------------------------------------------------------------------------
-- *māśivāso* \< *mā*
+- *māśivāso* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *māśivāso* \< *aśivāsaḥ* \< *aśiva*
+- *māśivāso* ← *aśivāsaḥ* ← *aśiva*
 - \[noun\], nominative, plural, masculine
 - “inauspicious; unkind; unfriendly; cruel; dangerous.”
 ------------------------------------------------------------------------
@@ -34,31 +34,31 @@ title = "Rig Veda 7.32.27"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *kramuḥ* \< *kram*
+- *kramuḥ* ← *kram*
 - \[verb\], plural, Aorist inj. (proh.)
 - “kram; step; go; continue; proceed; traverse; heat.”
 ------------------------------------------------------------------------
-- *tvayā* \< *tvad*
+- *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vayam* \< *mad*
+- *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pravataḥ* \< *pravat*
+- *pravataḥ* ← *pravat*
 - \[noun\], accusative, plural, feminine
 - “slope; river.”
 ------------------------------------------------------------------------
-- *śaśvatīr* \< *śaśvatīḥ* \< *śaśvat*
+- *śaśvatīr* ← *śaśvatīḥ* ← *śaśvat*
 - \[noun\], accusative, plural, feminine
 - “all(a); each(a).”
 ------------------------------------------------------------------------
-- *apo* \< *apaḥ* \< *ap*
+- *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *'ti* \< *ati*
+- *'ti* ← *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
@@ -67,7 +67,7 @@ title = "Rig Veda 7.32.27"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *tarāmasi* \< *tṛ*
+- *tarāmasi* ← *tṛ*
 - \[verb\], plural, Present indikative
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------

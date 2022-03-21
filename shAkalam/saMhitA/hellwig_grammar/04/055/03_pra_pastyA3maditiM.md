@@ -6,41 +6,41 @@ title = "Rig Veda 4.55.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *pastyām* \< *pastyā*
+- *pastyām* ← *pastyā*
 - \[noun\], accusative, singular, feminine
 - “river; dwelling.”
 ------------------------------------------------------------------------
-- *aditiṃ* \< *aditim* \< *aditi*
+- *aditiṃ* ← *aditim* ← *aditi*
 - \[noun\], accusative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *sindhum* \< *sindhu*
+- *sindhum* ← *sindhu*
 - \[noun\], accusative, singular, feminine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *arkaiḥ* \< *arka*
+- *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *svastim* \< *svasti*
+- *svastim* ← *svasti*
 - \[noun\], accusative, singular, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
 ------------------------------------------------------------------------
-- *īﾱe* \< *īḍe* \< *īḍ*
+- *īﾱe* ← *īḍe* ← *īḍ*
 - \[verb\], singular, Present indikative
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
-- *sakhyāya* \< *sakhya*
+- *sakhyāya* ← *sakhya*
 - \[noun\], dative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *devīm* \< *devī*
+- *devīm* ← *devī*
 - \[noun\], accusative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *ubhe* \< *ubh*
+- *ubhe* ← *ubh*
 - \[noun\], nominative, dual, neuter
 - “both(a).”
 ------------------------------------------------------------------------
@@ -48,15 +48,15 @@ title = "Rig Veda 4.55.3"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ahanī* \< *ahar*
+- *ahanī* ← *ahar*
 - \[noun\], nominative, dual, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *nipāta* \< *nipātaḥ* \< *nipā* \< *√pā*
+- *nipāta* ← *nipātaḥ* ← *nipā* ← *√pā*
 - \[verb\], dual, Present indikative
 - “guard.”
 ------------------------------------------------------------------------
@@ -64,7 +64,7 @@ title = "Rig Veda 4.55.3"
 - \[noun\], nominative, singular, feminine
 - “dawn; night.”
 ------------------------------------------------------------------------
-- *karatām* \< *kṛ*
+- *karatām* ← *kṛ*
 - \[verb\], dual, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -75,7 +75,7 @@ title = "Rig Veda 4.55.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *adabdhe* \< *adabdha*
+- *adabdhe* ← *adabdha*
 - \[noun\], nominative, dual, feminine
 - “unfailing; unimpaired.”
 ------------------------------------------------------------------------

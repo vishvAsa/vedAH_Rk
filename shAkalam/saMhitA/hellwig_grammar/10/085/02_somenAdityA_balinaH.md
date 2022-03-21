@@ -2,19 +2,19 @@
 title = "Rig Veda 10.85.2"
 
 +++
--   *somenādityā* \< *somena* \< *soma*
+-   *somenādityā* ← *somena* ← *soma*
 - \[noun\], instrumental, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somenādityā* \< *ādityāḥ* \< *āditya*
+- *somenādityā* ← *ādityāḥ* ← *āditya*
 - \[noun\], nominative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
-- *balinaḥ* \< *balin*
+- *balinaḥ* ← *balin*
 - \[noun\], nominative, plural, masculine
 - “strong; powerful; potent; mighty; robust; fat.”
 ------------------------------------------------------------------------
-- *somena* \< *soma*
+- *somena* ← *soma*
 - \[noun\], instrumental, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -22,7 +22,7 @@ title = "Rig Veda 10.85.2"
 - \[noun\], nominative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *mahī* \< *mah*
+- *mahī* ← *mah*
 - \[noun\], nominative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
@@ -30,23 +30,23 @@ title = "Rig Veda 10.85.2"
 - \[adverb\]
 - “now; but; furthermore.”
 ------------------------------------------------------------------------
-- *nakṣatrāṇām* \< *nakṣatra*
+- *nakṣatrāṇām* ← *nakṣatra*
 - \[noun\], genitive, plural, neuter
 - “Nakṣatra; celestial body; nakṣatra \[word\]; pearl.”
 ------------------------------------------------------------------------
-- *eṣām* \< *idam*
+- *eṣām* ← *idam*
 - \[noun\], genitive, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *upasthe* \< *upastha*
+- *upasthe* ← *upastha*
 - \[noun\], locative, singular, neuter
 - “genitalia; lap; sexual desire; anus.”
 ------------------------------------------------------------------------
-- *soma* \< *somaḥ* \< *soma*
+- *soma* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *āhitaḥ* \< *ādhā* \< *√dhā*
+- *āhitaḥ* ← *ādhā* ← *√dhā*
 - \[verb noun\], nominative, singular
 - “put; conceive; ignite; keep; effect; fuel; lend; cover; direct.”
 ------------------------------------------------------------------------

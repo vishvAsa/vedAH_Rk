@@ -11,11 +11,11 @@ title = "Rig Veda 8.91.1"
 - \[noun\], accusative, singular, neuter
 - “water; juice; jala.”
 ------------------------------------------------------------------------
-- *avāyatī* \< *ave* \< *√i*
+- *avāyatī* ← *ave* ← *√i*
 - \[verb noun\], nominative, singular
 - “descend.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -24,50 +24,50 @@ title = "Rig Veda 8.91.1"
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
 ------------------------------------------------------------------------
-- *srutāvidat* \< *srutā* \< *sruti*
+- *srutāvidat* ← *srutā* ← *sruti*
 - \[noun\], locative, singular, feminine
 - “discharge; path; road; stream.”
 ------------------------------------------------------------------------
-- *srutāvidat* \< *avidat* \< *vid*
+- *srutāvidat* ← *avidat* ← *vid*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *astam* \< *asta*
+- *astam* ← *asta*
 - \[noun\], accusative, singular, neuter
 - “home.”
 ------------------------------------------------------------------------
-- *bharanty* \< *bharantī* \< *bhṛ*
+- *bharanty* ← *bharantī* ← *bhṛ*
 - \[verb noun\], nominative, singular
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *abravīd* \< *abravīt* \< *brū*
+- *abravīd* ← *abravīt* ← *brū*
 - \[verb\], singular, Imperfect
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sunavai* \< *su*
+- *sunavai* ← *su*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “press out; su.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śakrāya* \< *śakra*
+- *śakrāya* ← *śakra*
 - \[noun\], dative, singular, masculine
 - “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
 ------------------------------------------------------------------------
-- *sunavai* \< *su*
+- *sunavai* ← *su*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “press out; su.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------

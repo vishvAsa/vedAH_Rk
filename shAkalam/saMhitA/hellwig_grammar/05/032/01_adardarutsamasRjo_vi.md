@@ -2,15 +2,15 @@
 title = "Rig Veda 5.32.1"
 
 +++
--   *adardar* \< *dardar* \< *√dṛ*
+-   *adardar* ← *dardar* ← *√dṛ*
 - \[verb\], singular, Imperfect
 - “cleave.”
 ------------------------------------------------------------------------
-- *utsam* \< *utsa*
+- *utsam* ← *utsa*
 - \[noun\], accusative, singular, masculine
 - “spring; fountain; utsa \[word\]; well.”
 ------------------------------------------------------------------------
-- *asṛjo* \< *asṛjaḥ* \< *sṛj*
+- *asṛjo* ← *asṛjaḥ* ← *sṛj*
 - \[verb\], singular, Imperfect
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
@@ -19,27 +19,27 @@ title = "Rig Veda 5.32.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *khāni* \< *kha*
+- *khāni* ← *kha*
 - \[noun\], accusative, plural, neuter
 - “sky; abhra; orifice; ākāśa; hub; aperture; air; hollow; cavity;
     air.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *arṇavān* \< *arṇava*
+- *arṇavān* ← *arṇava*
 - \[noun\], accusative, plural, masculine
 - “wave; flood.”
 ------------------------------------------------------------------------
-- *badbadhānāṃ* \< *badbadh* \< *√bādh*
+- *badbadhānāṃ* ← *badbadh* ← *√bādh*
 - \[verb noun\], accusative, plural
 ------------------------------------------------------------------------
-- *aramṇāḥ* \< *ram*
+- *aramṇāḥ* ← *ram*
 - \[verb\], singular, Imperfect
 - “delight; rejoice; love; frolic; desire; give; calm; break.”
 ------------------------------------------------------------------------
-- *mahāntam* \< *mahat*
+- *mahāntam* ← *mahat*
 - \[noun\], accusative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
@@ -50,7 +50,7 @@ title = "Rig Veda 5.32.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *parvataṃ* \< *parvatam* \< *parvata*
+- *parvataṃ* ← *parvatam* ← *parvata*
 - \[noun\], accusative, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
@@ -59,16 +59,16 @@ title = "Rig Veda 5.32.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vaḥ* \< *var* \< *vṛ*
+- *vaḥ* ← *var* ← *vṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *sṛjo* \< *sṛjaḥ* \< *sṛj*
+- *sṛjo* ← *sṛjaḥ* ← *sṛj*
 - \[verb\], singular, Present injunctive
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
@@ -77,7 +77,7 @@ title = "Rig Veda 5.32.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *dhārā* \< *dhārāḥ* \< *dhārā*
+- *dhārā* ← *dhārāḥ* ← *dhārā*
 - \[noun\], accusative, plural, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
@@ -85,7 +85,7 @@ title = "Rig Veda 5.32.1"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *dānavaṃ* \< *dānavam* \< *dānava*
+- *dānavaṃ* ← *dānavam* ← *dānava*
 - \[noun\], accusative, singular, masculine
 - “Dānava.”
 ------------------------------------------------------------------------

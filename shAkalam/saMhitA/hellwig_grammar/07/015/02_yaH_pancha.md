@@ -2,15 +2,15 @@
 title = "Rig Veda 7.15.2"
 
 +++
--   *yaḥ* \< *yad*
+-   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *pañca* \< *pañcan*
+- *pañca* ← *pañcan*
 - \[noun\], accusative, plural, feminine
 - “five; fifth; pañcan \[word\].”
 ------------------------------------------------------------------------
-- *carṣaṇīr* \< *carṣaṇīḥ* \< *carṣaṇi*
+- *carṣaṇīr* ← *carṣaṇīḥ* ← *carṣaṇi*
 - \[noun\], accusative, plural, feminine
 - “people.”
 ------------------------------------------------------------------------
@@ -18,28 +18,28 @@ title = "Rig Veda 7.15.2"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *niṣasāda* \< *niṣad* \< *√sad*
+- *niṣasāda* ← *niṣad* ← *√sad*
 - \[verb\], singular, Perfect indicative
 - “sit down; sit; put.”
 ------------------------------------------------------------------------
-- *dame* \< *dama*
+- *dame* ← *dama*
 - \[noun\], locative, singular, masculine
 - “dwelling; home.”
 ------------------------------------------------------------------------
-- *dame* \< *dama*
+- *dame* ← *dama*
 - \[noun\], locative, singular, masculine
 - “dwelling; home.”
 ------------------------------------------------------------------------
-- *kavir* \< *kaviḥ* \< *kavi*
+- *kavir* ← *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *gṛhapatir* \< *gṛhapatiḥ* \< *gṛhapati*
+- *gṛhapatir* ← *gṛhapatiḥ* ← *gṛhapati*
 - \[noun\], nominative, singular, masculine
 - “gṛhapati \[word\]; Gṛhastha.”
 ------------------------------------------------------------------------
-- *yuvā* \< *yuvan*
+- *yuvā* ← *yuvan*
 - \[noun\], nominative, singular, masculine
 - “young; youthful.”
 ------------------------------------------------------------------------

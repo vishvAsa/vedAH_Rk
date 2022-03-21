@@ -2,66 +2,66 @@
 title = "Rig Veda 10.69.8"
 
 +++
--   *tve* \< *tvad*
+-   *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dhenuḥ* \< *dhenu*
+- *dhenuḥ* ← *dhenu*
 - \[noun\], nominative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *sudughā* \< *su*
+- *sudughā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudughā* \< *dughā* \< *dugha*
+- *sudughā* ← *dughā* ← *dugha*
 - \[noun\], nominative, singular, feminine
 - “yielding.”
 ------------------------------------------------------------------------
-- *jātavedo* \< *jātavedaḥ* \< *jātavedas*
+- *jātavedo* ← *jātavedaḥ* ← *jātavedas*
 - \[noun\], vocative, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------
-- *'saścateva* \< *asaścatā* \< *asaścat*
+- *'saścateva* ← *asaścatā* ← *asaścat*
 - \[noun\], instrumental, singular, masculine
 - “inexhaustible.”
 ------------------------------------------------------------------------
-- *'saścateva* \< *iva*
+- *'saścateva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
 - *samanā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *sabardhuk* \< *sabarduh*
+- *sabardhuk* ← *sabarduh*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *nṛbhir* \< *nṛbhiḥ* \< *nṛ*
+- *nṛbhir* ← *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *dakṣiṇāvadbhir* \< *dakṣiṇāvadbhiḥ* \< *dakṣiṇāvat*
+- *dakṣiṇāvadbhir* ← *dakṣiṇāvadbhiḥ* ← *dakṣiṇāvat*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *sumitrebhir* \< *sumitrebhiḥ* \< *sumitra*
+- *sumitrebhir* ← *sumitrebhiḥ* ← *sumitra*
 - \[noun\], instrumental, plural, masculine
 - “Sumitra; Sumitra.”
 ------------------------------------------------------------------------
-- *idhyase* \< *indh*
+- *idhyase* ← *indh*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “kindle; ignite; set ablaze.”
 ------------------------------------------------------------------------
-- *devayadbhiḥ* \< *devay*
+- *devayadbhiḥ* ← *devay*
 - \[verb noun\], instrumental, plural
 - “solicit.”
 ------------------------------------------------------------------------

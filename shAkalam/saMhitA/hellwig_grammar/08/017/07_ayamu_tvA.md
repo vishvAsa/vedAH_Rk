@@ -2,7 +2,7 @@
 title = "Rig Veda 8.17.7"
 
 +++
--   *ayam* \< *idam*
+-   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -10,27 +10,27 @@ title = "Rig Veda 8.17.7"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vicarṣaṇe* \< *vicarṣaṇi*
+- *vicarṣaṇe* ← *vicarṣaṇi*
 - \[noun\], vocative, singular, masculine
 - “excellent.”
 ------------------------------------------------------------------------
-- *janīr* \< *janīḥ* \< *jani*
+- *janīr* ← *janīḥ* ← *jani*
 - \[noun\], accusative, plural, feminine
 - “wife; jan; woman; jani \[word\]; birth.”
 ------------------------------------------------------------------------
-- *ivābhi* \< *iva*
+- *ivābhi* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ivābhi* \< *abhi*
+- *ivābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *saṃvṛtaḥ* \< *saṃvṛ* \< *√vṛ*
+- *saṃvṛtaḥ* ← *saṃvṛ* ← *√vṛ*
 - \[verb noun\], nominative, singular
 - “surround; cover; envelop; hide; close; protect.”
 ------------------------------------------------------------------------
@@ -38,7 +38,7 @@ title = "Rig Veda 8.17.7"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *soma* \< *somaḥ* \< *soma*
+- *soma* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -47,7 +47,7 @@ title = "Rig Veda 8.17.7"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sarpatu* \< *sṛp*
+- *sarpatu* ← *sṛp*
 - \[verb\], singular, Present imperative
 - “crawl; spread; wander.”
 ------------------------------------------------------------------------

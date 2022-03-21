@@ -2,18 +2,18 @@
 title = "Rig Veda 7.18.8"
 
 +++
--   *durādhyo* \< *durādhyaḥ* \< *durādhī*
+-   *durādhyo* ← *durādhyaḥ* ← *durādhī*
 - \[noun\], nominative, plural, masculine
 - “malevolent.”
 ------------------------------------------------------------------------
-- *aditiṃ* \< *aditim* \< *aditi*
+- *aditiṃ* ← *aditim* ← *aditi*
 - \[noun\], accusative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *srevayanto* \< *srevayantaḥ* \< *srevay* \< *√sriv*
+- *srevayanto* ← *srevayantaḥ* ← *srevay* ← *√sriv*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *'cetaso* \< *acetasaḥ* \< *acetas*
+- *'cetaso* ← *acetasaḥ* ← *acetas*
 - \[noun\], nominative, plural, masculine
 - “imprudent; stupid.”
 ------------------------------------------------------------------------
@@ -21,7 +21,7 @@ title = "Rig Veda 7.18.8"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *jagṛbhre* \< *grah*
+- *jagṛbhre* ← *grah*
 - \[verb\], plural, Perfect indicative
 - “take; grasp; take out; extract; perceive; pick; assume; include;
     accept; understand; use; learn; possess; keep; choose; accept;
@@ -29,39 +29,39 @@ title = "Rig Veda 7.18.8"
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
 ------------------------------------------------------------------------
-- *paruṣṇīm* \< *paruṣṇī*
+- *paruṣṇīm* ← *paruṣṇī*
 - \[noun\], accusative, singular, feminine
 - “Paruṣṇī.”
 ------------------------------------------------------------------------
-- *mahnāvivyak* \< *mahnā* \< *mahan*
+- *mahnāvivyak* ← *mahnā* ← *mahan*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
 ------------------------------------------------------------------------
-- *mahnāvivyak* \< *avivyak* \< *vyac*
+- *mahnāvivyak* ← *avivyak* ← *vyac*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *pṛthivīm* \< *pṛthivī*
+- *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *patyamānaḥ* \< *paty*
+- *patyamānaḥ* ← *paty*
 - \[verb noun\], nominative, singular
 - “own; have; master.”
 ------------------------------------------------------------------------
-- *paśuṣ* \< *paśuḥ* \< *paśu*
+- *paśuṣ* ← *paśuḥ* ← *paśu*
 - \[noun\], nominative, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
 ------------------------------------------------------------------------
-- *kavir* \< *kaviḥ* \< *kavi*
+- *kavir* ← *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *aśayac* \< *aśayat* \< *śī*
+- *aśayac* ← *aśayat* ← *śī*
 - \[verb\], singular, Imperfect
 - “lie; sleep.”
 ------------------------------------------------------------------------
-- *cāyamānaḥ* \< *cāy*
+- *cāyamānaḥ* ← *cāy*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------

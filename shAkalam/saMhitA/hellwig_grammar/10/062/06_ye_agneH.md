@@ -2,11 +2,11 @@
 title = "Rig Veda 10.62.6"
 
 +++
--   *ye* \< *yad*
+-   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *agneḥ* \< *agni*
+- *agneḥ* ← *agni*
 - \[noun\], ablative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -16,17 +16,17 @@ title = "Rig Veda 10.62.6"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *jajñire* \< *jan*
+- *jajñire* ← *jan*
 - \[verb\], plural, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *virūpāso* \< *virūpāsaḥ* \< *virūpa*
+- *virūpāso* ← *virūpāsaḥ* ← *virūpa*
 - \[noun\], nominative, plural, masculine
 - “Virūpa.”
 ------------------------------------------------------------------------
-- *divas* \< *divaḥ* \< *div*
+- *divas* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -34,7 +34,7 @@ title = "Rig Veda 10.62.6"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *navagvo* \< *navagvaḥ* \< *navagva*
+- *navagvo* ← *navagvaḥ* ← *navagva*
 - \[noun\], nominative, singular, masculine
 - “Navagva.”
 ------------------------------------------------------------------------
@@ -42,22 +42,22 @@ title = "Rig Veda 10.62.6"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *daśagvo* \< *daśagvaḥ* \< *daśagva*
+- *daśagvo* ← *daśagvaḥ* ← *daśagva*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *aṅgirastamo* \< *aṅgirastamaḥ* \< *aṅgirastama*
+- *aṅgirastamo* ← *aṅgirastamaḥ* ← *aṅgirastama*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *sacā*
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *deveṣu* \< *deva*
+- *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *maṃhate* \< *mah*
+- *maṃhate* ← *mah*
 - \[verb\], singular, Present indikative
 - “give; accord.”
 ------------------------------------------------------------------------

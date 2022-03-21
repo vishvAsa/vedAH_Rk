@@ -2,31 +2,31 @@
 title = "Rig Veda 4.6.3"
 
 +++
--   *yatā* \< *yam*
+-   *yatā* ← *yam*
 - \[verb noun\], nominative, singular
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *sujūrṇī* \< *su*
+- *sujūrṇī* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sujūrṇī* \< *jūrṇiḥ* \< *jūrṇi*
+- *sujūrṇī* ← *jūrṇiḥ* ← *jūrṇi*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *rātinī* \< *rātin*
+- *rātinī* ← *rātin*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *ghṛtācī* \< *ghṛtāñc*
+- *ghṛtācī* ← *ghṛtāñc*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *pradakṣiṇid* \< *pradakṣiṇit*
+- *pradakṣiṇid* ← *pradakṣiṇit*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *devatātim* \< *devatāti*
+- *devatātim* ← *devatāti*
 - \[noun\], accusative, singular, feminine
 - “deity; Deva.”
 ------------------------------------------------------------------------
-- *urāṇaḥ* \< *vṛ*
+- *urāṇaḥ* ← *vṛ*
 - \[verb noun\], nominative, singular
 - “choose; ask.”
 ------------------------------------------------------------------------
@@ -38,41 +38,41 @@ title = "Rig Veda 4.6.3"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *svarur* \< *svaruḥ* \< *svaru*
+- *svarur* ← *svaruḥ* ← *svaru*
 - \[noun\], nominative, singular, masculine
 - “post.”
 ------------------------------------------------------------------------
-- *navajā* \< *nava*
+- *navajā* ← *nava*
 - \[noun\]
 - “new; fresh; young; matutinal; recent; nava \[word\]; modern;
     fresh.”
 ------------------------------------------------------------------------
-- *navajā* \< *jāḥ* \< *jā*
+- *navajā* ← *jāḥ* ← *jā*
 - \[noun\], nominative, singular, masculine
 - “born.”
 ------------------------------------------------------------------------
-- *nākraḥ* \< *na*
+- *nākraḥ* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nākraḥ* \< *akraḥ* \< *akra*
+- *nākraḥ* ← *akraḥ* ← *akra*
 - \[noun\], nominative, singular, masculine
 - “banner.”
 ------------------------------------------------------------------------
-- *paśvo* \< *paśvaḥ* \< *paśu*
+- *paśvo* ← *paśvaḥ* ← *paśu*
 - \[noun\], accusative, plural, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
 ------------------------------------------------------------------------
-- *anakti* \< *añj*
+- *anakti* ← *añj*
 - \[verb\], singular, Present indikative
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *sudhitaḥ* \< *sudhita*
+- *sudhitaḥ* ← *sudhita*
 - \[noun\], nominative, singular, masculine
 - “sudhita \[word\].”
 ------------------------------------------------------------------------
-- *sumekaḥ* \< *sumeka*
+- *sumekaḥ* ← *sumeka*
 - \[noun\], nominative, singular, masculine
 - “fast; fixed.”
 ------------------------------------------------------------------------

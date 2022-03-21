@@ -2,43 +2,43 @@
 title = "Rig Veda 10.149.3"
 
 +++
--   *paścedam* \< *paścā*
+-   *paścedam* ← *paścā*
 - \[adverb\]
 - “west; behind; paścā \[word\]; on all fours; subsequently.”
 ------------------------------------------------------------------------
-- *paścedam* \< *idam*
+- *paścedam* ← *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *anyad* \< *anyat* \< *anya*
+- *anyad* ← *anyat* ← *anya*
 - \[noun\], nominative, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *abhavad* \< *abhavat* \< *bhū*
+- *abhavad* ← *abhavat* ← *bhū*
 - \[verb\], singular, Imperfect
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *yajatram* \< *yajatra*
+- *yajatram* ← *yajatra*
 - \[noun\], nominative, singular, neuter
 - “adorable.”
 ------------------------------------------------------------------------
-- *amartyasya* \< *amartya*
+- *amartyasya* ← *amartya*
 - \[noun\], genitive, singular, neuter
 - “immortal.”
 ------------------------------------------------------------------------
-- *bhuvanasya* \< *bhuvana*
+- *bhuvanasya* ← *bhuvana*
 - \[noun\], genitive, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *bhūnā* \< *bhūman*
+- *bhūnā* ← *bhūman*
 - \[noun\], instrumental, singular
 - “abundance; wealth; success; Krishna; plural.”
 ------------------------------------------------------------------------
-- *suparṇo* \< *suparṇaḥ* \< *suparṇa*
+- *suparṇo* ← *suparṇaḥ* ← *suparṇa*
 - \[noun\], nominative, singular, masculine
 - “Garuda; Suparṇa; bird of prey; Suparṇa; suparṇa; Suparṇa; eagle.”
 ------------------------------------------------------------------------
@@ -46,27 +46,27 @@ title = "Rig Veda 10.149.3"
 - \[adverb\]
 - “in truth; aṅga \[word\]; entirely; merely.”
 ------------------------------------------------------------------------
-- *savitur* \< *savituḥ* \< *savitṛ*
+- *savitur* ← *savituḥ* ← *savitṛ*
 - \[noun\], genitive, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *garutmān* \< *garutmant*
+- *garutmān* ← *garutmant*
 - \[noun\], nominative, singular, masculine
 - “Garuda; bird.”
 ------------------------------------------------------------------------
-- *pūrvo* \< *pūrvaḥ* \< *pūrva*
+- *pūrvo* ← *pūrvaḥ* ← *pūrva*
 - \[noun\], nominative, singular, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *jātaḥ* \< *jan*
+- *jātaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *sa* \< *saḥ* \< *tad*
+- *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -76,15 +76,15 @@ title = "Rig Veda 10.149.3"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *asyānu* \< *asya* \< *idam*
+- *asyānu* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *asyānu* \< *anu*
+- *asyānu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *dharma* \< *dharman*
+- *dharma* ← *dharman*
 - \[noun\], accusative, singular, neuter
 - “regulation; Dharma; law; property.”
 ------------------------------------------------------------------------

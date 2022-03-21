@@ -6,20 +6,20 @@ title = "Rig Veda 10.46.8"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *jihvayā* \< *jihvā*
+- *jihvayā* ← *jihvā*
 - \[noun\], instrumental, singular, feminine
 - “tongue; tongue; jihvā \[word\]; fire.”
 ------------------------------------------------------------------------
-- *bharate* \< *bhṛ*
+- *bharate* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *vepo* \< *vepaḥ* \< *vepas*
+- *vepo* ← *vepaḥ* ← *vepas*
 - \[noun\], accusative, singular, neuter
 - “inspiration; shaking.”
 ------------------------------------------------------------------------
-- *agniḥ* \< *agni*
+- *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -29,48 +29,48 @@ title = "Rig Veda 10.46.8"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vayunāni* \< *vayuna*
+- *vayunāni* ← *vayuna*
 - \[noun\], accusative, plural, neuter
 - “convention; custom; means.”
 ------------------------------------------------------------------------
-- *cetasā* \< *cetas*
+- *cetasā* ← *cetas*
 - \[noun\], instrumental, singular, neuter
 - “mind; heart; consciousness; intelligence; purpose; cetas \[word\].”
 ------------------------------------------------------------------------
-- *pṛthivyāḥ* \< *pṛthivī*
+- *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], genitive, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *āyavaḥ* \< *āyu*
+- *āyavaḥ* ← *āyu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *śucayantam* \< *śocay* \< *√śuc*
+- *śucayantam* ← *śocay* ← *√śuc*
 - \[verb noun\], accusative, singular
 - “distress; afflict; burn.”
 ------------------------------------------------------------------------
-- *pāvakam* \< *pāvaka*
+- *pāvakam* ← *pāvaka*
 - \[noun\], accusative, singular, masculine
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
 ------------------------------------------------------------------------
-- *mandraṃ* \< *mandram* \< *mandra*
+- *mandraṃ* ← *mandram* ← *mandra*
 - \[noun\], accusative, singular, masculine
 - “pleasant; eloquent; dulcet.”
 ------------------------------------------------------------------------
-- *hotāraṃ* \< *hotāram* \< *hotṛ*
+- *hotāraṃ* ← *hotāram* ← *hotṛ*
 - \[noun\], accusative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *dadhire* \< *dhā*
+- *dadhire* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *yajiṣṭham* \< *yajiṣṭha*
+- *yajiṣṭham* ← *yajiṣṭha*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------

@@ -5,7 +5,7 @@ title = "Rig Veda 8.81.3"
 -   *nahi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -14,7 +14,7 @@ title = "Rig Veda 8.81.3"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -23,14 +23,14 @@ title = "Rig Veda 8.81.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *martāso* \< *martāsaḥ* \< *marta*
+- *martāso* ← *martāsaḥ* ← *marta*
 - \[noun\], nominative, plural, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *ditsantam* \< *dits* \< *√dā*
+- *ditsantam* ← *dits* ← *√dā*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *bhīmaṃ* \< *bhīmam* \< *bhīma*
+- *bhīmaṃ* ← *bhīmam* ← *bhīma*
 - \[noun\], accusative, singular, masculine
 - “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
 ------------------------------------------------------------------------
@@ -38,12 +38,12 @@ title = "Rig Veda 8.81.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *gāṃ* \< *gām* \< *go*
+- *gāṃ* ← *gām* ← *go*
 - \[noun\], accusative, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *vārayante* \< *vāray*
+- *vārayante* ← *vāray*
 - \[verb\], plural, Present indikative
 - “ward off; obstruct; restrain.”
 ------------------------------------------------------------------------

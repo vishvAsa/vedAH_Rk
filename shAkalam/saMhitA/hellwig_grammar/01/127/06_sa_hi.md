@@ -2,7 +2,7 @@
 title = "Rig Veda 1.127.6"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -12,7 +12,7 @@ title = "Rig Veda 1.127.6"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *śardho* \< *śardhaḥ* \< *śardhas*
+- *śardho* ← *śardhaḥ* ← *śardhas*
 - \[noun\], nominative, singular, neuter
 - “troop.”
 ------------------------------------------------------------------------
@@ -20,48 +20,48 @@ title = "Rig Veda 1.127.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *mārutaṃ* \< *mārutam* \< *māruta*
+- *mārutaṃ* ← *mārutam* ← *māruta*
 - \[noun\], nominative, singular, neuter
 - “Marut(a).”
 ------------------------------------------------------------------------
-- *tuviṣvaṇir* \< *tuviṣvaṇiḥ* \< *tuviṣvaṇi*
+- *tuviṣvaṇir* ← *tuviṣvaṇiḥ* ← *tuviṣvaṇi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *apnasvatīṣūrvarāsv* \< *apnasvatīṣu* \< *apnasvat*
+- *apnasvatīṣūrvarāsv* ← *apnasvatīṣu* ← *apnasvat*
 - \[noun\], locative, plural, feminine
 - “profitable; profitable.”
 ------------------------------------------------------------------------
-- *apnasvatīṣūrvarāsv* \< *urvarāsu* \< *urvarā*
+- *apnasvatīṣūrvarāsv* ← *urvarāsu* ← *urvarā*
 - \[noun\], locative, plural, feminine
 - “field; Urvarā.”
 ------------------------------------------------------------------------
-- *iṣṭanir* \< *iṣṭaniḥ* \< *iṣṭani*
+- *iṣṭanir* ← *iṣṭaniḥ* ← *iṣṭani*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *ārtanāsv* \< *ārtanāsu* \< *ārtanā*
+- *ārtanāsv* ← *ārtanāsu* ← *ārtanā*
 - \[noun\], locative, plural, feminine
 ------------------------------------------------------------------------
-- *iṣṭaniḥ* \< *iṣṭani*
+- *iṣṭaniḥ* ← *iṣṭani*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *ādaddhavyāny* \< *ādat* \< *ādā* \< *√dā*
+- *ādaddhavyāny* ← *ādat* ← *ādā* ← *√dā*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “take; take away; take out; pick; extract; drink; grasp; put;
     collect; accept; get; choose; remove; steal; bring; press out;
     impound; keep; eat; use; distill.”
 ------------------------------------------------------------------------
-- *ādaddhavyāny* \< *havyāni* \< *havya*
+- *ādaddhavyāny* ← *havyāni* ← *havya*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *ādadir* \< *ādadiḥ* \< *ādadi*
+- *ādadir* ← *ādadiḥ* ← *ādadi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *yajñasya* \< *yajña*
+- *yajñasya* ← *yajña*
 - \[noun\], genitive, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *ketur* \< *ketuḥ* \< *ketu*
+- *ketur* ← *ketuḥ* ← *ketu*
 - \[noun\], nominative, singular, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
@@ -73,39 +73,39 @@ title = "Rig Veda 1.127.6"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *smāsya* \< *sma*
+- *smāsya* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *smāsya* \< *asya* \< *idam*
+- *smāsya* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *harṣato* \< *harṣataḥ* \< *hṛṣ*
+- *harṣato* ← *harṣataḥ* ← *hṛṣ*
 - \[verb noun\], genitive, singular
 - “rejoice; bristle; thrill.”
 ------------------------------------------------------------------------
-- *hṛṣīvato* \< *hṛṣīvataḥ* \< *hṛṣīvat*
+- *hṛṣīvato* ← *hṛṣīvataḥ* ← *hṛṣīvat*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *viśve* \< *viśva*
+- *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *juṣanta* \< *juṣ*
+- *juṣanta* ← *juṣ*
 - \[verb\], plural, Present injunctive
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *panthāṃ* \< *panthām* \< *pathin*
+- *panthāṃ* ← *panthām* ← *pathin*
 - \[noun\], accusative, singular, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *naraḥ* \< *nṛ*
+- *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *śubhe* \< *śubh*
+- *śubhe* ← *śubh*
 - \[verb noun\]
 - “look; shine; beautify.”
 ------------------------------------------------------------------------
@@ -113,7 +113,7 @@ title = "Rig Veda 1.127.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *panthām* \< *pathin*
+- *panthām* ← *pathin*
 - \[noun\], accusative, singular, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------

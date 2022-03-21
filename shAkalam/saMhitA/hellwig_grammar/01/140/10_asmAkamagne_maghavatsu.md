@@ -2,21 +2,21 @@
 title = "Rig Veda 1.140.10"
 
 +++
--   *asmākam* \< *mad*
+-   *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *maghavatsu* \< *maghavan*
+- *maghavatsu* ← *maghavan*
 - \[noun\], locative, plural, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *dīdihy* \< *dīdihi* \< *dīdī*
+- *dīdihy* ← *dīdihi* ← *dīdī*
 - \[verb\], singular, Present imperative
 - “shine; glitter.”
 ------------------------------------------------------------------------
@@ -24,41 +24,41 @@ title = "Rig Veda 1.140.10"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *śvasīvān* \< *śvasīvas*
+- *śvasīvān* ← *śvasīvas*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vṛṣabho* \< *vṛṣabhaḥ* \< *vṛṣabha*
+- *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *damūnāḥ* \< *damūnas*
+- *damūnāḥ* ← *damūnas*
 - \[noun\], nominative, singular, masculine
 - “master.”
 ------------------------------------------------------------------------
-- *avāsyā* \< *\_* \< *√\_*
+- *avāsyā* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *śiśumatīr* \< *śiśumatīḥ* \< *śiśumat*
+- *śiśumatīr* ← *śiśumatīḥ* ← *śiśumat*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *adīder* \< *adīdeḥ* \< *dīdī*
+- *adīder* ← *adīdeḥ* ← *dīdī*
 - \[verb\], singular, Imperfect
 - “shine; glitter.”
 ------------------------------------------------------------------------
-- *varmeva* \< *varmā* \< *varman*
+- *varmeva* ← *varmā* ← *varman*
 - \[noun\], nominative, singular, masculine
 - “cuirass; armor; varman \[word\]; protective covering; Varman;
     varman.”
 ------------------------------------------------------------------------
-- *varmeva* \< *iva*
+- *varmeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *yutsu* \< *yudh*
+- *yutsu* ← *yudh*
 - \[noun\], locative, plural
 - “battle; fight; war; combat.”
 ------------------------------------------------------------------------
-- *parijarbhurāṇaḥ* \< *parijarbhur* \< *√bhur*
+- *parijarbhurāṇaḥ* ← *parijarbhur* ← *√bhur*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------

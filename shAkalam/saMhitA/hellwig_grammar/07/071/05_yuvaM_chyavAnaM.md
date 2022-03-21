@@ -2,19 +2,19 @@
 title = "Rig Veda 7.71.5"
 
 +++
--   *yuvaṃ* \< *yuvam* \< *tvad*
+-   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *cyavānaṃ* \< *cyavānam* \< *cyavāna*
+- *cyavānaṃ* ← *cyavānam* ← *cyavāna*
 - \[noun\], accusative, singular, masculine
 - “Cyavana.”
 ------------------------------------------------------------------------
-- *jaraso* \< *jarasaḥ* \< *jaras*
+- *jaraso* ← *jarasaḥ* ← *jaras*
 - \[noun\], ablative, singular, feminine
 - “old age.”
 ------------------------------------------------------------------------
-- *'mumuktaṃ* \< *amumuktam* \< *muc*
+- *'mumuktaṃ* ← *amumuktam* ← *muc*
 - \[verb\], dual, Plusquamperfect
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
     fill into; shoot; spill; lose; ejaculate; exclude; free; remove;
@@ -26,39 +26,39 @@ title = "Rig Veda 7.71.5"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *pedava* \< *pedave* \< *pedu*
+- *pedava* ← *pedave* ← *pedu*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *ūhathur* \< *ūhathuḥ* \< *vah*
+- *ūhathur* ← *ūhathuḥ* ← *vah*
 - \[verb\], dual, Perfect indicative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *āśum* \< *āśu*
+- *āśum* ← *āśu*
 - \[noun\], accusative, singular, masculine
 - “quick; fast; immediate; agile.”
 ------------------------------------------------------------------------
-- *aśvam* \< *aśva*
+- *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *nir* \< *niḥ*
+- *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *aṃhasas* \< *aṃhasaḥ* \< *aṃhas*
+- *aṃhasas* ← *aṃhasaḥ* ← *aṃhas*
 - \[noun\], ablative, singular, neuter
 - “trouble; sin.”
 ------------------------------------------------------------------------
-- *tamasa* \< *tamasaḥ* \< *tamas*
+- *tamasa* ← *tamasaḥ* ← *tamas*
 - \[noun\], ablative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
 ------------------------------------------------------------------------
-- *spartam* \< *spṛ*
+- *spartam* ← *spṛ*
 - \[verb\], dual, Aorist inj. (proh.)
 ------------------------------------------------------------------------
-- *atriṃ* \< *atrim* \< *atri*
+- *atriṃ* ← *atrim* ← *atri*
 - \[noun\], accusative, singular, masculine
 - “Atri; Atri; atri \[word\].”
 ------------------------------------------------------------------------
@@ -66,19 +66,19 @@ title = "Rig Veda 7.71.5"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *jāhuṣaṃ* \< *jāhuṣam* \< *jāhuṣa*
+- *jāhuṣaṃ* ← *jāhuṣam* ← *jāhuṣa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *śithire* \< *śithira*
+- *śithire* ← *śithira*
 - \[noun\], locative, singular, masculine
 - “flexible; flexible.”
 ------------------------------------------------------------------------
-- *dhātam* \< *dhā*
+- *dhātam* ← *dhā*
 - \[verb\], dual, Aorist inj. (proh.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *antaḥ* \< *antar*
+- *antaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------

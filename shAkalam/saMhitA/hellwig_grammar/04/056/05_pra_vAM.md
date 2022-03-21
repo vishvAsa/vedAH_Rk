@@ -6,32 +6,32 @@ title = "Rig Veda 4.56.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *mahi* \< *mah*
+- *mahi* ← *mah*
 - \[noun\], accusative, plural, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *dyavī* \< *\_* \< *√\_*
+- *dyavī* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *abhy* \< *abhī* \< *abhi*
+- *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *upastutim* \< *upastuti*
+- *upastutim* ← *upastuti*
 - \[noun\], accusative, singular, feminine
 - “praise; applause.”
 ------------------------------------------------------------------------
-- *bharāmahe* \< *bhṛ*
+- *bharāmahe* ← *bhṛ*
 - \[verb\], plural, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *śucī* \< *śuci*
+- *śucī* ← *śuci*
 - \[noun\], accusative, dual, feminine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
@@ -40,7 +40,7 @@ title = "Rig Veda 4.56.5"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *praśastaye* \< *praśasti*
+- *praśastaye* ← *praśasti*
 - \[noun\], dative, singular, feminine
 - “announcement; praise; respect.”
 ------------------------------------------------------------------------

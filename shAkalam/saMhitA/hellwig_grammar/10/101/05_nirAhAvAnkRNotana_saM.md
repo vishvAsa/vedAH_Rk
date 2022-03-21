@@ -2,15 +2,15 @@
 title = "Rig Veda 10.101.5"
 
 +++
--   *nir* \< *niḥ*
+-   *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *āhāvān* \< *āhāva*
+- *āhāvān* ← *āhāva*
 - \[noun\], accusative, plural, masculine
 - “bucket; āhāva \[word\]; manger.”
 ------------------------------------------------------------------------
-- *kṛṇotana* \< *kṛ*
+- *kṛṇotana* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -21,42 +21,42 @@ title = "Rig Veda 10.101.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *varatrā* \< *varatrāḥ* \< *varatrā*
+- *varatrā* ← *varatrāḥ* ← *varatrā*
 - \[noun\], accusative, plural, feminine
 - “cord; strap.”
 ------------------------------------------------------------------------
-- *dadhātana* \< *dhā*
+- *dadhātana* ← *dhā*
 - \[verb\], plural, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *siñcāmahā* \< *siñcāmahai* \< *sic*
+- *siñcāmahā* ← *siñcāmahai* ← *sic*
 - \[verb\], plural, Present imperative
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 ------------------------------------------------------------------------
-- *avatam* \< *avata*
+- *avatam* ← *avata*
 - \[noun\], accusative, singular, masculine
 - “well.”
 ------------------------------------------------------------------------
-- *udriṇaṃ* \< *udriṇam* \< *udrin*
+- *udriṇaṃ* ← *udriṇam* ← *udrin*
 - \[noun\], accusative, singular, masculine
 - “filled with water.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *suṣekam* \< *suṣeka*
+- *suṣekam* ← *suṣeka*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *anupakṣitam* \< *an*
+- *anupakṣitam* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *anupakṣitam* \< *upakṣitam* \< *upakṣi* \< *√kṣi*
+- *anupakṣitam* ← *upakṣitam* ← *upakṣi* ← *√kṣi*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------

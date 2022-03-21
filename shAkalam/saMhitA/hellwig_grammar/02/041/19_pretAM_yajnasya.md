@@ -2,19 +2,19 @@
 title = "Rig Veda 2.41.19"
 
 +++
--   *pretāṃ* \< *pretām* \< *pre* \< *√i*
+-   *pretāṃ* ← *pretām* ← *pre* ← *√i*
 - \[verb\], dual, Present imperative
 - “die; proceed; advance; continue; begin; depart.”
 ------------------------------------------------------------------------
-- *yajñasya* \< *yajña*
+- *yajñasya* ← *yajña*
 - \[noun\], genitive, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *śambhuvā* \< *śambhu*
+- *śambhuvā* ← *śambhu*
 - \[noun\], nominative, dual, masculine
 - “kind; benevolent.”
 ------------------------------------------------------------------------
-- *yuvām* \< *tvad*
+- *yuvām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -26,11 +26,11 @@ title = "Rig Veda 2.41.19"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vṛṇīmahe* \< *vṛ*
+- *vṛṇīmahe* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *agniṃ* \< *agnim* \< *agni*
+- *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -40,7 +40,7 @@ title = "Rig Veda 2.41.19"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *havyavāhanam* \< *havyavāhana*
+- *havyavāhanam* ← *havyavāhana*
 - \[noun\], accusative, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------

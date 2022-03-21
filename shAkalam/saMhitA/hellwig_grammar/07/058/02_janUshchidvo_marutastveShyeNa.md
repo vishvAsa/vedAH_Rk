@@ -2,39 +2,39 @@
 title = "Rig Veda 7.58.2"
 
 +++
--   *janūś* \< *janūḥ* \< *janus*
+-   *janūś* ← *janūḥ* ← *janus*
 - \[noun\], nominative, singular, masculine
 - “birth.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *marutas* \< *marutaḥ* \< *marut*
+- *marutas* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *tveṣyeṇa* \< *tveṣya*
+- *tveṣyeṇa* ← *tveṣya*
 - \[noun\], instrumental, singular, masculine
 - “terrific.”
 ------------------------------------------------------------------------
-- *bhīmāsas* \< *bhīmāsaḥ* \< *bhīma*
+- *bhīmāsas* ← *bhīmāsaḥ* ← *bhīma*
 - \[noun\], vocative, plural, masculine
 - “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
 ------------------------------------------------------------------------
-- *tuvimanyavo* \< *tuvi*
+- *tuvimanyavo* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
 ------------------------------------------------------------------------
-- *tuvimanyavo* \< *manyavaḥ* \< *manyu*
+- *tuvimanyavo* ← *manyavaḥ* ← *manyu*
 - \[noun\], vocative, plural, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------
-- *'yāsaḥ* \< *ayāsaḥ* \< *ayās*
+- *'yāsaḥ* ← *ayāsaḥ* ← *ayās*
 - \[noun\], vocative, plural, masculine
 - “undaunted; irrepressible; audacious.”
 ------------------------------------------------------------------------
@@ -42,33 +42,33 @@ title = "Rig Veda 7.58.2"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *mahobhir* \< *mahobhiḥ* \< *mahas*
+- *mahobhir* ← *mahobhiḥ* ← *mahas*
 - \[noun\], instrumental, plural, neuter
 - “greatness; festival; glory; reward; gladness.”
 ------------------------------------------------------------------------
-- *ojasota* \< *ojasā* \< *ojas*
+- *ojasota* ← *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *ojasota* \< *uta*
+- *ojasota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *santi* \< *as*
+- *santi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *viśvo* \< *viśvaḥ* \< *viśva*
+- *viśvo* ← *viśvaḥ* ← *viśva*
 - \[noun\], nominative, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
@@ -76,15 +76,15 @@ title = "Rig Veda 7.58.2"
 - \[noun\], locative, singular, neuter
 - “expedition; path; expedition; arrival.”
 ------------------------------------------------------------------------
-- *bhayate* \< *bhī*
+- *bhayate* ← *bhī*
 - \[verb\], singular, Present indikative
 - “fear; fear.”
 ------------------------------------------------------------------------
-- *svardṛk* \< *svar*
+- *svardṛk* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *svardṛk* \< *dṛś*
+- *svardṛk* ← *dṛś*
 - \[noun\], nominative, singular, masculine
 - “seeing; knowing.”
 ------------------------------------------------------------------------

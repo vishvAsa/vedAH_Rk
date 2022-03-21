@@ -2,19 +2,19 @@
 title = "Rig Veda 4.16.8"
 
 +++
--   *apo* \< *apa*
+-   *apo* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *apo* \< *u*
+- *apo* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *adrim* \< *adri*
+- *adrim* ← *adri*
 - \[noun\], accusative, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
@@ -22,15 +22,15 @@ title = "Rig Veda 4.16.8"
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu.”
 ------------------------------------------------------------------------
-- *dardar* \< *√dṛ*
+- *dardar* ← *√dṛ*
 - \[verb\], singular, Present injunctive
 - “cleave.”
 ------------------------------------------------------------------------
-- *āvir* \< *āvis*
+- *āvir* ← *āvis*
 - \[adverb\]
 - “openly; obviously.”
 ------------------------------------------------------------------------
-- *bhuvat* \< *bhū*
+- *bhuvat* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
@@ -41,29 +41,29 @@ title = "Rig Veda 4.16.8"
 - \[noun\], nominative, singular, feminine
 - “Saramā.”
 ------------------------------------------------------------------------
-- *pūrvyaṃ* \< *pūrvyam* \< *pūrvya*
+- *pūrvyaṃ* ← *pūrvyam* ← *pūrvya*
 - \[noun\], accusative, singular, neuter
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *netā* \< *netṛ*
+- *netā* ← *netṛ*
 - \[noun\], nominative, singular, masculine
 - “leader; Vitex negundo.”
 ------------------------------------------------------------------------
-- *vājam* \< *vāja*
+- *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
@@ -71,29 +71,29 @@ title = "Rig Veda 4.16.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *darṣi* \< *dṛ*
+- *darṣi* ← *dṛ*
 - \[verb\], singular, Present indikative
 - “burst; burst.”
 ------------------------------------------------------------------------
-- *bhūriṃ* \< *bhūrim* \< *bhūri*
+- *bhūriṃ* ← *bhūrim* ← *bhūri*
 - \[noun\], accusative, singular, masculine
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *gotrā* \< *gotra*
+- *gotrā* ← *gotra*
 - \[noun\], accusative, plural, neuter
 - “Gotra; patronymic; gotra \[word\]; name; family; family; kin;
     Gotra; mountain; herd; cow pen; cowbarn.”
 ------------------------------------------------------------------------
-- *rujann* \< *rujan* \< *ruj*
+- *rujann* ← *rujan* ← *ruj*
 - \[verb noun\], nominative, singular
 - “break; bend.”
 ------------------------------------------------------------------------
-- *aṅgirobhir* \< *aṅgirobhiḥ* \< *aṅgiras*
+- *aṅgirobhir* ← *aṅgirobhiḥ* ← *aṅgiras*
 - \[noun\], instrumental, plural, masculine
 - “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
     Aṅgiras.”
 ------------------------------------------------------------------------
-- *gṛṇānaḥ* \< *gṛ*
+- *gṛṇānaḥ* ← *gṛ*
 - \[verb noun\], nominative, singular
 - “praise.”
 ------------------------------------------------------------------------

@@ -6,66 +6,66 @@ title = "Rig Veda 1.151.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *bhūṣan* \< *bhūṣ*
+- *bhūṣan* ← *bhūṣ*
 - \[verb\], plural, Present injunctive
 - “endeavor; attend; strive.”
 ------------------------------------------------------------------------
-- *kṣitayo* \< *kṣitayaḥ* \< *kṣiti*
+- *kṣitayo* ← *kṣitayaḥ* ← *kṣiti*
 - \[noun\], nominative, plural, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
 ------------------------------------------------------------------------
-- *janma* \< *janman*
+- *janma* ← *janman*
 - \[noun\], accusative, singular, neuter
 - “birth; reincarnation; lineage; origin; race; metempsychosis;
     parentage; descent; appearance; age; birthplace; beginning; being.”
 ------------------------------------------------------------------------
-- *rodasyoḥ* \< *rodasī*
+- *rodasyoḥ* ← *rodasī*
 - \[noun\], genitive, dual, feminine
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *pravācyaṃ* \< *pravācyam* \< *pravac* \< *√vac*
+- *pravācyaṃ* ← *pravācyam* ← *pravac* ← *√vac*
 - \[verb noun\], accusative, singular
 - “describe; name; enumerate; call; explain; teach; state; tell;
     impart; convey; address; proclaim.”
 ------------------------------------------------------------------------
-- *vṛṣaṇā* \< *vṛṣan*
+- *vṛṣaṇā* ← *vṛṣan*
 - \[noun\], vocative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *dakṣase* \< *dakṣas*
+- *dakṣase* ← *dakṣas*
 - \[noun\], dative, singular, masculine
 - “intelligent.”
 ------------------------------------------------------------------------
-- *mahe* \< *mah*
+- *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *īm* \< *īṃ*
+- *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ṛtāya* \< *ṛta*
+- *ṛtāya* ← *ṛta*
 - \[noun\], dative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *bharatho* \< *bharathaḥ* \< *bhṛ*
+- *bharatho* ← *bharathaḥ* ← *bhṛ*
 - \[verb\], dual, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *arvate* \< *arvant*
+- *arvate* ← *arvant*
 - \[noun\], dative, singular, masculine
 - “horse.”
 ------------------------------------------------------------------------
@@ -73,18 +73,18 @@ title = "Rig Veda 1.151.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *hotrayā* \< *hotrā*
+- *hotrayā* ← *hotrā*
 - \[noun\], instrumental, singular, feminine
 - “hotrā \[word\]; Hautra.”
 ------------------------------------------------------------------------
-- *śimyā* \< *śimī*
+- *śimyā* ← *śimī*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *vītho* \< *vīthaḥ* \< *vī*
+- *vītho* ← *vīthaḥ* ← *vī*
 - \[verb\], dual, Present indikative
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *adhvaram* \< *adhvara*
+- *adhvaram* ← *adhvara*
 - \[noun\], accusative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------

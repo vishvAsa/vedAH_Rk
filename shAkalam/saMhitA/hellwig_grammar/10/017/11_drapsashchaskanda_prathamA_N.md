@@ -2,15 +2,15 @@
 title = "Rig Veda 10.17.11"
 
 +++
--   *drapsaś* \< *drapsaḥ* \< *drapsa*
+-   *drapsaś* ← *drapsaḥ* ← *drapsa*
 - \[noun\], nominative, singular, masculine
 - “drop; banner.”
 ------------------------------------------------------------------------
-- *caskanda* \< *skand*
+- *caskanda* ← *skand*
 - \[verb\], singular, Perfect indicative
 - “clot; ejaculate; spill; ride.”
 ------------------------------------------------------------------------
-- *prathamāṃ* \< *prathama*
+- *prathamāṃ* ← *prathama*
 - \[noun\], accusative, plural, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
@@ -19,11 +19,11 @@ title = "Rig Veda 10.17.11"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *dyūn* \< *div*
+- *dyūn* ← *div*
 - \[noun\], accusative, plural
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *imaṃ* \< *imam* \< *idam*
+- *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -31,7 +31,7 @@ title = "Rig Veda 10.17.11"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *yonim* \< *yoni*
+- *yonim* ← *yoni*
 - \[noun\], accusative, singular, masculine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
@@ -41,7 +41,7 @@ title = "Rig Veda 10.17.11"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *yaś* \< *yaḥ* \< *yad*
+- *yaś* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -49,18 +49,18 @@ title = "Rig Veda 10.17.11"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *pūrvaḥ* \< *pūrva*
+- *pūrvaḥ* ← *pūrva*
 - \[noun\], nominative, singular, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *samānaṃ* \< *samānam* \< *samāna*
+- *samānaṃ* ← *samānam* ← *samāna*
 - \[noun\], accusative, singular, masculine
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
 ------------------------------------------------------------------------
-- *yonim* \< *yoni*
+- *yonim* ← *yoni*
 - \[noun\], accusative, singular, masculine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
@@ -70,15 +70,15 @@ title = "Rig Veda 10.17.11"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *saṃcarantaṃ* \< *saṃcarantam* \< *saṃcar* \< *√car*
+- *saṃcarantaṃ* ← *saṃcarantam* ← *saṃcar* ← *√car*
 - \[verb noun\], accusative, singular
 - “wander; approach; meet.”
 ------------------------------------------------------------------------
-- *drapsaṃ* \< *drapsam* \< *drapsa*
+- *drapsaṃ* ← *drapsam* ← *drapsa*
 - \[noun\], accusative, singular, masculine
 - “drop; banner.”
 ------------------------------------------------------------------------
-- *juhomy* \< *juhomi* \< *hu*
+- *juhomy* ← *juhomi* ← *hu*
 - \[verb\], singular, Present indikative
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
@@ -86,11 +86,11 @@ title = "Rig Veda 10.17.11"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], accusative, singular, neuter
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *hotrāḥ* \< *hotrā*
+- *hotrāḥ* ← *hotrā*
 - \[noun\], accusative, plural, feminine
 - “hotrā \[word\]; Hautra.”
 ------------------------------------------------------------------------

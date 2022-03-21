@@ -2,89 +2,89 @@
 title = "Rig Veda 6.66.7"
 
 +++
--   *aneno* \< *an*
+-   *aneno* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *aneno* \< *enaḥ* \< *ena*
+- *aneno* ← *enaḥ* ← *ena*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *yāmo* \< *yāmaḥ* \< *yāma*
+- *yāmo* ← *yāmaḥ* ← *yāma*
 - \[noun\], nominative, singular, masculine
 - “prahara; watch; travel; path.”
 ------------------------------------------------------------------------
-- *astv* \< *astu* \< *as*
+- *astv* ← *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *anaśvaś* \< *an*
+- *anaśvaś* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *anaśvaś* \< *aśvaḥ* \< *aśva*
+- *anaśvaś* ← *aśvaḥ* ← *aśva*
 - \[noun\], nominative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *yam* \< *yad*
+- *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ajaty* \< *ajati* \< *aj*
+- *ajaty* ← *ajati* ← *aj*
 - \[verb\], singular, Present indikative
 - “drive; expel.”
 ------------------------------------------------------------------------
-- *arathīḥ* \< *a*
+- *arathīḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *arathīḥ* \< *rathīḥ* \< *rathī*
+- *arathīḥ* ← *rathīḥ* ← *rathī*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *anavaso* \< *anavasaḥ* \< *anavasa*
+- *anavaso* ← *anavasaḥ* ← *anavasa*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *anabhīśū* \< *an*
+- *anabhīśū* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *anabhīśū* \< *abhīśuḥ* \< *abhīśu*
+- *anabhīśū* ← *abhīśuḥ* ← *abhīśu*
 - \[noun\], nominative, singular, masculine
 - “beam; rein.”
 ------------------------------------------------------------------------
-- *rajastūr* \< *rajastur*
+- *rajastūr* ← *rajastur*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *pathyā* \< *pathyāḥ* \< *pathyā*
+- *pathyā* ← *pathyāḥ* ← *pathyā*
 - \[noun\], accusative, plural, feminine
 - “Terminalia chebula Retz.; path; Pathyā; way.”
 ------------------------------------------------------------------------
-- *yāti* \< *yā*
+- *yāti* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *sādhan* \< *sādh*
+- *sādhan* ← *sādh*
 - \[verb noun\], nominative, singular
 - “promote; succeed.”
 ------------------------------------------------------------------------

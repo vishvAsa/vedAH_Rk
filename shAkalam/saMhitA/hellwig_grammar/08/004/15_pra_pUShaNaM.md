@@ -6,22 +6,22 @@ title = "Rig Veda 8.4.15"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *pūṣaṇaṃ* \< *pūṣaṇam* \< *pūṣan*
+- *pūṣaṇaṃ* ← *pūṣaṇam* ← *pūṣan*
 - \[noun\], accusative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *vṛṇīmahe* \< *vṛ*
+- *vṛṇīmahe* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *yujyāya* \< *yujya*
+- *yujyāya* ← *yujya*
 - \[noun\], dative, singular, neuter
 ------------------------------------------------------------------------
-- *purūvasum* \< *purūvasu*
+- *purūvasum* ← *purūvasu*
 - \[noun\], accusative, singular, masculine
 - “rich.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -31,32 +31,32 @@ title = "Rig Veda 8.4.15"
 - \[noun\], vocative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *śikṣa* \< *śikṣ*
+- *śikṣa* ← *śikṣ*
 - \[verb\], singular, Present imperative
 - “help; give.”
 ------------------------------------------------------------------------
-- *puruhūta* \< *puru*
+- *puruhūta* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *puruhūta* \< *hūta* \< *hvā*
+- *puruhūta* ← *hūta* ← *hvā*
 - \[verb noun\], vocative, singular
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dhiyā* \< *dhī*
+- *dhiyā* ← *dhī*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *tuje* \< *tuj*
+- *tuje* ← *tuj*
 - \[verb noun\]
 - “draw.”
 ------------------------------------------------------------------------
-- *rāye* \< *rai*
+- *rāye* ← *rai*
 - \[noun\], dative, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------

@@ -6,17 +6,17 @@ title = "Rig Veda 5.61.7"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *jānāti* \< *jñā*
+- *jānāti* ← *jñā*
 - \[verb\], singular, Present indikative
 - “know; diagnose; perceive; know; come to know; notice; determine;
     think of; find; learn; perceive; identify; recognize; understand;
     know; learn; ascertain; detect; deem.”
 ------------------------------------------------------------------------
-- *jasuriṃ* \< *jasurim* \< *jasuri*
+- *jasuriṃ* ← *jasurim* ← *jasuri*
 - \[noun\], accusative, singular, masculine
 - “starved.”
 ------------------------------------------------------------------------
@@ -24,7 +24,7 @@ title = "Rig Veda 5.61.7"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *tṛṣyantaṃ* \< *tṛṣyantam* \< *tṛṣ*
+- *tṛṣyantaṃ* ← *tṛṣyantam* ← *tṛṣ*
 - \[verb noun\], accusative, singular
 - “thirst.”
 ------------------------------------------------------------------------
@@ -32,14 +32,14 @@ title = "Rig Veda 5.61.7"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *kāminam* \< *kāmin*
+- *kāminam* ← *kāmin*
 - \[noun\], accusative, singular, masculine
 - “desirous; aroused; loving.”
 ------------------------------------------------------------------------
 - *devatrā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *kṛṇute* \< *kṛ*
+- *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -50,7 +50,7 @@ title = "Rig Veda 5.61.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *manaḥ* \< *manas*
+- *manaḥ* ← *manas*
 - \[noun\], accusative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”

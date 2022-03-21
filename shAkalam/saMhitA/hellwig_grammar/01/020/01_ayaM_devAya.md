@@ -2,24 +2,24 @@
 title = "Rig Veda 1.20.1"
 
 +++
--   *ayaṃ* \< *ayam* \< *idam*
+-   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *devāya* \< *deva*
+- *devāya* ← *deva*
 - \[noun\], dative, singular, neuter
 - “divine.”
 ------------------------------------------------------------------------
-- *janmane* \< *janman*
+- *janmane* ← *janman*
 - \[noun\], dative, singular, neuter
 - “birth; reincarnation; lineage; origin; race; metempsychosis;
     parentage; descent; appearance; age; birthplace; beginning; being.”
 ------------------------------------------------------------------------
-- *stomo* \< *stomaḥ* \< *stoma*
+- *stomo* ← *stomaḥ* ← *stoma*
 - \[noun\], nominative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *viprebhir* \< *viprebhiḥ* \< *vipra*
+- *viprebhir* ← *viprebhiḥ* ← *vipra*
 - \[noun\], instrumental, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
@@ -27,7 +27,7 @@ title = "Rig Veda 1.20.1"
 - \[adverb\]
 - “orally.”
 ------------------------------------------------------------------------
-- *akāri* \< *kṛ*
+- *akāri* ← *kṛ*
 - \[verb\], singular, Aorist passive
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -38,12 +38,12 @@ title = "Rig Veda 1.20.1"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *ratnadhātamaḥ* \< *ratna*
+- *ratnadhātamaḥ* ← *ratna*
 - \[noun\], neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
 ------------------------------------------------------------------------
-- *ratnadhātamaḥ* \< *dhātamaḥ* \< *dhātama*
+- *ratnadhātamaḥ* ← *dhātamaḥ* ← *dhātama*
 - \[noun\], nominative, singular, masculine
 - “giving.”
 ------------------------------------------------------------------------

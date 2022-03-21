@@ -2,7 +2,7 @@
 title = "Rig Veda 8.1.17"
 
 +++
--   *sotā* \< *sota* \< *su*
+-   *sotā* ← *sota* ← *su*
 - \[verb\], plural, Aorist imperative
 - “press out; su.”
 ------------------------------------------------------------------------
@@ -10,66 +10,66 @@ title = "Rig Veda 8.1.17"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *adribhir* \< *adribhiḥ* \< *adri*
+- *adribhir* ← *adribhiḥ* ← *adri*
 - \[noun\], instrumental, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *em* \< *ā*
+- *em* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *em* \< *īm* \< *īṃ*
+- *em* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *enam* \< *enad*
+- *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
-- *apsu* \< *ap*
+- *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *dhāvata* \< *dhāv*
+- *dhāvata* ← *dhāv*
 - \[verb\], plural, Present imperative
 - “wash; purify; cleanse.”
 ------------------------------------------------------------------------
-- *gavyā* \< *gavya*
+- *gavyā* ← *gavya*
 - \[noun\], accusative, plural, neuter
 - “bovine.”
 ------------------------------------------------------------------------
-- *vastreva* \< *vastrā* \< *vastra*
+- *vastreva* ← *vastrā* ← *vastra*
 - \[noun\], accusative, plural, neuter
 - “fabric; clothing; dress; vastra \[word\].”
 ------------------------------------------------------------------------
-- *vastreva* \< *iva*
+- *vastreva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *vāsayanta* \< *vāsayantaḥ* \< *vāsay* \< *√vas*
+- *vāsayanta* ← *vāsayantaḥ* ← *vāsay* ← *√vas*
 - \[verb noun\], nominative, plural
 - “dress.”
 ------------------------------------------------------------------------
-- *in* \< *id*
+- *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *naro* \< *naraḥ* \< *nṛ*
+- *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nir* \< *niḥ*
+- *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *dhukṣan* \< *duh*
+- *dhukṣan* ← *duh*
 - \[verb\], plural, Aorist inj. (proh.)
 - “milk.”
 ------------------------------------------------------------------------
-- *vakṣaṇābhyaḥ* \< *vakṣaṇā*
+- *vakṣaṇābhyaḥ* ← *vakṣaṇā*
 - \[noun\], ablative, plural, feminine
 - “abdomen; udder; inside.”
 ------------------------------------------------------------------------

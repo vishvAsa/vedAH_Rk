@@ -2,44 +2,44 @@
 title = "Rig Veda 7.57.3"
 
 +++
--   *naitāvad* \< *na*
+-   *naitāvad* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *naitāvad* \< *etāvat*
+- *naitāvad* ← *etāvat*
 - \[noun\], accusative, singular, neuter
 - “such(a); such(a).”
 ------------------------------------------------------------------------
-- *anye* \< *anya*
+- *anye* ← *anya*
 - \[noun\], nominative, plural, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *yatheme* \< *yathā*
+- *yatheme* ← *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *yatheme* \< *ime* \< *idam*
+- *yatheme* ← *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *bhrājante* \< *bhrāj*
+- *bhrājante* ← *bhrāj*
 - \[verb\], plural, Present indikative
 - “shine; glitter; look.”
 ------------------------------------------------------------------------
-- *rukmair* \< *rukmaiḥ* \< *rukma*
+- *rukmair* ← *rukmaiḥ* ← *rukma*
 - \[noun\], instrumental, plural, masculine
 - “adornment.”
 ------------------------------------------------------------------------
-- *āyudhais* \< *āyudhaiḥ* \< *āyudha*
+- *āyudhais* ← *āyudhaiḥ* ← *āyudha*
 - \[noun\], instrumental, plural, neuter
 - “weapon; āyudha \[word\].”
 ------------------------------------------------------------------------
-- *tanūbhiḥ* \< *tanū*
+- *tanūbhiḥ* ← *tanū*
 - \[noun\], instrumental, plural, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
@@ -51,37 +51,37 @@ title = "Rig Veda 7.57.3"
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *viśvapiśaḥ* \< *viśva*
+- *viśvapiśaḥ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvapiśaḥ* \< *piśaḥ* \< *piś*
+- *viśvapiśaḥ* ← *piśaḥ* ← *piś*
 - \[noun\], nominative, plural, masculine
 - “decoration.”
 ------------------------------------------------------------------------
-- *piśānāḥ* \< *piś*
+- *piśānāḥ* ← *piś*
 - \[verb noun\], nominative, plural
 - “decorate.”
 ------------------------------------------------------------------------
-- *samānam* \< *samāna*
+- *samānam* ← *samāna*
 - \[noun\], accusative, singular, neuter
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
 ------------------------------------------------------------------------
-- *añjy* \< *añji*
+- *añjy* ← *añji*
 - \[noun\], accusative, singular, neuter
 - “color; ointment; adornment.”
 ------------------------------------------------------------------------
-- *añjate* \< *añj*
+- *añjate* ← *añj*
 - \[verb\], plural, Present indikative
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *śubhe* \< *śubh*
+- *śubhe* ← *śubh*
 - \[verb noun\]
 - “look; shine; beautify.”
 ------------------------------------------------------------------------
-- *kam* \< *kaṃ*
+- *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
 ------------------------------------------------------------------------

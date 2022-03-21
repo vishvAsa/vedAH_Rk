@@ -6,35 +6,35 @@ title = "Rig Veda 1.120.12"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *svapnasya* \< *svapna*
+- *svapnasya* ← *svapna*
 - \[noun\], genitive, singular, masculine
 - “dream; sleep.”
 ------------------------------------------------------------------------
-- *nir* \< *niḥ*
+- *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *vide* \< *vid*
+- *vide* ← *vid*
 - \[verb\], singular, Present indikative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *'bhuñjataś* \< *abhuñjataḥ* \< *abhuñjat*
+- *'bhuñjataś* ← *abhuñjataḥ* ← *abhuñjat*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *revataḥ* \< *revat*
+- *revataḥ* ← *revat*
 - \[noun\], genitive, singular, masculine
 - “abundant; rich; affluent; brilliant; brilliant.”
 ------------------------------------------------------------------------
-- *ubhā* \< *ubh*
+- *ubhā* ← *ubh*
 - \[noun\], nominative, dual, masculine
 - “both(a).”
 ------------------------------------------------------------------------
-- *tā* \< *tad*
+- *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -43,7 +43,7 @@ title = "Rig Veda 1.120.12"
 - *basri*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *naśyataḥ* \< *naś*
+- *naśyataḥ* ← *naś*
 - \[verb\], dual, Present indikative
 - “disappear; vanish; gasify; fail; perish; lose; bhasmībhū.”
 ------------------------------------------------------------------------

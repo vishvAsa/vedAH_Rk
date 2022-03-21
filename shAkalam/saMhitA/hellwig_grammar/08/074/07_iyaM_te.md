@@ -2,35 +2,35 @@
 title = "Rig Veda 8.74.7"
 
 +++
--   *iyaṃ* \< *iyam* \< *idam*
+-   *iyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *navyasī* \< *navīyas*
+- *navyasī* ← *navīyas*
 - \[noun\], nominative, singular, feminine
 - “new; fresh; up-to-the-minute.”
 ------------------------------------------------------------------------
-- *matir* \< *matiḥ* \< *mati*
+- *matir* ← *matiḥ* ← *mati*
 - \[noun\], nominative, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *adhāyy* \< *adhāyi* \< *dhā*
+- *adhāyy* ← *adhāyi* ← *dhā*
 - \[verb\], singular, Aorist passive
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *asmad* \< *asmat* \< *mad*
+- *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -42,29 +42,29 @@ title = "Rig Veda 8.74.7"
 - \[noun\], vocative, singular, masculine
 - “pleasant; eloquent; dulcet.”
 ------------------------------------------------------------------------
-- *sujāta* \< *su*
+- *sujāta* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sujāta* \< *jāta* \< *jan*
+- *sujāta* ← *jāta* ← *jan*
 - \[verb noun\], vocative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *sukrato* \< *sukratu*
+- *sukrato* ← *sukratu*
 - \[noun\], vocative, singular, masculine
 - “wise.”
 ------------------------------------------------------------------------
-- *'mūra* \< *amūra*
+- *'mūra* ← *amūra*
 - \[noun\], vocative, singular, masculine
 - “wise; intelligent; apt.”
 ------------------------------------------------------------------------
-- *dasmātithe* \< *dasma*
+- *dasmātithe* ← *dasma*
 - \[noun\], vocative, singular, masculine
 - “overlord.”
 ------------------------------------------------------------------------
-- *dasmātithe* \< *atithe* \< *atithi*
+- *dasmātithe* ← *atithe* ← *atithi*
 - \[noun\], vocative, singular, masculine
 - “guest; atithi \[word\]; Atithi.”
 ------------------------------------------------------------------------

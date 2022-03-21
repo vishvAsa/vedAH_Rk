@@ -2,27 +2,27 @@
 title = "Rig Veda 6.28.6"
 
 +++
--   *yūyaṃ* \< *yūyam* \< *tvad*
+-   *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *gāvo* \< *gāvaḥ* \< *go*
+- *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *medayathā* \< *medayatha* \< *meday* \< *√med*
+- *medayathā* ← *medayatha* ← *meday* ← *√med*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *kṛśaṃ* \< *kṛśam* \< *kṛśa*
+- *kṛśaṃ* ← *kṛśam* ← *kṛśa*
 - \[noun\], accusative, singular, masculine
 - “thin; low; bony; kṛśa \[word\]; insignificant; forceless.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *aśrīraṃ* \< *aśrīram* \< *aśrīra*
+- *aśrīraṃ* ← *aśrīram* ← *aśrīra*
 - \[noun\], accusative, singular, masculine
 - “ugly; unpleasant.”
 ------------------------------------------------------------------------
@@ -30,7 +30,7 @@ title = "Rig Veda 6.28.6"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *kṛṇuthā* \< *kṛṇutha* \< *kṛ*
+- *kṛṇuthā* ← *kṛṇutha* ← *kṛ*
 - \[verb\], plural, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -41,20 +41,20 @@ title = "Rig Veda 6.28.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *supratīkam* \< *supratīka*
+- *supratīkam* ← *supratīka*
 - \[noun\], accusative, singular, masculine
 - “fine-looking.”
 ------------------------------------------------------------------------
-- *bhadraṃ* \< *bhadram* \< *bhadra*
+- *bhadraṃ* ← *bhadram* ← *bhadra*
 - \[noun\], accusative, singular, neuter
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *gṛhaṃ* \< *gṛham* \< *gṛha*
+- *gṛhaṃ* ← *gṛham* ← *gṛha*
 - \[noun\], accusative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
 ------------------------------------------------------------------------
-- *kṛṇutha* \< *kṛ*
+- *kṛṇutha* ← *kṛ*
 - \[verb\], plural, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -65,39 +65,39 @@ title = "Rig Veda 6.28.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *bhadravāco* \< *bhadra*
+- *bhadravāco* ← *bhadra*
 - \[noun\]
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *bhadravāco* \< *vācaḥ* \< *vāc*
+- *bhadravāco* ← *vācaḥ* ← *vāc*
 - \[noun\], vocative, plural, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
 ------------------------------------------------------------------------
-- *bṛhad* \< *bṛhat*
+- *bṛhad* ← *bṛhat*
 - \[noun\], nominative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *vaya* \< *vayaḥ* \< *vayas*
+- *vaya* ← *vayaḥ* ← *vayas*
 - \[noun\], nominative, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
 ------------------------------------------------------------------------
-- *ucyate* \< *vac*
+- *ucyate* ← *vac*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
 ------------------------------------------------------------------------
-- *sabhāsu* \< *sabhā*
+- *sabhāsu* ← *sabhā*
 - \[noun\], locative, plural, feminine
 - “assembly hall; sabhā \[word\]; assembly; audience.”
 ------------------------------------------------------------------------

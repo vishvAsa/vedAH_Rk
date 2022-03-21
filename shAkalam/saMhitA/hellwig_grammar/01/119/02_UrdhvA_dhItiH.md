@@ -2,27 +2,27 @@
 title = "Rig Veda 1.119.2"
 
 +++
--   *ūrdhvā* \< *ūrdhva*
+-   *ūrdhvā* ← *ūrdhva*
 - \[noun\], nominative, singular, feminine
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
 ------------------------------------------------------------------------
-- *dhītiḥ* \< *dhīti*
+- *dhītiḥ* ← *dhīti*
 - \[noun\], nominative, singular, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------
-- *praty* \< *prati*
+- *praty* ← *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *prayāmany* \< *prayāmani* \< *prayāman*
+- *prayāmany* ← *prayāmani* ← *prayāman*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *adhāyi* \< *dhā*
+- *adhāyi* ← *dhā*
 - \[verb\], singular, Aorist passive
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
@@ -34,7 +34,7 @@ title = "Rig Veda 1.119.2"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *ayanta* \< *i*
+- *ayanta* ← *i*
 - \[verb\], plural, Present injunctive
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
@@ -42,16 +42,16 @@ title = "Rig Veda 1.119.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *diśaḥ* \< *diś*
+- *diśaḥ* ← *diś*
 - \[noun\], accusative, plural, feminine
 - “quarter; direction; region; diś \[word\]; Aṣṭādhyāyī, 5.3.27;
     distant region; Diś; four; example; method; space.”
 ------------------------------------------------------------------------
-- *svadāmi* \< *svad*
+- *svadāmi* ← *svad*
 - \[verb\], singular, Present indikative
 - “sweeten.”
 ------------------------------------------------------------------------
-- *gharmam* \< *gharma*
+- *gharmam* ← *gharma*
 - \[noun\], accusative, singular, masculine
 - “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
     caldron.”
@@ -60,11 +60,11 @@ title = "Rig Veda 1.119.2"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *yanty* \< *yanti* \< *i*
+- *yanty* ← *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *ūtaya* \< *ūtayaḥ* \< *ūti*
+- *ūtaya* ← *ūtayaḥ* ← *ūti*
 - \[noun\], nominative, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
@@ -72,22 +72,22 @@ title = "Rig Veda 1.119.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
 - *ūrjānī*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *ratham* \< *ratha*
+- *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *aśvināruhat* \< *aśvin*
+- *aśvināruhat* ← *aśvin*
 - \[noun\], vocative, singular, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *aśvināruhat* \< *āruhat* \< *āruh* \< *√ruh*
+- *aśvināruhat* ← *āruhat* ← *āruh* ← *√ruh*
 - \[verb\], singular, Imperfect
 - “board; hop on; climb; ascend; descend; ride; copulate; grow.”
 ------------------------------------------------------------------------

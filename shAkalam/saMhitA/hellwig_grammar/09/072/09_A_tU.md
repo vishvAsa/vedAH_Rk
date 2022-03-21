@@ -6,42 +6,42 @@ title = "Rig Veda 9.72.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tū* \< *tu*
+- *tū* ← *tu*
 - \[adverb\]
 - “now; then; but; and; now; however; then; then; surely.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *indo* \< *indu*
+- *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *śatadātv* \< *śata*
+- *śatadātv* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *śatadātv* \< *dātu*
+- *śatadātv* ← *dātu*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *aśvyaṃ* \< *aśvyam* \< *aśvya*
+- *aśvyaṃ* ← *aśvyam* ← *aśvya*
 - \[noun\], accusative, singular, neuter
 - “equine.”
 ------------------------------------------------------------------------
-- *sahasradātu* \< *sahasra*
+- *sahasradātu* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasradātu* \< *dātu*
+- *sahasradātu* ← *dātu*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *paśumaddhiraṇyavat* \< *paśumat*
+- *paśumaddhiraṇyavat* ← *paśumat*
 - \[noun\], accusative, singular, neuter
 - “rich in cattle.”
 ------------------------------------------------------------------------
-- *paśumaddhiraṇyavat* \< *hiraṇyavat*
+- *paśumaddhiraṇyavat* ← *hiraṇyavat*
 - \[noun\], accusative, singular, neuter
 - “possessing gold.”
 ------------------------------------------------------------------------
@@ -49,40 +49,40 @@ title = "Rig Veda 9.72.9"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *māsva* \< *mā*
+- *māsva* ← *mā*
 - \[verb\], singular, Aorist imperative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
 ------------------------------------------------------------------------
-- *bṛhatī* \< *bṛhat*
+- *bṛhatī* ← *bṛhat*
 - \[noun\], accusative, plural, feminine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *revatīr* \< *revatīḥ* \< *revat*
+- *revatīr* ← *revatīḥ* ← *revat*
 - \[noun\], accusative, plural, feminine
 - “abundant; rich; affluent; brilliant; brilliant.”
 ------------------------------------------------------------------------
-- *iṣo* \< *iṣaḥ* \< *iṣ*
+- *iṣo* ← *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *'dhi* \< *adhi*
+- *'dhi* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *stotrasya* \< *stotra*
+- *stotrasya* ← *stotra*
 - \[noun\], genitive, singular, neuter
 - “hymn; praise.”
 ------------------------------------------------------------------------
-- *pavamāna* \< *pū*
+- *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *gahi* \< *gam*
+- *gahi* ← *gam*
 - \[verb\], singular, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

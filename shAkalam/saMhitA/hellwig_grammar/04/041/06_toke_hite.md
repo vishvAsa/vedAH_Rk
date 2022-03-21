@@ -2,32 +2,32 @@
 title = "Rig Veda 4.41.6"
 
 +++
--   *toke* \< *toka*
+-   *toke* ← *toka*
 - \[noun\], locative, singular, neuter
 - “offspring.”
 ------------------------------------------------------------------------
-- *hite* \< *dhā*
+- *hite* ← *dhā*
 - \[verb noun\], locative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *tanaya* \< *tanaye* \< *tanaya*
+- *tanaya* ← *tanaye* ← *tanaya*
 - \[noun\], locative, singular, neuter
 - “biological.”
 ------------------------------------------------------------------------
-- *urvarāsu* \< *urvarā*
+- *urvarāsu* ← *urvarā*
 - \[noun\], locative, plural, feminine
 - “field; Urvarā.”
 ------------------------------------------------------------------------
-- *sūro* \< *sūraḥ* \< *svar*
+- *sūro* ← *sūraḥ* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *dṛśīke* \< *dṛśīka*
+- *dṛśīke* ← *dṛśīka*
 - \[noun\], locative, singular, neuter
 - “visual perception.”
 ------------------------------------------------------------------------
-- *vṛṣaṇaś* \< *vṛṣaṇaḥ* \< *vṛṣan*
+- *vṛṣaṇaś* ← *vṛṣaṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
@@ -35,16 +35,16 @@ title = "Rig Veda 4.41.6"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *pauṃsye* \< *pauṃsya*
+- *pauṃsye* ← *pauṃsya*
 - \[noun\], locative, singular, neuter
 - “manfulness; deed; army; strength.”
 ------------------------------------------------------------------------
-- *indrā* \< *indra*
+- *indrā* ← *indra*
 - \[noun\], nominative, dual, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -53,24 +53,24 @@ title = "Rig Veda 4.41.6"
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *varuṇā* \< *varuṇa*
+- *varuṇā* ← *varuṇa*
 - \[noun\], nominative, dual, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *syātām* \< *as*
+- *syātām* ← *as*
 - \[verb\], dual, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *avobhir* \< *avobhiḥ* \< *avas*
+- *avobhir* ← *avobhiḥ* ← *avas*
 - \[noun\], instrumental, plural, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *dasmā* \< *dasma*
+- *dasmā* ← *dasma*
 - \[noun\], nominative, dual, masculine
 - “overlord.”
 ------------------------------------------------------------------------
-- *paritakmyāyām* \< *paritakmyā*
+- *paritakmyāyām* ← *paritakmyā*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------

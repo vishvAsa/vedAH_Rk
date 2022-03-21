@@ -6,28 +6,28 @@ title = "Rig Veda 1.172.2"
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *sā* \< *tad*
+- *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *sudānavo* \< *sudānavaḥ* \< *sudānu*
+- *sudānavo* ← *sudānavaḥ* ← *sudānu*
 - \[noun\], vocative, plural, masculine
 - “big; lavish.”
 ------------------------------------------------------------------------
-- *maruta* \< *marutaḥ* \< *marut*
+- *maruta* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *ṛñjatī* \< *ṛj*
+- *ṛñjatī* ← *ṛj*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *śaruḥ* \< *śaru*
+- *śaruḥ* ← *śaru*
 - \[noun\], nominative, singular, feminine
 - “arrow.”
 ------------------------------------------------------------------------
@@ -35,16 +35,16 @@ title = "Rig Veda 1.172.2"
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *aśmā* \< *aśman*
+- *aśmā* ← *aśman*
 - \[noun\], nominative, singular, masculine
 - “stone; aśmarī; rock; aśman \[word\]; adri; mineral; piṇḍatālaka;
     mountain.”
 ------------------------------------------------------------------------
-- *yam* \< *yad*
+- *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *asyatha* \< *as*
+- *asyatha* ← *as*
 - \[verb\], plural, Present indikative
 - “shoot; remove.”
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 10.92.4"
 
 +++
--   *ṛtasya* \< *ṛta*
+-   *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
@@ -10,11 +10,11 @@ title = "Rig Veda 10.92.4"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *prasitir* \< *prasitiḥ* \< *prasiti*
+- *prasitir* ← *prasitiḥ* ← *prasiti*
 - \[noun\], nominative, singular, feminine
 - “binding.”
 ------------------------------------------------------------------------
-- *dyaur* \< *dyauḥ* \< *div*
+- *dyaur* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -22,65 +22,65 @@ title = "Rig Veda 10.92.4"
 - \[noun\], nominative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *vyaco* \< *vyacaḥ* \< *vyacas*
+- *vyaco* ← *vyacaḥ* ← *vyacas*
 - \[noun\], nominative, singular, neuter
 - “area; capacity.”
 ------------------------------------------------------------------------
-- *namo* \< *namaḥ* \< *namas*
+- *namo* ← *namaḥ* ← *namas*
 - \[noun\], nominative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *mahy* \< *mahī* \< *mah*
+- *mahy* ← *mahī* ← *mah*
 - \[noun\], nominative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *aramatiḥ* \< *aramati*
+- *aramatiḥ* ← *aramati*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *panīyasī* \< *panīyas*
+- *panīyasī* ← *panīyas*
 - \[noun\], nominative, dual, neuter
 - “admirable.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *mitro* \< *mitraḥ* \< *mitra*
+- *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *varuṇaḥ* \< *varuṇa*
+- *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *cikitrire* \< *cit*
+- *cikitrire* ← *cit*
 - \[verb\], plural, Perfect indicative
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *'tho* \< *atho*
+- *'tho* ← *atho*
 - \[adverb\]
 - “now; but; furthermore.”
 ------------------------------------------------------------------------
-- *bhagaḥ* \< *bhaga*
+- *bhagaḥ* ← *bhaga*
 - \[noun\], nominative, singular, masculine
 - “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
     well-being; happiness; overlord.”
 ------------------------------------------------------------------------
-- *savitā* \< *savitṛ*
+- *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *pūtadakṣasaḥ* \< *pūta* \< *pū*
+- *pūtadakṣasaḥ* ← *pūta* ← *pū*
 - \[verb noun\]
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *pūtadakṣasaḥ* \< *dakṣasaḥ* \< *dakṣas*
+- *pūtadakṣasaḥ* ← *dakṣasaḥ* ← *dakṣas*
 - \[noun\], nominative, plural, masculine
 - “intelligent.”
 ------------------------------------------------------------------------

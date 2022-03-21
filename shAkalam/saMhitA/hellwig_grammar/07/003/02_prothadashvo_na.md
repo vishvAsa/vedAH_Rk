@@ -2,10 +2,10 @@
 title = "Rig Veda 7.3.2"
 
 +++
--   *prothad* \< *prothat* \< *pruth*
+-   *prothad* ← *prothat* ← *pruth*
 - \[verb\], singular, Present injunctive
 ------------------------------------------------------------------------
-- *aśvo* \< *aśvaḥ* \< *aśva*
+- *aśvo* ← *aśvaḥ* ← *aśva*
 - \[noun\], nominative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
@@ -13,11 +13,11 @@ title = "Rig Veda 7.3.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yavase* \< *yavasa*
+- *yavase* ← *yavasa*
 - \[noun\], locative, singular, neuter
 - “eatage; pasture; fodder.”
 ------------------------------------------------------------------------
-- *'viṣyan* \< *aviṣyan* \< *av*
+- *'viṣyan* ← *aviṣyan* ← *av*
 - \[verb noun\], nominative, singular
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
@@ -25,33 +25,33 @@ title = "Rig Veda 7.3.2"
 - \[adverb\]
 - “once \[when\]; if.”
 ------------------------------------------------------------------------
-- *mahaḥ* \< *mah*
+- *mahaḥ* ← *mah*
 - \[noun\], ablative, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *saṃvaraṇād* \< *saṃvaraṇāt* \< *saṃvaraṇa*
+- *saṃvaraṇād* ← *saṃvaraṇāt* ← *saṃvaraṇa*
 - \[noun\], ablative, singular, neuter
 - “concealment.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *asthāt* \< *sthā*
+- *asthāt* ← *sthā*
 - \[verb\], singular, Root aorist (Ind.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vāto* \< *vātaḥ* \< *vāta*
+- *vāto* ← *vātaḥ* ← *vāta*
 - \[noun\], nominative, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
@@ -60,11 +60,11 @@ title = "Rig Veda 7.3.2"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *vāti* \< *vā*
+- *vāti* ← *vā*
 - \[verb\], singular, Present indikative
 - “blow; blow; emit.”
 ------------------------------------------------------------------------
-- *śocir* \< *śociḥ* \< *śocis*
+- *śocir* ← *śociḥ* ← *śocis*
 - \[noun\], accusative, singular, neuter
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------
@@ -75,18 +75,18 @@ title = "Rig Veda 7.3.2"
 - *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vrajanaṃ* \< *vrajanam* \< *vrajana*
+- *vrajanaṃ* ← *vrajanam* ← *vrajana*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *kṛṣṇam* \< *kṛṣṇa*
+- *kṛṣṇam* ← *kṛṣṇa*
 - \[noun\], nominative, singular, neuter
 - “black; dark; dark; blue; black.”
 ------------------------------------------------------------------------
-- *asti* \< *as*
+- *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

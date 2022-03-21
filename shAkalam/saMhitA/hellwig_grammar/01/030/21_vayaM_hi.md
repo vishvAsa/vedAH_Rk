@@ -2,7 +2,7 @@
 title = "Rig Veda 1.30.21"
 
 +++
--   *vayaṃ* \< *vayam* \< *mad*
+-   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -10,21 +10,21 @@ title = "Rig Veda 1.30.21"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *amanmahy* \< *amanmahi* \< *man*
+- *amanmahy* ← *amanmahi* ← *man*
 - \[verb\], plural, Root aorist (Ind.)
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
 ------------------------------------------------------------------------
-- *āntād* \< *ā*
+- *āntād* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *āntād* \< *antāt* \< *anta*
+- *āntād* ← *antāt* ← *anta*
 - \[noun\], ablative, singular, masculine
 - “end; last syllable; end; end; boundary; inside; border; death; anta
     \[word\]; edge; end; shore; limit; region; outskirt; destruction;
@@ -35,11 +35,11 @@ title = "Rig Veda 1.30.21"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *parākāt* \< *parāka*
+- *parākāt* ← *parāka*
 - \[noun\], ablative, singular, masculine
 - “parāka.”
 ------------------------------------------------------------------------
-- *aśve* \< *aśvā*
+- *aśve* ← *aśvā*
 - \[noun\], vocative, singular, feminine
 - “mare.”
 ------------------------------------------------------------------------
@@ -47,13 +47,13 @@ title = "Rig Veda 1.30.21"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *citre* \< *citra*
+- *citre* ← *citra*
 - \[noun\], vocative, singular, feminine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *aruṣi* \< *aruṣī*
+- *aruṣi* ← *aruṣī*
 - \[noun\], vocative, singular, feminine
 - “dawn.”
 ------------------------------------------------------------------------

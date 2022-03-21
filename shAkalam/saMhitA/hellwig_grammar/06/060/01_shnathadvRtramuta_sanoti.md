@@ -2,11 +2,11 @@
 title = "Rig Veda 6.60.1"
 
 +++
--   *śnathad* \< *śnathat* \< *śnath*
+-   *śnathad* ← *śnathat* ← *śnath*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “pierce; kill.”
 ------------------------------------------------------------------------
-- *vṛtram* \< *vṛtra*
+- *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “enemy.”
 ------------------------------------------------------------------------
@@ -14,57 +14,57 @@ title = "Rig Veda 6.60.1"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *sanoti* \< *san*
+- *sanoti* ← *san*
 - \[verb\], singular, Present indikative
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *vājam* \< *vāja*
+- *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *indrā* \< *indra*
+- *indrā* ← *indra*
 - \[noun\], accusative, dual, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *agnī* \< *agni*
+- *agnī* ← *agni*
 - \[noun\], accusative, dual, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *sahurī* \< *sahuri*
+- *sahurī* ← *sahuri*
 - \[noun\], accusative, dual, masculine
 - “victorious; mighty; strong.”
 ------------------------------------------------------------------------
-- *saparyāt* \< *sapary*
+- *saparyāt* ← *sapary*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “worship.”
 ------------------------------------------------------------------------
-- *irajyantā* \< *irajy* \< *√rañj*
+- *irajyantā* ← *irajy* ← *√rañj*
 - \[verb noun\], accusative, dual
 - “direct.”
 ------------------------------------------------------------------------
-- *vasavyasya* \< *vasavya*
+- *vasavyasya* ← *vasavya*
 - \[noun\], genitive, singular, neuter
 - “wealth; wealth.”
 ------------------------------------------------------------------------
-- *bhūreḥ* \< *bhūri*
+- *bhūreḥ* ← *bhūri*
 - \[noun\], genitive, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *sahastamā* \< *sahastama*
+- *sahastamā* ← *sahastama*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------
-- *sahasā* \< *sahas*
+- *sahasā* ← *sahas*
 - \[noun\], instrumental, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *vājayantā* \< *vājay* \< *√vaj*
+- *vājayantā* ← *vājay* ← *√vaj*
 - \[verb noun\], accusative, dual
 - “incite.”
 ------------------------------------------------------------------------

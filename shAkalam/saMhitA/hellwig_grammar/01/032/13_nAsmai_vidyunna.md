@@ -2,15 +2,15 @@
 title = "Rig Veda 1.32.13"
 
 +++
--   *nāsmai* \< *na*
+-   *nāsmai* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāsmai* \< *asmai* \< *idam*
+- *nāsmai* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vidyun* \< *vidyut*
+- *vidyun* ← *vidyut*
 - \[noun\], nominative, singular, feminine
 - “lightning; Vidyut; thunderbolt.”
 ------------------------------------------------------------------------
@@ -18,11 +18,11 @@ title = "Rig Veda 1.32.13"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tanyatuḥ* \< *tanyatu*
+- *tanyatuḥ* ← *tanyatu*
 - \[noun\], nominative, singular, masculine
 - “thunder.”
 ------------------------------------------------------------------------
-- *siṣedha* \< *sidh*
+- *siṣedha* ← *sidh*
 - \[verb\], singular, Perfect indicative
 - “prepare; prepare; succeed; heal; perfect; be known; compound;
     achieve; prove.”
@@ -31,19 +31,19 @@ title = "Rig Veda 1.32.13"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yām* \< *yad*
+- *yām* ← *yad*
 - \[noun\], accusative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *miham* \< *mih*
+- *miham* ← *mih*
 - \[noun\], accusative, singular, feminine
 - “fog.”
 ------------------------------------------------------------------------
-- *akiraddhrāduniṃ* \< *akirat* \< *kṛ*
+- *akiraddhrāduniṃ* ← *akirat* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “spread; scatter.”
 ------------------------------------------------------------------------
-- *akiraddhrāduniṃ* \< *hrādunim* \< *hrāduni*
+- *akiraddhrāduniṃ* ← *hrādunim* ← *hrāduni*
 - \[noun\], accusative, singular, feminine
 - “hail.”
 ------------------------------------------------------------------------
@@ -51,7 +51,7 @@ title = "Rig Veda 1.32.13"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *indraś* \< *indraḥ* \< *indra*
+- *indraś* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -60,31 +60,31 @@ title = "Rig Veda 1.32.13"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yuyudhāte* \< *yudh*
+- *yuyudhāte* ← *yudh*
 - \[verb\], dual, Perfect indicative
 - “fight; overcome.”
 ------------------------------------------------------------------------
-- *ahiś* \< *ahiḥ* \< *ahi*
+- *ahiś* ← *ahiḥ* ← *ahi*
 - \[noun\], nominative, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
 ------------------------------------------------------------------------
-- *cotāparībhyo* \< *ca*
+- *cotāparībhyo* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cotāparībhyo* \< *uta*
+- *cotāparībhyo* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *cotāparībhyo* \< *aparībhyaḥ* \< *aparī*
+- *cotāparībhyo* ← *aparībhyaḥ* ← *aparī*
 - \[noun\], dative, plural, feminine
 - “future.”
 ------------------------------------------------------------------------
-- *maghavā* \< *maghavan*
+- *maghavā* ← *maghavan*
 - \[noun\], nominative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
@@ -92,7 +92,7 @@ title = "Rig Veda 1.32.13"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *jigye* \< *ji*
+- *jigye* ← *ji*
 - \[verb\], singular, Perfect indicative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”

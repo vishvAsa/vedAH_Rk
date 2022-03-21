@@ -6,29 +6,29 @@ title = "Rig Veda 7.18.21"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *gṛhād* \< *gṛhāt* \< *gṛha*
+- *gṛhād* ← *gṛhāt* ← *gṛha*
 - \[noun\], ablative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
 ------------------------------------------------------------------------
-- *amamadus* \< *amamaduḥ* \< *mad*
+- *amamadus* ← *amamaduḥ* ← *mad*
 - \[verb\], plural, Plusquamperfect
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
 - *tvāyā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *parāśaraḥ* \< *parāśara*
+- *parāśaraḥ* ← *parāśara*
 - \[noun\], nominative, singular, masculine
 - “Parāśara; Parāśara; destroyer.”
 ------------------------------------------------------------------------
-- *śatayātur* \< *śatayātuḥ* \< *śatayātu*
+- *śatayātur* ← *śatayātuḥ* ← *śatayātu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vasiṣṭhaḥ* \< *vasiṣṭha*
+- *vasiṣṭhaḥ* ← *vasiṣṭha*
 - \[noun\], nominative, singular, masculine
 - “Vasiṣṭha; vasiṣṭha \[word\].”
 ------------------------------------------------------------------------
@@ -36,38 +36,38 @@ title = "Rig Veda 7.18.21"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *bhojasya* \< *bhoja*
+- *bhojasya* ← *bhoja*
 - \[noun\], genitive, singular, masculine
 - “big; hospitable.”
 ------------------------------------------------------------------------
-- *sakhyam* \< *sakhya*
+- *sakhyam* ← *sakhya*
 - \[noun\], accusative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *mṛṣantādhā* \< *mṛṣanta* \< *mṛṣ*
+- *mṛṣantādhā* ← *mṛṣanta* ← *mṛṣ*
 - \[verb\], plural, Aorist inj. (proh.)
 - “forgive; endure; heed; pardon; neglect; forget.”
 ------------------------------------------------------------------------
-- *mṛṣantādhā* \< *adhā* \< *adha*
+- *mṛṣantādhā* ← *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *sūribhyaḥ* \< *sūri*
+- *sūribhyaḥ* ← *sūri*
 - \[noun\], dative, plural, masculine
 - “patron.”
 ------------------------------------------------------------------------
-- *sudinā* \< *sudina*
+- *sudinā* ← *sudina*
 - \[noun\], nominative, plural, neuter
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ucchān* \< *vas*
+- *ucchān* ← *vas*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “dawn; shine.”
 ------------------------------------------------------------------------

@@ -2,55 +2,55 @@
 title = "Rig Veda 1.52.12"
 
 +++
--   *tvam* \< *tvad*
+-   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *pāre* \< *pāra*
+- *pāre* ← *pāra*
 - \[noun\], locative, singular, masculine
 - “shore; pāra \[word\]; end; excellence.”
 ------------------------------------------------------------------------
-- *rajaso* \< *rajasaḥ* \< *rajas*
+- *rajaso* ← *rajasaḥ* ← *rajas*
 - \[noun\], genitive, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 ------------------------------------------------------------------------
-- *vyomanaḥ* \< *vyoman*
+- *vyomanaḥ* ← *vyoman*
 - \[noun\], genitive, singular, masculine
 - “abhra; sky; ākāśa; Svarga; Vyoman.”
 ------------------------------------------------------------------------
-- *svabhūtyojā* \< *sva*
+- *svabhūtyojā* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svabhūtyojā* \< *bhūti*
+- *svabhūtyojā* ← *bhūti*
 - \[noun\], feminine
 - “auspiciousness; benefit; ash; well-being; bhasman; wealth;
     Andropogon schoenanthus; power.”
 ------------------------------------------------------------------------
-- *svabhūtyojā* \< *ojāḥ* \< *ojas*
+- *svabhūtyojā* ← *ojāḥ* ← *ojas*
 - \[noun\], nominative, singular, masculine
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *avase* \< *av*
+- *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *dhṛṣanmanaḥ* \< *dhṛṣat* \< *dhṛṣ*
+- *dhṛṣanmanaḥ* ← *dhṛṣat* ← *dhṛṣ*
 - \[verb noun\]
 - “dare; attack.”
 ------------------------------------------------------------------------
-- *dhṛṣanmanaḥ* \< *manaḥ* \< *manas*
+- *dhṛṣanmanaḥ* ← *manaḥ* ← *manas*
 - \[noun\], vocative, singular, masculine
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *cakṛṣe* \< *kṛ*
+- *cakṛṣe* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -61,33 +61,33 @@ title = "Rig Veda 1.52.12"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *bhūmim* \< *bhūmi*
+- *bhūmim* ← *bhūmi*
 - \[noun\], accusative, singular, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
     Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
     distance; country; space; land; territory; topographic point.”
 ------------------------------------------------------------------------
-- *pratimānam* \< *pratimāna*
+- *pratimānam* ← *pratimāna*
 - \[noun\], accusative, singular, neuter
 - “weight.”
 ------------------------------------------------------------------------
-- *ojaso* \< *ojasaḥ* \< *ojas*
+- *ojaso* ← *ojasaḥ* ← *ojas*
 - \[noun\], genitive, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *'paḥ* \< *apaḥ* \< *ap*
+- *'paḥ* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *svaḥ* \< *svar*
+- *svaḥ* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *paribhūr* \< *paribhūḥ* \< *paribhū*
+- *paribhūr* ← *paribhūḥ* ← *paribhū*
 - \[noun\], nominative, singular, masculine
 - “extended.”
 ------------------------------------------------------------------------
-- *eṣy* \< *eṣi* \< *i*
+- *eṣy* ← *eṣi* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
@@ -95,7 +95,7 @@ title = "Rig Veda 1.52.12"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *divam* \< *div*
+- *divam* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------

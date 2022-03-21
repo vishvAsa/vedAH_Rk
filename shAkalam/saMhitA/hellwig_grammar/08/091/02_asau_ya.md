@@ -2,59 +2,59 @@
 title = "Rig Veda 8.91.2"
 
 +++
--   *asau* \< *adas*
+-   *asau* ← *adas*
 - \[noun\], nominative, singular, masculine
 - “that; John Doe; yonder; from here.”
 ------------------------------------------------------------------------
-- *ya* \< *yaḥ* \< *yad*
+- *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *eṣi* \< *i*
+- *eṣi* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *vīrako* \< *vīrakaḥ* \< *vīraka*
+- *vīrako* ← *vīrakaḥ* ← *vīraka*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *gṛhaṃ* \< *gṛham* \< *gṛha*
+- *gṛhaṃ* ← *gṛham* ← *gṛha*
 - \[noun\], accusative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
 ------------------------------------------------------------------------
-- *gṛhaṃ* \< *gṛham* \< *gṛha*
+- *gṛhaṃ* ← *gṛham* ← *gṛha*
 - \[noun\], accusative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
 ------------------------------------------------------------------------
-- *vicākaśad* \< *vicākaśat* \< *vicākaś* \< *√kāś*
+- *vicākaśad* ← *vicākaśat* ← *vicākaś* ← *√kāś*
 - \[verb noun\], nominative, singular
 - “inspect; visit.”
 ------------------------------------------------------------------------
-- *imaṃ* \< *imam* \< *idam*
+- *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *jambhasutam* \< *jambha*
+- *jambhasutam* ← *jambha*
 - \[noun\], masculine
 - “Jambha; citron; jaw; tooth; molar; back tooth.”
 ------------------------------------------------------------------------
-- *jambhasutam* \< *sutam* \< *su*
+- *jambhasutam* ← *sutam* ← *su*
 - \[verb noun\], accusative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *piba* \< *pā*
+- *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *dhānāvantaṃ* \< *dhānāvantam* \< *dhānāvat*
+- *dhānāvantaṃ* ← *dhānāvantam* ← *dhānāvat*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *karambhiṇam* \< *karambhin*
+- *karambhiṇam* ← *karambhin*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *apūpavantam* \< *apūpavat*
+- *apūpavantam* ← *apūpavat*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *ukthinam* \< *ukthin*
+- *ukthinam* ← *ukthin*
 - \[noun\], accusative, singular, masculine
 - “laudatory.”
 ------------------------------------------------------------------------

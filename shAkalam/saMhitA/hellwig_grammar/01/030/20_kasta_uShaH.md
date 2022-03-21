@@ -2,41 +2,41 @@
 title = "Rig Veda 1.30.20"
 
 +++
--   *kas* \< *kaḥ* \< *ka*
+-   *kas* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *uṣaḥ* \< *uṣas*
+- *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *kadhapriye* \< *kadhapriya*
+- *kadhapriye* ← *kadhapriya*
 - \[noun\], vocative, singular, feminine
 ------------------------------------------------------------------------
-- *bhuje* \< *bhuj*
+- *bhuje* ← *bhuj*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *marto* \< *martaḥ* \< *marta*
+- *marto* ← *martaḥ* ← *marta*
 - \[noun\], nominative, singular, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *amartye* \< *amartya*
+- *amartye* ← *amartya*
 - \[noun\], vocative, singular, feminine
 - “immortal.”
 ------------------------------------------------------------------------
-- *kaṃ* \< *kam* \< *ka*
+- *kaṃ* ← *kam* ← *ka*
 - \[noun\], accusative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *nakṣase* \< *nakṣ*
+- *nakṣase* ← *nakṣ*
 - \[verb\], singular, Present indikative
 - “reach; approach.”
 ------------------------------------------------------------------------
-- *vibhāvari* \< *vibhāvarī*
+- *vibhāvari* ← *vibhāvarī*
 - \[noun\], vocative, singular, feminine
 - “night; Vibhāvarī; woman.”
 ------------------------------------------------------------------------

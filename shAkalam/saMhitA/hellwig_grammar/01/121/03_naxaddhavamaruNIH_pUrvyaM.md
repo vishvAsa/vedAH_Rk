@@ -2,35 +2,35 @@
 title = "Rig Veda 1.121.3"
 
 +++
--   *nakṣaddhavam* \< *nakṣat* \< *nakṣ*
+-   *nakṣaddhavam* ← *nakṣat* ← *nakṣ*
 - \[verb\], singular, Present injunctive
 - “reach; approach.”
 ------------------------------------------------------------------------
-- *nakṣaddhavam* \< *havam* \< *hava*
+- *nakṣaddhavam* ← *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *aruṇīḥ* \< *aruṇī*
+- *aruṇīḥ* ← *aruṇī*
 - \[noun\], nominative, singular, feminine
 - “dawn.”
 ------------------------------------------------------------------------
-- *pūrvyaṃ* \< *pūrvyam* \< *pūrvya*
+- *pūrvyaṃ* ← *pūrvyam* ← *pūrvya*
 - \[noun\], accusative, singular, neuter
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------
-- *rāṭ* \< *rāj*
+- *rāṭ* ← *rāj*
 - \[noun\], nominative, singular, masculine
 - “king; best; rāj; rāj \[word\].”
 ------------------------------------------------------------------------
-- *turo* \< *turaḥ* \< *tura*
+- *turo* ← *turaḥ* ← *tura*
 - \[noun\], nominative, singular, masculine
 - “powerful; noble; noble.”
 ------------------------------------------------------------------------
-- *viśām* \< *viś*
+- *viśām* ← *viś*
 - \[noun\], genitive, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *aṅgirasām* \< *aṅgiras*
+- *aṅgirasām* ← *aṅgiras*
 - \[noun\], genitive, plural, masculine
 - “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
     Aṅgiras.”
@@ -39,41 +39,41 @@ title = "Rig Veda 1.121.3"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *dyūn* \< *div*
+- *dyūn* ← *div*
 - \[noun\], accusative, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *takṣad* \< *takṣat* \< *takṣ*
+- *takṣad* ← *takṣat* ← *takṣ*
 - \[verb\], singular, Present injunctive
 - “produce; shape; fashion; chisel; invent.”
 ------------------------------------------------------------------------
-- *vajraṃ* \< *vajram* \< *vajra*
+- *vajraṃ* ← *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *niyutaṃ* \< *niyutam* \< *niyu* \< *√yu*
+- *niyutaṃ* ← *niyutam* ← *niyu* ← *√yu*
 - \[verb noun\], accusative, singular
 - “harness.”
 ------------------------------------------------------------------------
-- *tastambhad* \< *tastambhat* \< *stambh*
+- *tastambhad* ← *tastambhat* ← *stambh*
 - \[verb\], singular, Plusquamperfect
 - “paralyze; stiffen; fixate; fixate; stambh; rear; stop; strengthen;
     constipate.”
 ------------------------------------------------------------------------
-- *dyāṃ* \< *dyām* \< *div*
+- *dyāṃ* ← *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *catuṣpade* \< *catuṣpada*
+- *catuṣpade* ← *catuṣpada*
 - \[noun\], dative, singular, masculine
 - “quadrupedal.”
 ------------------------------------------------------------------------
-- *naryāya* \< *narya*
+- *naryāya* ← *narya*
 - \[noun\], dative, singular, masculine
 - “manly; heroic; powerful; male; human.”
 ------------------------------------------------------------------------
-- *dvipāde* \< *dvipād*
+- *dvipāde* ← *dvipād*
 - \[noun\], dative, singular, masculine
 - “biped; Vishnu.”
 ------------------------------------------------------------------------

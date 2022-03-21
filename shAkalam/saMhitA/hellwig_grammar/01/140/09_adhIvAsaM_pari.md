@@ -2,19 +2,19 @@
 title = "Rig Veda 1.140.9"
 
 +++
--   *adhīvāsam* \< *adhīvāsa*
+-   *adhīvāsam* ← *adhīvāsa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *pari*
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *mātū* \< *mātuḥ* \< *mātṛ*
+- *mātū* ← *mātuḥ* ← *mātṛ*
 - \[noun\], genitive, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *rihann* \< *rihan* \< *rih*
+- *rihann* ← *rihan* ← *rih*
 - \[verb noun\], nominative, singular
 - “lick.”
 ------------------------------------------------------------------------
@@ -22,14 +22,14 @@ title = "Rig Veda 1.140.9"
 - \[adverb\]
 - “aha \[word\]; indeed.”
 ------------------------------------------------------------------------
-- *tuvigrebhiḥ* \< *tuvigra*
+- *tuvigrebhiḥ* ← *tuvigra*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *satvabhir* \< *satvabhiḥ* \< *satvan*
+- *satvabhir* ← *satvabhiḥ* ← *satvan*
 - \[noun\], instrumental, plural, masculine
 - “warrior.”
 ------------------------------------------------------------------------
-- *yāti* \< *yā*
+- *yāti* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
@@ -38,33 +38,33 @@ title = "Rig Veda 1.140.9"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *jrayaḥ* \< *jrayas*
+- *jrayaḥ* ← *jrayas*
 - \[noun\], accusative, singular, neuter
 - “expanse; area.”
 ------------------------------------------------------------------------
-- *vayo* \< *vayaḥ* \< *vayas*
+- *vayo* ← *vayaḥ* ← *vayas*
 - \[noun\], accusative, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
 ------------------------------------------------------------------------
-- *dadhat* \< *dhā*
+- *dadhat* ← *dhā*
 - \[verb noun\], nominative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *padvate* \< *padvat*
+- *padvate* ← *padvat*
 - \[noun\], dative, singular, masculine
 - “footed.”
 ------------------------------------------------------------------------
-- *rerihat* \< *rerih* \< *√rih*
+- *rerihat* ← *rerih* ← *√rih*
 - \[verb noun\], nominative, singular
 - “lick.”
 ------------------------------------------------------------------------
-- *sadānu* \< *sadā*
+- *sadānu* ← *sadā*
 - \[adverb\]
 - “always; continually; always; perpetually.”
 ------------------------------------------------------------------------
-- *sadānu* \< *anu*
+- *sadānu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
@@ -72,11 +72,11 @@ title = "Rig Veda 1.140.9"
 - \[noun\], nominative, singular, feminine
 - “śyenī.”
 ------------------------------------------------------------------------
-- *sacate* \< *sac*
+- *sacate* ← *sac*
 - \[verb\], singular, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *vartanīr* \< *vartanīḥ* \< *vartani*
+- *vartanīr* ← *vartanīḥ* ← *vartani*
 - \[noun\], accusative, plural, feminine
 - “path; East; way.”
 ------------------------------------------------------------------------

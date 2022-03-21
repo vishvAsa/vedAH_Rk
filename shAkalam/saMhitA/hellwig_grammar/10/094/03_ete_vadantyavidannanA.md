@@ -2,16 +2,16 @@
 title = "Rig Veda 10.94.3"
 
 +++
--   *ete* \< *etad*
+-   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *vadanty* \< *vadanti* \< *vad*
+- *vadanty* ← *vadanti* ← *vad*
 - \[verb\], plural, Present indikative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
 ------------------------------------------------------------------------
-- *avidann* \< *avidan* \< *vid*
+- *avidann* ← *avidan* ← *vid*
 - \[verb\], plural, Imperfect
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
@@ -23,64 +23,64 @@ title = "Rig Veda 10.94.3"
 - \[noun\], accusative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ūṅkhayante* \< *ūṅkhay*
+- *ūṅkhayante* ← *ūṅkhay*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *pakva* \< *pakve* \< *pakva*
+- *pakva* ← *pakve* ← *pakva*
 - \[noun\], locative, singular, neuter
 - “heated; pakva; ripe; cooked; festering; baked; developed; doomed;
     digested; pakva \[word\]; suppurative; gray; fruiting; done.”
 ------------------------------------------------------------------------
-- *āmiṣi* \< *āmis*
+- *āmiṣi* ← *āmis*
 - \[noun\], locative, singular, neuter
 - “meat; cadaver.”
 ------------------------------------------------------------------------
-- *vṛkṣasya* \< *vṛkṣa*
+- *vṛkṣasya* ← *vṛkṣa*
 - \[noun\], genitive, singular, masculine
 - “tree; fruit tree.”
 ------------------------------------------------------------------------
-- *śākhām* \< *śākhā*
+- *śākhām* ← *śākhā*
 - \[noun\], accusative, singular, feminine
 - “branch; limb; school; extremity; śākhā \[word\]; bough; branchlet;
     finger.”
 ------------------------------------------------------------------------
-- *aruṇasya* \< *aruṇa*
+- *aruṇasya* ← *aruṇa*
 - \[noun\], genitive, singular, masculine
 - “red; tawny; dusty; gray.”
 ------------------------------------------------------------------------
-- *bapsatas* \< *bapsataḥ* \< *bhas*
+- *bapsatas* ← *bapsataḥ* ← *bhas*
 - \[verb noun\], nominative, plural
 - “chew; snatch.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *sūbharvā* \< *sūbharvāḥ* \< *sūbharva*
+- *sūbharvā* ← *sūbharvāḥ* ← *sūbharva*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *vṛṣabhāḥ* \< *vṛṣabha*
+- *vṛṣabhāḥ* ← *vṛṣabha*
 - \[noun\], nominative, plural, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *prem* \< *pra*
+- *prem* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prem* \< *im* \< *iṃ*
+- *prem* ← *im* ← *iṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *arāviṣuḥ* \< *ru*
+- *arāviṣuḥ* ← *ru*
 - \[verb\], plural, Athematic is aor. (Ind.)
 - “bellow; howl.”
 ------------------------------------------------------------------------

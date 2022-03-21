@@ -2,35 +2,35 @@
 title = "Rig Veda 8.47.12"
 
 +++
--   *neha* \< *na*
+-   *neha* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *neha* \< *iha*
+- *neha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *bhadraṃ* \< *bhadram* \< *bhadra*
+- *bhadraṃ* ← *bhadram* ← *bhadra*
 - \[noun\], nominative, singular, neuter
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *rakṣasvine* \< *rakṣasvin*
+- *rakṣasvine* ← *rakṣasvin*
 - \[noun\], dative, singular, masculine
 - “malevolent; demoniac; obsessed.”
 ------------------------------------------------------------------------
-- *nāvayai* \< *na*
+- *nāvayai* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāvayai* \< *avayai* \< *avayā* \< *√yā*
+- *nāvayai* ← *avayai* ← *avayā* ← *√yā*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *nopayā* \< *na*
+- *nopayā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nopayā* \< *upayai* \< *upayā* \< *√yā*
+- *nopayā* ← *upayai* ← *upayā* ← *√yā*
 - \[verb noun\]
 - “enter (a state); arrive; come; go.”
 ------------------------------------------------------------------------
@@ -38,7 +38,7 @@ title = "Rig Veda 8.47.12"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *gave* \< *go*
+- *gave* ← *go*
 - \[noun\], dative, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -47,16 +47,16 @@ title = "Rig Veda 8.47.12"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *bhadraṃ* \< *bhadram* \< *bhadra*
+- *bhadraṃ* ← *bhadram* ← *bhadra*
 - \[noun\], nominative, singular, neuter
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *dhenave* \< *dhenu*
+- *dhenave* ← *dhenu*
 - \[noun\], dative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *vīrāya* \< *vīra*
+- *vīrāya* ← *vīra*
 - \[noun\], dative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
@@ -64,34 +64,34 @@ title = "Rig Veda 8.47.12"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *śravasyate* \< *śravasy*
+- *śravasyate* ← *śravasy*
 - \[verb noun\], dative, singular
 ------------------------------------------------------------------------
-- *'nehaso* \< *anehasaḥ* \< *anehas*
+- *'nehaso* ← *anehasaḥ* ← *anehas*
 - \[noun\], nominative, plural, feminine
 - “faultless; anehas \[word\]; incomparable.”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *ūtayaḥ* \< *ūti*
+- *ūtayaḥ* ← *ūti*
 - \[noun\], nominative, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *suūtayo* \< *su*
+- *suūtayo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suūtayo* \< *ūtayaḥ* \< *ūti*
+- *suūtayo* ← *ūtayaḥ* ← *ūti*
 - \[noun\], nominative, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *ūtayaḥ* \< *ūti*
+- *ūtayaḥ* ← *ūti*
 - \[noun\], nominative, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------

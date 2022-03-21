@@ -2,7 +2,7 @@
 title = "Rig Veda 10.18.12"
 
 +++
--   *ucchvañcamānā* \< *ucchvañc* \< *√śvañc*
+-   *ucchvañcamānā* ← *ucchvañc* ← *√śvañc*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
 - *pṛthivī*
@@ -13,17 +13,17 @@ title = "Rig Veda 10.18.12"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *tiṣṭhatu* \< *sthā*
+- *tiṣṭhatu* ← *sthā*
 - \[verb\], singular, Present imperative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *sahasram* \< *sahasra*
+- *sahasram* ← *sahasra*
 - \[noun\], nominative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *mita* \< *mitaḥ* \< *mit*
+- *mita* ← *mitaḥ* ← *mit*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
 - *upa*
@@ -34,44 +34,44 @@ title = "Rig Veda 10.18.12"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *śrayantām* \< *śri*
+- *śrayantām* ← *śri*
 - \[verb\], plural, Present imperative
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *gṛhāso* \< *gṛhāsaḥ* \< *gṛha*
+- *gṛhāso* ← *gṛhāsaḥ* ← *gṛha*
 - \[noun\], nominative, plural, masculine
 - “house; palace; temple; home; place; family; family; stable.”
 ------------------------------------------------------------------------
-- *ghṛtaścuto* \< *ghṛtaścutaḥ* \< *ghṛtaścut*
+- *ghṛtaścuto* ← *ghṛtaścutaḥ* ← *ghṛtaścut*
 - \[noun\], nominative, plural, masculine
 - “ghee-dripping.”
 ------------------------------------------------------------------------
-- *bhavantu* \< *bhū*
+- *bhavantu* ← *bhū*
 - \[verb\], plural, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *viśvāhāsmai* \< *viśvāhā*
+- *viśvāhāsmai* ← *viśvāhā*
 - \[adverb\]
 - “always.”
 ------------------------------------------------------------------------
-- *viśvāhāsmai* \< *asmai* \< *idam*
+- *viśvāhāsmai* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *śaraṇāḥ* \< *śaraṇa*
+- *śaraṇāḥ* ← *śaraṇa*
 - \[noun\], nominative, plural, masculine
 - “protecting.”
 ------------------------------------------------------------------------
-- *santv* \< *santu* \< *as*
+- *santv* ← *santu* ← *as*
 - \[verb\], plural, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

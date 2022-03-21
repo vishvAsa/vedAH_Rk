@@ -2,16 +2,16 @@
 title = "Rig Veda 9.99.8"
 
 +++
--   *suta* \< *sutaḥ* \< *su*
+-   *suta* ← *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *indo* \< *indu*
+- *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *pavitra* \< *pavitre* \< *pavitra*
+- *pavitra* ← *pavitre* ← *pavitra*
 - \[noun\], locative, singular, neuter
 - “strainer.”
 ------------------------------------------------------------------------
@@ -19,11 +19,11 @@ title = "Rig Veda 9.99.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *nṛbhir* \< *nṛbhiḥ* \< *nṛ*
+- *nṛbhir* ← *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *yato* \< *yataḥ* \< *yam*
+- *yato* ← *yataḥ* ← *yam*
 - \[verb noun\], nominative, singular
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
@@ -31,20 +31,20 @@ title = "Rig Veda 9.99.8"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *nīyase* \< *nī*
+- *nīyase* ← *nī*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *matsarintamaś* \< *matsarintamaḥ* \< *matsarintama*
+- *matsarintamaś* ← *matsarintamaḥ* ← *matsarintama*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *camūṣv* \< *camūṣu* \< *camū*
+- *camūṣv* ← *camūṣu* ← *camū*
 - \[noun\], locative, plural, feminine
 - “army; camū; Camū.”
 ------------------------------------------------------------------------
@@ -56,7 +56,7 @@ title = "Rig Veda 9.99.8"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ṣīdasi* \< *sīdasi* \< *sad*
+- *ṣīdasi* ← *sīdasi* ← *sad*
 - \[verb\], singular, Present indikative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”

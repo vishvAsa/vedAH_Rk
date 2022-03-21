@@ -2,17 +2,17 @@
 title = "Rig Veda 10.27.24"
 
 +++
--   *sā* \< *tad*
+-   *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *jīvātur* \< *jīvātuḥ* \< *jīvātu*
+- *jīvātur* ← *jīvātuḥ* ← *jīvātu*
 - \[noun\], nominative, singular, feminine
 - “life.”
 ------------------------------------------------------------------------
@@ -20,13 +20,13 @@ title = "Rig Veda 10.27.24"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *tasya* \< *tad*
+- *tasya* ← *tad*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *viddhi* \< *vid*
+- *viddhi* ← *vid*
 - \[verb\], singular, Present imperative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
@@ -35,10 +35,10 @@ title = "Rig Veda 10.27.24"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *smaitādṛg* \< *sma*
+- *smaitādṛg* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *smaitādṛg* \< *etādṛś*
+- *smaitādṛg* ← *etādṛś*
 - \[noun\], accusative, singular, neuter
 - “such(a).”
 ------------------------------------------------------------------------
@@ -46,22 +46,22 @@ title = "Rig Veda 10.27.24"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *gūhaḥ* \< *guh*
+- *gūhaḥ* ← *guh*
 - \[verb\], singular, Present injunctive
 - “hide; cover; conceal; shroud; obscure.”
 ------------------------------------------------------------------------
-- *samarye* \< *samarya*
+- *samarye* ← *samarya*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *āviḥ* \< *āvis*
+- *āviḥ* ← *āvis*
 - \[adverb\]
 - “openly; obviously.”
 ------------------------------------------------------------------------
-- *svaḥ* \< *svar*
+- *svaḥ* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *kṛṇute* \< *kṛ*
+- *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -72,29 +72,29 @@ title = "Rig Veda 10.27.24"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *gūhate* \< *guh*
+- *gūhate* ← *guh*
 - \[verb\], singular, Present indikative
 - “hide; cover; conceal; shroud; obscure.”
 ------------------------------------------------------------------------
-- *busaṃ* \< *busam* \< *busa*
+- *busaṃ* ← *busam* ← *busa*
 - \[noun\], accusative, singular, neuter
 - “chaff.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *pādur* \< *pāduḥ* \< *pādu*
+- *pādur* ← *pāduḥ* ← *pādu*
 - \[noun\], nominative, singular, masculine
 - “foot.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *nirṇijo* \< *nirṇijaḥ* \< *nirṇij*
+- *nirṇijo* ← *nirṇijaḥ* ← *nirṇij*
 - \[noun\], ablative, singular, feminine
 - “attire; garment.”
 ------------------------------------------------------------------------
@@ -102,7 +102,7 @@ title = "Rig Veda 10.27.24"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *mucyate* \< *muc*
+- *mucyate* ← *muc*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
     fill into; shoot; spill; lose; ejaculate; exclude; free; remove;

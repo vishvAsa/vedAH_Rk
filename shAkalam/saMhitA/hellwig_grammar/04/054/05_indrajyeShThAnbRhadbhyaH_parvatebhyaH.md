@@ -2,38 +2,38 @@
 title = "Rig Veda 4.54.5"
 
 +++
--   *indrajyeṣṭhān* \< *indra*
+-   *indrajyeṣṭhān* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrajyeṣṭhān* \< *jyeṣṭhān* \< *jyeṣṭha*
+- *indrajyeṣṭhān* ← *jyeṣṭhān* ← *jyeṣṭha*
 - \[noun\], accusative, plural, masculine
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
 ------------------------------------------------------------------------
-- *bṛhadbhyaḥ* \< *bṛhat*
+- *bṛhadbhyaḥ* ← *bṛhat*
 - \[noun\], dative, plural, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *parvatebhyaḥ* \< *parvata*
+- *parvatebhyaḥ* ← *parvata*
 - \[noun\], dative, plural, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
 ------------------------------------------------------------------------
-- *kṣayāṃ* \< *kṣaya*
+- *kṣayāṃ* ← *kṣaya*
 - \[noun\], accusative, plural, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
 ------------------------------------------------------------------------
-- *ebhyaḥ* \< *idam*
+- *ebhyaḥ* ← *idam*
 - \[noun\], dative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *suvasi* \< *sū*
+- *suvasi* ← *sū*
 - \[verb\], singular, Present indikative
 - “give birth; urge; bestow; cause.”
 ------------------------------------------------------------------------
-- *pastyāvataḥ* \< *pastyāvat*
+- *pastyāvataḥ* ← *pastyāvat*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
 - *yathā*
@@ -44,38 +44,38 @@ title = "Rig Veda 4.54.5"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *patayanto* \< *patayantaḥ* \< *patay* \< *√pat*
+- *patayanto* ← *patayantaḥ* ← *patay* ← *√pat*
 - \[verb noun\], nominative, plural
 - “fly.”
 ------------------------------------------------------------------------
-- *viyemira* \< *viyemire* \< *viyam* \< *√yam*
+- *viyemira* ← *viyemire* ← *viyam* ← *√yam*
 - \[verb\], plural, Perfect indicative
 ------------------------------------------------------------------------
-- *evaiva* \< *evā* \< *eva*
+- *evaiva* ← *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *evaiva* \< *eva*
+- *evaiva* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *tasthuḥ* \< *sthā*
+- *tasthuḥ* ← *sthā*
 - \[verb\], plural, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *savitaḥ* \< *savitar* \< *savitṛ*
+- *savitaḥ* ← *savitar* ← *savitṛ*
 - \[noun\], vocative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *savāya* \< *sava*
+- *savāya* ← *sava*
 - \[noun\], dative, singular, masculine
 - “yajña; command; impulse; direction; momentum.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------

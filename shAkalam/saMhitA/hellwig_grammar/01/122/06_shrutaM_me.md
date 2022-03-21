@@ -2,84 +2,84 @@
 title = "Rig Veda 1.122.6"
 
 +++
--   *śrutam* \< *śru*
+-   *śrutam* ← *śru*
 - \[verb\], dual, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇā* \< *mitrāvaruṇa*
+- *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *havemota* \< *havā* \< *hava*
+- *havemota* ← *havā* ← *hava*
 - \[noun\], ablative, plural, neuter
 - “invocation.”
 ------------------------------------------------------------------------
-- *havemota* \< *imā* \< *idam*
+- *havemota* ← *imā* ← *idam*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *havemota* \< *uta*
+- *havemota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *śrutaṃ* \< *śrutam* \< *śru*
+- *śrutaṃ* ← *śrutam* ← *śru*
 - \[verb\], dual, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *sadane* \< *sadana*
+- *sadane* ← *sadana*
 - \[noun\], locative, singular, neuter
 - “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
     residence; seat; inanition; location.”
 ------------------------------------------------------------------------
-- *viśvataḥ* \< *viśvatas*
+- *viśvataḥ* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
 ------------------------------------------------------------------------
 - *sīm*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *śrotu* \< *śru*
+- *śrotu* ← *śru*
 - \[verb\], singular, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śroturātiḥ* \< *śrotu*
+- *śroturātiḥ* ← *śrotu*
 - \[noun\], masculine
 - “listening.”
 ------------------------------------------------------------------------
-- *śroturātiḥ* \< *rātiḥ* \< *rāti*
+- *śroturātiḥ* ← *rātiḥ* ← *rāti*
 - \[noun\], nominative, singular, feminine
 - “gift; bounty; favor.”
 ------------------------------------------------------------------------
-- *suśrotuḥ* \< *su*
+- *suśrotuḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśrotuḥ* \< *śrotuḥ* \< *śrotu*
+- *suśrotuḥ* ← *śrotuḥ* ← *śrotu*
 - \[noun\], nominative, singular, feminine
 - “listening.”
 ------------------------------------------------------------------------
-- *sukṣetrā* \< *su*
+- *sukṣetrā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukṣetrā* \< *kṣetrā* \< *kṣetra*
+- *sukṣetrā* ← *kṣetrā* ← *kṣetra*
 - \[noun\], nominative, singular, feminine
 - “field; location; habitat; country; area; earth; region; estate;
     body; kṣetra \[word\]; kṣetradoṣa; seat; reincarnation; uterus.”
 ------------------------------------------------------------------------
-- *sindhur* \< *sindhuḥ* \< *sindhu*
+- *sindhur* ← *sindhuḥ* ← *sindhu*
 - \[noun\], nominative, singular, feminine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *adbhiḥ* \< *ap*
+- *adbhiḥ* ← *ap*
 - \[noun\], instrumental, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------

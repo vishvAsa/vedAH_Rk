@@ -9,43 +9,43 @@ title = "Rig Veda 3.7.3"
 - *sīm*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *arohat* \< *ruh*
+- *arohat* ← *ruh*
 - \[verb\], singular, Imperfect
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
 ------------------------------------------------------------------------
-- *suyamā* \< *su*
+- *suyamā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suyamā* \< *yamāḥ* \< *yama*
+- *suyamā* ← *yamāḥ* ← *yama*
 - \[noun\], accusative, plural, feminine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
 ------------------------------------------------------------------------
-- *bhavantīḥ* \< *bhū*
+- *bhavantīḥ* ← *bhū*
 - \[verb noun\], accusative, plural
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *patiś* \< *patiḥ* \< *pati*
+- *patiś* ← *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *cikitvān* \< *cit*
+- *cikitvān* ← *cit*
 - \[verb noun\], nominative, singular
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *rayivid* \< *rayi*
+- *rayivid* ← *rayi*
 - \[noun\], masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *rayivid* \< *vid*
+- *rayivid* ← *vid*
 - \[noun\], nominative, singular, masculine
 - “finding.”
 ------------------------------------------------------------------------
-- *rayīṇām* \< *rayi*
+- *rayīṇām* ← *rayi*
 - \[noun\], genitive, plural, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
@@ -53,37 +53,37 @@ title = "Rig Veda 3.7.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *nīlapṛṣṭho* \< *nīla*
+- *nīlapṛṣṭho* ← *nīla*
 - \[noun\]
 - “blue; black; black; nīla \[word\]; green.”
 ------------------------------------------------------------------------
-- *nīlapṛṣṭho* \< *pṛṣṭhaḥ* \< *pṛṣṭha*
+- *nīlapṛṣṭho* ← *pṛṣṭhaḥ* ← *pṛṣṭha*
 - \[noun\], nominative, singular, masculine
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
 ------------------------------------------------------------------------
-- *atasasya* \< *atasa*
+- *atasasya* ← *atasa*
 - \[noun\], genitive, singular, neuter
 - “shrub; scrub.”
 ------------------------------------------------------------------------
-- *dhāses* \< *dhāseḥ* \< *dhāsi*
+- *dhāses* ← *dhāseḥ* ← *dhāsi*
 - \[noun\], ablative, singular, feminine
 - “seat; home.”
 ------------------------------------------------------------------------
-- *tā* \< *tāḥ* \< *tad*
+- *tā* ← *tāḥ* ← *tad*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *avāsayat* \< *vāsay* \< *√vas*
+- *avāsayat* ← *vāsay* ← *√vas*
 - \[verb\], singular, Imperfect
 - “banish.”
 ------------------------------------------------------------------------
-- *purudhapratīkaḥ* \< *purudha* \< *purudhā*
+- *purudhapratīkaḥ* ← *purudha* ← *purudhā*
 - \[adverb\]
 - “multiply.”
 ------------------------------------------------------------------------
-- *purudhapratīkaḥ* \< *pratīkaḥ* \< *pratīka*
+- *purudhapratīkaḥ* ← *pratīkaḥ* ← *pratīka*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

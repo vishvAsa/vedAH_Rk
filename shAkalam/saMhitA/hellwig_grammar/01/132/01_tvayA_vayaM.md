@@ -2,11 +2,11 @@
 title = "Rig Veda 1.132.1"
 
 +++
--   *tvayā* \< *tvad*
+-   *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vayam* \< *mad*
+- *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -14,11 +14,11 @@ title = "Rig Veda 1.132.1"
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *pūrvye* \< *pūrvya*
+- *pūrvye* ← *pūrvya*
 - \[noun\], locative, singular, neuter
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------
-- *dhana* \< *dhane* \< *dhana*
+- *dhana* ← *dhane* ← *dhana*
 - \[noun\], locative, singular, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
@@ -28,33 +28,33 @@ title = "Rig Veda 1.132.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tvotāḥ* \< *tvota*
+- *tvotāḥ* ← *tvota*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *sāsahyāma* \< *sah*
+- *sāsahyāma* ← *sah*
 - \[verb\], plural, Perfect optative
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------
-- *pṛtanyato* \< *pṛtanyataḥ* \< *pṛtany*
+- *pṛtanyato* ← *pṛtanyataḥ* ← *pṛtany*
 - \[verb noun\], accusative, plural
 - “attack.”
 ------------------------------------------------------------------------
-- *vanuyāma* \< *van*
+- *vanuyāma* ← *van*
 - \[verb\], plural, Present optative
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *vanuṣyataḥ* \< *vanuṣy*
+- *vanuṣyataḥ* ← *vanuṣy*
 - \[verb noun\], accusative, plural
 ------------------------------------------------------------------------
-- *nediṣṭhe* \< *nediṣṭha*
+- *nediṣṭhe* ← *nediṣṭha*
 - \[noun\], locative, singular, neuter
 - “following.”
 ------------------------------------------------------------------------
-- *asminn* \< *asmin* \< *idam*
+- *asminn* ← *asmin* ← *idam*
 - \[noun\], locative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ahany* \< *ahani* \< *ahar*
+- *ahany* ← *ahani* ← *ahar*
 - \[noun\], locative, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
@@ -62,7 +62,7 @@ title = "Rig Veda 1.132.1"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *vocā* \< *vocāḥ* \< *vac*
+- *vocā* ← *vocāḥ* ← *vac*
 - \[verb\], singular, Aorist conj./subj.
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
@@ -73,15 +73,15 @@ title = "Rig Veda 1.132.1"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *sunvate* \< *su*
+- *sunvate* ← *su*
 - \[verb noun\], dative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *asmin* \< *idam*
+- *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *yajñe* \< *yajña*
+- *yajñe* ← *yajña*
 - \[noun\], locative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
@@ -89,28 +89,28 @@ title = "Rig Veda 1.132.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *cayemā* \< *cayema* \< *ci*
+- *cayemā* ← *cayema* ← *ci*
 - \[verb\], plural, Present optative
 - “cover; accumulate; pile up; pick; cover.”
 ------------------------------------------------------------------------
-- *bhare* \< *bhara*
+- *bhare* ← *bhara*
 - \[noun\], locative, singular, masculine
 - “battle; weight; foray; bhṛ; load.”
 ------------------------------------------------------------------------
-- *kṛtaṃ* \< *kṛtam* \< *kṛta*
+- *kṛtaṃ* ← *kṛtam* ← *kṛta*
 - \[noun\], accusative, singular, neuter
 - “Kṛta; action; throw; work; production; work; kindness; four; kṛta
     \[word\].”
 ------------------------------------------------------------------------
-- *vājayanto* \< *vājayantaḥ* \< *vājay* \< *√vaj*
+- *vājayanto* ← *vājayantaḥ* ← *vājay* ← *√vaj*
 - \[verb noun\], nominative, plural
 - “incite.”
 ------------------------------------------------------------------------
-- *bhare* \< *bhara*
+- *bhare* ← *bhara*
 - \[noun\], locative, singular, masculine
 - “battle; weight; foray; bhṛ; load.”
 ------------------------------------------------------------------------
-- *kṛtam* \< *kṛta*
+- *kṛtam* ← *kṛta*
 - \[noun\], accusative, singular, neuter
 - “Kṛta; action; throw; work; production; work; kindness; four; kṛta
     \[word\].”

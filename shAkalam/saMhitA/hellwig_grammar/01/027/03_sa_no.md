@@ -2,25 +2,25 @@
 title = "Rig Veda 1.27.3"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dūrāc* \< *dūrāt*
+- *dūrāc* ← *dūrāt*
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *cāsāc* \< *ca*
+- *cāsāc* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cāsāc* \< *āsāt*
+- *cāsāc* ← *āsāt*
 - \[adverb\]
 - “nearby.”
 ------------------------------------------------------------------------
@@ -32,15 +32,15 @@ title = "Rig Veda 1.27.3"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *martyād* \< *martyāt* \< *martya*
+- *martyād* ← *martyāt* ← *martya*
 - \[noun\], ablative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------
-- *aghāyoḥ* \< *aghāyu*
+- *aghāyoḥ* ← *aghāyu*
 - \[noun\], ablative, singular, masculine
 - “malevolent.”
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
@@ -52,7 +52,7 @@ title = "Rig Veda 1.27.3"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *viśvāyuḥ* \< *viśvāyu*
+- *viśvāyuḥ* ← *viśvāyu*
 - \[noun\], nominative, singular, masculine
 - “lifelong.”
 ------------------------------------------------------------------------

@@ -2,11 +2,11 @@
 title = "Rig Veda 3.31.5"
 
 +++
--   *vīﾱau* \< *vīḍu*
+-   *vīﾱau* ← *vīḍu*
 - \[noun\], locative, singular, neuter
 - “hard; firm.”
 ------------------------------------------------------------------------
-- *satīr* \< *satīḥ* \< *as*
+- *satīr* ← *satīḥ* ← *as*
 - \[verb noun\], accusative, plural
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -15,71 +15,71 @@ title = "Rig Veda 3.31.5"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *dhīrā* \< *dhīrāḥ* \< *dhīra*
+- *dhīrā* ← *dhīrāḥ* ← *dhīra*
 - \[noun\], nominative, plural, masculine
 - “expert; wise; intelligent; versed; adept.”
 ------------------------------------------------------------------------
-- *atṛndan* \< *tṛd*
+- *atṛndan* ← *tṛd*
 - \[verb\], plural, Imperfect
 ------------------------------------------------------------------------
-- *prācāhinvan* \< *prācā* \< *prāñc*
+- *prācāhinvan* ← *prācā* ← *prāñc*
 - \[noun\], instrumental, singular, neuter
 - “eastern; aforesaid(a); former(a); eastbound; easterly; anterior;
     forward; prāñc \[word\].”
 ------------------------------------------------------------------------
-- *prācāhinvan* \< *ahinvan* \< *hi*
+- *prācāhinvan* ← *ahinvan* ← *hi*
 - \[verb\], plural, Imperfect
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], nominative, plural, masculine
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *viprāḥ* \< *vipra*
+- *viprāḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *viśvām* \< *viśva*
+- *viśvām* ← *viśva*
 - \[noun\], accusative, singular, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *avindan* \< *vid*
+- *avindan* ← *vid*
 - \[verb\], plural, Imperfect
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *pathyām* \< *pathyā*
+- *pathyām* ← *pathyā*
 - \[noun\], accusative, singular, feminine
 - “Terminalia chebula Retz.; path; Pathyā; way.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *prajānann* \< *prajānan* \< *prajñā* \< *√jñā*
+- *prajānann* ← *prajānan* ← *prajñā* ← *√jñā*
 - \[verb noun\], nominative, singular
 - “know; perceive; understand; detect.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *tā* \< *tāḥ* \< *tad*
+- *tā* ← *tāḥ* ← *tad*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *namasā* \< *namas*
+- *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *viveśa* \< *viś*
+- *viveśa* ← *viś*
 - \[verb\], singular, Perfect indicative
 - “enter; penetrate; settle; settle.”
 ------------------------------------------------------------------------

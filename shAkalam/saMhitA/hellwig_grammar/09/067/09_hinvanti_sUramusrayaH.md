@@ -2,29 +2,29 @@
 title = "Rig Veda 9.67.9"
 
 +++
--   *hinvanti* \< *hi*
+-   *hinvanti* ← *hi*
 - \[verb\], plural, Present indikative
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
-- *sūram* \< *sūra*
+- *sūram* ← *sūra*
 - \[noun\], accusative, singular, masculine
 - “sun.”
 ------------------------------------------------------------------------
-- *usrayaḥ* \< *usri*
+- *usrayaḥ* ← *usri*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *pavamānam* \< *pū*
+- *pavamānam* ← *pū*
 - \[verb noun\], accusative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *madhuścutam* \< *madhuścut*
+- *madhuścutam* ← *madhuścut*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *girā* \< *gir*
+- *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
@@ -33,7 +33,7 @@ title = "Rig Veda 9.67.9"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *asvaran* \< *svar*
+- *asvaran* ← *svar*
 - \[verb\], plural, Imperfect
 - “sing.”
 ------------------------------------------------------------------------

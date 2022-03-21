@@ -2,39 +2,39 @@
 title = "Rig Veda 1.187.5"
 
 +++
--   *tava* \< *tvad*
+-   *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tye* \< *tya*
+- *tye* ← *tya*
 - \[noun\], nominative, plural, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *pito* \< *pitu*
+- *pito* ← *pitu*
 - \[noun\], vocative, singular, masculine
 - “food.”
 ------------------------------------------------------------------------
-- *dadatas* \< *dadataḥ* \< *dā*
+- *dadatas* ← *dadataḥ* ← *dā*
 - \[verb noun\], genitive, singular
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
 - *svādiṣṭha*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *pito* \< *pitu*
+- *pito* ← *pitu*
 - \[noun\], vocative, singular, masculine
 - “food.”
 ------------------------------------------------------------------------
@@ -42,11 +42,11 @@ title = "Rig Veda 1.187.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *svādmāno* \< *svādmānaḥ* \< *svādman*
+- *svādmāno* ← *svādmānaḥ* ← *svādman*
 - \[noun\], nominative, plural, masculine
 - “preference; sweetness.”
 ------------------------------------------------------------------------
-- *rasānāṃ* \< *rasānām* \< *rasa*
+- *rasānāṃ* ← *rasānām* ← *rasa*
 - \[noun\], genitive, plural, masculine
 - “mercury; juice; medicine; rasa; alchemy; liquid; Rasa; mahārasa;
     taste; broth; elixir; resin; rasa; essence; six; water; soup; liquid
@@ -54,19 +54,19 @@ title = "Rig Veda 1.187.5"
     purpose; delight; solution; milk; beverage; alcohol; sap; nectar;
     Rasātala.”
 ------------------------------------------------------------------------
-- *tuvigrīvā* \< *tuvi*
+- *tuvigrīvā* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
 ------------------------------------------------------------------------
-- *tuvigrīvā* \< *grīvāḥ* \< *grīvā*
+- *tuvigrīvā* ← *grīvāḥ* ← *grīvā*
 - \[noun\], nominative, plural, masculine
 - “neck; grīvā \[word\].”
 ------------------------------------------------------------------------
-- *iverate* \< *iva*
+- *iverate* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *iverate* \< *īrate* \< *īr*
+- *iverate* ← *īrate* ← *īr*
 - \[verb\], plural, Present indikative
 - “go.”
 ------------------------------------------------------------------------

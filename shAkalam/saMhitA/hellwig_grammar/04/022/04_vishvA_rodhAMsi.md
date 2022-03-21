@@ -2,16 +2,16 @@
 title = "Rig Veda 4.22.4"
 
 +++
--   *viśvā* \< *viśva*
+-   *viśvā* ← *viśva*
 - \[noun\], nominative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *rodhāṃsi* \< *rodhas*
+- *rodhāṃsi* ← *rodhas*
 - \[noun\], nominative, plural, neuter
 - “shore; bank; slope; wall.”
 ------------------------------------------------------------------------
-- *pravataś* \< *pravataḥ* \< *pravat*
+- *pravataś* ← *pravataḥ* ← *pravat*
 - \[noun\], nominative, plural, feminine
 - “slope; river.”
 ------------------------------------------------------------------------
@@ -19,15 +19,15 @@ title = "Rig Veda 4.22.4"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *pūrvīr* \< *pūrvīḥ* \< *puru*
+- *pūrvīr* ← *pūrvīḥ* ← *puru*
 - \[noun\], nominative, plural, feminine
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *dyaur* \< *dyauḥ* \< *div*
+- *dyaur* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *ṛṣvāj* \< *ṛṣvāt* \< *ṛṣva*
+- *ṛṣvāj* ← *ṛṣvāt* ← *ṛṣva*
 - \[noun\], ablative, singular, masculine
 - “distinguished; high; noble; enormous.”
 ------------------------------------------------------------------------
@@ -35,11 +35,11 @@ title = "Rig Veda 4.22.4"
 - \[noun\], locative, singular, neuter
 - “birth; offspring; origin; kind; being.”
 ------------------------------------------------------------------------
-- *rejata* \< *rej*
+- *rejata* ← *rej*
 - \[verb\], singular, Present injunctive
 - “tremor; flicker.”
 ------------------------------------------------------------------------
-- *kṣāḥ* \< *kṣā*
+- *kṣāḥ* ← *kṣā*
 - \[noun\], nominative, singular, feminine
 - “Earth; Earth.”
 ------------------------------------------------------------------------
@@ -47,17 +47,17 @@ title = "Rig Veda 4.22.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *mātarā* \< *mātṛ*
+- *mātarā* ← *mātṛ*
 - \[noun\], accusative, dual, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *bharati* \< *bhṛ*
+- *bharati* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *śuṣmy* \< *śuṣmī* \< *śuṣmin*
+- *śuṣmy* ← *śuṣmī* ← *śuṣmin*
 - \[noun\], nominative, singular, masculine
 - “strong; hotheaded.”
 ------------------------------------------------------------------------
@@ -65,7 +65,7 @@ title = "Rig Veda 4.22.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gor* \< *goḥ* \< *go*
+- *gor* ← *goḥ* ← *go*
 - \[noun\], ablative, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -77,11 +77,11 @@ title = "Rig Veda 4.22.4"
 - *parijman*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *nonuvanta* \< *nonāv* \< *√nū*
+- *nonuvanta* ← *nonāv* ← *√nū*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “bellow.”
 ------------------------------------------------------------------------
-- *vātāḥ* \< *vāta*
+- *vātāḥ* ← *vāta*
 - \[noun\], nominative, plural, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”

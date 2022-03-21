@@ -6,32 +6,32 @@ title = "Rig Veda 8.8.13"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *viśvāny* \< *viśvāni* \< *viśva*
+- *viśvāny* ← *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *dhattaṃ* \< *dhattam* \< *dhā*
+- *dhattaṃ* ← *dhattam* ← *dhā*
 - \[verb\], dual, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *rādhāṃsy* \< *rādhāṃsi* \< *rādhas*
+- *rādhāṃsy* ← *rādhāṃsi* ← *rādhas*
 - \[noun\], accusative, plural, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *ahrayā* \< *ahraya*
+- *ahrayā* ← *ahraya*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *kṛtaṃ* \< *kṛtam* \< *kṛ*
+- *kṛtaṃ* ← *kṛtam* ← *kṛ*
 - \[verb\], dual, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -42,26 +42,26 @@ title = "Rig Veda 8.8.13"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ṛtviyāvato* \< *ṛtviyāvataḥ* \< *ṛtviyāvat*
+- *ṛtviyāvato* ← *ṛtviyāvataḥ* ← *ṛtviyāvat*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
 - *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rīradhataṃ* \< *rīradhatam* \< *radh*
+- *rīradhataṃ* ← *rīradhatam* ← *radh*
 - \[verb\], dual, Aorist inj. (proh.)
 - “subjugate.”
 ------------------------------------------------------------------------
-- *nide* \< *nid*
+- *nide* ← *nid*
 - \[noun\], dative, singular, feminine
 - “derision; scoffer; contempt.”
 ------------------------------------------------------------------------

@@ -2,15 +2,15 @@
 title = "Rig Veda 7.49.2"
 
 +++
--   *yā* \< *yāḥ* \< *yad*
+-   *yā* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *āpo* \< *āpaḥ* \< *ap*
+- *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *divyā* \< *divyāḥ* \< *divya*
+- *divyā* ← *divyāḥ* ← *divya*
 - \[noun\], nominative, plural, feminine
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
@@ -23,12 +23,12 @@ title = "Rig Veda 7.49.2"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *sravanti* \< *sru*
+- *sravanti* ← *sru*
 - \[verb\], plural, Present indikative
 - “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
     disappear; leak; fester.”
 ------------------------------------------------------------------------
-- *khanitrimā* \< *khanitrimāḥ* \< *khanitrima*
+- *khanitrimā* ← *khanitrimāḥ* ← *khanitrima*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
 - *uta*
@@ -39,49 +39,49 @@ title = "Rig Veda 7.49.2"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *yāḥ* \< *yad*
+- *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *svayañjāḥ* \< *svayaṃja*
+- *svayañjāḥ* ← *svayaṃja*
 - \[noun\], nominative, plural, feminine
 - “spontaneous.”
 ------------------------------------------------------------------------
-- *samudrārthā* \< *samudra*
+- *samudrārthā* ← *samudra*
 - \[noun\], masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *samudrārthā* \< *arthāḥ* \< *artha*
+- *samudrārthā* ← *arthāḥ* ← *artha*
 - \[noun\], nominative, plural, feminine
 - “for; meaning; purpose; sense; wealth; object of sense; matter; aim;
     money; message; object; artha \[word\]; wealth; function; content;
     topic; property; situation; reason; affair; concern; reason;
     enterprise; reason; cause; five; application; application.”
 ------------------------------------------------------------------------
-- *yāḥ* \< *yad*
+- *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *śucayaḥ* \< *śuci*
+- *śucayaḥ* ← *śuci*
 - \[noun\], nominative, plural, feminine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *pāvakās* \< *pāvakāḥ* \< *pāvaka*
+- *pāvakās* ← *pāvakāḥ* ← *pāvaka*
 - \[noun\], nominative, plural, feminine
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
 ------------------------------------------------------------------------
-- *tā* \< *tāḥ* \< *tad*
+- *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *āpo* \< *āpaḥ* \< *ap*
+- *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *devīr* \< *devīḥ* \< *deva*
+- *devīr* ← *devīḥ* ← *deva*
 - \[noun\], nominative, plural, feminine
 - “divine.”
 ------------------------------------------------------------------------
@@ -89,11 +89,11 @@ title = "Rig Veda 7.49.2"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *mām* \< *mad*
+- *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *avantu* \< *av*
+- *avantu* ← *av*
 - \[verb\], plural, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------

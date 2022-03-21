@@ -2,7 +2,7 @@
 title = "Rig Veda 10.34.13"
 
 +++
--   *akṣair* \< *akṣaiḥ* \< *akṣa*
+-   *akṣair* ← *akṣaiḥ* ← *akṣa*
 - \[noun\], instrumental, plural, masculine
 - “belleric myrobalan; dice; gambling; karṣa; akṣa; akṣa \[word\];
     berry.”
@@ -11,27 +11,27 @@ title = "Rig Veda 10.34.13"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *dīvyaḥ* \< *dīv*
+- *dīvyaḥ* ← *dīv*
 - \[verb\], singular, Present injunctive
 - “gamble; play; Aṣṭādhyāyī 4.4.2.”
 ------------------------------------------------------------------------
-- *kṛṣim* \< *kṛṣi*
+- *kṛṣim* ← *kṛṣi*
 - \[noun\], accusative, singular, feminine
 - “farming; cultivation; crop; kṛṣi \[word\]; kṛṣ; plowing.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *kṛṣasva* \< *kṛṣ*
+- *kṛṣasva* ← *kṛṣ*
 - \[verb\], singular, Present imperative
 - “plow; drag; pull; dry; irritate.”
 ------------------------------------------------------------------------
-- *vitte* \< *vitta*
+- *vitte* ← *vitta*
 - \[noun\], locative, singular, neuter
 - “wealth; property; money.”
 ------------------------------------------------------------------------
-- *ramasva* \< *ram*
+- *ramasva* ← *ram*
 - \[verb\], singular, Present imperative
 - “delight; rejoice; love; frolic; desire; give; calm; break.”
 ------------------------------------------------------------------------
@@ -40,7 +40,7 @@ title = "Rig Veda 10.34.13"
 - “many; much(a); bahu \[word\]; abundant; long; large; abounding
     in(p); perennial.”
 ------------------------------------------------------------------------
-- *manyamānaḥ* \< *man*
+- *manyamānaḥ* ← *man*
 - \[verb noun\], nominative, singular
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
@@ -51,7 +51,7 @@ title = "Rig Veda 10.34.13"
 - “there; now; then; then; there; in that place; then; locative;
     respectively; there; tatra \[word\]; inside; therefore.”
 ------------------------------------------------------------------------
-- *gāvaḥ* \< *go*
+- *gāvaḥ* ← *go*
 - \[noun\], nominative, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -69,13 +69,13 @@ title = "Rig Veda 10.34.13"
 - \[noun\], nominative, singular, feminine
 - “wife; jāyā \[word\].”
 ------------------------------------------------------------------------
-- *tan* \< *tat* \< *tad*
+- *tan* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -83,18 +83,18 @@ title = "Rig Veda 10.34.13"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *caṣṭe* \< *cakṣ*
+- *caṣṭe* ← *cakṣ*
 - \[verb\], singular, Present indikative
 - “watch; look.”
 ------------------------------------------------------------------------
-- *savitāyam* \< *savitā* \< *savitṛ*
+- *savitāyam* ← *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *savitāyam* \< *ayam* \< *idam*
+- *savitāyam* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *aryaḥ* \< *ari*
+- *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------

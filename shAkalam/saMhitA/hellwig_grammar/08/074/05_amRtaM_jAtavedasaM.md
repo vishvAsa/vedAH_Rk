@@ -2,11 +2,11 @@
 title = "Rig Veda 8.74.5"
 
 +++
--   *amṛtaṃ* \< *amṛtam* \< *amṛta*
+-   *amṛtaṃ* ← *amṛtam* ← *amṛta*
 - \[noun\], accusative, singular, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *jātavedasaṃ* \< *jātavedasam* \< *jātavedas*
+- *jātavedasaṃ* ← *jātavedasam* ← *jātavedas*
 - \[noun\], accusative, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------
@@ -14,19 +14,19 @@ title = "Rig Veda 8.74.5"
 - \[adverb\]
 - “tiras \[word\]; away; secretly.”
 ------------------------------------------------------------------------
-- *tamāṃsi* \< *tamas*
+- *tamāṃsi* ← *tamas*
 - \[noun\], accusative, plural, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
 ------------------------------------------------------------------------
-- *darśatam* \< *darśata*
+- *darśatam* ← *darśata*
 - \[noun\], accusative, singular, masculine
 - “beautiful; visible; beautiful.”
 ------------------------------------------------------------------------
-- *ghṛtāhavanam* \< *ghṛtāhavana*
+- *ghṛtāhavanam* ← *ghṛtāhavana*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *īḍyam* \< *īḍ*
+- *īḍyam* ← *īḍ*
 - \[verb noun\], accusative, singular
 - “praise; invite; raise.”
 ------------------------------------------------------------------------

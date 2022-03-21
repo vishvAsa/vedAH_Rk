@@ -6,56 +6,56 @@ title = "Rig Veda 4.16.10"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dasyughnā* \< *dasyu*
+- *dasyughnā* ← *dasyu*
 - \[noun\], masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
-- *dasyughnā* \< *ghnā* \< *han*
+- *dasyughnā* ← *ghnā* ← *han*
 - \[noun\], instrumental, singular, neuter
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *yāhy* \< *yāhi* \< *yā*
+- *yāhy* ← *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *astam* \< *asta*
+- *astam* ← *asta*
 - \[noun\], accusative, singular, neuter
 - “home.”
 ------------------------------------------------------------------------
-- *bhuvat* \< *bhū*
+- *bhuvat* ← *bhū*
 - \[verb\], singular, Aorist conj./subj.
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *kutsaḥ* \< *kutsa*
+- *kutsaḥ* ← *kutsa*
 - \[noun\], nominative, singular, masculine
 - “Kutsa; kutsa \[word\].”
 ------------------------------------------------------------------------
-- *sakhye* \< *sakhya*
+- *sakhye* ← *sakhya*
 - \[noun\], locative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *nikāmaḥ* \< *nikāma*
+- *nikāmaḥ* ← *nikāma*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *sve* \< *sva*
+- *sve* ← *sva*
 - \[noun\], locative, singular, masculine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *yonau* \< *yoni*
+- *yonau* ← *yoni*
 - \[noun\], locative, singular, masculine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
@@ -65,12 +65,12 @@ title = "Rig Veda 4.16.10"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ṣadataṃ* \< *sadatam* \< *sad*
+- *ṣadataṃ* ← *sadatam* ← *sad*
 - \[verb\], dual, Aorist imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *sarūpā* \< *sarūpa*
+- *sarūpā* ← *sarūpa*
 - \[noun\], nominative, dual, masculine
 - “regular; uniform; beautiful; identical; homophonous.”
 ------------------------------------------------------------------------
@@ -78,23 +78,23 @@ title = "Rig Veda 4.16.10"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *cikitsad* \< *cikitsat* \< *cikits*
+- *cikitsad* ← *cikitsat* ← *cikits*
 - \[verb\], singular, Present injunctive
 - “cure; understand; take care; heal.”
 ------------------------------------------------------------------------
-- *ṛtacid* \< *ṛta*
+- *ṛtacid* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *ṛtacid* \< *cit*
+- *ṛtacid* ← *cit*
 - \[noun\], nominative, singular, feminine
 - “supreme spirit; cit \[word\]; soul.”
 ------------------------------------------------------------------------
-- *dha* \< *ha*
+- *dha* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------

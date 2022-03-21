@@ -2,20 +2,20 @@
 title = "Rig Veda 6.48.4"
 
 +++
--   *maho* \< *mahaḥ* \< *mah*
+-   *maho* ← *mahaḥ* ← *mah*
 - \[noun\], accusative, plural, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *devān* \< *deva*
+- *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *yajasi* \< *yaj*
+- *yajasi* ← *yaj*
 - \[verb\], singular, Present indikative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *yakṣy* \< *yakṣi* \< *yaj*
+- *yakṣy* ← *yakṣi* ← *yaj*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
@@ -23,16 +23,16 @@ title = "Rig Veda 6.48.4"
 - \[adverb\]
 - “correctly; in sequence; punctually.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *kratvota* \< *kratvā* \< *kratu*
+- *kratvota* ← *kratvā* ← *kratu*
 - \[noun\], instrumental, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *kratvota* \< *uta*
+- *kratvota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
@@ -40,14 +40,14 @@ title = "Rig Veda 6.48.4"
 - \[noun\], instrumental, singular, feminine
 - “wonder; power.”
 ------------------------------------------------------------------------
-- *arvācaḥ* \< *arvāñc*
+- *arvācaḥ* ← *arvāñc*
 - \[noun\], accusative, plural, masculine
 - “approaching; facing; less.”
 ------------------------------------------------------------------------
-- *sīṃ* \< *sīm*
+- *sīṃ* ← *sīm*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *kṛṇuhy* \< *kṛṇuhi* \< *kṛ*
+- *kṛṇuhy* ← *kṛṇuhi* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -58,29 +58,29 @@ title = "Rig Veda 6.48.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *'vase* \< *avase* \< *av*
+- *'vase* ← *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *rāsva* \< *rā*
+- *rāsva* ← *rā*
 - \[verb\], singular, Aorist imperative
 - “give; impart.”
 ------------------------------------------------------------------------
-- *vājota* \< *vājā* \< *vāja*
+- *vājota* ← *vājā* ← *vāja*
 - \[noun\], instrumental, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vājota* \< *uta*
+- *vājota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *vaṃsva* \< *van*
+- *vaṃsva* ← *van*
 - \[verb\], singular, Aorist imperative
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------

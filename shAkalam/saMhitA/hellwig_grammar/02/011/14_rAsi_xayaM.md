@@ -2,31 +2,31 @@
 title = "Rig Veda 2.11.14"
 
 +++
--   *rāsi* \< *rā*
+-   *rāsi* ← *rā*
 - \[verb\], singular, Present indikative
 - “give; impart.”
 ------------------------------------------------------------------------
-- *kṣayaṃ* \< *kṣayam* \< *kṣaya*
+- *kṣayaṃ* ← *kṣayam* ← *kṣaya*
 - \[noun\], accusative, singular, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
 ------------------------------------------------------------------------
-- *rāsi* \< *rā*
+- *rāsi* ← *rā*
 - \[verb\], singular, Present indikative
 - “give; impart.”
 ------------------------------------------------------------------------
-- *mitram* \< *mitra*
+- *mitram* ← *mitra*
 - \[noun\], accusative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rāsi* \< *rā*
+- *rāsi* ← *rā*
 - \[verb\], singular, Present indikative
 - “give; impart.”
 ------------------------------------------------------------------------
-- *śardha* \< *śardhaḥ* \< *śardhas*
+- *śardha* ← *śardhaḥ* ← *śardhas*
 - \[noun\], accusative, singular, neuter
 - “troop.”
 ------------------------------------------------------------------------
@@ -35,19 +35,19 @@ title = "Rig Veda 2.11.14"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *mārutaṃ* \< *mārutam* \< *māruta*
+- *mārutaṃ* ← *mārutam* ← *māruta*
 - \[noun\], accusative, singular, neuter
 - “Marut(a).”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sajoṣaso* \< *sajoṣasaḥ* \< *sajoṣas*
+- *sajoṣaso* ← *sajoṣasaḥ* ← *sajoṣas*
 - \[noun\], nominative, plural, masculine
 - “consentaneous; combined; associated; united.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -55,7 +55,7 @@ title = "Rig Veda 2.11.14"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *mandasānāḥ* \< *mand*
+- *mandasānāḥ* ← *mand*
 - \[verb noun\], nominative, plural
 - “rejoice; exhilarate.”
 ------------------------------------------------------------------------
@@ -63,15 +63,15 @@ title = "Rig Veda 2.11.14"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vāyavaḥ* \< *vāyu*
+- *vāyavaḥ* ← *vāyu*
 - \[noun\], nominative, plural, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
 ------------------------------------------------------------------------
-- *pānty* \< *pānti* \< *pā*
+- *pānty* ← *pānti* ← *pā*
 - \[verb\], plural, Present indikative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *agraṇītim* \< *agraṇīti*
+- *agraṇītim* ← *agraṇīti*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------

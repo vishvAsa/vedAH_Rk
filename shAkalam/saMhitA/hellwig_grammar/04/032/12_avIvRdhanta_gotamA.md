@@ -2,12 +2,12 @@
 title = "Rig Veda 4.32.12"
 
 +++
--   *avīvṛdhanta* \< *vṛdh*
+-   *avīvṛdhanta* ← *vṛdh*
 - \[verb\], plural, Redupl. Aorist (Ind.)
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *gotamā* \< *gotamāḥ* \< *gotama*
+- *gotamā* ← *gotamāḥ* ← *gotama*
 - \[noun\], nominative, plural, masculine
 - “Gotama; gotama \[word\].”
 ------------------------------------------------------------------------
@@ -16,35 +16,35 @@ title = "Rig Veda 4.32.12"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tve* \< *tvad*
+- *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *stomavāhasaḥ* \< *stoma*
+- *stomavāhasaḥ* ← *stoma*
 - \[noun\], masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *stomavāhasaḥ* \< *vāhasaḥ* \< *vāhas*
+- *stomavāhasaḥ* ← *vāhasaḥ* ← *vāhas*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *aiṣu* \< *ā*
+- *aiṣu* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *aiṣu* \< *eṣu* \< *idam*
+- *aiṣu* ← *eṣu* ← *idam*
 - \[noun\], locative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *dhā* \< *dhāḥ* \< *dhā*
+- *dhā* ← *dhāḥ* ← *dhā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *vīravad* \< *vīravat*
+- *vīravad* ← *vīravat*
 - \[noun\], accusative, singular, neuter
 - “rich in men.”
 ------------------------------------------------------------------------
-- *yaśaḥ* \< *yaśas*
+- *yaśaḥ* ← *yaśas*
 - \[noun\], accusative, singular, neuter
 - “fame; Yaśas.”
 ------------------------------------------------------------------------

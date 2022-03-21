@@ -2,7 +2,7 @@
 title = "Rig Veda 8.92.1"
 
 +++
--   *pāntam* \< *pānta*
+-   *pāntam* ← *pānta*
 - \[noun\], accusative, singular, masculine
 - “drink; beverage.”
 ------------------------------------------------------------------------
@@ -10,15 +10,15 @@ title = "Rig Veda 8.92.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *andhasa* \< *andhasaḥ* \< *andhas*
+- *andhasa* ← *andhasaḥ* ← *andhas*
 - \[noun\], genitive, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -31,22 +31,22 @@ title = "Rig Veda 8.92.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *gāyata* \< *gā*
+- *gāyata* ← *gā*
 - \[verb\], plural, Present imperative
 - “sing; praise; jap; recite; describe.”
 ------------------------------------------------------------------------
-- *viśvāsāhaṃ* \< *viśvāsāham* \< *viśvāsah*
+- *viśvāsāhaṃ* ← *viśvāsāham* ← *viśvāsah*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *śatakratum* \< *śatakratu*
+- *śatakratum* ← *śatakratu*
 - \[noun\], accusative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *maṃhiṣṭhaṃ* \< *maṃhiṣṭham* \< *maṃhiṣṭha*
+- *maṃhiṣṭhaṃ* ← *maṃhiṣṭham* ← *maṃhiṣṭha*
 - \[noun\], accusative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *carṣaṇīnām* \< *carṣaṇi*
+- *carṣaṇīnām* ← *carṣaṇi*
 - \[noun\], genitive, plural, feminine
 - “people.”
 ------------------------------------------------------------------------

@@ -2,40 +2,40 @@
 title = "Rig Veda 2.35.12"
 
 +++
--   *asmai* \< *idam*
+-   *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *bahūnām* \< *bahu*
+- *bahūnām* ← *bahu*
 - \[noun\], genitive, plural, masculine
 - “many; much(a); bahu \[word\]; abundant; long; large; abounding
     in(p); perennial.”
 ------------------------------------------------------------------------
-- *avamāya* \< *avama*
+- *avamāya* ← *avama*
 - \[noun\], dative, singular, masculine
 - “avama \[word\]; bottom; last.”
 ------------------------------------------------------------------------
-- *sakhye* \< *sakhi*
+- *sakhye* ← *sakhi*
 - \[noun\], dative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *yajñair* \< *yajñaiḥ* \< *yajña*
+- *yajñair* ← *yajñaiḥ* ← *yajña*
 - \[noun\], instrumental, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *vidhema* \< *vidh*
+- *vidhema* ← *vidh*
 - \[verb\], plural, Present optative
 - “worship; offer.”
 ------------------------------------------------------------------------
-- *namasā* \< *namas*
+- *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *havirbhiḥ* \< *havis*
+- *havirbhiḥ* ← *havis*
 - \[noun\], instrumental, plural, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
@@ -43,22 +43,22 @@ title = "Rig Veda 2.35.12"
 - \[noun\], accusative, singular, neuter
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------
-- *mārjmi* \< *mṛj*
+- *mārjmi* ← *mṛj*
 - \[verb\], singular, Present indikative
 - “purify; polish; rub; remove.”
 ------------------------------------------------------------------------
-- *didhiṣāmi* \< *didhiṣ* \< *√dhā*
+- *didhiṣāmi* ← *didhiṣ* ← *√dhā*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *bilmair* \< *bilmaiḥ* \< *bilma*
+- *bilmair* ← *bilmaiḥ* ← *bilma*
 - \[noun\], instrumental, plural, neuter
 ------------------------------------------------------------------------
-- *dadhāmy* \< *dadhāmi* \< *dhā*
+- *dadhāmy* ← *dadhāmi* ← *dhā*
 - \[verb\], singular, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *annaiḥ* \< *anna*
+- *annaiḥ* ← *anna*
 - \[noun\], instrumental, plural, neuter
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
 ------------------------------------------------------------------------
@@ -66,11 +66,11 @@ title = "Rig Veda 2.35.12"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *vanda* \< *vande* \< *vand*
+- *vanda* ← *vande* ← *vand*
 - \[verb\], singular, Present indikative
 - “worship; laud.”
 ------------------------------------------------------------------------
-- *ṛgbhiḥ* \< *ṛc*
+- *ṛgbhiḥ* ← *ṛc*
 - \[noun\], instrumental, plural
 - “Rig-Veda; Mantra; verse; ṛc \[word\]; ṛc.”
 ------------------------------------------------------------------------

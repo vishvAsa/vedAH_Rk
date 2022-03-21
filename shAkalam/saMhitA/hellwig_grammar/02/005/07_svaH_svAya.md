@@ -2,20 +2,20 @@
 title = "Rig Veda 2.5.7"
 
 +++
--   *svaḥ* \< *sva*
+-   *svaḥ* ← *sva*
 - \[noun\], nominative, singular, masculine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svāya* \< *sva*
+- *svāya* ← *sva*
 - \[noun\], dative, singular, neuter
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *dhāyase* \< *dhāyas*
+- *dhāyase* ← *dhāyas*
 - \[noun\], dative, singular, neuter
 ------------------------------------------------------------------------
-- *kṛṇutām* \< *kṛ*
+- *kṛṇutām* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -26,42 +26,42 @@ title = "Rig Veda 2.5.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *ṛtvig* \< *ṛtvij*
+- *ṛtvig* ← *ṛtvij*
 - \[noun\], nominative, singular, masculine
 - “ṛtvij; ṛtvij \[word\].”
 ------------------------------------------------------------------------
-- *ṛtvijam* \< *ṛtvij*
+- *ṛtvijam* ← *ṛtvij*
 - \[noun\], accusative, singular, masculine
 - “ṛtvij; ṛtvij \[word\].”
 ------------------------------------------------------------------------
-- *stomaṃ* \< *stomam* \< *stoma*
+- *stomaṃ* ← *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *yajñaṃ* \< *yajñam* \< *yajña*
+- *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *cād* \< *ca*
+- *cād* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cād* \< *āt*
+- *cād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *araṃ* \< *aram*
+- *araṃ* ← *aram*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *vanemā* \< *van*
+- *vanemā* ← *van*
 - \[verb\], plural, Present optative
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *rarimā* \< *rā*
+- *rarimā* ← *rā*
 - \[verb\], plural, Perfect indicative
 - “give; impart.”
 ------------------------------------------------------------------------
-- *vayam* \< *mad*
+- *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

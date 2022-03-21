@@ -2,27 +2,27 @@
 title = "Rig Veda 8.96.2"
 
 +++
--   *atividdhā* \< *ativyadh* \< *√vyadh*
+-   *atividdhā* ← *ativyadh* ← *√vyadh*
 - \[verb noun\], nominative, plural
 - “pierce.”
 ------------------------------------------------------------------------
-- *vithureṇā* \< *vithureṇa* \< *vithura*
+- *vithureṇā* ← *vithureṇa* ← *vithura*
 - \[noun\], instrumental, singular, masculine
 - “weak.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *astrā* \< *astṛ*
+- *astrā* ← *astṛ*
 - \[noun\], instrumental, singular, masculine
 - “archer; shot.”
 ------------------------------------------------------------------------
-- *triḥ* \< *tris*
+- *triḥ* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], nominative, singular, neuter
 - “seven; seventh.”
 ------------------------------------------------------------------------
@@ -30,12 +30,12 @@ title = "Rig Veda 8.96.2"
 - \[noun\], nominative, singular, neuter
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------
-- *saṃhitā* \< *saṃdhā* \< *√dhā*
+- *saṃhitā* ← *saṃdhā* ← *√dhā*
 - \[verb noun\], nominative, plural
 - “connect; refer; aim; grow together; compress; ally; unite; operate
     on.”
 ------------------------------------------------------------------------
-- *girīṇām* \< *giri*
+- *girīṇām* ← *giri*
 - \[noun\], genitive, plural, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
 ------------------------------------------------------------------------
@@ -43,13 +43,13 @@ title = "Rig Veda 8.96.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *devo* \< *devaḥ* \< *deva*
+- *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -58,26 +58,26 @@ title = "Rig Veda 8.96.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *martyas* \< *martyaḥ* \< *martya*
+- *martyas* ← *martyaḥ* ← *martya*
 - \[noun\], nominative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------
-- *tuturyād* \< *tuturyāt* \< *tur*
+- *tuturyād* ← *tuturyāt* ← *tur*
 - \[verb\], singular, Perfect conjunctive (subj.)
 ------------------------------------------------------------------------
-- *yāni* \< *yad*
+- *yāni* ← *yad*
 - \[noun\], accusative, plural, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *pravṛddho* \< *pravṛddhaḥ* \< *pravṛdh* \< *√vṛdh*
+- *pravṛddho* ← *pravṛddhaḥ* ← *pravṛdh* ← *√vṛdh*
 - \[verb noun\], nominative, singular
 - “increase; develop; advance.”
 ------------------------------------------------------------------------
-- *vṛṣabhaś* \< *vṛṣabhaḥ* \< *vṛṣabha*
+- *vṛṣabhaś* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *cakāra* \< *kṛ*
+- *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

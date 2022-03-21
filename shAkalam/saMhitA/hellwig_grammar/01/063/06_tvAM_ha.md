@@ -2,7 +2,7 @@
 title = "Rig Veda 1.63.6"
 
 +++
--   *tvāṃ* \< *tvām* \< *tvad*
+-   *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -10,51 +10,51 @@ title = "Rig Veda 1.63.6"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *tyad* \< *tya*
+- *tyad* ← *tya*
 - \[noun\], accusative, singular, neuter
 - “that.”
 ------------------------------------------------------------------------
-- *indrārṇasātau* \< *indra*
+- *indrārṇasātau* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrārṇasātau* \< *arṇa*
+- *indrārṇasātau* ← *arṇa*
 - \[noun\], masculine
 - “wave; flood.”
 ------------------------------------------------------------------------
-- *indrārṇasātau* \< *sātau* \< *sāti*
+- *indrārṇasātau* ← *sātau* ← *sāti*
 - \[noun\], locative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------
-- *svarmīḍhe* \< *svar*
+- *svarmīḍhe* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *svarmīḍhe* \< *mīḍhe* \< *mīḍha*
+- *svarmīḍhe* ← *mīḍhe* ← *mīḍha*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *nara* \< *naraḥ* \< *nṛ*
+- *nara* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *ājā* \< *āji*
+- *ājā* ← *āji*
 - \[noun\], locative, singular, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
 ------------------------------------------------------------------------
-- *havante* \< *hvā*
+- *havante* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *svadhāva* \< *svadhāvas* \< *svadhāvat*
+- *svadhāva* ← *svadhāvas* ← *svadhāvat*
 - \[noun\], vocative, singular, masculine
 - “autonomous; independent.”
 ------------------------------------------------------------------------
-- *iyam* \< *idam*
+- *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -62,21 +62,21 @@ title = "Rig Veda 1.63.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *samarya* \< *samarye* \< *samarya*
+- *samarya* ← *samarye* ← *samarya*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *ūtir* \< *ūtiḥ* \< *ūti*
+- *ūtir* ← *ūtiḥ* ← *ūti*
 - \[noun\], nominative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *vājeṣv* \< *vājeṣu* \< *vāja*
+- *vājeṣv* ← *vājeṣu* ← *vāja*
 - \[noun\], locative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *atasāyyā* \< *atasāyya*
+- *atasāyyā* ← *atasāyya*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *bhūt* \< *bhū*
+- *bhūt* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;

@@ -2,7 +2,7 @@
 title = "Rig Veda 6.23.6"
 
 +++
--   *brahmāṇi* \< *brahman*
+-   *brahmāṇi* ← *brahman*
 - \[noun\], accusative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
@@ -11,7 +11,7 @@ title = "Rig Veda 6.23.6"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *cakṛṣe* \< *kṛ*
+- *cakṛṣe* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -22,7 +22,7 @@ title = "Rig Veda 6.23.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *vardhanāni* \< *vardhana*
+- *vardhanāni* ← *vardhana*
 - \[noun\], accusative, plural, neuter
 - “increasing; fortifying; promotive; prolonging.”
 ------------------------------------------------------------------------
@@ -30,7 +30,7 @@ title = "Rig Veda 6.23.6"
 - \[noun\], accusative, singular, neuter
 - “such(a).”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -39,39 +39,39 @@ title = "Rig Veda 6.23.6"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *matibhir* \< *matibhiḥ* \< *mati*
+- *matibhir* ← *matibhiḥ* ← *mati*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *viviṣmaḥ* \< *viṣ*
+- *viviṣmaḥ* ← *viṣ*
 - \[verb\], plural, Present indikative
 - “labor; act; perform.”
 ------------------------------------------------------------------------
-- *sute* \< *su*
+- *sute* ← *su*
 - \[verb noun\], locative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *some* \< *soma*
+- *some* ← *soma*
 - \[noun\], locative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *sutapāḥ* \< *suta*
+- *sutapāḥ* ← *suta*
 - \[noun\], masculine
 - “Soma.”
 ------------------------------------------------------------------------
-- *sutapāḥ* \< *pāḥ* \< *pā*
+- *sutapāḥ* ← *pāḥ* ← *pā*
 - \[noun\], vocative, singular, masculine
 - “drinking.”
 ------------------------------------------------------------------------
-- *śantamāni* \< *śaṃtama*
+- *śantamāni* ← *śaṃtama*
 - \[noun\], accusative, plural, neuter
 - “beneficent.”
 ------------------------------------------------------------------------
-- *rāṇḍyā* \< *rāṇḍya*
+- *rāṇḍyā* ← *rāṇḍya*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *kriyāsma* \< *kṛ*
+- *kriyāsma* ← *kṛ*
 - \[verb\], plural, Prekativ
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -82,11 +82,11 @@ title = "Rig Veda 6.23.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *vakṣaṇāni* \< *vakṣaṇa*
+- *vakṣaṇāni* ← *vakṣaṇa*
 - \[noun\], accusative, plural, neuter
 - “refreshment.”
 ------------------------------------------------------------------------
-- *yajñaiḥ* \< *yajña*
+- *yajñaiḥ* ← *yajña*
 - \[noun\], instrumental, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------

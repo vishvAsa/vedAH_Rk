@@ -2,34 +2,34 @@
 title = "Rig Veda 7.60.6"
 
 +++
--   *ime* \< *idam*
+-   *ime* ← *idam*
 - \[noun\], accusative, dual, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *mitro* \< *mitraḥ* \< *mitra*
+- *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *varuṇo* \< *varuṇaḥ* \< *varuṇa*
+- *varuṇo* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *dūﾱabhāso* \< *dūḍabhāsaḥ* \< *dūḍabha*
+- *dūﾱabhāso* ← *dūḍabhāsaḥ* ← *dūḍabha*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *'cetasaṃ* \< *acetasam* \< *acetas*
+- *'cetasaṃ* ← *acetasam* ← *acetas*
 - \[noun\], accusative, singular, masculine
 - “imprudent; stupid.”
 ------------------------------------------------------------------------
-- *cic* \< *cit*
+- *cic* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *citayanti* \< *citay* \< *√cit*
+- *citayanti* ← *citay* ← *√cit*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *dakṣaiḥ* \< *dakṣa*
+- *dakṣaiḥ* ← *dakṣa*
 - \[noun\], instrumental, plural, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
 ------------------------------------------------------------------------
@@ -38,44 +38,44 @@ title = "Rig Veda 7.60.6"
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
 ------------------------------------------------------------------------
-- *kratuṃ* \< *kratum* \< *kratu*
+- *kratuṃ* ← *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *sucetasaṃ* \< *su*
+- *sucetasaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sucetasaṃ* \< *cetasam* \< *cetas*
+- *sucetasaṃ* ← *cetasam* ← *cetas*
 - \[noun\], accusative, singular, masculine
 - “mind; heart; consciousness; intelligence; purpose; cetas \[word\].”
 ------------------------------------------------------------------------
-- *vatantas* \< *vatantaḥ* \< *vat*
+- *vatantas* ← *vatantaḥ* ← *vat*
 - \[verb noun\], nominative, plural
 - “teach.”
 ------------------------------------------------------------------------
-- *tiraś* \< *tiras*
+- *tiraś* ← *tiras*
 - \[adverb\]
 - “tiras \[word\]; away; secretly.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *aṃhaḥ* \< *aṃhas*
+- *aṃhaḥ* ← *aṃhas*
 - \[noun\], accusative, singular, neuter
 - “trouble; sin.”
 ------------------------------------------------------------------------
-- *supathā* \< *su*
+- *supathā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *supathā* \< *pathā* \< *pathin*
+- *supathā* ← *pathā* ← *pathin*
 - \[noun\], instrumental, singular, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *nayanti* \< *nī*
+- *nayanti* ← *nī*
 - \[verb\], plural, Present indikative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”

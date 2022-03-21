@@ -2,11 +2,11 @@
 title = "Rig Veda 1.89.9"
 
 +++
--   *śatam* \< *śata*
+-   *śatam* ← *śata*
 - \[noun\], nominative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *in* \< *id*
+- *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -14,27 +14,27 @@ title = "Rig Veda 1.89.9"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *śarado* \< *śaradaḥ* \< *śarad*
+- *śarado* ← *śaradaḥ* ← *śarad*
 - \[noun\], nominative, plural, feminine
 - “fall; year; śarad \[word\].”
 ------------------------------------------------------------------------
 - *anti*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *yatrā* \< *yatra*
+- *yatrā* ← *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *naś* \< *naḥ* \< *mad*
+- *naś* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *cakrā* \< *kṛ*
+- *cakrā* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -45,15 +45,15 @@ title = "Rig Veda 1.89.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *jarasaṃ* \< *jarasam* \< *jaras*
+- *jarasaṃ* ← *jarasam* ← *jaras*
 - \[noun\], accusative, singular, feminine
 - “old age.”
 ------------------------------------------------------------------------
-- *tanūnām* \< *tanū*
+- *tanūnām* ← *tanū*
 - \[noun\], genitive, plural, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *putrāso* \< *putrāsaḥ* \< *putra*
+- *putrāso* ← *putrāsaḥ* ← *putra*
 - \[noun\], nominative, plural, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
@@ -61,12 +61,12 @@ title = "Rig Veda 1.89.9"
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *pitaro* \< *pitaraḥ* \< *pitṛ*
+- *pitaro* ← *pitaraḥ* ← *pitṛ*
 - \[noun\], nominative, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *bhavanti* \< *bhū*
+- *bhavanti* ← *bhū*
 - \[verb\], plural, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
@@ -77,22 +77,22 @@ title = "Rig Veda 1.89.9"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
 - *madhyā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *rīriṣatāyur* \< *rīriṣata* \< *riṣ*
+- *rīriṣatāyur* ← *rīriṣata* ← *riṣ*
 - \[verb\], plural, Aorist inj. (proh.)
 - “suffer; harm.”
 ------------------------------------------------------------------------
-- *rīriṣatāyur* \< *āyuḥ* \< *āyus*
+- *rīriṣatāyur* ← *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------
-- *gantoḥ* \< *gantu*
+- *gantoḥ* ← *gantu*
 - \[noun\], genitive, singular, masculine
 - “going.”
 ------------------------------------------------------------------------

@@ -2,19 +2,19 @@
 title = "Rig Veda 7.61.3"
 
 +++
--   *proror* \< *pra*
+-   *proror* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *proror* \< *uroḥ* \< *uru*
+- *proror* ← *uroḥ* ← *uru*
 - \[noun\], ablative, singular, masculine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇā* \< *mitrāvaruṇa*
+- *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *pṛthivyāḥ* \< *pṛthivī*
+- *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], ablative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
@@ -22,53 +22,53 @@ title = "Rig Veda 7.61.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *diva* \< *divaḥ* \< *div*
+- *diva* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *ṛṣvād* \< *ṛṣvāt* \< *ṛṣva*
+- *ṛṣvād* ← *ṛṣvāt* ← *ṛṣva*
 - \[noun\], ablative, singular, masculine
 - “distinguished; high; noble; enormous.”
 ------------------------------------------------------------------------
-- *bṛhataḥ* \< *bṛhat*
+- *bṛhataḥ* ← *bṛhat*
 - \[noun\], ablative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *sudānū* \< *sudānu*
+- *sudānū* ← *sudānu*
 - \[noun\], vocative, dual, masculine
 - “big; lavish.”
 ------------------------------------------------------------------------
-- *spaśo* \< *spaśaḥ* \< *spaś*
+- *spaśo* ← *spaśaḥ* ← *spaś*
 - \[noun\], accusative, plural, masculine
 - “lookout; spy; spaś.”
 ------------------------------------------------------------------------
-- *dadhāthe* \< *dhā*
+- *dadhāthe* ← *dhā*
 - \[verb\], dual, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *oṣadhīṣu* \< *oṣadhī*
+- *oṣadhīṣu* ← *oṣadhī*
 - \[noun\], locative, plural, feminine
 - “herb; plant; drug; herb.”
 ------------------------------------------------------------------------
-- *vikṣv* \< *vikṣu* \< *viś*
+- *vikṣv* ← *vikṣu* ← *viś*
 - \[noun\], locative, plural
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *ṛdhag* \< *ṛdhak*
+- *ṛdhag* ← *ṛdhak*
 - \[adverb\]
 - “away; apart.”
 ------------------------------------------------------------------------
-- *yato* \< *yataḥ* \< *i*
+- *yato* ← *yataḥ* ← *i*
 - \[verb noun\], accusative, plural
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *animiṣaṃ* \< *animiṣam* \< *animiṣa*
+- *animiṣaṃ* ← *animiṣam* ← *animiṣa*
 - \[noun\], accusative, singular, neuter
 - “agaze.”
 ------------------------------------------------------------------------
-- *rakṣamāṇā* \< *rakṣ*
+- *rakṣamāṇā* ← *rakṣ*
 - \[verb noun\], nominative, dual
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------

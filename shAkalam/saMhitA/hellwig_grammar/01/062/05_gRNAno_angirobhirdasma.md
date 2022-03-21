@@ -2,11 +2,11 @@
 title = "Rig Veda 1.62.5"
 
 +++
--   *gṛṇāno* \< *gṛṇānaḥ* \< *gṛ*
+-   *gṛṇāno* ← *gṛṇānaḥ* ← *gṛ*
 - \[verb noun\], nominative, singular
 - “praise.”
 ------------------------------------------------------------------------
-- *aṅgirobhir* \< *aṅgirobhiḥ* \< *aṅgiras*
+- *aṅgirobhir* ← *aṅgirobhiḥ* ← *aṅgiras*
 - \[noun\], instrumental, plural, masculine
 - “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
     Aṅgiras.”
@@ -19,39 +19,39 @@ title = "Rig Veda 1.62.5"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *var* \< *vṛ*
+- *var* ← *vṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *uṣasā* \< *uṣas*
+- *uṣasā* ← *uṣas*
 - \[noun\], instrumental, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *sūryeṇa* \< *sūrya*
+- *sūryeṇa* ← *sūrya*
 - \[noun\], instrumental, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *gobhir* \< *gobhiḥ* \< *go*
+- *gobhir* ← *gobhiḥ* ← *go*
 - \[noun\], instrumental, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *andhaḥ* \< *andhas*
+- *andhaḥ* ← *andhas*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *bhūmyā* \< *bhūmyāḥ* \< *bhūmi*
+- *bhūmyā* ← *bhūmyāḥ* ← *bhūmi*
 - \[noun\], genitive, singular, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
     Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
     distance; country; space; land; territory; topographic point.”
 ------------------------------------------------------------------------
-- *aprathaya* \< *aprathayaḥ* \< *prathay* \< *√prath*
+- *aprathaya* ← *aprathayaḥ* ← *prathay* ← *√prath*
 - \[verb\], singular, Imperfect
 - “spread; proclaim.”
 ------------------------------------------------------------------------
@@ -64,19 +64,19 @@ title = "Rig Veda 1.62.5"
 - \[noun\], accusative, singular, neuter
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *raja* \< *rajaḥ* \< *rajas*
+- *raja* ← *rajaḥ* ← *rajas*
 - \[noun\], accusative, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 ------------------------------------------------------------------------
-- *uparam* \< *upara*
+- *uparam* ← *upara*
 - \[noun\], accusative, singular, neuter
 - “later(a); future(a); nether.”
 ------------------------------------------------------------------------
-- *astabhāyaḥ* \< *stabhāy* \< *√stambh*
+- *astabhāyaḥ* ← *stabhāy* ← *√stambh*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------

@@ -6,77 +6,77 @@ title = "Rig Veda 1.119.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *ratham* \< *ratha*
+- *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *purumāyam* \< *puru*
+- *purumāyam* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purumāyam* \< *māyam* \< *māyā*
+- *purumāyam* ← *māyam* ← *māyā*
 - \[noun\], accusative, singular, masculine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
 ------------------------------------------------------------------------
-- *manojuvaṃ* \< *manaḥ* \< *manas*
+- *manojuvaṃ* ← *manaḥ* ← *manas*
 - \[noun\], neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *manojuvaṃ* \< *juvam* \< *jū*
+- *manojuvaṃ* ← *juvam* ← *jū*
 - \[noun\], accusative, singular, masculine
 - “fleet.”
 ------------------------------------------------------------------------
-- *jīrāśvaṃ* \< *jīra*
+- *jīrāśvaṃ* ← *jīra*
 - \[noun\]
 - “agile; quick; fast.”
 ------------------------------------------------------------------------
-- *jīrāśvaṃ* \< *aśvam* \< *aśva*
+- *jīrāśvaṃ* ← *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *yajñiyaṃ* \< *yajñiyam* \< *yajñiya*
+- *yajñiyaṃ* ← *yajñiyam* ← *yajñiya*
 - \[noun\], accusative, singular, masculine
 - “sacrificial; divine; devoted.”
 ------------------------------------------------------------------------
-- *jīvase* \< *jīv*
+- *jīvase* ← *jīv*
 - \[verb noun\]
 - “survive; be; exist; live on; dwell.”
 ------------------------------------------------------------------------
-- *huve* \< *hvā*
+- *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *sahasraketuṃ* \< *sahasra*
+- *sahasraketuṃ* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasraketuṃ* \< *ketum* \< *ketu*
+- *sahasraketuṃ* ← *ketum* ← *ketu*
 - \[noun\], accusative, singular, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
 ------------------------------------------------------------------------
-- *vaninaṃ* \< *vaninam* \< *vanin*
+- *vaninaṃ* ← *vaninam* ← *vanin*
 - \[noun\], accusative, singular, masculine
 - “triumphant; victorious.”
 ------------------------------------------------------------------------
-- *śatadvasuṃ* \< *śatadvasum* \< *śatadvasu*
+- *śatadvasuṃ* ← *śatadvasum* ← *śatadvasu*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *śruṣṭīvānaṃ* \< *śruṣṭīvānam* \< *śruṣṭīvan*
+- *śruṣṭīvānaṃ* ← *śruṣṭīvānam* ← *śruṣṭīvan*
 - \[noun\], accusative, singular, masculine
 - “obedient; heedful; attentive.”
 ------------------------------------------------------------------------
-- *varivodhām* \< *varivaḥ* \< *varivas*
+- *varivodhām* ← *varivaḥ* ← *varivas*
 - \[noun\], neuter
 - “room; varivas \[word\]; space; escape.”
 ------------------------------------------------------------------------
-- *varivodhām* \< *dhām* \< *dhā*
+- *varivodhām* ← *dhām* ← *dhā*
 - \[noun\], accusative, singular, masculine
 - “giving.”
 ------------------------------------------------------------------------
@@ -84,7 +84,7 @@ title = "Rig Veda 1.119.1"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *prayaḥ* \< *prayas*
+- *prayaḥ* ← *prayas*
 - \[noun\], accusative, singular, neuter
 - “food; dainty; enjoyment.”
 ------------------------------------------------------------------------

@@ -2,38 +2,38 @@
 title = "Rig Veda 8.96.14"
 
 +++
--   *drapsam* \< *drapsa*
+-   *drapsam* ← *drapsa*
 - \[noun\], accusative, singular, masculine
 - “drop; banner.”
 ------------------------------------------------------------------------
-- *apaśyaṃ* \< *apaśyam* \< *paś*
+- *apaśyaṃ* ← *apaśyam* ← *paś*
 - \[verb\], singular, Imperfect
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *viṣuṇe* \< *viṣuṇa*
+- *viṣuṇe* ← *viṣuṇa*
 - \[noun\], locative, singular, neuter
 - “different; assorted; antipathetic; changing.”
 ------------------------------------------------------------------------
-- *carantam* \< *car*
+- *carantam* ← *car*
 - \[verb noun\], accusative, singular
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *upahvare* \< *upahvara*
+- *upahvare* ← *upahvara*
 - \[noun\], locative, singular, neuter
 - “proximity.”
 ------------------------------------------------------------------------
-- *nadyo* \< *nadyaḥ* \< *nadī*
+- *nadyo* ← *nadyaḥ* ← *nadī*
 - \[noun\], genitive, singular, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
 ------------------------------------------------------------------------
-- *aṃśumatyāḥ* \< *aṃśumatī*
+- *aṃśumatyāḥ* ← *aṃśumatī*
 - \[noun\], genitive, singular, feminine
 - “Yamunā.”
 ------------------------------------------------------------------------
-- *nabho* \< *nabhaḥ* \< *nabhas*
+- *nabho* ← *nabhaḥ* ← *nabhas*
 - \[noun\], accusative, singular, neuter
 - “sky; cloud; ākāśa; air; abhra.”
 ------------------------------------------------------------------------
@@ -41,31 +41,31 @@ title = "Rig Veda 8.96.14"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *kṛṣṇam* \< *kṛṣṇa*
+- *kṛṣṇam* ← *kṛṣṇa*
 - \[noun\], accusative, singular, masculine
 - “black; dark; dark; blue; black.”
 ------------------------------------------------------------------------
-- *avatasthivāṃsam* \< *avasthā* \< *√sthā*
+- *avatasthivāṃsam* ← *avasthā* ← *√sthā*
 - \[verb noun\], accusative, singular
 - “stay; stand; situate; continue; stop; lodge; fixate.”
 ------------------------------------------------------------------------
-- *iṣyāmi* \< *iṣ*
+- *iṣyāmi* ← *iṣ*
 - \[verb\], singular, Present indikative
 - “send.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *vṛṣaṇo* \< *vṛṣaṇaḥ* \< *vṛṣan*
+- *vṛṣaṇo* ← *vṛṣaṇaḥ* ← *vṛṣan*
 - \[noun\], vocative, plural, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *yudhyatājau* \< *yudhyata* \< *yudh*
+- *yudhyatājau* ← *yudhyata* ← *yudh*
 - \[verb\], plural, Present imperative
 - “fight; overcome.”
 ------------------------------------------------------------------------
-- *yudhyatājau* \< *ājau* \< *āji*
+- *yudhyatājau* ← *ājau* ← *āji*
 - \[noun\], locative, singular, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
 ------------------------------------------------------------------------

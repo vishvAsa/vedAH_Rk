@@ -2,31 +2,31 @@
 title = "Rig Veda 1.24.11"
 
 +++
--   *tat* \< *tad*
+-   *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *yāmi* \< *yā*
+- *yāmi* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *brahmaṇā* \< *brahman*
+- *brahmaṇā* ← *brahman*
 - \[noun\], instrumental, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *vandamānas* \< *vandamānaḥ* \< *vand*
+- *vandamānas* ← *vandamānaḥ* ← *vand*
 - \[verb noun\], nominative, singular
 - “worship; laud.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -36,48 +36,48 @@ title = "Rig Veda 1.24.11"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *śāste* \< *śās*
+- *śāste* ← *śās*
 - \[verb\], singular, Present indikative
 - “teach; govern; command; order; control; tell; recommend; chastize;
     instruct.”
 ------------------------------------------------------------------------
-- *yajamāno* \< *yajamānaḥ* \< *yajamāna*
+- *yajamāno* ← *yajamānaḥ* ← *yajamāna*
 - \[noun\], nominative, singular, masculine
 - “Yajamāna.”
 ------------------------------------------------------------------------
-- *havirbhiḥ* \< *havis*
+- *havirbhiḥ* ← *havis*
 - \[noun\], instrumental, plural, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *aheḍamāno* \< *a*
+- *aheḍamāno* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *aheḍamāno* \< *heḍamānaḥ* \< *hīḍ*
+- *aheḍamāno* ← *heḍamānaḥ* ← *hīḍ*
 - \[verb noun\], nominative, singular
 - “anger; stew.”
 ------------------------------------------------------------------------
-- *varuṇeha* \< *varuṇa*
+- *varuṇeha* ← *varuṇa*
 - \[noun\], vocative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *varuṇeha* \< *iha*
+- *varuṇeha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *bodhy* \< *bodhi* \< *bhū*
+- *bodhy* ← *bodhi* ← *bhū*
 - \[verb\], singular, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *uruśaṃsa* \< *uru*
+- *uruśaṃsa* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *uruśaṃsa* \< *śaṃsa*
+- *uruśaṃsa* ← *śaṃsa*
 - \[noun\], vocative, singular, masculine
 - “praise; śaṃs; recitation.”
 ------------------------------------------------------------------------
@@ -85,11 +85,11 @@ title = "Rig Veda 1.24.11"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *āyuḥ* \< *āyus*
+- *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------
@@ -97,7 +97,7 @@ title = "Rig Veda 1.24.11"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *moṣīḥ* \< *muṣ*
+- *moṣīḥ* ← *muṣ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “rob; remove; steal.”
 ------------------------------------------------------------------------

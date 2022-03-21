@@ -6,25 +6,25 @@ title = "Rig Veda 3.31.9"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *gavyatā* \< *gavyat*
+- *gavyatā* ← *gavyat*
 - \[noun\], instrumental, singular, neuter
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *sedur* \< *seduḥ* \< *sad*
+- *sedur* ← *seduḥ* ← *sad*
 - \[verb\], plural, Perfect indicative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *arkaiḥ* \< *arka*
+- *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *kṛṇvānāso* \< *kṛṇvānāsaḥ* \< *kṛ*
+- *kṛṇvānāso* ← *kṛṇvānāsaḥ* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -35,23 +35,23 @@ title = "Rig Veda 3.31.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *amṛtatvāya* \< *amṛta*
+- *amṛtatvāya* ← *amṛta*
 - \[noun\]
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *amṛtatvāya* \< *tvāya* \< *tva*
+- *amṛtatvāya* ← *tvāya* ← *tva*
 - \[noun\], dative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *gātum* \< *gātu*
+- *gātum* ← *gātu*
 - \[noun\], accusative, singular, masculine
 - “path; way.”
 ------------------------------------------------------------------------
-- *idaṃ* \< *idam*
+- *idaṃ* ← *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -59,32 +59,32 @@ title = "Rig Veda 3.31.9"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *sadanam* \< *sadana*
+- *sadanam* ← *sadana*
 - \[noun\], nominative, singular, neuter
 - “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
     residence; seat; inanition; location.”
 ------------------------------------------------------------------------
-- *bhūry* \< *bhūri*
+- *bhūry* ← *bhūri*
 - \[noun\], nominative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *eṣāṃ* \< *eṣām* \< *idam*
+- *eṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *yena* \< *yad*
+- *yena* ← *yad*
 - \[noun\], instrumental, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *māsāṃ* \< *māsa*
+- *māsāṃ* ← *māsa*
 - \[noun\], accusative, plural, masculine
 - “month; lunar month; māsa \[word\].”
 ------------------------------------------------------------------------
-- *asiṣāsann* \< *asiṣāsan* \< *siṣās* \< *√san*
+- *asiṣāsann* ← *asiṣāsan* ← *siṣās* ← *√san*
 - \[verb\], plural, Imperfect
 - “win; gain.”
 ------------------------------------------------------------------------
-- *ṛtena* \< *ṛta*
+- *ṛtena* ← *ṛta*
 - \[noun\], instrumental, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------

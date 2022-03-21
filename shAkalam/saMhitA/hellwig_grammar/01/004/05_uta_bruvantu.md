@@ -6,42 +6,42 @@ title = "Rig Veda 1.4.5"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *bruvantu* \< *brū*
+- *bruvantu* ← *brū*
 - \[verb\], plural, Present imperative
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *nido* \< *nidaḥ* \< *nid*
+- *nido* ← *nidaḥ* ← *nid*
 - \[noun\], nominative, plural, feminine
 - “derision; scoffer; contempt.”
 ------------------------------------------------------------------------
-- *nir* \< *niḥ*
+- *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *anyataś* \< *anyatas*
+- *anyataś* ← *anyatas*
 - \[adverb\]
 - “on the other hand; elsewhere.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ārata* \< *ṛch*
+- *ārata* ← *ṛch*
 - \[verb\], plural, Thematic aorist (Ind.)
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *dadhānā* \< *dadhānāḥ* \< *dhā*
+- *dadhānā* ← *dadhānāḥ* ← *dhā*
 - \[verb noun\], nominative, plural
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *indra* \< *indre* \< *indra*
+- *indra* ← *indre* ← *indra*
 - \[noun\], locative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -50,7 +50,7 @@ title = "Rig Veda 1.4.5"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *duvaḥ* \< *duvas*
+- *duvaḥ* ← *duvas*
 - \[noun\], accusative, singular, neuter
 - “worship.”
 ------------------------------------------------------------------------

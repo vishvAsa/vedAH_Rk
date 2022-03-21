@@ -6,23 +6,23 @@ title = "Rig Veda 10.105.3"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *yor* \< *\_* \< *√\_*
+- *yor* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pāpaja* \< *pāpajaḥ* \< *pāpaja*
+- *pāpaja* ← *pāpajaḥ* ← *pāpaja*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *marto* \< *martaḥ* \< *marta*
+- *marto* ← *martaḥ* ← *marta*
 - \[noun\], nominative, singular, masculine
 - “man.”
 ------------------------------------------------------------------------
@@ -30,24 +30,24 @@ title = "Rig Veda 10.105.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śaśramāṇo* \< *śaśramāṇaḥ* \< *śram*
+- *śaśramāṇo* ← *śaśramāṇaḥ* ← *śram*
 - \[verb noun\], nominative, singular
 - “tire; exercise; tire.”
 ------------------------------------------------------------------------
-- *bibhīvān* \< *bhī*
+- *bibhīvān* ← *bhī*
 - \[verb noun\], nominative, singular
 - “fear; fear.”
 ------------------------------------------------------------------------
-- *śubhe* \< *śubha*
+- *śubhe* ← *śubha*
 - \[noun\], accusative, dual, neuter
 - “good; beautiful; auspicious; good; suitable; pleasant; righteous;
     beautiful; wholesome; beneficial.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yuyuje* \< *yuj*
+- *yuyuje* ← *yuj*
 - \[verb\], singular, Perfect indicative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -55,7 +55,7 @@ title = "Rig Veda 10.105.3"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *taviṣīvān* \< *taviṣīvat*
+- *taviṣīvān* ← *taviṣīvat*
 - \[noun\], nominative, singular, masculine
 - “strong.”
 ------------------------------------------------------------------------

@@ -2,25 +2,25 @@
 title = "Rig Veda 10.111.9"
 
 +++
--   *sṛjaḥ* \< *sṛj*
+-   *sṛjaḥ* ← *sṛj*
 - \[verb\], singular, Present injunctive
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *sindhūṃr* \< *sindhūn* \< *sindhu*
+- *sindhūṃr* ← *sindhūn* ← *sindhu*
 - \[noun\], accusative, plural, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *ahinā* \< *ahi*
+- *ahinā* ← *ahi*
 - \[noun\], instrumental, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
 ------------------------------------------------------------------------
-- *jagrasānāṃ* \< *gras*
+- *jagrasānāṃ* ← *gras*
 - \[verb noun\], accusative, plural
 - “swallow; eclipse; eclipse; devour; obscure; hide; haunt; sting;
     eat.”
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
@@ -28,7 +28,7 @@ title = "Rig Veda 10.111.9"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *etāḥ* \< *etad*
+- *etāḥ* ← *etad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
@@ -36,26 +36,26 @@ title = "Rig Veda 10.111.9"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vivijre* \< *vij*
+- *vivijre* ← *vij*
 - \[verb\], plural, Perfect indicative
 - “flinch; bounce.”
 ------------------------------------------------------------------------
-- *javena* \< *java*
+- *javena* ← *java*
 - \[noun\], instrumental, singular, masculine
 - “speed; Java; speed.”
 ------------------------------------------------------------------------
-- *mumukṣamāṇā* \< *mumukṣamāṇāḥ* \< *mumukṣ* \< *√muc*
+- *mumukṣamāṇā* ← *mumukṣamāṇāḥ* ← *mumukṣ* ← *√muc*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *yā* \< *yāḥ* \< *yad*
+- *yā* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *mumucre* \< *muc*
+- *mumucre* ← *muc*
 - \[verb\], plural, Perfect indicative
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
     fill into; shoot; spill; lose; ejaculate; exclude; free; remove;
@@ -63,15 +63,15 @@ title = "Rig Veda 10.111.9"
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
 ------------------------------------------------------------------------
-- *'dhed* \< *adha*
+- *'dhed* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *'dhed* \< *id*
+- *'dhed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *etā* \< *etāḥ* \< *etad*
+- *etā* ← *etāḥ* ← *etad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
@@ -79,10 +79,10 @@ title = "Rig Veda 10.111.9"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *ramante* \< *ram*
+- *ramante* ← *ram*
 - \[verb\], plural, Present indikative
 - “delight; rejoice; love; frolic; desire; give; calm; break.”
 ------------------------------------------------------------------------
-- *nitiktāḥ* \< *nitikta*
+- *nitiktāḥ* ← *nitikta*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------

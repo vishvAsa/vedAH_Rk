@@ -6,7 +6,7 @@ title = "Rig Veda 10.10.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tiṣṭhanti* \< *sthā*
+- *tiṣṭhanti* ← *sthā*
 - \[verb\], plural, Present indikative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
@@ -20,19 +20,19 @@ title = "Rig Veda 10.10.8"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *miṣanty* \< *miṣanti* \< *miṣ*
+- *miṣanty* ← *miṣanti* ← *miṣ*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *ete* \< *etad*
+- *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *devānāṃ* \< *devānām* \< *deva*
+- *devānāṃ* ← *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *spaśa* \< *spaśaḥ* \< *spaś*
+- *spaśa* ← *spaśaḥ* ← *spaś*
 - \[noun\], nominative, plural, masculine
 - “lookout; spy; spaś.”
 ------------------------------------------------------------------------
@@ -40,39 +40,39 @@ title = "Rig Veda 10.10.8"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *caranti* \< *car*
+- *caranti* ← *car*
 - \[verb\], plural, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *anyena* \< *anya*
+- *anyena* ← *anya*
 - \[noun\], instrumental, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *mad* \< *mat* \< *mad*
+- *mad* ← *mat* ← *mad*
 - \[noun\], ablative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *āhano* \< *āhanaḥ* \< *āhanas*
+- *āhano* ← *āhanaḥ* ← *āhanas*
 - \[noun\], vocative, singular, feminine
 - “aroused; intoxicant.”
 ------------------------------------------------------------------------
-- *yāhi* \< *yā*
+- *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *tūyaṃ* \< *tūyam* \< *tūya*
+- *tūyaṃ* ← *tūyam* ← *tūya*
 - \[noun\], accusative, singular, neuter
 - “quick; fast; potent.”
 ------------------------------------------------------------------------
-- *tena* \< *tad*
+- *tena* ← *tad*
 - \[noun\], instrumental, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -82,18 +82,18 @@ title = "Rig Veda 10.10.8"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vṛha* \< *vṛh*
+- *vṛha* ← *vṛh*
 - \[verb\], singular, Present imperative
 - “extract.”
 ------------------------------------------------------------------------
-- *rathyeva* \< *rathyā* \< *rathya*
+- *rathyeva* ← *rathyā* ← *rathya*
 - \[noun\], nominative, plural, neuter
 ------------------------------------------------------------------------
-- *rathyeva* \< *iva*
+- *rathyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *cakrā* \< *cakra*
+- *cakrā* ← *cakra*
 - \[noun\], nominative, plural, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”

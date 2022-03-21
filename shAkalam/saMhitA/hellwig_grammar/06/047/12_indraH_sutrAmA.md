@@ -2,60 +2,60 @@
 title = "Rig Veda 6.47.12"
 
 +++
--   *indraḥ* \< *indra*
+-   *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sutrāmā* \< *sutrāman*
+- *sutrāmā* ← *sutrāman*
 - \[noun\], nominative, singular, masculine
 - “Indra; Sutrāman.”
 ------------------------------------------------------------------------
-- *svavāṃ* \< *svavat*
+- *svavāṃ* ← *svavat*
 - \[noun\], nominative, singular, masculine
 - “helpful.”
 ------------------------------------------------------------------------
-- *avobhiḥ* \< *avas*
+- *avobhiḥ* ← *avas*
 - \[noun\], instrumental, plural, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *sumṛﾱīko* \< *su*
+- *sumṛﾱīko* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sumṛﾱīko* \< *mṛﾱīkaḥ* \< *mṛḍīka*
+- *sumṛﾱīko* ← *mṛﾱīkaḥ* ← *mṛḍīka*
 - \[noun\], nominative, singular, masculine
 - “compassion; favor.”
 ------------------------------------------------------------------------
-- *bhavatu* \< *bhū*
+- *bhavatu* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *viśvavedāḥ* \< *viśva*
+- *viśvavedāḥ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvavedāḥ* \< *vedāḥ* \< *vedas*
+- *viśvavedāḥ* ← *vedāḥ* ← *vedas*
 - \[noun\], nominative, singular, masculine
 - “knowledge.”
 ------------------------------------------------------------------------
-- *bādhatāṃ* \< *bādhatām* \< *bādh*
+- *bādhatāṃ* ← *bādhatām* ← *bādh*
 - \[verb\], singular, Present imperative
 - “afflict; annoy; chase away; tease; grieve; irritate.”
 ------------------------------------------------------------------------
-- *dveṣo* \< *dveṣaḥ* \< *dveṣas*
+- *dveṣo* ← *dveṣaḥ* ← *dveṣas*
 - \[noun\], accusative, singular, neuter
 - “hostility; enemy.”
 ------------------------------------------------------------------------
-- *abhayaṃ* \< *abhayam* \< *abhaya*
+- *abhayaṃ* ← *abhayam* ← *abhaya*
 - \[noun\], accusative, singular, neuter
 - “security; abhayamudrā; Abhaya.”
 ------------------------------------------------------------------------
-- *kṛṇotu* \< *kṛ*
+- *kṛṇotu* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -66,22 +66,22 @@ title = "Rig Veda 6.47.12"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *suvīryasya* \< *su*
+- *suvīryasya* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvīryasya* \< *vīryasya* \< *vīrya*
+- *suvīryasya* ← *vīryasya* ← *vīrya*
 - \[noun\], genitive, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
 ------------------------------------------------------------------------
-- *patayaḥ* \< *pati*
+- *patayaḥ* ← *pati*
 - \[noun\], nominative, plural, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *syāma* \< *as*
+- *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

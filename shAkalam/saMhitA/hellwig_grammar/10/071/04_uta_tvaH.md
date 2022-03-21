@@ -6,11 +6,11 @@ title = "Rig Veda 10.71.4"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *tvaḥ* \< *tva*
+- *tvaḥ* ← *tva*
 - \[noun\], nominative, singular, masculine
 - “many a(a); one.”
 ------------------------------------------------------------------------
-- *paśyan* \< *paś*
+- *paśyan* ← *paś*
 - \[verb noun\], nominative, singular
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
@@ -19,13 +19,13 @@ title = "Rig Veda 10.71.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dadarśa* \< *dṛś*
+- *dadarśa* ← *dṛś*
 - \[verb\], singular, Perfect indicative
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
 ------------------------------------------------------------------------
-- *vācam* \< *vāc*
+- *vācam* ← *vāc*
 - \[noun\], accusative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
@@ -35,11 +35,11 @@ title = "Rig Veda 10.71.4"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *tvaḥ* \< *tva*
+- *tvaḥ* ← *tva*
 - \[noun\], nominative, singular, masculine
 - “many a(a); one.”
 ------------------------------------------------------------------------
-- *śṛṇvan* \< *śru*
+- *śṛṇvan* ← *śru*
 - \[verb noun\], nominative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
@@ -47,27 +47,27 @@ title = "Rig Veda 10.71.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śṛṇoty* \< *śṛṇoti* \< *śru*
+- *śṛṇoty* ← *śṛṇoti* ← *śru*
 - \[verb\], singular, Present indikative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *enām* \< *enad*
+- *enām* ← *enad*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
-- *uto* \< *uta*
+- *uto* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *uto* \< *u*
+- *uto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tvasmai* \< *tva*
+- *tvasmai* ← *tva*
 - \[noun\], dative, singular, masculine
 - “many a(a); one.”
 ------------------------------------------------------------------------
-- *tanvaṃ* \< *tanvam* \< *tanū*
+- *tanvaṃ* ← *tanvam* ← *tanū*
 - \[noun\], accusative, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
@@ -75,32 +75,32 @@ title = "Rig Veda 10.71.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *sasre* \< *sṛ*
+- *sasre* ← *sṛ*
 - \[verb\], singular, Perfect indicative
 - “sṛ; liquefy; run; spread; stretch out.”
 ------------------------------------------------------------------------
-- *jāyeva* \< *jāyā*
+- *jāyeva* ← *jāyā*
 - \[noun\], nominative, singular, feminine
 - “wife; jāyā \[word\].”
 ------------------------------------------------------------------------
-- *jāyeva* \< *iva*
+- *jāyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *patya* \< *patye* \< *pati*
+- *patya* ← *patye* ← *pati*
 - \[noun\], dative, singular
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *uśatī* \< *vaś*
+- *uśatī* ← *vaś*
 - \[verb noun\], nominative, singular
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *suvāsāḥ* \< *su*
+- *suvāsāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvāsāḥ* \< *vāsāḥ* \< *vāsas*
+- *suvāsāḥ* ← *vāsāḥ* ← *vāsas*
 - \[noun\], nominative, singular, feminine
 - “clothing; fabric; garment; feather; dress; envelope.”
 ------------------------------------------------------------------------

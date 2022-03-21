@@ -2,11 +2,11 @@
 title = "Rig Veda 2.17.3"
 
 +++
--   *adhākṛṇoḥ* \< *adha*
+-   *adhākṛṇoḥ* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *adhākṛṇoḥ* \< *akṛṇoḥ* \< *kṛ*
+- *adhākṛṇoḥ* ← *akṛṇoḥ* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -17,64 +17,64 @@ title = "Rig Veda 2.17.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *prathamaṃ* \< *prathamam* \< *prathama*
+- *prathamaṃ* ← *prathamam* ← *prathama*
 - \[noun\], accusative, singular, neuter
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
 ------------------------------------------------------------------------
-- *vīryam* \< *vīrya*
+- *vīryam* ← *vīrya*
 - \[noun\], accusative, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
 ------------------------------------------------------------------------
-- *mahad* \< *mahat*
+- *mahad* ← *mahat*
 - \[noun\], accusative, singular, neuter
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *asyāgre* \< *asya* \< *idam*
+- *asyāgre* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *asyāgre* \< *agre* \< *agra*
+- *asyāgre* ← *agre* ← *agra*
 - \[noun\], locative, singular, neuter
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
 ------------------------------------------------------------------------
-- *brahmaṇā* \< *brahman*
+- *brahmaṇā* ← *brahman*
 - \[noun\], instrumental, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *śuṣmam* \< *śuṣma*
+- *śuṣmam* ← *śuṣma*
 - \[noun\], accusative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
-- *airayaḥ* \< *īray* \< *√īr*
+- *airayaḥ* ← *īray* ← *√īr*
 - \[verb\], singular, Imperfect
 - “name; describe; propel; shoot; state; call; raise; expel; tell;
     enumerate.”
 ------------------------------------------------------------------------
-- *ratheṣṭhena* \< *ratheṣṭha*
+- *ratheṣṭhena* ← *ratheṣṭha*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
-- *haryaśvena* \< *hari*
+- *haryaśvena* ← *hari*
 - \[noun\], masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *haryaśvena* \< *aśvena* \< *aśva*
+- *haryaśvena* ← *aśvena* ← *aśva*
 - \[noun\], instrumental, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *vicyutāḥ* \< *vicyu* \< *√cyu*
+- *vicyutāḥ* ← *vicyu* ← *√cyu*
 - \[verb noun\], nominative, plural
 - “fall down.”
 ------------------------------------------------------------------------
@@ -82,15 +82,15 @@ title = "Rig Veda 2.17.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *jīrayaḥ* \< *jīri*
+- *jīrayaḥ* ← *jīri*
 - \[noun\], nominative, plural, feminine
 - “river.”
 ------------------------------------------------------------------------
-- *sisrate* \< *sṛ*
+- *sisrate* ← *sṛ*
 - \[verb\], plural, Present indikative
 - “sṛ; liquefy; run; spread; stretch out.”
 ------------------------------------------------------------------------
-- *sadhryak* \< *sadhryañc*
+- *sadhryak* ← *sadhryañc*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
 - *pṛthak*

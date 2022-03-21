@@ -6,29 +6,29 @@ title = "Rig Veda 3.4.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *bhandamāne* \< *bhand*
+- *bhandamāne* ← *bhand*
 - \[verb noun\], nominative, dual
 ------------------------------------------------------------------------
-- *uṣasā* \< *uṣasau* \< *uṣas*
+- *uṣasā* ← *uṣasau* ← *uṣas*
 - \[noun\], nominative, dual, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *upāke* \< *upāka*
+- *upāke* ← *upāka*
 - \[noun\], nominative, dual, feminine
 ------------------------------------------------------------------------
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *smayete* \< *smi*
+- *smayete* ← *smi*
 - \[verb\], dual, Present indikative
 - “smile.”
 ------------------------------------------------------------------------
-- *tanvā* \< *tanū*
+- *tanvā* ← *tanū*
 - \[noun\], instrumental, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *virūpe* \< *virūpa*
+- *virūpe* ← *virūpa*
 - \[noun\], nominative, dual, feminine
 - “ugly; maimed; grotesque.”
 ------------------------------------------------------------------------
@@ -36,30 +36,30 @@ title = "Rig Veda 3.4.6"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mitro* \< *mitraḥ* \< *mitra*
+- *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *varuṇo* \< *varuṇaḥ* \< *varuṇa*
+- *varuṇo* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *jujoṣad* \< *jujoṣat* \< *juṣ*
+- *jujoṣad* ← *jujoṣat* ← *juṣ*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *marutvāṃ* \< *marutvat*
+- *marutvāṃ* ← *marutvat*
 - \[noun\], nominative, singular, masculine
 - “Marut(a).”
 ------------------------------------------------------------------------
@@ -71,7 +71,7 @@ title = "Rig Veda 3.4.6"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *mahobhiḥ* \< *mahas*
+- *mahobhiḥ* ← *mahas*
 - \[noun\], instrumental, plural, neuter
 - “greatness; festival; glory; reward; gladness.”
 ------------------------------------------------------------------------

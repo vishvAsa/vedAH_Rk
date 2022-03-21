@@ -2,36 +2,36 @@
 title = "Rig Veda 10.62.3"
 
 +++
--   *ya* \< *ye* \< *yad*
+-   *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ṛtena* \< *ṛta*
+- *ṛtena* ← *ṛta*
 - \[noun\], instrumental, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *sūryam* \< *sūrya*
+- *sūryam* ← *sūrya*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *ārohayan* \< *ārohay* \< *√ruh*
+- *ārohayan* ← *ārohay* ← *√ruh*
 - \[verb\], plural, Imperfect
 - “raise; hop on; lift.”
 ------------------------------------------------------------------------
-- *divy* \< *divi* \< *div*
+- *divy* ← *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *aprathayan* \< *prathay* \< *√prath*
+- *aprathayan* ← *prathay* ← *√prath*
 - \[verb\], plural, Imperfect
 - “spread; proclaim.”
 ------------------------------------------------------------------------
-- *pṛthivīm* \< *pṛthivī*
+- *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *mātaraṃ* \< *mātaram* \< *mātṛ*
+- *mātaraṃ* ← *mātaram* ← *mātṛ*
 - \[noun\], accusative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
@@ -40,19 +40,19 @@ title = "Rig Veda 10.62.3"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *suprajāstvam* \< *suprajāstva*
+- *suprajāstvam* ← *suprajāstva*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *aṅgiraso* \< *aṅgirasaḥ* \< *aṅgiras*
+- *aṅgiraso* ← *aṅgirasaḥ* ← *aṅgiras*
 - \[noun\], vocative, plural, masculine
 - “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
     Aṅgiras.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -61,7 +61,7 @@ title = "Rig Veda 10.62.3"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *gṛbhṇīta* \< *grah*
+- *gṛbhṇīta* ← *grah*
 - \[verb\], plural, Present imperative
 - “take; grasp; take out; extract; perceive; pick; assume; include;
     accept; understand; use; learn; possess; keep; choose; accept;
@@ -69,11 +69,11 @@ title = "Rig Veda 10.62.3"
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
 ------------------------------------------------------------------------
-- *mānavaṃ* \< *mānavam* \< *mānava*
+- *mānavaṃ* ← *mānavam* ← *mānava*
 - \[noun\], accusative, singular, masculine
 - “man; man; national; mānava \[word\].”
 ------------------------------------------------------------------------
-- *sumedhasaḥ* \< *sumedhas*
+- *sumedhasaḥ* ← *sumedhas*
 - \[noun\], vocative, plural, masculine
 - “wise.”
 ------------------------------------------------------------------------

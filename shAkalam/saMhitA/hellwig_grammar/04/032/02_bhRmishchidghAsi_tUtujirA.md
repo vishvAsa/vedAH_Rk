@@ -2,22 +2,22 @@
 title = "Rig Veda 4.32.2"
 
 +++
--   *bhṛmiś* \< *bhṛmiḥ* \< *bhṛmi*
+-   *bhṛmiś* ← *bhṛmiḥ* ← *bhṛmi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ghāsi* \< *ghā* \< *gha*
+- *ghāsi* ← *ghā* ← *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ghāsi* \< *asi* \< *as*
+- *ghāsi* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *tūtujir* \< *tūtujiḥ* \< *tūtuji*
+- *tūtujir* ← *tūtujiḥ* ← *tūtuji*
 - \[noun\], nominative, singular, masculine
 - “exciting; avid; eager.”
 ------------------------------------------------------------------------
@@ -31,20 +31,20 @@ title = "Rig Veda 4.32.2"
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *citriṇīṣv* \< *citriṇīṣu* \< *citrin*
+- *citriṇīṣv* ← *citriṇīṣu* ← *citrin*
 - \[noun\], locative, plural, feminine
 ------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *citraṃ* \< *citram* \< *citra*
+- *citraṃ* ← *citram* ← *citra*
 - \[noun\], accusative, singular, neuter
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *kṛṇoṣy* \< *kṛṇoṣi* \< *kṛ*
+- *kṛṇoṣy* ← *kṛṇoṣi* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -55,7 +55,7 @@ title = "Rig Veda 4.32.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *ūtaye* \< *ūti*
+- *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------

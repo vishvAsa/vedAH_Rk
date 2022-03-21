@@ -2,14 +2,14 @@
 title = "Rig Veda 10.36.14"
 
 +++
--   *savitā* \< *savitṛ*
+-   *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
 - *paścātāt*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *savitā* \< *savitṛ*
+- *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
@@ -17,53 +17,53 @@ title = "Rig Veda 10.36.14"
 - \[adverb\]
 - “ahead; eastward; earlier; above; above.”
 ------------------------------------------------------------------------
-- *savitottarāttāt* \< *savitā* \< *savitṛ*
+- *savitottarāttāt* ← *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *savitottarāttāt* \< *uttarāttāt*
+- *savitottarāttāt* ← *uttarāttāt*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *savitādharāttāt* \< *savitā* \< *savitṛ*
+- *savitādharāttāt* ← *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *savitādharāttāt* \< *adharāttāt*
+- *savitādharāttāt* ← *adharāttāt*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *savitā* \< *savitṛ*
+- *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *suvatu* \< *sū*
+- *suvatu* ← *sū*
 - \[verb\], singular, Present imperative
 - “give birth; urge; bestow; cause.”
 ------------------------------------------------------------------------
-- *sarvatātiṃ* \< *sarvatātim* \< *sarvatāti*
+- *sarvatātiṃ* ← *sarvatātim* ← *sarvatāti*
 - \[noun\], accusative, singular, feminine
 - “completeness; prosperity; sum.”
 ------------------------------------------------------------------------
-- *savitā* \< *savitṛ*
+- *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rāsatāṃ* \< *rāsatām* \< *rā*
+- *rāsatāṃ* ← *rāsatām* ← *rā*
 - \[verb\], singular, Aorist imperative
 - “give; impart.”
 ------------------------------------------------------------------------
-- *dīrgham* \< *dīrgha*
+- *dīrgham* ← *dīrgha*
 - \[noun\], accusative, singular, neuter
 - “long; long; long; large; far; deep; dīrgha \[word\].”
 ------------------------------------------------------------------------
-- *āyuḥ* \< *āyus*
+- *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------

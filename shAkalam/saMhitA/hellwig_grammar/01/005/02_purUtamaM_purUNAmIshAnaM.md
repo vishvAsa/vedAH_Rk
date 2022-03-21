@@ -2,28 +2,28 @@
 title = "Rig Veda 1.5.2"
 
 +++
--   *purūtamam* \< *purutama*
+-   *purūtamam* ← *purutama*
 - \[noun\], accusative, singular, masculine
 - “most(a).”
 ------------------------------------------------------------------------
-- *purūṇām* \< *puru*
+- *purūṇām* ← *puru*
 - \[noun\], genitive, plural, masculine
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *īśānaṃ* \< *īśānam* \< *īś*
+- *īśānaṃ* ← *īśānam* ← *īś*
 - \[verb noun\], accusative, singular
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *vāryāṇām* \< *vārya*
+- *vāryāṇām* ← *vārya*
 - \[noun\], genitive, plural, neuter
 - “wealth.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *some* \< *soma*
+- *some* ← *soma*
 - \[noun\], locative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -31,7 +31,7 @@ title = "Rig Veda 1.5.2"
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *sute* \< *su*
+- *sute* ← *su*
 - \[verb noun\], locative, singular
 - “press out; su.”
 ------------------------------------------------------------------------

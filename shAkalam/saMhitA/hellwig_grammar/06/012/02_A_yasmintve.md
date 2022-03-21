@@ -6,19 +6,19 @@ title = "Rig Veda 6.12.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yasmin* \< *yad*
+- *yasmin* ← *yad*
 - \[noun\], locative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *tve* \< *tvad*
+- *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sv* \< *su*
+- *sv* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *apāke* \< *apāka*
+- *apāke* ← *apāka*
 - \[noun\], locative, singular, masculine
 - “unfestering.”
 ------------------------------------------------------------------------
@@ -26,7 +26,7 @@ title = "Rig Veda 6.12.2"
 - \[noun\], vocative, singular, masculine
 - “adorable.”
 ------------------------------------------------------------------------
-- *yakṣad* \< *yakṣat* \< *yaj*
+- *yakṣad* ← *yakṣat* ← *yaj*
 - \[verb\], singular, Aorist conj./subj.
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
@@ -34,11 +34,11 @@ title = "Rig Veda 6.12.2"
 - \[noun\], vocative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *sarvatāteva* \< *sarvatātā* \< *sarvatāti*
+- *sarvatāteva* ← *sarvatātā* ← *sarvatāti*
 - \[noun\], locative, singular, feminine
 - “completeness; prosperity; sum.”
 ------------------------------------------------------------------------
-- *sarvatāteva* \< *iva*
+- *sarvatāteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
@@ -46,14 +46,14 @@ title = "Rig Veda 6.12.2"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *dyauḥ* \< *div*
+- *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *triṣadhasthas* \< *triṣadhasthaḥ* \< *triṣadhastha*
+- *triṣadhasthas* ← *triṣadhasthaḥ* ← *triṣadhastha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *tataruṣo* \< *tataruṣaḥ* \< *tṛ*
+- *tataruṣo* ← *tataruṣaḥ* ← *tṛ*
 - \[verb noun\], genitive, singular
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
@@ -61,22 +61,22 @@ title = "Rig Veda 6.12.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *jaṃho* \< *jaṃhaḥ* \< *jaṃhas*
+- *jaṃho* ← *jaṃhaḥ* ← *jaṃhas*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *havyā* \< *havya*
+- *havyā* ← *havya*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *maghāni* \< *magha*
+- *maghāni* ← *magha*
 - \[noun\], accusative, plural, neuter
 - “gift; wealth; reward; wages; reward.”
 ------------------------------------------------------------------------
-- *mānuṣā* \< *mānuṣa*
+- *mānuṣā* ← *mānuṣa*
 - \[noun\], accusative, plural, neuter
 - “human.”
 ------------------------------------------------------------------------
-- *yajadhyai* \< *yaj*
+- *yajadhyai* ← *yaj*
 - \[verb noun\]
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------

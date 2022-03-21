@@ -6,19 +6,19 @@ title = "Rig Veda 1.151.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *ṛtāya* \< *ṛta*
+- *ṛtāya* ← *ṛta*
 - \[noun\], dative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *keśinīr* \< *keśinīḥ* \< *keśin*
+- *keśinīr* ← *keśinīḥ* ← *keśin*
 - \[noun\], nominative, plural, feminine
 - “haired.”
 ------------------------------------------------------------------------
-- *anūṣata* \< *nū*
+- *anūṣata* ← *nū*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “praise; shout.”
 ------------------------------------------------------------------------
@@ -35,11 +35,11 @@ title = "Rig Veda 1.151.6"
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *gātum* \< *gātu*
+- *gātum* ← *gātu*
 - \[noun\], accusative, singular, masculine
 - “path; way.”
 ------------------------------------------------------------------------
-- *arcathaḥ* \< *arc*
+- *arcathaḥ* ← *arc*
 - \[verb\], dual, Present indikative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
@@ -47,37 +47,37 @@ title = "Rig Veda 1.151.6"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *tmanā* \< *tman*
+- *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
 ------------------------------------------------------------------------
-- *sṛjatam* \< *sṛj*
+- *sṛjatam* ← *sṛj*
 - \[verb\], dual, Present imperative
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *pinvataṃ* \< *pinvatam* \< *pinv*
+- *pinvataṃ* ← *pinvatam* ← *pinv*
 - \[verb\], dual, Present imperative
 - “swell; swell; overflow; abound.”
 ------------------------------------------------------------------------
-- *dhiyo* \< *dhiyaḥ* \< *dhī*
+- *dhiyo* ← *dhiyaḥ* ← *dhī*
 - \[noun\], accusative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *yuvaṃ* \< *yuvam* \< *tvad*
+- *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *viprasya* \< *vipra*
+- *viprasya* ← *vipra*
 - \[noun\], genitive, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *manmanām* \< *manman*
+- *manmanām* ← *manman*
 - \[noun\], genitive, plural, neuter
 - “hymn; idea; purpose.”
 ------------------------------------------------------------------------
-- *irajyathaḥ* \< *irajy* \< *√rañj*
+- *irajyathaḥ* ← *irajy* ← *√rañj*
 - \[verb\], dual, Present indikative
 - “direct.”
 ------------------------------------------------------------------------

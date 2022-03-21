@@ -2,15 +2,15 @@
 title = "Rig Veda 4.2.11"
 
 +++
--   *cittim* \< *citti*
+-   *cittim* ← *citti*
 - \[noun\], accusative, singular, feminine
 - “purpose.”
 ------------------------------------------------------------------------
-- *acittiṃ* \< *acittim* \< *acitti*
+- *acittiṃ* ← *acittim* ← *acitti*
 - \[noun\], accusative, singular, feminine
 - “ignorance.”
 ------------------------------------------------------------------------
-- *cinavad* \< *cinavat* \< *ci*
+- *cinavad* ← *cinavat* ← *ci*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “cover; accumulate; pile up; pick; cover.”
 ------------------------------------------------------------------------
@@ -18,25 +18,25 @@ title = "Rig Veda 4.2.11"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vidvān* \< *vid*
+- *vidvān* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *pṛṣṭheva* \< *pṛṣṭhā* \< *pṛṣṭha*
+- *pṛṣṭheva* ← *pṛṣṭhā* ← *pṛṣṭha*
 - \[noun\], accusative, plural, neuter
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
 ------------------------------------------------------------------------
-- *pṛṣṭheva* \< *iva*
+- *pṛṣṭheva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *vītā* \< *vīta*
+- *vītā* ← *vīta*
 - \[noun\], accusative, plural, neuter
 - “straight; smooth.”
 ------------------------------------------------------------------------
-- *vṛjinā* \< *vṛjina*
+- *vṛjinā* ← *vṛjina*
 - \[noun\], accusative, plural, neuter
 - “deceitful; crooked; bent.”
 ------------------------------------------------------------------------
@@ -44,11 +44,11 @@ title = "Rig Veda 4.2.11"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *martān* \< *marta*
+- *martān* ← *marta*
 - \[noun\], accusative, plural, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *rāye* \< *rai*
+- *rāye* ← *rai*
 - \[noun\], dative, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
@@ -56,15 +56,15 @@ title = "Rig Veda 4.2.11"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *svapatyāya* \< *su*
+- *svapatyāya* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svapatyāya* \< *apatyāya* \< *apatya*
+- *svapatyāya* ← *apatyāya* ← *apatya*
 - \[noun\], dative, singular, neuter
 - “child; offspring; patronymic; descendant.”
 ------------------------------------------------------------------------
@@ -73,7 +73,7 @@ title = "Rig Veda 4.2.11"
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *ditiṃ* \< *ditim* \< *diti*
+- *ditiṃ* ← *ditim* ← *diti*
 - \[noun\], accusative, singular, feminine
 - “Diti; diti \[word\].”
 ------------------------------------------------------------------------
@@ -81,15 +81,15 @@ title = "Rig Veda 4.2.11"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *rāsvāditim* \< *rāsvā* \< *rā*
+- *rāsvāditim* ← *rāsvā* ← *rā*
 - \[verb\], singular, Aorist imperative
 - “give; impart.”
 ------------------------------------------------------------------------
-- *rāsvāditim* \< *aditim* \< *aditi*
+- *rāsvāditim* ← *aditim* ← *aditi*
 - \[noun\], accusative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *uruṣya* \< *uruṣy*
+- *uruṣya* ← *uruṣy*
 - \[verb\], singular, Present imperative
 - “protect; help.”
 ------------------------------------------------------------------------

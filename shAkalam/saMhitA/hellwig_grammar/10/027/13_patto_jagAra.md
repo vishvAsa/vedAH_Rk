@@ -2,26 +2,26 @@
 title = "Rig Veda 10.27.13"
 
 +++
--   *patto* \< *pattas*
+-   *patto* ← *pattas*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *jagāra* \< *gṛ*
+- *jagāra* ← *gṛ*
 - \[verb\], singular, Perfect indicative
 - “devour; swallow; surround.”
 ------------------------------------------------------------------------
-- *pratyañcam* \< *pratyañc*
+- *pratyañcam* ← *pratyañc*
 - \[noun\], accusative, singular, masculine
 - “western; facing; westbound; backward; pratyañc \[word\]; inverted.”
 ------------------------------------------------------------------------
-- *atti* \< *ad*
+- *atti* ← *ad*
 - \[verb\], singular, Present indikative
 - “eat; devour.”
 ------------------------------------------------------------------------
-- *śīrṣṇā* \< *śīrṣan*
+- *śīrṣṇā* ← *śīrṣan*
 - \[noun\], instrumental, singular, neuter
 - “head; śīrṣan \[word\].”
 ------------------------------------------------------------------------
-- *śiraḥ* \< *śiras*
+- *śiraḥ* ← *śiras*
 - \[noun\], accusative, singular, neuter
 - “head; top; peak; battlefront; śiras \[word\]; beginning; skull.”
 ------------------------------------------------------------------------
@@ -29,49 +29,49 @@ title = "Rig Veda 10.27.13"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *dadhau* \< *dhā*
+- *dadhau* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *varūtham* \< *varūtha*
+- *varūtham* ← *varūtha*
 - \[noun\], accusative, singular, neuter
 - “defense; protective covering.”
 ------------------------------------------------------------------------
-- *āsīna* \< *āsīnaḥ* \< *ās*
+- *āsīna* ← *āsīnaḥ* ← *ās*
 - \[verb noun\], nominative, singular
 - “sit; stay; sit down; dwell; lie; lie; exist.”
 ------------------------------------------------------------------------
-- *ūrdhvām* \< *ūrdhva*
+- *ūrdhvām* ← *ūrdhva*
 - \[noun\], accusative, singular, feminine
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
 ------------------------------------------------------------------------
-- *upasi* \< *upas*
+- *upasi* ← *upas*
 - \[noun\], locative, singular, neuter
 - “lap.”
 ------------------------------------------------------------------------
-- *kṣiṇāti* \< *kṣi*
+- *kṣiṇāti* ← *kṣi*
 - \[verb\], singular, Present indikative
 - “decrease; emaciate; vanish; kill; wane; destroy; run down; elapse;
     lose; lose; gasify; decline; decay; corrupt.”
 ------------------------------------------------------------------------
-- *nyaṅṅ* \< *nyaṅ* \< *nyāñc*
+- *nyaṅṅ* ← *nyaṅ* ← *nyāñc*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *uttānām* \< *uttāna*
+- *uttānām* ← *uttāna*
 - \[noun\], accusative, singular, feminine
 - “supine; upward; upright; skin-deep; raised; shallow.”
 ------------------------------------------------------------------------
-- *anv* \< *anu*
+- *anv* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *bhūmim* \< *bhūmi*
+- *bhūmim* ← *bhūmi*
 - \[noun\], accusative, singular, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
     Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;

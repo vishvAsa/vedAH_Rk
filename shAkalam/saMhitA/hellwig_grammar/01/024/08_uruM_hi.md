@@ -2,7 +2,7 @@
 title = "Rig Veda 1.24.8"
 
 +++
--   *uruṃ* \< *urum* \< *uru*
+-   *uruṃ* ← *urum* ← *uru*
 - \[noun\], accusative, singular, masculine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
@@ -10,16 +10,16 @@ title = "Rig Veda 1.24.8"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *rājā* \< *rājan*
+- *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *varuṇaś* \< *varuṇaḥ* \< *varuṇa*
+- *varuṇaś* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *cakāra* \< *kṛ*
+- *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -30,16 +30,16 @@ title = "Rig Veda 1.24.8"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *sūryāya* \< *sūrya*
+- *sūryāya* ← *sūrya*
 - \[noun\], dative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *panthām* \< *pathin*
+- *panthām* ← *pathin*
 - \[noun\], accusative, singular
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *anvetavā* \< *anvetavai* \< *anvi* \< *√i*
+- *anvetavā* ← *anvetavai* ← *anvi* ← *√i*
 - \[verb noun\]
 - “follow.”
 ------------------------------------------------------------------------
@@ -47,24 +47,24 @@ title = "Rig Veda 1.24.8"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *apade* \< *a*
+- *apade* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *apade* \< *pade* \< *pad*
+- *apade* ← *pade* ← *pad*
 - \[noun\], dative, singular, masculine
 - “foot; pad \[word\].”
 ------------------------------------------------------------------------
-- *pādā* \< *pāda*
+- *pādā* ← *pāda*
 - \[noun\], accusative, dual, masculine
 - “foot; one-fourth; beam; pāda; foot; foundation; pāda \[word\]; leg;
     leg; animal foot; step; foot; footfall; verse.”
 ------------------------------------------------------------------------
-- *pratidhātave* \< *pratidhā* \< *√dhā*
+- *pratidhātave* ← *pratidhā* ← *√dhā*
 - \[verb noun\]
 - “target; insert.”
 ------------------------------------------------------------------------
-- *'kar* \< *akaḥ* \< *kṛ*
+- *'kar* ← *akaḥ* ← *kṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -75,14 +75,14 @@ title = "Rig Veda 1.24.8"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *utāpavaktā* \< *uta*
+- *utāpavaktā* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *utāpavaktā* \< *apavaktā* \< *apavaktṛ*
+- *utāpavaktā* ← *apavaktā* ← *apavaktṛ*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *hṛdayāvidhaś* \< *hṛdayāvidhaḥ* \< *hṛdayāvidh*
+- *hṛdayāvidhaś* ← *hṛdayāvidhaḥ* ← *hṛdayāvidh*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
 - *cit*

@@ -2,41 +2,41 @@
 title = "Rig Veda 5.54.6"
 
 +++
--   *abhrāji* \< *bhrāj*
+-   *abhrāji* ← *bhrāj*
 - \[verb\], singular, Aorist passive
 - “shine; glitter; look.”
 ------------------------------------------------------------------------
-- *śardho* \< *śardhaḥ* \< *śardhas*
+- *śardho* ← *śardhaḥ* ← *śardhas*
 - \[noun\], nominative, singular, neuter
 - “troop.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *arṇasam* \< *arṇasa*
+- *arṇasam* ← *arṇasa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *moṣathā* \< *moṣatha* \< *muṣ*
+- *moṣathā* ← *moṣatha* ← *muṣ*
 - \[verb\], plural, Present indikative
 - “rob; remove; steal.”
 ------------------------------------------------------------------------
-- *vṛkṣaṃ* \< *vṛkṣam* \< *vṛkṣa*
+- *vṛkṣaṃ* ← *vṛkṣam* ← *vṛkṣa*
 - \[noun\], accusative, singular, masculine
 - “tree; fruit tree.”
 ------------------------------------------------------------------------
-- *kapaneva* \< *kapanā*
+- *kapaneva* ← *kapanā*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *kapaneva* \< *iva*
+- *kapaneva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *vedhasaḥ* \< *vedhas*
+- *vedhasaḥ* ← *vedhas*
 - \[noun\], vocative, plural, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
 ------------------------------------------------------------------------
@@ -44,21 +44,21 @@ title = "Rig Veda 5.54.6"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *smā* \< *sma*
+- *smā* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *aramatiṃ* \< *aramatim* \< *aramati*
+- *aramatiṃ* ← *aramatim* ← *aramati*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *sajoṣasaś* \< *sajoṣasaḥ* \< *sajoṣas*
+- *sajoṣasaś* ← *sajoṣasaḥ* ← *sajoṣas*
 - \[noun\], nominative, plural, masculine
 - “consentaneous; combined; associated; united.”
 ------------------------------------------------------------------------
-- *cakṣur* \< *cakṣuḥ* \< *cakṣus*
+- *cakṣur* ← *cakṣuḥ* ← *cakṣus*
 - \[noun\], nominative, singular, neuter
 - “eye; look; visual perception; cakṣus \[word\]; sight.”
 ------------------------------------------------------------------------
@@ -66,7 +66,7 @@ title = "Rig Veda 5.54.6"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *yantam* \< *i*
+- *yantam* ← *i*
 - \[verb noun\], accusative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
@@ -74,11 +74,11 @@ title = "Rig Veda 5.54.6"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *neṣathā* \< *neṣatha* \< *nī*
+- *neṣathā* ← *neṣatha* ← *nī*
 - \[verb\], plural, Aorist conj./subj.
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *sugam* \< *suga*
+- *sugam* ← *suga*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------

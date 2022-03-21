@@ -2,24 +2,24 @@
 title = "Rig Veda 10.108.10"
 
 +++
--   *nāhaṃ* \< *na*
+-   *nāhaṃ* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāhaṃ* \< *aham* \< *mad*
+- *nāhaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *veda* \< *vid*
+- *veda* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *bhrātṛtvaṃ* \< *bhrātṛ*
+- *bhrātṛtvaṃ* ← *bhrātṛ*
 - \[noun\], masculine
 - “brother; bhrātṛ; relative.”
 ------------------------------------------------------------------------
-- *bhrātṛtvaṃ* \< *tvam* \< *tva*
+- *bhrātṛtvaṃ* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
@@ -27,25 +27,25 @@ title = "Rig Veda 10.108.10"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *svasṛtvam* \< *svasṛ*
+- *svasṛtvam* ← *svasṛ*
 - \[noun\], feminine
 - “sister; svasṛ \[word\].”
 ------------------------------------------------------------------------
-- *svasṛtvam* \< *tvam* \< *tva*
+- *svasṛtvam* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vidur* \< *viduḥ* \< *vid*
+- *vidur* ← *viduḥ* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *aṅgirasaś* \< *aṅgirasaḥ* \< *aṅgiras*
+- *aṅgirasaś* ← *aṅgirasaḥ* ← *aṅgiras*
 - \[noun\], nominative, plural, masculine
 - “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
     Aṅgiras.”
@@ -54,55 +54,55 @@ title = "Rig Veda 10.108.10"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *ghorāḥ* \< *ghora*
+- *ghorāḥ* ← *ghora*
 - \[noun\], nominative, plural, masculine
 - “awful; dangerous; terrific; intense; dreadful.”
 ------------------------------------------------------------------------
-- *gokāmā* \< *go*
+- *gokāmā* ← *go*
 - \[noun\]
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *gokāmā* \< *kāmāḥ* \< *kāma*
+- *gokāmā* ← *kāmāḥ* ← *kāma*
 - \[noun\], nominative, plural, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *acchadayan* \< *chaday* \< *√chand*
+- *acchadayan* ← *chaday* ← *√chand*
 - \[verb\], plural, Imperfect
 - “look.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *āyam* \< *i*
+- *āyam* ← *i*
 - \[verb\], singular, Imperfect
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *apāta* \< *apa*
+- *apāta* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *apāta* \< *atas*
+- *apāta* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
 ------------------------------------------------------------------------
-- *ita* \< *i*
+- *ita* ← *i*
 - \[verb\], plural, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *paṇayo* \< *paṇayaḥ* \< *paṇi*
+- *paṇayo* ← *paṇayaḥ* ← *paṇi*
 - \[noun\], vocative, plural, masculine
 - “niggard; paṇ.”
 ------------------------------------------------------------------------
-- *varīyaḥ* \< *varīyas*
+- *varīyaḥ* ← *varīyas*
 - \[noun\], accusative, singular, neuter
 - “broad; further.”
 ------------------------------------------------------------------------

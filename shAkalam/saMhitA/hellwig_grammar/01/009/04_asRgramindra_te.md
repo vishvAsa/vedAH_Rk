@@ -2,7 +2,7 @@
 title = "Rig Veda 1.9.4"
 
 +++
--   *asṛgram* \< *sṛj*
+-   *asṛgram* ← *sṛj*
 - \[verb\], plural, Root aorist (Ind.)
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
@@ -12,11 +12,11 @@ title = "Rig Veda 1.9.4"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *giraḥ* \< *gir*
+- *giraḥ* ← *gir*
 - \[noun\], nominative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
@@ -25,7 +25,7 @@ title = "Rig Veda 1.9.4"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *tvām* \< *tvad*
+- *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -33,18 +33,18 @@ title = "Rig Veda 1.9.4"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *ahāsata* \< *hā*
+- *ahāsata* ← *hā*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “move over; yield; give way.”
 ------------------------------------------------------------------------
-- *ajoṣā* \< *ajoṣāḥ* \< *ajoṣa*
+- *ajoṣā* ← *ajoṣāḥ* ← *ajoṣa*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *vṛṣabham* \< *vṛṣabha*
+- *vṛṣabham* ← *vṛṣabha*
 - \[noun\], accusative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *patim* \< *pati*
+- *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”

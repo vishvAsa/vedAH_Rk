@@ -2,16 +2,16 @@
 title = "Rig Veda 10.109.3"
 
 +++
--   *hastenaiva* \< *hastena* \< *hasta*
+-   *hastenaiva* ← *hastena* ← *hasta*
 - \[noun\], instrumental, singular, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------
-- *hastenaiva* \< *eva*
+- *hastenaiva* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *grāhya* \< *grāhyaḥ* \< *grah*
+- *grāhya* ← *grāhyaḥ* ← *grah*
 - \[verb noun\], nominative, singular
 - “take; grasp; take out; extract; perceive; pick; assume; include;
     accept; understand; use; learn; possess; keep; choose; accept;
@@ -19,24 +19,24 @@ title = "Rig Veda 10.109.3"
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
 ------------------------------------------------------------------------
-- *ādhir* \< *ādhiḥ* \< *ādhi*
+- *ādhir* ← *ādhiḥ* ← *ādhi*
 - \[noun\], nominative, singular, masculine
 - “deposit; mortgage; pawn; pledge; rent.”
 ------------------------------------------------------------------------
-- *asyā* \< *asyāḥ* \< *idam*
+- *asyā* ← *asyāḥ* ← *idam*
 - \[noun\], genitive, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *brahmajāyeyam* \< *brahma* \< *brahman*
+- *brahmajāyeyam* ← *brahma* ← *brahman*
 - \[noun\], masculine
 - “Brahma; Brahmin; dhak; Brahman; brahman \[word\]; Brahman; Brahmin;
     Brahmapurāṇa; Vishnu; Brihaspati.”
 ------------------------------------------------------------------------
-- *brahmajāyeyam* \< *jāyā*
+- *brahmajāyeyam* ← *jāyā*
 - \[noun\], nominative, singular, feminine
 - “wife; jāyā \[word\].”
 ------------------------------------------------------------------------
-- *brahmajāyeyam* \< *iyam* \< *idam*
+- *brahmajāyeyam* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -48,7 +48,7 @@ title = "Rig Veda 10.109.3"
 - \[adverb\]
 - “if; once \[when\].”
 ------------------------------------------------------------------------
-- *avocan* \< *vac*
+- *avocan* ← *vac*
 - \[verb\], plural, Thematic aorist (Ind.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
@@ -59,21 +59,21 @@ title = "Rig Veda 10.109.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dūtāya* \< *dūta*
+- *dūtāya* ← *dūta*
 - \[noun\], dative, singular, masculine
 - “messenger; emissary; dūta \[word\].”
 ------------------------------------------------------------------------
-- *prahye* \< *prahi* \< *√hi*
+- *prahye* ← *prahi* ← *√hi*
 - \[verb noun\]
 - “send; hurl; shoot; supply.”
 ------------------------------------------------------------------------
-- *tastha* \< *tasthe* \< *sthā*
+- *tastha* ← *tasthe* ← *sthā*
 - \[verb\], singular, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *eṣā* \< *etad*
+- *eṣā* ← *etad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
@@ -82,15 +82,15 @@ title = "Rig Veda 10.109.3"
 - “and; thus; besides; very well; so; then; in that manner; now;
     therefore; however; so.”
 ------------------------------------------------------------------------
-- *rāṣṭraṃ* \< *rāṣṭram* \< *rāṣṭra*
+- *rāṣṭraṃ* ← *rāṣṭram* ← *rāṣṭra*
 - \[noun\], nominative, singular, neuter
 - “kingdom; kingdom; kingship; rāṣṭra \[word\]; citizenry.”
 ------------------------------------------------------------------------
-- *gupitaṃ* \< *gupitam* \< *gup*
+- *gupitaṃ* ← *gupitam* ← *gup*
 - \[verb noun\], nominative, singular
 - “protect; hide; guard; defend; cover.”
 ------------------------------------------------------------------------
-- *kṣatriyasya* \< *kṣatriya*
+- *kṣatriyasya* ← *kṣatriya*
 - \[noun\], genitive, singular, masculine
 - “Kshatriya.”
 ------------------------------------------------------------------------

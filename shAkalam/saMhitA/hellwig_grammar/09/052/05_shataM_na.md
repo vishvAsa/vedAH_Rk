@@ -2,24 +2,24 @@
 title = "Rig Veda 9.52.5"
 
 +++
--   *śataṃ* \< *śatam* \< *śata*
+-   *śataṃ* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *inda* \< *indo* \< *indu*
+- *inda* ← *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *ūtibhiḥ* \< *ūti*
+- *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *sahasraṃ* \< *sahasram* \< *sahasra*
+- *sahasraṃ* ← *sahasram* ← *sahasra*
 - \[noun\], accusative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
@@ -27,19 +27,19 @@ title = "Rig Veda 9.52.5"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *śucīnām* \< *śuci*
+- *śucīnām* ← *śuci*
 - \[noun\], genitive, plural, feminine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *pavasva* \< *pū*
+- *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *maṃhayadrayiḥ* \< *maṃhayat* \< *maṃhay* \< *√mah*
+- *maṃhayadrayiḥ* ← *maṃhayat* ← *maṃhay* ← *√mah*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *maṃhayadrayiḥ* \< *rayiḥ* \< *rayi*
+- *maṃhayadrayiḥ* ← *rayiḥ* ← *rayi*
 - \[noun\], nominative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------

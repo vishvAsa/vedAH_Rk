@@ -10,42 +10,42 @@ title = "Rig Veda 5.52.1"
 - \[noun\], vocative, singular, masculine
 - “Śyāvāśva.”
 ------------------------------------------------------------------------
-- *dhṛṣṇuyārcā* \< *dhṛṣṇuyā*
+- *dhṛṣṇuyārcā* ← *dhṛṣṇuyā*
 - \[adverb\]
 - “boldly.”
 ------------------------------------------------------------------------
-- *dhṛṣṇuyārcā* \< *arca* \< *arc*
+- *dhṛṣṇuyārcā* ← *arca* ← *arc*
 - \[verb\], singular, Present imperative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *marudbhir* \< *marudbhiḥ* \< *marut*
+- *marudbhir* ← *marudbhiḥ* ← *marut*
 - \[noun\], instrumental, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *ṛkvabhiḥ* \< *ṛkvan*
+- *ṛkvabhiḥ* ← *ṛkvan*
 - \[noun\], instrumental, plural, masculine
 - “singing.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *adrogham* \< *adrogha*
+- *adrogham* ← *adrogha*
 - \[noun\], accusative, singular, neuter
 - “sincere; truthful.”
 ------------------------------------------------------------------------
-- *anuṣvadhaṃ* \< *anuṣvadham*
+- *anuṣvadhaṃ* ← *anuṣvadham*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *śravo* \< *śravaḥ* \< *śravas*
+- *śravo* ← *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *madanti* \< *mad*
+- *madanti* ← *mad*
 - \[verb\], plural, Present indikative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *yajñiyāḥ* \< *yajñiya*
+- *yajñiyāḥ* ← *yajñiya*
 - \[noun\], nominative, plural, masculine
 - “sacrificial; divine; devoted.”
 ------------------------------------------------------------------------

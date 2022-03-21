@@ -2,7 +2,7 @@
 title = "Rig Veda 3.58.8"
 
 +++
--   *aśvinā* \< *aśvin*
+-   *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
@@ -10,34 +10,34 @@ title = "Rig Veda 3.58.8"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *iṣaḥ* \< *iṣ*
+- *iṣaḥ* ← *iṣ*
 - \[noun\], nominative, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *purūcīr* \< *purūcīḥ* \< *purūcī*
+- *purūcīr* ← *purūcīḥ* ← *purūcī*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *īyur* \< *īyuḥ* \< *i*
+- *īyur* ← *īyuḥ* ← *i*
 - \[verb\], plural, Perfect indicative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *gīrbhir* \< *gīrbhiḥ* \< *gir*
+- *gīrbhir* ← *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *yatamānā* \< *yatamānāḥ* \< *yat*
+- *yatamānā* ← *yatamānāḥ* ← *yat*
 - \[verb noun\], nominative, plural
 - “strive; endeavor; join; equal; rival.”
 ------------------------------------------------------------------------
-- *amṛdhrāḥ* \< *amṛdhra*
+- *amṛdhrāḥ* ← *amṛdhra*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *ratho* \< *rathaḥ* \< *ratha*
+- *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -45,23 +45,23 @@ title = "Rig Veda 3.58.8"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *ṛtajā* \< *ṛta*
+- *ṛtajā* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *ṛtajā* \< *jau* \< *jā*
+- *ṛtajā* ← *jau* ← *jā*
 - \[noun\], vocative, dual, masculine
 - “born.”
 ------------------------------------------------------------------------
-- *adrijūtaḥ* \< *adri*
+- *adrijūtaḥ* ← *adri*
 - \[noun\], masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *adrijūtaḥ* \< *jūtaḥ* \< *jū*
+- *adrijūtaḥ* ← *jūtaḥ* ← *jū*
 - \[verb noun\], nominative, singular
 - “animate; encourage; impel; inspire.”
 ------------------------------------------------------------------------
@@ -73,12 +73,12 @@ title = "Rig Veda 3.58.8"
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
 ------------------------------------------------------------------------
-- *yāti* \< *yā*
+- *yāti* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *sadyaḥ* \< *sadyas*
+- *sadyaḥ* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
 ------------------------------------------------------------------------

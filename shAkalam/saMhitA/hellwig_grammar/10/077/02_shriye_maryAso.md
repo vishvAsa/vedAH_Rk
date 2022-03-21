@@ -2,21 +2,21 @@
 title = "Rig Veda 10.77.2"
 
 +++
--   *śriye* \< *śrī*
+-   *śriye* ← *śrī*
 - \[noun\], dative, singular, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
 ------------------------------------------------------------------------
-- *maryāso* \< *maryāsaḥ* \< *marya*
+- *maryāso* ← *maryāsaḥ* ← *marya*
 - \[noun\], nominative, plural, masculine
 - “young buck; boyfriend.”
 ------------------------------------------------------------------------
-- *añjīṃr* \< *añji*
+- *añjīṃr* ← *añji*
 - \[noun\], accusative, plural, masculine
 - “color; ointment; adornment.”
 ------------------------------------------------------------------------
-- *akṛṇvata* \< *kṛ*
+- *akṛṇvata* ← *kṛ*
 - \[verb\], plural, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -27,11 +27,11 @@ title = "Rig Veda 10.77.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *sumārutaṃ* \< *su*
+- *sumārutaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sumārutaṃ* \< *mārutam* \< *māruta*
+- *sumārutaṃ* ← *mārutam* ← *māruta*
 - \[noun\], accusative, singular, masculine
 - “wind; vāta; Vayu; Marut; prāṇa (coll.); breath; air; fart; air.”
 ------------------------------------------------------------------------
@@ -39,7 +39,7 @@ title = "Rig Veda 10.77.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pūrvīr* \< *pūrvīḥ* \< *pūrva*
+- *pūrvīr* ← *pūrvīḥ* ← *pūrva*
 - \[noun\], accusative, plural, feminine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
@@ -49,19 +49,19 @@ title = "Rig Veda 10.77.2"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *kṣapaḥ* \< *kṣap*
+- *kṣapaḥ* ← *kṣap*
 - \[noun\], accusative, plural, feminine
 - “night.”
 ------------------------------------------------------------------------
-- *divas* \< *divaḥ* \< *div*
+- *divas* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *putrāsa* \< *putrāsaḥ* \< *putra*
+- *putrāsa* ← *putrāsaḥ* ← *putra*
 - \[noun\], nominative, plural, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
-- *etā* \< *etāḥ* \< *eta*
+- *etā* ← *etāḥ* ← *eta*
 - \[noun\], nominative, plural, masculine
 - “eta \[word\]; antelope.”
 ------------------------------------------------------------------------
@@ -69,21 +69,21 @@ title = "Rig Veda 10.77.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yetira* \< *yetire* \< *yat*
+- *yetira* ← *yetire* ← *yat*
 - \[verb\], plural, Perfect indicative
 - “strive; endeavor; join; equal; rival.”
 ------------------------------------------------------------------------
-- *ādityāsas* \< *ādityāsaḥ* \< *āditya*
+- *ādityāsas* ← *ādityāsaḥ* ← *āditya*
 - \[noun\], nominative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *akrā* \< *akrāḥ* \< *akra*
+- *akrā* ← *akrāḥ* ← *akra*
 - \[noun\], nominative, plural, masculine
 - “banner.”
 ------------------------------------------------------------------------
@@ -91,7 +91,7 @@ title = "Rig Veda 10.77.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vāvṛdhuḥ* \< *vṛdh*
+- *vāvṛdhuḥ* ← *vṛdh*
 - \[verb\], plural, Perfect indicative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”

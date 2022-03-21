@@ -2,7 +2,7 @@
 title = "Rig Veda 8.22.13"
 
 +++
--   *tāv* \< *tau* \< *tad*
+-   *tāv* ← *tau* ← *tad*
 - \[noun\], accusative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -11,25 +11,25 @@ title = "Rig Veda 8.22.13"
 - *idā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ahānāṃ* \< *ahānām* \< *aha*
+- *ahānāṃ* ← *ahānām* ← *aha*
 - \[noun\], genitive, plural, masculine
 - “day; aha \[word\]; day.”
 ------------------------------------------------------------------------
-- *tāv* \< *tau* \< *tad*
+- *tāv* ← *tau* ← *tad*
 - \[noun\], accusative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], accusative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *vandamāna* \< *vandamānaḥ* \< *vand*
+- *vandamāna* ← *vandamānaḥ* ← *vand*
 - \[verb noun\], nominative, singular
 - “worship; laud.”
 ------------------------------------------------------------------------
@@ -37,12 +37,12 @@ title = "Rig Veda 8.22.13"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *bruve* \< *brū*
+- *bruve* ← *brū*
 - \[verb\], singular, Present indikative
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
 ------------------------------------------------------------------------
-- *tā* \< *tau* \< *tad*
+- *tā* ← *tau* ← *tad*
 - \[noun\], accusative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -52,11 +52,11 @@ title = "Rig Veda 8.22.13"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *namobhir* \< *namobhiḥ* \< *namas*
+- *namobhir* ← *namobhiḥ* ← *namas*
 - \[noun\], instrumental, plural, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *īmahe* \< *ī* \< *√i*
+- *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------

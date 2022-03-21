@@ -2,11 +2,11 @@
 title = "Rig Veda 7.83.4"
 
 +++
--   *indrāvaruṇā* \< *indrāvaruṇa*
+-   *indrāvaruṇā* ← *indrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Indra.”
 ------------------------------------------------------------------------
-- *vadhanābhir* \< *vadhanābhiḥ* \< *vadhanā*
+- *vadhanābhir* ← *vadhanābhiḥ* ← *vadhanā*
 - \[noun\], instrumental, plural, feminine
 - “weapon.”
 ------------------------------------------------------------------------
@@ -14,13 +14,13 @@ title = "Rig Veda 7.83.4"
 - \[noun\], accusative, singular, neuter
 - “irresistible.”
 ------------------------------------------------------------------------
-- *bhedaṃ* \< *bhedam* \< *bheda*
+- *bhedaṃ* ← *bhedam* ← *bheda*
 - \[noun\], accusative, singular, masculine
 - “type; kind; differentiation; distinction; rupture; distinction;
     discord; bheda; breakage; dualism; Bheda; diarrhea; betrayal;
     change; change; difference; pain; opening.”
 ------------------------------------------------------------------------
-- *vanvantā* \< *van*
+- *vanvantā* ← *van*
 - \[verb noun\], nominative, dual
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
@@ -28,46 +28,46 @@ title = "Rig Veda 7.83.4"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *sudāsam* \< *sudās*
+- *sudāsam* ← *sudās*
 - \[noun\], accusative, singular, masculine
 - “Sudās.”
 ------------------------------------------------------------------------
-- *āvatam* \< *av*
+- *āvatam* ← *av*
 - \[verb\], dual, Imperfect
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *brahmāṇy* \< *brahmāṇi* \< *brahman*
+- *brahmāṇy* ← *brahmāṇi* ← *brahman*
 - \[noun\], accusative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *eṣāṃ* \< *eṣām* \< *idam*
+- *eṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *śṛṇutaṃ* \< *śṛṇutam* \< *śru*
+- *śṛṇutaṃ* ← *śṛṇutam* ← *śru*
 - \[verb\], dual, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *havīmani* \< *havīman*
+- *havīmani* ← *havīman*
 - \[noun\], locative, singular, masculine
 - “call; invocation.”
 ------------------------------------------------------------------------
-- *satyā* \< *satya*
+- *satyā* ← *satya*
 - \[noun\], nominative, singular, feminine
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *tṛtsūnām* \< *tṛtsu*
+- *tṛtsūnām* ← *tṛtsu*
 - \[noun\], genitive, plural, masculine
 - “Tṛtsu.”
 ------------------------------------------------------------------------
-- *abhavat* \< *bhū*
+- *abhavat* ← *bhū*
 - \[verb\], singular, Imperfect
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *purohitiḥ* \< *purohiti*
+- *purohitiḥ* ← *purohiti*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------

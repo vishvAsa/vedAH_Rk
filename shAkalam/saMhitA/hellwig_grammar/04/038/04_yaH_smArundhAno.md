@@ -2,72 +2,72 @@
 title = "Rig Veda 4.38.4"
 
 +++
--   *yaḥ* \< *yad*
+-   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *smārundhāno* \< *sma*
+- *smārundhāno* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *smārundhāno* \< *ārundhānaḥ* \< *ārudh* \< *√rudh*
+- *smārundhāno* ← *ārundhānaḥ* ← *ārudh* ← *√rudh*
 - \[verb noun\], nominative, singular
 - “obstruct; close.”
 ------------------------------------------------------------------------
-- *gadhyā* \< *gadhya*
+- *gadhyā* ← *gadhya*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *samatsu* \< *samad*
+- *samatsu* ← *samad*
 - \[noun\], locative, plural, masculine
 - “conflict; strife.”
 ------------------------------------------------------------------------
-- *sanutaraś* \< *sanutaraḥ* \< *sanutara*
+- *sanutaraś* ← *sanutaraḥ* ← *sanutara*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *carati* \< *car*
+- *carati* ← *car*
 - \[verb\], singular, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *goṣu* \< *go*
+- *goṣu* ← *go*
 - \[noun\], locative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *gacchan* \< *gam*
+- *gacchan* ← *gam*
 - \[verb noun\], nominative, singular
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *āvirṛjīko* \< *āvirṛjīkaḥ* \< *āvirṛjīka*
+- *āvirṛjīko* ← *āvirṛjīkaḥ* ← *āvirṛjīka*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vidathā* \< *vidatha*
+- *vidathā* ← *vidatha*
 - \[noun\], accusative, plural, neuter
 - “meeting; wisdom; council.”
 ------------------------------------------------------------------------
-- *nicikyat* \< *nici* \< *√ci*
+- *nicikyat* ← *nici* ← *√ci*
 - \[verb noun\], nominative, singular
 - “notice.”
 ------------------------------------------------------------------------
-- *tiro* \< *tiras*
+- *tiro* ← *tiras*
 - \[adverb\]
 - “tiras \[word\]; away; secretly.”
 ------------------------------------------------------------------------
-- *aratim* \< *arati*
+- *aratim* ← *arati*
 - \[noun\], accusative, singular, masculine
 - “charioteer.”
 ------------------------------------------------------------------------
-- *pary* \< *pari*
+- *pary* ← *pari*
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *āpa* \< *āpe* \< *āp*
+- *āpa* ← *āpe* ← *āp*
 - \[verb\], singular, Perfect indicative
 - “enter (a state); get; reach; obtain; equal.”
 ------------------------------------------------------------------------
-- *āyoḥ* \< *āyu*
+- *āyoḥ* ← *āyu*
 - \[noun\], ablative, singular, masculine
 ------------------------------------------------------------------------

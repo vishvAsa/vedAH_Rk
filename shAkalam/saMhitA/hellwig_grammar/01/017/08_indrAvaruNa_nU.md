@@ -6,7 +6,7 @@ title = "Rig Veda 1.17.8"
 - \[noun\], vocative, singular, masculine
 - “Varuna; Indra.”
 ------------------------------------------------------------------------
-- *nū* \< *nu*
+- *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
@@ -14,15 +14,15 @@ title = "Rig Veda 1.17.8"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *siṣāsantīṣu* \< *siṣās* \< *√san*
+- *siṣāsantīṣu* ← *siṣās* ← *√san*
 - \[verb noun\], locative, plural
 - “win; gain.”
 ------------------------------------------------------------------------
-- *dhīṣv* \< *dhīṣu* \< *dhī*
+- *dhīṣv* ← *dhīṣu* ← *dhī*
 - \[noun\], locative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
@@ -31,15 +31,15 @@ title = "Rig Veda 1.17.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *asmabhyaṃ* \< *asmabhyam* \< *mad*
+- *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *yacchatam* \< *yam*
+- *yacchatam* ← *yam*
 - \[verb\], dual, Present imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------

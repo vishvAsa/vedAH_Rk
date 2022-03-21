@@ -6,47 +6,47 @@ title = "Rig Veda 9.97.4"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *gāyatābhy* \< *gāyata* \< *gā*
+- *gāyatābhy* ← *gāyata* ← *gā*
 - \[verb\], plural, Present imperative
 - “sing; praise; jap; recite; describe.”
 ------------------------------------------------------------------------
-- *gāyatābhy* \< *abhi*
+- *gāyatābhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *arcāma* \< *arc*
+- *arcāma* ← *arc*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *devān* \< *deva*
+- *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *somaṃ* \< *somam* \< *soma*
+- *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *hinota* \< *hi*
+- *hinota* ← *hi*
 - \[verb\], plural, Present imperative
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
-- *mahate* \< *mahat*
+- *mahate* ← *mahat*
 - \[noun\], dative, singular, neuter
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
 ------------------------------------------------------------------------
-- *dhanāya* \< *dhana*
+- *dhanāya* ← *dhana*
 - \[noun\], dative, singular, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
 ------------------------------------------------------------------------
-- *svāduḥ* \< *svādu*
+- *svāduḥ* ← *svādu*
 - \[noun\], nominative, singular, masculine
 - “Madhura; sweet; sweet; dainty; agreeable.”
 ------------------------------------------------------------------------
-- *pavāte* \< *pū*
+- *pavāte* ← *pū*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
@@ -54,31 +54,31 @@ title = "Rig Veda 9.97.4"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *vāram* \< *vāra*
+- *vāram* ← *vāra*
 - \[noun\], accusative, singular, masculine
 - “strainer.”
 ------------------------------------------------------------------------
-- *avyam* \< *avya*
+- *avyam* ← *avya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sīdāti* \< *sad*
+- *sīdāti* ← *sad*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *kalaśaṃ* \< *kalaśam* \< *kalaśa*
+- *kalaśaṃ* ← *kalaśam* ← *kalaśa*
 - \[noun\], accusative, singular, masculine
 - “jar.”
 ------------------------------------------------------------------------
-- *devayur* \< *devayuḥ* \< *devayu*
+- *devayur* ← *devayuḥ* ← *devayu*
 - \[noun\], nominative, singular, masculine
 - “devout; devoted.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------

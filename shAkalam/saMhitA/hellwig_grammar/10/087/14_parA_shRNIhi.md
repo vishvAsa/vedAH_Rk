@@ -6,68 +6,68 @@ title = "Rig Veda 10.87.14"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *śṛṇīhi* \< *śṛ*
+- *śṛṇīhi* ← *śṛ*
 - \[verb\], singular, Present imperative
 - “fall off; break; disintegrate; crush; break; fracture.”
 ------------------------------------------------------------------------
-- *tapasā* \< *tapas*
+- *tapasā* ← *tapas*
 - \[noun\], instrumental, singular, neuter
 - “penance; heat; Tapoloka; tapas \[word\]; ardor; austerity; summer;
     heat.”
 ------------------------------------------------------------------------
-- *yātudhānān* \< *yātudhāna*
+- *yātudhānān* ← *yātudhāna*
 - \[noun\], accusative, plural, masculine
 - “sorcerer; Rākṣasa; Yātudhāna; rākṣasavaktravant.”
 ------------------------------------------------------------------------
-- *parāgne* \< *parā*
+- *parāgne* ← *parā*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *parāgne* \< *agne* \< *agni*
+- *parāgne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *rakṣo* \< *rakṣaḥ* \< *rakṣas*
+- *rakṣo* ← *rakṣaḥ* ← *rakṣas*
 - \[noun\], accusative, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
 ------------------------------------------------------------------------
-- *harasā* \< *haras*
+- *harasā* ← *haras*
 - \[noun\], instrumental, singular, neuter
 - “fire; fury; grip; capture.”
 ------------------------------------------------------------------------
-- *śṛṇīhi* \< *śṛ*
+- *śṛṇīhi* ← *śṛ*
 - \[verb\], singular, Present imperative
 - “fall off; break; disintegrate; crush; break; fracture.”
 ------------------------------------------------------------------------
-- *parārciṣā* \< *parā*
+- *parārciṣā* ← *parā*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *parārciṣā* \< *arciṣā* \< *arcis*
+- *parārciṣā* ← *arciṣā* ← *arcis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; light; beam; gleam; shininess.”
 ------------------------------------------------------------------------
-- *mūradevāñchṛṇīhi* \< *mūradevān* \< *mūradeva*
+- *mūradevāñchṛṇīhi* ← *mūradevān* ← *mūradeva*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *mūradevāñchṛṇīhi* \< *śṛṇīhi* \< *śṛ*
+- *mūradevāñchṛṇīhi* ← *śṛṇīhi* ← *śṛ*
 - \[verb\], singular, Present imperative
 - “fall off; break; disintegrate; crush; break; fracture.”
 ------------------------------------------------------------------------
-- *parāsutṛpo* \< *parā*
+- *parāsutṛpo* ← *parā*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *parāsutṛpo* \< *asutṛpaḥ* \< *asutṛp*
+- *parāsutṛpo* ← *asutṛpaḥ* ← *asutṛp*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
 - *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *śośucānaḥ* \< *śośuc* \< *√śuc*
+- *śośucānaḥ* ← *śośuc* ← *√śuc*
 - \[verb noun\], nominative, singular
 - “blaze.”
 ------------------------------------------------------------------------

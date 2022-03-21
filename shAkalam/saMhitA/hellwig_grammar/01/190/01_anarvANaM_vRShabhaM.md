@@ -2,68 +2,68 @@
 title = "Rig Veda 1.190.1"
 
 +++
--   *anarvāṇaṃ* \< *anarvāṇam* \< *anarvan*
+-   *anarvāṇaṃ* ← *anarvāṇam* ← *anarvan*
 - \[noun\], accusative, singular, masculine
 - “unchallenged; unrivaled.”
 ------------------------------------------------------------------------
-- *vṛṣabham* \< *vṛṣabha*
+- *vṛṣabham* ← *vṛṣabha*
 - \[noun\], accusative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *mandrajihvam* \< *mandra*
+- *mandrajihvam* ← *mandra*
 - \[noun\]
 - “pleasant; eloquent; dulcet.”
 ------------------------------------------------------------------------
-- *mandrajihvam* \< *jihvam* \< *jihvā*
+- *mandrajihvam* ← *jihvam* ← *jihvā*
 - \[noun\], accusative, singular, masculine
 - “tongue; tongue; jihvā \[word\]; fire.”
 ------------------------------------------------------------------------
-- *bṛhaspatiṃ* \< *bṛhaspatim* \< *bṛhaspati*
+- *bṛhaspatiṃ* ← *bṛhaspatim* ← *bṛhaspati*
 - \[noun\], accusative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *vardhayā* \< *vardhaya* \< *vardhay* \< *√vṛdh*
+- *vardhayā* ← *vardhaya* ← *vardhay* ← *√vṛdh*
 - \[verb\], singular, Present imperative
 - “increase; strengthen; promote; rear; add; greet; laud.”
 ------------------------------------------------------------------------
-- *navyam* \< *navya*
+- *navyam* ← *navya*
 - \[noun\], accusative, singular, masculine
 - “new; fresh.”
 ------------------------------------------------------------------------
-- *arkaiḥ* \< *arka*
+- *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *gāthānyaḥ* \< *gāthānī*
+- *gāthānyaḥ* ← *gāthānī*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *suruco* \< *su*
+- *suruco* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suruco* \< *rucaḥ* \< *ruc*
+- *suruco* ← *rucaḥ* ← *ruc*
 - \[noun\], genitive, singular, masculine
 - “beam; radiance; color.”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *āśṛṇvanti* \< *āśru* \< *√śru*
+- *āśṛṇvanti* ← *āśru* ← *√śru*
 - \[verb\], plural, Present indikative
 - “listen; hear.”
 ------------------------------------------------------------------------
-- *navamānasya* \< *nū*
+- *navamānasya* ← *nū*
 - \[verb noun\], genitive, singular
 - “praise; shout.”
 ------------------------------------------------------------------------
-- *martāḥ* \< *marta*
+- *martāḥ* ← *marta*
 - \[noun\], nominative, plural, masculine
 - “man.”
 ------------------------------------------------------------------------

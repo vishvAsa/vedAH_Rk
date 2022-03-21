@@ -2,11 +2,11 @@
 title = "Rig Veda 1.51.5"
 
 +++
--   *tvam* \< *tvad*
+-   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *māyābhir* \< *māyābhiḥ* \< *māyā*
+- *māyābhir* ← *māyābhiḥ* ← *māyā*
 - \[noun\], instrumental, plural, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
@@ -15,20 +15,20 @@ title = "Rig Veda 1.51.5"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *māyino* \< *māyinaḥ* \< *māyin*
+- *māyino* ← *māyinaḥ* ← *māyin*
 - \[noun\], accusative, plural, masculine
 - “artful; charming; crafty; deceptive.”
 ------------------------------------------------------------------------
-- *'dhamaḥ* \< *adhamaḥ* \< *dham*
+- *'dhamaḥ* ← *adhamaḥ* ← *dham*
 - \[verb\], singular, Imperfect
 - “heat; blow; fan; blow; ignite; blow; inflate.”
 ------------------------------------------------------------------------
-- *svadhābhir* \< *svadhābhiḥ* \< *svadhā*
+- *svadhābhir* ← *svadhābhiḥ* ← *svadhā*
 - \[noun\], instrumental, plural, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -36,29 +36,29 @@ title = "Rig Veda 1.51.5"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *śuptāv* \< *śuptau* \< *śupti*
+- *śuptāv* ← *śuptau* ← *śupti*
 - \[noun\], locative, singular, feminine
 - “shoulder.”
 ------------------------------------------------------------------------
-- *ajuhvata* \< *hu*
+- *ajuhvata* ← *hu*
 - \[verb\], plural, Imperfect
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *pipror* \< *piproḥ* \< *pipru*
+- *pipror* ← *piproḥ* ← *pipru*
 - \[noun\], genitive, singular, masculine
 - “Pipru.”
 ------------------------------------------------------------------------
-- *nṛmaṇaḥ* \< *nṛmaṇas*
+- *nṛmaṇaḥ* ← *nṛmaṇas*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *prārujaḥ* \< *praruj* \< *√ruj*
+- *prārujaḥ* ← *praruj* ← *√ruj*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *puraḥ* \< *pur*
+- *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
@@ -66,19 +66,19 @@ title = "Rig Veda 1.51.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ṛjiśvānaṃ* \< *ṛjiśvānam* \< *ṛjiśvan*
+- *ṛjiśvānaṃ* ← *ṛjiśvānam* ← *ṛjiśvan*
 - \[noun\], accusative, singular, masculine
 - “Ṛjiśvan.”
 ------------------------------------------------------------------------
-- *dasyuhatyeṣv* \< *dasyu*
+- *dasyuhatyeṣv* ← *dasyu*
 - \[noun\], masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
-- *dasyuhatyeṣv* \< *hatyeṣu* \< *hatya*
+- *dasyuhatyeṣv* ← *hatyeṣu* ← *hatya*
 - \[noun\], locative, plural, neuter
 - “killing.”
 ------------------------------------------------------------------------
-- *āvitha* \< *av*
+- *āvitha* ← *av*
 - \[verb\], singular, Perfect indicative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------

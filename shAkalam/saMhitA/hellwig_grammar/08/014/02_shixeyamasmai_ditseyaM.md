@@ -2,38 +2,38 @@
 title = "Rig Veda 8.14.2"
 
 +++
--   *śikṣeyam* \< *śikṣ*
+-   *śikṣeyam* ← *śikṣ*
 - \[verb\], singular, Present optative
 - “help; give.”
 ------------------------------------------------------------------------
-- *asmai* \< *idam*
+- *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ditseyaṃ* \< *ditseyam* \< *dits* \< *√dā*
+- *ditseyaṃ* ← *ditseyam* ← *dits* ← *√dā*
 - \[verb\], singular, Present optative
 ------------------------------------------------------------------------
-- *śacīpate* \< *śacīpati*
+- *śacīpate* ← *śacīpati*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *manīṣiṇe* \< *manīṣin*
+- *manīṣiṇe* ← *manīṣin*
 - \[noun\], dative, singular, masculine
 - “sage; expert; devout.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *ahaṃ* \< *aham* \< *mad*
+- *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *gopatiḥ* \< *gopati*
+- *gopatiḥ* ← *gopati*
 - \[noun\], nominative, singular, masculine
 - “Shiva; bull; cowboy; Indra; Gopati; king.”
 ------------------------------------------------------------------------
-- *syām* \< *as*
+- *syām* ← *as*
 - \[verb\], singular, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

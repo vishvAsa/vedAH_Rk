@@ -2,7 +2,7 @@
 title = "Rig Veda 1.152.2"
 
 +++
--   *etac* \< *etat* \< *etad*
+-   *etac* ← *etat* ← *etad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
@@ -10,7 +10,7 @@ title = "Rig Veda 1.152.2"
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *tvo* \< *tvaḥ* \< *tva*
+- *tvo* ← *tvaḥ* ← *tva*
 - \[noun\], nominative, singular, masculine
 - “many a(a); one.”
 ------------------------------------------------------------------------
@@ -18,65 +18,65 @@ title = "Rig Veda 1.152.2"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ciketad* \< *ciketat* \< *cit*
+- *ciketad* ← *ciketat* ← *cit*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *eṣāṃ* \< *eṣām* \< *idam*
+- *eṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *satyo* \< *satyaḥ* \< *satya*
+- *satyo* ← *satyaḥ* ← *satya*
 - \[noun\], nominative, singular, masculine
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *mantraḥ* \< *mantra*
+- *mantraḥ* ← *mantra*
 - \[noun\], nominative, singular, masculine
 - “mantra; Mantra; consultation; advice; consultation; mantra
     \[word\]; speech; plan.”
 ------------------------------------------------------------------------
-- *kaviśasta* \< *kavi*
+- *kaviśasta* ← *kavi*
 - \[noun\], masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *kaviśasta* \< *śastaḥ* \< *śaṃs*
+- *kaviśasta* ← *śastaḥ* ← *śaṃs*
 - \[verb noun\], nominative, singular
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
 ------------------------------------------------------------------------
-- *ṛghāvān* \< *ṛghāvat*
+- *ṛghāvān* ← *ṛghāvat*
 - \[noun\], nominative, singular, masculine
 - “baleful.”
 ------------------------------------------------------------------------
-- *triraśriṃ* \< *triraśrim* \< *triraśri*
+- *triraśriṃ* ← *triraśrim* ← *triraśri*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *hanti* \< *han*
+- *hanti* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *caturaśrir* \< *catur*
+- *caturaśrir* ← *catur*
 - \[noun\]
 - “four; catur \[word\].”
 ------------------------------------------------------------------------
-- *caturaśrir* \< *aśriḥ* \< *asra*
+- *caturaśrir* ← *aśriḥ* ← *asra*
 - \[noun\], nominative, singular, masculine
 - “blood; corner; tear.”
 ------------------------------------------------------------------------
-- *ugro* \< *ugraḥ* \< *ugra*
+- *ugro* ← *ugraḥ* ← *ugra*
 - \[noun\], nominative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *devanido* \< *deva*
+- *devanido* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devanido* \< *nidaḥ* \< *nid*
+- *devanido* ← *nidaḥ* ← *nid*
 - \[noun\], nominative, plural, masculine
 - “derision; scoffer; contempt.”
 ------------------------------------------------------------------------
@@ -84,12 +84,12 @@ title = "Rig Veda 1.152.2"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *prathamā* \< *prathamāḥ* \< *prathama*
+- *prathamā* ← *prathamāḥ* ← *prathama*
 - \[noun\], nominative, plural, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
 ------------------------------------------------------------------------
-- *ajūryan* \< *jṛ*
+- *ajūryan* ← *jṛ*
 - \[verb\], plural, Imperfect
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
 ------------------------------------------------------------------------

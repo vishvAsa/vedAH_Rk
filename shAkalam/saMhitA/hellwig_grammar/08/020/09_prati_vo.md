@@ -6,45 +6,45 @@ title = "Rig Veda 8.20.9"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *vṛṣadañjayo* \< *vṛṣat* \< *vṛṣ*
+- *vṛṣadañjayo* ← *vṛṣat* ← *vṛṣ*
 - \[verb noun\]
 - “shower; rain; effuse; shower; drench.”
 ------------------------------------------------------------------------
-- *vṛṣadañjayo* \< *añjayaḥ* \< *añji*
+- *vṛṣadañjayo* ← *añjayaḥ* ← *añji*
 - \[noun\], nominative, plural, masculine
 - “color; ointment; adornment.”
 ------------------------------------------------------------------------
-- *vṛṣṇe* \< *vṛṣan*
+- *vṛṣṇe* ← *vṛṣan*
 - \[noun\], dative, singular, masculine
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
 ------------------------------------------------------------------------
-- *śardhāya* \< *śardha*
+- *śardhāya* ← *śardha*
 - \[noun\], dative, singular, masculine
 - “troop.”
 ------------------------------------------------------------------------
-- *mārutāya* \< *māruta*
+- *mārutāya* ← *māruta*
 - \[noun\], dative, singular, masculine
 - “Marut(a).”
 ------------------------------------------------------------------------
-- *bharadhvam* \< *bhṛ*
+- *bharadhvam* ← *bhṛ*
 - \[verb\], plural, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *havyā* \< *havya*
+- *havyā* ← *havya*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *vṛṣaprayāvṇe* \< *vṛṣa* \< *vṛṣan*
+- *vṛṣaprayāvṇe* ← *vṛṣa* ← *vṛṣan*
 - \[noun\], masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *vṛṣaprayāvṇe* \< *prayāvṇe* \< *prayāvan*
+- *vṛṣaprayāvṇe* ← *prayāvṇe* ← *prayāvan*
 - \[noun\], dative, singular, masculine
 - “traveling.”
 ------------------------------------------------------------------------

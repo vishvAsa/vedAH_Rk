@@ -2,7 +2,7 @@
 title = "Rig Veda 8.84.7"
 
 +++
--   *kasya* \< *ka*
+-   *kasya* ← *ka*
 - \[noun\], genitive, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -10,35 +10,35 @@ title = "Rig Veda 8.84.7"
 - \[adverb\]
 - “now; surely; immediately; just.”
 ------------------------------------------------------------------------
-- *parīṇaso* \< *parīṇasaḥ* \< *parīṇas*
+- *parīṇaso* ← *parīṇasaḥ* ← *parīṇas*
 - \[noun\], genitive, singular, masculine
 - “plenty.”
 ------------------------------------------------------------------------
-- *dhiyo* \< *dhiyaḥ* \< *dhī*
+- *dhiyo* ← *dhiyaḥ* ← *dhī*
 - \[noun\], accusative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *jinvasi* \< *jinv*
+- *jinvasi* ← *jinv*
 - \[verb\], singular, Present indikative
 - “enliven; animate.”
 ------------------------------------------------------------------------
-- *dampate* \< *dampati*
+- *dampate* ← *dampati*
 - \[noun\], vocative, singular, masculine
 - “couple.”
 ------------------------------------------------------------------------
-- *goṣātā* \< *goṣāti*
+- *goṣātā* ← *goṣāti*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *giraḥ* \< *gir*
+- *giraḥ* ← *gir*
 - \[noun\], nominative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”

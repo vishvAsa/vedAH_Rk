@@ -6,25 +6,25 @@ title = "Rig Veda 1.162.20"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tapat* \< *tap*
+- *tapat* ← *tap*
 - \[verb\], singular, Present injunctive
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
 ------------------------------------------------------------------------
-- *priya* \< *priyaḥ* \< *priya*
+- *priya* ← *priyaḥ* ← *priya*
 - \[noun\], nominative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *ātmāpiyantam* \< *ātmā* \< *ātman*
+- *ātmāpiyantam* ← *ātmā* ← *ātman*
 - \[noun\], nominative, singular, masculine
 - “self; nature; Ātman; mind; soul; self; body; character; ātman
     \[word\]; person; life; peculiarity.”
 ------------------------------------------------------------------------
-- *ātmāpiyantam* \< *apiyantam* \< *apī* \< *√i*
+- *ātmāpiyantam* ← *apiyantam* ← *apī* ← *√i*
 - \[verb noun\], accusative, singular
 - “repair to; approach.”
 ------------------------------------------------------------------------
@@ -32,11 +32,11 @@ title = "Rig Veda 1.162.20"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *svadhitis* \< *svadhitiḥ* \< *svadhiti*
+- *svadhitis* ← *svadhitiḥ* ← *svadhiti*
 - \[noun\], nominative, singular, feminine
 - “ax; knife.”
 ------------------------------------------------------------------------
-- *tanva* \< *tanve* \< *tanū*
+- *tanva* ← *tanve* ← *tanū*
 - \[noun\], dative, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
@@ -44,12 +44,12 @@ title = "Rig Veda 1.162.20"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tiṣṭhipat* \< *sthāpay* \< *√sthā*
+- *tiṣṭhipat* ← *sthāpay* ← *√sthā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “put; fill into; soak; stow; fixate; install; explain; set;
     construct; tie.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -57,35 +57,35 @@ title = "Rig Veda 1.162.20"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *gṛdhnur* \< *gṛdhnuḥ* \< *gṛdhnu*
+- *gṛdhnur* ← *gṛdhnuḥ* ← *gṛdhnu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *aviśastātihāya* \< *aviśastā* \< *aviśastṛ*
+- *aviśastātihāya* ← *aviśastā* ← *aviśastṛ*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *aviśastātihāya* \< *atihāya* \< *atihā* \< *√hā*
+- *aviśastātihāya* ← *atihāya* ← *atihā* ← *√hā*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *chidrā* \< *chidra*
+- *chidrā* ← *chidra*
 - \[noun\], accusative, plural, neuter
 - “pierced.”
 ------------------------------------------------------------------------
-- *gātrāṇy* \< *gātrāṇi* \< *gātra*
+- *gātrāṇy* ← *gātrāṇi* ← *gātra*
 - \[noun\], accusative, plural, neuter
 - “body part; body; limb; part; largeness.”
 ------------------------------------------------------------------------
-- *asinā* \< *asi*
+- *asinā* ← *asi*
 - \[noun\], instrumental, singular, masculine
 - “sword; knife; knife.”
 ------------------------------------------------------------------------
 - *mithū*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *kaḥ* \< *kṛ*
+- *kaḥ* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

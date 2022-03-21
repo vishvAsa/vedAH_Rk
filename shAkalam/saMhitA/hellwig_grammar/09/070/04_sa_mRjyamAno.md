@@ -2,25 +2,25 @@
 title = "Rig Veda 9.70.4"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *mṛjyamāno* \< *mṛjyamānaḥ* \< *mṛj*
+- *mṛjyamāno* ← *mṛjyamānaḥ* ← *mṛj*
 - \[verb noun\], nominative, singular
 - “purify; polish; rub; remove.”
 ------------------------------------------------------------------------
-- *daśabhiḥ* \< *daśan*
+- *daśabhiḥ* ← *daśan*
 - \[noun\], instrumental, plural, feminine
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *sukarmabhiḥ* \< *su*
+- *sukarmabhiḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukarmabhiḥ* \< *karmabhiḥ* \< *karman*
+- *sukarmabhiḥ* ← *karmabhiḥ* ← *karman*
 - \[noun\], instrumental, plural, feminine
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
     function; production; job; operation; karman \[word\]; act; job;
@@ -32,17 +32,17 @@ title = "Rig Veda 9.70.4"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *madhyamāsu* \< *madhyama*
+- *madhyamāsu* ← *madhyama*
 - \[noun\], locative, plural, feminine
 - “intermediate; middle; average; second; average; adult; central;
     moderate; mean; center(a).”
 ------------------------------------------------------------------------
-- *mātṛṣu* \< *mātṛ*
+- *mātṛṣu* ← *mātṛ*
 - \[noun\], locative, plural, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *prame* \< *pramā* \< *√mā*
+- *prame* ← *pramā* ← *√mā*
 - \[verb noun\]
 - “measure; weigh; last.”
 ------------------------------------------------------------------------
@@ -50,33 +50,33 @@ title = "Rig Veda 9.70.4"
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *vratāni* \< *vrata*
+- *vratāni* ← *vrata*
 - \[noun\], accusative, plural, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *pāno* \< *pānaḥ* \< *pā*
+- *pāno* ← *pānaḥ* ← *pā*
 - \[verb noun\], nominative, singular
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *amṛtasya* \< *amṛta*
+- *amṛtasya* ← *amṛta*
 - \[noun\], genitive, singular, neuter
 - “amṛta; immortality; vatsanābha; ambrosia; mercury; medicine;
     vighasa; calcium hydroxide.”
 ------------------------------------------------------------------------
-- *cāruṇa* \< *cāruṇaḥ* \< *cāru*
+- *cāruṇa* ← *cāruṇaḥ* ← *cāru*
 - \[noun\], genitive, singular, neuter
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
 ------------------------------------------------------------------------
-- *ubhe* \< *ubh*
+- *ubhe* ← *ubh*
 - \[noun\], accusative, dual, feminine
 - “both(a).”
 ------------------------------------------------------------------------
-- *nṛcakṣā* \< *nṛ*
+- *nṛcakṣā* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nṛcakṣā* \< *cakṣāḥ* \< *cakṣas*
+- *nṛcakṣā* ← *cakṣāḥ* ← *cakṣas*
 - \[noun\], nominative, singular, masculine
 - “eye; look; radiance.”
 ------------------------------------------------------------------------
@@ -84,12 +84,12 @@ title = "Rig Veda 9.70.4"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *paśyate* \< *paś*
+- *paśyate* ← *paś*
 - \[verb\], singular, Present indikative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *viśau* \< *viś*
+- *viśau* ← *viś*
 - \[noun\], accusative, dual, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------

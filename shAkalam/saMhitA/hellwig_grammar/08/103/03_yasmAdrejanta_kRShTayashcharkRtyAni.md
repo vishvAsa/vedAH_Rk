@@ -2,23 +2,23 @@
 title = "Rig Veda 8.103.3"
 
 +++
--   *yasmād* \< *yasmāt* \< *yad*
+-   *yasmād* ← *yasmāt* ← *yad*
 - \[noun\], ablative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *rejanta* \< *rej*
+- *rejanta* ← *rej*
 - \[verb\], plural, Present injunctive
 - “tremor; flicker.”
 ------------------------------------------------------------------------
-- *kṛṣṭayaś* \< *kṛṣṭayaḥ* \< *kṛṣṭi*
+- *kṛṣṭayaś* ← *kṛṣṭayaḥ* ← *kṛṣṭi*
 - \[noun\], nominative, plural, feminine
 - “people; citizenry.”
 ------------------------------------------------------------------------
-- *carkṛtyāni* \< *carkar* \< *√kṛ*
+- *carkṛtyāni* ← *carkar* ← *√kṛ*
 - \[verb noun\], accusative, plural
 - “praise; commemorate.”
 ------------------------------------------------------------------------
-- *kṛṇvataḥ* \< *kṛ*
+- *kṛṇvataḥ* ← *kṛ*
 - \[verb noun\], ablative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -29,19 +29,19 @@ title = "Rig Veda 8.103.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *sahasrasām* \< *sahasra*
+- *sahasrasām* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasrasām* \< *sām* \< *sā*
+- *sahasrasām* ← *sām* ← *sā*
 - \[noun\], accusative, singular, masculine
 - “winning.”
 ------------------------------------------------------------------------
-- *medhasātāv* \< *medha*
+- *medhasātāv* ← *medha*
 - \[noun\], masculine
 - “yajña; juice.”
 ------------------------------------------------------------------------
-- *medhasātāv* \< *sātau* \< *sāti*
+- *medhasātāv* ← *sātau* ← *sāti*
 - \[noun\], locative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------
@@ -49,22 +49,22 @@ title = "Rig Veda 8.103.3"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *tmanāgniṃ* \< *tmanā* \< *tman*
+- *tmanāgniṃ* ← *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
 ------------------------------------------------------------------------
-- *tmanāgniṃ* \< *agnim* \< *agni*
+- *tmanāgniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *dhībhiḥ* \< *dhī*
+- *dhībhiḥ* ← *dhī*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *saparyata* \< *sapary*
+- *saparyata* ← *sapary*
 - \[verb\], plural, Present imperative
 - “worship.”
 ------------------------------------------------------------------------

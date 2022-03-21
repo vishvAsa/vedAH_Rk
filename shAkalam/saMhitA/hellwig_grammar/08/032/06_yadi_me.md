@@ -6,19 +6,19 @@ title = "Rig Veda 8.32.6"
 - \[adverb\]
 - “if; in case.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rāraṇaḥ* \< *ran*
+- *rāraṇaḥ* ← *ran*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “rejoice.”
 ------------------------------------------------------------------------
-- *suta* \< *sute* \< *suta*
+- *suta* ← *sute* ← *suta*
 - \[noun\], locative, singular, masculine
 - “Soma.”
 ------------------------------------------------------------------------
-- *ukthe* \< *uktha*
+- *ukthe* ← *uktha*
 - \[noun\], locative, singular, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
@@ -26,16 +26,16 @@ title = "Rig Veda 8.32.6"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *dadhase* \< *dhā*
+- *dadhase* ← *dhā*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *canaḥ* \< *canas*
+- *canaḥ* ← *canas*
 - \[noun\], accusative, singular, neuter
 - “delight.”
 ------------------------------------------------------------------------
-- *ārād* \< *ārāt*
+- *ārād* ← *ārāt*
 - \[adverb\]
 - “far; ārāt \[word\].”
 ------------------------------------------------------------------------
@@ -48,7 +48,7 @@ title = "Rig Veda 8.32.6"
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
 ------------------------------------------------------------------------
-- *gahi* \< *gam*
+- *gahi* ← *gam*
 - \[verb\], singular, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

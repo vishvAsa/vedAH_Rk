@@ -2,7 +2,7 @@
 title = "Rig Veda 8.97.2"
 
 +++
--   *yam* \< *yad*
+-   *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -11,58 +11,58 @@ title = "Rig Veda 8.97.2"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dadhiṣe* \< *dhā*
+- *dadhiṣe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *aśvaṃ* \< *aśvam* \< *aśva*
+- *aśvaṃ* ← *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *gām* \< *go*
+- *gām* ← *go*
 - \[noun\], accusative, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *bhāgam* \< *bhāga*
+- *bhāgam* ← *bhāga*
 - \[noun\], accusative, singular, masculine
 - “part; part; part; parcel; quarter; body part; location; region;
     allotment; part; numerator; division; application; function;
     outside; bhāga \[word\]; volume; helping.”
 ------------------------------------------------------------------------
-- *avyayam* \< *avyaya*
+- *avyayam* ← *avyaya*
 - \[noun\], accusative, singular, masculine
 - “imperishable.”
 ------------------------------------------------------------------------
-- *yajamāne* \< *yaj*
+- *yajamāne* ← *yaj*
 - \[verb noun\], locative, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *sunvati* \< *su*
+- *sunvati* ← *su*
 - \[verb noun\], locative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *dakṣiṇāvati* \< *dakṣiṇāvat*
+- *dakṣiṇāvati* ← *dakṣiṇāvat*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *tasmin* \< *tad*
+- *tasmin* ← *tad*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *taṃ* \< *tam* \< *tad*
+- *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *dhehi* \< *dhā*
+- *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
@@ -71,7 +71,7 @@ title = "Rig Veda 8.97.2"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *paṇau* \< *paṇi*
+- *paṇau* ← *paṇi*
 - \[noun\], locative, singular, masculine
 - “niggard; paṇ.”
 ------------------------------------------------------------------------

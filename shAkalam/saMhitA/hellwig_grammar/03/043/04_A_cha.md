@@ -10,80 +10,80 @@ title = "Rig Veda 3.43.4"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *tvām* \< *tvad*
+- *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *etā* \< *etad*
+- *etā* ← *etad*
 - \[noun\], nominative, dual, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *vṛṣaṇā* \< *vṛṣan*
+- *vṛṣaṇā* ← *vṛṣan*
 - \[noun\], nominative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *vahāto* \< *vahātaḥ* \< *vah*
+- *vahāto* ← *vahātaḥ* ← *vah*
 - \[verb\], dual, Present conjunctive (subjunctive)
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *harī* \< *hari*
+- *harī* ← *hari*
 - \[noun\], nominative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *sakhāyā* \< *sakhi*
+- *sakhāyā* ← *sakhi*
 - \[noun\], nominative, dual, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *sudhurā* \< *su*
+- *sudhurā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudhurā* \< *dhurā* \< *dhur*
+- *sudhurā* ← *dhurā* ← *dhur*
 - \[noun\], nominative, dual, masculine
 - “yoke; dhur \[word\].”
 ------------------------------------------------------------------------
-- *svaṅgā* \< *su*
+- *svaṅgā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svaṅgā* \< *aṅgā* \< *aṅga*
+- *svaṅgā* ← *aṅgā* ← *aṅga*
 - \[noun\], nominative, dual, masculine
 - “body part; body; part; limb; extremity; Vedāṅga; section; root;
     army unit; aṅga \[word\]; subsection; aṅgamantra; part; body;
     ingredient.”
 ------------------------------------------------------------------------
-- *dhānāvad* \< *dhānāvat*
+- *dhānāvad* ← *dhānāvat*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *savanaṃ* \< *savanam* \< *savana*
+- *savanaṃ* ← *savanam* ← *savana*
 - \[noun\], accusative, singular, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
-- *juṣāṇaḥ* \< *juṣ*
+- *juṣāṇaḥ* ← *juṣ*
 - \[verb noun\], nominative, singular
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *sakhā* \< *sakhi*
+- *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *sakhyuḥ* \< *sakhi*
+- *sakhyuḥ* ← *sakhi*
 - \[noun\], genitive, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *śṛṇavad* \< *śṛṇavat* \< *śru*
+- *śṛṇavad* ← *śṛṇavat* ← *śru*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *vandanāni* \< *vandana*
+- *vandanāni* ← *vandana*
 - \[noun\], accusative, plural, neuter
 - “worship; skin disease.”
 ------------------------------------------------------------------------

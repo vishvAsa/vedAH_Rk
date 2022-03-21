@@ -2,7 +2,7 @@
 title = "Rig Veda 1.173.9"
 
 +++
--   *asāma* \< *as*
+-   *asāma* ← *as*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -11,27 +11,27 @@ title = "Rig Veda 1.173.9"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *suṣakhāya* \< *su*
+- *suṣakhāya* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suṣakhāya* \< *sakhāyaḥ* \< *sakhi*
+- *suṣakhāya* ← *sakhāyaḥ* ← *sakhi*
 - \[noun\], nominative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *ena* \< *enā* \< *idam*
+- *ena* ← *enā* ← *idam*
 - \[noun\], instrumental, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *svabhiṣṭayo* \< *su*
+- *svabhiṣṭayo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svabhiṣṭayo* \< *abhiṣṭayaḥ* \< *abhiṣṭi*
+- *svabhiṣṭayo* ← *abhiṣṭayaḥ* ← *abhiṣṭi*
 - \[noun\], nominative, plural, masculine
 - “prevalence; protection.”
 ------------------------------------------------------------------------
-- *narāṃ* \< *narām* \< *nṛ*
+- *narāṃ* ← *narām* ← *nṛ*
 - \[noun\], genitive, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
@@ -39,11 +39,11 @@ title = "Rig Veda 1.173.9"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śaṃsaiḥ* \< *śaṃsa*
+- *śaṃsaiḥ* ← *śaṃsa*
 - \[noun\], instrumental, plural, masculine
 - “praise; śaṃs; recitation.”
 ------------------------------------------------------------------------
-- *asad* \< *asat* \< *as*
+- *asad* ← *asat* ← *as*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -52,19 +52,19 @@ title = "Rig Veda 1.173.9"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vandaneṣṭhās* \< *vandaneṣṭhāḥ* \< *vandaneṣṭhā*
+- *vandaneṣṭhās* ← *vandaneṣṭhāḥ* ← *vandaneṣṭhā*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *turo* \< *turaḥ* \< *tura*
+- *turo* ← *turaḥ* ← *tura*
 - \[noun\], nominative, singular, masculine
 - “powerful; noble; noble.”
 ------------------------------------------------------------------------
@@ -72,7 +72,7 @@ title = "Rig Veda 1.173.9"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *karma* \< *karman*
+- *karma* ← *karman*
 - \[noun\], accusative, singular, neuter
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
     function; production; job; operation; karman \[word\]; act; job;
@@ -80,12 +80,12 @@ title = "Rig Veda 1.173.9"
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
 ------------------------------------------------------------------------
-- *nayamāna* \< *nayamānaḥ* \< *nī*
+- *nayamāna* ← *nayamānaḥ* ← *nī*
 - \[verb noun\], nominative, singular
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *ukthā* \< *uktha*
+- *ukthā* ← *uktha*
 - \[noun\], accusative, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------

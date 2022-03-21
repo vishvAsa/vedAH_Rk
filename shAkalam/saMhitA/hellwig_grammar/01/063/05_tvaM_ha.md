@@ -2,7 +2,7 @@
 title = "Rig Veda 1.63.5"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -10,45 +10,45 @@ title = "Rig Veda 1.63.5"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *tyad* \< *tya*
+- *tyad* ← *tya*
 - \[noun\], accusative, singular, neuter
 - “that.”
 ------------------------------------------------------------------------
-- *indrāriṣaṇyan* \< *indra*
+- *indrāriṣaṇyan* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrāriṣaṇyan* \< *a*
+- *indrāriṣaṇyan* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *indrāriṣaṇyan* \< *riṣaṇyan* \< *riṣaṇy* \< *√riṣ*
+- *indrāriṣaṇyan* ← *riṣaṇyan* ← *riṣaṇy* ← *√riṣ*
 - \[verb noun\], nominative, singular
 - “riṣaṇy \[verb\].”
 ------------------------------------------------------------------------
-- *dṛḍhasya* \< *dṛḍha*
+- *dṛḍhasya* ← *dṛḍha*
 - \[noun\], genitive, singular, masculine
 - “hard; intense; firm; fixed; resolute; mesomorphic; grim; dṛḍha
     \[word\]; rainproof; sturdy; shut; firm; insoluble; strong; tough;
     tight.”
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *martānām* \< *marta*
+- *martānām* ← *marta*
 - \[noun\], genitive, plural, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *ajuṣṭau* \< *ajuṣṭi*
+- *ajuṣṭau* ← *ajuṣṭi*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *asmad* \< *asmat* \< *mad*
+- *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -56,37 +56,37 @@ title = "Rig Veda 1.63.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *kāṣṭhā* \< *kāṣṭhāḥ* \< *kāṣṭhā*
+- *kāṣṭhā* ← *kāṣṭhāḥ* ← *kāṣṭhā*
 - \[noun\], accusative, plural, feminine
 - “kāṣṭhā; quarter; body of water.”
 ------------------------------------------------------------------------
-- *arvate* \< *arvant*
+- *arvate* ← *arvant*
 - \[noun\], dative, singular, masculine
 - “horse.”
 ------------------------------------------------------------------------
-- *var* \< *vṛ*
+- *var* ← *vṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *ghaneva* \< *ghanā* \< *ghana*
+- *ghaneva* ← *ghanā* ← *ghana*
 - \[noun\], instrumental, singular, neuter
 - “abhra; cloud; hammer; ghana; hammer; rainy season; tin; iron; ghana
     \[word\]; ghana; nutgrass; ball; phlegm.”
 ------------------------------------------------------------------------
-- *ghaneva* \< *iva*
+- *ghaneva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *vajriñchnathihy* \< *vajrin*
+- *vajriñchnathihy* ← *vajrin*
 - \[noun\], vocative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
 ------------------------------------------------------------------------
-- *vajriñchnathihy* \< *śnathihi* \< *śnath*
+- *vajriñchnathihy* ← *śnathihi* ← *śnath*
 - \[verb\], singular, Present imperative
 - “pierce; kill.”
 ------------------------------------------------------------------------
-- *amitrān* \< *amitra*
+- *amitrān* ← *amitra*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe.”
 ------------------------------------------------------------------------

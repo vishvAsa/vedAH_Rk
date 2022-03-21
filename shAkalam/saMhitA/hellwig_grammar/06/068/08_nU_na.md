@@ -2,34 +2,34 @@
 title = "Rig Veda 6.68.8"
 
 +++
--   *nū* \< *nu*
+-   *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *indrāvaruṇā* \< *indrāvaruṇa*
+- *indrāvaruṇā* ← *indrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Indra.”
 ------------------------------------------------------------------------
-- *gṛṇānā* \< *gṛ*
+- *gṛṇānā* ← *gṛ*
 - \[verb noun\], nominative, dual
 - “praise.”
 ------------------------------------------------------------------------
-- *pṛṅktaṃ* \< *pṛṅktam* \< *pṛc*
+- *pṛṅktaṃ* ← *pṛṅktam* ← *pṛc*
 - \[verb\], dual, Present imperative
 - “mix; unite.”
 ------------------------------------------------------------------------
-- *rayiṃ* \< *rayim* \< *rayi*
+- *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *sauśravasāya* \< *sauśravasa*
+- *sauśravasāya* ← *sauśravasa*
 - \[noun\], dative, singular, neuter
 ------------------------------------------------------------------------
-- *devā* \< *deva*
+- *devā* ← *deva*
 - \[noun\], vocative, dual, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -38,18 +38,18 @@ title = "Rig Veda 6.68.8"
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *gṛṇanto* \< *gṛṇantaḥ* \< *gṛ*
+- *gṛṇanto* ← *gṛṇantaḥ* ← *gṛ*
 - \[verb noun\], nominative, plural
 - “praise.”
 ------------------------------------------------------------------------
-- *mahinasya* \< *mahina*
+- *mahinasya* ← *mahina*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *śardho* \< *śardhaḥ* \< *śardhas*
+- *śardho* ← *śardhaḥ* ← *śardhas*
 - \[noun\], accusative, singular, neuter
 - “troop.”
 ------------------------------------------------------------------------
-- *'po* \< *apaḥ* \< *ap*
+- *'po* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -57,15 +57,15 @@ title = "Rig Veda 6.68.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāvā* \< *nau*
+- *nāvā* ← *nau*
 - \[noun\], instrumental, singular, feminine
 - “ship; boat; nau \[word\].”
 ------------------------------------------------------------------------
-- *duritā* \< *durita*
+- *duritā* ← *durita*
 - \[noun\], accusative, plural, neuter
 - “danger; sin; difficulty; difficulty; evil.”
 ------------------------------------------------------------------------
-- *tarema* \< *tṛ*
+- *tarema* ← *tṛ*
 - \[verb\], plural, Present optative
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------

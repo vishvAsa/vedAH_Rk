@@ -2,29 +2,29 @@
 title = "Rig Veda 1.180.3"
 
 +++
--   *yuvam* \< *tvad*
+-   *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *paya* \< *payaḥ* \< *payas*
+- *paya* ← *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
-- *usriyāyām* \< *usriyā*
+- *usriyāyām* ← *usriyā*
 - \[noun\], locative, singular, feminine
 - “cow; dairy product.”
 ------------------------------------------------------------------------
-- *adhattam* \< *dhā*
+- *adhattam* ← *dhā*
 - \[verb\], dual, Imperfect
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *pakvam* \< *pakva*
+- *pakvam* ← *pakva*
 - \[noun\], accusative, singular, neuter
 - “heated; pakva; ripe; cooked; festering; baked; developed; doomed;
     digested; pakva \[word\]; suppurative; gray; fruiting; done.”
 ------------------------------------------------------------------------
-- *āmāyām* \< *āma*
+- *āmāyām* ← *āma*
 - \[noun\], locative, singular, feminine
 - “uncooked; unfestering; unburnt; green; undigested; fusty; raw.”
 ------------------------------------------------------------------------
@@ -32,11 +32,11 @@ title = "Rig Veda 1.180.3"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *pūrvyaṃ* \< *pūrvyam* \< *pūrvya*
+- *pūrvyaṃ* ← *pūrvyam* ← *pūrvya*
 - \[noun\], accusative, singular, neuter
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------
-- *goḥ* \< *go*
+- *goḥ* ← *go*
 - \[noun\], genitive, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -45,38 +45,38 @@ title = "Rig Veda 1.180.3"
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vanino* \< *vaninaḥ* \< *vanin*
+- *vanino* ← *vaninaḥ* ← *vanin*
 - \[noun\], genitive, singular, masculine
 - “tree.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *ṛtapsū* \< *ṛtapsu*
+- *ṛtapsū* ← *ṛtapsu*
 - \[noun\], vocative, dual, masculine
 ------------------------------------------------------------------------
-- *hvāro* \< *hvāraḥ* \< *hvāra*
+- *hvāro* ← *hvāraḥ* ← *hvāra*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śucir* \< *śuciḥ* \< *śuci*
+- *śucir* ← *śuciḥ* ← *śuci*
 - \[noun\], nominative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *yajate* \< *yaj*
+- *yajate* ← *yaj*
 - \[verb\], singular, Present indikative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *haviṣmān* \< *haviṣmat*
+- *haviṣmān* ← *haviṣmat*
 - \[noun\], nominative, singular, masculine
 - “sacrificing.”
 ------------------------------------------------------------------------

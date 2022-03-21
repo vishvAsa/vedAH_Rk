@@ -2,11 +2,11 @@
 title = "Rig Veda 1.173.7"
 
 +++
--   *samatsu* \< *samad*
+-   *samatsu* ← *samad*
 - \[noun\], locative, plural, masculine
 - “conflict; strife.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -15,57 +15,57 @@ title = "Rig Veda 1.173.7"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *satām* \< *as*
+- *satām* ← *as*
 - \[verb noun\], genitive, plural
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *urāṇam* \< *vṛ*
+- *urāṇam* ← *vṛ*
 - \[verb noun\], accusative, singular
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *prapathintamam* \< *prapathintama*
+- *prapathintamam* ← *prapathintama*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *paritaṃsayadhyai* \< *paritaṃsay* \< *√taṃs*
+- *paritaṃsayadhyai* ← *paritaṃsay* ← *√taṃs*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *sajoṣasa* \< *sajoṣasaḥ* \< *sajoṣas*
+- *sajoṣasa* ← *sajoṣasaḥ* ← *sajoṣas*
 - \[noun\], nominative, plural, feminine
 - “consentaneous; combined; associated; united.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *made* \< *mada*
+- *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *kṣoṇīḥ* \< *kṣoṇī*
+- *kṣoṇīḥ* ← *kṣoṇī*
 - \[noun\], nominative, plural, feminine
 - “Earth.”
 ------------------------------------------------------------------------
-- *sūriṃ* \< *sūrim* \< *sūri*
+- *sūriṃ* ← *sūrim* ← *sūri*
 - \[noun\], accusative, singular, masculine
 - “patron.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *anumadanti* \< *anumad* \< *√mad*
+- *anumadanti* ← *anumad* ← *√mad*
 - \[verb\], plural, Present indikative
 - “praise; cheer; applaud.”
 ------------------------------------------------------------------------
-- *vājaiḥ* \< *vāja*
+- *vājaiḥ* ← *vāja*
 - \[noun\], instrumental, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------

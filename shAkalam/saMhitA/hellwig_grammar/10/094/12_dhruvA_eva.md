@@ -2,7 +2,7 @@
 title = "Rig Veda 10.94.12"
 
 +++
--   *dhruvā* \< *dhruvāḥ* \< *dhruva*
+-   *dhruvā* ← *dhruvāḥ* ← *dhruva*
 - \[noun\], nominative, plural, masculine
 - “certain; fixed; permanent; changeless; firm; safe; resident;
     immovable; fixed; fixed; vital; faithful.”
@@ -12,37 +12,37 @@ title = "Rig Veda 10.94.12"
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *pitaro* \< *pitaraḥ* \< *pitṛ*
+- *pitaro* ← *pitaraḥ* ← *pitṛ*
 - \[noun\], nominative, plural
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *yuge* \< *yuga*
+- *yuge* ← *yuga*
 - \[noun\], locative, singular, neuter
 - “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
     \[word\]; Yuga; race.”
 ------------------------------------------------------------------------
-- *yuge* \< *yuga*
+- *yuge* ← *yuga*
 - \[noun\], locative, singular, neuter
 - “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
     \[word\]; Yuga; race.”
 ------------------------------------------------------------------------
-- *kṣemakāmāsaḥ* \< *kṣema*
+- *kṣemakāmāsaḥ* ← *kṣema*
 - \[noun\], masculine
 - “ease; happiness; peace; tranquillity; kṣema \[word\]; respite;
     rest.”
 ------------------------------------------------------------------------
-- *kṣemakāmāsaḥ* \< *kāmāsaḥ* \< *kāma*
+- *kṣemakāmāsaḥ* ← *kāmāsaḥ* ← *kāma*
 - \[noun\], nominative, plural, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
 ------------------------------------------------------------------------
-- *sadaso* \< *sadasaḥ* \< *sadas*
+- *sadaso* ← *sadasaḥ* ← *sadas*
 - \[noun\], ablative, singular, neuter
 - “mansion; assembly; seat; seat.”
 ------------------------------------------------------------------------
@@ -50,7 +50,7 @@ title = "Rig Veda 10.94.12"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yuñjate* \< *yuj*
+- *yuñjate* ← *yuj*
 - \[verb\], plural, Present indikative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -58,34 +58,34 @@ title = "Rig Veda 10.94.12"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *ajuryāso* \< *ajuryāsaḥ* \< *ajurya*
+- *ajuryāso* ← *ajuryāsaḥ* ← *ajurya*
 - \[noun\], nominative, plural, masculine
 - “ageless; amaranthine.”
 ------------------------------------------------------------------------
-- *hariṣāco* \< *\_* \< *√\_*
+- *hariṣāco* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *haridrava* \< *haridravaḥ* \< *haridru*
+- *haridrava* ← *haridravaḥ* ← *haridru*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dyāṃ* \< *dyām* \< *div*
+- *dyāṃ* ← *dyām* ← *div*
 - \[noun\], accusative, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *raveṇa* \< *rava*
+- *raveṇa* ← *rava*
 - \[noun\], instrumental, singular, masculine
 - “sound; howl; thunder; cry; talk; cry.”
 ------------------------------------------------------------------------
-- *pṛthivīm* \< *pṛthivī*
+- *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *aśuśravuḥ* \< *śru*
+- *aśuśravuḥ* ← *śru*
 - \[verb\], plural, Plusquamperfect
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------

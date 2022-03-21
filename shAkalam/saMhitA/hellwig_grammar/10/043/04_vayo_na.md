@@ -2,7 +2,7 @@
 title = "Rig Veda 10.43.4"
 
 +++
--   *vayo* \< *vayaḥ* \< *vi*
+-   *vayo* ← *vayaḥ* ← *vi*
 - \[noun\], nominative, plural, masculine
 - “vi; bird; vi.”
 ------------------------------------------------------------------------
@@ -10,59 +10,59 @@ title = "Rig Veda 10.43.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vṛkṣaṃ* \< *vṛkṣam* \< *vṛkṣa*
+- *vṛkṣaṃ* ← *vṛkṣam* ← *vṛkṣa*
 - \[noun\], accusative, singular, masculine
 - “tree; fruit tree.”
 ------------------------------------------------------------------------
-- *supalāśam* \< *su*
+- *supalāśam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *supalāśam* \< *palāśam* \< *palāśa*
+- *supalāśam* ← *palāśam* ← *palāśa*
 - \[noun\], accusative, singular, masculine
 - “leaf; petal; blade.”
 ------------------------------------------------------------------------
-- *āsadan* \< *āsad* \< *√sad*
+- *āsadan* ← *āsad* ← *√sad*
 - \[verb\], plural, Thematic aorist (Ind.)
 - “approach; attack; sit down; approach; find; arrive.”
 ------------------------------------------------------------------------
-- *somāsa* \< *somāsaḥ* \< *soma*
+- *somāsa* ← *somāsaḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *mandinaś* \< *mandinaḥ* \< *mandin*
+- *mandinaś* ← *mandinaḥ* ← *mandin*
 - \[noun\], nominative, plural, masculine
 - “intoxicant; exhilarating.”
 ------------------------------------------------------------------------
-- *camūṣadaḥ* \< *camūṣad*
+- *camūṣadaḥ* ← *camūṣad*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *praiṣām* \< *pra*
+- *praiṣām* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *praiṣām* \< *eṣām* \< *idam*
+- *praiṣām* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *anīkaṃ* \< *anīkam* \< *anīka*
+- *anīkaṃ* ← *anīkam* ← *anīka*
 - \[noun\], nominative, singular, neuter
 - “army; face; battalion; battlefront; point; appearance.”
 ------------------------------------------------------------------------
-- *śavasā* \< *śavas*
+- *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *davidyutad* \< *davidyutat* \< *davidyut* \< *√dyut*
+- *davidyutad* ← *davidyutat* ← *davidyut* ← *√dyut*
 - \[verb noun\], nominative, singular
 - “flash.”
 ------------------------------------------------------------------------
-- *vidat* \< *vid*
+- *vidat* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
@@ -70,17 +70,17 @@ title = "Rig Veda 10.43.4"
 - \[noun\], accusative, singular, neuter
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *manave* \< *manu*
+- *manave* ← *manu*
 - \[noun\], dative, singular, masculine
 - “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
     incantation; sacred text.”
 ------------------------------------------------------------------------
-- *jyotir* \< *jyotiḥ* \< *jyotis*
+- *jyotir* ← *jyotiḥ* ← *jyotis*
 - \[noun\], accusative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
 ------------------------------------------------------------------------
-- *āryam* \< *ārya*
+- *āryam* ← *ārya*
 - \[noun\], accusative, singular, neuter
 - “noble; noble; Indo-European; ārya \[word\]; honorable; noble.”
 ------------------------------------------------------------------------

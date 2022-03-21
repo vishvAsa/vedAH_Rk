@@ -2,93 +2,93 @@
 title = "Rig Veda 2.39.4"
 
 +++
--   *nāveva* \< *nāvā* \< *nau*
+-   *nāveva* ← *nāvā* ← *nau*
 - \[noun\], nominative, dual, feminine
 - “ship; boat; nau \[word\].”
 ------------------------------------------------------------------------
-- *nāveva* \< *iva*
+- *nāveva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pārayataṃ* \< *pārayatam* \< *pāray* \< *√pṛ*
+- *pārayataṃ* ← *pārayatam* ← *pāray* ← *√pṛ*
 - \[verb\], dual, Present imperative
 - “rescue; keep alive; satisfy; save; resist; endure.”
 ------------------------------------------------------------------------
-- *yugeva* \< *yugā* \< *yuga*
+- *yugeva* ← *yugā* ← *yuga*
 - \[noun\], nominative, plural, neuter
 - “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
     \[word\]; Yuga; race.”
 ------------------------------------------------------------------------
-- *yugeva* \< *iva*
+- *yugeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *nabhyeva* \< *nabhyā* \< *nabhya*
+- *nabhyeva* ← *nabhyā* ← *nabhya*
 - \[noun\], nominative, plural, neuter
 ------------------------------------------------------------------------
-- *nabhyeva* \< *iva*
+- *nabhyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *upadhīva* \< *upadhī* \< *upadhi*
+- *upadhīva* ← *upadhī* ← *upadhi*
 - \[noun\], nominative, dual, masculine
 - “upadhi \[word\].”
 ------------------------------------------------------------------------
-- *upadhīva* \< *iva*
+- *upadhīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *pradhīva* \< *pradhī* \< *pradhi*
+- *pradhīva* ← *pradhī* ← *pradhi*
 - \[noun\], nominative, dual, masculine
 - “disk.”
 ------------------------------------------------------------------------
-- *pradhīva* \< *iva*
+- *pradhīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *śvāneva* \< *śvānā* \< *śvan*
+- *śvāneva* ← *śvānā* ← *śvan*
 - \[noun\], nominative, dual, masculine
 - “dog; śvan \[word\].”
 ------------------------------------------------------------------------
-- *śvāneva* \< *iva*
+- *śvāneva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ariṣaṇyā* \< *ariṣaṇya*
+- *ariṣaṇyā* ← *ariṣaṇya*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *tanūnāṃ* \< *tanūnām* \< *tanū*
+- *tanūnāṃ* ← *tanūnām* ← *tanū*
 - \[noun\], genitive, plural, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *khṛgaleva* \< *khṛgalā* \< *khṛgala*
+- *khṛgaleva* ← *khṛgalā* ← *khṛgala*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *khṛgaleva* \< *iva*
+- *khṛgaleva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *visrasaḥ* \< *visraṃs* \< *√sraṃs*
+- *visrasaḥ* ← *visraṃs* ← *√sraṃs*
 - \[verb noun\]
 - “fall off.”
 ------------------------------------------------------------------------
-- *pātam* \< *pā*
+- *pātam* ← *pā*
 - \[verb\], dual, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *asmān* \< *mad*
+- *asmān* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

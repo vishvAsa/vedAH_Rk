@@ -2,38 +2,38 @@
 title = "Rig Veda 9.86.16"
 
 +++
--   *pro* \< *pra*
+-   *pro* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *pro* \< *u*
+- *pro* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ayāsīd* \< *ayāsīt* \< *yā*
+- *ayāsīd* ← *ayāsīt* ← *yā*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *indur* \< *induḥ* \< *indu*
+- *indur* ← *induḥ* ← *indu*
 - \[noun\], nominative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *niṣkṛtaṃ* \< *niṣkṛtam* \< *niṣkṛta*
+- *niṣkṛtaṃ* ← *niṣkṛtam* ← *niṣkṛta*
 - \[noun\], accusative, singular, neuter
 - “place; rendezvous.”
 ------------------------------------------------------------------------
-- *sakhā* \< *sakhi*
+- *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *sakhyur* \< *sakhyuḥ* \< *sakhi*
+- *sakhyur* ← *sakhyuḥ* ← *sakhi*
 - \[noun\], genitive, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
@@ -45,15 +45,15 @@ title = "Rig Veda 9.86.16"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *mināti* \< *mī*
+- *mināti* ← *mī*
 - \[verb\], singular, Present indikative
 - “transgress; damage.”
 ------------------------------------------------------------------------
-- *saṃgiram* \< *saṃgir*
+- *saṃgiram* ← *saṃgir*
 - \[noun\], accusative, singular, feminine
 - “agreement.”
 ------------------------------------------------------------------------
-- *marya* \< *maryaḥ* \< *marya*
+- *marya* ← *maryaḥ* ← *marya*
 - \[noun\], nominative, singular, masculine
 - “young buck; boyfriend.”
 ------------------------------------------------------------------------
@@ -61,7 +61,7 @@ title = "Rig Veda 9.86.16"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *yuvatibhiḥ* \< *yuvati*
+- *yuvatibhiḥ* ← *yuvati*
 - \[noun\], instrumental, plural, feminine
 - “girl; woman.”
 ------------------------------------------------------------------------
@@ -69,27 +69,27 @@ title = "Rig Veda 9.86.16"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *arṣati* \< *ṛṣ*
+- *arṣati* ← *ṛṣ*
 - \[verb\], singular, Present indikative
 - “run.”
 ------------------------------------------------------------------------
-- *somaḥ* \< *soma*
+- *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *kalaśe* \< *kalaśa*
+- *kalaśe* ← *kalaśa*
 - \[noun\], locative, singular, masculine
 - “jar.”
 ------------------------------------------------------------------------
-- *śatayāmnā* \< *śata*
+- *śatayāmnā* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *śatayāmnā* \< *yāmnā* \< *yāman*
+- *śatayāmnā* ← *yāmnā* ← *yāman*
 - \[noun\], instrumental, singular, masculine
 - “expedition; path; expedition; arrival.”
 ------------------------------------------------------------------------
-- *pathā* \< *pathin*
+- *pathā* ← *pathin*
 - \[noun\], instrumental, singular, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------

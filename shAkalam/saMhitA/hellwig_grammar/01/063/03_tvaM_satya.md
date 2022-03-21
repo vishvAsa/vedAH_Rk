@@ -2,11 +2,11 @@
 title = "Rig Veda 1.63.3"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *satya* \< *satyaḥ* \< *satya*
+- *satya* ← *satyaḥ* ← *satya*
 - \[noun\], nominative, singular, masculine
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
@@ -15,71 +15,71 @@ title = "Rig Veda 1.63.3"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dhṛṣṇur* \< *dhṛṣṇuḥ* \< *dhṛṣṇu*
+- *dhṛṣṇur* ← *dhṛṣṇuḥ* ← *dhṛṣṇu*
 - \[noun\], nominative, singular, masculine
 - “brave; ferocious; strong.”
 ------------------------------------------------------------------------
-- *etān* \< *etad*
+- *etān* ← *etad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ṛbhukṣā* \< *ṛbhukṣāḥ* \< *ṛbhukṣan*
+- *ṛbhukṣā* ← *ṛbhukṣāḥ* ← *ṛbhukṣan*
 - \[noun\], nominative, singular
 - “Indra.”
 ------------------------------------------------------------------------
-- *naryas* \< *naryaḥ* \< *narya*
+- *naryas* ← *naryaḥ* ← *narya*
 - \[noun\], nominative, singular, masculine
 - “manly; heroic; powerful; male; human.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ṣāṭ* \< *sah*
+- *ṣāṭ* ← *sah*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śuṣṇaṃ* \< *śuṣṇam* \< *śuṣṇa*
+- *śuṣṇaṃ* ← *śuṣṇam* ← *śuṣṇa*
 - \[noun\], accusative, singular, masculine
 - “Śuṣṇa.”
 ------------------------------------------------------------------------
-- *vṛjane* \< *vṛjana*
+- *vṛjane* ← *vṛjana*
 - \[noun\], locative, singular, neuter
 - “community; settlement.”
 ------------------------------------------------------------------------
-- *pṛkṣa* \< *pṛkṣe* \< *pṛkṣ*
+- *pṛkṣa* ← *pṛkṣe* ← *pṛkṣ*
 - \[noun\], dative, singular, feminine
 - “food; refreshment; power.”
 ------------------------------------------------------------------------
-- *āṇau* \< *āṇi*
+- *āṇau* ← *āṇi*
 - \[noun\], locative, singular, masculine
 - “āṇi; pin.”
 ------------------------------------------------------------------------
-- *yūne* \< *yuvan*
+- *yūne* ← *yuvan*
 - \[noun\], dative, singular, masculine
 - “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
     buck; young.”
 ------------------------------------------------------------------------
-- *kutsāya* \< *kutsa*
+- *kutsāya* ← *kutsa*
 - \[noun\], dative, singular, masculine
 - “Kutsa; kutsa \[word\].”
 ------------------------------------------------------------------------
-- *dyumate* \< *dyumat*
+- *dyumate* ← *dyumat*
 - \[noun\], dative, singular, masculine
 - “bright; brilliant; brilliant; loud.”
 ------------------------------------------------------------------------
-- *sacāhan* \< *sacā*
+- *sacāhan* ← *sacā*
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *sacāhan* \< *ahan* \< *han*
+- *sacāhan* ← *ahan* ← *han*
 - \[verb\], singular, Root aorist (Ind.)
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;

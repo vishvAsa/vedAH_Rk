@@ -2,7 +2,7 @@
 title = "Rig Veda 7.19.11"
 
 +++
--   *nū* \< *nu*
+-   *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
@@ -16,28 +16,28 @@ title = "Rig Veda 7.19.11"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *stavamāna* \< *stavamānaḥ* \< *stu*
+- *stavamāna* ← *stavamānaḥ* ← *stu*
 - \[verb noun\], nominative, singular
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *ūtī* \< *ūti*
+- *ūtī* ← *ūti*
 - \[noun\], instrumental, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *brahmajūtas* \< *brahma* \< *brahman*
+- *brahmajūtas* ← *brahma* ← *brahman*
 - \[noun\], neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *brahmajūtas* \< *jūtaḥ* \< *jū*
+- *brahmajūtas* ← *jūtaḥ* ← *jū*
 - \[verb noun\], nominative, singular
 - “animate; encourage; impel; inspire.”
 ------------------------------------------------------------------------
-- *tanvā* \< *tanū*
+- *tanvā* ← *tanū*
 - \[noun\], instrumental, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *vāvṛdhasva* \< *vṛdh*
+- *vāvṛdhasva* ← *vṛdh*
 - \[verb\], singular, Perfect imperative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
@@ -46,15 +46,15 @@ title = "Rig Veda 7.19.11"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vājān* \< *vāja*
+- *vājān* ← *vāja*
 - \[noun\], accusative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *mimīhy* \< *mimīhi* \< *mā*
+- *mimīhy* ← *mimīhi* ← *mā*
 - \[verb\], singular, Present imperative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
 ------------------------------------------------------------------------
@@ -62,18 +62,18 @@ title = "Rig Veda 7.19.11"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *stīn* \< *sti*
+- *stīn* ← *sti*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *yūyam* \< *tvad*
+- *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *pāta* \< *pā*
+- *pāta* ← *pā*
 - \[verb\], plural, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *svastibhiḥ* \< *svasti*
+- *svastibhiḥ* ← *svasti*
 - \[noun\], instrumental, plural, neuter
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
@@ -82,7 +82,7 @@ title = "Rig Veda 7.19.11"
 - \[adverb\]
 - “always; continually; always; perpetually.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

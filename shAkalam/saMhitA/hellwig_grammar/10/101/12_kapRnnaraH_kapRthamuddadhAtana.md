@@ -2,15 +2,15 @@
 title = "Rig Veda 10.101.12"
 
 +++
--   *kapṛn* \< *kapṛth*
+-   *kapṛn* ← *kapṛth*
 - \[noun\], nominative, singular, masculine
 - “penis.”
 ------------------------------------------------------------------------
-- *naraḥ* \< *nṛ*
+- *naraḥ* ← *nṛ*
 - \[noun\], vocative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *kapṛtham* \< *kapṛth*
+- *kapṛtham* ← *kapṛth*
 - \[noun\], accusative, singular, masculine
 - “penis.”
 ------------------------------------------------------------------------
@@ -18,27 +18,27 @@ title = "Rig Veda 10.101.12"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *dadhātana* \< *dhā*
+- *dadhātana* ← *dhā*
 - \[verb\], plural, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *codayata* \< *coday* \< *√cud*
+- *codayata* ← *coday* ← *√cud*
 - \[verb\], plural, Present imperative
 - “impel; drive; incite; command; drive; arouse; propel.”
 ------------------------------------------------------------------------
-- *khudata* \< *khud*
+- *khudata* ← *khud*
 - \[verb\], plural, Present imperative
 - “love; insert.”
 ------------------------------------------------------------------------
-- *vājasātaye* \< *vājasāti*
+- *vājasātaye* ← *vājasāti*
 - \[noun\], dative, singular, feminine
 - “victory; battle.”
 ------------------------------------------------------------------------
-- *niṣṭigryaḥ* \< *niṣṭigrī*
+- *niṣṭigryaḥ* ← *niṣṭigrī*
 - \[noun\], genitive, singular, feminine
 ------------------------------------------------------------------------
-- *putram* \< *putra*
+- *putram* ← *putra*
 - \[noun\], accusative, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
@@ -46,20 +46,20 @@ title = "Rig Veda 10.101.12"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *cyāvayotaya* \< *cyāvaya* \< *cyāvay* \< *√cyu*
+- *cyāvayotaya* ← *cyāvaya* ← *cyāvay* ← *√cyu*
 - \[verb\], singular, Present imperative
 - “chase away; remove; move.”
 ------------------------------------------------------------------------
-- *cyāvayotaya* \< *ūtaye* \< *ūti*
+- *cyāvayotaya* ← *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sabādha* \< *sabādhaḥ* \< *sabādh*
+- *sabādha* ← *sabādhaḥ* ← *sabādh*
 - \[noun\], nominative, plural, masculine
 - “pressing; clamant.”
 ------------------------------------------------------------------------
@@ -67,11 +67,11 @@ title = "Rig Veda 10.101.12"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *somapītaye* \< *soma*
+- *somapītaye* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somapītaye* \< *pītaye* \< *pīti*
+- *somapītaye* ← *pītaye* ← *pīti*
 - \[noun\], dative, singular, feminine
 - “drinking; haritāla.”
 ------------------------------------------------------------------------

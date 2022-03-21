@@ -2,12 +2,12 @@
 title = "Rig Veda 10.123.3"
 
 +++
--   *samānam* \< *samāna*
+-   *samānam* ← *samāna*
 - \[noun\], accusative, singular, masculine
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
 ------------------------------------------------------------------------
-- *pūrvīr* \< *pūrvīḥ* \< *pūrva*
+- *pūrvīr* ← *pūrvīḥ* ← *pūrva*
 - \[noun\], nominative, plural, feminine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
@@ -17,35 +17,35 @@ title = "Rig Veda 10.123.3"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *vāvaśānās* \< *vāvaśānāḥ* \< *vaś*
+- *vāvaśānās* ← *vāvaśānāḥ* ← *vaś*
 - \[verb noun\], nominative, plural
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *tiṣṭhan* \< *sthā*
+- *tiṣṭhan* ← *sthā*
 - \[verb\], plural, Imperfect
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *vatsasya* \< *vatsa*
+- *vatsasya* ← *vatsa*
 - \[noun\], genitive, singular, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
 ------------------------------------------------------------------------
-- *mātaraḥ* \< *mātṛ*
+- *mātaraḥ* ← *mātṛ*
 - \[noun\], nominative, plural, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *sanīḍāḥ* \< *sanīḍa*
+- *sanīḍāḥ* ← *sanīḍa*
 - \[noun\], nominative, plural, feminine
 - “kindred; equal; sanīḍa \[word\].”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *sānāv* \< *sānau* \< *sānu*
+- *sānāv* ← *sānau* ← *sānu*
 - \[noun\], locative, singular, masculine
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------
@@ -53,24 +53,24 @@ title = "Rig Veda 10.123.3"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *cakramāṇā* \< *cakramāṇāḥ* \< *kram*
+- *cakramāṇā* ← *cakramāṇāḥ* ← *kram*
 - \[verb noun\], nominative, plural
 - “kram; step; go; continue; proceed; traverse; heat.”
 ------------------------------------------------------------------------
-- *rihanti* \< *rih*
+- *rihanti* ← *rih*
 - \[verb\], plural, Present indikative
 - “lick.”
 ------------------------------------------------------------------------
-- *madhvo* \< *madhvaḥ* \< *madhu*
+- *madhvo* ← *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “sweet; deft.”
 ------------------------------------------------------------------------
-- *amṛtasya* \< *amṛta*
+- *amṛtasya* ← *amṛta*
 - \[noun\], genitive, singular, neuter
 - “amṛta; immortality; vatsanābha; ambrosia; mercury; medicine;
     vighasa; calcium hydroxide.”
 ------------------------------------------------------------------------
-- *vāṇīḥ* \< *vāṇī*
+- *vāṇīḥ* ← *vāṇī*
 - \[noun\], nominative, plural, feminine
 - “voice; Sarasvati; words; language.”
 ------------------------------------------------------------------------

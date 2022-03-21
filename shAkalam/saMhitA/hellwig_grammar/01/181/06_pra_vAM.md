@@ -6,14 +6,14 @@ title = "Rig Veda 1.181.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *śaradvān* \< *śaradvat*
+- *śaradvān* ← *śaradvat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vṛṣabho* \< *vṛṣabhaḥ* \< *vṛṣabha*
+- *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
@@ -21,66 +21,66 @@ title = "Rig Veda 1.181.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *niṣṣāṭ* \< *niṣṣāh*
+- *niṣṣāṭ* ← *niṣṣāh*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *pūrvīr* \< *pūrvīḥ* \< *puru*
+- *pūrvīr* ← *pūrvīḥ* ← *puru*
 - \[noun\], accusative, plural, feminine
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *iṣaś* \< *iṣaḥ* \< *iṣ*
+- *iṣaś* ← *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *carati* \< *car*
+- *carati* ← *car*
 - \[verb\], singular, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *madhva* \< *madhvaḥ* \< *madhu*
+- *madhva* ← *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *iṣṇan* \< *iṣ*
+- *iṣṇan* ← *iṣ*
 - \[verb noun\], nominative, singular
 - “send.”
 ------------------------------------------------------------------------
-- *evair* \< *evaiḥ* \< *eva*
+- *evair* ← *evaiḥ* ← *eva*
 - \[noun\], instrumental, plural, masculine
 - “eva \[word\]; habit; manner; behavior; custom.”
 ------------------------------------------------------------------------
-- *anyasya* \< *anya*
+- *anyasya* ← *anya*
 - \[noun\], genitive, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *pīpayanta* \< *pyā*
+- *pīpayanta* ← *pyā*
 - \[verb\], plural, Perfect conjunctive (subj.)
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
-- *vājair* \< *vājaiḥ* \< *vāja*
+- *vājair* ← *vājaiḥ* ← *vāja*
 - \[noun\], instrumental, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *veṣantīr* \< *veṣantīḥ* \< *viṣ*
+- *veṣantīr* ← *veṣantīḥ* ← *viṣ*
 - \[verb noun\], nominative, plural
 - “labor; act; perform.”
 ------------------------------------------------------------------------
-- *ūrdhvā* \< *ūrdhvāḥ* \< *ūrdhva*
+- *ūrdhvā* ← *ūrdhvāḥ* ← *ūrdhva*
 - \[noun\], nominative, plural, feminine
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
 ------------------------------------------------------------------------
-- *nadyo* \< *nadyaḥ* \< *nadī*
+- *nadyo* ← *nadyaḥ* ← *nadī*
 - \[noun\], nominative, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *āguḥ* \< *āgā* \< *√gā*
+- *āguḥ* ← *āgā* ← *√gā*
 - \[verb\], plural, Root aorist (Ind.)
 - “come; arrive.”
 ------------------------------------------------------------------------

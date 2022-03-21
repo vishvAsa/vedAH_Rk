@@ -2,11 +2,11 @@
 title = "Rig Veda 7.23.2"
 
 +++
--   *ayāmi* \< *yam*
+-   *ayāmi* ← *yam*
 - \[verb\], singular, Aorist passive
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *ghoṣa* \< *ghoṣaḥ* \< *ghoṣa*
+- *ghoṣa* ← *ghoṣaḥ* ← *ghoṣa*
 - \[noun\], nominative, singular, masculine
 - “sound; noise; cry; voice; ghoṣa \[word\]; station; Ghoṣa; post;
     twang.”
@@ -16,67 +16,67 @@ title = "Rig Veda 7.23.2"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *devajāmir* \< *deva*
+- *devajāmir* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devajāmir* \< *jāmiḥ* \< *jāmi*
+- *devajāmir* ← *jāmiḥ* ← *jāmi*
 - \[noun\], nominative, singular, masculine
 - “related; ancestral; customary; usual.”
 ------------------------------------------------------------------------
-- *irajyanta* \< *irajy* \< *√rañj*
+- *irajyanta* ← *irajy* ← *√rañj*
 - \[verb\], plural, Present injunctive
 - “direct.”
 ------------------------------------------------------------------------
-- *yacchurudho* \< *yat*
+- *yacchurudho* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yacchurudho* \< *śurudhaḥ* \< *śurudh*
+- *yacchurudho* ← *śurudhaḥ* ← *śurudh*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *vivāci* \< *vivāc*
+- *vivāci* ← *vivāc*
 - \[noun\], locative, singular, feminine
 - “contest.”
 ------------------------------------------------------------------------
-- *nahi* \< *na*
+- *nahi* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nahi* \< *hi*
+- *nahi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *svam* \< *sva*
+- *svam* ← *sva*
 - \[noun\], accusative, singular, neuter
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *āyuś* \< *āyuḥ* \< *āyus*
+- *āyuś* ← *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------
-- *cikite* \< *cit*
+- *cikite* ← *cit*
 - \[verb\], singular, Perfect indicative
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *janeṣu* \< *jana*
+- *janeṣu* ← *jana*
 - \[noun\], locative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *tānīd* \< *tāni* \< *tad*
+- *tānīd* ← *tāni* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tānīd* \< *id*
+- *tānīd* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *aṃhāṃsy* \< *aṃhāṃsi* \< *aṃhas*
+- *aṃhāṃsy* ← *aṃhāṃsi* ← *aṃhas*
 - \[noun\], accusative, plural, neuter
 - “trouble; sin.”
 ------------------------------------------------------------------------
@@ -84,11 +84,11 @@ title = "Rig Veda 7.23.2"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *parṣy* \< *parṣi* \< *pṛ*
+- *parṣy* ← *parṣi* ← *pṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “protect; promote; rescue; help.”
 ------------------------------------------------------------------------
-- *asmān* \< *mad*
+- *asmān* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

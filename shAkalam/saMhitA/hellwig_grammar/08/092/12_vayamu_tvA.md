@@ -2,7 +2,7 @@
 title = "Rig Veda 8.92.12"
 
 +++
--   *vayam* \< *mad*
+-   *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -10,15 +10,15 @@ title = "Rig Veda 8.92.12"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śatakrato* \< *śatakratu*
+- *śatakrato* ← *śatakratu*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *gāvo* \< *gāvaḥ* \< *go*
+- *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -27,7 +27,7 @@ title = "Rig Veda 8.92.12"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yavaseṣv* \< *yavaseṣu* \< *yavasa*
+- *yavaseṣv* ← *yavaseṣu* ← *yavasa*
 - \[noun\], locative, plural, neuter
 - “eatage; pasture; fodder.”
 ------------------------------------------------------------------------
@@ -35,11 +35,11 @@ title = "Rig Veda 8.92.12"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *uktheṣu* \< *uktha*
+- *uktheṣu* ← *uktha*
 - \[noun\], locative, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *raṇayāmasi* \< *raṇay* \< *√raṇ*
+- *raṇayāmasi* ← *raṇay* ← *√raṇ*
 - \[verb\], plural, Present indikative
 - “delight.”
 ------------------------------------------------------------------------

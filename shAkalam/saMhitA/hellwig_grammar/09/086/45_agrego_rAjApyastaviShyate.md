@@ -2,70 +2,70 @@
 title = "Rig Veda 9.86.45"
 
 +++
--   *agrego* \< *agregaḥ* \< *agrega*
+-   *agrego* ← *agregaḥ* ← *agrega*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *rājāpyas* \< *rājā* \< *rājan*
+- *rājāpyas* ← *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *rājāpyas* \< *āpyaḥ* \< *āpya*
+- *rājāpyas* ← *āpyaḥ* ← *āpya*
 - \[noun\], nominative, singular, masculine
 - “watery.”
 ------------------------------------------------------------------------
-- *taviṣyate* \< *taviṣy*
+- *taviṣyate* ← *taviṣy*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *vimāno* \< *vimānaḥ* \< *vimā* \< *√mā*
+- *vimāno* ← *vimānaḥ* ← *vimā* ← *√mā*
 - \[verb noun\], nominative, singular
 - “arrange; distribute; barter; measure; fixate.”
 ------------------------------------------------------------------------
-- *ahnām* \< *ahar*
+- *ahnām* ← *ahar*
 - \[noun\], genitive, plural, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *bhuvaneṣv* \< *bhuvaneṣu* \< *bhuvana*
+- *bhuvaneṣv* ← *bhuvaneṣu* ← *bhuvana*
 - \[noun\], locative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *arpitaḥ* \< *arpay*
+- *arpitaḥ* ← *arpay*
 - \[verb noun\], nominative, singular
 - “shoot; give; direct; hide; put; insert.”
 ------------------------------------------------------------------------
-- *harir* \< *hariḥ* \< *hari*
+- *harir* ← *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
-- *ghṛtasnuḥ* \< *ghṛta*
+- *ghṛtasnuḥ* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *ghṛtasnuḥ* \< *snuḥ* \< *snu*
+- *ghṛtasnuḥ* ← *snuḥ* ← *snu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *sudṛśīko* \< *su*
+- *sudṛśīko* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudṛśīko* \< *dṛśīkaḥ* \< *dṛśīka*
+- *sudṛśīko* ← *dṛśīkaḥ* ← *dṛśīka*
 - \[noun\], nominative, singular, masculine
 - “visual perception.”
 ------------------------------------------------------------------------
-- *arṇavo* \< *arṇavaḥ* \< *arṇava*
+- *arṇavo* ← *arṇavaḥ* ← *arṇava*
 - \[noun\], nominative, singular, masculine
 - “ocean; sea; four.”
 ------------------------------------------------------------------------
-- *jyotīrathaḥ* \< *jyotīratha*
+- *jyotīrathaḥ* ← *jyotīratha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *pavate* \< *pū*
+- *pavate* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *rāya* \< *rāye* \< *rai*
+- *rāya* ← *rāye* ← *rai*
 - \[noun\], dative, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *okyaḥ* \< *okya*
+- *okyaḥ* ← *okya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

@@ -6,19 +6,19 @@ title = "Rig Veda 1.42.3"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *tyam* \< *tya*
+- *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *paripanthinam* \< *paripanthin*
+- *paripanthinam* ← *paripanthin*
 - \[noun\], accusative, singular, masculine
 - “unfriendly; clogging; paripanthin \[word\].”
 ------------------------------------------------------------------------
-- *muṣīvāṇaṃ* \< *muṣīvāṇam* \< *muṣīvan*
+- *muṣīvāṇaṃ* ← *muṣīvāṇam* ← *muṣīvan*
 - \[noun\], accusative, singular, masculine
 - “mugger.”
 ------------------------------------------------------------------------
-- *huraścitam* \< *huraścit*
+- *huraścitam* ← *huraścit*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *dūram*
@@ -29,11 +29,11 @@ title = "Rig Veda 1.42.3"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *sruter* \< *sruteḥ* \< *sruti*
+- *sruter* ← *sruteḥ* ← *sruti*
 - \[noun\], ablative, singular, feminine
 - “discharge; path; road; stream.”
 ------------------------------------------------------------------------
-- *aja* \< *aj*
+- *aja* ← *aj*
 - \[verb\], singular, Present imperative
 - “drive; expel.”
 ------------------------------------------------------------------------

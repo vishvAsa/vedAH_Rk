@@ -6,24 +6,24 @@ title = "Rig Veda 5.45.10"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sūryo* \< *sūryaḥ* \< *sūrya*
+- *sūryo* ← *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *aruhac* \< *aruhat* \< *ruh*
+- *aruhac* ← *aruhat* ← *ruh*
 - \[verb\], singular, Imperfect
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
 ------------------------------------------------------------------------
-- *chukram* \< *śukram* \< *śukra*
+- *chukram* ← *śukram* ← *śukra*
 - \[noun\], accusative, singular, neuter
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *arṇo* \< *arṇaḥ* \< *arṇas*
+- *arṇo* ← *arṇaḥ* ← *arṇas*
 - \[noun\], accusative, singular, neuter
 - “body of water; water.”
 ------------------------------------------------------------------------
-- *'yukta* \< *ayukta* \< *yuj*
+- *'yukta* ← *ayukta* ← *yuj*
 - \[verb\], singular, Root aorist (Ind.)
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -31,24 +31,24 @@ title = "Rig Veda 5.45.10"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *dharito* \< *haritaḥ* \< *harit*
+- *dharito* ← *haritaḥ* ← *harit*
 - \[noun\], accusative, plural, feminine
 - “mare; quarter.”
 ------------------------------------------------------------------------
-- *vītapṛṣṭhāḥ* \< *vīta*
+- *vītapṛṣṭhāḥ* ← *vīta*
 - \[noun\]
 - “straight; smooth.”
 ------------------------------------------------------------------------
-- *vītapṛṣṭhāḥ* \< *pṛṣṭhāḥ* \< *pṛṣṭha*
+- *vītapṛṣṭhāḥ* ← *pṛṣṭhāḥ* ← *pṛṣṭha*
 - \[noun\], accusative, plural, feminine
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
 ------------------------------------------------------------------------
-- *udnā* \< *udan*
+- *udnā* ← *udan*
 - \[noun\], instrumental, singular, neuter
 - “water; body of water.”
 ------------------------------------------------------------------------
@@ -56,32 +56,32 @@ title = "Rig Veda 5.45.10"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāvam* \< *nau*
+- *nāvam* ← *nau*
 - \[noun\], accusative, singular, feminine
 - “ship; boat; nau \[word\].”
 ------------------------------------------------------------------------
-- *anayanta* \< *nī*
+- *anayanta* ← *nī*
 - \[verb\], plural, Imperfect
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *dhīrā* \< *dhīrāḥ* \< *dhīra*
+- *dhīrā* ← *dhīrāḥ* ← *dhīra*
 - \[noun\], nominative, plural, masculine
 - “expert; wise; intelligent; versed; adept.”
 ------------------------------------------------------------------------
-- *āśṛṇvatīr* \< *āśṛṇvatīḥ* \< *āśru* \< *√śru*
+- *āśṛṇvatīr* ← *āśṛṇvatīḥ* ← *āśru* ← *√śru*
 - \[verb noun\], nominative, plural
 - “listen; hear.”
 ------------------------------------------------------------------------
-- *āpo* \< *āpaḥ* \< *ap*
+- *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *arvāg* \< *arvāk*
+- *arvāg* ← *arvāk*
 - \[adverb\]
 - “here.”
 ------------------------------------------------------------------------
-- *atiṣṭhan* \< *sthā*
+- *atiṣṭhan* ← *sthā*
 - \[verb\], plural, Imperfect
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;

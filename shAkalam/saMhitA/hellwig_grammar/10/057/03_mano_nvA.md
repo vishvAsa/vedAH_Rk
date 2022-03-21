@@ -2,12 +2,12 @@
 title = "Rig Veda 10.57.3"
 
 +++
--   *mano* \< *manaḥ* \< *manas*
+-   *mano* ← *manaḥ* ← *manas*
 - \[noun\], accusative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *nv* \< *nu*
+- *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
@@ -15,18 +15,18 @@ title = "Rig Veda 10.57.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *huvāmahe* \< *hvā*
+- *huvāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *nārāśaṃsena* \< *nārāśaṃsa*
+- *nārāśaṃsena* ← *nārāśaṃsa*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
-- *somena* \< *soma*
+- *somena* ← *soma*
 - \[noun\], instrumental, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *pitṝṇāṃ* \< *pitṝṇām* \< *pitṛ*
+- *pitṝṇāṃ* ← *pitṝṇām* ← *pitṛ*
 - \[noun\], genitive, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
@@ -35,7 +35,7 @@ title = "Rig Veda 10.57.3"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *manmabhiḥ* \< *manman*
+- *manmabhiḥ* ← *manman*
 - \[noun\], instrumental, plural, neuter
 - “hymn; idea; purpose.”
 ------------------------------------------------------------------------

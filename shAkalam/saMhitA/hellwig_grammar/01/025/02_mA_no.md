@@ -6,24 +6,24 @@ title = "Rig Veda 1.25.2"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vadhāya* \< *vadha*
+- *vadhāya* ← *vadha*
 - \[noun\], dative, singular, masculine
 - “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
     dysfunction; punishment; kick.”
 ------------------------------------------------------------------------
-- *hatnave* \< *hatnu*
+- *hatnave* ← *hatnu*
 - \[noun\], dative, singular, masculine
 - “deadly.”
 ------------------------------------------------------------------------
-- *jihīḍānasya* \< *hīḍ*
+- *jihīḍānasya* ← *hīḍ*
 - \[verb noun\], genitive, singular
 - “anger; stew.”
 ------------------------------------------------------------------------
-- *rīradhaḥ* \< *radh*
+- *rīradhaḥ* ← *radh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “subjugate.”
 ------------------------------------------------------------------------
@@ -31,11 +31,11 @@ title = "Rig Veda 1.25.2"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *hṛṇānasya* \< *hṛ*
+- *hṛṇānasya* ← *hṛ*
 - \[verb noun\], genitive, singular
 - “anger.”
 ------------------------------------------------------------------------
-- *manyave* \< *manyu*
+- *manyave* ← *manyu*
 - \[noun\], dative, singular, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------

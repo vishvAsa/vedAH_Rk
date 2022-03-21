@@ -2,7 +2,7 @@
 title = "Rig Veda 5.51.6"
 
 +++
--   *indraś* \< *indraḥ* \< *indra*
+-   *indraś* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -11,39 +11,39 @@ title = "Rig Veda 5.51.6"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *vāyav* \< *vāyo* \< *vāyu*
+- *vāyav* ← *vāyo* ← *vāyu*
 - \[noun\], vocative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
 ------------------------------------------------------------------------
-- *eṣāṃ* \< *eṣām* \< *idam*
+- *eṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *sutānām* \< *suta*
+- *sutānām* ← *suta*
 - \[noun\], genitive, plural, masculine
 - “Soma.”
 ------------------------------------------------------------------------
-- *pītim* \< *pīti*
+- *pītim* ← *pīti*
 - \[noun\], accusative, singular, feminine
 - “drinking; haritāla.”
 ------------------------------------------------------------------------
-- *arhathaḥ* \< *arh*
+- *arhathaḥ* ← *arh*
 - \[verb\], dual, Present indikative
 - “should; may; rate; can; can; equal; necessitate.”
 ------------------------------------------------------------------------
-- *tāñ* \< *tān* \< *tad*
+- *tāñ* ← *tān* ← *tad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *juṣethām* \< *juṣ*
+- *juṣethām* ← *juṣ*
 - \[verb\], dual, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *arepasāv* \< *arepasau* \< *arepas*
+- *arepasāv* ← *arepasau* ← *arepas*
 - \[noun\], nominative, dual, masculine
 - “immaculate.”
 ------------------------------------------------------------------------
@@ -51,7 +51,7 @@ title = "Rig Veda 5.51.6"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *prayaḥ* \< *prayas*
+- *prayaḥ* ← *prayas*
 - \[noun\], accusative, singular, neuter
 - “food; dainty; enjoyment.”
 ------------------------------------------------------------------------

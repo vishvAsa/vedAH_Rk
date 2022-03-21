@@ -10,63 +10,63 @@ title = "Rig Veda 2.30.6"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *kratuṃ* \< *kratum* \< *kratu*
+- *kratuṃ* ← *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *vṛhatho* \< *vṛhathaḥ* \< *vṛh*
+- *vṛhatho* ← *vṛhathaḥ* ← *vṛh*
 - \[verb\], dual, Present indikative
 - “extract.”
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vanutho* \< *vanuthaḥ* \< *van*
+- *vanutho* ← *vanuthaḥ* ← *van*
 - \[verb\], dual, Present indikative
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *radhrasya* \< *radhra*
+- *radhrasya* ← *radhra*
 - \[noun\], genitive, singular, masculine
 - “obedient; powerless; weak.”
 ------------------------------------------------------------------------
-- *stho* \< *sthaḥ* \< *as*
+- *stho* ← *sthaḥ* ← *as*
 - \[verb\], dual, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *yajamānasya* \< *yaj*
+- *yajamānasya* ← *yaj*
 - \[verb noun\], genitive, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *codau* \< *coda*
+- *codau* ← *coda*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *indrāsomā* \< *indrāsomāḥ* \< *indrāsoma*
+- *indrāsomā* ← *indrāsomāḥ* ← *indrāsoma*
 - \[noun\], vocative, plural, masculine
 - “Soma; Indra.”
 ------------------------------------------------------------------------
-- *yuvam* \< *tvad*
+- *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *asmāṃ* \< *mad*
+- *asmāṃ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *aviṣṭam* \< *av*
+- *aviṣṭam* ← *av*
 - \[verb\], dual, Aorist imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *asmin* \< *idam*
+- *asmin* ← *idam*
 - \[noun\], locative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *bhayasthe* \< *bhayastha*
+- *bhayasthe* ← *bhayastha*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *kṛṇutam* \< *kṛ*
+- *kṛṇutam* ← *kṛ*
 - \[verb\], dual, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -81,7 +81,7 @@ title = "Rig Veda 2.30.6"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *lokam* \< *loka*
+- *lokam* ← *loka*
 - \[noun\], accusative, singular, masculine
 - “Loka; Earth; world; vernacular; people; room; world; Earth; loka
     \[word\]; space; Loka; topographic point; region; common sense.”

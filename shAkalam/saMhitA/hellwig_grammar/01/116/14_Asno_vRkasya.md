@@ -2,35 +2,35 @@
 title = "Rig Veda 1.116.14"
 
 +++
--   *āsno* \< *āsnaḥ* \< *āsan*
+-   *āsno* ← *āsnaḥ* ← *āsan*
 - \[noun\], genitive, singular, neuter
 - “mouth.”
 ------------------------------------------------------------------------
-- *vṛkasya* \< *vṛka*
+- *vṛkasya* ← *vṛka*
 - \[noun\], genitive, singular, masculine
 - “wolf; Vṛka; vṛka \[word\]; Vṛka.”
 ------------------------------------------------------------------------
-- *vartikām* \< *vartikā*
+- *vartikām* ← *vartikā*
 - \[noun\], accusative, singular, feminine
 - “wick; paintbrush.”
 ------------------------------------------------------------------------
-- *abhīke* \< *abhīka*
+- *abhīke* ← *abhīka*
 - \[noun\], locative, singular, neuter
 - “battle; meeting.”
 ------------------------------------------------------------------------
-- *yuvaṃ* \< *yuvam* \< *tvad*
+- *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *narā* \< *nṛ*
+- *narā* ← *nṛ*
 - \[noun\], nominative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nāsatyāmumuktam* \< *nāsatya*
+- *nāsatyāmumuktam* ← *nāsatya*
 - \[noun\], vocative, singular, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *nāsatyāmumuktam* \< *amumuktam* \< *muc*
+- *nāsatyāmumuktam* ← *amumuktam* ← *muc*
 - \[verb\], dual, Plusquamperfect
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
     fill into; shoot; spill; lose; ejaculate; exclude; free; remove;
@@ -38,28 +38,28 @@ title = "Rig Veda 1.116.14"
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
 ------------------------------------------------------------------------
-- *uto* \< *uta*
+- *uto* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *uto* \< *u*
+- *uto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *kavim* \< *kavi*
+- *kavim* ← *kavi*
 - \[noun\], accusative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *purubhujā* \< *puru*
+- *purubhujā* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purubhujā* \< *bhujā* \< *bhuj*
+- *purubhujā* ← *bhujā* ← *bhuj*
 - \[noun\], nominative, dual, masculine
 - “eating; consuming.”
 ------------------------------------------------------------------------
-- *yuvaṃ* \< *yuvam* \< *tvad*
+- *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -67,10 +67,10 @@ title = "Rig Veda 1.116.14"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *kṛpamāṇam* \< *kṛp*
+- *kṛpamāṇam* ← *kṛp*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *akṛṇutaṃ* \< *akṛṇutam* \< *kṛ*
+- *akṛṇutaṃ* ← *akṛṇutam* ← *kṛ*
 - \[verb\], dual, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -81,6 +81,6 @@ title = "Rig Veda 1.116.14"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *vicakṣe* \< *vicakṣ* \< *√cakṣ*
+- *vicakṣe* ← *vicakṣ* ← *√cakṣ*
 - \[verb noun\]
 ------------------------------------------------------------------------

@@ -5,34 +5,34 @@ title = "Rig Veda 10.95.1"
 -   *haye*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *jāye* \< *jāyā*
+- *jāye* ← *jāyā*
 - \[noun\], vocative, singular, feminine
 - “wife; jāyā \[word\].”
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *tiṣṭha* \< *sthā*
+- *tiṣṭha* ← *sthā*
 - \[verb\], singular, Present imperative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *ghore* \< *ghora*
+- *ghore* ← *ghora*
 - \[noun\], vocative, singular, feminine
 - “awful; dangerous; terrific; intense; dreadful.”
 ------------------------------------------------------------------------
-- *vacāṃsi* \< *vacas*
+- *vacāṃsi* ← *vacas*
 - \[noun\], accusative, plural, neuter
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------
-- *miśrā* \< *miśra*
+- *miśrā* ← *miśra*
 - \[noun\], accusative, plural, neuter
 - “amalgamated; mingled; miśra \[word\]; varicolored.”
 ------------------------------------------------------------------------
-- *kṛṇavāvahai* \< *kṛ*
+- *kṛṇavāvahai* ← *kṛ*
 - \[verb\], dual, Present conjunctive (subjunctive)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -51,27 +51,27 @@ title = "Rig Veda 10.95.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nau* \< *mad*
+- *nau* ← *mad*
 - \[noun\], dative, dual
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mantrā* \< *mantrāḥ* \< *mantra*
+- *mantrā* ← *mantrāḥ* ← *mantra*
 - \[noun\], nominative, plural, masculine
 - “mantra; Mantra; consultation; advice; consultation; mantra
     \[word\]; speech; plan.”
 ------------------------------------------------------------------------
-- *anuditāsa* \< *anuditāsaḥ* \< *anudita*
+- *anuditāsa* ← *anuditāsaḥ* ← *anudita*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *ete* \< *etad*
+- *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *mayas* \< *mayaḥ* \< *mayas*
+- *mayas* ← *mayaḥ* ← *mayas*
 - \[noun\], accusative, singular, neuter
 - “pleasure; refreshment.”
 ------------------------------------------------------------------------
-- *karan* \< *kṛ*
+- *karan* ← *kṛ*
 - \[verb\], plural, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -82,19 +82,19 @@ title = "Rig Veda 10.95.1"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *paratare* \< *paratara*
+- *paratare* ← *paratara*
 - \[noun\], locative, singular, neuter
 - “higher.”
 ------------------------------------------------------------------------
-- *canāhan* \< *ca*
+- *canāhan* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *canāhan* \< *na*
+- *canāhan* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *canāhan* \< *ahan* \< *ahar*
+- *canāhan* ← *ahan* ← *ahar*
 - \[noun\], locative, singular
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------

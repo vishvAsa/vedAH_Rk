@@ -2,33 +2,33 @@
 title = "Rig Veda 2.23.4"
 
 +++
--   *sunītibhir* \< *sunītibhiḥ* \< *sunīti*
+-   *sunītibhir* ← *sunītibhiḥ* ← *sunīti*
 - \[noun\], instrumental, plural, feminine
 - “Sunīti.”
 ------------------------------------------------------------------------
-- *nayasi* \< *nī*
+- *nayasi* ← *nī*
 - \[verb\], singular, Present indikative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *trāyase* \< *trā*
+- *trāyase* ← *trā*
 - \[verb\], singular, Present indikative
 - “protect; help.”
 ------------------------------------------------------------------------
-- *janaṃ* \< *janam* \< *jana*
+- *janaṃ* ← *janam* ← *jana*
 - \[noun\], accusative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *yas* \< *yaḥ* \< *yad*
+- *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *tubhyaṃ* \< *tubhyam* \< *tvad*
+- *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dāśān* \< *dāśāt* \< *dāś*
+- *dāśān* ← *dāśāt* ← *dāś*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “sacrifice; give.”
 ------------------------------------------------------------------------
@@ -36,41 +36,41 @@ title = "Rig Veda 2.23.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *aṃho* \< *aṃhaḥ* \< *aṃhas*
+- *aṃho* ← *aṃhaḥ* ← *aṃhas*
 - \[noun\], nominative, singular, neuter
 - “trouble; sin.”
 ------------------------------------------------------------------------
-- *aśnavat* \< *aś*
+- *aśnavat* ← *aś*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *brahmadviṣas* \< *brahma* \< *brahman*
+- *brahmadviṣas* ← *brahma* ← *brahman*
 - \[noun\], neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *brahmadviṣas* \< *dviṣaḥ* \< *dviṣ*
+- *brahmadviṣas* ← *dviṣaḥ* ← *dviṣ*
 - \[noun\], genitive, singular, masculine
 - “hostile; hating.”
 ------------------------------------------------------------------------
-- *tapano* \< *tapanaḥ* \< *tapana*
+- *tapano* ← *tapanaḥ* ← *tapana*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *manyumīr* \< *manyumīḥ* \< *manyumī*
+- *manyumīr* ← *manyumīḥ* ← *manyumī*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *asi* \< *as*
+- *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *bṛhaspate* \< *bṛhaspati*
+- *bṛhaspate* ← *bṛhaspati*
 - \[noun\], vocative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
@@ -78,17 +78,17 @@ title = "Rig Veda 2.23.4"
 - \[noun\], nominative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *tat* \< *tad*
+- *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *mahitvanam* \< *mahitvana*
+- *mahitvanam* ← *mahitvana*
 - \[noun\], nominative, singular, neuter
 - “greatness.”
 ------------------------------------------------------------------------

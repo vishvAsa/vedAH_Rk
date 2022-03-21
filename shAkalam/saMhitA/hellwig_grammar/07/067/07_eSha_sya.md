@@ -2,34 +2,34 @@
 title = "Rig Veda 7.67.7"
 
 +++
--   *eṣa* \< *etad*
+-   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *sya* \< *tya*
+- *sya* ← *tya*
 - \[noun\], nominative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *pūrvagatveva* \< *pūrvagatvā* \< *pūrvagatvan*
+- *pūrvagatveva* ← *pūrvagatvā* ← *pūrvagatvan*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *pūrvagatveva* \< *iva*
+- *pūrvagatveva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sakhye* \< *sakhi*
+- *sakhye* ← *sakhi*
 - \[noun\], dative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *nidhir* \< *nidhiḥ* \< *nidhi*
+- *nidhir* ← *nidhiḥ* ← *nidhi*
 - \[noun\], nominative, singular, masculine
 - “hoard; receptacle; treasure; ocean; instrument.”
 ------------------------------------------------------------------------
-- *hito* \< *hitaḥ* \< *dhā*
+- *hito* ← *hitaḥ* ← *dhā*
 - \[verb noun\], nominative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
@@ -38,49 +38,49 @@ title = "Rig Veda 7.67.7"
 - \[noun\], vocative, dual, masculine
 - “sweet; sweet.”
 ------------------------------------------------------------------------
-- *rāto* \< *rātaḥ* \< *rā*
+- *rāto* ← *rātaḥ* ← *rā*
 - \[verb noun\], nominative, singular
 - “give; impart.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *aheﾱatā* \< *a*
+- *aheﾱatā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *aheﾱatā* \< *heḍatā* \< *hīḍ*
+- *aheﾱatā* ← *heḍatā* ← *hīḍ*
 - \[verb noun\], instrumental, singular
 - “anger; stew.”
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *yātam* \< *yā*
+- *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *arvāg* \< *arvāk*
+- *arvāg* ← *arvāk*
 - \[adverb\]
 - “here.”
 ------------------------------------------------------------------------
-- *aśnantā* \< *aś*
+- *aśnantā* ← *aś*
 - \[verb noun\], nominative, dual
 - “eat; consume; chew; feed.”
 ------------------------------------------------------------------------
-- *havyam* \< *havya*
+- *havyam* ← *havya*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *mānuṣīṣu* \< *mānuṣa*
+- *mānuṣīṣu* ← *mānuṣa*
 - \[noun\], locative, plural, feminine
 - “human.”
 ------------------------------------------------------------------------
-- *vikṣu* \< *viś*
+- *vikṣu* ← *viś*
 - \[noun\], locative, plural
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------

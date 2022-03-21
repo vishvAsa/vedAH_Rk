@@ -2,26 +2,26 @@
 title = "Rig Veda 8.48.5"
 
 +++
--   *ime* \< *idam*
+-   *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pītā* \< *pītāḥ* \< *pā*
+- *pītā* ← *pītāḥ* ← *pā*
 - \[verb noun\], nominative, plural
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *yaśasa* \< *yaśasaḥ* \< *yaśas*
+- *yaśasa* ← *yaśasaḥ* ← *yaśas*
 - \[noun\], nominative, plural, masculine
 - “esteemed; celebrated; glorious; honorable.”
 ------------------------------------------------------------------------
-- *uruṣyavo* \< *uruṣyavaḥ* \< *uruṣyu*
+- *uruṣyavo* ← *uruṣyavaḥ* ← *uruṣyu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *rathaṃ* \< *ratham* \< *ratha*
+- *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -29,7 +29,7 @@ title = "Rig Veda 8.48.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *gāvaḥ* \< *go*
+- *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -38,33 +38,33 @@ title = "Rig Veda 8.48.5"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *anāha* \< *\_* \< *√\_*
+- *anāha* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *parvasu* \< *parvan*
+- *parvasu* ← *parvan*
 - \[noun\], locative, plural, neuter
 - “joint; knot; festival; day; articulation; knot.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rakṣantu* \< *rakṣ*
+- *rakṣantu* ← *rakṣ*
 - \[verb\], plural, Present imperative
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------
-- *visrasaś* \< *visrasaḥ* \< *visraṃs* \< *√sraṃs*
+- *visrasaś* ← *visrasaḥ* ← *visraṃs* ← *√sraṃs*
 - \[verb noun\]
 - “fall off.”
 ------------------------------------------------------------------------
-- *caritrād* \< *caritrāt* \< *caritra*
+- *caritrād* ← *caritrāt* ← *caritra*
 - \[noun\], ablative, singular, neuter
 - “foot; behavior.”
 ------------------------------------------------------------------------
@@ -76,14 +76,14 @@ title = "Rig Veda 8.48.5"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *srāmād* \< *srāmāt* \< *srāma*
+- *srāmād* ← *srāmāt* ← *srāma*
 - \[noun\], ablative, singular, masculine
 ------------------------------------------------------------------------
-- *yavayantv* \< *yavayantu* \< *yavay* \< *√yu*
+- *yavayantv* ← *yavayantu* ← *yavay* ← *√yu*
 - \[verb\], plural, Present imperative
 - “keep away; ward off.”
 ------------------------------------------------------------------------
-- *indavaḥ* \< *indu*
+- *indavaḥ* ← *indu*
 - \[noun\], nominative, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”

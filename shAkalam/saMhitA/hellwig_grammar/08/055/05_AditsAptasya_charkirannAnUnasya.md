@@ -2,22 +2,22 @@
 title = "Rig Veda 8.55.5"
 
 +++
--   *ād* \< *āt*
+-   *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *sāptasya* \< *sāpta*
+- *sāptasya* ← *sāpta*
 - \[noun\], genitive, singular, neuter
 ------------------------------------------------------------------------
-- *carkirann* \< *carkiran* \< *carkar* \< *√kṛ*
+- *carkirann* ← *carkiran* ← *carkar* ← *√kṛ*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “praise; commemorate.”
 ------------------------------------------------------------------------
-- *ānūnasya* \< *anūnasya* \< *anūna*
+- *ānūnasya* ← *anūnasya* ← *anūna*
 - \[noun\], genitive, singular, masculine
 - “perfect; entire.”
 ------------------------------------------------------------------------
@@ -25,22 +25,22 @@ title = "Rig Veda 8.55.5"
 - \[noun\], nominative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *śravaḥ* \< *śravas*
+- *śravaḥ* ← *śravas*
 - \[noun\], nominative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *śyāvīr* \< *śyāvīḥ* \< *śyāva*
+- *śyāvīr* ← *śyāvīḥ* ← *śyāva*
 - \[noun\], nominative, plural, feminine
 - “brown; dark; śyāva \[word\].”
 ------------------------------------------------------------------------
-- *atidhvasan* \< *atidhvaṃs* \< *√dhvaṃs*
+- *atidhvasan* ← *atidhvaṃs* ← *√dhvaṃs*
 - \[verb\], plural, Aorist inj. (proh.)
 ------------------------------------------------------------------------
-- *pathaś* \< *pathaḥ* \< *pathin*
+- *pathaś* ← *pathaḥ* ← *pathin*
 - \[noun\], accusative, plural, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *cakṣuṣā* \< *cakṣus*
+- *cakṣuṣā* ← *cakṣus*
 - \[noun\], instrumental, singular, neuter
 - “eye; look; visual perception; cakṣus \[word\]; sight.”
 ------------------------------------------------------------------------
@@ -48,6 +48,6 @@ title = "Rig Veda 8.55.5"
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *saṃnaśe* \< *saṃnaś* \< *√naś*
+- *saṃnaśe* ← *saṃnaś* ← *√naś*
 - \[verb noun\]
 ------------------------------------------------------------------------

@@ -9,33 +9,33 @@ title = "Rig Veda 2.28.4"
 - *sīm*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ādityo* \< *ādityaḥ* \< *āditya*
+- *ādityo* ← *ādityaḥ* ← *āditya*
 - \[noun\], nominative, singular, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
-- *asṛjad* \< *asṛjat* \< *sṛj*
+- *asṛjad* ← *asṛjat* ← *sṛj*
 - \[verb\], singular, Imperfect
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *vidhartāṃ* \< *vidhartṛ*
+- *vidhartāṃ* ← *vidhartṛ*
 - \[noun\], nominative, singular, masculine
 - “organizer.”
 ------------------------------------------------------------------------
-- *ṛtaṃ* \< *ṛtam* \< *ṛta*
+- *ṛtaṃ* ← *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *sindhavo* \< *sindhavaḥ* \< *sindhu*
+- *sindhavo* ← *sindhavaḥ* ← *sindhu*
 - \[noun\], nominative, plural, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *varuṇasya* \< *varuṇa*
+- *varuṇasya* ← *varuṇa*
 - \[noun\], genitive, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *yanti* \< *i*
+- *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
@@ -43,7 +43,7 @@ title = "Rig Veda 2.28.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śrāmyanti* \< *śram*
+- *śrāmyanti* ← *śram*
 - \[verb\], plural, Present indikative
 - “tire; exercise; tire.”
 ------------------------------------------------------------------------
@@ -55,7 +55,7 @@ title = "Rig Veda 2.28.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *mucanty* \< *mucanti* \< *muc*
+- *mucanty* ← *mucanti* ← *muc*
 - \[verb\], plural, Present indikative
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
     fill into; shoot; spill; lose; ejaculate; exclude; free; remove;
@@ -63,11 +63,11 @@ title = "Rig Veda 2.28.4"
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
 ------------------------------------------------------------------------
-- *ete* \< *etad*
+- *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *vayo* \< *vayaḥ* \< *vi*
+- *vayo* ← *vayaḥ* ← *vi*
 - \[noun\], nominative, plural, masculine
 - “vi; bird; vi.”
 ------------------------------------------------------------------------
@@ -75,7 +75,7 @@ title = "Rig Veda 2.28.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *paptū* \< *paptuḥ* \< *pat*
+- *paptū* ← *paptuḥ* ← *pat*
 - \[verb\], plural, Perfect indicative
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”

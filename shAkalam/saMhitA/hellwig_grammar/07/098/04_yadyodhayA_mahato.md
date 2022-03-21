@@ -2,45 +2,45 @@
 title = "Rig Veda 7.98.4"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yodhayā* \< *yodhayāḥ* \< *yodhay* \< *√yudh*
+- *yodhayā* ← *yodhayāḥ* ← *yodhay* ← *√yudh*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “fight; equal.”
 ------------------------------------------------------------------------
-- *mahato* \< *mahataḥ* \< *mahat*
+- *mahato* ← *mahataḥ* ← *mahat*
 - \[noun\], accusative, plural, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
 ------------------------------------------------------------------------
-- *manyamānān* \< *man*
+- *manyamānān* ← *man*
 - \[verb noun\], accusative, plural
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
 ------------------------------------------------------------------------
-- *sākṣāma* \< *sah*
+- *sākṣāma* ← *sah*
 - \[verb\], plural, Aorist conj./subj.
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------
-- *tān* \< *tad*
+- *tān* ← *tad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *bāhubhiḥ* \< *bāhu*
+- *bāhubhiḥ* ← *bāhu*
 - \[noun\], instrumental, plural, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
-- *śāśadānān* \< *śad*
+- *śāśadānān* ← *śad*
 - \[verb noun\], accusative, plural
 - “prevail.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -48,42 +48,42 @@ title = "Rig Veda 7.98.4"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *nṛbhir* \< *nṛbhiḥ* \< *nṛ*
+- *nṛbhir* ← *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *vṛta* \< *vṛtaḥ* \< *vṛ*
+- *vṛta* ← *vṛtaḥ* ← *vṛ*
 - \[verb noun\], nominative, singular
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *indrābhiyudhyās* \< *indra*
+- *indrābhiyudhyās* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrābhiyudhyās* \< *abhiyudhyāḥ* \< *abhiyudh* \< *√yudh*
+- *indrābhiyudhyās* ← *abhiyudhyāḥ* ← *abhiyudh* ← *√yudh*
 - \[verb\], singular, Present conjunctive (subjunctive)
 ------------------------------------------------------------------------
-- *taṃ* \< *tam* \< *tad*
+- *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tvayājiṃ* \< *tvayā* \< *tvad*
+- *tvayājiṃ* ← *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tvayājiṃ* \< *ājim* \< *āji*
+- *tvayājiṃ* ← *ājim* ← *āji*
 - \[noun\], accusative, singular, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
 ------------------------------------------------------------------------
-- *sauśravasaṃ* \< *sauśravasam* \< *sauśravasa*
+- *sauśravasaṃ* ← *sauśravasam* ← *sauśravasa*
 - \[noun\], accusative, singular, neuter
 - “reputable.”
 ------------------------------------------------------------------------
-- *jayema* \< *ji*
+- *jayema* ← *ji*
 - \[verb\], plural, Present optative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”

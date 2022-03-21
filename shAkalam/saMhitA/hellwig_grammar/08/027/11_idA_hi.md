@@ -9,22 +9,22 @@ title = "Rig Veda 8.27.11"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *upastutim* \< *upastuti*
+- *upastutim* ← *upastuti*
 - \[noun\], accusative, singular, feminine
 - “praise; applause.”
 ------------------------------------------------------------------------
 - *idā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *vāmasya* \< *vāma*
+- *vāmasya* ← *vāma*
 - \[noun\], genitive, singular, neuter
 - “agreeable; vāma \[word\]; beautiful.”
 ------------------------------------------------------------------------
-- *bhaktaye* \< *bhakti*
+- *bhaktaye* ← *bhakti*
 - \[noun\], dative, singular, feminine
 - “Bhakti; devotion; bhakti \[word\]; friendliness; attachment;
     devotion.”
@@ -33,32 +33,32 @@ title = "Rig Veda 8.27.11"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *viśvavedaso* \< *viśva*
+- *viśvavedaso* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvavedaso* \< *vedasaḥ* \< *vedas*
+- *viśvavedaso* ← *vedasaḥ* ← *vedas*
 - \[noun\], vocative, plural, masculine
 - “knowledge.”
 ------------------------------------------------------------------------
-- *namasyur* \< *namasyuḥ* \< *namasyu*
+- *namasyur* ← *namasyuḥ* ← *namasyu*
 - \[noun\], nominative, singular, masculine
 - “bowed.”
 ------------------------------------------------------------------------
-- *āṃ* \< *ām* \< *āṃ*
+- *āṃ* ← *ām* ← *āṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *asṛkṣy* \< *asṛkṣi* \< *sṛj*
+- *asṛkṣy* ← *asṛkṣi* ← *sṛj*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *anyām* \< *anya*
+- *anyām* ← *anya*
 - \[noun\], accusative, singular, feminine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”

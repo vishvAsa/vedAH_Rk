@@ -2,7 +2,7 @@
 title = "Rig Veda 6.23.2"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -10,15 +10,15 @@ title = "Rig Veda 6.23.2"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *divi* \< *div*
+- *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *pārye* \< *pārya*
+- *pārye* ← *pārya*
 - \[noun\], locative, singular, masculine
 - “critical; decisive.”
 ------------------------------------------------------------------------
-- *suṣvim* \< *suṣvi*
+- *suṣvim* ← *suṣvi*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *indra*
@@ -26,22 +26,22 @@ title = "Rig Veda 6.23.2"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vṛtrahatye* \< *vṛtra*
+- *vṛtrahatye* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *vṛtrahatye* \< *hatye* \< *hatya*
+- *vṛtrahatye* ← *hatye* ← *hatya*
 - \[noun\], locative, singular, neuter
 - “killing.”
 ------------------------------------------------------------------------
-- *'vasi* \< *avasi* \< *av*
+- *'vasi* ← *avasi* ← *av*
 - \[verb\], singular, Present indikative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *śūrasātau* \< *śūrasāti*
+- *śūrasātau* ← *śūrasāti*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -49,27 +49,27 @@ title = "Rig Veda 6.23.2"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *dakṣasya* \< *dakṣa*
+- *dakṣasya* ← *dakṣa*
 - \[noun\], genitive, singular, masculine
 - “deft; right; intelligent; expert.”
 ------------------------------------------------------------------------
-- *bibhyuṣo* \< *bibhyuṣaḥ* \< *bhī*
+- *bibhyuṣo* ← *bibhyuṣaḥ* ← *bhī*
 - \[verb noun\], genitive, singular
 - “fear; fear.”
 ------------------------------------------------------------------------
-- *abibhyad* \< *a*
+- *abibhyad* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *abibhyad* \< *bibhyat* \< *bhī*
+- *abibhyad* ← *bibhyat* ← *bhī*
 - \[verb noun\], nominative, singular
 - “fear; fear.”
 ------------------------------------------------------------------------
-- *arandhayaḥ* \< *randhay* \< *√radh*
+- *arandhayaḥ* ← *randhay* ← *√radh*
 - \[verb\], singular, Imperfect
 - “subjugate; hand over.”
 ------------------------------------------------------------------------
-- *śardhata* \< *śardhataḥ* \< *śṛdh*
+- *śardhata* ← *śardhataḥ* ← *śṛdh*
 - \[verb noun\], accusative, plural
 ------------------------------------------------------------------------
 - *indra*
@@ -77,7 +77,7 @@ title = "Rig Veda 6.23.2"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dasyūn* \< *dasyu*
+- *dasyūn* ← *dasyu*
 - \[noun\], accusative, plural, masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------

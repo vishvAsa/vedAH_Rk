@@ -2,15 +2,15 @@
 title = "Rig Veda 4.19.8"
 
 +++
--   *pūrvīr* \< *pūrvīḥ* \< *puru*
+-   *pūrvīr* ← *pūrvīḥ* ← *puru*
 - \[noun\], accusative, plural, feminine
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *uṣasaḥ* \< *uṣas*
+- *uṣasaḥ* ← *uṣas*
 - \[noun\], accusative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *śaradaś* \< *śaradaḥ* \< *śarad*
+- *śaradaś* ← *śaradaḥ* ← *śarad*
 - \[noun\], accusative, plural, feminine
 - “fall; year; śarad \[word\].”
 ------------------------------------------------------------------------
@@ -18,20 +18,20 @@ title = "Rig Veda 4.19.8"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *gūrtā* \< *gūrtāḥ* \< *gur*
+- *gūrtā* ← *gūrtāḥ* ← *gur*
 - \[verb noun\], accusative, plural
 ------------------------------------------------------------------------
-- *vṛtraṃ* \< *vṛtram* \< *vṛtra*
+- *vṛtraṃ* ← *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *jaghanvāṃ* \< *han*
+- *jaghanvāṃ* ← *han*
 - \[verb noun\], nominative, singular
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *asṛjad* \< *asṛjat* \< *sṛj*
+- *asṛjad* ← *asṛjat* ← *sṛj*
 - \[verb\], singular, Imperfect
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
@@ -40,34 +40,34 @@ title = "Rig Veda 4.19.8"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *sindhūn* \< *sindhu*
+- *sindhūn* ← *sindhu*
 - \[noun\], accusative, plural, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *pariṣṭhitā* \< *pariṣṭhitāḥ* \< *pariṣṭhā* \< *√sthā*
+- *pariṣṭhitā* ← *pariṣṭhitāḥ* ← *pariṣṭhā* ← *√sthā*
 - \[verb noun\], accusative, plural
 ------------------------------------------------------------------------
-- *atṛṇad* \< *atṛṇat* \< *tṛd*
+- *atṛṇad* ← *atṛṇat* ← *tṛd*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *badbadhānāḥ* \< *badbadh* \< *√bādh*
+- *badbadhānāḥ* ← *badbadh* ← *√bādh*
 - \[verb noun\], accusative, plural
 ------------------------------------------------------------------------
-- *sīrā* \< *sīrāḥ* \< *sīrā*
+- *sīrā* ← *sīrāḥ* ← *sīrā*
 - \[noun\], accusative, plural, feminine
 - “stream.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sravitave* \< *sru*
+- *sravitave* ← *sru*
 - \[verb noun\]
 - “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
     disappear; leak; fester.”
 ------------------------------------------------------------------------
-- *pṛthivyā* \< *pṛthivī*
+- *pṛthivyā* ← *pṛthivī*
 - \[noun\], instrumental, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------

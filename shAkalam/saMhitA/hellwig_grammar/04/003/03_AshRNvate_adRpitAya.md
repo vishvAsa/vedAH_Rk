@@ -2,82 +2,82 @@
 title = "Rig Veda 4.3.3"
 
 +++
--   *āśṛṇvate* \< *ā* \< *a*
+-   *āśṛṇvate* ← *ā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *āśṛṇvate* \< *śṛṇvate* \< *śru*
+- *āśṛṇvate* ← *śṛṇvate* ← *śru*
 - \[verb noun\], dative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *adṛpitāya* \< *a*
+- *adṛpitāya* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *adṛpitāya* \< *dṛpitāya* \< *dṛp*
+- *adṛpitāya* ← *dṛpitāya* ← *dṛp*
 - \[verb noun\], dative, singular
 ------------------------------------------------------------------------
-- *manma* \< *manman*
+- *manma* ← *manman*
 - \[noun\], accusative, singular, neuter
 - “hymn; idea; purpose.”
 ------------------------------------------------------------------------
-- *nṛcakṣase* \< *nṛ*
+- *nṛcakṣase* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nṛcakṣase* \< *cakṣase* \< *cakṣas*
+- *nṛcakṣase* ← *cakṣase* ← *cakṣas*
 - \[noun\], dative, singular, masculine
 - “eye; look; radiance.”
 ------------------------------------------------------------------------
-- *sumṛﾱīkāya* \< *su*
+- *sumṛﾱīkāya* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sumṛﾱīkāya* \< *mṛﾱīkāya* \< *mṛḍīka*
+- *sumṛﾱīkāya* ← *mṛﾱīkāya* ← *mṛḍīka*
 - \[noun\], dative, singular, masculine
 - “compassion; favor.”
 ------------------------------------------------------------------------
-- *vedhaḥ* \< *vedhas*
+- *vedhaḥ* ← *vedhas*
 - \[noun\], vocative, singular, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
 ------------------------------------------------------------------------
-- *devāya* \< *deva*
+- *devāya* ← *deva*
 - \[noun\], dative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *śastim* \< *śasti*
+- *śastim* ← *śasti*
 - \[noun\], accusative, singular, feminine
 - “hymn; praise.”
 ------------------------------------------------------------------------
-- *amṛtāya* \< *amṛta*
+- *amṛtāya* ← *amṛta*
 - \[noun\], dative, singular, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *śaṃsa* \< *śaṃs*
+- *śaṃsa* ← *śaṃs*
 - \[verb\], singular, Present imperative
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
 ------------------------------------------------------------------------
-- *grāveva* \< *grāvā* \< *grāvan*
+- *grāveva* ← *grāvā* ← *grāvan*
 - \[noun\], nominative, singular, masculine
 - “stone; millstone; grindstone; mountain.”
 ------------------------------------------------------------------------
-- *grāveva* \< *iva*
+- *grāveva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sotā* \< *sotṛ*
+- *sotā* ← *sotṛ*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *madhuṣud* \< *madhuṣut*
+- *madhuṣud* ← *madhuṣut*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *yam* \< *yad*
+- *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *īḍe* \< *īḍ*
+- *īḍe* ← *īḍ*
 - \[verb\], singular, Present indikative
 - “praise; invite; raise.”
 ------------------------------------------------------------------------

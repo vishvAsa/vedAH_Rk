@@ -6,11 +6,11 @@ title = "Rig Veda 7.1.11"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *śūne* \< *śūna*
+- *śūne* ← *śūna*
 - \[noun\], locative, singular, neuter
 - “lack; absence.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -20,36 +20,36 @@ title = "Rig Veda 7.1.11"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ṣadāma* \< *sadāma* \< *sad*
+- *ṣadāma* ← *sadāma* ← *sad*
 - \[verb\], plural, Aorist inj. (proh.)
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *nṛṇām* \< *nṛ*
+- *nṛṇām* ← *nṛ*
 - \[noun\], genitive, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *māśeṣaso* \< *mā*
+- *māśeṣaso* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *māśeṣaso* \< *a*
+- *māśeṣaso* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *māśeṣaso* \< *śeṣasaḥ* \< *śeṣas*
+- *māśeṣaso* ← *śeṣasaḥ* ← *śeṣas*
 - \[noun\], nominative, plural, masculine
 - “offspring.”
 ------------------------------------------------------------------------
-- *'vīratā* \< *a*
+- *'vīratā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *'vīratā* \< *vīra*
+- *'vīratā* ← *vīra*
 - \[noun\], masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *'vīratā* \< *tā*
+- *'vīratā* ← *tā*
 - \[noun\], instrumental, singular, feminine
 - “state; Lakshmi.”
 ------------------------------------------------------------------------
@@ -57,15 +57,15 @@ title = "Rig Veda 7.1.11"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *prajāvatīṣu* \< *prajāvat*
+- *prajāvatīṣu* ← *prajāvat*
 - \[noun\], locative, plural, feminine
 - “prolific.”
 ------------------------------------------------------------------------
-- *duryāsu* \< *durya*
+- *duryāsu* ← *durya*
 - \[noun\], locative, plural, feminine
 - “house.”
 ------------------------------------------------------------------------

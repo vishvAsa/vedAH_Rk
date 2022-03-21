@@ -2,17 +2,17 @@
 title = "Rig Veda 6.48.14"
 
 +++
--   *taṃ* \< *tam* \< *tad*
+-   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -21,11 +21,11 @@ title = "Rig Veda 6.48.14"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sukratuṃ* \< *sukratum* \< *sukratu*
+- *sukratuṃ* ← *sukratum* ← *sukratu*
 - \[noun\], accusative, singular, masculine
 - “wise.”
 ------------------------------------------------------------------------
-- *varuṇam* \< *varuṇa*
+- *varuṇam* ← *varuṇa*
 - \[noun\], accusative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
@@ -34,11 +34,11 @@ title = "Rig Veda 6.48.14"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *māyinam* \< *māyin*
+- *māyinam* ← *māyin*
 - \[noun\], accusative, singular, masculine
 - “artful; charming; crafty; deceptive.”
 ------------------------------------------------------------------------
-- *aryamaṇaṃ* \< *aryamaṇam* \< *aryaman*
+- *aryamaṇaṃ* ← *aryamaṇam* ← *aryaman*
 - \[noun\], accusative, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
 ------------------------------------------------------------------------
@@ -46,19 +46,19 @@ title = "Rig Veda 6.48.14"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *mandraṃ* \< *mandram* \< *mandra*
+- *mandraṃ* ← *mandram* ← *mandra*
 - \[noun\], accusative, singular, masculine
 - “pleasant; eloquent; dulcet.”
 ------------------------------------------------------------------------
-- *sṛprabhojasaṃ* \< *sṛpra*
+- *sṛprabhojasaṃ* ← *sṛpra*
 - \[noun\]
 - “glossy; greasy.”
 ------------------------------------------------------------------------
-- *sṛprabhojasaṃ* \< *bhojasam* \< *bhojas*
+- *sṛprabhojasaṃ* ← *bhojasam* ← *bhojas*
 - \[noun\], accusative, singular, masculine
 - “advantage; utility; food.”
 ------------------------------------------------------------------------
-- *viṣṇuṃ* \< *viṣṇum* \< *viṣṇu*
+- *viṣṇuṃ* ← *viṣṇum* ← *viṣṇu*
 - \[noun\], accusative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
 ------------------------------------------------------------------------
@@ -66,11 +66,11 @@ title = "Rig Veda 6.48.14"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *stuṣa* \< *stuṣe* \< *stu*
+- *stuṣa* ← *stuṣe* ← *stu*
 - \[verb\], singular, Present indikative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *ādiśe* \< *ādiś*
+- *ādiśe* ← *ādiś*
 - \[noun\], dative, singular, feminine
 - “admonition.”
 ------------------------------------------------------------------------

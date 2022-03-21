@@ -6,19 +6,19 @@ title = "Rig Veda 1.28.4"
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *manthāṃ* \< *manthām* \< *manthā*
+- *manthāṃ* ← *manthām* ← *manthā*
 - \[noun\], accusative, singular, feminine
 - “churning stick; fenugreek.”
 ------------------------------------------------------------------------
-- *vibadhnate* \< *vibandh* \< *√bandh*
+- *vibadhnate* ← *vibandh* ← *√bandh*
 - \[verb\], plural, Present indikative
 - “envelop; wrap; constipate.”
 ------------------------------------------------------------------------
-- *raśmīn* \< *raśmi*
+- *raśmīn* ← *raśmi*
 - \[noun\], accusative, plural, masculine
 - “beam; rein; sunbeam; shininess; cord.”
 ------------------------------------------------------------------------
-- *yamitavā* \< *yamitavai* \< *yam*
+- *yamitavā* ← *yamitavai* ← *yam*
 - \[verb noun\]
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
@@ -26,23 +26,23 @@ title = "Rig Veda 1.28.4"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ulūkhalasutānām* \< *ulūkhala*
+- *ulūkhalasutānām* ← *ulūkhala*
 - \[noun\], masculine
 - “mortar; ulūkhala.”
 ------------------------------------------------------------------------
-- *ulūkhalasutānām* \< *sutānām* \< *su*
+- *ulūkhalasutānām* ← *sutānām* ← *su*
 - \[verb noun\], genitive, plural
 - “press out; su.”
 ------------------------------------------------------------------------
-- *aved* \< *ava*
+- *aved* ← *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *aved* \< *id*
+- *aved* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *v* \< *u*
+- *v* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
@@ -51,7 +51,7 @@ title = "Rig Veda 1.28.4"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *jalgulaḥ* \< *jargur* \< *√gṛ*
+- *jalgulaḥ* ← *jargur* ← *√gṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “swallow.”
 ------------------------------------------------------------------------

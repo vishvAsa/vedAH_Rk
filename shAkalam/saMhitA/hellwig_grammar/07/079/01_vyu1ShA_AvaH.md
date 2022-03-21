@@ -2,63 +2,63 @@
 title = "Rig Veda 7.79.1"
 
 +++
--   *vy* \< *vi*
+-   *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *uṣā* \< *uṣāḥ* \< *uṣas*
+- *uṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *āvaḥ* \< *vṛ*
+- *āvaḥ* ← *vṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *pathyā* \< *pathyāḥ* \< *pathyā*
+- *pathyā* ← *pathyāḥ* ← *pathyā*
 - \[noun\], accusative, plural, feminine
 - “Terminalia chebula Retz.; path; Pathyā; way.”
 ------------------------------------------------------------------------
-- *janānām* \< *jana*
+- *janānām* ← *jana*
 - \[noun\], genitive, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *pañca* \< *pañcan*
+- *pañca* ← *pañcan*
 - \[noun\], accusative, plural, feminine
 - “five; fifth; pañcan \[word\].”
 ------------------------------------------------------------------------
-- *kṣitīr* \< *kṣitīḥ* \< *kṣiti*
+- *kṣitīr* ← *kṣitīḥ* ← *kṣiti*
 - \[noun\], accusative, plural, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
 ------------------------------------------------------------------------
-- *mānuṣīr* \< *mānuṣīḥ* \< *mānuṣa*
+- *mānuṣīr* ← *mānuṣīḥ* ← *mānuṣa*
 - \[noun\], accusative, plural, feminine
 - “human.”
 ------------------------------------------------------------------------
-- *bodhayantī* \< *bodhay* \< *√budh*
+- *bodhayantī* ← *bodhay* ← *√budh*
 - \[verb noun\], nominative, singular
 - “awaken; ignite; advise; admonish; communicate.”
 ------------------------------------------------------------------------
-- *susaṃdṛgbhir* \< *su*
+- *susaṃdṛgbhir* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *susaṃdṛgbhir* \< *saṃdṛgbhiḥ* \< *saṃdṛś*
+- *susaṃdṛgbhir* ← *saṃdṛgbhiḥ* ← *saṃdṛś*
 - \[noun\], instrumental, plural, masculine
 - “appearance; view; view.”
 ------------------------------------------------------------------------
-- *ukṣabhir* \< *ukṣabhiḥ* \< *ukṣan*
+- *ukṣabhir* ← *ukṣabhiḥ* ← *ukṣan*
 - \[noun\], instrumental, plural, masculine
 - “bull; ukṣan \[word\].”
 ------------------------------------------------------------------------
-- *bhānum* \< *bhānu*
+- *bhānum* ← *bhānu*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
 ------------------------------------------------------------------------
-- *aśred* \< *aśret* \< *śri*
+- *aśred* ← *aśret* ← *śri*
 - \[verb\], singular, Root aorist (Ind.)
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 ------------------------------------------------------------------------
@@ -66,7 +66,7 @@ title = "Rig Veda 7.79.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *sūryo* \< *sūryaḥ* \< *sūrya*
+- *sūryo* ← *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
@@ -75,11 +75,11 @@ title = "Rig Veda 7.79.1"
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *cakṣasāvaḥ* \< *cakṣasā* \< *cakṣas*
+- *cakṣasāvaḥ* ← *cakṣasā* ← *cakṣas*
 - \[noun\], instrumental, singular, neuter
 - “eye; look; radiance.”
 ------------------------------------------------------------------------
-- *cakṣasāvaḥ* \< *āvaḥ* \< *vṛ*
+- *cakṣasāvaḥ* ← *āvaḥ* ← *vṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”

@@ -6,21 +6,21 @@ title = "Rig Veda 8.22.15"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sugmyāya* \< *sugmya*
+- *sugmyāya* ← *sugmya*
 - \[noun\], dative, singular, neuter
 ------------------------------------------------------------------------
-- *sugmyam* \< *sugmya*
+- *sugmyam* ← *sugmya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *prātā* \< *prātar*
+- *prātā* ← *prātar*
 - \[adverb\]
 - “at dawn; early.”
 ------------------------------------------------------------------------
-- *rathenāśvinā* \< *rathena* \< *ratha*
+- *rathenāśvinā* ← *rathena* ← *ratha*
 - \[noun\], instrumental, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *rathenāśvinā* \< *aśvinā* \< *aśvin*
+- *rathenāśvinā* ← *aśvinā* ← *aśvin*
 - \[noun\], accusative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
@@ -28,22 +28,22 @@ title = "Rig Veda 8.22.15"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *sakṣaṇī* \< *sakṣaṇi*
+- *sakṣaṇī* ← *sakṣaṇi*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------
-- *huve* \< *hvā*
+- *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *piteva* \< *pitā* \< *pitṛ*
+- *piteva* ← *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *piteva* \< *iva*
+- *piteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sobharī* \< *sobhari*
+- *sobharī* ← *sobhari*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------

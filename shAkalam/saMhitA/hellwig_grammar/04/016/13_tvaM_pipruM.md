@@ -2,29 +2,29 @@
 title = "Rig Veda 4.16.13"
 
 +++
--   *tvam* \< *tvad*
+-   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *piprum* \< *pipru*
+- *piprum* ← *pipru*
 - \[noun\], accusative, singular, masculine
 - “Pipru.”
 ------------------------------------------------------------------------
-- *mṛgayaṃ* \< *mṛgayam* \< *mṛgaya*
+- *mṛgayaṃ* ← *mṛgayam* ← *mṛgaya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *śūśuvāṃsam* \< *śvi*
+- *śūśuvāṃsam* ← *śvi*
 - \[verb noun\], accusative, singular
 - “swell; grow.”
 ------------------------------------------------------------------------
-- *ṛjiśvane* \< *ṛjiśvan*
+- *ṛjiśvane* ← *ṛjiśvan*
 - \[noun\], dative, singular, masculine
 - “Ṛjiśvan.”
 ------------------------------------------------------------------------
-- *vaidathināya* \< *vaidathina*
+- *vaidathināya* ← *vaidathina*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *randhīḥ* \< *radh*
+- *randhīḥ* ← *radh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “subjugate.”
 ------------------------------------------------------------------------
@@ -32,7 +32,7 @@ title = "Rig Veda 4.16.13"
 - \[noun\], accusative, singular, feminine
 - “fifty; pañcāśat \[word\].”
 ------------------------------------------------------------------------
-- *kṛṣṇā* \< *kṛṣṇāḥ* \< *kṛṣṇa*
+- *kṛṣṇā* ← *kṛṣṇāḥ* ← *kṛṣṇa*
 - \[noun\], accusative, plural, feminine
 - “black; dark; dark; blue; black.”
 ------------------------------------------------------------------------
@@ -40,15 +40,15 @@ title = "Rig Veda 4.16.13"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *vapaḥ* \< *vap*
+- *vapaḥ* ← *vap*
 - \[verb\], singular, Present injunctive
 - “sow; bestrew; strew; scatter.”
 ------------------------------------------------------------------------
-- *sahasrātkaṃ* \< *sahasrā* \< *sahasra*
+- *sahasrātkaṃ* ← *sahasrā* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasrātkaṃ* \< *atkam* \< *atka*
+- *sahasrātkaṃ* ← *atkam* ← *atka*
 - \[noun\], accusative, singular, masculine
 - “garment.”
 ------------------------------------------------------------------------
@@ -56,11 +56,11 @@ title = "Rig Veda 4.16.13"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *puro* \< *puraḥ* \< *pur*
+- *puro* ← *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
-- *jarimā* \< *jariman*
+- *jarimā* ← *jariman*
 - \[noun\], nominative, singular, masculine
 - “old age.”
 ------------------------------------------------------------------------
@@ -68,7 +68,7 @@ title = "Rig Veda 4.16.13"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *dardaḥ* \< *dardar* \< *√dṛ*
+- *dardaḥ* ← *dardar* ← *√dṛ*
 - \[verb\], singular, Present injunctive
 - “cleave.”
 ------------------------------------------------------------------------

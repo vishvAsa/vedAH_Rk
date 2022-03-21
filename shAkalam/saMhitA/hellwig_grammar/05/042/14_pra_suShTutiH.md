@@ -10,24 +10,24 @@ title = "Rig Veda 5.42.14"
 - \[noun\], nominative, singular, feminine
 - “hymn; praise.”
 ------------------------------------------------------------------------
-- *stanayantaṃ* \< *stanayantam* \< *stanay* \< *√stan*
+- *stanayantaṃ* ← *stanayantam* ← *stanay* ← *√stan*
 - \[verb noun\], accusative, singular
 - “thunder; thunder.”
 ------------------------------------------------------------------------
-- *ruvantam* \< *ru*
+- *ruvantam* ← *ru*
 - \[verb noun\], accusative, singular
 - “bellow; howl.”
 ------------------------------------------------------------------------
-- *iﾱas* \< *iḍaḥ* \< *iḍ*
+- *iﾱas* ← *iḍaḥ* ← *iḍ*
 - \[noun\], genitive, singular, masculine
 - “refreshment; libation.”
 ------------------------------------------------------------------------
-- *patiṃ* \< *patim* \< *pati*
+- *patiṃ* ← *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *jaritar* \< *jaritṛ*
+- *jaritar* ← *jaritṛ*
 - \[noun\], vocative, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------
@@ -35,21 +35,21 @@ title = "Rig Veda 5.42.14"
 - \[adverb\]
 - “now; surely; immediately; just.”
 ------------------------------------------------------------------------
-- *aśyāḥ* \< *aś*
+- *aśyāḥ* ← *aś*
 - \[verb\], singular, Aorist optative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *abdimāṃ* \< *abdimat*
+- *abdimāṃ* ← *abdimat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *udanimāṃ* \< *udanimat*
+- *udanimāṃ* ← *udanimat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *iyarti* \< *ṛch*
+- *iyarti* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
@@ -58,15 +58,15 @@ title = "Rig Veda 5.42.14"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vidyutā* \< *vidyut*
+- *vidyutā* ← *vidyut*
 - \[noun\], instrumental, singular, feminine
 - “lightning; Vidyut; thunderbolt.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *ukṣamāṇaḥ* \< *ukṣ*
+- *ukṣamāṇaḥ* ← *ukṣ*
 - \[verb noun\], nominative, singular
 - “sprinkle; wet.”
 ------------------------------------------------------------------------

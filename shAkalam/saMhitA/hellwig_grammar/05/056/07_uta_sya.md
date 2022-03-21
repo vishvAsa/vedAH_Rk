@@ -6,19 +6,19 @@ title = "Rig Veda 5.56.7"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *sya* \< *tya*
+- *sya* ← *tya*
 - \[noun\], nominative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *vājy* \< *vājī* \< *vājin*
+- *vājy* ← *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *aruṣas* \< *aruṣaḥ* \< *aruṣa*
+- *aruṣas* ← *aruṣaḥ* ← *aruṣa*
 - \[noun\], nominative, singular, masculine
 - “red; red.”
 ------------------------------------------------------------------------
-- *tuviṣvaṇir* \< *tuviṣvaṇiḥ* \< *tuviṣvaṇi*
+- *tuviṣvaṇir* ← *tuviṣvaṇiḥ* ← *tuviṣvaṇi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *iha*
@@ -28,12 +28,12 @@ title = "Rig Veda 5.56.7"
 - *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *dhāyi* \< *dhā*
+- *dhāyi* ← *dhā*
 - \[verb\], singular, Aorist passive
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *darśataḥ* \< *darśata*
+- *darśataḥ* ← *darśata*
 - \[noun\], nominative, singular, masculine
 - “beautiful; visible; beautiful.”
 ------------------------------------------------------------------------
@@ -41,23 +41,23 @@ title = "Rig Veda 5.56.7"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *yāmeṣu* \< *yāma*
+- *yāmeṣu* ← *yāma*
 - \[noun\], locative, plural, masculine
 - “prahara; watch; travel; path.”
 ------------------------------------------------------------------------
-- *marutaś* \< *marutaḥ* \< *marut*
+- *marutaś* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *ciraṃ* \< *ciram*
+- *ciraṃ* ← *ciram*
 - \[adverb\]
 - “long; ciram \[word\].”
 ------------------------------------------------------------------------
-- *karat* \< *kṛ*
+- *karat* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -72,17 +72,17 @@ title = "Rig Veda 5.56.7"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *taṃ* \< *tam* \< *tad*
+- *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ratheṣu* \< *ratha*
+- *ratheṣu* ← *ratha*
 - \[noun\], locative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *codata* \< *cud*
+- *codata* ← *cud*
 - \[verb\], plural, Present imperative
 - “urge; rush.”
 ------------------------------------------------------------------------

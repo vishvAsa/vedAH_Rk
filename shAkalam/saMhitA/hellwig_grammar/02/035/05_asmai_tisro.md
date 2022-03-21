@@ -2,39 +2,39 @@
 title = "Rig Veda 2.35.5"
 
 +++
--   *asmai* \< *idam*
+-   *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *tisro* \< *tisraḥ* \< *tri*
+- *tisro* ← *tisraḥ* ← *tri*
 - \[noun\], nominative, plural, feminine
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *avyathyāya* \< *avyathya*
+- *avyathyāya* ← *avyathya*
 - \[noun\], dative, singular, masculine
 - “avyathya \[word\]; firm.”
 ------------------------------------------------------------------------
-- *nārīr* \< *nārīḥ* \< *nārī*
+- *nārīr* ← *nārīḥ* ← *nārī*
 - \[noun\], nominative, plural, feminine
 - “woman; wife; female.”
 ------------------------------------------------------------------------
-- *devāya* \< *deva*
+- *devāya* ← *deva*
 - \[noun\], dative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devīr* \< *devīḥ* \< *devī*
+- *devīr* ← *devīḥ* ← *devī*
 - \[noun\], nominative, plural, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *didhiṣanty* \< *didhiṣanti* \< *didhiṣ* \< *√dhā*
+- *didhiṣanty* ← *didhiṣanti* ← *didhiṣ* ← *√dhā*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *annam* \< *anna*
+- *annam* ← *anna*
 - \[noun\], accusative, singular, neuter
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
 ------------------------------------------------------------------------
-- *kṛtā* \< *kṛtāḥ* \< *kṛ*
+- *kṛtā* ← *kṛtāḥ* ← *kṛ*
 - \[verb noun\], accusative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -45,11 +45,11 @@ title = "Rig Veda 2.35.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *ivopa* \< *iva*
+- *ivopa* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ivopa* \< *upa*
+- *ivopa* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
@@ -57,34 +57,34 @@ title = "Rig Veda 2.35.5"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *prasarsre* \< *prasarsṛ* \< *√sṛ*
+- *prasarsre* ← *prasarsṛ* ← *√sṛ*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *apsu* \< *ap*
+- *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *pīyūṣaṃ* \< *pīyūṣam* \< *pīyūṣa*
+- *pīyūṣaṃ* ← *pīyūṣam* ← *pīyūṣa*
 - \[noun\], accusative, singular, neuter
 - “amṛta; pīyūṣa; ambrosia.”
 ------------------------------------------------------------------------
-- *dhayati* \< *dhā*
+- *dhayati* ← *dhā*
 - \[verb\], singular, Present indikative
 - “breastfeed; suck.”
 ------------------------------------------------------------------------
-- *pūrvasūnām* \< *pūrva*
+- *pūrvasūnām* ← *pūrva*
 - \[noun\]
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *pūrvasūnām* \< *sūnām* \< *sū*
+- *pūrvasūnām* ← *sūnām* ← *sū*
 - \[noun\], genitive, plural, feminine
 - “sū; mother.”
 ------------------------------------------------------------------------

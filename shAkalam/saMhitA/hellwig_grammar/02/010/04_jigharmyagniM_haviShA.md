@@ -2,65 +2,65 @@
 title = "Rig Veda 2.10.4"
 
 +++
--   *jigharmy* \< *jigharmi* \< *ghṛ*
+-   *jigharmy* ← *jigharmi* ← *ghṛ*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *agniṃ* \< *agnim* \< *agni*
+- *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *haviṣā* \< *havis*
+- *haviṣā* ← *havis*
 - \[noun\], instrumental, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *ghṛtena* \< *ghṛta*
+- *ghṛtena* ← *ghṛta*
 - \[noun\], instrumental, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *pratikṣiyantam* \< *pratikṣi* \< *√kṣi*
+- *pratikṣiyantam* ← *pratikṣi* ← *√kṣi*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *bhuvanāni* \< *bhuvana*
+- *bhuvanāni* ← *bhuvana*
 - \[noun\], accusative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *pṛthuṃ* \< *pṛthum* \< *pṛthu*
+- *pṛthuṃ* ← *pṛthum* ← *pṛthu*
 - \[noun\], accusative, singular, masculine
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
 ------------------------------------------------------------------------
-- *tiraścā* \< *\_* \< *√\_*
+- *tiraścā* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *vayasā* \< *vayas*
+- *vayasā* ← *vayas*
 - \[noun\], instrumental, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
 ------------------------------------------------------------------------
-- *bṛhantaṃ* \< *bṛhantam* \< *bṛhat*
+- *bṛhantaṃ* ← *bṛhantam* ← *bṛhat*
 - \[noun\], accusative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *vyaciṣṭham* \< *vyaciṣṭha*
+- *vyaciṣṭham* ← *vyaciṣṭha*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *annai* \< *annaiḥ* \< *anna*
+- *annai* ← *annaiḥ* ← *anna*
 - \[noun\], instrumental, plural, neuter
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
 ------------------------------------------------------------------------
-- *rabhasaṃ* \< *rabhasam* \< *rabhasa*
+- *rabhasaṃ* ← *rabhasam* ← *rabhasa*
 - \[noun\], accusative, singular, masculine
 - “fierce; impetuous; powerful; potent; flamboyant.”
 ------------------------------------------------------------------------
-- *dṛśānam* \< *dṛś*
+- *dṛśānam* ← *dṛś*
 - \[verb noun\], accusative, singular
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;

@@ -2,66 +2,66 @@
 title = "Rig Veda 10.14.2"
 
 +++
--   *yamo* \< *yamaḥ* \< *yama*
+-   *yamo* ← *yamaḥ* ← *yama*
 - \[noun\], nominative, singular, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *gātum* \< *gātu*
+- *gātum* ← *gātu*
 - \[noun\], accusative, singular, masculine
 - “path; way.”
 ------------------------------------------------------------------------
-- *prathamo* \< *prathamaḥ* \< *prathama*
+- *prathamo* ← *prathamaḥ* ← *prathama*
 - \[noun\], nominative, singular, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
 ------------------------------------------------------------------------
-- *viveda* \< *vid*
+- *viveda* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *naiṣā* \< *na*
+- *naiṣā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *naiṣā* \< *eṣā* \< *etad*
+- *naiṣā* ← *eṣā* ← *etad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *gavyūtir* \< *gavyūtiḥ* \< *gavyūti*
+- *gavyūtir* ← *gavyūtiḥ* ← *gavyūti*
 - \[noun\], nominative, singular, feminine
 - “pasture.”
 ------------------------------------------------------------------------
-- *apabhartavā* \< *apabhartavai* \< *apabhṛ* \< *√bhṛ*
+- *apabhartavā* ← *apabhartavai* ← *apabhṛ* ← *√bhṛ*
 - \[verb noun\]
 ------------------------------------------------------------------------
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *yatrā* \< *yatra*
+- *yatrā* ← *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pūrve* \< *pūrva*
+- *pūrve* ← *pūrva*
 - \[noun\], nominative, plural, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *pitaraḥ* \< *pitṛ*
+- *pitaraḥ* ← *pitṛ*
 - \[noun\], nominative, plural
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *pareyur* \< *pareyuḥ* \< *pare* \< *√i*
+- *pareyur* ← *pareyuḥ* ← *pare* ← *√i*
 - \[verb\], plural, Present optative
 - “travel; depart; go; die.”
 ------------------------------------------------------------------------
@@ -69,13 +69,13 @@ title = "Rig Veda 10.14.2"
 - \[adverb\]
 - “thus.”
 ------------------------------------------------------------------------
-- *jajñānāḥ* \< *jan*
+- *jajñānāḥ* ← *jan*
 - \[verb noun\], nominative, plural
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *pathyā* \< *pathyāḥ* \< *pathyā*
+- *pathyā* ← *pathyāḥ* ← *pathyā*
 - \[noun\], accusative, plural, feminine
 - “Terminalia chebula Retz.; path; Pathyā; way.”
 ------------------------------------------------------------------------
@@ -83,7 +83,7 @@ title = "Rig Veda 10.14.2"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *svāḥ* \< *sva*
+- *svāḥ* ← *sva*
 - \[noun\], accusative, plural, feminine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”

@@ -10,11 +10,11 @@ title = "Rig Veda 8.7.17"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *svānebhir* \< *svānebhiḥ* \< *svāna*
+- *svānebhir* ← *svānebhiḥ* ← *svāna*
 - \[noun\], instrumental, plural, masculine
 - “sound.”
 ------------------------------------------------------------------------
-- *īrata* \< *īrate* \< *īr*
+- *īrata* ← *īrate* ← *īr*
 - \[verb\], plural, Present indikative
 - “go.”
 ------------------------------------------------------------------------
@@ -22,7 +22,7 @@ title = "Rig Veda 8.7.17"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *rathair* \< *rathaiḥ* \< *ratha*
+- *rathair* ← *rathaiḥ* ← *ratha*
 - \[noun\], instrumental, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -34,24 +34,24 @@ title = "Rig Veda 8.7.17"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *vāyubhiḥ* \< *vāyu*
+- *vāyubhiḥ* ← *vāyu*
 - \[noun\], instrumental, plural, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
 ------------------------------------------------------------------------
-- *ut* \< *ud*
+- *ut* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *stomaiḥ* \< *stoma*
+- *stomaiḥ* ← *stoma*
 - \[noun\], instrumental, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *pṛśnimātaraḥ* \< *pṛśni*
+- *pṛśnimātaraḥ* ← *pṛśni*
 - \[noun\], feminine
 - “Pṛśni; beam.”
 ------------------------------------------------------------------------
-- *pṛśnimātaraḥ* \< *mātaraḥ* \< *mātṛ*
+- *pṛśnimātaraḥ* ← *mātaraḥ* ← *mātṛ*
 - \[noun\], nominative, plural, masculine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”

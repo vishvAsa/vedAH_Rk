@@ -2,39 +2,39 @@
 title = "Rig Veda 1.45.4"
 
 +++
--   *mahikerava* \< *mahikeravaḥ* \< *mahikeru*
+-   *mahikerava* ← *mahikeravaḥ* ← *mahikeru*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *ūtaye* \< *ūti*
+- *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *priyamedhā* \< *priyamedhāḥ* \< *priyamedha*
+- *priyamedhā* ← *priyamedhāḥ* ← *priyamedha*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *ahūṣata* \< *hvā*
+- *ahūṣata* ← *hvā*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *rājantam* \< *rāj*
+- *rājantam* ← *rāj*
 - \[verb noun\], accusative, singular
 - “govern; shine; glitter; direct.”
 ------------------------------------------------------------------------
-- *adhvarāṇām* \< *adhvara*
+- *adhvarāṇām* ← *adhvara*
 - \[noun\], genitive, plural, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *agniṃ* \< *agnim* \< *agni*
+- *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *śukreṇa* \< *śukra*
+- *śukreṇa* ← *śukra*
 - \[noun\], instrumental, singular, neuter
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *śociṣā* \< *śocis*
+- *śociṣā* ← *śocis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------

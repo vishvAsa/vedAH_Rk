@@ -2,7 +2,7 @@
 title = "Rig Veda 3.29.16"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -10,65 +10,65 @@ title = "Rig Veda 3.29.16"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *prayati* \< *pre* \< *√i*
+- *prayati* ← *pre* ← *√i*
 - \[verb noun\], locative, singular
 - “die; proceed; advance; continue; begin; depart.”
 ------------------------------------------------------------------------
-- *yajñe* \< *yajña*
+- *yajñe* ← *yajña*
 - \[noun\], locative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *asmin* \< *idam*
+- *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *hotaś* \< *hotar* \< *hotṛ*
+- *hotaś* ← *hotar* ← *hotṛ*
 - \[noun\], vocative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *cikitvo* \< *cikitvaḥ* \< *cit*
+- *cikitvo* ← *cikitvaḥ* ← *cit*
 - \[verb noun\], vocative, singular
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *'vṛṇīmahīha* \< *avṛṇīmahi* \< *vṛ*
+- *'vṛṇīmahīha* ← *avṛṇīmahi* ← *vṛ*
 - \[verb\], plural, Imperfect
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *'vṛṇīmahīha* \< *iha*
+- *'vṛṇīmahīha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *dhruvam* \< *dhruva*
+- *dhruvam* ← *dhruva*
 - \[noun\], accusative, singular, neuter
 - “certain; fixed; permanent; changeless; firm; safe; resident;
     immovable; fixed; fixed; vital; faithful.”
 ------------------------------------------------------------------------
-- *ayā* \< *ayāḥ* \< *yaj*
+- *ayā* ← *ayāḥ* ← *yaj*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *dhruvam* \< *dhruva*
+- *dhruvam* ← *dhruva*
 - \[noun\], accusative, singular, neuter
 - “certain; fixed; permanent; changeless; firm; safe; resident;
     immovable; fixed; fixed; vital; faithful.”
 ------------------------------------------------------------------------
-- *utāśamiṣṭhāḥ* \< *uta*
+- *utāśamiṣṭhāḥ* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *utāśamiṣṭhāḥ* \< *aśamiṣṭhāḥ* \< *śam*
+- *utāśamiṣṭhāḥ* ← *aśamiṣṭhāḥ* ← *śam*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “calm; go out; end; die; pacify; heal; labor; make peace; rest.”
 ------------------------------------------------------------------------
-- *prajānan* \< *prajñā* \< *√jñā*
+- *prajānan* ← *prajñā* ← *√jñā*
 - \[verb noun\], nominative, singular
 - “know; perceive; understand; detect.”
 ------------------------------------------------------------------------
-- *vidvāṃ* \< *vid*
+- *vidvāṃ* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
@@ -77,12 +77,12 @@ title = "Rig Veda 3.29.16"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *yāhi* \< *yā*
+- *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------

@@ -2,11 +2,11 @@
 title = "Rig Veda 1.174.10"
 
 +++
--   *tvam* \< *tvad*
+-   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *asmākam* \< *mad*
+- *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -18,69 +18,69 @@ title = "Rig Veda 1.174.10"
 - *viśvadha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *syā* \< *syāḥ* \< *as*
+- *syā* ← *syāḥ* ← *as*
 - \[verb\], singular, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *avṛkatamo* \< *avṛkatamaḥ* \< *avṛkatama*
+- *avṛkatamo* ← *avṛkatamaḥ* ← *avṛkatama*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *narāṃ* \< *narām* \< *nṛ*
+- *narāṃ* ← *narām* ← *nṛ*
 - \[noun\], genitive, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nṛpātā* \< *nṛ*
+- *nṛpātā* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nṛpātā* \< *pātā* \< *pātṛ*
+- *nṛpātā* ← *pātā* ← *pātṛ*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *viśvāsāṃ* \< *viśvāsām* \< *viśva*
+- *viśvāsāṃ* ← *viśvāsām* ← *viśva*
 - \[noun\], genitive, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *spṛdhāṃ* \< *spṛdhām* \< *spṛdh*
+- *spṛdhāṃ* ← *spṛdhām* ← *spṛdh*
 - \[noun\], genitive, plural, feminine
 - “adversary; enemy; rival.”
 ------------------------------------------------------------------------
-- *sahodā* \< *sahaḥ* \< *sahas*
+- *sahodā* ← *sahaḥ* ← *sahas*
 - \[noun\], neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *sahodā* \< *dāḥ* \< *dā*
+- *sahodā* ← *dāḥ* ← *dā*
 - \[noun\], nominative, singular, masculine
 - “giving.”
 ------------------------------------------------------------------------
-- *vidyāmeṣaṃ* \< *vidyāma* \< *vid*
+- *vidyāmeṣaṃ* ← *vidyāma* ← *vid*
 - \[verb\], plural, Present optative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *vidyāmeṣaṃ* \< *iṣam* \< *iṣa*
+- *vidyāmeṣaṃ* ← *iṣam* ← *iṣa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *vṛjanaṃ* \< *vṛjanam* \< *vṛjana*
+- *vṛjanaṃ* ← *vṛjanam* ← *vṛjana*
 - \[noun\], accusative, singular, neuter
 - “community; settlement.”
 ------------------------------------------------------------------------
-- *jīradānum* \< *jīra*
+- *jīradānum* ← *jīra*
 - \[noun\]
 - “agile; quick; fast.”
 ------------------------------------------------------------------------
-- *jīradānum* \< *dānum* \< *dānu*
+- *jīradānum* ← *dānum* ← *dānu*
 - \[noun\], accusative, singular, masculine
 - “Dānu; dew; drop.”
 ------------------------------------------------------------------------

@@ -2,59 +2,59 @@
 title = "Rig Veda 10.120.8"
 
 +++
--   *imā* \< *idam*
+-   *imā* ← *idam*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *brahma* \< *brahman*
+- *brahma* ← *brahman*
 - \[noun\], accusative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *bṛhaddivo* \< *bṛhaddivaḥ* \< *bṛhaddiva*
+- *bṛhaddivo* ← *bṛhaddivaḥ* ← *bṛhaddiva*
 - \[noun\], nominative, singular, masculine
 - “Bṛhaddiva.”
 ------------------------------------------------------------------------
-- *vivaktīndrāya* \< *vivakti* \< *vac*
+- *vivaktīndrāya* ← *vivakti* ← *vac*
 - \[verb\], singular, Present indikative
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
 ------------------------------------------------------------------------
-- *vivaktīndrāya* \< *indrāya* \< *indra*
+- *vivaktīndrāya* ← *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *śūṣam* \< *śūṣa*
+- *śūṣam* ← *śūṣa*
 - \[noun\], accusative, singular, neuter
 - “loud; brave.”
 ------------------------------------------------------------------------
-- *agriyaḥ* \< *agriya*
+- *agriyaḥ* ← *agriya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *svarṣāḥ* \< *svarṣā*
+- *svarṣāḥ* ← *svarṣā*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *maho* \< *mahaḥ* \< *mah*
+- *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *gotrasya* \< *gotra*
+- *gotrasya* ← *gotra*
 - \[noun\], genitive, singular, neuter
 - “Gotra; patronymic; gotra \[word\]; name; family; family; kin;
     Gotra; mountain; herd; cow pen; cowbarn.”
 ------------------------------------------------------------------------
-- *kṣayati* \< *kṣi*
+- *kṣayati* ← *kṣi*
 - \[verb\], singular, Present indikative
 - “decrease; emaciate; vanish; kill; wane; destroy; run down; elapse;
     lose; lose; gasify; decline; decay; corrupt.”
 ------------------------------------------------------------------------
-- *svarājo* \< *svarājaḥ* \< *svarāj*
+- *svarājo* ← *svarājaḥ* ← *svarāj*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *duraś* \< *duraḥ* \< *dvār*
+- *duraś* ← *duraḥ* ← *dvār*
 - \[noun\], accusative, plural
 - “door; means.”
 ------------------------------------------------------------------------
@@ -62,12 +62,12 @@ title = "Rig Veda 10.120.8"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśvāḥ* \< *viśva*
+- *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *avṛṇod* \< *avṛṇot* \< *vṛ*
+- *avṛṇod* ← *avṛṇot* ← *vṛ*
 - \[verb\], singular, Imperfect
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
@@ -76,7 +76,7 @@ title = "Rig Veda 10.120.8"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *svāḥ* \< *sva*
+- *svāḥ* ← *sva*
 - \[noun\], accusative, plural, feminine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”

@@ -2,13 +2,13 @@
 title = "Rig Veda 9.1.1"
 
 +++
--   *svādiṣṭhayā* \< *svādiṣṭha*
+-   *svādiṣṭhayā* ← *svādiṣṭha*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *madiṣṭhayā* \< *madiṣṭha*
+- *madiṣṭhayā* ← *madiṣṭha*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *pavasva* \< *pū*
+- *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
@@ -16,20 +16,20 @@ title = "Rig Veda 9.1.1"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *dhārayā* \< *dhārā*
+- *dhārayā* ← *dhārā*
 - \[noun\], instrumental, singular, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pātave* \< *pā*
+- *pātave* ← *pā*
 - \[verb noun\]
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *sutaḥ* \< *su*
+- *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------

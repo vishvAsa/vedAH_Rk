@@ -2,22 +2,22 @@
 title = "Rig Veda 2.29.6"
 
 +++
--   *arvāñco* \< *arvāñcaḥ* \< *arvāñc*
+-   *arvāñco* ← *arvāñcaḥ* ← *arvāñc*
 - \[noun\], nominative, plural, masculine
 - “approaching; facing; less.”
 ------------------------------------------------------------------------
-- *adyā* \< *adya*
+- *adyā* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *bhavatā* \< *bhavata* \< *bhū*
+- *bhavatā* ← *bhavata* ← *bhū*
 - \[verb\], plural, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *yajatrā* \< *yajatrāḥ* \< *yajatra*
+- *yajatrā* ← *yajatrāḥ* ← *yajatra*
 - \[noun\], vocative, plural, masculine
 - “adorable.”
 ------------------------------------------------------------------------
@@ -25,7 +25,7 @@ title = "Rig Veda 2.29.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
@@ -33,47 +33,47 @@ title = "Rig Veda 2.29.6"
 - \[noun\], accusative, singular, neuter
 - “heart.”
 ------------------------------------------------------------------------
-- *bhayamāno* \< *bhayamānaḥ* \< *bhī*
+- *bhayamāno* ← *bhayamānaḥ* ← *bhī*
 - \[verb noun\], nominative, singular
 - “fear; fear.”
 ------------------------------------------------------------------------
-- *vyayeyam* \< *vye*
+- *vyayeyam* ← *vye*
 - \[verb\], singular, Present optative
 - “cover.”
 ------------------------------------------------------------------------
-- *trādhvaṃ* \< *trādhvam* \< *trā*
+- *trādhvaṃ* ← *trādhvam* ← *trā*
 - \[verb\], plural, Present imperative
 - “protect; help.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *nijuro* \< *nijuraḥ* \< *nijur*
+- *nijuro* ← *nijuraḥ* ← *nijur*
 - \[noun\], ablative, singular, feminine
 ------------------------------------------------------------------------
-- *vṛkasya* \< *vṛka*
+- *vṛkasya* ← *vṛka*
 - \[noun\], genitive, singular, masculine
 - “wolf; Vṛka; vṛka \[word\]; Vṛka.”
 ------------------------------------------------------------------------
-- *trādhvaṃ* \< *trādhvam* \< *trā*
+- *trādhvaṃ* ← *trādhvam* ← *trā*
 - \[verb\], plural, Present imperative
 - “protect; help.”
 ------------------------------------------------------------------------
-- *kartād* \< *kartāt* \< *karta*
+- *kartād* ← *kartāt* ← *karta*
 - \[noun\], ablative, singular, masculine
 - “pit.”
 ------------------------------------------------------------------------
-- *avapado* \< *avapadaḥ* \< *avapad* \< *√pad*
+- *avapado* ← *avapadaḥ* ← *avapad* ← *√pad*
 - \[verb noun\]
 - “fall down.”
 ------------------------------------------------------------------------
-- *yajatrāḥ* \< *yajatra*
+- *yajatrāḥ* ← *yajatra*
 - \[noun\], vocative, plural, masculine
 - “adorable.”
 ------------------------------------------------------------------------

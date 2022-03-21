@@ -2,18 +2,18 @@
 title = "Rig Veda 1.65.2"
 
 +++
--   *sajoṣā* \< *sa*
+-   *sajoṣā* ← *sa*
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *sajoṣā* \< *joṣāḥ* \< *joṣa*
+- *sajoṣā* ← *joṣāḥ* ← *joṣa*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *dhīrāḥ* \< *dhīra*
+- *dhīrāḥ* ← *dhīra*
 - \[noun\], nominative, plural, masculine
 - “expert; wise; intelligent; versed; adept.”
 ------------------------------------------------------------------------
-- *padair* \< *padaiḥ* \< *pada*
+- *padair* ← *padaiḥ* ← *pada*
 - \[noun\], instrumental, plural, neuter
 - “word; location; foot; footprint; pada \[word\]; verse; footstep;
     metrical foot; situation; dwelling; state; step; mark; position;
@@ -24,7 +24,7 @@ title = "Rig Veda 1.65.2"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *gmann* \< *gman* \< *gam*
+- *gmann* ← *gman* ← *gam*
 - \[verb\], plural, Aorist inj. (proh.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
@@ -35,21 +35,21 @@ title = "Rig Veda 1.65.2"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sīdan* \< *sad*
+- *sīdan* ← *sad*
 - \[verb\], plural, Present injunctive
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *viśve* \< *viśva*
+- *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *yajatrāḥ* \< *yajatra*
+- *yajatrāḥ* ← *yajatra*
 - \[noun\], nominative, plural, masculine
 - “adorable.”
 ------------------------------------------------------------------------

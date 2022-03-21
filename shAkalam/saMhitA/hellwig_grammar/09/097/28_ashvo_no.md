@@ -2,27 +2,27 @@
 title = "Rig Veda 9.97.28"
 
 +++
--   *aśvo* \< *aśvaḥ* \< *aśva*
+-   *aśvo* ← *aśvaḥ* ← *aśva*
 - \[noun\], nominative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *no* \< *na*
+- *no* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *no* \< *u*
+- *no* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *krado* \< *kradaḥ* \< *krand*
+- *krado* ← *kradaḥ* ← *krand*
 - \[verb\], singular, Aorist inj. (proh.)
 - “roar; neigh; cry; howl; shout.”
 ------------------------------------------------------------------------
-- *vṛṣabhir* \< *vṛṣabhiḥ* \< *vṛṣan*
+- *vṛṣabhir* ← *vṛṣabhiḥ* ← *vṛṣan*
 - \[noun\], instrumental, plural, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *yujānaḥ* \< *yuj*
+- *yujānaḥ* ← *yuj*
 - \[verb noun\], nominative, singular
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -30,7 +30,7 @@ title = "Rig Veda 9.97.28"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *siṃho* \< *siṃhaḥ* \< *siṃha*
+- *siṃho* ← *siṃhaḥ* ← *siṃha*
 - \[noun\], nominative, singular, masculine
 - “lion; hero; best; leader; siṃha \[word\].”
 ------------------------------------------------------------------------
@@ -38,32 +38,32 @@ title = "Rig Veda 9.97.28"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *bhīmo* \< *bhīmaḥ* \< *bhīma*
+- *bhīmo* ← *bhīmaḥ* ← *bhīma*
 - \[noun\], nominative, singular, masculine
 - “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
 ------------------------------------------------------------------------
-- *manaso* \< *manasaḥ* \< *manas*
+- *manaso* ← *manasaḥ* ← *manas*
 - \[noun\], ablative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *javīyān* \< *javīyas*
+- *javīyān* ← *javīyas*
 - \[noun\], nominative, singular, masculine
 - “fast.”
 ------------------------------------------------------------------------
-- *arvācīnaiḥ* \< *arvācīna*
+- *arvācīnaiḥ* ← *arvācīna*
 - \[noun\], instrumental, plural, masculine
 - “favorable; backward; inclined(p).”
 ------------------------------------------------------------------------
-- *pathibhir* \< *pathibhiḥ* \< *pathin*
+- *pathibhir* ← *pathibhiḥ* ← *pathin*
 - \[noun\], instrumental, plural, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *rajiṣṭhā* \< *rajiṣṭha*
+- *rajiṣṭhā* ← *rajiṣṭha*
 - \[noun\], instrumental, singular, masculine
 - “honest.”
 ------------------------------------------------------------------------
@@ -71,19 +71,19 @@ title = "Rig Veda 9.97.28"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *pavasva* \< *pū*
+- *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *saumanasaṃ* \< *saumanasam* \< *saumanasa*
+- *saumanasaṃ* ← *saumanasam* ← *saumanasa*
 - \[noun\], accusative, singular, neuter
 - “favor; satisfaction.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *indo* \< *indu*
+- *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”

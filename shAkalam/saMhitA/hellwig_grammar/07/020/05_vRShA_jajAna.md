@@ -2,25 +2,25 @@
 title = "Rig Veda 7.20.5"
 
 +++
--   *vṛṣā* \< *vṛṣan*
+-   *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *jajāna* \< *jan*
+- *jajāna* ← *jan*
 - \[verb\], singular, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *vṛṣaṇaṃ* \< *vṛṣaṇam* \< *vṛṣan*
+- *vṛṣaṇaṃ* ← *vṛṣaṇam* ← *vṛṣan*
 - \[noun\], accusative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *raṇāya* \< *raṇa*
+- *raṇāya* ← *raṇa*
 - \[noun\], dative, singular, masculine
 - “battle; fight; pleasure; joy; war; combat.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -30,7 +30,7 @@ title = "Rig Veda 7.20.5"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -38,11 +38,11 @@ title = "Rig Veda 7.20.5"
 - \[noun\], nominative, singular, feminine
 - “woman; wife; female.”
 ------------------------------------------------------------------------
-- *naryaṃ* \< *naryam* \< *narya*
+- *naryaṃ* ← *naryam* ← *narya*
 - \[noun\], accusative, singular, masculine
 - “manly; heroic; powerful; male; human.”
 ------------------------------------------------------------------------
-- *sasūva* \< *sū*
+- *sasūva* ← *sū*
 - \[verb\], singular, Perfect indicative
 - “give birth; urge; bestow; cause.”
 ------------------------------------------------------------------------
@@ -50,45 +50,45 @@ title = "Rig Veda 7.20.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *senānīr* \< *senānīḥ* \< *senānī*
+- *senānīr* ← *senānīḥ* ← *senānī*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *nṛbhyo* \< *nṛbhyaḥ* \< *nṛ*
+- *nṛbhyo* ← *nṛbhyaḥ* ← *nṛ*
 - \[noun\], ablative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *astīnaḥ* \< *asti* \< *as*
+- *astīnaḥ* ← *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *astīnaḥ* \< *inaḥ* \< *ina*
+- *astīnaḥ* ← *inaḥ* ← *ina*
 - \[noun\], nominative, singular, masculine
 - “mighty; powerful.”
 ------------------------------------------------------------------------
-- *satvā* \< *satvan*
+- *satvā* ← *satvan*
 - \[noun\], nominative, singular, masculine
 - “warrior.”
 ------------------------------------------------------------------------
-- *gaveṣaṇaḥ* \< *gaveṣaṇa*
+- *gaveṣaṇaḥ* ← *gaveṣaṇa*
 - \[noun\], nominative, singular, masculine
 - “marauding.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *dhṛṣṇuḥ* \< *dhṛṣṇu*
+- *dhṛṣṇuḥ* ← *dhṛṣṇu*
 - \[noun\], nominative, singular, masculine
 - “brave; ferocious; strong.”
 ------------------------------------------------------------------------

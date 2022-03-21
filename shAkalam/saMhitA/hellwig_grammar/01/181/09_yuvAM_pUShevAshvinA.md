@@ -2,32 +2,32 @@
 title = "Rig Veda 1.181.9"
 
 +++
--   *yuvām* \< *tvad*
+-   *yuvām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *pūṣevāśvinā* \< *pūṣā* \< *pūṣan*
+- *pūṣevāśvinā* ← *pūṣā* ← *pūṣan*
 - \[noun\], nominative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *pūṣevāśvinā* \< *iva*
+- *pūṣevāśvinā* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *pūṣevāśvinā* \< *aśvinā* \< *aśvin*
+- *pūṣevāśvinā* ← *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *purandhir* \< *purandhiḥ* \< *purandhi*
+- *purandhir* ← *purandhiḥ* ← *purandhi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *agnim* \< *agni*
+- *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *uṣāṃ* \< *uṣām* \< *uṣā*
+- *uṣāṃ* ← *uṣām* ← *uṣā*
 - \[noun\], accusative, singular, feminine
 - “Uṣā; dawn; burn.”
 ------------------------------------------------------------------------
@@ -35,50 +35,50 @@ title = "Rig Veda 1.181.9"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *jarate* \< *jṛ*
+- *jarate* ← *jṛ*
 - \[verb\], singular, Present indikative
 - “sing.”
 ------------------------------------------------------------------------
-- *haviṣmān* \< *haviṣmat*
+- *haviṣmān* ← *haviṣmat*
 - \[noun\], nominative, singular, masculine
 - “sacrificing.”
 ------------------------------------------------------------------------
-- *huve* \< *hvā*
+- *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
 - *varivasyā*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *gṛṇāno* \< *gṛṇānaḥ* \< *gṛ*
+- *gṛṇāno* ← *gṛṇānaḥ* ← *gṛ*
 - \[verb noun\], nominative, singular
 - “praise.”
 ------------------------------------------------------------------------
-- *vidyāmeṣaṃ* \< *vidyāma* \< *vid*
+- *vidyāmeṣaṃ* ← *vidyāma* ← *vid*
 - \[verb\], plural, Present optative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *vidyāmeṣaṃ* \< *iṣam* \< *iṣa*
+- *vidyāmeṣaṃ* ← *iṣam* ← *iṣa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *vṛjanaṃ* \< *vṛjanam* \< *vṛjana*
+- *vṛjanaṃ* ← *vṛjanam* ← *vṛjana*
 - \[noun\], accusative, singular, neuter
 - “community; settlement.”
 ------------------------------------------------------------------------
-- *jīradānum* \< *jīra*
+- *jīradānum* ← *jīra*
 - \[noun\]
 - “agile; quick; fast.”
 ------------------------------------------------------------------------
-- *jīradānum* \< *dānum* \< *dānu*
+- *jīradānum* ← *dānum* ← *dānu*
 - \[noun\], accusative, singular, masculine
 - “Dānu; dew; drop.”
 ------------------------------------------------------------------------

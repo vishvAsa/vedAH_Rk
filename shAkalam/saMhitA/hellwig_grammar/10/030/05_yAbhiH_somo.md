@@ -2,19 +2,19 @@
 title = "Rig Veda 10.30.5"
 
 +++
--   *yābhiḥ* \< *yad*
+-   *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *somo* \< *somaḥ* \< *soma*
+- *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *modate* \< *mud*
+- *modate* ← *mud*
 - \[verb\], singular, Present indikative
 - “rejoice; delight; revel.”
 ------------------------------------------------------------------------
-- *harṣate* \< *hṛṣ*
+- *harṣate* ← *hṛṣ*
 - \[verb\], singular, Present indikative
 - “rejoice; bristle; thrill.”
 ------------------------------------------------------------------------
@@ -22,11 +22,11 @@ title = "Rig Veda 10.30.5"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *kalyāṇībhir* \< *kalyāṇībhiḥ* \< *kalyāṇa*
+- *kalyāṇībhir* ← *kalyāṇībhiḥ* ← *kalyāṇa*
 - \[noun\], instrumental, plural, feminine
 - “beautiful; good; auspicious; pleasant; dear; beautiful.”
 ------------------------------------------------------------------------
-- *yuvatibhir* \< *yuvatibhiḥ* \< *yuvati*
+- *yuvatibhir* ← *yuvatibhiḥ* ← *yuvati*
 - \[noun\], instrumental, plural, feminine
 - “girl; woman.”
 ------------------------------------------------------------------------
@@ -34,21 +34,21 @@ title = "Rig Veda 10.30.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *maryaḥ* \< *marya*
+- *maryaḥ* ← *marya*
 - \[noun\], nominative, singular, masculine
 - “young buck; boyfriend.”
 ------------------------------------------------------------------------
-- *tā* \< *tāḥ* \< *tad*
+- *tā* ← *tāḥ* ← *tad*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *adhvaryo* \< *adhvaryu*
+- *adhvaryo* ← *adhvaryu*
 - \[noun\], vocative, singular, masculine
 - “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
 ------------------------------------------------------------------------
-- *apo* \< *apaḥ* \< *ap*
+- *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -56,23 +56,23 @@ title = "Rig Veda 10.30.5"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *parehi* \< *pare* \< *√i*
+- *parehi* ← *pare* ← *√i*
 - \[verb\], singular, Present imperative
 - “travel; depart; go; die.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *āsiñcā* \< *āsiñcāḥ* \< *āsic* \< *√sic*
+- *āsiñcā* ← *āsiñcāḥ* ← *āsic* ← *√sic*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “pour; immerse.”
 ------------------------------------------------------------------------
-- *oṣadhībhiḥ* \< *oṣadhī*
+- *oṣadhībhiḥ* ← *oṣadhī*
 - \[noun\], instrumental, plural, feminine
 - “herb; plant; drug; herb.”
 ------------------------------------------------------------------------
-- *punītāt* \< *pū*
+- *punītāt* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------

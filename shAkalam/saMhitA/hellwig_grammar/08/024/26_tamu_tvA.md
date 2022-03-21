@@ -2,7 +2,7 @@
 title = "Rig Veda 8.24.26"
 
 +++
--   *tam* \< *tad*
+-   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -12,7 +12,7 @@ title = "Rig Veda 8.24.26"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -20,43 +20,43 @@ title = "Rig Veda 8.24.26"
 - \[adverb\]
 - “now; surely; immediately; just.”
 ------------------------------------------------------------------------
-- *īmahe* \< *ī* \< *√i*
+- *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------
-- *navyaṃ* \< *navyam* \< *navya*
+- *navyaṃ* ← *navyam* ← *navya*
 - \[noun\], accusative, singular, neuter
 - “new; fresh.”
 ------------------------------------------------------------------------
 - *daṃsiṣṭha*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *sanyase* \< *sanyas*
+- *sanyase* ← *sanyas*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśvāḥ* \< *viśva*
+- *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *abhimātīḥ* \< *abhimāti*
+- *abhimātīḥ* ← *abhimāti*
 - \[noun\], accusative, plural, feminine
 - “aggression; hostility.”
 ------------------------------------------------------------------------
-- *sakṣaṇiḥ* \< *sakṣaṇi*
+- *sakṣaṇiḥ* ← *sakṣaṇi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

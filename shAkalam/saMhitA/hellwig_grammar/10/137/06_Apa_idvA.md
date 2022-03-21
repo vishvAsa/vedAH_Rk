@@ -2,7 +2,7 @@
 title = "Rig Veda 10.137.6"
 
 +++
--   *āpa* \< *āpaḥ* \< *ap*
+-   *āpa* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, neuter
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -10,7 +10,7 @@ title = "Rig Veda 10.137.6"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *vā* \< *vai*
+- *vā* ← *vai*
 - \[adverb\]
 - “surely; on the other hand; vai \[word\]; indeed.”
 ------------------------------------------------------------------------
@@ -18,47 +18,47 @@ title = "Rig Veda 10.137.6"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *bheṣajīr* \< *bheṣajīḥ* \< *bheṣaja*
+- *bheṣajīr* ← *bheṣajīḥ* ← *bheṣaja*
 - \[noun\], nominative, plural, feminine
 - “curative.”
 ------------------------------------------------------------------------
-- *āpo* \< *āpaḥ* \< *ap*
+- *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, neuter
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *amīvacātanīḥ* \< *amīva*
+- *amīvacātanīḥ* ← *amīva*
 - \[noun\], neuter
 - “disease.”
 ------------------------------------------------------------------------
-- *amīvacātanīḥ* \< *cātanīḥ* \< *cātana*
+- *amīvacātanīḥ* ← *cātanīḥ* ← *cātana*
 - \[noun\], nominative, plural, feminine
 - “removing.”
 ------------------------------------------------------------------------
-- *āpaḥ* \< *ap*
+- *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, neuter
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *sarvasya* \< *sarva*
+- *sarvasya* ← *sarva*
 - \[noun\], genitive, singular, neuter
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
 ------------------------------------------------------------------------
-- *bheṣajīs* \< *bheṣajīḥ* \< *bheṣaja*
+- *bheṣajīs* ← *bheṣajīḥ* ← *bheṣaja*
 - \[noun\], nominative, plural, feminine
 - “curative.”
 ------------------------------------------------------------------------
-- *tās* \< *tāḥ* \< *tad*
+- *tās* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *kṛṇvantu* \< *kṛ*
+- *kṛṇvantu* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -69,7 +69,7 @@ title = "Rig Veda 10.137.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *bheṣajam* \< *bheṣaja*
+- *bheṣajam* ← *bheṣaja*
 - \[noun\], accusative, singular, neuter
 - “drug; medicine; herb; bheṣaja \[word\]; remedy; reagent.”
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 3.39.5"
 
 +++
--   *sakhā* \< *sakhi*
+-   *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
@@ -14,71 +14,71 @@ title = "Rig Veda 3.39.5"
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *sakhibhir* \< *sakhibhiḥ* \< *sakhi*
+- *sakhibhir* ← *sakhibhiḥ* ← *sakhi*
 - \[noun\], instrumental, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *navagvair* \< *navagvaiḥ* \< *navagva*
+- *navagvair* ← *navagvaiḥ* ← *navagva*
 - \[noun\], instrumental, plural, masculine
 - “Navagva.”
 ------------------------------------------------------------------------
-- *abhijñv* \< *abhijñu*
+- *abhijñv* ← *abhijñu*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *satvabhir* \< *satvabhiḥ* \< *satvan*
+- *satvabhir* ← *satvabhiḥ* ← *satvan*
 - \[noun\], instrumental, plural, masculine
 - “warrior.”
 ------------------------------------------------------------------------
-- *gā* \< *gāḥ* \< *go*
+- *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *anugman* \< *anugam* \< *√gam*
+- *anugman* ← *anugam* ← *√gam*
 - \[verb\], plural, Root aorist (Ind.)
 - “follow; enter; approach; affect; imitate; blend; observe.”
 ------------------------------------------------------------------------
-- *satyaṃ* \< *satyam* \< *satya*
+- *satyaṃ* ← *satyam* ← *satya*
 - \[noun\], nominative, singular, neuter
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *daśabhir* \< *daśabhiḥ* \< *daśan*
+- *daśabhir* ← *daśabhiḥ* ← *daśan*
 - \[noun\], instrumental, plural, masculine
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *daśagvaiḥ* \< *daśagva*
+- *daśagvaiḥ* ← *daśagva*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *sūryaṃ* \< *sūryam* \< *sūrya*
+- *sūryaṃ* ← *sūryam* ← *sūrya*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *viveda* \< *vid*
+- *viveda* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *tamasi* \< *tamas*
+- *tamasi* ← *tamas*
 - \[noun\], locative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
 ------------------------------------------------------------------------
-- *kṣiyantam* \< *kṣi*
+- *kṣiyantam* ← *kṣi*
 - \[verb noun\], accusative, singular
 - “govern; inhabit; dwell; stay; predominate; bide; own.”
 ------------------------------------------------------------------------

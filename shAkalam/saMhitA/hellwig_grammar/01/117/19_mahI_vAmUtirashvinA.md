@@ -2,27 +2,27 @@
 title = "Rig Veda 1.117.19"
 
 +++
--   *mahī* \< *mah*
+-   *mahī* ← *mah*
 - \[noun\], nominative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *ūtir* \< *ūtiḥ* \< *ūti*
+- *ūtir* ← *ūtiḥ* ← *ūti*
 - \[noun\], nominative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *mayobhūr* \< *mayaḥ* \< *mayas*
+- *mayobhūr* ← *mayaḥ* ← *mayas*
 - \[noun\], neuter
 - “pleasure; refreshment.”
 ------------------------------------------------------------------------
-- *mayobhūr* \< *bhūḥ* \< *bhū*
+- *mayobhūr* ← *bhūḥ* ← *bhū*
 - \[noun\], nominative, singular, feminine
 - “Earth; floor; earth; bhū; Earth; one; saurāṣṭrā; three; land; land;
     place; world; bhū \[word\]; soil; pṛthivī; being; bhūja; floor;
@@ -32,27 +32,27 @@ title = "Rig Veda 1.117.19"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *srāmaṃ* \< *srāmam* \< *srāma*
+- *srāmaṃ* ← *srāmam* ← *srāma*
 - \[noun\], nominative, singular, neuter
 - “crippled.”
 ------------------------------------------------------------------------
-- *dhiṣṇyā* \< *dhiṣṇya*
+- *dhiṣṇyā* ← *dhiṣṇya*
 - \[noun\], nominative, dual, masculine
 - “wise; beneficent.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *riṇīthaḥ* \< *ri*
+- *riṇīthaḥ* ← *ri*
 - \[verb\], dual, Present indikative
 - “free; liberate; run; let go of.”
 ------------------------------------------------------------------------
-- *athā* \< *atha*
+- *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *yuvām* \< *tvad*
+- *yuvām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -60,27 +60,27 @@ title = "Rig Veda 1.117.19"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *ahvayat* \< *hvā*
+- *ahvayat* ← *hvā*
 - \[verb\], singular, Imperfect
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *purandhir* \< *purandhiḥ* \< *puraṃdhi*
+- *purandhir* ← *purandhiḥ* ← *puraṃdhi*
 - \[noun\], nominative, singular, feminine
 - “liberality; Puraṃdhi; munificence.”
 ------------------------------------------------------------------------
-- *āgacchataṃ* \< *āgacchatam* \< *āgam* \< *√gam*
+- *āgacchataṃ* ← *āgacchatam* ← *āgam* ← *√gam*
 - \[verb\], dual, Imperfect
 - “come; arrive; return; enter (a state); approach; travel; enter;
     inherit; hand down; achieve; reach; appear; happen.”
 ------------------------------------------------------------------------
-- *sīṃ* \< *sīm*
+- *sīṃ* ← *sīm*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *vṛṣaṇāv* \< *vṛṣaṇau* \< *vṛṣan*
+- *vṛṣaṇāv* ← *vṛṣaṇau* ← *vṛṣan*
 - \[noun\], nominative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *avobhiḥ* \< *avas*
+- *avobhiḥ* ← *avas*
 - \[noun\], instrumental, plural, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------

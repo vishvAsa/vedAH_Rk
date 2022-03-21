@@ -2,7 +2,7 @@
 title = "Rig Veda 10.157.1"
 
 +++
--   *imā* \< *idam*
+-   *imā* ← *idam*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -10,19 +10,19 @@ title = "Rig Veda 10.157.1"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *kam* \< *kaṃ*
+- *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
 ------------------------------------------------------------------------
-- *bhuvanā* \< *bhuvana*
+- *bhuvanā* ← *bhuvana*
 - \[noun\], accusative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *sīṣadhāmendraś* \< *sīṣadhāma* \< *sādh*
+- *sīṣadhāmendraś* ← *sīṣadhāma* ← *sādh*
 - \[verb\], plural, Aorist conj./subj.
 - “promote; succeed.”
 ------------------------------------------------------------------------
-- *sīṣadhāmendraś* \< *indraḥ* \< *indra*
+- *sīṣadhāmendraś* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -31,7 +31,7 @@ title = "Rig Veda 10.157.1"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *viśve* \< *viśva*
+- *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
@@ -40,7 +40,7 @@ title = "Rig Veda 10.157.1"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *devāḥ* \< *deva*
+- *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”

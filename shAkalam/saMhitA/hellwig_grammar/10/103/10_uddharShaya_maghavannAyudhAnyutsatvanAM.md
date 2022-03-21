@@ -6,31 +6,31 @@ title = "Rig Veda 10.103.10"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *dharṣaya* \< *dharṣay* \< *√dhṛṣ*
+- *dharṣaya* ← *dharṣay* ← *√dhṛṣ*
 - \[verb\], singular, Present imperative
 - “rape; attack; molest; overwhelm.”
 ------------------------------------------------------------------------
-- *maghavann* \< *maghavan*
+- *maghavann* ← *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *āyudhāny* \< *āyudhāni* \< *āyudha*
+- *āyudhāny* ← *āyudhāni* ← *āyudha*
 - \[noun\], accusative, plural, neuter
 - “weapon; āyudha \[word\].”
 ------------------------------------------------------------------------
-- *ut* \< *ud*
+- *ut* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *satvanām* \< *satvan*
+- *satvanām* ← *satvan*
 - \[noun\], genitive, plural, masculine
 - “warrior.”
 ------------------------------------------------------------------------
-- *māmakānām* \< *māmaka*
+- *māmakānām* ← *māmaka*
 - \[noun\], genitive, plural, masculine
 - “mine.”
 ------------------------------------------------------------------------
-- *manāṃsi* \< *manas*
+- *manāṃsi* ← *manas*
 - \[noun\], accusative, plural, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
@@ -43,11 +43,11 @@ title = "Rig Veda 10.103.10"
 - \[noun\], locative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *vājināṃ* \< *vājinām* \< *vājin*
+- *vājināṃ* ← *vājinām* ← *vājin*
 - \[noun\], genitive, plural, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *vājināny* \< *vājināni* \< *vājina*
+- *vājināny* ← *vājināni* ← *vājina*
 - \[noun\], accusative, plural, neuter
 - “race; emulation.”
 ------------------------------------------------------------------------
@@ -55,20 +55,20 @@ title = "Rig Veda 10.103.10"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *rathānāṃ* \< *rathānām* \< *ratha*
+- *rathānāṃ* ← *rathānām* ← *ratha*
 - \[noun\], genitive, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *jayatāṃ* \< *jayatām* \< *ji*
+- *jayatāṃ* ← *jayatām* ← *ji*
 - \[verb noun\], genitive, plural
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *yantu* \< *i*
+- *yantu* ← *i*
 - \[verb\], plural, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *ghoṣāḥ* \< *ghoṣa*
+- *ghoṣāḥ* ← *ghoṣa*
 - \[noun\], nominative, plural, masculine
 - “sound; noise; cry; voice; ghoṣa \[word\]; station; Ghoṣa; post;
     twang.”

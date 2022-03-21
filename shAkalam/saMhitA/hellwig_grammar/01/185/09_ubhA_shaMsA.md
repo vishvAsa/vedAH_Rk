@@ -2,43 +2,43 @@
 title = "Rig Veda 1.185.9"
 
 +++
--   *ubhā* \< *ubh*
+-   *ubhā* ← *ubh*
 - \[noun\], nominative, dual, masculine
 - “both(a).”
 ------------------------------------------------------------------------
-- *śaṃsā* \< *śaṃsa*
+- *śaṃsā* ← *śaṃsa*
 - \[noun\], nominative, dual, masculine
 - “praise; śaṃs; recitation.”
 ------------------------------------------------------------------------
-- *naryā* \< *narya*
+- *naryā* ← *narya*
 - \[noun\], nominative, dual, masculine
 - “manly; heroic; powerful; male; human.”
 ------------------------------------------------------------------------
-- *mām* \< *mad*
+- *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *aviṣṭām* \< *av*
+- *aviṣṭām* ← *av*
 - \[verb\], dual, Aorist imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *ubhe* \< *ubh*
+- *ubhe* ← *ubh*
 - \[noun\], nominative, dual, feminine
 - “both(a).”
 ------------------------------------------------------------------------
-- *mām* \< *mad*
+- *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ūtī* \< *ūti*
+- *ūtī* ← *ūti*
 - \[noun\], nominative, dual, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *avasā* \< *avas*
+- *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *sacetām* \< *sac*
+- *sacetām* ← *sac*
 - \[verb\], dual, Present imperative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
@@ -46,28 +46,28 @@ title = "Rig Veda 1.185.9"
 - \[noun\], accusative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *aryaḥ* \< *ari*
+- *aryaḥ* ← *ari*
 - \[noun\], ablative, singular, masculine
 ------------------------------------------------------------------------
-- *sudāstarāyeṣā* \< *sudāstarāya* \< *sudāstara*
+- *sudāstarāyeṣā* ← *sudāstarāya* ← *sudāstara*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *sudāstarāyeṣā* \< *iṣā* \< *iṣ*
+- *sudāstarāyeṣā* ← *iṣā* ← *iṣ*
 - \[noun\], instrumental, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *madanta* \< *madantaḥ* \< *mad*
+- *madanta* ← *madantaḥ* ← *mad*
 - \[verb noun\], nominative, plural
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *iṣayema* \< *iṣay*
+- *iṣayema* ← *iṣay*
 - \[verb\], plural, Present optative
 ------------------------------------------------------------------------
-- *devāḥ* \< *deva*
+- *devāḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”

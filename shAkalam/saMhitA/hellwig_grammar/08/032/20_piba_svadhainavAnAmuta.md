@@ -2,11 +2,11 @@
 title = "Rig Veda 8.32.20"
 
 +++
--   *piba* \< *pā*
+-   *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *svadhainavānām* \< *\_* \< *√\_*
+- *svadhainavānām* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
@@ -14,22 +14,22 @@ title = "Rig Veda 8.32.20"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *yas* \< *yaḥ* \< *yad*
+- *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *tugrye* \< *tugrya*
+- *tugrye* ← *tugrya*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
 - *sacā*
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *utāyam* \< *uta*
+- *utāyam* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *utāyam* \< *ayam* \< *idam*
+- *utāyam* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -38,11 +38,11 @@ title = "Rig Veda 8.32.20"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yas* \< *yaḥ* \< *yad*
+- *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------

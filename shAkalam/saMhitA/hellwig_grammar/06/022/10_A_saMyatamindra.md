@@ -6,7 +6,7 @@ title = "Rig Veda 6.22.10"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *saṃyatam* \< *saṃyam* \< *√yam*
+- *saṃyatam* ← *saṃyam* ← *√yam*
 - \[verb noun\], accusative, singular
 - “control; curb; close; tie down; bottle up.”
 ------------------------------------------------------------------------
@@ -15,48 +15,48 @@ title = "Rig Veda 6.22.10"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *ṇaḥ* \< *naḥ* \< *mad*
+- *ṇaḥ* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *svastiṃ* \< *svastim* \< *svasti*
+- *svastiṃ* ← *svastim* ← *svasti*
 - \[noun\], accusative, singular, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
 ------------------------------------------------------------------------
-- *śatrutūryāya* \< *śatru*
+- *śatrutūryāya* ← *śatru*
 - \[noun\], masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------
-- *śatrutūryāya* \< *tūryāya* \< *tūrya*
+- *śatrutūryāya* ← *tūryāya* ← *tūrya*
 - \[noun\], dative, singular, neuter
 - “musical instrument; musical organization.”
 ------------------------------------------------------------------------
-- *bṛhatīm* \< *bṛhat*
+- *bṛhatīm* ← *bṛhat*
 - \[noun\], accusative, singular, feminine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *amṛdhrām* \< *amṛdhra*
+- *amṛdhrām* ← *amṛdhra*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *yayā* \< *yad*
+- *yayā* ← *yad*
 - \[noun\], instrumental, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dāsāny* \< *dāsāni* \< *dāsa*
+- *dāsāny* ← *dāsāni* ← *dāsa*
 - \[noun\], accusative, plural, neuter
 - “dāsa(a).”
 ------------------------------------------------------------------------
-- *āryāṇi* \< *ārya*
+- *āryāṇi* ← *ārya*
 - \[noun\], accusative, plural, neuter
 - “noble; noble; Indo-European; ārya \[word\]; honorable; noble.”
 ------------------------------------------------------------------------
-- *vṛtrā* \< *vṛtra*
+- *vṛtrā* ← *vṛtra*
 - \[noun\], accusative, plural, neuter
 - “enemy.”
 ------------------------------------------------------------------------
-- *karo* \< *karaḥ* \< *kṛ*
+- *karo* ← *karaḥ* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -71,9 +71,9 @@ title = "Rig Veda 6.22.10"
 - \[noun\], vocative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
 ------------------------------------------------------------------------
-- *sutukā* \< *sutuka*
+- *sutukā* ← *sutuka*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *nāhuṣāṇi* \< *nāhuṣa*
+- *nāhuṣāṇi* ← *nāhuṣa*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------

@@ -2,41 +2,41 @@
 title = "Rig Veda 4.34.11"
 
 +++
--   *nāpābhūta* \< *na*
+-   *nāpābhūta* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāpābhūta* \< *apābhūta* \< *apabhū* \< *√bhū*
+- *nāpābhūta* ← *apābhūta* ← *apabhū* ← *√bhū*
 - \[verb\], plural, Root aorist (Ind.)
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *'tītṛṣāmāniḥśastā* \< *atītṛṣāma* \< *tṛṣ*
+- *'tītṛṣāmāniḥśastā* ← *atītṛṣāma* ← *tṛṣ*
 - \[verb\], plural, Redupl. Aorist (Ind.)
 - “thirst.”
 ------------------------------------------------------------------------
-- *'tītṛṣāmāniḥśastā* \< *a*
+- *'tītṛṣāmāniḥśastā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *'tītṛṣāmāniḥśastā* \< *niḥśastāḥ* \< *niḥśaṃs* \< *√śaṃs*
+- *'tītṛṣāmāniḥśastā* ← *niḥśastāḥ* ← *niḥśaṃs* ← *√śaṃs*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *ṛbhavo* \< *ṛbhavaḥ* \< *ṛbhu*
+- *ṛbhavo* ← *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], vocative, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
-- *yajñe* \< *yajña*
+- *yajñe* ← *yajña*
 - \[noun\], locative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *asmin* \< *idam*
+- *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -44,12 +44,12 @@ title = "Rig Veda 4.34.11"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *indreṇa* \< *indra*
+- *indreṇa* ← *indra*
 - \[noun\], instrumental, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *madatha* \< *mad*
+- *madatha* ← *mad*
 - \[verb\], plural, Present indikative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
@@ -57,28 +57,28 @@ title = "Rig Veda 4.34.11"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *marudbhiḥ* \< *marut*
+- *marudbhiḥ* ← *marut*
 - \[noun\], instrumental, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *rājabhī* \< *rājabhiḥ* \< *rājan*
+- *rājabhī* ← *rājabhiḥ* ← *rājan*
 - \[noun\], instrumental, plural, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *ratnadheyāya* \< *ratna*
+- *ratnadheyāya* ← *ratna*
 - \[noun\], neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
 ------------------------------------------------------------------------
-- *ratnadheyāya* \< *dheyāya* \< *dheya*
+- *ratnadheyāya* ← *dheyāya* ← *dheya*
 - \[noun\], dative, singular, neuter
 - “giving; distribution.”
 ------------------------------------------------------------------------
-- *devāḥ* \< *deva*
+- *devāḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”

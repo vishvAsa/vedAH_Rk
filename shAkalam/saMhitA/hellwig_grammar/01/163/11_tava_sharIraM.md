@@ -2,31 +2,31 @@
 title = "Rig Veda 1.163.11"
 
 +++
--   *tava* \< *tvad*
+-   *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śarīram* \< *śarīra*
+- *śarīram* ← *śarīra*
 - \[noun\], nominative, singular, neuter
 - “body; human body; body part; body; body; strength.”
 ------------------------------------------------------------------------
-- *patayiṣṇv* \< *patayiṣṇu*
+- *patayiṣṇv* ← *patayiṣṇu*
 - \[noun\], nominative, singular, neuter
 - “flying.”
 ------------------------------------------------------------------------
-- *arvan* \< *arvant*
+- *arvan* ← *arvant*
 - \[noun\], vocative, singular, masculine
 - “horse.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *cittaṃ* \< *cittam* \< *citta*
+- *cittaṃ* ← *cittam* ← *citta*
 - \[noun\], nominative, singular, neuter
 - “mind; attention; idea; thinking; fondness; purpose.”
 ------------------------------------------------------------------------
-- *vāta* \< *vātaḥ* \< *vāta*
+- *vāta* ← *vātaḥ* ← *vāta*
 - \[noun\], nominative, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
@@ -35,33 +35,33 @@ title = "Rig Veda 1.163.11"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *dhrajīmān* \< *dhrajīmat*
+- *dhrajīmān* ← *dhrajīmat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śṛṅgāṇi* \< *śṛṅga*
+- *śṛṅgāṇi* ← *śṛṅga*
 - \[noun\], nominative, plural, neuter
 - “peak; horn; tusk; śṛṅga \[word\].”
 ------------------------------------------------------------------------
-- *viṣṭhitā* \< *viṣṭhā* \< *√sthā*
+- *viṣṭhitā* ← *viṣṭhā* ← *√sthā*
 - \[verb noun\], nominative, plural
 - “stand; stay; resist.”
 ------------------------------------------------------------------------
-- *purutrāraṇyeṣu* \< *purutrā*
+- *purutrāraṇyeṣu* ← *purutrā*
 - \[adverb\]
 - “distributively.”
 ------------------------------------------------------------------------
-- *purutrāraṇyeṣu* \< *araṇyeṣu* \< *araṇya*
+- *purutrāraṇyeṣu* ← *araṇyeṣu* ← *araṇya*
 - \[noun\], locative, plural, neuter
 - “forest; araṇya \[word\]; wilderness.”
 ------------------------------------------------------------------------
-- *jarbhurāṇā* \< *jarbhur* \< *√bhur*
+- *jarbhurāṇā* ← *jarbhur* ← *√bhur*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *caranti* \< *car*
+- *caranti* ← *car*
 - \[verb\], plural, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;

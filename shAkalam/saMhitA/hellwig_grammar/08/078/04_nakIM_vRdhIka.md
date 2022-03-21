@@ -2,11 +2,11 @@
 title = "Rig Veda 8.78.4"
 
 +++
--   *nakīṃ* \< *nakīm*
+-   *nakīṃ* ← *nakīm*
 - \[adverb\]
 - “not; never.”
 ------------------------------------------------------------------------
-- *vṛdhīka* \< *vṛdhīkaḥ* \< *vṛdhīka*
+- *vṛdhīka* ← *vṛdhīkaḥ* ← *vṛdhīka*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *indra*
@@ -14,7 +14,7 @@ title = "Rig Veda 8.78.4"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -22,11 +22,11 @@ title = "Rig Veda 8.78.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *suṣā* \< *su*
+- *suṣā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suṣā* \< *sāḥ* \< *sā*
+- *suṣā* ← *sāḥ* ← *sā*
 - \[noun\], nominative, singular, masculine
 - “winning.”
 ------------------------------------------------------------------------
@@ -34,11 +34,11 @@ title = "Rig Veda 8.78.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sudā* \< *su*
+- *sudā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudā* \< *dāḥ* \< *dā*
+- *sudā* ← *dāḥ* ← *dā*
 - \[noun\], nominative, singular, masculine
 - “giving.”
 ------------------------------------------------------------------------
@@ -46,24 +46,24 @@ title = "Rig Veda 8.78.4"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *nānyas* \< *na*
+- *nānyas* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nānyas* \< *anyaḥ* \< *anya*
+- *nānyas* ← *anyaḥ* ← *anya*
 - \[noun\], nominative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *tvacchūra* \< *tvat* \< *tvad*
+- *tvacchūra* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tvacchūra* \< *śūra*
+- *tvacchūra* ← *śūra*
 - \[noun\], vocative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *vāghataḥ* \< *vāghant*
+- *vāghataḥ* ← *vāghant*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------

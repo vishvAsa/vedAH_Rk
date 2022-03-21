@@ -2,40 +2,40 @@
 title = "Rig Veda 1.104.4"
 
 +++
--   *yuyopa* \< *yup*
+-   *yuyopa* ← *yup*
 - \[verb\], singular, Perfect indicative
 ------------------------------------------------------------------------
-- *nābhir* \< *nābhiḥ* \< *nābhi*
+- *nābhir* ← *nābhiḥ* ← *nābhi*
 - \[noun\], nominative, singular, feminine
 - “navel; hub; kinship; beginning; origin; umbilical cord; nābhi
     \[word\]; friendship; center.”
 ------------------------------------------------------------------------
-- *uparasyāyoḥ* \< *uparasya* \< *upara*
+- *uparasyāyoḥ* ← *uparasya* ← *upara*
 - \[noun\], genitive, singular, masculine
 - “later(a); future(a); nether.”
 ------------------------------------------------------------------------
-- *uparasyāyoḥ* \< *āyoḥ* \< *āyu*
+- *uparasyāyoḥ* ← *āyoḥ* ← *āyu*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *pūrvābhis* \< *pūrvābhiḥ* \< *pūrva*
+- *pūrvābhis* ← *pūrvābhiḥ* ← *pūrva*
 - \[noun\], instrumental, plural, feminine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *tirate* \< *tṛ*
+- *tirate* ← *tṛ*
 - \[verb\], singular, Present indikative
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *rāṣṭi* \< *rāj*
+- *rāṣṭi* ← *rāj*
 - \[verb\], singular, Present indikative
 - “govern; shine; glitter; direct.”
 ------------------------------------------------------------------------
-- *śūraḥ* \< *śūra*
+- *śūraḥ* ← *śūra*
 - \[noun\], nominative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
@@ -49,19 +49,19 @@ title = "Rig Veda 1.104.4"
 - *vīrapatnī*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *payo* \< *payaḥ* \< *payas*
+- *payo* ← *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
-- *hinvānā* \< *hinvānāḥ* \< *hi*
+- *hinvānā* ← *hinvānāḥ* ← *hi*
 - \[verb noun\], nominative, plural
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
-- *udabhir* \< *udabhiḥ* \< *uda*
+- *udabhir* ← *udabhiḥ* ← *uda*
 - \[noun\], instrumental, plural, neuter
 - “water.”
 ------------------------------------------------------------------------
-- *bharante* \< *bhṛ*
+- *bharante* ← *bhṛ*
 - \[verb\], plural, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”

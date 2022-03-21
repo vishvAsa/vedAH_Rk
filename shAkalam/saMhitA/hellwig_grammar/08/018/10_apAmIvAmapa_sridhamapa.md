@@ -2,18 +2,18 @@
 title = "Rig Veda 8.18.10"
 
 +++
--   *apāmīvām* \< *apāḥ* \< *pā*
+-   *apāmīvām* ← *apāḥ* ← *pā*
 - \[verb\], singular, Root aorist (Ind.)
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *apāmīvām* \< *mīvām* \< *mīvā*
+- *apāmīvām* ← *mīvām* ← *mīvā*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
 - *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *sridham* \< *sridh*
+- *sridham* ← *sridh*
 - \[noun\], accusative, singular, feminine
 - “failure; damage.”
 ------------------------------------------------------------------------
@@ -21,27 +21,27 @@ title = "Rig Veda 8.18.10"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *sedhata* \< *sidh*
+- *sedhata* ← *sidh*
 - \[verb\], plural, Present imperative
 - “chase away; repel.”
 ------------------------------------------------------------------------
-- *durmatim* \< *durmati*
+- *durmatim* ← *durmati*
 - \[noun\], accusative, singular, feminine
 - “hate; envy.”
 ------------------------------------------------------------------------
-- *ādityāso* \< *ādityāsaḥ* \< *āditya*
+- *ādityāso* ← *ādityāsaḥ* ← *āditya*
 - \[noun\], vocative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
-- *yuyotanā* \< *yuyotana* \< *yu*
+- *yuyotanā* ← *yuyotana* ← *yu*
 - \[verb\], plural, Present imperative
 - “keep away; separate; ward off.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *aṃhasaḥ* \< *aṃhas*
+- *aṃhasaḥ* ← *aṃhas*
 - \[noun\], ablative, singular, neuter
 - “trouble; sin.”
 ------------------------------------------------------------------------

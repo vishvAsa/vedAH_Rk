@@ -2,19 +2,19 @@
 title = "Rig Veda 5.44.7"
 
 +++
--   *vety* \< *veti* \< *vī*
+-   *vety* ← *veti* ← *vī*
 - \[verb\], singular, Present indikative
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *agrur* \< *agruḥ* \< *agru*
+- *agrur* ← *agruḥ* ← *agru*
 - \[noun\], nominative, singular, masculine
 - “unmarried.”
 ------------------------------------------------------------------------
-- *janivān* \< *janivat*
+- *janivān* ← *janivat*
 - \[noun\], nominative, singular, masculine
 - “married.”
 ------------------------------------------------------------------------
-- *vā* \< *vai*
+- *vā* ← *vai*
 - \[adverb\]
 - “surely; on the other hand; vai \[word\]; indeed.”
 ------------------------------------------------------------------------
@@ -22,32 +22,32 @@ title = "Rig Veda 5.44.7"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *spṛdhaḥ* \< *spṛdh*
+- *spṛdhaḥ* ← *spṛdh*
 - \[noun\], accusative, plural, masculine
 - “rival; enemy.”
 ------------------------------------------------------------------------
-- *samaryatā* \< *samary*
+- *samaryatā* ← *samary*
 - \[verb noun\], instrumental, singular
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *sūryaḥ* \< *sūrya*
+- *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *kaviḥ* \< *kavi*
+- *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *ghraṃsaṃ* \< *ghraṃsam* \< *ghraṃsa*
+- *ghraṃsaṃ* ← *ghraṃsam* ← *ghraṃsa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *rakṣantam* \< *rakṣ*
+- *rakṣantam* ← *rakṣ*
 - \[verb noun\], accusative, singular
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------
@@ -55,26 +55,26 @@ title = "Rig Veda 5.44.7"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *viśvato* \< *viśvatas*
+- *viśvato* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
 ------------------------------------------------------------------------
-- *gayam* \< *gaya*
+- *gayam* ← *gaya*
 - \[noun\], accusative, singular, masculine
 - “house; Gaya; family; Gaya; property; Gaya; wealth; livestock.”
 ------------------------------------------------------------------------
-- *asmākaṃ* \< *asmākam* \< *mad*
+- *asmākaṃ* ← *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *vanavat* \< *van*
+- *vanavat* ← *van*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *svāvasuḥ* \< *svāvasu*
+- *svāvasuḥ* ← *svāvasu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

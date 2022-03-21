@@ -2,11 +2,11 @@
 title = "Rig Veda 8.94.8"
 
 +++
--   *kad* \< *ka*
+-   *kad* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
@@ -14,24 +14,24 @@ title = "Rig Veda 8.94.8"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *mahānāṃ* \< *mahānām* \< *maha*
+- *mahānāṃ* ← *mahānām* ← *maha*
 - \[noun\], genitive, plural, masculine
 - “great; abundant.”
 ------------------------------------------------------------------------
-- *devānām* \< *deva*
+- *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *avo* \< *avaḥ* \< *avas*
+- *avo* ← *avaḥ* ← *avas*
 - \[noun\], accusative, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *vṛṇe* \< *vṛ*
+- *vṛṇe* ← *vṛ*
 - \[verb\], singular, Present indikative
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *tmanā* \< *tman*
+- *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
 ------------------------------------------------------------------------
@@ -39,11 +39,11 @@ title = "Rig Veda 8.94.8"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *dasmavarcasām* \< *dasma*
+- *dasmavarcasām* ← *dasma*
 - \[noun\]
 - “fantastic; extraordinary.”
 ------------------------------------------------------------------------
-- *dasmavarcasām* \< *varcasām* \< *varcas*
+- *dasmavarcasām* ← *varcasām* ← *varcas*
 - \[noun\], genitive, plural, masculine
 - “shininess; vigor; fecal matter; glare; magnificence; energy;
     prestige; energy; glory; luster; light; varcas \[word\]; glory; body

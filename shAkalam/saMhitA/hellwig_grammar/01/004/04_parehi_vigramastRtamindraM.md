@@ -2,40 +2,40 @@
 title = "Rig Veda 1.4.4"
 
 +++
--   *parehi* \< *pare* \< *√i*
+-   *parehi* ← *pare* ← *√i*
 - \[verb\], singular, Present imperative
 - “travel; depart; go; die.”
 ------------------------------------------------------------------------
-- *vigram* \< *vigra*
+- *vigram* ← *vigra*
 - \[noun\], accusative, singular, masculine
 - “strong.”
 ------------------------------------------------------------------------
-- *astṛtam* \< *astṛta*
+- *astṛtam* ← *astṛta*
 - \[noun\], accusative, singular, masculine
 - “durable; invincible.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pṛcchā* \< *pracch*
+- *pṛcchā* ← *pracch*
 - \[verb\], singular, Present imperative
 - “ask; ask; ask; consult; interrogate.”
 ------------------------------------------------------------------------
-- *vipaścitam* \< *vipaścit*
+- *vipaścitam* ← *vipaścit*
 - \[noun\], accusative, singular, masculine
 - “wise; expert.”
 ------------------------------------------------------------------------
-- *yas* \< *yaḥ* \< *yad*
+- *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sakhibhya* \< *sakhibhyaḥ* \< *sakhi*
+- *sakhibhya* ← *sakhibhyaḥ* ← *sakhi*
 - \[noun\], ablative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
@@ -43,7 +43,7 @@ title = "Rig Veda 1.4.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *varam* \< *vara*
+- *varam* ← *vara*
 - \[noun\], nominative, singular, neuter
 - “best; excellent; better; choice; optimum; maximal.”
 ------------------------------------------------------------------------

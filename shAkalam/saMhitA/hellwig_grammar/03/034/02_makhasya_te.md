@@ -2,14 +2,14 @@
 title = "Rig Veda 3.34.2"
 
 +++
--   *makhasya* \< *makha*
+-   *makhasya* ← *makha*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *taviṣasya* \< *taviṣa*
+- *taviṣasya* ← *taviṣa*
 - \[noun\], genitive, singular, masculine
 - “strong.”
 ------------------------------------------------------------------------
@@ -17,27 +17,27 @@ title = "Rig Veda 3.34.2"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *jūtim* \< *jūti*
+- *jūtim* ← *jūti*
 - \[noun\], accusative, singular, feminine
 - “jūti \[word\].”
 ------------------------------------------------------------------------
-- *iyarmi* \< *ṛch*
+- *iyarmi* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *vācam* \< *vāc*
+- *vācam* ← *vāc*
 - \[noun\], accusative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
 ------------------------------------------------------------------------
-- *amṛtāya* \< *amṛta*
+- *amṛtāya* ← *amṛta*
 - \[noun\], dative, singular, neuter
 - “amṛta; immortality; vatsanābha; ambrosia; mercury; medicine;
     vighasa; calcium hydroxide.”
 ------------------------------------------------------------------------
-- *bhūṣan* \< *bhūṣ*
+- *bhūṣan* ← *bhūṣ*
 - \[verb noun\], nominative, singular
 - “endeavor; attend; strive.”
 ------------------------------------------------------------------------
@@ -46,25 +46,25 @@ title = "Rig Veda 3.34.2"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *kṣitīnām* \< *kṣiti*
+- *kṣitīnām* ← *kṣiti*
 - \[noun\], genitive, plural, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
 ------------------------------------------------------------------------
-- *asi* \< *as*
+- *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *mānuṣīṇāṃ* \< *mānuṣīṇām* \< *mānuṣa*
+- *mānuṣīṇāṃ* ← *mānuṣīṇām* ← *mānuṣa*
 - \[noun\], genitive, plural, feminine
 - “human.”
 ------------------------------------------------------------------------
-- *viśāṃ* \< *viśām* \< *viś*
+- *viśāṃ* ← *viśām* ← *viś*
 - \[noun\], genitive, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *daivīnām* \< *daiva*
+- *daivīnām* ← *daiva*
 - \[noun\], genitive, plural, feminine
 - “divine; religious.”
 ------------------------------------------------------------------------
@@ -72,13 +72,13 @@ title = "Rig Veda 3.34.2"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *pūrvayāvā* \< *pūrva*
+- *pūrvayāvā* ← *pūrva*
 - \[noun\]
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *pūrvayāvā* \< *yāvā* \< *yāvan*
+- *pūrvayāvā* ← *yāvā* ← *yāvan*
 - \[noun\], nominative, singular, masculine
 - “traveler.”
 ------------------------------------------------------------------------

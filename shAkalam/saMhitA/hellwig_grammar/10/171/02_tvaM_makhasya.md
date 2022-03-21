@@ -2,46 +2,46 @@
 title = "Rig Veda 10.171.2"
 
 +++
--   *tvam* \< *tvad*
+-   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *makhasya* \< *makha*
+- *makhasya* ← *makha*
 - \[noun\], genitive, singular, masculine
 - “yajña; Makha; festival.”
 ------------------------------------------------------------------------
-- *dodhataḥ* \< *dudh*
+- *dodhataḥ* ← *dudh*
 - \[verb noun\], genitive, singular
 - “ramp.”
 ------------------------------------------------------------------------
-- *śiro* \< *śiraḥ* \< *śiras*
+- *śiro* ← *śiraḥ* ← *śiras*
 - \[noun\], accusative, singular, neuter
 - “head; top; peak; battlefront; śiras \[word\]; beginning; skull.”
 ------------------------------------------------------------------------
-- *'va* \< *ava*
+- *'va* ← *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *tvaco* \< *tvacaḥ* \< *tvac*
+- *tvaco* ← *tvacaḥ* ← *tvac*
 - \[noun\], ablative, singular, feminine
 - “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
 ------------------------------------------------------------------------
-- *bharaḥ* \< *bhṛ*
+- *bharaḥ* ← *bhṛ*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *agacchaḥ* \< *gam*
+- *agacchaḥ* ← *gam*
 - \[verb\], singular, Imperfect
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *somino* \< *sominaḥ* \< *somin*
+- *somino* ← *sominaḥ* ← *somin*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *gṛham* \< *gṛha*
+- *gṛham* ← *gṛha*
 - \[noun\], accusative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
 ------------------------------------------------------------------------

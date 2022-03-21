@@ -2,45 +2,45 @@
 title = "Rig Veda 10.146.2"
 
 +++
--   *vṛṣāravāya* \< *vṛṣārava*
+-   *vṛṣāravāya* ← *vṛṣārava*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *vadate* \< *vad*
+- *vadate* ← *vad*
 - \[verb noun\], dative, singular
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *upāvati* \< *upa*
+- *upāvati* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *upāvati* \< *avati* \< *av*
+- *upāvati* ← *avati* ← *av*
 - \[verb\], singular, Present indikative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *ciccikaḥ* \< *ciccika*
+- *ciccikaḥ* ← *ciccika*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *āghāṭibhir* \< *āghāṭibhiḥ* \< *āghāṭi*
+- *āghāṭibhir* ← *āghāṭibhiḥ* ← *āghāṭi*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *dhāvayann* \< *dhāvayan* \< *dhāvay*
+- *dhāvayann* ← *dhāvayan* ← *dhāvay*
 - \[verb noun\], nominative, singular
 - “wash.”
 ------------------------------------------------------------------------
-- *araṇyānir* \< *araṇyāniḥ* \< *araṇyāni*
+- *araṇyānir* ← *araṇyāniḥ* ← *araṇyāni*
 - \[noun\], nominative, singular, feminine
 - “forest.”
 ------------------------------------------------------------------------
-- *mahīyate* \< *mahīy*
+- *mahīyate* ← *mahīy*
 - \[verb\], singular, Present indikative
 - “rejoice; revel.”
 ------------------------------------------------------------------------

@@ -2,15 +2,15 @@
 title = "Rig Veda 5.17.3"
 
 +++
--   *asya* \< *idam*
+-   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vāsā* \< *vā*
+- *vāsā* ← *vā*
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *vāsā* \< *āsā* \< *ās*
+- *vāsā* ← *āsā* ← *ās*
 - \[noun\], instrumental, singular, neuter
 - “mouth.”
 ------------------------------------------------------------------------
@@ -18,27 +18,27 @@ title = "Rig Veda 5.17.3"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *arciṣā* \< *arcis*
+- *arciṣā* ← *arcis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; light; beam; gleam; shininess.”
 ------------------------------------------------------------------------
-- *ya* \< *yaḥ* \< *yad*
+- *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *āyukta* \< *āyuj* \< *√yuj*
+- *āyukta* ← *āyuj* ← *√yuj*
 - \[verb noun\], nominative, singular
 - “āyuj \[word\].”
 ------------------------------------------------------------------------
-- *tujā* \< *tuj*
+- *tujā* ← *tuj*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *girā* \< *gir*
+- *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -46,24 +46,24 @@ title = "Rig Veda 5.17.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *retasā* \< *retas*
+- *retasā* ← *retas*
 - \[noun\], instrumental, singular, neuter
 - “semen; sperm.”
 ------------------------------------------------------------------------
-- *bṛhacchocanty* \< *bṛhat*
+- *bṛhacchocanty* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *bṛhacchocanty* \< *śocanti* \< *śuc*
+- *bṛhacchocanty* ← *śocanti* ← *śuc*
 - \[verb\], plural, Present indikative
 - “mourn; grieve; flame; glow; burn; repent.”
 ------------------------------------------------------------------------
-- *arcayaḥ* \< *arci*
+- *arcayaḥ* ← *arci*
 - \[noun\], nominative, plural, masculine
 - “flare.”
 ------------------------------------------------------------------------

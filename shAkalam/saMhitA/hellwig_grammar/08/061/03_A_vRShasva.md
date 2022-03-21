@@ -6,28 +6,28 @@ title = "Rig Veda 8.61.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vṛṣasva* \< *vṛṣ*
+- *vṛṣasva* ← *vṛṣ*
 - \[verb\], singular, Present imperative
 - “shower; rain; effuse; shower; drench.”
 ------------------------------------------------------------------------
-- *purūvaso* \< *purūvasu*
+- *purūvaso* ← *purūvasu*
 - \[noun\], vocative, singular, masculine
 - “rich.”
 ------------------------------------------------------------------------
-- *sutasyendrāndhasaḥ* \< *sutasya* \< *su*
+- *sutasyendrāndhasaḥ* ← *sutasya* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *sutasyendrāndhasaḥ* \< *indra*
+- *sutasyendrāndhasaḥ* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sutasyendrāndhasaḥ* \< *andhasaḥ* \< *andhas*
+- *sutasyendrāndhasaḥ* ← *andhasaḥ* ← *andhas*
 - \[noun\], genitive, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
-- *vidmā* \< *vidma* \< *vid*
+- *vidmā* ← *vidma* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
@@ -36,29 +36,29 @@ title = "Rig Veda 8.61.3"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *harivaḥ* \< *harivas* \< *harivat*
+- *harivaḥ* ← *harivas* ← *harivat*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *pṛtsu* \< *pṛt*
+- *pṛtsu* ← *pṛt*
 - \[noun\], locative, plural, feminine
 - “battle.”
 ------------------------------------------------------------------------
-- *sāsahim* \< *sāsahi*
+- *sāsahim* ← *sāsahi*
 - \[noun\], accusative, singular, masculine
 - “victorious.”
 ------------------------------------------------------------------------
-- *adhṛṣṭaṃ* \< *adhṛṣṭam* \< *adhṛṣṭa*
+- *adhṛṣṭaṃ* ← *adhṛṣṭam* ← *adhṛṣṭa*
 - \[noun\], accusative, singular, masculine
 - “modest; invincible.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *dadhṛṣvaṇim* \< *dadhṛṣvaṇi*
+- *dadhṛṣvaṇim* ← *dadhṛṣvaṇi*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------

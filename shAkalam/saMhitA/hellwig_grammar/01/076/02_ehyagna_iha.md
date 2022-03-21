@@ -2,11 +2,11 @@
 title = "Rig Veda 1.76.2"
 
 +++
--   *ehy* \< *ehi* \< *e* \< *√i*
+-   *ehy* ← *ehi* ← *e* ← *√i*
 - \[verb\], singular, Present imperative
 - “come; travel.”
 ------------------------------------------------------------------------
-- *agna* \< *agne* \< *agni*
+- *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -16,7 +16,7 @@ title = "Rig Veda 1.76.2"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *hotā* \< *hotṛ*
+- *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
@@ -24,12 +24,12 @@ title = "Rig Veda 1.76.2"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ṣīdādabdhaḥ* \< *ṣīda* \< *sad*
+- *ṣīdādabdhaḥ* ← *ṣīda* ← *sad*
 - \[verb\], singular, Present imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *ṣīdādabdhaḥ* \< *adabdhaḥ* \< *adabdha*
+- *ṣīdādabdhaḥ* ← *adabdhaḥ* ← *adabdha*
 - \[noun\], nominative, singular, masculine
 - “unfailing; unimpaired.”
 ------------------------------------------------------------------------
@@ -37,49 +37,49 @@ title = "Rig Veda 1.76.2"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *puraetā* \< *puraetṛ*
+- *puraetā* ← *puraetṛ*
 - \[noun\], nominative, singular, masculine
 - “guide; leader; harbinger.”
 ------------------------------------------------------------------------
-- *bhavā* \< *bhū*
+- *bhavā* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *avatāṃ* \< *avatām* \< *av*
+- *avatāṃ* ← *avatām* ← *av*
 - \[verb\], dual, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], nominative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *viśvaminve* \< *viśvaminva*
+- *viśvaminve* ← *viśvaminva*
 - \[noun\], nominative, dual, neuter
 ------------------------------------------------------------------------
-- *yajā* \< *yaj*
+- *yajā* ← *yaj*
 - \[verb\], singular, Present imperative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *mahe* \< *mah*
+- *mahe* ← *mah*
 - \[noun\], dative, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *saumanasāya* \< *saumanasa*
+- *saumanasāya* ← *saumanasa*
 - \[noun\], dative, singular, neuter
 - “favor; satisfaction.”
 ------------------------------------------------------------------------
-- *devān* \< *deva*
+- *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”

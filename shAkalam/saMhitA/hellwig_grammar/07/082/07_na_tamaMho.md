@@ -6,13 +6,13 @@ title = "Rig Veda 7.82.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *aṃho* \< *aṃhaḥ* \< *aṃhas*
+- *aṃho* ← *aṃhaḥ* ← *aṃhas*
 - \[noun\], nominative, singular, neuter
 - “trouble; sin.”
 ------------------------------------------------------------------------
@@ -20,15 +20,15 @@ title = "Rig Veda 7.82.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *duritāni* \< *durita*
+- *duritāni* ← *durita*
 - \[noun\], nominative, plural, neuter
 - “danger; sin; difficulty; difficulty; evil.”
 ------------------------------------------------------------------------
-- *martyam* \< *martya*
+- *martyam* ← *martya*
 - \[noun\], accusative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------
-- *indrāvaruṇā* \< *indrāvaruṇa*
+- *indrāvaruṇā* ← *indrāvaruṇa*
 - \[noun\], accusative, dual, masculine
 - “Varuna; Indra.”
 ------------------------------------------------------------------------
@@ -36,12 +36,12 @@ title = "Rig Veda 7.82.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tapaḥ* \< *tapas*
+- *tapaḥ* ← *tapas*
 - \[noun\], nominative, singular, neuter
 - “penance; heat; Tapoloka; tapas \[word\]; ardor; austerity; summer;
     heat.”
 ------------------------------------------------------------------------
-- *kutaś* \< *kutas*
+- *kutaś* ← *kutas*
 - \[adverb\]
 - “how; whence; why.”
 ------------------------------------------------------------------------
@@ -49,27 +49,27 @@ title = "Rig Veda 7.82.7"
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *devā* \< *deva*
+- *devā* ← *deva*
 - \[noun\], nominative, dual, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *gacchatho* \< *gacchathaḥ* \< *gam*
+- *gacchatho* ← *gacchathaḥ* ← *gam*
 - \[verb\], dual, Present indikative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *vītho* \< *vīthaḥ* \< *vī* \< *√i*
+- *vītho* ← *vīthaḥ* ← *vī* ← *√i*
 - \[verb\], dual, Present indikative
 - “disappear; differ; elapse.”
 ------------------------------------------------------------------------
-- *adhvaraṃ* \< *adhvaram* \< *adhvara*
+- *adhvaraṃ* ← *adhvaram* ← *adhvara*
 - \[noun\], accusative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
@@ -77,20 +77,20 @@ title = "Rig Veda 7.82.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *martasya* \< *marta*
+- *martasya* ← *marta*
 - \[noun\], genitive, singular, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *naśate* \< *naś*
+- *naśate* ← *naś*
 - \[verb\], singular, Present indikative
 - “reach; achieve; enter (a state); reach.”
 ------------------------------------------------------------------------
-- *parihvṛtiḥ* \< *parihvṛti*
+- *parihvṛtiḥ* ← *parihvṛti*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------

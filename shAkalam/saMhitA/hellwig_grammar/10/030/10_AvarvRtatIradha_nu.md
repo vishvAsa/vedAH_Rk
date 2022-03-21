@@ -2,7 +2,7 @@
 title = "Rig Veda 10.30.10"
 
 +++
--   *āvarvṛtatīr* \< *āvarvṛtatīḥ* \< *āvarvṛt* \< *√vṛt*
+-   *āvarvṛtatīr* ← *āvarvṛtatīḥ* ← *āvarvṛt* ← *√vṛt*
 - \[verb noun\], nominative, plural
 - “eddy; move back and forth.”
 ------------------------------------------------------------------------
@@ -14,58 +14,58 @@ title = "Rig Veda 10.30.10"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *dvidhārā* \< *dvi*
+- *dvidhārā* ← *dvi*
 - \[noun\]
 - “two; dvi \[word\]; second.”
 ------------------------------------------------------------------------
-- *dvidhārā* \< *dhārāḥ* \< *dhārā*
+- *dvidhārā* ← *dhārāḥ* ← *dhārā*
 - \[noun\], nominative, plural, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *goṣuyudho* \< *goṣuyudhaḥ* \< *goṣuyudh*
+- *goṣuyudho* ← *goṣuyudhaḥ* ← *goṣuyudh*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *niyavaṃ* \< *niyavam* \< *niyava*
+- *niyavaṃ* ← *niyavam* ← *niyava*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *carantīḥ* \< *car*
+- *carantīḥ* ← *car*
 - \[verb noun\], nominative, plural
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *ṛṣe* \< *ṛṣi*
+- *ṛṣe* ← *ṛṣi*
 - \[noun\], vocative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *janitrīr* \< *janitrīḥ* \< *janitrī*
+- *janitrīr* ← *janitrīḥ* ← *janitrī*
 - \[noun\], accusative, plural, feminine
 - “mother.”
 ------------------------------------------------------------------------
-- *bhuvanasya* \< *bhuvana*
+- *bhuvanasya* ← *bhuvana*
 - \[noun\], genitive, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *patnīr* \< *patnīḥ* \< *patnī*
+- *patnīr* ← *patnīḥ* ← *patnī*
 - \[noun\], accusative, plural, feminine
 - “wife; mistress; queen.”
 ------------------------------------------------------------------------
-- *apo* \< *apaḥ* \< *ap*
+- *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, masculine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *vandasva* \< *vand*
+- *vandasva* ← *vand*
 - \[verb\], singular, Present imperative
 - “worship; laud.”
 ------------------------------------------------------------------------
-- *savṛdhaḥ* \< *savṛdh*
+- *savṛdhaḥ* ← *savṛdh*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *sayonīḥ* \< *sayoni*
+- *sayonīḥ* ← *sayoni*
 - \[noun\], accusative, plural, feminine
 - “related.”
 ------------------------------------------------------------------------

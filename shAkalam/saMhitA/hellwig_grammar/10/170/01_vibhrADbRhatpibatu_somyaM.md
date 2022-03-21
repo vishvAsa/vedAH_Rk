@@ -2,7 +2,7 @@
 title = "Rig Veda 10.170.1"
 
 +++
--   *vibhrāḍ* \< *vibhrāj*
+-   *vibhrāḍ* ← *vibhrāj*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
 - *bṛhat*
@@ -10,61 +10,61 @@ title = "Rig Veda 10.170.1"
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *pibatu* \< *pā*
+- *pibatu* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *somyam* \< *somya*
+- *somyam* ← *somya*
 - \[noun\], accusative, singular, neuter
 - “saumya.”
 ------------------------------------------------------------------------
-- *madhv* \< *madhu*
+- *madhv* ← *madhu*
 - \[noun\], accusative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *āyur* \< *āyuḥ* \< *āyus*
+- *āyur* ← *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------
-- *dadhad* \< *dadhat* \< *dhā*
+- *dadhad* ← *dadhat* ← *dhā*
 - \[verb noun\], nominative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *yajñapatāv* \< *yajñapatau* \< *yajñapati*
+- *yajñapatāv* ← *yajñapatau* ← *yajñapati*
 - \[noun\], locative, singular, masculine
 - “Vishnu.”
 ------------------------------------------------------------------------
-- *avihrutam* \< *avihruta*
+- *avihrutam* ← *avihruta*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *vātajūto* \< *vāta*
+- *vātajūto* ← *vāta*
 - \[noun\], masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *vātajūto* \< *jūtaḥ* \< *jū*
+- *vātajūto* ← *jūtaḥ* ← *jū*
 - \[verb noun\], nominative, singular
 - “animate; encourage; impel; inspire.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *abhirakṣati* \< *abhirakṣ* \< *√rakṣ*
+- *abhirakṣati* ← *abhirakṣ* ← *√rakṣ*
 - \[verb\], singular, Present indikative
 - “guard; protect; defend.”
 ------------------------------------------------------------------------
-- *tmanā* \< *tman*
+- *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
 ------------------------------------------------------------------------
-- *prajāḥ* \< *prajā*
+- *prajāḥ* ← *prajā*
 - \[noun\], accusative, plural, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”
 ------------------------------------------------------------------------
-- *pupoṣa* \< *puṣ*
+- *pupoṣa* ← *puṣ*
 - \[verb\], singular, Perfect indicative
 - “boom; grow; promote; foster.”
 ------------------------------------------------------------------------
@@ -76,7 +76,7 @@ title = "Rig Veda 10.170.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *rājati* \< *rāj*
+- *rājati* ← *rāj*
 - \[verb\], singular, Present indikative
 - “govern; shine; glitter; direct.”
 ------------------------------------------------------------------------

@@ -6,7 +6,7 @@ title = "Rig Veda 10.102.7"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *pradhim* \< *pradhi*
+- *pradhim* ← *pradhi*
 - \[noun\], accusative, singular, masculine
 - “disk.”
 ------------------------------------------------------------------------
@@ -14,26 +14,26 @@ title = "Rig Veda 10.102.7"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *ahann* \< *ahan* \< *han*
+- *ahann* ← *ahan* ← *han*
 - \[verb\], singular, Root aorist (Ind.)
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vidvān* \< *vid*
+- *vidvān* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *upāyunag* \< *upāyunak* \< *upayuj* \< *√yuj*
+- *upāyunag* ← *upāyunak* ← *upayuj* ← *√yuj*
 - \[verb\], singular, Imperfect
 - “administer; eat; use; consume; endow; mix.”
 ------------------------------------------------------------------------
-- *vaṃsagam* \< *vaṃsaga*
+- *vaṃsagam* ← *vaṃsaga*
 - \[noun\], accusative, singular, masculine
 - “bull.”
 ------------------------------------------------------------------------
@@ -42,11 +42,11 @@ title = "Rig Veda 10.102.7"
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *śikṣan* \< *śikṣ*
+- *śikṣan* ← *śikṣ*
 - \[verb noun\], nominative, singular
 - “help; give.”
 ------------------------------------------------------------------------
-- *indra* \< *indraḥ* \< *indra*
+- *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -55,27 +55,27 @@ title = "Rig Veda 10.102.7"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *āvat* \< *av*
+- *āvat* ← *av*
 - \[verb\], singular, Imperfect
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *patim* \< *pati*
+- *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *aghnyānām* \< *aghnyā*
+- *aghnyānām* ← *aghnyā*
 - \[noun\], genitive, plural, feminine
 - “cow.”
 ------------------------------------------------------------------------
-- *araṃhata* \< *raṃh*
+- *araṃhata* ← *raṃh*
 - \[verb\], singular, Imperfect
 - “rush.”
 ------------------------------------------------------------------------
-- *padyābhiḥ* \< *padyā*
+- *padyābhiḥ* ← *padyā*
 - \[noun\], instrumental, plural, feminine
 ------------------------------------------------------------------------
-- *kakudmān* \< *kakudmant*
+- *kakudmān* ← *kakudmant*
 - \[noun\], nominative, singular, masculine
 - “bull; mountain.”
 ------------------------------------------------------------------------

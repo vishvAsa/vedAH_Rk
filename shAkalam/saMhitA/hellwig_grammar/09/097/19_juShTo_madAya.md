@@ -2,21 +2,21 @@
 title = "Rig Veda 9.97.19"
 
 +++
--   *juṣṭo* \< *juṣṭaḥ* \< *juṣ*
+-   *juṣṭo* ← *juṣṭaḥ* ← *juṣ*
 - \[verb noun\], nominative, singular
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *madāya* \< *mada*
+- *madāya* ← *mada*
 - \[noun\], dative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *devatāta* \< *devatāte* \< *devatāt*
+- *devatāta* ← *devatāte* ← *devatāt*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------
-- *indo* \< *indu*
+- *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
@@ -25,34 +25,34 @@ title = "Rig Veda 9.97.19"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *ṣṇunā* \< *snunā* \< *snu*
+- *ṣṇunā* ← *snunā* ← *snu*
 - \[noun\], instrumental, singular, masculine
 - “back.”
 ------------------------------------------------------------------------
-- *dhanva* \< *dhanv*
+- *dhanva* ← *dhanv*
 - \[verb\], singular, Present imperative
 - “run.”
 ------------------------------------------------------------------------
-- *sāno* \< *sānu*
+- *sāno* ← *sānu*
 - \[noun\], locative, singular, masculine
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------
-- *avye* \< *avya*
+- *avye* ← *avya*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *sahasradhāraḥ* \< *sahasra*
+- *sahasradhāraḥ* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasradhāraḥ* \< *dhāraḥ* \< *dhārā*
+- *sahasradhāraḥ* ← *dhāraḥ* ← *dhārā*
 - \[noun\], nominative, singular, masculine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *surabhir* \< *surabhiḥ* \< *surabhi*
+- *surabhir* ← *surabhiḥ* ← *surabhi*
 - \[noun\], nominative, singular, masculine
 - “fragrant; perfumed; surabhi \[word\].”
 ------------------------------------------------------------------------
-- *adabdhaḥ* \< *adabdha*
+- *adabdhaḥ* ← *adabdha*
 - \[noun\], nominative, singular, masculine
 - “unfailing; unimpaired.”
 ------------------------------------------------------------------------
@@ -60,15 +60,15 @@ title = "Rig Veda 9.97.19"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *srava* \< *sru*
+- *srava* ← *sru*
 - \[verb\], singular, Present imperative
 - “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
     disappear; leak; fester.”
 ------------------------------------------------------------------------
-- *vājasātau* \< *vājasāti*
+- *vājasātau* ← *vājasāti*
 - \[noun\], locative, singular, feminine
 - “victory; battle.”
 ------------------------------------------------------------------------
-- *nṛṣahye* \< *nṛṣahya*
+- *nṛṣahye* ← *nṛṣahya*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------

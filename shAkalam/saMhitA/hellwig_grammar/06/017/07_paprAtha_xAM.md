@@ -2,11 +2,11 @@
 title = "Rig Veda 6.17.7"
 
 +++
--   *paprātha* \< *prā*
+-   *paprātha* ← *prā*
 - \[verb\], singular, Perfect indicative
 - “fill; satisfy.”
 ------------------------------------------------------------------------
-- *kṣām* \< *kṣā*
+- *kṣām* ← *kṣā*
 - \[noun\], accusative, singular, feminine
 - “Earth; Earth.”
 ------------------------------------------------------------------------
@@ -14,14 +14,14 @@ title = "Rig Veda 6.17.7"
 - \[noun\], nominative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *daṃso* \< *daṃsaḥ* \< *daṃsas*
+- *daṃso* ← *daṃsaḥ* ← *daṃsas*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *urvīm* \< *uru*
+- *urvīm* ← *uru*
 - \[noun\], accusative, singular, feminine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
@@ -29,15 +29,15 @@ title = "Rig Veda 6.17.7"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *dyām* \< *div*
+- *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *ṛṣvo* \< *ṛṣvaḥ* \< *ṛṣva*
+- *ṛṣvo* ← *ṛṣvaḥ* ← *ṛṣva*
 - \[noun\], nominative, singular, masculine
 - “distinguished; high; noble; enormous.”
 ------------------------------------------------------------------------
-- *bṛhad* \< *bṛhat*
+- *bṛhad* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
@@ -47,10 +47,10 @@ title = "Rig Veda 6.17.7"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *stabhāyaḥ* \< *stabhāy* \< *√stambh*
+- *stabhāyaḥ* ← *stabhāy* ← *√stambh*
 - \[verb\], singular, Present injunctive
 ------------------------------------------------------------------------
-- *adhārayo* \< *adhārayaḥ* \< *dhāray* \< *√dhṛ*
+- *adhārayo* ← *adhārayaḥ* ← *dhāray* ← *√dhṛ*
 - \[verb\], singular, Imperfect
 - “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
     preserve; remember; stow; stop; have; fill into; endure; support;
@@ -60,29 +60,29 @@ title = "Rig Veda 6.17.7"
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *devaputre* \< *deva*
+- *devaputre* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devaputre* \< *putre* \< *putra*
+- *devaputre* ← *putre* ← *putra*
 - \[noun\], accusative, dual, feminine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
-- *pratne* \< *pratna*
+- *pratne* ← *pratna*
 - \[noun\], accusative, dual, feminine
 - “age-old; pratna \[word\].”
 ------------------------------------------------------------------------
-- *mātarā* \< *mātṛ*
+- *mātarā* ← *mātṛ*
 - \[noun\], accusative, dual, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *yahvī* \< *yahva*
+- *yahvī* ← *yahva*
 - \[noun\], accusative, dual, feminine
 - “youngest; youthful; active.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------

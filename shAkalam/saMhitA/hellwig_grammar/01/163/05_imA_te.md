@@ -2,73 +2,73 @@
 title = "Rig Veda 1.163.5"
 
 +++
--   *imā* \< *idam*
+-   *imā* ← *idam*
 - \[noun\], nominative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vājinn* \< *vājin*
+- *vājinn* ← *vājin*
 - \[noun\], vocative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *avamārjanānīmā* \< *avamārjanāni* \< *avamārjana*
+- *avamārjanānīmā* ← *avamārjanāni* ← *avamārjana*
 - \[noun\], nominative, plural, neuter
 ------------------------------------------------------------------------
-- *avamārjanānīmā* \< *imā* \< *idam*
+- *avamārjanānīmā* ← *imā* ← *idam*
 - \[noun\], nominative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *śaphānāṃ* \< *śaphānām* \< *śapha*
+- *śaphānāṃ* ← *śaphānām* ← *śapha*
 - \[noun\], genitive, plural, masculine
 - “one-eighth; śapha \[word\].”
 ------------------------------------------------------------------------
-- *sanitur* \< *sanituḥ* \< *sanitṛ*
+- *sanitur* ← *sanituḥ* ← *sanitṛ*
 - \[noun\], genitive, singular, masculine
 - “bestowing; victorious.”
 ------------------------------------------------------------------------
-- *nidhānā* \< *nidhāna*
+- *nidhānā* ← *nidhāna*
 - \[noun\], nominative, plural, neuter
 - “hoard; treasure; concealment; deposit.”
 ------------------------------------------------------------------------
-- *atrā* \< *atra*
+- *atrā* ← *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *bhadrā* \< *bhadrāḥ* \< *bhadra*
+- *bhadrā* ← *bhadrāḥ* ← *bhadra*
 - \[noun\], accusative, plural, feminine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *raśanā* \< *raśanāḥ* \< *raśanā*
+- *raśanā* ← *raśanāḥ* ← *raśanā*
 - \[noun\], accusative, plural, feminine
 - “rein; bridle; girdle; cord.”
 ------------------------------------------------------------------------
-- *apaśyam* \< *paś*
+- *apaśyam* ← *paś*
 - \[verb\], singular, Imperfect
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *yā* \< *yāḥ* \< *yad*
+- *yā* ← *yāḥ* ← *yad*
 - \[noun\], accusative, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *abhirakṣanti* \< *abhirakṣ* \< *√rakṣ*
+- *abhirakṣanti* ← *abhirakṣ* ← *√rakṣ*
 - \[verb\], plural, Present indikative
 - “guard; protect; defend.”
 ------------------------------------------------------------------------
-- *gopāḥ* \< *gopā*
+- *gopāḥ* ← *gopā*
 - \[noun\], nominative, plural, masculine
 - “herder; defender.”
 ------------------------------------------------------------------------

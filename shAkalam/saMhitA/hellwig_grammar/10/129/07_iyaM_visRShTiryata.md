@@ -2,19 +2,19 @@
 title = "Rig Veda 10.129.7"
 
 +++
--   *iyaṃ* \< *iyam* \< *idam*
+-   *iyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *visṛṣṭir* \< *visṛṣṭiḥ* \< *visṛṣṭi*
+- *visṛṣṭir* ← *visṛṣṭiḥ* ← *visṛṣṭi*
 - \[noun\], nominative, singular, feminine
 - “universe; creation.”
 ------------------------------------------------------------------------
-- *yata* \< *yatas*
+- *yata* ← *yatas*
 - \[adverb\]
 - “from which; whence; wherein.”
 ------------------------------------------------------------------------
-- *ābabhūva* \< *ābhū* \< *√bhū*
+- *ābabhūva* ← *ābhū* ← *√bhū*
 - \[verb\], singular, Perfect indicative
 - “originate.”
 ------------------------------------------------------------------------
@@ -26,7 +26,7 @@ title = "Rig Veda 10.129.7"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *dadhe* \< *dhā*
+- *dadhe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
@@ -43,19 +43,19 @@ title = "Rig Veda 10.129.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *asyādhyakṣaḥ* \< *asya* \< *idam*
+- *asyādhyakṣaḥ* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *asyādhyakṣaḥ* \< *adhyakṣaḥ* \< *adhyakṣa*
+- *asyādhyakṣaḥ* ← *adhyakṣaḥ* ← *adhyakṣa*
 - \[noun\], nominative, singular, masculine
 - “overseer; adhyakṣa \[word\]; mayor; head.”
 ------------------------------------------------------------------------
-- *parame* \< *parama*
+- *parame* ← *parama*
 - \[noun\], locative, singular, masculine
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”
@@ -64,7 +64,7 @@ title = "Rig Veda 10.129.7"
 - \[noun\], locative, singular, masculine
 - “abhra; sky; ākāśa; Svarga; Vyoman.”
 ------------------------------------------------------------------------
-- *so* \< *saḥ* \< *tad*
+- *so* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -74,7 +74,7 @@ title = "Rig Veda 10.129.7"
 - \[adverb\]
 - “in truth; aṅga \[word\]; entirely; merely.”
 ------------------------------------------------------------------------
-- *veda* \< *vid*
+- *veda* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
@@ -91,7 +91,7 @@ title = "Rig Veda 10.129.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *veda* \< *vid*
+- *veda* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”

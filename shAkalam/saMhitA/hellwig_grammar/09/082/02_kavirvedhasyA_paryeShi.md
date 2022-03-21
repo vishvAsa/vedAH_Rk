@@ -2,7 +2,7 @@
 title = "Rig Veda 9.82.2"
 
 +++
--   *kavir* \< *kaviḥ* \< *kavi*
+-   *kavir* ← *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
@@ -10,19 +10,19 @@ title = "Rig Veda 9.82.2"
 - *vedhasyā*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *pary* \< *pari*
+- *pary* ← *pari*
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *eṣi* \< *i*
+- *eṣi* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *māhinam* \< *māhina*
+- *māhinam* ← *māhina*
 - \[noun\], accusative, singular, neuter
 - “mighty; large.”
 ------------------------------------------------------------------------
-- *atyo* \< *atyaḥ* \< *atya*
+- *atyo* ← *atyaḥ* ← *atya*
 - \[noun\], nominative, singular, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------
@@ -30,7 +30,7 @@ title = "Rig Veda 9.82.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *mṛṣṭo* \< *mṛṣṭaḥ* \< *mṛj*
+- *mṛṣṭo* ← *mṛṣṭaḥ* ← *mṛj*
 - \[verb noun\], nominative, singular
 - “purify; polish; rub; remove.”
 ------------------------------------------------------------------------
@@ -38,19 +38,19 @@ title = "Rig Veda 9.82.2"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *vājam* \< *vāja*
+- *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *arṣasi* \< *ṛṣ*
+- *arṣasi* ← *ṛṣ*
 - \[verb\], singular, Present indikative
 - “run.”
 ------------------------------------------------------------------------
-- *apasedhan* \< *apasidh* \< *√sidh*
+- *apasedhan* ← *apasidh* ← *√sidh*
 - \[verb noun\], nominative, singular
 - “chase away; ward off.”
 ------------------------------------------------------------------------
-- *duritā* \< *durita*
+- *duritā* ← *durita*
 - \[noun\], accusative, plural, neuter
 - “danger; sin; difficulty; difficulty; evil.”
 ------------------------------------------------------------------------
@@ -58,15 +58,15 @@ title = "Rig Veda 9.82.2"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *mṛﾱaya* \< *mṛḍaya* \< *mṛḍay* \< *√mṛḍ*
+- *mṛﾱaya* ← *mṛḍaya* ← *mṛḍay* ← *√mṛḍ*
 - \[verb\], singular, Present imperative
 - “pardon.”
 ------------------------------------------------------------------------
-- *ghṛtaṃ* \< *ghṛtam* \< *ghṛta*
+- *ghṛtaṃ* ← *ghṛtam* ← *ghṛta*
 - \[noun\], accusative, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *vasānaḥ* \< *vas*
+- *vasānaḥ* ← *vas*
 - \[verb noun\], nominative, singular
 - “wear.”
 ------------------------------------------------------------------------
@@ -74,12 +74,12 @@ title = "Rig Veda 9.82.2"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *yāsi* \< *yā*
+- *yāsi* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *nirṇijam* \< *nirṇij*
+- *nirṇijam* ← *nirṇij*
 - \[noun\], accusative, singular, feminine
 - “attire; garment.”
 ------------------------------------------------------------------------

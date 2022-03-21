@@ -2,7 +2,7 @@
 title = "Rig Veda 5.19.2"
 
 +++
--   *juhure* \< *hu*
+-   *juhure* ← *hu*
 - \[verb\], plural, Perfect indicative
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
@@ -10,18 +10,18 @@ title = "Rig Veda 5.19.2"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *citayanto* \< *citayantaḥ* \< *citay* \< *√cit*
+- *citayanto* ← *citayantaḥ* ← *citay* ← *√cit*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *'nimiṣaṃ* \< *animiṣam* \< *animiṣa*
+- *'nimiṣaṃ* ← *animiṣam* ← *animiṣa*
 - \[noun\], accusative, singular, neuter
 - “agaze.”
 ------------------------------------------------------------------------
-- *nṛmṇam* \< *nṛmṇa*
+- *nṛmṇam* ← *nṛmṇa*
 - \[noun\], accusative, singular, neuter
 - “manhood; power.”
 ------------------------------------------------------------------------
-- *pānti* \< *pā*
+- *pānti* ← *pā*
 - \[verb\], plural, Present indikative
 - “protect; govern.”
 ------------------------------------------------------------------------
@@ -29,17 +29,17 @@ title = "Rig Veda 5.19.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dṛﾱhām* \< *dṛḍha*
+- *dṛﾱhām* ← *dṛḍha*
 - \[noun\], accusative, singular, feminine
 - “hard; intense; firm; fixed; resolute; mesomorphic; grim; dṛḍha
     \[word\]; rainproof; sturdy; shut; firm; insoluble; strong; tough;
     tight.”
 ------------------------------------------------------------------------
-- *puraṃ* \< *puram* \< *pur*
+- *puraṃ* ← *puram* ← *pur*
 - \[noun\], accusative, singular, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
-- *viviśuḥ* \< *viś*
+- *viviśuḥ* ← *viś*
 - \[verb\], plural, Perfect indicative
 - “enter; penetrate; settle; settle.”
 ------------------------------------------------------------------------

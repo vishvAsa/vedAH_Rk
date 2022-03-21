@@ -2,78 +2,78 @@
 title = "Rig Veda 10.88.1"
 
 +++
--   *haviṣpāntam* \< *haviḥ* \< *havis*
+-   *haviṣpāntam* ← *haviḥ* ← *havis*
 - \[noun\], neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *haviṣpāntam* \< *pāntam* \< *pānta*
+- *haviṣpāntam* ← *pāntam* ← *pānta*
 - \[noun\], nominative, singular, neuter
 - “drink; beverage.”
 ------------------------------------------------------------------------
-- *ajaraṃ* \< *ajaram* \< *ajara*
+- *ajaraṃ* ← *ajaram* ← *ajara*
 - \[noun\], nominative, singular, neuter
 - “undecaying; ageless.”
 ------------------------------------------------------------------------
-- *svarvidi* \< *svar*
+- *svarvidi* ← *svar*
 - \[noun\], neuter
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *svarvidi* \< *vidi* \< *vid*
+- *svarvidi* ← *vidi* ← *vid*
 - \[noun\], locative, singular, masculine
 - “finding.”
 ------------------------------------------------------------------------
-- *divispṛśy* \< *divispṛśi* \< *divispṛś*
+- *divispṛśy* ← *divispṛśi* ← *divispṛś*
 - \[noun\], locative, singular, masculine
 - “heavenward.”
 ------------------------------------------------------------------------
-- *āhutaṃ* \< *āhutam* \< *āhu* \< *√hu*
+- *āhutaṃ* ← *āhutam* ← *āhu* ← *√hu*
 - \[verb noun\], nominative, singular
 - “sacrifice; sprinkle.”
 ------------------------------------------------------------------------
-- *juṣṭam* \< *juṣ*
+- *juṣṭam* ← *juṣ*
 - \[verb noun\], nominative, singular
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *agnau* \< *agni*
+- *agnau* ← *agni*
 - \[noun\], locative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *tasya* \< *tad*
+- *tasya* ← *tad*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *bharmaṇe* \< *bharman*
+- *bharmaṇe* ← *bharman*
 - \[noun\], dative, singular, neuter
 - “gold; sustenance.”
 ------------------------------------------------------------------------
-- *bhuvanāya* \< *bhuvana*
+- *bhuvanāya* ← *bhuvana*
 - \[noun\], dative, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *dharmaṇe* \< *dharman*
+- *dharmaṇe* ← *dharman*
 - \[noun\], dative, singular, neuter
 - “regulation; Dharma; law; property.”
 ------------------------------------------------------------------------
-- *kaṃ* \< *kam* \< *kaṃ*
+- *kaṃ* ← *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
 ------------------------------------------------------------------------
-- *svadhayā* \< *svadhā*
+- *svadhayā* ← *svadhā*
 - \[noun\], instrumental, singular, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
 ------------------------------------------------------------------------
-- *paprathanta* \< *prath*
+- *paprathanta* ← *prath*
 - \[verb\], plural, Perfect injunctive
 - “be known; expand; expand; boom.”
 ------------------------------------------------------------------------

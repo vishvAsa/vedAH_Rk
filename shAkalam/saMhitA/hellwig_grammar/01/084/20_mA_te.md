@@ -6,11 +6,11 @@ title = "Rig Veda 1.84.20"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *rādhāṃsi* \< *rādhas*
+- *rādhāṃsi* ← *rādhas*
 - \[noun\], nominative, plural, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
@@ -18,34 +18,34 @@ title = "Rig Veda 1.84.20"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ūtayo* \< *ūtayaḥ* \< *ūti*
+- *ūtayo* ← *ūtayaḥ* ← *ūti*
 - \[noun\], nominative, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *vaso* \< *vasas* \< *vas*
+- *vaso* ← *vasas* ← *vas*
 - \[verb noun\], vocative, singular
 - “stay; dwell; get stale; be situated; exist; continue; bide.”
 ------------------------------------------------------------------------
-- *'smān* \< *asmān* \< *mad*
+- *'smān* ← *asmān* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *kadācanā* \< *kadācana*
+- *kadācanā* ← *kadācana*
 - \[adverb\]
 - “ever; sometimes.”
 ------------------------------------------------------------------------
-- *kadācanā* \< *ā*
+- *kadācanā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dabhan* \< *dabh*
+- *dabhan* ← *dabh*
 - \[verb\], plural, Present injunctive
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
@@ -54,11 +54,11 @@ title = "Rig Veda 1.84.20"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *upamimīhi* \< *upamā* \< *√mā*
+- *upamimīhi* ← *upamā* ← *√mā*
 - \[verb\], singular, Present imperative
 - “compare.”
 ------------------------------------------------------------------------
@@ -66,11 +66,11 @@ title = "Rig Veda 1.84.20"
 - \[noun\], vocative, singular, masculine
 - “human.”
 ------------------------------------------------------------------------
-- *vasūni* \< *vasu*
+- *vasūni* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *carṣaṇibhya* \< *carṣaṇibhyaḥ* \< *carṣaṇi*
+- *carṣaṇibhya* ← *carṣaṇibhyaḥ* ← *carṣaṇi*
 - \[noun\], ablative, plural, feminine
 - “people.”
 ------------------------------------------------------------------------

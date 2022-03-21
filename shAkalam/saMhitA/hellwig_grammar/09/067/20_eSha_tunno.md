@@ -2,19 +2,19 @@
 title = "Rig Veda 9.67.20"
 
 +++
--   *eṣa* \< *etad*
+-   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *tunno* \< *tunnaḥ* \< *tud*
+- *tunno* ← *tunnaḥ* ← *tud*
 - \[verb noun\], nominative, singular
 - “push; ache.”
 ------------------------------------------------------------------------
-- *abhiṣṭutaḥ* \< *abhiṣṭu* \< *√stu*
+- *abhiṣṭutaḥ* ← *abhiṣṭu* ← *√stu*
 - \[verb noun\], nominative, singular
 - “laud; recite.”
 ------------------------------------------------------------------------
-- *pavitram* \< *pavitra*
+- *pavitram* ← *pavitra*
 - \[noun\], accusative, singular, neuter
 - “strainer.”
 ------------------------------------------------------------------------
@@ -22,22 +22,22 @@ title = "Rig Veda 9.67.20"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *gāhate* \< *gāh*
+- *gāhate* ← *gāh*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *rakṣohā* \< *rakṣaḥ* \< *rakṣas*
+- *rakṣohā* ← *rakṣaḥ* ← *rakṣas*
 - \[noun\], neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
 ------------------------------------------------------------------------
-- *rakṣohā* \< *hā* \< *han*
+- *rakṣohā* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
-- *vāram* \< *vāra*
+- *vāram* ← *vāra*
 - \[noun\], accusative, singular, neuter
 - “strainer.”
 ------------------------------------------------------------------------
-- *avyayam* \< *avyaya*
+- *avyayam* ← *avyaya*
 - \[noun\], accusative, singular, neuter
 - “sheep.”
 ------------------------------------------------------------------------

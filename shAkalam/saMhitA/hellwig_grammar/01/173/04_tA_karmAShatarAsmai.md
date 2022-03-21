@@ -2,13 +2,13 @@
 title = "Rig Veda 1.173.4"
 
 +++
--   *tā* \< *tad*
+-   *tā* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *karmāṣatarāsmai* \< *karma* \< *kṛ*
+- *karmāṣatarāsmai* ← *karma* ← *kṛ*
 - \[verb\], plural, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -19,10 +19,10 @@ title = "Rig Veda 1.173.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *karmāṣatarāsmai* \< *aṣatarā* \< *aṣatara*
+- *karmāṣatarāsmai* ← *aṣatarā* ← *aṣatara*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *karmāṣatarāsmai* \< *asmai* \< *idam*
+- *karmāṣatarāsmai* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -30,49 +30,49 @@ title = "Rig Veda 1.173.4"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *cyautnāni* \< *cyautna*
+- *cyautnāni* ← *cyautna*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *devayanto* \< *devayantaḥ* \< *devay*
+- *devayanto* ← *devayantaḥ* ← *devay*
 - \[verb noun\], nominative, plural
 - “solicit.”
 ------------------------------------------------------------------------
-- *bharante* \< *bhṛ*
+- *bharante* ← *bhṛ*
 - \[verb\], plural, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *jujoṣad* \< *jujoṣat* \< *juṣ*
+- *jujoṣad* ← *jujoṣat* ← *juṣ*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dasmavarcā* \< *dasma*
+- *dasmavarcā* ← *dasma*
 - \[noun\]
 - “fantastic; extraordinary.”
 ------------------------------------------------------------------------
-- *dasmavarcā* \< *varcāḥ* \< *varcas*
+- *dasmavarcā* ← *varcāḥ* ← *varcas*
 - \[noun\], nominative, singular, masculine
 - “shininess; vigor; fecal matter; glare; magnificence; energy;
     prestige; energy; glory; luster; light; varcas \[word\]; glory; body
     waste; droppings; color.”
 ------------------------------------------------------------------------
-- *nāsatyeva* \< *nāsatyā* \< *nāsatya*
+- *nāsatyeva* ← *nāsatyā* ← *nāsatya*
 - \[noun\], nominative, dual, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *nāsatyeva* \< *iva*
+- *nāsatyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sugmyo* \< *sugmyaḥ* \< *sugmya*
+- *sugmyo* ← *sugmyaḥ* ← *sugmya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *ratheṣṭhāḥ* \< *ratheṣṭhā*
+- *ratheṣṭhāḥ* ← *ratheṣṭhā*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

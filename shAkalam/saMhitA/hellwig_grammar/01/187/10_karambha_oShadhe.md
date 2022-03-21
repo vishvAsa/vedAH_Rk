@@ -2,42 +2,42 @@
 title = "Rig Veda 1.187.10"
 
 +++
--   *karambha* \< *karambhaḥ* \< *karambha*
+-   *karambha* ← *karambhaḥ* ← *karambha*
 - \[noun\], nominative, singular, masculine
 - “gruel.”
 ------------------------------------------------------------------------
-- *oṣadhe* \< *oṣadhi*
+- *oṣadhe* ← *oṣadhi*
 - \[noun\], vocative, singular, feminine
 - “herb; plant; drug; simple; oṣadhi \[word\]; remedy.”
 ------------------------------------------------------------------------
-- *bhava* \< *bhū*
+- *bhava* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *pīvo* \< *pīvaḥ* \< *pīvas*
+- *pīvo* ← *pīvaḥ* ← *pīvas*
 - \[noun\], nominative, singular, neuter
 - “fat.”
 ------------------------------------------------------------------------
-- *vṛkka* \< *vṛkkaḥ* \< *vṛkka*
+- *vṛkka* ← *vṛkkaḥ* ← *vṛkka*
 - \[noun\], nominative, singular, masculine
 - “kidney.”
 ------------------------------------------------------------------------
-- *udārathiḥ* \< *udārathi*
+- *udārathiḥ* ← *udārathi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vātāpe* \< *vāta*
+- *vātāpe* ← *vāta*
 - \[noun\], masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *vātāpe* \< *āpe* \< *āpi*
+- *vātāpe* ← *āpe* ← *āpi*
 - \[noun\], vocative, singular, masculine
 - “friend.”
 ------------------------------------------------------------------------
-- *pīva* \< *pīvaḥ* \< *pīvas*
+- *pīva* ← *pīvaḥ* ← *pīvas*
 - \[noun\], nominative, singular, neuter
 - “fat.”
 ------------------------------------------------------------------------
@@ -45,7 +45,7 @@ title = "Rig Veda 1.187.10"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *bhava* \< *bhū*
+- *bhava* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;

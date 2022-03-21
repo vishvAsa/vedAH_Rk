@@ -6,23 +6,23 @@ title = "Rig Veda 5.48.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *grāvabhir* \< *grāvabhiḥ* \< *grāvan*
+- *grāvabhir* ← *grāvabhiḥ* ← *grāvan*
 - \[noun\], instrumental, plural, masculine
 - “stone; millstone; grindstone; mountain.”
 ------------------------------------------------------------------------
-- *ahanyebhir* \< *ahanyebhiḥ* \< *ahanya*
+- *ahanyebhir* ← *ahanyebhiḥ* ← *ahanya*
 - \[noun\], instrumental, plural, masculine
 - “daily.”
 ------------------------------------------------------------------------
-- *aktubhir* \< *aktubhiḥ* \< *aktu*
+- *aktubhir* ← *aktubhiḥ* ← *aktu*
 - \[noun\], instrumental, plural, masculine
 - “night; dark; beam.”
 ------------------------------------------------------------------------
-- *variṣṭhaṃ* \< *variṣṭham* \< *variṣṭha*
+- *variṣṭhaṃ* ← *variṣṭham* ← *variṣṭha*
 - \[noun\], accusative, singular, masculine
 - “best; preferable.”
 ------------------------------------------------------------------------
-- *vajram* \< *vajra*
+- *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
@@ -31,14 +31,14 @@ title = "Rig Veda 5.48.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *jigharti* \< *ghṛ*
+- *jigharti* ← *ghṛ*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *māyini* \< *māyin*
+- *māyini* ← *māyin*
 - \[noun\], locative, singular, masculine
 - “artful; charming; crafty; deceptive.”
 ------------------------------------------------------------------------
-- *śataṃ* \< *śatam* \< *śata*
+- *śataṃ* ← *śatam* ← *śata*
 - \[noun\], nominative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
@@ -46,24 +46,24 @@ title = "Rig Veda 5.48.3"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *pracaran* \< *pracar* \< *√car*
+- *pracaran* ← *pracar* ← *√car*
 - \[verb\], plural, Present injunctive
 - “continue; crawl.”
 ------------------------------------------------------------------------
-- *sve* \< *sva*
+- *sve* ← *sva*
 - \[noun\], locative, singular, masculine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *dame* \< *dama*
+- *dame* ← *dama*
 - \[noun\], locative, singular, masculine
 - “dwelling; home.”
 ------------------------------------------------------------------------
-- *saṃvartayanto* \< *saṃvartayantaḥ* \< *saṃvartay* \< *√vṛt*
+- *saṃvartayanto* ← *saṃvartayantaḥ* ← *saṃvartay* ← *√vṛt*
 - \[verb noun\], nominative, plural
 - “clench; satisfy.”
 ------------------------------------------------------------------------
@@ -75,12 +75,12 @@ title = "Rig Veda 5.48.3"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *vartayann* \< *vartayan* \< *vartay* \< *√vṛt*
+- *vartayann* ← *vartayan* ← *vartay* ← *√vṛt*
 - \[verb\], plural, Present injunctive
 - “pound; tell; exist; bring; spill; mix; survive; melt; roll;
     explain; perform; turn; chop; sustain; spend; roll up; produce.”
 ------------------------------------------------------------------------
-- *ahā* \< *aha*
+- *ahā* ← *aha*
 - \[noun\], accusative, plural, neuter
 - “day; aha \[word\]; day.”
 ------------------------------------------------------------------------

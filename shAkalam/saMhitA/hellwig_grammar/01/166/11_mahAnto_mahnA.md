@@ -2,32 +2,32 @@
 title = "Rig Veda 1.166.11"
 
 +++
--   *mahānto* \< *mahāntaḥ* \< *mahat*
+-   *mahānto* ← *mahāntaḥ* ← *mahat*
 - \[noun\], nominative, plural, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
 ------------------------------------------------------------------------
-- *mahnā* \< *mahan*
+- *mahnā* ← *mahan*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
 ------------------------------------------------------------------------
-- *vibhvo* \< *vibhvaḥ* \< *vibhu*
+- *vibhvo* ← *vibhvaḥ* ← *vibhu*
 - \[noun\], nominative, plural, masculine
 - “mighty; abundant; big.”
 ------------------------------------------------------------------------
-- *vibhūtayo* \< *vibhūtayaḥ* \< *vibhūti*
+- *vibhūtayo* ← *vibhūtayaḥ* ← *vibhūti*
 - \[noun\], nominative, plural, masculine
 - “plentiful.”
 ------------------------------------------------------------------------
-- *dūredṛśo* \< *dūredṛśaḥ* \< *dūredṛś*
+- *dūredṛśo* ← *dūredṛśaḥ* ← *dūredṛś*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *divyā* \< *divyāḥ* \< *divya*
+- *divyā* ← *divyāḥ* ← *divya*
 - \[noun\], nominative, plural, masculine
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
@@ -36,41 +36,41 @@ title = "Rig Veda 1.166.11"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *stṛbhiḥ* \< *star*
+- *stṛbhiḥ* ← *star*
 - \[noun\], instrumental, plural, masculine
 - “star.”
 ------------------------------------------------------------------------
-- *mandrāḥ* \< *mandra*
+- *mandrāḥ* ← *mandra*
 - \[noun\], nominative, plural, masculine
 - “pleasant; eloquent; dulcet.”
 ------------------------------------------------------------------------
-- *sujihvāḥ* \< *su*
+- *sujihvāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sujihvāḥ* \< *jihvāḥ* \< *jihvā*
+- *sujihvāḥ* ← *jihvāḥ* ← *jihvā*
 - \[noun\], nominative, plural, masculine
 - “tongue; tongue; jihvā \[word\]; fire.”
 ------------------------------------------------------------------------
-- *svaritāra* \< *svaritāraḥ* \< *svaritṛ*
+- *svaritāra* ← *svaritāraḥ* ← *svaritṛ*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *āsabhiḥ* \< *āsan*
+- *āsabhiḥ* ← *āsan*
 - \[noun\], instrumental, plural, neuter
 - “mouth.”
 ------------------------------------------------------------------------
-- *sammiślā* \< *sammiślāḥ* \< *sammiśla*
+- *sammiślā* ← *sammiślāḥ* ← *sammiśla*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *indre* \< *indra*
+- *indre* ← *indra*
 - \[noun\], locative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *pariṣṭubhaḥ* \< *pariṣṭubh*
+- *pariṣṭubhaḥ* ← *pariṣṭubh*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------

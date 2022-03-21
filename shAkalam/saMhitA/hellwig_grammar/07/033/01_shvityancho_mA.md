@@ -2,23 +2,23 @@
 title = "Rig Veda 7.33.1"
 
 +++
--   *śvityañco* \< *śvityañcaḥ* \< *śvityañc*
+-   *śvityañco* ← *śvityañcaḥ* ← *śvityañc*
 - \[noun\], nominative, plural, masculine
 - “white.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dakṣiṇataskapardā* \< *dakṣiṇatas*
+- *dakṣiṇataskapardā* ← *dakṣiṇatas*
 - \[adverb\]
 - “right; southward.”
 ------------------------------------------------------------------------
-- *dakṣiṇataskapardā* \< *kapardāḥ* \< *kaparda*
+- *dakṣiṇataskapardā* ← *kapardāḥ* ← *kaparda*
 - \[noun\], nominative, plural, masculine
 - “money cowrie; knotted hair.”
 ------------------------------------------------------------------------
-- *dhiyañjinvāso* \< *dhiyañjinvāsaḥ* \< *dhiyaṃjinva*
+- *dhiyañjinvāso* ← *dhiyañjinvāsaḥ* ← *dhiyaṃjinva*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *abhi*
@@ -29,16 +29,16 @@ title = "Rig Veda 7.33.1"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *pramanduḥ* \< *pramad* \< *√mad*
+- *pramanduḥ* ← *pramad* ← *√mad*
 - \[verb\], plural, Aorist inj. (proh.)
 - “rut.”
 ------------------------------------------------------------------------
-- *uttiṣṭhan* \< *utthā* \< *√sthā*
+- *uttiṣṭhan* ← *utthā* ← *√sthā*
 - \[verb noun\], nominative, singular
 - “originate; get up; arise; rise; utthā; rise; be active; come forth;
     cause; happen; grow.”
 ------------------------------------------------------------------------
-- *voce* \< *vac*
+- *voce* ← *vac*
 - \[verb\], singular, Aorist inj. (proh.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
@@ -49,11 +49,11 @@ title = "Rig Veda 7.33.1"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *barhiṣo* \< *barhiṣaḥ* \< *barhis*
+- *barhiṣo* ← *barhiṣaḥ* ← *barhis*
 - \[noun\], ablative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *nṝn* \< *nṛ*
+- *nṝn* ← *nṛ*
 - \[noun\], accusative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
@@ -61,19 +61,19 @@ title = "Rig Veda 7.33.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dūrād* \< *dūrāt*
+- *dūrād* ← *dūrāt*
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *avitave* \< *av*
+- *avitave* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *vasiṣṭhāḥ* \< *vasiṣṭha*
+- *vasiṣṭhāḥ* ← *vasiṣṭha*
 - \[noun\], nominative, plural, masculine
 - “Vasiṣṭha; vasiṣṭha \[word\].”
 ------------------------------------------------------------------------

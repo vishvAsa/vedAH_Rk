@@ -2,7 +2,7 @@
 title = "Rig Veda 6.4.3"
 
 +++
--   *dyāvo* \< *dyāvaḥ* \< *div*
+-   *dyāvo* ← *dyāvaḥ* ← *div*
 - \[noun\], nominative, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -10,25 +10,25 @@ title = "Rig Veda 6.4.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *panayanty* \< *panayanti* \< *panay* \< *√pan*
+- *panayanty* ← *panayanti* ← *panay* ← *√pan*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *abhvam* \< *abhva*
+- *abhvam* ← *abhva*
 - \[noun\], accusative, singular, neuter
 - “monstrosity; nothingness; void; force.”
 ------------------------------------------------------------------------
-- *bhāsāṃsi* \< *bhāsas*
+- *bhāsāṃsi* ← *bhāsas*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *vaste* \< *vas*
+- *vaste* ← *vas*
 - \[verb\], singular, Present indikative
 - “wear.”
 ------------------------------------------------------------------------
-- *sūryo* \< *sūryaḥ* \< *sūrya*
+- *sūryo* ← *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
@@ -37,7 +37,7 @@ title = "Rig Veda 6.4.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śukraḥ* \< *śukra*
+- *śukraḥ* ← *śukra*
 - \[noun\], nominative, singular, masculine
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
@@ -45,35 +45,35 @@ title = "Rig Veda 6.4.3"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ya* \< *yaḥ* \< *yad*
+- *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *inoty* \< *inoti* \< *i*
+- *inoty* ← *inoti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *ajaraḥ* \< *ajara*
+- *ajaraḥ* ← *ajara*
 - \[noun\], nominative, singular, masculine
 - “undecaying; ageless.”
 ------------------------------------------------------------------------
-- *pāvako* \< *pāvakaḥ* \< *pāvaka*
+- *pāvako* ← *pāvakaḥ* ← *pāvaka*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; Plumbago zeylanica;
     vahni.”
 ------------------------------------------------------------------------
-- *'śnasya* \< *aśnasya* \< *aśna*
+- *'śnasya* ← *aśnasya* ← *aśna*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *cic* \< *cit*
+- *cic* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *chiśnathat* \< *śiśnathat* \< *śnath*
+- *chiśnathat* ← *śiśnathat* ← *śnath*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “pierce; kill.”
 ------------------------------------------------------------------------
-- *pūrvyāṇi* \< *pūrvya*
+- *pūrvyāṇi* ← *pūrvya*
 - \[noun\], accusative, plural, neuter
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------

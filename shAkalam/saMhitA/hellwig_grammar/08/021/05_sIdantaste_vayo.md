@@ -2,16 +2,16 @@
 title = "Rig Veda 8.21.5"
 
 +++
--   *sīdantas* \< *sīdantaḥ* \< *sad*
+-   *sīdantas* ← *sīdantaḥ* ← *sad*
 - \[verb noun\], nominative, plural
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vayo* \< *vayaḥ* \< *vi*
+- *vayo* ← *vayaḥ* ← *vi*
 - \[noun\], nominative, plural, masculine
 - “vi; bird; vi.”
 ------------------------------------------------------------------------
@@ -19,31 +19,31 @@ title = "Rig Veda 8.21.5"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *gośrīte* \< *go*
+- *gośrīte* ← *go*
 - \[noun\], masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *gośrīte* \< *śrīte* \< *śrī*
+- *gośrīte* ← *śrīte* ← *śrī*
 - \[verb noun\], locative, singular
 - “cook; boil; heat; cook; mix.”
 ------------------------------------------------------------------------
-- *madhau* \< *madhu*
+- *madhau* ← *madhu*
 - \[noun\], locative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *madire* \< *madira*
+- *madire* ← *madira*
 - \[noun\], locative, singular, neuter
 - “intoxicant.”
 ------------------------------------------------------------------------
-- *vivakṣaṇe* \< *vivakṣaṇa*
+- *vivakṣaṇe* ← *vivakṣaṇa*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
 - *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *tvām* \< *tvad*
+- *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -52,7 +52,7 @@ title = "Rig Veda 8.21.5"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *nonumaḥ* \< *nonāv* \< *√nū*
+- *nonumaḥ* ← *nonāv* ← *√nū*
 - \[verb\], plural, Present indikative
 - “bellow.”
 ------------------------------------------------------------------------

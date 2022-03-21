@@ -2,23 +2,23 @@
 title = "Rig Veda 10.61.5"
 
 +++
--   *prathiṣṭa* \< *prath*
+-   *prathiṣṭa* ← *prath*
 - \[verb\], singular, Aorist inj. (proh.)
 - “be known; expand; expand; boom.”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vīrakarmam* \< *vīrakarma*
+- *vīrakarmam* ← *vīrakarma*
 - \[noun\], nominative, singular, neuter
 - “penis.”
 ------------------------------------------------------------------------
-- *iṣṇad* \< *iṣṇat* \< *iṣ*
+- *iṣṇad* ← *iṣṇat* ← *iṣ*
 - \[verb noun\], nominative, singular
 - “send.”
 ------------------------------------------------------------------------
-- *anuṣṭhitaṃ* \< *anuṣṭhitam* \< *anuṣṭhā* \< *√sthā*
+- *anuṣṭhitaṃ* ← *anuṣṭhitam* ← *anuṣṭhā* ← *√sthā*
 - \[verb noun\], accusative, singular
 - “follow; protect; treat.”
 ------------------------------------------------------------------------
@@ -26,20 +26,20 @@ title = "Rig Veda 10.61.5"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *naryo* \< *naryaḥ* \< *narya*
+- *naryo* ← *naryaḥ* ← *narya*
 - \[noun\], nominative, singular, masculine
 - “manly; heroic; powerful; male; human.”
 ------------------------------------------------------------------------
-- *apauhat* \< *apoh* \< *√ūh*
+- *apauhat* ← *apoh* ← *√ūh*
 - \[verb\], singular, Imperfect
 - “remove; cure; get rid of; stop; overcome.”
 ------------------------------------------------------------------------
-- *punas* \< *punar*
+- *punas* ← *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -49,19 +49,19 @@ title = "Rig Veda 10.61.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vṛhati* \< *vṛh*
+- *vṛhati* ← *vṛh*
 - \[verb\], singular, Present indikative
 - “extract.”
 ------------------------------------------------------------------------
-- *yat* \< *yad*
+- *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *kanāyā* \< *kanāyāḥ* \< *kanā*
+- *kanāyā* ← *kanāyāḥ* ← *kanā*
 - \[noun\], genitive, singular, feminine
 - “girl.”
 ------------------------------------------------------------------------
-- *duhitur* \< *duhituḥ* \< *duhitṛ*
+- *duhitur* ← *duhituḥ* ← *duhitṛ*
 - \[noun\], genitive, singular, feminine
 - “daughter; duhitṛ \[word\].”
 ------------------------------------------------------------------------
@@ -69,10 +69,10 @@ title = "Rig Veda 10.61.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *anubhṛtam* \< *anubhṛ* \< *√bhṛ*
+- *anubhṛtam* ← *anubhṛ* ← *√bhṛ*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *anarvā* \< *anarvan*
+- *anarvā* ← *anarvan*
 - \[noun\], nominative, singular, masculine
 - “unchallenged; unrivaled.”
 ------------------------------------------------------------------------

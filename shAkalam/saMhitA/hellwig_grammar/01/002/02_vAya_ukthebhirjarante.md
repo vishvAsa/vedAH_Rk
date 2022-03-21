@@ -2,20 +2,20 @@
 title = "Rig Veda 1.2.2"
 
 +++
--   *vāya* \< *vāyo* \< *vāyu*
+-   *vāya* ← *vāyo* ← *vāyu*
 - \[noun\], vocative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
 ------------------------------------------------------------------------
-- *ukthebhir* \< *ukthebhiḥ* \< *uktha*
+- *ukthebhir* ← *ukthebhiḥ* ← *uktha*
 - \[noun\], instrumental, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *jarante* \< *jṛ*
+- *jarante* ← *jṛ*
 - \[verb\], plural, Present indikative
 - “sing.”
 ------------------------------------------------------------------------
-- *tvām* \< *tvad*
+- *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -23,23 +23,23 @@ title = "Rig Veda 1.2.2"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *jaritāraḥ* \< *jaritṛ*
+- *jaritāraḥ* ← *jaritṛ*
 - \[noun\], nominative, plural, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *sutasomā* \< *suta* \< *su*
+- *sutasomā* ← *suta* ← *su*
 - \[verb noun\]
 - “press out; su.”
 ------------------------------------------------------------------------
-- *sutasomā* \< *somāḥ* \< *soma*
+- *sutasomā* ← *somāḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *aharvidaḥ* \< *ahar*
+- *aharvidaḥ* ← *ahar*
 - \[noun\], neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *aharvidaḥ* \< *vidaḥ* \< *vid*
+- *aharvidaḥ* ← *vidaḥ* ← *vid*
 - \[noun\], nominative, plural, masculine
 - “conversant(p); aware(p); enlightened; understanding.”
 ------------------------------------------------------------------------

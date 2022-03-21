@@ -2,52 +2,52 @@
 title = "Rig Veda 10.106.9"
 
 +++
--   *bṛhanteva* \< *bṛhantā* \< *bṛhat*
+-   *bṛhanteva* ← *bṛhantā* ← *bṛhat*
 - \[noun\], nominative, dual, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *bṛhanteva* \< *iva*
+- *bṛhanteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *gambhareṣu* \< *gambhara*
+- *gambhareṣu* ← *gambhara*
 - \[noun\], locative, plural, neuter
 ------------------------------------------------------------------------
-- *pratiṣṭhām* \< *pratiṣṭhā*
+- *pratiṣṭhām* ← *pratiṣṭhā*
 - \[noun\], accusative, singular, feminine
 - “foundation; base; fame; consecration; location.”
 ------------------------------------------------------------------------
-- *pādeva* \< *pādā* \< *pāda*
+- *pādeva* ← *pādā* ← *pāda*
 - \[noun\], nominative, dual, masculine
 - “foot; one-fourth; beam; pāda; foot; foundation; pāda \[word\]; leg;
     leg; animal foot; step; foot; footfall; verse.”
 ------------------------------------------------------------------------
-- *pādeva* \< *iva*
+- *pādeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *gādhaṃ* \< *gādham* \< *gādha*
+- *gādhaṃ* ← *gādham* ← *gādha*
 - \[noun\], accusative, singular, neuter
 - “ford.”
 ------------------------------------------------------------------------
-- *tarate* \< *tṛ*
+- *tarate* ← *tṛ*
 - \[verb noun\], dative, singular
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *vidāthaḥ* \< *vid*
+- *vidāthaḥ* ← *vid*
 - \[verb\], dual, Aorist conj./subj.
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *karṇeva* \< *karṇā* \< *karṇa*
+- *karṇeva* ← *karṇā* ← *karṇa*
 - \[noun\], nominative, dual, masculine
 - “ear; Karṇa; karṇa \[word\]; auricle; fluke; diameter; lobule.”
 ------------------------------------------------------------------------
-- *karṇeva* \< *iva*
+- *karṇeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *śāsur* \< *śāsuḥ* \< *śāsus*
+- *śāsur* ← *śāsuḥ* ← *śāsus*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
 - *anu*
@@ -58,36 +58,36 @@ title = "Rig Veda 10.106.9"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *smarātho* \< *smarāthaḥ* \< *smṛ*
+- *smarātho* ← *smarāthaḥ* ← *smṛ*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “think of; name; call; remember; enumerate; describe; teach;
     recommend; define; hand down; long; study; deem.”
 ------------------------------------------------------------------------
-- *'ṃśeva* \< *aṃśā* \< *aṃśa*
+- *'ṃśeva* ← *aṃśā* ← *aṃśa*
 - \[noun\], nominative, dual, masculine
 - “part; part; share; part; volume; parcel; part; Aṃśa; aṃśa \[word\];
     fraction.”
 ------------------------------------------------------------------------
-- *'ṃśeva* \< *iva*
+- *'ṃśeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *bhajataṃ* \< *bhajatam* \< *bhaj*
+- *bhajataṃ* ← *bhajatam* ← *bhaj*
 - \[verb\], dual, Present imperative
 - “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
     one's share; partake; share; get; approach; love; use.”
 ------------------------------------------------------------------------
-- *citram* \< *citra*
+- *citram* ← *citra*
 - \[noun\], accusative, singular, neuter
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *apnaḥ* \< *apnas*
+- *apnaḥ* ← *apnas*
 - \[noun\], accusative, singular, neuter
 - “property.”
 ------------------------------------------------------------------------

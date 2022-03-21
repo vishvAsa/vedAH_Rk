@@ -2,39 +2,39 @@
 title = "Rig Veda 8.100.6"
 
 +++
--   *viśvet* \< *viśvā* \< *viśva*
+-   *viśvet* ← *viśvā* ← *viśva*
 - \[noun\], nominative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvet* \< *id*
+- *viśvet* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *tā* \< *tad*
+- *tā* ← *tad*
 - \[noun\], nominative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *savaneṣu* \< *savana*
+- *savaneṣu* ← *savana*
 - \[noun\], locative, plural, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
-- *pravācyā* \< *pravac* \< *√vac*
+- *pravācyā* ← *pravac* ← *√vac*
 - \[verb noun\], nominative, plural
 - “describe; name; enumerate; call; explain; teach; state; tell;
     impart; convey; address; proclaim.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], accusative, plural, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *cakartha* \< *kṛ*
+- *cakartha* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -45,7 +45,7 @@ title = "Rig Veda 8.100.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *maghavann* \< *maghavan*
+- *maghavann* ← *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
@@ -54,42 +54,42 @@ title = "Rig Veda 8.100.6"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sunvate* \< *su*
+- *sunvate* ← *su*
 - \[verb noun\], dative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *pārāvataṃ* \< *pārāvatam* \< *pārāvata*
+- *pārāvataṃ* ← *pārāvatam* ← *pārāvata*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *purusaṃbhṛtaṃ* \< *puru*
+- *purusaṃbhṛtaṃ* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purusaṃbhṛtaṃ* \< *saṃbhṛtam* \< *sambhṛ* \< *√bhṛ*
+- *purusaṃbhṛtaṃ* ← *saṃbhṛtam* ← *sambhṛ* ← *√bhṛ*
 - \[verb noun\], accusative, singular
 - “gather; collect; fill; mix; fill into; produce.”
 ------------------------------------------------------------------------
-- *vasv* \< *vasu*
+- *vasv* ← *vasu*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *apāvṛṇoḥ* \< *apāvṛ* \< *√vṛ*
+- *apāvṛṇoḥ* ← *apāvṛ* ← *√vṛ*
 - \[verb\], singular, Imperfect
 - “open; gape.”
 ------------------------------------------------------------------------
-- *śarabhāya* \< *śarabha*
+- *śarabhāya* ← *śarabha*
 - \[noun\], dative, singular, masculine
 - “Śarabha; Śarabha.”
 ------------------------------------------------------------------------
-- *ṛṣibandhave* \< *ṛṣi*
+- *ṛṣibandhave* ← *ṛṣi*
 - \[noun\], masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *ṛṣibandhave* \< *bandhave* \< *bandhu*
+- *ṛṣibandhave* ← *bandhave* ← *bandhu*
 - \[noun\], dative, singular, masculine
 - “relative; bandhu \[word\]; association; friend; kin.”
 ------------------------------------------------------------------------

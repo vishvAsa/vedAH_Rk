@@ -2,15 +2,15 @@
 title = "Rig Veda 8.64.2"
 
 +++
--   *padā* \< *pad*
+-   *padā* ← *pad*
 - \[noun\], instrumental, singular, masculine
 - “foot; pad \[word\].”
 ------------------------------------------------------------------------
-- *paṇīṃr* \< *paṇi*
+- *paṇīṃr* ← *paṇi*
 - \[noun\], accusative, plural, masculine
 - “niggard; paṇ.”
 ------------------------------------------------------------------------
-- *arādhaso* \< *arādhasaḥ* \< *arādhas*
+- *arādhaso* ← *arādhasaḥ* ← *arādhas*
 - \[noun\], accusative, plural, masculine
 - “stingy.”
 ------------------------------------------------------------------------
@@ -18,17 +18,17 @@ title = "Rig Veda 8.64.2"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *bādhasva* \< *bādh*
+- *bādhasva* ← *bādh*
 - \[verb\], singular, Present imperative
 - “afflict; annoy; chase away; tease; grieve; irritate.”
 ------------------------------------------------------------------------
-- *mahāṃ* \< *mahat*
+- *mahāṃ* ← *mahat*
 - \[noun\], nominative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
 ------------------------------------------------------------------------
-- *asi* \< *as*
+- *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -36,7 +36,7 @@ title = "Rig Veda 8.64.2"
 - *nahi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------

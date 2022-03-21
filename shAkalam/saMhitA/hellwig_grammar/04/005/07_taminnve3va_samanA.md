@@ -2,17 +2,17 @@
 title = "Rig Veda 4.5.7"
 
 +++
--   *tam* \< *tad*
+-   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *in* \< *id*
+- *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *nv* \< *nu*
+- *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
@@ -24,7 +24,7 @@ title = "Rig Veda 4.5.7"
 - *samanā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *samānam* \< *samāna*
+- *samānam* ← *samāna*
 - \[noun\], accusative, singular, masculine
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
@@ -33,27 +33,27 @@ title = "Rig Veda 4.5.7"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *kratvā* \< *kratu*
+- *kratvā* ← *kratu*
 - \[noun\], instrumental, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *punatī* \< *pū*
+- *punatī* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *dhītir* \< *dhītiḥ* \< *dhīti*
+- *dhītir* ← *dhītiḥ* ← *dhīti*
 - \[noun\], nominative, singular, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------
-- *aśyāḥ* \< *aś*
+- *aśyāḥ* ← *aś*
 - \[verb\], singular, Aorist optative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *sasasya* \< *sasa*
+- *sasasya* ← *sasa*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *carmann* \< *carman*
+- *carmann* ← *carman*
 - \[noun\], locative, singular, neuter
 - “leather; hide; shield; skin; carman \[word\]; carman; hide.”
 ------------------------------------------------------------------------
@@ -65,21 +65,21 @@ title = "Rig Veda 4.5.7"
 - \[noun\], nominative, singular, neuter
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
 ------------------------------------------------------------------------
-- *pṛśner* \< *pṛśneḥ* \< *pṛśni*
+- *pṛśner* ← *pṛśneḥ* ← *pṛśni*
 - \[noun\], genitive, singular, feminine
 - “Pṛśni; beam.”
 ------------------------------------------------------------------------
-- *agre* \< *agra*
+- *agre* ← *agra*
 - \[noun\], locative, singular, neuter
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
 ------------------------------------------------------------------------
-- *rupa* \< *rupaḥ* \< *rup*
+- *rupa* ← *rupaḥ* ← *rup*
 - \[noun\], genitive, singular, feminine
 - “Earth.”
 ------------------------------------------------------------------------
-- *ārupitaṃ* \< *ārupitam* \< *ārupita*
+- *ārupitaṃ* ← *ārupitam* ← *ārupita*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
 - *jabāru*

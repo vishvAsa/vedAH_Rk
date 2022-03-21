@@ -6,14 +6,14 @@ title = "Rig Veda 8.7.30"
 - \[adverb\]
 - “when; kadā \[word\].”
 ------------------------------------------------------------------------
-- *gacchātha* \< *gam*
+- *gacchātha* ← *gam*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *maruta* \< *marutaḥ* \< *marut*
+- *maruta* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
@@ -21,18 +21,18 @@ title = "Rig Veda 8.7.30"
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *vipraṃ* \< *vipram* \< *vipra*
+- *vipraṃ* ← *vipram* ← *vipra*
 - \[noun\], accusative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *havamānam* \< *hvā*
+- *havamānam* ← *hvā*
 - \[verb noun\], accusative, singular
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *mārḍīkebhir* \< *mārḍīkebhiḥ* \< *mārḍīka*
+- *mārḍīkebhir* ← *mārḍīkebhiḥ* ← *mārḍīka*
 - \[noun\], instrumental, plural, neuter
 ------------------------------------------------------------------------
-- *nādhamānam* \< *nādh*
+- *nādhamānam* ← *nādh*
 - \[verb noun\], accusative, singular
 - “suffer.”
 ------------------------------------------------------------------------

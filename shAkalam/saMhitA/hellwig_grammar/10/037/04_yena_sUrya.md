@@ -2,7 +2,7 @@
 title = "Rig Veda 10.37.4"
 
 +++
--   *yena* \< *yad*
+-   *yena* ← *yad*
 - \[noun\], instrumental, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -11,21 +11,21 @@ title = "Rig Veda 10.37.4"
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *jyotiṣā* \< *jyotis*
+- *jyotiṣā* ← *jyotis*
 - \[noun\], instrumental, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
 ------------------------------------------------------------------------
-- *bādhase* \< *bādh*
+- *bādhase* ← *bādh*
 - \[verb\], singular, Present indikative
 - “afflict; annoy; chase away; tease; grieve; irritate.”
 ------------------------------------------------------------------------
-- *tamo* \< *tamaḥ* \< *tamas*
+- *tamo* ← *tamaḥ* ← *tamas*
 - \[noun\], accusative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
 ------------------------------------------------------------------------
-- *jagac* \< *jagat* \< *jagant*
+- *jagac* ← *jagat* ← *jagant*
 - \[noun\], accusative, singular, neuter
 - “universe; Earth; world; people; Jagatī; Loka; animal; being.”
 ------------------------------------------------------------------------
@@ -33,7 +33,7 @@ title = "Rig Veda 10.37.4"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *viśvam* \< *viśva*
+- *viśvam* ← *viśva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
@@ -42,43 +42,43 @@ title = "Rig Veda 10.37.4"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *iyarṣi* \< *ṛch*
+- *iyarṣi* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *bhānunā* \< *bhānu*
+- *bhānunā* ← *bhānu*
 - \[noun\], instrumental, singular, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
 ------------------------------------------------------------------------
-- *tenāsmad* \< *tena* \< *tad*
+- *tenāsmad* ← *tena* ← *tad*
 - \[noun\], instrumental, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tenāsmad* \< *asmat* \< *mad*
+- *tenāsmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *viśvām* \< *viśva*
+- *viśvām* ← *viśva*
 - \[noun\], accusative, singular, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *anirām* \< *anirā*
+- *anirām* ← *anirā*
 - \[noun\], accusative, singular, feminine
 - “languor.”
 ------------------------------------------------------------------------
-- *anāhutim* \< *anāhuti*
+- *anāhutim* ← *anāhuti*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *apāmīvām* \< *apa*
+- *apāmīvām* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *apāmīvām* \< *amīvām* \< *amīvā*
+- *apāmīvām* ← *amīvām* ← *amīvā*
 - \[noun\], accusative, singular, feminine
 - “disease; affliction.”
 ------------------------------------------------------------------------
@@ -86,11 +86,11 @@ title = "Rig Veda 10.37.4"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *duṣṣvapnyaṃ* \< *duṣṣvapnyam* \< *duḥṣvapnya*
+- *duṣṣvapnyaṃ* ← *duṣṣvapnyam* ← *duḥṣvapnya*
 - \[noun\], accusative, singular, neuter
 - “nightmare.”
 ------------------------------------------------------------------------
-- *suva* \< *sū*
+- *suva* ← *sū*
 - \[verb\], singular, Present imperative
 - “give birth; urge; bestow; cause.”
 ------------------------------------------------------------------------

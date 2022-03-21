@@ -2,75 +2,75 @@
 title = "Rig Veda 1.129.4"
 
 +++
--   *asmākaṃ* \< *asmākam* \< *mad*
+-   *asmākaṃ* ← *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *uśmasīṣṭaye* \< *uśmasi* \< *vaś*
+- *uśmasīṣṭaye* ← *uśmasi* ← *vaś*
 - \[verb\], plural, Present indikative
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *uśmasīṣṭaye* \< *iṣṭaye* \< *iṣṭi*
+- *uśmasīṣṭaye* ← *iṣṭaye* ← *iṣṭi*
 - \[noun\], dative, singular, feminine
 - “seeking.”
 ------------------------------------------------------------------------
-- *sakhāyaṃ* \< *sakhāyam* \< *sakhi*
+- *sakhāyaṃ* ← *sakhāyam* ← *sakhi*
 - \[noun\], accusative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *viśvāyum* \< *viśvāyu*
+- *viśvāyum* ← *viśvāyu*
 - \[noun\], accusative, singular, masculine
 - “lifelong.”
 ------------------------------------------------------------------------
-- *prāsahaṃ* \< *prāsaham* \< *prāsah*
+- *prāsahaṃ* ← *prāsaham* ← *prāsah*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *yujaṃ* \< *yujam* \< *yuj*
+- *yujaṃ* ← *yujam* ← *yuj*
 - \[noun\], accusative, singular, masculine
 - “ally; friend; pair; two; companion.”
 ------------------------------------------------------------------------
-- *vājeṣu* \< *vāja*
+- *vājeṣu* ← *vāja*
 - \[noun\], locative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *prāsahaṃ* \< *prāsaham* \< *prāsah*
+- *prāsahaṃ* ← *prāsaham* ← *prāsah*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *yujam* \< *yuj*
+- *yujam* ← *yuj*
 - \[noun\], accusative, singular, masculine
 - “ally; friend; pair; two; companion.”
 ------------------------------------------------------------------------
-- *asmākam* \< *mad*
+- *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *brahmotaye* \< *brahma* \< *brahman*
+- *brahmotaye* ← *brahma* ← *brahman*
 - \[noun\], accusative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *brahmotaye* \< *ūtaye* \< *ūti*
+- *brahmotaye* ← *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *'vā* \< *avā* \< *av*
+- *'vā* ← *avā* ← *av*
 - \[verb\], singular, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *pṛtsuṣu* \< *pṛt*
+- *pṛtsuṣu* ← *pṛt*
 - \[noun\], locative, plural
 - “battle.”
 ------------------------------------------------------------------------
-- *kāsu* \< *ka*
+- *kāsu* ← *ka*
 - \[noun\], locative, plural, feminine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -78,48 +78,48 @@ title = "Rig Veda 1.129.4"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *nahi* \< *na*
+- *nahi* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nahi* \< *hi*
+- *nahi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śatru* \< *śatruḥ* \< *śatru*
+- *śatru* ← *śatruḥ* ← *śatru*
 - \[noun\], nominative, singular, masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------
-- *starate* \< *stṛ*
+- *starate* ← *stṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “spread; kill; lay; cover.”
 ------------------------------------------------------------------------
-- *stṛṇoṣi* \< *stṛ*
+- *stṛṇoṣi* ← *stṛ*
 - \[verb\], singular, Present indikative
 - “spread; kill; lay; cover.”
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *viśvaṃ* \< *viśvam* \< *viśva*
+- *viśvaṃ* ← *viśvam* ← *viśva*
 - \[noun\], accusative, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *śatruṃ* \< *śatrum* \< *śatru*
+- *śatruṃ* ← *śatrum* ← *śatru*
 - \[noun\], accusative, singular, masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------
-- *stṛṇoṣi* \< *stṛ*
+- *stṛṇoṣi* ← *stṛ*
 - \[verb\], singular, Present indikative
 - “spread; kill; lay; cover.”
 ------------------------------------------------------------------------
-- *yam* \< *yad*
+- *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------

@@ -10,15 +10,15 @@ title = "Rig Veda 7.59.6"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *barhiḥ* \< *barhis*
+- *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *sadatāvitā* \< *\_* \< *√\_*
+- *sadatāvitā* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
@@ -30,11 +30,11 @@ title = "Rig Veda 7.59.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *spārhāṇi* \< *spārha*
+- *spārhāṇi* ← *spārha*
 - \[noun\], accusative, plural, neuter
 - “desirable.”
 ------------------------------------------------------------------------
-- *dātave* \< *dā*
+- *dātave* ← *dā*
 - \[verb noun\]
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
@@ -45,34 +45,34 @@ title = "Rig Veda 7.59.6"
 - \[noun\], accusative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *asredhanto* \< *a*
+- *asredhanto* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *asredhanto* \< *sredhantaḥ* \< *sridh*
+- *asredhanto* ← *sredhantaḥ* ← *sridh*
 - \[verb noun\], vocative, plural
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *somye* \< *somya*
+- *somye* ← *somya*
 - \[noun\], locative, singular, neuter
 - “saumya.”
 ------------------------------------------------------------------------
-- *madhau* \< *madhu*
+- *madhau* ← *madhu*
 - \[noun\], locative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *svāheha* \< *svāhā*
+- *svāheha* ← *svāhā*
 - \[adverb\]
 - “hail.”
 ------------------------------------------------------------------------
-- *svāheha* \< *iha*
+- *svāheha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *mādayādhvai* \< *māday* \< *√mad*
+- *mādayādhvai* ← *māday* ← *√mad*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “delight; enjoy; intoxicate.”
 ------------------------------------------------------------------------

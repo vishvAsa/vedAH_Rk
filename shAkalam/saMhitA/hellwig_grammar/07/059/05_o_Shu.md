@@ -2,56 +2,56 @@
 title = "Rig Veda 7.59.5"
 
 +++
--   *o* \< *ā*
+-   *o* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *o* \< *u*
+- *o* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *ghṛṣvirādhaso* \< *ghṛṣvi*
+- *ghṛṣvirādhaso* ← *ghṛṣvi*
 - \[noun\]
 - “anticipated; electrifying.”
 ------------------------------------------------------------------------
-- *ghṛṣvirādhaso* \< *rādhasaḥ* \< *rādhas*
+- *ghṛṣvirādhaso* ← *rādhasaḥ* ← *rādhas*
 - \[noun\], nominative, plural, masculine
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *yātanāndhāṃsi* \< *yātana* \< *yā*
+- *yātanāndhāṃsi* ← *yātana* ← *yā*
 - \[verb\], plural, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *yātanāndhāṃsi* \< *andhāṃsi* \< *andhas*
+- *yātanāndhāṃsi* ← *andhāṃsi* ← *andhas*
 - \[noun\], accusative, plural, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
-- *pītaye* \< *pā*
+- *pītaye* ← *pā*
 - \[verb noun\]
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *imā* \< *idam*
+- *imā* ← *idam*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *havyā* \< *havya*
+- *havyā* ← *havya*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *rare* \< *rā*
+- *rare* ← *rā*
 - \[verb\], singular, Perfect indicative
 - “give; impart.”
 ------------------------------------------------------------------------
@@ -59,19 +59,19 @@ title = "Rig Veda 7.59.5"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *kam* \< *kaṃ*
+- *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
 ------------------------------------------------------------------------
-- *mo* \< *mā*
+- *mo* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *mo* \< *u*
+- *mo* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣv* \< *su*
+- *ṣv* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
@@ -80,7 +80,7 @@ title = "Rig Veda 7.59.5"
 - “elsewhere; except for; below; otherwise; without; differently;
     excluding.”
 ------------------------------------------------------------------------
-- *gantana* \< *gam*
+- *gantana* ← *gam*
 - \[verb\], plural, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

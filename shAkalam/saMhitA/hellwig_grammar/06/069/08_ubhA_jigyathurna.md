@@ -2,11 +2,11 @@
 title = "Rig Veda 6.69.8"
 
 +++
--   *ubhā* \< *ubh*
+-   *ubhā* ← *ubh*
 - \[noun\], nominative, dual, masculine
 - “both(a).”
 ------------------------------------------------------------------------
-- *jigyathur* \< *jigyathuḥ* \< *ji*
+- *jigyathur* ← *jigyathuḥ* ← *ji*
 - \[verb\], dual, Perfect indicative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
@@ -19,7 +19,7 @@ title = "Rig Veda 6.69.8"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *jayethe* \< *ji*
+- *jayethe* ← *ji*
 - \[verb\], dual, Present indikative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
@@ -32,24 +32,24 @@ title = "Rig Veda 6.69.8"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *jigye* \< *ji*
+- *jigye* ← *ji*
 - \[verb\], singular, Perfect indicative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *kataraś* \< *kataraḥ* \< *katara*
+- *kataraś* ← *kataraḥ* ← *katara*
 - \[noun\], nominative, singular, masculine
 - “katara \[word\]; who.”
 ------------------------------------------------------------------------
-- *canainoḥ* \< *cana*
+- *canainoḥ* ← *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *canainoḥ* \< *enoḥ* \< *enad*
+- *canainoḥ* ← *enoḥ* ← *enad*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
-- *indraś* \< *indraḥ* \< *indra*
+- *indraś* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -58,15 +58,15 @@ title = "Rig Veda 6.69.8"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *viṣṇo* \< *viṣṇu*
+- *viṣṇo* ← *viṣṇu*
 - \[noun\], vocative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *apaspṛdhethāṃ* \< *apaspṛdhethām* \< *spṛdh*
+- *apaspṛdhethāṃ* ← *apaspṛdhethām* ← *spṛdh*
 - \[verb\], dual, Plusquamperfect
 - “rival.”
 ------------------------------------------------------------------------
@@ -74,7 +74,7 @@ title = "Rig Veda 6.69.8"
 - \[adverb\]
 - “threefold.”
 ------------------------------------------------------------------------
-- *sahasraṃ* \< *sahasram* \< *sahasra*
+- *sahasraṃ* ← *sahasram* ← *sahasra*
 - \[noun\], accusative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
@@ -82,13 +82,13 @@ title = "Rig Veda 6.69.8"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *airayethām* \< *īray* \< *√īr*
+- *airayethām* ← *īray* ← *√īr*
 - \[verb\], dual, Imperfect
 - “name; describe; propel; shoot; state; call; raise; expel; tell;
     enumerate.”

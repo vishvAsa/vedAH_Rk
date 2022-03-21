@@ -2,15 +2,15 @@
 title = "Rig Veda 4.23.10"
 
 +++
--   *ṛtaṃ* \< *ṛtam* \< *ṛta*
+-   *ṛtaṃ* ← *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *yemāna* \< *yemānaḥ* \< *yam*
+- *yemāna* ← *yemānaḥ* ← *yam*
 - \[verb noun\], nominative, singular
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *ṛtam* \< *ṛta*
+- *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
@@ -18,23 +18,23 @@ title = "Rig Veda 4.23.10"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *vanoty* \< *vanoti* \< *van*
+- *vanoty* ← *vanoti* ← *van*
 - \[verb\], singular, Present indikative
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *śuṣmas* \< *śuṣmaḥ* \< *śuṣma*
+- *śuṣmas* ← *śuṣmaḥ* ← *śuṣma*
 - \[noun\], nominative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
-- *turayā* \< *tura*
+- *turayā* ← *tura*
 - \[noun\]
 - “powerful; noble; noble.”
 ------------------------------------------------------------------------
-- *turayā* \< *yāḥ* \< *yā*
+- *turayā* ← *yāḥ* ← *yā*
 - \[noun\], nominative, singular, masculine
 - “going.”
 ------------------------------------------------------------------------
@@ -42,41 +42,41 @@ title = "Rig Veda 4.23.10"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *gavyuḥ* \< *gavyu*
+- *gavyuḥ* ← *gavyu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *ṛtāya* \< *ṛta*
+- *ṛtāya* ← *ṛta*
 - \[noun\], dative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *pṛthvī* \< *pṛthu*
+- *pṛthvī* ← *pṛthu*
 - \[noun\], nominative, dual, feminine
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
 ------------------------------------------------------------------------
-- *bahule* \< *bahula*
+- *bahule* ← *bahula*
 - \[noun\], nominative, dual, feminine
 - “frequent; endowed; much(a); many; abounding in(p); abundant; bahula
     \[word\]; accompanied; prevailing.”
 ------------------------------------------------------------------------
-- *gabhīre* \< *gabhīra*
+- *gabhīre* ← *gabhīra*
 - \[noun\], nominative, dual, feminine
 - “deep; profound; immeasurable; unfathomable; unfathomable;
     mysterious; deep; countless.”
 ------------------------------------------------------------------------
-- *ṛtāya* \< *ṛta*
+- *ṛtāya* ← *ṛta*
 - \[noun\], dative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *dhenū* \< *dhenu*
+- *dhenū* ← *dhenu*
 - \[noun\], nominative, dual, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *parame* \< *parama*
+- *parame* ← *parama*
 - \[noun\], nominative, dual, feminine
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”
 ------------------------------------------------------------------------
-- *duhāte* \< *duh*
+- *duhāte* ← *duh*
 - \[verb\], dual, Present indikative
 - “milk.”
 ------------------------------------------------------------------------

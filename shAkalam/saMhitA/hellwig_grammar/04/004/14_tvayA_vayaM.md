@@ -2,55 +2,55 @@
 title = "Rig Veda 4.4.14"
 
 +++
--   *tvayā* \< *tvad*
+-   *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sadhanyas* \< *sadhanyaḥ* \< *sadhanī*
+- *sadhanyas* ← *sadhanyaḥ* ← *sadhanī*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *tvotās* \< *tvotāḥ* \< *tvota*
+- *tvotās* ← *tvotāḥ* ← *tvota*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *praṇīty* \< *praṇītī* \< *praṇīti*
+- *praṇīty* ← *praṇītī* ← *praṇīti*
 - \[noun\], instrumental, singular, feminine
 - “guidance; guidance.”
 ------------------------------------------------------------------------
-- *aśyāma* \< *aś*
+- *aśyāma* ← *aś*
 - \[verb\], plural, Aorist optative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *vājān* \< *vāja*
+- *vājān* ← *vāja*
 - \[noun\], accusative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *ubhā* \< *ubh*
+- *ubhā* ← *ubh*
 - \[noun\], accusative, dual, masculine
 - “both(a).”
 ------------------------------------------------------------------------
-- *śaṃsā* \< *śaṃsa*
+- *śaṃsā* ← *śaṃsa*
 - \[noun\], accusative, dual, masculine
 - “praise; śaṃs; recitation.”
 ------------------------------------------------------------------------
-- *sūdaya* \< *sūday* \< *√sūd*
+- *sūdaya* ← *sūday* ← *√sūd*
 - \[verb\], singular, Present imperative
 - “kill; promote.”
 ------------------------------------------------------------------------
-- *satyatāte* \< *satyatāti*
+- *satyatāte* ← *satyatāti*
 - \[noun\], vocative, singular, feminine
 ------------------------------------------------------------------------
-- *'nuṣṭhuyā* \< *anuṣṭhuyā*
+- *'nuṣṭhuyā* ← *anuṣṭhuyā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *kṛṇuhy* \< *kṛṇuhi* \< *kṛ*
+- *kṛṇuhy* ← *kṛṇuhi* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

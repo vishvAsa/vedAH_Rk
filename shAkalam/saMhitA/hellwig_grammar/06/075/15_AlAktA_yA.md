@@ -2,18 +2,18 @@
 title = "Rig Veda 6.75.15"
 
 +++
--   *ālāktā* \< *ālākta*
+-   *ālāktā* ← *ālākta*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ruruśīrṣṇy* \< *ruru*
+- *ruruśīrṣṇy* ← *ruru*
 - \[noun\], masculine
 - “Ruru; dog; Ruru.”
 ------------------------------------------------------------------------
-- *ruruśīrṣṇy* \< *śīrṣṇī* \< *śīrṣan*
+- *ruruśīrṣṇy* ← *śīrṣṇī* ← *śīrṣan*
 - \[noun\], nominative, singular, feminine
 - “head; śīrṣan \[word\].”
 ------------------------------------------------------------------------
@@ -21,16 +21,16 @@ title = "Rig Veda 6.75.15"
 - \[adverb\]
 - “now; but; furthermore.”
 ------------------------------------------------------------------------
-- *yasyā* \< *yasyāḥ* \< *yad*
+- *yasyā* ← *yasyāḥ* ← *yad*
 - \[noun\], genitive, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ayo* \< *ayaḥ* \< *ayas*
+- *ayo* ← *ayaḥ* ← *ayas*
 - \[noun\], nominative, singular, neuter
 - “iron; kāntaloha; ayas \[word\]; tīkṣṇaloha; metallic element;
     weapon.”
 ------------------------------------------------------------------------
-- *mukham* \< *mukha*
+- *mukham* ← *mukha*
 - \[noun\], nominative, singular, neuter
 - “mouth; mouth; mukha; face; aperture; tip; beginning; etc.; mukha;
     battlefront; teaching; head; orifice; mukha \[word\]; beginning;
@@ -41,28 +41,28 @@ title = "Rig Veda 6.75.15"
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *parjanyaretasa* \< *parjanya*
+- *parjanyaretasa* ← *parjanya*
 - \[noun\], masculine
 - “cloud; Parjanya; Indra; nimbus.”
 ------------------------------------------------------------------------
-- *parjanyaretasa* \< *retase* \< *retas*
+- *parjanyaretasa* ← *retase* ← *retas*
 - \[noun\], dative, singular, feminine
 - “semen; sperm.”
 ------------------------------------------------------------------------
-- *iṣvai* \< *iṣu*
+- *iṣvai* ← *iṣu*
 - \[noun\], dative, singular, feminine
 - “arrow; iṣu \[word\]; iṣ; five; munj.”
 ------------------------------------------------------------------------
-- *devyai* \< *deva*
+- *devyai* ← *deva*
 - \[noun\], dative, singular, feminine
 - “divine.”
 ------------------------------------------------------------------------
-- *bṛhan* \< *bṛhat*
+- *bṛhan* ← *bṛhat*
 - \[noun\], nominative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *namaḥ* \< *namas*
+- *namaḥ* ← *namas*
 - \[noun\], nominative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------

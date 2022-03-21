@@ -2,27 +2,27 @@
 title = "Rig Veda 7.3.6"
 
 +++
--   *susaṃdṛk* \< *su*
+-   *susaṃdṛk* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *susaṃdṛk* \< *saṃdṛś*
+- *susaṃdṛk* ← *saṃdṛś*
 - \[noun\], nominative, singular, neuter
 - “appearance; view; view.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *svanīka* \< *su*
+- *svanīka* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svanīka* \< *anīka*
+- *svanīka* ← *anīka*
 - \[noun\], vocative, singular, masculine
 - “army; face; battalion; battlefront; point; appearance.”
 ------------------------------------------------------------------------
-- *pratīkaṃ* \< *pratīkam* \< *pratīka*
+- *pratīkaṃ* ← *pratīkam* ← *pratīka*
 - \[noun\], nominative, singular, neuter
 - “face; surface.”
 ------------------------------------------------------------------------
@@ -30,11 +30,11 @@ title = "Rig Veda 7.3.6"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *rukmo* \< *rukmaḥ* \< *rukma*
+- *rukmo* ← *rukmaḥ* ← *rukma*
 - \[noun\], nominative, singular, masculine
 - “adornment.”
 ------------------------------------------------------------------------
@@ -42,14 +42,14 @@ title = "Rig Veda 7.3.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *rocasa* \< *rocase* \< *ruc*
+- *rocasa* ← *rocase* ← *ruc*
 - \[verb\], singular, Present indikative
 - “please; shine.”
 ------------------------------------------------------------------------
-- *upāke* \< *upāka*
+- *upāke* ← *upāka*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -57,23 +57,23 @@ title = "Rig Veda 7.3.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tanyatur* \< *tanyatuḥ* \< *tanyatu*
+- *tanyatur* ← *tanyatuḥ* ← *tanyatu*
 - \[noun\], nominative, singular, masculine
 - “thunder.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *śuṣmaś* \< *śuṣmaḥ* \< *śuṣma*
+- *śuṣmaś* ← *śuṣmaḥ* ← *śuṣma*
 - \[noun\], nominative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
-- *citro* \< *citraḥ* \< *citra*
+- *citro* ← *citraḥ* ← *citra*
 - \[noun\], nominative, singular, masculine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
@@ -83,7 +83,7 @@ title = "Rig Veda 7.3.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sūraḥ* \< *sūra*
+- *sūraḥ* ← *sūra*
 - \[noun\], nominative, singular, masculine
 - “sun.”
 ------------------------------------------------------------------------
@@ -91,11 +91,11 @@ title = "Rig Veda 7.3.6"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *cakṣi* \< *cakṣ*
+- *cakṣi* ← *cakṣ*
 - \[verb\], singular, Present indikative
 - “watch; look.”
 ------------------------------------------------------------------------
-- *bhānum* \< *bhānu*
+- *bhānum* ← *bhānu*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”

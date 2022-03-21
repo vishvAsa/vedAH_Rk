@@ -2,21 +2,21 @@
 title = "Rig Veda 8.69.13"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vyatīṃr* \< *vyati*
+- *vyatīṃr* ← *vyati*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *aphāṇayat* \< *phāṇay* \< *√phaṇ*
+- *aphāṇayat* ← *phāṇay* ← *√phaṇ*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *suyuktāṃ* \< *su*
+- *suyuktāṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suyuktāṃ* \< *yuktāṃ* \< *yuj*
+- *suyuktāṃ* ← *yuktāṃ* ← *yuj*
 - \[verb noun\], accusative, plural
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -28,18 +28,18 @@ title = "Rig Veda 8.69.13"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *takvo* \< *takvaḥ* \< *takva*
+- *takvo* ← *takvaḥ* ← *takva*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *netā* \< *netṛ*
+- *netā* ← *netṛ*
 - \[noun\], nominative, singular, masculine
 - “leader; Vitex negundo.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -49,7 +49,7 @@ title = "Rig Veda 8.69.13"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *vapur* \< *vapuḥ* \< *vapus*
+- *vapur* ← *vapuḥ* ← *vapus*
 - \[noun\], nominative, singular, neuter
 - “body; form; miracle; human body; beauty; look; spectacle; figure;
     embodiment.”
@@ -57,11 +57,11 @@ title = "Rig Veda 8.69.13"
 - *upamā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *amucyata* \< *muc*
+- *amucyata* ← *muc*
 - \[verb\], singular, Imperfect
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
     fill into; shoot; spill; lose; ejaculate; exclude; free; remove;

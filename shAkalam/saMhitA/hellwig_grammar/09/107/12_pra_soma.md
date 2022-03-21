@@ -10,15 +10,15 @@ title = "Rig Veda 9.107.12"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *devavītaye* \< *deva*
+- *devavītaye* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devavītaye* \< *vītaye* \< *vīti*
+- *devavītaye* ← *vītaye* ← *vīti*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------
-- *sindhur* \< *sindhuḥ* \< *sindhu*
+- *sindhur* ← *sindhuḥ* ← *sindhu*
 - \[noun\], nominative, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
@@ -26,23 +26,23 @@ title = "Rig Veda 9.107.12"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pipye* \< *pyā*
+- *pipye* ← *pyā*
 - \[verb\], singular, Perfect indicative
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
-- *arṇasā* \< *arṇas*
+- *arṇasā* ← *arṇas*
 - \[noun\], instrumental, singular, neuter
 - “body of water; water.”
 ------------------------------------------------------------------------
-- *aṃśoḥ* \< *aṃśu*
+- *aṃśoḥ* ← *aṃśu*
 - \[noun\], genitive, singular, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
 ------------------------------------------------------------------------
-- *payasā* \< *payas*
+- *payasā* ← *payas*
 - \[noun\], instrumental, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
-- *madiro* \< *madiraḥ* \< *madira*
+- *madiro* ← *madiraḥ* ← *madira*
 - \[noun\], nominative, singular, masculine
 - “intoxicant.”
 ------------------------------------------------------------------------
@@ -50,7 +50,7 @@ title = "Rig Veda 9.107.12"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *jāgṛvir* \< *jāgṛviḥ* \< *jāgṛvi*
+- *jāgṛvir* ← *jāgṛviḥ* ← *jāgṛvi*
 - \[noun\], nominative, singular, masculine
 - “attentive; argus-eyed; light.”
 ------------------------------------------------------------------------
@@ -58,11 +58,11 @@ title = "Rig Veda 9.107.12"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *kośam* \< *kośa*
+- *kośam* ← *kośa*
 - \[noun\], accusative, singular, masculine
 - “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
     treasure; calyx; container; bucket; box.”
 ------------------------------------------------------------------------
-- *madhuścutam* \< *madhuścut*
+- *madhuścutam* ← *madhuścut*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------

@@ -2,116 +2,116 @@
 title = "Rig Veda 4.40.5"
 
 +++
--   *haṃsaḥ* \< *haṃsa*
+-   *haṃsaḥ* ← *haṃsa*
 - \[noun\], nominative, singular, masculine
 - “goose; Vishnu; sun.”
 ------------------------------------------------------------------------
-- *śuciṣad* \< *śuci*
+- *śuciṣad* ← *śuci*
 - \[noun\]
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *śuciṣad* \< *sad*
+- *śuciṣad* ← *sad*
 - \[noun\], nominative, singular, masculine
 - “seated.”
 ------------------------------------------------------------------------
-- *vasur* \< *vasuḥ* \< *vasu*
+- *vasur* ← *vasuḥ* ← *vasu*
 - \[noun\], nominative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *antarikṣasaddhotā* \< *antarikṣa*
+- *antarikṣasaddhotā* ← *antarikṣa*
 - \[noun\], neuter
 - “sky; atmosphere; air; abhra.”
 ------------------------------------------------------------------------
-- *antarikṣasaddhotā* \< *sad*
+- *antarikṣasaddhotā* ← *sad*
 - \[noun\], nominative, singular, masculine
 - “seated.”
 ------------------------------------------------------------------------
-- *antarikṣasaddhotā* \< *hotā* \< *hotṛ*
+- *antarikṣasaddhotā* ← *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *vediṣad* \< *vedi*
+- *vediṣad* ← *vedi*
 - \[noun\], feminine
 - “Vedi; pedestal.”
 ------------------------------------------------------------------------
-- *vediṣad* \< *sad*
+- *vediṣad* ← *sad*
 - \[noun\], nominative, singular, masculine
 - “seated.”
 ------------------------------------------------------------------------
-- *atithir* \< *atithiḥ* \< *atithi*
+- *atithir* ← *atithiḥ* ← *atithi*
 - \[noun\], nominative, singular, masculine
 - “guest; atithi \[word\]; Atithi.”
 ------------------------------------------------------------------------
-- *duroṇasat* \< *duroṇa*
+- *duroṇasat* ← *duroṇa*
 - \[noun\], neuter
 - “home; dwelling.”
 ------------------------------------------------------------------------
-- *duroṇasat* \< *sad*
+- *duroṇasat* ← *sad*
 - \[noun\], nominative, singular, masculine
 - “seated.”
 ------------------------------------------------------------------------
 - *nṛṣad*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *varasad* \< *vara*
+- *varasad* ← *vara*
 - \[noun\]
 - “best; excellent; better; choice; optimum; maximal.”
 ------------------------------------------------------------------------
-- *varasad* \< *sad*
+- *varasad* ← *sad*
 - \[noun\], nominative, singular, masculine
 - “seated.”
 ------------------------------------------------------------------------
-- *ṛtasad* \< *ṛta*
+- *ṛtasad* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *ṛtasad* \< *sad*
+- *ṛtasad* ← *sad*
 - \[noun\], nominative, singular, masculine
 - “seated.”
 ------------------------------------------------------------------------
-- *vyomasad* \< *vyoma* \< *vyoman*
+- *vyomasad* ← *vyoma* ← *vyoman*
 - \[noun\], neuter
 - “abhra; sky; ākāśa; Svarga; Vyoman.”
 ------------------------------------------------------------------------
-- *vyomasad* \< *sad*
+- *vyomasad* ← *sad*
 - \[noun\], nominative, singular, feminine
 - “seated.”
 ------------------------------------------------------------------------
-- *abjā* \< *ap*
+- *abjā* ← *ap*
 - \[noun\], masculine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *abjā* \< *jāḥ* \< *jā*
+- *abjā* ← *jāḥ* ← *jā*
 - \[noun\], nominative, singular, masculine
 - “born.”
 ------------------------------------------------------------------------
-- *gojā* \< *go*
+- *gojā* ← *go*
 - \[noun\], masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *gojā* \< *jāḥ* \< *jā*
+- *gojā* ← *jāḥ* ← *jā*
 - \[noun\], nominative, singular, masculine
 - “born.”
 ------------------------------------------------------------------------
-- *ṛtajā* \< *ṛta*
+- *ṛtajā* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *ṛtajā* \< *jāḥ* \< *jā*
+- *ṛtajā* ← *jāḥ* ← *jā*
 - \[noun\], nominative, singular, masculine
 - “born.”
 ------------------------------------------------------------------------
-- *adrijā* \< *adri*
+- *adrijā* ← *adri*
 - \[noun\], masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *adrijā* \< *jāḥ* \< *jā*
+- *adrijā* ← *jāḥ* ← *jā*
 - \[noun\], nominative, singular, masculine
 - “born.”
 ------------------------------------------------------------------------
-- *ṛtam* \< *ṛta*
+- *ṛtam* ← *ṛta*
 - \[noun\], nominative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------

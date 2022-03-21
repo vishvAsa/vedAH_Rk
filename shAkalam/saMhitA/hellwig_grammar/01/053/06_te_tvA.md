@@ -2,55 +2,55 @@
 title = "Rig Veda 1.53.6"
 
 +++
--   *te* \< *tad*
+-   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *madā* \< *madāḥ* \< *mada*
+- *madā* ← *madāḥ* ← *mada*
 - \[noun\], nominative, plural, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *amadan* \< *mad*
+- *amadan* ← *mad*
 - \[verb\], plural, Imperfect
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *tāni* \< *tad*
+- *tāni* ← *tad*
 - \[noun\], nominative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vṛṣṇyā* \< *vṛṣṇya*
+- *vṛṣṇyā* ← *vṛṣṇya*
 - \[noun\], nominative, plural, neuter
 - “manfulness; virility.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *somāso* \< *somāsaḥ* \< *soma*
+- *somāso* ← *somāsaḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *vṛtrahatyeṣu* \< *vṛtra*
+- *vṛtrahatyeṣu* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *vṛtrahatyeṣu* \< *hatyeṣu* \< *hatya*
+- *vṛtrahatyeṣu* ← *hatyeṣu* ← *hatya*
 - \[noun\], locative, plural, neuter
 - “killing.”
 ------------------------------------------------------------------------
-- *satpate* \< *satpati*
+- *satpate* ← *satpati*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
@@ -58,15 +58,15 @@ title = "Rig Veda 1.53.6"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *kārave* \< *kāru*
+- *kārave* ← *kāru*
 - \[noun\], dative, singular, masculine
 - “poet; singer.”
 ------------------------------------------------------------------------
-- *daśa* \< *daśan*
+- *daśa* ← *daśan*
 - \[noun\], accusative, singular, neuter
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *vṛtrāṇy* \< *vṛtrāṇi* \< *vṛtra*
+- *vṛtrāṇy* ← *vṛtrāṇi* ← *vṛtra*
 - \[noun\], accusative, plural, neuter
 - “enemy.”
 ------------------------------------------------------------------------
@@ -74,17 +74,17 @@ title = "Rig Veda 1.53.6"
 - \[noun\], accusative, singular, neuter
 - “irresistible.”
 ------------------------------------------------------------------------
-- *barhiṣmate* \< *barhiṣmant*
+- *barhiṣmate* ← *barhiṣmant*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
 - *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *sahasrāṇi* \< *sahasra*
+- *sahasrāṇi* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *barhayaḥ* \< *barhay* \< *√bṛṃh*
+- *barhayaḥ* ← *barhay* ← *√bṛṃh*
 - \[verb\], singular, Present injunctive
 ------------------------------------------------------------------------

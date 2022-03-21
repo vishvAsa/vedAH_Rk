@@ -2,51 +2,51 @@
 title = "Rig Veda 1.140.4"
 
 +++
--   *mumukṣvo* \< *mumukṣvaḥ* \< *mumukṣu*
+-   *mumukṣvo* ← *mumukṣvaḥ* ← *mumukṣu*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *manave* \< *manu*
+- *manave* ← *manu*
 - \[noun\], dative, singular, masculine
 - “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
     incantation; sacred text.”
 ------------------------------------------------------------------------
-- *mānavasyate* \< *mānavasy*
+- *mānavasyate* ← *mānavasy*
 - \[verb noun\], dative, singular
 ------------------------------------------------------------------------
-- *raghudruvaḥ* \< *raghudru*
+- *raghudruvaḥ* ← *raghudru*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *kṛṣṇasītāsa* \< *kṛṣṇa*
+- *kṛṣṇasītāsa* ← *kṛṣṇa*
 - \[noun\]
 - “black; dark; dark; blue; black.”
 ------------------------------------------------------------------------
-- *kṛṣṇasītāsa* \< *sītāsaḥ* \< *sītā*
+- *kṛṣṇasītāsa* ← *sītāsaḥ* ← *sītā*
 - \[noun\], nominative, plural, masculine
 - “Sita; Sītā; furrow; sītā \[word\]; Devi.”
 ------------------------------------------------------------------------
-- *ū* \< *u*
+- *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *juvaḥ* \< *jū*
+- *juvaḥ* ← *jū*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *asamanā* \< *asamanāḥ* \< *asamana*
+- *asamanā* ← *asamanāḥ* ← *asamana*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *ajirāso* \< *ajirāsaḥ* \< *ajira*
+- *ajirāso* ← *ajirāsaḥ* ← *ajira*
 - \[noun\], nominative, plural, masculine
 - “fast; agile; ajira \[word\].”
 ------------------------------------------------------------------------
-- *raghuṣyado* \< *raghuṣyadaḥ* \< *raghuṣyad*
+- *raghuṣyado* ← *raghuṣyadaḥ* ← *raghuṣyad*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *vātajūtā* \< *vāta*
+- *vātajūtā* ← *vāta*
 - \[noun\], masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *vātajūtā* \< *jūtāḥ* \< *jū*
+- *vātajūtā* ← *jūtāḥ* ← *jū*
 - \[verb noun\], nominative, plural
 - “animate; encourage; impel; inspire.”
 ------------------------------------------------------------------------
@@ -54,7 +54,7 @@ title = "Rig Veda 1.140.4"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *yujyanta* \< *yujyante* \< *yuj*
+- *yujyanta* ← *yujyante* ← *yuj*
 - \[verb\], plural, Indikativ Pr￤s. Passiv
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -62,7 +62,7 @@ title = "Rig Veda 1.140.4"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *āśavaḥ* \< *āśu*
+- *āśavaḥ* ← *āśu*
 - \[noun\], nominative, plural, masculine
 - “quick; fast; immediate; agile.”
 ------------------------------------------------------------------------

@@ -6,31 +6,31 @@ title = "Rig Veda 1.13.6"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *śrayantām* \< *śri*
+- *śrayantām* ← *śri*
 - \[verb\], plural, Present imperative
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 ------------------------------------------------------------------------
-- *ṛtāvṛdho* \< *ṛtāvṛdhaḥ* \< *ṛtāvṛdh*
+- *ṛtāvṛdho* ← *ṛtāvṛdhaḥ* ← *ṛtāvṛdh*
 - \[noun\], nominative, plural, feminine
 - “sincere.”
 ------------------------------------------------------------------------
-- *dvāro* \< *dvāraḥ* \< *dvār*
+- *dvāro* ← *dvāraḥ* ← *dvār*
 - \[noun\], nominative, plural, feminine
 - “door; means.”
 ------------------------------------------------------------------------
-- *devīr* \< *devīḥ* \< *deva*
+- *devīr* ← *devīḥ* ← *deva*
 - \[noun\], nominative, plural, feminine
 - “divine.”
 ------------------------------------------------------------------------
-- *asaścataḥ* \< *asaścat*
+- *asaścataḥ* ← *asaścat*
 - \[noun\], nominative, plural, feminine
 - “inexhaustible.”
 ------------------------------------------------------------------------
-- *adyā* \< *adya*
+- *adyā* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *nūnaṃ* \< *nūnam*
+- *nūnaṃ* ← *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
 ------------------------------------------------------------------------
@@ -38,7 +38,7 @@ title = "Rig Veda 1.13.6"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *yaṣṭave* \< *yaj*
+- *yaṣṭave* ← *yaj*
 - \[verb noun\]
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------

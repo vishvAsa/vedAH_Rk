@@ -2,27 +2,27 @@
 title = "Rig Veda 4.56.7"
 
 +++
--   *mahī* \< *mah*
+-   *mahī* ← *mah*
 - \[noun\], nominative, dual, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *mitrasya* \< *mitra*
+- *mitrasya* ← *mitra*
 - \[noun\], genitive, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *sādhathas* \< *sādhathaḥ* \< *sādh*
+- *sādhathas* ← *sādhathaḥ* ← *sādh*
 - \[verb\], dual, Present indikative
 - “promote; succeed.”
 ------------------------------------------------------------------------
-- *tarantī* \< *tṛ*
+- *tarantī* ← *tṛ*
 - \[verb noun\], nominative, dual
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *pipratī* \< *pṛ*
+- *pipratī* ← *pṛ*
 - \[verb noun\], nominative, dual
 - “protect; promote; rescue; help.”
 ------------------------------------------------------------------------
-- *ṛtam* \< *ṛta*
+- *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
@@ -30,7 +30,7 @@ title = "Rig Veda 4.56.7"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *yajñaṃ* \< *yajñam* \< *yajña*
+- *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
@@ -38,7 +38,7 @@ title = "Rig Veda 4.56.7"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ṣedathuḥ* \< *sedathuḥ* \< *sad*
+- *ṣedathuḥ* ← *sedathuḥ* ← *sad*
 - \[verb\], dual, Perfect indicative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”

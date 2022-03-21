@@ -6,7 +6,7 @@ title = "Rig Veda 2.8.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -14,34 +14,34 @@ title = "Rig Veda 2.8.4"
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *ṇa* \< *na*
+- *ṇa* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *bhānunā* \< *bhānu*
+- *bhānunā* ← *bhānu*
 - \[noun\], instrumental, singular, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
 ------------------------------------------------------------------------
-- *citro* \< *citraḥ* \< *citra*
+- *citro* ← *citraḥ* ← *citra*
 - \[noun\], nominative, singular, masculine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *vibhāty* \< *vibhāti* \< *vibhā* \< *√bhā*
+- *vibhāty* ← *vibhāti* ← *vibhā* ← *√bhā*
 - \[verb\], singular, Present indikative
 - “shine.”
 ------------------------------------------------------------------------
-- *arciṣā* \< *arcis*
+- *arciṣā* ← *arcis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; light; beam; gleam; shininess.”
 ------------------------------------------------------------------------
-- *añjāno* \< *añjānaḥ* \< *añj*
+- *añjāno* ← *añjānaḥ* ← *añj*
 - \[verb noun\], nominative, singular
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *ajarair* \< *ajaraiḥ* \< *ajara*
+- *ajarair* ← *ajaraiḥ* ← *ajara*
 - \[noun\], instrumental, plural, masculine
 - “undecaying; ageless.”
 ------------------------------------------------------------------------

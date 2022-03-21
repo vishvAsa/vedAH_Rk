@@ -2,36 +2,36 @@
 title = "Rig Veda 8.70.11"
 
 +++
--   *anyavratam* \< *anya*
+-   *anyavratam* ← *anya*
 - \[noun\]
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *anyavratam* \< *vratam* \< *vrata*
+- *anyavratam* ← *vratam* ← *vrata*
 - \[noun\], accusative, singular, masculine
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *amānuṣam* \< *a*
+- *amānuṣam* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *amānuṣam* \< *mānuṣam* \< *mānuṣa*
+- *amānuṣam* ← *mānuṣam* ← *mānuṣa*
 - \[noun\], accusative, singular, masculine
 - “human.”
 ------------------------------------------------------------------------
-- *ayajvānam* \< *a*
+- *ayajvānam* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *ayajvānam* \< *yajvānam* \< *yajvan*
+- *ayajvānam* ← *yajvānam* ← *yajvan*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *adevayum* \< *a*
+- *adevayum* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *adevayum* \< *devayum* \< *devayu*
+- *adevayum* ← *devayum* ← *devayu*
 - \[noun\], accusative, singular, masculine
 - “devout; devoted.”
 ------------------------------------------------------------------------
@@ -39,37 +39,37 @@ title = "Rig Veda 8.70.11"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *svaḥ* \< *sva*
+- *svaḥ* ← *sva*
 - \[noun\], nominative, singular, masculine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *sakhā* \< *sakhi*
+- *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *dudhuvīta* \< *dhū*
+- *dudhuvīta* ← *dhū*
 - \[verb\], singular, Perfect optative
 - “shake; remove; chase away.”
 ------------------------------------------------------------------------
-- *parvataḥ* \< *parvata*
+- *parvataḥ* ← *parvata*
 - \[noun\], nominative, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
 ------------------------------------------------------------------------
-- *sughnāya* \< *su*
+- *sughnāya* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sughnāya* \< *ghnāya* \< *ghna*
+- *sughnāya* ← *ghnāya* ← *ghna*
 - \[noun\], dative, singular, neuter
 - “fight; killing.”
 ------------------------------------------------------------------------
-- *dasyum* \< *dasyu*
+- *dasyum* ← *dasyu*
 - \[noun\], accusative, singular, masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
-- *parvataḥ* \< *parvata*
+- *parvataḥ* ← *parvata*
 - \[noun\], nominative, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”

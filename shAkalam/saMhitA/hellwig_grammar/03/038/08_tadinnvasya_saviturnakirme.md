@@ -2,25 +2,25 @@
 title = "Rig Veda 3.38.8"
 
 +++
--   *tad* \< *tat* \< *tad*
+-   *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *in* \< *id*
+- *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *nv* \< *nu*
+- *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *savitur* \< *savituḥ* \< *savitṛ*
+- *savitur* ← *savituḥ* ← *savitṛ*
 - \[noun\], genitive, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
@@ -28,23 +28,23 @@ title = "Rig Veda 3.38.8"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *hiraṇyayīm* \< *hiraṇyaya*
+- *hiraṇyayīm* ← *hiraṇyaya*
 - \[noun\], accusative, singular, feminine
 - “gold; aureate; hiraṇyaya \[word\].”
 ------------------------------------------------------------------------
-- *amatiṃ* \< *amatim* \< *amati*
+- *amatiṃ* ← *amatim* ← *amati*
 - \[noun\], accusative, singular, feminine
 - “effigy; ignorance; light; light; luster; form.”
 ------------------------------------------------------------------------
-- *yām* \< *yad*
+- *yām* ← *yad*
 - \[noun\], accusative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *aśiśret* \< *śri*
+- *aśiśret* ← *śri*
 - \[verb\], singular, Plusquamperfect
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 ------------------------------------------------------------------------
@@ -52,23 +52,23 @@ title = "Rig Veda 3.38.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *suṣṭutī* \< *suṣṭuti*
+- *suṣṭutī* ← *suṣṭuti*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *viśvaminve* \< *viśvaminva*
+- *viśvaminve* ← *viśvaminva*
 - \[noun\], accusative, dual, neuter
 ------------------------------------------------------------------------
-- *apīva* \< *api*
+- *apīva* ← *api*
 - \[adverb\]
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
 ------------------------------------------------------------------------
-- *apīva* \< *iva*
+- *apīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
@@ -76,11 +76,11 @@ title = "Rig Veda 3.38.8"
 - \[noun\], nominative, singular, feminine
 - “woman; puppet; daughter.”
 ------------------------------------------------------------------------
-- *janimāni* \< *janiman*
+- *janimāni* ← *janiman*
 - \[noun\], accusative, plural, neuter
 - “birth; offspring; origin; kind; being.”
 ------------------------------------------------------------------------
-- *vavre* \< *vṛ*
+- *vavre* ← *vṛ*
 - \[verb\], singular, Perfect indicative
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”

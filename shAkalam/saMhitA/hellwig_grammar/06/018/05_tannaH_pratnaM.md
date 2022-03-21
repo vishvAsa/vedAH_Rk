@@ -2,30 +2,30 @@
 title = "Rig Veda 6.18.5"
 
 +++
--   *tan* \< *tat* \< *tad*
+-   *tan* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pratnaṃ* \< *pratnam* \< *pratna*
+- *pratnaṃ* ← *pratnam* ← *pratna*
 - \[noun\], nominative, singular, neuter
 - “age-old; pratna \[word\].”
 ------------------------------------------------------------------------
-- *sakhyam* \< *sakhya*
+- *sakhyam* ← *sakhya*
 - \[noun\], nominative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *yuṣme* \< *tvad*
+- *yuṣme* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
@@ -33,47 +33,47 @@ title = "Rig Veda 6.18.5"
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *vadadbhir* \< *vadadbhiḥ* \< *vad*
+- *vadadbhir* ← *vadadbhiḥ* ← *vad*
 - \[verb noun\], instrumental, plural
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
 ------------------------------------------------------------------------
-- *valam* \< *vala*
+- *valam* ← *vala*
 - \[noun\], accusative, singular, masculine
 - “Vala; vala; cave.”
 ------------------------------------------------------------------------
-- *aṅgirobhiḥ* \< *aṅgiras*
+- *aṅgirobhiḥ* ← *aṅgiras*
 - \[noun\], instrumental, plural, masculine
 - “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
     Aṅgiras.”
 ------------------------------------------------------------------------
-- *hann* \< *han*
+- *hann* ← *han*
 - \[verb\], singular, Present injunctive
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *acyutacyud* \< *acyuta*
+- *acyutacyud* ← *acyuta*
 - \[noun\]
 - “firm; regular; permanent; immovable; unchanging.”
 ------------------------------------------------------------------------
-- *acyutacyud* \< *cyut*
+- *acyutacyud* ← *cyut*
 - \[noun\], vocative, singular, masculine
 - “shaking; dropping.”
 ------------------------------------------------------------------------
-- *dasmeṣayantam* \< *dasma*
+- *dasmeṣayantam* ← *dasma*
 - \[noun\], vocative, singular, masculine
 - “overlord.”
 ------------------------------------------------------------------------
-- *dasmeṣayantam* \< *iṣayantam* \< *iṣay* \< *√iṣ*
+- *dasmeṣayantam* ← *iṣayantam* ← *iṣay* ← *√iṣ*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *ṛṇoḥ* \< *ṛch*
+- *ṛṇoḥ* ← *ṛch*
 - \[verb\], singular, Present injunctive
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *puro* \< *puraḥ* \< *pur*
+- *puro* ← *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
@@ -81,15 +81,15 @@ title = "Rig Veda 6.18.5"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *duro* \< *duraḥ* \< *dvār*
+- *duro* ← *duraḥ* ← *dvār*
 - \[noun\], accusative, plural, feminine
 - “door; means.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *viśvāḥ* \< *viśva*
+- *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”

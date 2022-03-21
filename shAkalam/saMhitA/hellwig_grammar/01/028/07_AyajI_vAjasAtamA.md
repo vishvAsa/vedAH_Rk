@@ -2,23 +2,23 @@
 title = "Rig Veda 1.28.7"
 
 +++
--   *āyajī* \< *āyaji*
+-   *āyajī* ← *āyaji*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *vājasātamā* \< *vāja*
+- *vājasātamā* ← *vāja*
 - \[noun\], masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vājasātamā* \< *sātamā* \< *sātama*
+- *vājasātamā* ← *sātamā* ← *sātama*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *tā* \< *tad*
+- *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *hy* \< *hi*
+- *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
@@ -26,23 +26,23 @@ title = "Rig Veda 1.28.7"
 - \[adverb\]
 - “above.”
 ------------------------------------------------------------------------
-- *vijarbhṛtaḥ* \< *vibharibhṛ* \< *√bhṛ*
+- *vijarbhṛtaḥ* ← *vibharibhṛ* ← *√bhṛ*
 - \[verb\], dual, Present indikative
 ------------------------------------------------------------------------
-- *harī* \< *hari*
+- *harī* ← *hari*
 - \[noun\], nominative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *ivāndhāṃsi* \< *iva*
+- *ivāndhāṃsi* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ivāndhāṃsi* \< *andhāṃsi* \< *andhas*
+- *ivāndhāṃsi* ← *andhāṃsi* ← *andhas*
 - \[noun\], accusative, plural, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
-- *bapsatā* \< *bhas*
+- *bapsatā* ← *bhas*
 - \[verb noun\], nominative, dual
 - “chew; snatch.”
 ------------------------------------------------------------------------

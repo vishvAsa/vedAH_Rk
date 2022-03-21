@@ -2,22 +2,22 @@
 title = "Rig Veda 1.87.2"
 
 +++
--   *upahvareṣu* \< *upahvara*
+-   *upahvareṣu* ← *upahvara*
 - \[noun\], locative, plural, neuter
 - “proximity.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *acidhvaṃ* \< *acidhvam* \< *ci*
+- *acidhvaṃ* ← *acidhvam* ← *ci*
 - \[verb\], plural, Root aorist (Ind.)
 - “observe; detect; notice; heed; mind.”
 ------------------------------------------------------------------------
-- *yayiṃ* \< *yayim* \< *yayi*
+- *yayiṃ* ← *yayim* ← *yayi*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *vaya* \< *vayaḥ* \< *vi*
+- *vaya* ← *vayaḥ* ← *vi*
 - \[noun\], nominative, plural, masculine
 - “vi; bird; vi.”
 ------------------------------------------------------------------------
@@ -25,22 +25,22 @@ title = "Rig Veda 1.87.2"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *kenacit* \< *kenacid* \< *kaścit*
+- *kenacit* ← *kenacid* ← *kaścit*
 - \[noun\], instrumental, singular, masculine
 - “any(a); some(a); some(a); some(a); some(a).”
 ------------------------------------------------------------------------
-- *pathā* \< *pathin*
+- *pathā* ← *pathin*
 - \[noun\], instrumental, singular, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *ścotanti* \< *ścut*
+- *ścotanti* ← *ścut*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *kośā* \< *kośāḥ* \< *kośa*
+- *kośā* ← *kośāḥ* ← *kośa*
 - \[noun\], nominative, plural, masculine
 - “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
     treasure; calyx; container; bucket; box.”
@@ -49,11 +49,11 @@ title = "Rig Veda 1.87.2"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *ratheṣv* \< *ratheṣu* \< *ratha*
+- *ratheṣv* ← *ratheṣu* ← *ratha*
 - \[noun\], locative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -61,24 +61,24 @@ title = "Rig Veda 1.87.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *ghṛtam* \< *ghṛta*
+- *ghṛtam* ← *ghṛta*
 - \[noun\], accusative, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *ukṣatā* \< *ukṣ*
+- *ukṣatā* ← *ukṣ*
 - \[verb\], plural, Present imperative
 - “sprinkle; wet.”
 ------------------------------------------------------------------------
-- *madhuvarṇam* \< *madhu*
+- *madhuvarṇam* ← *madhu*
 - \[noun\], neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *madhuvarṇam* \< *varṇam* \< *varṇa*
+- *madhuvarṇam* ← *varṇam* ← *varṇa*
 - \[noun\], accusative, singular, masculine
 - “color; caste; complexion; vowel; varṇa \[word\]; vowel; syllable;
     appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
 ------------------------------------------------------------------------
-- *arcate* \< *arc*
+- *arcate* ← *arc*
 - \[verb noun\], dative, singular
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------

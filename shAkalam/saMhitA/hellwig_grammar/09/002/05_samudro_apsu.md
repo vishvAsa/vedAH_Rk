@@ -2,38 +2,38 @@
 title = "Rig Veda 9.2.5"
 
 +++
--   *samudro* \< *samudraḥ* \< *samudra*
+-   *samudro* ← *samudraḥ* ← *samudra*
 - \[noun\], nominative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *apsu* \< *ap*
+- *apsu* ← *ap*
 - \[noun\], locative, plural, masculine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *māmṛje* \< *mṛj*
+- *māmṛje* ← *mṛj*
 - \[verb\], singular, Perfect indicative
 - “purify; polish; rub; remove.”
 ------------------------------------------------------------------------
-- *viṣṭambho* \< *viṣṭambhaḥ* \< *viṣṭambha*
+- *viṣṭambho* ← *viṣṭambhaḥ* ← *viṣṭambha*
 - \[noun\], nominative, singular, masculine
 - “constipation.”
 ------------------------------------------------------------------------
-- *dharuṇo* \< *dharuṇaḥ* \< *dharuṇa*
+- *dharuṇo* ← *dharuṇaḥ* ← *dharuṇa*
 - \[noun\], nominative, singular, masculine
 - “holding; supportive.”
 ------------------------------------------------------------------------
-- *divaḥ* \< *div*
+- *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *somaḥ* \< *soma*
+- *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *pavitre* \< *pavitra*
+- *pavitre* ← *pavitra*
 - \[noun\], locative, singular, neuter
 - “strainer.”
 ------------------------------------------------------------------------
-- *asmayuḥ* \< *asmayu*
+- *asmayuḥ* ← *asmayu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

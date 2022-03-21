@@ -6,21 +6,21 @@ title = "Rig Veda 1.33.3"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *sarvasena* \< *sarva*
+- *sarvasena* ← *sarva*
 - \[noun\]
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
 ------------------------------------------------------------------------
-- *sarvasena* \< *senaḥ* \< *senā*
+- *sarvasena* ← *senaḥ* ← *senā*
 - \[noun\], nominative, singular, masculine
 - “army; senā \[word\]; armament.”
 ------------------------------------------------------------------------
-- *iṣudhīṃr* \< *iṣudhi*
+- *iṣudhīṃr* ← *iṣudhi*
 - \[noun\], accusative, plural, masculine
 - “quiver.”
 ------------------------------------------------------------------------
-- *asakta* \< *sañj*
+- *asakta* ← *sañj*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “adhere; cling; cling; break.”
 ------------------------------------------------------------------------
@@ -28,27 +28,27 @@ title = "Rig Veda 1.33.3"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *aryo* \< *aryaḥ* \< *ari*
+- *aryo* ← *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *gā* \< *gāḥ* \< *go*
+- *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *ajati* \< *aj*
+- *ajati* ← *aj*
 - \[verb\], singular, Present indikative
 - “drive; expel.”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vaṣṭi* \< *vaś*
+- *vaṣṭi* ← *vaś*
 - \[verb\], singular, Present indikative
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *coṣkūyamāṇa* \< *coṣkūyamāṇaḥ* \< *coṣkūy* \< *√sku*
+- *coṣkūyamāṇa* ← *coṣkūyamāṇaḥ* ← *coṣkūy* ← *√sku*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
 - *indra*
@@ -60,7 +60,7 @@ title = "Rig Veda 1.33.3"
 - \[noun\], accusative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *vāmam* \< *vāma*
+- *vāmam* ← *vāma*
 - \[noun\], accusative, singular, neuter
 - “agreeable; vāma \[word\]; beautiful.”
 ------------------------------------------------------------------------
@@ -68,18 +68,18 @@ title = "Rig Veda 1.33.3"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *paṇir* \< *paṇiḥ* \< *paṇi*
+- *paṇir* ← *paṇiḥ* ← *paṇi*
 - \[noun\], nominative, singular, masculine
 - “niggard; paṇ.”
 ------------------------------------------------------------------------
-- *bhūr* \< *bhūḥ* \< *bhū*
+- *bhūr* ← *bhūḥ* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *asmad* \< *asmat* \< *mad*
+- *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -87,7 +87,7 @@ title = "Rig Veda 1.33.3"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *pravṛddha* \< *pravṛdh* \< *√vṛdh*
+- *pravṛddha* ← *pravṛdh* ← *√vṛdh*
 - \[verb noun\], vocative, singular
 - “increase; develop; advance.”
 ------------------------------------------------------------------------

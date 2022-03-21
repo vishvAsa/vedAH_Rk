@@ -6,12 +6,12 @@ title = "Rig Veda 1.168.4"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *svayuktā* \< *sva*
+- *svayuktā* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svayuktā* \< *yuktāḥ* \< *yuj*
+- *svayuktā* ← *yuktāḥ* ← *yuj*
 - \[verb noun\], nominative, plural
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -19,7 +19,7 @@ title = "Rig Veda 1.168.4"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *diva* \< *divaḥ* \< *div*
+- *diva* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -31,65 +31,65 @@ title = "Rig Veda 1.168.4"
 - \[adverb\]
 - “vainly; incorrectly; unnecessarily; at will.”
 ------------------------------------------------------------------------
-- *yayur* \< *yayuḥ* \< *yā*
+- *yayur* ← *yayuḥ* ← *yā*
 - \[verb\], plural, Perfect indicative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *amartyāḥ* \< *amartya*
+- *amartyāḥ* ← *amartya*
 - \[noun\], vocative, plural, masculine
 - “immortal.”
 ------------------------------------------------------------------------
-- *kaśayā* \< *kaśā*
+- *kaśayā* ← *kaśā*
 - \[noun\], instrumental, singular, feminine
 - “whip.”
 ------------------------------------------------------------------------
-- *codata* \< *cud*
+- *codata* ← *cud*
 - \[verb\], plural, Present imperative
 - “urge; rush.”
 ------------------------------------------------------------------------
-- *tmanā* \< *tman*
+- *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
 ------------------------------------------------------------------------
-- *areṇavas* \< *areṇavaḥ* \< *areṇu*
+- *areṇavas* ← *areṇavaḥ* ← *areṇu*
 - \[noun\], nominative, plural, masculine
 - “clean.”
 ------------------------------------------------------------------------
-- *tuvijātā* \< *tuvi*
+- *tuvijātā* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
 ------------------------------------------------------------------------
-- *tuvijātā* \< *jātāḥ* \< *jan*
+- *tuvijātā* ← *jātāḥ* ← *jan*
 - \[verb noun\], nominative, plural
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *acucyavur* \< *acucyavuḥ* \< *cyu*
+- *acucyavur* ← *acucyavuḥ* ← *cyu*
 - \[verb\], plural, Plusquamperfect
 - “fall down; issue; shoot; ejaculate; deviate; banish; drop;
     dislodge; miss; deprive.”
 ------------------------------------------------------------------------
-- *dṛﾱhāni* \< *dṛḍha*
+- *dṛﾱhāni* ← *dṛḍha*
 - \[noun\], accusative, plural, neuter
 - “hard; intense; firm; fixed; resolute; mesomorphic; grim; dṛḍha
     \[word\]; rainproof; sturdy; shut; firm; insoluble; strong; tough;
     tight.”
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *bhrājadṛṣṭayaḥ* \< *bhrājat* \< *bhrāj*
+- *bhrājadṛṣṭayaḥ* ← *bhrājat* ← *bhrāj*
 - \[verb noun\]
 - “shine; glitter; look.”
 ------------------------------------------------------------------------
-- *bhrājadṛṣṭayaḥ* \< *ṛṣṭayaḥ* \< *ṛṣṭi*
+- *bhrājadṛṣṭayaḥ* ← *ṛṣṭayaḥ* ← *ṛṣṭi*
 - \[noun\], nominative, plural, masculine
 - “spear.”
 ------------------------------------------------------------------------

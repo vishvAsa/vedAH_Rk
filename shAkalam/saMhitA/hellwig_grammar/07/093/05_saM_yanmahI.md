@@ -2,65 +2,65 @@
 title = "Rig Veda 7.93.5"
 
 +++
--   *saṃ* \< *sam*
+-   *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *yan* \< *yat*
+- *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *mahī* \< *mahi*
+- *mahī* ← *mahi*
 - \[noun\], nominative, dual, feminine
 - “great; firm.”
 ------------------------------------------------------------------------
-- *mithatī* \< *mith*
+- *mithatī* ← *mith*
 - \[verb noun\], nominative, dual
 - “oppose.”
 ------------------------------------------------------------------------
-- *spardhamāne* \< *spṛdh*
+- *spardhamāne* ← *spṛdh*
 - \[verb noun\], nominative, dual
 - “rival.”
 ------------------------------------------------------------------------
-- *tanūrucā* \< *tanūruc*
+- *tanūrucā* ← *tanūruc*
 - \[noun\], nominative, dual, feminine
 ------------------------------------------------------------------------
-- *śūrasātā* \< *śūrasāti*
+- *śūrasātā* ← *śūrasāti*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
-- *yataite* \< *yat*
+- *yataite* ← *yat*
 - \[verb\], dual, Present conjunctive (subjunctive)
 - “strive; endeavor; join; equal; rival.”
 ------------------------------------------------------------------------
-- *adevayuṃ* \< *adevayum* \< *adevayu*
+- *adevayuṃ* ← *adevayum* ← *adevayu*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *vidathe* \< *vidatha*
+- *vidathe* ← *vidatha*
 - \[noun\], locative, singular, neuter
 - “meeting; wisdom; council.”
 ------------------------------------------------------------------------
-- *devayubhiḥ* \< *devayu*
+- *devayubhiḥ* ← *devayu*
 - \[noun\], instrumental, plural, masculine
 - “devout; devoted.”
 ------------------------------------------------------------------------
 - *satrā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *hataṃ* \< *hatam* \< *han*
+- *hataṃ* ← *hatam* ← *han*
 - \[verb\], dual, Present imperative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *somasutā* \< *soma*
+- *somasutā* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somasutā* \< *sutā* \< *sut*
+- *somasutā* ← *sutā* ← *sut*
 - \[noun\], instrumental, singular, masculine
 - “pressing.”
 ------------------------------------------------------------------------
-- *janena* \< *jana*
+- *janena* ← *jana*
 - \[noun\], instrumental, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”

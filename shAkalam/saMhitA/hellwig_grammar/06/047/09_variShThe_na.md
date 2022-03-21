@@ -2,11 +2,11 @@
 title = "Rig Veda 6.47.9"
 
 +++
--   *variṣṭhe* \< *variṣṭha*
+-   *variṣṭhe* ← *variṣṭha*
 - \[noun\], locative, singular, neuter
 - “best; preferable.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -15,22 +15,22 @@ title = "Rig Veda 6.47.9"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vandhure* \< *vandhura*
+- *vandhure* ← *vandhura*
 - \[noun\], locative, singular, neuter
 - “seat; seat.”
 ------------------------------------------------------------------------
-- *dhā* \< *dhāḥ* \< *dhā*
+- *dhā* ← *dhāḥ* ← *dhā*
 - \[verb\], singular, Aorist conj./subj.
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *vahiṣṭhayoḥ* \< *vahiṣṭha*
+- *vahiṣṭhayoḥ* ← *vahiṣṭha*
 - \[noun\], locative, dual, masculine
 ------------------------------------------------------------------------
-- *śatāvann* \< *śatāvan* \< *śatāvat*
+- *śatāvann* ← *śatāvan* ← *śatāvat*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *aśvayor* \< *aśvayoḥ* \< *aśva*
+- *aśvayor* ← *aśvayoḥ* ← *aśva*
 - \[noun\], locative, dual, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
@@ -38,7 +38,7 @@ title = "Rig Veda 6.47.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *iṣam* \< *iṣ*
+- *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
@@ -46,16 +46,16 @@ title = "Rig Veda 6.47.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vakṣīṣāṃ* \< *vakṣi* \< *vah*
+- *vakṣīṣāṃ* ← *vakṣi* ← *vah*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *vakṣīṣāṃ* \< *iṣām* \< *iṣ*
+- *vakṣīṣāṃ* ← *iṣām* ← *iṣ*
 - \[noun\], genitive, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *varṣiṣṭhām* \< *varṣiṣṭha*
+- *varṣiṣṭhām* ← *varṣiṣṭha*
 - \[noun\], accusative, singular, feminine
 - “highest.”
 ------------------------------------------------------------------------
@@ -63,11 +63,11 @@ title = "Rig Veda 6.47.9"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *nas* \< *naḥ* \< *mad*
+- *nas* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tārīn* \< *tārīt* \< *tṛ*
+- *tārīn* ← *tārīt* ← *tṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
@@ -75,10 +75,10 @@ title = "Rig Veda 6.47.9"
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *rāyo* \< *rāyaḥ* \< *rai*
+- *rāyo* ← *rāyaḥ* ← *rai*
 - \[noun\], nominative, plural, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *aryaḥ* \< *ari*
+- *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------

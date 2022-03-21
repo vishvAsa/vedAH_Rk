@@ -2,7 +2,7 @@
 title = "Rig Veda 4.56.1"
 
 +++
--   *mahī* \< *mahi*
+-   *mahī* ← *mahi*
 - \[noun\], nominative, dual, feminine
 - “great; firm.”
 ------------------------------------------------------------------------
@@ -14,26 +14,26 @@ title = "Rig Veda 4.56.1"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *jyeṣṭhe* \< *jyeṣṭha*
+- *jyeṣṭhe* ← *jyeṣṭha*
 - \[noun\], nominative, dual, feminine
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
 ------------------------------------------------------------------------
-- *rucā* \< *ruc*
+- *rucā* ← *ruc*
 - \[noun\], instrumental, singular, feminine
 - “beam; radiance; color.”
 ------------------------------------------------------------------------
-- *bhavatāṃ* \< *bhavatām* \< *bhū*
+- *bhavatāṃ* ← *bhavatām* ← *bhū*
 - \[verb\], dual, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *śucayadbhir* \< *śucayadbhiḥ* \< *śocay* \< *√śuc*
+- *śucayadbhir* ← *śucayadbhiḥ* ← *śocay* ← *√śuc*
 - \[verb noun\], instrumental, plural
 - “distress; afflict; burn.”
 ------------------------------------------------------------------------
-- *arkaiḥ* \< *arka*
+- *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
@@ -42,38 +42,38 @@ title = "Rig Veda 4.56.1"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *sīṃ* \< *sīm*
+- *sīṃ* ← *sīm*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *variṣṭhe* \< *variṣṭha*
+- *variṣṭhe* ← *variṣṭha*
 - \[noun\], accusative, dual, neuter
 - “best; preferable.”
 ------------------------------------------------------------------------
-- *bṛhatī* \< *bṛhat*
+- *bṛhatī* ← *bṛhat*
 - \[noun\], accusative, dual, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *viminvan* \< *vimi* \< *√mi*
+- *viminvan* ← *vimi* ← *√mi*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *ruvaddhokṣā* \< *ruvat* \< *ru*
+- *ruvaddhokṣā* ← *ruvat* ← *ru*
 - \[verb\], singular, Present injunctive
 - “bellow; howl.”
 ------------------------------------------------------------------------
-- *ruvaddhokṣā* \< *ha*
+- *ruvaddhokṣā* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *ruvaddhokṣā* \< *ukṣā* \< *ukṣan*
+- *ruvaddhokṣā* ← *ukṣā* ← *ukṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; ukṣan \[word\].”
 ------------------------------------------------------------------------
-- *paprathānebhir* \< *paprathānebhiḥ* \< *prath*
+- *paprathānebhir* ← *paprathānebhiḥ* ← *prath*
 - \[verb noun\], instrumental, plural
 - “be known; expand; expand; boom.”
 ------------------------------------------------------------------------
-- *evaiḥ* \< *eva*
+- *evaiḥ* ← *eva*
 - \[noun\], instrumental, plural, masculine
 - “eva \[word\]; habit; manner; behavior; custom.”
 ------------------------------------------------------------------------

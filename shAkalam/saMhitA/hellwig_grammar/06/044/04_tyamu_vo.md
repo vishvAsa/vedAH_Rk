@@ -2,7 +2,7 @@
 title = "Rig Veda 6.44.4"
 
 +++
--   *tyam* \< *tya*
+-   *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
@@ -10,46 +10,46 @@ title = "Rig Veda 6.44.4"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *aprahaṇaṃ* \< *a*
+- *aprahaṇaṃ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *aprahaṇaṃ* \< *prahaṇam* \< *prahan*
+- *aprahaṇaṃ* ← *prahaṇam* ← *prahan*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *gṛṇīṣe* \< *gṛ*
+- *gṛṇīṣe* ← *gṛ*
 - \[verb\], singular, Present indikative
 - “praise.”
 ------------------------------------------------------------------------
-- *śavasas* \< *śavasaḥ* \< *śavas*
+- *śavasas* ← *śavasaḥ* ← *śavas*
 - \[noun\], genitive, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *patim* \< *pati*
+- *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *viśvāsāhaṃ* \< *viśvāsāham* \< *viśvāsah*
+- *viśvāsāhaṃ* ← *viśvāsāham* ← *viśvāsah*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *naram* \< *nṛ*
+- *naram* ← *nṛ*
 - \[noun\], accusative, singular, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *maṃhiṣṭhaṃ* \< *maṃhiṣṭham* \< *maṃhiṣṭha*
+- *maṃhiṣṭhaṃ* ← *maṃhiṣṭham* ← *maṃhiṣṭha*
 - \[noun\], accusative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *viśvacarṣaṇim* \< *viśvacarṣaṇi*
+- *viśvacarṣaṇim* ← *viśvacarṣaṇi*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------

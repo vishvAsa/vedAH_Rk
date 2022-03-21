@@ -6,12 +6,12 @@ title = "Rig Veda 6.28.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gāvo* \< *gāvaḥ* \< *go*
+- *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *agmann* \< *agman* \< *gam*
+- *agmann* ← *agman* ← *gam*
 - \[verb\], plural, Root aorist (Ind.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
@@ -22,12 +22,12 @@ title = "Rig Veda 6.28.1"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *bhadram* \< *bhadra*
+- *bhadram* ← *bhadra*
 - \[noun\], accusative, singular, neuter
 - “happiness; bhadra; deodar; Bhadra; Bhadra; bhadra \[word\]; Bhadra;
     Bhadrāsana; prosperity; good fortune; benefit.”
 ------------------------------------------------------------------------
-- *akran* \< *kṛ*
+- *akran* ← *kṛ*
 - \[verb\], plural, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -38,32 +38,32 @@ title = "Rig Veda 6.28.1"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *sīdantu* \< *sad*
+- *sīdantu* ← *sad*
 - \[verb\], plural, Present imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *goṣṭhe* \< *goṣṭha*
+- *goṣṭhe* ← *goṣṭha*
 - \[noun\], locative, singular, masculine
 - “cowbarn; dwelling; pen; forum.”
 ------------------------------------------------------------------------
-- *raṇayantv* \< *raṇayantu* \< *raṇay* \< *√raṇ*
+- *raṇayantv* ← *raṇayantu* ← *raṇay* ← *√raṇ*
 - \[verb\], plural, Present imperative
 - “delight.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *prajāvatīḥ* \< *prajāvat*
+- *prajāvatīḥ* ← *prajāvat*
 - \[noun\], nominative, plural, feminine
 - “prolific.”
 ------------------------------------------------------------------------
-- *pururūpā* \< *puru*
+- *pururūpā* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *pururūpā* \< *rūpāḥ* \< *rūpa*
+- *pururūpā* ← *rūpāḥ* ← *rūpa*
 - \[noun\], nominative, plural, feminine
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
@@ -74,25 +74,25 @@ title = "Rig Veda 6.28.1"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *syur* \< *syuḥ* \< *as*
+- *syur* ← *syuḥ* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pūrvīr* \< *pūrvīḥ* \< *puru*
+- *pūrvīr* ← *pūrvīḥ* ← *puru*
 - \[noun\], accusative, plural, feminine
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], accusative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *duhānāḥ* \< *duh*
+- *duhānāḥ* ← *duh*
 - \[verb noun\], nominative, plural
 - “milk.”
 ------------------------------------------------------------------------

@@ -2,35 +2,35 @@
 title = "Rig Veda 7.75.1"
 
 +++
--   *vy* \< *vi*
+-   *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *uṣā* \< *uṣāḥ* \< *uṣas*
+- *uṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *āvo* \< *āvaḥ* \< *vas*
+- *āvo* ← *āvaḥ* ← *vas*
 - \[verb\], singular, Root aorist (Ind.)
 - “dawn; shine.”
 ------------------------------------------------------------------------
-- *divijā* \< *divijāḥ* \< *divijā*
+- *divijā* ← *divijāḥ* ← *divijā*
 - \[noun\], nominative, singular, feminine
 - “celestial.”
 ------------------------------------------------------------------------
-- *ṛtenāviṣkṛṇvānā* \< *ṛtena* \< *ṛta*
+- *ṛtenāviṣkṛṇvānā* ← *ṛtena* ← *ṛta*
 - \[noun\], instrumental, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *ṛtenāviṣkṛṇvānā* \< *āviṣkṛṇvānā* \< *āviṣkṛ* \< *√kṛ*
+- *ṛtenāviṣkṛṇvānā* ← *āviṣkṛṇvānā* ← *āviṣkṛ* ← *√kṛ*
 - \[verb noun\], nominative, singular
 - “show; uncover.”
 ------------------------------------------------------------------------
-- *mahimānam* \< *mahiman*
+- *mahimānam* ← *mahiman*
 - \[noun\], accusative, singular, masculine
 - “greatness; power; mahiman.”
 ------------------------------------------------------------------------
-- *āgāt* \< *āgā* \< *√gā*
+- *āgāt* ← *āgā* ← *√gā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “come; arrive.”
 ------------------------------------------------------------------------
@@ -38,32 +38,32 @@ title = "Rig Veda 7.75.1"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *druhas* \< *druhaḥ* \< *druh*
+- *druhas* ← *druhaḥ* ← *druh*
 - \[noun\], accusative, plural, feminine
 - “deception; druh; misrepresentation; fraudulence; offense; injury.”
 ------------------------------------------------------------------------
-- *tama* \< *tamaḥ* \< *tamas*
+- *tama* ← *tamaḥ* ← *tamas*
 - \[noun\], accusative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
 ------------------------------------------------------------------------
-- *āvar* \< *āvaḥ* \< *vṛ*
+- *āvar* ← *āvaḥ* ← *vṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *ajuṣṭam* \< *ajuṣṭa*
+- *ajuṣṭam* ← *ajuṣṭa*
 - \[noun\], accusative, singular, neuter
 - “unpleasant.”
 ------------------------------------------------------------------------
-- *aṅgirastamā* \< *aṅgirastama*
+- *aṅgirastamā* ← *aṅgirastama*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *pathyā* \< *pathyāḥ* \< *pathyā*
+- *pathyā* ← *pathyāḥ* ← *pathyā*
 - \[noun\], accusative, plural, feminine
 - “Terminalia chebula Retz.; path; Pathyā; way.”
 ------------------------------------------------------------------------
-- *ajīgaḥ* \< *jāgṛ*
+- *ajīgaḥ* ← *jāgṛ*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “wake; watch; awaken; wake up; oversee.”
 ------------------------------------------------------------------------

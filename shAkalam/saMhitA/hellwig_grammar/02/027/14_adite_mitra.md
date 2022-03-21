@@ -2,7 +2,7 @@
 title = "Rig Veda 2.27.14"
 
 +++
--   *adite* \< *aditi*
+-   *adite* ← *aditi*
 - \[noun\], vocative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
@@ -10,32 +10,32 @@ title = "Rig Veda 2.27.14"
 - \[noun\], vocative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *varuṇota* \< *varuṇa*
+- *varuṇota* ← *varuṇa*
 - \[noun\], vocative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *varuṇota* \< *uta*
+- *varuṇota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *mṛḍa* \< *mṛḍ*
+- *mṛḍa* ← *mṛḍ*
 - \[verb\], singular, Present imperative
 - “pardon.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *cakṛmā* \< *cakṛma* \< *kṛ*
+- *cakṛmā* ← *cakṛma* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -46,27 +46,27 @@ title = "Rig Veda 2.27.14"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *kaccid* \< *kaccit* \< *kaścit*
+- *kaccid* ← *kaccit* ← *kaścit*
 - \[noun\], accusative, singular, neuter
 - “any(a); some(a); some(a); some(a); some(a).”
 ------------------------------------------------------------------------
-- *āgaḥ* \< *āgas*
+- *āgaḥ* ← *āgas*
 - \[noun\], accusative, singular, neuter
 - “sin; evildoing; mistake.”
 ------------------------------------------------------------------------
-- *urv* \< *uru*
+- *urv* ← *uru*
 - \[noun\], accusative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *aśyām* \< *aś*
+- *aśyām* ← *aś*
 - \[verb\], singular, Aorist optative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *abhayaṃ* \< *abhayam* \< *abhaya*
+- *abhayaṃ* ← *abhayam* ← *abhaya*
 - \[noun\], accusative, singular, neuter
 - “safe.”
 ------------------------------------------------------------------------
-- *jyotir* \< *jyotiḥ* \< *jyotis*
+- *jyotir* ← *jyotiḥ* ← *jyotis*
 - \[noun\], accusative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
@@ -80,11 +80,11 @@ title = "Rig Veda 2.27.14"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dīrghā* \< *dīrghāḥ* \< *dīrgha*
+- *dīrghā* ← *dīrghāḥ* ← *dīrgha*
 - \[noun\], nominative, plural, feminine
 - “long; long; long; large; far; deep; dīrgha \[word\].”
 ------------------------------------------------------------------------
@@ -92,11 +92,11 @@ title = "Rig Veda 2.27.14"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *naśan* \< *naś*
+- *naśan* ← *naś*
 - \[verb\], plural, Aorist inj. (proh.)
 - “reach; achieve; enter (a state); reach.”
 ------------------------------------------------------------------------
-- *tamisrāḥ* \< *tamisrā*
+- *tamisrāḥ* ← *tamisrā*
 - \[noun\], nominative, plural, feminine
 - “tamisrā \[word\]; night.”
 ------------------------------------------------------------------------

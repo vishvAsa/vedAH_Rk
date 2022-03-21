@@ -2,7 +2,7 @@
 title = "Rig Veda 8.4.2"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -10,16 +10,16 @@ title = "Rig Veda 8.4.2"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *rume* \< *ruma*
+- *rume* ← *ruma*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *ruśame* \< *ruśama*
+- *ruśame* ← *ruśama*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *śyāvake* \< *śyāvaka*
+- *śyāvake* ← *śyāvaka*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *kṛpa* \< *kṛpe* \< *kṛpa*
+- *kṛpa* ← *kṛpe* ← *kṛpa*
 - \[noun\], locative, singular, masculine
 - “Kṛpa; Kṛpa.”
 ------------------------------------------------------------------------
@@ -28,7 +28,7 @@ title = "Rig Veda 8.4.2"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *mādayase* \< *māday* \< *√mad*
+- *mādayase* ← *māday* ← *√mad*
 - \[verb\], singular, Present indikative
 - “delight; enjoy; intoxicate.”
 ------------------------------------------------------------------------
@@ -36,32 +36,32 @@ title = "Rig Veda 8.4.2"
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *kaṇvāsas* \< *kaṇvāsaḥ* \< *kaṇva*
+- *kaṇvāsas* ← *kaṇvāsaḥ* ← *kaṇva*
 - \[noun\], nominative, plural, masculine
 - “Kaṇva; Kaṇva; kaṇva \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *brahmabhi* \< *brahmabhiḥ* \< *brahman*
+- *brahmabhi* ← *brahmabhiḥ* ← *brahman*
 - \[noun\], instrumental, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *stomavāhasa* \< *stoma*
+- *stomavāhasa* ← *stoma*
 - \[noun\], masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *stomavāhasa* \< *vāhasaḥ* \< *vāhas*
+- *stomavāhasa* ← *vāhasaḥ* ← *vāhas*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *indrā* \< *indrāḥ* \< *indra*
+- *indrā* ← *indrāḥ* ← *indra*
 - \[noun\], vocative, plural, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yacchanty* \< *yacchanti* \< *yam*
+- *yacchanty* ← *yacchanti* ← *yam*
 - \[verb\], plural, Present indikative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
@@ -69,7 +69,7 @@ title = "Rig Veda 8.4.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gahi* \< *gam*
+- *gahi* ← *gam*
 - \[verb\], singular, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

@@ -2,75 +2,75 @@
 title = "Rig Veda 3.7.10"
 
 +++
--   *pṛkṣaprayajo* \< *pṛkṣa*
+-   *pṛkṣaprayajo* ← *pṛkṣa*
 - \[noun\]
 - “strong; full of life.”
 ------------------------------------------------------------------------
-- *pṛkṣaprayajo* \< *prayajaḥ* \< *prayaj*
+- *pṛkṣaprayajo* ← *prayajaḥ* ← *prayaj*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *draviṇaḥ* \< *draviṇas*
+- *draviṇaḥ* ← *draviṇas*
 - \[noun\], vocative, singular, neuter
 - “property.”
 ------------------------------------------------------------------------
-- *suvācaḥ* \< *su*
+- *suvācaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvācaḥ* \< *vācaḥ* \< *vāc*
+- *suvācaḥ* ← *vācaḥ* ← *vāc*
 - \[noun\], nominative, plural, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
 ------------------------------------------------------------------------
-- *suketava* \< *su*
+- *suketava* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suketava* \< *ketavaḥ* \< *ketu*
+- *suketava* ← *ketavaḥ* ← *ketu*
 - \[noun\], nominative, plural, feminine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
 ------------------------------------------------------------------------
-- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], nominative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *revad* \< *revat*
+- *revad* ← *revat*
 - \[noun\], accusative, singular, neuter
 - “abundant; rich; affluent; brilliant; brilliant.”
 ------------------------------------------------------------------------
-- *ūṣuḥ* \< *vas*
+- *ūṣuḥ* ← *vas*
 - \[verb\], plural, Perfect indicative
 - “dawn; shine.”
 ------------------------------------------------------------------------
-- *uto* \< *uta*
+- *uto* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *uto* \< *u*
+- *uto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *mahinā* \< *mahina*
+- *mahinā* ← *mahina*
 - \[noun\], instrumental, singular, neuter
 - “greatness; enormousness.”
 ------------------------------------------------------------------------
-- *pṛthivyāḥ* \< *pṛthivī*
+- *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], genitive, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *kṛtaṃ* \< *kṛtam* \< *kṛ*
+- *kṛtaṃ* ← *kṛtam* ← *kṛ*
 - \[verb noun\], accusative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -81,11 +81,11 @@ title = "Rig Veda 3.7.10"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *enaḥ* \< *enas*
+- *enaḥ* ← *enas*
 - \[noun\], accusative, singular, neuter
 - “sin; calamity; blame.”
 ------------------------------------------------------------------------
@@ -93,10 +93,10 @@ title = "Rig Veda 3.7.10"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *mahe* \< *mah*
+- *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *daśasya* \< *daśasy*
+- *daśasya* ← *daśasy*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------

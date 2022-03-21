@@ -2,59 +2,59 @@
 title = "Rig Veda 8.70.1"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *rājā* \< *rājan*
+- *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *carṣaṇīnāṃ* \< *carṣaṇīnām* \< *carṣaṇi*
+- *carṣaṇīnāṃ* ← *carṣaṇīnām* ← *carṣaṇi*
 - \[noun\], genitive, plural, feminine
 - “people.”
 ------------------------------------------------------------------------
-- *yātā* \< *yātṛ*
+- *yātā* ← *yātṛ*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *rathebhir* \< *rathebhiḥ* \< *ratha*
+- *rathebhir* ← *rathebhiḥ* ← *ratha*
 - \[noun\], instrumental, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *adhriguḥ* \< *adhrigu*
+- *adhriguḥ* ← *adhrigu*
 - \[noun\], nominative, singular, masculine
 - “rich; powerful.”
 ------------------------------------------------------------------------
-- *viśvāsāṃ* \< *viśvāsām* \< *viśva*
+- *viśvāsāṃ* ← *viśvāsām* ← *viśva*
 - \[noun\], genitive, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *tarutā* \< *tarutṛ*
+- *tarutā* ← *tarutṛ*
 - \[noun\], nominative, singular, masculine
 - “tarutṛ \[word\].”
 ------------------------------------------------------------------------
-- *pṛtanānāṃ* \< *pṛtanānām* \< *pṛtanā*
+- *pṛtanānāṃ* ← *pṛtanānām* ← *pṛtanā*
 - \[noun\], genitive, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
 ------------------------------------------------------------------------
-- *jyeṣṭho* \< *jyeṣṭhaḥ* \< *jyeṣṭha*
+- *jyeṣṭho* ← *jyeṣṭhaḥ* ← *jyeṣṭha*
 - \[noun\], nominative, singular, masculine
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vṛtrahā* \< *vṛtra*
+- *vṛtrahā* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *vṛtrahā* \< *hā* \< *han*
+- *vṛtrahā* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
-- *gṛṇe* \< *gṛ*
+- *gṛṇe* ← *gṛ*
 - \[verb\], singular, Present indikative
 - “praise.”
 ------------------------------------------------------------------------

@@ -2,14 +2,14 @@
 title = "Rig Veda 8.99.4"
 
 +++
--   *anarśarātiṃ* \< *anarśarātim* \< *anarśarāti*
+-   *anarśarātiṃ* ← *anarśarātim* ← *anarśarāti*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *vasudām* \< *vasu*
+- *vasudām* ← *vasu*
 - \[noun\], neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *vasudām* \< *dām* \< *dā*
+- *vasudām* ← *dām* ← *dā*
 - \[noun\], accusative, singular, masculine
 - “giving.”
 ------------------------------------------------------------------------
@@ -17,41 +17,41 @@ title = "Rig Veda 8.99.4"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *stuhi* \< *stu*
+- *stuhi* ← *stu*
 - \[verb\], singular, Present imperative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *bhadrā* \< *bhadrāḥ* \< *bhadra*
+- *bhadrā* ← *bhadrāḥ* ← *bhadra*
 - \[noun\], nominative, plural, feminine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *rātayaḥ* \< *rāti*
+- *rātayaḥ* ← *rāti*
 - \[noun\], nominative, plural, feminine
 - “gift; bounty; favor.”
 ------------------------------------------------------------------------
-- *so* \< *saḥ* \< *tad*
+- *so* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *kāmaṃ* \< *kāmam* \< *kāma*
+- *kāmaṃ* ← *kāmam* ← *kāma*
 - \[noun\], accusative, singular, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
 ------------------------------------------------------------------------
-- *vidhato* \< *vidhataḥ* \< *vidh*
+- *vidhato* ← *vidhataḥ* ← *vidh*
 - \[verb noun\], genitive, singular
 - “worship; offer.”
 ------------------------------------------------------------------------
@@ -59,19 +59,19 @@ title = "Rig Veda 8.99.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *roṣati* \< *ruṣ*
+- *roṣati* ← *ruṣ*
 - \[verb\], singular, Present indikative
 - “anger.”
 ------------------------------------------------------------------------
-- *mano* \< *manaḥ* \< *manas*
+- *mano* ← *manaḥ* ← *manas*
 - \[noun\], accusative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *dānāya* \< *dāna*
+- *dānāya* ← *dāna*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *codayan* \< *coday* \< *√cud*
+- *codayan* ← *coday* ← *√cud*
 - \[verb noun\], nominative, singular
 - “impel; drive; incite; command; drive; arouse; propel.”
 ------------------------------------------------------------------------

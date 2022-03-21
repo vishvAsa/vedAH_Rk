@@ -2,40 +2,40 @@
 title = "Rig Veda 1.7.5"
 
 +++
--   *indraṃ* \< *indram* \< *indra*
+-   *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vayam* \< *mad*
+- *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mahādhana* \< *mahādhane* \< *mahādhana*
+- *mahādhana* ← *mahādhane* ← *mahādhana*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *arbhe* \< *arbha*
+- *arbhe* ← *arbha*
 - \[noun\], locative, singular, masculine
 - “few; small; unimportant.”
 ------------------------------------------------------------------------
-- *havāmahe* \< *hvā*
+- *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *yujaṃ* \< *yujam* \< *yuj*
+- *yujaṃ* ← *yujam* ← *yuj*
 - \[noun\], accusative, singular, masculine
 - “ally; friend; pair; two; companion.”
 ------------------------------------------------------------------------
-- *vṛtreṣu* \< *vṛtra*
+- *vṛtreṣu* ← *vṛtra*
 - \[noun\], locative, plural, masculine
 - “enemy.”
 ------------------------------------------------------------------------
-- *vajriṇam* \< *vajrin*
+- *vajriṇam* ← *vajrin*
 - \[noun\], accusative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
 ------------------------------------------------------------------------

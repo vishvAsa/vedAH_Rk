@@ -2,24 +2,24 @@
 title = "Rig Veda 3.41.9"
 
 +++
--   *arvāñcaṃ* \< *arvāñcam* \< *arvāñc*
+-   *arvāñcaṃ* ← *arvāñcam* ← *arvāñc*
 - \[noun\], accusative, singular, masculine
 - “approaching; facing; less.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sukhe* \< *sukha*
+- *sukhe* ← *sukha*
 - \[noun\], locative, singular, masculine
 - “pleasant; easy; lukewarm; comfortable; sukha \[word\]; successful;
     easy; content(p).”
 ------------------------------------------------------------------------
-- *rathe* \< *ratha*
+- *rathe* ← *ratha*
 - \[noun\], locative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *vahatām* \< *vah*
+- *vahatām* ← *vah*
 - \[verb\], dual, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
@@ -29,23 +29,23 @@ title = "Rig Veda 3.41.9"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *keśinā* \< *keśin*
+- *keśinā* ← *keśin*
 - \[noun\], nominative, dual, masculine
 - “haired.”
 ------------------------------------------------------------------------
-- *ghṛtasnū* \< *ghṛta*
+- *ghṛtasnū* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *ghṛtasnū* \< *snū* \< *snu*
+- *ghṛtasnū* ← *snū* ← *snu*
 - \[noun\], nominative, dual, masculine
 - “back.”
 ------------------------------------------------------------------------
-- *barhir* \< *barhiḥ* \< *barhis*
+- *barhir* ← *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *āsade* \< *āsad* \< *√sad*
+- *āsade* ← *āsad* ← *√sad*
 - \[verb noun\]
 - “approach; attack; sit down; approach; find; arrive.”
 ------------------------------------------------------------------------

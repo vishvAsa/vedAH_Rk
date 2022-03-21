@@ -2,7 +2,7 @@
 title = "Rig Veda 7.96.2"
 
 +++
--   *ubhe* \< *ubh*
+-   *ubhe* ← *ubh*
 - \[noun\], accusative, dual, neuter
 - “both(a).”
 ------------------------------------------------------------------------
@@ -10,67 +10,67 @@ title = "Rig Veda 7.96.2"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *mahinā* \< *mahina*
+- *mahinā* ← *mahina*
 - \[noun\], instrumental, singular, neuter
 - “greatness; enormousness.”
 ------------------------------------------------------------------------
-- *śubhre* \< *śubhra*
+- *śubhre* ← *śubhra*
 - \[noun\], accusative, dual, neuter
 - “white; beautiful; attractive; śubhra \[word\]; light.”
 ------------------------------------------------------------------------
-- *andhasī* \< *andhas*
+- *andhasī* ← *andhas*
 - \[noun\], accusative, dual, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
-- *adhikṣiyanti* \< *adhikṣi* \< *√kṣi*
+- *adhikṣiyanti* ← *adhikṣi* ← *√kṣi*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *pūravaḥ* \< *pūru*
+- *pūravaḥ* ← *pūru*
 - \[noun\], nominative, plural, masculine
 - “Pūru; Pūru.”
 ------------------------------------------------------------------------
-- *sā* \< *tad*
+- *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *bodhy* \< *bodhi* \< *bhū*
+- *bodhy* ← *bodhi* ← *bhū*
 - \[verb\], singular, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *avitrī* \< *avitṛ*
+- *avitrī* ← *avitṛ*
 - \[noun\], nominative, singular, feminine
 - “favorable.”
 ------------------------------------------------------------------------
-- *marutsakhā* \< *marut*
+- *marutsakhā* ← *marut*
 - \[noun\], masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *marutsakhā* \< *sakhā* \< *sakhi*
+- *marutsakhā* ← *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, feminine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *coda* \< *cud*
+- *coda* ← *cud*
 - \[verb\], singular, Present imperative
 - “urge; rush.”
 ------------------------------------------------------------------------
-- *rādho* \< *rādhaḥ* \< *rādhas*
+- *rādho* ← *rādhaḥ* ← *rādhas*
 - \[noun\], accusative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *maghonām* \< *maghavan*
+- *maghonām* ← *maghavan*
 - \[noun\], genitive, plural, masculine
 - “big.”
 ------------------------------------------------------------------------

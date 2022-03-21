@@ -10,23 +10,23 @@ title = "Rig Veda 8.9.7"
 - \[adverb\]
 - “now; surely; immediately; just.”
 ------------------------------------------------------------------------
-- *aśvinor* \< *aśvinoḥ* \< *aśvin*
+- *aśvinor* ← *aśvinoḥ* ← *aśvin*
 - \[noun\], genitive, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *ṛṣi* \< *ṛṣiḥ* \< *ṛṣi*
+- *ṛṣi* ← *ṛṣiḥ* ← *ṛṣi*
 - \[noun\], nominative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *stomaṃ* \< *stomam* \< *stoma*
+- *stomaṃ* ← *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *ciketa* \< *cit*
+- *ciketa* ← *cit*
 - \[verb\], singular, Perfect indicative
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *vāmayā* \< *vāma*
+- *vāmayā* ← *vāma*
 - \[noun\], instrumental, singular, feminine
 - “agreeable; vāma \[word\]; beautiful.”
 ------------------------------------------------------------------------
@@ -34,24 +34,24 @@ title = "Rig Veda 8.9.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *madhumattamaṃ* \< *madhumattamam* \< *madhumattama*
+- *madhumattamaṃ* ← *madhumattamam* ← *madhumattama*
 - \[noun\], accusative, singular, masculine
 - “sweetest.”
 ------------------------------------------------------------------------
-- *gharmaṃ* \< *gharmam* \< *gharma*
+- *gharmaṃ* ← *gharmam* ← *gharma*
 - \[noun\], accusative, singular, masculine
 - “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
     caldron.”
 ------------------------------------------------------------------------
-- *siñcād* \< *siñcāt* \< *sic*
+- *siñcād* ← *siñcāt* ← *sic*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 ------------------------------------------------------------------------
-- *atharvaṇi* \< *atharvan*
+- *atharvaṇi* ← *atharvan*
 - \[noun\], locative, singular, masculine
 - “Atharva-Veda.”
 ------------------------------------------------------------------------

@@ -6,7 +6,7 @@ title = "Rig Veda 2.33.4"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -14,11 +14,11 @@ title = "Rig Veda 2.33.4"
 - \[noun\], vocative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *cukrudhāmā* \< *krudh*
+- *cukrudhāmā* ← *krudh*
 - \[verb\], plural, Aorist conj./subj.
 - “anger; kup.”
 ------------------------------------------------------------------------
-- *namobhir* \< *namobhiḥ* \< *namas*
+- *namobhir* ← *namobhiḥ* ← *namas*
 - \[noun\], instrumental, plural, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
@@ -26,7 +26,7 @@ title = "Rig Veda 2.33.4"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *duṣṭutī* \< *duṣṭuti*
+- *duṣṭutī* ← *duṣṭuti*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
 - *vṛṣabha*
@@ -37,41 +37,41 @@ title = "Rig Veda 2.33.4"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *sahūtī* \< *sahūti*
+- *sahūtī* ← *sahūti*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *un* \< *ud*
+- *un* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vīrāṃ* \< *vīra*
+- *vīrāṃ* ← *vīra*
 - \[noun\], accusative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *arpaya* \< *arpay*
+- *arpaya* ← *arpay*
 - \[verb\], singular, Present imperative
 - “shoot; give; direct; hide; put; insert.”
 ------------------------------------------------------------------------
-- *bheṣajebhir* \< *bheṣajebhiḥ* \< *bheṣaja*
+- *bheṣajebhir* ← *bheṣajebhiḥ* ← *bheṣaja*
 - \[noun\], instrumental, plural, neuter
 - “drug; medicine; herb; bheṣaja \[word\]; remedy; reagent.”
 ------------------------------------------------------------------------
-- *bhiṣaktamaṃ* \< *bhiṣaktamam* \< *bhiṣaktama*
+- *bhiṣaktamaṃ* ← *bhiṣaktamam* ← *bhiṣaktama*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *bhiṣajāṃ* \< *bhiṣajām* \< *bhiṣaj*
+- *bhiṣajāṃ* ← *bhiṣajām* ← *bhiṣaj*
 - \[noun\], genitive, plural, masculine
 - “doctor; alchemist; therapist; medicine.”
 ------------------------------------------------------------------------
-- *śṛṇomi* \< *śru*
+- *śṛṇomi* ← *śru*
 - \[verb\], singular, Present indikative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------

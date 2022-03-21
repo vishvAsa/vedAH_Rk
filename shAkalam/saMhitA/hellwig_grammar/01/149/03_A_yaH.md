@@ -6,42 +6,42 @@ title = "Rig Veda 1.149.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *puraṃ* \< *puram* \< *pur*
+- *puraṃ* ← *puram* ← *pur*
 - \[noun\], accusative, singular, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
-- *nārmiṇīm* \< *nārmiṇī*
+- *nārmiṇīm* ← *nārmiṇī*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *adīded* \< *adīdet* \< *dīdī*
+- *adīded* ← *adīdet* ← *dīdī*
 - \[verb\], singular, Imperfect
 - “shine; glitter.”
 ------------------------------------------------------------------------
-- *atyaḥ* \< *atya*
+- *atyaḥ* ← *atya*
 - \[noun\], nominative, singular, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------
-- *kavir* \< *kaviḥ* \< *kavi*
+- *kavir* ← *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *nabhanyo* \< *nabhanyaḥ* \< *nabhanya*
+- *nabhanyo* ← *nabhanyaḥ* ← *nabhanya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *nārvā* \< *nā* \< *na*
+- *nārvā* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nārvā* \< *arvā* \< *arvan*
+- *nārvā* ← *arvā* ← *arvan*
 - \[noun\], nominative, singular, masculine
 - “horse; arvan \[word\]; racehorse.”
 ------------------------------------------------------------------------
-- *sūro* \< *sūraḥ* \< *sūra*
+- *sūro* ← *sūraḥ* ← *sūra*
 - \[noun\], nominative, singular, masculine
 - “sun.”
 ------------------------------------------------------------------------
@@ -49,15 +49,15 @@ title = "Rig Veda 1.149.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *rurukvāñchatātmā* \< *rurukvān* \< *ruc*
+- *rurukvāñchatātmā* ← *rurukvān* ← *ruc*
 - \[verb noun\], nominative, singular
 - “please; shine.”
 ------------------------------------------------------------------------
-- *rurukvāñchatātmā* \< *śata*
+- *rurukvāñchatātmā* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *rurukvāñchatātmā* \< *ātmā* \< *ātman*
+- *rurukvāñchatātmā* ← *ātmā* ← *ātman*
 - \[noun\], nominative, singular, masculine
 - “self; nature; Ātman; mind; soul; self; body; character; ātman
     \[word\]; person; life; peculiarity.”

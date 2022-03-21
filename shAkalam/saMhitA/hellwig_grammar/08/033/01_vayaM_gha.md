@@ -2,21 +2,21 @@
 title = "Rig Veda 8.33.1"
 
 +++
--   *vayaṃ* \< *vayam* \< *mad*
+-   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
 - *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sutāvanta* \< *sutāvantaḥ* \< *sutāvat*
+- *sutāvanta* ← *sutāvantaḥ* ← *sutāvat*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *āpo* \< *āpaḥ* \< *ap*
+- *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -24,18 +24,18 @@ title = "Rig Veda 8.33.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vṛktabarhiṣaḥ* \< *vṛkta* \< *vṛj*
+- *vṛktabarhiṣaḥ* ← *vṛkta* ← *vṛj*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *vṛktabarhiṣaḥ* \< *barhiṣaḥ* \< *barhis*
+- *vṛktabarhiṣaḥ* ← *barhiṣaḥ* ← *barhis*
 - \[noun\], nominative, plural, masculine
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *pavitrasya* \< *pavitra*
+- *pavitrasya* ← *pavitra*
 - \[noun\], genitive, singular, neuter
 - “strainer.”
 ------------------------------------------------------------------------
-- *prasravaṇeṣu* \< *prasravaṇa*
+- *prasravaṇeṣu* ← *prasravaṇa*
 - \[noun\], locative, plural, neuter
 - “waterfall; spring; discharge.”
 ------------------------------------------------------------------------
@@ -47,11 +47,11 @@ title = "Rig Veda 8.33.1"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *stotāra* \< *stotāraḥ* \< *stotṛ*
+- *stotāra* ← *stotāraḥ* ← *stotṛ*
 - \[noun\], nominative, plural, masculine
 - “laudatory; worshiping.”
 ------------------------------------------------------------------------
-- *āsate* \< *ās*
+- *āsate* ← *ās*
 - \[verb\], plural, Present indikative
 - “sit; stay; sit down; dwell; lie; lie; exist.”
 ------------------------------------------------------------------------

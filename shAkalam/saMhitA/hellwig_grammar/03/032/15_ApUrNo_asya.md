@@ -2,15 +2,15 @@
 title = "Rig Veda 3.32.15"
 
 +++
--   *āpūrṇo* \< *āpūrṇaḥ* \< *āp￞* \< *√pṛ*
+-   *āpūrṇo* ← *āpūrṇaḥ* ← *āp￞* ← *√pṛ*
 - \[verb noun\], nominative, singular
 - “fill.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *kalaśaḥ* \< *kalaśa*
+- *kalaśaḥ* ← *kalaśa*
 - \[noun\], nominative, singular, masculine
 - “jar.”
 ------------------------------------------------------------------------
@@ -18,23 +18,23 @@ title = "Rig Veda 3.32.15"
 - \[adverb\]
 - “hail.”
 ------------------------------------------------------------------------
-- *sekteva* \< *sektā* \< *sektṛ*
+- *sekteva* ← *sektā* ← *sektṛ*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *sekteva* \< *iva*
+- *sekteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *kośaṃ* \< *kośam* \< *kośa*
+- *kośaṃ* ← *kośam* ← *kośa*
 - \[noun\], accusative, singular, masculine
 - “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
     treasure; calyx; container; bucket; box.”
 ------------------------------------------------------------------------
-- *sisice* \< *sic*
+- *sisice* ← *sic*
 - \[verb\], singular, Perfect indicative
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 ------------------------------------------------------------------------
-- *pibadhyai* \< *pā*
+- *pibadhyai* ← *pā*
 - \[verb noun\]
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
@@ -46,33 +46,33 @@ title = "Rig Veda 3.32.15"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *priyā* \< *priyāḥ* \< *priya*
+- *priyā* ← *priyāḥ* ← *priya*
 - \[noun\], nominative, plural, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *āvavṛtran* \< *āvṛt* \< *√vṛt*
+- *āvavṛtran* ← *āvṛt* ← *√vṛt*
 - \[verb\], plural, Plusquamperfect
 - “melt; return; melt; to be reborn; turn; turn; revolve; roll.”
 ------------------------------------------------------------------------
-- *madāya* \< *mada*
+- *madāya* ← *mada*
 - \[noun\], dative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *pradakṣiṇid* \< *pradakṣiṇit*
+- *pradakṣiṇid* ← *pradakṣiṇit*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *somāsa* \< *somāsaḥ* \< *soma*
+- *somāsa* ← *somāsaḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”

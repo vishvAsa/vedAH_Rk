@@ -2,34 +2,34 @@
 title = "Rig Veda 1.167.8"
 
 +++
--   *pānti* \< *pā*
+-   *pānti* ← *pā*
 - \[verb\], plural, Present indikative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇāv* \< *mitrāvaruṇau* \< *mitrāvaruṇa*
+- *mitrāvaruṇāv* ← *mitrāvaruṇau* ← *mitrāvaruṇa*
 - \[noun\], nominative, dual, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *avadyāc* \< *avadyāt* \< *avadya*
+- *avadyāc* ← *avadyāt* ← *avadya*
 - \[noun\], ablative, singular, neuter
 - “shame; censure; blame.”
 ------------------------------------------------------------------------
-- *cayata* \< *cayate* \< *ci*
+- *cayata* ← *cayate* ← *ci*
 - \[verb\], singular, Present indikative
 - “cover; accumulate; pile up; pick; cover.”
 ------------------------------------------------------------------------
-- *īm* \< *īṃ*
+- *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *aryamo* \< *aryamā* \< *aryaman*
+- *aryamo* ← *aryamā* ← *aryaman*
 - \[noun\], nominative, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
 ------------------------------------------------------------------------
-- *aryamo* \< *u*
+- *aryamo* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *apraśastān* \< *apraśasta*
+- *apraśastān* ← *apraśasta*
 - \[noun\], accusative, plural, masculine
 - “bad.”
 ------------------------------------------------------------------------
@@ -37,36 +37,36 @@ title = "Rig Veda 1.167.8"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *cyavante* \< *cyu*
+- *cyavante* ← *cyu*
 - \[verb\], plural, Present indikative
 - “fall down; issue; shoot; ejaculate; deviate; banish; drop;
     dislodge; miss; deprive.”
 ------------------------------------------------------------------------
-- *acyutā* \< *acyuta*
+- *acyutā* ← *acyuta*
 - \[noun\], nominative, plural, neuter
 - “firm; regular; permanent; immovable; unchanging.”
 ------------------------------------------------------------------------
-- *dhruvāṇi* \< *dhruva*
+- *dhruvāṇi* ← *dhruva*
 - \[noun\], nominative, plural, neuter
 - “certain; fixed; permanent; changeless; firm; safe; resident;
     immovable; fixed; fixed; vital; faithful.”
 ------------------------------------------------------------------------
-- *vāvṛdha* \< *vāvṛdhe* \< *vṛdh*
+- *vāvṛdha* ← *vāvṛdhe* ← *vṛdh*
 - \[verb\], singular, Perfect indicative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *īm* \< *īṃ*
+- *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *dātivāraḥ* \< *dāti*
+- *dātivāraḥ* ← *dāti*
 - \[noun\], feminine
 ------------------------------------------------------------------------
-- *dātivāraḥ* \< *vāraḥ* \< *vāra*
+- *dātivāraḥ* ← *vāraḥ* ← *vāra*
 - \[noun\], nominative, singular, masculine
 - “treasure; choice.”
 ------------------------------------------------------------------------

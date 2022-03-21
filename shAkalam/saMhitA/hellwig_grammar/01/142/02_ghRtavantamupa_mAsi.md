@@ -2,7 +2,7 @@
 title = "Rig Veda 1.142.2"
 
 +++
--   *ghṛtavantam* \< *ghṛtavat*
+-   *ghṛtavantam* ← *ghṛtavat*
 - \[noun\], accusative, singular, masculine
 - “buttery.”
 ------------------------------------------------------------------------
@@ -10,34 +10,34 @@ title = "Rig Veda 1.142.2"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *māsi* \< *mā*
+- *māsi* ← *mā*
 - \[verb\], singular, Present indikative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
 ------------------------------------------------------------------------
-- *madhumantaṃ* \< *madhumantam* \< *madhumat*
+- *madhumantaṃ* ← *madhumantam* ← *madhumat*
 - \[noun\], accusative, singular, masculine
 - “sweet; honeyed; sweet; pleasant.”
 ------------------------------------------------------------------------
-- *tanūnapāt* \< *tanūnapād* \< *tanūnapāt*
+- *tanūnapāt* ← *tanūnapād* ← *tanūnapāt*
 - \[noun\], vocative, singular, masculine
 - “Agni.”
 ------------------------------------------------------------------------
-- *yajñaṃ* \< *yajñam* \< *yajña*
+- *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *viprasya* \< *vipra*
+- *viprasya* ← *vipra*
 - \[noun\], genitive, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *māvataḥ* \< *māvat*
+- *māvataḥ* ← *māvat*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *śaśamānasya* \< *śam*
+- *śaśamānasya* ← *śam*
 - \[verb noun\], genitive, singular
 - “calm; go out; end; die; pacify; heal; labor; make peace; rest.”
 ------------------------------------------------------------------------
-- *dāśuṣaḥ* \< *dāś*
+- *dāśuṣaḥ* ← *dāś*
 - \[verb noun\], genitive, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------

@@ -2,23 +2,23 @@
 title = "Rig Veda 4.22.7"
 
 +++
--   *atrāha* \< *atra*
+-   *atrāha* ← *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *atrāha* \< *aha*
+- *atrāha* ← *aha*
 - \[adverb\]
 - “aha \[word\]; indeed.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *harivas* \< *harivat*
+- *harivas* ← *harivat*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *tā* \< *tāḥ* \< *tad*
+- *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -28,11 +28,11 @@ title = "Rig Veda 4.22.7"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *devīr* \< *devīḥ* \< *deva*
+- *devīr* ← *devīḥ* ← *deva*
 - \[noun\], nominative, plural, feminine
 - “divine.”
 ------------------------------------------------------------------------
-- *avobhir* \< *avobhiḥ* \< *avas*
+- *avobhir* ← *avobhiḥ* ← *avas*
 - \[noun\], instrumental, plural, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
@@ -41,11 +41,11 @@ title = "Rig Veda 4.22.7"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *stavanta* \< *stu*
+- *stavanta* ← *stu*
 - \[verb\], plural, Present injunctive
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *svasāraḥ* \< *svasṛ*
+- *svasāraḥ* ← *svasṛ*
 - \[noun\], nominative, plural, feminine
 - “sister; svasṛ \[word\].”
 ------------------------------------------------------------------------
@@ -64,7 +64,7 @@ title = "Rig Veda 4.22.7"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *muco* \< *mucaḥ* \< *muc*
+- *muco* ← *mucaḥ* ← *muc*
 - \[verb\], singular, Aorist inj. (proh.)
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
     fill into; shoot; spill; lose; ejaculate; exclude; free; remove;
@@ -72,10 +72,10 @@ title = "Rig Veda 4.22.7"
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
 ------------------------------------------------------------------------
-- *badbadhānā* \< *badbadhānāḥ* \< *badbadh* \< *√bādh*
+- *badbadhānā* ← *badbadhānāḥ* ← *badbadh* ← *√bādh*
 - \[verb noun\], accusative, plural
 ------------------------------------------------------------------------
-- *dīrghām* \< *dīrgha*
+- *dīrghām* ← *dīrgha*
 - \[noun\], accusative, singular, feminine
 - “long; long; long; large; far; deep; dīrgha \[word\].”
 ------------------------------------------------------------------------
@@ -83,19 +83,19 @@ title = "Rig Veda 4.22.7"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *prasitiṃ* \< *prasitim* \< *prasiti*
+- *prasitiṃ* ← *prasitim* ← *prasiti*
 - \[noun\], accusative, singular, feminine
 - “binding.”
 ------------------------------------------------------------------------
-- *syandayadhyai* \< *syanda*
+- *syandayadhyai* ← *syanda*
 - \[noun\], masculine
 - “discharge.”
 ------------------------------------------------------------------------
-- *syandayadhyai* \< *ya*
+- *syandayadhyai* ← *ya*
 - \[noun\], masculine
 - “yakāra; ya; yat \[pronoun\]; intensive ending.”
 ------------------------------------------------------------------------
-- *syandayadhyai* \< *dhyai* \< *dhī*
+- *syandayadhyai* ← *dhyai* ← *dhī*
 - \[noun\], dative, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”

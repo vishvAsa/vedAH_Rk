@@ -2,16 +2,16 @@
 title = "Rig Veda 2.19.8"
 
 +++
--   *evā* \< *eva*
+-   *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *gṛtsamadāḥ* \< *gṛtsamada*
+- *gṛtsamadāḥ* ← *gṛtsamada*
 - \[noun\], nominative, plural, masculine
 - “Gṛtsamada.”
 ------------------------------------------------------------------------
@@ -20,11 +20,11 @@ title = "Rig Veda 2.19.8"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *manmāvasyavo* \< *manma* \< *manman*
+- *manmāvasyavo* ← *manma* ← *manman*
 - \[noun\], accusative, singular, neuter
 - “hymn; idea; purpose.”
 ------------------------------------------------------------------------
-- *manmāvasyavo* \< *avasyavaḥ* \< *avasyu*
+- *manmāvasyavo* ← *avasyavaḥ* ← *avasyu*
 - \[noun\], nominative, plural, masculine
 - “seeking protection; helpless.”
 ------------------------------------------------------------------------
@@ -32,15 +32,15 @@ title = "Rig Veda 2.19.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vayunāni* \< *vayuna*
+- *vayunāni* ← *vayuna*
 - \[noun\], accusative, plural, neuter
 - “convention; custom; means.”
 ------------------------------------------------------------------------
-- *takṣuḥ* \< *takṣ*
+- *takṣuḥ* ← *takṣ*
 - \[verb\], plural, Perfect indicative
 - “produce; shape; fashion; chisel; invent.”
 ------------------------------------------------------------------------
-- *brahmaṇyanta* \< *brahmaṇyantaḥ* \< *brahmaṇy*
+- *brahmaṇyanta* ← *brahmaṇyantaḥ* ← *brahmaṇy*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
 - *indra*
@@ -48,36 +48,36 @@ title = "Rig Veda 2.19.8"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *navīya* \< *navīyaḥ* \< *navīyas*
+- *navīya* ← *navīyaḥ* ← *navīyas*
 - \[noun\], accusative, singular, neuter
 - “new; fresh; up-to-the-minute.”
 ------------------------------------------------------------------------
-- *iṣam* \< *iṣ*
+- *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *ūrjaṃ* \< *ūrjam* \< *ūrj*
+- *ūrjaṃ* ← *ūrjam* ← *ūrj*
 - \[noun\], accusative, singular, feminine
 - “strength; refreshment; vigor; food; strengthening.”
 ------------------------------------------------------------------------
-- *sukṣitiṃ* \< *su*
+- *sukṣitiṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukṣitiṃ* \< *kṣitim* \< *kṣiti*
+- *sukṣitiṃ* ← *kṣitim* ← *kṣiti*
 - \[noun\], accusative, singular, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
 ------------------------------------------------------------------------
-- *sumnam* \< *sumna*
+- *sumnam* ← *sumna*
 - \[noun\], accusative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
-- *aśyuḥ* \< *aś*
+- *aśyuḥ* ← *aś*
 - \[verb\], plural, Aorist optative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------

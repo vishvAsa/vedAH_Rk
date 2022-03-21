@@ -6,19 +6,19 @@ title = "Rig Veda 7.95.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *kṣodasā* \< *kṣodas*
+- *kṣodasā* ← *kṣodas*
 - \[noun\], instrumental, singular, neuter
 - “swell.”
 ------------------------------------------------------------------------
-- *dhāyasā* \< *dhāyas*
+- *dhāyasā* ← *dhāyas*
 - \[noun\], instrumental, singular, neuter
 - “alimentary; sustaining.”
 ------------------------------------------------------------------------
-- *sasra* \< *sasre* \< *sṛ*
+- *sasra* ← *sasre* ← *sṛ*
 - \[verb\], singular, Perfect indicative
 - “sṛ; liquefy; run; spread; stretch out.”
 ------------------------------------------------------------------------
-- *eṣā* \< *etad*
+- *eṣā* ← *etad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
@@ -27,52 +27,52 @@ title = "Rig Veda 7.95.1"
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
 ------------------------------------------------------------------------
-- *dharuṇam* \< *dharuṇa*
+- *dharuṇam* ← *dharuṇa*
 - \[noun\], nominative, singular, neuter
 - “prop; foundation.”
 ------------------------------------------------------------------------
-- *āyasī* \< *āyasa*
+- *āyasī* ← *āyasa*
 - \[noun\], nominative, singular, feminine
 - “iron; metallic.”
 ------------------------------------------------------------------------
-- *pūḥ* \< *pur*
+- *pūḥ* ← *pur*
 - \[noun\], nominative, singular
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
-- *prabābadhānā* \< *prabadbadh* \< *√bādh*
+- *prabābadhānā* ← *prabadbadh* ← *√bādh*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *rathyeva* \< *rathyā*
+- *rathyeva* ← *rathyā*
 - \[noun\], instrumental, singular, feminine
 - “road; way; highway.”
 ------------------------------------------------------------------------
-- *rathyeva* \< *iva*
+- *rathyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *yāti* \< *yā*
+- *yāti* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśvāḥ* \< *viśva*
+- *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *apo* \< *apaḥ* \< *ap*
+- *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *mahinā* \< *mahina*
+- *mahinā* ← *mahina*
 - \[noun\], instrumental, singular, neuter
 - “greatness; enormousness.”
 ------------------------------------------------------------------------
-- *sindhur* \< *sindhuḥ* \< *sindhu*
+- *sindhur* ← *sindhuḥ* ← *sindhu*
 - \[noun\], nominative, singular, feminine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *anyāḥ* \< *anya*
+- *anyāḥ* ← *anya*
 - \[noun\], accusative, plural, feminine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”

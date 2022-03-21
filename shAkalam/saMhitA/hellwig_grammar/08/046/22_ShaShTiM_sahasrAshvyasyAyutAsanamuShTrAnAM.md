@@ -2,71 +2,71 @@
 title = "Rig Veda 8.46.22"
 
 +++
--   *ṣaṣṭiṃ* \< *ṣaṣṭim* \< *ṣaṣṭi*
+-   *ṣaṣṭiṃ* ← *ṣaṣṭim* ← *ṣaṣṭi*
 - \[noun\], accusative, singular, feminine
 - “sixty; sixtieth; ṣaṣṭi \[word\].”
 ------------------------------------------------------------------------
-- *sahasrāśvyasyāyutāsanam* \< *sahasrā* \< *sahasra*
+- *sahasrāśvyasyāyutāsanam* ← *sahasrā* ← *sahasra*
 - \[noun\], instrumental, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasrāśvyasyāyutāsanam* \< *aśvyasya* \< *aśvya*
+- *sahasrāśvyasyāyutāsanam* ← *aśvyasya* ← *aśvya*
 - \[noun\], genitive, singular, neuter
 ------------------------------------------------------------------------
-- *sahasrāśvyasyāyutāsanam* \< *ayuta*
+- *sahasrāśvyasyāyutāsanam* ← *ayuta*
 - \[noun\], neuter
 - “ayuta.”
 ------------------------------------------------------------------------
-- *sahasrāśvyasyāyutāsanam* \< *āsanam* \< *āsana*
+- *sahasrāśvyasyāyutāsanam* ← *āsanam* ← *āsana*
 - \[noun\], accusative, singular, neuter
 - “seat; sitting; throne; Āsana; dwelling; āsana \[word\]; place;
     stay.”
 ------------------------------------------------------------------------
-- *uṣṭrānāṃ* \< *uṣṭrānām* \< *uṣṭra*
+- *uṣṭrānāṃ* ← *uṣṭrānām* ← *uṣṭra*
 - \[noun\], genitive, plural, masculine
 - “camel; uṣṭra \[word\].”
 ------------------------------------------------------------------------
-- *viṃśatiṃ* \< *viṃśatim* \< *viṃśati*
+- *viṃśatiṃ* ← *viṃśatim* ← *viṃśati*
 - \[noun\], accusative, singular, feminine
 - “twenty; twentieth; viṃśati \[word\].”
 ------------------------------------------------------------------------
-- *śatā* \< *śata*
+- *śatā* ← *śata*
 - \[noun\], accusative, plural, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *daśa* \< *daśan*
+- *daśa* ← *daśan*
 - \[noun\], accusative, singular, neuter
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *śyāvīnāṃ* \< *śyāvīnām* \< *śyāvī*
+- *śyāvīnāṃ* ← *śyāvīnām* ← *śyāvī*
 - \[noun\], genitive, plural, feminine
 ------------------------------------------------------------------------
-- *śatā* \< *śata*
+- *śatā* ← *śata*
 - \[noun\], accusative, plural, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *daśa* \< *daśan*
+- *daśa* ← *daśan*
 - \[noun\], accusative, singular, neuter
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *tryaruṣīṇāṃ* \< *tri*
+- *tryaruṣīṇāṃ* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *tryaruṣīṇāṃ* \< *aruṣīṇām* \< *aruṣa*
+- *tryaruṣīṇāṃ* ← *aruṣīṇām* ← *aruṣa*
 - \[noun\], genitive, plural, feminine
 - “red; red.”
 ------------------------------------------------------------------------
-- *daśa* \< *daśan*
+- *daśa* ← *daśan*
 - \[noun\], nominative, singular, neuter
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *gavāṃ* \< *gavām* \< *go*
+- *gavāṃ* ← *gavām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *sahasrā* \< *sahasra*
+- *sahasrā* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------

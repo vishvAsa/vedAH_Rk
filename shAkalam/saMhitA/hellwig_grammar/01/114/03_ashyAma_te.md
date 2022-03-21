@@ -2,32 +2,32 @@
 title = "Rig Veda 1.114.3"
 
 +++
--   *aśyāma* \< *aś*
+-   *aśyāma* ← *aś*
 - \[verb\], plural, Aorist optative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sumatiṃ* \< *sumatim* \< *sumati*
+- *sumatiṃ* ← *sumatim* ← *sumati*
 - \[noun\], accusative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *devayajyayā* \< *deva*
+- *devayajyayā* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devayajyayā* \< *yajyayā* \< *yajya*
+- *devayajyayā* ← *yajyayā* ← *yajya*
 - \[noun\], instrumental, singular, feminine
 - “sacrifice; yajña.”
 ------------------------------------------------------------------------
-- *kṣayadvīrasya* \< *kṣayadvīra*
+- *kṣayadvīrasya* ← *kṣayadvīra*
 - \[noun\], genitive, singular, masculine
 - “Shiva.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -35,22 +35,22 @@ title = "Rig Veda 1.114.3"
 - \[noun\], vocative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *mīḍhvaḥ* \< *mīḍhvas*
+- *mīḍhvaḥ* ← *mīḍhvas*
 - \[noun\], vocative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *sumnāyann* \< *sumnāyan* \< *sumnāy*
+- *sumnāyann* ← *sumnāyan* ← *sumnāy*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *viśo* \< *viśaḥ* \< *viś*
+- *viśo* ← *viśaḥ* ← *viś*
 - \[noun\], accusative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *asmākam* \< *mad*
+- *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -58,29 +58,29 @@ title = "Rig Veda 1.114.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *carāriṣṭavīrā* \< *cara* \< *car*
+- *carāriṣṭavīrā* ← *cara* ← *car*
 - \[verb\], singular, Present imperative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *carāriṣṭavīrā* \< *ariṣṭa*
+- *carāriṣṭavīrā* ← *ariṣṭa*
 - \[noun\]
 - “safe; unharmed.”
 ------------------------------------------------------------------------
-- *carāriṣṭavīrā* \< *vīrāḥ* \< *vīra*
+- *carāriṣṭavīrā* ← *vīrāḥ* ← *vīra*
 - \[noun\], nominative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *juhavāma* \< *hu*
+- *juhavāma* ← *hu*
 - \[verb\], plural, Present imperative
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *haviḥ* \< *havis*
+- *haviḥ* ← *havis*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------

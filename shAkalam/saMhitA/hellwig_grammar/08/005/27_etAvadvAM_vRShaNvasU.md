@@ -2,19 +2,19 @@
 title = "Rig Veda 8.5.27"
 
 +++
--   *etāvad* \< *etāvat*
+-   *etāvad* ← *etāvat*
 - \[noun\], accusative, singular, neuter
 - “such(a); such(a).”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *vṛṣaṇvasū* \< *vṛṣaṇvasu*
+- *vṛṣaṇvasū* ← *vṛṣaṇvasu*
 - \[noun\], vocative, dual, masculine
 - “affluent.”
 ------------------------------------------------------------------------
-- *ato* \< *atas*
+- *ato* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
@@ -23,23 +23,23 @@ title = "Rig Veda 8.5.27"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *bhūyo* \< *bhūyaḥ* \< *bhūyas*
+- *bhūyo* ← *bhūyaḥ* ← *bhūyas*
 - \[noun\], accusative, singular, neuter
 - “more(a); more(a); abounding in(p); stronger; bigger.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *gṛṇantaḥ* \< *gṛ*
+- *gṛṇantaḥ* ← *gṛ*
 - \[verb noun\], nominative, plural
 - “praise.”
 ------------------------------------------------------------------------
-- *sumnam* \< *sumna*
+- *sumnam* ← *sumna*
 - \[noun\], accusative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
-- *īmahe* \< *ī* \< *√i*
+- *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------

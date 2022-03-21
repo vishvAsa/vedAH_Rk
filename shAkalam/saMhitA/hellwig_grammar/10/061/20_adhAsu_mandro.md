@@ -2,51 +2,51 @@
 title = "Rig Veda 10.61.20"
 
 +++
--   *adhāsu* \< *\_* \< *√\_*
+-   *adhāsu* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *mandro* \< *mandraḥ* \< *mandra*
+- *mandro* ← *mandraḥ* ← *mandra*
 - \[noun\], nominative, singular, masculine
 - “pleasant; eloquent; dulcet.”
 ------------------------------------------------------------------------
-- *aratir* \< *aratiḥ* \< *arati*
+- *aratir* ← *aratiḥ* ← *arati*
 - \[noun\], nominative, singular, masculine
 - “charioteer.”
 ------------------------------------------------------------------------
-- *vibhāvāva* \< *vibhāvā* \< *vibhāvan*
+- *vibhāvāva* ← *vibhāvā* ← *vibhāvan*
 - \[noun\], nominative, singular, masculine
 - “illuminating; shining.”
 ------------------------------------------------------------------------
-- *vibhāvāva* \< *ava*
+- *vibhāvāva* ← *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *syati* \< *sā*
+- *syati* ← *sā*
 - \[verb\], singular, Present indikative
 - “tie.”
 ------------------------------------------------------------------------
-- *dvivartanir* \< *dvi*
+- *dvivartanir* ← *dvi*
 - \[noun\]
 - “two; dvi \[word\]; second.”
 ------------------------------------------------------------------------
-- *dvivartanir* \< *vartaniḥ* \< *vartani*
+- *dvivartanir* ← *vartaniḥ* ← *vartani*
 - \[noun\], nominative, singular, masculine
 - “path; East; way.”
 ------------------------------------------------------------------------
-- *vaneṣāṭ* \< *vaneṣāh* \< *vaneṣah*
+- *vaneṣāṭ* ← *vaneṣāh* ← *vaneṣah*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *ūrdhvā* \< *ūrdhva*
+- *ūrdhvā* ← *ūrdhva*
 - \[noun\], nominative, singular, feminine
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
 ------------------------------------------------------------------------
-- *yacchreṇir* \< *yat*
+- *yacchreṇir* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yacchreṇir* \< *śreṇiḥ* \< *śreṇi*
+- *yacchreṇir* ← *śreṇiḥ* ← *śreṇi*
 - \[noun\], nominative, singular, feminine
 - “club; line.”
 ------------------------------------------------------------------------
@@ -54,11 +54,11 @@ title = "Rig Veda 10.61.20"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śiśur* \< *śiśuḥ* \< *śiśu*
+- *śiśur* ← *śiśuḥ* ← *śiśu*
 - \[noun\], nominative, singular, masculine
 - “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
 ------------------------------------------------------------------------
-- *dan* \< *\_* \< *√\_*
+- *dan* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
@@ -66,21 +66,21 @@ title = "Rig Veda 10.61.20"
 - \[adverb\]
 - “promptly; soon; quickly.”
 ------------------------------------------------------------------------
-- *sthiraṃ* \< *sthiram* \< *sthira*
+- *sthiraṃ* ← *sthiram* ← *sthira*
 - \[noun\], accusative, singular, masculine
 - “firm; hard; lasting; calm; stable; immovable; firm; strong; sthira
     \[word\]; vegetable; potent; steadfast; durable; firm; trustworthy;
     trustworthy; diligent.”
 ------------------------------------------------------------------------
-- *śevṛdhaṃ* \< *śevṛdham* \< *śevṛdha*
+- *śevṛdhaṃ* ← *śevṛdham* ← *śevṛdha*
 - \[noun\], accusative, singular, masculine
 - “precious.”
 ------------------------------------------------------------------------
-- *sūta* \< *sū*
+- *sūta* ← *sū*
 - \[verb\], singular, Present injunctive
 - “give birth; urge; bestow; cause.”
 ------------------------------------------------------------------------
-- *mātā* \< *mātṛ*
+- *mātā* ← *mātṛ*
 - \[noun\], nominative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”

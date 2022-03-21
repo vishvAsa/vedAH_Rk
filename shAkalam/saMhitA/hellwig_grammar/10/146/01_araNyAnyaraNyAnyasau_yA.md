@@ -2,31 +2,31 @@
 title = "Rig Veda 10.146.1"
 
 +++
--   *araṇyāny* \< *araṇyāni* \< *araṇyānī*
+-   *araṇyāny* ← *araṇyāni* ← *araṇyānī*
 - \[noun\], vocative, singular, feminine
 - “forest.”
 ------------------------------------------------------------------------
-- *araṇyāny* \< *araṇyāni* \< *araṇyānī*
+- *araṇyāny* ← *araṇyāni* ← *araṇyānī*
 - \[noun\], vocative, singular, feminine
 - “forest.”
 ------------------------------------------------------------------------
-- *asau* \< *adas*
+- *asau* ← *adas*
 - \[noun\], nominative, singular, feminine
 - “that; John Doe; yonder; from here.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *preva* \< *pra*
+- *preva* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *preva* \< *iva*
+- *preva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *naśyasi* \< *naś*
+- *naśyasi* ← *naś*
 - \[verb\], singular, Present indikative
 - “disappear; vanish; gasify; fail; perish; lose; bhasmībhū.”
 ------------------------------------------------------------------------
@@ -34,7 +34,7 @@ title = "Rig Veda 10.146.1"
 - \[adverb\]
 - “how.”
 ------------------------------------------------------------------------
-- *grāmaṃ* \< *grāmam* \< *grāma*
+- *grāmaṃ* ← *grāmam* ← *grāma*
 - \[noun\], accusative, singular, masculine
 - “village; grāma \[word\]; group; battalion; club; Hindu gamut;
     troop; multitude; crowd; kin; collection; people.”
@@ -43,7 +43,7 @@ title = "Rig Veda 10.146.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pṛcchasi* \< *pracch*
+- *pṛcchasi* ← *pracch*
 - \[verb\], singular, Present indikative
 - “ask; ask; ask; consult; interrogate.”
 ------------------------------------------------------------------------
@@ -51,11 +51,11 @@ title = "Rig Veda 10.146.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *bhīr* \< *bhīḥ* \< *bhī*
+- *bhīr* ← *bhīḥ* ← *bhī*
 - \[noun\], nominative, singular, feminine
 - “fear; bhī; alarm.”
 ------------------------------------------------------------------------
@@ -63,10 +63,10 @@ title = "Rig Veda 10.146.1"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *vindatīm* \< *vindati* \< *vid*
+- *vindatīm* ← *vindati* ← *vid*
 - \[verb\], singular, Present indikative
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *vindatīm* \< *īm* \< *īṃ*
+- *vindatīm* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------

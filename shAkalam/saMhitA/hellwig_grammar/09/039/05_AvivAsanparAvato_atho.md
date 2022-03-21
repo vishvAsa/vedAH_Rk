@@ -2,10 +2,10 @@
 title = "Rig Veda 9.39.5"
 
 +++
--   *āvivāsan* \< *āvivās* \< *√van*
+-   *āvivāsan* ← *āvivās* ← *√van*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *parāvato* \< *parāvataḥ* \< *parāvat*
+- *parāvato* ← *parāvataḥ* ← *parāvat*
 - \[noun\], accusative, plural, feminine
 - “distance; distance; distance.”
 ------------------------------------------------------------------------
@@ -13,19 +13,19 @@ title = "Rig Veda 9.39.5"
 - \[adverb\]
 - “now; but; furthermore.”
 ------------------------------------------------------------------------
-- *arvāvataḥ* \< *arvāvat*
+- *arvāvataḥ* ← *arvāvat*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *sutaḥ* \< *su*
+- *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sicyate* \< *sic*
+- *sicyate* ← *sic*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 ------------------------------------------------------------------------

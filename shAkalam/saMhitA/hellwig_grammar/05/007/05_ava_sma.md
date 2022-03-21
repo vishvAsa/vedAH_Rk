@@ -9,59 +9,59 @@ title = "Rig Veda 5.7.5"
 - *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *veṣaṇe* \< *veṣaṇa*
+- *veṣaṇe* ← *veṣaṇa*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *svedam* \< *sveda*
+- *svedam* ← *sveda*
 - \[noun\], accusative, singular, masculine
 - “svedana; perspiration; svedana; perspiring; fomentation; sweat.”
 ------------------------------------------------------------------------
-- *pathiṣu* \< *pathin*
+- *pathiṣu* ← *pathin*
 - \[noun\], locative, plural, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *juhvati* \< *hu*
+- *juhvati* ← *hu*
 - \[verb\], plural, Present indikative
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
-- *abhīm* \< *abhi*
+- *abhīm* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *abhīm* \< *īm* \< *īṃ*
+- *abhīm* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *aha*
 - \[adverb\]
 - “aha \[word\]; indeed.”
 ------------------------------------------------------------------------
-- *svajenyam* \< *sva*
+- *svajenyam* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svajenyam* \< *jenyam* \< *jenya*
+- *svajenyam* ← *jenyam* ← *jenya*
 - \[noun\], accusative, singular, masculine
 - “noble.”
 ------------------------------------------------------------------------
-- *bhūmā* \< *bhūman*
+- *bhūmā* ← *bhūman*
 - \[noun\], accusative, plural, neuter
 - “Earth; floor.”
 ------------------------------------------------------------------------
-- *pṛṣṭheva* \< *pṛṣṭhā* \< *pṛṣṭha*
+- *pṛṣṭheva* ← *pṛṣṭhā* ← *pṛṣṭha*
 - \[noun\], accusative, plural, neuter
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
 ------------------------------------------------------------------------
-- *pṛṣṭheva* \< *iva*
+- *pṛṣṭheva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ruruhuḥ* \< *ruh*
+- *ruruhuḥ* ← *ruh*
 - \[verb\], plural, Perfect indicative
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
 ------------------------------------------------------------------------

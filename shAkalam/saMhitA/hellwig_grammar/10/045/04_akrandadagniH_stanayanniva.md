@@ -2,7 +2,7 @@
 title = "Rig Veda 10.45.4"
 
 +++
--   *akrandad* \< *akrandat* \< *krand*
+-   *akrandad* ← *akrandat* ← *krand*
 - \[verb\], singular, Imperfect
 - “roar; neigh; cry; howl; shout.”
 ------------------------------------------------------------------------
@@ -12,7 +12,7 @@ title = "Rig Veda 10.45.4"
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *stanayann* \< *stanayan* \< *stanay* \< *√stan*
+- *stanayann* ← *stanayan* ← *stanay* ← *√stan*
 - \[verb noun\], nominative, singular
 - “thunder; thunder.”
 ------------------------------------------------------------------------
@@ -20,31 +20,31 @@ title = "Rig Veda 10.45.4"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *dyauḥ* \< *div*
+- *dyauḥ* ← *div*
 - \[noun\], nominative, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *kṣāmā* \< *kṣam*
+- *kṣāmā* ← *kṣam*
 - \[noun\], accusative, dual, feminine
 - “Earth; heaven and earth.”
 ------------------------------------------------------------------------
-- *rerihad* \< *rerihat* \< *rerih* \< *√rih*
+- *rerihad* ← *rerihat* ← *rerih* ← *√rih*
 - \[verb noun\], nominative, singular
 - “lick.”
 ------------------------------------------------------------------------
-- *vīrudhaḥ* \< *vīrudh*
+- *vīrudhaḥ* ← *vīrudh*
 - \[noun\], accusative, plural, feminine
 - “plant; shrub.”
 ------------------------------------------------------------------------
-- *samañjan* \< *samañj* \< *√añj*
+- *samañjan* ← *samañj* ← *√añj*
 - \[verb noun\], nominative, singular
 - “anoint.”
 ------------------------------------------------------------------------
-- *sadyo* \< *sadyas*
+- *sadyo* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
 ------------------------------------------------------------------------
-- *jajñāno* \< *jajñānaḥ* \< *jan*
+- *jajñāno* ← *jajñānaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
@@ -54,18 +54,18 @@ title = "Rig Veda 10.45.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *hīm* \< *hi*
+- *hīm* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *hīm* \< *im* \< *iṃ*
+- *hīm* ← *im* ← *iṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *iddho* \< *iddhaḥ* \< *indh*
+- *iddho* ← *iddhaḥ* ← *indh*
 - \[verb noun\], nominative, singular
 - “kindle; ignite; set ablaze.”
 ------------------------------------------------------------------------
-- *akhyad* \< *akhyat* \< *khyā*
+- *akhyad* ← *akhyat* ← *khyā*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “name; describe; call; enumerate; watch; know.”
 ------------------------------------------------------------------------
@@ -73,20 +73,20 @@ title = "Rig Veda 10.45.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *bhānunā* \< *bhānu*
+- *bhānunā* ← *bhānu*
 - \[noun\], instrumental, singular, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
 ------------------------------------------------------------------------
-- *bhāty* \< *bhāti* \< *bhā*
+- *bhāty* ← *bhāti* ← *bhā*
 - \[verb\], singular, Present indikative
 - “look; shine; show; look like; glitter; reflect.”
 ------------------------------------------------------------------------
-- *antaḥ* \< *antar*
+- *antaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------

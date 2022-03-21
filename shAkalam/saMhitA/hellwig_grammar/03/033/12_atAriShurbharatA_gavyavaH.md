@@ -2,35 +2,35 @@
 title = "Rig Veda 3.33.12"
 
 +++
--   *atāriṣur* \< *atāriṣuḥ* \< *tṛ*
+-   *atāriṣur* ← *atāriṣuḥ* ← *tṛ*
 - \[verb\], plural, Athematic is aor. (Ind.)
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *bharatā* \< *bharatāḥ* \< *bharata*
+- *bharatā* ← *bharatāḥ* ← *bharata*
 - \[noun\], nominative, plural, masculine
 - “Bharata; Bharata; Bhārata; Bharata; Bharata; actor.”
 ------------------------------------------------------------------------
-- *gavyavaḥ* \< *gavyu*
+- *gavyavaḥ* ← *gavyu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *abhakta* \< *bhaj*
+- *abhakta* ← *bhaj*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
     one's share; partake; share; get; approach; love; use.”
 ------------------------------------------------------------------------
-- *vipraḥ* \< *vipra*
+- *vipraḥ* ← *vipra*
 - \[noun\], nominative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *sumatiṃ* \< *sumatim* \< *sumati*
+- *sumatiṃ* ← *sumatim* ← *sumati*
 - \[noun\], accusative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *nadīnām* \< *nadī*
+- *nadīnām* ← *nadī*
 - \[noun\], genitive, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
 ------------------------------------------------------------------------
@@ -38,18 +38,18 @@ title = "Rig Veda 3.33.12"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *pinvadhvam* \< *pinv*
+- *pinvadhvam* ← *pinv*
 - \[verb\], plural, Present imperative
 - “swell; swell; overflow; abound.”
 ------------------------------------------------------------------------
-- *iṣayantīḥ* \< *iṣay* \< *√iṣ*
+- *iṣayantīḥ* ← *iṣay* ← *√iṣ*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *surādhā* \< *su*
+- *surādhā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *surādhā* \< *rādhāḥ* \< *rādhā*
+- *surādhā* ← *rādhāḥ* ← *rādhā*
 - \[noun\], nominative, plural, feminine
 - “Rādhā.”
 ------------------------------------------------------------------------
@@ -57,15 +57,15 @@ title = "Rig Veda 3.33.12"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vakṣaṇāḥ* \< *vakṣaṇā*
+- *vakṣaṇāḥ* ← *vakṣaṇā*
 - \[noun\], accusative, plural, feminine
 - “abdomen; udder; inside.”
 ------------------------------------------------------------------------
-- *pṛṇadhvaṃ* \< *pṛṇadhvam* \< *pṛṇ*
+- *pṛṇadhvaṃ* ← *pṛṇadhvam* ← *pṛṇ*
 - \[verb\], plural, Present imperative
 - “satisfy.”
 ------------------------------------------------------------------------
-- *yāta* \< *yā*
+- *yāta* ← *yā*
 - \[verb\], plural, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”

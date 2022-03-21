@@ -6,7 +6,7 @@ title = "Rig Veda 3.55.11"
 - \[adverb\]
 - “variously; differently; many; individually.”
 ------------------------------------------------------------------------
-- *cakrāte* \< *kṛ*
+- *cakrāte* ← *kṛ*
 - \[verb\], dual, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -17,39 +17,39 @@ title = "Rig Veda 3.55.11"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *yamyā* \< *yamya*
+- *yamyā* ← *yamya*
 - \[noun\], nominative, dual, feminine
 ------------------------------------------------------------------------
-- *vapūṃṣi* \< *vapus*
+- *vapūṃṣi* ← *vapus*
 - \[noun\], accusative, plural, neuter
 - “body; form; miracle; human body; beauty; look; spectacle; figure;
     embodiment.”
 ------------------------------------------------------------------------
-- *tayor* \< *tayoḥ* \< *tad*
+- *tayor* ← *tayoḥ* ← *tad*
 - \[noun\], genitive, dual, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *anyad* \< *anyat* \< *anya*
+- *anyad* ← *anyat* ← *anya*
 - \[noun\], nominative, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *rocate* \< *ruc*
+- *rocate* ← *ruc*
 - \[verb\], singular, Present indikative
 - “please; shine.”
 ------------------------------------------------------------------------
-- *kṛṣṇam* \< *kṛṣṇa*
+- *kṛṣṇam* ← *kṛṣṇa*
 - \[noun\], nominative, singular, neuter
 - “black; dark; dark; blue; black.”
 ------------------------------------------------------------------------
-- *anyat* \< *anya*
+- *anyat* ← *anya*
 - \[noun\], nominative, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *śyāvī* \< *śyāva*
+- *śyāvī* ← *śyāva*
 - \[noun\], nominative, singular, feminine
 - “brown; dark; śyāva \[word\].”
 ------------------------------------------------------------------------
@@ -57,11 +57,11 @@ title = "Rig Veda 3.55.11"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *aruṣī* \< *aruṣa*
+- *aruṣī* ← *aruṣa*
 - \[noun\], nominative, singular, feminine
 - “red; red.”
 ------------------------------------------------------------------------
@@ -69,30 +69,30 @@ title = "Rig Veda 3.55.11"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *svasārau* \< *svasṛ*
+- *svasārau* ← *svasṛ*
 - \[noun\], nominative, dual, feminine
 - “sister; svasṛ \[word\].”
 ------------------------------------------------------------------------
-- *mahad* \< *mahat*
+- *mahad* ← *mahat*
 - \[noun\], nominative, singular, neuter
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
 ------------------------------------------------------------------------
-- *devānām* \< *deva*
+- *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *asuratvam* \< *asura*
+- *asuratvam* ← *asura*
 - \[noun\], masculine
 - “Asura; lord; asura \[word\]; sulfur.”
 ------------------------------------------------------------------------
-- *asuratvam* \< *tvam* \< *tva*
+- *asuratvam* ← *tvam* ← *tva*
 - \[noun\], nominative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *ekam* \< *eka*
+- *ekam* ← *eka*
 - \[noun\], nominative, singular, neuter
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);

@@ -2,25 +2,25 @@
 title = "Rig Veda 5.65.3"
 
 +++
--   *tā* \< *tad*
+-   *tā* ← *tad*
 - \[noun\], accusative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *iyāno* \< *iyānaḥ* \< *ī* \< *√i*
+- *iyāno* ← *iyānaḥ* ← *ī* ← *√i*
 - \[verb noun\], nominative, singular
 - “beg; solicit.”
 ------------------------------------------------------------------------
-- *'vase* \< *avase* \< *av*
+- *'vase* ← *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *pūrvā* \< *pūrvau* \< *pūrva*
+- *pūrvā* ← *pūrvau* ← *pūrva*
 - \[noun\], accusative, dual, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
@@ -30,7 +30,7 @@ title = "Rig Veda 5.65.3"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *bruve* \< *brū*
+- *bruve* ← *brū*
 - \[verb\], singular, Present indikative
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
@@ -39,11 +39,11 @@ title = "Rig Veda 5.65.3"
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *svaśvāsaḥ* \< *su*
+- *svaśvāsaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svaśvāsaḥ* \< *aśvāsaḥ* \< *aśva*
+- *svaśvāsaḥ* ← *aśvāsaḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
@@ -51,10 +51,10 @@ title = "Rig Veda 5.65.3"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *cetunā* \< *cetu*
+- *cetunā* ← *cetu*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
-- *vājāṃ* \< *vāja*
+- *vājāṃ* ← *vāja*
 - \[noun\], accusative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
@@ -66,7 +66,7 @@ title = "Rig Veda 5.65.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *dāvane* \< *dā*
+- *dāvane* ← *dā*
 - \[verb noun\]
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;

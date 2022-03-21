@@ -6,15 +6,15 @@ title = "Rig Veda 4.3.8"
 - \[adverb\]
 - “how.”
 ------------------------------------------------------------------------
-- *śardhāya* \< *śardha*
+- *śardhāya* ← *śardha*
 - \[noun\], dative, singular, masculine
 - “troop.”
 ------------------------------------------------------------------------
-- *marutām* \< *marut*
+- *marutām* ← *marut*
 - \[noun\], genitive, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *ṛtāya* \< *ṛta*
+- *ṛtāya* ← *ṛta*
 - \[noun\], dative, singular, masculine
 - “timely; honest.”
 ------------------------------------------------------------------------
@@ -22,16 +22,16 @@ title = "Rig Veda 4.3.8"
 - \[adverb\]
 - “how.”
 ------------------------------------------------------------------------
-- *sūre* \< *svar*
+- *sūre* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *bṛhate* \< *bṛhat*
+- *bṛhate* ← *bṛhat*
 - \[noun\], dative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *pṛcchyamānaḥ* \< *pracch*
+- *pṛcchyamānaḥ* ← *pracch*
 - \[verb noun\], nominative, singular
 - “ask; ask; ask; consult; interrogate.”
 ------------------------------------------------------------------------
@@ -39,32 +39,32 @@ title = "Rig Veda 4.3.8"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *bravo* \< *bravaḥ* \< *brū*
+- *bravo* ← *bravaḥ* ← *brū*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
 ------------------------------------------------------------------------
-- *'ditaye* \< *aditaye* \< *aditi*
+- *'ditaye* ← *aditaye* ← *aditi*
 - \[noun\], dative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *turāya* \< *tura*
+- *turāya* ← *tura*
 - \[noun\], dative, singular, masculine
 - “powerful; noble; noble.”
 ------------------------------------------------------------------------
-- *sādhā* \< *sādh*
+- *sādhā* ← *sādh*
 - \[verb\], singular, Present imperative
 - “promote; succeed.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *jātavedaś* \< *jātavedaḥ* \< *jātavedas*
+- *jātavedaś* ← *jātavedaḥ* ← *jātavedas*
 - \[noun\], vocative, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------
-- *cikitvān* \< *cit*
+- *cikitvān* ← *cit*
 - \[verb noun\], nominative, singular
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------

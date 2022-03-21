@@ -2,41 +2,41 @@
 title = "Rig Veda 8.30.3"
 
 +++
--   *te* \< *tad*
+-   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *nas* \< *naḥ* \< *mad*
+- *nas* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *trādhvaṃ* \< *trādhvam* \< *trā*
+- *trādhvaṃ* ← *trādhvam* ← *trā*
 - \[verb\], plural, Present imperative
 - “protect; help.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *'vata* \< *avata* \< *av*
+- *'vata* ← *avata* ← *av*
 - \[verb\], plural, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tad*
+- *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *u* \< *\_* \< *√\_*
+- *u* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -44,7 +44,7 @@ title = "Rig Veda 8.30.3"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *vocata* \< *vac*
+- *vocata* ← *vac*
 - \[verb\], plural, Aorist imperative
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
@@ -55,19 +55,19 @@ title = "Rig Veda 8.30.3"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pathaḥ* \< *pathin*
+- *pathaḥ* ← *pathin*
 - \[noun\], ablative, singular, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *pitryān* \< *pitryāt* \< *pitrya*
+- *pitryān* ← *pitryāt* ← *pitrya*
 - \[noun\], ablative, singular, masculine
 - “ancestral; paternal.”
 ------------------------------------------------------------------------
-- *mānavād* \< *mānavāt* \< *mānava*
+- *mānavād* ← *mānavāt* ← *mānava*
 - \[noun\], ablative, singular, masculine
 - “human.”
 ------------------------------------------------------------------------
@@ -75,16 +75,16 @@ title = "Rig Veda 8.30.3"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *dūraṃ* \< *dūram* \< *dūra*
+- *dūraṃ* ← *dūram* ← *dūra*
 - \[noun\], accusative, singular, neuter
 - “distance; distance; farness.”
 ------------------------------------------------------------------------
-- *naiṣṭa* \< *nī*
+- *naiṣṭa* ← *nī*
 - \[verb\], plural, Aorist inj. (proh.)
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *parāvataḥ* \< *parāvat*
+- *parāvataḥ* ← *parāvat*
 - \[noun\], accusative, plural, feminine
 - “distance; distance; distance.”
 ------------------------------------------------------------------------

@@ -2,11 +2,11 @@
 title = "Rig Veda 9.66.9"
 
 +++
--   *mṛjanti* \< *mṛj*
+-   *mṛjanti* ← *mṛj*
 - \[verb\], plural, Present indikative
 - “purify; polish; rub; remove.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -14,14 +14,14 @@ title = "Rig Veda 9.66.9"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *agruvo* \< *agruvaḥ* \< *agrū*
+- *agruvo* ← *agruvaḥ* ← *agrū*
 - \[noun\], nominative, plural, feminine
 - “unmarried woman; spinster; virgin.”
 ------------------------------------------------------------------------
-- *'vye* \< *avye* \< *avya*
+- *'vye* ← *avye* ← *avya*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *jīrāv* \< *jīrau* \< *jīri*
+- *jīrāv* ← *jīrau* ← *jīri*
 - \[noun\], locative, singular, masculine
 - “river.”
 ------------------------------------------------------------------------
@@ -29,22 +29,22 @@ title = "Rig Veda 9.66.9"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *ṣvaṇi* \< *svani* \< *svan*
+- *ṣvaṇi* ← *svani* ← *svan*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *rebho* \< *rebhaḥ* \< *rebha*
+- *rebho* ← *rebhaḥ* ← *rebha*
 - \[noun\], nominative, singular, masculine
 - “bard; eulogist.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *ajyase* \< *añj*
+- *ajyase* ← *añj*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *vane* \< *vana*
+- *vane* ← *vana*
 - \[noun\], locative, singular, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------

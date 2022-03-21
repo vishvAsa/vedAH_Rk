@@ -2,44 +2,44 @@
 title = "Rig Veda 7.20.1"
 
 +++
--   *ugro* \< *ugraḥ* \< *ugra*
+-   *ugro* ← *ugraḥ* ← *ugra*
 - \[noun\], nominative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *jajñe* \< *jan*
+- *jajñe* ← *jan*
 - \[verb\], singular, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *vīryāya* \< *vīrya*
+- *vīryāya* ← *vīrya*
 - \[noun\], dative, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
 ------------------------------------------------------------------------
-- *svadhāvāñcakrir* \< *svadhāvān* \< *svadhāvat*
+- *svadhāvāñcakrir* ← *svadhāvān* ← *svadhāvat*
 - \[noun\], nominative, singular, masculine
 - “autonomous; independent.”
 ------------------------------------------------------------------------
-- *svadhāvāñcakrir* \< *cakriḥ* \< *cakri*
+- *svadhāvāñcakrir* ← *cakriḥ* ← *cakri*
 - \[noun\], nominative, singular, masculine
 - “doing; active.”
 ------------------------------------------------------------------------
-- *apo* \< *apaḥ* \< *apas*
+- *apo* ← *apaḥ* ← *apas*
 - \[noun\], accusative, singular, neuter
 - “work; deed.”
 ------------------------------------------------------------------------
-- *naryo* \< *naryaḥ* \< *narya*
+- *naryo* ← *naryaḥ* ← *narya*
 - \[noun\], nominative, singular, masculine
 - “manly; heroic; powerful; male; human.”
 ------------------------------------------------------------------------
-- *yat* \< *yad*
+- *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *kariṣyan* \< *kṛ*
+- *kariṣyan* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -50,38 +50,38 @@ title = "Rig Veda 7.20.1"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *jagmir* \< *jagmiḥ* \< *jagmi*
+- *jagmir* ← *jagmiḥ* ← *jagmi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *yuvā* \< *yuvan*
+- *yuvā* ← *yuvan*
 - \[noun\], nominative, singular, masculine
 - “young; youthful.”
 ------------------------------------------------------------------------
-- *nṛṣadanam* \< *nṛṣadana*
+- *nṛṣadanam* ← *nṛṣadana*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *avobhis* \< *avobhiḥ* \< *avas*
+- *avobhis* ← *avobhiḥ* ← *avas*
 - \[noun\], instrumental, plural, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *trātā* \< *trā*
+- *trātā* ← *trā*
 - \[verb\], singular, periphrast. future
 - “protect; help.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *indra* \< *indraḥ* \< *indra*
+- *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *enaso* \< *enasaḥ* \< *enas*
+- *enaso* ← *enasaḥ* ← *enas*
 - \[noun\], ablative, singular, neuter
 - “sin; calamity; blame.”
 ------------------------------------------------------------------------
-- *mahaś* \< *mahaḥ* \< *mah*
+- *mahaś* ← *mahaḥ* ← *mah*
 - \[noun\], ablative, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------

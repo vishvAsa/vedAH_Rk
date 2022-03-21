@@ -6,7 +6,7 @@ title = "Rig Veda 3.45.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *mandrair* \< *mandraiḥ* \< *mandra*
+- *mandrair* ← *mandraiḥ* ← *mandra*
 - \[noun\], instrumental, plural, masculine
 - “pleasant; eloquent; dulcet.”
 ------------------------------------------------------------------------
@@ -15,21 +15,21 @@ title = "Rig Veda 3.45.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *haribhir* \< *haribhiḥ* \< *hari*
+- *haribhir* ← *haribhiḥ* ← *hari*
 - \[noun\], instrumental, plural, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *yāhi* \< *yā*
+- *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *mayūraromabhiḥ* \< *mayūra*
+- *mayūraromabhiḥ* ← *mayūra*
 - \[noun\], masculine
 - “peacock; Achyranthes aspera Linn.; mayūra; Mayūra.”
 ------------------------------------------------------------------------
-- *mayūraromabhiḥ* \< *romabhiḥ* \< *roman*
+- *mayūraromabhiḥ* ← *romabhiḥ* ← *roman*
 - \[noun\], instrumental, plural, masculine
 - “hair; bristle; mane.”
 ------------------------------------------------------------------------
@@ -37,11 +37,11 @@ title = "Rig Veda 3.45.1"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *kecin* \< *kecid* \< *kaścit*
+- *kecin* ← *kecid* ← *kaścit*
 - \[noun\], nominative, plural, masculine
 - “any(a); some(a); some(a); some(a); some(a).”
 ------------------------------------------------------------------------
@@ -49,11 +49,11 @@ title = "Rig Veda 3.45.1"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *yaman* \< *yam*
+- *yaman* ← *yam*
 - \[verb\], plural, Aorist conj./subj.
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *viṃ* \< *vim* \< *vi*
+- *viṃ* ← *vim* ← *vi*
 - \[noun\], accusative, singular, masculine
 - “vi; bird; vi.”
 ------------------------------------------------------------------------
@@ -61,29 +61,29 @@ title = "Rig Veda 3.45.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pāśino* \< *pāśinaḥ* \< *pāśin*
+- *pāśino* ← *pāśinaḥ* ← *pāśin*
 - \[noun\], nominative, plural, masculine
 - “Varuna; trapper.”
 ------------------------------------------------------------------------
-- *'ti* \< *ati*
+- *'ti* ← *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *dhanveva* \< *dhanvā* \< *dhanvan*
+- *dhanveva* ← *dhanvā* ← *dhanvan*
 - \[noun\], accusative, plural, neuter
 - “bow; desert; steppe; barren.”
 ------------------------------------------------------------------------
-- *dhanveva* \< *iva*
+- *dhanveva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *tāṃ* \< *tad*
+- *tāṃ* ← *tad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ihi* \< *i*
+- *ihi* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------

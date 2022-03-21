@@ -2,34 +2,34 @@
 title = "Rig Veda 8.2.24"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vediṣṭho* \< *vediṣṭhaḥ* \< *vediṣṭha*
+- *vediṣṭho* ← *vediṣṭhaḥ* ← *vediṣṭha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *avyathiṣv* \< *avyathiṣu* \< *avyathi*
+- *avyathiṣv* ← *avyathiṣu* ← *avyathi*
 - \[noun\], locative, plural, masculine
 - “surefooted.”
 ------------------------------------------------------------------------
-- *aśvāvantaṃ* \< *aśvāvantam* \< *aśvāvat*
+- *aśvāvantaṃ* ← *aśvāvantam* ← *aśvāvat*
 - \[noun\], accusative, singular, masculine
 - “rich in horses.”
 ------------------------------------------------------------------------
-- *jaritṛbhyaḥ* \< *jaritṛ*
+- *jaritṛbhyaḥ* ← *jaritṛ*
 - \[noun\], dative, plural, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *vājaṃ* \< *vājam* \< *vāja*
+- *vājaṃ* ← *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *stotṛbhyo* \< *stotṛbhyaḥ* \< *stotṛ*
+- *stotṛbhyo* ← *stotṛbhyaḥ* ← *stotṛ*
 - \[noun\], dative, plural, masculine
 - “laudatory; worshiping.”
 ------------------------------------------------------------------------
-- *gomantam* \< *gomat*
+- *gomantam* ← *gomat*
 - \[noun\], accusative, singular, masculine
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------

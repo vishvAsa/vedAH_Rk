@@ -2,28 +2,28 @@
 title = "Rig Veda 8.17.3"
 
 +++
--   *brahmāṇas* \< *brahmāṇaḥ* \< *brahman*
+-   *brahmāṇas* ← *brahmāṇaḥ* ← *brahman*
 - \[noun\], nominative, plural, masculine
 - “Brahma; Brahmin; dhak; Brahman; brahman \[word\]; Brahman; Brahmin;
     Brahmapurāṇa; Vishnu; Brihaspati.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *yujā* \< *yuj*
+- *yujā* ← *yuj*
 - \[noun\], instrumental, singular, masculine
 - “ally; friend; pair; two; companion.”
 ------------------------------------------------------------------------
-- *somapām* \< *soma*
+- *somapām* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somapām* \< *pām* \< *pā*
+- *somapām* ← *pām* ← *pā*
 - \[noun\], accusative, singular, masculine
 - “drinking.”
 ------------------------------------------------------------------------
@@ -32,13 +32,13 @@ title = "Rig Veda 8.17.3"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sominaḥ* \< *somin*
+- *sominaḥ* ← *somin*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *sutāvanto* \< *sutāvantaḥ* \< *sutāvat*
+- *sutāvanto* ← *sutāvantaḥ* ← *sutāvat*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *havāmahe* \< *hvā*
+- *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------

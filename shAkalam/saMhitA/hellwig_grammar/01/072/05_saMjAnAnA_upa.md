@@ -2,7 +2,7 @@
 title = "Rig Veda 1.72.5"
 
 +++
--   *saṃjānānā* \< *saṃjānānāḥ* \< *saṃjñā* \< *√jñā*
+-   *saṃjānānā* ← *saṃjānānāḥ* ← *saṃjñā* ← *√jñā*
 - \[verb noun\], nominative, plural
 - “agree.”
 ------------------------------------------------------------------------
@@ -10,7 +10,7 @@ title = "Rig Veda 1.72.5"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *sīdann* \< *sīdan* \< *sad*
+- *sīdann* ← *sīdan* ← *sad*
 - \[verb\], plural, Present injunctive
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
@@ -18,26 +18,26 @@ title = "Rig Veda 1.72.5"
 - *abhijñu*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *patnīvanto* \< *patnīvantaḥ* \< *patnīvat*
+- *patnīvanto* ← *patnīvantaḥ* ← *patnīvat*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *namasyaṃ* \< *namasyam* \< *namasya*
+- *namasyaṃ* ← *namasyam* ← *namasya*
 - \[noun\], accusative, singular, neuter
 - “honorable; august; respectful; esteemed.”
 ------------------------------------------------------------------------
-- *namasyan* \< *namasy*
+- *namasyan* ← *namasy*
 - \[verb\], plural, Imperfect
 - “worship; respect.”
 ------------------------------------------------------------------------
-- *ririkvāṃsas* \< *ririkvāṃsaḥ* \< *ric*
+- *ririkvāṃsas* ← *ririkvāṃsaḥ* ← *ric*
 - \[verb noun\], nominative, plural
 - “empty; liberate; concede; surrender; purge.”
 ------------------------------------------------------------------------
-- *tanvaḥ* \< *tanū*
+- *tanvaḥ* ← *tanū*
 - \[noun\], accusative, plural, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *kṛṇvata* \< *kṛ*
+- *kṛṇvata* ← *kṛ*
 - \[verb\], plural, Present injunctive
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -48,24 +48,24 @@ title = "Rig Veda 1.72.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *svāḥ* \< *sva*
+- *svāḥ* ← *sva*
 - \[noun\], accusative, plural, feminine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *sakhā* \< *sakhi*
+- *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *sakhyur* \< *sakhyuḥ* \< *sakhi*
+- *sakhyur* ← *sakhyuḥ* ← *sakhi*
 - \[noun\], genitive, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *nimiṣi* \< *nimiṣ*
+- *nimiṣi* ← *nimiṣ*
 - \[noun\], locative, singular, feminine
 - “blink of an eye.”
 ------------------------------------------------------------------------
-- *rakṣamāṇāḥ* \< *rakṣ*
+- *rakṣamāṇāḥ* ← *rakṣ*
 - \[verb noun\], nominative, plural
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------

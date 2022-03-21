@@ -2,22 +2,22 @@
 title = "Rig Veda 8.93.10"
 
 +++
--   *durge* \< *durga*
+-   *durge* ← *durga*
 - \[noun\], locative, singular, neuter
 - “fortress; stronghold; difficulty; danger; passage.”
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sugaṃ* \< *sugam* \< *suga*
+- *sugaṃ* ← *sugam* ← *suga*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *kṛdhi* \< *kṛ*
+- *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -28,7 +28,7 @@ title = "Rig Veda 8.93.10"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *gṛṇāna* \< *gṛ*
+- *gṛṇāna* ← *gṛ*
 - \[verb noun\], vocative, singular
 - “praise.”
 ------------------------------------------------------------------------
@@ -37,10 +37,10 @@ title = "Rig Veda 8.93.10"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *girvaṇaḥ* \< *girvaṇas*
+- *girvaṇaḥ* ← *girvaṇas*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -52,7 +52,7 @@ title = "Rig Veda 8.93.10"
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *vaśaḥ* \< *vaś*
+- *vaśaḥ* ← *vaś*
 - \[verb\], singular, Present injunctive
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------

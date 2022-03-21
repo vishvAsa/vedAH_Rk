@@ -2,62 +2,62 @@
 title = "Rig Veda 1.152.1"
 
 +++
--   *yuvaṃ* \< *yuvam* \< *tvad*
+-   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *vastrāṇi* \< *vastra*
+- *vastrāṇi* ← *vastra*
 - \[noun\], accusative, plural, neuter
 - “fabric; clothing; dress; vastra \[word\].”
 ------------------------------------------------------------------------
-- *pīvasā* \< *pīvasa*
+- *pīvasā* ← *pīvasa*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *vasāthe* \< *vas*
+- *vasāthe* ← *vas*
 - \[verb\], dual, Present indikative
 - “wear.”
 ------------------------------------------------------------------------
-- *yuvor* \< *yuvoḥ* \< *tvad*
+- *yuvor* ← *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *acchidrā* \< *acchidrāḥ* \< *acchidra*
+- *acchidrā* ← *acchidrāḥ* ← *acchidra*
 - \[noun\], nominative, plural, feminine
 - “uninjured; unbroken.”
 ------------------------------------------------------------------------
-- *mantavo* \< *mantavaḥ* \< *mantu*
+- *mantavo* ← *mantavaḥ* ← *mantu*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
 - *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *sargāḥ* \< *sarga*
+- *sargāḥ* ← *sarga*
 - \[noun\], nominative, plural, masculine
 - “Creation; metempsychosis; discharge; torrent; birth; undertaking.”
 ------------------------------------------------------------------------
-- *avātiratam* \< *avatṛ* \< *√tṛ*
+- *avātiratam* ← *avatṛ* ← *√tṛ*
 - \[verb\], dual, Imperfect
 - “descend; be born; incarnate; come out; alight; overcome.”
 ------------------------------------------------------------------------
-- *anṛtāni* \< *anṛta*
+- *anṛtāni* ← *anṛta*
 - \[noun\], accusative, plural, neuter
 - “falsehood; lying; lie; cheat.”
 ------------------------------------------------------------------------
-- *viśva* \< *viśve* \< *viśva*
+- *viśva* ← *viśve* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *ṛtena* \< *ṛta*
+- *ṛtena* ← *ṛta*
 - \[noun\], instrumental, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇā* \< *mitrāvaruṇa*
+- *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *sacethe* \< *sac*
+- *sacethe* ← *sac*
 - \[verb\], dual, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------

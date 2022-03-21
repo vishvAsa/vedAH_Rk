@@ -2,7 +2,7 @@
 title = "Rig Veda 10.50.5"
 
 +++
--   *avā* \< *av*
+-   *avā* ← *av*
 - \[verb\], singular, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
@@ -10,38 +10,38 @@ title = "Rig Veda 10.50.5"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *kaṃ* \< *kam* \< *kaṃ*
+- *kaṃ* ← *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
 ------------------------------------------------------------------------
-- *jyāyān* \< *jyāyas*
+- *jyāyān* ← *jyāyas*
 - \[noun\], nominative, singular, masculine
 - “better; elder; greater; bigger.”
 ------------------------------------------------------------------------
-- *yajñavanaso* \< *yajñavanasaḥ* \< *yajñavanas*
+- *yajñavanaso* ← *yajñavanasaḥ* ← *yajñavanas*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *mahīṃ* \< *mahīm* \< *mah*
+- *mahīṃ* ← *mahīm* ← *mah*
 - \[noun\], accusative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *omātrāṃ* \< *omātrām* \< *omātrā*
+- *omātrāṃ* ← *omātrām* ← *omātrā*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *kṛṣṭayo* \< *kṛṣṭayaḥ* \< *kṛṣṭi*
+- *kṛṣṭayo* ← *kṛṣṭayaḥ* ← *kṛṣṭi*
 - \[noun\], nominative, plural, feminine
 - “people; citizenry.”
 ------------------------------------------------------------------------
-- *viduḥ* \< *vid*
+- *viduḥ* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *aso* \< *asaḥ* \< *as*
+- *aso* ← *asaḥ* ← *as*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -50,15 +50,15 @@ title = "Rig Veda 10.50.5"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *kam* \< *kaṃ*
+- *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
 ------------------------------------------------------------------------
-- *ajaro* \< *ajaraḥ* \< *ajara*
+- *ajaro* ← *ajaraḥ* ← *ajara*
 - \[noun\], nominative, singular, masculine
 - “undecaying; ageless.”
 ------------------------------------------------------------------------
-- *vardhāś* \< *vardhāḥ* \< *vṛdh*
+- *vardhāś* ← *vardhāḥ* ← *vṛdh*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
@@ -67,28 +67,28 @@ title = "Rig Veda 10.50.5"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *viśved* \< *viśvā* \< *viśva*
+- *viśved* ← *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśved* \< *id*
+- *viśved* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *etā* \< *etad*
+- *etā* ← *etad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *savanā* \< *savana*
+- *savanā* ← *savana*
 - \[noun\], accusative, plural, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
-- *tūtumā* \< *tūtuma*
+- *tūtumā* ← *tūtuma*
 - \[noun\], accusative, plural, neuter
 - “powerful.”
 ------------------------------------------------------------------------
-- *kṛṣe* \< *kṛ*
+- *kṛṣe* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

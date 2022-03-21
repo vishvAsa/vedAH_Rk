@@ -2,7 +2,7 @@
 title = "Rig Veda 9.97.30"
 
 +++
--   *divo* \< *divaḥ* \< *div*
+-   *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -10,20 +10,20 @@ title = "Rig Veda 9.97.30"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sargā* \< *sargāḥ* \< *sarga*
+- *sargā* ← *sargāḥ* ← *sarga*
 - \[noun\], nominative, plural, masculine
 - “Creation; metempsychosis; discharge; torrent; birth; undertaking.”
 ------------------------------------------------------------------------
-- *asasṛgram* \< *sṛj*
+- *asasṛgram* ← *sṛj*
 - \[verb\], plural, Plusquamperfect
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *ahnāṃ* \< *ahnām* \< *ahar*
+- *ahnāṃ* ← *ahnām* ← *ahar*
 - \[noun\], genitive, plural, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *rājā* \< *rājan*
+- *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
@@ -31,7 +31,7 @@ title = "Rig Veda 9.97.30"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *mitram* \< *mitra*
+- *mitram* ← *mitra*
 - \[noun\], accusative, singular, neuter
 - “friendship.”
 ------------------------------------------------------------------------
@@ -39,15 +39,15 @@ title = "Rig Veda 9.97.30"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *mināti* \< *mī*
+- *mināti* ← *mī*
 - \[verb\], singular, Present indikative
 - “transgress; damage.”
 ------------------------------------------------------------------------
-- *dhīraḥ* \< *dhīra*
+- *dhīraḥ* ← *dhīra*
 - \[noun\], nominative, singular, masculine
 - “expert; wise; intelligent; versed; adept.”
 ------------------------------------------------------------------------
-- *pitur* \< *pituḥ* \< *pitṛ*
+- *pitur* ← *pituḥ* ← *pitṛ*
 - \[noun\], genitive, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
@@ -56,16 +56,16 @@ title = "Rig Veda 9.97.30"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *putraḥ* \< *putra*
+- *putraḥ* ← *putra*
 - \[noun\], nominative, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
-- *kratubhir* \< *kratubhiḥ* \< *kratu*
+- *kratubhir* ← *kratubhiḥ* ← *kratu*
 - \[noun\], instrumental, plural, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *yatāna* \< *yatānaḥ* \< *yat*
+- *yatāna* ← *yatānaḥ* ← *yat*
 - \[verb noun\], nominative, singular
 - “strive; endeavor; join; equal; rival.”
 ------------------------------------------------------------------------
@@ -73,18 +73,18 @@ title = "Rig Veda 9.97.30"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *pavasva* \< *pū*
+- *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *viśe* \< *viś*
+- *viśe* ← *viś*
 - \[noun\], dative, singular, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *asyā* \< *asyai* \< *idam*
+- *asyā* ← *asyai* ← *idam*
 - \[noun\], dative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ajītim* \< *ajīti*
+- *ajītim* ← *ajīti*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------

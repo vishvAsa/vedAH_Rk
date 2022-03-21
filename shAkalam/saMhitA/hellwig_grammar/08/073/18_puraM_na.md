@@ -2,7 +2,7 @@
 title = "Rig Veda 8.73.18"
 
 +++
--   *puraṃ* \< *puram* \< *pura*
+-   *puraṃ* ← *puram* ← *pura*
 - \[noun\], accusative, singular, neuter
 - “town; pura \[word\]; stronghold.”
 ------------------------------------------------------------------------
@@ -10,7 +10,7 @@ title = "Rig Veda 8.73.18"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dhṛṣṇav* \< *dhṛṣṇo* \< *dhṛṣṇu*
+- *dhṛṣṇav* ← *dhṛṣṇo* ← *dhṛṣṇu*
 - \[noun\], vocative, singular, masculine
 - “brave; ferocious; strong.”
 ------------------------------------------------------------------------
@@ -18,42 +18,42 @@ title = "Rig Veda 8.73.18"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *ruja* \< *ruj*
+- *ruja* ← *ruj*
 - \[verb\], singular, Present imperative
 - “break; bend.”
 ------------------------------------------------------------------------
-- *kṛṣṇayā* \< *kṛṣṇa*
+- *kṛṣṇayā* ← *kṛṣṇa*
 - \[noun\], instrumental, singular, feminine
 - “black; dark; dark; blue; black.”
 ------------------------------------------------------------------------
-- *bādhito* \< *bādhitaḥ* \< *bādh*
+- *bādhito* ← *bādhitaḥ* ← *bādh*
 - \[verb noun\], nominative, singular
 - “afflict; annoy; chase away; tease; grieve; irritate.”
 ------------------------------------------------------------------------
-- *viśā* \< *viś*
+- *viśā* ← *viś*
 - \[noun\], instrumental, singular, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
 - *anti*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ṣad* \< *sat* \< *as*
+- *ṣad* ← *sat* ← *as*
 - \[verb noun\], nominative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *bhūtu* \< *bhū*
+- *bhūtu* ← *bhū*
 - \[verb\], singular, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *avaḥ* \< *avas*
+- *avaḥ* ← *avas*
 - \[noun\], nominative, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------

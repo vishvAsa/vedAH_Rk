@@ -6,40 +6,40 @@ title = "Rig Veda 4.2.18"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yūtheva* \< *yūthā* \< *yūtha*
+- *yūtheva* ← *yūthā* ← *yūtha*
 - \[noun\], accusative, plural, neuter
 - “herd; troop; battalion.”
 ------------------------------------------------------------------------
-- *yūtheva* \< *iva*
+- *yūtheva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *kṣumati* \< *kṣumat*
+- *kṣumati* ← *kṣumat*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *paśvo* \< *paśvaḥ* \< *paśu*
+- *paśvo* ← *paśvaḥ* ← *paśu*
 - \[noun\], genitive, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
 ------------------------------------------------------------------------
-- *akhyad* \< *akhyat* \< *khyā*
+- *akhyad* ← *akhyat* ← *khyā*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “name; describe; call; enumerate; watch; know.”
 ------------------------------------------------------------------------
-- *devānāṃ* \< *devānām* \< *deva*
+- *devānāṃ* ← *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *yaj* \< *yat*
+- *yaj* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *janimānty* \< *janimā* \< *janiman*
+- *janimānty* ← *janimā* ← *janiman*
 - \[noun\], nominative, plural, neuter
 - “birth; offspring; origin; kind; being.”
 ------------------------------------------------------------------------
-- *janimānty* \< *anti*
+- *janimānty* ← *anti*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *ugra*
@@ -47,37 +47,37 @@ title = "Rig Veda 4.2.18"
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *martānāṃ* \< *martānām* \< *marta*
+- *martānāṃ* ← *martānām* ← *marta*
 - \[noun\], genitive, plural, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *urvaśīr* \< *urvaśīḥ* \< *urvaśī*
+- *urvaśīr* ← *urvaśīḥ* ← *urvaśī*
 - \[noun\], nominative, plural, feminine
 - “Urvaśī.”
 ------------------------------------------------------------------------
-- *akṛpran* \< *kṛp*
+- *akṛpran* ← *kṛp*
 - \[verb\], plural, Root aorist (Ind.)
 ------------------------------------------------------------------------
-- *vṛdhe* \< *vṛdh*
+- *vṛdhe* ← *vṛdh*
 - \[verb noun\]
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *arya* \< *aryaḥ* \< *ari*
+- *arya* ← *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *uparasyāyoḥ* \< *uparasya* \< *upara*
+- *uparasyāyoḥ* ← *uparasya* ← *upara*
 - \[noun\], genitive, singular, masculine
 - “later(a); future(a); nether.”
 ------------------------------------------------------------------------
-- *uparasyāyoḥ* \< *āyoḥ* \< *āyu*
+- *uparasyāyoḥ* ← *āyoḥ* ← *āyu*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 3.6.3"
 
 +++
--   *dyauś* \< *dyauḥ* \< *div*
+-   *dyauś* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -10,7 +10,7 @@ title = "Rig Veda 3.6.3"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -18,7 +18,7 @@ title = "Rig Veda 3.6.3"
 - \[noun\], nominative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *yajñiyāso* \< *yajñiyāsaḥ* \< *yajñiya*
+- *yajñiyāso* ← *yajñiyāsaḥ* ← *yajñiya*
 - \[noun\], nominative, plural, masculine
 - “sacrificial; divine; devoted.”
 ------------------------------------------------------------------------
@@ -26,46 +26,46 @@ title = "Rig Veda 3.6.3"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *hotāraṃ* \< *hotāram* \< *hotṛ*
+- *hotāraṃ* ← *hotāram* ← *hotṛ*
 - \[noun\], accusative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *sādayante* \< *sāday* \< *√sad*
+- *sādayante* ← *sāday* ← *√sad*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *damāya* \< *dama*
+- *damāya* ← *dama*
 - \[noun\], dative, singular, masculine
 - “dwelling; home.”
 ------------------------------------------------------------------------
-- *yadī* \< *yadi*
+- *yadī* ← *yadi*
 - \[adverb\]
 - “if; in case.”
 ------------------------------------------------------------------------
-- *viśo* \< *viśaḥ* \< *viś*
+- *viśo* ← *viśaḥ* ← *viś*
 - \[noun\], nominative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *mānuṣīr* \< *mānuṣīḥ* \< *mānuṣa*
+- *mānuṣīr* ← *mānuṣīḥ* ← *mānuṣa*
 - \[noun\], nominative, plural, feminine
 - “human.”
 ------------------------------------------------------------------------
-- *devayantīḥ* \< *devay*
+- *devayantīḥ* ← *devay*
 - \[verb noun\], nominative, plural
 - “solicit.”
 ------------------------------------------------------------------------
-- *prayasvatīr* \< *prayasvatīḥ* \< *prayasvat*
+- *prayasvatīr* ← *prayasvatīḥ* ← *prayasvat*
 - \[noun\], nominative, plural, feminine
 - “offering.”
 ------------------------------------------------------------------------
-- *īḍate* \< *īḍ*
+- *īḍate* ← *īḍ*
 - \[verb\], plural, Present indikative
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
-- *śukram* \< *śukra*
+- *śukram* ← *śukra*
 - \[noun\], accusative, singular, neuter
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *arciḥ* \< *arcis*
+- *arciḥ* ← *arcis*
 - \[noun\], accusative, singular, neuter
 - “fire; flare; light; beam; gleam; shininess.”
 ------------------------------------------------------------------------

@@ -2,27 +2,27 @@
 title = "Rig Veda 3.54.15"
 
 +++
--   *indro* \< *indraḥ* \< *indra*
+-   *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *viśvair* \< *viśvaiḥ* \< *viśva*
+- *viśvair* ← *viśvaiḥ* ← *viśva*
 - \[noun\], instrumental, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *vīryaiḥ* \< *vīrya*
+- *vīryaiḥ* ← *vīrya*
 - \[noun\], instrumental, plural, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
 ------------------------------------------------------------------------
-- *patyamāna* \< *patyamānaḥ* \< *paty*
+- *patyamāna* ← *patyamānaḥ* ← *paty*
 - \[verb noun\], nominative, singular
 - “own; have; master.”
 ------------------------------------------------------------------------
-- *ubhe* \< *ubh*
+- *ubhe* ← *ubh*
 - \[noun\], accusative, dual, neuter
 - “both(a).”
 ------------------------------------------------------------------------
@@ -30,35 +30,35 @@ title = "Rig Veda 3.54.15"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *paprau* \< *prā*
+- *paprau* ← *prā*
 - \[verb\], singular, Perfect indicative
 - “fill; satisfy.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *mahitvā* \< *mahitva*
+- *mahitvā* ← *mahitva*
 - \[noun\], accusative, plural, neuter
 - “greatness.”
 ------------------------------------------------------------------------
-- *purandaro* \< *purandaraḥ* \< *puraṃdara*
+- *purandaro* ← *purandaraḥ* ← *puraṃdara*
 - \[noun\], nominative, singular, masculine
 - “Indra; puraṃdara \[word\].”
 ------------------------------------------------------------------------
-- *vṛtrahā* \< *vṛtrahan*
+- *vṛtrahā* ← *vṛtrahan*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *dhṛṣṇuṣeṇaḥ* \< *dhṛṣṇuṣeṇa*
+- *dhṛṣṇuṣeṇaḥ* ← *dhṛṣṇuṣeṇa*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *saṃgṛbhyā* \< *saṃgrah* \< *√grah*
+- *saṃgṛbhyā* ← *saṃgrah* ← *√grah*
 - \[verb noun\]
 - “take; pick; collect; sum up; reign; harness; catch; gather;
     extract; curb; choose.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -66,7 +66,7 @@ title = "Rig Veda 3.54.15"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *bharā* \< *bhara* \< *bhṛ*
+- *bharā* ← *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
@@ -75,7 +75,7 @@ title = "Rig Veda 3.54.15"
 - \[noun\], accusative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *paśvaḥ* \< *paśu*
+- *paśvaḥ* ← *paśu*
 - \[noun\], genitive, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”

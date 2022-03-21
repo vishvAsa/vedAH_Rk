@@ -6,14 +6,14 @@ title = "Rig Veda 8.7.23"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vṛtram* \< *vṛtra*
+- *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *parvaśo* \< *parvaśas*
+- *parvaśo* ← *parvaśas*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *yayur* \< *yayuḥ* \< *yā*
+- *yayur* ← *yayuḥ* ← *yā*
 - \[verb\], plural, Perfect indicative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
@@ -22,19 +22,19 @@ title = "Rig Veda 8.7.23"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *parvatāṃ* \< *parvata*
+- *parvatāṃ* ← *parvata*
 - \[noun\], accusative, plural, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
 ------------------------------------------------------------------------
-- *arājinaḥ* \< *a*
+- *arājinaḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *arājinaḥ* \< *rājinaḥ* \< *rājin*
+- *arājinaḥ* ← *rājinaḥ* ← *rājin*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *cakrāṇā* \< *cakrāṇāḥ* \< *kṛ*
+- *cakrāṇā* ← *cakrāṇāḥ* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -45,11 +45,11 @@ title = "Rig Veda 8.7.23"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *vṛṣṇi* \< *vṛṣan*
+- *vṛṣṇi* ← *vṛṣan*
 - \[noun\], locative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *pauṃsyam* \< *pauṃsya*
+- *pauṃsyam* ← *pauṃsya*
 - \[noun\], accusative, singular, neuter
 - “manfulness; deed; army; strength.”
 ------------------------------------------------------------------------

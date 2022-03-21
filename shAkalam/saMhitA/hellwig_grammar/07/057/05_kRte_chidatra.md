@@ -2,7 +2,7 @@
 title = "Rig Veda 7.57.5"
 
 +++
--   *kṛte* \< *kṛ*
+-   *kṛte* ← *kṛ*
 - \[verb noun\], locative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -13,7 +13,7 @@ title = "Rig Veda 7.57.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -22,24 +22,24 @@ title = "Rig Veda 7.57.5"
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *raṇantānavadyāsaḥ* \< *raṇanta* \< *raṇ*
+- *raṇantānavadyāsaḥ* ← *raṇanta* ← *raṇ*
 - \[verb\], plural, Present injunctive
 - “rejoice.”
 ------------------------------------------------------------------------
-- *raṇantānavadyāsaḥ* \< *anavadyāsaḥ* \< *anavadya*
+- *raṇantānavadyāsaḥ* ← *anavadyāsaḥ* ← *anavadya*
 - \[noun\], nominative, plural, masculine
 - “blameless; faultless.”
 ------------------------------------------------------------------------
-- *śucayaḥ* \< *śuci*
+- *śucayaḥ* ← *śuci*
 - \[noun\], nominative, plural, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *pāvakāḥ* \< *pāvaka*
+- *pāvakāḥ* ← *pāvaka*
 - \[noun\], nominative, plural, masculine
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
 ------------------------------------------------------------------------
@@ -47,19 +47,19 @@ title = "Rig Veda 7.57.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ṇo* \< *naḥ* \< *mad*
+- *ṇo* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *'vata* \< *avata* \< *av*
+- *'vata* ← *avata* ← *av*
 - \[verb\], plural, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *sumatibhir* \< *sumatibhiḥ* \< *sumati*
+- *sumatibhir* ← *sumatibhiḥ* ← *sumati*
 - \[noun\], instrumental, plural, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *yajatrāḥ* \< *yajatra*
+- *yajatrāḥ* ← *yajatra*
 - \[noun\], vocative, plural, masculine
 - “adorable.”
 ------------------------------------------------------------------------
@@ -67,19 +67,19 @@ title = "Rig Veda 7.57.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vājebhis* \< *vājebhiḥ* \< *vāja*
+- *vājebhis* ← *vājebhiḥ* ← *vāja*
 - \[noun\], instrumental, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *tirata* \< *tṛ*
+- *tirata* ← *tṛ*
 - \[verb\], plural, Present imperative
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *puṣyase* \< *puṣ*
+- *puṣyase* ← *puṣ*
 - \[verb noun\]
 - “boom; grow; promote; foster.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

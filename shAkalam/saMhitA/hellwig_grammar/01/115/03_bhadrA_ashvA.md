@@ -2,43 +2,43 @@
 title = "Rig Veda 1.115.3"
 
 +++
--   *bhadrā* \< *bhadrāḥ* \< *bhadra*
+-   *bhadrā* ← *bhadrāḥ* ← *bhadra*
 - \[noun\], nominative, plural, masculine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *aśvā* \< *aśvāḥ* \< *aśva*
+- *aśvā* ← *aśvāḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *haritaḥ* \< *harit*
+- *haritaḥ* ← *harit*
 - \[noun\], nominative, plural, masculine
 - “pale; green; bay; yellow.”
 ------------------------------------------------------------------------
-- *sūryasya* \< *sūrya*
+- *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *citrā* \< *citrāḥ* \< *citra*
+- *citrā* ← *citrāḥ* ← *citra*
 - \[noun\], nominative, plural, masculine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *etagvā* \< *etagvāḥ* \< *etagva*
+- *etagvā* ← *etagvāḥ* ← *etagva*
 - \[noun\], nominative, plural, masculine
 - “shining.”
 ------------------------------------------------------------------------
-- *anumādyāsaḥ* \< *anumad* \< *√mad*
+- *anumādyāsaḥ* ← *anumad* ← *√mad*
 - \[verb noun\], nominative, plural
 - “praise; cheer; applaud.”
 ------------------------------------------------------------------------
-- *namasyanto* \< *namasyantaḥ* \< *namasy*
+- *namasyanto* ← *namasyantaḥ* ← *namasy*
 - \[verb noun\], nominative, plural
 - “worship; respect.”
 ------------------------------------------------------------------------
-- *diva* \< *divaḥ* \< *div*
+- *diva* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -46,12 +46,12 @@ title = "Rig Veda 1.115.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *pṛṣṭham* \< *pṛṣṭha*
+- *pṛṣṭham* ← *pṛṣṭha*
 - \[noun\], accusative, singular, neuter
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
 ------------------------------------------------------------------------
-- *asthuḥ* \< *sthā*
+- *asthuḥ* ← *sthā*
 - \[verb\], plural, Root aorist (Ind.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
@@ -65,11 +65,11 @@ title = "Rig Veda 1.115.3"
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
 ------------------------------------------------------------------------
-- *yanti* \< *i*
+- *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *sadyaḥ* \< *sadyas*
+- *sadyaḥ* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
 ------------------------------------------------------------------------

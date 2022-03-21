@@ -2,15 +2,15 @@
 title = "Rig Veda 2.28.9"
 
 +++
--   *para* \< *paras*
+-   *para* ← *paras*
 - \[adverb\]
 - “beyond; away; farther.”
 ------------------------------------------------------------------------
-- *ṛṇā* \< *ṛṇa*
+- *ṛṇā* ← *ṛṇa*
 - \[noun\], accusative, plural, neuter
 - “debt; debt; ṛṇa \[word\].”
 ------------------------------------------------------------------------
-- *sāvīr* \< *sāvīḥ* \< *sū*
+- *sāvīr* ← *sāvīḥ* ← *sū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “give birth; urge; bestow; cause.”
 ------------------------------------------------------------------------
@@ -18,11 +18,11 @@ title = "Rig Veda 2.28.9"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *matkṛtāni* \< *mad*
+- *matkṛtāni* ← *mad*
 - \[noun\]
 - “I; mine.”
 ------------------------------------------------------------------------
-- *matkṛtāni* \< *kṛtāni* \< *kṛ*
+- *matkṛtāni* ← *kṛtāni* ← *kṛ*
 - \[verb noun\], accusative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -33,24 +33,24 @@ title = "Rig Veda 2.28.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *māhaṃ* \< *mā*
+- *māhaṃ* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *māhaṃ* \< *aham* \< *mad*
+- *māhaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rājann* \< *rājan*
+- *rājann* ← *rājan*
 - \[noun\], vocative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *anyakṛtena* \< *anya*
+- *anyakṛtena* ← *anya*
 - \[noun\]
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *anyakṛtena* \< *kṛtena* \< *kṛ*
+- *anyakṛtena* ← *kṛtena* ← *kṛ*
 - \[verb noun\], instrumental, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -61,19 +61,19 @@ title = "Rig Veda 2.28.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *bhojam* \< *bhuj*
+- *bhojam* ← *bhuj*
 - \[verb\], singular, Aorist inj. (proh.)
 - “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
 ------------------------------------------------------------------------
-- *avyuṣṭā* \< *a*
+- *avyuṣṭā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *avyuṣṭā* \< *vyuṣṭāḥ* \< *vivas* \< *√vas*
+- *avyuṣṭā* ← *vyuṣṭāḥ* ← *vivas* ← *√vas*
 - \[verb noun\], nominative, plural
 - “spend; dwell.”
 ------------------------------------------------------------------------
-- *in* \< *id*
+- *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -81,11 +81,11 @@ title = "Rig Veda 2.28.9"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *bhūyasīr* \< *bhūyasīḥ* \< *bhūyas*
+- *bhūyasīr* ← *bhūyasīḥ* ← *bhūyas*
 - \[noun\], nominative, plural, feminine
 - “more(a); more(a); abounding in(p); stronger; bigger.”
 ------------------------------------------------------------------------
-- *uṣāsa* \< *uṣāsaḥ* \< *uṣa*
+- *uṣāsa* ← *uṣāsaḥ* ← *uṣa*
 - \[noun\], nominative, plural, feminine
 - “dawn.”
 ------------------------------------------------------------------------
@@ -93,11 +93,11 @@ title = "Rig Veda 2.28.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *jīvān* \< *jīva*
+- *jīvān* ← *jīva*
 - \[noun\], accusative, plural, masculine
 - “live; alive(p); amṛta.”
 ------------------------------------------------------------------------
@@ -106,13 +106,13 @@ title = "Rig Veda 2.28.9"
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *tāsu* \< *tad*
+- *tāsu* ← *tad*
 - \[noun\], locative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *śādhi* \< *śās*
+- *śādhi* ← *śās*
 - \[verb\], singular, Present imperative
 - “teach; govern; command; order; control; tell; recommend; chastize;
     instruct.”

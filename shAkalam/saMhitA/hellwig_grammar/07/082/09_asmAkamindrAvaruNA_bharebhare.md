@@ -2,53 +2,53 @@
 title = "Rig Veda 7.82.9"
 
 +++
--   *asmākam* \< *mad*
+-   *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *indrāvaruṇā* \< *indrāvaruṇa*
+- *indrāvaruṇā* ← *indrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Indra.”
 ------------------------------------------------------------------------
-- *bhare* \< *bhara*
+- *bhare* ← *bhara*
 - \[noun\], locative, singular, masculine
 - “battle; weight; foray; bhṛ; load.”
 ------------------------------------------------------------------------
-- *bhare* \< *bhara*
+- *bhare* ← *bhara*
 - \[noun\], locative, singular, masculine
 - “battle; weight; foray; bhṛ; load.”
 ------------------------------------------------------------------------
-- *puroyodhā* \< *puroyodha*
+- *puroyodhā* ← *puroyodha*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *bhavataṃ* \< *bhavatam* \< *bhū*
+- *bhavataṃ* ← *bhavatam* ← *bhū*
 - \[verb\], dual, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *kṛṣṭyojasā* \< *kṛṣṭi*
+- *kṛṣṭyojasā* ← *kṛṣṭi*
 - \[noun\], feminine
 - “people; citizenry.”
 ------------------------------------------------------------------------
-- *kṛṣṭyojasā* \< *ojasā* \< *ojas*
+- *kṛṣṭyojasā* ← *ojasā* ← *ojas*
 - \[noun\], nominative, dual, masculine
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *havanta* \< *havante* \< *hvā*
+- *havanta* ← *havante* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *ubhaye* \< *ubhaya*
+- *ubhaye* ← *ubhaya*
 - \[noun\], nominative, dual, neuter
 - “both(a).”
 ------------------------------------------------------------------------
@@ -56,23 +56,23 @@ title = "Rig Veda 7.82.9"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *spṛdhi* \< *spṛdh*
+- *spṛdhi* ← *spṛdh*
 - \[noun\], locative, singular, feminine
 - “adversary; enemy; rival.”
 ------------------------------------------------------------------------
-- *naras* \< *naraḥ* \< *nṛ*
+- *naras* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *tokasya* \< *toka*
+- *tokasya* ← *toka*
 - \[noun\], genitive, singular, neuter
 - “offspring.”
 ------------------------------------------------------------------------
-- *tanayasya* \< *tanaya*
+- *tanayasya* ← *tanaya*
 - \[noun\], genitive, singular, neuter
 - “biological.”
 ------------------------------------------------------------------------
-- *sātiṣu* \< *sāti*
+- *sātiṣu* ← *sāti*
 - \[noun\], locative, plural, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------

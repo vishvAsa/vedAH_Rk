@@ -2,19 +2,19 @@
 title = "Rig Veda 8.93.16"
 
 +++
--   *śrutaṃ* \< *śrutam* \< *śru*
+-   *śrutaṃ* ← *śrutam* ← *śru*
 - \[verb noun\], accusative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *vṛtrahantamam* \< *vṛtra*
+- *vṛtrahantamam* ← *vṛtra*
 - \[noun\], masculine
 - “enemy.”
 ------------------------------------------------------------------------
-- *vṛtrahantamam* \< *hantamam* \< *hantama*
+- *vṛtrahantamam* ← *hantamam* ← *hantama*
 - \[noun\], accusative, singular, masculine
 - “killing.”
 ------------------------------------------------------------------------
@@ -22,11 +22,11 @@ title = "Rig Veda 8.93.16"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *śardhaṃ* \< *śardham* \< *śardha*
+- *śardhaṃ* ← *śardham* ← *śardha*
 - \[noun\], accusative, singular, masculine
 - “troop.”
 ------------------------------------------------------------------------
-- *carṣaṇīnām* \< *carṣaṇi*
+- *carṣaṇīnām* ← *carṣaṇi*
 - \[noun\], genitive, plural, feminine
 - “people.”
 ------------------------------------------------------------------------
@@ -34,15 +34,15 @@ title = "Rig Veda 8.93.16"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *śuṣe* \< *śvas*
+- *śuṣe* ← *śvas*
 - \[verb\], singular, Present indikative
 - “hiss; pant; sigh; breathe; blow.”
 ------------------------------------------------------------------------
-- *rādhase* \< *rādhas*
+- *rādhase* ← *rādhas*
 - \[noun\], dative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *mahe* \< *mah*
+- *mahe* ← *mah*
 - \[noun\], dative, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------

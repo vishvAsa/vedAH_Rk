@@ -2,7 +2,7 @@
 title = "Rig Veda 9.63.8"
 
 +++
--   *ayukta* \< *yuj*
+-   *ayukta* ← *yuj*
 - \[verb\], singular, Root aorist (Ind.)
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -10,19 +10,19 @@ title = "Rig Veda 9.63.8"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *sūra* \< *sūraḥ* \< *svar*
+- *sūra* ← *sūraḥ* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *etaśam* \< *etaśa*
+- *etaśam* ← *etaśa*
 - \[noun\], accusative, singular, masculine
 - “Etaśa; horse.”
 ------------------------------------------------------------------------
-- *pavamāno* \< *pavamānaḥ* \< *pū*
+- *pavamāno* ← *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *manāv* \< *manau* \< *manu*
+- *manāv* ← *manau* ← *manu*
 - \[noun\], locative, singular, masculine
 - “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
     incantation; sacred text.”
@@ -31,11 +31,11 @@ title = "Rig Veda 9.63.8"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *antarikṣeṇa* \< *antarikṣa*
+- *antarikṣeṇa* ← *antarikṣa*
 - \[noun\], instrumental, singular, neuter
 - “sky; atmosphere; air; abhra.”
 ------------------------------------------------------------------------
-- *yātave* \< *yā*
+- *yātave* ← *yā*
 - \[verb noun\]
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”

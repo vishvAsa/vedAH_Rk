@@ -2,18 +2,18 @@
 title = "Rig Veda 8.64.11"
 
 +++
--   *ayaṃ* \< *ayam* \< *idam*
+-   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śaryaṇāvati* \< *śaryaṇāvant*
+- *śaryaṇāvati* ← *śaryaṇāvant*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *suṣomāyām* \< *suṣomā*
+- *suṣomāyām* ← *suṣomā*
 - \[noun\], locative, singular, feminine
 - “Suṣomā.”
 ------------------------------------------------------------------------
@@ -21,15 +21,15 @@ title = "Rig Veda 8.64.11"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *priyaḥ* \< *priya*
+- *priyaḥ* ← *priya*
 - \[noun\], nominative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *ārjīkīye* \< *ārjīkīya*
+- *ārjīkīye* ← *ārjīkīya*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *madintamaḥ* \< *madintama*
+- *madintamaḥ* ← *madintama*
 - \[noun\], nominative, singular, masculine
 - “exhilarating; intoxicant.”
 ------------------------------------------------------------------------

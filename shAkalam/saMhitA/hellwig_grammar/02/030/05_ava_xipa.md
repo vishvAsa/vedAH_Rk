@@ -6,16 +6,16 @@ title = "Rig Veda 2.30.5"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *kṣipa* \< *kṣip*
+- *kṣipa* ← *kṣip*
 - \[verb\], singular, Present imperative
 - “fill into; add; put; throw; insert; submerge; pour; mix; ignite;
     shoot; hurl; vilify; reject; join; put on; stow; stack; throw.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *aśmānam* \< *aśman*
+- *aśmānam* ← *aśman*
 - \[noun\], accusative, singular, masculine
 - “stone; aśmarī; rock; aśman \[word\]; adri; mineral; piṇḍatālaka;
     mountain.”
@@ -24,47 +24,47 @@ title = "Rig Veda 2.30.5"
 - \[adverb\]
 - “above.”
 ------------------------------------------------------------------------
-- *yena* \< *yad*
+- *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *śatrum* \< *śatru*
+- *śatrum* ← *śatru*
 - \[noun\], accusative, singular, masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------
-- *mandasāno* \< *mandasānaḥ* \< *mand*
+- *mandasāno* ← *mandasānaḥ* ← *mand*
 - \[verb noun\], nominative, singular
 - “rejoice; exhilarate.”
 ------------------------------------------------------------------------
-- *nijūrvāḥ* \< *nijūrv* \< *√jūrv*
+- *nijūrvāḥ* ← *nijūrv* ← *√jūrv*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “burn.”
 ------------------------------------------------------------------------
-- *tokasya* \< *toka*
+- *tokasya* ← *toka*
 - \[noun\], genitive, singular, neuter
 - “offspring.”
 ------------------------------------------------------------------------
-- *sātau* \< *sāti*
+- *sātau* ← *sāti*
 - \[noun\], locative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------
-- *tanayasya* \< *tanaya*
+- *tanayasya* ← *tanaya*
 - \[noun\], genitive, singular, masculine
 - “son.”
 ------------------------------------------------------------------------
-- *bhūrer* \< *bhūreḥ* \< *bhūri*
+- *bhūrer* ← *bhūreḥ* ← *bhūri*
 - \[noun\], genitive, singular, masculine
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *asmāṃ* \< *mad*
+- *asmāṃ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ardhaṃ* \< *ardham* \< *ardha*
+- *ardhaṃ* ← *ardham* ← *ardha*
 - \[noun\], accusative, singular, neuter
 - “one-half; ardha \[word\].”
 ------------------------------------------------------------------------
-- *kṛṇutād* \< *kṛṇutāt* \< *kṛ*
+- *kṛṇutād* ← *kṛṇutāt* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -80,7 +80,7 @@ title = "Rig Veda 2.30.5"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *gonām* \< *go*
+- *gonām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”

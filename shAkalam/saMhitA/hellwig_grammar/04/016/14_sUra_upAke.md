@@ -2,18 +2,18 @@
 title = "Rig Veda 4.16.14"
 
 +++
--   *sūra* \< *sūraḥ* \< *svar*
+-   *sūra* ← *sūraḥ* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *upāke* \< *upāka*
+- *upāke* ← *upāka*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *tanvaṃ* \< *tanvam* \< *tanū*
+- *tanvaṃ* ← *tanvam* ← *tanū*
 - \[noun\], accusative, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *dadhāno* \< *dadhānaḥ* \< *dhā*
+- *dadhāno* ← *dadhānaḥ* ← *dhā*
 - \[verb noun\], nominative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
@@ -26,23 +26,23 @@ title = "Rig Veda 4.16.14"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *cety* \< *ceti* \< *cit*
+- *cety* ← *ceti* ← *cit*
 - \[verb\], singular, Aorist passive
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *amṛtasya* \< *amṛta*
+- *amṛtasya* ← *amṛta*
 - \[noun\], genitive, singular, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *varpaḥ* \< *varpas*
+- *varpaḥ* ← *varpas*
 - \[noun\], nominative, singular, neuter
 - “form; look; disguise.”
 ------------------------------------------------------------------------
-- *mṛgo* \< *mṛgaḥ* \< *mṛga*
+- *mṛgo* ← *mṛgaḥ* ← *mṛga*
 - \[noun\], nominative, singular, masculine
 - “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
 ------------------------------------------------------------------------
@@ -50,19 +50,19 @@ title = "Rig Veda 4.16.14"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *hastī* \< *hastin*
+- *hastī* ← *hastin*
 - \[noun\], nominative, singular, masculine
 - “elephant; hastin \[word\]; Hastin; hastimeha.”
 ------------------------------------------------------------------------
-- *taviṣīm* \< *taviṣī*
+- *taviṣīm* ← *taviṣī*
 - \[noun\], accusative, singular, feminine
 - “strength; power.”
 ------------------------------------------------------------------------
-- *uṣāṇaḥ* \< *vas*
+- *uṣāṇaḥ* ← *vas*
 - \[verb noun\], nominative, singular
 - “wear.”
 ------------------------------------------------------------------------
-- *siṃho* \< *siṃhaḥ* \< *siṃha*
+- *siṃho* ← *siṃhaḥ* ← *siṃha*
 - \[noun\], nominative, singular, masculine
 - “lion; hero; best; leader; siṃha \[word\].”
 ------------------------------------------------------------------------
@@ -70,15 +70,15 @@ title = "Rig Veda 4.16.14"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *bhīma* \< *bhīmaḥ* \< *bhīma*
+- *bhīma* ← *bhīmaḥ* ← *bhīma*
 - \[noun\], nominative, singular, masculine
 - “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
 ------------------------------------------------------------------------
-- *āyudhāni* \< *āyudha*
+- *āyudhāni* ← *āyudha*
 - \[noun\], accusative, plural, neuter
 - “weapon; āyudha \[word\].”
 ------------------------------------------------------------------------
-- *bibhrat* \< *bhṛ*
+- *bibhrat* ← *bhṛ*
 - \[verb noun\], nominative, singular
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”

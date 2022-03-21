@@ -2,44 +2,44 @@
 title = "Rig Veda 8.5.4"
 
 +++
--   *purupriyā* \< *puru*
+-   *purupriyā* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purupriyā* \< *priyā* \< *priya*
+- *purupriyā* ← *priyā* ← *priya*
 - \[noun\], accusative, dual, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *ṇa* \< *naḥ* \< *mad*
+- *ṇa* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ūtaye* \< *ūti*
+- *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *purumandrā* \< *puru*
+- *purumandrā* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purumandrā* \< *mandrā* \< *mandra*
+- *purumandrā* ← *mandrā* ← *mandra*
 - \[noun\], accusative, dual, masculine
 - “pleasant; eloquent; dulcet.”
 ------------------------------------------------------------------------
-- *purūvasū* \< *purūvasu*
+- *purūvasū* ← *purūvasu*
 - \[noun\], accusative, dual, masculine
 - “rich.”
 ------------------------------------------------------------------------
-- *stuṣe* \< *stu*
+- *stuṣe* ← *stu*
 - \[verb\], singular, Present indikative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *kaṇvāso* \< *kaṇvāsaḥ* \< *kaṇva*
+- *kaṇvāso* ← *kaṇvāsaḥ* ← *kaṇva*
 - \[noun\], nominative, plural, masculine
 - “Kaṇva; Kaṇva; kaṇva \[word\].”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], accusative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------

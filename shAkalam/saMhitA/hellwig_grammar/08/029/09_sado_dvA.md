@@ -2,15 +2,15 @@
 title = "Rig Veda 8.29.9"
 
 +++
--   *sado* \< *sadaḥ* \< *sadas*
+-   *sado* ← *sadaḥ* ← *sadas*
 - \[noun\], accusative, singular, neuter
 - “mansion; assembly; seat; seat.”
 ------------------------------------------------------------------------
-- *dvā* \< *dvi*
+- *dvā* ← *dvi*
 - \[noun\], nominative, dual, masculine
 - “two; dvi \[word\]; second.”
 ------------------------------------------------------------------------
-- *cakrāte* \< *kṛ*
+- *cakrāte* ← *kṛ*
 - \[verb\], dual, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -21,23 +21,23 @@ title = "Rig Veda 8.29.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *upamā* \< *upama*
+- *upamā* ← *upama*
 - \[noun\], nominative, dual, masculine
 - “best; topmost.”
 ------------------------------------------------------------------------
-- *divi* \< *div*
+- *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *samrājā* \< *samrāj*
+- *samrājā* ← *samrāj*
 - \[noun\], nominative, dual, masculine
 - “sovereign; ruler.”
 ------------------------------------------------------------------------
-- *sarpirāsutī* \< *sarpiḥ* \< *sarpis*
+- *sarpirāsutī* ← *sarpiḥ* ← *sarpis*
 - \[noun\], neuter
 - “ghee; clarified butter; sarpiḥprameha.”
 ------------------------------------------------------------------------
-- *sarpirāsutī* \< *āsutī* \< *āsuti*
+- *sarpirāsutī* ← *āsutī* ← *āsuti*
 - \[noun\], nominative, dual, masculine
 - “āsuti \[word\].”
 ------------------------------------------------------------------------

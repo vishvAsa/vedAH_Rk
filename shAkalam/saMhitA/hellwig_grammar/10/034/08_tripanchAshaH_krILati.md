@@ -2,22 +2,22 @@
 title = "Rig Veda 10.34.8"
 
 +++
--   *tripañcāśaḥ* \< *tripañcāśa*
+-   *tripañcāśaḥ* ← *tripañcāśa*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *krīḍati* \< *krīḍ*
+- *krīḍati* ← *krīḍ*
 - \[verb\], singular, Present indikative
 - “frolic; love; play; amuse.”
 ------------------------------------------------------------------------
-- *vrāta* \< *vrātaḥ* \< *vrāta*
+- *vrāta* ← *vrātaḥ* ← *vrāta*
 - \[noun\], nominative, singular, masculine
 - “troop; group; Vrāta; vrāta \[word\]; flock.”
 ------------------------------------------------------------------------
-- *eṣāṃ* \< *eṣām* \< *idam*
+- *eṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *deva* \< *devaḥ* \< *deva*
+- *deva* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -26,60 +26,60 @@ title = "Rig Veda 10.34.8"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *savitā* \< *savitṛ*
+- *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *satyadharmā* \< *satya*
+- *satyadharmā* ← *satya*
 - \[noun\]
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *satyadharmā* \< *dharmā* \< *dharman*
+- *satyadharmā* ← *dharmā* ← *dharman*
 - \[noun\], nominative, singular, masculine
 - “regulation; Dharma; law; property.”
 ------------------------------------------------------------------------
-- *ugrasya* \< *ugra*
+- *ugrasya* ← *ugra*
 - \[noun\], genitive, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *manyave* \< *manyu*
+- *manyave* ← *manyu*
 - \[noun\], dative, singular, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------
-- *nā* \< *na*
+- *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *namante* \< *nam*
+- *namante* ← *nam*
 - \[verb\], plural, Present indikative
 - “bow; bend; condescend; worship; bend; lower.”
 ------------------------------------------------------------------------
-- *rājā* \< *rājan*
+- *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ebhyo* \< *ebhyaḥ* \< *idam*
+- *ebhyo* ← *ebhyaḥ* ← *idam*
 - \[noun\], dative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *nama* \< *namaḥ* \< *namas*
+- *nama* ← *namaḥ* ← *namas*
 - \[noun\], accusative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *kṛṇoti* \< *kṛ*
+- *kṛṇoti* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

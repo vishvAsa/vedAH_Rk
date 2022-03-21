@@ -2,11 +2,11 @@
 title = "Rig Veda 10.171.3"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tyam* \< *tya*
+- *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
@@ -15,24 +15,24 @@ title = "Rig Veda 10.171.3"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *martyam* \< *martya*
+- *martyam* ← *martya*
 - \[noun\], accusative, singular, masculine
 - “mortal.”
 ------------------------------------------------------------------------
-- *āstrabudhnāya* \< *āstrabudhna*
+- *āstrabudhnāya* ← *āstrabudhna*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *venyam* \< *venya*
+- *venyam* ← *venya*
 - \[noun\], accusative, singular, masculine
 - “Venya.”
 ------------------------------------------------------------------------
-- *muhuḥ* \< *muhur*
+- *muhuḥ* ← *muhur*
 - \[adverb\]
 - “again; repeatedly; continually.”
 ------------------------------------------------------------------------
-- *śrathnā* \< *śrathnāḥ* \< *śrath*
+- *śrathnā* ← *śrathnāḥ* ← *śrath*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *manasyave* \< *manasyu*
+- *manasyave* ← *manasyu*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------

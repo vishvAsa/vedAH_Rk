@@ -2,46 +2,46 @@
 title = "Rig Veda 7.88.7"
 
 +++
--   *dhruvāsu* \< *dhruva*
+-   *dhruvāsu* ← *dhruva*
 - \[noun\], locative, plural, feminine
 - “certain; fixed; permanent; changeless; firm; safe; resident;
     immovable; fixed; fixed; vital; faithful.”
 ------------------------------------------------------------------------
-- *tvāsu* \< *tvā* \< *tvad*
+- *tvāsu* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tvāsu* \< *āsu* \< *idam*
+- *tvāsu* ← *āsu* ← *idam*
 - \[noun\], locative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *kṣitiṣu* \< *kṣiti*
+- *kṣitiṣu* ← *kṣiti*
 - \[noun\], locative, plural, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
 ------------------------------------------------------------------------
-- *kṣiyanto* \< *kṣiyantaḥ* \< *kṣi*
+- *kṣiyanto* ← *kṣiyantaḥ* ← *kṣi*
 - \[verb noun\], nominative, plural
 - “govern; inhabit; dwell; stay; predominate; bide; own.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *asmat* \< *mad*
+- *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pāśaṃ* \< *pāśam* \< *pāśa*
+- *pāśaṃ* ← *pāśam* ← *pāśa*
 - \[noun\], accusative, singular, masculine
 - “noose; shackle; eye; pāśa \[word\]; fetter.”
 ------------------------------------------------------------------------
-- *varuṇo* \< *varuṇaḥ* \< *varuṇa*
+- *varuṇo* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *mumocat* \< *muc*
+- *mumocat* ← *muc*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
     fill into; shoot; spill; lose; ejaculate; exclude; free; remove;
@@ -49,31 +49,31 @@ title = "Rig Veda 7.88.7"
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
 ------------------------------------------------------------------------
-- *avo* \< *avaḥ* \< *avas*
+- *avo* ← *avaḥ* ← *avas*
 - \[noun\], accusative, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *vanvānā* \< *vanvānāḥ* \< *van*
+- *vanvānā* ← *vanvānāḥ* ← *van*
 - \[verb noun\], nominative, plural
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *aditer* \< *aditeḥ* \< *aditi*
+- *aditer* ← *aditeḥ* ← *aditi*
 - \[noun\], genitive, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *upasthād* \< *upasthāt* \< *upastha*
+- *upasthād* ← *upasthāt* ← *upastha*
 - \[noun\], ablative, singular, masculine
 - “genitalia; lap; sexual desire; anus.”
 ------------------------------------------------------------------------
-- *yūyam* \< *tvad*
+- *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *pāta* \< *pā*
+- *pāta* ← *pā*
 - \[verb\], plural, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *svastibhiḥ* \< *svasti*
+- *svastibhiḥ* ← *svasti*
 - \[noun\], instrumental, plural, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
@@ -82,7 +82,7 @@ title = "Rig Veda 7.88.7"
 - \[adverb\]
 - “always; continually; always; perpetually.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

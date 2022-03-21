@@ -6,48 +6,48 @@ title = "Rig Veda 8.18.16"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *parvatānām* \< *parvata*
+- *parvatānām* ← *parvata*
 - \[noun\], genitive, plural, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
 ------------------------------------------------------------------------
-- *otāpāṃ* \< *ā*
+- *otāpāṃ* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *otāpāṃ* \< *uta*
+- *otāpāṃ* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *otāpāṃ* \< *apām* \< *ap*
+- *otāpāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *vṛṇīmahe* \< *vṛ*
+- *vṛṇīmahe* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *dyāvākṣāmāre* \< *dyāvākṣāmā* \< *dyāvākṣam*
+- *dyāvākṣāmāre* ← *dyāvākṣāmā* ← *dyāvākṣam*
 - \[noun\], vocative, dual, feminine
 - “heaven and earth.”
 ------------------------------------------------------------------------
-- *dyāvākṣāmāre* \< *āre*
+- *dyāvākṣāmāre* ← *āre*
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *asmad* \< *asmat* \< *mad*
+- *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rapas* \< *rapaḥ* \< *rapas*
+- *rapas* ← *rapaḥ* ← *rapas*
 - \[noun\], accusative, singular, neuter
 - “injury; disease; infirmity; damage.”
 ------------------------------------------------------------------------
-- *kṛtam* \< *kṛ*
+- *kṛtam* ← *kṛ*
 - \[verb\], dual, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

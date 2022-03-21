@@ -2,15 +2,15 @@
 title = "Rig Veda 1.29.1"
 
 +++
--   *yacciddhi* \< *yat*
+-   *yacciddhi* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yacciddhi* \< *cit*
+- *yacciddhi* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *yacciddhi* \< *hi*
+- *yacciddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
@@ -18,19 +18,19 @@ title = "Rig Veda 1.29.1"
 - \[noun\], vocative, singular, masculine
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *somapā* \< *soma*
+- *somapā* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somapā* \< *pāḥ* \< *pā*
+- *somapā* ← *pāḥ* ← *pā*
 - \[noun\], vocative, singular, masculine
 - “drinking.”
 ------------------------------------------------------------------------
-- *anāśastā* \< *an*
+- *anāśastā* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *anāśastā* \< *āśastāḥ* \< *āśaṃs* \< *√śaṃs*
+- *anāśastā* ← *āśastāḥ* ← *āśaṃs* ← *√śaṃs*
 - \[verb noun\], nominative, plural
 - “desire; hope; hope.”
 ------------------------------------------------------------------------
@@ -38,7 +38,7 @@ title = "Rig Veda 1.29.1"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *smasi* \< *as*
+- *smasi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -47,11 +47,11 @@ title = "Rig Veda 1.29.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tū* \< *tu*
+- *tū* ← *tu*
 - \[adverb\]
 - “now; then; but; and; now; however; then; then; surely.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -60,23 +60,23 @@ title = "Rig Veda 1.29.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *śaṃsaya* \< *śaṃsay* \< *√śaṃs*
+- *śaṃsaya* ← *śaṃsay* ← *√śaṃs*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------
-- *goṣv* \< *goṣu* \< *go*
+- *goṣv* ← *goṣu* ← *go*
 - \[noun\], locative, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *aśveṣu* \< *aśva*
+- *aśveṣu* ← *aśva*
 - \[noun\], locative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *śubhriṣu* \< *śubhri*
+- *śubhriṣu* ← *śubhri*
 - \[noun\], locative, plural, masculine
 - “beautiful.”
 ------------------------------------------------------------------------
-- *sahasreṣu* \< *sahasra*
+- *sahasreṣu* ← *sahasra*
 - \[noun\], locative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------

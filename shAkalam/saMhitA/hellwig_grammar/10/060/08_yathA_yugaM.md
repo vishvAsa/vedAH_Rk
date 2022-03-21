@@ -6,47 +6,47 @@ title = "Rig Veda 10.60.8"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *yugaṃ* \< *yugam* \< *yuga*
+- *yugaṃ* ← *yugam* ← *yuga*
 - \[noun\], accusative, singular, neuter
 - “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
     \[word\]; Yuga; race.”
 ------------------------------------------------------------------------
-- *varatrayā* \< *varatrā*
+- *varatrayā* ← *varatrā*
 - \[noun\], instrumental, singular, feminine
 - “cord; strap.”
 ------------------------------------------------------------------------
-- *nahyanti* \< *nah*
+- *nahyanti* ← *nah*
 - \[verb\], plural, Present indikative
 - “tie; envelop; tie.”
 ------------------------------------------------------------------------
-- *dharuṇāya* \< *dharuṇa*
+- *dharuṇāya* ← *dharuṇa*
 - \[noun\], dative, singular, neuter
 - “prop; foundation.”
 ------------------------------------------------------------------------
-- *kam* \< *kaṃ*
+- *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
 ------------------------------------------------------------------------
-- *evā* \< *eva*
+- *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *dādhāra* \< *dhṛ*
+- *dādhāra* ← *dhṛ*
 - \[verb\], singular, Perfect indicative
 - “keep; put; hold; assume; wear; take; promise; stay; exist; hold;
     begin; dip.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *mano* \< *manaḥ* \< *manas*
+- *mano* ← *manaḥ* ← *manas*
 - \[noun\], accusative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *jīvātave* \< *jīvātu*
+- *jīvātave* ← *jīvātu*
 - \[noun\], dative, singular, feminine
 - “life.”
 ------------------------------------------------------------------------
@@ -54,15 +54,15 @@ title = "Rig Veda 10.60.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *mṛtyave* \< *mṛtyu*
+- *mṛtyave* ← *mṛtyu*
 - \[noun\], dative, singular, masculine
 - “death; Yama; māraṇa; Mṛtyu.”
 ------------------------------------------------------------------------
-- *'tho* \< *atho*
+- *'tho* ← *atho*
 - \[adverb\]
 - “now; but; furthermore.”
 ------------------------------------------------------------------------
-- *ariṣṭatātaye* \< *ariṣṭatāti*
+- *ariṣṭatātaye* ← *ariṣṭatāti*
 - \[noun\], dative, singular, feminine
 - “safeness.”
 ------------------------------------------------------------------------

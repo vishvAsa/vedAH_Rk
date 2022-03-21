@@ -2,30 +2,30 @@
 title = "Rig Veda 1.167.3"
 
 +++
--   *mimyakṣa* \< *myakṣ*
+-   *mimyakṣa* ← *myakṣ*
 - \[verb\], singular, Perfect indicative
 - “be situated; attach.”
 ------------------------------------------------------------------------
-- *yeṣu* \< *yad*
+- *yeṣu* ← *yad*
 - \[noun\], locative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sudhitā* \< *sudhita*
+- *sudhitā* ← *sudhita*
 - \[noun\], nominative, singular, feminine
 - “sudhita \[word\].”
 ------------------------------------------------------------------------
-- *ghṛtācī* \< *ghṛtāñc*
+- *ghṛtācī* ← *ghṛtāñc*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *hiraṇyanirṇig* \< *hiraṇya*
+- *hiraṇyanirṇig* ← *hiraṇya*
 - \[noun\], neuter
 - “gold; jewelry; hiraṇya \[word\]; gold.”
 ------------------------------------------------------------------------
-- *hiraṇyanirṇig* \< *nirṇij*
+- *hiraṇyanirṇig* ← *nirṇij*
 - \[noun\], nominative, singular, feminine
 - “attire; garment.”
 ------------------------------------------------------------------------
-- *uparā* \< *upara*
+- *uparā* ← *upara*
 - \[noun\], nominative, singular, feminine
 - “later(a); future(a); nether.”
 ------------------------------------------------------------------------
@@ -33,7 +33,7 @@ title = "Rig Veda 1.167.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *ṛṣṭiḥ* \< *ṛṣṭi*
+- *ṛṣṭiḥ* ← *ṛṣṭi*
 - \[noun\], nominative, singular, feminine
 - “spear.”
 ------------------------------------------------------------------------
@@ -41,13 +41,13 @@ title = "Rig Veda 1.167.3"
 - \[adverb\]
 - “secretly.”
 ------------------------------------------------------------------------
-- *carantī* \< *car*
+- *carantī* ← *car*
 - \[verb noun\], nominative, singular
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *manuṣo* \< *manuṣaḥ* \< *manus*
+- *manuṣo* ← *manuṣaḥ* ← *manus*
 - \[noun\], genitive, singular, masculine
 - “Manu; man.”
 ------------------------------------------------------------------------
@@ -59,22 +59,22 @@ title = "Rig Veda 1.167.3"
 - \[noun\], nominative, singular, feminine
 - “woman; puppet; daughter.”
 ------------------------------------------------------------------------
-- *sabhāvatī* \< *sabhāvat*
+- *sabhāvatī* ← *sabhāvat*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *vidathyeva* \< *vidathyā* \< *vidathya*
+- *vidathyeva* ← *vidathyā* ← *vidathya*
 - \[noun\], nominative, singular, feminine
 - “wise.”
 ------------------------------------------------------------------------
-- *vidathyeva* \< *iva*
+- *vidathyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *vāk* \< *vāc*
+- *vāk* ← *vāc*
 - \[noun\], nominative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;

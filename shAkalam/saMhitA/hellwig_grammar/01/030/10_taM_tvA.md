@@ -2,30 +2,30 @@
 title = "Rig Veda 1.30.10"
 
 +++
--   *taṃ* \< *tam* \< *tad*
+-   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *viśvavārā* \< *viśva*
+- *viśvavārā* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvavārā* \< *vārā* \< *vāra*
+- *viśvavārā* ← *vārā* ← *vāra*
 - \[noun\], instrumental, singular, masculine
 - “time; day of the week; turn.”
 ------------------------------------------------------------------------
-- *śāsmahe* \< *śās*
+- *śāsmahe* ← *śās*
 - \[verb\], plural, Present indikative
 - “teach; govern; command; order; control; tell; recommend; chastize;
     instruct.”
@@ -34,15 +34,15 @@ title = "Rig Veda 1.30.10"
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu.”
 ------------------------------------------------------------------------
-- *sakhe* \< *sakhi*
+- *sakhe* ← *sakhi*
 - \[noun\], vocative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *vaso* \< *vasu*
+- *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *jaritṛbhyaḥ* \< *jaritṛ*
+- *jaritṛbhyaḥ* ← *jaritṛ*
 - \[noun\], dative, plural, masculine
 - “singer.”
 ------------------------------------------------------------------------

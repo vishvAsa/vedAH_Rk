@@ -2,41 +2,41 @@
 title = "Rig Veda 8.24.22"
 
 +++
--   *stuhīndraṃ* \< *stuhi* \< *stu*
+-   *stuhīndraṃ* ← *stuhi* ← *stu*
 - \[verb\], singular, Present imperative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *stuhīndraṃ* \< *indram* \< *indra*
+- *stuhīndraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vyaśvavad* \< *vyaśva*
+- *vyaśvavad* ← *vyaśva*
 - \[noun\], masculine
 ------------------------------------------------------------------------
-- *vyaśvavad* \< *vat*
+- *vyaśvavad* ← *vat*
 - \[adverb\]
 - “equally; like.”
 ------------------------------------------------------------------------
-- *anūrmiṃ* \< *anūrmim* \< *anūrmi*
+- *anūrmiṃ* ← *anūrmim* ← *anūrmi*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *vājinaṃ* \< *vājinam* \< *vājin*
+- *vājinaṃ* ← *vājinam* ← *vājin*
 - \[noun\], accusative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *yamam* \< *yama*
+- *yamam* ← *yama*
 - \[noun\], accusative, singular, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
 ------------------------------------------------------------------------
-- *aryo* \< *aryaḥ* \< *ari*
+- *aryo* ← *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *gayam* \< *gaya*
+- *gayam* ← *gaya*
 - \[noun\], accusative, singular, masculine
 - “house; Gaya; family; Gaya; property; Gaya; wealth; livestock.”
 ------------------------------------------------------------------------
-- *maṃhamānaṃ* \< *maṃhamānam* \< *mah*
+- *maṃhamānaṃ* ← *maṃhamānam* ← *mah*
 - \[verb noun\], accusative, singular
 - “give; accord.”
 ------------------------------------------------------------------------
@@ -44,7 +44,7 @@ title = "Rig Veda 8.24.22"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------

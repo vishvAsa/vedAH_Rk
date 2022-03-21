@@ -2,20 +2,20 @@
 title = "Rig Veda 8.76.3"
 
 +++
--   *vāvṛdhāno* \< *vāvṛdhānaḥ* \< *vṛdh*
+-   *vāvṛdhāno* ← *vāvṛdhānaḥ* ← *vṛdh*
 - \[verb noun\], nominative, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *marutsakhendro* \< *marut*
+- *marutsakhendro* ← *marut*
 - \[noun\], masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *marutsakhendro* \< *sakhā* \< *sakhi*
+- *marutsakhendro* ← *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *marutsakhendro* \< *indraḥ* \< *indra*
+- *marutsakhendro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -24,25 +24,25 @@ title = "Rig Veda 8.76.3"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vṛtram* \< *vṛtra*
+- *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *airayat* \< *īray* \< *√īr*
+- *airayat* ← *īray* ← *√īr*
 - \[verb\], singular, Imperfect
 - “name; describe; propel; shoot; state; call; raise; expel; tell;
     enumerate.”
 ------------------------------------------------------------------------
-- *sṛjan* \< *sṛj*
+- *sṛjan* ← *sṛj*
 - \[verb noun\], nominative, singular
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *samudriyā* \< *samudriyāḥ* \< *samudriya*
+- *samudriyā* ← *samudriyāḥ* ← *samudriya*
 - \[noun\], accusative, plural, feminine
 - “oceanic; oceanic.”
 ------------------------------------------------------------------------
-- *apaḥ* \< *ap*
+- *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------

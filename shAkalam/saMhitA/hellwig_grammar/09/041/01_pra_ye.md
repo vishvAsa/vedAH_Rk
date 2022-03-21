@@ -6,11 +6,11 @@ title = "Rig Veda 9.41.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *gāvo* \< *gāvaḥ* \< *go*
+- *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -19,29 +19,29 @@ title = "Rig Veda 9.41.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *bhūrṇayas* \< *bhūrṇayaḥ* \< *bhūrṇi*
+- *bhūrṇayas* ← *bhūrṇayaḥ* ← *bhūrṇi*
 - \[noun\], nominative, plural, masculine
 - “impatient; restless.”
 ------------------------------------------------------------------------
-- *tveṣā* \< *tveṣāḥ* \< *tveṣa*
+- *tveṣā* ← *tveṣāḥ* ← *tveṣa*
 - \[noun\], nominative, plural, masculine
 - “awful; brilliant; aglitter(p); bright.”
 ------------------------------------------------------------------------
-- *ayāso* \< *ayāsaḥ* \< *ayās*
+- *ayāso* ← *ayāsaḥ* ← *ayās*
 - \[noun\], nominative, plural, masculine
 - “undaunted; irrepressible; audacious.”
 ------------------------------------------------------------------------
-- *akramuḥ* \< *kram*
+- *akramuḥ* ← *kram*
 - \[verb\], plural, Root aorist (Ind.)
 - “kram; step; go; continue; proceed; traverse; heat.”
 ------------------------------------------------------------------------
-- *ghnantaḥ* \< *han*
+- *ghnantaḥ* ← *han*
 - \[verb noun\], nominative, plural
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *kṛṣṇām* \< *kṛṣṇa*
+- *kṛṣṇām* ← *kṛṣṇa*
 - \[noun\], accusative, singular, feminine
 - “black; dark; dark; blue; black.”
 ------------------------------------------------------------------------
@@ -49,7 +49,7 @@ title = "Rig Veda 9.41.1"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *tvacam* \< *tvac*
+- *tvacam* ← *tvac*
 - \[noun\], accusative, singular, feminine
 - “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
 ------------------------------------------------------------------------

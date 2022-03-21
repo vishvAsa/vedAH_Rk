@@ -2,55 +2,55 @@
 title = "Rig Veda 1.119.6"
 
 +++
--   *yuvaṃ* \< *yuvam* \< *tvad*
+-   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *rebham* \< *rebha*
+- *rebham* ← *rebha*
 - \[noun\], accusative, singular, masculine
 - “bard; eulogist.”
 ------------------------------------------------------------------------
-- *pariṣūter* \< *pariṣūteḥ* \< *pariṣūti*
+- *pariṣūter* ← *pariṣūteḥ* ← *pariṣūti*
 - \[noun\], ablative, singular, feminine
 ------------------------------------------------------------------------
-- *uruṣyatho* \< *uruṣyathaḥ* \< *uruṣy*
+- *uruṣyatho* ← *uruṣyathaḥ* ← *uruṣy*
 - \[verb\], dual, Present indikative
 - “protect; help.”
 ------------------------------------------------------------------------
-- *himena* \< *hima*
+- *himena* ← *hima*
 - \[noun\], instrumental, singular, neuter
 - “snow; frost; hima \[word\]; winter; tin; silver; pearl;
     sauvīrāñjana; year; ague; Himalayas; coldness.”
 ------------------------------------------------------------------------
-- *gharmam* \< *gharma*
+- *gharmam* ← *gharma*
 - \[noun\], accusative, singular, masculine
 - “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
     caldron.”
 ------------------------------------------------------------------------
-- *paritaptam* \< *paritap* \< *√tap*
+- *paritaptam* ← *paritap* ← *√tap*
 - \[verb noun\], accusative, singular
 - “suffer; heat; trouble; burn; suffer.”
 ------------------------------------------------------------------------
-- *atraye* \< *atri*
+- *atraye* ← *atri*
 - \[noun\], dative, singular, masculine
 - “Atri; Atri; atri \[word\].”
 ------------------------------------------------------------------------
-- *yuvaṃ* \< *yuvam* \< *tvad*
+- *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *śayor* \< *śayoḥ* \< *śayu*
+- *śayor* ← *śayoḥ* ← *śayu*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *avasam* \< *avasa*
+- *avasam* ← *avasa*
 - \[noun\], accusative, singular, neuter
 - “stores; food.”
 ------------------------------------------------------------------------
-- *pipyathur* \< *pipyathuḥ* \< *pyā*
+- *pipyathur* ← *pipyathuḥ* ← *pyā*
 - \[verb\], dual, Perfect indicative
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
-- *gavi* \< *go*
+- *gavi* ← *go*
 - \[noun\], locative, singular, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -59,18 +59,18 @@ title = "Rig Veda 1.119.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *dīrgheṇa* \< *dīrgha*
+- *dīrgheṇa* ← *dīrgha*
 - \[noun\], instrumental, singular, neuter
 - “long; long; long; large; far; deep; dīrgha \[word\].”
 ------------------------------------------------------------------------
-- *vandanas* \< *vandanaḥ* \< *vandana*
+- *vandanas* ← *vandanaḥ* ← *vandana*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *tāry* \< *tāri* \< *tṛ*
+- *tāry* ← *tāri* ← *tṛ*
 - \[verb\], singular, Aorist passive
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *āyuṣā* \< *āyus*
+- *āyuṣā* ← *āyus*
 - \[noun\], instrumental, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------

@@ -6,16 +6,16 @@ title = "Rig Veda 2.18.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *ma* \< *me* \< *mad*
+- *ma* ← *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *indreṇa* \< *indra*
+- *indreṇa* ← *indra*
 - \[noun\], instrumental, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sakhyaṃ* \< *sakhyam* \< *sakhya*
+- *sakhyaṃ* ← *sakhyam* ← *sakhya*
 - \[noun\], nominative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
@@ -23,15 +23,15 @@ title = "Rig Veda 2.18.8"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *yoṣad* \< *yoṣat* \< *yu*
+- *yoṣad* ← *yoṣat* ← *yu*
 - \[verb\], singular, Aorist conj./subj.
 - “keep away; separate; ward off.”
 ------------------------------------------------------------------------
-- *asmabhyam* \< *mad*
+- *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -39,7 +39,7 @@ title = "Rig Veda 2.18.8"
 - \[noun\], nominative, singular, feminine
 - “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
 ------------------------------------------------------------------------
-- *duhīta* \< *duh*
+- *duhīta* ← *duh*
 - \[verb\], singular, Present optative
 - “milk.”
 ------------------------------------------------------------------------
@@ -47,34 +47,34 @@ title = "Rig Veda 2.18.8"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *jyeṣṭhe* \< *jyeṣṭha*
+- *jyeṣṭhe* ← *jyeṣṭha*
 - \[noun\], locative, singular, neuter
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
 ------------------------------------------------------------------------
-- *varūthe* \< *varūtha*
+- *varūthe* ← *varūtha*
 - \[noun\], locative, singular, neuter
 - “defense; protective covering.”
 ------------------------------------------------------------------------
-- *gabhastau* \< *gabhasti*
+- *gabhastau* ← *gabhasti*
 - \[noun\], locative, singular, masculine
 - “beam; hand; sun.”
 ------------------------------------------------------------------------
-- *prāye* \< *prāya*
+- *prāye* ← *prāya*
 - \[noun\], locative, singular, masculine
 - “predomination; seeking death by fasting; majority; strength; fast;
     suicide.”
 ------------------------------------------------------------------------
-- *prāye* \< *prāya*
+- *prāye* ← *prāya*
 - \[noun\], locative, singular, masculine
 - “predomination; seeking death by fasting; majority; strength; fast;
     suicide.”
 ------------------------------------------------------------------------
-- *jigīvāṃsaḥ* \< *ji*
+- *jigīvāṃsaḥ* ← *ji*
 - \[verb noun\], nominative, plural
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *syāma* \< *as*
+- *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

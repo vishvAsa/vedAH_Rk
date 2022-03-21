@@ -2,11 +2,11 @@
 title = "Rig Veda 10.63.12"
 
 +++
--   *apāmīvām* \< *apa*
+-   *apāmīvām* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *apāmīvām* \< *amīvām* \< *amīvā*
+- *apāmīvām* ← *amīvām* ← *amīvā*
 - \[noun\], accusative, singular, feminine
 - “disease; affliction.”
 ------------------------------------------------------------------------
@@ -14,66 +14,66 @@ title = "Rig Veda 10.63.12"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *viśvām* \< *viśva*
+- *viśvām* ← *viśva*
 - \[noun\], accusative, singular, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *anāhutim* \< *anāhuti*
+- *anāhutim* ← *anāhuti*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *apārātiṃ* \< *apa*
+- *apārātiṃ* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *apārātiṃ* \< *arātim* \< *arāti*
+- *apārātiṃ* ← *arātim* ← *arāti*
 - \[noun\], accusative, singular, feminine
 - “hostility; adversity; foe; envy; stinginess.”
 ------------------------------------------------------------------------
-- *durvidatrām* \< *durvidatra*
+- *durvidatrām* ← *durvidatra*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *aghāyataḥ* \< *aghāy*
+- *aghāyataḥ* ← *aghāy*
 - \[verb noun\], genitive, singular
 ------------------------------------------------------------------------
 - *āre*
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *dveṣo* \< *dveṣaḥ* \< *dveṣas*
+- *dveṣo* ← *dveṣaḥ* ← *dveṣas*
 - \[noun\], accusative, singular, neuter
 - “hostility; enemy.”
 ------------------------------------------------------------------------
-- *asmad* \< *asmat* \< *mad*
+- *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *yuyotanoru* \< *yuyotana* \< *yu*
+- *yuyotanoru* ← *yuyotana* ← *yu*
 - \[verb\], plural, Present imperative
 - “keep away; separate; ward off.”
 ------------------------------------------------------------------------
-- *yuyotanoru* \< *uru*
+- *yuyotanoru* ← *uru*
 - \[noun\], accusative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *ṇaḥ* \< *mad*
+- *ṇaḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *yacchatā* \< *yam*
+- *yacchatā* ← *yam*
 - \[verb\], plural, Present imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *svastaye* \< *svasti*
+- *svastaye* ← *svasti*
 - \[noun\], dative, singular, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”

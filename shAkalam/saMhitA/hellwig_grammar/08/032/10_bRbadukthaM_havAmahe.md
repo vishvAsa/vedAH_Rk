@@ -2,22 +2,22 @@
 title = "Rig Veda 8.32.10"
 
 +++
--   *bṛbadukthaṃ* \< *bṛbaduktham* \< *bṛbaduktha*
+-   *bṛbadukthaṃ* ← *bṛbaduktham* ← *bṛbaduktha*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *havāmahe* \< *hvā*
+- *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *sṛprakarasnam* \< *sṛpra*
+- *sṛprakarasnam* ← *sṛpra*
 - \[noun\]
 - “glossy; greasy.”
 ------------------------------------------------------------------------
-- *sṛprakarasnam* \< *karasnam* \< *karasna*
+- *sṛprakarasnam* ← *karasnam* ← *karasna*
 - \[noun\], accusative, singular, masculine
 - “forearm.”
 ------------------------------------------------------------------------
-- *ūtaye* \< *ūti*
+- *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
@@ -26,7 +26,7 @@ title = "Rig Veda 8.32.10"
 - “good; good; correct; correct; sādhu \[word\]; excellent;
     efficient.”
 ------------------------------------------------------------------------
-- *kṛṇvantam* \< *kṛ*
+- *kṛṇvantam* ← *kṛ*
 - \[verb noun\], accusative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -37,7 +37,7 @@ title = "Rig Veda 8.32.10"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *avase* \< *av*
+- *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------

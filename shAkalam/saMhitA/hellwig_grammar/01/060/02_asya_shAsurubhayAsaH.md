@@ -2,29 +2,29 @@
 title = "Rig Veda 1.60.2"
 
 +++
--   *asya* \< *idam*
+-   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *śāsur* \< *śāsuḥ* \< *śāsus*
+- *śāsur* ← *śāsuḥ* ← *śāsus*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *ubhayāsaḥ* \< *ubhaya*
+- *ubhayāsaḥ* ← *ubhaya*
 - \[noun\], nominative, plural, masculine
 - “both(a).”
 ------------------------------------------------------------------------
-- *sacante* \< *sac*
+- *sacante* ← *sac*
 - \[verb\], plural, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *haviṣmanta* \< *haviṣmantaḥ* \< *haviṣmat*
+- *haviṣmanta* ← *haviṣmantaḥ* ← *haviṣmat*
 - \[noun\], nominative, plural, masculine
 - “sacrificing.”
 ------------------------------------------------------------------------
-- *uśijo* \< *uśijaḥ* \< *uśij*
+- *uśijo* ← *uśijaḥ* ← *uśij*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -32,11 +32,11 @@ title = "Rig Veda 1.60.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *martāḥ* \< *marta*
+- *martāḥ* ← *marta*
 - \[noun\], nominative, plural, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *divaś* \< *divaḥ* \< *div*
+- *divaś* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -44,38 +44,38 @@ title = "Rig Veda 1.60.2"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *pūrvo* \< *pūrvaḥ* \< *pūrva*
+- *pūrvo* ← *pūrvaḥ* ← *pūrva*
 - \[noun\], nominative, singular, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *asādi* \< *sad*
+- *asādi* ← *sad*
 - \[verb\], singular, Aorist passive
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *hotāpṛcchyo* \< *hotā* \< *hotṛ*
+- *hotāpṛcchyo* ← *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *hotāpṛcchyo* \< *āpṛcchyaḥ* \< *āpṛcchya*
+- *hotāpṛcchyo* ← *āpṛcchyaḥ* ← *āpṛcchya*
 - \[noun\], nominative, singular, masculine
 - “āpṛcchya \[word\].”
 ------------------------------------------------------------------------
-- *viśpatir* \< *viśpatiḥ* \< *viśpati*
+- *viśpatir* ← *viśpatiḥ* ← *viśpati*
 - \[noun\], nominative, singular, masculine
 - “overlord; head.”
 ------------------------------------------------------------------------
-- *vikṣu* \< *viś*
+- *vikṣu* ← *viś*
 - \[noun\], locative, plural
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *vedhāḥ* \< *vedhas*
+- *vedhāḥ* ← *vedhas*
 - \[noun\], nominative, singular, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
 ------------------------------------------------------------------------

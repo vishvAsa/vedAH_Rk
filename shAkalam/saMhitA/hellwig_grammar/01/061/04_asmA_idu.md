@@ -2,7 +2,7 @@
 title = "Rig Veda 1.61.4"
 
 +++
--   *asmā* \< *asmai* \< *idam*
+-   *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -14,19 +14,19 @@ title = "Rig Veda 1.61.4"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *stomaṃ* \< *stomam* \< *stoma*
+- *stomaṃ* ← *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *hinomi* \< *hi*
+- *hinomi* ← *hi*
 - \[verb\], singular, Present indikative
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
-- *rathaṃ* \< *ratham* \< *ratha*
+- *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -34,18 +34,18 @@ title = "Rig Veda 1.61.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *taṣṭeva* \< *taṣṭā* \< *taṣṭṛ*
+- *taṣṭeva* ← *taṣṭā* ← *taṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “carpenter.”
 ------------------------------------------------------------------------
-- *taṣṭeva* \< *iva*
+- *taṣṭeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *tatsināya* \< *tatsina*
+- *tatsināya* ← *tatsina*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *giraś* \< *giraḥ* \< *gir*
+- *giraś* ← *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
@@ -54,22 +54,22 @@ title = "Rig Veda 1.61.4"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *girvāhase* \< *girvāhas*
+- *girvāhase* ← *girvāhas*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *suvṛktīndrāya* \< *suvṛktī* \< *suvṛkti*
+- *suvṛktīndrāya* ← *suvṛktī* ← *suvṛkti*
 - \[noun\], instrumental, singular, feminine
 - “praise.”
 ------------------------------------------------------------------------
-- *suvṛktīndrāya* \< *indrāya* \< *indra*
+- *suvṛktīndrāya* ← *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *viśvaminvam* \< *viśvaminva*
+- *viśvaminvam* ← *viśvaminva*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *medhirāya* \< *medhira*
+- *medhirāya* ← *medhira*
 - \[noun\], dative, singular, masculine
 - “wise; intelligent.”
 ------------------------------------------------------------------------

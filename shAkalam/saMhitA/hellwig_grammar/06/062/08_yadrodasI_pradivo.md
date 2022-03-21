@@ -2,32 +2,32 @@
 title = "Rig Veda 6.62.8"
 
 +++
--   *yad* \< *yat* \< *yad*
+-   *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], vocative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *pradivo* \< *pradivaḥ* \< *pradiv*
+- *pradivo* ← *pradivaḥ* ← *pradiv*
 - \[noun\], ablative, singular, masculine
 - “age-old; long.”
 ------------------------------------------------------------------------
-- *asti* \< *as*
+- *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *bhūmā* \< *\_* \< *√\_*
+- *bhūmā* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *heﾱo* \< *heﾱaḥ* \< *heḍas*
+- *heﾱo* ← *heﾱaḥ* ← *heḍas*
 - \[noun\], nominative, singular, neuter
 - “wrath.”
 ------------------------------------------------------------------------
-- *devānām* \< *deva*
+- *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -39,41 +39,41 @@ title = "Rig Veda 6.62.8"
 - *martyatrā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ādityā* \< *ādityāḥ* \< *āditya*
+- *ādityā* ← *ādityāḥ* ← *āditya*
 - \[noun\], vocative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
-- *vasavo* \< *vasavaḥ* \< *vasu*
+- *vasavo* ← *vasavaḥ* ← *vasu*
 - \[noun\], vocative, plural, masculine
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
 ------------------------------------------------------------------------
-- *rudriyāso* \< *rudriyāsaḥ* \< *rudriya*
+- *rudriyāso* ← *rudriyāsaḥ* ← *rudriya*
 - \[noun\], vocative, plural, masculine
 - “Marut.”
 ------------------------------------------------------------------------
-- *rakṣoyuje* \< *rakṣaḥ* \< *rakṣas*
+- *rakṣoyuje* ← *rakṣaḥ* ← *rakṣas*
 - \[noun\], neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
 ------------------------------------------------------------------------
-- *rakṣoyuje* \< *yuje* \< *yuj*
+- *rakṣoyuje* ← *yuje* ← *yuj*
 - \[noun\], dative, singular, masculine
 - “ally; friend; pair; two; companion.”
 ------------------------------------------------------------------------
-- *tapur* \< *tapuḥ* \< *tapus*
+- *tapur* ← *tapuḥ* ← *tapus*
 - \[noun\], accusative, singular, neuter
 - “heat.”
 ------------------------------------------------------------------------
-- *aghaṃ* \< *agham* \< *agha*
+- *aghaṃ* ← *agham* ← *agha*
 - \[noun\], accusative, singular, neuter
 - “bad; dangerous; ill; iniquitous; bad.”
 ------------------------------------------------------------------------
-- *dadhāta* \< *dhā*
+- *dadhāta* ← *dhā*
 - \[verb\], plural, Aorist imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

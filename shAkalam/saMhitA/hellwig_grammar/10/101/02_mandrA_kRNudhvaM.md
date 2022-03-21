@@ -2,11 +2,11 @@
 title = "Rig Veda 10.101.2"
 
 +++
--   *mandrā* \< *mandra*
+-   *mandrā* ← *mandra*
 - \[noun\], accusative, plural, feminine
 - “pleasant; eloquent; dulcet.”
 ------------------------------------------------------------------------
-- *kṛṇudhvaṃ* \< *kṛṇudhvam* \< *kṛ*
+- *kṛṇudhvaṃ* ← *kṛṇudhvam* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -17,7 +17,7 @@ title = "Rig Veda 10.101.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *dhiya* \< *dhiyaḥ* \< *dhī*
+- *dhiya* ← *dhiyaḥ* ← *dhī*
 - \[noun\], accusative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
@@ -26,23 +26,23 @@ title = "Rig Veda 10.101.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tanudhvaṃ* \< *tanudhvam* \< *tan*
+- *tanudhvaṃ* ← *tanudhvam* ← *tan*
 - \[verb\], plural, Present imperative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
 ------------------------------------------------------------------------
-- *nāvam* \< *nau*
+- *nāvam* ← *nau*
 - \[noun\], accusative, singular, feminine
 - “ship; boat; nau \[word\].”
 ------------------------------------------------------------------------
-- *aritraparaṇīṃ* \< *aritra*
+- *aritraparaṇīṃ* ← *aritra*
 - \[noun\], neuter
 - “oar.”
 ------------------------------------------------------------------------
-- *aritraparaṇīṃ* \< *paraṇīm* \< *paraṇa*
+- *aritraparaṇīṃ* ← *paraṇīm* ← *paraṇa*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *kṛṇudhvam* \< *kṛ*
+- *kṛṇudhvam* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -53,18 +53,18 @@ title = "Rig Veda 10.101.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *iṣkṛṇudhvam* \< *iṣkṛ* \< *√kṛ*
+- *iṣkṛṇudhvam* ← *iṣkṛ* ← *√kṛ*
 - \[verb\], plural, Present imperative
 - “prepare.”
 ------------------------------------------------------------------------
-- *āyudhāraṃ* \< *āyudhā* \< *āyudha*
+- *āyudhāraṃ* ← *āyudhā* ← *āyudha*
 - \[noun\], accusative, plural, neuter
 - “weapon; āyudha \[word\].”
 ------------------------------------------------------------------------
-- *āyudhāraṃ* \< *aram*
+- *āyudhāraṃ* ← *aram*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *kṛṇudhvam* \< *kṛ*
+- *kṛṇudhvam* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -75,12 +75,12 @@ title = "Rig Veda 10.101.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *prāñcaṃ* \< *prāñcam* \< *prāñc*
+- *prāñcaṃ* ← *prāñcam* ← *prāñc*
 - \[noun\], accusative, singular, masculine
 - “eastern; aforesaid(a); former(a); eastbound; easterly; anterior;
     forward; prāñc \[word\].”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
@@ -88,12 +88,12 @@ title = "Rig Veda 10.101.2"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ṇayatā* \< *nayata* \< *nī*
+- *ṇayatā* ← *nayata* ← *nī*
 - \[verb\], plural, Present imperative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *sakhāyaḥ* \< *sakhi*
+- *sakhāyaḥ* ← *sakhi*
 - \[noun\], vocative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------

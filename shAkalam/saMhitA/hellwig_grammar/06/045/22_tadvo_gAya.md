@@ -2,21 +2,21 @@
 title = "Rig Veda 6.45.22"
 
 +++
--   *tad* \< *tat* \< *tad*
+-   *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *gāya* \< *gā*
+- *gāya* ← *gā*
 - \[verb\], singular, Present imperative
 - “sing; praise; jap; recite; describe.”
 ------------------------------------------------------------------------
-- *sute* \< *suta*
+- *sute* ← *suta*
 - \[noun\], locative, singular, masculine
 - “Soma.”
 ------------------------------------------------------------------------
@@ -24,23 +24,23 @@ title = "Rig Veda 6.45.22"
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *puruhūtāya* \< *puruhūta*
+- *puruhūtāya* ← *puruhūta*
 - \[noun\], dative, singular, masculine
 - “Indra; Vishnu.”
 ------------------------------------------------------------------------
-- *satvane* \< *satvan*
+- *satvane* ← *satvan*
 - \[noun\], dative, singular, masculine
 - “warrior.”
 ------------------------------------------------------------------------
-- *śaṃ* \< *śam*
+- *śaṃ* ← *śam*
 - \[adverb\]
 - “śam \[word\].”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *gave* \< *go*
+- *gave* ← *go*
 - \[noun\], dative, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -49,7 +49,7 @@ title = "Rig Veda 6.45.22"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śākine* \< *śākin*
+- *śākine* ← *śākin*
 - \[noun\], dative, singular, masculine
 - “strong.”
 ------------------------------------------------------------------------

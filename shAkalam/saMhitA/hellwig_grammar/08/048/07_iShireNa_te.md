@@ -2,36 +2,36 @@
 title = "Rig Veda 8.48.7"
 
 +++
--   *iṣireṇa* \< *iṣira*
+-   *iṣireṇa* ← *iṣira*
 - \[noun\], instrumental, singular, neuter
 - “vigorous; bracing; quick.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *sutasya* \< *su*
+- *sutasya* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *bhakṣīmahi* \< *bhakṣ*
+- *bhakṣīmahi* ← *bhakṣ*
 - \[verb\], plural, Aorist optative
 - “eat; feed.”
 ------------------------------------------------------------------------
-- *pitryasyeva* \< *pitryasya* \< *pitrya*
+- *pitryasyeva* ← *pitryasya* ← *pitrya*
 - \[noun\], genitive, singular, masculine
 - “ancestral; paternal.”
 ------------------------------------------------------------------------
-- *pitryasyeva* \< *iva*
+- *pitryasyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *rāyaḥ* \< *rai*
+- *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
@@ -47,32 +47,32 @@ title = "Rig Veda 8.48.7"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ṇa* \< *naḥ* \< *mad*
+- *ṇa* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *āyūṃṣi* \< *āyus*
+- *āyūṃṣi* ← *āyus*
 - \[noun\], accusative, plural, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------
-- *tārīr* \< *tārīḥ* \< *tṛ*
+- *tārīr* ← *tārīḥ* ← *tṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *ahānīva* \< *ahāni* \< *aha*
+- *ahānīva* ← *ahāni* ← *aha*
 - \[noun\], accusative, plural, neuter
 - “day; aha \[word\]; day.”
 ------------------------------------------------------------------------
-- *ahānīva* \< *iva*
+- *ahānīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sūryo* \< *sūryaḥ* \< *sūrya*
+- *sūryo* ← *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *vāsarāṇi* \< *vāsara*
+- *vāsarāṇi* ← *vāsara*
 - \[noun\], accusative, plural, neuter
 - “matutinal.”
 ------------------------------------------------------------------------

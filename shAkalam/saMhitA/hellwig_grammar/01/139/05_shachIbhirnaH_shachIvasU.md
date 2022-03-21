@@ -2,19 +2,19 @@
 title = "Rig Veda 1.139.5"
 
 +++
--   *śacībhir* \< *śacībhiḥ* \< *śacī*
+-   *śacībhir* ← *śacībhiḥ* ← *śacī*
 - \[noun\], instrumental, plural, feminine
 - “Śacī; power; dexterity; ability; aid.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śacīvasū* \< *śacī*
+- *śacīvasū* ← *śacī*
 - \[noun\], feminine
 - “Śacī; power; dexterity; ability; aid.”
 ------------------------------------------------------------------------
-- *śacīvasū* \< *vasū* \< *vasu*
+- *śacīvasū* ← *vasū* ← *vasu*
 - \[noun\], vocative, dual, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
@@ -22,22 +22,22 @@ title = "Rig Veda 1.139.5"
 - \[adverb\]
 - “by day; divā \[indecl.\].”
 ------------------------------------------------------------------------
-- *naktaṃ* \< *naktam* \< *nakta*
+- *naktaṃ* ← *naktam* ← *nakta*
 - \[noun\], accusative, singular, neuter
 - “night; night.”
 ------------------------------------------------------------------------
-- *daśasyatam* \< *daśasy*
+- *daśasyatam* ← *daśasy*
 - \[verb\], dual, Present imperative
 ------------------------------------------------------------------------
 - *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *rātir* \< *rātiḥ* \< *rāti*
+- *rātir* ← *rātiḥ* ← *rāti*
 - \[noun\], nominative, singular, feminine
 - “gift; bounty; favor.”
 ------------------------------------------------------------------------
@@ -45,22 +45,22 @@ title = "Rig Veda 1.139.5"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *dasat* \< *das*
+- *dasat* ← *das*
 - \[verb\], singular, Present injunctive
 ------------------------------------------------------------------------
 - *kadā*
 - \[adverb\]
 - “when; kadā \[word\].”
 ------------------------------------------------------------------------
-- *canāsmad* \< *cana*
+- *canāsmad* ← *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *canāsmad* \< *asmat* \< *mad*
+- *canāsmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rātiḥ* \< *rāti*
+- *rātiḥ* ← *rāti*
 - \[noun\], nominative, singular, feminine
 - “gift; bounty; favor.”
 ------------------------------------------------------------------------

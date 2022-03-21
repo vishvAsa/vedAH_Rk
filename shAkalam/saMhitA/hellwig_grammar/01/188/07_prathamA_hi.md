@@ -2,7 +2,7 @@
 title = "Rig Veda 1.188.7"
 
 +++
--   *prathamā* \< *prathama*
+-   *prathamā* ← *prathama*
 - \[noun\], nominative, dual, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
@@ -11,35 +11,35 @@ title = "Rig Veda 1.188.7"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *suvācasā* \< *suvācas*
+- *suvācasā* ← *suvācas*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *hotārā* \< *hotṛ*
+- *hotārā* ← *hotṛ*
 - \[noun\], nominative, dual, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *daivyā* \< *daivya*
+- *daivyā* ← *daivya*
 - \[noun\], nominative, dual, masculine
 - “divine; divine; celestial.”
 ------------------------------------------------------------------------
-- *kavī* \< *kavi*
+- *kavī* ← *kavi*
 - \[noun\], nominative, dual, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *yajñaṃ* \< *yajñam* \< *yajña*
+- *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *yakṣatām* \< *yaj*
+- *yakṣatām* ← *yaj*
 - \[verb\], dual, Aorist conj./subj.
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *imam* \< *idam*
+- *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 5.73.9"
 
 +++
--   *satyam* \< *satya*
+-   *satyam* ← *satya*
 - \[noun\], accusative, singular, neuter
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
@@ -10,7 +10,7 @@ title = "Rig Veda 5.73.9"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *vā* \< *vai*
+- *vā* ← *vai*
 - \[adverb\]
 - “surely; on the other hand; vai \[word\]; indeed.”
 ------------------------------------------------------------------------
@@ -18,23 +18,23 @@ title = "Rig Veda 5.73.9"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *yuvām* \< *tvad*
+- *yuvām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *āhur* \< *āhuḥ* \< *ah*
+- *āhur* ← *āhuḥ* ← *ah*
 - \[verb\], plural, Perfect indicative
 - “describe; state; say; enumerate; call; name; teach; tell; deem;
     explain; say; define.”
 ------------------------------------------------------------------------
-- *mayobhuvā* \< *mayobhu*
+- *mayobhuvā* ← *mayobhu*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------
-- *tā* \< *tad*
+- *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -44,14 +44,14 @@ title = "Rig Veda 5.73.9"
 - \[noun\], locative, singular, neuter
 - “expedition; path; expedition; arrival.”
 ------------------------------------------------------------------------
-- *yāmahūtamā* \< *yāma* \< *yāman*
+- *yāmahūtamā* ← *yāma* ← *yāman*
 - \[noun\], neuter
 - “expedition; path; expedition; arrival.”
 ------------------------------------------------------------------------
-- *yāmahūtamā* \< *hūtamā* \< *hūtama*
+- *yāmahūtamā* ← *hūtamā* ← *hūtama*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *yāmann* \< *yāman*
+- *yāmann* ← *yāman*
 - \[noun\], locative, singular, neuter
 - “expedition; path; expedition; arrival.”
 ------------------------------------------------------------------------
@@ -59,6 +59,6 @@ title = "Rig Veda 5.73.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *mṛﾱayattamā* \< *mṛḍayattama*
+- *mṛﾱayattamā* ← *mṛḍayattama*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------

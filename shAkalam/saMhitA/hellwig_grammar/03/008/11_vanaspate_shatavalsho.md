@@ -2,15 +2,15 @@
 title = "Rig Veda 3.8.11"
 
 +++
--   *vanaspate* \< *vanaspati*
+-   *vanaspate* ← *vanaspati*
 - \[noun\], vocative, singular, masculine
 - “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
 ------------------------------------------------------------------------
-- *śatavalśo* \< *śata*
+- *śatavalśo* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *śatavalśo* \< *valśaḥ* \< *valśa*
+- *śatavalśo* ← *valśaḥ* ← *valśa*
 - \[noun\], nominative, singular, masculine
 - “branch.”
 ------------------------------------------------------------------------
@@ -18,15 +18,15 @@ title = "Rig Veda 3.8.11"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *roha* \< *ruh*
+- *roha* ← *ruh*
 - \[verb\], singular, Present imperative
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
 ------------------------------------------------------------------------
-- *sahasravalśā* \< *sahasra*
+- *sahasravalśā* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasravalśā* \< *valśāḥ* \< *valśa*
+- *sahasravalśā* ← *valśāḥ* ← *valśa*
 - \[noun\], nominative, plural, masculine
 - “branch.”
 ------------------------------------------------------------------------
@@ -34,45 +34,45 @@ title = "Rig Veda 3.8.11"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ruhema* \< *ruh*
+- *ruhema* ← *ruh*
 - \[verb\], plural, Present optative
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *tvām* \< *tvad*
+- *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ayaṃ* \< *ayam* \< *idam*
+- *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *svadhitis* \< *svadhitiḥ* \< *svadhiti*
+- *svadhitis* ← *svadhitiḥ* ← *svadhiti*
 - \[noun\], nominative, singular, masculine
 - “ax; knife.”
 ------------------------------------------------------------------------
-- *tejamānaḥ* \< *tij*
+- *tejamānaḥ* ← *tij*
 - \[verb noun\], nominative, singular
 - “sharpen.”
 ------------------------------------------------------------------------
-- *praṇināya* \< *praṇī* \< *√nī*
+- *praṇināya* ← *praṇī* ← *√nī*
 - \[verb\], singular, Perfect indicative
 - “enforce; lead; produce.”
 ------------------------------------------------------------------------
-- *mahate* \< *mahat*
+- *mahate* ← *mahat*
 - \[noun\], dative, singular, neuter
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
 ------------------------------------------------------------------------
-- *saubhagāya* \< *saubhaga*
+- *saubhagāya* ← *saubhaga*
 - \[noun\], dative, singular, neuter
 - “well-being.”
 ------------------------------------------------------------------------

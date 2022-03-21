@@ -2,7 +2,7 @@
 title = "Rig Veda 1.117.5"
 
 +++
--   *suṣupvāṃsaṃ* \< *suṣupvāṃsam* \< *svap*
+-   *suṣupvāṃsaṃ* ← *suṣupvāṃsam* ← *svap*
 - \[verb noun\], accusative, singular
 - “sleep; numb; fall asleep.”
 ------------------------------------------------------------------------
@@ -10,15 +10,15 @@ title = "Rig Veda 1.117.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nirṛter* \< *nirṛteḥ* \< *nirṛti*
+- *nirṛter* ← *nirṛteḥ* ← *nirṛti*
 - \[noun\], genitive, singular, feminine
 - “destruction; Nirṛti; adversity.”
 ------------------------------------------------------------------------
-- *upasthe* \< *upastha*
+- *upasthe* ← *upastha*
 - \[noun\], locative, singular, neuter
 - “genitalia; lap; sexual desire; anus.”
 ------------------------------------------------------------------------
-- *sūryaṃ* \< *sūryam* \< *sūrya*
+- *sūryaṃ* ← *sūryam* ← *sūrya*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
@@ -27,24 +27,24 @@ title = "Rig Veda 1.117.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dasrā* \< *dasra*
+- *dasrā* ← *dasra*
 - \[noun\], vocative, dual, masculine
 - “Asvins.”
 ------------------------------------------------------------------------
-- *tamasi* \< *tamas*
+- *tamasi* ← *tamas*
 - \[noun\], locative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
 ------------------------------------------------------------------------
-- *kṣiyantam* \< *kṣi*
+- *kṣiyantam* ← *kṣi*
 - \[verb noun\], accusative, singular
 - “govern; inhabit; dwell; stay; predominate; bide; own.”
 ------------------------------------------------------------------------
-- *śubhe* \< *śubh*
+- *śubhe* ← *śubh*
 - \[verb noun\]
 - “look; shine; beautify.”
 ------------------------------------------------------------------------
-- *rukmaṃ* \< *rukmam* \< *rukma*
+- *rukmaṃ* ← *rukmam* ← *rukma*
 - \[noun\], accusative, singular, neuter
 - “gold; svarṇamākṣika.”
 ------------------------------------------------------------------------
@@ -52,11 +52,11 @@ title = "Rig Veda 1.117.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *darśataṃ* \< *darśatam* \< *darśata*
+- *darśataṃ* ← *darśatam* ← *darśata*
 - \[noun\], accusative, singular, neuter
 - “beautiful; visible; beautiful.”
 ------------------------------------------------------------------------
-- *nikhātam* \< *nikhan* \< *√khan*
+- *nikhātam* ← *nikhan* ← *√khan*
 - \[verb noun\], accusative, singular
 - “bury; insert.”
 ------------------------------------------------------------------------
@@ -64,15 +64,15 @@ title = "Rig Veda 1.117.5"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *ūpathur* \< *ūpathuḥ* \< *vap*
+- *ūpathur* ← *ūpathuḥ* ← *vap*
 - \[verb\], dual, Perfect indicative
 - “sow; bestrew; strew; scatter.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *vandanāya* \< *vandana*
+- *vandanāya* ← *vandana*
 - \[noun\], dative, singular, neuter
 - “worship; skin disease.”
 ------------------------------------------------------------------------

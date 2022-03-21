@@ -2,32 +2,32 @@
 title = "Rig Veda 5.84.3"
 
 +++
--   *dṛﾱhā* \< *dṛḍha*
+-   *dṛﾱhā* ← *dṛḍha*
 - \[noun\], nominative, singular, feminine
 - “hard; intense; firm; fixed; resolute; mesomorphic; grim; dṛḍha
     \[word\]; rainproof; sturdy; shut; firm; insoluble; strong; tough;
     tight.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vanaspatīn* \< *vanaspati*
+- *vanaspatīn* ← *vanaspati*
 - \[noun\], accusative, plural, masculine
 - “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
 ------------------------------------------------------------------------
-- *kṣmayā* \< *kṣmā*
+- *kṣmayā* ← *kṣmā*
 - \[noun\], instrumental, singular, feminine
 - “Earth; Earth; land.”
 ------------------------------------------------------------------------
-- *dardharṣy* \< *dardharṣi* \< *dhardhṛ* \< *√dhṛ*
+- *dardharṣy* ← *dardharṣi* ← *dhardhṛ* ← *√dhṛ*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *ojasā* \< *ojas*
+- *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
@@ -35,28 +35,28 @@ title = "Rig Veda 5.84.3"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *abhrasya* \< *abhra*
+- *abhrasya* ← *abhra*
 - \[noun\], genitive, singular, neuter
 - “abhra; cloud; sky; abhra \[word\]; cumulonimbus; mica; air;
     cloudiness.”
 ------------------------------------------------------------------------
-- *vidyuto* \< *vidyutaḥ* \< *vidyut*
+- *vidyuto* ← *vidyutaḥ* ← *vidyut*
 - \[noun\], nominative, plural, feminine
 - “lightning; Vidyut; thunderbolt.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *varṣanti* \< *vṛṣ*
+- *varṣanti* ← *vṛṣ*
 - \[verb\], plural, Present indikative
 - “shower; rain; effuse; shower; drench.”
 ------------------------------------------------------------------------
-- *vṛṣṭayaḥ* \< *vṛṣṭi*
+- *vṛṣṭayaḥ* ← *vṛṣṭi*
 - \[noun\], nominative, plural, feminine
 - “rain; shower; rainy season.”
 ------------------------------------------------------------------------

@@ -6,7 +6,7 @@ title = "Rig Veda 5.40.5"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -15,33 +15,33 @@ title = "Rig Veda 5.40.5"
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *svarbhānus* \< *svarbhānuḥ* \< *svarbhānu*
+- *svarbhānus* ← *svarbhānuḥ* ← *svarbhānu*
 - \[noun\], nominative, singular, masculine
 - “Rahu.”
 ------------------------------------------------------------------------
-- *tamasāvidhyad* \< *tamasā* \< *tamas*
+- *tamasāvidhyad* ← *tamasā* ← *tamas*
 - \[noun\], instrumental, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
 ------------------------------------------------------------------------
-- *tamasāvidhyad* \< *vidhyat* \< *vyadh*
+- *tamasāvidhyad* ← *vidhyat* ← *vyadh*
 - \[verb\], singular, Imperfect
 - “pierce; vedhay; pierce; transfix; bleed; pierce; cut off; injure.”
 ------------------------------------------------------------------------
-- *āsuraḥ* \< *āsura*
+- *āsuraḥ* ← *āsura*
 - \[noun\], nominative, singular, masculine
 - “āsura; demoniac.”
 ------------------------------------------------------------------------
-- *akṣetravid* \< *a*
+- *akṣetravid* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *akṣetravid* \< *kṣetra*
+- *akṣetravid* ← *kṣetra*
 - \[noun\], masculine
 - “field; location; habitat; country; area; earth; region; estate;
     body; kṣetra \[word\]; kṣetradoṣa; seat; reincarnation; uterus.”
 ------------------------------------------------------------------------
-- *akṣetravid* \< *vid*
+- *akṣetravid* ← *vid*
 - \[noun\], nominative, singular, masculine
 - “conversant(p); aware(p); enlightened; understanding.”
 ------------------------------------------------------------------------
@@ -49,15 +49,15 @@ title = "Rig Veda 5.40.5"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *mugdho* \< *mugdhaḥ* \< *muh*
+- *mugdho* ← *mugdhaḥ* ← *muh*
 - \[verb noun\], nominative, singular
 - “confuse; err; faint; stray; sin.”
 ------------------------------------------------------------------------
-- *bhuvanāny* \< *bhuvanāni* \< *bhuvana*
+- *bhuvanāny* ← *bhuvanāni* ← *bhuvana*
 - \[noun\], nominative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *adīdhayuḥ* \< *dhī*
+- *adīdhayuḥ* ← *dhī*
 - \[verb\], plural, Imperfect
 - “think; desire; chew over.”
 ------------------------------------------------------------------------

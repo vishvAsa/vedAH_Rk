@@ -2,32 +2,32 @@
 title = "Rig Veda 8.88.1"
 
 +++
--   *taṃ* \< *tam* \< *tad*
+-   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *dasmam* \< *dasma*
+- *dasmam* ← *dasma*
 - \[noun\], accusative, singular, masculine
 - “overlord.”
 ------------------------------------------------------------------------
-- *ṛtīṣahaṃ* \< *ṛtīṣaham* \< *ṛtīṣah*
+- *ṛtīṣahaṃ* ← *ṛtīṣaham* ← *ṛtīṣah*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *vasor* \< *vasoḥ* \< *vasu*
+- *vasor* ← *vasoḥ* ← *vasu*
 - \[noun\], genitive, singular, neuter
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *mandānam* \< *mad*
+- *mandānam* ← *mad*
 - \[verb noun\], accusative, singular
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *andhasaḥ* \< *andhas*
+- *andhasaḥ* ← *andhas*
 - \[noun\], genitive, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
@@ -35,7 +35,7 @@ title = "Rig Veda 8.88.1"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *vatsaṃ* \< *vatsam* \< *vatsa*
+- *vatsaṃ* ← *vatsam* ← *vatsa*
 - \[noun\], accusative, singular, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
@@ -44,25 +44,25 @@ title = "Rig Veda 8.88.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *svasareṣu* \< *svasara*
+- *svasareṣu* ← *svasara*
 - \[noun\], locative, plural, neuter
 - “pasture; stall.”
 ------------------------------------------------------------------------
-- *dhenava* \< *dhenavaḥ* \< *dhenu*
+- *dhenava* ← *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *gīrbhir* \< *gīrbhiḥ* \< *gir*
+- *gīrbhir* ← *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *navāmahe* \< *nū*
+- *navāmahe* ← *nū*
 - \[verb\], plural, Present indikative
 - “praise; shout.”
 ------------------------------------------------------------------------

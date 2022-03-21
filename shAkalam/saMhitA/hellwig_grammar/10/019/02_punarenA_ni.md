@@ -7,7 +7,7 @@ title = "Rig Veda 10.19.2"
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
 ------------------------------------------------------------------------
-- *enā* \< *enāḥ* \< *enad*
+- *enā* ← *enāḥ* ← *enad*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
@@ -15,7 +15,7 @@ title = "Rig Veda 10.19.2"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *vartaya* \< *vartay* \< *√vṛt*
+- *vartaya* ← *vartay* ← *√vṛt*
 - \[verb\], singular, Present imperative
 - “pound; tell; exist; bring; spill; mix; survive; melt; roll;
     explain; perform; turn; chop; sustain; spend; roll up; produce.”
@@ -25,11 +25,11 @@ title = "Rig Veda 10.19.2"
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
 ------------------------------------------------------------------------
-- *enā* \< *enāḥ* \< *enad*
+- *enā* ← *enāḥ* ← *enad*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
@@ -37,7 +37,7 @@ title = "Rig Veda 10.19.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *kuru* \< *kṛ*
+- *kuru* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -48,12 +48,12 @@ title = "Rig Veda 10.19.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *indra* \< *indraḥ* \< *indra*
+- *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *eṇā* \< *enāḥ* \< *enad*
+- *eṇā* ← *enāḥ* ← *enad*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
@@ -61,21 +61,21 @@ title = "Rig Veda 10.19.2"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *yacchatv* \< *yacchatu* \< *yam*
+- *yacchatv* ← *yacchatu* ← *yam*
 - \[verb\], singular, Present imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *agnir* \< *agniḥ* \< *agni*
+- *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *enā* \< *enāḥ* \< *enad*
+- *enā* ← *enāḥ* ← *enad*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
-- *upājatu* \< *upāj* \< *√aj*
+- *upājatu* ← *upāj* ← *√aj*
 - \[verb\], singular, Present imperative
 - “drive.”
 ------------------------------------------------------------------------

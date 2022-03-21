@@ -2,23 +2,23 @@
 title = "Rig Veda 8.26.17"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *ado* \< *adaḥ* \< *adas*
+- *ado* ← *adaḥ* ← *adas*
 - \[noun\], accusative, singular, neuter
 - “that; John Doe; yonder; from here.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *arṇava* \< *arṇave* \< *arṇava*
+- *arṇava* ← *arṇave* ← *arṇava*
 - \[noun\], locative, singular, masculine
 - “ocean; sea; four.”
 ------------------------------------------------------------------------
-- *iṣo* \< *iṣaḥ* \< *iṣ*
+- *iṣo* ← *iṣaḥ* ← *iṣ*
 - \[noun\], genitive, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
@@ -26,27 +26,27 @@ title = "Rig Veda 8.26.17"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *madatho* \< *madathaḥ* \< *mad*
+- *madatho* ← *madathaḥ* ← *mad*
 - \[verb\], dual, Present indikative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *gṛhe* \< *gṛha*
+- *gṛhe* ← *gṛha*
 - \[noun\], locative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
 ------------------------------------------------------------------------
-- *śrutam* \< *śru*
+- *śrutam* ← *śru*
 - \[verb\], dual, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *in* \< *id*
+- *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *amartyā* \< *amartya*
+- *amartyā* ← *amartya*
 - \[noun\], vocative, dual, masculine
 - “immortal.”
 ------------------------------------------------------------------------

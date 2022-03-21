@@ -2,43 +2,43 @@
 title = "Rig Veda 6.54.8"
 
 +++
--   *śṛṇvantam* \< *śru*
+-   *śṛṇvantam* ← *śru*
 - \[verb noun\], accusative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *pūṣaṇaṃ* \< *pūṣaṇam* \< *pūṣan*
+- *pūṣaṇaṃ* ← *pūṣaṇam* ← *pūṣan*
 - \[noun\], accusative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *vayam* \< *mad*
+- *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *iryam* \< *irya*
+- *iryam* ← *irya*
 - \[noun\], accusative, singular, masculine
 - “argus-eyed; active; heedful.”
 ------------------------------------------------------------------------
-- *anaṣṭavedasam* \< *a*
+- *anaṣṭavedasam* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *anaṣṭavedasam* \< *naṣṭa* \< *naś*
+- *anaṣṭavedasam* ← *naṣṭa* ← *naś*
 - \[verb noun\]
 - “disappear; vanish; gasify; fail; perish; lose; bhasmībhū.”
 ------------------------------------------------------------------------
-- *anaṣṭavedasam* \< *vedasam* \< *vedas*
+- *anaṣṭavedasam* ← *vedasam* ← *vedas*
 - \[noun\], accusative, singular, masculine
 - “property.”
 ------------------------------------------------------------------------
-- *īśānaṃ* \< *īśānam* \< *īś*
+- *īśānaṃ* ← *īśānam* ← *īś*
 - \[verb noun\], accusative, singular
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *rāya* \< *rāyaḥ* \< *rai*
+- *rāya* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *īmahe* \< *ī* \< *√i*
+- *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------

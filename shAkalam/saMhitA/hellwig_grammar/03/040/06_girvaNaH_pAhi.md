@@ -2,30 +2,30 @@
 title = "Rig Veda 3.40.6"
 
 +++
--   *girvaṇaḥ* \< *girvaṇas*
+-   *girvaṇaḥ* ← *girvaṇas*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Aorist imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sutam* \< *suta*
+- *sutam* ← *suta*
 - \[noun\], accusative, singular, masculine
 - “Soma.”
 ------------------------------------------------------------------------
-- *madhor* \< *madhoḥ* \< *madhu*
+- *madhor* ← *madhoḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *dhārābhir* \< *dhārābhiḥ* \< *dhārā*
+- *dhārābhir* ← *dhārābhiḥ* ← *dhārā*
 - \[noun\], instrumental, plural, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *ajyase* \< *añj*
+- *ajyase* ← *añj*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
@@ -34,14 +34,14 @@ title = "Rig Veda 3.40.6"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tvādātam* \< *tvādāta*
+- *tvādātam* ← *tvādāta*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *yaśaḥ* \< *yaśas*
+- *yaśaḥ* ← *yaśas*
 - \[noun\], nominative, singular, neuter
 - “fame; Yaśas.”
 ------------------------------------------------------------------------

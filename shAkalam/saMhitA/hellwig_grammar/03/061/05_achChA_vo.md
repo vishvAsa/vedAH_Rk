@@ -6,19 +6,19 @@ title = "Rig Veda 3.61.5"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *devīm* \< *devī*
+- *devīm* ← *devī*
 - \[noun\], accusative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *uṣasaṃ* \< *uṣasam* \< *uṣas*
+- *uṣasaṃ* ← *uṣasam* ← *uṣas*
 - \[noun\], accusative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *vibhātīm* \< *vibhā* \< *√bhā*
+- *vibhātīm* ← *vibhā* ← *√bhā*
 - \[verb noun\], accusative, singular
 - “shine.”
 ------------------------------------------------------------------------
@@ -26,45 +26,45 @@ title = "Rig Veda 3.61.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *bharadhvaṃ* \< *bharadhvam* \< *bhṛ*
+- *bharadhvaṃ* ← *bharadhvam* ← *bhṛ*
 - \[verb\], plural, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *namasā* \< *namas*
+- *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *suvṛktim* \< *suvṛkti*
+- *suvṛktim* ← *suvṛkti*
 - \[noun\], accusative, singular, feminine
 - “praise.”
 ------------------------------------------------------------------------
-- *ūrdhvam* \< *ūrdhva*
+- *ūrdhvam* ← *ūrdhva*
 - \[noun\], accusative, singular, neuter
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
 ------------------------------------------------------------------------
-- *madhudhā* \< *madhu*
+- *madhudhā* ← *madhu*
 - \[noun\], neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *madhudhā* \< *dhāḥ* \< *dhā*
+- *madhudhā* ← *dhāḥ* ← *dhā*
 - \[noun\], nominative, singular, feminine
 - “giving.”
 ------------------------------------------------------------------------
-- *divi* \< *div*
+- *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *pājo* \< *pājaḥ* \< *pājas*
+- *pājo* ← *pājaḥ* ← *pājas*
 - \[noun\], accusative, singular, neuter
 - “luminosity; look.”
 ------------------------------------------------------------------------
-- *aśret* \< *śri*
+- *aśret* ← *śri*
 - \[verb\], singular, Root aorist (Ind.)
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 ------------------------------------------------------------------------
@@ -72,19 +72,19 @@ title = "Rig Veda 3.61.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *rocanā* \< *rocana*
+- *rocanā* ← *rocana*
 - \[noun\], nominative, singular, feminine
 - “appetizing; bright; bright.”
 ------------------------------------------------------------------------
-- *ruruce* \< *ruc*
+- *ruruce* ← *ruc*
 - \[verb\], singular, Perfect indicative
 - “please; shine.”
 ------------------------------------------------------------------------
-- *raṇvasaṃdṛk* \< *raṇva*
+- *raṇvasaṃdṛk* ← *raṇva*
 - \[noun\]
 - “agreeable; happy; delightful; gay.”
 ------------------------------------------------------------------------
-- *raṇvasaṃdṛk* \< *saṃdṛś*
+- *raṇvasaṃdṛk* ← *saṃdṛś*
 - \[noun\], nominative, singular, feminine
 - “appearance; view; view.”
 ------------------------------------------------------------------------

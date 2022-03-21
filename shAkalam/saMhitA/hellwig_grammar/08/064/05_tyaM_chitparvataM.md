@@ -2,7 +2,7 @@
 title = "Rig Veda 8.64.5"
 
 +++
--   *tyaṃ* \< *tyam* \< *tya*
+-   *tyaṃ* ← *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
@@ -10,19 +10,19 @@ title = "Rig Veda 8.64.5"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *parvataṃ* \< *parvatam* \< *parvata*
+- *parvataṃ* ← *parvatam* ← *parvata*
 - \[noun\], accusative, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
 ------------------------------------------------------------------------
-- *giriṃ* \< *girim* \< *giri*
+- *giriṃ* ← *girim* ← *giri*
 - \[noun\], accusative, singular, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
 ------------------------------------------------------------------------
-- *śatavantaṃ* \< *śatavantam* \< *śatavat*
+- *śatavantaṃ* ← *śatavantam* ← *śatavat*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *sahasriṇam* \< *sahasrin*
+- *sahasriṇam* ← *sahasrin*
 - \[noun\], accusative, singular, masculine
 - “thousandfold.”
 ------------------------------------------------------------------------
@@ -30,11 +30,11 @@ title = "Rig Veda 8.64.5"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *stotṛbhyo* \< *stotṛbhyaḥ* \< *stotṛ*
+- *stotṛbhyo* ← *stotṛbhyaḥ* ← *stotṛ*
 - \[noun\], dative, plural, masculine
 - “laudatory; worshiping.”
 ------------------------------------------------------------------------
-- *rurojitha* \< *ruj*
+- *rurojitha* ← *ruj*
 - \[verb\], singular, Perfect indicative
 - “break; bend.”
 ------------------------------------------------------------------------

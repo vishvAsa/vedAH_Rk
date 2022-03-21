@@ -6,11 +6,11 @@ title = "Rig Veda 7.46.4"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vadhī* \< *vadhīḥ* \< *vadh*
+- *vadhī* ← *vadhīḥ* ← *vadh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “kill; assail; kick; māray; destroy; beat.”
 ------------------------------------------------------------------------
@@ -26,7 +26,7 @@ title = "Rig Veda 7.46.4"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *dā* \< *dāḥ* \< *dā*
+- *dā* ← *dāḥ* ← *dā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
@@ -37,22 +37,22 @@ title = "Rig Veda 7.46.4"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *bhūma* \< *bhū*
+- *bhūma* ← *bhū*
 - \[verb\], plural, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *prasitau* \< *prasiti*
+- *prasitau* ← *prasiti*
 - \[noun\], locative, singular, feminine
 - “binding.”
 ------------------------------------------------------------------------
-- *hīﾱitasya* \< *hīḍitasya* \< *hīḍita*
+- *hīﾱitasya* ← *hīḍitasya* ← *hīḍita*
 - \[noun\], genitive, singular, masculine
 - “angry.”
 ------------------------------------------------------------------------
@@ -60,36 +60,36 @@ title = "Rig Veda 7.46.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *bhaja* \< *bhaj*
+- *bhaja* ← *bhaj*
 - \[verb\], singular, Present imperative
 - “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
     one's share; partake; share; get; approach; love; use.”
 ------------------------------------------------------------------------
-- *barhiṣi* \< *barhis*
+- *barhiṣi* ← *barhis*
 - \[noun\], locative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *jīvaśaṃse* \< *jīva*
+- *jīvaśaṃse* ← *jīva*
 - \[noun\]
 - “live; alive(p); amṛta.”
 ------------------------------------------------------------------------
-- *jīvaśaṃse* \< *śaṃse* \< *śaṃsa*
+- *jīvaśaṃse* ← *śaṃse* ← *śaṃsa*
 - \[noun\], locative, singular, masculine
 - “praise; śaṃs; recitation.”
 ------------------------------------------------------------------------
-- *yūyam* \< *tvad*
+- *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *pāta* \< *pā*
+- *pāta* ← *pā*
 - \[verb\], plural, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *svastibhiḥ* \< *svasti*
+- *svastibhiḥ* ← *svasti*
 - \[noun\], instrumental, plural, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
@@ -98,7 +98,7 @@ title = "Rig Veda 7.46.4"
 - \[adverb\]
 - “always; continually; always; perpetually.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

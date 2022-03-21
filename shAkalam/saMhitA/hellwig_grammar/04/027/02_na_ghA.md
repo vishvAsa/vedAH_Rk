@@ -6,16 +6,16 @@ title = "Rig Veda 4.27.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *ghā* \< *gha*
+- *ghā* ← *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *mām* \< *mad*
+- *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -23,30 +23,30 @@ title = "Rig Veda 4.27.2"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *joṣaṃ* \< *joṣam*
+- *joṣaṃ* ← *joṣam*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *jabhārābhīm* \< *jabhāra* \< *bhṛ*
+- *jabhārābhīm* ← *jabhāra* ← *bhṛ*
 - \[verb\], singular, Perfect indicative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *jabhārābhīm* \< *abhi*
+- *jabhārābhīm* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *jabhārābhīm* \< *īm* \< *īṃ*
+- *jabhārābhīm* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *āsa* \< *as*
+- *āsa* ← *as*
 - \[verb\], singular, Perfect indicative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *tvakṣasā* \< *tvakṣas*
+- *tvakṣasā* ← *tvakṣas*
 - \[noun\], instrumental, singular, neuter
 ------------------------------------------------------------------------
-- *vīryeṇa* \< *vīrya*
+- *vīryeṇa* ← *vīrya*
 - \[noun\], instrumental, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
@@ -56,17 +56,17 @@ title = "Rig Veda 4.27.2"
 - \[noun\], instrumental, singular, feminine
 - “foreleg.”
 ------------------------------------------------------------------------
-- *purandhir* \< *purandhiḥ* \< *purandhi*
+- *purandhir* ← *purandhiḥ* ← *purandhi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *ajahād* \< *ajahāt* \< *hā*
+- *ajahād* ← *ajahāt* ← *hā*
 - \[verb\], singular, Imperfect
 - “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
     lose; avoid; remove; leave; abandon; neglect; leave; discard;
     apostatize; discontinue; weaken; abandon; assail; subtract;
     foreswear; pour away; withdraw; depart; reduce.”
 ------------------------------------------------------------------------
-- *arātīr* \< *arātīḥ* \< *arāti*
+- *arātīr* ← *arātīḥ* ← *arāti*
 - \[noun\], accusative, plural, feminine
 - “hostility; adversity; foe; envy; stinginess.”
 ------------------------------------------------------------------------
@@ -74,16 +74,16 @@ title = "Rig Veda 4.27.2"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *vātāṃ* \< *vāta*
+- *vātāṃ* ← *vāta*
 - \[noun\], accusative, plural, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *ataracchūśuvānaḥ* \< *atarat* \< *tṛ*
+- *ataracchūśuvānaḥ* ← *atarat* ← *tṛ*
 - \[verb\], singular, Imperfect
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *ataracchūśuvānaḥ* \< *śūśuvānaḥ* \< *śvi*
+- *ataracchūśuvānaḥ* ← *śūśuvānaḥ* ← *śvi*
 - \[verb noun\], nominative, singular
 - “swell; grow.”
 ------------------------------------------------------------------------

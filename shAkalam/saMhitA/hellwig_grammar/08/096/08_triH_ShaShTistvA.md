@@ -2,28 +2,28 @@
 title = "Rig Veda 8.96.8"
 
 +++
--   *triḥ* \< *tris*
+-   *triḥ* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
 ------------------------------------------------------------------------
-- *ṣaṣṭis* \< *ṣaṣṭiḥ* \< *ṣaṣṭi*
+- *ṣaṣṭis* ← *ṣaṣṭiḥ* ← *ṣaṣṭi*
 - \[noun\], nominative, singular, feminine
 - “sixty; sixtieth; ṣaṣṭi \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *vāvṛdhānā* \< *vāvṛdhānāḥ* \< *vṛdh*
+- *vāvṛdhānā* ← *vāvṛdhānāḥ* ← *vṛdh*
 - \[verb noun\], nominative, plural
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *usrā* \< *usrāḥ* \< *usrā*
+- *usrā* ← *usrāḥ* ← *usrā*
 - \[noun\], nominative, plural, feminine
 - “cow; dawn.”
 ------------------------------------------------------------------------
@@ -31,11 +31,11 @@ title = "Rig Veda 8.96.8"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *rāśayo* \< *rāśayaḥ* \< *rāśi*
+- *rāśayo* ← *rāśayaḥ* ← *rāśi*
 - \[noun\], nominative, plural, masculine
 - “pile; quantity; sign of the zodiac; mass.”
 ------------------------------------------------------------------------
-- *yajñiyāsaḥ* \< *yajñiya*
+- *yajñiyāsaḥ* ← *yajñiya*
 - \[noun\], nominative, plural, masculine
 - “sacrificial; divine; devoted.”
 ------------------------------------------------------------------------
@@ -43,15 +43,15 @@ title = "Rig Veda 8.96.8"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *tvemaḥ* \< *tvā* \< *tvad*
+- *tvemaḥ* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tvemaḥ* \< *imaḥ* \< *i*
+- *tvemaḥ* ← *imaḥ* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *kṛdhi* \< *kṛ*
+- *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -62,31 +62,31 @@ title = "Rig Veda 8.96.8"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *bhāgadheyaṃ* \< *bhāgadheyam* \< *bhāgadheya*
+- *bhāgadheyaṃ* ← *bhāgadheyam* ← *bhāgadheya*
 - \[noun\], accusative, singular, neuter
 - “parcel; bhāgadheya \[word\]; Destiny; destiny.”
 ------------------------------------------------------------------------
-- *śuṣmaṃ* \< *śuṣmam* \< *śuṣma*
+- *śuṣmaṃ* ← *śuṣmam* ← *śuṣma*
 - \[noun\], accusative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *enā* \< *idam*
+- *enā* ← *idam*
 - \[noun\], instrumental, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *haviṣā* \< *havis*
+- *haviṣā* ← *havis*
 - \[noun\], instrumental, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *vidhema* \< *vidh*
+- *vidhema* ← *vidh*
 - \[verb\], plural, Present optative
 - “worship; offer.”
 ------------------------------------------------------------------------

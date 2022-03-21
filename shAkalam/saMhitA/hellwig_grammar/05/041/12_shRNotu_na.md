@@ -2,58 +2,58 @@
 title = "Rig Veda 5.41.12"
 
 +++
--   *śṛṇotu* \< *śru*
+-   *śṛṇotu* ← *śru*
 - \[verb\], singular, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ūrjām* \< *ūrj*
+- *ūrjām* ← *ūrj*
 - \[noun\], genitive, plural, feminine
 - “strength; refreshment; vigor; food; strengthening.”
 ------------------------------------------------------------------------
-- *patir* \< *patiḥ* \< *pati*
+- *patir* ← *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *giraḥ* \< *gir*
+- *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *nabhas* \< *nabhaḥ* \< *nabhas*
+- *nabhas* ← *nabhaḥ* ← *nabhas*
 - \[noun\], accusative, singular, neuter
 - “sky; cloud; ākāśa; air; abhra.”
 ------------------------------------------------------------------------
-- *tarīyāṃ* \< *tarīyān* \< *tarīyas*
+- *tarīyāṃ* ← *tarīyān* ← *tarīyas*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *iṣiraḥ* \< *iṣira*
+- *iṣiraḥ* ← *iṣira*
 - \[noun\], nominative, singular, masculine
 - “vigorous; bracing; quick.”
 ------------------------------------------------------------------------
-- *parijmā* \< *parijman*
+- *parijmā* ← *parijman*
 - \[noun\], nominative, singular, masculine
 - “encompassing(a).”
 ------------------------------------------------------------------------
-- *śṛṇvantv* \< *śṛṇvantu* \< *śru*
+- *śṛṇvantv* ← *śṛṇvantu* ← *śru*
 - \[verb\], plural, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *āpaḥ* \< *ap*
+- *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *puro* \< *puras*
+- *puro* ← *puras*
 - \[adverb\]
 - “ahead; puras \[word\]; easterly; eastward; east; earlier.”
 ------------------------------------------------------------------------
@@ -61,7 +61,7 @@ title = "Rig Veda 5.41.12"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śubhrāḥ* \< *śubhra*
+- *śubhrāḥ* ← *śubhra*
 - \[noun\], nominative, plural, feminine
 - “white; beautiful; attractive; śubhra \[word\]; light.”
 ------------------------------------------------------------------------
@@ -69,14 +69,14 @@ title = "Rig Veda 5.41.12"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *sruco* \< *srucaḥ* \< *sruc*
+- *sruco* ← *srucaḥ* ← *sruc*
 - \[noun\], accusative, plural, feminine
 - “Sruc.”
 ------------------------------------------------------------------------
-- *babṛhāṇasyādreḥ* \< *babṛhāṇasya* \< *bṛṃh*
+- *babṛhāṇasyādreḥ* ← *babṛhāṇasya* ← *bṛṃh*
 - \[verb noun\], genitive, singular
 ------------------------------------------------------------------------
-- *babṛhāṇasyādreḥ* \< *adreḥ* \< *adri*
+- *babṛhāṇasyādreḥ* ← *adreḥ* ← *adri*
 - \[noun\], genitive, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------

@@ -2,23 +2,23 @@
 title = "Rig Veda 2.30.2"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vṛtrāya* \< *vṛtra*
+- *vṛtrāya* ← *vṛtra*
 - \[noun\], dative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *sinam* \< *sina*
+- *sinam* ← *sina*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *atrābhariṣyat* \< *atrā* \< *atra*
+- *atrābhariṣyat* ← *atrā* ← *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *atrābhariṣyat* \< *ābhariṣyat* \< *ābhṛ* \< *√bhṛ*
+- *atrābhariṣyat* ← *ābhariṣyat* ← *ābhṛ* ← *√bhṛ*
 - \[verb\], singular, Conditional
 - “bring.”
 ------------------------------------------------------------------------
@@ -26,7 +26,7 @@ title = "Rig Veda 2.30.2"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *taṃ* \< *tam* \< *tad*
+- *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -36,23 +36,23 @@ title = "Rig Veda 2.30.2"
 - \[noun\], nominative, singular, feminine
 - “mother.”
 ------------------------------------------------------------------------
-- *viduṣa* \< *viduṣe* \< *vid*
+- *viduṣa* ← *viduṣe* ← *vid*
 - \[verb noun\], dative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *uvāca* \< *vac*
+- *uvāca* ← *vac*
 - \[verb\], singular, Perfect indicative
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
 ------------------------------------------------------------------------
-- *patho* \< *pathaḥ* \< *pathin*
+- *patho* ← *pathaḥ* ← *pathin*
 - \[noun\], accusative, plural, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *radantīr* \< *radantīḥ* \< *rad*
+- *radantīr* ← *radantīḥ* ← *rad*
 - \[verb noun\], nominative, plural
 - “dig.”
 ------------------------------------------------------------------------
@@ -60,30 +60,30 @@ title = "Rig Veda 2.30.2"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *joṣam* \< *joṣa*
+- *joṣam* ← *joṣa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *asmai* \< *idam*
+- *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *dive* \< *diva*
+- *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
 ------------------------------------------------------------------------
-- *dive* \< *diva*
+- *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
 ------------------------------------------------------------------------
-- *dhunayo* \< *dhunayaḥ* \< *dhunī*
+- *dhunayo* ← *dhunayaḥ* ← *dhunī*
 - \[noun\], nominative, plural, feminine
 - “river.”
 ------------------------------------------------------------------------
-- *yanty* \< *yanti* \< *i*
+- *yanty* ← *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *artham* \< *artha*
+- *artham* ← *artha*
 - \[noun\], accusative, singular, masculine
 - “for; meaning; purpose; sense; wealth; object of sense; matter; aim;
     money; message; object; artha \[word\]; wealth; function; content;

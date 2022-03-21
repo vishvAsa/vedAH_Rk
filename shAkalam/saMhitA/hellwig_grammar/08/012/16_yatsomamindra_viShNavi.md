@@ -6,7 +6,7 @@ title = "Rig Veda 8.12.16"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -15,11 +15,11 @@ title = "Rig Veda 8.12.16"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *viṣṇavi* \< *viṣṇu*
+- *viṣṇavi* ← *viṣṇu*
 - \[noun\], locative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -30,15 +30,15 @@ title = "Rig Veda 8.12.16"
 - *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *trita* \< *trite* \< *trita*
+- *trita* ← *trite* ← *trita*
 - \[noun\], locative, singular, masculine
 - “Trita.”
 ------------------------------------------------------------------------
-- *āptye* \< *āptya*
+- *āptye* ← *āptya*
 - \[noun\], locative, singular, masculine
 - “Āptya; Trita.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -46,11 +46,11 @@ title = "Rig Veda 8.12.16"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *marutsu* \< *marut*
+- *marutsu* ← *marut*
 - \[noun\], locative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *mandase* \< *mad*
+- *mandase* ← *mad*
 - \[verb\], singular, Present indikative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
@@ -58,7 +58,7 @@ title = "Rig Veda 8.12.16"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *indubhiḥ* \< *indu*
+- *indubhiḥ* ← *indu*
 - \[noun\], instrumental, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”

@@ -2,11 +2,11 @@
 title = "Rig Veda 10.85.25"
 
 +++
--   *preto* \< *pretaḥ* \< *pre* \< *√i*
+-   *preto* ← *pretaḥ* ← *pre* ← *√i*
 - \[verb noun\], nominative, singular
 - “die; proceed; advance; continue; begin; depart.”
 ------------------------------------------------------------------------
-- *muñcāmi* \< *muc*
+- *muñcāmi* ← *muc*
 - \[verb\], singular, Present indikative
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
     fill into; shoot; spill; lose; ejaculate; exclude; free; remove;
@@ -14,18 +14,18 @@ title = "Rig Veda 10.85.25"
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
 ------------------------------------------------------------------------
-- *nāmutaḥ* \< *na*
+- *nāmutaḥ* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāmutaḥ* \< *amutas*
+- *nāmutaḥ* ← *amutas*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *subaddhām* \< *su*
+- *subaddhām* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *subaddhām* \< *baddhām* \< *bandh*
+- *subaddhām* ← *baddhām* ← *bandh*
 - \[verb noun\], accusative, singular
 - “bandh; tie; envelop; close; dress; wrap; bind; constipate; fixate;
     shape; paralyze; construct; bandage; compress; beset; oblige; strap;
@@ -36,7 +36,7 @@ title = "Rig Veda 10.85.25"
 - *amutas*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *karam* \< *kṛ*
+- *karam* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -47,11 +47,11 @@ title = "Rig Veda 10.85.25"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *yatheyam* \< *yathā*
+- *yatheyam* ← *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *yatheyam* \< *iyam* \< *idam*
+- *yatheyam* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -60,24 +60,24 @@ title = "Rig Veda 10.85.25"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *mīḍhvaḥ* \< *mīḍhvas*
+- *mīḍhvaḥ* ← *mīḍhvas*
 - \[noun\], vocative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *suputrā* \< *su*
+- *suputrā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suputrā* \< *putrā* \< *putra*
+- *suputrā* ← *putrā* ← *putra*
 - \[noun\], nominative, singular, feminine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
-- *subhagāsati* \< *subhagā* \< *subhaga*
+- *subhagāsati* ← *subhagā* ← *subhaga*
 - \[noun\], nominative, singular, feminine
 - “beautiful; auspicious; beloved; fine-looking; fortunate; subhaga
     \[word\]; charming; pleasing; lucky.”
 ------------------------------------------------------------------------
-- *subhagāsati* \< *asati* \< *as*
+- *subhagāsati* ← *asati* ← *as*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

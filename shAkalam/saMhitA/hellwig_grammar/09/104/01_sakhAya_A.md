@@ -2,7 +2,7 @@
 title = "Rig Veda 9.104.1"
 
 +++
--   *sakhāya* \< *sakhāyaḥ* \< *sakhi*
+-   *sakhāya* ← *sakhāyaḥ* ← *sakhi*
 - \[noun\], vocative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
@@ -14,12 +14,12 @@ title = "Rig Veda 9.104.1"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ṣīdata* \< *sīdata* \< *sad*
+- *ṣīdata* ← *sīdata* ← *sad*
 - \[verb\], plural, Present imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *punānāya* \< *pū*
+- *punānāya* ← *pū*
 - \[verb noun\], dative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
@@ -27,11 +27,11 @@ title = "Rig Veda 9.104.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *gāyata* \< *gā*
+- *gāyata* ← *gā*
 - \[verb\], plural, Present imperative
 - “sing; praise; jap; recite; describe.”
 ------------------------------------------------------------------------
-- *śiśuṃ* \< *śiśum* \< *śiśu*
+- *śiśuṃ* ← *śiśum* ← *śiśu*
 - \[noun\], accusative, singular, masculine
 - “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
 ------------------------------------------------------------------------
@@ -39,7 +39,7 @@ title = "Rig Veda 9.104.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yajñaiḥ* \< *yajña*
+- *yajñaiḥ* ← *yajña*
 - \[noun\], instrumental, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
@@ -47,11 +47,11 @@ title = "Rig Veda 9.104.1"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *bhūṣata* \< *bhūṣ*
+- *bhūṣata* ← *bhūṣ*
 - \[verb\], plural, Present imperative
 - “endeavor; attend; strive.”
 ------------------------------------------------------------------------
-- *śriye* \< *śrī*
+- *śriye* ← *śrī*
 - \[noun\], dative, singular, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī

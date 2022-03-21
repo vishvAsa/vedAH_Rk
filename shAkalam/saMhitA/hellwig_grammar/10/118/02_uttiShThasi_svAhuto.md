@@ -2,25 +2,25 @@
 title = "Rig Veda 10.118.2"
 
 +++
--   *ut* \< *ud*
+-   *ut* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *tiṣṭhasi* \< *sthā*
+- *tiṣṭhasi* ← *sthā*
 - \[verb\], singular, Present indikative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *svāhuto* \< *su*
+- *svāhuto* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svāhuto* \< *āhutaḥ* \< *āhu* \< *√hu*
+- *svāhuto* ← *āhutaḥ* ← *āhu* ← *√hu*
 - \[verb noun\], nominative, singular
 - “sacrifice; sprinkle.”
 ------------------------------------------------------------------------
-- *ghṛtāni* \< *ghṛta*
+- *ghṛtāni* ← *ghṛta*
 - \[noun\], accusative, plural, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
@@ -28,7 +28,7 @@ title = "Rig Veda 10.118.2"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *modase* \< *mud*
+- *modase* ← *mud*
 - \[verb\], singular, Present indikative
 - “rejoice; delight; revel.”
 ------------------------------------------------------------------------
@@ -36,15 +36,15 @@ title = "Rig Veda 10.118.2"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *srucaḥ* \< *sruc*
+- *srucaḥ* ← *sruc*
 - \[noun\], nominative, plural, feminine
 - “Sruc.”
 ------------------------------------------------------------------------
-- *samasthiran* \< *saṃsthā* \< *√sthā*
+- *samasthiran* ← *saṃsthā* ← *√sthā*
 - \[verb\], plural, Root aorist (Ind.)
 - “situate; stay; stand; die; get stale; inhere; dwell; end; happen.”
 ------------------------------------------------------------------------

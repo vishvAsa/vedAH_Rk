@@ -2,45 +2,45 @@
 title = "Rig Veda 3.59.9"
 
 +++
--   *mitro* \< *mitraḥ* \< *mitra*
+-   *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *deveṣv* \< *deveṣu* \< *deva*
+- *deveṣv* ← *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *āyuṣu* \< *āyu*
+- *āyuṣu* ← *āyu*
 - \[noun\], locative, plural, masculine
 ------------------------------------------------------------------------
-- *janāya* \< *jana*
+- *janāya* ← *jana*
 - \[noun\], dative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *vṛktabarhiṣe* \< *vṛkta* \< *vṛj*
+- *vṛktabarhiṣe* ← *vṛkta* ← *vṛj*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *vṛktabarhiṣe* \< *barhiṣe* \< *barhis*
+- *vṛktabarhiṣe* ← *barhiṣe* ← *barhis*
 - \[noun\], dative, singular, masculine
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *iṣa* \< *iṣaḥ* \< *iṣ*
+- *iṣa* ← *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *iṣṭavratā* \< *iṣṭa* \< *iṣ*
+- *iṣṭavratā* ← *iṣṭa* ← *iṣ*
 - \[verb noun\]
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
 ------------------------------------------------------------------------
-- *iṣṭavratā* \< *vratāḥ* \< *vrata*
+- *iṣṭavratā* ← *vratāḥ* ← *vrata*
 - \[noun\], accusative, plural, feminine
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *akaḥ* \< *kṛ*
+- *akaḥ* ← *kṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

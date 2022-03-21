@@ -2,11 +2,11 @@
 title = "Rig Veda 10.113.5"
 
 +++
--   *ād* \< *āt*
+-   *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -14,15 +14,15 @@ title = "Rig Veda 10.113.5"
 - *satrā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *taviṣīr* \< *taviṣīḥ* \< *taviṣī*
+- *taviṣīr* ← *taviṣīḥ* ← *taviṣī*
 - \[noun\], accusative, plural, feminine
 - “strength; power.”
 ------------------------------------------------------------------------
-- *apatyata* \< *paty*
+- *apatyata* ← *paty*
 - \[verb\], singular, Imperfect
 - “own; have; master.”
 ------------------------------------------------------------------------
-- *varīyo* \< *varīyaḥ* \< *varīyas*
+- *varīyo* ← *varīyaḥ* ← *varīyas*
 - \[noun\], accusative, singular, neuter
 - “broad; further.”
 ------------------------------------------------------------------------
@@ -30,40 +30,40 @@ title = "Rig Veda 10.113.5"
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
 ------------------------------------------------------------------------
-- *abādhata* \< *bādh*
+- *abādhata* ← *bādh*
 - \[verb\], singular, Imperfect
 - “afflict; annoy; chase away; tease; grieve; irritate.”
 ------------------------------------------------------------------------
-- *avābharad* \< *avābharat* \< *avabhṛ* \< *√bhṛ*
+- *avābharad* ← *avābharat* ← *avabhṛ* ← *√bhṛ*
 - \[verb\], singular, Thematic aorist (Ind.)
 ------------------------------------------------------------------------
-- *dhṛṣito* \< *dhṛṣitaḥ* \< *dhṛṣ*
+- *dhṛṣito* ← *dhṛṣitaḥ* ← *dhṛṣ*
 - \[verb noun\], nominative, singular
 - “dare; attack.”
 ------------------------------------------------------------------------
-- *vajram* \< *vajra*
+- *vajram* ← *vajra*
 - \[noun\], accusative, singular, neuter
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *āyasaṃ* \< *āyasam* \< *āyasa*
+- *āyasaṃ* ← *āyasam* ← *āyasa*
 - \[noun\], accusative, singular, neuter
 - “iron; metallic.”
 ------------------------------------------------------------------------
-- *śevam* \< *śeva*
+- *śevam* ← *śeva*
 - \[noun\], accusative, singular, neuter
 - “friendly; favorable; dear.”
 ------------------------------------------------------------------------
-- *mitrāya* \< *mitra*
+- *mitrāya* ← *mitra*
 - \[noun\], dative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *varuṇāya* \< *varuṇa*
+- *varuṇāya* ← *varuṇa*
 - \[noun\], dative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------

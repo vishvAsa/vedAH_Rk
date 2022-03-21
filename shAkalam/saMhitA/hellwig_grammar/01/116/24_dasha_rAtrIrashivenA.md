@@ -2,66 +2,66 @@
 title = "Rig Veda 1.116.24"
 
 +++
--   *daśa* \< *daśan*
+-   *daśa* ← *daśan*
 - \[noun\], accusative, plural, feminine
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *rātrīr* \< *rātrīḥ* \< *rātri*
+- *rātrīr* ← *rātrīḥ* ← *rātri*
 - \[noun\], accusative, plural, feminine
 - “night; night; rātri \[word\]; turmeric; Rātri; day; night.”
 ------------------------------------------------------------------------
-- *aśivenā* \< *aśivena* \< *aśiva*
+- *aśivenā* ← *aśivena* ← *aśiva*
 - \[noun\], instrumental, singular, masculine
 - “inauspicious; unkind; unfriendly; cruel; dangerous.”
 ------------------------------------------------------------------------
-- *nava* \< *navan*
+- *nava* ← *navan*
 - \[noun\], accusative, singular, neuter
 - “nine.”
 ------------------------------------------------------------------------
-- *dyūn* \< *div*
+- *dyūn* ← *div*
 - \[noun\], accusative, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *avanaddhaṃ* \< *avanaddham* \< *avanah* \< *√nah*
+- *avanaddhaṃ* ← *avanaddham* ← *avanah* ← *√nah*
 - \[verb noun\], accusative, singular
 - “cover.”
 ------------------------------------------------------------------------
-- *śnathitam* \< *śnath*
+- *śnathitam* ← *śnath*
 - \[verb noun\], accusative, singular
 - “pierce; kill.”
 ------------------------------------------------------------------------
-- *apsv* \< *apsu* \< *ap*
+- *apsv* ← *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *antaḥ* \< *antar*
+- *antaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *viprutaṃ* \< *viprutam* \< *vipru* \< *√pru*
+- *viprutaṃ* ← *viprutam* ← *vipru* ← *√pru*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *rebham* \< *rebha*
+- *rebham* ← *rebha*
 - \[noun\], accusative, singular, masculine
 - “bard; eulogist.”
 ------------------------------------------------------------------------
-- *udani* \< *udan*
+- *udani* ← *udan*
 - \[noun\], locative, singular, neuter
 - “water; body of water.”
 ------------------------------------------------------------------------
-- *pravṛktam* \< *pravṛj* \< *√vṛj*
+- *pravṛktam* ← *pravṛj* ← *√vṛj*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *un* \< *ud*
+- *un* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *ninyathuḥ* \< *nī*
+- *ninyathuḥ* ← *nī*
 - \[verb\], dual, Perfect indicative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -69,7 +69,7 @@ title = "Rig Veda 1.116.24"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sruveṇa* \< *sruva*
+- *sruveṇa* ← *sruva*
 - \[noun\], instrumental, singular, masculine
 - “Sruva; sruva \[word\].”
 ------------------------------------------------------------------------

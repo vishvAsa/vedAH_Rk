@@ -2,72 +2,72 @@
 title = "Rig Veda 7.60.7"
 
 +++
--   *ime* \< *idam*
+-   *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *animiṣā* \< *animiṣāḥ* \< *animiṣa*
+- *animiṣā* ← *animiṣāḥ* ← *animiṣa*
 - \[noun\], nominative, plural, masculine
 - “agaze.”
 ------------------------------------------------------------------------
-- *pṛthivyāś* \< *pṛthivyāḥ* \< *pṛthivī*
+- *pṛthivyāś* ← *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], genitive, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *cikitvāṃso* \< *cikitvāṃsaḥ* \< *cit*
+- *cikitvāṃso* ← *cikitvāṃsaḥ* ← *cit*
 - \[verb noun\], nominative, plural
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *acetasaṃ* \< *acetasam* \< *acetas*
+- *acetasaṃ* ← *acetasam* ← *acetas*
 - \[noun\], accusative, singular, masculine
 - “imprudent; stupid.”
 ------------------------------------------------------------------------
-- *nayanti* \< *nī*
+- *nayanti* ← *nī*
 - \[verb\], plural, Present indikative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *pravrāje* \< *pravrāja*
+- *pravrāje* ← *pravrāja*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *nadyo* \< *nadyaḥ* \< *nadī*
+- *nadyo* ← *nadyaḥ* ← *nadī*
 - \[noun\], genitive, singular, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
 ------------------------------------------------------------------------
-- *gādham* \< *gādha*
+- *gādham* ← *gādha*
 - \[noun\], nominative, singular, neuter
 - “ford.”
 ------------------------------------------------------------------------
-- *asti* \< *as*
+- *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *pāraṃ* \< *pāram* \< *pāra*
+- *pāraṃ* ← *pāram* ← *pāra*
 - \[noun\], accusative, singular, neuter
 - “shore; pāra \[word\]; end; excellence.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *viṣpitasya* \< *viṣpita*
+- *viṣpitasya* ← *viṣpita*
 - \[noun\], genitive, singular, neuter
 - “difficulty.”
 ------------------------------------------------------------------------
-- *parṣan* \< *pṛ*
+- *parṣan* ← *pṛ*
 - \[verb\], plural, Aorist conj./subj.
 - “protect; promote; rescue; help.”
 ------------------------------------------------------------------------

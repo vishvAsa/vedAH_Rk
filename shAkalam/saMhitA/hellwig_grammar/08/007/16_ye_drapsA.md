@@ -2,11 +2,11 @@
 title = "Rig Veda 8.7.16"
 
 +++
--   *ye* \< *yad*
+-   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *drapsā* \< *drapsāḥ* \< *drapsa*
+- *drapsā* ← *drapsāḥ* ← *drapsa*
 - \[noun\], nominative, plural, masculine
 - “drop; banner.”
 ------------------------------------------------------------------------
@@ -18,7 +18,7 @@ title = "Rig Veda 8.7.16"
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *dhamanty* \< *dhamanti* \< *dham*
+- *dhamanty* ← *dhamanti* ← *dham*
 - \[verb\], plural, Present indikative
 - “heat; blow; fan; blow; ignite; blow; inflate.”
 ------------------------------------------------------------------------
@@ -26,19 +26,19 @@ title = "Rig Veda 8.7.16"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *vṛṣṭibhiḥ* \< *vṛṣṭi*
+- *vṛṣṭibhiḥ* ← *vṛṣṭi*
 - \[noun\], instrumental, plural, feminine
 - “rain; shower; rainy season.”
 ------------------------------------------------------------------------
-- *utsaṃ* \< *utsam* \< *utsa*
+- *utsaṃ* ← *utsam* ← *utsa*
 - \[noun\], accusative, singular, masculine
 - “spring; fountain; utsa \[word\]; well.”
 ------------------------------------------------------------------------
-- *duhanto* \< *duhantaḥ* \< *duh*
+- *duhanto* ← *duhantaḥ* ← *duh*
 - \[verb noun\], nominative, plural
 - “milk.”
 ------------------------------------------------------------------------
-- *akṣitam* \< *akṣita*
+- *akṣitam* ← *akṣita*
 - \[noun\], accusative, singular, masculine
 - “undecaying; uninjured.”
 ------------------------------------------------------------------------

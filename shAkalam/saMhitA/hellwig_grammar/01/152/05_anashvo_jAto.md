@@ -2,64 +2,64 @@
 title = "Rig Veda 1.152.5"
 
 +++
--   *anaśvo* \< *an*
+-   *anaśvo* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *anaśvo* \< *aśvaḥ* \< *aśva*
+- *anaśvo* ← *aśvaḥ* ← *aśva*
 - \[noun\], nominative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *jāto* \< *jātaḥ* \< *jan*
+- *jāto* ← *jātaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *anabhīśur* \< *an*
+- *anabhīśur* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *anabhīśur* \< *abhīśuḥ* \< *abhīśu*
+- *anabhīśur* ← *abhīśuḥ* ← *abhīśu*
 - \[noun\], nominative, singular, masculine
 - “beam; rein.”
 ------------------------------------------------------------------------
-- *arvā* \< *arvan*
+- *arvā* ← *arvan*
 - \[noun\], nominative, singular, masculine
 - “horse; arvan \[word\]; racehorse.”
 ------------------------------------------------------------------------
-- *kanikradat* \< *kanikrad* \< *√krand*
+- *kanikradat* ← *kanikrad* ← *√krand*
 - \[verb noun\], nominative, singular
 - “roar; neigh.”
 ------------------------------------------------------------------------
-- *patayad* \< *patayat* \< *patay* \< *√pat*
+- *patayad* ← *patayat* ← *patay* ← *√pat*
 - \[verb\], singular, Present injunctive
 - “fly.”
 ------------------------------------------------------------------------
-- *ūrdhvasānuḥ* \< *ūrdhva*
+- *ūrdhvasānuḥ* ← *ūrdhva*
 - \[noun\]
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
 ------------------------------------------------------------------------
-- *ūrdhvasānuḥ* \< *sānuḥ* \< *sānu*
+- *ūrdhvasānuḥ* ← *sānuḥ* ← *sānu*
 - \[noun\], nominative, singular, masculine
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------
-- *acittam* \< *acitta*
+- *acittam* ← *acitta*
 - \[noun\], accusative, singular, neuter
 - “unexpected.”
 ------------------------------------------------------------------------
-- *brahma* \< *brahman*
+- *brahma* ← *brahman*
 - \[noun\], accusative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *jujuṣur* \< *jujuṣuḥ* \< *juṣ*
+- *jujuṣur* ← *jujuṣuḥ* ← *juṣ*
 - \[verb\], plural, Perfect indicative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *yuvānaḥ* \< *yuvan*
+- *yuvānaḥ* ← *yuvan*
 - \[noun\], nominative, plural, masculine
 - “young; youthful.”
 ------------------------------------------------------------------------
@@ -67,21 +67,21 @@ title = "Rig Veda 1.152.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *mitre* \< *mitra*
+- *mitre* ← *mitra*
 - \[noun\], locative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *dhāma* \< *dhāman*
+- *dhāma* ← *dhāman*
 - \[noun\], accusative, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
 ------------------------------------------------------------------------
-- *varuṇe* \< *varuṇa*
+- *varuṇe* ← *varuṇa*
 - \[noun\], locative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *gṛṇantaḥ* \< *gṛ*
+- *gṛṇantaḥ* ← *gṛ*
 - \[verb noun\], nominative, plural
 - “praise.”
 ------------------------------------------------------------------------

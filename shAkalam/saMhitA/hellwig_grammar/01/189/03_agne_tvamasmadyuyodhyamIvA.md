@@ -2,50 +2,50 @@
 title = "Rig Veda 1.189.3"
 
 +++
--   *agne* \< *agni*
+-   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *asmad* \< *asmat* \< *mad*
+- *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *yuyodhy* \< *yuyodhi* \< *yu*
+- *yuyodhy* ← *yuyodhi* ← *yu*
 - \[verb\], singular, Present imperative
 - “keep away; separate; ward off.”
 ------------------------------------------------------------------------
-- *amīvā* \< *amīvāḥ* \< *amīvā*
+- *amīvā* ← *amīvāḥ* ← *amīvā*
 - \[noun\], accusative, plural, feminine
 - “disease; affliction.”
 ------------------------------------------------------------------------
-- *anagnitrā* \< *an*
+- *anagnitrā* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *anagnitrā* \< *agni*
+- *anagnitrā* ← *agni*
 - \[noun\], masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *anagnitrā* \< *trāḥ* \< *trā*
+- *anagnitrā* ← *trāḥ* ← *trā*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *abhy* \< *abhī* \< *abhi*
+- *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *amanta* \< *am*
+- *amanta* ← *am*
 - \[verb\], plural, Present injunctive
 - “hurt.”
 ------------------------------------------------------------------------
-- *kṛṣṭīḥ* \< *kṛṣṭi*
+- *kṛṣṭīḥ* ← *kṛṣṭi*
 - \[noun\], accusative, plural, feminine
 - “people; citizenry.”
 ------------------------------------------------------------------------
@@ -54,11 +54,11 @@ title = "Rig Veda 1.189.3"
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
 ------------------------------------------------------------------------
-- *asmabhyaṃ* \< *asmabhyam* \< *mad*
+- *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *suvitāya* \< *suvita*
+- *suvitāya* ← *suvita*
 - \[noun\], dative, singular, neuter
 - “prosperity; well-being.”
 ------------------------------------------------------------------------
@@ -67,16 +67,16 @@ title = "Rig Veda 1.189.3"
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *kṣāṃ* \< *kṣām* \< *kṣā*
+- *kṣāṃ* ← *kṣām* ← *kṣā*
 - \[noun\], accusative, singular, feminine
 - “Earth; Earth.”
 ------------------------------------------------------------------------
-- *viśvebhir* \< *viśvebhiḥ* \< *viśva*
+- *viśvebhir* ← *viśvebhiḥ* ← *viśva*
 - \[noun\], instrumental, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *amṛtebhir* \< *amṛtebhiḥ* \< *amṛta*
+- *amṛtebhir* ← *amṛtebhiḥ* ← *amṛta*
 - \[noun\], instrumental, plural, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------

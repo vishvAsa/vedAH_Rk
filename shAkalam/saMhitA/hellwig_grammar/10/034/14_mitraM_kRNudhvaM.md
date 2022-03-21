@@ -2,11 +2,11 @@
 title = "Rig Veda 10.34.14"
 
 +++
--   *mitraṃ* \< *mitram* \< *mitra*
+-   *mitraṃ* ← *mitram* ← *mitra*
 - \[noun\], accusative, singular, neuter
 - “friendship.”
 ------------------------------------------------------------------------
-- *kṛṇudhvaṃ* \< *kṛṇudhvam* \< *kṛ*
+- *kṛṇudhvaṃ* ← *kṛṇudhvam* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -21,11 +21,11 @@ title = "Rig Veda 10.34.14"
 - \[adverb\]
 - “surely.”
 ------------------------------------------------------------------------
-- *mṛḍatā* \< *mṛḍata* \< *mṛḍ*
+- *mṛḍatā* ← *mṛḍata* ← *mṛḍ*
 - \[verb\], plural, Present imperative
 - “pardon.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -33,21 +33,21 @@ title = "Rig Veda 10.34.14"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ghoreṇa* \< *ghora*
+- *ghoreṇa* ← *ghora*
 - \[noun\], instrumental, singular, neuter
 - “awful; dangerous; terrific; intense; dreadful.”
 ------------------------------------------------------------------------
-- *caratābhi* \< *carata* \< *car*
+- *caratābhi* ← *carata* ← *car*
 - \[verb\], plural, Present imperative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *caratābhi* \< *abhi*
+- *caratābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
@@ -59,7 +59,7 @@ title = "Rig Veda 10.34.14"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
@@ -67,36 +67,36 @@ title = "Rig Veda 10.34.14"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *manyur* \< *manyuḥ* \< *manyu*
+- *manyur* ← *manyuḥ* ← *manyu*
 - \[noun\], nominative, singular, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------
-- *viśatām* \< *viś*
+- *viśatām* ← *viś*
 - \[verb\], singular, Present imperative
 - “enter; penetrate; settle; settle.”
 ------------------------------------------------------------------------
-- *arātir* \< *arātiḥ* \< *arāti*
+- *arātir* ← *arātiḥ* ← *arāti*
 - \[noun\], nominative, singular, feminine
 - “hostility; adversity; foe; envy; stinginess.”
 ------------------------------------------------------------------------
-- *anyo* \< *anyaḥ* \< *anya*
+- *anyo* ← *anyaḥ* ← *anya*
 - \[noun\], nominative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *babhrūṇām* \< *babhru*
+- *babhrūṇām* ← *babhru*
 - \[noun\], genitive, plural, masculine
 - “tawny; brown.”
 ------------------------------------------------------------------------
-- *prasitau* \< *prasiti*
+- *prasitau* ← *prasiti*
 - \[noun\], locative, singular, feminine
 - “binding.”
 ------------------------------------------------------------------------
-- *nv* \< *nu*
+- *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

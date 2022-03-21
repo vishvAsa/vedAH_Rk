@@ -2,53 +2,53 @@
 title = "Rig Veda 5.7.2"
 
 +++
--   *kutrā* \< *kutra*
+-   *kutrā* ← *kutra*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *samṛtau* \< *samṛti*
+- *samṛtau* ← *samṛti*
 - \[noun\], locative, singular, feminine
 - “battle; contact.”
 ------------------------------------------------------------------------
-- *raṇvā* \< *raṇvāḥ* \< *raṇva*
+- *raṇvā* ← *raṇvāḥ* ← *raṇva*
 - \[noun\], nominative, plural, masculine
 - “agreeable; happy; delightful; gay.”
 ------------------------------------------------------------------------
-- *naro* \< *naraḥ* \< *nṛ*
+- *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nṛṣadane* \< *nṛṣadana*
+- *nṛṣadane* ← *nṛṣadana*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *arhantaś* \< *arhantaḥ* \< *arh*
+- *arhantaś* ← *arhantaḥ* ← *arh*
 - \[verb noun\], nominative, plural
 - “should; may; rate; can; can; equal; necessitate.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *yam* \< *yad*
+- *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *indhate* \< *indh*
+- *indhate* ← *indh*
 - \[verb\], plural, Present indikative
 - “kindle; ignite; set ablaze.”
 ------------------------------------------------------------------------
-- *saṃjanayanti* \< *saṃjanay* \< *√jan*
+- *saṃjanayanti* ← *saṃjanay* ← *√jan*
 - \[verb\], plural, Present indikative
 - “generate; increase; give birth.”
 ------------------------------------------------------------------------
-- *jantavaḥ* \< *jantu*
+- *jantavaḥ* ← *jantu*
 - \[noun\], nominative, plural, masculine
 - “man; worm; being; child; Jantu; offspring; insect; vermin; animal.”
 ------------------------------------------------------------------------

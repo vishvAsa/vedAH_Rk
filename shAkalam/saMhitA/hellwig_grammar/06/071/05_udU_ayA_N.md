@@ -6,69 +6,69 @@ title = "Rig Veda 6.71.5"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *ū* \< *u*
+- *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ayāṃ* \< *ayān* \< *yam*
+- *ayāṃ* ← *ayān* ← *yam*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *upavakteva* \< *upavaktā* \< *upavaktṛ*
+- *upavakteva* ← *upavaktā* ← *upavaktṛ*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *upavakteva* \< *iva*
+- *upavakteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *bāhū* \< *bāhu*
+- *bāhū* ← *bāhu*
 - \[noun\], accusative, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
-- *hiraṇyayā* \< *hiraṇyaya*
+- *hiraṇyayā* ← *hiraṇyaya*
 - \[noun\], accusative, dual, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
 ------------------------------------------------------------------------
-- *savitā* \< *savitṛ*
+- *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *supratīkā* \< *su*
+- *supratīkā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *supratīkā* \< *pratīkā* \< *pratīka*
+- *supratīkā* ← *pratīkā* ← *pratīka*
 - \[noun\], accusative, dual, masculine
 - “face; surface.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *rohāṃsy* \< *rohāṃsi* \< *rohas*
+- *rohāṃsy* ← *rohāṃsi* ← *rohas*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *aruhat* \< *ruh*
+- *aruhat* ← *ruh*
 - \[verb\], singular, Imperfect
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
 ------------------------------------------------------------------------
-- *pṛthivyā* \< *pṛthivyāḥ* \< *pṛthivī*
+- *pṛthivyā* ← *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], genitive, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *arīramat* \< *ram*
+- *arīramat* ← *ram*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “delight; rejoice; love; frolic; desire; give; calm; break.”
 ------------------------------------------------------------------------
-- *patayat* \< *patay* \< *√pat*
+- *patayat* ← *patay* ← *√pat*
 - \[verb noun\], accusative, singular
 - “fly.”
 ------------------------------------------------------------------------
-- *kaccid* \< *kaccit* \< *kaścit*
+- *kaccid* ← *kaccit* ← *kaścit*
 - \[noun\], accusative, singular, neuter
 - “any(a); some(a); some(a); some(a); some(a).”
 ------------------------------------------------------------------------
-- *abhvam* \< *abhva*
+- *abhvam* ← *abhva*
 - \[noun\], accusative, singular, neuter
 - “monstrosity; nothingness; void; force.”
 ------------------------------------------------------------------------

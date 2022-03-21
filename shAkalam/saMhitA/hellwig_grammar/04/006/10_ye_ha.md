@@ -2,7 +2,7 @@
 title = "Rig Veda 4.6.10"
 
 +++
--   *ye* \< *yad*
+-   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -10,43 +10,43 @@ title = "Rig Veda 4.6.10"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *tye* \< *tya*
+- *tye* ← *tya*
 - \[noun\], nominative, plural, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sahamānā* \< *sahamānāḥ* \< *sah*
+- *sahamānā* ← *sahamānāḥ* ← *sah*
 - \[verb noun\], nominative, plural
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------
-- *ayāsas* \< *ayāsaḥ* \< *ayās*
+- *ayāsas* ← *ayāsaḥ* ← *ayās*
 - \[noun\], nominative, plural, masculine
 - “undaunted; irrepressible; audacious.”
 ------------------------------------------------------------------------
-- *tveṣāso* \< *tveṣāsaḥ* \< *tveṣa*
+- *tveṣāso* ← *tveṣāsaḥ* ← *tveṣa*
 - \[noun\], nominative, plural, masculine
 - “awful; brilliant; aglitter(p); bright.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *arcayaś* \< *arcayaḥ* \< *arci*
+- *arcayaś* ← *arcayaḥ* ← *arci*
 - \[noun\], nominative, plural, masculine
 - “flare.”
 ------------------------------------------------------------------------
-- *caranti* \< *car*
+- *caranti* ← *car*
 - \[verb\], plural, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *śyenāso* \< *śyenāsaḥ* \< *śyena*
+- *śyenāso* ← *śyenāsaḥ* ← *śyena*
 - \[noun\], nominative, plural, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
 ------------------------------------------------------------------------
@@ -54,20 +54,20 @@ title = "Rig Veda 4.6.10"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *duvasanāso* \< *duvasanāsaḥ* \< *duvasana*
+- *duvasanāso* ← *duvasanāsaḥ* ← *duvasana*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *arthaṃ* \< *artham* \< *artha*
+- *arthaṃ* ← *artham* ← *artha*
 - \[noun\], accusative, singular, masculine
 - “for; meaning; purpose; sense; wealth; object of sense; matter; aim;
     money; message; object; artha \[word\]; wealth; function; content;
     topic; property; situation; reason; affair; concern; reason;
     enterprise; reason; cause; five; application; application.”
 ------------------------------------------------------------------------
-- *tuviṣvaṇaso* \< *tuviṣvaṇasaḥ* \< *tuviṣvaṇas*
+- *tuviṣvaṇaso* ← *tuviṣvaṇasaḥ* ← *tuviṣvaṇas*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *mārutaṃ* \< *mārutam* \< *māruta*
+- *mārutaṃ* ← *mārutam* ← *māruta*
 - \[noun\], nominative, singular, neuter
 - “Marut(a).”
 ------------------------------------------------------------------------
@@ -75,7 +75,7 @@ title = "Rig Veda 4.6.10"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śardhaḥ* \< *śardhas*
+- *śardhaḥ* ← *śardhas*
 - \[noun\], nominative, singular, neuter
 - “troop.”
 ------------------------------------------------------------------------

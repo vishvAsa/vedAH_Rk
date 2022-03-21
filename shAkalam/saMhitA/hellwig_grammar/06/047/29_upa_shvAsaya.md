@@ -6,10 +6,10 @@ title = "Rig Veda 6.47.29"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *śvāsaya* \< *śvāsay* \< *√śvas*
+- *śvāsaya* ← *śvāsay* ← *√śvas*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------
-- *pṛthivīm* \< *pṛthivī*
+- *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
@@ -17,7 +17,7 @@ title = "Rig Veda 6.47.29"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *dyām* \< *div*
+- *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -25,63 +25,63 @@ title = "Rig Veda 6.47.29"
 - \[adverb\]
 - “distributively.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *manutāṃ* \< *manutām* \< *man*
+- *manutāṃ* ← *manutām* ← *man*
 - \[verb\], singular, Present imperative
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
 ------------------------------------------------------------------------
-- *viṣṭhitaṃ* \< *viṣṭhitam* \< *viṣṭhā* \< *√sthā*
+- *viṣṭhitaṃ* ← *viṣṭhitam* ← *viṣṭhā* ← *√sthā*
 - \[verb noun\], nominative, singular
 - “stand; stay; resist.”
 ------------------------------------------------------------------------
-- *jagat* \< *jagant*
+- *jagat* ← *jagant*
 - \[noun\], nominative, singular, neuter
 - “universe; Earth; world; people; Jagatī; Loka; animal; being.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *dundubhe* \< *dundubhi*
+- *dundubhe* ← *dundubhi*
 - \[noun\], vocative, singular, masculine
 - “dundubhi; war drum; Dundubhi; Vishnu.”
 ------------------------------------------------------------------------
-- *sajūr* \< *sajūs*
+- *sajūr* ← *sajūs*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *indreṇa* \< *indra*
+- *indreṇa* ← *indra*
 - \[noun\], instrumental, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *devair* \< *devaiḥ* \< *deva*
+- *devair* ← *devaiḥ* ← *deva*
 - \[noun\], instrumental, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *dūrād* \< *dūrāt*
+- *dūrād* ← *dūrāt*
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *davīyo* \< *davīyaḥ* \< *davīyas*
+- *davīyo* ← *davīyaḥ* ← *davīyas*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
 - *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *sedha* \< *sidh*
+- *sedha* ← *sidh*
 - \[verb\], singular, Present imperative
 - “chase away; repel.”
 ------------------------------------------------------------------------
-- *śatrūn* \< *śatru*
+- *śatrūn* ← *śatru*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------

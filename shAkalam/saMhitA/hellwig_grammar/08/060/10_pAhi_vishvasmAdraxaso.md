@@ -2,20 +2,20 @@
 title = "Rig Veda 8.60.10"
 
 +++
--   *pāhi* \< *pā*
+-   *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *viśvasmād* \< *viśvasmāt* \< *viśva*
+- *viśvasmād* ← *viśvasmāt* ← *viśva*
 - \[noun\], ablative, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *rakṣaso* \< *rakṣasaḥ* \< *rakṣas*
+- *rakṣaso* ← *rakṣasaḥ* ← *rakṣas*
 - \[noun\], ablative, singular, masculine
 - “Rākṣasa.”
 ------------------------------------------------------------------------
-- *arāvṇaḥ* \< *arāvan*
+- *arāvṇaḥ* ← *arāvan*
 - \[noun\], accusative, plural, masculine
 - “begrudging; hostile; stingy.”
 ------------------------------------------------------------------------
@@ -26,47 +26,47 @@ title = "Rig Veda 8.60.10"
 - *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *vājeṣu* \< *vāja*
+- *vājeṣu* ← *vāja*
 - \[noun\], locative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *'va* \< *ava* \< *av*
+- *'va* ← *ava* ← *av*
 - \[verb\], singular, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *tvām* \< *tvad*
+- *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *iddhi* \< *id*
+- *iddhi* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *iddhi* \< *hi*
+- *iddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *nediṣṭhaṃ* \< *nediṣṭham* \< *nediṣṭha*
+- *nediṣṭhaṃ* ← *nediṣṭham* ← *nediṣṭha*
 - \[noun\], accusative, singular, masculine
 - “following.”
 ------------------------------------------------------------------------
-- *devatātaya* \< *devatātaye* \< *devatāti*
+- *devatātaya* ← *devatātaye* ← *devatāti*
 - \[noun\], dative, singular, feminine
 - “deity; Deva.”
 ------------------------------------------------------------------------
-- *āpiṃ* \< *āpim* \< *āpi*
+- *āpiṃ* ← *āpim* ← *āpi*
 - \[noun\], accusative, singular, masculine
 - “friend.”
 ------------------------------------------------------------------------
-- *nakṣāmahe* \< *nakṣ*
+- *nakṣāmahe* ← *nakṣ*
 - \[verb\], plural, Present indikative
 - “reach; approach.”
 ------------------------------------------------------------------------
-- *vṛdhe* \< *vṛdh*
+- *vṛdhe* ← *vṛdh*
 - \[verb noun\]
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”

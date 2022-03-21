@@ -6,15 +6,15 @@ title = "Rig Veda 6.10.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *paprau* \< *prā*
+- *paprau* ← *prā*
 - \[verb\], singular, Perfect indicative
 - “fill; satisfy.”
 ------------------------------------------------------------------------
-- *jāyamāna* \< *jāyamānaḥ* \< *jan*
+- *jāyamāna* ← *jāyamānaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
@@ -24,18 +24,18 @@ title = "Rig Veda 6.10.4"
 - \[noun\], accusative, dual, feminine
 - “Earth; floor; land; heaven and earth; urvī; pṛthivī; kingdom.”
 ------------------------------------------------------------------------
-- *dūredṛśā* \< *dūredṛś*
+- *dūredṛśā* ← *dūredṛś*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *bhāsā* \< *bhās*
+- *bhāsā* ← *bhās*
 - \[noun\], instrumental, singular, feminine
 - “beam; radiance; bhās \[word\]; fire.”
 ------------------------------------------------------------------------
-- *kṛṣṇādhvā* \< *kṛṣṇa*
+- *kṛṣṇādhvā* ← *kṛṣṇa*
 - \[noun\]
 - “black; dark; dark; blue; black.”
 ------------------------------------------------------------------------
-- *kṛṣṇādhvā* \< *adhvā* \< *adhvan*
+- *kṛṣṇādhvā* ← *adhvā* ← *adhvan*
 - \[noun\], nominative, singular, masculine
 - “way; journey; adhvan \[word\]; time; path; method; road; time;
     distance.”
@@ -53,30 +53,30 @@ title = "Rig Veda 6.10.4"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *tama* \< *tamaḥ* \< *tamas*
+- *tama* ← *tamaḥ* ← *tamas*
 - \[noun\], accusative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
 ------------------------------------------------------------------------
-- *ūrmyāyās* \< *ūrmyāyāḥ* \< *ūrmyā*
+- *ūrmyāyās* ← *ūrmyāyāḥ* ← *ūrmyā*
 - \[noun\], genitive, singular, feminine
 - “night.”
 ------------------------------------------------------------------------
-- *tiraḥ* \< *tiras*
+- *tiraḥ* ← *tiras*
 - \[adverb\]
 - “tiras \[word\]; away; secretly.”
 ------------------------------------------------------------------------
-- *śociṣā* \< *śocis*
+- *śociṣā* ← *śocis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------
-- *dadṛśe* \< *dṛś*
+- *dadṛśe* ← *dṛś*
 - \[verb\], singular, Perfect indicative
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
 ------------------------------------------------------------------------
-- *pāvakaḥ* \< *pāvaka*
+- *pāvakaḥ* ← *pāvaka*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; Plumbago zeylanica;
     vahni.”

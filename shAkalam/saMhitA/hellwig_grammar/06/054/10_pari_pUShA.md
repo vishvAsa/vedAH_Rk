@@ -6,24 +6,24 @@ title = "Rig Veda 6.54.10"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *pūṣā* \< *pūṣan*
+- *pūṣā* ← *pūṣan*
 - \[noun\], nominative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *parastāddhastaṃ* \< *parastāt*
+- *parastāddhastaṃ* ← *parastāt*
 - \[adverb\]
 - “above; subsequently.”
 ------------------------------------------------------------------------
-- *parastāddhastaṃ* \< *hastam* \< *hasta*
+- *parastāddhastaṃ* ← *hastam* ← *hasta*
 - \[noun\], accusative, singular, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------
-- *dadhātu* \< *dhā*
+- *dadhātu* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *dakṣiṇam* \< *dakṣiṇa*
+- *dakṣiṇam* ← *dakṣiṇa*
 - \[noun\], accusative, singular, masculine
 - “southern; right; south; southerly; dakṣiṇa \[word\]; sincere;
     clockwise; deft.”
@@ -33,14 +33,14 @@ title = "Rig Veda 6.54.10"
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *naṣṭam* \< *naś*
+- *naṣṭam* ← *naś*
 - \[verb noun\], accusative, singular
 - “disappear; vanish; gasify; fail; perish; lose; bhasmībhū.”
 ------------------------------------------------------------------------
-- *ājatu* \< *āj* \< *√aj*
+- *ājatu* ← *āj* ← *√aj*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------

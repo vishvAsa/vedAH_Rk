@@ -6,11 +6,11 @@ title = "Rig Veda 10.33.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *yuyujre* \< *yuj*
+- *yuyujre* ← *yuj*
 - \[verb\], plural, Perfect indicative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -18,16 +18,16 @@ title = "Rig Veda 10.33.1"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *prayujo* \< *prayujaḥ* \< *prayuj*
+- *prayujo* ← *prayujaḥ* ← *prayuj*
 - \[noun\], nominative, plural, feminine
 - “team.”
 ------------------------------------------------------------------------
-- *janānāṃ* \< *janānām* \< *jana*
+- *janānāṃ* ← *janānām* ← *jana*
 - \[noun\], genitive, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *vahāmi* \< *vah*
+- *vahāmi* ← *vah*
 - \[verb\], singular, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
@@ -35,7 +35,7 @@ title = "Rig Veda 10.33.1"
 - *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *pūṣaṇam* \< *pūṣan*
+- *pūṣaṇam* ← *pūṣan*
 - \[noun\], accusative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
@@ -43,12 +43,12 @@ title = "Rig Veda 10.33.1"
 - \[adverb\]
 - “without; on the way.”
 ------------------------------------------------------------------------
-- *viśve* \< *viśva*
+- *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *devāso* \< *devāsaḥ* \< *deva*
+- *devāso* ← *devāsaḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -57,18 +57,18 @@ title = "Rig Veda 10.33.1"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *mām* \< *mad*
+- *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *arakṣan* \< *rakṣ*
+- *arakṣan* ← *rakṣ*
 - \[verb\], plural, Imperfect
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------
-- *duḥśāsur* \< *duḥśāsuḥ* \< *duḥśāsus*
+- *duḥśāsur* ← *duḥśāsuḥ* ← *duḥśāsus*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *āgād* \< *āgāt* \< *āgā* \< *√gā*
+- *āgād* ← *āgāt* ← *āgā* ← *√gā*
 - \[verb\], singular, Root aorist (Ind.)
 - “come; arrive.”
 ------------------------------------------------------------------------
@@ -76,12 +76,12 @@ title = "Rig Veda 10.33.1"
 - \[adverb\]
 - “thus; so; iti \[word\].”
 ------------------------------------------------------------------------
-- *ghoṣa* \< *ghoṣaḥ* \< *ghoṣa*
+- *ghoṣa* ← *ghoṣaḥ* ← *ghoṣa*
 - \[noun\], nominative, singular, masculine
 - “sound; noise; cry; voice; ghoṣa \[word\]; station; Ghoṣa; post;
     twang.”
 ------------------------------------------------------------------------
-- *āsīt* \< *as*
+- *āsīt* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

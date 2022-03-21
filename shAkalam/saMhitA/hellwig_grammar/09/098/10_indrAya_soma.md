@@ -2,7 +2,7 @@
 title = "Rig Veda 9.98.10"
 
 +++
--   *indrāya* \< *indra*
+-   *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -11,15 +11,15 @@ title = "Rig Veda 9.98.10"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *pātave* \< *pā*
+- *pātave* ← *pā*
 - \[verb noun\]
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *vṛtraghne* \< *vṛtra*
+- *vṛtraghne* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *vṛtraghne* \< *ghne* \< *han*
+- *vṛtraghne* ← *ghne* ← *han*
 - \[noun\], dative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
@@ -27,11 +27,11 @@ title = "Rig Veda 9.98.10"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *ṣicyase* \< *sicyase* \< *sic*
+- *ṣicyase* ← *sicyase* ← *sic*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 ------------------------------------------------------------------------
-- *nare* \< *nṛ*
+- *nare* ← *nṛ*
 - \[noun\], dative, singular, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
@@ -39,14 +39,14 @@ title = "Rig Veda 9.98.10"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *dakṣiṇāvate* \< *dakṣiṇāvat*
+- *dakṣiṇāvate* ← *dakṣiṇāvat*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *devāya* \< *deva*
+- *devāya* ← *deva*
 - \[noun\], dative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *sadanāsade* \< *sadanāsad*
+- *sadanāsade* ← *sadanāsad*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------

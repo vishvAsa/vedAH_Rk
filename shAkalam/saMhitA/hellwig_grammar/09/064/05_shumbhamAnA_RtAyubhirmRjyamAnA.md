@@ -2,30 +2,30 @@
 title = "Rig Veda 9.64.5"
 
 +++
--   *śumbhamānā* \< *śumbhamānāḥ* \< *śubh*
+-   *śumbhamānā* ← *śumbhamānāḥ* ← *śubh*
 - \[verb noun\], nominative, plural
 - “look; shine; beautify.”
 ------------------------------------------------------------------------
-- *ṛtāyubhir* \< *ṛtāyubhiḥ* \< *ṛtāyu*
+- *ṛtāyubhir* ← *ṛtāyubhiḥ* ← *ṛtāyu*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *mṛjyamānā* \< *mṛjyamānāḥ* \< *mṛj*
+- *mṛjyamānā* ← *mṛjyamānāḥ* ← *mṛj*
 - \[verb noun\], nominative, plural
 - “purify; polish; rub; remove.”
 ------------------------------------------------------------------------
-- *gabhastyoḥ* \< *gabhasti*
+- *gabhastyoḥ* ← *gabhasti*
 - \[noun\], locative, dual, masculine
 - “beam; hand; sun.”
 ------------------------------------------------------------------------
-- *pavante* \< *pū*
+- *pavante* ← *pū*
 - \[verb\], plural, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *vāre* \< *vāra*
+- *vāre* ← *vāra*
 - \[noun\], locative, singular, masculine
 - “strainer.”
 ------------------------------------------------------------------------
-- *avyaye* \< *avyaya*
+- *avyaye* ← *avyaya*
 - \[noun\], locative, singular, masculine
 - “sheep.”
 ------------------------------------------------------------------------

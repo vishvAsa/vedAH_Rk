@@ -2,7 +2,7 @@
 title = "Rig Veda 8.25.15"
 
 +++
--   *te* \< *tad*
+-   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -12,29 +12,29 @@ title = "Rig Veda 8.25.15"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *ṣmā* \< *sma*
+- *ṣmā* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *vanuṣo* \< *vanuṣaḥ* \< *vanus*
+- *vanuṣo* ← *vanuṣaḥ* ← *vanus*
 - \[noun\], genitive, singular, masculine
 - “unfriendly; competing(a).”
 ------------------------------------------------------------------------
-- *naro* \< *naraḥ* \< *nṛ*
+- *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *'bhimātiṃ* \< *abhimātim* \< *abhimāti*
+- *'bhimātiṃ* ← *abhimātim* ← *abhimāti*
 - \[noun\], accusative, singular, feminine
 - “aggression; hostility.”
 ------------------------------------------------------------------------
-- *kayasya* \< *kaya*
+- *kayasya* ← *kaya*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
 - *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *tigmaṃ* \< *tigmam* \< *tigma*
+- *tigmaṃ* ← *tigmam* ← *tigma*
 - \[noun\], accusative, singular, neuter
 - “sharp; pointed; fiery.”
 ------------------------------------------------------------------------
@@ -42,15 +42,15 @@ title = "Rig Veda 8.25.15"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *kṣodaḥ* \< *kṣodas*
+- *kṣodaḥ* ← *kṣodas*
 - \[noun\], accusative, singular, neuter
 - “swell.”
 ------------------------------------------------------------------------
-- *pratighnanti* \< *pratihan* \< *√han*
+- *pratighnanti* ← *pratihan* ← *√han*
 - \[verb\], plural, Present indikative
 - “suppress; cure; obstruct; obstruct; ward off; jam; neutralize.”
 ------------------------------------------------------------------------
-- *bhūrṇayaḥ* \< *bhūrṇi*
+- *bhūrṇayaḥ* ← *bhūrṇi*
 - \[noun\], nominative, plural, masculine
 - “impatient; restless.”
 ------------------------------------------------------------------------

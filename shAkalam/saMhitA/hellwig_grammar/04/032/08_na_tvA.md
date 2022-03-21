@@ -6,11 +6,11 @@ title = "Rig Veda 4.32.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *varante* \< *vṛ*
+- *varante* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
@@ -19,22 +19,22 @@ title = "Rig Veda 4.32.8"
 - \[adverb\]
 - “otherwise; differently; vice versa; anyathā \[word\].”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *ditsasi* \< *dits* \< *√dā*
+- *ditsasi* ← *dits* ← *√dā*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *stuto* \< *stutaḥ* \< *stu*
+- *stuto* ← *stutaḥ* ← *stu*
 - \[verb noun\], nominative, singular
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *magham* \< *magha*
+- *magham* ← *magha*
 - \[noun\], accusative, singular, neuter
 - “gift; wealth; reward; wages; reward.”
 ------------------------------------------------------------------------
-- *stotṛbhya* \< *stotṛbhyaḥ* \< *stotṛ*
+- *stotṛbhya* ← *stotṛbhyaḥ* ← *stotṛ*
 - \[noun\], dative, plural, masculine
 - “laudatory; worshiping.”
 ------------------------------------------------------------------------
@@ -43,6 +43,6 @@ title = "Rig Veda 4.32.8"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *girvaṇaḥ* \< *girvaṇas*
+- *girvaṇaḥ* ← *girvaṇas*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------

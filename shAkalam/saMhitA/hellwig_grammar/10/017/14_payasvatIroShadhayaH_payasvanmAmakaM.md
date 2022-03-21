@@ -2,49 +2,49 @@
 title = "Rig Veda 10.17.14"
 
 +++
--   *payasvatīr* \< *payasvatīḥ* \< *payasvat*
+-   *payasvatīr* ← *payasvatīḥ* ← *payasvat*
 - \[noun\], nominative, plural, feminine
 - “sappy; watery; milk(a).”
 ------------------------------------------------------------------------
-- *oṣadhayaḥ* \< *oṣadhi*
+- *oṣadhayaḥ* ← *oṣadhi*
 - \[noun\], nominative, plural, feminine
 - “herb; plant; drug; simple; oṣadhi \[word\]; remedy.”
 ------------------------------------------------------------------------
-- *payasvan* \< *payasvat*
+- *payasvan* ← *payasvat*
 - \[noun\], nominative, singular, neuter
 - “sappy; watery; milk(a).”
 ------------------------------------------------------------------------
-- *māmakaṃ* \< *māmakam* \< *māmaka*
+- *māmakaṃ* ← *māmakam* ← *māmaka*
 - \[noun\], nominative, singular, neuter
 - “mine; māmaka \[word\].”
 ------------------------------------------------------------------------
-- *vacaḥ* \< *vacas*
+- *vacaḥ* ← *vacas*
 - \[noun\], nominative, singular, neuter
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------
-- *apām* \< *ap*
+- *apām* ← *ap*
 - \[noun\], genitive, plural, neuter
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *payasvad* \< *payasvat*
+- *payasvad* ← *payasvat*
 - \[noun\], nominative, singular, neuter
 - “sappy; watery; milk(a).”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *payas* \< *payaḥ* \< *payas*
+- *payas* ← *payaḥ* ← *payas*
 - \[noun\], nominative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
-- *tena* \< *tad*
+- *tena* ← *tad*
 - \[noun\], instrumental, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -52,7 +52,7 @@ title = "Rig Veda 10.17.14"
 - \[adverb\]
 - “together; together; with; jointly; together; saha \[word\]; along.”
 ------------------------------------------------------------------------
-- *śundhata* \< *śudh*
+- *śundhata* ← *śudh*
 - \[verb\], plural, Present imperative
 - “become pure; purify; wash; expiate; clean; cleanse.”
 ------------------------------------------------------------------------

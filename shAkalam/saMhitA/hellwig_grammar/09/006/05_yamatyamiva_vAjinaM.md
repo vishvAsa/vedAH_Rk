@@ -2,11 +2,11 @@
 title = "Rig Veda 9.6.5"
 
 +++
--   *yam* \< *yad*
+-   *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *atyam* \< *atya*
+- *atyam* ← *atya*
 - \[noun\], accusative, singular, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------
@@ -14,29 +14,29 @@ title = "Rig Veda 9.6.5"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *vājinam* \< *vājin*
+- *vājinam* ← *vājin*
 - \[noun\], accusative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------
-- *mṛjanti* \< *mṛj*
+- *mṛjanti* ← *mṛj*
 - \[verb\], plural, Present indikative
 - “purify; polish; rub; remove.”
 ------------------------------------------------------------------------
-- *yoṣaṇo* \< *yoṣaṇaḥ* \< *yoṣan*
+- *yoṣaṇo* ← *yoṣaṇaḥ* ← *yoṣan*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *daśa* \< *daśan*
+- *daśa* ← *daśan*
 - \[noun\], nominative, plural, feminine
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *vane* \< *vana*
+- *vane* ← *vana*
 - \[noun\], locative, singular, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
-- *krīﾱantam* \< *krīḍantam* \< *krīḍ*
+- *krīﾱantam* ← *krīḍantam* ← *krīḍ*
 - \[verb noun\], accusative, singular
 - “frolic; love; play; amuse.”
 ------------------------------------------------------------------------
-- *atyavim* \< *atyavi*
+- *atyavim* ← *atyavi*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------

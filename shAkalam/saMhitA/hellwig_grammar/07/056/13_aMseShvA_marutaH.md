@@ -2,7 +2,7 @@
 title = "Rig Veda 7.56.13"
 
 +++
--   *aṃseṣv* \< *aṃseṣu* \< *aṃsa*
+-   *aṃseṣv* ← *aṃseṣu* ← *aṃsa*
 - \[noun\], locative, plural, masculine
 - “shoulder; aṃsa \[word\].”
 ------------------------------------------------------------------------
@@ -10,34 +10,34 @@ title = "Rig Veda 7.56.13"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *khādayo* \< *khādayaḥ* \< *khādi*
+- *khādayo* ← *khādayaḥ* ← *khādi*
 - \[noun\], nominative, plural, masculine
 - “ring.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *vakṣassu* \< *vakṣas*
+- *vakṣassu* ← *vakṣas*
 - \[noun\], locative, plural, neuter
 - “breast; breast; bosom; thorax.”
 ------------------------------------------------------------------------
-- *rukmā* \< *rukmāḥ* \< *rukma*
+- *rukmā* ← *rukmāḥ* ← *rukma*
 - \[noun\], nominative, plural, masculine
 - “adornment.”
 ------------------------------------------------------------------------
-- *upaśiśriyāṇāḥ* \< *upaśri* \< *√śri*
+- *upaśiśriyāṇāḥ* ← *upaśri* ← *√śri*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vidyuto* \< *vidyutaḥ* \< *vidyut*
+- *vidyuto* ← *vidyutaḥ* ← *vidyut*
 - \[noun\], nominative, plural, feminine
 - “lightning; Vidyut; thunderbolt.”
 ------------------------------------------------------------------------
@@ -45,11 +45,11 @@ title = "Rig Veda 7.56.13"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vṛṣṭibhī* \< *vṛṣṭibhiḥ* \< *vṛṣṭi*
+- *vṛṣṭibhī* ← *vṛṣṭibhiḥ* ← *vṛṣṭi*
 - \[noun\], instrumental, plural, feminine
 - “rain; shower; rainy season.”
 ------------------------------------------------------------------------
-- *rucānā* \< *rucānāḥ* \< *ruc*
+- *rucānā* ← *rucānāḥ* ← *ruc*
 - \[verb noun\], nominative, plural
 - “please; shine.”
 ------------------------------------------------------------------------
@@ -57,16 +57,16 @@ title = "Rig Veda 7.56.13"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *svadhām* \< *svadhā*
+- *svadhām* ← *svadhā*
 - \[noun\], accusative, singular, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
 ------------------------------------------------------------------------
-- *āyudhair* \< *āyudhaiḥ* \< *āyudha*
+- *āyudhair* ← *āyudhaiḥ* ← *āyudha*
 - \[noun\], instrumental, plural, neuter
 - “weapon; āyudha \[word\].”
 ------------------------------------------------------------------------
-- *yacchamānāḥ* \< *yam*
+- *yacchamānāḥ* ← *yam*
 - \[verb noun\], nominative, plural
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------

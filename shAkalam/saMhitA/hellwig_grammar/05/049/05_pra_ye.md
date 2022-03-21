@@ -6,15 +6,15 @@ title = "Rig Veda 5.49.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vasubhya* \< *vasubhyaḥ* \< *vasu*
+- *vasubhya* ← *vasubhyaḥ* ← *vasu*
 - \[noun\], dative, plural, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *īvad* \< *īvat*
+- *īvad* ← *īvat*
 - \[noun\], accusative, singular, neuter
 - “such(a).”
 ------------------------------------------------------------------------
@@ -22,49 +22,49 @@ title = "Rig Veda 5.49.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *namo* \< *namaḥ* \< *namas*
+- *namo* ← *namaḥ* ← *namas*
 - \[noun\], accusative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *dur* \< *duḥ* \< *dā*
+- *dur* ← *duḥ* ← *dā*
 - \[verb\], plural, Aorist inj. (proh.)
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *mitre* \< *mitra*
+- *mitre* ← *mitra*
 - \[noun\], locative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *varuṇe* \< *varuṇa*
+- *varuṇe* ← *varuṇa*
 - \[noun\], locative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *sūktavācaḥ* \< *sūkta*
+- *sūktavācaḥ* ← *sūkta*
 - \[noun\], neuter
 - “Mantra; hymn.”
 ------------------------------------------------------------------------
-- *sūktavācaḥ* \< *vācaḥ* \< *vāc*
+- *sūktavācaḥ* ← *vācaḥ* ← *vāc*
 - \[noun\], nominative, plural, masculine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
 ------------------------------------------------------------------------
-- *avaitv* \< *avaitu* \< *ave* \< *√i*
+- *avaitv* ← *avaitu* ← *ave* ← *√i*
 - \[verb\], singular, Present imperative
 - “descend; go; learn; know; disappear.”
 ------------------------------------------------------------------------
-- *abhvaṃ* \< *abhvam* \< *abhva*
+- *abhvaṃ* ← *abhvam* ← *abhva*
 - \[noun\], nominative, singular, neuter
 - “monstrosity; nothingness; void; force.”
 ------------------------------------------------------------------------
-- *kṛṇutā* \< *kṛṇuta* \< *kṛ*
+- *kṛṇutā* ← *kṛṇuta* ← *kṛ*
 - \[verb\], singular, Present injunctive
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -75,19 +75,19 @@ title = "Rig Veda 5.49.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *varīyo* \< *varīyaḥ* \< *varīyas*
+- *varīyo* ← *varīyaḥ* ← *varīyas*
 - \[noun\], accusative, singular, neuter
 - “freedom; room.”
 ------------------------------------------------------------------------
-- *divaspṛthivyor* \< *divaspṛthivyoḥ* \< *divaspṛthivī*
+- *divaspṛthivyor* ← *divaspṛthivyoḥ* ← *divaspṛthivī*
 - \[noun\], genitive, dual, feminine
 - “heaven and earth.”
 ------------------------------------------------------------------------
-- *avasā* \< *avas*
+- *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *madema* \< *mad*
+- *madema* ← *mad*
 - \[verb\], plural, Present optative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------

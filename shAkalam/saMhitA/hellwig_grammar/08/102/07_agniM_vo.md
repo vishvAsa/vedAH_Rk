@@ -2,26 +2,26 @@
 title = "Rig Veda 8.102.7"
 
 +++
--   *agniṃ* \< *agnim* \< *agni*
+-   *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *vṛdhantam* \< *vṛdh*
+- *vṛdhantam* ← *vṛdh*
 - \[verb noun\], accusative, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *adhvarāṇām* \< *adhvara*
+- *adhvarāṇām* ← *adhvara*
 - \[noun\], genitive, plural, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *purūtamam* \< *purutama*
+- *purūtamam* ← *purutama*
 - \[noun\], accusative, singular, masculine
 - “most(a).”
 ------------------------------------------------------------------------
@@ -29,11 +29,11 @@ title = "Rig Veda 8.102.7"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *naptre* \< *naptṛ*
+- *naptre* ← *naptṛ*
 - \[noun\], dative, singular, masculine
 - “grandson; nephew; naptṛ \[word\].”
 ------------------------------------------------------------------------
-- *sahasvate* \< *sahasvat*
+- *sahasvate* ← *sahasvat*
 - \[noun\], dative, singular, masculine
 - “mighty; powerful.”
 ------------------------------------------------------------------------

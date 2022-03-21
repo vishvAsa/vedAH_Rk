@@ -2,19 +2,19 @@
 title = "Rig Veda 1.23.20"
 
 +++
--   *apsu* \< *ap*
+-   *apsu* ← *ap*
 - \[noun\], locative, plural, neuter
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *somo* \< *somaḥ* \< *soma*
+- *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *abravīd* \< *abravīt* \< *brū*
+- *abravīd* ← *abravīt* ← *brū*
 - \[verb\], singular, Imperfect
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
@@ -23,16 +23,16 @@ title = "Rig Veda 1.23.20"
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *viśvāni* \< *viśva*
+- *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *bheṣajā* \< *bheṣaja*
+- *bheṣajā* ← *bheṣaja*
 - \[noun\], accusative, plural, neuter
 - “drug; medicine; herb; bheṣaja \[word\]; remedy; reagent.”
 ------------------------------------------------------------------------
-- *agniṃ* \< *agnim* \< *agni*
+- *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -42,16 +42,16 @@ title = "Rig Veda 1.23.20"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *viśvaśambhuvam* \< *viśva*
+- *viśvaśambhuvam* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvaśambhuvam* \< *śambhuvam* \< *śambhu*
+- *viśvaśambhuvam* ← *śambhuvam* ← *śambhu*
 - \[noun\], accusative, singular, masculine
 - “kind; benevolent.”
 ------------------------------------------------------------------------
-- *āpaś* \< *āpaḥ* \< *ap*
+- *āpaś* ← *āpaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -59,12 +59,12 @@ title = "Rig Veda 1.23.20"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *viśvabheṣajīḥ* \< *viśva*
+- *viśvabheṣajīḥ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvabheṣajīḥ* \< *bheṣajīḥ* \< *bheṣaja*
+- *viśvabheṣajīḥ* ← *bheṣajīḥ* ← *bheṣaja*
 - \[noun\], accusative, plural, feminine
 - “curative.”
 ------------------------------------------------------------------------

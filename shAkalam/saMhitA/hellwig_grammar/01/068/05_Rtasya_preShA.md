@@ -2,40 +2,40 @@
 title = "Rig Veda 1.68.5"
 
 +++
--   *ṛtasya* \< *ṛta*
+-   *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *preṣā* \< *preṣāḥ* \< *preṣa*
+- *preṣā* ← *preṣāḥ* ← *preṣa*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *dhītir* \< *dhītiḥ* \< *dhīti*
+- *dhītir* ← *dhītiḥ* ← *dhīti*
 - \[noun\], nominative, singular, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------
-- *viśvāyur* \< *viśva*
+- *viśvāyur* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvāyur* \< *āyuḥ* \< *āyus*
+- *viśvāyur* ← *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------
-- *viśve* \< *viśva*
+- *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *apāṃsi* \< *apas*
+- *apāṃsi* ← *apas*
 - \[noun\], accusative, plural, neuter
 - “work; deed.”
 ------------------------------------------------------------------------
-- *cakruḥ* \< *kṛ*
+- *cakruḥ* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

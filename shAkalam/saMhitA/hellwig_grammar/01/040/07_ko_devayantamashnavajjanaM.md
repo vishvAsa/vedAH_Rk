@@ -2,31 +2,31 @@
 title = "Rig Veda 1.40.7"
 
 +++
--   *ko* \< *kaḥ* \< *ka*
+-   *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *devayantam* \< *devay*
+- *devayantam* ← *devay*
 - \[verb noun\], accusative, singular
 - “solicit.”
 ------------------------------------------------------------------------
-- *aśnavaj* \< *aśnavat* \< *aś*
+- *aśnavaj* ← *aśnavat* ← *aś*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *janaṃ* \< *janam* \< *jana*
+- *janaṃ* ← *janam* ← *jana*
 - \[noun\], accusative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *ko* \< *kaḥ* \< *ka*
+- *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *vṛktabarhiṣam* \< *vṛkta* \< *vṛj*
+- *vṛktabarhiṣam* ← *vṛkta* ← *vṛj*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *vṛktabarhiṣam* \< *barhiṣam* \< *barhis*
+- *vṛktabarhiṣam* ← *barhiṣam* ← *barhis*
 - \[noun\], accusative, singular, masculine
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
@@ -38,28 +38,28 @@ title = "Rig Veda 1.40.7"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *dāśvān* \< *dāś*
+- *dāśvān* ← *dāś*
 - \[verb noun\], nominative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *pastyābhir* \< *pastyābhiḥ* \< *pastyā*
+- *pastyābhir* ← *pastyābhiḥ* ← *pastyā*
 - \[noun\], instrumental, plural, feminine
 - “river; dwelling.”
 ------------------------------------------------------------------------
-- *asthitāntarvāvat* \< *asthita* \< *sthā*
+- *asthitāntarvāvat* ← *asthita* ← *sthā*
 - \[verb\], singular, Root aorist (Ind.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *asthitāntarvāvat* \< *antarvāvat*
+- *asthitāntarvāvat* ← *antarvāvat*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *kṣayaṃ* \< *kṣayam* \< *kṣaya*
+- *kṣayaṃ* ← *kṣayam* ← *kṣaya*
 - \[noun\], accusative, singular, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
 ------------------------------------------------------------------------
-- *dadhe* \< *dhā*
+- *dadhe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

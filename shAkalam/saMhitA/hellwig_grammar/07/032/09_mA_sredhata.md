@@ -6,20 +6,20 @@ title = "Rig Veda 7.32.9"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *sredhata* \< *sridh*
+- *sredhata* ← *sridh*
 - \[verb\], plural, Present imperative
 ------------------------------------------------------------------------
-- *somino* \< *sominaḥ* \< *somin*
+- *somino* ← *sominaḥ* ← *somin*
 - \[noun\], vocative, plural, masculine
 ------------------------------------------------------------------------
-- *dakṣatā* \< *dakṣata* \< *dakṣ*
+- *dakṣatā* ← *dakṣata* ← *dakṣ*
 - \[verb\], plural, Present imperative
 ------------------------------------------------------------------------
-- *mahe* \< *mah*
+- *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *kṛṇudhvaṃ* \< *kṛṇudhvam* \< *kṛ*
+- *kṛṇudhvaṃ* ← *kṛṇudhvam* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -30,31 +30,31 @@ title = "Rig Veda 7.32.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *rāya* \< *rāyaḥ* \< *rai*
+- *rāya* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *ātuje* \< *ātuj* \< *√tuj*
+- *ātuje* ← *ātuj* ← *√tuj*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *taraṇir* \< *taraṇiḥ* \< *taraṇi*
+- *taraṇir* ← *taraṇiḥ* ← *taraṇi*
 - \[noun\], nominative, singular, masculine
 - “energetic; agile.”
 ------------------------------------------------------------------------
-- *ij* \< *id*
+- *ij* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *jayati* \< *ji*
+- *jayati* ← *ji*
 - \[verb\], singular, Present indikative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *kṣeti* \< *kṣi*
+- *kṣeti* ← *kṣi*
 - \[verb\], singular, Present indikative
 - “govern; inhabit; dwell; stay; predominate; bide; own.”
 ------------------------------------------------------------------------
-- *puṣyati* \< *puṣ*
+- *puṣyati* ← *puṣ*
 - \[verb\], singular, Present indikative
 - “boom; grow; promote; foster.”
 ------------------------------------------------------------------------
@@ -62,12 +62,12 @@ title = "Rig Veda 7.32.9"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *devāsaḥ* \< *deva*
+- *devāsaḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *kavatnave* \< *kavatnu*
+- *kavatnave* ← *kavatnu*
 - \[noun\], dative, singular, masculine
 - “stingy.”
 ------------------------------------------------------------------------

@@ -6,30 +6,30 @@ title = "Rig Veda 5.73.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *sūryā* \< *sūryaḥ* \< *sūrya*
+- *sūryā* ← *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *rathaṃ* \< *ratham* \< *ratha*
+- *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *tiṣṭhad* \< *tiṣṭhat* \< *sthā*
+- *tiṣṭhad* ← *tiṣṭhat* ← *sthā*
 - \[verb\], singular, Imperfect
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *raghuṣyadaṃ* \< *raghuṣyadam* \< *raghuṣyad*
+- *raghuṣyadaṃ* ← *raghuṣyadam* ← *raghuṣyad*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *sadā*
@@ -40,28 +40,28 @@ title = "Rig Veda 5.73.5"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *aruṣā* \< *aruṣāḥ* \< *aruṣa*
+- *aruṣā* ← *aruṣāḥ* ← *aruṣa*
 - \[noun\], nominative, plural, masculine
 - “red; red.”
 ------------------------------------------------------------------------
-- *vayo* \< *vayaḥ* \< *vi*
+- *vayo* ← *vayaḥ* ← *vi*
 - \[noun\], nominative, plural, masculine
 - “vi; bird; vi.”
 ------------------------------------------------------------------------
-- *ghṛṇā* \< *ghṛṇāḥ* \< *ghṛṇā*
+- *ghṛṇā* ← *ghṛṇāḥ* ← *ghṛṇā*
 - \[noun\], accusative, plural, feminine
 - “compassion; disgust; affection.”
 ------------------------------------------------------------------------
-- *varanta* \< *varante* \< *vṛ*
+- *varanta* ← *varante* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *ātapaḥ* \< *ātap* \< *√tap*
+- *ātapaḥ* ← *ātap* ← *√tap*
 - \[verb noun\]
 - “heat.”
 ------------------------------------------------------------------------

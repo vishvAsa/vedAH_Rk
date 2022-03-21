@@ -6,23 +6,23 @@ title = "Rig Veda 8.27.15"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *śaṃsāmy* \< *śaṃsāmi* \< *śaṃs*
+- *śaṃsāmy* ← *śaṃsāmi* ← *śaṃs*
 - \[verb\], singular, Present indikative
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
 ------------------------------------------------------------------------
-- *adruhaḥ* \< *adruh*
+- *adruhaḥ* ← *adruh*
 - \[noun\], accusative, plural, masculine
 - “friendly; benign.”
 ------------------------------------------------------------------------
-- *saṃstha* \< *saṃsthe* \< *saṃstha*
+- *saṃstha* ← *saṃsthe* ← *saṃstha*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *upastutīnām* \< *upastuti*
+- *upastutīnām* ← *upastuti*
 - \[noun\], genitive, plural, feminine
 - “praise; applause.”
 ------------------------------------------------------------------------
@@ -30,13 +30,13 @@ title = "Rig Veda 8.27.15"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *taṃ* \< *tam* \< *tad*
+- *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *dhūrtir* \< *dhūrtiḥ* \< *dhūrti*
+- *dhūrtir* ← *dhūrtiḥ* ← *dhūrti*
 - \[noun\], nominative, singular, feminine
 - “fraud; damage.”
 ------------------------------------------------------------------------
@@ -49,24 +49,24 @@ title = "Rig Veda 8.27.15"
 - \[noun\], vocative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *martyaṃ* \< *martyam* \< *martya*
+- *martyaṃ* ← *martyam* ← *martya*
 - \[noun\], accusative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *dhāmabhyo* \< *dhāmabhyaḥ* \< *dhāman*
+- *dhāmabhyo* ← *dhāmabhyaḥ* ← *dhāman*
 - \[noun\], dative, plural, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
 ------------------------------------------------------------------------
-- *'vidhat* \< *avidhat* \< *vidh*
+- *'vidhat* ← *avidhat* ← *vidh*
 - \[verb\], singular, Imperfect
 - “worship; offer.”
 ------------------------------------------------------------------------

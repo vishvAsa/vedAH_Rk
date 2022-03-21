@@ -5,11 +5,11 @@ title = "Rig Veda 8.102.19"
 -   *nahi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asty* \< *asti* \< *as*
+- *asty* ← *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -22,27 +22,27 @@ title = "Rig Veda 8.102.19"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *svadhitir* \< *svadhitiḥ* \< *svadhiti*
+- *svadhitir* ← *svadhitiḥ* ← *svadhiti*
 - \[noun\], nominative, singular, masculine
 - “ax; knife.”
 ------------------------------------------------------------------------
-- *vananvati* \< *vananvat*
+- *vananvati* ← *vananvat*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *athaitādṛg* \< *atha*
+- *athaitādṛg* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *athaitādṛg* \< *etādṛś*
+- *athaitādṛg* ← *etādṛś*
 - \[noun\], accusative, singular, neuter
 - “such(a).”
 ------------------------------------------------------------------------
-- *bharāmi* \< *bhṛ*
+- *bharāmi* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------

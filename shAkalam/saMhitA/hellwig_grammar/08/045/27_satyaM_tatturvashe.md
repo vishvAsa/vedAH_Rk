@@ -2,43 +2,43 @@
 title = "Rig Veda 8.45.27"
 
 +++
--   *satyaṃ* \< *satyam* \< *satya*
+-   *satyaṃ* ← *satyam* ← *satya*
 - \[noun\], nominative, singular, neuter
 - “truth; oath; satya \[word\]; promise.”
 ------------------------------------------------------------------------
-- *tat* \< *tad*
+- *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *turvaśe* \< *turvaśa*
+- *turvaśe* ← *turvaśa*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *yadau* \< *yadu*
+- *yadau* ← *yadu*
 - \[noun\], locative, singular, masculine
 - “Yadu; Yadu.”
 ------------------------------------------------------------------------
-- *vidāno* \< *vidānaḥ* \< *vid*
+- *vidāno* ← *vidānaḥ* ← *vid*
 - \[verb noun\], nominative, singular
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *ahnavāyyam* \< *a*
+- *ahnavāyyam* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *ahnavāyyam* \< *hnavāyyam* \< *hnu*
+- *ahnavāyyam* ← *hnavāyyam* ← *hnu*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ānaṭ* \< *naś*
+- *ānaṭ* ← *naś*
 - \[verb\], singular, Root aorist (Ind.)
 - “reach; achieve; enter (a state); reach.”
 ------------------------------------------------------------------------
-- *turvaṇe* \< *tur*
+- *turvaṇe* ← *tur*
 - \[verb noun\]
 ------------------------------------------------------------------------
 - *śami*

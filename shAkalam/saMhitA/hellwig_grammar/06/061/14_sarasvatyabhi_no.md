@@ -2,7 +2,7 @@
 title = "Rig Veda 6.61.14"
 
 +++
--   *sarasvaty* \< *sarasvati* \< *sarasvatī*
+-   *sarasvaty* ← *sarasvati* ← *sarasvatī*
 - \[noun\], vocative, singular, feminine
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
@@ -11,32 +11,32 @@ title = "Rig Veda 6.61.14"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *neṣi* \< *nī*
+- *neṣi* ← *nī*
 - \[verb\], singular, Present indikative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *vasyo* \< *vasyaḥ* \< *vasyas*
+- *vasyo* ← *vasyaḥ* ← *vasyas*
 - \[noun\], accusative, singular, neuter
 - “good fortune; well-being.”
 ------------------------------------------------------------------------
-- *māpa* \< *mā*
+- *māpa* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *māpa* \< *apa*
+- *māpa* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *spharīḥ* \< *sphur*
+- *spharīḥ* ← *sphur*
 - \[verb\], singular, Aorist inj. (proh.)
 - “glitter; bounce; quiver; pulsate.”
 ------------------------------------------------------------------------
-- *payasā* \< *payas*
+- *payasā* ← *payas*
 - \[noun\], instrumental, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
@@ -44,7 +44,7 @@ title = "Rig Veda 6.61.14"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -52,23 +52,23 @@ title = "Rig Veda 6.61.14"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dhak* \< *dagh*
+- *dhak* ← *dagh*
 - \[verb\], singular, Aorist inj. (proh.)
 ------------------------------------------------------------------------
-- *juṣasva* \< *juṣ*
+- *juṣasva* ← *juṣ*
 - \[verb\], singular, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sakhyā* \< *sakhya*
+- *sakhyā* ← *sakhya*
 - \[noun\], instrumental, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *veśyā* \< *veśya*
+- *veśyā* ← *veśya*
 - \[noun\], instrumental, singular, neuter
 - “whorehouse.”
 ------------------------------------------------------------------------
@@ -80,20 +80,20 @@ title = "Rig Veda 6.61.14"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *tvat* \< *tvad*
+- *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *kṣetrāṇy* \< *kṣetrāṇi* \< *kṣetra*
+- *kṣetrāṇy* ← *kṣetrāṇi* ← *kṣetra*
 - \[noun\], accusative, plural, neuter
 - “field; location; habitat; country; area; earth; region; estate;
     body; kṣetra \[word\]; kṣetradoṣa; seat; reincarnation; uterus.”
 ------------------------------------------------------------------------
-- *araṇāni* \< *araṇa*
+- *araṇāni* ← *araṇa*
 - \[noun\], accusative, plural, neuter
 - “foreign; unrelated.”
 ------------------------------------------------------------------------
-- *ganma* \< *gam*
+- *ganma* ← *gam*
 - \[verb\], plural, Aorist inj. (proh.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

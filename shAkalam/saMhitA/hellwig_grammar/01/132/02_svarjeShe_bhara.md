@@ -2,38 +2,38 @@
 title = "Rig Veda 1.132.2"
 
 +++
--   *svarjeṣe* \< *svar*
+-   *svarjeṣe* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *svarjeṣe* \< *jeṣe* \< *jeṣa*
+- *svarjeṣe* ← *jeṣe* ← *jeṣa*
 - \[noun\], locative, singular, neuter
 - “conquest.”
 ------------------------------------------------------------------------
-- *bhara* \< *bhare* \< *bhara*
+- *bhara* ← *bhare* ← *bhara*
 - \[noun\], locative, singular, masculine
 - “battle; weight; foray; bhṛ; load.”
 ------------------------------------------------------------------------
-- *āprasya* \< *āpra*
+- *āprasya* ← *āpra*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *vakmany* \< *vakmani* \< *vakman*
+- *vakmany* ← *vakmani* ← *vakman*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *uṣarbudhaḥ* \< *uṣarbudh*
+- *uṣarbudhaḥ* ← *uṣarbudh*
 - \[noun\], genitive, singular, masculine
 - “early rising.”
 ------------------------------------------------------------------------
-- *svasminn* \< *svasmin* \< *sva*
+- *svasminn* ← *svasmin* ← *sva*
 - \[noun\], locative, singular, neuter
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *añjasi* \< *añjas*
+- *añjasi* ← *añjas*
 - \[noun\], locative, singular, neuter
 - “añjas \[word\].”
 ------------------------------------------------------------------------
-- *krāṇasya* \< *kṛ*
+- *krāṇasya* ← *kṛ*
 - \[verb noun\], genitive, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -44,20 +44,20 @@ title = "Rig Veda 1.132.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *svasminn* \< *svasmin* \< *sva*
+- *svasminn* ← *svasmin* ← *sva*
 - \[noun\], locative, singular, neuter
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *añjasi* \< *añjas*
+- *añjasi* ← *añjas*
 - \[noun\], locative, singular, neuter
 - “añjas \[word\].”
 ------------------------------------------------------------------------
-- *ahann* \< *ahan* \< *ahar*
+- *ahann* ← *ahan* ← *ahar*
 - \[noun\], locative, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -66,52 +66,52 @@ title = "Rig Veda 1.132.2"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *vide* \< *vid*
+- *vide* ← *vid*
 - \[verb\], singular, Present indikative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *śīrṣṇā* \< *śīrṣan*
+- *śīrṣṇā* ← *śīrṣan*
 - \[noun\], instrumental, singular, neuter
 - “head; śīrṣan \[word\].”
 ------------------------------------------------------------------------
-- *śīrṣṇopavācyaḥ* \< *śīrṣṇā* \< *śīrṣan*
+- *śīrṣṇopavācyaḥ* ← *śīrṣṇā* ← *śīrṣan*
 - \[noun\], instrumental, singular, neuter
 - “head; śīrṣan \[word\].”
 ------------------------------------------------------------------------
-- *śīrṣṇopavācyaḥ* \< *upavācyaḥ* \< *upavac* \< *√vac*
+- *śīrṣṇopavācyaḥ* ← *upavācyaḥ* ← *upavac* ← *√vac*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
 - *asmatrā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sadhryak* \< *sadhryañc*
+- *sadhryak* ← *sadhryañc*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *santu* \< *as*
+- *santu* ← *as*
 - \[verb\], plural, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *rātayo* \< *rātayaḥ* \< *rāti*
+- *rātayo* ← *rātayaḥ* ← *rāti*
 - \[noun\], nominative, plural, feminine
 - “gift; bounty; favor.”
 ------------------------------------------------------------------------
-- *bhadrā* \< *bhadrāḥ* \< *bhadra*
+- *bhadrā* ← *bhadrāḥ* ← *bhadra*
 - \[noun\], nominative, plural, feminine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *bhadrasya* \< *bhadra*
+- *bhadrasya* ← *bhadra*
 - \[noun\], genitive, singular, masculine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *rātayaḥ* \< *rāti*
+- *rātayaḥ* ← *rāti*
 - \[noun\], nominative, plural, feminine
 - “gift; bounty; favor.”
 ------------------------------------------------------------------------

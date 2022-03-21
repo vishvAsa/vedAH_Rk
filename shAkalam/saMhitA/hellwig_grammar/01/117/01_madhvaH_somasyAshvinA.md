@@ -2,73 +2,73 @@
 title = "Rig Veda 1.117.1"
 
 +++
--   *madhvaḥ* \< *madhu*
+-   *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, masculine
 - “sweet; deft.”
 ------------------------------------------------------------------------
-- *somasyāśvinā* \< *somasya* \< *soma*
+- *somasyāśvinā* ← *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somasyāśvinā* \< *aśvinā* \< *aśvin*
+- *somasyāśvinā* ← *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *madāya* \< *mada*
+- *madāya* ← *mada*
 - \[noun\], dative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *pratno* \< *pratnaḥ* \< *pratna*
+- *pratno* ← *pratnaḥ* ← *pratna*
 - \[noun\], nominative, singular, masculine
 - “age-old; pratna \[word\].”
 ------------------------------------------------------------------------
-- *hotā* \< *hotṛ*
+- *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *vivāsate* \< *vivās* \< *√van*
+- *vivāsate* ← *vivās* ← *√van*
 - \[verb\], singular, Present indikative
 - “invite; endeavor; try for.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *barhiṣmatī* \< *barhiṣmat*
+- *barhiṣmatī* ← *barhiṣmat*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *rātir* \< *rātiḥ* \< *rāti*
+- *rātir* ← *rātiḥ* ← *rāti*
 - \[noun\], nominative, singular, feminine
 - “gift; bounty; favor.”
 ------------------------------------------------------------------------
-- *viśritā* \< *viśri* \< *√śri*
+- *viśritā* ← *viśri* ← *√śri*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *gīr* \< *gīḥ* \< *gir*
+- *gīr* ← *gīḥ* ← *gir*
 - \[noun\], nominative, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *iṣā* \< *iṣ*
+- *iṣā* ← *iṣ*
 - \[noun\], instrumental, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *yātaṃ* \< *yātam* \< *yā*
+- *yātaṃ* ← *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *nāsatyopa* \< *nāsatya*
+- *nāsatyopa* ← *nāsatya*
 - \[noun\], vocative, singular, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *nāsatyopa* \< *upa*
+- *nāsatyopa* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *vājaiḥ* \< *vāja*
+- *vājaiḥ* ← *vāja*
 - \[noun\], instrumental, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------

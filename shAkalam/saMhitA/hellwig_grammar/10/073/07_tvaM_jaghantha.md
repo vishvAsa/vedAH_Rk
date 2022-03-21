@@ -2,28 +2,28 @@
 title = "Rig Veda 10.73.7"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *jaghantha* \< *han*
+- *jaghantha* ← *han*
 - \[verb\], singular, Perfect indicative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *namucim* \< *namuci*
+- *namucim* ← *namuci*
 - \[noun\], accusative, singular, masculine
 - “Namuci; namuci \[word\].”
 ------------------------------------------------------------------------
-- *makhasyuṃ* \< *makhasyum* \< *makhasyu*
+- *makhasyuṃ* ← *makhasyum* ← *makhasyu*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *dāsaṃ* \< *dāsam* \< *dāsa*
+- *dāsaṃ* ← *dāsam* ← *dāsa*
 - \[noun\], accusative, singular, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
 ------------------------------------------------------------------------
-- *kṛṇvāna* \< *kṛṇvānaḥ* \< *kṛ*
+- *kṛṇvāna* ← *kṛṇvānaḥ* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -34,18 +34,18 @@ title = "Rig Veda 10.73.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *ṛṣaye* \< *ṛṣi*
+- *ṛṣaye* ← *ṛṣi*
 - \[noun\], dative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *vimāyam* \< *vimāya*
+- *vimāyam* ← *vimāya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *cakartha* \< *kṛ*
+- *cakartha* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -56,31 +56,31 @@ title = "Rig Veda 10.73.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *manave* \< *manu*
+- *manave* ← *manu*
 - \[noun\], dative, singular, masculine
 - “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
     incantation; sacred text.”
 ------------------------------------------------------------------------
-- *syonān* \< *syona*
+- *syonān* ← *syona*
 - \[noun\], accusative, plural, masculine
 - “benevolent; agreeable; pleasant; agreeable.”
 ------------------------------------------------------------------------
-- *patho* \< *pathaḥ* \< *pathin*
+- *patho* ← *pathaḥ* ← *pathin*
 - \[noun\], accusative, plural
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *devatrāñjaseva* \< *devatrā*
+- *devatrāñjaseva* ← *devatrā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *devatrāñjaseva* \< *añjasā*
+- *devatrāñjaseva* ← *añjasā*
 - \[adverb\]
 - “quickly; immediately; rightly; correctly; promptly.”
 ------------------------------------------------------------------------
-- *devatrāñjaseva* \< *iva*
+- *devatrāñjaseva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *yānān* \< *yā*
+- *yānān* ← *yā*
 - \[verb noun\], accusative, plural
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”

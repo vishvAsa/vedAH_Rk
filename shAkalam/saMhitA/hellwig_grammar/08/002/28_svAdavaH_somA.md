@@ -2,11 +2,11 @@
 title = "Rig Veda 8.2.28"
 
 +++
--   *svādavaḥ* \< *svādu*
+-   *svādavaḥ* ← *svādu*
 - \[noun\], nominative, plural, masculine
 - “Madhura; sweet; sweet; dainty; agreeable.”
 ------------------------------------------------------------------------
-- *somā* \< *somāḥ* \< *soma*
+- *somā* ← *somāḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -14,16 +14,16 @@ title = "Rig Veda 8.2.28"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yāhi* \< *yā*
+- *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *śrītāḥ* \< *śrī*
+- *śrītāḥ* ← *śrī*
 - \[verb noun\], nominative, plural
 - “cook; boil; heat; cook; mix.”
 ------------------------------------------------------------------------
-- *somā* \< *somāḥ* \< *soma*
+- *somā* ← *somāḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -31,26 +31,26 @@ title = "Rig Veda 8.2.28"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yāhi* \< *yā*
+- *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *śiprinn* \< *śiprin*
+- *śiprinn* ← *śiprin*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *ṛṣīvaḥ* \< *ṛṣīvas* \< *ṛṣīvat*
+- *ṛṣīvaḥ* ← *ṛṣīvas* ← *ṛṣīvat*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *śacīvo* \< *śacīvas* \< *śacīvat*
+- *śacīvo* ← *śacīvas* ← *śacīvat*
 - \[noun\], vocative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *nāyam* \< *na*
+- *nāyam* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāyam* \< *ayam* \< *idam*
+- *nāyam* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -58,7 +58,7 @@ title = "Rig Veda 8.2.28"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *sadhamādam* \< *sadhamāda*
+- *sadhamādam* ← *sadhamāda*
 - \[noun\], accusative, singular, masculine
 - “banquet; party; drink.”
 ------------------------------------------------------------------------

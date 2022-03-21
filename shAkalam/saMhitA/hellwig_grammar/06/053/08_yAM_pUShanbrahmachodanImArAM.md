@@ -2,7 +2,7 @@
 title = "Rig Veda 6.53.8"
 
 +++
--   *yām* \< *yad*
+-   *yām* ← *yad*
 - \[noun\], accusative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -10,41 +10,41 @@ title = "Rig Veda 6.53.8"
 - \[noun\], vocative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *brahmacodanīm* \< *brahma* \< *brahman*
+- *brahmacodanīm* ← *brahma* ← *brahman*
 - \[noun\], neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *brahmacodanīm* \< *codanīm* \< *codana*
+- *brahmacodanīm* ← *codanīm* ← *codana*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *ārām* \< *ārā*
+- *ārām* ← *ārā*
 - \[noun\], accusative, singular, feminine
 - “ārā.”
 ------------------------------------------------------------------------
-- *bibharṣy* \< *bibharṣi* \< *bhṛ*
+- *bibharṣy* ← *bibharṣi* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *āghṛṇe* \< *āghṛṇi*
+- *āghṛṇe* ← *āghṛṇi*
 - \[noun\], vocative, singular, masculine
 - “aglow(p).”
 ------------------------------------------------------------------------
-- *tayā* \< *tad*
+- *tayā* ← *tad*
 - \[noun\], instrumental, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *samasya* \< *sama*
+- *samasya* ← *sama*
 - \[noun\], genitive, singular, masculine
 - “like; like; alike(p); level; symmetrical; balanced; average; same;
     regular; impartial; imperturbable; even; sama \[word\]; every(a);
     accurate; identical; fair; equal; synonymous; changeless; whole;
     exact; calm; straight; even; wide.”
 ------------------------------------------------------------------------
-- *hṛdayam* \< *hṛdaya*
+- *hṛdayam* ← *hṛdaya*
 - \[noun\], accusative, singular, neuter
 - “heart; heart; mind; hṛdaya \[word\]; science; thorax;
     Aṣṭāṅgahṛdayasaṃhitā; soul.”
@@ -53,14 +53,14 @@ title = "Rig Veda 6.53.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *rikha* \< *likh*
+- *rikha* ← *likh*
 - \[verb\], singular, Present imperative
 - “write; trace; describe; scarify; paint.”
 ------------------------------------------------------------------------
 - *kikirā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *kṛṇu* \< *kṛ*
+- *kṛṇu* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

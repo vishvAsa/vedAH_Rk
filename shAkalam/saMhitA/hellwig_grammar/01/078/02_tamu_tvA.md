@@ -2,7 +2,7 @@
 title = "Rig Veda 1.78.2"
 
 +++
--   *tam* \< *tad*
+-   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -12,27 +12,27 @@ title = "Rig Veda 1.78.2"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *gotamo* \< *gotamaḥ* \< *gotama*
+- *gotamo* ← *gotamaḥ* ← *gotama*
 - \[noun\], nominative, singular, masculine
 - “Gotama; gotama \[word\].”
 ------------------------------------------------------------------------
-- *girā* \< *gir*
+- *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *rāyaskāmo* \< *rāyaskāmaḥ* \< *rāyaskāma*
+- *rāyaskāmo* ← *rāyaskāmaḥ* ← *rāyaskāma*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *duvasyati* \< *duvasy*
+- *duvasyati* ← *duvasy*
 - \[verb\], singular, Present indikative
 - “worship.”
 ------------------------------------------------------------------------
-- *dyumnair* \< *dyumnaiḥ* \< *dyumna*
+- *dyumnair* ← *dyumnaiḥ* ← *dyumna*
 - \[noun\], instrumental, plural, neuter
 - “magnificence.”
 ------------------------------------------------------------------------
@@ -44,7 +44,7 @@ title = "Rig Veda 1.78.2"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ṇonumaḥ* \< *nonāv* \< *√nū*
+- *ṇonumaḥ* ← *nonāv* ← *√nū*
 - \[verb\], plural, Present indikative
 - “bellow.”
 ------------------------------------------------------------------------

@@ -2,27 +2,27 @@
 title = "Rig Veda 2.23.9"
 
 +++
--   *tvayā* \< *tvad*
+-   *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *suvṛdhā* \< *su*
+- *suvṛdhā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvṛdhā* \< *vṛdhā* \< *vṛdh*
+- *suvṛdhā* ← *vṛdhā* ← *vṛdh*
 - \[noun\], instrumental, singular, masculine
 - “increasing.”
 ------------------------------------------------------------------------
-- *brahmaṇaspate* \< *brahmaṇaspati*
+- *brahmaṇaspate* ← *brahmaṇaspati*
 - \[noun\], vocative, singular, masculine
 - “Brahmaṇaspati.”
 ------------------------------------------------------------------------
-- *spārhā* \< *spārha*
+- *spārhā* ← *spārha*
 - \[noun\], accusative, plural, neuter
 - “desirable.”
 ------------------------------------------------------------------------
@@ -30,59 +30,59 @@ title = "Rig Veda 2.23.9"
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *manuṣyā* \< *manuṣya*
+- *manuṣyā* ← *manuṣya*
 - \[noun\], accusative, plural, neuter
 - “human.”
 ------------------------------------------------------------------------
-- *dadīmahi* \< *dā*
+- *dadīmahi* ← *dā*
 - \[verb\], plural, Present optative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *yā* \< *yāḥ* \< *yad*
+- *yā* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dūre* \< *dūra*
+- *dūre* ← *dūra*
 - \[noun\], locative, singular, neuter
 - “distance; distance; farness.”
 ------------------------------------------------------------------------
-- *taḍito* \< *taḍitas*
+- *taḍito* ← *taḍitas*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *yā* \< *yāḥ* \< *yad*
+- *yā* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *arātayo* \< *arātayaḥ* \< *arāti*
+- *arātayo* ← *arātayaḥ* ← *arāti*
 - \[noun\], nominative, plural, feminine
 - “hostility; adversity; foe; envy; stinginess.”
 ------------------------------------------------------------------------
-- *'bhi* \< *abhi*
+- *'bhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *santi* \< *as*
+- *santi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *jambhayā* \< *jambhay* \< *√jabh*
+- *jambhayā* ← *jambhay* ← *√jabh*
 - \[verb\], singular, Present imperative
 - “crunch; strangle.”
 ------------------------------------------------------------------------
-- *tā* \< *tāḥ* \< *tad*
+- *tā* ← *tāḥ* ← *tad*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *anapnasaḥ* \< *anapnas*
+- *anapnasaḥ* ← *anapnas*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------

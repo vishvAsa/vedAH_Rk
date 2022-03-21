@@ -6,20 +6,20 @@ title = "Rig Veda 10.37.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *adevaḥ* \< *a*
+- *adevaḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *adevaḥ* \< *devaḥ* \< *deva*
+- *adevaḥ* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *pradivo* \< *pradivaḥ* \< *pradiv*
+- *pradivo* ← *pradivaḥ* ← *pradiv*
 - \[noun\], ablative, singular, masculine
 - “age-old; long.”
 ------------------------------------------------------------------------
@@ -27,30 +27,30 @@ title = "Rig Veda 10.37.3"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *vāsate* \< *vās*
+- *vāsate* ← *vās*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *etaśebhiḥ* \< *etaśa*
+- *etaśebhiḥ* ← *etaśa*
 - \[noun\], instrumental, plural, masculine
 - “Etaśa; horse.”
 ------------------------------------------------------------------------
-- *patarai* \< *pataraiḥ* \< *patara*
+- *patarai* ← *pataraiḥ* ← *patara*
 - \[noun\], instrumental, plural, masculine
 - “winged.”
 ------------------------------------------------------------------------
-- *ratharyasi* \< *rathary*
+- *ratharyasi* ← *rathary*
 - \[verb\], singular, Present indikative
 - “drive.”
 ------------------------------------------------------------------------
-- *prācīnam* \< *prācīna*
+- *prācīnam* ← *prācīna*
 - \[noun\], accusative, singular, neuter
 - “eastern; frontal.”
 ------------------------------------------------------------------------
-- *anyad* \< *anyat* \< *anya*
+- *anyad* ← *anyat* ← *anya*
 - \[noun\], nominative, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
@@ -59,13 +59,13 @@ title = "Rig Veda 10.37.3"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *vartate* \< *vṛt*
+- *vartate* ← *vṛt*
 - \[verb\], singular, Present indikative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
 ------------------------------------------------------------------------
-- *raja* \< *rajaḥ* \< *rajas*
+- *raja* ← *rajaḥ* ← *rajas*
 - \[noun\], accusative, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
@@ -74,17 +74,17 @@ title = "Rig Veda 10.37.3"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *anyena* \< *anya*
+- *anyena* ← *anya*
 - \[noun\], instrumental, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *jyotiṣā* \< *jyotis*
+- *jyotiṣā* ← *jyotis*
 - \[noun\], instrumental, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
 ------------------------------------------------------------------------
-- *yāsi* \< *yā*
+- *yāsi* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”

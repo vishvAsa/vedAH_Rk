@@ -6,36 +6,36 @@ title = "Rig Veda 2.42.3"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *kranda* \< *krand*
+- *kranda* ← *krand*
 - \[verb\], singular, Present imperative
 - “roar; neigh; cry; howl; shout.”
 ------------------------------------------------------------------------
-- *dakṣiṇato* \< *dakṣiṇatas*
+- *dakṣiṇato* ← *dakṣiṇatas*
 - \[adverb\]
 - “right; southward.”
 ------------------------------------------------------------------------
-- *gṛhāṇāṃ* \< *gṛhāṇām* \< *gṛha*
+- *gṛhāṇāṃ* ← *gṛhāṇām* ← *gṛha*
 - \[noun\], genitive, plural, neuter
 - “house; palace; temple; home; place; family; family; stable.”
 ------------------------------------------------------------------------
-- *sumaṅgalo* \< *su*
+- *sumaṅgalo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sumaṅgalo* \< *maṅgalaḥ* \< *maṅgala*
+- *sumaṅgalo* ← *maṅgalaḥ* ← *maṅgala*
 - \[noun\], nominative, singular, masculine
 - “auspicious.”
 ------------------------------------------------------------------------
-- *bhadravādī* \< *bhadra*
+- *bhadravādī* ← *bhadra*
 - \[noun\]
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *bhadravādī* \< *vādī* \< *vādin*
+- *bhadravādī* ← *vādī* ← *vādin*
 - \[noun\], nominative, singular, masculine
 - “speaking; discussing; chatty; crying.”
 ------------------------------------------------------------------------
-- *śakunte* \< *śakunti*
+- *śakunte* ← *śakunti*
 - \[noun\], vocative, singular, masculine
 - “bird.”
 ------------------------------------------------------------------------
@@ -43,48 +43,48 @@ title = "Rig Veda 2.42.3"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *na* \< *mad*
+- *na* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *stena* \< *stenaḥ* \< *stena*
+- *stena* ← *stenaḥ* ← *stena*
 - \[noun\], nominative, singular, masculine
 - “thief; stena \[word\].”
 ------------------------------------------------------------------------
-- *īśata* \< *īś*
+- *īśata* ← *īś*
 - \[verb\], singular, Present injunctive
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *māghaśaṃso* \< *mā*
+- *māghaśaṃso* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *māghaśaṃso* \< *agha*
+- *māghaśaṃso* ← *agha*
 - \[noun\]
 - “bad; dangerous; ill; iniquitous; bad.”
 ------------------------------------------------------------------------
-- *māghaśaṃso* \< *śaṃsaḥ* \< *śaṃsa*
+- *māghaśaṃso* ← *śaṃsaḥ* ← *śaṃsa*
 - \[noun\], nominative, singular, masculine
 - “speaking.”
 ------------------------------------------------------------------------
-- *bṛhad* \< *bṛhat* \< *bṛhant*
+- *bṛhad* ← *bṛhat* ← *bṛhant*
 - \[noun\], accusative, singular, neuter
 - “Bṛhant.”
 ------------------------------------------------------------------------
-- *vadema* \< *vad*
+- *vadema* ← *vad*
 - \[verb\], plural, Present optative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
 ------------------------------------------------------------------------
-- *vidathe* \< *vidatha*
+- *vidathe* ← *vidatha*
 - \[noun\], locative, singular, neuter
 - “meeting; wisdom; council.”
 ------------------------------------------------------------------------
-- *suvīrāḥ* \< *su*
+- *suvīrāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvīrāḥ* \< *vīrāḥ* \< *vīra*
+- *suvīrāḥ* ← *vīrāḥ* ← *vīra*
 - \[noun\], nominative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------

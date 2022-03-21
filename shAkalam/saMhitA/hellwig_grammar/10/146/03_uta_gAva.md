@@ -6,16 +6,16 @@ title = "Rig Veda 10.146.3"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *gāva* \< *gāvaḥ* \< *go*
+- *gāva* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *ivādanty* \< *iva*
+- *ivādanty* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ivādanty* \< *adanti* \< *ad*
+- *ivādanty* ← *adanti* ← *ad*
 - \[verb\], plural, Present indikative
 - “eat; devour.”
 ------------------------------------------------------------------------
@@ -23,37 +23,37 @@ title = "Rig Veda 10.146.3"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *veśmeva* \< *veśma* \< *veśman*
+- *veśmeva* ← *veśma* ← *veśman*
 - \[noun\], nominative, singular, neuter
 - “house; palace; mansion; dwelling; palace.”
 ------------------------------------------------------------------------
-- *veśmeva* \< *iva*
+- *veśmeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *dṛśyate* \< *dṛś*
+- *dṛśyate* ← *dṛś*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
 ------------------------------------------------------------------------
-- *uto* \< *uta*
+- *uto* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *uto* \< *u*
+- *uto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *araṇyāniḥ* \< *araṇyāni*
+- *araṇyāniḥ* ← *araṇyāni*
 - \[noun\], nominative, singular, feminine
 - “forest.”
 ------------------------------------------------------------------------
-- *sāyaṃ* \< *sāyam*
+- *sāyaṃ* ← *sāyam*
 - \[adverb\]
 - “in the evening; sāyam \[word\].”
 ------------------------------------------------------------------------
-- *śakaṭīr* \< *śakaṭīḥ* \< *śakaṭī*
+- *śakaṭīr* ← *śakaṭīḥ* ← *śakaṭī*
 - \[noun\], nominative, singular, feminine
 - “cart.”
 ------------------------------------------------------------------------
@@ -61,6 +61,6 @@ title = "Rig Veda 10.146.3"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sarjati* \< *sarj*
+- *sarjati* ← *sarj*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------

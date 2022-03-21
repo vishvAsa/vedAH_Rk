@@ -2,21 +2,21 @@
 title = "Rig Veda 1.124.4"
 
 +++
--   *upo* \< *upa*
+-   *upo* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *upo* \< *u*
+- *upo* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *adarśi* \< *dṛś*
+- *adarśi* ← *dṛś*
 - \[verb\], singular, Aorist passive
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
 ------------------------------------------------------------------------
-- *śundhyuvo* \< *śundhyuvaḥ* \< *śundhyu*
+- *śundhyuvo* ← *śundhyuvaḥ* ← *śundhyu*
 - \[noun\], nominative, plural, feminine
 - “fine-looking; beautiful.”
 ------------------------------------------------------------------------
@@ -24,22 +24,22 @@ title = "Rig Veda 1.124.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vakṣo* \< *vakṣaḥ* \< *vakṣas*
+- *vakṣo* ← *vakṣaḥ* ← *vakṣas*
 - \[noun\], nominative, singular, neuter
 - “breast; breast; bosom; thorax.”
 ------------------------------------------------------------------------
-- *nodhā* \< *nodhāḥ* \< *nodhas*
+- *nodhā* ← *nodhāḥ* ← *nodhas*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *ivāvir* \< *iva*
+- *ivāvir* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ivāvir* \< *āvis*
+- *ivāvir* ← *āvis*
 - \[adverb\]
 - “openly; obviously.”
 ------------------------------------------------------------------------
-- *akṛta* \< *kṛ*
+- *akṛta* ← *kṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -50,31 +50,31 @@ title = "Rig Veda 1.124.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *priyāṇi* \< *priya*
+- *priyāṇi* ← *priya*
 - \[noun\], accusative, plural, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *admasan* \< *admasad*
+- *admasan* ← *admasad*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sasato* \< *sasataḥ* \< *sas*
+- *sasato* ← *sasataḥ* ← *sas*
 - \[verb noun\], accusative, plural
 - “sleep.”
 ------------------------------------------------------------------------
-- *bodhayantī* \< *bodhay* \< *√budh*
+- *bodhayantī* ← *bodhay* ← *√budh*
 - \[verb noun\], nominative, singular
 - “awaken; ignite; advise; admonish; communicate.”
 ------------------------------------------------------------------------
-- *śaśvattamāgāt* \< *śaśvattamā* \< *śaśvattama*
+- *śaśvattamāgāt* ← *śaśvattamā* ← *śaśvattama*
 - \[noun\], nominative, singular, feminine
 - “frequent.”
 ------------------------------------------------------------------------
-- *śaśvattamāgāt* \< *agāt* \< *gā*
+- *śaśvattamāgāt* ← *agāt* ← *gā*
 - \[verb\], singular, Root aorist (Ind.)
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------
@@ -83,7 +83,7 @@ title = "Rig Veda 1.124.4"
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
 ------------------------------------------------------------------------
-- *eyuṣīṇām* \< *i*
+- *eyuṣīṇām* ← *i*
 - \[verb noun\], genitive, plural
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------

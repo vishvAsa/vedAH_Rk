@@ -2,19 +2,19 @@
 title = "Rig Veda 10.145.4"
 
 +++
--   *nahy* \< *nahi*
+-   *nahy* ← *nahi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *asyā* \< *asyāḥ* \< *idam*
+- *asyā* ← *asyāḥ* ← *idam*
 - \[noun\], genitive, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *nāma* \< *nāman*
+- *nāma* ← *nāman*
 - \[noun\], accusative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
 ------------------------------------------------------------------------
-- *gṛbhṇāmi* \< *grah*
+- *gṛbhṇāmi* ← *grah*
 - \[verb\], singular, Present indikative
 - “take; grasp; take out; extract; perceive; pick; assume; include;
     accept; understand; use; learn; possess; keep; choose; accept;
@@ -22,28 +22,28 @@ title = "Rig Veda 10.145.4"
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
 ------------------------------------------------------------------------
-- *no* \< *na*
+- *no* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *no* \< *u*
+- *no* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *asmin* \< *idam*
+- *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ramate* \< *ram*
+- *ramate* ← *ram*
 - \[verb\], singular, Present indikative
 - “delight; rejoice; love; frolic; desire; give; calm; break.”
 ------------------------------------------------------------------------
-- *jane* \< *jana*
+- *jane* ← *jana*
 - \[noun\], locative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *parām* \< *para*
+- *parām* ← *para*
 - \[noun\], accusative, singular, feminine
 - “best; other; following; devoted(p); extreme; highest; otherwordly;
     better; hostile; maximal; distant; another(a); para \[word\]; upper;
@@ -54,15 +54,15 @@ title = "Rig Veda 10.145.4"
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *parāvataṃ* \< *parāvatam* \< *parāvat*
+- *parāvataṃ* ← *parāvatam* ← *parāvat*
 - \[noun\], accusative, singular, feminine
 - “distance; distance; distance.”
 ------------------------------------------------------------------------
-- *sapatnīṃ* \< *sapatnīm* \< *sapatnī*
+- *sapatnīṃ* ← *sapatnīm* ← *sapatnī*
 - \[noun\], accusative, singular, feminine
 - “sapatnī; rival; sapatnī \[word\]; mistress.”
 ------------------------------------------------------------------------
-- *gamayāmasi* \< *gamay* \< *√gam*
+- *gamayāmasi* ← *gamay* ← *√gam*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “bring; spend.”
 ------------------------------------------------------------------------

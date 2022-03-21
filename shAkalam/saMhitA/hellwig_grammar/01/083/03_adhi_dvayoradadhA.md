@@ -6,82 +6,82 @@ title = "Rig Veda 1.83.3"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *dvayor* \< *dvayoḥ* \< *dvi*
+- *dvayor* ← *dvayoḥ* ← *dvi*
 - \[noun\], locative, dual, masculine
 - “two; dvi \[word\]; second.”
 ------------------------------------------------------------------------
-- *adadhā* \< *adadhāḥ* \< *dhā*
+- *adadhā* ← *adadhāḥ* ← *dhā*
 - \[verb\], singular, Imperfect
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *ukthyaṃ* \< *ukthyam* \< *ukthya*
+- *ukthyaṃ* ← *ukthyam* ← *ukthya*
 - \[noun\], accusative, singular, neuter
 - “applaudable.”
 ------------------------------------------------------------------------
-- *vaco* \< *vacaḥ* \< *vacas*
+- *vaco* ← *vacaḥ* ← *vacas*
 - \[noun\], accusative, singular, neuter
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------
-- *yatasrucā* \< *yata* \< *yam*
+- *yatasrucā* ← *yata* ← *yam*
 - \[verb noun\]
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *yatasrucā* \< *srucā* \< *sruc*
+- *yatasrucā* ← *srucā* ← *sruc*
 - \[noun\], nominative, dual, masculine
 - “Sruc.”
 ------------------------------------------------------------------------
-- *mithunā* \< *mithuna*
+- *mithunā* ← *mithuna*
 - \[noun\], nominative, dual, masculine
 - “twin; couple; couple; coupling; sexual intercourse; Gemini.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, dual, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *saparyataḥ* \< *sapary*
+- *saparyataḥ* ← *sapary*
 - \[verb\], dual, Present indikative
 - “worship.”
 ------------------------------------------------------------------------
-- *asaṃyatto* \< *a*
+- *asaṃyatto* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *asaṃyatto* \< *saṃyattaḥ* \< *saṃyat* \< *√yat*
+- *asaṃyatto* ← *saṃyattaḥ* ← *saṃyat* ← *√yat*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *vrate* \< *vrata*
+- *vrate* ← *vrata*
 - \[noun\], locative, singular, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *kṣeti* \< *kṣi*
+- *kṣeti* ← *kṣi*
 - \[verb\], singular, Present indikative
 - “govern; inhabit; dwell; stay; predominate; bide; own.”
 ------------------------------------------------------------------------
-- *puṣyati* \< *puṣ*
+- *puṣyati* ← *puṣ*
 - \[verb\], singular, Present indikative
 - “boom; grow; promote; foster.”
 ------------------------------------------------------------------------
-- *bhadrā* \< *bhadra*
+- *bhadrā* ← *bhadra*
 - \[noun\], nominative, singular, feminine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *śaktir* \< *śaktiḥ* \< *śakti*
+- *śaktir* ← *śaktiḥ* ← *śakti*
 - \[noun\], nominative, singular, feminine
 - “spear; ability; Shakti; potency; power; capacity; śakti \[word\];
     potency; capability; reproduction.”
 ------------------------------------------------------------------------
-- *yajamānāya* \< *yaj*
+- *yajamānāya* ← *yaj*
 - \[verb noun\], dative, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *sunvate* \< *su*
+- *sunvate* ← *su*
 - \[verb noun\], dative, singular
 - “press out; su.”
 ------------------------------------------------------------------------

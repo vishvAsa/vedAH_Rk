@@ -6,38 +6,38 @@ title = "Rig Veda 9.113.8"
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *rājā* \< *rājan*
+- *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *vaivasvato* \< *vaivasvataḥ* \< *vaivasvata*
+- *vaivasvato* ← *vaivasvataḥ* ← *vaivasvata*
 - \[noun\], nominative, singular, masculine
 - “Yama; Vaivasvata.”
 ------------------------------------------------------------------------
-- *yatrāvarodhanaṃ* \< *yatra*
+- *yatrāvarodhanaṃ* ← *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *yatrāvarodhanaṃ* \< *avarodhanam* \< *avarodhana*
+- *yatrāvarodhanaṃ* ← *avarodhanam* ← *avarodhana*
 - \[noun\], nominative, singular, neuter
 - “harem; siege; obstruction.”
 ------------------------------------------------------------------------
-- *divaḥ* \< *div*
+- *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *yatrāmūr* \< *yatra*
+- *yatrāmūr* ← *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *yatrāmūr* \< *amūḥ* \< *adas*
+- *yatrāmūr* ← *amūḥ* ← *adas*
 - \[noun\], nominative, plural, feminine
 - “that; John Doe; yonder; from here.”
 ------------------------------------------------------------------------
-- *yahvatīr* \< *yahvatīḥ* \< *yahvat*
+- *yahvatīr* ← *yahvatīḥ* ← *yahvat*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *āpas* \< *āpaḥ* \< *ap*
+- *āpas* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -46,15 +46,15 @@ title = "Rig Veda 9.113.8"
 - “there; now; then; then; there; in that place; then; locative;
     respectively; there; tatra \[word\]; inside; therefore.”
 ------------------------------------------------------------------------
-- *mām* \< *mad*
+- *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *amṛtaṃ* \< *amṛtam* \< *amṛta*
+- *amṛtaṃ* ← *amṛtam* ← *amṛta*
 - \[noun\], accusative, singular, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *kṛdhīndrāyendo* \< *kṛdhi* \< *kṛ*
+- *kṛdhīndrāyendo* ← *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -65,12 +65,12 @@ title = "Rig Veda 9.113.8"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *kṛdhīndrāyendo* \< *indrāya* \< *indra*
+- *kṛdhīndrāyendo* ← *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *kṛdhīndrāyendo* \< *indo* \< *indu*
+- *kṛdhīndrāyendo* ← *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
@@ -79,7 +79,7 @@ title = "Rig Veda 9.113.8"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *srava* \< *sru*
+- *srava* ← *sru*
 - \[verb\], singular, Present imperative
 - “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
     disappear; leak; fester.”

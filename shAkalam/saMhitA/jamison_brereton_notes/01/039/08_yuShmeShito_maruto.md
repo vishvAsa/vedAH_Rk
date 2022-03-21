@@ -2,5 +2,5 @@
 title = "08"
 
 +++
-The threatening ábhva- (< privative á- + √bhū; cf. Witzel Gotō “Unwesen”) that besets us represents the Vedic fear of formlessness. See my forthcoming “The Blob in Ancient India.”
+The threatening ábhva- (← privative á- + √bhū; cf. Witzel Gotō “Unwesen”) that besets us represents the Vedic fear of formlessness. See my forthcoming “The Blob in Ancient India.”
 

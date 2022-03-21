@@ -6,24 +6,24 @@ title = "Rig Veda 4.20.5"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *rarapśa* \< *rapś*
+- *rarapśa* ← *rapś*
 - \[verb\], singular, Perfect indicative
 - “abound in.”
 ------------------------------------------------------------------------
-- *ṛṣibhir* \< *ṛṣibhiḥ* \< *ṛṣi*
+- *ṛṣibhir* ← *ṛṣibhiḥ* ← *ṛṣi*
 - \[noun\], instrumental, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *navebhir* \< *navebhiḥ* \< *nava*
+- *navebhir* ← *navebhiḥ* ← *nava*
 - \[noun\], instrumental, plural, masculine
 - “new; fresh; young; matutinal; recent; nava \[word\]; modern;
     fresh.”
 ------------------------------------------------------------------------
-- *vṛkṣo* \< *vṛkṣaḥ* \< *vṛkṣa*
+- *vṛkṣo* ← *vṛkṣaḥ* ← *vṛkṣa*
 - \[noun\], nominative, singular, masculine
 - “tree; fruit tree.”
 ------------------------------------------------------------------------
@@ -31,23 +31,23 @@ title = "Rig Veda 4.20.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pakvaḥ* \< *pakva*
+- *pakvaḥ* ← *pakva*
 - \[noun\], nominative, singular, masculine
 - “heated; pakva; ripe; cooked; festering; baked; developed; doomed;
     digested; pakva \[word\]; suppurative; gray; fruiting; done.”
 ------------------------------------------------------------------------
-- *sṛṇyo* \< *sṛṇyaḥ* \< *sṛṇya*
+- *sṛṇyo* ← *sṛṇyaḥ* ← *sṛṇya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *jetā* \< *jetṛ*
+- *jetā* ← *jetṛ*
 - \[noun\], nominative, singular, masculine
 - “curative; victorious.”
 ------------------------------------------------------------------------
-- *maryo* \< *maryaḥ* \< *marya*
+- *maryo* ← *maryaḥ* ← *marya*
 - \[noun\], nominative, singular, masculine
 - “young buck; boyfriend.”
 ------------------------------------------------------------------------
@@ -55,7 +55,7 @@ title = "Rig Veda 4.20.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yoṣām* \< *yoṣā*
+- *yoṣām* ← *yoṣā*
 - \[noun\], accusative, singular, feminine
 - “woman; puppet; daughter.”
 ------------------------------------------------------------------------
@@ -63,28 +63,28 @@ title = "Rig Veda 4.20.5"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *manyamāno* \< *manyamānaḥ* \< *man*
+- *manyamāno* ← *manyamānaḥ* ← *man*
 - \[verb noun\], nominative, singular
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
 ------------------------------------------------------------------------
-- *'cchā* \< *acchā*
+- *'cchā* ← *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *vivakmi* \< *vac*
+- *vivakmi* ← *vac*
 - \[verb\], singular, Present indikative
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
 ------------------------------------------------------------------------
-- *puruhūtam* \< *puruhūta*
+- *puruhūtam* ← *puruhūta*
 - \[noun\], accusative, singular, masculine
 - “Indra; Vishnu.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”

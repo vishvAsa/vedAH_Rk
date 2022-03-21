@@ -2,29 +2,29 @@
 title = "Rig Veda 10.120.6"
 
 +++
--   *stuṣeyyam* \< *stuṣeyya*
+-   *stuṣeyyam* ← *stuṣeyya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *puruvarpasam* \< *puru*
+- *puruvarpasam* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *puruvarpasam* \< *varpasam* \< *varpas*
+- *puruvarpasam* ← *varpasam* ← *varpas*
 - \[noun\], accusative, singular, masculine
 - “form; look; disguise.”
 ------------------------------------------------------------------------
-- *ṛbhvam* \< *ṛbhva*
+- *ṛbhvam* ← *ṛbhva*
 - \[noun\], accusative, singular, masculine
 - “adroit.”
 ------------------------------------------------------------------------
-- *inatamam* \< *inatama*
+- *inatamam* ← *inatama*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *āptyam* \< *āptya*
+- *āptyam* ← *āptya*
 - \[noun\], accusative, singular, masculine
 - “Āptya; Trita.”
 ------------------------------------------------------------------------
-- *āptyānām* \< *āptya*
+- *āptyānām* ← *āptya*
 - \[noun\], genitive, plural, masculine
 - “Āptya; Trita.”
 ------------------------------------------------------------------------
@@ -32,30 +32,30 @@ title = "Rig Veda 10.120.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *darṣate* \< *dṛ*
+- *darṣate* ← *dṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “burst; burst.”
 ------------------------------------------------------------------------
-- *śavasā* \< *śavas*
+- *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], accusative, plural, masculine
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *dānūn* \< *dānu*
+- *dānūn* ← *dānu*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *sākṣate* \< *sah*
+- *sākṣate* ← *sah*
 - \[verb\], singular, Aorist conj./subj.
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------
-- *pratimānāni* \< *pratimāna*
+- *pratimānāni* ← *pratimāna*
 - \[noun\], accusative, plural, neuter
 - “weight.”
 ------------------------------------------------------------------------

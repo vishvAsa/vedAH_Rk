@@ -2,44 +2,44 @@
 title = "Rig Veda 2.23.14"
 
 +++
--   *tejiṣṭhayā* \< *tejiṣṭha*
+-   *tejiṣṭhayā* ← *tejiṣṭha*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
 - *tapanī*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *rakṣasas* \< *rakṣasaḥ* \< *rakṣas*
+- *rakṣasas* ← *rakṣasaḥ* ← *rakṣas*
 - \[noun\], accusative, plural, masculine
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
 ------------------------------------------------------------------------
-- *tapa* \< *tap*
+- *tapa* ← *tap*
 - \[verb\], singular, Present imperative
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *nide* \< *nid*
+- *nide* ← *nid*
 - \[noun\], dative, singular, feminine
 - “derision; scoffer; contempt.”
 ------------------------------------------------------------------------
-- *dadhire* \< *dhā*
+- *dadhire* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *dṛṣṭavīryam* \< *dṛṣṭa* \< *dṛś*
+- *dṛṣṭavīryam* ← *dṛṣṭa* ← *dṛś*
 - \[verb noun\]
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
 ------------------------------------------------------------------------
-- *dṛṣṭavīryam* \< *vīryam* \< *vīrya*
+- *dṛṣṭavīryam* ← *vīryam* ← *vīrya*
 - \[noun\], accusative, singular, masculine
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
@@ -49,13 +49,13 @@ title = "Rig Veda 2.23.14"
 - \[adverb\]
 - “openly; obviously.”
 ------------------------------------------------------------------------
-- *tat* \< *tad*
+- *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *kṛṣva* \< *kṛ*
+- *kṛṣva* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -66,24 +66,24 @@ title = "Rig Veda 2.23.14"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *asat* \< *as*
+- *asat* ← *as*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ukthyam* \< *ukthya*
+- *ukthyam* ← *ukthya*
 - \[noun\], nominative, singular, neuter
 - “applaudable.”
 ------------------------------------------------------------------------
-- *bṛhaspate* \< *bṛhaspati*
+- *bṛhaspate* ← *bṛhaspati*
 - \[noun\], vocative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
@@ -91,10 +91,10 @@ title = "Rig Veda 2.23.14"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *parirāpo* \< *parirāpaḥ* \< *parirāp*
+- *parirāpo* ← *parirāpaḥ* ← *parirāp*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *ardaya* \< *arday* \< *√ṛd*
+- *ardaya* ← *arday* ← *√ṛd*
 - \[verb\], singular, Present imperative
 - “afflict; afflict; affect; distress; torment; impel; grind; suffer.”
 ------------------------------------------------------------------------

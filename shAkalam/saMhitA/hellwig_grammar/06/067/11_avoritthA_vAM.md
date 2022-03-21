@@ -2,7 +2,7 @@
 title = "Rig Veda 6.67.11"
 
 +++
--   *avor* \< *\_* \< *√\_*
+-   *avor* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
@@ -10,23 +10,23 @@ title = "Rig Veda 6.67.11"
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *chardiṣo* \< *chardiṣaḥ* \< *chardis*
+- *chardiṣo* ← *chardiṣaḥ* ← *chardis*
 - \[noun\], genitive, singular, neuter
 - “protection; protective covering.”
 ------------------------------------------------------------------------
-- *abhiṣṭau* \< *abhiṣṭi*
+- *abhiṣṭau* ← *abhiṣṭi*
 - \[noun\], locative, singular, feminine
 - “prevalence; protection.”
 ------------------------------------------------------------------------
-- *yuvor* \< *yuvoḥ* \< *tvad*
+- *yuvor* ← *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇāv* \< *mitrāvaruṇau* \< *mitrāvaruṇa*
+- *mitrāvaruṇāv* ← *mitrāvaruṇau* ← *mitrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
@@ -38,39 +38,39 @@ title = "Rig Veda 6.67.11"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *gāva* \< *gāvaḥ* \< *go*
+- *gāva* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *sphurān* \< *sphur*
+- *sphurān* ← *sphur*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “glitter; bounce; quiver; pulsate.”
 ------------------------------------------------------------------------
-- *ṛjipyaṃ* \< *ṛjipyam* \< *ṛjipya*
+- *ṛjipyaṃ* ← *ṛjipyam* ← *ṛjipya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *dhṛṣṇuṃ* \< *dhṛṣṇum* \< *dhṛṣṇu*
+- *dhṛṣṇuṃ* ← *dhṛṣṇum* ← *dhṛṣṇu*
 - \[noun\], accusative, singular, masculine
 - “brave; ferocious; strong.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *raṇe* \< *raṇa*
+- *raṇe* ← *raṇa*
 - \[noun\], locative, singular, masculine
 - “battle; fight; pleasure; joy; war; combat.”
 ------------------------------------------------------------------------
-- *vṛṣaṇaṃ* \< *vṛṣaṇam* \< *vṛṣan*
+- *vṛṣaṇaṃ* ← *vṛṣaṇam* ← *vṛṣan*
 - \[noun\], accusative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *yunajan* \< *yuj*
+- *yunajan* ← *yuj*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;

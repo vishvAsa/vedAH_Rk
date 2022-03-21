@@ -2,39 +2,39 @@
 title = "Rig Veda 8.50.2"
 
 +++
--   *śatānīkā* \< *śata*
+-   *śatānīkā* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *śatānīkā* \< *anīkāḥ* \< *anīka*
+- *śatānīkā* ← *anīkāḥ* ← *anīka*
 - \[noun\], nominative, plural, feminine
 - “army; face; battalion; battlefront; point; appearance.”
 ------------------------------------------------------------------------
-- *hetayo* \< *hetayaḥ* \< *heti*
+- *hetayo* ← *hetayaḥ* ← *heti*
 - \[noun\], nominative, plural, feminine
 - “projectile; heti \[word\].”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *duṣṭarā* \< *duṣṭarāḥ* \< *duṣṭara*
+- *duṣṭarā* ← *duṣṭarāḥ* ← *duṣṭara*
 - \[noun\], nominative, plural, feminine
 - “incomparable; irresistible; unbearable; unconquerable.”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *samiṣo* \< *samiṣaḥ* \< *samiṣ*
+- *samiṣo* ← *samiṣaḥ* ← *samiṣ*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *mahīḥ* \< *mahi*
+- *mahīḥ* ← *mahi*
 - \[noun\], nominative, plural, feminine
 - “great; firm.”
 ------------------------------------------------------------------------
-- *girir* \< *giriḥ* \< *giri*
+- *girir* ← *giriḥ* ← *giri*
 - \[noun\], nominative, singular, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
 ------------------------------------------------------------------------
@@ -42,29 +42,29 @@ title = "Rig Veda 8.50.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *bhujmā* \< *bhujman*
+- *bhujmā* ← *bhujman*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *maghavatsu* \< *maghavan*
+- *maghavatsu* ← *maghavan*
 - \[noun\], locative, plural, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *pinvate* \< *pinv*
+- *pinvate* ← *pinv*
 - \[verb\], singular, Present indikative
 - “swell; swell; overflow; abound.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *īṃ* \< *īm* \< *īṃ*
+- *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *sutā* \< *sutāḥ* \< *su*
+- *sutā* ← *sutāḥ* ← *su*
 - \[verb noun\], nominative, plural
 - “press out; su.”
 ------------------------------------------------------------------------
-- *amandiṣuḥ* \< *mad*
+- *amandiṣuḥ* ← *mad*
 - \[verb\], plural, Athematic is aor. (Ind.)
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------

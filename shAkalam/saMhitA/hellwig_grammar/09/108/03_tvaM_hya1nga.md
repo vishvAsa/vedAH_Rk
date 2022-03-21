@@ -2,11 +2,11 @@
 title = "Rig Veda 9.108.3"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *hy* \< *hi*
+- *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
@@ -14,30 +14,30 @@ title = "Rig Veda 9.108.3"
 - \[adverb\]
 - “in truth; aṅga \[word\]; entirely; merely.”
 ------------------------------------------------------------------------
-- *daivyā* \< *daivya*
+- *daivyā* ← *daivya*
 - \[noun\], accusative, plural, neuter
 - “divine; divine; celestial.”
 ------------------------------------------------------------------------
-- *pavamāna* \< *pū*
+- *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *janimāni* \< *janiman*
+- *janimāni* ← *janiman*
 - \[noun\], accusative, plural, neuter
 - “birth; offspring; origin; kind; being.”
 ------------------------------------------------------------------------
-- *dyumattamaḥ* \< *dyumattama*
+- *dyumattamaḥ* ← *dyumattama*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *amṛtatvāya* \< *amṛta*
+- *amṛtatvāya* ← *amṛta*
 - \[noun\]
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *amṛtatvāya* \< *tvāya* \< *tva*
+- *amṛtatvāya* ← *tvāya* ← *tva*
 - \[noun\], dative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *ghoṣayaḥ* \< *ghoṣay* \< *√ghuṣ*
+- *ghoṣayaḥ* ← *ghoṣay* ← *√ghuṣ*
 - \[verb\], singular, Present injunctive
 - “proclaim.”
 ------------------------------------------------------------------------

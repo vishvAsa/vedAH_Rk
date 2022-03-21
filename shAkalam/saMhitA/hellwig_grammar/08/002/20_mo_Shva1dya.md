@@ -2,15 +2,15 @@
 title = "Rig Veda 8.2.20"
 
 +++
--   *mo* \< *mā*
+-   *mo* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *mo* \< *u*
+- *mo* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣv* \< *su*
+- *ṣv* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
@@ -18,14 +18,14 @@ title = "Rig Veda 8.2.20"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *durhaṇāvān* \< *durhaṇāvat*
+- *durhaṇāvān* ← *durhaṇāvat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *sāyaṃ* \< *sāyam* \< *sāya*
+- *sāyaṃ* ← *sāyam* ← *sāya*
 - \[noun\], accusative, singular, neuter
 - “evening; sāya \[word\].”
 ------------------------------------------------------------------------
-- *karad* \< *karat* \< *kṛ*
+- *karad* ← *karat* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -40,11 +40,11 @@ title = "Rig Veda 8.2.20"
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *asmat* \< *mad*
+- *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *aśrīra* \< *aśrīraḥ* \< *aśrīra*
+- *aśrīra* ← *aśrīraḥ* ← *aśrīra*
 - \[noun\], nominative, singular, masculine
 - “ugly; unpleasant.”
 ------------------------------------------------------------------------
@@ -52,7 +52,7 @@ title = "Rig Veda 8.2.20"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *jāmātā* \< *jāmātṛ*
+- *jāmātā* ← *jāmātṛ*
 - \[noun\], nominative, singular, masculine
 - “brother-in-law; husband.”
 ------------------------------------------------------------------------

@@ -2,29 +2,29 @@
 title = "Rig Veda 1.150.2"
 
 +++
--   *vy* \< *vi*
+-   *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *aninasya* \< *anina*
+- *aninasya* ← *anina*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *dhaninaḥ* \< *dhanin*
+- *dhaninaḥ* ← *dhanin*
 - \[noun\], genitive, singular, masculine
 - “rich.”
 ------------------------------------------------------------------------
-- *prahoṣe* \< *prahoṣa*
+- *prahoṣe* ← *prahoṣa*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *araruṣaḥ* \< *a*
+- *araruṣaḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *araruṣaḥ* \< *raruṣaḥ* \< *rā*
+- *araruṣaḥ* ← *raruṣaḥ* ← *rā*
 - \[verb noun\], genitive, singular
 - “give; impart.”
 ------------------------------------------------------------------------
@@ -36,14 +36,14 @@ title = "Rig Veda 1.150.2"
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *prajigato* \< *prajigataḥ* \< *pragā* \< *√gā*
+- *prajigato* ← *prajigataḥ* ← *pragā* ← *√gā*
 - \[verb noun\], genitive, singular
 ------------------------------------------------------------------------
-- *adevayoḥ* \< *a*
+- *adevayoḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *adevayoḥ* \< *devayoḥ* \< *devayu*
+- *adevayoḥ* ← *devayoḥ* ← *devayu*
 - \[noun\], genitive, singular, masculine
 - “devout; devoted.”
 ------------------------------------------------------------------------

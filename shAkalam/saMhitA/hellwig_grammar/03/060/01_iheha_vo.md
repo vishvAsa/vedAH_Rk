@@ -2,39 +2,39 @@
 title = "Rig Veda 3.60.1"
 
 +++
--   *iheha* \< *iha*
+-   *iheha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *iheha* \< *iha*
+- *iheha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *bandhutā* \< *bandhu*
+- *bandhutā* ← *bandhu*
 - \[noun\], masculine
 - “relative; bandhu \[word\]; association; friend; kin.”
 ------------------------------------------------------------------------
-- *bandhutā* \< *tā*
+- *bandhutā* ← *tā*
 - \[noun\], instrumental, singular, feminine
 - “state; Lakshmi.”
 ------------------------------------------------------------------------
-- *nara* \< *naraḥ* \< *nṛ*
+- *nara* ← *naraḥ* ← *nṛ*
 - \[noun\], vocative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *uśijo* \< *uśijaḥ* \< *uśij*
+- *uśijo* ← *uśijaḥ* ← *uśij*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *jagmur* \< *jagmuḥ* \< *gam*
+- *jagmur* ← *jagmuḥ* ← *gam*
 - \[verb\], plural, Perfect indicative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
@@ -45,52 +45,52 @@ title = "Rig Veda 3.60.1"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *tāni* \< *tad*
+- *tāni* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vedasā* \< *vedas*
+- *vedasā* ← *vedas*
 - \[noun\], instrumental, singular, neuter
 - “knowledge.”
 ------------------------------------------------------------------------
-- *yābhir* \< *yābhiḥ* \< *yad*
+- *yābhir* ← *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *māyābhiḥ* \< *māyā*
+- *māyābhiḥ* ← *māyā*
 - \[noun\], instrumental, plural, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
 ------------------------------------------------------------------------
-- *pratijūtivarpasaḥ* \< *prati*
+- *pratijūtivarpasaḥ* ← *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *pratijūtivarpasaḥ* \< *jūti*
+- *pratijūtivarpasaḥ* ← *jūti*
 - \[noun\], feminine
 - “jūti \[word\].”
 ------------------------------------------------------------------------
-- *pratijūtivarpasaḥ* \< *varpasaḥ* \< *varpas*
+- *pratijūtivarpasaḥ* ← *varpasaḥ* ← *varpas*
 - \[noun\], nominative, plural, masculine
 - “form; look; disguise.”
 ------------------------------------------------------------------------
-- *saudhanvanā* \< *saudhanvanāḥ* \< *saudhanvana*
+- *saudhanvanā* ← *saudhanvanāḥ* ← *saudhanvana*
 - \[noun\], nominative, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
-- *yajñiyam* \< *yajñiya*
+- *yajñiyam* ← *yajñiya*
 - \[noun\], accusative, singular, masculine
 - “sacrificial; divine; devoted.”
 ------------------------------------------------------------------------
-- *bhāgam* \< *bhāga*
+- *bhāgam* ← *bhāga*
 - \[noun\], accusative, singular, masculine
 - “part; part; part; parcel; quarter; body part; location; region;
     allotment; part; numerator; division; application; function;
     outside; bhāga \[word\]; volume; helping.”
 ------------------------------------------------------------------------
-- *ānaśa* \< *aś*
+- *ānaśa* ← *aś*
 - \[verb\], plural, Perfect indicative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------

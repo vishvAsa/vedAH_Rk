@@ -2,7 +2,7 @@
 title = "Rig Veda 10.89.16"
 
 +++
--   *purūṇi* \< *puru*
+-   *purūṇi* ← *puru*
 - \[noun\], nominative, plural, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
@@ -10,69 +10,69 @@ title = "Rig Veda 10.89.16"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
 ------------------------------------------------------------------------
-- *savanā* \< *savana*
+- *savanā* ← *savana*
 - \[noun\], nominative, plural, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
-- *janānām* \< *jana*
+- *janānām* ← *jana*
 - \[noun\], genitive, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *brahmāṇi* \< *brahman*
+- *brahmāṇi* ← *brahman*
 - \[noun\], nominative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *mandan* \< *mad*
+- *mandan* ← *mad*
 - \[verb\], plural, Present injunctive
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *gṛṇatām* \< *gṛ*
+- *gṛṇatām* ← *gṛ*
 - \[verb noun\], genitive, plural
 - “praise.”
 ------------------------------------------------------------------------
-- *ṛṣīṇām* \< *ṛṣi*
+- *ṛṣīṇām* ← *ṛṣi*
 - \[noun\], genitive, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *imām* \< *idam*
+- *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *āghoṣann* \< *āghoṣan* \< *āghuṣ* \< *√ghuṣ*
+- *āghoṣann* ← *āghoṣan* ← *āghuṣ* ← *√ghuṣ*
 - \[verb\], plural, Present injunctive
 - “listen.”
 ------------------------------------------------------------------------
-- *avasā* \< *avas*
+- *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *sahūtiṃ* \< *sahūtim* \< *sahūti*
+- *sahūtiṃ* ← *sahūtim* ← *sahūti*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *tiro* \< *tiras*
+- *tiro* ← *tiras*
 - \[adverb\]
 - “tiras \[word\]; away; secretly.”
 ------------------------------------------------------------------------
-- *viśvāṃ* \< *viśva*
+- *viśvāṃ* ← *viśva*
 - \[noun\], accusative, plural, masculine
 - “Viśvakarman; Viśvedevās; Vishnu.”
 ------------------------------------------------------------------------
-- *arcato* \< *arcataḥ* \< *arc*
+- *arcato* ← *arcataḥ* ← *arc*
 - \[verb noun\], accusative, plural
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *yāhy* \< *yāhi* \< *yā*
+- *yāhy* ← *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *arvāṅ* \< *arvāñc*
+- *arvāṅ* ← *arvāñc*
 - \[noun\], nominative, singular, masculine
 - “approaching; facing; less.”
 ------------------------------------------------------------------------

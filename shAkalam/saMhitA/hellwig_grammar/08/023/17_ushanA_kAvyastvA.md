@@ -2,15 +2,15 @@
 title = "Rig Veda 8.23.17"
 
 +++
--   *uśanā* \< *uśanas*
+-   *uśanā* ← *uśanas*
 - \[noun\], nominative, singular
 - “Uśanas; Uśanas; uśanas \[word\]; Uśanas; Venus.”
 ------------------------------------------------------------------------
-- *kāvyas* \< *kāvyaḥ* \< *kāvya*
+- *kāvyas* ← *kāvyaḥ* ← *kāvya*
 - \[noun\], nominative, singular, masculine
 - “Uśanas; poem; Kāvya; wisdom.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -18,26 +18,26 @@ title = "Rig Veda 8.23.17"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *hotāram* \< *hotṛ*
+- *hotāram* ← *hotṛ*
 - \[noun\], accusative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *asādayat* \< *sāday* \< *√sad*
+- *asādayat* ← *sāday* ← *√sad*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *āyajiṃ* \< *āyajim* \< *āyaji*
+- *āyajiṃ* ← *āyajim* ← *āyaji*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *manave* \< *manu*
+- *manave* ← *manu*
 - \[noun\], dative, singular, masculine
 - “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
     incantation; sacred text.”
 ------------------------------------------------------------------------
-- *jātavedasam* \< *jātavedas*
+- *jātavedasam* ← *jātavedas*
 - \[noun\], accusative, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------

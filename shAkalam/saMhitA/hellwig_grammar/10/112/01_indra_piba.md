@@ -7,21 +7,21 @@ title = "Rig Veda 10.112.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *piba* \< *pā*
+- *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *pratikāmaṃ* \< *pratikāmam* \< *pratikāma*
+- *pratikāmaṃ* ← *pratikāmam* ← *pratikāma*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *sutasya* \< *suta*
+- *sutasya* ← *suta*
 - \[noun\], genitive, singular, masculine
 - “Soma.”
 ------------------------------------------------------------------------
-- *prātaḥsāvas* \< *prātaḥsāvaḥ* \< *prātaḥsāva*
+- *prātaḥsāvas* ← *prātaḥsāvaḥ* ← *prātaḥsāva*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -29,21 +29,21 @@ title = "Rig Veda 10.112.1"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *pūrvapītiḥ* \< *pūrva*
+- *pūrvapītiḥ* ← *pūrva*
 - \[noun\]
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *pūrvapītiḥ* \< *pītiḥ* \< *pīti*
+- *pūrvapītiḥ* ← *pītiḥ* ← *pīti*
 - \[noun\], nominative, singular, feminine
 - “drinking; haritāla.”
 ------------------------------------------------------------------------
-- *harṣasva* \< *hṛṣ*
+- *harṣasva* ← *hṛṣ*
 - \[verb\], singular, Present imperative
 - “rejoice; bristle; thrill.”
 ------------------------------------------------------------------------
-- *hantave* \< *han*
+- *hantave* ← *han*
 - \[verb noun\]
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
@@ -54,19 +54,19 @@ title = "Rig Veda 10.112.1"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *śatrūn* \< *śatru*
+- *śatrūn* ← *śatru*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------
-- *ukthebhiṣ* \< *ukthebhiḥ* \< *uktha*
+- *ukthebhiṣ* ← *ukthebhiḥ* ← *uktha*
 - \[noun\], instrumental, plural, masculine
 - “Uktha.”
 ------------------------------------------------------------------------
-- *ṭe* \< *te* \< *tvad*
+- *ṭe* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vīryā* \< *vīrya*
+- *vīryā* ← *vīrya*
 - \[noun\], accusative, plural, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
@@ -76,7 +76,7 @@ title = "Rig Veda 10.112.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *bravāma* \< *brū*
+- *bravāma* ← *brū*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”

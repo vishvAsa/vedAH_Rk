@@ -2,60 +2,60 @@
 title = "Rig Veda 7.68.9"
 
 +++
--   *eṣa* \< *etad*
+-   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *sya* \< *tya*
+- *sya* ← *tya*
 - \[noun\], nominative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *kārur* \< *kāruḥ* \< *kāru*
+- *kārur* ← *kāruḥ* ← *kāru*
 - \[noun\], nominative, singular, masculine
 - “poet; singer.”
 ------------------------------------------------------------------------
-- *jarate* \< *jṛ*
+- *jarate* ← *jṛ*
 - \[verb\], singular, Present indikative
 - “sing.”
 ------------------------------------------------------------------------
-- *sūktair* \< *sūktaiḥ* \< *sūkta*
+- *sūktair* ← *sūktaiḥ* ← *sūkta*
 - \[noun\], instrumental, plural, neuter
 - “Mantra; hymn.”
 ------------------------------------------------------------------------
-- *agre* \< *agra*
+- *agre* ← *agra*
 - \[noun\], locative, singular, neuter
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
 ------------------------------------------------------------------------
-- *budhāna* \< *budhānaḥ* \< *budh*
+- *budhāna* ← *budhānaḥ* ← *budh*
 - \[verb noun\], nominative, singular
 - “understand; notice; wake up; observe; detect; attend to; awaken;
     attend.”
 ------------------------------------------------------------------------
-- *uṣasāṃ* \< *uṣasām* \< *uṣas*
+- *uṣasāṃ* ← *uṣasām* ← *uṣas*
 - \[noun\], genitive, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *sumanmā* \< *su*
+- *sumanmā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sumanmā* \< *manmā* \< *manman*
+- *sumanmā* ← *manmā* ← *manman*
 - \[noun\], nominative, singular, masculine
 - “hymn; idea; purpose.”
 ------------------------------------------------------------------------
-- *iṣā* \< *iṣ*
+- *iṣā* ← *iṣ*
 - \[noun\], instrumental, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *taṃ* \< *tam* \< *tad*
+- *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vardhad* \< *vardhat* \< *vṛdh*
+- *vardhad* ← *vardhat* ← *vṛdh*
 - \[verb\], singular, Present injunctive
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
@@ -64,19 +64,19 @@ title = "Rig Veda 7.68.9"
 - \[noun\], nominative, singular, feminine
 - “cow.”
 ------------------------------------------------------------------------
-- *payobhir* \< *payobhiḥ* \< *payas*
+- *payobhir* ← *payobhiḥ* ← *payas*
 - \[noun\], instrumental, plural, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
-- *yūyam* \< *tvad*
+- *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *pāta* \< *pā*
+- *pāta* ← *pā*
 - \[verb\], plural, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *svastibhiḥ* \< *svasti*
+- *svastibhiḥ* ← *svasti*
 - \[noun\], instrumental, plural, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
@@ -85,7 +85,7 @@ title = "Rig Veda 7.68.9"
 - \[adverb\]
 - “always; continually; always; perpetually.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

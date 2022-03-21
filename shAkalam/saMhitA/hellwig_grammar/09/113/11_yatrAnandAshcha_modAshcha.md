@@ -2,11 +2,11 @@
 title = "Rig Veda 9.113.11"
 
 +++
--   *yatrānandāś* \< *yatra*
+-   *yatrānandāś* ← *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *yatrānandāś* \< *ānandāḥ* \< *ānanda*
+- *yatrānandāś* ← *ānandāḥ* ← *ānanda*
 - \[noun\], nominative, plural, masculine
 - “joy; sexual desire; happiness; sexual activity; sex; Ānanda;
     Ānandaśakti; happiness; enjoyment; joy.”
@@ -15,39 +15,39 @@ title = "Rig Veda 9.113.11"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *modāś* \< *modāḥ* \< *moda*
+- *modāś* ← *modāḥ* ← *moda*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *mudaḥ* \< *mud*
+- *mudaḥ* ← *mud*
 - \[noun\], nominative, plural, feminine
 - “joy; delight.”
 ------------------------------------------------------------------------
-- *pramuda* \< *pramudaḥ* \< *pramud*
+- *pramuda* ← *pramudaḥ* ← *pramud*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *āsate* \< *ās*
+- *āsate* ← *ās*
 - \[verb\], plural, Present indikative
 - “sit; stay; sit down; dwell; lie; lie; exist.”
 ------------------------------------------------------------------------
-- *kāmasya* \< *kāma*
+- *kāmasya* ← *kāma*
 - \[noun\], genitive, singular, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
 ------------------------------------------------------------------------
-- *yatrāptāḥ* \< *yatra*
+- *yatrāptāḥ* ← *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *yatrāptāḥ* \< *āptāḥ* \< *āp*
+- *yatrāptāḥ* ← *āptāḥ* ← *āp*
 - \[verb noun\], nominative, plural
 - “enter (a state); get; reach; obtain; equal.”
 ------------------------------------------------------------------------
-- *kāmās* \< *kāmāḥ* \< *kāma*
+- *kāmās* ← *kāmāḥ* ← *kāma*
 - \[noun\], nominative, plural, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
@@ -58,15 +58,15 @@ title = "Rig Veda 9.113.11"
 - “there; now; then; then; there; in that place; then; locative;
     respectively; there; tatra \[word\]; inside; therefore.”
 ------------------------------------------------------------------------
-- *mām* \< *mad*
+- *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *amṛtaṃ* \< *amṛtam* \< *amṛta*
+- *amṛtaṃ* ← *amṛtam* ← *amṛta*
 - \[noun\], accusative, singular, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *kṛdhīndrāyendo* \< *kṛdhi* \< *kṛ*
+- *kṛdhīndrāyendo* ← *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -77,12 +77,12 @@ title = "Rig Veda 9.113.11"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *kṛdhīndrāyendo* \< *indrāya* \< *indra*
+- *kṛdhīndrāyendo* ← *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *kṛdhīndrāyendo* \< *indo* \< *indu*
+- *kṛdhīndrāyendo* ← *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
@@ -91,7 +91,7 @@ title = "Rig Veda 9.113.11"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *srava* \< *sru*
+- *srava* ← *sru*
 - \[verb\], singular, Present imperative
 - “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
     disappear; leak; fester.”

@@ -6,19 +6,19 @@ title = "Rig Veda 1.13.10"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *tvaṣṭāram* \< *tvaṣṭṛ*
+- *tvaṣṭāram* ← *tvaṣṭṛ*
 - \[noun\], accusative, singular, masculine
 - “Tvaṣṭṛ; Viśvakarman; sun.”
 ------------------------------------------------------------------------
-- *agriyaṃ* \< *agriyam* \< *agriya*
+- *agriyaṃ* ← *agriyam* ← *agriya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *viśvarūpam* \< *viśva*
+- *viśvarūpam* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvarūpam* \< *rūpam* \< *rūpa*
+- *viśvarūpam* ← *rūpam* ← *rūpa*
 - \[noun\], accusative, singular, masculine
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
@@ -29,20 +29,20 @@ title = "Rig Veda 1.13.10"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *hvaye* \< *hvā*
+- *hvaye* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *asmākam* \< *mad*
+- *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *kevalaḥ* \< *kevala*
+- *kevalaḥ* ← *kevala*
 - \[noun\], nominative, singular, masculine
 - “pure; alone(p); whole; all(a); pure; entire; kevala \[word\];
     alone(p); single(a); white; absolute.”

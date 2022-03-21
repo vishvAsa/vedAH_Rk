@@ -2,7 +2,7 @@
 title = "Rig Veda 1.168.3"
 
 +++
--   *somāso* \< *somāsaḥ* \< *soma*
+-   *somāso* ← *somāsaḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -10,69 +10,69 @@ title = "Rig Veda 1.168.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sutās* \< *sutāḥ* \< *su*
+- *sutās* ← *sutāḥ* ← *su*
 - \[verb noun\], nominative, plural
 - “press out; su.”
 ------------------------------------------------------------------------
-- *tṛptāṃśavo* \< *tṛpta* \< *tṛp*
+- *tṛptāṃśavo* ← *tṛpta* ← *tṛp*
 - \[verb noun\]
 - “satiate; enjoy; delight.”
 ------------------------------------------------------------------------
-- *tṛptāṃśavo* \< *aṃśavaḥ* \< *aṃśu*
+- *tṛptāṃśavo* ← *aṃśavaḥ* ← *aṃśu*
 - \[noun\], nominative, plural, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
 ------------------------------------------------------------------------
-- *hṛtsu* \< *hṛd*
+- *hṛtsu* ← *hṛd*
 - \[noun\], locative, plural
 - “heart; heart; mind; breast; hṛd \[word\].”
 ------------------------------------------------------------------------
-- *pītāso* \< *pītāsaḥ* \< *pā*
+- *pītāso* ← *pītāsaḥ* ← *pā*
 - \[verb noun\], nominative, plural
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *duvaso* \< *duvasaḥ* \< *duvas*
+- *duvaso* ← *duvasaḥ* ← *duvas*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *nāsate* \< *nā* \< *na*
+- *nāsate* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāsate* \< *āsate* \< *ās*
+- *nāsate* ← *āsate* ← *ās*
 - \[verb\], plural, Present indikative
 - “sit; stay; sit down; dwell; lie; lie; exist.”
 ------------------------------------------------------------------------
-- *aiṣām* \< *ā*
+- *aiṣām* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *aiṣām* \< *eṣām* \< *idam*
+- *aiṣām* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *aṃseṣu* \< *aṃsa*
+- *aṃseṣu* ← *aṃsa*
 - \[noun\], locative, plural, masculine
 - “shoulder; aṃsa \[word\].”
 ------------------------------------------------------------------------
-- *rambhiṇīva* \< *rambhiṇī*
+- *rambhiṇīva* ← *rambhiṇī*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *rambhiṇīva* \< *iva*
+- *rambhiṇīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *rārabhe* \< *rabh*
+- *rārabhe* ← *rabh*
 - \[verb\], singular, Perfect indicative
 - “clasp.”
 ------------------------------------------------------------------------
-- *hasteṣu* \< *hasta*
+- *hasteṣu* ← *hasta*
 - \[noun\], locative, plural, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------
-- *khādiś* \< *khādiḥ* \< *khādi*
+- *khādiś* ← *khādiḥ* ← *khādi*
 - \[noun\], nominative, singular, masculine
 - “ring.”
 ------------------------------------------------------------------------
@@ -80,18 +80,18 @@ title = "Rig Veda 1.168.3"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *kṛtiś* \< *kṛtiḥ* \< *kṛti*
+- *kṛtiś* ← *kṛtiḥ* ← *kṛti*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *dadhe* \< *dhā*
+- *dadhe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

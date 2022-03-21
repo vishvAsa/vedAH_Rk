@@ -2,38 +2,38 @@
 title = "Rig Veda 6.68.5"
 
 +++
--   *sa* \< *saḥ* \< *tad*
+-   *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *sudānuḥ* \< *sudānu*
+- *sudānuḥ* ← *sudānu*
 - \[noun\], nominative, singular, masculine
 - “big; lavish.”
 ------------------------------------------------------------------------
-- *svavāṃ* \< *svavat*
+- *svavāṃ* ← *svavat*
 - \[noun\], nominative, singular, masculine
 - “helpful.”
 ------------------------------------------------------------------------
-- *ṛtāvendrā* \< *ṛtāvā* \< *ṛtāvan*
+- *ṛtāvendrā* ← *ṛtāvā* ← *ṛtāvan*
 - \[noun\], nominative, singular, masculine
 - “law-abiding; faithful; righteous.”
 ------------------------------------------------------------------------
-- *ṛtāvendrā* \< *indrā* \< *indra*
+- *ṛtāvendrā* ← *indrā* ← *indra*
 - \[noun\], vocative, dual, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -42,7 +42,7 @@ title = "Rig Veda 6.68.5"
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *dāśati* \< *dāś*
+- *dāśati* ← *dāś*
 - \[verb\], singular, Present indikative
 - “sacrifice; give.”
 ------------------------------------------------------------------------
@@ -50,37 +50,37 @@ title = "Rig Veda 6.68.5"
 - \[noun\], locative, singular, masculine
 - “self.”
 ------------------------------------------------------------------------
-- *iṣā* \< *iṣ*
+- *iṣā* ← *iṣ*
 - \[noun\], instrumental, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *dviṣas* \< *dviṣaḥ* \< *dviṣ*
+- *dviṣas* ← *dviṣaḥ* ← *dviṣ*
 - \[noun\], accusative, plural, feminine
 - “hate; dviṣ; hostility; hostility.”
 ------------------------------------------------------------------------
-- *tared* \< *taret* \< *tṛ*
+- *tared* ← *taret* ← *tṛ*
 - \[verb\], singular, Present optative
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *dāsvān* \< *dāsvat*
+- *dāsvān* ← *dāsvat*
 - \[noun\], nominative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *vaṃsad* \< *vaṃsat* \< *van*
+- *vaṃsad* ← *vaṃsat* ← *van*
 - \[verb\], singular, Aorist conj./subj.
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *rayiṃ* \< *rayim* \< *rayi*
+- *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *rayivataś* \< *rayivataḥ* \< *rayivat*
+- *rayivataś* ← *rayivataḥ* ← *rayivat*
 - \[noun\], accusative, plural, masculine
 - “rich.”
 ------------------------------------------------------------------------
@@ -88,7 +88,7 @@ title = "Rig Veda 6.68.5"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *janān* \< *jana*
+- *janān* ← *jana*
 - \[noun\], accusative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”

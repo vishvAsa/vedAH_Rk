@@ -2,7 +2,7 @@
 title = "Rig Veda 8.45.2"
 
 +++
--   *bṛhann* \< *bṛhan* \< *bṛhat*
+-   *bṛhann* ← *bṛhan* ← *bṛhat*
 - \[noun\], nominative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
@@ -11,11 +11,11 @@ title = "Rig Veda 8.45.2"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *idhma* \< *idhmaḥ* \< *idhma*
+- *idhma* ← *idhmaḥ* ← *idhma*
 - \[noun\], nominative, singular, masculine
 - “fuel.”
 ------------------------------------------------------------------------
-- *eṣām* \< *idam*
+- *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -23,33 +23,33 @@ title = "Rig Veda 8.45.2"
 - \[noun\], nominative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *śastam* \< *śaṃs*
+- *śastam* ← *śaṃs*
 - \[verb noun\], nominative, singular
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
 ------------------------------------------------------------------------
-- *pṛthuḥ* \< *pṛthu*
+- *pṛthuḥ* ← *pṛthu*
 - \[noun\], nominative, singular, masculine
 - “Pṛthu; Pṛthu; Pṛthu; Shiva; Pṛthu; Pṛthu.”
 ------------------------------------------------------------------------
-- *svaruḥ* \< *svaru*
+- *svaruḥ* ← *svaru*
 - \[noun\], nominative, singular, masculine
 - “post.”
 ------------------------------------------------------------------------
-- *yeṣām* \< *yad*
+- *yeṣām* ← *yad*
 - \[noun\], genitive, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yuvā* \< *yuvan*
+- *yuvā* ← *yuvan*
 - \[noun\], nominative, singular, masculine
 - “young; youthful.”
 ------------------------------------------------------------------------
-- *sakhā* \< *sakhi*
+- *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------

@@ -2,38 +2,38 @@
 title = "Rig Veda 1.128.5"
 
 +++
--   *kratvā* \< *kratu*
+-   *kratvā* ← *kratu*
 - \[noun\], instrumental, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *taviṣīṣu* \< *taviṣī*
+- *taviṣīṣu* ← *taviṣī*
 - \[noun\], locative, plural, feminine
 - “strength; power.”
 ------------------------------------------------------------------------
-- *pṛñcate* \< *pṛc*
+- *pṛñcate* ← *pṛc*
 - \[verb\], plural, Present indikative
 - “mix; unite.”
 ------------------------------------------------------------------------
-- *'gner* \< *agneḥ* \< *agni*
+- *'gner* ← *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *aveṇa* \< *\_* \< *√\_*
+- *aveṇa* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *marutāṃ* \< *marutām* \< *marut*
+- *marutāṃ* ← *marutām* ← *marut*
 - \[noun\], genitive, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
@@ -41,11 +41,11 @@ title = "Rig Veda 1.128.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *bhojyeṣirāya* \< *bhojyā* \< *bhojya*
+- *bhojyeṣirāya* ← *bhojyā* ← *bhojya*
 - \[noun\], accusative, plural, neuter
 - “food; bhojya \[word\]; comestible.”
 ------------------------------------------------------------------------
-- *bhojyeṣirāya* \< *iṣirāya* \< *iṣira*
+- *bhojyeṣirāya* ← *iṣirāya* ← *iṣira*
 - \[noun\], dative, singular, masculine
 - “vigorous; bracing; quick.”
 ------------------------------------------------------------------------
@@ -53,11 +53,11 @@ title = "Rig Veda 1.128.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *bhojyā* \< *bhojya*
+- *bhojyā* ← *bhojya*
 - \[noun\], accusative, plural, neuter
 - “food; bhojya \[word\]; comestible.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -67,19 +67,19 @@ title = "Rig Veda 1.128.5"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *ṣmā* \< *sma*
+- *ṣmā* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *dānam* \< *dāna*
+- *dānam* ← *dāna*
 - \[noun\], accusative, singular, neuter
 - “giving; gift; bribery; performance; addition; yajña; fueling;
     teaching.”
 ------------------------------------------------------------------------
-- *invati* \< *inv*
+- *invati* ← *inv*
 - \[verb\], singular, Present indikative
 - “bring; drive.”
 ------------------------------------------------------------------------
-- *vasūnāṃ* \< *vasūnām* \< *vasu*
+- *vasūnāṃ* ← *vasūnām* ← *vasu*
 - \[noun\], genitive, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
@@ -87,39 +87,39 @@ title = "Rig Veda 1.128.5"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *majmanā* \< *majman*
+- *majmanā* ← *majman*
 - \[noun\], nominative, dual, masculine
 - “size.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *nas* \< *naḥ* \< *mad*
+- *nas* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *trāsate* \< *trā*
+- *trāsate* ← *trā*
 - \[verb\], singular, Aorist conj./subj.
 - “protect; help.”
 ------------------------------------------------------------------------
-- *duritād* \< *duritāt* \< *durita*
+- *duritād* ← *duritāt* ← *durita*
 - \[noun\], ablative, singular, neuter
 - “danger; sin; difficulty; difficulty; evil.”
 ------------------------------------------------------------------------
-- *abhihrutaḥ* \< *abhihrut*
+- *abhihrutaḥ* ← *abhihrut*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *śaṃsād* \< *śaṃsāt* \< *śaṃsa*
+- *śaṃsād* ← *śaṃsāt* ← *śaṃsa*
 - \[noun\], ablative, singular, masculine
 - “praise; śaṃs; recitation.”
 ------------------------------------------------------------------------
-- *aghād* \< *aghāt* \< *agha*
+- *aghād* ← *aghāt* ← *agha*
 - \[noun\], ablative, singular, masculine
 - “bad; dangerous; ill; iniquitous; bad.”
 ------------------------------------------------------------------------
-- *abhihrutaḥ* \< *abhihrut*
+- *abhihrutaḥ* ← *abhihrut*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------

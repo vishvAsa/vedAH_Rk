@@ -2,16 +2,16 @@
 title = "Rig Veda 3.54.6"
 
 +++
--   *kavir* \< *kaviḥ* \< *kavi*
+-   *kavir* ← *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *nṛcakṣā* \< *nṛ*
+- *nṛcakṣā* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nṛcakṣā* \< *cakṣāḥ* \< *cakṣas*
+- *nṛcakṣā* ← *cakṣāḥ* ← *cakṣas*
 - \[noun\], nominative, singular, masculine
 - “eye; look; radiance.”
 ------------------------------------------------------------------------
@@ -19,27 +19,27 @@ title = "Rig Veda 3.54.6"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *ṣīm* \< *sīm*
+- *ṣīm* ← *sīm*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *acaṣṭa* \< *cakṣ*
+- *acaṣṭa* ← *cakṣ*
 - \[verb\], singular, Imperfect
 - “watch; look.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *yonā* \< *yoni*
+- *yonā* ← *yoni*
 - \[noun\], locative, singular, feminine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
 ------------------------------------------------------------------------
-- *vighṛte* \< *vighṛta*
+- *vighṛte* ← *vighṛta*
 - \[noun\], accusative, dual, neuter
 ------------------------------------------------------------------------
-- *madantī* \< *mad*
+- *madantī* ← *mad*
 - \[verb noun\], accusative, dual
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
@@ -47,7 +47,7 @@ title = "Rig Veda 3.54.6"
 - \[adverb\]
 - “variously; differently; many; individually.”
 ------------------------------------------------------------------------
-- *cakrāte* \< *kṛ*
+- *cakrāte* ← *kṛ*
 - \[verb\], dual, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -58,7 +58,7 @@ title = "Rig Veda 3.54.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *sadanaṃ* \< *sadanam* \< *sadana*
+- *sadanaṃ* ← *sadanam* ← *sadana*
 - \[noun\], accusative, singular, neuter
 - “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
     residence; seat; inanition; location.”
@@ -67,20 +67,20 @@ title = "Rig Veda 3.54.6"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *veḥ* \< *vi*
+- *veḥ* ← *vi*
 - \[noun\], genitive, singular, masculine
 - “vi; bird; vi.”
 ------------------------------------------------------------------------
-- *samānena* \< *samāna*
+- *samānena* ← *samāna*
 - \[noun\], instrumental, singular, masculine
 - “samāna.”
 ------------------------------------------------------------------------
-- *kratunā* \< *kratu*
+- *kratunā* ← *kratu*
 - \[noun\], instrumental, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *saṃvidāne* \< *saṃvid* \< *√vid*
+- *saṃvidāne* ← *saṃvid* ← *√vid*
 - \[verb noun\], nominative, dual
 - “agree; know; match; recognize.”
 ------------------------------------------------------------------------

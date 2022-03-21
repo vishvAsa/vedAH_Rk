@@ -2,35 +2,35 @@
 title = "Rig Veda 10.104.8"
 
 +++
--   *saptāpo* \< *sapta* \< *saptan*
+-   *saptāpo* ← *sapta* ← *saptan*
 - \[noun\], nominative, singular, neuter
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *saptāpo* \< *apaḥ* \< *ap*
+- *saptāpo* ← *apaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *devīḥ* \< *devī*
+- *devīḥ* ← *devī*
 - \[noun\], nominative, plural, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *suraṇā* \< *suraṇāḥ* \< *suraṇa*
+- *suraṇā* ← *suraṇāḥ* ← *suraṇa*
 - \[noun\], nominative, plural, feminine
 - “joyful.”
 ------------------------------------------------------------------------
-- *amṛktā* \< *amṛktāḥ* \< *amṛkta*
+- *amṛktā* ← *amṛktāḥ* ← *amṛkta*
 - \[noun\], nominative, plural, feminine
 - “new; undamaged; complete.”
 ------------------------------------------------------------------------
-- *yābhiḥ* \< *yad*
+- *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sindhum* \< *sindhu*
+- *sindhum* ← *sindhu*
 - \[noun\], accusative, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *atara* \< *ataraḥ* \< *tṛ*
+- *atara* ← *ataraḥ* ← *tṛ*
 - \[verb\], singular, Imperfect
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
@@ -39,19 +39,19 @@ title = "Rig Veda 10.104.8"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pūrbhit* \< *pūrbhid*
+- *pūrbhit* ← *pūrbhid*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *navatiṃ* \< *navatim* \< *navati*
+- *navatiṃ* ← *navatim* ← *navati*
 - \[noun\], accusative, singular, feminine
 - “ninety; navati \[word\].”
 ------------------------------------------------------------------------
-- *srotyā* \< *srotyāḥ* \< *srotyā*
+- *srotyā* ← *srotyāḥ* ← *srotyā*
 - \[noun\], accusative, plural, feminine
 - “river.”
 ------------------------------------------------------------------------
-- *nava* \< *navan*
+- *nava* ← *navan*
 - \[noun\], accusative, singular, neuter
 - “nine.”
 ------------------------------------------------------------------------
@@ -59,21 +59,21 @@ title = "Rig Veda 10.104.8"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *sravantīr* \< *sravantīḥ* \< *sru*
+- *sravantīr* ← *sravantīḥ* ← *sru*
 - \[verb noun\], accusative, plural
 - “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
     disappear; leak; fester.”
 ------------------------------------------------------------------------
-- *devebhyo* \< *devebhyaḥ* \< *deva*
+- *devebhyo* ← *devebhyaḥ* ← *deva*
 - \[noun\], dative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *gātum* \< *gātu*
+- *gātum* ← *gātu*
 - \[noun\], accusative, singular, masculine
 - “path; way.”
 ------------------------------------------------------------------------
-- *manuṣe* \< *manus*
+- *manuṣe* ← *manus*
 - \[noun\], dative, singular, masculine
 - “Manu; man.”
 ------------------------------------------------------------------------
@@ -81,7 +81,7 @@ title = "Rig Veda 10.104.8"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *vindaḥ* \< *vid*
+- *vindaḥ* ← *vid*
 - \[verb\], singular, Present injunctive
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------

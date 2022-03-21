@@ -2,7 +2,7 @@
 title = "Rig Veda 6.20.13"
 
 +++
--   *tava* \< *tvad*
+-   *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -10,7 +10,7 @@ title = "Rig Veda 6.20.13"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *tyad* \< *tya*
+- *tyad* ← *tya*
 - \[noun\], nominative, singular, neuter
 - “that.”
 ------------------------------------------------------------------------
@@ -19,27 +19,27 @@ title = "Rig Veda 6.20.13"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *viśvam* \< *viśva*
+- *viśvam* ← *viśva*
 - \[noun\], nominative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *ājau* \< *āji*
+- *ājau* ← *āji*
 - \[noun\], locative, singular, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
 ------------------------------------------------------------------------
-- *sasto* \< *sastaḥ* \< *sas*
+- *sasto* ← *sastaḥ* ← *sas*
 - \[verb\], dual, Present indikative
 - “sleep.”
 ------------------------------------------------------------------------
-- *dhunīcumurī* \< *dhunī*
+- *dhunīcumurī* ← *dhunī*
 - \[noun\], feminine
 - “river.”
 ------------------------------------------------------------------------
-- *dhunīcumurī* \< *cumurī* \< *cumuri*
+- *dhunīcumurī* ← *cumurī* ← *cumuri*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], accusative, dual, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -47,46 +47,46 @@ title = "Rig Veda 6.20.13"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *siṣvap* \< *svap*
+- *siṣvap* ← *svap*
 - \[verb\], singular, Aorist inj. (proh.)
 - “sleep; numb; fall asleep.”
 ------------------------------------------------------------------------
-- *dīdayad* \< *dīdayat* \< *dīdī*
+- *dīdayad* ← *dīdayat* ← *dīdī*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “shine; glitter.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *tubhyaṃ* \< *tubhyam* \< *tvad*
+- *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *somebhiḥ* \< *soma*
+- *somebhiḥ* ← *soma*
 - \[noun\], instrumental, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *sunvan* \< *su*
+- *sunvan* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *dabhītir* \< *dabhītiḥ* \< *dabhīti*
+- *dabhītir* ← *dabhītiḥ* ← *dabhīti*
 - \[noun\], nominative, singular, masculine
 - “Dabhīti.”
 ------------------------------------------------------------------------
-- *idhmabhṛtiḥ* \< *idhma*
+- *idhmabhṛtiḥ* ← *idhma*
 - \[noun\], masculine
 - “fuel.”
 ------------------------------------------------------------------------
-- *idhmabhṛtiḥ* \< *bhṛtiḥ* \< *bhṛti*
+- *idhmabhṛtiḥ* ← *bhṛtiḥ* ← *bhṛti*
 - \[noun\], nominative, singular, masculine
 - “rental; support; wage.”
 ------------------------------------------------------------------------
-- *pakthy* \< *pakthī* \< *pakthin*
+- *pakthy* ← *pakthī* ← *pakthin*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *arkaiḥ* \< *arka*
+- *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”

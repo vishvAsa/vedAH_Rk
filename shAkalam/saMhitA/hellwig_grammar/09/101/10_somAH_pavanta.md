@@ -2,52 +2,52 @@
 title = "Rig Veda 9.101.10"
 
 +++
--   *somāḥ* \< *soma*
+-   *somāḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *pavanta* \< *pavante* \< *pū*
+- *pavanta* ← *pavante* ← *pū*
 - \[verb\], plural, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *indavo* \< *indavaḥ* \< *indu*
+- *indavo* ← *indavaḥ* ← *indu*
 - \[noun\], nominative, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *'smabhyaṃ* \< *asmabhyam* \< *mad*
+- *'smabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *gātuvittamāḥ* \< *gātu*
+- *gātuvittamāḥ* ← *gātu*
 - \[noun\], masculine
 - “path; way.”
 ------------------------------------------------------------------------
-- *gātuvittamāḥ* \< *vittamāḥ* \< *vittama*
+- *gātuvittamāḥ* ← *vittamāḥ* ← *vittama*
 - \[noun\], nominative, plural, masculine
 - “knowing most.”
 ------------------------------------------------------------------------
-- *mitrāḥ* \< *mitra*
+- *mitrāḥ* ← *mitra*
 - \[noun\], nominative, plural, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *suvānā* \< *suvānāḥ* \< *su*
+- *suvānā* ← *suvānāḥ* ← *su*
 - \[verb noun\], nominative, plural
 - “press out; su.”
 ------------------------------------------------------------------------
-- *arepasaḥ* \< *arepas*
+- *arepasaḥ* ← *arepas*
 - \[noun\], nominative, plural, masculine
 - “immaculate.”
 ------------------------------------------------------------------------
-- *svādhyaḥ* \< *svādhī*
+- *svādhyaḥ* ← *svādhī*
 - \[noun\], nominative, plural, masculine
 - “devout; heedful; prudent.”
 ------------------------------------------------------------------------
-- *svarvidaḥ* \< *svar*
+- *svarvidaḥ* ← *svar*
 - \[noun\], neuter
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *svarvidaḥ* \< *vidaḥ* \< *vid*
+- *svarvidaḥ* ← *vidaḥ* ← *vid*
 - \[noun\], nominative, plural, masculine
 - “finding.”
 ------------------------------------------------------------------------

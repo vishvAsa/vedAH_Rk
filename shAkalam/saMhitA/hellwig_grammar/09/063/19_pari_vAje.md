@@ -6,7 +6,7 @@ title = "Rig Veda 9.63.19"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *vāje* \< *vāja*
+- *vāje* ← *vāja*
 - \[noun\], locative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
@@ -14,27 +14,27 @@ title = "Rig Veda 9.63.19"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vājayum* \< *vājayu*
+- *vājayum* ← *vājayu*
 - \[noun\], accusative, singular, masculine
 - “competing(a); competitive.”
 ------------------------------------------------------------------------
-- *avyo* \< *avyaḥ* \< *avya*
+- *avyo* ← *avyaḥ* ← *avya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vāreṣu* \< *vāra*
+- *vāreṣu* ← *vāra*
 - \[noun\], locative, plural, masculine
 - “strainer.”
 ------------------------------------------------------------------------
-- *siñcata* \< *sic*
+- *siñcata* ← *sic*
 - \[verb\], plural, Present imperative
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *madhumattamam* \< *madhumattama*
+- *madhumattamam* ← *madhumattama*
 - \[noun\], accusative, singular, masculine
 - “sweetest.”
 ------------------------------------------------------------------------

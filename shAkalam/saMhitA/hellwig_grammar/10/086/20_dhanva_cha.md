@@ -2,7 +2,7 @@
 title = "Rig Veda 10.86.20"
 
 +++
--   *dhanva* \< *dhanvan*
+-   *dhanva* ← *dhanvan*
 - \[noun\], nominative, singular, neuter
 - “bow; desert; steppe; barren.”
 ------------------------------------------------------------------------
@@ -10,11 +10,11 @@ title = "Rig Veda 10.86.20"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *yat* \< *yad*
+- *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *kṛntatraṃ* \< *kṛntatram* \< *kṛntatra*
+- *kṛntatraṃ* ← *kṛntatram* ← *kṛntatra*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
 - *ca*
@@ -25,11 +25,11 @@ title = "Rig Veda 10.86.20"
 - \[adverb\]
 - “how many; kati \[word\].”
 ------------------------------------------------------------------------
-- *svit* \< *svid*
+- *svit* ← *svid*
 - \[adverb\]
 - “svid \[word\].”
 ------------------------------------------------------------------------
-- *tā* \< *tad*
+- *tā* ← *tad*
 - \[noun\], nominative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -39,27 +39,27 @@ title = "Rig Veda 10.86.20"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *yojanā* \< *yojana*
+- *yojanā* ← *yojana*
 - \[noun\], accusative, plural, neuter
 - “yojana; use; yojana \[word\]; team.”
 ------------------------------------------------------------------------
-- *nedīyaso* \< *nedīyasaḥ* \< *nedīyas*
+- *nedīyaso* ← *nedīyasaḥ* ← *nedīyas*
 - \[noun\], accusative, plural, masculine
 - “nearer; nedīyas \[word\]; near.”
 ------------------------------------------------------------------------
-- *vṛṣākape* \< *vṛṣākapi*
+- *vṛṣākape* ← *vṛṣākapi*
 - \[noun\], vocative, singular, masculine
 - “Vishnu; vṛṣākapi \[word\]; Indra.”
 ------------------------------------------------------------------------
-- *'stam* \< *astam* \< *asta*
+- *'stam* ← *astam* ← *asta*
 - \[noun\], accusative, singular, neuter
 - “home.”
 ------------------------------------------------------------------------
-- *ehi* \< *e* \< *√i*
+- *ehi* ← *e* ← *√i*
 - \[verb\], singular, Present imperative
 - “come; travel.”
 ------------------------------------------------------------------------
-- *gṛhāṃ* \< *gṛha*
+- *gṛhāṃ* ← *gṛha*
 - \[noun\], accusative, plural, masculine
 - “house; palace; temple; home; place; family; family; stable.”
 ------------------------------------------------------------------------
@@ -67,17 +67,17 @@ title = "Rig Veda 10.86.20"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *viśvasmād* \< *viśvasmāt* \< *viśva*
+- *viśvasmād* ← *viśvasmāt* ← *viśva*
 - \[noun\], ablative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *indra* \< *indraḥ* \< *indra*
+- *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *uttaraḥ* \< *uttara*
+- *uttaraḥ* ← *uttara*
 - \[noun\], nominative, singular, masculine
 - “northern; following; upper; additional; better; more(a); last;
     concluding; superior; later(a); uttara \[word\]; prevailing; future;

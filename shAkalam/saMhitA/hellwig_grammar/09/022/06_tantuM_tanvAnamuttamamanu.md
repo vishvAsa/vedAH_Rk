@@ -2,16 +2,16 @@
 title = "Rig Veda 9.22.6"
 
 +++
--   *tantuṃ* \< *tantum* \< *tantu*
+-   *tantuṃ* ← *tantum* ← *tantu*
 - \[noun\], accusative, singular, masculine
 - “thread; fiber; lineage; cobweb; fibril; stalk.”
 ------------------------------------------------------------------------
-- *tanvānam* \< *tan*
+- *tanvānam* ← *tan*
 - \[verb noun\], accusative, singular
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
 ------------------------------------------------------------------------
-- *uttamam* \< *uttama*
+- *uttamam* ← *uttama*
 - \[noun\], accusative, singular, masculine
 - “best; excellent; highest; better; extreme; last; first; topmost;
     chief(a); higher; highest; maximal; uttama \[word\]; prevailing;
@@ -21,22 +21,22 @@ title = "Rig Veda 9.22.6"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *pravata* \< *pravataḥ* \< *pravat*
+- *pravata* ← *pravataḥ* ← *pravat*
 - \[noun\], accusative, plural, feminine
 - “slope; river.”
 ------------------------------------------------------------------------
-- *āśata* \< *aś*
+- *āśata* ← *aś*
 - \[verb\], plural, Root aorist (Ind.)
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *utedam* \< *uta*
+- *utedam* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *utedam* \< *idam*
+- *utedam* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *uttamāyyam* \< *uttamāyya*
+- *uttamāyyam* ← *uttamāyya*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------

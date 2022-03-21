@@ -2,19 +2,19 @@
 title = "Rig Veda 8.78.8"
 
 +++
--   *tve* \< *tvad*
+-   *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vasūni* \< *vasu*
+- *vasūni* ← *vasu*
 - \[noun\], nominative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *saṃgatā* \< *saṃgam* \< *√gam*
+- *saṃgatā* ← *saṃgam* ← *√gam*
 - \[verb noun\], nominative, plural
 - “meet; unite; love; connect; exist; land; justify.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], nominative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
@@ -27,21 +27,21 @@ title = "Rig Veda 8.78.8"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *saubhagā* \< *saubhaga*
+- *saubhagā* ← *saubhaga*
 - \[noun\], nominative, plural, neuter
 - “well-being.”
 ------------------------------------------------------------------------
-- *sudātv* \< *su*
+- *sudātv* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudātv* \< *dātu*
+- *sudātv* ← *dātu*
 - \[noun\], nominative, plural, neuter
 ------------------------------------------------------------------------
-- *aparihvṛtā* \< *a*
+- *aparihvṛtā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *aparihvṛtā* \< *parihvṛtā* \< *parihvṛ* \< *√hvṛ*
+- *aparihvṛtā* ← *parihvṛtā* ← *parihvṛ* ← *√hvṛ*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------

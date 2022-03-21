@@ -2,46 +2,46 @@
 title = "Rig Veda 1.51.15"
 
 +++
--   *idaṃ* \< *idam*
+-   *idaṃ* ← *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *namo* \< *namaḥ* \< *namas*
+- *namo* ← *namaḥ* ← *namas*
 - \[noun\], nominative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *vṛṣabhāya* \< *vṛṣabha*
+- *vṛṣabhāya* ← *vṛṣabha*
 - \[noun\], dative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *svarāje* \< *sva*
+- *svarāje* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svarāje* \< *rāje* \< *rāj*
+- *svarāje* ← *rāje* ← *rāj*
 - \[noun\], dative, singular, masculine
 - “king; best; rāj; rāj \[word\].”
 ------------------------------------------------------------------------
-- *satyaśuṣmāya* \< *satya*
+- *satyaśuṣmāya* ← *satya*
 - \[noun\]
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *satyaśuṣmāya* \< *śuṣmāya* \< *śuṣma*
+- *satyaśuṣmāya* ← *śuṣmāya* ← *śuṣma*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *tavase* \< *tavas*
+- *tavase* ← *tavas*
 - \[noun\], dative, singular, masculine
 - “strong; energetic.”
 ------------------------------------------------------------------------
-- *'vāci* \< *avāci* \< *vac*
+- *'vāci* ← *avāci* ← *vac*
 - \[verb\], singular, Aorist passive
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
 ------------------------------------------------------------------------
-- *asminn* \< *asmin* \< *idam*
+- *asminn* ← *asmin* ← *idam*
 - \[noun\], locative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -50,17 +50,17 @@ title = "Rig Veda 1.51.15"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vṛjane* \< *vṛjana*
+- *vṛjane* ← *vṛjana*
 - \[noun\], locative, singular, neuter
 - “community; settlement.”
 ------------------------------------------------------------------------
-- *sarvavīrāḥ* \< *sarva*
+- *sarvavīrāḥ* ← *sarva*
 - \[noun\]
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
 ------------------------------------------------------------------------
-- *sarvavīrāḥ* \< *vīrāḥ* \< *vīra*
+- *sarvavīrāḥ* ← *vīrāḥ* ← *vīra*
 - \[noun\], nominative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
@@ -68,11 +68,11 @@ title = "Rig Veda 1.51.15"
 - \[adverb\]
 - “simultaneously; jointly.”
 ------------------------------------------------------------------------
-- *sūribhis* \< *sūribhiḥ* \< *sūri*
+- *sūribhis* ← *sūribhiḥ* ← *sūri*
 - \[noun\], instrumental, plural, masculine
 - “patron.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -80,7 +80,7 @@ title = "Rig Veda 1.51.15"
 - \[noun\], locative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *syāma* \< *as*
+- *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

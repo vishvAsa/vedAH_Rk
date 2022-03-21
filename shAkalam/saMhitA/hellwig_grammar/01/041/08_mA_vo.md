@@ -6,11 +6,11 @@ title = "Rig Veda 1.41.8"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *ghnantam* \< *han*
+- *ghnantam* ← *han*
 - \[verb noun\], accusative, singular
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
@@ -20,7 +20,7 @@ title = "Rig Veda 1.41.8"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *śapantam* \< *śap*
+- *śapantam* ← *śap*
 - \[verb noun\], accusative, singular
 - “curse; swear; affirm; promise.”
 ------------------------------------------------------------------------
@@ -28,18 +28,18 @@ title = "Rig Veda 1.41.8"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *voce* \< *vac*
+- *voce* ← *vac*
 - \[verb\], singular, Aorist inj. (proh.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
 ------------------------------------------------------------------------
-- *devayantam* \< *devay*
+- *devayantam* ← *devay*
 - \[verb noun\], accusative, singular
 - “solicit.”
 ------------------------------------------------------------------------
-- *sumnair* \< *sumnaiḥ* \< *sumna*
+- *sumnair* ← *sumnaiḥ* ← *sumna*
 - \[noun\], instrumental, plural, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
@@ -47,7 +47,7 @@ title = "Rig Veda 1.41.8"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
@@ -55,7 +55,7 @@ title = "Rig Veda 1.41.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vivāse* \< *vivās* \< *√van*
+- *vivāse* ← *vivās* ← *√van*
 - \[verb\], singular, Present indikative
 - “invite; endeavor; try for.”
 ------------------------------------------------------------------------

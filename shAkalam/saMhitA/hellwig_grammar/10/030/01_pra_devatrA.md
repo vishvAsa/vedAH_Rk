@@ -9,20 +9,20 @@ title = "Rig Veda 10.30.1"
 - *devatrā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *brahmaṇe* \< *brahman*
+- *brahmaṇe* ← *brahman*
 - \[noun\], dative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *gātur* \< *gātuḥ* \< *gātu*
+- *gātur* ← *gātuḥ* ← *gātu*
 - \[noun\], nominative, singular, masculine
 - “path; way.”
 ------------------------------------------------------------------------
-- *etv* \< *etu* \< *i*
+- *etv* ← *etu* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *apo* \< *apaḥ* \< *ap*
+- *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -30,7 +30,7 @@ title = "Rig Veda 10.30.1"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *manaso* \< *manasaḥ* \< *manas*
+- *manaso* ← *manasaḥ* ← *manas*
 - \[noun\], genitive, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
@@ -42,36 +42,36 @@ title = "Rig Veda 10.30.1"
 - *prayukti*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *mahīm* \< *mah*
+- *mahīm* ← *mah*
 - \[noun\], accusative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *mitrasya* \< *mitra*
+- *mitrasya* ← *mitra*
 - \[noun\], genitive, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *varuṇasya* \< *varuṇa*
+- *varuṇasya* ← *varuṇa*
 - \[noun\], genitive, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *dhāsim* \< *dhāsi*
+- *dhāsim* ← *dhāsi*
 - \[noun\], accusative, singular, feminine
 - “seat; home.”
 ------------------------------------------------------------------------
-- *pṛthujrayase* \< *pṛthu*
+- *pṛthujrayase* ← *pṛthu*
 - \[noun\]
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
 ------------------------------------------------------------------------
-- *pṛthujrayase* \< *jrayase* \< *jrayas*
+- *pṛthujrayase* ← *jrayase* ← *jrayas*
 - \[noun\], dative, singular, masculine
 - “expanse; area.”
 ------------------------------------------------------------------------
-- *rīradhā* \< *radh*
+- *rīradhā* ← *radh*
 - \[verb\], singular, Aorist conj./subj.
 - “subjugate.”
 ------------------------------------------------------------------------
-- *suvṛktim* \< *suvṛkti*
+- *suvṛktim* ← *suvṛkti*
 - \[noun\], accusative, singular, feminine
 - “praise.”
 ------------------------------------------------------------------------

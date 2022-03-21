@@ -6,23 +6,23 @@ title = "Rig Veda 1.166.5"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *tveṣayāmā* \< *tveṣa*
+- *tveṣayāmā* ← *tveṣa*
 - \[noun\]
 - “awful; brilliant; aglitter(p); bright.”
 ------------------------------------------------------------------------
-- *tveṣayāmā* \< *yāmāḥ* \< *yāma*
+- *tveṣayāmā* ← *yāmāḥ* ← *yāma*
 - \[noun\], nominative, plural, masculine
 - “prahara; watch; travel; path.”
 ------------------------------------------------------------------------
-- *nadayanta* \< *naday* \< *√nad*
+- *nadayanta* ← *naday* ← *√nad*
 - \[verb\], plural, Present injunctive
 ------------------------------------------------------------------------
-- *parvatān* \< *parvata*
+- *parvatān* ← *parvata*
 - \[noun\], accusative, plural, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -30,26 +30,26 @@ title = "Rig Veda 1.166.5"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *pṛṣṭhaṃ* \< *pṛṣṭham* \< *pṛṣṭha*
+- *pṛṣṭhaṃ* ← *pṛṣṭham* ← *pṛṣṭha*
 - \[noun\], accusative, singular, neuter
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
 ------------------------------------------------------------------------
-- *naryā* \< *naryāḥ* \< *narya*
+- *naryā* ← *naryāḥ* ← *narya*
 - \[noun\], nominative, plural, masculine
 - “manly; heroic; powerful; male; human.”
 ------------------------------------------------------------------------
-- *acucyavuḥ* \< *cyu*
+- *acucyavuḥ* ← *cyu*
 - \[verb\], plural, Plusquamperfect
 - “fall down; issue; shoot; ejaculate; deviate; banish; drop;
     dislodge; miss; deprive.”
 ------------------------------------------------------------------------
-- *viśvo* \< *viśvaḥ* \< *viśva*
+- *viśvo* ← *viśvaḥ* ← *viśva*
 - \[noun\], nominative, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
@@ -57,18 +57,18 @@ title = "Rig Veda 1.166.5"
 - \[noun\], locative, singular, neuter
 - “drive.”
 ------------------------------------------------------------------------
-- *bhayate* \< *bhī*
+- *bhayate* ← *bhī*
 - \[verb\], singular, Present indikative
 - “fear; fear.”
 ------------------------------------------------------------------------
-- *vanaspatī* \< *vanaspatiḥ* \< *vanaspati*
+- *vanaspatī* ← *vanaspatiḥ* ← *vanaspati*
 - \[noun\], nominative, singular, masculine
 - “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
 ------------------------------------------------------------------------
-- *rathīyantīva* \< *rathīyantī* \< *rathīy*
+- *rathīyantīva* ← *rathīyantī* ← *rathīy*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *rathīyantīva* \< *iva*
+- *rathīyantīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
@@ -76,14 +76,14 @@ title = "Rig Veda 1.166.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *jihīta* \< *jihīte* \< *hā*
+- *jihīta* ← *jihīte* ← *hā*
 - \[verb\], singular, Present indikative
 - “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
     lose; avoid; remove; leave; abandon; neglect; leave; discard;
     apostatize; discontinue; weaken; abandon; assail; subtract;
     foreswear; pour away; withdraw; depart; reduce.”
 ------------------------------------------------------------------------
-- *oṣadhiḥ* \< *oṣadhi*
+- *oṣadhiḥ* ← *oṣadhi*
 - \[noun\], nominative, singular, feminine
 - “herb; plant; drug; simple; oṣadhi \[word\]; remedy.”
 ------------------------------------------------------------------------

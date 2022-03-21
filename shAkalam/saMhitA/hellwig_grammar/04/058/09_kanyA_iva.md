@@ -2,7 +2,7 @@
 title = "Rig Veda 4.58.9"
 
 +++
--   *kanyā* \< *kanyāḥ* \< *kanyā*
+-   *kanyā* ← *kanyāḥ* ← *kanyā*
 - \[noun\], accusative, plural, feminine
 - “girl; daughter; kanyā; virgin; Aloe perfoliata; Aloe Indica; female
     child; kanyā \[word\]; burn plant.”
@@ -11,11 +11,11 @@ title = "Rig Veda 4.58.9"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *vahatum* \< *vahatu*
+- *vahatum* ← *vahatu*
 - \[noun\], accusative, singular, masculine
 - “marriage.”
 ------------------------------------------------------------------------
-- *etavā* \< *etavai* \< *i*
+- *etavā* ← *etavai* ← *i*
 - \[verb noun\]
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
@@ -23,11 +23,11 @@ title = "Rig Veda 4.58.9"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *añjy* \< *añjī* \< *añji*
+- *añjy* ← *añjī* ← *añji*
 - \[noun\], instrumental, singular, masculine
 - “color; ointment; adornment.”
 ------------------------------------------------------------------------
-- *añjānā* \< *añjānāḥ* \< *añj*
+- *añjānā* ← *añjānāḥ* ← *añj*
 - \[verb noun\], accusative, plural
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
@@ -35,18 +35,18 @@ title = "Rig Veda 4.58.9"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *cākaśīmi* \< *cākaś* \< *√kāś*
+- *cākaśīmi* ← *cākaś* ← *√kāś*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
 - *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *somaḥ* \< *soma*
+- *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *sūyate* \< *su*
+- *sūyate* ← *su*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “press out; su.”
 ------------------------------------------------------------------------
@@ -54,15 +54,15 @@ title = "Rig Veda 4.58.9"
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *yajño* \< *yajñaḥ* \< *yajña*
+- *yajño* ← *yajñaḥ* ← *yajña*
 - \[noun\], nominative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *ghṛtasya* \< *ghṛta*
+- *ghṛtasya* ← *ghṛta*
 - \[noun\], genitive, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *dhārā* \< *dhārāḥ* \< *dhārā*
+- *dhārā* ← *dhārāḥ* ← *dhārā*
 - \[noun\], nominative, plural, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
@@ -70,13 +70,13 @@ title = "Rig Veda 4.58.9"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *tat* \< *tad*
+- *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *pavante* \< *pū*
+- *pavante* ← *pū*
 - \[verb\], plural, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------

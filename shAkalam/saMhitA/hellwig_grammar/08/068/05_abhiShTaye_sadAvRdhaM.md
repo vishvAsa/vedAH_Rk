@@ -2,25 +2,25 @@
 title = "Rig Veda 8.68.5"
 
 +++
--   *abhiṣṭaye* \< *abhiṣṭi*
+-   *abhiṣṭaye* ← *abhiṣṭi*
 - \[noun\], dative, singular, feminine
 - “prevalence; protection.”
 ------------------------------------------------------------------------
-- *sadāvṛdhaṃ* \< *sadāvṛdham* \< *sadāvṛdha*
+- *sadāvṛdhaṃ* ← *sadāvṛdham* ← *sadāvṛdha*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *svarmīﾱheṣu* \< *svar*
+- *svarmīﾱheṣu* ← *svar*
 - \[noun\], neuter
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *svarmīﾱheṣu* \< *mīḍheṣu* \< *mīḍha*
+- *svarmīﾱheṣu* ← *mīḍheṣu* ← *mīḍha*
 - \[noun\], locative, plural, neuter
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *naraḥ* \< *nṛ*
+- *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
@@ -28,11 +28,11 @@ title = "Rig Veda 8.68.5"
 - \[adverb\]
 - “variously; differently; many; individually.”
 ------------------------------------------------------------------------
-- *havanta* \< *havante* \< *hvā*
+- *havanta* ← *havante* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *ūtaye* \< *ūti*
+- *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------

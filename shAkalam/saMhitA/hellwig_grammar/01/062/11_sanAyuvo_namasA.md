@@ -2,26 +2,26 @@
 title = "Rig Veda 1.62.11"
 
 +++
--   *sanāyuvo* \< *sanāyuvaḥ* \< *sanāyu*
+-   *sanāyuvo* ← *sanāyuvaḥ* ← *sanāyu*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *namasā* \< *namas*
+- *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *navyo* \< *navyaḥ* \< *navyas*
+- *navyo* ← *navyaḥ* ← *navyas*
 - \[noun\], accusative, singular, neuter
 - “new.”
 ------------------------------------------------------------------------
-- *arkair* \< *arkaiḥ* \< *arka*
+- *arkair* ← *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *vasūyavo* \< *vasūyavaḥ* \< *vasūyu*
+- *vasūyavo* ← *vasūyavaḥ* ← *vasūyu*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *matayo* \< *matayaḥ* \< *mati*
+- *matayo* ← *matayaḥ* ← *mati*
 - \[noun\], nominative, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
@@ -30,11 +30,11 @@ title = "Rig Veda 1.62.11"
 - \[noun\], vocative, singular, masculine
 - “overlord.”
 ------------------------------------------------------------------------
-- *dadruḥ* \< *drā*
+- *dadruḥ* ← *drā*
 - \[verb\], plural, Perfect indicative
 - “run; run.”
 ------------------------------------------------------------------------
-- *patiṃ* \< *patim* \< *pati*
+- *patiṃ* ← *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
@@ -43,30 +43,30 @@ title = "Rig Veda 1.62.11"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *patnīr* \< *patnīḥ* \< *patnī*
+- *patnīr* ← *patnīḥ* ← *patnī*
 - \[noun\], nominative, plural, feminine
 - “wife; mistress; queen.”
 ------------------------------------------------------------------------
-- *uśatīr* \< *uśatīḥ* \< *vaś*
+- *uśatīr* ← *uśatīḥ* ← *vaś*
 - \[verb noun\], nominative, plural
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *uśantaṃ* \< *uśantam* \< *vaś*
+- *uśantaṃ* ← *uśantam* ← *vaś*
 - \[verb noun\], accusative, singular
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *spṛśanti* \< *spṛś*
+- *spṛśanti* ← *spṛś*
 - \[verb\], plural, Present indikative
 - “touch; enter (a state); reach; touch.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śavasāvan* \< *śavasāvat*
+- *śavasāvan* ← *śavasāvat*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *manīṣāḥ* \< *manīṣā*
+- *manīṣāḥ* ← *manīṣā*
 - \[noun\], nominative, plural, feminine
 - “hymn; inspiration; idea; thinking; wish; consideration;
     intelligence.”

@@ -2,22 +2,22 @@
 title = "Rig Veda 1.113.14"
 
 +++
--   *vy* \< *vi*
+-   *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *añjibhir* \< *añjibhiḥ* \< *añji*
+- *añjibhir* ← *añjibhiḥ* ← *añji*
 - \[noun\], instrumental, plural, masculine
 - “color; ointment; adornment.”
 ------------------------------------------------------------------------
-- *diva* \< *divaḥ* \< *div*
+- *diva* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *ātāsv* \< *ātāsu* \< *ātā*
+- *ātāsv* ← *ātāsu* ← *ātā*
 - \[noun\], locative, plural, feminine
 ------------------------------------------------------------------------
-- *adyaud* \< *adyaut* \< *dyut*
+- *adyaud* ← *adyaut* ← *dyut*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “shine; inflame.”
 ------------------------------------------------------------------------
@@ -25,57 +25,57 @@ title = "Rig Veda 1.113.14"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *kṛṣṇāṃ* \< *kṛṣṇām* \< *kṛṣṇa*
+- *kṛṣṇāṃ* ← *kṛṣṇām* ← *kṛṣṇa*
 - \[noun\], accusative, singular, feminine
 - “black; dark; dark; blue; black.”
 ------------------------------------------------------------------------
-- *nirṇijaṃ* \< *nirṇijam* \< *nirṇij*
+- *nirṇijaṃ* ← *nirṇijam* ← *nirṇij*
 - \[noun\], accusative, singular, feminine
 - “attire; garment.”
 ------------------------------------------------------------------------
-- *devy* \< *devī*
+- *devy* ← *devī*
 - \[noun\], nominative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *āvaḥ* \< *vṛ*
+- *āvaḥ* ← *vṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *prabodhayanty* \< *prabodhayantī* \< *prabodhay* \< *√budh*
+- *prabodhayanty* ← *prabodhayantī* ← *prabodhay* ← *√budh*
 - \[verb noun\], nominative, singular
 - “awaken; fuel.”
 ------------------------------------------------------------------------
-- *aruṇebhir* \< *aruṇebhiḥ* \< *aruṇa*
+- *aruṇebhir* ← *aruṇebhiḥ* ← *aruṇa*
 - \[noun\], instrumental, plural, masculine
 - “red; tawny; dusty; gray.”
 ------------------------------------------------------------------------
-- *aśvair* \< *aśvaiḥ* \< *aśva*
+- *aśvair* ← *aśvaiḥ* ← *aśva*
 - \[noun\], instrumental, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *oṣā* \< *ā*
+- *oṣā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *oṣā* \< *uṣāḥ* \< *uṣas*
+- *oṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *yāti* \< *yā*
+- *yāti* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *suyujā* \< *su*
+- *suyujā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suyujā* \< *yujā* \< *yuj*
+- *suyujā* ← *yujā* ← *yuj*
 - \[noun\], instrumental, singular, masculine
 - “amalgamated; harnessed.”
 ------------------------------------------------------------------------
-- *rathena* \< *ratha*
+- *rathena* ← *ratha*
 - \[noun\], instrumental, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------

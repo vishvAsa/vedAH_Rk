@@ -2,7 +2,7 @@
 title = "Rig Veda 1.132.4"
 
 +++
--   *nū* \< *nu*
+-   *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
@@ -10,7 +10,7 @@ title = "Rig Veda 1.132.4"
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -21,21 +21,21 @@ title = "Rig Veda 1.132.4"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *pravācyaṃ* \< *pravācyam* \< *pravac* \< *√vac*
+- *pravācyaṃ* ← *pravācyam* ← *pravac* ← *√vac*
 - \[verb noun\], nominative, singular
 - “describe; name; enumerate; call; explain; teach; state; tell;
     impart; convey; address; proclaim.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *aṅgirobhyo* \< *aṅgirobhyaḥ* \< *aṅgiras*
+- *aṅgirobhyo* ← *aṅgirobhyaḥ* ← *aṅgiras*
 - \[noun\], dative, plural, masculine
 - “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
     Aṅgiras.”
 ------------------------------------------------------------------------
-- *'vṛṇor* \< *avṛṇoḥ* \< *vṛ*
+- *'vṛṇor* ← *avṛṇoḥ* ← *vṛ*
 - \[verb\], singular, Imperfect
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
@@ -44,7 +44,7 @@ title = "Rig Veda 1.132.4"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *vrajam* \< *vraja*
+- *vrajam* ← *vraja*
 - \[noun\], accusative, singular, masculine
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”
@@ -54,7 +54,7 @@ title = "Rig Veda 1.132.4"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *śikṣann* \< *śikṣan* \< *śikṣ*
+- *śikṣann* ← *śikṣan* ← *śikṣ*
 - \[verb noun\], nominative, singular
 - “help; give.”
 ------------------------------------------------------------------------
@@ -62,39 +62,39 @@ title = "Rig Veda 1.132.4"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *vrajam* \< *vraja*
+- *vrajam* ← *vraja*
 - \[noun\], accusative, singular, masculine
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”
 ------------------------------------------------------------------------
-- *aibhyaḥ* \< *ā*
+- *aibhyaḥ* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *aibhyaḥ* \< *ebhyaḥ* \< *idam*
+- *aibhyaḥ* ← *ebhyaḥ* ← *idam*
 - \[noun\], dative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *samānyā* \< *samāna*
+- *samānyā* ← *samāna*
 - \[noun\], instrumental, singular, feminine
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
 ------------------------------------------------------------------------
-- *diśāsmabhyaṃ* \< *diśā* \< *diś*
+- *diśāsmabhyaṃ* ← *diśā* ← *diś*
 - \[noun\], instrumental, singular, feminine
 - “quarter; direction; region; diś \[word\]; Aṣṭādhyāyī, 5.3.27;
     distant region; Diś; four; example; method; space.”
 ------------------------------------------------------------------------
-- *diśāsmabhyaṃ* \< *asmabhyam* \< *mad*
+- *diśāsmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *jeṣi* \< *ji*
+- *jeṣi* ← *ji*
 - \[verb\], singular, Present indikative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *yotsi* \< *yudh*
+- *yotsi* ← *yudh*
 - \[verb\], singular, Present indikative
 - “fight; overcome.”
 ------------------------------------------------------------------------
@@ -102,34 +102,34 @@ title = "Rig Veda 1.132.4"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *sunvadbhyo* \< *sunvadbhyaḥ* \< *su*
+- *sunvadbhyo* ← *sunvadbhyaḥ* ← *su*
 - \[verb noun\], dative, plural
 - “press out; su.”
 ------------------------------------------------------------------------
-- *randhayā* \< *randhaya* \< *randhay* \< *√radh*
+- *randhayā* ← *randhaya* ← *randhay* ← *√radh*
 - \[verb\], singular, Present imperative
 - “subjugate; hand over.”
 ------------------------------------------------------------------------
-- *kaṃ* \< *kam* \< *ka*
+- *kaṃ* ← *kam* ← *ka*
 - \[noun\], accusative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *avrataṃ* \< *avratam* \< *avrata*
+- *avrataṃ* ← *avratam* ← *avrata*
 - \[noun\], accusative, singular, masculine
 - “disobedient; evil.”
 ------------------------------------------------------------------------
-- *hṛṇāyantaṃ* \< *hṛṇāyantam* \< *hṛṇāy*
+- *hṛṇāyantaṃ* ← *hṛṇāyantam* ← *hṛṇāy*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *avratam* \< *avrata*
+- *avratam* ← *avrata*
 - \[noun\], accusative, singular, masculine
 - “disobedient; evil.”
 ------------------------------------------------------------------------

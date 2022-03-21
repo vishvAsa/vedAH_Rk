@@ -2,65 +2,65 @@
 title = "Rig Veda 10.3.6"
 
 +++
--   *asya* \< *idam*
+-   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *śuṣmāso* \< *śuṣmāsaḥ* \< *śuṣma*
+- *śuṣmāso* ← *śuṣmāsaḥ* ← *śuṣma*
 - \[noun\], nominative, plural, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
-- *dadṛśānapaver* \< *dadṛśāna* \< *dṛś*
+- *dadṛśānapaver* ← *dadṛśāna* ← *dṛś*
 - \[verb noun\]
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
 ------------------------------------------------------------------------
-- *dadṛśānapaver* \< *paveḥ* \< *pavi*
+- *dadṛśānapaver* ← *paveḥ* ← *pavi*
 - \[noun\], genitive, singular, masculine
 - “vajra; tire; rim.”
 ------------------------------------------------------------------------
-- *jehamānasya* \< *jeh*
+- *jehamānasya* ← *jeh*
 - \[verb noun\], genitive, singular
 ------------------------------------------------------------------------
-- *svanayan* \< *svanay* \< *√svan*
+- *svanayan* ← *svanay* ← *√svan*
 - \[verb\], plural, Imperfect
 ------------------------------------------------------------------------
-- *niyudbhiḥ* \< *niyut*
+- *niyudbhiḥ* ← *niyut*
 - \[noun\], instrumental, plural
 - “gift; team.”
 ------------------------------------------------------------------------
-- *pratnebhir* \< *pratnebhiḥ* \< *pratna*
+- *pratnebhir* ← *pratnebhiḥ* ← *pratna*
 - \[noun\], instrumental, plural, masculine
 - “age-old; pratna \[word\].”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ruśadbhir* \< *ruśadbhiḥ* \< *ruśat*
+- *ruśadbhir* ← *ruśadbhiḥ* ← *ruśat*
 - \[noun\], instrumental, plural, masculine
 - “white; bright; bright.”
 ------------------------------------------------------------------------
-- *devatamo* \< *devatamaḥ* \< *devatama*
+- *devatamo* ← *devatamaḥ* ← *devatama*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *rebhadbhir* \< *rebhadbhiḥ* \< *ribh*
+- *rebhadbhir* ← *rebhadbhiḥ* ← *ribh*
 - \[verb noun\], instrumental, plural
 - “moo; murmur; praise.”
 ------------------------------------------------------------------------
-- *aratir* \< *aratiḥ* \< *arati*
+- *aratir* ← *aratiḥ* ← *arati*
 - \[noun\], nominative, singular, masculine
 - “charioteer.”
 ------------------------------------------------------------------------
-- *bhāti* \< *bhā*
+- *bhāti* ← *bhā*
 - \[verb\], singular, Present indikative
 - “look; shine; show; look like; glitter; reflect.”
 ------------------------------------------------------------------------
-- *vibhvā* \< *vibhvan*
+- *vibhvā* ← *vibhvan*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------

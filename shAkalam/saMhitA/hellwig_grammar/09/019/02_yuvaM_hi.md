@@ -2,7 +2,7 @@
 title = "Rig Veda 9.19.2"
 
 +++
--   *yuvaṃ* \< *yuvam* \< *tvad*
+-   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -10,15 +10,15 @@ title = "Rig Veda 9.19.2"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *sthaḥ* \< *as*
+- *sthaḥ* ← *as*
 - \[verb\], dual, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *svarpatī* \< *svarpati*
+- *svarpatī* ← *svarpati*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *indraś* \< *indraḥ* \< *indra*
+- *indraś* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -31,19 +31,19 @@ title = "Rig Veda 9.19.2"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *gopatī* \< *gopati*
+- *gopatī* ← *gopati*
 - \[noun\], nominative, dual, masculine
 - “Shiva; bull; cowboy; Indra; Gopati; king.”
 ------------------------------------------------------------------------
-- *īśānā* \< *īś*
+- *īśānā* ← *īś*
 - \[verb noun\], nominative, dual
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *pipyataṃ* \< *pipyatam* \< *pyā*
+- *pipyataṃ* ← *pipyatam* ← *pyā*
 - \[verb\], dual, Perfect imperative
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
-- *dhiyaḥ* \< *dhī*
+- *dhiyaḥ* ← *dhī*
 - \[noun\], accusative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”

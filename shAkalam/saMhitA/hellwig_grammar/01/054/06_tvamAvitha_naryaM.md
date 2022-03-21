@@ -2,78 +2,78 @@
 title = "Rig Veda 1.54.6"
 
 +++
--   *tvam* \< *tvad*
+-   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *āvitha* \< *av*
+- *āvitha* ← *av*
 - \[verb\], singular, Perfect indicative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *naryaṃ* \< *naryam* \< *narya*
+- *naryaṃ* ← *naryam* ← *narya*
 - \[noun\], accusative, singular, masculine
 - “manly; heroic; powerful; male; human.”
 ------------------------------------------------------------------------
-- *turvaśaṃ* \< *turvaśam* \< *turvaśa*
+- *turvaśaṃ* ← *turvaśam* ← *turvaśa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *yaduṃ* \< *yadum* \< *yadu*
+- *yaduṃ* ← *yadum* ← *yadu*
 - \[noun\], accusative, singular, masculine
 - “Yadu; Yadu.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *turvītiṃ* \< *turvītim* \< *turvīti*
+- *turvītiṃ* ← *turvītim* ← *turvīti*
 - \[noun\], accusative, singular, masculine
 - “Turvīti.”
 ------------------------------------------------------------------------
-- *vayyaṃ* \< *vayyam* \< *vayya*
+- *vayyaṃ* ← *vayyam* ← *vayya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *śatakrato* \< *śatakratu*
+- *śatakrato* ← *śatakratu*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ratham* \< *ratha*
+- *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *etaśaṃ* \< *etaśam* \< *etaśa*
+- *etaśaṃ* ← *etaśam* ← *etaśa*
 - \[noun\], accusative, singular, masculine
 - “Etaśa; horse.”
 ------------------------------------------------------------------------
-- *kṛtvye* \< *kṛtvya*
+- *kṛtvye* ← *kṛtvya*
 - \[noun\], locative, singular, neuter
 - “confident.”
 ------------------------------------------------------------------------
-- *dhane* \< *dhana*
+- *dhane* ← *dhana*
 - \[noun\], locative, singular, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *puro* \< *puraḥ* \< *pur*
+- *puro* ← *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
-- *navatiṃ* \< *navatim* \< *navati*
+- *navatiṃ* ← *navatim* ← *navati*
 - \[noun\], accusative, singular, feminine
 - “ninety; navati \[word\].”
 ------------------------------------------------------------------------
-- *dambhayo* \< *dambhayaḥ* \< *dambhay* \< *√dabh*
+- *dambhayo* ← *dambhayaḥ* ← *dambhay* ← *√dabh*
 - \[verb\], singular, Imperfect
 - “subjugate; destroy.”
 ------------------------------------------------------------------------
-- *nava* \< *navan*
+- *nava* ← *navan*
 - \[noun\], accusative, singular, neuter
 - “nine.”
 ------------------------------------------------------------------------

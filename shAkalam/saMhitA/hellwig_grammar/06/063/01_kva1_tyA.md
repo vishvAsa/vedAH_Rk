@@ -6,27 +6,27 @@ title = "Rig Veda 6.63.1"
 - \[adverb\]
 - “wherein; how; kva \[word\].”
 ------------------------------------------------------------------------
-- *tyā* \< *tya*
+- *tyā* ← *tya*
 - \[noun\], accusative, dual, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *valgū* \< *valgu*
+- *valgū* ← *valgu*
 - \[noun\], accusative, dual, masculine
 - “lovely; beautiful; agreeable; fine-looking.”
 ------------------------------------------------------------------------
-- *puruhūtādya* \< *puru*
+- *puruhūtādya* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *puruhūtādya* \< *hūtā* \< *hvā*
+- *puruhūtādya* ← *hūtā* ← *hvā*
 - \[verb noun\], accusative, dual
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *puruhūtādya* \< *adya*
+- *puruhūtādya* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *dūto* \< *dūtaḥ* \< *dūta*
+- *dūto* ← *dūtaḥ* ← *dūta*
 - \[noun\], nominative, singular, masculine
 - “messenger; emissary; dūta \[word\].”
 ------------------------------------------------------------------------
@@ -34,15 +34,15 @@ title = "Rig Veda 6.63.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *stomo* \< *stomaḥ* \< *stoma*
+- *stomo* ← *stomaḥ* ← *stoma*
 - \[noun\], nominative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *'vidan* \< *avidat* \< *vid*
+- *'vidan* ← *avidat* ← *vid*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *namasvān* \< *namasvat*
+- *namasvān* ← *namasvat*
 - \[noun\], nominative, singular, masculine
 - “respectful.”
 ------------------------------------------------------------------------
@@ -50,38 +50,38 @@ title = "Rig Veda 6.63.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *arvāṅ* \< *arvāk*
+- *arvāṅ* ← *arvāk*
 - \[adverb\]
 - “here.”
 ------------------------------------------------------------------------
-- *nāsatyā* \< *nāsatya*
+- *nāsatyā* ← *nāsatya*
 - \[noun\], accusative, dual, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *vavarta* \< *vṛt*
+- *vavarta* ← *vṛt*
 - \[verb\], singular, Perfect indicative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
 ------------------------------------------------------------------------
-- *preṣṭhā* \< *preṣṭha*
+- *preṣṭhā* ← *preṣṭha*
 - \[noun\], nominative, dual, masculine
 - “dearest.”
 ------------------------------------------------------------------------
-- *hy* \< *hi*
+- *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *asatho* \< *asathaḥ* \< *as*
+- *asatho* ← *asathaḥ* ← *as*
 - \[verb\], dual, Present conjunctive (subjunctive)
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------

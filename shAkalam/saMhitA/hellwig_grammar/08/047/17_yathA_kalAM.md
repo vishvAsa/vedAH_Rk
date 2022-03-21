@@ -6,7 +6,7 @@ title = "Rig Veda 8.47.17"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *kalāṃ* \< *kalām* \< *kalā*
+- *kalāṃ* ← *kalām* ← *kalā*
 - \[noun\], accusative, singular, feminine
 - “one-sixteenth; Kalā; kalā; sixteen; art; Kalā; manaḥśilā; part.”
 ------------------------------------------------------------------------
@@ -14,75 +14,75 @@ title = "Rig Veda 8.47.17"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *śaphaṃ* \< *śapham* \< *śapha*
+- *śaphaṃ* ← *śapham* ← *śapha*
 - \[noun\], accusative, singular, masculine
 - “one-eighth; śapha \[word\].”
 ------------------------------------------------------------------------
-- *yatha* \< *yathā*
+- *yatha* ← *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *ṛṇaṃ* \< *ṛṇam* \< *ṛṇa*
+- *ṛṇaṃ* ← *ṛṇam* ← *ṛṇa*
 - \[noun\], accusative, singular, neuter
 - “debt; debt; ṛṇa \[word\].”
 ------------------------------------------------------------------------
-- *saṃnayāmasi* \< *saṃnī* \< *√nī*
+- *saṃnayāmasi* ← *saṃnī* ← *√nī*
 - \[verb\], plural, Present indikative
 - “get.”
 ------------------------------------------------------------------------
-- *evā* \< *eva*
+- *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *duṣṣvapnyaṃ* \< *duṣṣvapnyam* \< *duḥṣvapnya*
+- *duṣṣvapnyaṃ* ← *duṣṣvapnyam* ← *duḥṣvapnya*
 - \[noun\], accusative, singular, neuter
 - “nightmare.”
 ------------------------------------------------------------------------
-- *sarvam* \< *sarva*
+- *sarvam* ← *sarva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
 ------------------------------------------------------------------------
-- *āptye* \< *āptya*
+- *āptye* ← *āptya*
 - \[noun\], locative, singular, masculine
 - “Āptya; Trita.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *nayāmasy* \< *nayāmasi* \< *nī*
+- *nayāmasy* ← *nayāmasi* ← *nī*
 - \[verb\], plural, Present indikative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *anehaso* \< *anehasaḥ* \< *anehas*
+- *anehaso* ← *anehasaḥ* ← *anehas*
 - \[noun\], nominative, plural, feminine
 - “faultless; anehas \[word\]; incomparable.”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *ūtayaḥ* \< *ūti*
+- *ūtayaḥ* ← *ūti*
 - \[noun\], nominative, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *suūtayo* \< *su*
+- *suūtayo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suūtayo* \< *ūtayaḥ* \< *ūti*
+- *suūtayo* ← *ūtayaḥ* ← *ūti*
 - \[noun\], nominative, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *ūtayaḥ* \< *ūti*
+- *ūtayaḥ* ← *ūti*
 - \[noun\], nominative, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------

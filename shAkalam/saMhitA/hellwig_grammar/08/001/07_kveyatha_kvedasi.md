@@ -2,23 +2,23 @@
 title = "Rig Veda 8.1.7"
 
 +++
--   *kveyatha* \< *kva*
+-   *kveyatha* ← *kva*
 - \[adverb\]
 - “wherein; how; kva \[word\].”
 ------------------------------------------------------------------------
-- *kveyatha* \< *iyatha* \< *i*
+- *kveyatha* ← *iyatha* ← *i*
 - \[verb\], singular, Perfect indicative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *kved* \< *kva*
+- *kved* ← *kva*
 - \[adverb\]
 - “wherein; how; kva \[word\].”
 ------------------------------------------------------------------------
-- *kved* \< *id*
+- *kved* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *asi* \< *as*
+- *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -27,40 +27,40 @@ title = "Rig Veda 8.1.7"
 - \[adverb\]
 - “distributively.”
 ------------------------------------------------------------------------
-- *ciddhi* \< *cit*
+- *ciddhi* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ciddhi* \< *hi*
+- *ciddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *manaḥ* \< *manas*
+- *manaḥ* ← *manas*
 - \[noun\], nominative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *alarṣi* \< *alar* \< *√ṛch*
+- *alarṣi* ← *alar* ← *√ṛch*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
 - *yudhma*
 - \[noun\], vocative, singular, masculine
 - “warrior.”
 ------------------------------------------------------------------------
-- *khajakṛt* \< *khaja*
+- *khajakṛt* ← *khaja*
 - \[noun\], masculine
 - “churning stick.”
 ------------------------------------------------------------------------
-- *khajakṛt* \< *kṛt*
+- *khajakṛt* ← *kṛt*
 - \[noun\], vocative, singular, masculine
 - “causing; making; performing; promotive; producing; doing; acting;
     writing; transforming; effecting.”
 ------------------------------------------------------------------------
-- *purandara* \< *puraṃdara*
+- *purandara* ← *puraṃdara*
 - \[noun\], vocative, singular, masculine
 - “Indra; puraṃdara \[word\].”
 ------------------------------------------------------------------------
@@ -68,11 +68,11 @@ title = "Rig Veda 8.1.7"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *gāyatrā* \< *gāyatra*
+- *gāyatrā* ← *gāyatra*
 - \[noun\], accusative, plural, neuter
 - “Gāyatrī; Gāyatra.”
 ------------------------------------------------------------------------
-- *agāsiṣuḥ* \< *gā*
+- *agāsiṣuḥ* ← *gā*
 - \[verb\], plural, Athematic sis aor. (Ind.)
 - “sing; praise; jap; recite; describe.”
 ------------------------------------------------------------------------

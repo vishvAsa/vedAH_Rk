@@ -2,7 +2,7 @@
 title = "Rig Veda 1.117.4"
 
 +++
--   *aśvaṃ* \< *aśvam* \< *aśva*
+-   *aśvaṃ* ← *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
@@ -10,75 +10,75 @@ title = "Rig Veda 1.117.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *gūﾱham* \< *gūḍham* \< *guh*
+- *gūﾱham* ← *gūḍham* ← *guh*
 - \[verb noun\], accusative, singular
 - “hide; cover; conceal; shroud; obscure.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *durevair* \< *durevaiḥ* \< *dureva*
+- *durevair* ← *durevaiḥ* ← *dureva*
 - \[noun\], instrumental, plural, masculine
 - “malevolent; bad; crabbed.”
 ------------------------------------------------------------------------
-- *ṛṣiṃ* \< *ṛṣim* \< *ṛṣi*
+- *ṛṣiṃ* ← *ṛṣim* ← *ṛṣi*
 - \[noun\], accusative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *narā* \< *nṛ*
+- *narā* ← *nṛ*
 - \[noun\], vocative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *vṛṣaṇā* \< *vṛṣan*
+- *vṛṣaṇā* ← *vṛṣan*
 - \[noun\], vocative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *rebham* \< *rebha*
+- *rebham* ← *rebha*
 - \[noun\], accusative, singular, masculine
 - “bard; eulogist.”
 ------------------------------------------------------------------------
-- *apsu* \< *ap*
+- *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *taṃ* \< *tam* \< *tad*
+- *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *riṇītho* \< *riṇīthaḥ* \< *ri*
+- *riṇītho* ← *riṇīthaḥ* ← *ri*
 - \[verb\], dual, Present indikative
 - “free; liberate; run; let go of.”
 ------------------------------------------------------------------------
-- *viprutaṃ* \< *viprutam* \< *vipru* \< *√pru*
+- *viprutaṃ* ← *viprutam* ← *vipru* ← *√pru*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *daṃsobhir* \< *daṃsobhiḥ* \< *daṃsas*
+- *daṃsobhir* ← *daṃsobhiḥ* ← *daṃsas*
 - \[noun\], instrumental, plural, neuter
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *jūryanti* \< *jṛ*
+- *jūryanti* ← *jṛ*
 - \[verb\], plural, Present indikative
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
 ------------------------------------------------------------------------
-- *pūrvyā* \< *pūrvya*
+- *pūrvyā* ← *pūrvya*
 - \[noun\], nominative, plural, neuter
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------
-- *kṛtāni* \< *kṛta*
+- *kṛtāni* ← *kṛta*
 - \[noun\], nominative, plural, neuter
 - “Kṛta; action; throw; work; production; work; kindness; four; kṛta
     \[word\].”

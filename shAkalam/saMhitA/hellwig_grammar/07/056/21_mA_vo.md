@@ -6,23 +6,23 @@ title = "Rig Veda 7.56.21"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *dātrān* \< *dātrāt* \< *dātra*
+- *dātrān* ← *dātrāt* ← *dātra*
 - \[noun\], ablative, singular, neuter
 - “sickle; gift; scythe.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *nir* \< *niḥ*
+- *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *arāma* \< *ṛch*
+- *arāma* ← *ṛch*
 - \[verb\], plural, Aorist conj./subj.
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
@@ -31,17 +31,17 @@ title = "Rig Veda 7.56.21"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *paścād* \< *paścāt*
+- *paścād* ← *paścāt*
 - \[adverb\]
 - “subsequently; westward; paścāt \[word\]; after; back.”
 ------------------------------------------------------------------------
-- *daghma* \< *dagh*
+- *daghma* ← *dagh*
 - \[verb\], plural, Aorist inj. (proh.)
 ------------------------------------------------------------------------
-- *rathyo* \< *rathyaḥ* \< *rathī*
+- *rathyo* ← *rathyaḥ* ← *rathī*
 - \[noun\], vocative, plural, masculine
 ------------------------------------------------------------------------
-- *vibhāge* \< *vibhāga*
+- *vibhāge* ← *vibhāga*
 - \[noun\], locative, singular, masculine
 - “distinction; direction; part; placement; allotment; section; part;
     rule; distribution; distribution.”
@@ -50,49 +50,49 @@ title = "Rig Veda 7.56.21"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *spārhe* \< *spārha*
+- *spārhe* ← *spārha*
 - \[noun\], locative, singular, neuter
 - “desirable.”
 ------------------------------------------------------------------------
-- *bhajatanā* \< *bhajatana* \< *bhaj*
+- *bhajatanā* ← *bhajatana* ← *bhaj*
 - \[verb\], plural, Present imperative
 - “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
     one's share; partake; share; get; approach; love; use.”
 ------------------------------------------------------------------------
-- *vasavye* \< *vasavya*
+- *vasavye* ← *vasavya*
 - \[noun\], locative, singular, neuter
 - “wealth; wealth.”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *īṃ* \< *īm* \< *īṃ*
+- *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *sujātaṃ* \< *su*
+- *sujātaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sujātaṃ* \< *jātam* \< *jan*
+- *sujātaṃ* ← *jātam* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *vṛṣaṇo* \< *vṛṣaṇaḥ* \< *vṛṣan*
+- *vṛṣaṇo* ← *vṛṣaṇaḥ* ← *vṛṣan*
 - \[noun\], vocative, plural, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *asti* \< *as*
+- *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

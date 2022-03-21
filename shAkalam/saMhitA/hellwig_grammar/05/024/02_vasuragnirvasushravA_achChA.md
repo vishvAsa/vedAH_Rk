@@ -2,21 +2,21 @@
 title = "Rig Veda 5.24.2"
 
 +++
--   *vasur* \< *vasuḥ* \< *vasu*
+-   *vasur* ← *vasuḥ* ← *vasu*
 - \[noun\], nominative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *agnir* \< *agniḥ* \< *agni*
+- *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *vasuśravā* \< *vasu*
+- *vasuśravā* ← *vasu*
 - \[noun\]
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *vasuśravā* \< *śravāḥ* \< *śravas*
+- *vasuśravā* ← *śravāḥ* ← *śravas*
 - \[noun\], nominative, singular, masculine
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
@@ -24,18 +24,18 @@ title = "Rig Veda 5.24.2"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *nakṣi* \< *naś*
+- *nakṣi* ← *naś*
 - \[verb\], singular, Aorist conj./subj.
 - “reach; achieve; enter (a state); reach.”
 ------------------------------------------------------------------------
-- *dyumattamaṃ* \< *dyumattamam* \< *dyumattama*
+- *dyumattamaṃ* ← *dyumattamam* ← *dyumattama*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *rayiṃ* \< *rayim* \< *rayi*
+- *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *dāḥ* \< *dā*
+- *dāḥ* ← *dā*
 - \[verb\], singular, Aorist conj./subj.
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;

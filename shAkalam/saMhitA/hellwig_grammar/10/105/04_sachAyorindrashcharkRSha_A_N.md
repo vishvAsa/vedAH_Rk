@@ -2,47 +2,47 @@
 title = "Rig Veda 10.105.4"
 
 +++
--   *sacāyor* \< *sacā*
+-   *sacāyor* ← *sacā*
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *sacāyor* \< *ayoḥ* \< *idam*
+- *sacāyor* ← *ayoḥ* ← *idam*
 - \[noun\], genitive, dual, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *indraś* \< *indraḥ* \< *indra*
+- *indraś* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *carkṛṣa* \< *carkṛṣe* \< *carkar* \< *√kṛ*
+- *carkṛṣa* ← *carkṛṣe* ← *carkar* ← *√kṛ*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “praise; commemorate.”
 ------------------------------------------------------------------------
-- *āṃ* \< *ām* \< *āṃ*
+- *āṃ* ← *ām* ← *āṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *upānasaḥ* \< *upānasa*
+- *upānasaḥ* ← *upānasa*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *saparyan* \< *sapary*
+- *saparyan* ← *sapary*
 - \[verb noun\], nominative, singular
 - “worship.”
 ------------------------------------------------------------------------
-- *nadayor* \< *nadayoḥ* \< *nada*
+- *nadayor* ← *nadayoḥ* ← *nada*
 - \[noun\], genitive, dual, masculine
 - “river; nad; roarer; stallion.”
 ------------------------------------------------------------------------
-- *vivratayoḥ* \< *vivrata*
+- *vivratayoḥ* ← *vivrata*
 - \[noun\], genitive, dual, masculine
 - “refractory; loath.”
 ------------------------------------------------------------------------
-- *śūra* \< *śūraḥ* \< *śūra*
+- *śūra* ← *śūraḥ* ← *śūra*
 - \[noun\], nominative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”

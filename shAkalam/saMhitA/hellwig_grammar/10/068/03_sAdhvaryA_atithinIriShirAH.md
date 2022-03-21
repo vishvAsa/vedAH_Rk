@@ -2,67 +2,67 @@
 title = "Rig Veda 10.68.3"
 
 +++
--   *sādhvaryā* \< *sādhvaryāḥ* \< *sādhvarya*
+-   *sādhvaryā* ← *sādhvaryāḥ* ← *sādhvarya*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *atithinīr* \< *atithinīḥ* \< *atithin*
+- *atithinīr* ← *atithinīḥ* ← *atithin*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *iṣirā* \< *iṣira*
+- *iṣirā* ← *iṣira*
 - \[noun\], accusative, plural, feminine
 - “vigorous; bracing; quick.”
 ------------------------------------------------------------------------
-- *spārhāḥ* \< *spārha*
+- *spārhāḥ* ← *spārha*
 - \[noun\], accusative, plural, feminine
 - “desirable.”
 ------------------------------------------------------------------------
-- *suvarṇā* \< *su*
+- *suvarṇā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvarṇā* \< *varṇāḥ* \< *varṇa*
+- *suvarṇā* ← *varṇāḥ* ← *varṇa*
 - \[noun\], accusative, plural, feminine
 - “color; caste; complexion; vowel; varṇa \[word\]; vowel; syllable;
     appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
 ------------------------------------------------------------------------
-- *anavadyarūpāḥ* \< *anavadya*
+- *anavadyarūpāḥ* ← *anavadya*
 - \[noun\]
 - “blameless; faultless.”
 ------------------------------------------------------------------------
-- *anavadyarūpāḥ* \< *rūpāḥ* \< *rūpa*
+- *anavadyarūpāḥ* ← *rūpāḥ* ← *rūpa*
 - \[noun\], accusative, plural, feminine
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
 ------------------------------------------------------------------------
-- *bṛhaspatiḥ* \< *bṛhaspati*
+- *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *parvatebhyo* \< *parvatebhyaḥ* \< *parvata*
+- *parvatebhyo* ← *parvatebhyaḥ* ← *parvata*
 - \[noun\], ablative, plural, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
 ------------------------------------------------------------------------
-- *vitūryā* \< *vitūrya* \< *vitṛ* \< *√tṛ*
+- *vitūryā* ← *vitūrya* ← *vitṛ* ← *√tṛ*
 - \[verb noun\]
 - “give; administer; distribute; spend; accord; give away; bandage.”
 ------------------------------------------------------------------------
-- *nir* \< *niḥ*
+- *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *gā* \< *gāḥ* \< *go*
+- *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *ūpe* \< *vap*
+- *ūpe* ← *vap*
 - \[verb\], singular, Perfect indicative
 - “sow; bestrew; strew; scatter.”
 ------------------------------------------------------------------------
-- *yavam* \< *yava*
+- *yavam* ← *yava*
 - \[noun\], accusative, singular, masculine
 - “barley; yava; barleycorn; yava \[word\]; yava; yavakṣāra; grain.”
 ------------------------------------------------------------------------
@@ -70,7 +70,7 @@ title = "Rig Veda 10.68.3"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sthivibhyaḥ* \< *sthivi*
+- *sthivibhyaḥ* ← *sthivi*
 - \[noun\], ablative, plural, masculine
 - “sack.”
 ------------------------------------------------------------------------

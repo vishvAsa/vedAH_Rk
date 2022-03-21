@@ -2,7 +2,7 @@
 title = "Rig Veda 8.6.44"
 
 +++
--   *indram* \< *indra*
+-   *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -11,31 +11,31 @@ title = "Rig Veda 8.6.44"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *vimahīnām* \< *vimahi*
+- *vimahīnām* ← *vimahi*
 - \[noun\], genitive, plural, masculine
 ------------------------------------------------------------------------
-- *medhe* \< *medha*
+- *medhe* ← *medha*
 - \[noun\], locative, singular, masculine
 - “yajña; juice.”
 ------------------------------------------------------------------------
-- *vṛṇīta* \< *vṛ*
+- *vṛṇīta* ← *vṛ*
 - \[verb\], singular, Present optative
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *martyaḥ* \< *martya*
+- *martyaḥ* ← *martya*
 - \[noun\], nominative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *saniṣyur* \< *saniṣyuḥ* \< *saniṣyu*
+- *saniṣyur* ← *saniṣyuḥ* ← *saniṣyu*
 - \[noun\], nominative, singular, masculine
 - “eager; plundering.”
 ------------------------------------------------------------------------
-- *ūtaye* \< *ūti*
+- *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------

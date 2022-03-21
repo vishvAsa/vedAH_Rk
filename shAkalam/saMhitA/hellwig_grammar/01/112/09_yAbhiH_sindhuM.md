@@ -2,80 +2,80 @@
 title = "Rig Veda 1.112.9"
 
 +++
--   *yābhiḥ* \< *yad*
+-   *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sindhum* \< *sindhu*
+- *sindhum* ← *sindhu*
 - \[noun\], accusative, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *madhumantam* \< *madhumat*
+- *madhumantam* ← *madhumat*
 - \[noun\], accusative, singular, masculine
 - “sweet; honeyed; sweet; pleasant.”
 ------------------------------------------------------------------------
-- *asaścataṃ* \< *asaścatam* \< *asaścat*
+- *asaścataṃ* ← *asaścatam* ← *asaścat*
 - \[noun\], accusative, singular, masculine
 - “inexhaustible.”
 ------------------------------------------------------------------------
-- *vasiṣṭhaṃ* \< *vasiṣṭham* \< *vasiṣṭha*
+- *vasiṣṭhaṃ* ← *vasiṣṭham* ← *vasiṣṭha*
 - \[noun\], accusative, singular, masculine
 - “Vasiṣṭha; vasiṣṭha \[word\].”
 ------------------------------------------------------------------------
-- *yābhir* \< *yābhiḥ* \< *yad*
+- *yābhir* ← *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ajarāv* \< *ajarau* \< *ajara*
+- *ajarāv* ← *ajarau* ← *ajara*
 - \[noun\], nominative, dual, masculine
 - “undecaying; ageless.”
 ------------------------------------------------------------------------
-- *ajinvatam* \< *jinv*
+- *ajinvatam* ← *jinv*
 - \[verb\], dual, Imperfect
 - “enliven; animate.”
 ------------------------------------------------------------------------
-- *yābhiḥ* \< *yad*
+- *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *kutsaṃ* \< *kutsam* \< *kutsa*
+- *kutsaṃ* ← *kutsam* ← *kutsa*
 - \[noun\], accusative, singular, masculine
 - “Kutsa; kutsa \[word\].”
 ------------------------------------------------------------------------
-- *śrutaryaṃ* \< *śrutaryam* \< *śrutarya*
+- *śrutaryaṃ* ← *śrutaryam* ← *śrutarya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *naryam* \< *narya*
+- *naryam* ← *narya*
 - \[noun\], accusative, singular, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *āvataṃ* \< *āvatam* \< *av*
+- *āvataṃ* ← *āvatam* ← *av*
 - \[verb\], dual, Imperfect
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *tābhir* \< *tābhiḥ* \< *tad*
+- *tābhir* ← *tābhiḥ* ← *tad*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ū* \< *u*
+- *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *ūtibhir* \< *ūtibhiḥ* \< *ūti*
+- *ūtibhir* ← *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *gatam* \< *gam*
+- *gatam* ← *gam*
 - \[verb\], dual, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

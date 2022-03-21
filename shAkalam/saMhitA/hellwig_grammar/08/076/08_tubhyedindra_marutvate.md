@@ -2,11 +2,11 @@
 title = "Rig Veda 8.76.8"
 
 +++
--   *tubhyed* \< *tubhya* \< *tvad*
+-   *tubhyed* ← *tubhya* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tubhyed* \< *id*
+- *tubhyed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -15,31 +15,31 @@ title = "Rig Veda 8.76.8"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *marutvate* \< *marutvat*
+- *marutvate* ← *marutvat*
 - \[noun\], dative, singular, masculine
 - “Marut(a).”
 ------------------------------------------------------------------------
-- *sutāḥ* \< *su*
+- *sutāḥ* ← *su*
 - \[verb noun\], nominative, plural
 - “press out; su.”
 ------------------------------------------------------------------------
-- *somāso* \< *somāsaḥ* \< *soma*
+- *somāso* ← *somāsaḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *adrivaḥ* \< *adrivas* \< *adrivat*
+- *adrivaḥ* ← *adrivas* ← *adrivat*
 - \[noun\], vocative, singular, masculine
 - “rocky; petrous.”
 ------------------------------------------------------------------------
-- *hṛdā* \< *hṛd*
+- *hṛdā* ← *hṛd*
 - \[noun\], instrumental, singular, neuter
 - “heart; heart; mind; breast; hṛd \[word\].”
 ------------------------------------------------------------------------
-- *hūyanta* \< *hūyante* \< *hu*
+- *hūyanta* ← *hūyante* ← *hu*
 - \[verb\], plural, Indikativ Pr￤s. Passiv
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
-- *ukthinaḥ* \< *ukthin*
+- *ukthinaḥ* ← *ukthin*
 - \[noun\], nominative, plural, masculine
 - “laudatory.”
 ------------------------------------------------------------------------

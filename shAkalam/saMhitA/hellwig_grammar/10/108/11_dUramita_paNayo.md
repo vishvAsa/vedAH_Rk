@@ -2,19 +2,19 @@
 title = "Rig Veda 10.108.11"
 
 +++
--   *dūram* \< *dūra*
+-   *dūram* ← *dūra*
 - \[noun\], accusative, singular, neuter
 - “distance; distance; farness.”
 ------------------------------------------------------------------------
-- *ita* \< *i*
+- *ita* ← *i*
 - \[verb\], plural, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *paṇayo* \< *paṇayaḥ* \< *paṇi*
+- *paṇayo* ← *paṇayaḥ* ← *paṇi*
 - \[noun\], vocative, plural, masculine
 - “niggard; paṇ.”
 ------------------------------------------------------------------------
-- *varīya* \< *varīyaḥ* \< *varīyas*
+- *varīya* ← *varīyaḥ* ← *varīyas*
 - \[noun\], accusative, singular, neuter
 - “broad; further.”
 ------------------------------------------------------------------------
@@ -22,48 +22,48 @@ title = "Rig Veda 10.108.11"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *gāvo* \< *gāvaḥ* \< *go*
+- *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *yantu* \< *i*
+- *yantu* ← *i*
 - \[verb\], plural, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *minatīr* \< *minatīḥ* \< *mī*
+- *minatīr* ← *minatīḥ* ← *mī*
 - \[verb noun\], nominative, plural
 - “transgress; damage.”
 ------------------------------------------------------------------------
-- *ṛtena* \< *ṛta*
+- *ṛtena* ← *ṛta*
 - \[noun\], instrumental, singular, masculine
 - “timely; honest.”
 ------------------------------------------------------------------------
-- *bṛhaspatir* \< *bṛhaspatiḥ* \< *bṛhaspati*
+- *bṛhaspatir* ← *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *yā* \< *yāḥ* \< *yad*
+- *yā* ← *yāḥ* ← *yad*
 - \[noun\], accusative, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *avindan* \< *avindat* \< *vid*
+- *avindan* ← *avindat* ← *vid*
 - \[verb\], singular, Imperfect
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *nigūḍhāḥ* \< *niguh* \< *√guh*
+- *nigūḍhāḥ* ← *niguh* ← *√guh*
 - \[verb noun\], accusative, plural
 - “hide; cover.”
 ------------------------------------------------------------------------
-- *somo* \< *somaḥ* \< *soma*
+- *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *grāvāṇa* \< *grāvāṇaḥ* \< *grāvan*
+- *grāvāṇa* ← *grāvāṇaḥ* ← *grāvan*
 - \[noun\], nominative, plural, masculine
 - “stone; millstone; grindstone; mountain.”
 ------------------------------------------------------------------------
-- *ṛṣayaś* \< *ṛṣayaḥ* \< *ṛṣi*
+- *ṛṣayaś* ← *ṛṣayaḥ* ← *ṛṣi*
 - \[noun\], nominative, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
@@ -71,7 +71,7 @@ title = "Rig Veda 10.108.11"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *viprāḥ* \< *vipra*
+- *viprāḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------

@@ -2,43 +2,43 @@
 title = "Rig Veda 10.106.2"
 
 +++
--   *uṣṭāreva* \< *uṣṭārā* \< *uṣṭṛ*
+-   *uṣṭāreva* ← *uṣṭārā* ← *uṣṭṛ*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *uṣṭāreva* \< *iva*
+- *uṣṭāreva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *pharvareṣu* \< *pharvara*
+- *pharvareṣu* ← *pharvara*
 - \[noun\], locative, plural, masculine
 ------------------------------------------------------------------------
-- *śrayethe* \< *śri*
+- *śrayethe* ← *śri*
 - \[verb\], dual, Present indikative
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 ------------------------------------------------------------------------
-- *prāyogeva* \< *prāyogā* \< *prāyoga*
+- *prāyogeva* ← *prāyogā* ← *prāyoga*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *prāyogeva* \< *iva*
+- *prāyogeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *śvātryā* \< *śvātrya*
+- *śvātryā* ← *śvātrya*
 - \[noun\], nominative, dual, masculine
 - “swelling.”
 ------------------------------------------------------------------------
-- *śāsur* \< *śāsuḥ* \< *śāsus*
+- *śāsur* ← *śāsuḥ* ← *śāsus*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *ethaḥ* \< *e* \< *√i*
+- *ethaḥ* ← *e* ← *√i*
 - \[verb\], dual, Present indikative
 - “come; travel.”
 ------------------------------------------------------------------------
-- *dūteva* \< *dūtā* \< *dūta*
+- *dūteva* ← *dūtā* ← *dūta*
 - \[noun\], nominative, dual, masculine
 - “messenger; emissary; dūta \[word\].”
 ------------------------------------------------------------------------
-- *dūteva* \< *iva*
+- *dūteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
@@ -46,43 +46,43 @@ title = "Rig Veda 10.106.2"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *ṣṭho* \< *ṣṭhaḥ* \< *as*
+- *ṣṭho* ← *ṣṭhaḥ* ← *as*
 - \[verb\], dual, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *yaśasā* \< *yaśas*
+- *yaśasā* ← *yaśas*
 - \[noun\], instrumental, singular, neuter
 - “fame; Yaśas.”
 ------------------------------------------------------------------------
-- *janeṣu* \< *jana*
+- *janeṣu* ← *jana*
 - \[noun\], locative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *māpa* \< *mā*
+- *māpa* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *māpa* \< *apa*
+- *māpa* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *sthātam* \< *sthā*
+- *sthātam* ← *sthā*
 - \[verb\], dual, Aorist imperative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *mahiṣevāvapānāt* \< *mahiṣā* \< *mahiṣa*
+- *mahiṣevāvapānāt* ← *mahiṣā* ← *mahiṣa*
 - \[noun\], nominative, dual, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
 ------------------------------------------------------------------------
-- *mahiṣevāvapānāt* \< *iva*
+- *mahiṣevāvapānāt* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *mahiṣevāvapānāt* \< *avapānāt* \< *avapāna*
+- *mahiṣevāvapānāt* ← *avapānāt* ← *avapāna*
 - \[noun\], ablative, singular, neuter
 - “drinking.”
 ------------------------------------------------------------------------

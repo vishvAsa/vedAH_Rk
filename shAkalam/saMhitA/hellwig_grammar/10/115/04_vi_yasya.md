@@ -6,31 +6,31 @@ title = "Rig Veda 10.115.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *jrayasānasyājara* \< *jrayasānasya* \< *jrayasāna*
+- *jrayasānasyājara* ← *jrayasānasya* ← *jrayasāna*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *jrayasānasyājara* \< *ajara*
+- *jrayasānasyājara* ← *ajara*
 - \[noun\], vocative, singular, masculine
 - “undecaying; ageless.”
 ------------------------------------------------------------------------
-- *dhakṣor* \< *dhakṣoḥ* \< *dhakṣu*
+- *dhakṣor* ← *dhakṣoḥ* ← *dhakṣu*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vātāḥ* \< *vāta*
+- *vātāḥ* ← *vāta*
 - \[noun\], nominative, plural, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
@@ -39,12 +39,12 @@ title = "Rig Veda 10.115.4"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *santy* \< *santi* \< *as*
+- *santy* ← *santi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *acyutāḥ* \< *acyuta*
+- *acyutāḥ* ← *acyuta*
 - \[noun\], nominative, plural, masculine
 - “firm; regular; permanent; immovable; unchanging.”
 ------------------------------------------------------------------------
@@ -52,11 +52,11 @@ title = "Rig Veda 10.115.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *raṇvāso* \< *raṇvāsaḥ* \< *raṇva*
+- *raṇvāso* ← *raṇvāsaḥ* ← *raṇva*
 - \[noun\], nominative, plural, masculine
 - “agreeable; happy; delightful; gay.”
 ------------------------------------------------------------------------
-- *yuyudhayo* \< *yuyudhayaḥ* \< *yuyudhi*
+- *yuyudhayo* ← *yuyudhayaḥ* ← *yuyudhi*
 - \[noun\], nominative, plural, masculine
 - “unpacific.”
 ------------------------------------------------------------------------
@@ -64,15 +64,15 @@ title = "Rig Veda 10.115.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *satvanaṃ* \< *satvanam* \< *satvana*
+- *satvanaṃ* ← *satvanam* ← *satvana*
 - \[noun\], accusative, singular, masculine
 - “warrior.”
 ------------------------------------------------------------------------
-- *tritaṃ* \< *tritam* \< *trita*
+- *tritaṃ* ← *tritam* ← *trita*
 - \[noun\], accusative, singular, masculine
 - “Trita.”
 ------------------------------------------------------------------------
-- *naśanta* \< *naś*
+- *naśanta* ← *naś*
 - \[verb\], plural, Present injunctive
 - “reach; achieve; enter (a state); reach.”
 ------------------------------------------------------------------------
@@ -80,12 +80,12 @@ title = "Rig Veda 10.115.4"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *śiṣanta* \< *śiṣantaḥ* \< *śās*
+- *śiṣanta* ← *śiṣantaḥ* ← *śās*
 - \[verb noun\], nominative, plural
 - “teach; govern; command; order; control; tell; recommend; chastize;
     instruct.”
 ------------------------------------------------------------------------
-- *iṣṭaye* \< *iṣṭi*
+- *iṣṭaye* ← *iṣṭi*
 - \[noun\], dative, singular, feminine
 - “seeking.”
 ------------------------------------------------------------------------

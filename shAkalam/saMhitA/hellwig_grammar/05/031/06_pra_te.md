@@ -6,24 +6,24 @@ title = "Rig Veda 5.31.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *pūrvāṇi* \< *pūrva*
+- *pūrvāṇi* ← *pūrva*
 - \[noun\], accusative, plural, neuter
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *karaṇāni* \< *karaṇa*
+- *karaṇāni* ← *karaṇa*
 - \[noun\], accusative, plural, neuter
 - “instrument; production; sense organ; cause; performance; karaṇa;
     creation; tool; action; position; means; causing; transformation;
     sensing; procedure; instrumental; elimination; applicability;
     devising.”
 ------------------------------------------------------------------------
-- *vocam* \< *vac*
+- *vocam* ← *vac*
 - \[verb\], singular, Aorist inj. (proh.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
@@ -34,7 +34,7 @@ title = "Rig Veda 5.31.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *nūtanā* \< *nūtana*
+- *nūtanā* ← *nūtana*
 - \[noun\], accusative, plural, neuter
 - “new; fresh; recent; contemporary; present(a); first.”
 ------------------------------------------------------------------------
@@ -42,11 +42,11 @@ title = "Rig Veda 5.31.6"
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], accusative, plural, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *cakartha* \< *kṛ*
+- *cakartha* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -57,44 +57,44 @@ title = "Rig Veda 5.31.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *śaktīvo* \< *śaktīvas* \< *śaktīvat*
+- *śaktīvo* ← *śaktīvas* ← *śaktīvat*
 - \[noun\], vocative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vibharā* \< *vibharāḥ* \< *vibhṛ* \< *√bhṛ*
+- *vibharā* ← *vibharāḥ* ← *vibhṛ* ← *√bhṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *ubhe* \< *ubh*
+- *ubhe* ← *ubh*
 - \[noun\], accusative, dual, neuter
 - “both(a).”
 ------------------------------------------------------------------------
-- *jayann* \< *jayan* \< *ji*
+- *jayann* ← *jayan* ← *ji*
 - \[verb noun\], nominative, singular
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *apo* \< *apaḥ* \< *ap*
+- *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *manave* \< *manu*
+- *manave* ← *manu*
 - \[noun\], dative, singular, masculine
 - “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
     incantation; sacred text.”
 ------------------------------------------------------------------------
-- *dānucitrāḥ* \< *dānu*
+- *dānucitrāḥ* ← *dānu*
 - \[noun\], neuter
 - “Dānu; dew; drop.”
 ------------------------------------------------------------------------
-- *dānucitrāḥ* \< *citrāḥ* \< *citra*
+- *dānucitrāḥ* ← *citrāḥ* ← *citra*
 - \[noun\], accusative, plural, feminine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;

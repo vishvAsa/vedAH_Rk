@@ -6,38 +6,38 @@ title = "Rig Veda 5.41.8"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *arce* \< *arc*
+- *arce* ← *arc*
 - \[verb\], singular, Present indikative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *poṣyāvato* \< *poṣyāvataḥ* \< *poṣyāvat*
+- *poṣyāvato* ← *poṣyāvataḥ* ← *poṣyāvat*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *nṝn* \< *nṛ*
+- *nṝn* ← *nṛ*
 - \[noun\], accusative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *vāstoṣpatiṃ* \< *vāstoṣpatim* \< *vāstoṣpati*
+- *vāstoṣpatiṃ* ← *vāstoṣpatim* ← *vāstoṣpati*
 - \[noun\], accusative, singular, masculine
 - “Vāstoṣpati; Indra; vāstoṣpati \[word\].”
 ------------------------------------------------------------------------
-- *tvaṣṭāraṃ* \< *tvaṣṭāram* \< *tvaṣṭṛ*
+- *tvaṣṭāraṃ* ← *tvaṣṭāram* ← *tvaṣṭṛ*
 - \[noun\], accusative, singular, masculine
 - “Tvaṣṭṛ; Viśvakarman; sun.”
 ------------------------------------------------------------------------
-- *rarāṇaḥ* \< *rā*
+- *rarāṇaḥ* ← *rā*
 - \[verb noun\], nominative, singular
 - “give; impart.”
 ------------------------------------------------------------------------
-- *dhanyā* \< *dhanya*
+- *dhanyā* ← *dhanya*
 - \[noun\], nominative, singular, feminine
 - “fortunate; auspicious; affluent.”
 ------------------------------------------------------------------------
-- *sajoṣā* \< *sajoṣāḥ* \< *sajoṣas*
+- *sajoṣā* ← *sajoṣāḥ* ← *sajoṣas*
 - \[noun\], nominative, singular, feminine
 - “consentaneous; combined; associated; united.”
 ------------------------------------------------------------------------
@@ -45,23 +45,23 @@ title = "Rig Veda 5.41.8"
 - \[noun\], nominative, singular, feminine
 - “heaven and earth.”
 ------------------------------------------------------------------------
-- *namobhir* \< *namobhiḥ* \< *namas*
+- *namobhir* ← *namobhiḥ* ← *namas*
 - \[noun\], instrumental, plural, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *vanaspatīṃr* \< *vanaspati*
+- *vanaspatīṃr* ← *vanaspati*
 - \[noun\], accusative, plural, masculine
 - “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
 ------------------------------------------------------------------------
-- *oṣadhī* \< *oṣadhīḥ* \< *oṣadhi*
+- *oṣadhī* ← *oṣadhīḥ* ← *oṣadhi*
 - \[noun\], accusative, plural, feminine
 - “herb; plant; drug; simple; oṣadhi \[word\]; remedy.”
 ------------------------------------------------------------------------
-- *rāya* \< *rāyaḥ* \< *rai*
+- *rāya* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *eṣe* \< *eṣa*
+- *eṣe* ← *eṣa*
 - \[noun\], locative, singular, masculine
 - “quest.”
 ------------------------------------------------------------------------

@@ -2,60 +2,60 @@
 title = "Rig Veda 1.45.3"
 
 +++
--   *priyamedhavad* \< *priyamedha*
+-   *priyamedhavad* ← *priyamedha*
 - \[noun\], masculine
 ------------------------------------------------------------------------
-- *priyamedhavad* \< *vat*
+- *priyamedhavad* ← *vat*
 - \[adverb\]
 - “equally; like.”
 ------------------------------------------------------------------------
-- *atrivaj* \< *atri*
+- *atrivaj* ← *atri*
 - \[noun\], masculine
 - “Atri; Atri; atri \[word\].”
 ------------------------------------------------------------------------
-- *atrivaj* \< *vat*
+- *atrivaj* ← *vat*
 - \[adverb\]
 - “equally; like.”
 ------------------------------------------------------------------------
-- *jātavedo* \< *jātavedaḥ* \< *jātavedas*
+- *jātavedo* ← *jātavedaḥ* ← *jātavedas*
 - \[noun\], vocative, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------
-- *virūpavat* \< *virūpa*
+- *virūpavat* ← *virūpa*
 - \[noun\], masculine
 - “Virūpa.”
 ------------------------------------------------------------------------
-- *virūpavat* \< *vat*
+- *virūpavat* ← *vat*
 - \[adverb\]
 - “equally; like.”
 ------------------------------------------------------------------------
-- *aṅgirasvan* \< *aṅgiras*
+- *aṅgirasvan* ← *aṅgiras*
 - \[noun\], masculine
 - “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
     Aṅgiras.”
 ------------------------------------------------------------------------
-- *aṅgirasvan* \< *vat*
+- *aṅgirasvan* ← *vat*
 - \[adverb\]
 - “equally; like.”
 ------------------------------------------------------------------------
-- *mahivrata* \< *mahi*
+- *mahivrata* ← *mahi*
 - \[noun\]
 - “great; firm.”
 ------------------------------------------------------------------------
-- *mahivrata* \< *vrata*
+- *mahivrata* ← *vrata*
 - \[noun\], vocative, singular, masculine
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *praskaṇvasya* \< *praskaṇva*
+- *praskaṇvasya* ← *praskaṇva*
 - \[noun\], genitive, singular, masculine
 - “Praskaṇva.”
 ------------------------------------------------------------------------
-- *śrudhī* \< *śrudhi* \< *śru*
+- *śrudhī* ← *śrudhi* ← *śru*
 - \[verb\], singular, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *havam* \< *hava*
+- *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------

@@ -6,23 +6,23 @@ title = "Rig Veda 1.113.13"
 - \[adverb\]
 - “always; repeatedly; continually; wholly.”
 ------------------------------------------------------------------------
-- *puroṣā* \< *purā*
+- *puroṣā* ← *purā*
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
 ------------------------------------------------------------------------
-- *puroṣā* \< *uṣāḥ* \< *uṣas*
+- *puroṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *uvāsa* \< *vas*
+- *uvāsa* ← *vas*
 - \[verb\], singular, Perfect indicative
 - “dawn; shine.”
 ------------------------------------------------------------------------
-- *devy* \< *devī*
+- *devy* ← *devī*
 - \[noun\], nominative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
@@ -30,23 +30,23 @@ title = "Rig Veda 1.113.13"
 - \[adverb\]
 - “now; but; furthermore.”
 ------------------------------------------------------------------------
-- *adyedaṃ* \< *adyā* \< *adya*
+- *adyedaṃ* ← *adyā* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *adyedaṃ* \< *idam*
+- *adyedaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *āvo* \< *āvaḥ* \< *vas*
+- *āvo* ← *āvaḥ* ← *vas*
 - \[verb\], singular, Root aorist (Ind.)
 - “dawn; shine.”
 ------------------------------------------------------------------------
-- *maghonī* \< *maghavan*
+- *maghonī* ← *maghavan*
 - \[noun\], nominative, singular, feminine
 - “big.”
 ------------------------------------------------------------------------
@@ -54,15 +54,15 @@ title = "Rig Veda 1.113.13"
 - \[adverb\]
 - “now; but; furthermore.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ucchād* \< *ucchāt* \< *vas*
+- *ucchād* ← *ucchāt* ← *vas*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “dawn; shine.”
 ------------------------------------------------------------------------
-- *uttarāṃ* \< *uttara*
+- *uttarāṃ* ← *uttara*
 - \[noun\], accusative, plural, masculine
 - “northern; following; upper; additional; better; more(a); last;
     concluding; superior; later(a); uttara \[word\]; prevailing; future;
@@ -73,25 +73,25 @@ title = "Rig Veda 1.113.13"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *dyūn* \< *div*
+- *dyūn* ← *div*
 - \[noun\], accusative, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *ajarāmṛtā* \< *ajarā* \< *ajara*
+- *ajarāmṛtā* ← *ajarā* ← *ajara*
 - \[noun\], nominative, singular, feminine
 - “undecaying; ageless.”
 ------------------------------------------------------------------------
-- *ajarāmṛtā* \< *amṛtā* \< *amṛta*
+- *ajarāmṛtā* ← *amṛtā* ← *amṛta*
 - \[noun\], nominative, singular, feminine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *carati* \< *car*
+- *carati* ← *car*
 - \[verb\], singular, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *svadhābhiḥ* \< *svadhā*
+- *svadhābhiḥ* ← *svadhā*
 - \[noun\], instrumental, plural, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”

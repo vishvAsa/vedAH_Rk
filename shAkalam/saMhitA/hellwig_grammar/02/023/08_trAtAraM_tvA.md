@@ -2,41 +2,41 @@
 title = "Rig Veda 2.23.8"
 
 +++
--   *trātāraṃ* \< *trātāram* \< *trātṛ*
+-   *trātāraṃ* ← *trātāram* ← *trātṛ*
 - \[noun\], accusative, singular, masculine
 - “defender; savior.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tanūnāṃ* \< *tanūnām* \< *tanu*
+- *tanūnāṃ* ← *tanūnām* ← *tanu*
 - \[noun\], genitive, plural, feminine
 - “body; embodiment; life; life; root; body; form.”
 ------------------------------------------------------------------------
-- *havāmahe* \< *hvā*
+- *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *'vaspartar* \< *avaspartar* \< *avaspartṛ*
+- *'vaspartar* ← *avaspartar* ← *avaspartṛ*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *adhivaktāram* \< *adhivaktṛ*
+- *adhivaktāram* ← *adhivaktṛ*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *asmayum* \< *asmayu*
+- *asmayum* ← *asmayu*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *bṛhaspate* \< *bṛhaspati*
+- *bṛhaspate* ← *bṛhaspati*
 - \[noun\], vocative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *devanido* \< *deva*
+- *devanido* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devanido* \< *nidaḥ* \< *nid*
+- *devanido* ← *nidaḥ* ← *nid*
 - \[noun\], accusative, plural, masculine
 - “derision; scoffer; contempt.”
 ------------------------------------------------------------------------
@@ -44,33 +44,33 @@ title = "Rig Veda 2.23.8"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *barhaya* \< *barhay* \< *√bṛṃh*
+- *barhaya* ← *barhay* ← *√bṛṃh*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------
 - *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *durevā* \< *durevāḥ* \< *dureva*
+- *durevā* ← *durevāḥ* ← *dureva*
 - \[noun\], nominative, plural, masculine
 - “malevolent; bad; crabbed.”
 ------------------------------------------------------------------------
-- *uttaraṃ* \< *uttaram* \< *uttara*
+- *uttaraṃ* ← *uttaram* ← *uttara*
 - \[noun\], accusative, singular, neuter
 - “northern; following; upper; additional; better; more(a); last;
     concluding; superior; later(a); uttara \[word\]; prevailing; future;
     left; northerly; northerly; higher; second; dominant; excellent;
     chief(a).”
 ------------------------------------------------------------------------
-- *sumnam* \< *sumna*
+- *sumnam* ← *sumna*
 - \[noun\], accusative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
-- *un* \< *ud*
+- *un* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *naśan* \< *naś*
+- *naśan* ← *naś*
 - \[verb\], plural, Aorist inj. (proh.)
 - “reach; achieve; enter (a state); reach.”
 ------------------------------------------------------------------------

@@ -6,30 +6,30 @@ title = "Rig Veda 8.78.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *bhara* \< *bhṛ*
+- *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *vyañjanaṃ* \< *vyañjanam* \< *vyañjana*
+- *vyañjanaṃ* ← *vyañjanam* ← *vyañjana*
 - \[noun\], accusative, singular, neuter
 - “condiment; disguise; sign; quality; symptom; consonant; secondary
     sex characteristic; genitalia.”
 ------------------------------------------------------------------------
-- *gām* \< *go*
+- *gām* ← *go*
 - \[noun\], accusative, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *aśvam* \< *aśva*
+- *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *abhyañjanam* \< *abhyañjana*
+- *abhyañjanam* ← *abhyañjana*
 - \[noun\], accusative, singular, neuter
 - “abhyaṅga; ointment.”
 ------------------------------------------------------------------------
@@ -41,7 +41,7 @@ title = "Rig Veda 8.78.2"
 - \[noun\], instrumental, singular, feminine
 - “jewelry.”
 ------------------------------------------------------------------------
-- *hiraṇyayā* \< *hiraṇya*
+- *hiraṇyayā* ← *hiraṇya*
 - \[noun\], instrumental, singular, feminine
 - “aureate; gold.”
 ------------------------------------------------------------------------

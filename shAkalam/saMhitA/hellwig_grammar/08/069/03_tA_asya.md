@@ -2,32 +2,32 @@
 title = "Rig Veda 8.69.3"
 
 +++
--   *tā* \< *tāḥ* \< *tad*
+-   *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *sūdadohasaḥ* \< *sūda*
+- *sūdadohasaḥ* ← *sūda*
 - \[noun\], masculine
 - “cook; sūda \[word\]; sūd.”
 ------------------------------------------------------------------------
-- *sūdadohasaḥ* \< *dohasaḥ* \< *dohas*
+- *sūdadohasaḥ* ← *dohasaḥ* ← *dohas*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *somaṃ* \< *somam* \< *soma*
+- *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *śrīṇanti* \< *śrī*
+- *śrīṇanti* ← *śrī*
 - \[verb\], plural, Present indikative
 - “cook; boil; heat; cook; mix.”
 ------------------------------------------------------------------------
-- *pṛśnayaḥ* \< *pṛśni*
+- *pṛśnayaḥ* ← *pṛśni*
 - \[noun\], nominative, plural, feminine
 - “Pṛśni; beam.”
 ------------------------------------------------------------------------
@@ -36,16 +36,16 @@ title = "Rig Veda 8.69.3"
 - “birth; reincarnation; lineage; origin; race; metempsychosis;
     parentage; descent; appearance; age; birthplace; beginning; being.”
 ------------------------------------------------------------------------
-- *devānāṃ* \< *devānām* \< *deva*
+- *devānāṃ* ← *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *viśas* \< *viśaḥ* \< *viś*
+- *viśas* ← *viśaḥ* ← *viś*
 - \[noun\], nominative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *triṣv* \< *triṣu* \< *tri*
+- *triṣv* ← *triṣu* ← *tri*
 - \[noun\], locative, plural, masculine
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
@@ -53,11 +53,11 @@ title = "Rig Veda 8.69.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *rocane* \< *rocana*
+- *rocane* ← *rocana*
 - \[noun\], locative, singular, neuter
 - “light; celestial sphere.”
 ------------------------------------------------------------------------
-- *divaḥ* \< *div*
+- *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------

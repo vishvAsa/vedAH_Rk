@@ -6,11 +6,11 @@ title = "Rig Veda 9.86.31"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *rebha* \< *rebhaḥ* \< *rebha*
+- *rebha* ← *rebhaḥ* ← *rebha*
 - \[noun\], nominative, singular, masculine
 - “bard; eulogist.”
 ------------------------------------------------------------------------
-- *ety* \< *eti* \< *i*
+- *ety* ← *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
@@ -18,19 +18,19 @@ title = "Rig Veda 9.86.31"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *vāram* \< *vāra*
+- *vāram* ← *vāra*
 - \[noun\], accusative, singular, masculine
 - “strainer.”
 ------------------------------------------------------------------------
-- *avyayaṃ* \< *avyayam* \< *avyaya*
+- *avyayaṃ* ← *avyayam* ← *avyaya*
 - \[noun\], accusative, singular, masculine
 - “sheep.”
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣan*
+- *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *vaneṣv* \< *vaneṣu* \< *vana*
+- *vaneṣv* ← *vaneṣu* ← *vana*
 - \[noun\], locative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
@@ -38,43 +38,43 @@ title = "Rig Veda 9.86.31"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *cakradaddhariḥ* \< *cakradat* \< *krand*
+- *cakradaddhariḥ* ← *cakradat* ← *krand*
 - \[verb\], singular, Plusquamperfect
 - “roar; neigh; cry; howl; shout.”
 ------------------------------------------------------------------------
-- *cakradaddhariḥ* \< *hariḥ* \< *hari*
+- *cakradaddhariḥ* ← *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *dhītayo* \< *dhītayaḥ* \< *dhīti*
+- *dhītayo* ← *dhītayaḥ* ← *dhīti*
 - \[noun\], nominative, plural, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------
-- *vāvaśānā* \< *vāvaśānāḥ* \< *vāś*
+- *vāvaśānā* ← *vāvaśānāḥ* ← *vāś*
 - \[verb noun\], nominative, plural
 - “bellow; howl; sing; moo; shout.”
 ------------------------------------------------------------------------
-- *anūṣata* \< *nū*
+- *anūṣata* ← *nū*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “praise; shout.”
 ------------------------------------------------------------------------
-- *śiśuṃ* \< *śiśum* \< *śiśu*
+- *śiśuṃ* ← *śiśum* ← *śiśu*
 - \[noun\], accusative, singular, masculine
 - “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
 ------------------------------------------------------------------------
-- *rihanti* \< *rih*
+- *rihanti* ← *rih*
 - \[verb\], plural, Present indikative
 - “lick.”
 ------------------------------------------------------------------------
-- *matayaḥ* \< *mati*
+- *matayaḥ* ← *mati*
 - \[noun\], nominative, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *panipnatam* \< *panipn* \< *√pan*
+- *panipnatam* ← *panipn* ← *√pan*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------

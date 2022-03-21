@@ -6,20 +6,20 @@ title = "Rig Veda 4.55.2"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dhāmāni* \< *dhāman*
+- *dhāmāni* ← *dhāman*
 - \[noun\], accusative, plural, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
 ------------------------------------------------------------------------
-- *pūrvyāṇy* \< *pūrvyāṇi* \< *pūrvya*
+- *pūrvyāṇy* ← *pūrvyāṇi* ← *pūrvya*
 - \[noun\], accusative, plural, neuter
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------
-- *arcān* \< *arc*
+- *arcān* ← *arc*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
@@ -27,22 +27,22 @@ title = "Rig Veda 4.55.2"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *ucchān* \< *vas*
+- *ucchān* ← *vas*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “dawn; shine.”
 ------------------------------------------------------------------------
-- *viyotāro* \< *viyotāraḥ* \< *viyotṛ*
+- *viyotāro* ← *viyotāraḥ* ← *viyotṛ*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *amūrāḥ* \< *amūra*
+- *amūrāḥ* ← *amūra*
 - \[noun\], nominative, plural, masculine
 - “wise; intelligent; apt.”
 ------------------------------------------------------------------------
-- *vidhātāro* \< *vidhātāraḥ* \< *vidhātṛ*
+- *vidhātāro* ← *vidhātāraḥ* ← *vidhātṛ*
 - \[noun\], nominative, plural, masculine
 - “Brahma; organizer; creator.”
 ------------------------------------------------------------------------
@@ -50,34 +50,34 @@ title = "Rig Veda 4.55.2"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *dadhur* \< *dadhuḥ* \< *dhā*
+- *dadhur* ← *dadhuḥ* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *ajasrā* \< *ajasrāḥ* \< *ajasra*
+- *ajasrā* ← *ajasrāḥ* ← *ajasra*
 - \[noun\], nominative, plural, masculine
 - “ceaseless; ageless; incessant.”
 ------------------------------------------------------------------------
-- *ṛtadhītayo* \< *ṛta*
+- *ṛtadhītayo* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *ṛtadhītayo* \< *dhītayaḥ* \< *dhīti*
+- *ṛtadhītayo* ← *dhītayaḥ* ← *dhīti*
 - \[noun\], nominative, plural, masculine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------
-- *rurucanta* \< *ruc*
+- *rurucanta* ← *ruc*
 - \[verb\], plural, Perfect injunctive
 - “please; shine.”
 ------------------------------------------------------------------------
-- *dasmāḥ* \< *dasma*
+- *dasmāḥ* ← *dasma*
 - \[noun\], nominative, plural, masculine
 - “overlord.”
 ------------------------------------------------------------------------

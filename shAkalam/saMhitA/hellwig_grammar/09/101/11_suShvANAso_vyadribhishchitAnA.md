@@ -2,23 +2,23 @@
 title = "Rig Veda 9.101.11"
 
 +++
--   *suṣvāṇāso* \< *suṣvāṇāsaḥ* \< *su*
+-   *suṣvāṇāso* ← *suṣvāṇāsaḥ* ← *su*
 - \[verb noun\], nominative, plural
 - “press out; su.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *adribhiś* \< *adribhiḥ* \< *adri*
+- *adribhiś* ← *adribhiḥ* ← *adri*
 - \[noun\], instrumental, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *citānā* \< *citānāḥ* \< *cit*
+- *citānā* ← *citānāḥ* ← *cit*
 - \[verb noun\], nominative, plural
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *gor* \< *goḥ* \< *go*
+- *gor* ← *goḥ* ← *go*
 - \[noun\], genitive, singular, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -27,19 +27,19 @@ title = "Rig Veda 9.101.11"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *tvaci* \< *tvac*
+- *tvaci* ← *tvac*
 - \[noun\], locative, singular, feminine
 - “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
 ------------------------------------------------------------------------
-- *iṣam* \< *iṣ*
+- *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *asmabhyam* \< *mad*
+- *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *abhitaḥ* \< *abhitas*
+- *abhitaḥ* ← *abhitas*
 - \[adverb\]
 - “about; around; regarding; about.”
 ------------------------------------------------------------------------
@@ -47,15 +47,15 @@ title = "Rig Veda 9.101.11"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *asvaran* \< *svar*
+- *asvaran* ← *svar*
 - \[verb\], plural, Imperfect
 - “sing.”
 ------------------------------------------------------------------------
-- *vasuvidaḥ* \< *vasu*
+- *vasuvidaḥ* ← *vasu*
 - \[noun\], neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *vasuvidaḥ* \< *vidaḥ* \< *vid*
+- *vasuvidaḥ* ← *vidaḥ* ← *vid*
 - \[noun\], nominative, plural, masculine
 - “finding.”
 ------------------------------------------------------------------------

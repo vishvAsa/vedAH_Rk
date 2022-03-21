@@ -2,40 +2,40 @@
 title = "Rig Veda 10.93.11"
 
 +++
--   *etaṃ* \< *etam* \< *etad*
+-   *etaṃ* ← *etam* ← *etad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *śaṃsam* \< *śaṃsa*
+- *śaṃsam* ← *śaṃsa*
 - \[noun\], accusative, singular, masculine
 - “praise; śaṃs; recitation.”
 ------------------------------------------------------------------------
-- *indrāsmayuṣ* \< *indra*
+- *indrāsmayuṣ* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrāsmayuṣ* \< *asmayuḥ* \< *asmayu*
+- *indrāsmayuṣ* ← *asmayuḥ* ← *asmayu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *ṭvaṃ* \< *tvam* \< *tvad*
+- *ṭvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *kūcit* \< *kūcid*
+- *kūcit* ← *kūcid*
 - \[adverb\]
 - “somewhere.”
 ------------------------------------------------------------------------
-- *santaṃ* \< *santam* \< *as*
+- *santaṃ* ← *santam* ← *as*
 - \[verb noun\], accusative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *sahasāvann* \< *sahasāvan* \< *sahasāvat*
+- *sahasāvann* ← *sahasāvan* ← *sahasāvat*
 - \[noun\], vocative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *abhiṣṭaye* \< *abhiṣṭi*
+- *abhiṣṭaye* ← *abhiṣṭi*
 - \[noun\], dative, singular, feminine
 - “prevalence; protection.”
 ------------------------------------------------------------------------
@@ -43,22 +43,22 @@ title = "Rig Veda 10.93.11"
 - \[adverb\]
 - “always; continually; always; perpetually.”
 ------------------------------------------------------------------------
-- *pāhy* \< *pāhi* \< *pā*
+- *pāhy* ← *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *abhiṣṭaye* \< *abhiṣṭi*
+- *abhiṣṭaye* ← *abhiṣṭi*
 - \[noun\], dative, singular, feminine
 - “prevalence; protection.”
 ------------------------------------------------------------------------
-- *medatāṃ* \< *medatām* \< *med*
+- *medatāṃ* ← *medatām* ← *med*
 - \[verb\], singular, Present imperative
 - “boom.”
 ------------------------------------------------------------------------
 - *vedatā*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *vaso* \< *vasu*
+- *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------

@@ -2,12 +2,12 @@
 title = "Rig Veda 8.56.4"
 
 +++
--   *tatro* \< *tatra*
+-   *tatro* ← *tatra*
 - \[adverb\]
 - “there; now; then; then; there; in that place; then; locative;
     respectively; there; tatra \[word\]; inside; therefore.”
 ------------------------------------------------------------------------
-- *tatro* \< *u*
+- *tatro* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
@@ -16,22 +16,22 @@ title = "Rig Veda 8.56.4"
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
 ------------------------------------------------------------------------
-- *prāṇīyata* \< *praṇī* \< *√nī*
+- *prāṇīyata* ← *praṇī* ← *√nī*
 - \[verb\], singular, Imperfekt Passiv
 - “enforce; lead; produce.”
 ------------------------------------------------------------------------
-- *pūtakratāyai* \< *pūtakratā*
+- *pūtakratāyai* ← *pūtakratā*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------
-- *vyaktā* \< *vyañj* \< *√añj*
+- *vyaktā* ← *vyañj* ← *√añj*
 - \[verb noun\], nominative, singular
 - “decorate; fan; anoint.”
 ------------------------------------------------------------------------
-- *aśvānām* \< *aśva*
+- *aśvānām* ← *aśva*
 - \[noun\], genitive, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *in* \< *id*
+- *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -39,6 +39,6 @@ title = "Rig Veda 8.56.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yūthyām* \< *yūthyā*
+- *yūthyām* ← *yūthyā*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------

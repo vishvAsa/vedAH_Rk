@@ -2,36 +2,36 @@
 title = "Rig Veda 7.97.9"
 
 +++
--   *iyaṃ* \< *iyam* \< *idam*
+-   *iyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *brahmaṇaspate* \< *brahmaṇaspati*
+- *brahmaṇaspate* ← *brahmaṇaspati*
 - \[noun\], vocative, singular, masculine
 - “Brahmaṇaspati.”
 ------------------------------------------------------------------------
-- *suvṛktir* \< *suvṛktiḥ* \< *suvṛkti*
+- *suvṛktir* ← *suvṛktiḥ* ← *suvṛkti*
 - \[noun\], nominative, singular, feminine
 - “praise.”
 ------------------------------------------------------------------------
-- *brahmendrāya* \< *brahma* \< *brahman*
+- *brahmendrāya* ← *brahma* ← *brahman*
 - \[noun\], nominative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *brahmendrāya* \< *indrāya* \< *indra*
+- *brahmendrāya* ← *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vajriṇe* \< *vajrin*
+- *vajriṇe* ← *vajrin*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *akāri* \< *kṛ*
+- *akāri* ← *kṛ*
 - \[verb\], singular, Aorist passive
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -42,35 +42,35 @@ title = "Rig Veda 7.97.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *aviṣṭaṃ* \< *aviṣṭam* \< *av*
+- *aviṣṭaṃ* ← *aviṣṭam* ← *av*
 - \[verb\], dual, Aorist imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *dhiyo* \< *dhiyaḥ* \< *dhī*
+- *dhiyo* ← *dhiyaḥ* ← *dhī*
 - \[noun\], accusative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *jigṛtam* \< *jāgṛ*
+- *jigṛtam* ← *jāgṛ*
 - \[verb\], dual, Aorist imperative
 - “wake; watch; awaken; wake up; oversee.”
 ------------------------------------------------------------------------
-- *purandhīr* \< *purandhīḥ* \< *puraṃdhi*
+- *purandhīr* ← *purandhīḥ* ← *puraṃdhi*
 - \[noun\], accusative, plural, feminine
 - “liberality; Puraṃdhi; munificence.”
 ------------------------------------------------------------------------
-- *jajastam* \< *jas*
+- *jajastam* ← *jas*
 - \[verb\], dual, Perfect imperative
 - “starve.”
 ------------------------------------------------------------------------
-- *aryo* \< *aryaḥ* \< *ari*
+- *aryo* ← *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *vanuṣām* \< *vanus*
+- *vanuṣām* ← *vanus*
 - \[noun\], genitive, plural, masculine
 - “unfriendly; competing(a).”
 ------------------------------------------------------------------------
-- *arātīḥ* \< *arāti*
+- *arātīḥ* ← *arāti*
 - \[noun\], accusative, plural, feminine
 - “hostility; adversity; foe; envy; stinginess.”
 ------------------------------------------------------------------------

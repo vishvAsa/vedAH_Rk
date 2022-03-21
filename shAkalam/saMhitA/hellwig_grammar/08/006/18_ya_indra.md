@@ -2,7 +2,7 @@
 title = "Rig Veda 8.6.18"
 
 +++
--   *ya* \< *ye* \< *yad*
+-   *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -11,19 +11,19 @@ title = "Rig Veda 8.6.18"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yatayas* \< *yatayaḥ* \< *yati*
+- *yatayas* ← *yatayaḥ* ← *yati*
 - \[noun\], nominative, plural, masculine
 - “ascetic; Yati.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *bhṛgavo* \< *bhṛgavaḥ* \< *bhṛgu*
+- *bhṛgavo* ← *bhṛgavaḥ* ← *bhṛgu*
 - \[noun\], nominative, plural, masculine
 - “Bhṛgu; precipice; Bhṛgu; Bhṛgu; Venus; bhṛgu \[word\].”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -31,15 +31,15 @@ title = "Rig Veda 8.6.18"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *tuṣṭuvuḥ* \< *stu*
+- *tuṣṭuvuḥ* ← *stu*
 - \[verb\], plural, Perfect indicative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *mamed* \< *mama* \< *mad*
+- *mamed* ← *mama* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mamed* \< *id*
+- *mamed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -48,11 +48,11 @@ title = "Rig Veda 8.6.18"
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *śrudhī* \< *śru*
+- *śrudhī* ← *śru*
 - \[verb\], singular, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *havam* \< *hava*
+- *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------

@@ -6,32 +6,32 @@ title = "Rig Veda 4.15.8"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *tyā* \< *tya*
+- *tyā* ← *tya*
 - \[noun\], accusative, dual, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *yajatā* \< *yajata*
+- *yajatā* ← *yajata*
 - \[noun\], accusative, dual, masculine
 - “holy; august; sacrificial.”
 ------------------------------------------------------------------------
-- *harī* \< *hari*
+- *harī* ← *hari*
 - \[noun\], accusative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *kumārāt* \< *kumāra*
+- *kumārāt* ← *kumāra*
 - \[noun\], ablative, singular, masculine
 - “prince; male child; child; Skanda; son; kumārabandha; kumāra
     \[word\]; young person.”
 ------------------------------------------------------------------------
-- *sāhadevyāt* \< *sāhadevya*
+- *sāhadevyāt* ← *sāhadevya*
 - \[noun\], ablative, singular, masculine
 ------------------------------------------------------------------------
-- *prayatā* \< *prayam* \< *√yam*
+- *prayatā* ← *prayam* ← *√yam*
 - \[verb noun\], accusative, dual
 - “give; emit; send; transmit.”
 ------------------------------------------------------------------------
-- *sadya* \< *sadyas*
+- *sadya* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
 ------------------------------------------------------------------------
@@ -39,7 +39,7 @@ title = "Rig Veda 4.15.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dade* \< *dā*
+- *dade* ← *dā*
 - \[verb\], singular, Perfect indicative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;

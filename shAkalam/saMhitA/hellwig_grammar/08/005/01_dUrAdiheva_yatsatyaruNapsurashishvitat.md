@@ -2,15 +2,15 @@
 title = "Rig Veda 8.5.1"
 
 +++
--   *dūrād* \< *dūrāt*
+-   *dūrād* ← *dūrāt*
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *iheva* \< *iha*
+- *iheva* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *iheva* \< *iva*
+- *iheva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
@@ -18,16 +18,16 @@ title = "Rig Veda 8.5.1"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *saty* \< *satī* \< *as*
+- *saty* ← *satī* ← *as*
 - \[verb noun\], nominative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *aruṇapsur* \< *aruṇapsuḥ* \< *aruṇapsu*
+- *aruṇapsur* ← *aruṇapsuḥ* ← *aruṇapsu*
 - \[noun\], nominative, singular, feminine
 - “red.”
 ------------------------------------------------------------------------
-- *aśiśvitat* \< *śvit*
+- *aśiśvitat* ← *śvit*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “shine.”
 ------------------------------------------------------------------------
@@ -35,15 +35,15 @@ title = "Rig Veda 8.5.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *bhānuṃ* \< *bhānum* \< *bhānu*
+- *bhānuṃ* ← *bhānum* ← *bhānu*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
 ------------------------------------------------------------------------
-- *viśvadhātanat* \< *viśvadhā*
+- *viśvadhātanat* ← *viśvadhā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *viśvadhātanat* \< *atanat* \< *tan*
+- *viśvadhātanat* ← *atanat* ← *tan*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”

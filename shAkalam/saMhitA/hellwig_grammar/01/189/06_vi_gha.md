@@ -9,47 +9,47 @@ title = "Rig Veda 1.189.6"
 - *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *tvāvāṃ* \< *tvāvat*
+- *tvāvāṃ* ← *tvāvat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *ṛtajāta* \< *ṛta*
+- *ṛtajāta* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *ṛtajāta* \< *jāta* \< *jan*
+- *ṛtajāta* ← *jāta* ← *jan*
 - \[verb noun\], vocative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *yaṃsad* \< *yaṃsat* \< *yam*
+- *yaṃsad* ← *yaṃsat* ← *yam*
 - \[verb\], singular, Aorist conj./subj.
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *gṛṇāno* \< *gṛṇānaḥ* \< *gṛ*
+- *gṛṇāno* ← *gṛṇānaḥ* ← *gṛ*
 - \[verb noun\], nominative, singular
 - “praise.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *tanve* \< *tanū*
+- *tanve* ← *tanū*
 - \[noun\], dative, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *varūtham* \< *varūtha*
+- *varūtham* ← *varūtha*
 - \[noun\], accusative, singular, neuter
 - “defense; protective covering.”
 ------------------------------------------------------------------------
-- *viśvād* \< *viśvāt* \< *viśva*
+- *viśvād* ← *viśvāt* ← *viśva*
 - \[noun\], ablative, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *ririkṣor* \< *ririkṣoḥ* \< *ririkṣu*
+- *ririkṣor* ← *ririkṣoḥ* ← *ririkṣu*
 - \[noun\], ablative, singular, masculine
 ------------------------------------------------------------------------
 - *uta*
@@ -60,13 +60,13 @@ title = "Rig Veda 1.189.6"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *ninitsor* \< *ninitsoḥ* \< *ninitsu*
+- *ninitsor* ← *ninitsoḥ* ← *ninitsu*
 - \[noun\], ablative, singular, masculine
 ------------------------------------------------------------------------
-- *abhihrutām* \< *abhihrut*
+- *abhihrutām* ← *abhihrut*
 - \[noun\], genitive, plural, feminine
 ------------------------------------------------------------------------
-- *asi* \< *as*
+- *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -80,6 +80,6 @@ title = "Rig Veda 1.189.6"
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *viṣpaṭ* \< *viṣpaś*
+- *viṣpaṭ* ← *viṣpaś*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

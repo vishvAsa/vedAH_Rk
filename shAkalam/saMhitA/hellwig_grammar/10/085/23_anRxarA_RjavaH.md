@@ -2,47 +2,47 @@
 title = "Rig Veda 10.85.23"
 
 +++
--   *anṛkṣarā* \< *anṛkṣarāḥ* \< *anṛkṣara*
+-   *anṛkṣarā* ← *anṛkṣarāḥ* ← *anṛkṣara*
 - \[noun\], nominative, plural, masculine
 - “thornless.”
 ------------------------------------------------------------------------
-- *ṛjavaḥ* \< *ṛju*
+- *ṛjavaḥ* ← *ṛju*
 - \[noun\], nominative, plural, masculine
 - “honest; straight; straight; ṛju \[word\]; sincere; erect; upright.”
 ------------------------------------------------------------------------
-- *santu* \< *as*
+- *santu* ← *as*
 - \[verb\], plural, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *panthā* \< *panthāḥ* \< *pathin*
+- *panthā* ← *panthāḥ* ← *pathin*
 - \[noun\], nominative, plural
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *yebhiḥ* \< *yad*
+- *yebhiḥ* ← *yad*
 - \[noun\], instrumental, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sakhāyo* \< *sakhāyaḥ* \< *sakhi*
+- *sakhāyo* ← *sakhāyaḥ* ← *sakhi*
 - \[noun\], nominative, plural
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *yanti* \< *i*
+- *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vareyam* \< *varey*
+- *vareyam* ← *varey*
 - \[verb noun\]
 ------------------------------------------------------------------------
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *aryamā* \< *aryaman*
+- *aryamā* ← *aryaman*
 - \[noun\], nominative, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
 ------------------------------------------------------------------------
@@ -50,36 +50,36 @@ title = "Rig Veda 10.85.23"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *bhago* \< *bhagaḥ* \< *bhaga*
+- *bhago* ← *bhagaḥ* ← *bhaga*
 - \[noun\], nominative, singular, masculine
 - “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
     well-being; happiness; overlord.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ninīyāt* \< *nī*
+- *ninīyāt* ← *nī*
 - \[verb\], singular, Perfect optative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *jāspatyaṃ* \< *jāspatyam* \< *jāspatya*
+- *jāspatyaṃ* ← *jāspatyam* ← *jāspatya*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *suyamam* \< *suyama*
+- *suyamam* ← *suyama*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *devāḥ* \< *deva*
+- *devāḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”

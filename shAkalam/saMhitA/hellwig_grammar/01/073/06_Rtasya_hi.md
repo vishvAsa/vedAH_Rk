@@ -2,7 +2,7 @@
 title = "Rig Veda 1.73.6"
 
 +++
--   *ṛtasya* \< *ṛta*
+-   *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
@@ -10,39 +10,39 @@ title = "Rig Veda 1.73.6"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *dhenavo* \< *dhenavaḥ* \< *dhenu*
+- *dhenavo* ← *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *vāvaśānāḥ* \< *vaś*
+- *vāvaśānāḥ* ← *vaś*
 - \[verb noun\], nominative, plural
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *smadūdhnīḥ* \< *smadūdhan*
+- *smadūdhnīḥ* ← *smadūdhan*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *pīpayanta* \< *pyā*
+- *pīpayanta* ← *pyā*
 - \[verb\], plural, Perfect conjunctive (subj.)
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
-- *dyubhaktāḥ* \< *dyu* \< *div*
+- *dyubhaktāḥ* ← *dyu* ← *div*
 - \[noun\], masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *dyubhaktāḥ* \< *bhaktāḥ* \< *bhaj*
+- *dyubhaktāḥ* ← *bhaktāḥ* ← *bhaj*
 - \[verb noun\], nominative, plural
 - “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
     one's share; partake; share; get; approach; love; use.”
 ------------------------------------------------------------------------
-- *parāvataḥ* \< *parāvat*
+- *parāvataḥ* ← *parāvat*
 - \[noun\], ablative, singular, feminine
 - “distance; distance; distance.”
 ------------------------------------------------------------------------
-- *sumatim* \< *sumati*
+- *sumatim* ← *sumati*
 - \[noun\], accusative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *bhikṣamāṇā* \< *bhikṣamāṇāḥ* \< *bhikṣ* \< *√bhaj*
+- *bhikṣamāṇā* ← *bhikṣamāṇāḥ* ← *bhikṣ* ← *√bhaj*
 - \[verb noun\], nominative, plural
 - “beg; beg.”
 ------------------------------------------------------------------------
@@ -50,7 +50,7 @@ title = "Rig Veda 1.73.6"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *sindhavaḥ* \< *sindhu*
+- *sindhavaḥ* ← *sindhu*
 - \[noun\], nominative, plural, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
@@ -58,11 +58,11 @@ title = "Rig Veda 1.73.6"
 - \[adverb\]
 - “near.”
 ------------------------------------------------------------------------
-- *sasrur* \< *sasruḥ* \< *sṛ*
+- *sasrur* ← *sasruḥ* ← *sṛ*
 - \[verb\], plural, Perfect indicative
 - “sṛ; liquefy; run; spread; stretch out.”
 ------------------------------------------------------------------------
-- *adrim* \< *adri*
+- *adrim* ← *adri*
 - \[noun\], accusative, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------

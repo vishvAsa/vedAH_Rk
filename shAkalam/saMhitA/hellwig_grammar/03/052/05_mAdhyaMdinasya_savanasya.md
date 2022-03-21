@@ -2,19 +2,19 @@
 title = "Rig Veda 3.52.5"
 
 +++
--   *mādhyandinasya* \< *mādhyaṃdina*
+-   *mādhyandinasya* ← *mādhyaṃdina*
 - \[noun\], genitive, singular, neuter
 - “midday.”
 ------------------------------------------------------------------------
-- *savanasya* \< *savana*
+- *savanasya* ← *savana*
 - \[noun\], genitive, singular, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
-- *dhānāḥ* \< *dhānā*
+- *dhānāḥ* ← *dhānā*
 - \[noun\], accusative, plural, feminine
 - “Dhānā; Coriander; corn; grain.”
 ------------------------------------------------------------------------
-- *puroﾱāśam* \< *puroḍāś*
+- *puroﾱāśam* ← *puroḍāś*
 - \[noun\], accusative, singular, masculine
 - “puroḍāśa.”
 ------------------------------------------------------------------------
@@ -23,7 +23,7 @@ title = "Rig Veda 3.52.5"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *kṛṣveha* \< *kṛṣva* \< *kṛ*
+- *kṛṣveha* ← *kṛṣva* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -34,11 +34,11 @@ title = "Rig Veda 3.52.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *kṛṣveha* \< *iha*
+- *kṛṣveha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *cārum* \< *cāru*
+- *cārum* ← *cāru*
 - \[noun\], accusative, singular, masculine
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
 ------------------------------------------------------------------------
@@ -50,38 +50,38 @@ title = "Rig Veda 3.52.5"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *stotā* \< *stotṛ*
+- *stotā* ← *stotṛ*
 - \[noun\], nominative, singular, masculine
 - “laudatory; worshiping.”
 ------------------------------------------------------------------------
-- *jaritā* \< *jaritṛ*
+- *jaritā* ← *jaritṛ*
 - \[noun\], nominative, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *tūrṇyartho* \< *tūrṇi*
+- *tūrṇyartho* ← *tūrṇi*
 - \[noun\]
 - “agile.”
 ------------------------------------------------------------------------
-- *tūrṇyartho* \< *arthaḥ* \< *artha*
+- *tūrṇyartho* ← *arthaḥ* ← *artha*
 - \[noun\], nominative, singular, masculine
 - “for; meaning; purpose; sense; wealth; object of sense; matter; aim;
     money; message; object; artha \[word\]; wealth; function; content;
     topic; property; situation; reason; affair; concern; reason;
     enterprise; reason; cause; five; application; application.”
 ------------------------------------------------------------------------
-- *vṛṣāyamāṇa* \< *vṛṣāyamāṇaḥ* \< *vṛṣāy*
+- *vṛṣāyamāṇa* ← *vṛṣāyamāṇaḥ* ← *vṛṣāy*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *gīrbhir* \< *gīrbhiḥ* \< *gir*
+- *gīrbhir* ← *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *īṭṭe* \< *īḍ*
+- *īṭṭe* ← *īḍ*
 - \[verb\], singular, Present indikative
 - “praise; invite; raise.”
 ------------------------------------------------------------------------

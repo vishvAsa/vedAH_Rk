@@ -2,19 +2,19 @@
 title = "Rig Veda 9.90.4"
 
 +++
--   *urugavyūtir* \< *uru*
+-   *urugavyūtir* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *urugavyūtir* \< *gavyūtiḥ* \< *gavyūti*
+- *urugavyūtir* ← *gavyūtiḥ* ← *gavyūti*
 - \[noun\], nominative, singular, masculine
 - “pasture.”
 ------------------------------------------------------------------------
-- *abhayāni* \< *abhaya*
+- *abhayāni* ← *abhaya*
 - \[noun\], accusative, plural, neuter
 - “safe.”
 ------------------------------------------------------------------------
-- *kṛṇvan* \< *kṛ*
+- *kṛṇvan* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -25,7 +25,7 @@ title = "Rig Veda 9.90.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *samīcīne* \< *samīcīna*
+- *samīcīne* ← *samīcīna*
 - \[noun\], accusative, dual, feminine
 - “combined; real.”
 ------------------------------------------------------------------------
@@ -33,23 +33,23 @@ title = "Rig Veda 9.90.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *pavasvā* \< *pavasva* \< *pū*
+- *pavasvā* ← *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *purandhī* \< *puraṃdhi*
+- *purandhī* ← *puraṃdhi*
 - \[noun\], accusative, dual, feminine
 - “liberality; Puraṃdhi; munificence.”
 ------------------------------------------------------------------------
-- *apaḥ* \< *ap*
+- *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *siṣāsann* \< *siṣāsan* \< *siṣās* \< *√san*
+- *siṣāsann* ← *siṣāsan* ← *siṣās* ← *√san*
 - \[verb noun\], nominative, singular
 - “win; gain.”
 ------------------------------------------------------------------------
-- *uṣasaḥ* \< *uṣas*
+- *uṣasaḥ* ← *uṣas*
 - \[noun\], accusative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
@@ -57,28 +57,28 @@ title = "Rig Veda 9.90.4"
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *gāḥ* \< *go*
+- *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *cikrado* \< *cikradaḥ* \< *krand*
+- *cikrado* ← *cikradaḥ* ← *krand*
 - \[verb\], singular, Aorist inj. (proh.)
 - “roar; neigh; cry; howl; shout.”
 ------------------------------------------------------------------------
-- *maho* \< *mahaḥ* \< *mah*
+- *maho* ← *mahaḥ* ← *mah*
 - \[noun\], accusative, plural, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *asmabhyaṃ* \< *asmabhyam* \< *mad*
+- *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vājān* \< *vāja*
+- *vājān* ← *vāja*
 - \[noun\], accusative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------

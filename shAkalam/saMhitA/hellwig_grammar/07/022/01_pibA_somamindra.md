@@ -2,11 +2,11 @@
 title = "Rig Veda 7.22.1"
 
 +++
--   *pibā* \< *pā*
+-   *pibā* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -15,54 +15,54 @@ title = "Rig Veda 7.22.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *mandatu* \< *mad*
+- *mandatu* ← *mad*
 - \[verb\], singular, Present imperative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *suṣāva* \< *su*
+- *suṣāva* ← *su*
 - \[verb\], singular, Perfect indicative
 - “press out; su.”
 ------------------------------------------------------------------------
-- *haryaśvādriḥ* \< *haryaśva*
+- *haryaśvādriḥ* ← *haryaśva*
 - \[noun\], vocative, singular, masculine
 - “Indra; Haryaśva.”
 ------------------------------------------------------------------------
-- *haryaśvādriḥ* \< *adriḥ* \< *adri*
+- *haryaśvādriḥ* ← *adriḥ* ← *adri*
 - \[noun\], nominative, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *sotur* \< *sotuḥ* \< *sotṛ*
+- *sotur* ← *sotuḥ* ← *sotṛ*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *bāhubhyāṃ* \< *bāhubhyām* \< *bāhu*
+- *bāhubhyāṃ* ← *bāhubhyām* ← *bāhu*
 - \[noun\], instrumental, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
-- *suyato* \< *su*
+- *suyato* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suyato* \< *yataḥ* \< *yam*
+- *suyato* ← *yataḥ* ← *yam*
 - \[verb noun\], nominative, singular
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *nārvā* \< *na*
+- *nārvā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nārvā* \< *arvā* \< *arvan*
+- *nārvā* ← *arvā* ← *arvan*
 - \[noun\], nominative, singular, masculine
 - “horse; arvan \[word\]; racehorse.”
 ------------------------------------------------------------------------

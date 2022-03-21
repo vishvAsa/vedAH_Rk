@@ -6,7 +6,7 @@ title = "Rig Veda 1.23.22"
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *āpaḥ* \< *ap*
+- *āpaḥ* ← *ap*
 - \[noun\], vocative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -14,16 +14,16 @@ title = "Rig Veda 1.23.22"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vahata* \< *vah*
+- *vahata* ← *vah*
 - \[verb\], plural, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *yat* \< *yad*
+- *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *kiṃ* \< *kim* \< *ka*
+- *kiṃ* ← *kim* ← *ka*
 - \[noun\], nominative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -31,30 +31,30 @@ title = "Rig Veda 1.23.22"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *duritam* \< *durita*
+- *duritam* ← *durita*
 - \[noun\], nominative, singular, neuter
 - “danger; sin; difficulty; difficulty; evil.”
 ------------------------------------------------------------------------
-- *mayi* \< *mad*
+- *mayi* ← *mad*
 - \[noun\], locative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vāham* \< *vā*
+- *vāham* ← *vā*
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *vāham* \< *aham* \< *mad*
+- *vāham* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *abhidudroha* \< *abhidruh* \< *√druh*
+- *abhidudroha* ← *abhidruh* ← *√druh*
 - \[verb\], singular, Perfect indicative
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -62,15 +62,15 @@ title = "Rig Veda 1.23.22"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *śepa* \< *śepe* \< *śap*
+- *śepa* ← *śepe* ← *śap*
 - \[verb\], singular, Perfect indicative
 - “curse; swear; affirm; promise.”
 ------------------------------------------------------------------------
-- *utānṛtam* \< *uta*
+- *utānṛtam* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *utānṛtam* \< *anṛtam* \< *anṛta*
+- *utānṛtam* ← *anṛtam* ← *anṛta*
 - \[noun\], accusative, singular, neuter
 - “false; untrue; lying(a); false.”
 ------------------------------------------------------------------------

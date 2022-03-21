@@ -6,39 +6,39 @@ title = "Rig Veda 2.41.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yat* \< *yad*
+- *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *paro* \< *paras*
+- *paro* ← *paras*
 - \[adverb\]
 - “beyond; away; farther.”
 ------------------------------------------------------------------------
-- *nāntara* \< *na*
+- *nāntara* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāntara* \< *antare*
+- *nāntara* ← *antare*
 - \[adverb\]
 - “in.”
 ------------------------------------------------------------------------
-- *ādadharṣad* \< *ādadharṣat* \< *ādhṛṣ* \< *√dhṛṣ*
+- *ādadharṣad* ← *ādadharṣat* ← *ādhṛṣ* ← *√dhṛṣ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “overcome; suppress.”
 ------------------------------------------------------------------------
-- *vṛṣaṇvasū* \< *vṛṣaṇvasu*
+- *vṛṣaṇvasū* ← *vṛṣaṇvasu*
 - \[noun\], vocative, dual, masculine
 - “affluent.”
 ------------------------------------------------------------------------
-- *duḥśaṃso* \< *duḥśaṃsaḥ* \< *duḥśaṃsa*
+- *duḥśaṃso* ← *duḥśaṃsaḥ* ← *duḥśaṃsa*
 - \[noun\], nominative, singular, masculine
 - “calumniatory; wicked.”
 ------------------------------------------------------------------------
-- *martyo* \< *martyaḥ* \< *martya*
+- *martyo* ← *martyaḥ* ← *martya*
 - \[noun\], nominative, singular, masculine
 - “mortal.”
 ------------------------------------------------------------------------
-- *ripuḥ* \< *ripu*
+- *ripuḥ* ← *ripu*
 - \[noun\], nominative, singular, masculine
 - “enemy; arivarga; Ripu; foe.”
 ------------------------------------------------------------------------

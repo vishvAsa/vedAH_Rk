@@ -2,35 +2,35 @@
 title = "Rig Veda 2.31.1"
 
 +++
--   *asmākam* \< *mad*
+-   *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇāvataṃ* \< *mitrāvaruṇā* \< *mitrāvaruṇa*
+- *mitrāvaruṇāvataṃ* ← *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇāvataṃ* \< *avatam* \< *av*
+- *mitrāvaruṇāvataṃ* ← *avatam* ← *av*
 - \[verb\], dual, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *ratham* \< *ratha*
+- *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *ādityai* \< *ādityaiḥ* \< *āditya*
+- *ādityai* ← *ādityaiḥ* ← *āditya*
 - \[noun\], instrumental, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
-- *rudrair* \< *rudraiḥ* \< *rudra*
+- *rudrair* ← *rudraiḥ* ← *rudra*
 - \[noun\], instrumental, plural, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *vasubhiḥ* \< *vasu*
+- *vasubhiḥ* ← *vasu*
 - \[noun\], instrumental, plural, masculine
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
 ------------------------------------------------------------------------
-- *sacābhuvā* \< *sacābhū*
+- *sacābhuvā* ← *sacābhū*
 - \[noun\], nominative, dual, masculine
 - “ally.”
 ------------------------------------------------------------------------
@@ -38,11 +38,11 @@ title = "Rig Veda 2.31.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vayo* \< *vayaḥ* \< *vi*
+- *vayo* ← *vayaḥ* ← *vi*
 - \[noun\], nominative, plural, masculine
 - “vi; bird; vi.”
 ------------------------------------------------------------------------
@@ -50,12 +50,12 @@ title = "Rig Veda 2.31.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *paptan* \< *pat*
+- *paptan* ← *pat*
 - \[verb\], plural, Aorist inj. (proh.)
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
 ------------------------------------------------------------------------
-- *vasmanas* \< *vasman*
+- *vasmanas* ← *vasman*
 - \[noun\], genitive, singular, neuter
 - “nest.”
 ------------------------------------------------------------------------
@@ -63,13 +63,13 @@ title = "Rig Veda 2.31.1"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *śravasyavo* \< *śravasyavaḥ* \< *śravasyu*
+- *śravasyavo* ← *śravasyavaḥ* ← *śravasyu*
 - \[noun\], nominative, plural, masculine
 - “celebrated.”
 ------------------------------------------------------------------------
-- *hṛṣīvanto* \< *hṛṣīvantaḥ* \< *hṛṣīvat*
+- *hṛṣīvanto* ← *hṛṣīvantaḥ* ← *hṛṣīvat*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *vanarṣadaḥ* \< *vanarṣad*
+- *vanarṣadaḥ* ← *vanarṣad*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------

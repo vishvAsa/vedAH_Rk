@@ -6,11 +6,11 @@ title = "Rig Veda 6.63.11"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *sumne* \< *sumna*
+- *sumne* ← *sumna*
 - \[noun\], locative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
@@ -18,11 +18,11 @@ title = "Rig Veda 6.63.11"
 - \[noun\], locative, singular, masculine
 - “width; size.”
 ------------------------------------------------------------------------
-- *sūribhiḥ* \< *sūri*
+- *sūribhiḥ* ← *sūri*
 - \[noun\], instrumental, plural, masculine
 - “patron.”
 ------------------------------------------------------------------------
-- *ṣyām* \< *syām* \< *as*
+- *ṣyām* ← *syām* ← *as*
 - \[verb\], singular, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

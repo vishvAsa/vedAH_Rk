@@ -2,27 +2,27 @@
 title = "Rig Veda 7.37.5"
 
 +++
--   *sanitāsi* \< *san*
+-   *sanitāsi* ← *san*
 - \[verb\], singular, periphrast. future
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *pravato* \< *pravataḥ* \< *pravat*
+- *pravato* ← *pravataḥ* ← *pravat*
 - \[noun\], accusative, plural, feminine
 - “slope; river.”
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *yābhir* \< *yābhiḥ* \< *yad*
+- *yābhir* ← *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *viveṣo* \< *viveṣaḥ* \< *viṣ*
+- *viveṣo* ← *viveṣaḥ* ← *viṣ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “labor; act; perform.”
 ------------------------------------------------------------------------
@@ -30,12 +30,12 @@ title = "Rig Veda 7.37.5"
 - \[noun\], vocative, singular, masculine
 - “Indra; Haryaśva.”
 ------------------------------------------------------------------------
-- *dhībhiḥ* \< *dhī*
+- *dhībhiḥ* ← *dhī*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *vavanmā* \< *vavanma* \< *van*
+- *vavanmā* ← *vavanma* ← *van*
 - \[verb\], plural, Perfect indicative
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
@@ -43,15 +43,15 @@ title = "Rig Veda 7.37.5"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *yujyābhir* \< *yujyābhiḥ* \< *yujya*
+- *yujyābhir* ← *yujyābhiḥ* ← *yujya*
 - \[noun\], instrumental, plural, feminine
 - “adequate to(p); appropriate; united; allied.”
 ------------------------------------------------------------------------
-- *ūtī* \< *ūti*
+- *ūtī* ← *ūti*
 - \[noun\], instrumental, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
@@ -59,7 +59,7 @@ title = "Rig Veda 7.37.5"
 - \[adverb\]
 - “when; kadā \[word\].”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -68,7 +68,7 @@ title = "Rig Veda 7.37.5"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *rāya* \< *rāyaḥ* \< *rai*
+- *rāya* ← *rāyaḥ* ← *rai*
 - \[noun\], ablative, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
@@ -76,6 +76,6 @@ title = "Rig Veda 7.37.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *daśasyeḥ* \< *daśasy*
+- *daśasyeḥ* ← *daśasy*
 - \[verb\], singular, Present optative
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 2.41.10"
 
 +++
--   *indro* \< *indraḥ* \< *indra*
+-   *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -11,22 +11,22 @@ title = "Rig Veda 2.41.10"
 - \[adverb\]
 - “in truth; aṅga \[word\]; entirely; merely.”
 ------------------------------------------------------------------------
-- *mahad* \< *mahat*
+- *mahad* ← *mahat*
 - \[noun\], accusative, singular, neuter
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
 ------------------------------------------------------------------------
-- *bhayam* \< *bhaya*
+- *bhayam* ← *bhaya*
 - \[noun\], accusative, singular, neuter
 - “fear; danger; danger; bhaya \[word\]; distress; apprehension;
     alarm; apprehension.”
 ------------------------------------------------------------------------
-- *abhī* \< *abhi*
+- *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *ṣad* \< *sat* \< *as*
+- *ṣad* ← *sat* ← *as*
 - \[verb noun\], accusative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -35,12 +35,12 @@ title = "Rig Veda 2.41.10"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *cucyavat* \< *cyu*
+- *cucyavat* ← *cyu*
 - \[verb\], singular, Perfect injunctive
 - “fall down; issue; shoot; ejaculate; deviate; banish; drop;
     dislodge; miss; deprive.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -50,13 +50,13 @@ title = "Rig Veda 2.41.10"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *sthiro* \< *sthiraḥ* \< *sthira*
+- *sthiro* ← *sthiraḥ* ← *sthira*
 - \[noun\], nominative, singular, masculine
 - “firm; hard; lasting; calm; stable; immovable; firm; strong; sthira
     \[word\]; vegetable; potent; steadfast; durable; firm; trustworthy;
     trustworthy; diligent.”
 ------------------------------------------------------------------------
-- *vicarṣaṇiḥ* \< *vicarṣaṇi*
+- *vicarṣaṇiḥ* ← *vicarṣaṇi*
 - \[noun\], nominative, singular, masculine
 - “excellent.”
 ------------------------------------------------------------------------

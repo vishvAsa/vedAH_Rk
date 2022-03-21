@@ -6,46 +6,46 @@ title = "Rig Veda 1.116.25"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *daṃsāṃsy* \< *daṃsāṃsi* \< *daṃsas*
+- *daṃsāṃsy* ← *daṃsāṃsi* ← *daṃsas*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *aśvināv* \< *aśvinau* \< *aśvin*
+- *aśvināv* ← *aśvinau* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *avocam* \< *vac*
+- *avocam* ← *vac*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *patiḥ* \< *pati*
+- *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *syāṃ* \< *syām* \< *as*
+- *syāṃ* ← *syām* ← *as*
 - \[verb\], singular, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *sugavaḥ* \< *sugava*
+- *sugavaḥ* ← *sugava*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *suvīraḥ* \< *su*
+- *suvīraḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvīraḥ* \< *vīraḥ* \< *vīra*
+- *suvīraḥ* ← *vīraḥ* ← *vīra*
 - \[noun\], nominative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
@@ -53,40 +53,40 @@ title = "Rig Veda 1.116.25"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *paśyann* \< *paśyan* \< *paś*
+- *paśyann* ← *paśyan* ← *paś*
 - \[verb noun\], nominative, singular
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *aśnuvan* \< *aś*
+- *aśnuvan* ← *aś*
 - \[verb noun\], nominative, singular
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *dīrgham* \< *dīrgha*
+- *dīrgham* ← *dīrgha*
 - \[noun\], accusative, singular, neuter
 - “long; long; long; large; far; deep; dīrgha \[word\].”
 ------------------------------------------------------------------------
-- *āyur* \< *āyuḥ* \< *āyus*
+- *āyur* ← *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------
-- *astam* \< *asta*
+- *astam* ← *asta*
 - \[noun\], accusative, singular, neuter
 - “home.”
 ------------------------------------------------------------------------
-- *ivej* \< *iva*
+- *ivej* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ivej* \< *id*
+- *ivej* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *jarimāṇaṃ* \< *jarimāṇam* \< *jariman*
+- *jarimāṇaṃ* ← *jarimāṇam* ← *jariman*
 - \[noun\], accusative, singular, masculine
 - “old age.”
 ------------------------------------------------------------------------
-- *jagamyām* \< *gam*
+- *jagamyām* ← *gam*
 - \[verb\], singular, Perfect optative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

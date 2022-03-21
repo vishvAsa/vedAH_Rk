@@ -2,62 +2,62 @@
 title = "Rig Veda 10.85.28"
 
 +++
--   *nīlalohitam* \< *nīla*
+-   *nīlalohitam* ← *nīla*
 - \[noun\]
 - “blue; black; black; nīla \[word\]; green.”
 ------------------------------------------------------------------------
-- *nīlalohitam* \< *lohitam* \< *lohita*
+- *nīlalohitam* ← *lohitam* ← *lohita*
 - \[noun\], nominative, singular, neuter
 - “red; red-hot; lohita \[word\].”
 ------------------------------------------------------------------------
-- *bhavati* \< *bhū*
+- *bhavati* ← *bhū*
 - \[verb\], singular, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *kṛtyāsaktir* \< *kṛtyā*
+- *kṛtyāsaktir* ← *kṛtyā*
 - \[noun\], nominative, singular, feminine
 - “magic; spirit; kṛtyā; Kṛtyā; witchcraft; act.”
 ------------------------------------------------------------------------
-- *kṛtyāsaktir* \< *āsaktiḥ* \< *āsakti*
+- *kṛtyāsaktir* ← *āsaktiḥ* ← *āsakti*
 - \[noun\], nominative, singular, feminine
 - “attachment.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ajyate* \< *añj*
+- *ajyate* ← *añj*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *edhante* \< *edh*
+- *edhante* ← *edh*
 - \[verb\], plural, Present indikative
 - “boom; get; thrive; increase; increase.”
 ------------------------------------------------------------------------
-- *asyā* \< *asyāḥ* \< *idam*
+- *asyā* ← *asyāḥ* ← *idam*
 - \[noun\], genitive, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *jñātayaḥ* \< *jñāti*
+- *jñātayaḥ* ← *jñāti*
 - \[noun\], nominative, plural, masculine
 - “relative; jñāti \[word\]; kinsman.”
 ------------------------------------------------------------------------
-- *patir* \< *patiḥ* \< *pati*
+- *patir* ← *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *bandheṣu* \< *bandha*
+- *bandheṣu* ← *bandha*
 - \[noun\], locative, plural, masculine
 - “bandhana; bandage; paralysis; connection; shutting; constipation;
     confinement; joining; part; binding; fetter; bandha \[word\];
     hardening; attachment; dressing; capture; sexual intercourse;
     border; chain; fixedness; deposit; connection; trap.”
 ------------------------------------------------------------------------
-- *badhyate* \< *bandh*
+- *badhyate* ← *bandh*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “bandh; tie; envelop; close; dress; wrap; bind; constipate; fixate;
     shape; paralyze; construct; bandage; compress; beset; oblige; strap;

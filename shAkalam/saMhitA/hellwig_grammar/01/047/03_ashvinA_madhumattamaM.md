@@ -2,35 +2,35 @@
 title = "Rig Veda 1.47.3"
 
 +++
--   *aśvinā* \< *aśvin*
+-   *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *madhumattamam* \< *madhumattama*
+- *madhumattamam* ← *madhumattama*
 - \[noun\], accusative, singular, masculine
 - “sweetest.”
 ------------------------------------------------------------------------
-- *pātaṃ* \< *pātam* \< *pā*
+- *pātaṃ* ← *pātam* ← *pā*
 - \[verb\], dual, Aorist imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *ṛtāvṛdhā* \< *ṛtāvṛdh*
+- *ṛtāvṛdhā* ← *ṛtāvṛdh*
 - \[noun\], vocative, dual, masculine
 - “sincere.”
 ------------------------------------------------------------------------
-- *athādya* \< *atha*
+- *athādya* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *athādya* \< *adya*
+- *athādya* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *dasrā* \< *dasra*
+- *dasrā* ← *dasra*
 - \[noun\], nominative, dual, masculine
 - “Asvins.”
 ------------------------------------------------------------------------
@@ -38,16 +38,16 @@ title = "Rig Veda 1.47.3"
 - \[noun\], accusative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *bibhratā* \< *bhṛ*
+- *bibhratā* ← *bhṛ*
 - \[verb noun\], nominative, dual
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *rathe* \< *ratha*
+- *rathe* ← *ratha*
 - \[noun\], locative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *dāśvāṃsam* \< *dāś*
+- *dāśvāṃsam* ← *dāś*
 - \[verb noun\], accusative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
@@ -55,7 +55,7 @@ title = "Rig Veda 1.47.3"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *gacchatam* \< *gam*
+- *gacchatam* ← *gam*
 - \[verb\], dual, Present imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

@@ -2,7 +2,7 @@
 title = "Rig Veda 1.127.3"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -12,37 +12,37 @@ title = "Rig Veda 1.127.3"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *purū* \< *puru*
+- *purū* ← *puru*
 - \[noun\], accusative, plural, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ojasā* \< *ojas*
+- *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *virukmatā* \< *virukmat*
+- *virukmatā* ← *virukmat*
 - \[noun\], instrumental, singular, neuter
 - “bright; glistening.”
 ------------------------------------------------------------------------
-- *dīdyāno* \< *dīdyānaḥ* \< *dīdī*
+- *dīdyāno* ← *dīdyānaḥ* ← *dīdī*
 - \[verb noun\], nominative, singular
 - “shine; glitter.”
 ------------------------------------------------------------------------
-- *bhavati* \< *bhū*
+- *bhavati* ← *bhū*
 - \[verb\], singular, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *druhantaraḥ* \< *druhaṃtara*
+- *druhantaraḥ* ← *druhaṃtara*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *paraśur* \< *paraśuḥ* \< *paraśu*
+- *paraśur* ← *paraśuḥ* ← *paraśu*
 - \[noun\], nominative, singular, masculine
 - “ax.”
 ------------------------------------------------------------------------
@@ -50,70 +50,70 @@ title = "Rig Veda 1.127.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *druhantaraḥ* \< *druhaṃtara*
+- *druhantaraḥ* ← *druhaṃtara*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vīﾱu* \< *vīḍu*
+- *vīﾱu* ← *vīḍu*
 - \[noun\], nominative, singular, neuter
 - “hard; firm.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *samṛtau* \< *samṛti*
+- *samṛtau* ← *samṛti*
 - \[noun\], locative, singular, feminine
 - “battle; contact.”
 ------------------------------------------------------------------------
-- *śruvad* \< *śruvat* \< *śru*
+- *śruvad* ← *śruvat* ← *śru*
 - \[verb\], singular, Aorist inj. (proh.)
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *vaneva* \< *vanā* \< *vana*
+- *vaneva* ← *vanā* ← *vana*
 - \[noun\], nominative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
-- *vaneva* \< *iva*
+- *vaneva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *yat* \< *yad*
+- *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sthiram* \< *sthira*
+- *sthiram* ← *sthira*
 - \[noun\], nominative, singular, neuter
 - “firm; hard; lasting; calm; stable; immovable; firm; strong; sthira
     \[word\]; vegetable; potent; steadfast; durable; firm; trustworthy;
     trustworthy; diligent.”
 ------------------------------------------------------------------------
-- *niḥṣahamāṇo* \< *niḥṣahamāṇaḥ* \< *niḥsah* \< *√sah*
+- *niḥṣahamāṇo* ← *niḥṣahamāṇaḥ* ← *niḥsah* ← *√sah*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *yamate* \< *yam*
+- *yamate* ← *yam*
 - \[verb\], singular, Aorist conj./subj.
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *nāyate* \< *na*
+- *nāyate* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāyate* \< *ayate* \< *i*
+- *nāyate* ← *ayate* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *dhanvāsahā* \< *dhanvāsah*
+- *dhanvāsahā* ← *dhanvāsah*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
-- *nāyate* \< *na*
+- *nāyate* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāyate* \< *ayate* \< *i*
+- *nāyate* ← *ayate* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------

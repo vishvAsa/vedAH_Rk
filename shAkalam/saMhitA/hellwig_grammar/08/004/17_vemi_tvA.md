@@ -2,30 +2,30 @@
 title = "Rig Veda 8.4.17"
 
 +++
--   *vemi* \< *vī*
+-   *vemi* ← *vī*
 - \[verb\], singular, Present indikative
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *pūṣann* \< *pūṣan*
+- *pūṣann* ← *pūṣan*
 - \[noun\], vocative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *ṛñjase* \< *ṛj*
+- *ṛñjase* ← *ṛj*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *vemi* \< *vī*
+- *vemi* ← *vī*
 - \[verb\], singular, Present indikative
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *stotava* \< *stotave* \< *stu*
+- *stotava* ← *stotave* ← *stu*
 - \[verb noun\]
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *āghṛṇe* \< *āghṛṇi*
+- *āghṛṇe* ← *āghṛṇi*
 - \[noun\], vocative, singular, masculine
 - “aglow(p).”
 ------------------------------------------------------------------------
@@ -33,17 +33,17 @@ title = "Rig Veda 8.4.17"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tasya* \< *tad*
+- *tasya* ← *tad*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vemy* \< *vemi* \< *vī*
+- *vemy* ← *vemi* ← *vī*
 - \[verb\], singular, Present indikative
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *araṇaṃ* \< *araṇam* \< *araṇa*
+- *araṇaṃ* ← *araṇam* ← *araṇa*
 - \[noun\], nominative, singular, neuter
 - “foreign; unrelated.”
 ------------------------------------------------------------------------
@@ -51,24 +51,24 @@ title = "Rig Veda 8.4.17"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vaso* \< *vasu*
+- *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *stuṣe* \< *stu*
+- *stuṣe* ← *stu*
 - \[verb\], singular, Present indikative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *pajrāya* \< *pajra*
+- *pajrāya* ← *pajra*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *sāmne* \< *sāman*
+- *sāmne* ← *sāman*
 - \[noun\], dative, singular, neuter
 - “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
 ------------------------------------------------------------------------

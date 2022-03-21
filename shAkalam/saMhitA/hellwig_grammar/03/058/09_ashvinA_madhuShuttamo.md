@@ -2,28 +2,28 @@
 title = "Rig Veda 3.58.9"
 
 +++
--   *aśvinā* \< *aśvin*
+-   *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *madhuṣuttamo* \< *madhuṣuttamaḥ* \< *madhuṣuttama*
+- *madhuṣuttamo* ← *madhuṣuttamaḥ* ← *madhuṣuttama*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *yuvākuḥ* \< *yuvāku*
+- *yuvākuḥ* ← *yuvāku*
 - \[noun\], nominative, singular, masculine
 - “your(a).”
 ------------------------------------------------------------------------
-- *somas* \< *somaḥ* \< *soma*
+- *somas* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *pātam* \< *pā*
+- *pātam* ← *pā*
 - \[verb\], dual, Aorist imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
@@ -31,18 +31,18 @@ title = "Rig Veda 3.58.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gataṃ* \< *gatam* \< *gam*
+- *gataṃ* ← *gatam* ← *gam*
 - \[verb\], dual, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *duroṇe* \< *duroṇa*
+- *duroṇe* ← *duroṇa*
 - \[noun\], locative, singular, neuter
 - “home; dwelling.”
 ------------------------------------------------------------------------
-- *ratho* \< *rathaḥ* \< *ratha*
+- *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -50,7 +50,7 @@ title = "Rig Veda 3.58.9"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -58,22 +58,22 @@ title = "Rig Veda 3.58.9"
 - \[noun\], accusative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *varpaḥ* \< *varpas*
+- *varpaḥ* ← *varpas*
 - \[noun\], accusative, singular, neuter
 - “form; look; disguise.”
 ------------------------------------------------------------------------
-- *karikrat* \< *karikṛ* \< *√kṛ*
+- *karikrat* ← *karikṛ* ← *√kṛ*
 - \[verb noun\], nominative, singular
 - “produce.”
 ------------------------------------------------------------------------
-- *sutāvato* \< *sutāvataḥ* \< *sutāvat*
+- *sutāvato* ← *sutāvataḥ* ← *sutāvat*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *niṣkṛtam* \< *niṣkṛta*
+- *niṣkṛtam* ← *niṣkṛta*
 - \[noun\], accusative, singular, neuter
 - “place; rendezvous.”
 ------------------------------------------------------------------------
-- *āgamiṣṭhaḥ* \< *āgamiṣṭha*
+- *āgamiṣṭhaḥ* ← *āgamiṣṭha*
 - \[noun\], nominative, singular, masculine
 - “arriving(a).”
 ------------------------------------------------------------------------

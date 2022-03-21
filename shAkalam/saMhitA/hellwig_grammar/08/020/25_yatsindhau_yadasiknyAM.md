@@ -2,52 +2,52 @@
 title = "Rig Veda 8.20.25"
 
 +++
--   *yat* \< *yad*
+-   *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sindhau* \< *sindhu*
+- *sindhau* ← *sindhu*
 - \[noun\], locative, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *asiknyāṃ* \< *asiknyām* \< *asiknī*
+- *asiknyāṃ* ← *asiknyām* ← *asiknī*
 - \[noun\], locative, singular, feminine
 - “Asiknī; Vairiṇī; night.”
 ------------------------------------------------------------------------
-- *yat* \< *yad*
+- *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *samudreṣu* \< *samudra*
+- *samudreṣu* ← *samudra*
 - \[noun\], locative, plural, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *subarhiṣaḥ* \< *su*
+- *subarhiṣaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *subarhiṣaḥ* \< *barhiṣaḥ* \< *barhis*
+- *subarhiṣaḥ* ← *barhiṣaḥ* ← *barhis*
 - \[noun\], vocative, plural, masculine
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *yat* \< *yad*
+- *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *parvateṣu* \< *parvata*
+- *parvateṣu* ← *parvata*
 - \[noun\], locative, plural, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
 ------------------------------------------------------------------------
-- *bheṣajam* \< *bheṣaja*
+- *bheṣajam* ← *bheṣaja*
 - \[noun\], nominative, singular, neuter
 - “drug; medicine; herb; bheṣaja \[word\]; remedy; reagent.”
 ------------------------------------------------------------------------

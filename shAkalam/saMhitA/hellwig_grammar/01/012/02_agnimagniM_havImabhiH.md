@@ -2,19 +2,19 @@
 title = "Rig Veda 1.12.2"
 
 +++
--   *agnim* \< *agni*
+-   *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *agniṃ* \< *agnim* \< *agni*
+- *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *havīmabhiḥ* \< *havīman*
+- *havīmabhiḥ* ← *havīman*
 - \[noun\], instrumental, plural, neuter
 - “call; invocation.”
 ------------------------------------------------------------------------
@@ -22,27 +22,27 @@ title = "Rig Veda 1.12.2"
 - \[adverb\]
 - “always; continually; always; perpetually.”
 ------------------------------------------------------------------------
-- *havanta* \< *hvā*
+- *havanta* ← *hvā*
 - \[verb\], plural, Present injunctive
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *viśpatim* \< *viśpati*
+- *viśpatim* ← *viśpati*
 - \[noun\], accusative, singular, masculine
 - “overlord; head.”
 ------------------------------------------------------------------------
-- *havyavāham* \< *havya*
+- *havyavāham* ← *havya*
 - \[noun\], neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *havyavāham* \< *vāham* \< *vāha*
+- *havyavāham* ← *vāham* ← *vāha*
 - \[noun\], accusative, singular, masculine
 - “transporting; flowing; removing.”
 ------------------------------------------------------------------------
-- *purupriyam* \< *puru*
+- *purupriyam* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purupriyam* \< *priyam* \< *priya*
+- *purupriyam* ← *priyam* ← *priya*
 - \[noun\], accusative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”

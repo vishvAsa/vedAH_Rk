@@ -2,17 +2,17 @@
 title = "Rig Veda 1.191.2"
 
 +++
--   *adṛṣṭān* \< *adṛṣṭa*
+-   *adṛṣṭān* ← *adṛṣṭa*
 - \[noun\], accusative, plural, masculine
 - “unobserved; invisible; unseen; unanticipated; unknown.”
 ------------------------------------------------------------------------
-- *hanty* \< *hanti* \< *han*
+- *hanty* ← *hanti* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *āyaty* \< *āyatī* \< *e* \< *√i*
+- *āyaty* ← *āyatī* ← *e* ← *√i*
 - \[verb noun\], nominative, singular
 - “come; travel.”
 ------------------------------------------------------------------------
@@ -20,13 +20,13 @@ title = "Rig Veda 1.191.2"
 - \[adverb\]
 - “now; but; furthermore.”
 ------------------------------------------------------------------------
-- *hanti* \< *han*
+- *hanti* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *parāyatī* \< *pare* \< *√i*
+- *parāyatī* ← *pare* ← *√i*
 - \[verb noun\], nominative, singular
 - “travel; depart; go; die.”
 ------------------------------------------------------------------------
@@ -34,11 +34,11 @@ title = "Rig Veda 1.191.2"
 - \[adverb\]
 - “now; but; furthermore.”
 ------------------------------------------------------------------------
-- *avaghnatī* \< *avahan* \< *√han*
+- *avaghnatī* ← *avahan* ← *√han*
 - \[verb noun\], nominative, singular
 - “thrash; strike.”
 ------------------------------------------------------------------------
-- *hanty* \< *hanti* \< *han*
+- *hanty* ← *hanti* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
@@ -48,11 +48,11 @@ title = "Rig Veda 1.191.2"
 - \[adverb\]
 - “now; but; furthermore.”
 ------------------------------------------------------------------------
-- *pinaṣṭi* \< *piṣ*
+- *pinaṣṭi* ← *piṣ*
 - \[verb\], singular, Present indikative
 - “grind; knead; paste; crush; press out.”
 ------------------------------------------------------------------------
-- *piṃṣatī* \< *piṣ*
+- *piṃṣatī* ← *piṣ*
 - \[verb noun\], nominative, singular
 - “grind; knead; paste; crush; press out.”
 ------------------------------------------------------------------------

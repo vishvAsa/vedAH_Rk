@@ -2,7 +2,7 @@
 title = "Rig Veda 10.65.3"
 
 +++
--   *teṣāṃ* \< *teṣām* \< *tad*
+-   *teṣāṃ* ← *teṣām* ← *tad*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -12,80 +12,80 @@ title = "Rig Veda 10.65.3"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *mahnā* \< *mahan*
+- *mahnā* ← *mahan*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
 ------------------------------------------------------------------------
-- *mahatām* \< *mahat*
+- *mahatām* ← *mahat*
 - \[noun\], genitive, plural, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
 ------------------------------------------------------------------------
-- *anarvaṇāṃ* \< *anarvaṇām* \< *anarvan*
+- *anarvaṇāṃ* ← *anarvaṇām* ← *anarvan*
 - \[noun\], genitive, plural, masculine
 - “unchallenged; unrivaled.”
 ------------------------------------------------------------------------
-- *stomāṃ* \< *stoma*
+- *stomāṃ* ← *stoma*
 - \[noun\], accusative, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *iyarmy* \< *iyarmi* \< *ṛch*
+- *iyarmy* ← *iyarmi* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *ṛtajñā* \< *ṛta*
+- *ṛtajñā* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *ṛtajñā* \< *jñāḥ* \< *jñā*
+- *ṛtajñā* ← *jñāḥ* ← *jñā*
 - \[noun\], nominative, singular, masculine
 - “aware(p).”
 ------------------------------------------------------------------------
-- *ṛtāvṛdhām* \< *ṛtāvṛdh*
+- *ṛtāvṛdhām* ← *ṛtāvṛdh*
 - \[noun\], genitive, plural, masculine
 - “sincere.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *apsavam* \< *apsava*
+- *apsavam* ← *apsava*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *arṇavaṃ* \< *arṇavam* \< *arṇava*
+- *arṇavaṃ* ← *arṇavam* ← *arṇava*
 - \[noun\], accusative, singular, masculine
 - “ocean; sea; four.”
 ------------------------------------------------------------------------
-- *citrarādhasas* \< *citra*
+- *citrarādhasas* ← *citra*
 - \[noun\]
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *citrarādhasas* \< *rādhasaḥ* \< *rādhas*
+- *citrarādhasas* ← *rādhasaḥ* ← *rādhas*
 - \[noun\], nominative, plural, masculine
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rāsantām* \< *rā*
+- *rāsantām* ← *rā*
 - \[verb\], plural, Aorist imperative
 - “give; impart.”
 ------------------------------------------------------------------------
-- *mahaye* \< *mahay* \< *√mah*
+- *mahaye* ← *mahay* ← *√mah*
 - \[verb\], singular, Present indikative
 - “glorify.”
 ------------------------------------------------------------------------
-- *sumitryāḥ* \< *sumitrya*
+- *sumitryāḥ* ← *sumitrya*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------

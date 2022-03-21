@@ -2,53 +2,53 @@
 title = "Rig Veda 1.126.4"
 
 +++
--   *catvāriṃśad* \< *catvāriṃśat*
+-   *catvāriṃśad* ← *catvāriṃśat*
 - \[noun\], nominative, singular, feminine
 - “forty; catvāriṃśat \[word\].”
 ------------------------------------------------------------------------
-- *daśarathasya* \< *daśa* \< *daśan*
+- *daśarathasya* ← *daśa* ← *daśan*
 - \[noun\]
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *daśarathasya* \< *rathasya* \< *ratha*
+- *daśarathasya* ← *rathasya* ← *ratha*
 - \[noun\], genitive, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *śoṇāḥ* \< *śoṇa*
+- *śoṇāḥ* ← *śoṇa*
 - \[noun\], nominative, plural, masculine
 - “red; śoṇa \[word\]; red; purple.”
 ------------------------------------------------------------------------
-- *sahasrasyāgre* \< *sahasrasya* \< *sahasra*
+- *sahasrasyāgre* ← *sahasrasya* ← *sahasra*
 - \[noun\], genitive, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasrasyāgre* \< *agre* \< *agra*
+- *sahasrasyāgre* ← *agre* ← *agra*
 - \[noun\], locative, singular, neuter
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
 ------------------------------------------------------------------------
-- *śreṇiṃ* \< *śreṇim* \< *śreṇi*
+- *śreṇiṃ* ← *śreṇim* ← *śreṇi*
 - \[noun\], accusative, singular, masculine
 - “club; line.”
 ------------------------------------------------------------------------
-- *nayanti* \< *nī*
+- *nayanti* ← *nī*
 - \[verb\], plural, Present indikative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *madacyutaḥ* \< *madacyut*
+- *madacyutaḥ* ← *madacyut*
 - \[noun\], accusative, plural, masculine
 - “proud.”
 ------------------------------------------------------------------------
-- *kṛśanāvato* \< *kṛśanāvataḥ* \< *kṛśanāvat*
+- *kṛśanāvato* ← *kṛśanāvataḥ* ← *kṛśanāvat*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *atyān* \< *atya*
+- *atyān* ← *atya*
 - \[noun\], accusative, plural, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------
-- *kakṣīvanta* \< *kakṣīvantaḥ* \< *kakṣīvant*
+- *kakṣīvanta* ← *kakṣīvantaḥ* ← *kakṣīvant*
 - \[noun\], nominative, plural, masculine
 - “Kakṣīvant; kakṣīvant \[word\].”
 ------------------------------------------------------------------------
@@ -56,10 +56,10 @@ title = "Rig Veda 1.126.4"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *amṛkṣanta* \< *mṛj*
+- *amṛkṣanta* ← *mṛj*
 - \[verb\], plural, sa aorist (Ind.)
 - “purify; polish; rub; remove.”
 ------------------------------------------------------------------------
-- *pajrāḥ* \< *pajra*
+- *pajrāḥ* ← *pajra*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------

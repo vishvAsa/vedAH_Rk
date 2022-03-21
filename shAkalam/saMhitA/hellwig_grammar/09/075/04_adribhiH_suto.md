@@ -2,45 +2,45 @@
 title = "Rig Veda 9.75.4"
 
 +++
--   *adribhiḥ* \< *adri*
+-   *adribhiḥ* ← *adri*
 - \[noun\], instrumental, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *suto* \< *sutaḥ* \< *su*
+- *suto* ← *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *matibhiś* \< *matibhiḥ* \< *mati*
+- *matibhiś* ← *matibhiḥ* ← *mati*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *canohitaḥ* \< *canohita*
+- *canohitaḥ* ← *canohita*
 - \[noun\], nominative, singular, masculine
 - “popular; favorable.”
 ------------------------------------------------------------------------
-- *prarocayan* \< *prarocay* \< *√ruc*
+- *prarocayan* ← *prarocay* ← *√ruc*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *mātarā* \< *mātṛ*
+- *mātarā* ← *mātṛ*
 - \[noun\], accusative, dual, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *śuciḥ* \< *śuci*
+- *śuciḥ* ← *śuci*
 - \[noun\], nominative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *romāṇy* \< *romāṇi* \< *roman*
+- *romāṇy* ← *romāṇi* ← *roman*
 - \[noun\], accusative, plural, neuter
 - “hair; bristle; mane.”
 ------------------------------------------------------------------------
-- *avyā* \< *avya*
+- *avyā* ← *avya*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
 - *samayā*
@@ -51,11 +51,11 @@ title = "Rig Veda 9.75.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *dhāvati* \< *dhāv*
+- *dhāvati* ← *dhāv*
 - \[verb\], singular, Present indikative
 - “run; run; wash.”
 ------------------------------------------------------------------------
-- *madhor* \< *madhoḥ* \< *madhu*
+- *madhor* ← *madhoḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
@@ -63,15 +63,15 @@ title = "Rig Veda 9.75.4"
 - \[noun\], nominative, singular, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *pinvamānā* \< *pinv*
+- *pinvamānā* ← *pinv*
 - \[verb noun\], nominative, singular
 - “swell; swell; overflow; abound.”
 ------------------------------------------------------------------------
-- *dive* \< *diva*
+- *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
 ------------------------------------------------------------------------
-- *dive* \< *diva*
+- *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
 ------------------------------------------------------------------------

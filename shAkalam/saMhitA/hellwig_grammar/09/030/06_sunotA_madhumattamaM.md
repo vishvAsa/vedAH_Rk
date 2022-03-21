@@ -2,35 +2,35 @@
 title = "Rig Veda 9.30.6"
 
 +++
--   *sunotā* \< *sunota* \< *su*
+-   *sunotā* ← *sunota* ← *su*
 - \[verb\], plural, Present imperative
 - “press out; su.”
 ------------------------------------------------------------------------
-- *madhumattamaṃ* \< *madhumattamam* \< *madhumattama*
+- *madhumattamaṃ* ← *madhumattamam* ← *madhumattama*
 - \[noun\], accusative, singular, masculine
 - “sweetest.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vajriṇe* \< *vajrin*
+- *vajriṇe* ← *vajrin*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *cāruṃ* \< *cārum* \< *cāru*
+- *cāruṃ* ← *cārum* ← *cāru*
 - \[noun\], accusative, singular, masculine
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
 ------------------------------------------------------------------------
-- *śardhāya* \< *śardha*
+- *śardhāya* ← *śardha*
 - \[noun\], dative, singular, masculine
 - “troop.”
 ------------------------------------------------------------------------
-- *matsaram* \< *matsara*
+- *matsaram* ← *matsara*
 - \[noun\], accusative, singular, masculine
 - “intoxicant; invigorating; hostile.”
 ------------------------------------------------------------------------

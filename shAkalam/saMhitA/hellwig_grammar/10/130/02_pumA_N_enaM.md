@@ -2,27 +2,27 @@
 title = "Rig Veda 10.130.2"
 
 +++
--   *pumāṃ* \< *pumān* \< *puṃs*
+-   *pumāṃ* ← *pumān* ← *puṃs*
 - \[noun\], nominative, singular, masculine
 - “man; masculine; man; puṃvajra; puruṣa; son; puṃs \[word\].”
 ------------------------------------------------------------------------
-- *enaṃ* \< *enam* \< *enad*
+- *enaṃ* ← *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
-- *tanuta* \< *tanute* \< *tan*
+- *tanuta* ← *tanute* ← *tan*
 - \[verb\], singular, Present indikative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
 ------------------------------------------------------------------------
-- *ut* \< *ud*
+- *ut* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *kṛṇatti* \< *kṛt*
+- *kṛṇatti* ← *kṛt*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *pumān* \< *puṃs*
+- *pumān* ← *puṃs*
 - \[noun\], nominative, singular, masculine
 - “man; masculine; man; puṃvajra; puruṣa; son; puṃs \[word\].”
 ------------------------------------------------------------------------
@@ -30,7 +30,7 @@ title = "Rig Veda 10.130.2"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *tatne* \< *tan*
+- *tatne* ← *tan*
 - \[verb\], singular, Perfect indicative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
@@ -39,19 +39,19 @@ title = "Rig Veda 10.130.2"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *nāke* \< *nāka*
+- *nāke* ← *nāka*
 - \[noun\], locative, singular, masculine
 - “sky; celestial sphere; Svarga; nāka \[word\].”
 ------------------------------------------------------------------------
-- *asmin* \< *idam*
+- *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ime* \< *idam*
+- *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *mayūkhā* \< *mayūkhāḥ* \< *mayūkha*
+- *mayūkhā* ← *mayūkhāḥ* ← *mayūkha*
 - \[noun\], nominative, plural, masculine
 - “beam; peg; post.”
 ------------------------------------------------------------------------
@@ -59,24 +59,24 @@ title = "Rig Veda 10.130.2"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *sedur* \< *seduḥ* \< *sad*
+- *sedur* ← *seduḥ* ← *sad*
 - \[verb\], plural, Perfect indicative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *ū* \< *u*
+- *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *sadaḥ* \< *sadas*
+- *sadaḥ* ← *sadas*
 - \[noun\], accusative, singular, neuter
 - “mansion; assembly; seat; seat.”
 ------------------------------------------------------------------------
-- *sāmāni* \< *sāman*
+- *sāmāni* ← *sāman*
 - \[noun\], accusative, plural, neuter
 - “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
 ------------------------------------------------------------------------
-- *cakrus* \< *cakruḥ* \< *kṛ*
+- *cakrus* ← *cakruḥ* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -87,11 +87,11 @@ title = "Rig Veda 10.130.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *tasarāṇy* \< *tasarāṇi* \< *tasara*
+- *tasarāṇy* ← *tasarāṇi* ← *tasara*
 - \[noun\], accusative, plural, neuter
 - “shuttle.”
 ------------------------------------------------------------------------
-- *otave* \< *ve*
+- *otave* ← *ve*
 - \[verb noun\]
 - “weave.”
 ------------------------------------------------------------------------

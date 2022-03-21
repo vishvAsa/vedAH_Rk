@@ -2,26 +2,26 @@
 title = "Rig Veda 1.80.14"
 
 +++
--   *abhiṣṭane* \< *abhiṣṭana*
+-   *abhiṣṭane* ← *abhiṣṭana*
 - \[noun\], locative, singular, masculine
 - “thunder.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *adrivo* \< *adrivas* \< *adrivat*
+- *adrivo* ← *adrivas* ← *adrivat*
 - \[noun\], vocative, singular, masculine
 - “rocky; petrous.”
 ------------------------------------------------------------------------
-- *yat* \< *yad*
+- *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sthā* \< *sthāḥ* \< *sthā*
+- *sthā* ← *sthāḥ* ← *sthā*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *jagac* \< *jagat*
+- *jagac* ← *jagat*
 - \[noun\], nominative, singular, neuter
 - “movable; Jagatī; moving.”
 ------------------------------------------------------------------------
@@ -29,11 +29,11 @@ title = "Rig Veda 1.80.14"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *rejate* \< *rej*
+- *rejate* ← *rej*
 - \[verb\], singular, Present indikative
 - “tremor; flicker.”
 ------------------------------------------------------------------------
-- *tvaṣṭā* \< *tvaṣṭṛ*
+- *tvaṣṭā* ← *tvaṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “Tvaṣṭṛ; Viśvakarman; sun.”
 ------------------------------------------------------------------------
@@ -41,11 +41,11 @@ title = "Rig Veda 1.80.14"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *manyava* \< *manyave* \< *manyu*
+- *manyava* ← *manyave* ← *manyu*
 - \[noun\], dative, singular, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------
@@ -54,15 +54,15 @@ title = "Rig Veda 1.80.14"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vevijyate* \< *vevij* \< *√vij*
+- *vevijyate* ← *vevij* ← *√vij*
 - \[verb\], singular, Present indikative
 - “quiver.”
 ------------------------------------------------------------------------
-- *bhiyārcann* \< *bhiyā* \< *bhī*
+- *bhiyārcann* ← *bhiyā* ← *bhī*
 - \[noun\], instrumental, singular, feminine
 - “fear; bhī; alarm.”
 ------------------------------------------------------------------------
-- *bhiyārcann* \< *arcan* \< *arc*
+- *bhiyārcann* ← *arcan* ← *arc*
 - \[verb\], plural, Present injunctive
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
@@ -70,12 +70,12 @@ title = "Rig Veda 1.80.14"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *svarājyam* \< *sva*
+- *svarājyam* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svarājyam* \< *rājyam* \< *rājya*
+- *svarājyam* ← *rājyam* ← *rājya*
 - \[noun\], accusative, singular, neuter
 - “kingdom; kingship; sovereignty; rājya \[word\].”
 ------------------------------------------------------------------------

@@ -6,19 +6,19 @@ title = "Rig Veda 4.23.6"
 - \[adverb\]
 - “why; ka \[pronoun\]; if; how.”
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *amatraṃ* \< *amatram* \< *amatra*
+- *amatraṃ* ← *amatram* ← *amatra*
 - \[noun\], nominative, singular, neuter
 - “vessel.”
 ------------------------------------------------------------------------
-- *sakhyaṃ* \< *sakhyam* \< *sakhya*
+- *sakhyaṃ* ← *sakhyam* ← *sakhya*
 - \[noun\], nominative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *sakhibhyaḥ* \< *sakhi*
+- *sakhibhyaḥ* ← *sakhi*
 - \[noun\], dative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
@@ -30,42 +30,42 @@ title = "Rig Veda 4.23.6"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *bhrātram* \< *bhrātra*
+- *bhrātram* ← *bhrātra*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *bravāma* \< *brū*
+- *bravāma* ← *brū*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
 ------------------------------------------------------------------------
-- *śriye* \< *śrī*
+- *śriye* ← *śrī*
 - \[noun\], dative, singular, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
 ------------------------------------------------------------------------
-- *sudṛśo* \< *sudṛśaḥ* \< *sudṛś*
+- *sudṛśo* ← *sudṛśaḥ* ← *sudṛś*
 - \[noun\], genitive, singular, masculine
 - “fine-looking.”
 ------------------------------------------------------------------------
-- *vapur* \< *vapuḥ* \< *vapus*
+- *vapur* ← *vapuḥ* ← *vapus*
 - \[noun\], accusative, singular, neuter
 - “body; form; miracle; human body; beauty; look; spectacle; figure;
     embodiment.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *sargāḥ* \< *sarga*
+- *sargāḥ* ← *sarga*
 - \[noun\], nominative, plural, masculine
 - “Creation; metempsychosis; discharge; torrent; birth; undertaking.”
 ------------------------------------------------------------------------
@@ -73,14 +73,14 @@ title = "Rig Veda 4.23.6"
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *ṇa* \< *na*
+- *ṇa* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *citratamam* \< *citratama*
+- *citratamam* ← *citratama*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *iṣa* \< *iṣe* \< *iṣ*
+- *iṣa* ← *iṣe* ← *iṣ*
 - \[verb\], singular, Present indikative
 - “send.”
 ------------------------------------------------------------------------
@@ -88,7 +88,7 @@ title = "Rig Veda 4.23.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *goḥ* \< *go*
+- *goḥ* ← *go*
 - \[noun\], genitive, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”

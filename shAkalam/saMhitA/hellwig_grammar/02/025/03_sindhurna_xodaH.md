@@ -2,7 +2,7 @@
 title = "Rig Veda 2.25.3"
 
 +++
--   *sindhur* \< *sindhuḥ* \< *sindhu*
+-   *sindhur* ← *sindhuḥ* ← *sindhu*
 - \[noun\], nominative, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
@@ -10,26 +10,26 @@ title = "Rig Veda 2.25.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *kṣodaḥ* \< *kṣodas*
+- *kṣodaḥ* ← *kṣodas*
 - \[noun\], nominative, singular, neuter
 - “swell.”
 ------------------------------------------------------------------------
-- *śimīvāṃ* \< *śimīvat*
+- *śimīvāṃ* ← *śimīvat*
 - \[noun\], nominative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *ṛghāyato* \< *ṛghāyataḥ* \< *ṛghāy*
+- *ṛghāyato* ← *ṛghāyataḥ* ← *ṛghāy*
 - \[verb noun\], accusative, plural
 ------------------------------------------------------------------------
-- *vṛṣeva* \< *vṛṣā* \< *vṛṣan*
+- *vṛṣeva* ← *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *vṛṣeva* \< *iva*
+- *vṛṣeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *vadhrīṃr* \< *vadhri*
+- *vadhrīṃr* ← *vadhri*
 - \[noun\], accusative, plural, masculine
 - “castrated.”
 ------------------------------------------------------------------------
@@ -37,15 +37,15 @@ title = "Rig Veda 2.25.3"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *vaṣṭy* \< *vaṣṭi* \< *vaś*
+- *vaṣṭy* ← *vaṣṭi* ← *vaś*
 - \[verb\], singular, Present indikative
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *ojasā* \< *ojas*
+- *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *agner* \< *agneḥ* \< *agni*
+- *agner* ← *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -55,32 +55,32 @@ title = "Rig Veda 2.25.3"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *prasitir* \< *prasitiḥ* \< *prasiti*
+- *prasitir* ← *prasitiḥ* ← *prasiti*
 - \[noun\], nominative, singular, feminine
 - “attack.”
 ------------------------------------------------------------------------
-- *nāha* \< *\_* \< *√\_*
+- *nāha* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *vartave* \< *vṛ*
+- *vartave* ← *vṛ*
 - \[verb noun\]
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yujaṃ* \< *yujam* \< *yuj*
+- *yujaṃ* ← *yujam* ← *yuj*
 - \[noun\], accusative, singular, masculine
 - “ally; friend; pair; two; companion.”
 ------------------------------------------------------------------------
-- *kṛṇute* \< *kṛ*
+- *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -91,7 +91,7 @@ title = "Rig Veda 2.25.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *brahmaṇaspatiḥ* \< *brahmaṇaspati*
+- *brahmaṇaspatiḥ* ← *brahmaṇaspati*
 - \[noun\], nominative, singular, masculine
 - “Brahmaṇaspati.”
 ------------------------------------------------------------------------

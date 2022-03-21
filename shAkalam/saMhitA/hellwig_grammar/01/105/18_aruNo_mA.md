@@ -2,31 +2,31 @@
 title = "Rig Veda 1.105.18"
 
 +++
--   *aruṇo* \< *aruṇaḥ* \< *aruṇa*
+-   *aruṇo* ← *aruṇaḥ* ← *aruṇa*
 - \[noun\], nominative, singular, masculine
 - “Aruṇa; dawn; copper; aruṇa; sindūra; gold; sun; raktavarga.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sakṛd* \< *sakṛt*
+- *sakṛd* ← *sakṛt*
 - \[adverb\]
 - “once; immediately; sakṛt \[word\]; abruptly.”
 ------------------------------------------------------------------------
-- *vṛkaḥ* \< *vṛka*
+- *vṛkaḥ* ← *vṛka*
 - \[noun\], nominative, singular, masculine
 - “wolf; Vṛka; vṛka \[word\]; Vṛka.”
 ------------------------------------------------------------------------
-- *pathā* \< *pathin*
+- *pathā* ← *pathin*
 - \[noun\], instrumental, singular, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *yantaṃ* \< *yantam* \< *i*
+- *yantaṃ* ← *yantam* ← *i*
 - \[verb noun\], accusative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *dadarśa* \< *dṛś*
+- *dadarśa* ← *dṛś*
 - \[verb\], singular, Perfect indicative
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
@@ -36,46 +36,46 @@ title = "Rig Veda 1.105.18"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *uj* \< *ud*
+- *uj* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *jihīte* \< *hā*
+- *jihīte* ← *hā*
 - \[verb\], singular, Present indikative
 - “move over; yield; give way.”
 ------------------------------------------------------------------------
-- *nicāyyā* \< *nicāy* \< *√cāy*
+- *nicāyyā* ← *nicāy* ← *√cāy*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *taṣṭeva* \< *taṣṭā* \< *taṣṭṛ*
+- *taṣṭeva* ← *taṣṭā* ← *taṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “carpenter.”
 ------------------------------------------------------------------------
-- *taṣṭeva* \< *iva*
+- *taṣṭeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *pṛṣṭyāmayī* \< *pṛṣṭi*
+- *pṛṣṭyāmayī* ← *pṛṣṭi*
 - \[noun\], feminine
 - “rib.”
 ------------------------------------------------------------------------
-- *pṛṣṭyāmayī* \< *āmayī* \< *āmayin*
+- *pṛṣṭyāmayī* ← *āmayī* ← *āmayin*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vittam* \< *vid*
+- *vittam* ← *vid*
 - \[verb\], dual, Present imperative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], vocative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 1.181.1"
 
 +++
--   *kad* \< *ka*
+-   *kad* ← *ka*
 - \[noun\], nominative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -10,46 +10,46 @@ title = "Rig Veda 1.181.1"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *preṣṭhāv* \< *preṣṭhau* \< *preṣṭha*
+- *preṣṭhāv* ← *preṣṭhau* ← *preṣṭha*
 - \[noun\], vocative, dual, masculine
 - “dearest.”
 ------------------------------------------------------------------------
-- *iṣāṃ* \< *iṣām* \< *iṣ*
+- *iṣāṃ* ← *iṣām* ← *iṣ*
 - \[noun\], genitive, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *rayīṇām* \< *rayi*
+- *rayīṇām* ← *rayi*
 - \[noun\], genitive, plural, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *adhvaryantā* \< *adhvary*
+- *adhvaryantā* ← *adhvary*
 - \[verb noun\], nominative, dual
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *unninītho* \< *unninīthaḥ* \< *unnī* \< *√nī*
+- *unninītho* ← *unninīthaḥ* ← *unnī* ← *√nī*
 - \[verb\], dual, Perfect conjunctive (subj.)
 - “detect; describe; deduce.”
 ------------------------------------------------------------------------
-- *apām* \< *ap*
+- *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *ayaṃ* \< *ayam* \< *idam*
+- *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *yajño* \< *yajñaḥ* \< *yajña*
+- *yajño* ← *yajñaḥ* ← *yajña*
 - \[noun\], nominative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *akṛta* \< *kṛ*
+- *akṛta* ← *kṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -60,22 +60,22 @@ title = "Rig Veda 1.181.1"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *praśastiṃ* \< *praśastim* \< *praśasti*
+- *praśastiṃ* ← *praśastim* ← *praśasti*
 - \[noun\], accusative, singular, feminine
 - “announcement; praise; respect.”
 ------------------------------------------------------------------------
-- *vasudhitī* \< *vasu*
+- *vasudhitī* ← *vasu*
 - \[noun\], neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *vasudhitī* \< *dhitī* \< *dhiti*
+- *vasudhitī* ← *dhitī* ← *dhiti*
 - \[noun\], vocative, dual, masculine
 ------------------------------------------------------------------------
-- *avitārā* \< *avitṛ*
+- *avitārā* ← *avitṛ*
 - \[noun\], vocative, dual, masculine
 - “favorable.”
 ------------------------------------------------------------------------
-- *janānām* \< *jana*
+- *janānām* ← *jana*
 - \[noun\], genitive, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”

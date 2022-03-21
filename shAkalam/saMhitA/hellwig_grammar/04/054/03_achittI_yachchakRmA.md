@@ -2,15 +2,15 @@
 title = "Rig Veda 4.54.3"
 
 +++
--   *acittī* \< *acitti*
+-   *acittī* ← *acitti*
 - \[noun\], instrumental, singular, feminine
 - “ignorance.”
 ------------------------------------------------------------------------
-- *yac* \< *yat* \< *yad*
+- *yac* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *cakṛmā* \< *kṛ*
+- *cakṛmā* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -21,30 +21,30 @@ title = "Rig Veda 4.54.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *daivye* \< *daivya*
+- *daivye* ← *daivya*
 - \[noun\], locative, singular, masculine
 - “divine; divine; celestial.”
 ------------------------------------------------------------------------
-- *jane* \< *jana*
+- *jane* ← *jana*
 - \[noun\], locative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *dīnair* \< *dīnaiḥ* \< *dīna*
+- *dīnair* ← *dīnaiḥ* ← *dīna*
 - \[noun\], instrumental, plural, masculine
 - “sad; miserable; afflicted; blue; shallow.”
 ------------------------------------------------------------------------
-- *dakṣaiḥ* \< *dakṣa*
+- *dakṣaiḥ* ← *dakṣa*
 - \[noun\], instrumental, plural, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
 ------------------------------------------------------------------------
-- *prabhūtī* \< *prabhūti*
+- *prabhūtī* ← *prabhūti*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
 - *pūruṣatvatā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *deveṣu* \< *deva*
+- *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -53,11 +53,11 @@ title = "Rig Veda 4.54.3"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *savitar* \< *savitṛ*
+- *savitar* ← *savitṛ*
 - \[noun\], vocative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *mānuṣeṣu* \< *mānuṣa*
+- *mānuṣeṣu* ← *mānuṣa*
 - \[noun\], locative, plural, masculine
 - “man; man.”
 ------------------------------------------------------------------------
@@ -65,11 +65,11 @@ title = "Rig Veda 4.54.3"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -78,11 +78,11 @@ title = "Rig Veda 4.54.3"
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *suvatād* \< *suvatāt* \< *sū*
+- *suvatād* ← *suvatāt* ← *sū*
 - \[verb\], singular, Present imperative
 - “give birth; urge; bestow; cause.”
 ------------------------------------------------------------------------
-- *anāgasaḥ* \< *anāgas*
+- *anāgasaḥ* ← *anāgas*
 - \[noun\], accusative, plural, masculine
 - “blameless; impeccant.”
 ------------------------------------------------------------------------

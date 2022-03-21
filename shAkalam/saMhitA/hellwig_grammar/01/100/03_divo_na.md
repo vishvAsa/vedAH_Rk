@@ -2,7 +2,7 @@
 title = "Rig Veda 1.100.3"
 
 +++
--   *divo* \< *divaḥ* \< *div*
+-   *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -10,75 +10,75 @@ title = "Rig Veda 1.100.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *retaso* \< *retasaḥ* \< *retas*
+- *retaso* ← *retasaḥ* ← *retas*
 - \[noun\], genitive, singular, neuter
 - “semen; sperm.”
 ------------------------------------------------------------------------
-- *dughānāḥ* \< *duh*
+- *dughānāḥ* ← *duh*
 - \[verb noun\], nominative, plural
 - “milk.”
 ------------------------------------------------------------------------
-- *panthāso* \< *panthāsaḥ* \< *pathin*
+- *panthāso* ← *panthāsaḥ* ← *pathin*
 - \[noun\], nominative, plural, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *yanti* \< *i*
+- *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *śavasāparītāḥ* \< *śavasā* \< *śavas*
+- *śavasāparītāḥ* ← *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *śavasāparītāḥ* \< *a*
+- *śavasāparītāḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *śavasāparītāḥ* \< *parītāḥ* \< *parī* \< *√i*
+- *śavasāparītāḥ* ← *parītāḥ* ← *parī* ← *√i*
 - \[verb noun\], nominative, plural
 - “circumambulate; wander; revolve; overwhelm.”
 ------------------------------------------------------------------------
-- *taraddveṣāḥ* \< *tarat* \< *tṛ*
+- *taraddveṣāḥ* ← *tarat* ← *tṛ*
 - \[verb noun\]
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *taraddveṣāḥ* \< *dveṣāḥ* \< *dveṣas*
+- *taraddveṣāḥ* ← *dveṣāḥ* ← *dveṣas*
 - \[noun\], nominative, singular, masculine
 - “hostility; enemy.”
 ------------------------------------------------------------------------
-- *sāsahiḥ* \< *sāsahi*
+- *sāsahiḥ* ← *sāsahi*
 - \[noun\], nominative, singular, masculine
 - “victorious.”
 ------------------------------------------------------------------------
-- *pauṃsyebhir* \< *pauṃsyebhiḥ* \< *pauṃsya*
+- *pauṃsyebhir* ← *pauṃsyebhiḥ* ← *pauṃsya*
 - \[noun\], instrumental, plural, neuter
 - “manfulness; deed; army; strength.”
 ------------------------------------------------------------------------
-- *marutvān* \< *marutvat*
+- *marutvān* ← *marutvat*
 - \[noun\], nominative, singular, masculine
 - “Marut(a).”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *bhavatv* \< *bhavatu* \< *bhū*
+- *bhavatv* ← *bhavatu* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *indra* \< *indraḥ* \< *indra*
+- *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *ūtī* \< *ūti*
+- *ūtī* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------

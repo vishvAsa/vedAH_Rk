@@ -2,23 +2,23 @@
 title = "Rig Veda 2.32.7"
 
 +++
--   *yā* \< *yad*
+-   *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *subāhuḥ* \< *su*
+- *subāhuḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *subāhuḥ* \< *bāhuḥ* \< *bāhu*
+- *subāhuḥ* ← *bāhuḥ* ← *bāhu*
 - \[noun\], nominative, singular, feminine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
-- *svaṅguriḥ* \< *su*
+- *svaṅguriḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svaṅguriḥ* \< *aṅguriḥ* \< *aṅguri*
+- *svaṅguriḥ* ← *aṅguriḥ* ← *aṅguri*
 - \[noun\], nominative, singular, feminine
 - “finger.”
 ------------------------------------------------------------------------
@@ -28,29 +28,29 @@ title = "Rig Veda 2.32.7"
 - *bahusūvarī*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *tasyai* \< *tad*
+- *tasyai* ← *tad*
 - \[noun\], dative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *viśpatnyai* \< *viś*
+- *viśpatnyai* ← *viś*
 - \[noun\], feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *viśpatnyai* \< *patnyai* \< *patnī*
+- *viśpatnyai* ← *patnyai* ← *patnī*
 - \[noun\], dative, singular, feminine
 - “wife; mistress; queen.”
 ------------------------------------------------------------------------
-- *haviḥ* \< *havis*
+- *haviḥ* ← *havis*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *sinīvālyai* \< *sinīvālī*
+- *sinīvālyai* ← *sinīvālī*
 - \[noun\], dative, singular, feminine
 - “Durga.”
 ------------------------------------------------------------------------
-- *juhotana* \< *hu*
+- *juhotana* ← *hu*
 - \[verb\], plural, Present imperative
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------

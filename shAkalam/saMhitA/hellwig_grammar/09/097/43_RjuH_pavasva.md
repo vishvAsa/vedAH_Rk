@@ -2,35 +2,35 @@
 title = "Rig Veda 9.97.43"
 
 +++
--   *ṛjuḥ* \< *ṛju*
+-   *ṛjuḥ* ← *ṛju*
 - \[noun\], nominative, singular, masculine
 - “honest; straight; straight; ṛju \[word\]; sincere; erect; upright.”
 ------------------------------------------------------------------------
-- *pavasva* \< *pū*
+- *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *vṛjinasya* \< *vṛjina*
+- *vṛjinasya* ← *vṛjina*
 - \[noun\], genitive, singular, neuter
 - “deceitful; crooked; bent.”
 ------------------------------------------------------------------------
-- *hantāpāmīvām* \< *hantā* \< *hantṛ*
+- *hantāpāmīvām* ← *hantā* ← *hantṛ*
 - \[noun\], nominative, singular, masculine
 - “killer; curative; killing; removing; destroyer.”
 ------------------------------------------------------------------------
-- *hantāpāmīvām* \< *apa*
+- *hantāpāmīvām* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *hantāpāmīvām* \< *amīvām* \< *amīvā*
+- *hantāpāmīvām* ← *amīvām* ← *amīvā*
 - \[noun\], accusative, singular, feminine
 - “disease; affliction.”
 ------------------------------------------------------------------------
-- *bādhamāno* \< *bādhamānaḥ* \< *bādh*
+- *bādhamāno* ← *bādhamānaḥ* ← *bādh*
 - \[verb noun\], nominative, singular
 - “afflict; annoy; chase away; tease; grieve; irritate.”
 ------------------------------------------------------------------------
-- *mṛdhaś* \< *mṛdhaḥ* \< *mṛdh*
+- *mṛdhaś* ← *mṛdhaḥ* ← *mṛdh*
 - \[noun\], accusative, plural, feminine
 - “enemy; adversary.”
 ------------------------------------------------------------------------
@@ -38,44 +38,44 @@ title = "Rig Veda 9.97.43"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *abhiśrīṇan* \< *abhiśrī* \< *√śrī*
+- *abhiśrīṇan* ← *abhiśrī* ← *√śrī*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *payaḥ* \< *payas*
+- *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
-- *payasābhi* \< *payasā* \< *payas*
+- *payasābhi* ← *payasā* ← *payas*
 - \[noun\], instrumental, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
-- *payasābhi* \< *abhi*
+- *payasābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *gonām* \< *go*
+- *gonām* ← *go*
 - \[noun\], genitive, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sakhāyaḥ* \< *sakhi*
+- *sakhāyaḥ* ← *sakhi*
 - \[noun\], nominative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------

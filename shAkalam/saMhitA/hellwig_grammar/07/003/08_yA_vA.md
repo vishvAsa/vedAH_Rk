@@ -2,7 +2,7 @@
 title = "Rig Veda 7.3.8"
 
 +++
--   *yā* \< *yāḥ* \< *yad*
+-   *yā* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -10,24 +10,24 @@ title = "Rig Veda 7.3.8"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *santi* \< *as*
+- *santi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *adhṛṣṭā* \< *adhṛṣṭāḥ* \< *adhṛṣṭa*
+- *adhṛṣṭā* ← *adhṛṣṭāḥ* ← *adhṛṣṭa*
 - \[noun\], nominative, plural, feminine
 - “modest; invincible.”
 ------------------------------------------------------------------------
-- *giro* \< *giraḥ* \< *gir*
+- *giro* ← *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
@@ -36,33 +36,33 @@ title = "Rig Veda 7.3.8"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *yābhir* \< *yābhiḥ* \< *yad*
+- *yābhir* ← *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *nṛvatīr* \< *nṛvatīḥ* \< *nṛvat*
+- *nṛvatīr* ← *nṛvatīḥ* ← *nṛvat*
 - \[noun\], accusative, plural, feminine
 - “rich in men.”
 ------------------------------------------------------------------------
-- *uruṣyāḥ* \< *uruṣy*
+- *uruṣyāḥ* ← *uruṣy*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “protect; help.”
 ------------------------------------------------------------------------
-- *tābhir* \< *tābhiḥ* \< *tad*
+- *tābhir* ← *tābhiḥ* ← *tad*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sūno* \< *sūnu*
+- *sūno* ← *sūnu*
 - \[noun\], vocative, singular, masculine
 - “son; offspring.”
 ------------------------------------------------------------------------
-- *sahaso* \< *sahasaḥ* \< *sahas*
+- *sahaso* ← *sahasaḥ* ← *sahas*
 - \[noun\], genitive, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
@@ -70,7 +70,7 @@ title = "Rig Veda 7.3.8"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
@@ -78,15 +78,15 @@ title = "Rig Veda 7.3.8"
 - \[adverb\]
 - “simultaneously; jointly.”
 ------------------------------------------------------------------------
-- *sūrīñ* \< *sūrīn* \< *sūri*
+- *sūrīñ* ← *sūrīn* ← *sūri*
 - \[noun\], accusative, plural, masculine
 - “patron.”
 ------------------------------------------------------------------------
-- *jaritṝñ* \< *jaritṝn* \< *jaritṛ*
+- *jaritṝñ* ← *jaritṝn* ← *jaritṛ*
 - \[noun\], accusative, plural, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *jātavedaḥ* \< *jātavedas*
+- *jātavedaḥ* ← *jātavedas*
 - \[noun\], vocative, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------

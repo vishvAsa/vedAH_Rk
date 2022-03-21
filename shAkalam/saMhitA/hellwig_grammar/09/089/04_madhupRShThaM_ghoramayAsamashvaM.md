@@ -2,32 +2,32 @@
 title = "Rig Veda 9.89.4"
 
 +++
--   *madhupṛṣṭhaṃ* \< *madhu*
+-   *madhupṛṣṭhaṃ* ← *madhu*
 - \[noun\], neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *madhupṛṣṭhaṃ* \< *pṛṣṭham* \< *pṛṣṭha*
+- *madhupṛṣṭhaṃ* ← *pṛṣṭham* ← *pṛṣṭha*
 - \[noun\], accusative, singular, masculine
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
 ------------------------------------------------------------------------
-- *ghoram* \< *ghora*
+- *ghoram* ← *ghora*
 - \[noun\], accusative, singular, masculine
 - “awful; dangerous; terrific; intense; dreadful.”
 ------------------------------------------------------------------------
-- *ayāsam* \< *ayās*
+- *ayāsam* ← *ayās*
 - \[noun\], accusative, singular, masculine
 - “undaunted; irrepressible; audacious.”
 ------------------------------------------------------------------------
-- *aśvaṃ* \< *aśvam* \< *aśva*
+- *aśvaṃ* ← *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *rathe* \< *ratha*
+- *rathe* ← *ratha*
 - \[noun\], locative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *yuñjanty* \< *yuñjanti* \< *yuj*
+- *yuñjanty* ← *yuñjanti* ← *yuj*
 - \[verb\], plural, Present indikative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -35,42 +35,42 @@ title = "Rig Veda 9.89.4"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *urucakra* \< *uru*
+- *urucakra* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *urucakra* \< *cakre* \< *cakra*
+- *urucakra* ← *cakre* ← *cakra*
 - \[noun\], locative, singular, masculine
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
 ------------------------------------------------------------------------
-- *ṛṣvam* \< *ṛṣva*
+- *ṛṣvam* ← *ṛṣva*
 - \[noun\], accusative, singular, masculine
 - “distinguished; high; noble; enormous.”
 ------------------------------------------------------------------------
-- *svasāra* \< *svasāraḥ* \< *svasṛ*
+- *svasāra* ← *svasāraḥ* ← *svasṛ*
 - \[noun\], nominative, plural, feminine
 - “sister; svasṛ \[word\].”
 ------------------------------------------------------------------------
-- *īṃ* \< *īm* \< *īṃ*
+- *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *jāmayo* \< *jāmayaḥ* \< *jāmi*
+- *jāmayo* ← *jāmayaḥ* ← *jāmi*
 - \[noun\], nominative, plural, feminine
 - “sister; woman; daughter-in-law.”
 ------------------------------------------------------------------------
-- *marjayanti* \< *marjay* \< *√mṛj*
+- *marjayanti* ← *marjay* ← *√mṛj*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *sanābhayo* \< *sanābhayaḥ* \< *sanābhi*
+- *sanābhayo* ← *sanābhayaḥ* ← *sanābhi*
 - \[noun\], nominative, plural, masculine
 - “kindred.”
 ------------------------------------------------------------------------
-- *vājinam* \< *vājin*
+- *vājinam* ← *vājin*
 - \[noun\], accusative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------
-- *ūrjayanti* \< *ūrjay*
+- *ūrjayanti* ← *ūrjay*
 - \[verb\], plural, Present indikative
 - “strengthen.”
 ------------------------------------------------------------------------

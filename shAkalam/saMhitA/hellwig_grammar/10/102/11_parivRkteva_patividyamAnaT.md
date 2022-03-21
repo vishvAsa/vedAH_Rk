@@ -2,73 +2,73 @@
 title = "Rig Veda 10.102.11"
 
 +++
--   *parivṛkteva* \< *parivṛktā* \< *parivṛj* \< *√vṛj*
+-   *parivṛkteva* ← *parivṛktā* ← *parivṛj* ← *√vṛj*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *parivṛkteva* \< *iva*
+- *parivṛkteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *patividyam* \< *pati*
+- *patividyam* ← *pati*
 - \[noun\], masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *patividyam* \< *vidyam* \< *vidyā*
+- *patividyam* ← *vidyam* ← *vidyā*
 - \[noun\], accusative, singular, masculine
 - “knowledge; eruditeness; science; mantra; magic; study.”
 ------------------------------------------------------------------------
-- *ānaṭ* \< *naś*
+- *ānaṭ* ← *naś*
 - \[verb\], singular, Root aorist (Ind.)
 - “reach; achieve; enter (a state); reach.”
 ------------------------------------------------------------------------
-- *pīpyānā* \< *pyā*
+- *pīpyānā* ← *pyā*
 - \[verb noun\], nominative, singular
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
-- *kūcakreṇeva* \< *kūcakreṇa* \< *kūcakra*
+- *kūcakreṇeva* ← *kūcakreṇa* ← *kūcakra*
 - \[noun\], instrumental, singular, neuter
 ------------------------------------------------------------------------
-- *kūcakreṇeva* \< *iva*
+- *kūcakreṇeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *siñcan* \< *sic*
+- *siñcan* ← *sic*
 - \[verb noun\], nominative, singular
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 ------------------------------------------------------------------------
-- *eṣaiṣyā* \< *eṣaiṣya*
+- *eṣaiṣyā* ← *eṣaiṣya*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *rathyā* \< *rathī*
+- *rathyā* ← *rathī*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *jayema* \< *ji*
+- *jayema* ← *ji*
 - \[verb\], plural, Present optative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *sumaṅgalaṃ* \< *su*
+- *sumaṅgalaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sumaṅgalaṃ* \< *maṅgalam* \< *maṅgala*
+- *sumaṅgalaṃ* ← *maṅgalam* ← *maṅgala*
 - \[noun\], nominative, singular, neuter
 - “auspicious.”
 ------------------------------------------------------------------------
-- *sinavad* \< *sinavat*
+- *sinavad* ← *sinavat*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *sātam* \< *sāta*
+- *sātam* ← *sāta*
 - \[noun\], nominative, singular, neuter
 - “wealth.”
 ------------------------------------------------------------------------

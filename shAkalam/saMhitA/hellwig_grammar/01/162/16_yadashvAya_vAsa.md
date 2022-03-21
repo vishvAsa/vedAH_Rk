@@ -2,53 +2,53 @@
 title = "Rig Veda 1.162.16"
 
 +++
--   *yad* \< *yat* \< *yad*
+-   *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *aśvāya* \< *aśva*
+- *aśvāya* ← *aśva*
 - \[noun\], dative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *vāsa* \< *vāsaḥ* \< *vāsas*
+- *vāsa* ← *vāsaḥ* ← *vāsas*
 - \[noun\], accusative, singular, neuter
 - “clothing; fabric; garment; feather; dress; envelope.”
 ------------------------------------------------------------------------
-- *upastṛṇanty* \< *upastṛṇanti* \< *upastṛ* \< *√stṛ*
+- *upastṛṇanty* ← *upastṛṇanti* ← *upastṛ* ← *√stṛ*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *adhīvāsaṃ* \< *adhīvāsam* \< *adhīvāsa*
+- *adhīvāsaṃ* ← *adhīvāsam* ← *adhīvāsa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], accusative, plural, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *hiraṇyāny* \< *hiraṇyāni* \< *hiraṇya*
+- *hiraṇyāny* ← *hiraṇyāni* ← *hiraṇya*
 - \[noun\], accusative, plural, neuter
 - “aureate; gold.”
 ------------------------------------------------------------------------
-- *asmai* \< *idam*
+- *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *saṃdānam* \< *saṃdāna*
+- *saṃdānam* ← *saṃdāna*
 - \[noun\], nominative, singular, neuter
 - “tying.”
 ------------------------------------------------------------------------
-- *arvantam* \< *arvant*
+- *arvantam* ← *arvant*
 - \[noun\], accusative, singular, masculine
 - “horse.”
 ------------------------------------------------------------------------
-- *paḍbīśam* \< *paḍvīśa*
+- *paḍbīśam* ← *paḍvīśa*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *priyā* \< *priya*
+- *priyā* ← *priya*
 - \[noun\], nominative, plural, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *deveṣv* \< *deveṣu* \< *deva*
+- *deveṣv* ← *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -57,7 +57,7 @@ title = "Rig Veda 1.162.16"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yāmayanti* \< *yāmay* \< *√yam*
+- *yāmayanti* ← *yāmay* ← *√yam*
 - \[verb\], plural, Present indikative
 - “unfold.”
 ------------------------------------------------------------------------

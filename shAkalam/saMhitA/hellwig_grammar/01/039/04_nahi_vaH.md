@@ -5,15 +5,15 @@ title = "Rig Veda 1.39.4"
 -   *nahi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *śatrur* \< *śatruḥ* \< *śatru*
+- *śatrur* ← *śatruḥ* ← *śatru*
 - \[noun\], nominative, singular, masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------
-- *vivide* \< *vid*
+- *vivide* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
@@ -21,7 +21,7 @@ title = "Rig Veda 1.39.4"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *dyavi* \< *div*
+- *dyavi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -29,21 +29,21 @@ title = "Rig Veda 1.39.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *bhūmyāṃ* \< *bhūmyām* \< *bhūmi*
+- *bhūmyāṃ* ← *bhūmyām* ← *bhūmi*
 - \[noun\], locative, singular, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
     Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
     distance; country; space; land; territory; topographic point.”
 ------------------------------------------------------------------------
-- *riśādasaḥ* \< *riśādas*
+- *riśādasaḥ* ← *riśādas*
 - \[noun\], vocative, plural, masculine
 - “superior; superior; proud.”
 ------------------------------------------------------------------------
-- *yuṣmākam* \< *tvad*
+- *yuṣmākam* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -52,27 +52,27 @@ title = "Rig Veda 1.39.4"
 - \[noun\], nominative, singular, feminine
 - “strength; power.”
 ------------------------------------------------------------------------
-- *tanā* \< *tan*
+- *tanā* ← *tan*
 - \[noun\], instrumental, singular, feminine
 - “continuity; sequence; longevity.”
 ------------------------------------------------------------------------
-- *yujā* \< *yuj*
+- *yujā* ← *yuj*
 - \[noun\], instrumental, singular, feminine
 - “amalgamated; harnessed.”
 ------------------------------------------------------------------------
-- *rudrāso* \< *rudrāsaḥ* \< *rudra*
+- *rudrāso* ← *rudrāsaḥ* ← *rudra*
 - \[noun\], vocative, plural, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *nū* \< *nu*
+- *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ādhṛṣe* \< *ādhṛṣ* \< *√dhṛṣ*
+- *ādhṛṣe* ← *ādhṛṣ* ← *√dhṛṣ*
 - \[verb noun\]
 - “overcome; suppress.”
 ------------------------------------------------------------------------

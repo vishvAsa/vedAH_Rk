@@ -6,23 +6,23 @@ title = "Rig Veda 3.53.11"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *preta* \< *pre* \< *√i*
+- *preta* ← *pre* ← *√i*
 - \[verb\], plural, Present imperative
 - “die; proceed; advance; continue; begin; depart.”
 ------------------------------------------------------------------------
-- *kuśikāś* \< *kuśikāḥ* \< *kuśika*
+- *kuśikāś* ← *kuśikāḥ* ← *kuśika*
 - \[noun\], vocative, plural, masculine
 - “Kuśika; Vatica robusta.”
 ------------------------------------------------------------------------
-- *cetayadhvam* \< *cetay* \< *√cit*
+- *cetayadhvam* ← *cetay* ← *√cit*
 - \[verb\], plural, Present imperative
 - “blaze; notice.”
 ------------------------------------------------------------------------
-- *aśvaṃ* \< *aśvam* \< *aśva*
+- *aśvaṃ* ← *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *rāye* \< *rai*
+- *rāye* ← *rai*
 - \[noun\], dative, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
@@ -30,7 +30,7 @@ title = "Rig Veda 3.53.11"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *muñcatā* \< *muc*
+- *muñcatā* ← *muc*
 - \[verb\], plural, Present imperative
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
     fill into; shoot; spill; lose; ejaculate; exclude; free; remove;
@@ -38,44 +38,44 @@ title = "Rig Veda 3.53.11"
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
 ------------------------------------------------------------------------
-- *sudāsaḥ* \< *sudās*
+- *sudāsaḥ* ← *sudās*
 - \[noun\], genitive, singular, masculine
 - “Sudās.”
 ------------------------------------------------------------------------
-- *rājā* \< *rājan*
+- *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *vṛtraṃ* \< *vṛtram* \< *vṛtra*
+- *vṛtraṃ* ← *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, neuter
 - “enemy.”
 ------------------------------------------------------------------------
-- *jaṅghanat* \< *jaṅghan* \< *√han*
+- *jaṅghanat* ← *jaṅghan* ← *√han*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “murder; kill.”
 ------------------------------------------------------------------------
-- *prāg* \< *prāk* \< *prāñc*
+- *prāg* ← *prāk* ← *prāñc*
 - \[noun\], accusative, singular, neuter
 - “eastern; aforesaid(a); former(a); eastbound; easterly; anterior;
     forward; prāñc \[word\].”
 ------------------------------------------------------------------------
-- *apāg* \< *apāk* \< *apāñc*
+- *apāg* ← *apāk* ← *apāñc*
 - \[noun\], accusative, singular, neuter
 - “backward; apāñc \[word\]; western.”
 ------------------------------------------------------------------------
-- *udag* \< *udak* \< *udañc*
+- *udag* ← *udak* ← *udañc*
 - \[noun\], accusative, singular, neuter
 - “northern; northbound; udañc \[word\]; northerly.”
 ------------------------------------------------------------------------
-- *athā* \< *atha*
+- *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *yajāte* \< *yaj*
+- *yajāte* ← *yaj*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *vara* \< *vare* \< *vara*
+- *vara* ← *vare* ← *vara*
 - \[noun\], locative, singular, masculine
 - “best; excellent; better; choice; optimum; maximal.”
 ------------------------------------------------------------------------
@@ -83,7 +83,7 @@ title = "Rig Veda 3.53.11"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *pṛthivyāḥ* \< *pṛthivī*
+- *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], genitive, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------

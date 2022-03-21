@@ -6,16 +6,16 @@ title = "Rig Veda 1.114.10"
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *goghnam* \< *go*
+- *goghnam* ← *go*
 - \[noun\], masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *goghnam* \< *ghnam* \< *ghna*
+- *goghnam* ← *ghnam* ← *ghna*
 - \[noun\], nominative, singular, neuter
 - “curative; removing; killing; destroying; māraka; multiplied.”
 ------------------------------------------------------------------------
@@ -23,11 +23,11 @@ title = "Rig Veda 1.114.10"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *pūruṣaghnaṃ* \< *pūruṣa*
+- *pūruṣaghnaṃ* ← *pūruṣa*
 - \[noun\], masculine
 - “man; man; Puruṣa.”
 ------------------------------------------------------------------------
-- *pūruṣaghnaṃ* \< *ghnam* \< *ghna*
+- *pūruṣaghnaṃ* ← *ghnam* ← *ghna*
 - \[noun\], nominative, singular, neuter
 - “curative; removing; killing; destroying; māraka; multiplied.”
 ------------------------------------------------------------------------
@@ -35,24 +35,24 @@ title = "Rig Veda 1.114.10"
 - \[noun\], vocative, singular, masculine
 - “Shiva.”
 ------------------------------------------------------------------------
-- *sumnam* \< *sumna*
+- *sumnam* ← *sumna*
 - \[noun\], nominative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *mṛﾱā* \< *mṛḍ*
+- *mṛﾱā* ← *mṛḍ*
 - \[verb\], singular, Present imperative
 - “pardon.”
 ------------------------------------------------------------------------
@@ -60,7 +60,7 @@ title = "Rig Veda 1.114.10"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -72,17 +72,17 @@ title = "Rig Veda 1.114.10"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *brūhi* \< *brū*
+- *brūhi* ← *brū*
 - \[verb\], singular, Present imperative
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
 ------------------------------------------------------------------------
-- *devādhā* \< *deva*
+- *devādhā* ← *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devādhā* \< *adhā* \< *adha*
+- *devādhā* ← *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
@@ -90,19 +90,19 @@ title = "Rig Veda 1.114.10"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *yaccha* \< *yam*
+- *yaccha* ← *yam*
 - \[verb\], singular, Present imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *dvibarhāḥ* \< *dvibarhas*
+- *dvibarhāḥ* ← *dvibarhas*
 - \[noun\], nominative, singular, masculine
 - “double.”
 ------------------------------------------------------------------------

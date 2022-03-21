@@ -2,38 +2,38 @@
 title = "Rig Veda 9.91.4"
 
 +++
--   *rujā* \< *ruja* \< *ruj*
+-   *rujā* ← *ruja* ← *ruj*
 - \[verb\], singular, Present imperative
 - “break; bend.”
 ------------------------------------------------------------------------
-- *dṛﾱhā* \< *dṛḍha*
+- *dṛﾱhā* ← *dṛḍha*
 - \[noun\], accusative, plural, neuter
 - “hard; intense; firm; fixed; resolute; mesomorphic; grim; dṛḍha
     \[word\]; rainproof; sturdy; shut; firm; insoluble; strong; tough;
     tight.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *rakṣasaḥ* \< *rakṣas*
+- *rakṣasaḥ* ← *rakṣas*
 - \[noun\], genitive, singular, masculine
 - “Rākṣasa.”
 ------------------------------------------------------------------------
-- *sadāṃsi* \< *sadas*
+- *sadāṃsi* ← *sadas*
 - \[noun\], accusative, plural, neuter
 - “mansion; assembly; seat; seat.”
 ------------------------------------------------------------------------
-- *punāna* \< *punānaḥ* \< *pū*
+- *punāna* ← *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *inda* \< *indo* \< *indu*
+- *inda* ← *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *ūrṇuhi* \< *vṛ*
+- *ūrṇuhi* ← *vṛ*
 - \[verb\], singular, Present imperative
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
@@ -42,42 +42,42 @@ title = "Rig Veda 9.91.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vājān* \< *vāja*
+- *vājān* ← *vāja*
 - \[noun\], accusative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vṛścopariṣṭāt* \< *vṛśca* \< *vraśc*
+- *vṛścopariṣṭāt* ← *vṛśca* ← *vraśc*
 - \[verb\], singular, Present imperative
 - “cleave; fell; cut off; hew.”
 ------------------------------------------------------------------------
-- *vṛścopariṣṭāt* \< *upariṣṭāt*
+- *vṛścopariṣṭāt* ← *upariṣṭāt*
 - \[adverb\]
 - “above; upariṣṭāt \[word\]; below.”
 ------------------------------------------------------------------------
-- *tujatā* \< *tuj*
+- *tujatā* ← *tuj*
 - \[verb noun\], instrumental, singular
 - “draw.”
 ------------------------------------------------------------------------
-- *vadhena* \< *vadha*
+- *vadhena* ← *vadha*
 - \[noun\], instrumental, singular, masculine
 - “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
     dysfunction; punishment; kick.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
 - *anti*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *dūrād* \< *dūrāt*
+- *dūrād* ← *dūrāt*
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *upanāyam* \< *upanāya*
+- *upanāyam* ← *upanāya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *eṣām* \< *idam*
+- *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------

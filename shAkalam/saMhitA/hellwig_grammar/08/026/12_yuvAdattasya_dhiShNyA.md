@@ -2,17 +2,17 @@
 title = "Rig Veda 8.26.12"
 
 +++
--   *yuvādattasya* \< *yuvādatta*
+-   *yuvādattasya* ← *yuvādatta*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *dhiṣṇyā* \< *dhiṣṇya*
+- *dhiṣṇyā* ← *dhiṣṇya*
 - \[noun\], vocative, dual, masculine
 - “wise; beneficent.”
 ------------------------------------------------------------------------
-- *yuvānītasya* \< *yuvānīta*
+- *yuvānītasya* ← *yuvānīta*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *sūribhiḥ* \< *sūri*
+- *sūribhiḥ* ← *sūri*
 - \[noun\], instrumental, plural, masculine
 - “patron.”
 ------------------------------------------------------------------------
@@ -24,15 +24,15 @@ title = "Rig Veda 8.26.12"
 - \[noun\], accusative, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *vṛṣaṇa* \< *\_* \< *√\_*
+- *vṛṣaṇa* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *mahyaṃ* \< *mahyam* \< *mad*
+- *mahyaṃ* ← *mahyam* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śikṣatam* \< *śikṣ*
+- *śikṣatam* ← *śikṣ*
 - \[verb\], dual, Present imperative
 - “help; give.”
 ------------------------------------------------------------------------

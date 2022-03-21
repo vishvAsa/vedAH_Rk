@@ -6,44 +6,44 @@ title = "Rig Veda 9.55.3"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *govid* \< *go*
+- *govid* ← *go*
 - \[noun\], masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *govid* \< *vid*
+- *govid* ← *vid*
 - \[noun\], nominative, singular, masculine
 - “finding.”
 ------------------------------------------------------------------------
-- *aśvavit* \< *aśva*
+- *aśvavit* ← *aśva*
 - \[noun\], masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *aśvavit* \< *vid*
+- *aśvavit* ← *vid*
 - \[noun\], nominative, singular, masculine
 - “finding.”
 ------------------------------------------------------------------------
-- *pavasva* \< *pū*
+- *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *somāndhasā* \< *soma*
+- *somāndhasā* ← *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somāndhasā* \< *andhasā* \< *andhas*
+- *somāndhasā* ← *andhasā* ← *andhas*
 - \[noun\], instrumental, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
-- *makṣūtamebhir* \< *makṣūtamebhiḥ* \< *makṣūtama*
+- *makṣūtamebhir* ← *makṣūtamebhiḥ* ← *makṣūtama*
 - \[noun\], instrumental, plural, neuter
 - “following.”
 ------------------------------------------------------------------------
-- *ahabhiḥ* \< *aha*
+- *ahabhiḥ* ← *aha*
 - \[noun\], instrumental, plural, neuter
 - “day; aha \[word\]; day.”
 ------------------------------------------------------------------------

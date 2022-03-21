@@ -2,25 +2,25 @@
 title = "Rig Veda 8.69.8"
 
 +++
--   *arcata* \< *arc*
+-   *arcata* ← *arc*
 - \[verb\], plural, Present imperative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *prārcata* \< *prārc* \< *√arc*
+- *prārcata* ← *prārc* ← *√arc*
 - \[verb\], plural, Imperfect
 ------------------------------------------------------------------------
-- *priyamedhāso* \< *priyamedhāsaḥ* \< *priyamedha*
+- *priyamedhāso* ← *priyamedhāsaḥ* ← *priyamedha*
 - \[noun\], vocative, plural, masculine
 ------------------------------------------------------------------------
-- *arcata* \< *arc*
+- *arcata* ← *arc*
 - \[verb\], plural, Present imperative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *arcantu* \< *arc*
+- *arcantu* ← *arc*
 - \[verb\], plural, Present imperative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *putrakā* \< *putrakāḥ* \< *putraka*
+- *putrakā* ← *putrakāḥ* ← *putraka*
 - \[noun\], nominative, plural, masculine
 - “son; male child; Putraka; baby; doll.”
 ------------------------------------------------------------------------
@@ -28,7 +28,7 @@ title = "Rig Veda 8.69.8"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *puraṃ* \< *puram* \< *pura*
+- *puraṃ* ← *puram* ← *pura*
 - \[noun\], accusative, singular, neuter
 - “town; pura \[word\]; stronghold.”
 ------------------------------------------------------------------------
@@ -36,11 +36,11 @@ title = "Rig Veda 8.69.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dhṛṣṇv* \< *dhṛṣṇu*
+- *dhṛṣṇv* ← *dhṛṣṇu*
 - \[noun\], accusative, singular, neuter
 - “brave; ferocious; strong.”
 ------------------------------------------------------------------------
-- *arcata* \< *arc*
+- *arcata* ← *arc*
 - \[verb\], plural, Present imperative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------

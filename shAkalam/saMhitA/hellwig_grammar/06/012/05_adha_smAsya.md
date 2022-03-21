@@ -6,17 +6,17 @@ title = "Rig Veda 6.12.5"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *smāsya* \< *sma*
+- *smāsya* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *smāsya* \< *asya* \< *idam*
+- *smāsya* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *panayanti* \< *panay* \< *√pan*
+- *panayanti* ← *panay* ← *√pan*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *bhāso* \< *bhāsaḥ* \< *bhās*
+- *bhāso* ← *bhāsaḥ* ← *bhās*
 - \[noun\], accusative, plural, feminine
 - “beam; radiance; bhās \[word\]; fire.”
 ------------------------------------------------------------------------
@@ -28,44 +28,44 @@ title = "Rig Veda 6.12.5"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *takṣad* \< *takṣat* \< *takṣ*
+- *takṣad* ← *takṣat* ← *takṣ*
 - \[verb noun\], nominative, singular
 - “produce; shape; fashion; chisel; invent.”
 ------------------------------------------------------------------------
-- *anuyāti* \< *anuyā* \< *√yā*
+- *anuyāti* ← *anuyā* ← *√yā*
 - \[verb\], singular, Present indikative
 - “follow; pursue.”
 ------------------------------------------------------------------------
-- *pṛthvīm* \< *pṛthvī*
+- *pṛthvīm* ← *pṛthvī*
 - \[noun\], accusative, singular, feminine
 - “Earth; floor; earth.”
 ------------------------------------------------------------------------
-- *sadyo* \< *sadyas*
+- *sadyo* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *syandro* \< *syandraḥ* \< *syandra*
+- *syandro* ← *syandraḥ* ← *syandra*
 - \[noun\], nominative, singular, masculine
 - “flowing; fleet.”
 ------------------------------------------------------------------------
-- *viṣito* \< *viṣitaḥ* \< *viṣā* \< *√sā*
+- *viṣito* ← *viṣitaḥ* ← *viṣā* ← *√sā*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *dhavīyān* \< *dhavīyas*
+- *dhavīyān* ← *dhavīyas*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *ṛṇo* \< *ṛṇaḥ* \< *ṛṇa*
+- *ṛṇo* ← *ṛṇaḥ* ← *ṛṇa*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tāyur* \< *tāyuḥ* \< *tāyu*
+- *tāyur* ← *tāyuḥ* ← *tāyu*
 - \[noun\], nominative, singular, masculine
 - “thief.”
 ------------------------------------------------------------------------
@@ -73,11 +73,11 @@ title = "Rig Veda 6.12.5"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *dhanvā* \< *dhanvan*
+- *dhanvā* ← *dhanvan*
 - \[noun\], accusative, plural, neuter
 - “bow; desert; steppe; barren.”
 ------------------------------------------------------------------------
-- *rāṭ* \< *rāj*
+- *rāṭ* ← *rāj*
 - \[verb\], singular, Present injunctive
 - “govern; shine; glitter; direct.”
 ------------------------------------------------------------------------

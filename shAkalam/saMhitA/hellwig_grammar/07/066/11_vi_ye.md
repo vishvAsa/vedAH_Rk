@@ -6,24 +6,24 @@ title = "Rig Veda 7.66.11"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dadhuḥ* \< *dhā*
+- *dadhuḥ* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *śaradam* \< *śarad*
+- *śaradam* ← *śarad*
 - \[noun\], accusative, singular, feminine
 - “fall; year; śarad \[word\].”
 ------------------------------------------------------------------------
-- *māsam* \< *māsa*
+- *māsam* ← *māsa*
 - \[noun\], accusative, singular, masculine
 - “month; lunar month; māsa \[word\].”
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
@@ -31,52 +31,52 @@ title = "Rig Veda 7.66.11"
 - \[noun\], accusative, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *aktuṃ* \< *aktum* \< *aktu*
+- *aktuṃ* ← *aktum* ← *aktu*
 - \[noun\], accusative, singular, masculine
 - “night; dark; beam.”
 ------------------------------------------------------------------------
-- *cād* \< *ca*
+- *cād* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cād* \< *āt*
+- *cād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *ṛcam* \< *ṛc*
+- *ṛcam* ← *ṛc*
 - \[noun\], accusative, singular, feminine
 - “Rig-Veda; Mantra; verse; ṛc \[word\]; ṛc.”
 ------------------------------------------------------------------------
-- *anāpyaṃ* \< *anāpyam* \< *anāpya*
+- *anāpyaṃ* ← *anāpyam* ← *anāpya*
 - \[noun\], accusative, singular, neuter
 - “unachievable.”
 ------------------------------------------------------------------------
-- *varuṇo* \< *varuṇaḥ* \< *varuṇa*
+- *varuṇo* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *mitro* \< *mitraḥ* \< *mitra*
+- *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *aryamā* \< *aryaman*
+- *aryamā* ← *aryaman*
 - \[noun\], nominative, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
 ------------------------------------------------------------------------
-- *kṣatraṃ* \< *kṣatram* \< *kṣatra*
+- *kṣatraṃ* ← *kṣatram* ← *kṣatra*
 - \[noun\], accusative, singular, neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
 ------------------------------------------------------------------------
-- *rājāna* \< *rājānaḥ* \< *rājan*
+- *rājāna* ← *rājānaḥ* ← *rājan*
 - \[noun\], nominative, plural, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *āśata* \< *aś*
+- *āśata* ← *aś*
 - \[verb\], plural, Root aorist (Ind.)
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------

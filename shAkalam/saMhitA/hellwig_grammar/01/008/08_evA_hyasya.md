@@ -2,16 +2,16 @@
 title = "Rig Veda 1.8.8"
 
 +++
--   *evā* \< *eva*
+-   *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *hy* \< *hi*
+- *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -19,19 +19,19 @@ title = "Rig Veda 1.8.8"
 - \[noun\], nominative, singular, feminine
 - “liberality.”
 ------------------------------------------------------------------------
-- *virapśī* \< *virapśa*
+- *virapśī* ← *virapśa*
 - \[noun\], nominative, singular, feminine
 - “ample.”
 ------------------------------------------------------------------------
-- *gomatī* \< *gomat*
+- *gomatī* ← *gomat*
 - \[noun\], nominative, singular, feminine
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------
-- *mahī* \< *mah*
+- *mahī* ← *mah*
 - \[noun\], nominative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *pakvā* \< *pakva*
+- *pakvā* ← *pakva*
 - \[noun\], nominative, singular, feminine
 - “heated; pakva; ripe; cooked; festering; baked; developed; doomed;
     digested; pakva \[word\]; suppurative; gray; fruiting; done.”
@@ -45,7 +45,7 @@ title = "Rig Veda 1.8.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------

@@ -10,14 +10,14 @@ title = "Rig Veda 10.131.2"
 - \[adverb\]
 - “in truth; aṅga \[word\]; entirely; merely.”
 ------------------------------------------------------------------------
-- *yavamanto* \< *yavamantaḥ* \< *yavamat*
+- *yavamanto* ← *yavamantaḥ* ← *yavamat*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *yavaṃ* \< *yavam* \< *yava*
+- *yavaṃ* ← *yavam* ← *yava*
 - \[noun\], accusative, singular, masculine
 - “barley; yava; barleycorn; yava \[word\]; yava; yavakṣāra; grain.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -25,31 +25,31 @@ title = "Rig Veda 10.131.2"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *dānty* \< *dānti* \< *dā*
+- *dānty* ← *dānti* ← *dā*
 - \[verb\], plural, Present indikative
 - “cut; mow.”
 ------------------------------------------------------------------------
-- *anupūrvaṃ* \< *anupūrvam* \< *anupūrva*
+- *anupūrvaṃ* ← *anupūrvam* ← *anupūrva*
 - \[noun\], accusative, singular, neuter
 - “consecutive; regular; regular.”
 ------------------------------------------------------------------------
-- *viyūya* \< *viyu* \< *√yu*
+- *viyūya* ← *viyu* ← *√yu*
 - \[verb noun\]
 - “spread.”
 ------------------------------------------------------------------------
-- *ihehaiṣāṃ* \< *iha*
+- *ihehaiṣāṃ* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *ihehaiṣāṃ* \< *iha*
+- *ihehaiṣāṃ* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *ihehaiṣāṃ* \< *eṣām* \< *idam*
+- *ihehaiṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *kṛṇuhi* \< *kṛ*
+- *kṛṇuhi* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -60,26 +60,26 @@ title = "Rig Veda 10.131.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *bhojanāni* \< *bhojana*
+- *bhojanāni* ← *bhojana*
 - \[noun\], accusative, plural, neuter
 - “food; eating; foodstuff; meal; property; sevana; enjoyment.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *barhiṣo* \< *barhiṣaḥ* \< *barhis*
+- *barhiṣo* ← *barhiṣaḥ* ← *barhis*
 - \[noun\], genitive, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *namovṛktiṃ* \< *namovṛktim* \< *namovṛkti*
+- *namovṛktiṃ* ← *namovṛktim* ← *namovṛkti*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *jagmuḥ* \< *gam*
+- *jagmuḥ* ← *gam*
 - \[verb\], plural, Perfect indicative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

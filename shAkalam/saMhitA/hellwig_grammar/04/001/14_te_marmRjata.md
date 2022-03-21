@@ -2,40 +2,40 @@
 title = "Rig Veda 4.1.14"
 
 +++
--   *te* \< *tad*
+-   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *marmṛjata* \< *marmṛj* \< *√mṛj*
+- *marmṛjata* ← *marmṛj* ← *√mṛj*
 - \[verb\], plural, Imperfect
 - “groom; wash; rub.”
 ------------------------------------------------------------------------
-- *dadṛvāṃso* \< *dadṛvāṃsaḥ* \< *dṛ*
+- *dadṛvāṃso* ← *dadṛvāṃsaḥ* ← *dṛ*
 - \[verb noun\], nominative, plural
 - “burst; burst.”
 ------------------------------------------------------------------------
-- *adriṃ* \< *adrim* \< *adri*
+- *adriṃ* ← *adrim* ← *adri*
 - \[noun\], accusative, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *eṣām* \< *idam*
+- *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *anye* \< *anya*
+- *anye* ← *anya*
 - \[noun\], nominative, plural, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *abhito* \< *abhitas*
+- *abhito* ← *abhitas*
 - \[adverb\]
 - “about; around; regarding; about.”
 ------------------------------------------------------------------------
@@ -43,45 +43,45 @@ title = "Rig Veda 4.1.14"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vocan* \< *vac*
+- *vocan* ← *vac*
 - \[verb\], plural, Aorist inj. (proh.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
 ------------------------------------------------------------------------
-- *paśvayantrāso* \< *paśu*
+- *paśvayantrāso* ← *paśu*
 - \[noun\], masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
 ------------------------------------------------------------------------
-- *paśvayantrāso* \< *ayantrāsaḥ* \< *ayantra*
+- *paśvayantrāso* ← *ayantrāsaḥ* ← *ayantra*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *kāram* \< *kārā*
+- *kāram* ← *kārā*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *arcan* \< *arc*
+- *arcan* ← *arc*
 - \[verb\], plural, Imperfect
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *vidanta* \< *vid*
+- *vidanta* ← *vid*
 - \[verb\], plural, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *jyotiś* \< *jyotiḥ* \< *jyotis*
+- *jyotiś* ← *jyotiḥ* ← *jyotis*
 - \[noun\], accusative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
 ------------------------------------------------------------------------
-- *cakṛpanta* \< *kṛp*
+- *cakṛpanta* ← *kṛp*
 - \[verb\], plural, Plusquamperfect
 ------------------------------------------------------------------------
-- *dhībhiḥ* \< *dhī*
+- *dhībhiḥ* ← *dhī*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”

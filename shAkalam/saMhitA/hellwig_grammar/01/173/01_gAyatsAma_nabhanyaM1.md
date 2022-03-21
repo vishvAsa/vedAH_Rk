@@ -2,36 +2,36 @@
 title = "Rig Veda 1.173.1"
 
 +++
--   *gāyat* \< *gā*
+-   *gāyat* ← *gā*
 - \[verb\], singular, Present injunctive
 - “sing; praise; jap; recite; describe.”
 ------------------------------------------------------------------------
-- *sāma* \< *sāman*
+- *sāma* ← *sāman*
 - \[noun\], accusative, singular, neuter
 - “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
 ------------------------------------------------------------------------
-- *nabhanyaṃ* \< *nabhanyam* \< *nabhanya*
+- *nabhanyaṃ* ← *nabhanyam* ← *nabhanya*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *ver* \< *veḥ* \< *vi*
+- *ver* ← *veḥ* ← *vi*
 - \[noun\], genitive, singular, masculine
 - “vi; bird; vi.”
 ------------------------------------------------------------------------
-- *arcāma* \< *arc*
+- *arcāma* ← *arc*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vāvṛdhānaṃ* \< *vāvṛdhānam* \< *vṛdh*
+- *vāvṛdhānaṃ* ← *vāvṛdhānam* ← *vṛdh*
 - \[verb noun\], accusative, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
@@ -40,20 +40,20 @@ title = "Rig Veda 1.173.1"
 - \[noun\], accusative, singular, neuter
 - “bright; bright.”
 ------------------------------------------------------------------------
-- *gāvo* \< *gāvaḥ* \< *go*
+- *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *dhenavo* \< *dhenavaḥ* \< *dhenu*
+- *dhenavo* ← *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *barhiṣy* \< *barhiṣi* \< *barhis*
+- *barhiṣy* ← *barhiṣi* ← *barhis*
 - \[noun\], locative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *adabdhā* \< *adabdhāḥ* \< *adabdha*
+- *adabdhā* ← *adabdhāḥ* ← *adabdha*
 - \[noun\], nominative, plural, feminine
 - “unfailing; unimpaired.”
 ------------------------------------------------------------------------
@@ -65,15 +65,15 @@ title = "Rig Veda 1.173.1"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *sadmānaṃ* \< *sadmānam* \< *sadman*
+- *sadmānaṃ* ← *sadmānam* ← *sadman*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *divyaṃ* \< *divyam* \< *divya*
+- *divyaṃ* ← *divyam* ← *divya*
 - \[noun\], accusative, singular, masculine
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
 ------------------------------------------------------------------------
-- *vivāsān* \< *vivās* \< *√van*
+- *vivāsān* ← *vivās* ← *√van*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “invite; endeavor; try for.”
 ------------------------------------------------------------------------

@@ -2,22 +2,22 @@
 title = "Rig Veda 2.2.4"
 
 +++
--   *tam* \< *tad*
+-   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ukṣamāṇaṃ* \< *ukṣamāṇam* \< *vakṣ*
+- *ukṣamāṇaṃ* ← *ukṣamāṇam* ← *vakṣ*
 - \[verb noun\], accusative, singular
 - “grow; grow.”
 ------------------------------------------------------------------------
-- *rajasi* \< *rajas*
+- *rajasi* ← *rajas*
 - \[noun\], locative, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 ------------------------------------------------------------------------
-- *sva* \< *sve* \< *sva*
+- *sva* ← *sve* ← *sva*
 - \[noun\], locative, singular, neuter
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
@@ -26,11 +26,11 @@ title = "Rig Veda 2.2.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dame* \< *dama*
+- *dame* ← *dama*
 - \[noun\], locative, singular, masculine
 - “dwelling; home.”
 ------------------------------------------------------------------------
-- *candram* \< *candra*
+- *candram* ← *candra*
 - \[noun\], accusative, singular, masculine
 - “aglitter(p); shining.”
 ------------------------------------------------------------------------
@@ -38,42 +38,42 @@ title = "Rig Veda 2.2.4"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *surucaṃ* \< *su*
+- *surucaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *surucaṃ* \< *rucam* \< *ruc*
+- *surucaṃ* ← *rucam* ← *ruc*
 - \[noun\], accusative, singular, masculine
 - “beam; radiance; color.”
 ------------------------------------------------------------------------
-- *hvāra* \< *hvāre* \< *hvāra*
+- *hvāra* ← *hvāre* ← *hvāra*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dadhuḥ* \< *dhā*
+- *dadhuḥ* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *pṛśnyāḥ* \< *pṛśni*
+- *pṛśnyāḥ* ← *pṛśni*
 - \[noun\], genitive, singular, feminine
 - “Pṛśni; beam.”
 ------------------------------------------------------------------------
-- *pataraṃ* \< *pataram* \< *patara*
+- *pataraṃ* ← *pataram* ← *patara*
 - \[noun\], accusative, singular, masculine
 - “winged.”
 ------------------------------------------------------------------------
-- *citayantam* \< *citay* \< *√cit*
+- *citayantam* ← *citay* ← *√cit*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *akṣabhiḥ* \< *akṣa*
+- *akṣabhiḥ* ← *akṣa*
 - \[noun\], instrumental, plural, neuter
 - “eye; akṣa \[word\]; hole.”
 ------------------------------------------------------------------------
-- *pātho* \< *pāthaḥ* \< *pāthas*
+- *pātho* ← *pāthaḥ* ← *pāthas*
 - \[noun\], accusative, singular, neuter
 - “pāthas \[word\]; water; place.”
 ------------------------------------------------------------------------
@@ -81,14 +81,14 @@ title = "Rig Veda 2.2.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pāyuṃ* \< *pāyum* \< *pāyu*
+- *pāyuṃ* ← *pāyum* ← *pāyu*
 - \[noun\], accusative, singular, masculine
 - “guard; pāyu \[word\]; Pāyu.”
 ------------------------------------------------------------------------
-- *janasī* \< *janas*
+- *janasī* ← *janas*
 - \[noun\], accusative, dual, neuter
 ------------------------------------------------------------------------
-- *ubhe* \< *ubh*
+- *ubhe* ← *ubh*
 - \[noun\], accusative, dual, neuter
 - “both(a).”
 ------------------------------------------------------------------------

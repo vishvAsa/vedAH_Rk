@@ -6,14 +6,14 @@ title = "Rig Veda 4.38.8"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *smāsya* \< *sma*
+- *smāsya* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *smāsya* \< *asya* \< *idam*
+- *smāsya* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *tanyator* \< *tanyatoḥ* \< *tanyatu*
+- *tanyator* ← *tanyatoḥ* ← *tanyatu*
 - \[noun\], ablative, singular, masculine
 - “thunder.”
 ------------------------------------------------------------------------
@@ -21,18 +21,18 @@ title = "Rig Veda 4.38.8"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *dyor* \< *dyoḥ* \< *div*
+- *dyor* ← *dyoḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *ṛghāyato* \< *ṛghāyataḥ* \< *ṛghāy*
+- *ṛghāyato* ← *ṛghāyataḥ* ← *ṛghāy*
 - \[verb noun\], genitive, singular
 ------------------------------------------------------------------------
-- *abhiyujo* \< *abhiyujaḥ* \< *abhiyuj*
+- *abhiyujo* ← *abhiyujaḥ* ← *abhiyuj*
 - \[noun\], ablative, singular, feminine
 - “attack; attack.”
 ------------------------------------------------------------------------
-- *bhayante* \< *bhī*
+- *bhayante* ← *bhī*
 - \[verb\], plural, Present indikative
 - “fear; fear.”
 ------------------------------------------------------------------------
@@ -40,7 +40,7 @@ title = "Rig Veda 4.38.8"
 - \[adverb\]
 - “once \[when\]; if.”
 ------------------------------------------------------------------------
-- *sahasram* \< *sahasra*
+- *sahasram* ← *sahasra*
 - \[noun\], nominative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
@@ -48,30 +48,30 @@ title = "Rig Veda 4.38.8"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *ṣīm* \< *sīm*
+- *ṣīm* ← *sīm*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ayodhīd* \< *ayodhīt* \< *yudh*
+- *ayodhīd* ← *ayodhīt* ← *yudh*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “fight; overcome.”
 ------------------------------------------------------------------------
-- *durvartuḥ* \< *durvartu*
+- *durvartuḥ* ← *durvartu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *smā* \< *sma*
+- *smā* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *bhavati* \< *bhū*
+- *bhavati* ← *bhū*
 - \[verb\], singular, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *bhīma* \< *bhīmaḥ* \< *bhīma*
+- *bhīma* ← *bhīmaḥ* ← *bhīma*
 - \[noun\], nominative, singular, masculine
 - “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
 ------------------------------------------------------------------------
-- *ṛñjan* \< *ṛj*
+- *ṛñjan* ← *ṛj*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------

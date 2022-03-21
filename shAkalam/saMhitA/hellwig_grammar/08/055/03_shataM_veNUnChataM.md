@@ -2,58 +2,58 @@
 title = "Rig Veda 8.55.3"
 
 +++
--   *śataṃ* \< *śatam* \< *śata*
+-   *śataṃ* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *veṇūñchataṃ* \< *veṇūn* \< *veṇu*
+- *veṇūñchataṃ* ← *veṇūn* ← *veṇu*
 - \[noun\], accusative, plural, masculine
 - “bamboo; flute; veṇu \[word\]; Veṇu; reed; cane.”
 ------------------------------------------------------------------------
-- *veṇūñchataṃ* \< *śatam* \< *śata*
+- *veṇūñchataṃ* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *śunaḥ* \< *śvan*
+- *śunaḥ* ← *śvan*
 - \[noun\], accusative, plural, masculine
 - “dog; śvan \[word\].”
 ------------------------------------------------------------------------
-- *śataṃ* \< *śatam* \< *śata*
+- *śataṃ* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *carmāṇi* \< *carman*
+- *carmāṇi* ← *carman*
 - \[noun\], accusative, plural, neuter
 - “leather; hide; shield; skin; carman \[word\]; carman; hide.”
 ------------------------------------------------------------------------
-- *mlātāni* \< *mlā*
+- *mlātāni* ← *mlā*
 - \[verb noun\], accusative, plural
 - “shrivel; tan; fade.”
 ------------------------------------------------------------------------
-- *śatam* \< *śata*
+- *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *balbajastukā* \< *balbaja*
+- *balbajastukā* ← *balbaja*
 - \[noun\], masculine
 ------------------------------------------------------------------------
-- *balbajastukā* \< *stukāḥ* \< *stukā*
+- *balbajastukā* ← *stukāḥ* ← *stukā*
 - \[noun\], accusative, plural, feminine
 - “tuft.”
 ------------------------------------------------------------------------
-- *aruṣīṇāṃ* \< *aruṣīṇām* \< *aruṣa*
+- *aruṣīṇāṃ* ← *aruṣīṇām* ← *aruṣa*
 - \[noun\], genitive, plural, feminine
 - “red; red.”
 ------------------------------------------------------------------------
-- *catuḥśatam* \< *catur*
+- *catuḥśatam* ← *catur*
 - \[noun\]
 - “four; catur \[word\].”
 ------------------------------------------------------------------------
-- *catuḥśatam* \< *śatam* \< *śata*
+- *catuḥśatam* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------

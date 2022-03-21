@@ -2,36 +2,36 @@
 title = "Rig Veda 5.26.2"
 
 +++
--   *taṃ* \< *tam* \< *tad*
+-   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ghṛtasnav* \< *ghṛtasno* \< *ghṛtasnu*
+- *ghṛtasnav* ← *ghṛtasno* ← *ghṛtasnu*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *īmahe* \< *ī* \< *√i*
+- *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------
-- *citrabhāno* \< *citrabhānu*
+- *citrabhāno* ← *citrabhānu*
 - \[noun\], vocative, singular, masculine
 - “Agni; sun; Surya.”
 ------------------------------------------------------------------------
-- *svardṛśam* \< *svar*
+- *svardṛśam* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *svardṛśam* \< *dṛśam* \< *dṛś*
+- *svardṛśam* ← *dṛśam* ← *dṛś*
 - \[noun\], accusative, singular, masculine
 - “eye; dṛś; dṛś \[word\]; sight; evil eye.”
 ------------------------------------------------------------------------
-- *devāṃ* \< *deva*
+- *devāṃ* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -40,10 +40,10 @@ title = "Rig Veda 5.26.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vītaye* \< *vīti*
+- *vītaye* ← *vīti*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------
-- *vaha* \< *vah*
+- *vaha* ← *vah*
 - \[verb\], singular, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”

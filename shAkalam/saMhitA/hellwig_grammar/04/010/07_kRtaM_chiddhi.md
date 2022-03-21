@@ -2,7 +2,7 @@
 title = "Rig Veda 4.10.7"
 
 +++
--   *kṛtaṃ* \< *kṛtam* \< *kṛ*
+-   *kṛtaṃ* ← *kṛtam* ← *kṛ*
 - \[verb noun\], accusative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -13,35 +13,35 @@ title = "Rig Veda 4.10.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *ciddhi* \< *cit*
+- *ciddhi* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ciddhi* \< *hi*
+- *ciddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *ṣmā* \< *sma*
+- *ṣmā* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *sanemi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *dveṣo* \< *dveṣaḥ* \< *dveṣas*
+- *dveṣo* ← *dveṣaḥ* ← *dveṣas*
 - \[noun\], accusative, singular, neuter
 - “hostility; enemy.”
 ------------------------------------------------------------------------
-- *'gna* \< *agne* \< *agni*
+- *'gna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *inoṣi* \< *i*
+- *inoṣi* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *martāt* \< *marta*
+- *martāt* ← *marta*
 - \[noun\], ablative, singular, masculine
 - “man.”
 ------------------------------------------------------------------------
@@ -49,11 +49,11 @@ title = "Rig Veda 4.10.7"
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *yajamānād* \< *yajamānāt* \< *yaj*
+- *yajamānād* ← *yajamānāt* ← *yaj*
 - \[verb noun\], ablative, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *ṛtāvaḥ* \< *ṛtāvan*
+- *ṛtāvaḥ* ← *ṛtāvan*
 - \[noun\], vocative, singular, masculine
 - “law-abiding; faithful; righteous.”
 ------------------------------------------------------------------------

@@ -6,15 +6,15 @@ title = "Rig Veda 7.34.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *śukraitu* \< *śukrā* \< *śukra*
+- *śukraitu* ← *śukrā* ← *śukra*
 - \[noun\], nominative, singular, feminine
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *śukraitu* \< *etu* \< *i*
+- *śukraitu* ← *etu* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *devī* \< *deva*
+- *devī* ← *deva*
 - \[noun\], nominative, singular, feminine
 - “divine.”
 ------------------------------------------------------------------------
@@ -23,19 +23,19 @@ title = "Rig Veda 7.34.1"
 - “hymn; inspiration; idea; thinking; wish; consideration;
     intelligence.”
 ------------------------------------------------------------------------
-- *asmat* \< *mad*
+- *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sutaṣṭo* \< *su*
+- *sutaṣṭo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sutaṣṭo* \< *taṣṭaḥ* \< *takṣ*
+- *sutaṣṭo* ← *taṣṭaḥ* ← *takṣ*
 - \[verb noun\], nominative, singular
 - “produce; shape; fashion; chisel; invent.”
 ------------------------------------------------------------------------
-- *ratho* \< *rathaḥ* \< *ratha*
+- *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -43,7 +43,7 @@ title = "Rig Veda 7.34.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vājī* \< *vājin*
+- *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------

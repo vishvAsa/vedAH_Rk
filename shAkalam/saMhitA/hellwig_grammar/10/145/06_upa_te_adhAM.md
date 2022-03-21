@@ -6,36 +6,36 @@ title = "Rig Veda 10.145.6"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *'dhāṃ* \< *adhām* \< *dhā*
+- *'dhāṃ* ← *adhām* ← *dhā*
 - \[verb\], singular, Root aorist (Ind.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *sahamānām* \< *sahamānā*
+- *sahamānām* ← *sahamānā*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
 - *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *tvādhāṃ* \< *tvā* \< *tvad*
+- *tvādhāṃ* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tvādhāṃ* \< *adhām* \< *dhā*
+- *tvādhāṃ* ← *adhām* ← *dhā*
 - \[verb\], singular, Root aorist (Ind.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *sahīyasā* \< *sahīyas*
+- *sahīyasā* ← *sahīyas*
 - \[noun\], instrumental, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *mām* \< *mad*
+- *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -47,21 +47,21 @@ title = "Rig Veda 10.145.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *mano* \< *manaḥ* \< *manas*
+- *mano* ← *manaḥ* ← *manas*
 - \[noun\], nominative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *vatsaṃ* \< *vatsam* \< *vatsa*
+- *vatsaṃ* ← *vatsam* ← *vatsa*
 - \[noun\], accusative, singular, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
 ------------------------------------------------------------------------
-- *gaur* \< *gauḥ* \< *go*
+- *gaur* ← *gauḥ* ← *go*
 - \[noun\], nominative, singular, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -70,11 +70,11 @@ title = "Rig Veda 10.145.6"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *dhāvatu* \< *dhāv*
+- *dhāvatu* ← *dhāv*
 - \[verb\], singular, Present imperative
 - “run; run; wash.”
 ------------------------------------------------------------------------
-- *pathā* \< *pathin*
+- *pathā* ← *pathin*
 - \[noun\], instrumental, singular, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
@@ -86,7 +86,7 @@ title = "Rig Veda 10.145.6"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *dhāvatu* \< *dhāv*
+- *dhāvatu* ← *dhāv*
 - \[verb\], singular, Present imperative
 - “run; run; wash.”
 ------------------------------------------------------------------------

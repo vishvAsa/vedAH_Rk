@@ -2,30 +2,30 @@
 title = "Rig Veda 2.34.4"
 
 +++
--   *pṛkṣe* \< *pṛkṣ*
+-   *pṛkṣe* ← *pṛkṣ*
 - \[noun\], dative, singular, feminine
 - “food; refreshment; power.”
 ------------------------------------------------------------------------
-- *tā* \< *tad*
+- *tā* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *bhuvanā* \< *bhuvana*
+- *bhuvanā* ← *bhuvana*
 - \[noun\], accusative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *vavakṣire* \< *vakṣ*
+- *vavakṣire* ← *vakṣ*
 - \[verb\], plural, Perfect indicative
 - “grow; grow.”
 ------------------------------------------------------------------------
-- *mitrāya* \< *mitra*
+- *mitrāya* ← *mitra*
 - \[noun\], dative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
@@ -41,40 +41,40 @@ title = "Rig Veda 2.34.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *jīradānavaḥ* \< *jīra*
+- *jīradānavaḥ* ← *jīra*
 - \[noun\]
 - “agile; quick; fast.”
 ------------------------------------------------------------------------
-- *jīradānavaḥ* \< *dānavaḥ* \< *dānu*
+- *jīradānavaḥ* ← *dānavaḥ* ← *dānu*
 - \[noun\], nominative, plural, masculine
 - “giving; big.”
 ------------------------------------------------------------------------
-- *pṛṣadaśvāso* \< *pṛṣat*
+- *pṛṣadaśvāso* ← *pṛṣat*
 - \[noun\]
 - “motley; patched.”
 ------------------------------------------------------------------------
-- *pṛṣadaśvāso* \< *aśvāsaḥ* \< *aśva*
+- *pṛṣadaśvāso* ← *aśvāsaḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *anavabhrarādhasa* \< *anavabhra*
+- *anavabhrarādhasa* ← *anavabhra*
 - \[noun\]
 - “permanent.”
 ------------------------------------------------------------------------
-- *anavabhrarādhasa* \< *rādhasaḥ* \< *rādhas*
+- *anavabhrarādhasa* ← *rādhasaḥ* ← *rādhas*
 - \[noun\], nominative, plural, masculine
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *ṛjipyāso* \< *ṛjipyāsaḥ* \< *ṛjipya*
+- *ṛjipyāso* ← *ṛjipyāsaḥ* ← *ṛjipya*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vayuneṣu* \< *vayuna*
+- *vayuneṣu* ← *vayuna*
 - \[noun\], locative, plural, masculine
 ------------------------------------------------------------------------
-- *dhūrṣadaḥ* \< *dhūrṣad*
+- *dhūrṣadaḥ* ← *dhūrṣad*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------

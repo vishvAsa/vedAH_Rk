@@ -6,19 +6,19 @@ title = "Rig Veda 10.33.2"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tapanty* \< *tapanti* \< *tap*
+- *tapanty* ← *tapanti* ← *tap*
 - \[verb\], plural, Present indikative
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
 ------------------------------------------------------------------------
-- *abhitaḥ* \< *abhitas*
+- *abhitaḥ* ← *abhitas*
 - \[adverb\]
 - “about; around; regarding; about.”
 ------------------------------------------------------------------------
-- *sapatnīr* \< *sapatnīḥ* \< *sapatnī*
+- *sapatnīr* ← *sapatnīḥ* ← *sapatnī*
 - \[noun\], nominative, plural, feminine
 - “sapatnī; rival; sapatnī \[word\]; mistress.”
 ------------------------------------------------------------------------
@@ -26,7 +26,7 @@ title = "Rig Veda 10.33.2"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *parśavaḥ* \< *parśu*
+- *parśavaḥ* ← *parśu*
 - \[noun\], nominative, plural, masculine
 - “rib; parśu \[word\].”
 ------------------------------------------------------------------------
@@ -34,11 +34,11 @@ title = "Rig Veda 10.33.2"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *bādhate* \< *bādh*
+- *bādhate* ← *bādh*
 - \[verb\], singular, Present indikative
 - “afflict; annoy; chase away; tease; grieve; irritate.”
 ------------------------------------------------------------------------
-- *amatir* \< *amatiḥ* \< *amati*
+- *amatir* ← *amatiḥ* ← *amati*
 - \[noun\], nominative, singular, feminine
 - “indigence.”
 ------------------------------------------------------------------------
@@ -46,11 +46,11 @@ title = "Rig Veda 10.33.2"
 - \[noun\], nominative, singular, feminine
 - “nakedness.”
 ------------------------------------------------------------------------
-- *jasur* \< *jasuḥ* \< *jasu*
+- *jasur* ← *jasuḥ* ← *jasu*
 - \[noun\], nominative, singular, feminine
 - “exhaustion; weakness.”
 ------------------------------------------------------------------------
-- *ver* \< *veḥ* \< *vi*
+- *ver* ← *veḥ* ← *vi*
 - \[noun\], genitive, singular, masculine
 - “vi; bird; vi.”
 ------------------------------------------------------------------------
@@ -58,10 +58,10 @@ title = "Rig Veda 10.33.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vevīyate* \< *vevīy* \< *√vī*
+- *vevīyate* ← *vevīy* ← *√vī*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *matiḥ* \< *mati*
+- *matiḥ* ← *mati*
 - \[noun\], nominative, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”

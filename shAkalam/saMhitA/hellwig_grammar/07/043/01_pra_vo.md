@@ -6,27 +6,27 @@ title = "Rig Veda 7.43.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *yajñeṣu* \< *yajña*
+- *yajñeṣu* ← *yajña*
 - \[noun\], locative, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *devayanto* \< *devayantaḥ* \< *devay*
+- *devayanto* ← *devayantaḥ* ← *devay*
 - \[verb noun\], nominative, plural
 - “solicit.”
 ------------------------------------------------------------------------
-- *arcan* \< *arc*
+- *arcan* ← *arc*
 - \[verb\], plural, Present injunctive
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *dyāvā* \< *div*
+- *dyāvā* ← *div*
 - \[noun\], accusative, dual, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *namobhiḥ* \< *namas*
+- *namobhiḥ* ← *namas*
 - \[noun\], instrumental, plural, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
@@ -34,36 +34,36 @@ title = "Rig Veda 7.43.1"
 - \[noun\], accusative, dual, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *iṣadhyai* \< *iṣ*
+- *iṣadhyai* ← *iṣ*
 - \[verb noun\]
 - “send.”
 ------------------------------------------------------------------------
-- *yeṣām* \< *yad*
+- *yeṣām* ← *yad*
 - \[noun\], genitive, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *brahmāṇy* \< *brahmāṇi* \< *brahman*
+- *brahmāṇy* ← *brahmāṇi* ← *brahman*
 - \[noun\], nominative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *asamāni* \< *asama*
+- *asamāni* ← *asama*
 - \[noun\], nominative, plural, neuter
 - “incomparable; unlike.”
 ------------------------------------------------------------------------
-- *viprā* \< *vipra*
+- *viprā* ← *vipra*
 - \[noun\], nominative, plural, neuter
 - “eloquent; stimulated; divine.”
 ------------------------------------------------------------------------
-- *viṣvag* \< *viṣvak* \< *viṣvañc*
+- *viṣvag* ← *viṣvak* ← *viṣvañc*
 - \[noun\], accusative, singular, neuter
 - “dispersed; viṣvañc \[word\].”
 ------------------------------------------------------------------------
-- *viyanti* \< *vī* \< *√i*
+- *viyanti* ← *vī* ← *√i*
 - \[verb\], plural, Present indikative
 - “disappear; differ; elapse.”
 ------------------------------------------------------------------------
-- *vanino* \< *vaninaḥ* \< *vanin*
+- *vanino* ← *vaninaḥ* ← *vanin*
 - \[noun\], genitive, singular, masculine
 - “tree.”
 ------------------------------------------------------------------------
@@ -71,7 +71,7 @@ title = "Rig Veda 7.43.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śākhāḥ* \< *śākhā*
+- *śākhāḥ* ← *śākhā*
 - \[noun\], nominative, plural, feminine
 - “branch; limb; school; extremity; śākhā \[word\]; bough; branchlet;
     finger.”

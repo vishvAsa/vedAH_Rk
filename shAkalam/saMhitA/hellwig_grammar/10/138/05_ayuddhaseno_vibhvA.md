@@ -2,79 +2,79 @@
 title = "Rig Veda 10.138.5"
 
 +++
--   *ayuddhaseno* \< *a*
+-   *ayuddhaseno* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *ayuddhaseno* \< *yuddha* \< *yudh*
+- *ayuddhaseno* ← *yuddha* ← *yudh*
 - \[verb noun\]
 - “fight; overcome.”
 ------------------------------------------------------------------------
-- *ayuddhaseno* \< *senaḥ* \< *senā*
+- *ayuddhaseno* ← *senaḥ* ← *senā*
 - \[noun\], nominative, singular, masculine
 - “army; senā \[word\]; armament.”
 ------------------------------------------------------------------------
-- *vibhvā* \< *vibhu*
+- *vibhvā* ← *vibhu*
 - \[noun\], instrumental, singular, masculine
 - “mighty; abundant; big.”
 ------------------------------------------------------------------------
-- *vibhindatā* \< *vibhid* \< *√bhid*
+- *vibhindatā* ← *vibhid* ← *√bhid*
 - \[verb noun\], instrumental, singular
 - “cleave; incise.”
 ------------------------------------------------------------------------
-- *dāśad* \< *dāśat* \< *dāś*
+- *dāśad* ← *dāśat* ← *dāś*
 - \[verb\], singular, Present injunctive
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *vṛtrahā* \< *vṛtrahan*
+- *vṛtrahā* ← *vṛtrahan*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *tujyāni* \< *tujya*
+- *tujyāni* ← *tujya*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *tejate* \< *tij*
+- *tejate* ← *tij*
 - \[verb\], singular, Present indikative
 - “sharpen.”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vajrād* \< *vajrāt* \< *vajra*
+- *vajrād* ← *vajrāt* ← *vajra*
 - \[noun\], ablative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *abibhed* \< *abibhet* \< *bhī*
+- *abibhed* ← *abibhet* ← *bhī*
 - \[verb\], singular, Imperfect
 - “fear; fear.”
 ------------------------------------------------------------------------
-- *abhiśnathaḥ* \< *abhiśnath*
+- *abhiśnathaḥ* ← *abhiśnath*
 - \[noun\], ablative, singular, masculine
 - “piercing.”
 ------------------------------------------------------------------------
-- *prākrāmacchundhyūr* \< *prākrāmat* \< *prakram* \< *√kram*
+- *prākrāmacchundhyūr* ← *prākrāmat* ← *prakram* ← *√kram*
 - \[verb\], singular, Imperfect
 - “go; begin; walk; travel.”
 ------------------------------------------------------------------------
-- *prākrāmacchundhyūr* \< *śundhyūḥ* \< *śundhyu*
+- *prākrāmacchundhyūr* ← *śundhyūḥ* ← *śundhyu*
 - \[noun\], nominative, singular, feminine
 - “fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *ajahād* \< *ajahāt* \< *hā*
+- *ajahād* ← *ajahāt* ← *hā*
 - \[verb\], singular, Imperfect
 - “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
     lose; avoid; remove; leave; abandon; neglect; leave; discard;
     apostatize; discontinue; weaken; abandon; assail; subtract;
     foreswear; pour away; withdraw; depart; reduce.”
 ------------------------------------------------------------------------
-- *uṣā* \< *uṣāḥ* \< *uṣas*
+- *uṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *anaḥ* \< *anas*
+- *anaḥ* ← *anas*
 - \[noun\], accusative, singular, neuter
 - “cart; anas \[word\].”
 ------------------------------------------------------------------------

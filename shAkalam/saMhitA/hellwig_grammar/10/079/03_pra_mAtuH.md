@@ -6,25 +6,25 @@ title = "Rig Veda 10.79.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *mātuḥ* \< *mātṛ*
+- *mātuḥ* ← *mātṛ*
 - \[noun\], genitive, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *prataraṃ* \< *prataram*
+- *prataraṃ* ← *prataram*
 - \[adverb\]
 - “farther.”
 ------------------------------------------------------------------------
-- *guhyam* \< *guhya*
+- *guhyam* ← *guhya*
 - \[noun\], accusative, singular, masculine
 - “secret; concealed.”
 ------------------------------------------------------------------------
-- *icchan* \< *iṣ*
+- *icchan* ← *iṣ*
 - \[verb noun\], nominative, singular
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
 ------------------------------------------------------------------------
-- *kumāro* \< *kumāraḥ* \< *kumāra*
+- *kumāro* ← *kumāraḥ* ← *kumāra*
 - \[noun\], nominative, singular, masculine
 - “prince; male child; child; Skanda; son; kumārabandha; kumāra
     \[word\]; young person.”
@@ -33,51 +33,51 @@ title = "Rig Veda 10.79.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vīrudhaḥ* \< *vīrudh*
+- *vīrudhaḥ* ← *vīrudh*
 - \[noun\], accusative, plural, feminine
 - “plant; shrub.”
 ------------------------------------------------------------------------
-- *sarpad* \< *sarpat* \< *sṛp*
+- *sarpad* ← *sarpat* ← *sṛp*
 - \[verb\], singular, Present injunctive
 - “crawl; spread; wander.”
 ------------------------------------------------------------------------
-- *urvīḥ* \< *uru*
+- *urvīḥ* ← *uru*
 - \[noun\], accusative, plural, feminine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *sasaṃ* \< *sasam* \< *sasa*
+- *sasaṃ* ← *sasam* ← *sasa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pakvam* \< *pakva*
+- *pakvam* ← *pakva*
 - \[noun\], accusative, singular, masculine
 - “heated; pakva; ripe; cooked; festering; baked; developed; doomed;
     digested; pakva \[word\]; suppurative; gray; fruiting; done.”
 ------------------------------------------------------------------------
-- *avidacchucantaṃ* \< *avidat* \< *vid*
+- *avidacchucantaṃ* ← *avidat* ← *vid*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *avidacchucantaṃ* \< *śucantam* \< *śuc*
+- *avidacchucantaṃ* ← *śucantam* ← *śuc*
 - \[verb noun\], accusative, singular
 - “mourn; grieve; flame; glow; burn; repent.”
 ------------------------------------------------------------------------
-- *ririhvāṃsaṃ* \< *ririhvāṃsam* \< *rih*
+- *ririhvāṃsaṃ* ← *ririhvāṃsam* ← *rih*
 - \[verb noun\], accusative, singular
 - “lick.”
 ------------------------------------------------------------------------
-- *ripa* \< *ripaḥ* \< *rip*
+- *ripa* ← *ripaḥ* ← *rip*
 - \[noun\], genitive, singular, feminine
 - “deceiver.”
 ------------------------------------------------------------------------
-- *upasthe* \< *upastha*
+- *upasthe* ← *upastha*
 - \[noun\], locative, singular, neuter
 - “genitalia; lap; sexual desire; anus.”
 ------------------------------------------------------------------------
-- *antaḥ* \< *antar*
+- *antaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------

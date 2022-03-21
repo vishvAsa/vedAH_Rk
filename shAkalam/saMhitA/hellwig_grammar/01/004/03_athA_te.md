@@ -2,24 +2,24 @@
 title = "Rig Veda 1.4.3"
 
 +++
--   *athā* \< *atha*
+-   *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *antamānāṃ* \< *antamānām* \< *antama*
+- *antamānāṃ* ← *antamānām* ← *antama*
 - \[noun\], genitive, plural, feminine
 - “intimate; bosom(a).”
 ------------------------------------------------------------------------
-- *vidyāma* \< *vid*
+- *vidyāma* ← *vid*
 - \[verb\], plural, Present optative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *sumatīnām* \< *sumati*
+- *sumatīnām* ← *sumati*
 - \[noun\], genitive, plural, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
@@ -27,7 +27,7 @@ title = "Rig Veda 1.4.3"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -35,7 +35,7 @@ title = "Rig Veda 1.4.3"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *khya* \< *khyaḥ* \< *khyā*
+- *khya* ← *khyaḥ* ← *khyā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “name; describe; call; enumerate; watch; know.”
 ------------------------------------------------------------------------
@@ -43,7 +43,7 @@ title = "Rig Veda 1.4.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gahi* \< *gam*
+- *gahi* ← *gam*
 - \[verb\], singular, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

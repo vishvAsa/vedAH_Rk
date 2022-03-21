@@ -2,41 +2,41 @@
 title = "Rig Veda 2.41.6"
 
 +++
--   *tā* \< *tad*
+-   *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *samrājā* \< *samrāj*
+- *samrājā* ← *samrāj*
 - \[noun\], nominative, dual, masculine
 - “sovereign; ruler.”
 ------------------------------------------------------------------------
-- *ghṛtāsutī* \< *ghṛta*
+- *ghṛtāsutī* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *ghṛtāsutī* \< *āsutī* \< *āsuti*
+- *ghṛtāsutī* ← *āsutī* ← *āsuti*
 - \[noun\], nominative, dual, masculine
 - “āsuti \[word\].”
 ------------------------------------------------------------------------
-- *ādityā* \< *āditya*
+- *ādityā* ← *āditya*
 - \[noun\], nominative, dual, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
-- *dānunas* \< *dānu*
+- *dānunas* ← *dānu*
 - \[noun\], genitive, singular, neuter
 - “Dānu; dew; drop.”
 ------------------------------------------------------------------------
-- *patī* \< *pati*
+- *patī* ← *pati*
 - \[noun\], nominative, dual, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *sacete* \< *sac*
+- *sacete* ← *sac*
 - \[verb\], dual, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *anavahvaram* \< *anavahvara*
+- *anavahvaram* ← *anavahvara*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------

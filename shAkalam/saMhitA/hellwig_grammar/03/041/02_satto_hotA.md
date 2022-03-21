@@ -2,28 +2,28 @@
 title = "Rig Veda 3.41.2"
 
 +++
--   *satto* \< *sattaḥ* \< *sad*
+-   *satto* ← *sattaḥ* ← *sad*
 - \[verb noun\], nominative, singular
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *hotā* \< *hotṛ*
+- *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ṛtviyas* \< *ṛtviyaḥ* \< *ṛtviya*
+- *ṛtviyas* ← *ṛtviyaḥ* ← *ṛtviya*
 - \[noun\], nominative, singular, masculine
 - “regular; punctual; timely.”
 ------------------------------------------------------------------------
-- *tistire* \< *stṛ*
+- *tistire* ← *stṛ*
 - \[verb\], singular, Perfect indicative
 - “spread; kill; lay; cover.”
 ------------------------------------------------------------------------
-- *barhir* \< *barhiḥ* \< *barhis*
+- *barhir* ← *barhiḥ* ← *barhis*
 - \[noun\], nominative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
@@ -31,7 +31,7 @@ title = "Rig Veda 3.41.2"
 - \[adverb\]
 - “correctly; in sequence; punctually.”
 ------------------------------------------------------------------------
-- *ayujran* \< *yuj*
+- *ayujran* ← *yuj*
 - \[verb\], plural, Root aorist (Ind.)
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -43,7 +43,7 @@ title = "Rig Veda 3.41.2"
 - \[adverb\]
 - “at dawn; early.”
 ------------------------------------------------------------------------
-- *adrayaḥ* \< *adri*
+- *adrayaḥ* ← *adri*
 - \[noun\], nominative, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------

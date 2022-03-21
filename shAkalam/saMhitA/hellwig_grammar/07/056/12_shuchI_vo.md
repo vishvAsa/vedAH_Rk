@@ -2,77 +2,77 @@
 title = "Rig Veda 7.56.12"
 
 +++
--   *śucī* \< *śuci*
+-   *śucī* ← *śuci*
 - \[noun\], nominative, plural, neuter
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *havyā* \< *havya*
+- *havyā* ← *havya*
 - \[noun\], nominative, plural, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *śucīnāṃ* \< *śucīnām* \< *śuci*
+- *śucīnāṃ* ← *śucīnām* ← *śuci*
 - \[noun\], genitive, plural, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *śuciṃ* \< *śucim* \< *śuci*
+- *śuciṃ* ← *śucim* ← *śuci*
 - \[noun\], accusative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *hinomy* \< *hinomi* \< *hi*
+- *hinomy* ← *hinomi* ← *hi*
 - \[verb\], singular, Present indikative
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
-- *adhvaraṃ* \< *adhvaram* \< *adhvara*
+- *adhvaraṃ* ← *adhvaram* ← *adhvara*
 - \[noun\], accusative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *śucibhyaḥ* \< *śuci*
+- *śucibhyaḥ* ← *śuci*
 - \[noun\], dative, plural, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *ṛtena* \< *ṛta*
+- *ṛtena* ← *ṛta*
 - \[noun\], instrumental, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *satyam* \< *satya*
+- *satyam* ← *satya*
 - \[noun\], accusative, singular, neuter
 - “truth; oath; satya \[word\]; promise.”
 ------------------------------------------------------------------------
-- *ṛtasāpa* \< *ṛtasāpaḥ* \< *ṛtasāp*
+- *ṛtasāpa* ← *ṛtasāpaḥ* ← *ṛtasāp*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *āyañchucijanmānaḥ* \< *āyan* \< *e* \< *√i*
+- *āyañchucijanmānaḥ* ← *āyan* ← *e* ← *√i*
 - \[verb\], plural, Imperfect
 - “come; travel.”
 ------------------------------------------------------------------------
-- *āyañchucijanmānaḥ* \< *śuci*
+- *āyañchucijanmānaḥ* ← *śuci*
 - \[noun\]
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *āyañchucijanmānaḥ* \< *janmānaḥ* \< *janman*
+- *āyañchucijanmānaḥ* ← *janmānaḥ* ← *janman*
 - \[noun\], nominative, plural, masculine
 - “birth; reincarnation; lineage; origin; race; metempsychosis;
     parentage; descent; appearance; age; birthplace; beginning; being.”
 ------------------------------------------------------------------------
-- *śucayaḥ* \< *śuci*
+- *śucayaḥ* ← *śuci*
 - \[noun\], nominative, plural, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *pāvakāḥ* \< *pāvaka*
+- *pāvakāḥ* ← *pāvaka*
 - \[noun\], nominative, plural, masculine
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
 ------------------------------------------------------------------------

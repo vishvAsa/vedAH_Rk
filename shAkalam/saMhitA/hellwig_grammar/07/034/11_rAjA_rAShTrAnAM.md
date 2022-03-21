@@ -2,31 +2,31 @@
 title = "Rig Veda 7.34.11"
 
 +++
--   *rājā* \< *rājan*
+-   *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *rāṣṭrānām* \< *rāṣṭra*
+- *rāṣṭrānām* ← *rāṣṭra*
 - \[noun\], genitive, plural, neuter
 - “kingdom; kingdom; kingship; rāṣṭra \[word\]; citizenry.”
 ------------------------------------------------------------------------
-- *peśo* \< *peśaḥ* \< *peśas*
+- *peśo* ← *peśaḥ* ← *peśas*
 - \[noun\], nominative, singular, neuter
 - “decoration; shape.”
 ------------------------------------------------------------------------
-- *nadīnām* \< *nadī*
+- *nadīnām* ← *nadī*
 - \[noun\], genitive, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
 ------------------------------------------------------------------------
-- *anuttam* \< *anutta*
+- *anuttam* ← *anutta*
 - \[noun\], nominative, singular, neuter
 - “anutta \[word\]; insuperable.”
 ------------------------------------------------------------------------
-- *asmai* \< *idam*
+- *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *kṣatraṃ* \< *kṣatram* \< *kṣatra*
+- *kṣatraṃ* ← *kṣatram* ← *kṣatra*
 - \[noun\], nominative, singular, neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
 ------------------------------------------------------------------------

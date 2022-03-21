@@ -2,7 +2,7 @@
 title = "Rig Veda 5.56.8"
 
 +++
--   *rathaṃ* \< *ratham* \< *ratha*
+-   *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -10,15 +10,15 @@ title = "Rig Veda 5.56.8"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *mārutaṃ* \< *mārutam* \< *māruta*
+- *mārutaṃ* ← *mārutam* ← *māruta*
 - \[noun\], accusative, singular, masculine
 - “Marut(a).”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śravasyum* \< *śravasyu*
+- *śravasyum* ← *śravasyu*
 - \[noun\], accusative, singular, masculine
 - “celebrated.”
 ------------------------------------------------------------------------
@@ -26,7 +26,7 @@ title = "Rig Veda 5.56.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *huvāmahe* \< *hvā*
+- *huvāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
@@ -34,20 +34,20 @@ title = "Rig Veda 5.56.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yasmin* \< *yad*
+- *yasmin* ← *yad*
 - \[noun\], locative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *tasthau* \< *sthā*
+- *tasthau* ← *sthā*
 - \[verb\], singular, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *suraṇāni* \< *suraṇa*
+- *suraṇāni* ← *suraṇa*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *bibhratī* \< *bhṛ*
+- *bibhratī* ← *bhṛ*
 - \[verb noun\], nominative, singular
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
@@ -56,7 +56,7 @@ title = "Rig Veda 5.56.8"
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *marutsu* \< *marut*
+- *marutsu* ← *marut*
 - \[noun\], locative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------

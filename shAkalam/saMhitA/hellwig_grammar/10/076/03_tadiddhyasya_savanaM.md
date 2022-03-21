@@ -2,33 +2,33 @@
 title = "Rig Veda 10.76.3"
 
 +++
--   *tad* \< *tat* \< *tad*
+-   *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *iddhy* \< *id*
+- *iddhy* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *iddhy* \< *hi*
+- *iddhy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *savanaṃ* \< *savanam* \< *savana*
+- *savanaṃ* ← *savanam* ← *savana*
 - \[noun\], nominative, singular, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
-- *viver* \< *\_* \< *√\_*
+- *viver* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *apo* \< *apaḥ* \< *apas*
+- *apo* ← *apaḥ* ← *apas*
 - \[noun\], accusative, singular, neuter
 - “work; deed.”
 ------------------------------------------------------------------------
@@ -40,46 +40,46 @@ title = "Rig Veda 10.76.3"
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
 ------------------------------------------------------------------------
-- *manave* \< *manu*
+- *manave* ← *manu*
 - \[noun\], dative, singular, masculine
 - “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
     incantation; sacred text.”
 ------------------------------------------------------------------------
-- *gātum* \< *gātu*
+- *gātum* ← *gātu*
 - \[noun\], accusative, singular, masculine
 - “path; way.”
 ------------------------------------------------------------------------
-- *aśret* \< *śri*
+- *aśret* ← *śri*
 - \[verb\], singular, Root aorist (Ind.)
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 ------------------------------------------------------------------------
-- *goarṇasi* \< *goarṇas*
+- *goarṇasi* ← *goarṇas*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *tvāṣṭre* \< *tvāṣṭra*
+- *tvāṣṭre* ← *tvāṣṭra*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *aśvanirṇiji* \< *aśva*
+- *aśvanirṇiji* ← *aśva*
 - \[noun\], masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *aśvanirṇiji* \< *nirṇiji* \< *nirṇij*
+- *aśvanirṇiji* ← *nirṇiji* ← *nirṇij*
 - \[noun\], locative, singular, masculine
 - “attire; garment.”
 ------------------------------------------------------------------------
-- *prem* \< *\_* \< *√\_*
+- *prem* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *adhvareṣv* \< *adhvareṣu* \< *adhvara*
+- *adhvareṣv* ← *adhvareṣu* ← *adhvara*
 - \[noun\], locative, plural, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *adhvarāṃ* \< *adhvara*
+- *adhvarāṃ* ← *adhvara*
 - \[noun\], accusative, plural, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *aśiśrayuḥ* \< *śri*
+- *aśiśrayuḥ* ← *śri*
 - \[verb\], plural, Plusquamperfect
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 ------------------------------------------------------------------------

@@ -2,11 +2,11 @@
 title = "Rig Veda 10.107.3"
 
 +++
--   *daivī* \< *daiva*
+-   *daivī* ← *daiva*
 - \[noun\], nominative, singular, feminine
 - “divine; religious.”
 ------------------------------------------------------------------------
-- *pūrtir* \< *pūrtiḥ* \< *pūrti*
+- *pūrtir* ← *pūrtiḥ* ← *pūrti*
 - \[noun\], nominative, singular, feminine
 - “fullness.”
 ------------------------------------------------------------------------
@@ -14,12 +14,12 @@ title = "Rig Veda 10.107.3"
 - \[noun\], nominative, singular, feminine
 - “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
 ------------------------------------------------------------------------
-- *devayajyā* \< *deva*
+- *devayajyā* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devayajyā* \< *yajyā* \< *yajya*
+- *devayajyā* ← *yajyā* ← *yajya*
 - \[noun\], nominative, singular, feminine
 - “sacrifice; yajña.”
 ------------------------------------------------------------------------
@@ -27,54 +27,54 @@ title = "Rig Veda 10.107.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *kavāribhyo* \< *kavāribhyaḥ* \< *kavāri*
+- *kavāribhyo* ← *kavāribhyaḥ* ← *kavāri*
 - \[noun\], dative, plural, masculine
 - “stingy.”
 ------------------------------------------------------------------------
 - *nahi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *pṛṇanti* \< *pṛ*
+- *pṛṇanti* ← *pṛ*
 - \[verb\], plural, Present indikative
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
 ------------------------------------------------------------------------
-- *athā* \< *atha*
+- *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *naraḥ* \< *nṛ*
+- *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *prayatadakṣiṇāso* \< *prayata* \< *prayam* \< *√yam*
+- *prayatadakṣiṇāso* ← *prayata* ← *prayam* ← *√yam*
 - \[verb noun\]
 - “give; emit; send; transmit.”
 ------------------------------------------------------------------------
-- *prayatadakṣiṇāso* \< *dakṣiṇāsaḥ* \< *dakṣiṇā*
+- *prayatadakṣiṇāso* ← *dakṣiṇāsaḥ* ← *dakṣiṇā*
 - \[noun\], nominative, plural, masculine
 - “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
 ------------------------------------------------------------------------
-- *'vadyabhiyā* \< *avadya*
+- *'vadyabhiyā* ← *avadya*
 - \[noun\], neuter
 - “shame; censure; blame.”
 ------------------------------------------------------------------------
-- *'vadyabhiyā* \< *bhiyā* \< *bhī*
+- *'vadyabhiyā* ← *bhiyā* ← *bhī*
 - \[noun\], instrumental, singular, feminine
 - “fear; bhī; alarm.”
 ------------------------------------------------------------------------
-- *bahavaḥ* \< *bahu*
+- *bahavaḥ* ← *bahu*
 - \[noun\], nominative, plural, masculine
 - “many; much(a); bahu \[word\]; abundant; long; large; abounding
     in(p); perennial.”
 ------------------------------------------------------------------------
-- *pṛṇanti* \< *pṛ*
+- *pṛṇanti* ← *pṛ*
 - \[verb\], plural, Present indikative
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”

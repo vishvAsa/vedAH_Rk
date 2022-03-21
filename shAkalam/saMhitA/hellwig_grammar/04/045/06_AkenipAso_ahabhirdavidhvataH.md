@@ -2,14 +2,14 @@
 title = "Rig Veda 4.45.6"
 
 +++
--   *ākenipāso* \< *ākenipāsaḥ* \< *ākenipa*
+-   *ākenipāso* ← *ākenipāsaḥ* ← *ākenipa*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *ahabhir* \< *ahabhiḥ* \< *aha*
+- *ahabhir* ← *ahabhiḥ* ← *aha*
 - \[noun\], instrumental, plural, neuter
 - “day; aha \[word\]; day.”
 ------------------------------------------------------------------------
-- *davidhvataḥ* \< *dodhu* \< *√dhū*
+- *davidhvataḥ* ← *dodhu* ← *√dhū*
 - \[verb noun\], nominative, plural
 - “shake.”
 ------------------------------------------------------------------------
@@ -17,15 +17,15 @@ title = "Rig Veda 4.45.6"
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *ṇa* \< *na*
+- *ṇa* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śukraṃ* \< *śukram* \< *śukra*
+- *śukraṃ* ← *śukram* ← *śukra*
 - \[noun\], nominative, singular, neuter
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *tanvanta* \< *tanvantaḥ* \< *tan*
+- *tanvanta* ← *tanvantaḥ* ← *tan*
 - \[verb noun\], nominative, plural
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
@@ -34,24 +34,24 @@ title = "Rig Veda 4.45.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *rajaḥ* \< *rajas*
+- *rajaḥ* ← *rajas*
 - \[noun\], accusative, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 ------------------------------------------------------------------------
-- *sūraś* \< *sūraḥ* \< *sūra*
+- *sūraś* ← *sūraḥ* ← *sūra*
 - \[noun\], nominative, singular, masculine
 - “sun.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *aśvān* \< *aśva*
+- *aśvān* ← *aśva*
 - \[noun\], accusative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *yuyujāna* \< *yuyujānaḥ* \< *yuj*
+- *yuyujāna* ← *yuyujānaḥ* ← *yuj*
 - \[verb noun\], nominative, singular
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -59,11 +59,11 @@ title = "Rig Veda 4.45.6"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *īyate* \< *i*
+- *īyate* ← *i*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *viśvāṃ* \< *viśva*
+- *viśvāṃ* ← *viśva*
 - \[noun\], accusative, plural, masculine
 - “Viśvakarman; Viśvedevās; Vishnu.”
 ------------------------------------------------------------------------
@@ -71,16 +71,16 @@ title = "Rig Veda 4.45.6"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *svadhayā* \< *svadhā*
+- *svadhayā* ← *svadhā*
 - \[noun\], instrumental, singular, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
 ------------------------------------------------------------------------
-- *cetathas* \< *cetathaḥ* \< *cit*
+- *cetathas* ← *cetathaḥ* ← *cit*
 - \[verb\], dual, Present indikative
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *pathaḥ* \< *pathin*
+- *pathaḥ* ← *pathin*
 - \[noun\], accusative, plural, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------

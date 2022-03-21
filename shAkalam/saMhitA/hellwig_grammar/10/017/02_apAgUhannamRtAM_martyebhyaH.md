@@ -2,19 +2,19 @@
 title = "Rig Veda 10.17.2"
 
 +++
--   *apāgūhann* \< *apāgūhan* \< *apaguh* \< *√guh*
+-   *apāgūhann* ← *apāgūhan* ← *apaguh* ← *√guh*
 - \[verb\], plural, Imperfect
 - “hide.”
 ------------------------------------------------------------------------
-- *amṛtām* \< *amṛta*
+- *amṛtām* ← *amṛta*
 - \[noun\], accusative, singular, feminine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *martyebhyaḥ* \< *martya*
+- *martyebhyaḥ* ← *martya*
 - \[noun\], ablative, plural, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------
-- *kṛtvī* \< *kṛ*
+- *kṛtvī* ← *kṛ*
 - \[verb noun\]
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -25,30 +25,30 @@ title = "Rig Veda 10.17.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *savarṇām* \< *savarṇa*
+- *savarṇām* ← *savarṇa*
 - \[noun\], accusative, singular, feminine
 - “homophonous; colored.”
 ------------------------------------------------------------------------
-- *adadur* \< *adaduḥ* \< *dā*
+- *adadur* ← *adaduḥ* ← *dā*
 - \[verb\], plural, Imperfect
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *vivasvate* \< *vivasvant*
+- *vivasvate* ← *vivasvant*
 - \[noun\], dative, singular, masculine
 - “Surya; sun; Vivasvant; Vivasvant.”
 ------------------------------------------------------------------------
-- *utāśvināv* \< *uta*
+- *utāśvināv* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *utāśvināv* \< *aśvinau* \< *aśvin*
+- *utāśvināv* ← *aśvinau* ← *aśvin*
 - \[noun\], accusative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *abharad* \< *abharat* \< *bhṛ*
+- *abharad* ← *abharat* ← *bhṛ*
 - \[verb\], singular, Imperfect
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
@@ -57,18 +57,18 @@ title = "Rig Veda 10.17.2"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *āsīd* \< *āsīt* \< *as*
+- *āsīd* ← *āsīt* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *ajahād* \< *ajahāt* \< *hā*
+- *ajahād* ← *ajahāt* ← *hā*
 - \[verb\], singular, Imperfect
 - “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
     lose; avoid; remove; leave; abandon; neglect; leave; discard;
@@ -79,14 +79,14 @@ title = "Rig Veda 10.17.2"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *dvā* \< *dvi*
+- *dvā* ← *dvi*
 - \[noun\], accusative, dual, masculine
 - “two; dvi \[word\]; second.”
 ------------------------------------------------------------------------
-- *mithunā* \< *mithuna*
+- *mithunā* ← *mithuna*
 - \[noun\], accusative, dual, masculine
 - “mated.”
 ------------------------------------------------------------------------
-- *saraṇyūḥ* \< *saraṇyū*
+- *saraṇyūḥ* ← *saraṇyū*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------

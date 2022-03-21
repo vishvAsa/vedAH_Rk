@@ -6,64 +6,64 @@ title = "Rig Veda 7.33.5"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *dyām* \< *div*
+- *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *ivet* \< *iva*
+- *ivet* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ivet* \< *id*
+- *ivet* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *tṛṣṇajo* \< *tṛṣṇajaḥ* \< *tṛṣṇaj*
+- *tṛṣṇajo* ← *tṛṣṇajaḥ* ← *tṛṣṇaj*
 - \[noun\], nominative, plural, masculine
 - “thirsty.”
 ------------------------------------------------------------------------
-- *nāthitāso* \< *nāthitāsaḥ* \< *nāth*
+- *nāthitāso* ← *nāthitāsaḥ* ← *nāth*
 - \[verb noun\], nominative, plural
 - “distress.”
 ------------------------------------------------------------------------
-- *'dīdhayur* \< *adīdhayuḥ* \< *dhī*
+- *'dīdhayur* ← *adīdhayuḥ* ← *dhī*
 - \[verb\], plural, Imperfect
 - “think; desire; chew over.”
 ------------------------------------------------------------------------
-- *dāśarājñe* \< *dāśarājña*
+- *dāśarājñe* ← *dāśarājña*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *vṛtāsaḥ* \< *vṛ*
+- *vṛtāsaḥ* ← *vṛ*
 - \[verb noun\], nominative, plural
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *vasiṣṭhasya* \< *vasiṣṭha*
+- *vasiṣṭhasya* ← *vasiṣṭha*
 - \[noun\], genitive, singular, masculine
 - “Vasiṣṭha; vasiṣṭha \[word\].”
 ------------------------------------------------------------------------
-- *stuvata* \< *stuvataḥ* \< *stu*
+- *stuvata* ← *stuvataḥ* ← *stu*
 - \[verb noun\], genitive, singular
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *aśrod* \< *aśrot* \< *śru*
+- *aśrod* ← *aśrot* ← *śru*
 - \[verb\], singular, Root aorist (Ind.)
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *uruṃ* \< *urum* \< *uru*
+- *uruṃ* ← *urum* ← *uru*
 - \[noun\], accusative, singular, masculine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *tṛtsubhyo* \< *tṛtsubhyaḥ* \< *tṛtsu*
+- *tṛtsubhyo* ← *tṛtsubhyaḥ* ← *tṛtsu*
 - \[noun\], dative, plural, masculine
 - “Tṛtsu.”
 ------------------------------------------------------------------------
-- *akṛṇod* \< *akṛṇot* \< *kṛ*
+- *akṛṇod* ← *akṛṇot* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -78,7 +78,7 @@ title = "Rig Veda 7.33.5"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *lokam* \< *loka*
+- *lokam* ← *loka*
 - \[noun\], accusative, singular, masculine
 - “Loka; Earth; world; vernacular; people; room; world; Earth; loka
     \[word\]; space; Loka; topographic point; region; common sense.”

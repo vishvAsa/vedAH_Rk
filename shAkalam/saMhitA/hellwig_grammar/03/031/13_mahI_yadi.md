@@ -2,7 +2,7 @@
 title = "Rig Veda 3.31.13"
 
 +++
--   *mahī* \< *mah*
+-   *mahī* ← *mah*
 - \[noun\], nominative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
@@ -14,57 +14,57 @@ title = "Rig Veda 3.31.13"
 - \[noun\], nominative, singular, feminine
 - “heaven and earth.”
 ------------------------------------------------------------------------
-- *śiśnathe* \< *śiśnatha*
+- *śiśnathe* ← *śiśnatha*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *dhāt* \< *dhā*
+- *dhāt* ← *dhā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *sadyovṛdhaṃ* \< *sadyovṛdham* \< *sadyovṛdh*
+- *sadyovṛdhaṃ* ← *sadyovṛdham* ← *sadyovṛdh*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *vibhvaṃ* \< *vibhvam* \< *vibhu*
+- *vibhvaṃ* ← *vibhvam* ← *vibhu*
 - \[noun\], accusative, singular, masculine
 - “mighty; abundant; big.”
 ------------------------------------------------------------------------
-- *rodasyoḥ* \< *rodasī*
+- *rodasyoḥ* ← *rodasī*
 - \[noun\], locative, dual, feminine
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *giro* \< *giraḥ* \< *gir*
+- *giro* ← *giraḥ* ← *gir*
 - \[noun\], nominative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *yasminn* \< *yasmin* \< *yad*
+- *yasminn* ← *yasmin* ← *yad*
 - \[noun\], locative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *anavadyāḥ* \< *anavadya*
+- *anavadyāḥ* ← *anavadya*
 - \[noun\], nominative, plural, feminine
 - “blameless; faultless.”
 ------------------------------------------------------------------------
-- *samīcīr* \< *samīcīḥ* \< *samyañc*
+- *samīcīr* ← *samīcīḥ* ← *samyañc*
 - \[noun\], nominative, plural, feminine
 - “conjugate; united.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśvāḥ* \< *viśva*
+- *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], nominative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *taviṣīr* \< *taviṣīḥ* \< *taviṣī*
+- *taviṣīr* ← *taviṣīḥ* ← *taviṣī*
 - \[noun\], nominative, plural, feminine
 - “strength; power.”
 ------------------------------------------------------------------------
-- *anuttāḥ* \< *anutta*
+- *anuttāḥ* ← *anutta*
 - \[noun\], nominative, plural, feminine
 - “anutta \[word\]; insuperable.”
 ------------------------------------------------------------------------

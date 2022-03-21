@@ -2,7 +2,7 @@
 title = "Rig Veda 1.155.2"
 
 +++
--   *tveṣam* \< *tveṣa*
+-   *tveṣam* ← *tveṣa*
 - \[noun\], nominative, singular, neuter
 - “awful; brilliant; aglitter(p); bright.”
 ------------------------------------------------------------------------
@@ -10,61 +10,61 @@ title = "Rig Veda 1.155.2"
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *samaraṇaṃ* \< *samaraṇam* \< *samaraṇa*
+- *samaraṇaṃ* ← *samaraṇam* ← *samaraṇa*
 - \[noun\], nominative, singular, neuter
 - “battle.”
 ------------------------------------------------------------------------
-- *śimīvator* \< *śimīvatoḥ* \< *śimīvat*
+- *śimīvator* ← *śimīvatoḥ* ← *śimīvat*
 - \[noun\], genitive, dual, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *indrāviṣṇū* \< *indrāviṣṇu*
+- *indrāviṣṇū* ← *indrāviṣṇu*
 - \[noun\], vocative, dual, masculine
 ------------------------------------------------------------------------
-- *sutapā* \< *suta*
+- *sutapā* ← *suta*
 - \[noun\], masculine
 - “Soma.”
 ------------------------------------------------------------------------
-- *sutapā* \< *pā*
+- *sutapā* ← *pā*
 - \[noun\], accusative, dual, masculine
 - “drinking.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *uruṣyati* \< *uruṣy*
+- *uruṣyati* ← *uruṣy*
 - \[verb\], singular, Present indikative
 - “protect; help.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, dual, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *martyāya* \< *martya*
+- *martyāya* ← *martya*
 - \[noun\], dative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------
-- *pratidhīyamānam* \< *pratidhā* \< *√dhā*
+- *pratidhīyamānam* ← *pratidhā* ← *√dhā*
 - \[verb noun\], accusative, singular
 - “target; insert.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *kṛśānor* \< *kṛśānoḥ* \< *kṛśānu*
+- *kṛśānor* ← *kṛśānoḥ* ← *kṛśānu*
 - \[noun\], genitive, singular, masculine
 - “fire; Agni; Plumbago zeylanica.”
 ------------------------------------------------------------------------
-- *astur* \< *astuḥ* \< *astṛ*
+- *astur* ← *astuḥ* ← *astṛ*
 - \[noun\], genitive, singular, masculine
 - “archer; shot.”
 ------------------------------------------------------------------------
-- *asanām* \< *asanā*
+- *asanām* ← *asanā*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *uruṣyathaḥ* \< *uruṣy*
+- *uruṣyathaḥ* ← *uruṣy*
 - \[verb\], dual, Present indikative
 - “protect; help.”
 ------------------------------------------------------------------------

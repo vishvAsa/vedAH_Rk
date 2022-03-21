@@ -2,47 +2,47 @@
 title = "Rig Veda 6.31.3"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *kutsenābhi* \< *kutsena* \< *kutsa*
+- *kutsenābhi* ← *kutsena* ← *kutsa*
 - \[noun\], instrumental, singular, masculine
 - “Kutsa; kutsa \[word\].”
 ------------------------------------------------------------------------
-- *kutsenābhi* \< *abhi*
+- *kutsenābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *śuṣṇam* \< *śuṣṇa*
+- *śuṣṇam* ← *śuṣṇa*
 - \[noun\], accusative, singular, masculine
 - “Śuṣṇa.”
 ------------------------------------------------------------------------
-- *indrāśuṣaṃ* \< *indra*
+- *indrāśuṣaṃ* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrāśuṣaṃ* \< *aśuṣam* \< *aśuṣa*
+- *indrāśuṣaṃ* ← *aśuṣam* ← *aśuṣa*
 - \[noun\], accusative, singular, masculine
 - “edacious.”
 ------------------------------------------------------------------------
-- *yudhya* \< *yudh*
+- *yudhya* ← *yudh*
 - \[verb\], singular, Present imperative
 - “fight; overcome.”
 ------------------------------------------------------------------------
-- *kuyavaṃ* \< *kuyavam* \< *kuyava*
+- *kuyavaṃ* ← *kuyavam* ← *kuyava*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *gaviṣṭau* \< *gaviṣṭi*
+- *gaviṣṭau* ← *gaviṣṭi*
 - \[noun\], locative, singular, feminine
 - “foray.”
 ------------------------------------------------------------------------
-- *daśa* \< *daśan*
+- *daśa* ← *daśan*
 - \[noun\], accusative, singular, neuter
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *prapitve* \< *prapitva*
+- *prapitve* ← *prapitva*
 - \[noun\], locative, singular, neuter
 - “beginning.”
 ------------------------------------------------------------------------
@@ -50,25 +50,25 @@ title = "Rig Veda 6.31.3"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *sūryasya* \< *sūrya*
+- *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *muṣāyaś* \< *muṣāyaḥ* \< *muṣāy* \< *√muṣ*
+- *muṣāyaś* ← *muṣāyaḥ* ← *muṣāy* ← *√muṣ*
 - \[verb\], singular, Present injunctive
 - “steal; rob.”
 ------------------------------------------------------------------------
-- *cakram* \< *cakra*
+- *cakram* ← *cakra*
 - \[noun\], accusative, singular, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
 ------------------------------------------------------------------------
-- *avive* \< *aviveḥ* \< *vī*
+- *avive* ← *aviveḥ* ← *vī*
 - \[verb\], singular, Imperfect
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *rapāṃsi* \< *rapas*
+- *rapāṃsi* ← *rapas*
 - \[noun\], accusative, plural, neuter
 - “injury; disease; infirmity; damage.”
 ------------------------------------------------------------------------

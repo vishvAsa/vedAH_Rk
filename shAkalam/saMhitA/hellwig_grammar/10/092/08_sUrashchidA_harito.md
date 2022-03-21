@@ -2,11 +2,11 @@
 title = "Rig Veda 10.92.8"
 
 +++
--   *sūraś* \< *sūraḥ* \< *sūra*
+-   *sūraś* ← *sūraḥ* ← *sūra*
 - \[noun\], nominative, singular, masculine
 - “sun.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -14,19 +14,19 @@ title = "Rig Veda 10.92.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *harito* \< *haritaḥ* \< *harit*
+- *harito* ← *haritaḥ* ← *harit*
 - \[noun\], accusative, plural, feminine
 - “mare; quarter.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *rīramad* \< *rīramat* \< *ram*
+- *rīramad* ← *rīramat* ← *ram*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “delight; rejoice; love; frolic; desire; give; calm; break.”
 ------------------------------------------------------------------------
-- *indrād* \< *indrāt* \< *indra*
+- *indrād* ← *indrāt* ← *indra*
 - \[noun\], ablative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -35,39 +35,39 @@ title = "Rig Veda 10.92.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *kaścid* \< *kaścit*
+- *kaścid* ← *kaścit*
 - \[noun\], nominative, singular, masculine
 - “any(a); some(a); some(a); some(a); some(a).”
 ------------------------------------------------------------------------
-- *bhayate* \< *bhī*
+- *bhayate* ← *bhī*
 - \[verb\], singular, Present indikative
 - “fear; fear.”
 ------------------------------------------------------------------------
-- *tavīyasaḥ* \< *tavīyas*
+- *tavīyasaḥ* ← *tavīyas*
 - \[noun\], ablative, singular, masculine
 - “stronger.”
 ------------------------------------------------------------------------
-- *bhīmasya* \< *bhīma*
+- *bhīmasya* ← *bhīma*
 - \[noun\], genitive, singular, masculine
 - “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
 ------------------------------------------------------------------------
-- *vṛṣṇo* \< *vṛṣṇaḥ* \< *vṛṣan*
+- *vṛṣṇo* ← *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *jaṭharād* \< *jaṭharāt* \< *jaṭhara*
+- *jaṭharād* ← *jaṭharāt* ← *jaṭhara*
 - \[noun\], ablative, singular, neuter
 - “abdomen; udara; Jaṭhara; edema; garbha; inside; stomach; belly.”
 ------------------------------------------------------------------------
-- *abhiśvaso* \< *\_* \< *√\_*
+- *abhiśvaso* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *dive* \< *diva*
+- *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
 ------------------------------------------------------------------------
-- *dive* \< *diva*
+- *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
 ------------------------------------------------------------------------
@@ -75,15 +75,15 @@ title = "Rig Veda 10.92.8"
 - \[noun\], accusative, singular, neuter
 - “victorious; mighty; strong.”
 ------------------------------------------------------------------------
-- *stann* \< *stan*
+- *stann* ← *stan*
 - \[verb\], singular, Present injunctive
 - “bawl.”
 ------------------------------------------------------------------------
-- *abādhitaḥ* \< *a*
+- *abādhitaḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *abādhitaḥ* \< *bādhitaḥ* \< *bādh*
+- *abādhitaḥ* ← *bādhitaḥ* ← *bādh*
 - \[verb noun\], nominative, singular
 - “afflict; annoy; chase away; tease; grieve; irritate.”
 ------------------------------------------------------------------------

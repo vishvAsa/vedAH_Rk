@@ -2,38 +2,38 @@
 title = "Rig Veda 1.43.1"
 
 +++
--   *kad* \< *ka*
+-   *kad* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *rudrāya* \< *rudra*
+- *rudrāya* ← *rudra*
 - \[noun\], dative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *pracetase* \< *pracetas*
+- *pracetase* ← *pracetas*
 - \[noun\], dative, singular, masculine
 - “intelligent; mindful; attentive; wise; apt; observant.”
 ------------------------------------------------------------------------
-- *mīḍhuṣṭamāya* \< *mīḍhuṣṭama*
+- *mīḍhuṣṭamāya* ← *mīḍhuṣṭama*
 - \[noun\], dative, singular, masculine
 - “Shiva.”
 ------------------------------------------------------------------------
-- *tavyase* \< *tavyas*
+- *tavyase* ← *tavyas*
 - \[noun\], dative, singular, masculine
 - “stronger; rich.”
 ------------------------------------------------------------------------
-- *vocema* \< *vac*
+- *vocema* ← *vac*
 - \[verb\], plural, Aorist optative
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
 ------------------------------------------------------------------------
-- *śantamaṃ* \< *śantamam* \< *śaṃtama*
+- *śantamaṃ* ← *śantamam* ← *śaṃtama*
 - \[noun\], accusative, singular, neuter
 - “beneficent.”
 ------------------------------------------------------------------------
-- *hṛde* \< *hṛd*
+- *hṛde* ← *hṛd*
 - \[noun\], dative, singular, neuter
 - “heart; heart; mind; breast; hṛd \[word\].”
 ------------------------------------------------------------------------

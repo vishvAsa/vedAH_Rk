@@ -2,80 +2,80 @@
 title = "Rig Veda 5.4.2"
 
 +++
--   *havyavāﾱ* \< *havyavah*
+-   *havyavāﾱ* ← *havyavah*
 - \[noun\], nominative, singular
 - “Agni; fire.”
 ------------------------------------------------------------------------
-- *agnir* \< *agniḥ* \< *agni*
+- *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *ajaraḥ* \< *ajara*
+- *ajaraḥ* ← *ajara*
 - \[noun\], nominative, singular, masculine
 - “undecaying; ageless.”
 ------------------------------------------------------------------------
-- *pitā* \< *pitṛ*
+- *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vibhur* \< *vibhuḥ* \< *vibhu*
+- *vibhur* ← *vibhuḥ* ← *vibhu*
 - \[noun\], nominative, singular, masculine
 - “mighty; abundant; big.”
 ------------------------------------------------------------------------
-- *vibhāvā* \< *vibhāvan*
+- *vibhāvā* ← *vibhāvan*
 - \[noun\], nominative, singular, masculine
 - “illuminating; shining.”
 ------------------------------------------------------------------------
-- *sudṛśīko* \< *su*
+- *sudṛśīko* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudṛśīko* \< *dṛśīkaḥ* \< *dṛśīka*
+- *sudṛśīko* ← *dṛśīkaḥ* ← *dṛśīka*
 - \[noun\], nominative, singular, masculine
 - “visual perception.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sugārhapatyāḥ* \< *su*
+- *sugārhapatyāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sugārhapatyāḥ* \< *gārhapatyāḥ* \< *gārhapatya*
+- *sugārhapatyāḥ* ← *gārhapatyāḥ* ← *gārhapatya*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *iṣo* \< *iṣaḥ* \< *iṣ*
+- *iṣo* ← *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *didīhy* \< *didīhi* \< *dīdī*
+- *didīhy* ← *didīhi* ← *dīdī*
 - \[verb\], singular, Present imperative
 - “shine; glitter.”
 ------------------------------------------------------------------------
-- *asmadryak* \< *asmadryañc*
+- *asmadryak* ← *asmadryañc*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *mimīhi* \< *mā*
+- *mimīhi* ← *mā*
 - \[verb\], singular, Present imperative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
 ------------------------------------------------------------------------
-- *śravāṃsi* \< *śravas*
+- *śravāṃsi* ← *śravas*
 - \[noun\], accusative, plural, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------

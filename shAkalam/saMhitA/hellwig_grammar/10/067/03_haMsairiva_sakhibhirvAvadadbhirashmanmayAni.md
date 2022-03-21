@@ -2,7 +2,7 @@
 title = "Rig Veda 10.67.3"
 
 +++
--   *haṃsair* \< *haṃsaiḥ* \< *haṃsa*
+-   *haṃsair* ← *haṃsaiḥ* ← *haṃsa*
 - \[noun\], instrumental, plural, masculine
 - “goose; Vishnu; sun.”
 ------------------------------------------------------------------------
@@ -10,27 +10,27 @@ title = "Rig Veda 10.67.3"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sakhibhir* \< *sakhibhiḥ* \< *sakhi*
+- *sakhibhir* ← *sakhibhiḥ* ← *sakhi*
 - \[noun\], instrumental, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *vāvadadbhir* \< *vāvadadbhiḥ* \< *vāvad* \< *√vad*
+- *vāvadadbhir* ← *vāvadadbhiḥ* ← *vāvad* ← *√vad*
 - \[verb noun\], instrumental, plural
 - “make noise; chatter.”
 ------------------------------------------------------------------------
-- *aśmanmayāni* \< *aśmanmaya*
+- *aśmanmayāni* ← *aśmanmaya*
 - \[noun\], accusative, plural, neuter
 - “stone.”
 ------------------------------------------------------------------------
-- *nahanā* \< *nahana*
+- *nahanā* ← *nahana*
 - \[noun\], accusative, plural, neuter
 - “fastener.”
 ------------------------------------------------------------------------
-- *vyasyan* \< *vyas* \< *√as*
+- *vyasyan* ← *vyas* ← *√as*
 - \[verb noun\], nominative, singular
 - “disperse; distinguish; write.”
 ------------------------------------------------------------------------
-- *bṛhaspatir* \< *bṛhaspatiḥ* \< *bṛhaspati*
+- *bṛhaspatir* ← *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
@@ -38,11 +38,11 @@ title = "Rig Veda 10.67.3"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *kanikradad* \< *kanikradat* \< *kanikrad* \< *√krand*
+- *kanikradad* ← *kanikradat* ← *kanikrad* ← *√krand*
 - \[verb noun\], nominative, singular
 - “roar; neigh.”
 ------------------------------------------------------------------------
-- *gā* \< *gāḥ* \< *go*
+- *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -51,11 +51,11 @@ title = "Rig Veda 10.67.3"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *prāstaud* \< *prāstaut* \< *prastu* \< *√stu*
+- *prāstaud* ← *prāstaut* ← *prastu* ← *√stu*
 - \[verb\], singular, Imperfect
 - “chant; praise; recommend.”
 ------------------------------------------------------------------------
-- *uc* \< *ud*
+- *uc* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
@@ -63,12 +63,12 @@ title = "Rig Veda 10.67.3"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *vidvāṃ* \< *vid*
+- *vidvāṃ* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *agāyat* \< *gā*
+- *agāyat* ← *gā*
 - \[verb\], singular, Imperfect
 - “sing; praise; jap; recite; describe.”
 ------------------------------------------------------------------------

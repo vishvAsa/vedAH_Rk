@@ -2,45 +2,45 @@
 title = "Rig Veda 8.19.1"
 
 +++
--   *taṃ* \< *tam* \< *tad*
+-   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *gūrdhayā* \< *gūrdhaya* \< *gūrdhay*
+- *gūrdhayā* ← *gūrdhaya* ← *gūrdhay*
 - \[verb\], singular, Present imperative
 - “praise.”
 ------------------------------------------------------------------------
-- *svarṇaraṃ* \< *svarṇaram* \< *svarṇṛ*
+- *svarṇaraṃ* ← *svarṇaram* ← *svarṇṛ*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *devāso* \< *devāsaḥ* \< *deva*
+- *devāso* ← *devāsaḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devam* \< *deva*
+- *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *aratiṃ* \< *aratim* \< *arati*
+- *aratiṃ* ← *aratim* ← *arati*
 - \[noun\], accusative, singular, masculine
 - “charioteer.”
 ------------------------------------------------------------------------
-- *dadhanvire* \< *dhanv*
+- *dadhanvire* ← *dhanv*
 - \[verb\], plural, Perfect indicative
 - “run.”
 ------------------------------------------------------------------------
 - *devatrā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *havyam* \< *havya*
+- *havyam* ← *havya*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *ohire* \< *āvah* \< *√vah*
+- *ohire* ← *āvah* ← *√vah*
 - \[verb\], plural, Perfect indicative
 - “bring; marry; cause; run; perform; exude.”
 ------------------------------------------------------------------------

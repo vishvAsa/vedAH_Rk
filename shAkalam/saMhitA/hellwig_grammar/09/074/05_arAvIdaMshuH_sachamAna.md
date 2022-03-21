@@ -2,53 +2,53 @@
 title = "Rig Veda 9.74.5"
 
 +++
--   *arāvīd* \< *arāvīt* \< *ru*
+-   *arāvīd* ← *arāvīt* ← *ru*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “bellow; howl.”
 ------------------------------------------------------------------------
-- *aṃśuḥ* \< *aṃśu*
+- *aṃśuḥ* ← *aṃśu*
 - \[noun\], nominative, singular, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
 ------------------------------------------------------------------------
-- *sacamāna* \< *sacamānaḥ* \< *sac*
+- *sacamāna* ← *sacamānaḥ* ← *sac*
 - \[verb noun\], nominative, singular
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *ūrmiṇā* \< *ūrmi*
+- *ūrmiṇā* ← *ūrmi*
 - \[noun\], instrumental, singular, masculine
 - “wave; billow.”
 ------------------------------------------------------------------------
-- *devāvyam* \< *devāvī*
+- *devāvyam* ← *devāvī*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *manuṣe* \< *manus*
+- *manuṣe* ← *manus*
 - \[noun\], dative, singular, masculine
 - “Manu; man.”
 ------------------------------------------------------------------------
-- *pinvati* \< *pinv*
+- *pinvati* ← *pinv*
 - \[verb\], singular, Present indikative
 - “swell; swell; overflow; abound.”
 ------------------------------------------------------------------------
-- *tvacam* \< *tvac*
+- *tvacam* ← *tvac*
 - \[noun\], accusative, singular, feminine
 - “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
 ------------------------------------------------------------------------
-- *dadhāti* \< *dhā*
+- *dadhāti* ← *dhā*
 - \[verb\], singular, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *garbham* \< *garbha*
+- *garbham* ← *garbha*
 - \[noun\], accusative, singular, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
 ------------------------------------------------------------------------
-- *aditer* \< *aditeḥ* \< *aditi*
+- *aditer* ← *aditeḥ* ← *aditi*
 - \[noun\], genitive, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *upastha* \< *upasthe* \< *upastha*
+- *upastha* ← *upasthe* ← *upastha*
 - \[noun\], locative, singular, neuter
 - “genitalia; lap; sexual desire; anus.”
 ------------------------------------------------------------------------
@@ -56,11 +56,11 @@ title = "Rig Veda 9.74.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yena* \< *yad*
+- *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *tokaṃ* \< *tokam* \< *toka*
+- *tokaṃ* ← *tokam* ← *toka*
 - \[noun\], accusative, singular, neuter
 - “offspring.”
 ------------------------------------------------------------------------
@@ -68,7 +68,7 @@ title = "Rig Veda 9.74.5"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *tanayaṃ* \< *tanayam* \< *tanaya*
+- *tanayaṃ* ← *tanayam* ← *tanaya*
 - \[noun\], accusative, singular, masculine
 - “son.”
 ------------------------------------------------------------------------
@@ -76,7 +76,7 @@ title = "Rig Veda 9.74.5"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *dhāmahe* \< *dhā*
+- *dhāmahe* ← *dhā*
 - \[verb\], plural, Aorist conj./subj.
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

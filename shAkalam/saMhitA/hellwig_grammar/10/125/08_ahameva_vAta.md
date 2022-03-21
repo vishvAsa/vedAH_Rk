@@ -2,7 +2,7 @@
 title = "Rig Veda 10.125.8"
 
 +++
--   *aham* \< *mad*
+-   *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -11,7 +11,7 @@ title = "Rig Veda 10.125.8"
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *vāta* \< *vātaḥ* \< *vāta*
+- *vāta* ← *vātaḥ* ← *vāta*
 - \[noun\], nominative, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
@@ -24,48 +24,48 @@ title = "Rig Veda 10.125.8"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vāmy* \< *vāmi* \< *vā*
+- *vāmy* ← *vāmi* ← *vā*
 - \[verb\], singular, Present indikative
 - “blow; blow; emit.”
 ------------------------------------------------------------------------
-- *ārabhamāṇā* \< *ārabh* \< *√rabh*
+- *ārabhamāṇā* ← *ārabh* ← *√rabh*
 - \[verb noun\], nominative, singular
 - “begin; begin; undertake; do; take.”
 ------------------------------------------------------------------------
-- *bhuvanāni* \< *bhuvana*
+- *bhuvanāni* ← *bhuvana*
 - \[noun\], accusative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *paro* \< *paras*
+- *paro* ← *paras*
 - \[adverb\]
 - “beyond; away; farther.”
 ------------------------------------------------------------------------
-- *divā* \< *div*
+- *divā* ← *div*
 - \[noun\], instrumental, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *para* \< *paras*
+- *para* ← *paras*
 - \[adverb\]
 - “beyond; away; farther.”
 ------------------------------------------------------------------------
-- *enā* \< *idam*
+- *enā* ← *idam*
 - \[noun\], instrumental, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *pṛthivyaitāvatī* \< *pṛthivyā* \< *pṛthivī*
+- *pṛthivyaitāvatī* ← *pṛthivyā* ← *pṛthivī*
 - \[noun\], instrumental, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *pṛthivyaitāvatī* \< *etāvatī* \< *etāvat*
+- *pṛthivyaitāvatī* ← *etāvatī* ← *etāvat*
 - \[noun\], nominative, singular, feminine
 - “such(a); such(a).”
 ------------------------------------------------------------------------
-- *mahinā* \< *mahi*
+- *mahinā* ← *mahi*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
 ------------------------------------------------------------------------
@@ -73,7 +73,7 @@ title = "Rig Veda 10.125.8"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *babhūva* \< *bhū*
+- *babhūva* ← *bhū*
 - \[verb\], singular, Perfect indicative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;

@@ -2,11 +2,11 @@
 title = "Rig Veda 4.16.19"
 
 +++
--   *ebhir* \< *ebhiḥ* \< *idam*
+-   *ebhir* ← *ebhiḥ* ← *idam*
 - \[noun\], instrumental, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *nṛbhir* \< *nṛbhiḥ* \< *nṛ*
+- *nṛbhir* ← *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
@@ -15,14 +15,14 @@ title = "Rig Veda 4.16.19"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tvāyubhiṣ* \< *tvāyubhiḥ* \< *tvāyu*
+- *tvāyubhiṣ* ← *tvāyubhiḥ* ← *tvāyu*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *ṭvā* \< *tvā* \< *tvad*
+- *ṭvā* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *maghavadbhir* \< *maghavadbhiḥ* \< *maghavan*
+- *maghavadbhir* ← *maghavadbhiḥ* ← *maghavan*
 - \[noun\], instrumental, plural, masculine
 - “big.”
 ------------------------------------------------------------------------
@@ -30,16 +30,16 @@ title = "Rig Veda 4.16.19"
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *viśva* \< *viśvaḥ* \< *viśva*
+- *viśva* ← *viśvaḥ* ← *viśva*
 - \[noun\], locative, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *ājau* \< *āji*
+- *ājau* ← *āji*
 - \[noun\], locative, singular, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
 ------------------------------------------------------------------------
-- *dyāvo* \< *dyāvaḥ* \< *div*
+- *dyāvo* ← *dyāvaḥ* ← *div*
 - \[noun\], nominative, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -47,7 +47,7 @@ title = "Rig Veda 4.16.19"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dyumnair* \< *dyumnaiḥ* \< *dyumna*
+- *dyumnair* ← *dyumnaiḥ* ← *dyumna*
 - \[noun\], instrumental, plural, neuter
 - “magnificence.”
 ------------------------------------------------------------------------
@@ -55,23 +55,23 @@ title = "Rig Veda 4.16.19"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *santo* \< *santaḥ* \< *as*
+- *santo* ← *santaḥ* ← *as*
 - \[verb noun\], nominative, plural
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *aryaḥ* \< *ari*
+- *aryaḥ* ← *ari*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *kṣapo* \< *kṣapaḥ* \< *kṣap*
+- *kṣapo* ← *kṣapaḥ* ← *kṣap*
 - \[noun\], accusative, plural, feminine
 - “night.”
 ------------------------------------------------------------------------
-- *madema* \< *mad*
+- *madema* ← *mad*
 - \[verb\], plural, Present optative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *śaradaś* \< *śaradaḥ* \< *śarad*
+- *śaradaś* ← *śaradaḥ* ← *śarad*
 - \[noun\], accusative, plural, feminine
 - “fall; year; śarad \[word\].”
 ------------------------------------------------------------------------
@@ -79,7 +79,7 @@ title = "Rig Veda 4.16.19"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *pūrvīḥ* \< *puru*
+- *pūrvīḥ* ← *puru*
 - \[noun\], accusative, plural, feminine
 - “many; much(a); very.”
 ------------------------------------------------------------------------

@@ -6,23 +6,23 @@ title = "Rig Veda 9.92.1"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *suvāno* \< *suvānaḥ* \< *su*
+- *suvāno* ← *suvānaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *harir* \< *hariḥ* \< *hari*
+- *harir* ← *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
-- *aṃśuḥ* \< *aṃśu*
+- *aṃśuḥ* ← *aṃśu*
 - \[noun\], nominative, singular, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
 ------------------------------------------------------------------------
-- *pavitre* \< *pavitra*
+- *pavitre* ← *pavitra*
 - \[noun\], locative, singular, neuter
 - “strainer.”
 ------------------------------------------------------------------------
-- *ratho* \< *rathaḥ* \< *ratha*
+- *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -30,32 +30,32 @@ title = "Rig Veda 9.92.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sarji* \< *sṛj*
+- *sarji* ← *sṛj*
 - \[verb\], singular, Aorist passive
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *sanaye* \< *sani*
+- *sanaye* ← *sani*
 - \[noun\], dative, singular, feminine
 - “gain.”
 ------------------------------------------------------------------------
-- *hiyānaḥ* \< *hi*
+- *hiyānaḥ* ← *hi*
 - \[verb noun\], nominative, singular
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
-- *āpacchlokam* \< *āpat* \< *āp*
+- *āpacchlokam* ← *āpat* ← *āp*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “enter (a state); get; reach; obtain; equal.”
 ------------------------------------------------------------------------
-- *āpacchlokam* \< *ślokam* \< *śloka*
+- *āpacchlokam* ← *ślokam* ← *śloka*
 - \[noun\], accusative, singular, masculine
 - “Śloka; fame; hymn; śloka \[word\]; praise; glory; verse.”
 ------------------------------------------------------------------------
-- *indriyam* \< *indriya*
+- *indriyam* ← *indriya*
 - \[noun\], accusative, singular, masculine
 - “aindra.”
 ------------------------------------------------------------------------
-- *pūyamānaḥ* \< *pū*
+- *pūyamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
@@ -63,17 +63,17 @@ title = "Rig Veda 9.92.1"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *devāṃ* \< *deva*
+- *devāṃ* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *ajuṣata* \< *juṣ*
+- *ajuṣata* ← *juṣ*
 - \[verb\], singular, Imperfect
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *prayobhiḥ* \< *prayas*
+- *prayobhiḥ* ← *prayas*
 - \[noun\], instrumental, plural, neuter
 - “food; dainty; enjoyment.”
 ------------------------------------------------------------------------

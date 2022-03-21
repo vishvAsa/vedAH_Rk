@@ -2,23 +2,23 @@
 title = "Rig Veda 1.82.1"
 
 +++
--   *upo* \< *upa*
+-   *upo* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *upo* \< *u*
+- *upo* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *śṛṇuhī* \< *śru*
+- *śṛṇuhī* ← *śru*
 - \[verb\], singular, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *giro* \< *giraḥ* \< *gir*
+- *giro* ← *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
@@ -27,11 +27,11 @@ title = "Rig Veda 1.82.1"
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *mātathā* \< *mā*
+- *mātathā* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *mātathā* \< *atathāḥ* \< *atathā*
+- *mātathā* ← *atathāḥ* ← *atathā*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *iva*
@@ -42,15 +42,15 @@ title = "Rig Veda 1.82.1"
 - \[adverb\]
 - “once \[when\]; if.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sūnṛtāvataḥ* \< *sūnṛtāvat*
+- *sūnṛtāvataḥ* ← *sūnṛtāvat*
 - \[noun\], accusative, plural, masculine
 - “happy; big; auspicious.”
 ------------------------------------------------------------------------
-- *kara* \< *karaḥ* \< *kṛ*
+- *kara* ← *karaḥ* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -61,18 +61,18 @@ title = "Rig Veda 1.82.1"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *arthayāsa* \< *arthayāse* \< *arthay* \< *√arth*
+- *arthayāsa* ← *arthayāse* ← *arthay* ← *√arth*
 - \[verb\], singular, Present conjunctive (subjunctive)
 ------------------------------------------------------------------------
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *yojā* \< *yuj*
+- *yojā* ← *yuj*
 - \[verb\], singular, Aorist conj./subj.
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -80,7 +80,7 @@ title = "Rig Veda 1.82.1"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *nv* \< *nu*
+- *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
@@ -89,11 +89,11 @@ title = "Rig Veda 1.82.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *harī* \< *hari*
+- *harī* ← *hari*
 - \[noun\], accusative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”

@@ -6,46 +6,46 @@ title = "Rig Veda 10.68.6"
 - \[adverb\]
 - “once \[when\]; if.”
 ------------------------------------------------------------------------
-- *valasya* \< *vala*
+- *valasya* ← *vala*
 - \[noun\], genitive, singular, masculine
 - “Vala; vala; cave.”
 ------------------------------------------------------------------------
-- *pīyato* \< *pīyataḥ* \< *pī*
+- *pīyato* ← *pīyataḥ* ← *pī*
 - \[verb noun\], genitive, singular
 - “tease.”
 ------------------------------------------------------------------------
-- *jasum* \< *jasu*
+- *jasum* ← *jasu*
 - \[noun\], accusative, singular, feminine
 - “exhaustion; weakness.”
 ------------------------------------------------------------------------
-- *bhed* \< *bhet* \< *bhid*
+- *bhed* ← *bhet* ← *bhid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;
     transgress; break open; scratch; penetrate; sever; bribe; grind;
     betray; fester; strike.”
 ------------------------------------------------------------------------
-- *bṛhaspatir* \< *bṛhaspatiḥ* \< *bṛhaspati*
+- *bṛhaspatir* ← *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *agnitapobhir* \< *agni*
+- *agnitapobhir* ← *agni*
 - \[noun\], masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *agnitapobhir* \< *tapobhiḥ* \< *tapas*
+- *agnitapobhir* ← *tapobhiḥ* ← *tapas*
 - \[noun\], instrumental, plural, masculine
 - “penance; heat; Tapoloka; tapas \[word\]; ardor; austerity; summer;
     heat.”
 ------------------------------------------------------------------------
-- *arkaiḥ* \< *arka*
+- *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *dadbhir* \< *dadbhiḥ* \< *dat*
+- *dadbhir* ← *dadbhiḥ* ← *dat*
 - \[noun\], instrumental, plural, masculine
 - “tooth; dat \[word\].”
 ------------------------------------------------------------------------
@@ -57,23 +57,23 @@ title = "Rig Veda 10.68.6"
 - \[noun\], nominative, singular, feminine
 - “tongue; tongue; jihvā \[word\]; fire.”
 ------------------------------------------------------------------------
-- *pariviṣṭam* \< *pariviṣ* \< *√viṣ*
+- *pariviṣṭam* ← *pariviṣ* ← *√viṣ*
 - \[verb noun\], accusative, singular
 - “serve; serve.”
 ------------------------------------------------------------------------
-- *ādad* \< *ādat* \< *ad*
+- *ādad* ← *ādat* ← *ad*
 - \[verb\], singular, Imperfect
 - “eat; devour.”
 ------------------------------------------------------------------------
-- *āvir* \< *āvis*
+- *āvir* ← *āvis*
 - \[adverb\]
 - “openly; obviously.”
 ------------------------------------------------------------------------
-- *nidhīṃr* \< *nidhīn* \< *nidhi*
+- *nidhīṃr* ← *nidhīn* ← *nidhi*
 - \[noun\], accusative, plural, masculine
 - “hoard; receptacle; treasure; ocean; instrument.”
 ------------------------------------------------------------------------
-- *akṛṇod* \< *akṛṇot* \< *kṛ*
+- *akṛṇod* ← *akṛṇot* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -84,7 +84,7 @@ title = "Rig Veda 10.68.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *usriyāṇām* \< *usriyā*
+- *usriyāṇām* ← *usriyā*
 - \[noun\], genitive, plural, feminine
 - “cow; dairy product.”
 ------------------------------------------------------------------------

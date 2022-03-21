@@ -2,7 +2,7 @@
 title = "Rig Veda 10.181.1"
 
 +++
--   *prathaś* \< *prathaḥ* \< *prathas*
+-   *prathaś* ← *prathaḥ* ← *prathas*
 - \[noun\], nominative, singular, neuter
 - “width.”
 ------------------------------------------------------------------------
@@ -10,15 +10,15 @@ title = "Rig Veda 10.181.1"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *saprathaś* \< *sa*
+- *saprathaś* ← *sa*
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *saprathaś* \< *prathaḥ* \< *prathas*
+- *saprathaś* ← *prathaḥ* ← *prathas*
 - \[noun\], nominative, singular, neuter
 - “width.”
 ------------------------------------------------------------------------
@@ -26,35 +26,35 @@ title = "Rig Veda 10.181.1"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *nāmānuṣṭubhasya* \< *nāma* \< *nāman*
+- *nāmānuṣṭubhasya* ← *nāma* ← *nāman*
 - \[noun\], nominative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
 ------------------------------------------------------------------------
-- *nāmānuṣṭubhasya* \< *ānuṣṭubhasya* \< *ānuṣṭubha*
+- *nāmānuṣṭubhasya* ← *ānuṣṭubhasya* ← *ānuṣṭubha*
 - \[noun\], genitive, singular, neuter
 ------------------------------------------------------------------------
-- *haviṣo* \< *haviṣaḥ* \< *havis*
+- *haviṣo* ← *haviṣaḥ* ← *havis*
 - \[noun\], genitive, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *havir* \< *haviḥ* \< *havis*
+- *havir* ← *haviḥ* ← *havis*
 - \[noun\], nominative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *yat* \< *yad*
+- *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dhātur* \< *dhātuḥ* \< *dhātṛ*
+- *dhātur* ← *dhātuḥ* ← *dhātṛ*
 - \[noun\], ablative, singular, masculine
 - “Brahma; Dhātṛ; creator; Dhātṛ.”
 ------------------------------------------------------------------------
-- *dyutānāt* \< *dyutāna*
+- *dyutānāt* ← *dyutāna*
 - \[noun\], ablative, singular, masculine
 - “shining.”
 ------------------------------------------------------------------------
-- *savituś* \< *savituḥ* \< *savitṛ*
+- *savituś* ← *savituḥ* ← *savitṛ*
 - \[noun\], ablative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
@@ -62,11 +62,11 @@ title = "Rig Veda 10.181.1"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *viṣṇo* \< *viṣṇoḥ* \< *viṣṇu*
+- *viṣṇo* ← *viṣṇoḥ* ← *viṣṇu*
 - \[noun\], ablative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
 ------------------------------------------------------------------------
-- *rathantaram* \< *rathaṃtara*
+- *rathantaram* ← *rathaṃtara*
 - \[noun\], accusative, singular, neuter
 - “Rathaṃtara.”
 ------------------------------------------------------------------------
@@ -74,12 +74,12 @@ title = "Rig Veda 10.181.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *jabhārā* \< *bhṛ*
+- *jabhārā* ← *bhṛ*
 - \[verb\], singular, Perfect indicative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *vasiṣṭhaḥ* \< *vasiṣṭha*
+- *vasiṣṭhaḥ* ← *vasiṣṭha*
 - \[noun\], nominative, singular, masculine
 - “Vasiṣṭha; vasiṣṭha \[word\].”
 ------------------------------------------------------------------------

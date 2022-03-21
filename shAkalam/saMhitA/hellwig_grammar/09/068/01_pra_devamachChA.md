@@ -6,7 +6,7 @@ title = "Rig Veda 9.68.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *devam* \< *deva*
+- *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -15,20 +15,20 @@ title = "Rig Veda 9.68.1"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *madhumanta* \< *madhumantaḥ* \< *madhumat*
+- *madhumanta* ← *madhumantaḥ* ← *madhumat*
 - \[noun\], nominative, plural, masculine
 - “sweet; honeyed; sweet; pleasant.”
 ------------------------------------------------------------------------
-- *indavo* \< *indavaḥ* \< *indu*
+- *indavo* ← *indavaḥ* ← *indu*
 - \[noun\], nominative, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *'siṣyadanta* \< *asiṣyadanta* \< *syand*
+- *'siṣyadanta* ← *asiṣyadanta* ← *syand*
 - \[verb\], plural, Redupl. Aorist (Ind.)
 - “run.”
 ------------------------------------------------------------------------
-- *gāva* \< *gāvaḥ* \< *go*
+- *gāva* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -41,34 +41,34 @@ title = "Rig Veda 9.68.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dhenavaḥ* \< *dhenu*
+- *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *barhiṣado* \< *barhiṣadaḥ* \< *barhiṣad*
+- *barhiṣado* ← *barhiṣadaḥ* ← *barhiṣad*
 - \[noun\], nominative, plural, masculine
 - “Pitṛ.”
 ------------------------------------------------------------------------
-- *vacanāvanta* \< *vacanāvantaḥ* \< *vacanāvat*
+- *vacanāvanta* ← *vacanāvantaḥ* ← *vacanāvat*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *ūdhabhiḥ* \< *ūdhas*
+- *ūdhabhiḥ* ← *ūdhas*
 - \[noun\], instrumental, plural, neuter
 - “udder; ūdhas \[word\]; night.”
 ------------------------------------------------------------------------
-- *parisrutam* \< *parisrut*
+- *parisrutam* ← *parisrut*
 - \[noun\], accusative, singular, feminine
 - “flowing.”
 ------------------------------------------------------------------------
-- *usriyā* \< *usriyāḥ* \< *usriyā*
+- *usriyā* ← *usriyāḥ* ← *usriyā*
 - \[noun\], nominative, plural, feminine
 - “cow; dairy product.”
 ------------------------------------------------------------------------
-- *nirṇijaṃ* \< *nirṇijam* \< *nirṇij*
+- *nirṇijaṃ* ← *nirṇijam* ← *nirṇij*
 - \[noun\], accusative, singular, feminine
 - “attire; garment.”
 ------------------------------------------------------------------------
-- *dhire* \< *dhā*
+- *dhire* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

@@ -2,7 +2,7 @@
 title = "Rig Veda 9.107.8"
 
 +++
--   *soma* \< *somaḥ* \< *soma*
+-   *soma* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -10,56 +10,56 @@ title = "Rig Veda 9.107.8"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣuvāṇaḥ* \< *suvānaḥ* \< *su*
+- *ṣuvāṇaḥ* ← *suvānaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *sotṛbhir* \< *sotṛbhiḥ* \< *sotṛ*
+- *sotṛbhir* ← *sotṛbhiḥ* ← *sotṛ*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *ṣṇubhir* \< *snubhiḥ* \< *snu*
+- *ṣṇubhir* ← *snubhiḥ* ← *snu*
 - \[noun\], instrumental, plural, masculine
 - “back.”
 ------------------------------------------------------------------------
-- *avīnām* \< *avi*
+- *avīnām* ← *avi*
 - \[noun\], genitive, plural, masculine
 - “sheep; avi \[word\]; menstruating woman; ewe.”
 ------------------------------------------------------------------------
-- *aśvayeva* \< *aśvayā* \< *aśvā*
+- *aśvayeva* ← *aśvayā* ← *aśvā*
 - \[noun\], instrumental, singular, feminine
 - “mare.”
 ------------------------------------------------------------------------
-- *aśvayeva* \< *iva*
+- *aśvayeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *haritā* \< *harit*
+- *haritā* ← *harit*
 - \[noun\], instrumental, singular, feminine
 - “pale; green; bay; yellow.”
 ------------------------------------------------------------------------
-- *yāti* \< *yā*
+- *yāti* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *dhārayā* \< *dhārā*
+- *dhārayā* ← *dhārā*
 - \[noun\], instrumental, singular, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *mandrayā* \< *mandra*
+- *mandrayā* ← *mandra*
 - \[noun\], instrumental, singular, feminine
 - “pleasant; eloquent; dulcet.”
 ------------------------------------------------------------------------
-- *yāti* \< *yā*
+- *yāti* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *dhārayā* \< *dhārā*
+- *dhārayā* ← *dhārā*
 - \[noun\], instrumental, singular, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 5.64.3"
 
 +++
--   *yan* \< *yat*
+-   *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -10,53 +10,53 @@ title = "Rig Veda 5.64.3"
 - \[adverb\]
 - “now; surely; immediately; just.”
 ------------------------------------------------------------------------
-- *aśyāṃ* \< *aśyām* \< *aś*
+- *aśyāṃ* ← *aśyām* ← *aś*
 - \[verb\], singular, Aorist optative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *gatim* \< *gati*
+- *gatim* ← *gati*
 - \[noun\], accusative, singular, feminine
 - “metempsychosis; motion; gait; gati; nāḍī; movement; refuge; gati;
     behavior; fistula; way; condition; resource; progress; locomotion;
     walk; entree; vessel; spread; home; path; foetal malpresentation;
     duct.”
 ------------------------------------------------------------------------
-- *mitrasya* \< *mitra*
+- *mitrasya* ← *mitra*
 - \[noun\], genitive, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *yāyām* \< *yā*
+- *yāyām* ← *yā*
 - \[verb\], singular, Present optative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *pathā* \< *patha*
+- *pathā* ← *patha*
 - \[noun\], instrumental, singular, masculine
 - “way; method; passage; road; scope; path; patha \[word\]; path;
     region; way.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *priyasya* \< *priya*
+- *priyasya* ← *priya*
 - \[noun\], genitive, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *śarmaṇy* \< *śarmaṇi* \< *śarman*
+- *śarmaṇy* ← *śarmaṇi* ← *śarman*
 - \[noun\], locative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *ahiṃsānasya* \< *a*
+- *ahiṃsānasya* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *ahiṃsānasya* \< *hiṃsānasya* \< *hiṃs*
+- *ahiṃsānasya* ← *hiṃsānasya* ← *hiṃs*
 - \[verb noun\], genitive, singular
 - “injure; kill; remove; harm; cure; damage.”
 ------------------------------------------------------------------------
-- *saścire* \< *sac*
+- *saścire* ← *sac*
 - \[verb\], plural, Perfect indicative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------

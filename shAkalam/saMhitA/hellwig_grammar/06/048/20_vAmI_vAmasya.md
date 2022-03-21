@@ -2,32 +2,32 @@
 title = "Rig Veda 6.48.20"
 
 +++
--   *vāmī* \< *vāma*
+-   *vāmī* ← *vāma*
 - \[noun\], nominative, singular, feminine
 - “agreeable; vāma \[word\]; beautiful.”
 ------------------------------------------------------------------------
-- *vāmasya* \< *vāma*
+- *vāmasya* ← *vāma*
 - \[noun\], genitive, singular, masculine
 - “agreeable; vāma \[word\]; beautiful.”
 ------------------------------------------------------------------------
-- *dhūtayaḥ* \< *dhūti*
+- *dhūtayaḥ* ← *dhūti*
 - \[noun\], vocative, plural, masculine
 - “Marut.”
 ------------------------------------------------------------------------
-- *praṇītir* \< *praṇītiḥ* \< *praṇīti*
+- *praṇītir* ← *praṇītiḥ* ← *praṇīti*
 - \[noun\], nominative, singular, feminine
 - “guidance; guidance.”
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *sūnṛtā* \< *sūnṛta*
+- *sūnṛtā* ← *sūnṛta*
 - \[noun\], nominative, singular, feminine
 - “big; friendly.”
 ------------------------------------------------------------------------
-- *devasya* \< *deva*
+- *devasya* ← *deva*
 - \[noun\], genitive, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -36,22 +36,22 @@ title = "Rig Veda 6.48.20"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *martyasya* \< *martya*
+- *martyasya* ← *martya*
 - \[noun\], genitive, singular, masculine
 - “mortal.”
 ------------------------------------------------------------------------
-- *vejānasya* \< *vā*
+- *vejānasya* ← *vā*
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *vejānasya* \< *ījānasya* \< *yaj*
+- *vejānasya* ← *ījānasya* ← *yaj*
 - \[verb noun\], genitive, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *prayajyavaḥ* \< *prayajyu*
+- *prayajyavaḥ* ← *prayajyu*
 - \[noun\], vocative, plural, masculine
 ------------------------------------------------------------------------

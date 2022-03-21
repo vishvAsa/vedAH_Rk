@@ -2,41 +2,41 @@
 title = "Rig Veda 7.87.1"
 
 +++
--   *radat* \< *rad*
+-   *radat* ← *rad*
 - \[verb\], singular, Present injunctive
 - “dig.”
 ------------------------------------------------------------------------
-- *patho* \< *pathaḥ* \< *pathin*
+- *patho* ← *pathaḥ* ← *pathin*
 - \[noun\], accusative, plural, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *varuṇaḥ* \< *varuṇa*
+- *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *sūryāya* \< *sūrya*
+- *sūryāya* ← *sūrya*
 - \[noun\], dative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *prārṇāṃsi* \< *pra*
+- *prārṇāṃsi* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prārṇāṃsi* \< *arṇāṃsi* \< *arṇas*
+- *prārṇāṃsi* ← *arṇāṃsi* ← *arṇas*
 - \[noun\], accusative, plural, neuter
 - “body of water; water.”
 ------------------------------------------------------------------------
-- *samudriyā* \< *samudriya*
+- *samudriyā* ← *samudriya*
 - \[noun\], accusative, plural, neuter
 - “oceanic; oceanic.”
 ------------------------------------------------------------------------
-- *nadīnām* \< *nadī*
+- *nadīnām* ← *nadī*
 - \[noun\], genitive, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
 ------------------------------------------------------------------------
-- *sargo* \< *sargaḥ* \< *sarga*
+- *sargo* ← *sargaḥ* ← *sarga*
 - \[noun\], nominative, singular, masculine
 - “Creation; metempsychosis; discharge; torrent; birth; undertaking.”
 ------------------------------------------------------------------------
@@ -44,19 +44,19 @@ title = "Rig Veda 7.87.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sṛṣṭo* \< *sṛṣṭaḥ* \< *sṛj*
+- *sṛṣṭo* ← *sṛṣṭaḥ* ← *sṛj*
 - \[verb noun\], nominative, singular
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *arvatīr* \< *arvatīḥ* \< *arvat*
+- *arvatīr* ← *arvatīḥ* ← *arvat*
 - \[noun\], accusative, plural, feminine
 - “running.”
 ------------------------------------------------------------------------
-- *ṛtāyañ* \< *ṛtāyan* \< *ṛtāy*
+- *ṛtāyañ* ← *ṛtāyan* ← *ṛtāy*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *cakāra* \< *kṛ*
+- *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -67,15 +67,15 @@ title = "Rig Veda 7.87.1"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *mahīr* \< *mahīḥ* \< *mahi*
+- *mahīr* ← *mahīḥ* ← *mahi*
 - \[noun\], accusative, plural, feminine
 - “great; firm.”
 ------------------------------------------------------------------------
-- *avanīr* \< *avanīḥ* \< *avani*
+- *avanīr* ← *avanīḥ* ← *avani*
 - \[noun\], accusative, plural, feminine
 - “river; earth; floor; path; bed; course.”
 ------------------------------------------------------------------------
-- *ahabhyaḥ* \< *ahar*
+- *ahabhyaḥ* ← *ahar*
 - \[noun\], dative, plural, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------

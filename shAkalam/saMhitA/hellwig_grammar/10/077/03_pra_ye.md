@@ -6,15 +6,15 @@ title = "Rig Veda 10.77.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *divaḥ* \< *div*
+- *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *pṛthivyā* \< *pṛthivyāḥ* \< *pṛthivī*
+- *pṛthivyā* ← *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], ablative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
@@ -22,19 +22,19 @@ title = "Rig Veda 10.77.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *barhaṇā* \< *barhaṇa*
+- *barhaṇā* ← *barhaṇa*
 - \[noun\], nominative, plural, masculine
 - “vigorous.”
 ------------------------------------------------------------------------
-- *tmanā* \< *tman*
+- *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
 ------------------------------------------------------------------------
-- *riricre* \< *ric*
+- *riricre* ← *ric*
 - \[verb\], plural, Perfect indicative
 - “empty; liberate; concede; surrender; purge.”
 ------------------------------------------------------------------------
-- *abhrān* \< *abhrāt* \< *abhra*
+- *abhrān* ← *abhrāt* ← *abhra*
 - \[noun\], ablative, singular, neuter
 - “abhra; cloud; sky; abhra \[word\]; cumulonimbus; mica; air;
     cloudiness.”
@@ -43,12 +43,12 @@ title = "Rig Veda 10.77.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sūryaḥ* \< *sūrya*
+- *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *pājasvanto* \< *pājasvantaḥ* \< *pājasvat*
+- *pājasvanto* ← *pājasvantaḥ* ← *pājasvat*
 - \[noun\], nominative, plural, masculine
 - “strong.”
 ------------------------------------------------------------------------
@@ -56,15 +56,15 @@ title = "Rig Veda 10.77.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vīrāḥ* \< *vīra*
+- *vīrāḥ* ← *vīra*
 - \[noun\], nominative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *panasyavo* \< *panasyavaḥ* \< *panasyu*
+- *panasyavo* ← *panasyavaḥ* ← *panasyu*
 - \[noun\], nominative, plural, masculine
 - “brilliant.”
 ------------------------------------------------------------------------
-- *riśādaso* \< *riśādasaḥ* \< *riśādas*
+- *riśādaso* ← *riśādasaḥ* ← *riśādas*
 - \[noun\], nominative, plural, masculine
 - “superior; superior; proud.”
 ------------------------------------------------------------------------
@@ -72,11 +72,11 @@ title = "Rig Veda 10.77.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *maryā* \< *maryāḥ* \< *marya*
+- *maryā* ← *maryāḥ* ← *marya*
 - \[noun\], nominative, plural, masculine
 - “young buck; boyfriend.”
 ------------------------------------------------------------------------
-- *abhidyavaḥ* \< *abhidyu*
+- *abhidyavaḥ* ← *abhidyu*
 - \[noun\], nominative, plural, masculine
 - “celestial; brilliant.”
 ------------------------------------------------------------------------

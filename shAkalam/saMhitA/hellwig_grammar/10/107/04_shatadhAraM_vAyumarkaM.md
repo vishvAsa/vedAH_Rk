@@ -2,36 +2,36 @@
 title = "Rig Veda 10.107.4"
 
 +++
--   *śatadhāraṃ* \< *śata*
+-   *śatadhāraṃ* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *śatadhāraṃ* \< *dhāram* \< *dhārā*
+- *śatadhāraṃ* ← *dhāram* ← *dhārā*
 - \[noun\], accusative, singular, masculine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *vāyum* \< *vāyu*
+- *vāyum* ← *vāyu*
 - \[noun\], accusative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
 ------------------------------------------------------------------------
-- *arkaṃ* \< *arkam* \< *arka*
+- *arkaṃ* ← *arkam* ← *arka*
 - \[noun\], accusative, singular, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *svarvidaṃ* \< *svarvidam* \< *svarvid*
+- *svarvidaṃ* ← *svarvidam* ← *svarvid*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *nṛcakṣasas* \< *nṛ*
+- *nṛcakṣasas* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nṛcakṣasas* \< *cakṣasaḥ* \< *cakṣas*
+- *nṛcakṣasas* ← *cakṣasaḥ* ← *cakṣas*
 - \[noun\], nominative, plural, masculine
 - “eye; look; radiance.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -41,19 +41,19 @@ title = "Rig Veda 10.107.4"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *cakṣate* \< *cakṣ*
+- *cakṣate* ← *cakṣ*
 - \[verb\], plural, Present indikative
 - “watch; look.”
 ------------------------------------------------------------------------
-- *haviḥ* \< *havis*
+- *haviḥ* ← *havis*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *pṛṇanti* \< *pṛ*
+- *pṛṇanti* ← *pṛ*
 - \[verb\], plural, Present indikative
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
@@ -66,34 +66,34 @@ title = "Rig Veda 10.107.4"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *yacchanti* \< *yam*
+- *yacchanti* ← *yam*
 - \[verb\], plural, Present indikative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *saṃgame* \< *saṃgama*
+- *saṃgame* ← *saṃgama*
 - \[noun\], locative, singular, masculine
 - “confluence; sexual intercourse; contact; meeting; association;
     battle; harmony; rendezvous; coupling; sexual activity.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *dakṣiṇāṃ* \< *dakṣiṇām* \< *dakṣiṇā*
+- *dakṣiṇāṃ* ← *dakṣiṇām* ← *dakṣiṇā*
 - \[noun\], accusative, singular, feminine
 - “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
 ------------------------------------------------------------------------
-- *duhate* \< *duh*
+- *duhate* ← *duh*
 - \[verb\], plural, Present indikative
 - “milk.”
 ------------------------------------------------------------------------
-- *saptamātaram* \< *sapta* \< *saptan*
+- *saptamātaram* ← *sapta* ← *saptan*
 - \[noun\]
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *saptamātaram* \< *mātaram* \< *mātṛ*
+- *saptamātaram* ← *mātaram* ← *mātṛ*
 - \[noun\], accusative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”

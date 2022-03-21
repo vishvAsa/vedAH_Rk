@@ -2,49 +2,49 @@
 title = "Rig Veda 1.119.3"
 
 +++
--   *saṃ* \< *sam*
+-   *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *yan* \< *yat*
+- *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *mithaḥ* \< *mithas*
+- *mithaḥ* ← *mithas*
 - \[adverb\]
 - “together; mutually; alternately.”
 ------------------------------------------------------------------------
-- *paspṛdhānāso* \< *paspṛdhānāsaḥ* \< *spṛdh*
+- *paspṛdhānāso* ← *paspṛdhānāsaḥ* ← *spṛdh*
 - \[verb noun\], nominative, plural
 - “rival.”
 ------------------------------------------------------------------------
-- *agmata* \< *gam*
+- *agmata* ← *gam*
 - \[verb\], plural, Root aorist (Ind.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *śubhe* \< *śubh*
+- *śubhe* ← *śubh*
 - \[verb noun\]
 - “look; shine; beautify.”
 ------------------------------------------------------------------------
-- *makhā* \< *makhāḥ* \< *makha*
+- *makhā* ← *makhāḥ* ← *makha*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *amitā* \< *amitāḥ* \< *amita*
+- *amitā* ← *amitāḥ* ← *amita*
 - \[noun\], nominative, plural, masculine
 - “infinite; illimitable; countless.”
 ------------------------------------------------------------------------
-- *jāyavo* \< *jāyavaḥ* \< *jāyu*
+- *jāyavo* ← *jāyavaḥ* ← *jāyu*
 - \[noun\], nominative, plural, masculine
 - “victorious.”
 ------------------------------------------------------------------------
-- *raṇe* \< *raṇa*
+- *raṇe* ← *raṇa*
 - \[noun\], locative, singular, masculine
 - “battle; fight; pleasure; joy; war; combat.”
 ------------------------------------------------------------------------
-- *yuvor* \< *yuvoḥ* \< *tvad*
+- *yuvor* ← *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -52,32 +52,32 @@ title = "Rig Veda 1.119.3"
 - \[adverb\]
 - “aha \[word\]; indeed.”
 ------------------------------------------------------------------------
-- *pravaṇe* \< *pravaṇa*
+- *pravaṇe* ← *pravaṇa*
 - \[noun\], locative, singular, masculine
 - “inclined(p); sloping.”
 ------------------------------------------------------------------------
-- *cekite* \< *cekit* \< *√cit*
+- *cekite* ← *cekit* ← *√cit*
 - \[verb\], singular, Present indikative
 - “chew over.”
 ------------------------------------------------------------------------
-- *ratho* \< *rathaḥ* \< *ratha*
+- *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *vahathaḥ* \< *vah*
+- *vahathaḥ* ← *vah*
 - \[verb\], dual, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *sūrim* \< *sūri*
+- *sūrim* ← *sūri*
 - \[noun\], accusative, singular, masculine
 - “patron.”
 ------------------------------------------------------------------------
@@ -85,7 +85,7 @@ title = "Rig Veda 1.119.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *varam* \< *vara*
+- *varam* ← *vara*
 - \[noun\], accusative, singular, masculine
 - “gift; favor; wish; privilege; varac; wages.”
 ------------------------------------------------------------------------

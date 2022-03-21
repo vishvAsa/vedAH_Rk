@@ -2,44 +2,44 @@
 title = "Rig Veda 7.60.8"
 
 +++
--   *yad* \< *yat* \< *yad*
+-   *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *gopāvad* \< *gopāvat*
+- *gopāvad* ← *gopāvat*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *aditiḥ* \< *aditi*
+- *aditiḥ* ← *aditi*
 - \[noun\], nominative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *bhadram* \< *bhadra*
+- *bhadram* ← *bhadra*
 - \[noun\], accusative, singular, neuter
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *mitro* \< *mitraḥ* \< *mitra*
+- *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *yacchanti* \< *yam*
+- *yacchanti* ← *yam*
 - \[verb\], plural, Present indikative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *varuṇaḥ* \< *varuṇa*
+- *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *sudāse* \< *sudās*
+- *sudāse* ← *sudās*
 - \[noun\], dative, singular, masculine
 - “Sudās.”
 ------------------------------------------------------------------------
-- *tasminn* \< *tasmin* \< *tad*
+- *tasminn* ← *tasmin* ← *tad*
 - \[noun\], locative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -49,15 +49,15 @@ title = "Rig Veda 7.60.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tokaṃ* \< *tokam* \< *toka*
+- *tokaṃ* ← *tokam* ← *toka*
 - \[noun\], accusative, singular, neuter
 - “offspring.”
 ------------------------------------------------------------------------
-- *tanayaṃ* \< *tanayam* \< *tanaya*
+- *tanayaṃ* ← *tanayam* ← *tanaya*
 - \[noun\], accusative, singular, neuter
 - “biological.”
 ------------------------------------------------------------------------
-- *dadhānā* \< *dadhānāḥ* \< *dhā*
+- *dadhānā* ← *dadhānāḥ* ← *dhā*
 - \[verb noun\], nominative, plural
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
@@ -66,7 +66,7 @@ title = "Rig Veda 7.60.8"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *karma* \< *kṛ*
+- *karma* ← *kṛ*
 - \[verb\], plural, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -77,16 +77,16 @@ title = "Rig Veda 7.60.8"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *devaheﾱanaṃ* \< *deva*
+- *devaheﾱanaṃ* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devaheﾱanaṃ* \< *heḍanam* \< *heḍana*
+- *devaheﾱanaṃ* ← *heḍanam* ← *heḍana*
 - \[noun\], accusative, singular, neuter
 - “anger.”
 ------------------------------------------------------------------------
-- *turāsaḥ* \< *tura*
+- *turāsaḥ* ← *tura*
 - \[noun\], vocative, plural, masculine
 - “powerful; noble; noble.”
 ------------------------------------------------------------------------

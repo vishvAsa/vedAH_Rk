@@ -2,43 +2,43 @@
 title = "Rig Veda 9.53.3"
 
 +++
--   *asya* \< *idam*
+-   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vratāni* \< *vrata*
+- *vratāni* ← *vrata*
 - \[noun\], nominative, plural, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *nādhṛṣe* \< *na*
+- *nādhṛṣe* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nādhṛṣe* \< *ādhṛṣe* \< *ādhṛṣ* \< *√dhṛṣ*
+- *nādhṛṣe* ← *ādhṛṣe* ← *ādhṛṣ* ← *√dhṛṣ*
 - \[verb noun\]
 - “overcome; suppress.”
 ------------------------------------------------------------------------
-- *pavamānasya* \< *pū*
+- *pavamānasya* ← *pū*
 - \[verb noun\], genitive, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *dūḍhyā* \< *dūḍhya*
+- *dūḍhyā* ← *dūḍhya*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
-- *ruja* \< *ruj*
+- *ruja* ← *ruj*
 - \[verb\], singular, Present imperative
 - “break; bend.”
 ------------------------------------------------------------------------
-- *yas* \< *yaḥ* \< *yad*
+- *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *pṛtanyati* \< *pṛtany*
+- *pṛtanyati* ← *pṛtany*
 - \[verb\], singular, Present indikative
 - “attack.”
 ------------------------------------------------------------------------

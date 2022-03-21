@@ -2,60 +2,60 @@
 title = "Rig Veda 10.49.5"
 
 +++
--   *ahaṃ* \< *aham* \< *mad*
+-   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *randhayam* \< *randhay* \< *√radh*
+- *randhayam* ← *randhay* ← *√radh*
 - \[verb\], singular, Present injunctive
 - “subjugate; hand over.”
 ------------------------------------------------------------------------
-- *mṛgayaṃ* \< *mṛgayam* \< *mṛgaya*
+- *mṛgayaṃ* ← *mṛgayam* ← *mṛgaya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *śrutarvaṇe* \< *śrutarvan*
+- *śrutarvaṇe* ← *śrutarvan*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *yan* \< *yat*
+- *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *mājihīta* \< *mā* \< *mad*
+- *mājihīta* ← *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mājihīta* \< *ajihīta* \< *hā*
+- *mājihīta* ← *ajihīta* ← *hā*
 - \[verb\], singular, Imperfect
 - “move over; yield; give way.”
 ------------------------------------------------------------------------
-- *vayunā* \< *vayuna*
+- *vayunā* ← *vayuna*
 - \[noun\], ablative, plural, neuter
 - “convention; custom; means.”
 ------------------------------------------------------------------------
-- *canānuṣak* \< *cana*
+- *canānuṣak* ← *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *canānuṣak* \< *ānuṣak*
+- *canānuṣak* ← *ānuṣak*
 - \[adverb\]
 - “correctly; in sequence; punctually.”
 ------------------------------------------------------------------------
-- *ahaṃ* \< *aham* \< *mad*
+- *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *veśaṃ* \< *veśam* \< *veśa*
+- *veśaṃ* ← *veśam* ← *veśa*
 - \[noun\], accusative, singular, masculine
 - “whorehouse; prostitute; neighbor; braid.”
 ------------------------------------------------------------------------
-- *namram* \< *namra*
+- *namram* ← *namra*
 - \[noun\], accusative, singular, masculine
 - “dangling(a); submissive; curved; bent.”
 ------------------------------------------------------------------------
-- *āyave* \< *āyu*
+- *āyave* ← *āyu*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *'karam* \< *akaram* \< *kṛ*
+- *'karam* ← *akaram* ← *kṛ*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -66,17 +66,17 @@ title = "Rig Veda 10.49.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *ahaṃ* \< *aham* \< *mad*
+- *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *savyāya* \< *savya*
+- *savyāya* ← *savya*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *paḍgṛbhim* \< *paḍgṛbhi*
+- *paḍgṛbhim* ← *paḍgṛbhi*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *arandhayam* \< *randhay* \< *√radh*
+- *arandhayam* ← *randhay* ← *√radh*
 - \[verb\], singular, Imperfect
 - “subjugate; hand over.”
 ------------------------------------------------------------------------

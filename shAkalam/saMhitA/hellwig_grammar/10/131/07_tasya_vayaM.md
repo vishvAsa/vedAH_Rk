@@ -2,75 +2,75 @@
 title = "Rig Veda 10.131.7"
 
 +++
--   *tasya* \< *tad*
+-   *tasya* ← *tad*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sumatau* \< *sumati*
+- *sumatau* ← *sumati*
 - \[noun\], locative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *yajñiyasyāpi* \< *yajñiyasya* \< *yajñiya*
+- *yajñiyasyāpi* ← *yajñiyasya* ← *yajñiya*
 - \[noun\], genitive, singular, masculine
 - “sacrificial; divine; devoted.”
 ------------------------------------------------------------------------
-- *yajñiyasyāpi* \< *api*
+- *yajñiyasyāpi* ← *api*
 - \[adverb\]
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
 ------------------------------------------------------------------------
-- *bhadre* \< *bhadra*
+- *bhadre* ← *bhadra*
 - \[noun\], locative, singular, neuter
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *saumanase* \< *saumanasa*
+- *saumanase* ← *saumanasa*
 - \[noun\], locative, singular, neuter
 - “favor; satisfaction.”
 ------------------------------------------------------------------------
-- *syāma* \< *as*
+- *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *sutrāmā* \< *sutrāman*
+- *sutrāmā* ← *sutrāman*
 - \[noun\], nominative, singular, masculine
 - “Indra; Sutrāman.”
 ------------------------------------------------------------------------
-- *svavāṃ* \< *svavat*
+- *svavāṃ* ← *svavat*
 - \[noun\], nominative, singular, masculine
 - “helpful.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ārāc* \< *ārāt*
+- *ārāc* ← *ārāt*
 - \[adverb\]
 - “far; ārāt \[word\].”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *dveṣaḥ* \< *dveṣas*
+- *dveṣaḥ* ← *dveṣas*
 - \[noun\], accusative, singular, neuter
 - “hostility; enemy.”
 ------------------------------------------------------------------------
@@ -78,7 +78,7 @@ title = "Rig Veda 10.131.7"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *yuyotu* \< *yu*
+- *yuyotu* ← *yu*
 - \[verb\], singular, Present imperative
 - “keep away; separate; ward off.”
 ------------------------------------------------------------------------

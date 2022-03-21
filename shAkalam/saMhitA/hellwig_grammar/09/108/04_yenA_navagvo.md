@@ -2,61 +2,61 @@
 title = "Rig Veda 9.108.4"
 
 +++
--   *yenā* \< *yena* \< *yad*
+-   *yenā* ← *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *navagvo* \< *navagvaḥ* \< *navagva*
+- *navagvo* ← *navagvaḥ* ← *navagva*
 - \[noun\], nominative, singular, masculine
 - “Navagva.”
 ------------------------------------------------------------------------
-- *dadhyaṅṅ* \< *dadhyaṅ* \< *dadhyac*
+- *dadhyaṅṅ* ← *dadhyaṅ* ← *dadhyac*
 - \[noun\], nominative, singular, masculine
 - “Dadhyac.”
 ------------------------------------------------------------------------
-- *aporṇute* \< *apavṛ* \< *√vṛ*
+- *aporṇute* ← *apavṛ* ← *√vṛ*
 - \[verb\], singular, Present indikative
 - “open.”
 ------------------------------------------------------------------------
-- *yena* \< *yad*
+- *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *viprāsa* \< *viprāsaḥ* \< *vipra*
+- *viprāsa* ← *viprāsaḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *āpire* \< *āp*
+- *āpire* ← *āp*
 - \[verb\], plural, Perfect indicative
 - “enter (a state); get; reach; obtain; equal.”
 ------------------------------------------------------------------------
-- *devānāṃ* \< *devānām* \< *deva*
+- *devānāṃ* ← *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *sumne* \< *sumna*
+- *sumne* ← *sumna*
 - \[noun\], locative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
-- *amṛtasya* \< *amṛta*
+- *amṛtasya* ← *amṛta*
 - \[noun\], genitive, singular, neuter
 - “amṛta; immortality; vatsanābha; ambrosia; mercury; medicine;
     vighasa; calcium hydroxide.”
 ------------------------------------------------------------------------
-- *cāruṇo* \< *cāruṇaḥ* \< *cāru*
+- *cāruṇo* ← *cāruṇaḥ* ← *cāru*
 - \[noun\], genitive, singular, neuter
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
 ------------------------------------------------------------------------
-- *yena* \< *yad*
+- *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *śravāṃsy* \< *śravāṃsi* \< *śravas*
+- *śravāṃsy* ← *śravāṃsi* ← *śravas*
 - \[noun\], accusative, plural, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *ānaśuḥ* \< *aś*
+- *ānaśuḥ* ← *aś*
 - \[verb\], plural, Perfect indicative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------

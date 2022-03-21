@@ -2,30 +2,30 @@
 title = "Rig Veda 4.41.9"
 
 +++
--   *imā* \< *imāḥ* \< *idam*
+-   *imā* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *varuṇam* \< *varuṇa*
+- *varuṇam* ← *varuṇa*
 - \[noun\], accusative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *manīṣā* \< *manīṣāḥ* \< *manīṣā*
+- *manīṣā* ← *manīṣāḥ* ← *manīṣā*
 - \[noun\], nominative, plural, feminine
 - “hymn; inspiration; idea; thinking; wish; consideration;
     intelligence.”
 ------------------------------------------------------------------------
-- *agmann* \< *agman* \< *gam*
+- *agmann* ← *agman* ← *gam*
 - \[verb\], plural, Root aorist (Ind.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
@@ -36,40 +36,40 @@ title = "Rig Veda 4.41.9"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *draviṇam* \< *draviṇa*
+- *draviṇam* ← *draviṇa*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; money; jewel.”
 ------------------------------------------------------------------------
-- *icchamānāḥ* \< *iṣ*
+- *icchamānāḥ* ← *iṣ*
 - \[verb noun\], nominative, plural
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
 ------------------------------------------------------------------------
-- *upem* \< *upa*
+- *upem* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *upem* \< *īm* \< *īṃ*
+- *upem* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *asthur* \< *asthuḥ* \< *sthā*
+- *asthur* ← *asthuḥ* ← *sthā*
 - \[verb\], plural, Root aorist (Ind.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *joṣṭāra* \< *joṣṭāraḥ* \< *joṣṭṛ*
+- *joṣṭāra* ← *joṣṭāraḥ* ← *joṣṭṛ*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *vasvo* \< *vasvaḥ* \< *vasu*
+- *vasvo* ← *vasvaḥ* ← *vasu*
 - \[noun\], genitive, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *raghvīr* \< *raghvīḥ* \< *raghu*
+- *raghvīr* ← *raghvīḥ* ← *raghu*
 - \[noun\], nominative, plural, feminine
 - “low; fast.”
 ------------------------------------------------------------------------
@@ -77,11 +77,11 @@ title = "Rig Veda 4.41.9"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *śravaso* \< *śravasaḥ* \< *śravas*
+- *śravaso* ← *śravasaḥ* ← *śravas*
 - \[noun\], genitive, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *bhikṣamāṇāḥ* \< *bhikṣ* \< *√bhaj*
+- *bhikṣamāṇāḥ* ← *bhikṣ* ← *√bhaj*
 - \[verb noun\], nominative, plural
 - “beg; beg.”
 ------------------------------------------------------------------------

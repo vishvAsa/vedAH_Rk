@@ -2,37 +2,37 @@
 title = "Rig Veda 3.58.1"
 
 +++
--   *dhenuḥ* \< *dhenu*
+-   *dhenuḥ* ← *dhenu*
 - \[noun\], nominative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *pratnasya* \< *pratna*
+- *pratnasya* ← *pratna*
 - \[noun\], genitive, singular, masculine
 - “age-old; pratna \[word\].”
 ------------------------------------------------------------------------
-- *kāmyaṃ* \< *kāmyam* \< *kāmya*
+- *kāmyaṃ* ← *kāmyam* ← *kāmya*
 - \[noun\], accusative, singular, neuter
 - “desirable; optional; beautiful.”
 ------------------------------------------------------------------------
-- *duhānāntaḥ* \< *duhānā* \< *duh*
+- *duhānāntaḥ* ← *duhānā* ← *duh*
 - \[verb noun\], nominative, singular
 - “milk.”
 ------------------------------------------------------------------------
-- *duhānāntaḥ* \< *antar*
+- *duhānāntaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *putraś* \< *putraḥ* \< *putra*
+- *putraś* ← *putraḥ* ← *putra*
 - \[noun\], nominative, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
-- *carati* \< *car*
+- *carati* ← *car*
 - \[verb\], singular, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *dakṣiṇāyāḥ* \< *dakṣiṇā*
+- *dakṣiṇāyāḥ* ← *dakṣiṇā*
 - \[noun\], genitive, singular, feminine
 - “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
 ------------------------------------------------------------------------
@@ -40,36 +40,36 @@ title = "Rig Veda 3.58.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dyotaniṃ* \< *dyotanim* \< *dyotani*
+- *dyotaniṃ* ← *dyotanim* ← *dyotani*
 - \[noun\], accusative, singular, feminine
 - “luminosity.”
 ------------------------------------------------------------------------
-- *vahati* \< *vah*
+- *vahati* ← *vah*
 - \[verb\], singular, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *śubhrayāmoṣasa* \< *śubhra*
+- *śubhrayāmoṣasa* ← *śubhra*
 - \[noun\]
 - “white; beautiful; attractive; śubhra \[word\]; light.”
 ------------------------------------------------------------------------
-- *śubhrayāmoṣasa* \< *yāmā* \< *yāma*
+- *śubhrayāmoṣasa* ← *yāmā* ← *yāma*
 - \[noun\], nominative, singular, feminine
 - “prahara; watch; travel; path.”
 ------------------------------------------------------------------------
-- *śubhrayāmoṣasa* \< *uṣasa* \< *uṣas*
+- *śubhrayāmoṣasa* ← *uṣasa* ← *uṣas*
 - \[noun\], genitive, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *stomo* \< *stomaḥ* \< *stoma*
+- *stomo* ← *stomaḥ* ← *stoma*
 - \[noun\], nominative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *aśvināv* \< *aśvinau* \< *aśvin*
+- *aśvināv* ← *aśvinau* ← *aśvin*
 - \[noun\], accusative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *ajīgaḥ* \< *jāgṛ*
+- *ajīgaḥ* ← *jāgṛ*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “wake; watch; awaken; wake up; oversee.”
 ------------------------------------------------------------------------

@@ -2,28 +2,28 @@
 title = "Rig Veda 1.160.2"
 
 +++
--   *uruvyacasā* \< *uru*
+-   *uruvyacasā* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *uruvyacasā* \< *vyacasā* \< *vyacas*
+- *uruvyacasā* ← *vyacasā* ← *vyacas*
 - \[noun\], nominative, dual, feminine
 - “area; capacity.”
 ------------------------------------------------------------------------
-- *mahinī* \< *mahin*
+- *mahinī* ← *mahin*
 - \[noun\], nominative, dual, feminine
 - “mighty; great.”
 ------------------------------------------------------------------------
-- *asaścatā* \< *asaścat*
+- *asaścatā* ← *asaścat*
 - \[noun\], nominative, dual, feminine
 - “inexhaustible.”
 ------------------------------------------------------------------------
-- *pitā* \< *pitṛ*
+- *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *mātā* \< *mātṛ*
+- *mātā* ← *mātṛ*
 - \[noun\], nominative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
@@ -32,18 +32,18 @@ title = "Rig Veda 1.160.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *bhuvanāni* \< *bhuvana*
+- *bhuvanāni* ← *bhuvana*
 - \[noun\], accusative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *rakṣataḥ* \< *rakṣ*
+- *rakṣataḥ* ← *rakṣ*
 - \[verb\], dual, Present indikative
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------
-- *sudhṛṣṭame* \< *sudhṛṣṭama*
+- *sudhṛṣṭame* ← *sudhṛṣṭama*
 - \[noun\], nominative, dual, feminine
 ------------------------------------------------------------------------
-- *vapuṣye* \< *vapuṣya*
+- *vapuṣye* ← *vapuṣya*
 - \[noun\], nominative, dual, feminine
 - “fine-looking.”
 ------------------------------------------------------------------------
@@ -55,7 +55,7 @@ title = "Rig Veda 1.160.2"
 - \[noun\], nominative, dual, feminine
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *pitā* \< *pitṛ*
+- *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
@@ -71,14 +71,14 @@ title = "Rig Veda 1.160.2"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *rūpair* \< *rūpaiḥ* \< *rūpa*
+- *rūpair* ← *rūpaiḥ* ← *rūpa*
 - \[noun\], instrumental, plural, neuter
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
 ------------------------------------------------------------------------
-- *avāsayat* \< *vāsay* \< *√vas*
+- *avāsayat* ← *vāsay* ← *√vas*
 - \[verb\], singular, Imperfect
 - “dress.”
 ------------------------------------------------------------------------

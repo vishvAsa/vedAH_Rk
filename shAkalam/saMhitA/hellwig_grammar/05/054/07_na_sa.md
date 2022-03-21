@@ -6,18 +6,18 @@ title = "Rig Veda 5.54.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *jīyate* \< *ji*
+- *jīyate* ← *ji*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
@@ -25,7 +25,7 @@ title = "Rig Veda 5.54.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *hanyate* \< *han*
+- *hanyate* ← *han*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
@@ -35,14 +35,14 @@ title = "Rig Veda 5.54.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sredhati* \< *sridh*
+- *sredhati* ← *sridh*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vyathate* \< *vyath*
+- *vyathate* ← *vyath*
 - \[verb\], singular, Present indikative
 - “despair; tremble; disperse; flicker; pain; arouse.”
 ------------------------------------------------------------------------
@@ -50,19 +50,19 @@ title = "Rig Veda 5.54.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *riṣyati* \< *riṣ*
+- *riṣyati* ← *riṣ*
 - \[verb\], singular, Present indikative
 - “suffer; harm.”
 ------------------------------------------------------------------------
-- *nāsya* \< *na*
+- *nāsya* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāsya* \< *asya* \< *idam*
+- *nāsya* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *rāya* \< *rāyaḥ* \< *rai*
+- *rāya* ← *rāyaḥ* ← *rai*
 - \[noun\], nominative, plural, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
@@ -70,18 +70,18 @@ title = "Rig Veda 5.54.7"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *dasyanti* \< *das*
+- *dasyanti* ← *das*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *notaya* \< *nā* \< *na*
+- *notaya* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *notaya* \< *ūtayaḥ* \< *ūti*
+- *notaya* ← *ūtayaḥ* ← *ūti*
 - \[noun\], nominative, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *ṛṣiṃ* \< *ṛṣim* \< *ṛṣi*
+- *ṛṣiṃ* ← *ṛṣim* ← *ṛṣi*
 - \[noun\], accusative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
@@ -89,11 +89,11 @@ title = "Rig Veda 5.54.7"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *rājānaṃ* \< *rājānam* \< *rājan*
+- *rājānaṃ* ← *rājānam* ← *rājan*
 - \[noun\], accusative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
@@ -101,7 +101,7 @@ title = "Rig Veda 5.54.7"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *suṣūdatha* \< *sūd*
+- *suṣūdatha* ← *sūd*
 - \[verb\], plural, Perfect conjunctive (subj.)
 - “sweeten; prepare.”
 ------------------------------------------------------------------------

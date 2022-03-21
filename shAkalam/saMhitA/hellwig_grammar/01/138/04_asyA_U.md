@@ -2,19 +2,19 @@
 title = "Rig Veda 1.138.4"
 
 +++
--   *asyā* \< *asyāḥ* \< *idam*
+-   *asyā* ← *asyāḥ* ← *idam*
 - \[noun\], genitive, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ū* \< *u*
+- *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *ṇa* \< *naḥ* \< *mad*
+- *ṇa* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -22,26 +22,26 @@ title = "Rig Veda 1.138.4"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *sātaye* \< *sāti*
+- *sātaye* ← *sāti*
 - \[noun\], dative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------
-- *bhuvo* \< *bhuvaḥ* \< *bhū*
+- *bhuvo* ← *bhuvaḥ* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *'heﾱamāno* \< *a*
+- *'heﾱamāno* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *'heﾱamāno* \< *heḍamānaḥ* \< *hīḍ*
+- *'heﾱamāno* ← *heḍamānaḥ* ← *hīḍ*
 - \[verb noun\], nominative, singular
 - “anger; stew.”
 ------------------------------------------------------------------------
-- *rarivāṃ* \< *rarivān* \< *rā*
+- *rarivāṃ* ← *rarivān* ← *rā*
 - \[verb noun\], nominative, singular
 - “give; impart.”
 ------------------------------------------------------------------------
@@ -49,36 +49,36 @@ title = "Rig Veda 1.138.4"
 - \[noun\], vocative, singular, masculine
 - “Pushan.”
 ------------------------------------------------------------------------
-- *śravasyatām* \< *śravasy*
+- *śravasyatām* ← *śravasy*
 - \[verb noun\], genitive, plural
 ------------------------------------------------------------------------
 - *ajāśva*
 - \[noun\], vocative, singular, masculine
 - “Pushan.”
 ------------------------------------------------------------------------
-- *o* \< *ā*
+- *o* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *o* \< *u*
+- *o* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vavṛtīmahi* \< *vṛt*
+- *vavṛtīmahi* ← *vṛt*
 - \[verb\], plural, Perfect optative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
 ------------------------------------------------------------------------
-- *stomebhir* \< *stomebhiḥ* \< *stoma*
+- *stomebhir* ← *stomebhiḥ* ← *stoma*
 - \[noun\], instrumental, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
@@ -86,7 +86,7 @@ title = "Rig Veda 1.138.4"
 - \[noun\], vocative, singular, masculine
 - “overlord.”
 ------------------------------------------------------------------------
-- *sādhubhiḥ* \< *sādhu*
+- *sādhubhiḥ* ← *sādhu*
 - \[noun\], instrumental, plural, masculine
 - “good; good; correct; correct; sādhu \[word\]; excellent;
     efficient.”
@@ -94,19 +94,19 @@ title = "Rig Veda 1.138.4"
 - *nahi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *pūṣann* \< *pūṣan*
+- *pūṣann* ← *pūṣan*
 - \[noun\], vocative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *atimanya* \< *atimanye* \< *atiman* \< *√man*
+- *atimanya* ← *atimanye* ← *atiman* ← *√man*
 - \[verb\], singular, Present indikative
 - “contemn.”
 ------------------------------------------------------------------------
-- *āghṛṇe* \< *āghṛṇi*
+- *āghṛṇe* ← *āghṛṇi*
 - \[noun\], vocative, singular, masculine
 - “aglow(p).”
 ------------------------------------------------------------------------
@@ -114,15 +114,15 @@ title = "Rig Veda 1.138.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sakhyam* \< *sakhya*
+- *sakhyam* ← *sakhya*
 - \[noun\], accusative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *apahnuve* \< *apahnu* \< *√hnu*
+- *apahnuve* ← *apahnu* ← *√hnu*
 - \[verb\], singular, Present indikative
 - “deny.”
 ------------------------------------------------------------------------

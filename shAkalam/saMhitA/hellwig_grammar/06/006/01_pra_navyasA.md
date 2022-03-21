@@ -6,15 +6,15 @@ title = "Rig Veda 6.6.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *navyasā* \< *navyas*
+- *navyasā* ← *navyas*
 - \[noun\], instrumental, singular, masculine
 - “new.”
 ------------------------------------------------------------------------
-- *sahasaḥ* \< *sahas*
+- *sahasaḥ* ← *sahas*
 - \[noun\], genitive, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *sūnum* \< *sūnu*
+- *sūnum* ← *sūnu*
 - \[noun\], accusative, singular, masculine
 - “son; offspring.”
 ------------------------------------------------------------------------
@@ -22,56 +22,56 @@ title = "Rig Veda 6.6.1"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *yajñena* \< *yajña*
+- *yajñena* ← *yajña*
 - \[noun\], instrumental, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *gātum* \< *gātu*
+- *gātum* ← *gātu*
 - \[noun\], accusative, singular, masculine
 - “path; way.”
 ------------------------------------------------------------------------
-- *ava* \< *avaḥ* \< *avas*
+- *ava* ← *avaḥ* ← *avas*
 - \[noun\], accusative, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *icchamānaḥ* \< *iṣ*
+- *icchamānaḥ* ← *iṣ*
 - \[verb noun\], nominative, singular
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
 ------------------------------------------------------------------------
-- *vṛścadvanaṃ* \< *vṛścat* \< *vraśc*
+- *vṛścadvanaṃ* ← *vṛścat* ← *vraśc*
 - \[verb noun\]
 - “cleave; fell; cut off; hew.”
 ------------------------------------------------------------------------
-- *vṛścadvanaṃ* \< *vanam* \< *vana*
+- *vṛścadvanaṃ* ← *vanam* ← *vana*
 - \[noun\], accusative, singular, masculine
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
-- *kṛṣṇayāmaṃ* \< *kṛṣṇa*
+- *kṛṣṇayāmaṃ* ← *kṛṣṇa*
 - \[noun\]
 - “black; dark; dark; blue; black.”
 ------------------------------------------------------------------------
-- *kṛṣṇayāmaṃ* \< *yāmam* \< *yāma*
+- *kṛṣṇayāmaṃ* ← *yāmam* ← *yāma*
 - \[noun\], accusative, singular, masculine
 - “prahara; watch; travel; path.”
 ------------------------------------------------------------------------
-- *ruśantaṃ* \< *ruśantam* \< *ruśat*
+- *ruśantaṃ* ← *ruśantam* ← *ruśat*
 - \[noun\], accusative, singular, masculine
 - “white; bright; bright.”
 ------------------------------------------------------------------------
-- *vītī* \< *vīti*
+- *vītī* ← *vīti*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *hotāraṃ* \< *hotāram* \< *hotṛ*
+- *hotāraṃ* ← *hotāram* ← *hotṛ*
 - \[noun\], accusative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *divyaṃ* \< *divyam* \< *divya*
+- *divyaṃ* ← *divyam* ← *divya*
 - \[noun\], accusative, singular, masculine
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
 ------------------------------------------------------------------------
-- *jigāti* \< *gā*
+- *jigāti* ← *gā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------

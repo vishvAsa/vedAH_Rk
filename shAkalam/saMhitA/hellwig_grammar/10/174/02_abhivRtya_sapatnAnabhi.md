@@ -2,12 +2,12 @@
 title = "Rig Veda 10.174.2"
 
 +++
--   *abhivṛtya* \< *abhivṛt* \< *√vṛt*
+-   *abhivṛtya* ← *abhivṛt* ← *√vṛt*
 - \[verb noun\]
 - “attack; approach; overcome; originate; meet; prevail; happen;
     become.”
 ------------------------------------------------------------------------
-- *sapatnān* \< *sapatna*
+- *sapatnān* ← *sapatna*
 - \[noun\], accusative, plural, masculine
 - “rival; enemy; foe.”
 ------------------------------------------------------------------------
@@ -15,15 +15,15 @@ title = "Rig Veda 10.174.2"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *yā* \< *yāḥ* \< *yad*
+- *yā* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *arātayaḥ* \< *arāti*
+- *arātayaḥ* ← *arāti*
 - \[noun\], nominative, plural, feminine
 - “hostility; adversity; foe; envy; stinginess.”
 ------------------------------------------------------------------------
@@ -31,29 +31,29 @@ title = "Rig Veda 10.174.2"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *pṛtanyantaṃ* \< *pṛtanyantam* \< *pṛtany*
+- *pṛtanyantaṃ* ← *pṛtanyantam* ← *pṛtany*
 - \[verb noun\], accusative, singular
 - “attack.”
 ------------------------------------------------------------------------
-- *tiṣṭhābhi* \< *tiṣṭhā* \< *sthā*
+- *tiṣṭhābhi* ← *tiṣṭhā* ← *sthā*
 - \[verb\], singular, Present imperative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *tiṣṭhābhi* \< *abhi*
+- *tiṣṭhābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *irasyati* \< *irasy*
+- *irasyati* ← *irasy*
 - \[verb\], singular, Present indikative
 - “envy.”
 ------------------------------------------------------------------------

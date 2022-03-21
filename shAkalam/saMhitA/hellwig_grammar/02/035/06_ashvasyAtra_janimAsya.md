@@ -2,20 +2,20 @@
 title = "Rig Veda 2.35.6"
 
 +++
--   *aśvasyātra* \< *aśvasya* \< *aśva*
+-   *aśvasyātra* ← *aśvasya* ← *aśva*
 - \[noun\], genitive, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *aśvasyātra* \< *atra*
+- *aśvasyātra* ← *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *janimāsya* \< *janima* \< *janiman*
+- *janimāsya* ← *janima* ← *janiman*
 - \[noun\], nominative, singular, neuter
 - “birth; offspring; origin; kind; being.”
 ------------------------------------------------------------------------
-- *janimāsya* \< *asya* \< *idam*
+- *janimāsya* ← *asya* ← *idam*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -27,49 +27,49 @@ title = "Rig Veda 2.35.6"
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *druho* \< *druhaḥ* \< *druh*
+- *druho* ← *druhaḥ* ← *druh*
 - \[noun\], ablative, singular, feminine
 - “deception; druh; misrepresentation; fraudulence; offense; injury.”
 ------------------------------------------------------------------------
-- *riṣaḥ* \< *riṣ*
+- *riṣaḥ* ← *riṣ*
 - \[noun\], ablative, singular, feminine
 - “injury; riṣ; damage.”
 ------------------------------------------------------------------------
-- *sampṛcaḥ* \< *sampṛc*
+- *sampṛcaḥ* ← *sampṛc*
 - \[noun\], ablative, singular, feminine
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *sūrīn* \< *sūri*
+- *sūrīn* ← *sūri*
 - \[noun\], accusative, plural, masculine
 - “patron.”
 ------------------------------------------------------------------------
-- *āmāsu* \< *āma*
+- *āmāsu* ← *āma*
 - \[noun\], locative, plural, feminine
 - “uncooked; unfestering; unburnt; green; undigested; fusty; raw.”
 ------------------------------------------------------------------------
-- *pūrṣu* \< *pur*
+- *pūrṣu* ← *pur*
 - \[noun\], locative, plural
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
-- *paro* \< *paras*
+- *paro* ← *paras*
 - \[adverb\]
 - “beyond; away; farther.”
 ------------------------------------------------------------------------
-- *apramṛṣyaṃ* \< *a*
+- *apramṛṣyaṃ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *apramṛṣyaṃ* \< *pramṛṣyam* \< *pramṛṣ* \< *√mṛṣ*
+- *apramṛṣyaṃ* ← *pramṛṣyam* ← *pramṛṣ* ← *√mṛṣ*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *nārātayo* \< *nā* \< *na*
+- *nārātayo* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nārātayo* \< *arātayaḥ* \< *arāti*
+- *nārātayo* ← *arātayaḥ* ← *arāti*
 - \[noun\], nominative, plural, feminine
 - “hostility; adversity; foe; envy; stinginess.”
 ------------------------------------------------------------------------
@@ -77,15 +77,15 @@ title = "Rig Veda 2.35.6"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *naśan* \< *naśat* \< *naś*
+- *naśan* ← *naśat* ← *naś*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “reach; achieve; enter (a state); reach.”
 ------------------------------------------------------------------------
-- *nānṛtāni* \< *na*
+- *nānṛtāni* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nānṛtāni* \< *anṛtāni* \< *anṛta*
+- *nānṛtāni* ← *anṛtāni* ← *anṛta*
 - \[noun\], nominative, plural, neuter
 - “falsehood; lying; lie; cheat.”
 ------------------------------------------------------------------------

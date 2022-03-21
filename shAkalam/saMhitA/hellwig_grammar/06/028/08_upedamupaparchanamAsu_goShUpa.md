@@ -2,31 +2,31 @@
 title = "Rig Veda 6.28.8"
 
 +++
--   *upedam* \< *upa*
+-   *upedam* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *upedam* \< *idam*
+- *upedam* ← *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *upaparcanam* \< *upaparcana*
+- *upaparcanam* ← *upaparcana*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *āsu* \< *idam*
+- *āsu* ← *idam*
 - \[noun\], locative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *goṣūpa* \< *goṣu* \< *go*
+- *goṣūpa* ← *goṣu* ← *go*
 - \[noun\], locative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *goṣūpa* \< *upa*
+- *goṣūpa* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *pṛcyatām* \< *pṛc*
+- *pṛcyatām* ← *pṛc*
 - \[verb\], singular, Imperativ Pr￤s. Passiv
 - “mix; unite.”
 ------------------------------------------------------------------------
@@ -34,29 +34,29 @@ title = "Rig Veda 6.28.8"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *ṛṣabhasya* \< *ṛṣabha*
+- *ṛṣabhasya* ← *ṛṣabha*
 - \[noun\], genitive, singular, masculine
 - “best; leader; bull; Ṛṣabha; ṛṣabha; ṛṣabha; Ṛṣabha; ṛṣabha
     \[word\]; hero; bull.”
 ------------------------------------------------------------------------
-- *retasy* \< *retasi* \< *retas*
+- *retasy* ← *retasi* ← *retas*
 - \[noun\], locative, singular, neuter
 - “semen; sperm.”
 ------------------------------------------------------------------------
-- *upendra* \< *upa*
+- *upendra* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *upendra* \< *indra*
+- *upendra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vīrye* \< *vīrya*
+- *vīrye* ← *vīrya*
 - \[noun\], locative, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];

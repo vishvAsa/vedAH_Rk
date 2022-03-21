@@ -6,24 +6,24 @@ title = "Rig Veda 9.79.2"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ṇo* \< *naḥ* \< *mad*
+- *ṇo* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dhanvantv* \< *dhanvantu* \< *dhanv*
+- *dhanvantv* ← *dhanvantu* ← *dhanv*
 - \[verb\], plural, Present imperative
 - “run.”
 ------------------------------------------------------------------------
-- *indavo* \< *indavaḥ* \< *indu*
+- *indavo* ← *indavaḥ* ← *indu*
 - \[noun\], nominative, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *madacyuto* \< *madacyutaḥ* \< *madacyut*
+- *madacyuto* ← *madacyutaḥ* ← *madacyut*
 - \[noun\], nominative, plural, masculine
 - “proud.”
 ------------------------------------------------------------------------
-- *dhanā* \< *dhana*
+- *dhanā* ← *dhana*
 - \[noun\], nominative, plural, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
@@ -32,38 +32,38 @@ title = "Rig Veda 9.79.2"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *yebhir* \< *yebhiḥ* \< *yad*
+- *yebhir* ← *yebhiḥ* ← *yad*
 - \[noun\], instrumental, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *arvato* \< *arvataḥ* \< *arvant*
+- *arvato* ← *arvataḥ* ← *arvant*
 - \[noun\], accusative, plural, masculine
 - “horse.”
 ------------------------------------------------------------------------
-- *junīmasi* \< *jū*
+- *junīmasi* ← *jū*
 - \[verb\], plural, Present indikative
 - “animate; encourage; impel; inspire.”
 ------------------------------------------------------------------------
-- *tiro* \< *tiras*
+- *tiro* ← *tiras*
 - \[adverb\]
 - “tiras \[word\]; away; secretly.”
 ------------------------------------------------------------------------
-- *martasya* \< *marta*
+- *martasya* ← *marta*
 - \[noun\], genitive, singular, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *kasyacit* \< *kasyacid* \< *kaścit*
+- *kasyacit* ← *kasyacid* ← *kaścit*
 - \[noun\], genitive, singular, masculine
 - “any(a); some(a); some(a); some(a); some(a).”
 ------------------------------------------------------------------------
-- *parihvṛtiṃ* \< *parihvṛtim* \< *parihvṛti*
+- *parihvṛtiṃ* ← *parihvṛtim* ← *parihvṛti*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dhanāni* \< *dhana*
+- *dhanāni* ← *dhana*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
@@ -71,7 +71,7 @@ title = "Rig Veda 9.79.2"
 - *viśvadhā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *bharemahi* \< *bhṛ*
+- *bharemahi* ← *bhṛ*
 - \[verb\], plural, Present optative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”

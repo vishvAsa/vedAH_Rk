@@ -2,15 +2,15 @@
 title = "Rig Veda 10.39.5"
 
 +++
--   *purāṇā* \< *purāṇa*
+-   *purāṇā* ← *purāṇa*
 - \[noun\], accusative, plural, neuter
 - “age-old; stale; old; old; traditional; aged.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *vīryā* \< *vīrya*
+- *vīryā* ← *vīrya*
 - \[noun\], accusative, plural, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
@@ -20,47 +20,47 @@ title = "Rig Veda 10.39.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *bravā* \< *brū*
+- *bravā* ← *brū*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
 ------------------------------------------------------------------------
-- *jane* \< *jana*
+- *jane* ← *jana*
 - \[noun\], locative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *'tho* \< *atha*
+- *'tho* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *'tho* \< *u*
+- *'tho* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *hāsathur* \< *ha*
+- *hāsathur* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *hāsathur* \< *āsathuḥ* \< *as*
+- *hāsathur* ← *āsathuḥ* ← *as*
 - \[verb\], dual, Perfect indicative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *bhiṣajā* \< *bhiṣaj*
+- *bhiṣajā* ← *bhiṣaj*
 - \[noun\], nominative, dual, masculine
 - “doctor; alchemist; therapist; medicine.”
 ------------------------------------------------------------------------
-- *mayobhuvā* \< *mayobhu*
+- *mayobhuvā* ← *mayobhu*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *tā* \< *tad*
+- *tā* ← *tad*
 - \[noun\], accusative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -68,15 +68,15 @@ title = "Rig Veda 10.39.5"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *navyāv* \< *navyau* \< *navya*
+- *navyāv* ← *navyau* ← *navya*
 - \[noun\], accusative, dual, masculine
 - “new; fresh.”
 ------------------------------------------------------------------------
-- *avase* \< *av*
+- *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *karāmahe* \< *kṛ*
+- *karāmahe* ← *kṛ*
 - \[verb\], plural, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -87,25 +87,25 @@ title = "Rig Veda 10.39.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *'yaṃ* \< *ayam* \< *idam*
+- *'yaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *nāsatyā* \< *nāsatya*
+- *nāsatyā* ← *nāsatya*
 - \[noun\], vocative, dual, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *śrad* \< *śrath*
+- *śrad* ← *śrath*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *arir* \< *ariḥ* \< *ari*
+- *arir* ← *ariḥ* ← *ari*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *dadhat* \< *dhā*
+- *dadhat* ← *dhā*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

@@ -6,15 +6,15 @@ title = "Rig Veda 4.23.3"
 - \[adverb\]
 - “how.”
 ------------------------------------------------------------------------
-- *śṛṇoti* \< *śru*
+- *śṛṇoti* ← *śru*
 - \[verb\], singular, Present indikative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *hūyamānam* \< *hvā*
+- *hūyamānam* ← *hvā*
 - \[verb noun\], accusative, singular
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -23,59 +23,59 @@ title = "Rig Veda 4.23.3"
 - \[adverb\]
 - “how.”
 ------------------------------------------------------------------------
-- *śṛṇvann* \< *śṛṇvan* \< *śru*
+- *śṛṇvann* ← *śṛṇvan* ← *śru*
 - \[verb noun\], nominative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *avasām* \< *avas*
+- *avasām* ← *avas*
 - \[noun\], genitive, plural, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *veda* \< *vid*
+- *veda* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *kā* \< *kāḥ* \< *ka*
+- *kā* ← *kāḥ* ← *ka*
 - \[noun\], nominative, plural, feminine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *pūrvīr* \< *pūrvīḥ* \< *puru*
+- *pūrvīr* ← *pūrvīḥ* ← *puru*
 - \[noun\], nominative, plural, feminine
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *upamātayo* \< *upamātayaḥ* \< *upamāti*
+- *upamātayo* ← *upamātayaḥ* ← *upamāti*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
 - *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *kathainam* \< *kathā*
+- *kathainam* ← *kathā*
 - \[adverb\]
 - “how.”
 ------------------------------------------------------------------------
-- *kathainam* \< *enam* \< *enad*
+- *kathainam* ← *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
-- *āhuḥ* \< *ah*
+- *āhuḥ* ← *ah*
 - \[verb\], plural, Perfect indicative
 - “describe; state; say; enumerate; call; name; teach; tell; deem;
     explain; say; define.”
 ------------------------------------------------------------------------
-- *papuriṃ* \< *papurim* \< *papuri*
+- *papuriṃ* ← *papurim* ← *papuri*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *jaritre* \< *jaritṛ*
+- *jaritre* ← *jaritṛ*
 - \[noun\], dative, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------

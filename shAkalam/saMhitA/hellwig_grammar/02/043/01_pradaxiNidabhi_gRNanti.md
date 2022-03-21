@@ -2,26 +2,26 @@
 title = "Rig Veda 2.43.1"
 
 +++
--   *pradakṣiṇid* \< *pradakṣiṇit*
+-   *pradakṣiṇid* ← *pradakṣiṇit*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *gṛṇanti* \< *gṛ*
+- *gṛṇanti* ← *gṛ*
 - \[verb\], plural, Present indikative
 - “praise.”
 ------------------------------------------------------------------------
-- *kāravo* \< *kāravaḥ* \< *kāru*
+- *kāravo* ← *kāravaḥ* ← *kāru*
 - \[noun\], nominative, plural, masculine
 - “poet; singer.”
 ------------------------------------------------------------------------
-- *vayo* \< *vayaḥ* \< *vi*
+- *vayo* ← *vayaḥ* ← *vi*
 - \[noun\], nominative, plural, masculine
 - “vi; bird; vi.”
 ------------------------------------------------------------------------
-- *vadanta* \< *vadante* \< *vad*
+- *vadanta* ← *vadante* ← *vad*
 - \[verb\], plural, Present indikative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
@@ -30,37 +30,37 @@ title = "Rig Veda 2.43.1"
 - \[adverb\]
 - “seasonably.”
 ------------------------------------------------------------------------
-- *śakuntayaḥ* \< *śakunti*
+- *śakuntayaḥ* ← *śakunti*
 - \[noun\], nominative, plural, masculine
 - “bird.”
 ------------------------------------------------------------------------
-- *ubhe* \< *ubh*
+- *ubhe* ← *ubh*
 - \[noun\], accusative, dual, feminine
 - “both(a).”
 ------------------------------------------------------------------------
-- *vācau* \< *vāc*
+- *vācau* ← *vāc*
 - \[noun\], accusative, dual, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
 ------------------------------------------------------------------------
-- *vadati* \< *vad*
+- *vadati* ← *vad*
 - \[verb\], singular, Present indikative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
 ------------------------------------------------------------------------
-- *sāmagā* \< *sāma* \< *sāman*
+- *sāmagā* ← *sāma* ← *sāman*
 - \[noun\], neuter
 - “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
 ------------------------------------------------------------------------
-- *sāmagā* \< *gāḥ* \< *gā*
+- *sāmagā* ← *gāḥ* ← *gā*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *gāyatraṃ* \< *gāyatram* \< *gāyatra*
+- *gāyatraṃ* ← *gāyatram* ← *gāyatra*
 - \[noun\], accusative, singular, neuter
 - “Gāyatrī; Gāyatra.”
 ------------------------------------------------------------------------
@@ -68,19 +68,19 @@ title = "Rig Veda 2.43.1"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *traiṣṭubhaṃ* \< *traiṣṭubham* \< *traiṣṭubha*
+- *traiṣṭubhaṃ* ← *traiṣṭubham* ← *traiṣṭubha*
 - \[noun\], accusative, singular, neuter
 - “Triṣṭubh.”
 ------------------------------------------------------------------------
-- *cānu* \< *ca*
+- *cānu* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cānu* \< *anu*
+- *cānu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *rājati* \< *rāj*
+- *rājati* ← *rāj*
 - \[verb\], singular, Present indikative
 - “govern; shine; glitter; direct.”
 ------------------------------------------------------------------------

@@ -6,7 +6,7 @@ title = "Rig Veda 8.50.10"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *kaṇve* \< *kaṇva*
+- *kaṇve* ← *kaṇva*
 - \[noun\], locative, singular, masculine
 - “Kaṇva; Kaṇva; kaṇva \[word\].”
 ------------------------------------------------------------------------
@@ -14,18 +14,18 @@ title = "Rig Veda 8.50.10"
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *medhe* \< *medha*
+- *medhe* ← *medha*
 - \[noun\], locative, singular, masculine
 - “yajña; juice.”
 ------------------------------------------------------------------------
-- *adhvare* \< *adhvara*
+- *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *dīrghanīthe* \< *dīrghanītha*
+- *dīrghanīthe* ← *dīrghanītha*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *damūnasi* \< *damūnas*
+- *damūnasi* ← *damūnas*
 - \[noun\], locative, singular, masculine
 - “master.”
 ------------------------------------------------------------------------
@@ -33,32 +33,32 @@ title = "Rig Veda 8.50.10"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *gośarye* \< *gośarya*
+- *gośarye* ← *gośarya*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *asiṣāso* \< *asiṣāsaḥ* \< *siṣās* \< *√san*
+- *asiṣāso* ← *asiṣāsaḥ* ← *siṣās* ← *√san*
 - \[verb\], singular, Imperfect
 - “win; gain.”
 ------------------------------------------------------------------------
-- *adrivo* \< *adrivas* \< *adrivat*
+- *adrivo* ← *adrivas* ← *adrivat*
 - \[noun\], vocative, singular, masculine
 - “rocky; petrous.”
 ------------------------------------------------------------------------
-- *mayi* \< *mad*
+- *mayi* ← *mad*
 - \[noun\], locative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *gotraṃ* \< *gotram* \< *gotra*
+- *gotraṃ* ← *gotram* ← *gotra*
 - \[noun\], accusative, singular, neuter
 - “Gotra; patronymic; gotra \[word\]; name; family; family; kin;
     Gotra; mountain; herd; cow pen; cowbarn.”
 ------------------------------------------------------------------------
-- *hariśriyam* \< *hari*
+- *hariśriyam* ← *hari*
 - \[noun\], masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *hariśriyam* \< *śriyam* \< *śrī*
+- *hariśriyam* ← *śriyam* ← *śrī*
 - \[noun\], accusative, singular, neuter
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī

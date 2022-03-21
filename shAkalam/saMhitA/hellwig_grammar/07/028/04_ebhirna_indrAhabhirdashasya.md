@@ -2,39 +2,39 @@
 title = "Rig Veda 7.28.4"
 
 +++
--   *ebhir* \< *ebhiḥ* \< *idam*
+-   *ebhir* ← *ebhiḥ* ← *idam*
 - \[noun\], instrumental, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *indrāhabhir* \< *indra*
+- *indrāhabhir* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrāhabhir* \< *ahabhiḥ* \< *aha*
+- *indrāhabhir* ← *ahabhiḥ* ← *aha*
 - \[noun\], instrumental, plural, neuter
 - “day; aha \[word\]; day.”
 ------------------------------------------------------------------------
-- *daśasya* \< *daśasy*
+- *daśasya* ← *daśasy*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------
-- *durmitrāso* \< *durmitrāsaḥ* \< *durmitra*
+- *durmitrāso* ← *durmitrāsaḥ* ← *durmitra*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *kṣitayaḥ* \< *kṣiti*
+- *kṣitayaḥ* ← *kṣiti*
 - \[noun\], nominative, plural, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
 ------------------------------------------------------------------------
-- *pavante* \< *pū*
+- *pavante* ← *pū*
 - \[verb\], plural, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
@@ -42,23 +42,23 @@ title = "Rig Veda 7.28.4"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *yac* \< *yat*
+- *yac* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *caṣṭe* \< *cakṣ*
+- *caṣṭe* ← *cakṣ*
 - \[verb\], singular, Present indikative
 - “watch; look.”
 ------------------------------------------------------------------------
-- *anṛtam* \< *anṛta*
+- *anṛtam* ← *anṛta*
 - \[noun\], accusative, singular, neuter
 - “falsehood; lying; lie; cheat.”
 ------------------------------------------------------------------------
-- *anenā* \< *anenāḥ* \< *anenas*
+- *anenā* ← *anenāḥ* ← *anenas*
 - \[noun\], nominative, singular, masculine
 - “blameless; impeccant.”
 ------------------------------------------------------------------------
-- *ava* \< *av*
+- *ava* ← *av*
 - \[verb\], singular, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
@@ -66,20 +66,20 @@ title = "Rig Veda 7.28.4"
 - \[adverb\]
 - “again.”
 ------------------------------------------------------------------------
-- *varuṇo* \< *varuṇaḥ* \< *varuṇa*
+- *varuṇo* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *māyī* \< *māyin*
+- *māyī* ← *māyin*
 - \[noun\], nominative, singular, masculine
 - “artful; charming; crafty; deceptive.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sāt* \< *sā*
+- *sāt* ← *sā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “tie.”
 ------------------------------------------------------------------------

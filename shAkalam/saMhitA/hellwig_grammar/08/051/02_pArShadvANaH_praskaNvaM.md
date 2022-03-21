@@ -2,10 +2,10 @@
 title = "Rig Veda 8.51.2"
 
 +++
--   *pārṣadvāṇaḥ* \< *pārṣadvāṇa*
+-   *pārṣadvāṇaḥ* ← *pārṣadvāṇa*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *praskaṇvaṃ* \< *praskaṇvam* \< *praskaṇva*
+- *praskaṇvaṃ* ← *praskaṇvam* ← *praskaṇva*
 - \[noun\], accusative, singular, masculine
 - “Praskaṇva.”
 ------------------------------------------------------------------------
@@ -13,46 +13,46 @@ title = "Rig Veda 8.51.2"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *asādayacchayānaṃ* \< *asādayat* \< *sāday* \< *√sad*
+- *asādayacchayānaṃ* ← *asādayat* ← *sāday* ← *√sad*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *asādayacchayānaṃ* \< *śayānam* \< *śī*
+- *asādayacchayānaṃ* ← *śayānam* ← *śī*
 - \[verb noun\], accusative, singular
 - “lie; sleep.”
 ------------------------------------------------------------------------
-- *jivrim* \< *jivri*
+- *jivrim* ← *jivri*
 - \[noun\], accusative, singular, masculine
 - “old.”
 ------------------------------------------------------------------------
-- *uddhitam* \< *uddhā* \< *√dhā*
+- *uddhitam* ← *uddhā* ← *√dhā*
 - \[verb noun\], accusative, singular
 - “raise.”
 ------------------------------------------------------------------------
-- *sahasrāṇy* \< *sahasrāṇi* \< *sahasra*
+- *sahasrāṇy* ← *sahasrāṇi* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *asiṣāsad* \< *asiṣāsat* \< *siṣās* \< *√san*
+- *asiṣāsad* ← *asiṣāsat* ← *siṣās* ← *√san*
 - \[verb\], singular, Imperfect
 - “win; gain.”
 ------------------------------------------------------------------------
-- *gavām* \< *go*
+- *gavām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *ṛṣis* \< *ṛṣiḥ* \< *ṛṣi*
+- *ṛṣis* ← *ṛṣiḥ* ← *ṛṣi*
 - \[noun\], nominative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *tvoto* \< *tvotaḥ* \< *tvota*
+- *tvoto* ← *tvotaḥ* ← *tvota*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *dasyave* \< *dasyu*
+- *dasyave* ← *dasyu*
 - \[noun\], dative, singular, masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
-- *vṛkaḥ* \< *vṛka*
+- *vṛkaḥ* ← *vṛka*
 - \[noun\], nominative, singular, masculine
 - “wolf; Vṛka; vṛka \[word\]; Vṛka.”
 ------------------------------------------------------------------------

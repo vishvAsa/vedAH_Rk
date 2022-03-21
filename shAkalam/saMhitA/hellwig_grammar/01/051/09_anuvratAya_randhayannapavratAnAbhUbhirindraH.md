@@ -2,66 +2,66 @@
 title = "Rig Veda 1.51.9"
 
 +++
--   *anuvratāya* \< *anuvrata*
+-   *anuvratāya* ← *anuvrata*
 - \[noun\], dative, singular, masculine
 - “attached; devoted(p); faithful.”
 ------------------------------------------------------------------------
-- *randhayann* \< *randhayan* \< *randhay* \< *√radh*
+- *randhayann* ← *randhayan* ← *randhay* ← *√radh*
 - \[verb noun\], nominative, singular
 - “subjugate; hand over.”
 ------------------------------------------------------------------------
-- *apavratān* \< *apavrata*
+- *apavratān* ← *apavrata*
 - \[noun\], accusative, plural, masculine
 - “lawless; faithless.”
 ------------------------------------------------------------------------
-- *ābhūbhir* \< *ābhūbhiḥ* \< *ābhū*
+- *ābhūbhir* ← *ābhūbhiḥ* ← *ābhū*
 - \[noun\], instrumental, plural, masculine
 - “assistant.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *śnathayann* \< *śnathayan* \< *śnathay* \< *√śnath*
+- *śnathayann* ← *śnathayan* ← *śnathay* ← *√śnath*
 - \[verb noun\], nominative, singular
 - “kill.”
 ------------------------------------------------------------------------
-- *anābhuvaḥ* \< *an*
+- *anābhuvaḥ* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *anābhuvaḥ* \< *ābhuvaḥ* \< *ābhū*
+- *anābhuvaḥ* ← *ābhuvaḥ* ← *ābhū*
 - \[noun\], accusative, plural, masculine
 - “assistant.”
 ------------------------------------------------------------------------
-- *vṛddhasya* \< *vṛdh*
+- *vṛddhasya* ← *vṛdh*
 - \[verb noun\], genitive, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *vardhato* \< *vardhataḥ* \< *vṛdh*
+- *vardhato* ← *vardhataḥ* ← *vṛdh*
 - \[verb noun\], genitive, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *dyām* \< *div*
+- *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *inakṣata* \< *inakṣ* \< *√naś*
+- *inakṣata* ← *inakṣ* ← *√naś*
 - \[verb\], singular, Present injunctive
 - “wish.”
 ------------------------------------------------------------------------
-- *stavāno* \< *stavānaḥ* \< *stu*
+- *stavāno* ← *stavānaḥ* ← *stu*
 - \[verb noun\], nominative, singular
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *vamro* \< *vamraḥ* \< *vamra*
+- *vamro* ← *vamraḥ* ← *vamra*
 - \[noun\], nominative, singular, masculine
 - “ant.”
 ------------------------------------------------------------------------
@@ -69,13 +69,13 @@ title = "Rig Veda 1.51.9"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *jaghāna* \< *han*
+- *jaghāna* ← *han*
 - \[verb\], singular, Perfect indicative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *saṃdihaḥ* \< *saṃdih*
+- *saṃdihaḥ* ← *saṃdih*
 - \[noun\], accusative, plural, feminine
 - “rampart.”
 ------------------------------------------------------------------------

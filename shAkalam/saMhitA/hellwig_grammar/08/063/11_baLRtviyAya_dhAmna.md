@@ -2,19 +2,19 @@
 title = "Rig Veda 8.63.11"
 
 +++
--   *baﾱ* \< *baṭ*
+-   *baﾱ* ← *baṭ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ṛtviyāya* \< *ṛtviya*
+- *ṛtviyāya* ← *ṛtviya*
 - \[noun\], dative, singular, neuter
 - “regular; punctual; timely.”
 ------------------------------------------------------------------------
-- *dhāmna* \< *dhāmnaḥ* \< *dhāman*
+- *dhāmna* ← *dhāmnaḥ* ← *dhāman*
 - \[noun\], genitive, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
 ------------------------------------------------------------------------
-- *ṛkvabhiḥ* \< *ṛkvan*
+- *ṛkvabhiḥ* ← *ṛkvan*
 - \[noun\], instrumental, plural, masculine
 - “singing.”
 ------------------------------------------------------------------------
@@ -23,25 +23,25 @@ title = "Rig Veda 8.63.11"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *nonumaḥ* \< *nonāv* \< *√nū*
+- *nonumaḥ* ← *nonāv* ← *√nū*
 - \[verb\], plural, Present indikative
 - “bellow.”
 ------------------------------------------------------------------------
-- *jeṣāmendra* \< *jeṣāma* \< *ji*
+- *jeṣāmendra* ← *jeṣāma* ← *ji*
 - \[verb\], plural, Aorist conj./subj.
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *jeṣāmendra* \< *indra*
+- *jeṣāmendra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tvayā* \< *tvad*
+- *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
 ------------------------------------------------------------------------
-- *yujā* \< *yuj*
+- *yujā* ← *yuj*
 - \[noun\], instrumental, singular, masculine
 - “ally; friend; pair; two; companion.”
 ------------------------------------------------------------------------

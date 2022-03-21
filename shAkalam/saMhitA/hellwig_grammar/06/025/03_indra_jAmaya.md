@@ -7,7 +7,7 @@ title = "Rig Veda 6.25.3"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *jāmaya* \< *jāmayaḥ* \< *jāmi*
+- *jāmaya* ← *jāmayaḥ* ← *jāmi*
 - \[noun\], nominative, plural, masculine
 - “related; ancestral; customary; usual.”
 ------------------------------------------------------------------------
@@ -15,23 +15,23 @@ title = "Rig Veda 6.25.3"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *'jāmayo* \< *ajāmayaḥ* \< *ajāmi*
+- *'jāmayo* ← *ajāmayaḥ* ← *ajāmi*
 - \[noun\], nominative, plural, masculine
 - “unrelated; foreign-born.”
 ------------------------------------------------------------------------
-- *'rvācīnāso* \< *arvācīnāsaḥ* \< *arvācīna*
+- *'rvācīnāso* ← *arvācīnāsaḥ* ← *arvācīna*
 - \[noun\], nominative, plural, masculine
 - “favorable; backward; inclined(p).”
 ------------------------------------------------------------------------
-- *vanuṣo* \< *vanuṣaḥ* \< *vanus*
+- *vanuṣo* ← *vanuṣaḥ* ← *vanus*
 - \[noun\], nominative, plural, masculine
 - “unfriendly; competing(a).”
 ------------------------------------------------------------------------
-- *yuyujre* \< *yuj*
+- *yuyujre* ← *yuj*
 - \[verb\], plural, Perfect indicative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -39,33 +39,33 @@ title = "Rig Veda 6.25.3"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *eṣāṃ* \< *eṣām* \< *idam*
+- *eṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vithurā* \< *vithura*
+- *vithurā* ← *vithura*
 - \[noun\], accusative, plural, neuter
 - “weak.”
 ------------------------------------------------------------------------
-- *śavāṃsi* \< *śavas*
+- *śavāṃsi* ← *śavas*
 - \[noun\], accusative, plural, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *jahi* \< *han*
+- *jahi* ← *han*
 - \[verb\], singular, Present imperative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *vṛṣṇyāni* \< *vṛṣṇya*
+- *vṛṣṇyāni* ← *vṛṣṇya*
 - \[noun\], accusative, plural, neuter
 - “manfulness; virility.”
 ------------------------------------------------------------------------
-- *kṛṇuhī* \< *kṛṇuhi* \< *kṛ*
+- *kṛṇuhī* ← *kṛṇuhi* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -76,7 +76,7 @@ title = "Rig Veda 6.25.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *parācaḥ* \< *parāñc*
+- *parācaḥ* ← *parāñc*
 - \[noun\], accusative, plural, masculine
 - “fleeing(a); departing(a).”
 ------------------------------------------------------------------------

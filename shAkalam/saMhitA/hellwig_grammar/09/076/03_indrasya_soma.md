@@ -2,7 +2,7 @@
 title = "Rig Veda 9.76.3"
 
 +++
--   *indrasya* \< *indra*
+-   *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -11,18 +11,18 @@ title = "Rig Veda 9.76.3"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *pavamāna* \< *pavamānaḥ* \< *pū*
+- *pavamāna* ← *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *ūrmiṇā* \< *ūrmi*
+- *ūrmiṇā* ← *ūrmi*
 - \[noun\], instrumental, singular, masculine
 - “wave; billow.”
 ------------------------------------------------------------------------
-- *taviṣyamāṇo* \< *taviṣyamāṇaḥ* \< *taviṣy*
+- *taviṣyamāṇo* ← *taviṣyamāṇaḥ* ← *taviṣy*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *jaṭhareṣv* \< *jaṭhareṣu* \< *jaṭhara*
+- *jaṭhareṣv* ← *jaṭhareṣu* ← *jaṭhara*
 - \[noun\], locative, plural, neuter
 - “abdomen; udara; Jaṭhara; edema; garbha; inside; stomach; belly.”
 ------------------------------------------------------------------------
@@ -30,7 +30,7 @@ title = "Rig Veda 9.76.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *viśa* \< *viś*
+- *viśa* ← *viś*
 - \[verb\], singular, Present imperative
 - “enter; penetrate; settle; settle.”
 ------------------------------------------------------------------------
@@ -38,32 +38,32 @@ title = "Rig Veda 9.76.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ṇaḥ* \< *naḥ* \< *mad*
+- *ṇaḥ* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pinva* \< *pinv*
+- *pinva* ← *pinv*
 - \[verb\], singular, Present imperative
 - “swell; swell; overflow; abound.”
 ------------------------------------------------------------------------
-- *vidyud* \< *vidyut*
+- *vidyud* ← *vidyut*
 - \[noun\], nominative, singular, feminine
 - “lightning; Vidyut; thunderbolt.”
 ------------------------------------------------------------------------
-- *abhreva* \< *abhrā* \< *abhra*
+- *abhreva* ← *abhrā* ← *abhra*
 - \[noun\], accusative, plural, neuter
 - “abhra; cloud; sky; abhra \[word\]; cumulonimbus; mica; air;
     cloudiness.”
 ------------------------------------------------------------------------
-- *abhreva* \< *iva*
+- *abhreva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *dhiyā* \< *dhī*
+- *dhiyā* ← *dhī*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
@@ -72,7 +72,7 @@ title = "Rig Veda 9.76.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vājāṃ* \< *vāja*
+- *vājāṃ* ← *vāja*
 - \[noun\], accusative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
@@ -80,11 +80,11 @@ title = "Rig Veda 9.76.3"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *māsi* \< *mā*
+- *māsi* ← *mā*
 - \[verb\], singular, Present indikative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
 ------------------------------------------------------------------------
-- *śaśvataḥ* \< *śaśvat*
+- *śaśvataḥ* ← *śaśvat*
 - \[noun\], accusative, plural, masculine
 - “all(a); each(a).”
 ------------------------------------------------------------------------

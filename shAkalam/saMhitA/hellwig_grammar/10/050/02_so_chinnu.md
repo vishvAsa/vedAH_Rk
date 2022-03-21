@@ -2,13 +2,13 @@
 title = "Rig Veda 10.50.2"
 
 +++
--   *so* \< *saḥ* \< *tad*
+-   *so* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -16,11 +16,11 @@ title = "Rig Veda 10.50.2"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *sakhyā* \< *sakhi*
+- *sakhyā* ← *sakhi*
 - \[noun\], instrumental, singular
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *narya* \< *naryaḥ* \< *narya*
+- *narya* ← *naryaḥ* ← *narya*
 - \[noun\], nominative, singular, masculine
 - “manly; heroic; powerful; male; human.”
 ------------------------------------------------------------------------
@@ -28,52 +28,52 @@ title = "Rig Veda 10.50.2"
 - \[noun\], nominative, singular, masculine
 - “mighty; powerful.”
 ------------------------------------------------------------------------
-- *stutaś* \< *stutaḥ* \< *stu*
+- *stutaś* ← *stutaḥ* ← *stu*
 - \[verb noun\], nominative, singular
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *carkṛtya* \< *carkṛtyaḥ* \< *carkar* \< *√kṛ*
+- *carkṛtya* ← *carkṛtyaḥ* ← *carkar* ← *√kṛ*
 - \[verb noun\], nominative, singular
 - “praise; commemorate.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *māvate* \< *māvat*
+- *māvate* ← *māvat*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *nare* \< *nṛ*
+- *nare* ← *nṛ*
 - \[noun\], dative, singular
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *viśvāsu* \< *viśva*
+- *viśvāsu* ← *viśva*
 - \[noun\], locative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *dhūrṣu* \< *dhur*
+- *dhūrṣu* ← *dhur*
 - \[noun\], locative, plural
 - “yoke; dhur \[word\].”
 ------------------------------------------------------------------------
-- *vājakṛtyeṣu* \< *vājakṛtya*
+- *vājakṛtyeṣu* ← *vājakṛtya*
 - \[noun\], locative, plural, neuter
 - “battle.”
 ------------------------------------------------------------------------
-- *satpate* \< *satpati*
+- *satpate* ← *satpati*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *vṛtre* \< *vṛtra*
+- *vṛtre* ← *vṛtra*
 - \[noun\], locative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *vāpsv* \< *vā*
+- *vāpsv* ← *vā*
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *vāpsv* \< *apsu* \< *ap*
+- *vāpsv* ← *apsu* ← *ap*
 - \[noun\], locative, plural, neuter
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -86,7 +86,7 @@ title = "Rig Veda 10.50.2"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *mandase* \< *mad*
+- *mandase* ← *mad*
 - \[verb\], singular, Present indikative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------

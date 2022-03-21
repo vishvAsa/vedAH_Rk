@@ -2,7 +2,7 @@
 title = "Rig Veda 9.6.1"
 
 +++
--   *mandrayā* \< *mandra*
+-   *mandrayā* ← *mandra*
 - \[noun\], instrumental, singular, feminine
 - “pleasant; eloquent; dulcet.”
 ------------------------------------------------------------------------
@@ -10,29 +10,29 @@ title = "Rig Veda 9.6.1"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *dhārayā* \< *dhārā*
+- *dhārayā* ← *dhārā*
 - \[noun\], instrumental, singular, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣan*
+- *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *pavasva* \< *pū*
+- *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *devayuḥ* \< *devayu*
+- *devayuḥ* ← *devayu*
 - \[noun\], nominative, singular, masculine
 - “devout; devoted.”
 ------------------------------------------------------------------------
-- *avyo* \< *avyaḥ* \< *avya*
+- *avyo* ← *avyaḥ* ← *avya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vāreṣv* \< *vāreṣu* \< *vāra*
+- *vāreṣv* ← *vāreṣu* ← *vāra*
 - \[noun\], locative, plural, masculine
 - “strainer.”
 ------------------------------------------------------------------------
-- *asmayuḥ* \< *asmayu*
+- *asmayuḥ* ← *asmayu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

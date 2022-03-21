@@ -2,35 +2,35 @@
 title = "Rig Veda 9.2.9"
 
 +++
--   *asmabhyam* \< *mad*
+-   *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *indav* \< *indo* \< *indu*
+- *indav* ← *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *indrayur* \< *indrayuḥ* \< *indrayu*
+- *indrayur* ← *indrayuḥ* ← *indrayu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *madhvaḥ* \< *madhu*
+- *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *pavasva* \< *pū*
+- *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *dhārayā* \< *dhārā*
+- *dhārayā* ← *dhārā*
 - \[noun\], instrumental, singular, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *parjanyo* \< *parjanyaḥ* \< *parjanya*
+- *parjanyo* ← *parjanyaḥ* ← *parjanya*
 - \[noun\], nominative, singular, masculine
 - “cloud; Parjanya; Indra; nimbus.”
 ------------------------------------------------------------------------
-- *vṛṣṭimāṃ* \< *vṛṣṭimat*
+- *vṛṣṭimāṃ* ← *vṛṣṭimat*
 - \[noun\], nominative, singular, masculine
 - “rain; raining; rainy.”
 ------------------------------------------------------------------------

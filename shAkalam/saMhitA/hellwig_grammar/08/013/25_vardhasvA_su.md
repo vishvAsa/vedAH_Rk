@@ -2,7 +2,7 @@
 title = "Rig Veda 8.13.25"
 
 +++
--   *vardhasvā* \< *vardhasva* \< *vṛdh*
+-   *vardhasvā* ← *vardhasva* ← *vṛdh*
 - \[verb\], singular, Present imperative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
@@ -15,26 +15,26 @@ title = "Rig Veda 8.13.25"
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu; Agni.”
 ------------------------------------------------------------------------
-- *ṛṣiṣṭutābhir* \< *ṛṣiṣṭutābhiḥ* \< *ṛṣiṣṭuta*
+- *ṛṣiṣṭutābhir* ← *ṛṣiṣṭutābhiḥ* ← *ṛṣiṣṭuta*
 - \[noun\], instrumental, plural, feminine
 ------------------------------------------------------------------------
-- *ūtibhiḥ* \< *ūti*
+- *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *dhukṣasva* \< *duh*
+- *dhukṣasva* ← *duh*
 - \[verb\], singular, Aorist imperative
 - “milk.”
 ------------------------------------------------------------------------
-- *pipyuṣīm* \< *pyā*
+- *pipyuṣīm* ← *pyā*
 - \[verb noun\], accusative, singular
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
-- *iṣam* \< *iṣ*
+- *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *avā* \< *av*
+- *avā* ← *av*
 - \[verb\], singular, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
@@ -42,7 +42,7 @@ title = "Rig Veda 8.13.25"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

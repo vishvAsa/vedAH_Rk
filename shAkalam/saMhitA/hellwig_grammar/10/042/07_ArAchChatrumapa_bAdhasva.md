@@ -2,11 +2,11 @@
 title = "Rig Veda 10.42.7"
 
 +++
--   *ārāc* \< *ārāt*
+-   *ārāc* ← *ārāt*
 - \[adverb\]
 - “far; ārāt \[word\].”
 ------------------------------------------------------------------------
-- *chatrum* \< *śatrum* \< *śatru*
+- *chatrum* ← *śatrum* ← *śatru*
 - \[noun\], accusative, singular, masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------
@@ -14,7 +14,7 @@ title = "Rig Veda 10.42.7"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *bādhasva* \< *bādh*
+- *bādhasva* ← *bādh*
 - \[verb\], singular, Present imperative
 - “afflict; annoy; chase away; tease; grieve; irritate.”
 ------------------------------------------------------------------------
@@ -22,16 +22,16 @@ title = "Rig Veda 10.42.7"
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *ugro* \< *ugraḥ* \< *ugra*
+- *ugro* ← *ugraḥ* ← *ugra*
 - \[noun\], nominative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *śambaḥ* \< *śamba*
+- *śambaḥ* ← *śamba*
 - \[noun\], nominative, singular, masculine
 - “śamba \[word\].”
 ------------------------------------------------------------------------
@@ -39,25 +39,25 @@ title = "Rig Veda 10.42.7"
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu.”
 ------------------------------------------------------------------------
-- *tena* \< *tad*
+- *tena* ← *tad*
 - \[noun\], instrumental, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dhehi* \< *dhā*
+- *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *yavamad* \< *yavamat*
+- *yavamad* ← *yavamat*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *gomad* \< *gomat*
+- *gomad* ← *gomat*
 - \[noun\], accusative, singular, neuter
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------
@@ -66,7 +66,7 @@ title = "Rig Veda 10.42.7"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *kṛdhī* \< *kṛdhi* \< *kṛ*
+- *kṛdhī* ← *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -77,20 +77,20 @@ title = "Rig Veda 10.42.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *dhiyaṃ* \< *dhiyam* \< *dhī*
+- *dhiyaṃ* ← *dhiyam* ← *dhī*
 - \[noun\], accusative, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *jaritre* \< *jaritṛ*
+- *jaritre* ← *jaritṛ*
 - \[noun\], dative, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *vājaratnām* \< *vāja*
+- *vājaratnām* ← *vāja*
 - \[noun\], masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vājaratnām* \< *ratnām* \< *ratna*
+- *vājaratnām* ← *ratnām* ← *ratna*
 - \[noun\], accusative, singular, feminine
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”

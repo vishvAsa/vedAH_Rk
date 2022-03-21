@@ -2,53 +2,53 @@
 title = "Rig Veda 5.87.9"
 
 +++
--   *gantā* \< *ganta* \< *gam*
+-   *gantā* ← *ganta* ← *gam*
 - \[verb\], plural, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *yajñaṃ* \< *yajñam* \< *yajña*
+- *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *yajñiyāḥ* \< *yajñiya*
+- *yajñiyāḥ* ← *yajñiya*
 - \[noun\], vocative, plural, masculine
 - “sacrificial; divine; devoted.”
 ------------------------------------------------------------------------
 - *suśami*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *śrotā* \< *śrota* \< *śru*
+- *śrotā* ← *śrota* ← *śru*
 - \[verb\], plural, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *havam* \< *hava*
+- *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *arakṣa* \< *arakṣaḥ* \< *arakṣas*
+- *arakṣa* ← *arakṣaḥ* ← *arakṣas*
 - \[noun\], accusative, singular, neuter
 - “harmless.”
 ------------------------------------------------------------------------
-- *evayāmarut* \< *eva*
+- *evayāmarut* ← *eva*
 - \[noun\]
 - “fast; rapid; agile.”
 ------------------------------------------------------------------------
-- *evayāmarut* \< *yā*
+- *evayāmarut* ← *yā*
 - \[noun\]
 - “going.”
 ------------------------------------------------------------------------
-- *evayāmarut* \< *marut*
+- *evayāmarut* ← *marut*
 - \[noun\], nominative, singular, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *jyeṣṭhāso* \< *jyeṣṭhāsaḥ* \< *jyeṣṭha*
+- *jyeṣṭhāso* ← *jyeṣṭhāsaḥ* ← *jyeṣṭha*
 - \[noun\], nominative, plural, masculine
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
 ------------------------------------------------------------------------
@@ -56,39 +56,39 @@ title = "Rig Veda 5.87.9"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *parvatāso* \< *parvatāsaḥ* \< *parvata*
+- *parvatāso* ← *parvatāsaḥ* ← *parvata*
 - \[noun\], nominative, plural, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
 ------------------------------------------------------------------------
-- *vyomani* \< *vyoman*
+- *vyomani* ← *vyoman*
 - \[noun\], locative, singular, masculine
 - “abhra; sky; ākāśa; Svarga; Vyoman.”
 ------------------------------------------------------------------------
-- *yūyaṃ* \< *yūyam* \< *tvad*
+- *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *tasya* \< *tad*
+- *tasya* ← *tad*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *pracetasaḥ* \< *pracetas*
+- *pracetasaḥ* ← *pracetas*
 - \[noun\], genitive, singular, masculine
 - “intelligent; mindful; attentive; wise; apt; observant.”
 ------------------------------------------------------------------------
-- *syāta* \< *as*
+- *syāta* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *durdhartavo* \< *durdhartavaḥ* \< *durdhartu*
+- *durdhartavo* ← *durdhartavaḥ* ← *durdhartu*
 - \[noun\], nominative, plural, masculine
 - “unbearable.”
 ------------------------------------------------------------------------
-- *nidaḥ* \< *nid*
+- *nidaḥ* ← *nid*
 - \[noun\], genitive, singular, feminine
 - “derision; scoffer; contempt.”
 ------------------------------------------------------------------------

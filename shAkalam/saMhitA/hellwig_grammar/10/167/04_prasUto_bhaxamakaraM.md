@@ -2,15 +2,15 @@
 title = "Rig Veda 10.167.4"
 
 +++
--   *prasūto* \< *prasūtaḥ* \< *prasū* \< *√sū*
+-   *prasūto* ← *prasūtaḥ* ← *prasū* ← *√sū*
 - \[verb noun\], nominative, singular
 - “give birth; be born; originate; impel; propel; grow.”
 ------------------------------------------------------------------------
-- *bhakṣam* \< *bhakṣa*
+- *bhakṣam* ← *bhakṣa*
 - \[noun\], accusative, singular, masculine
 - “food; eating; drink; beverage.”
 ------------------------------------------------------------------------
-- *akaraṃ* \< *akaram* \< *kṛ*
+- *akaraṃ* ← *akaram* ← *kṛ*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -21,7 +21,7 @@ title = "Rig Veda 10.167.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *carāv* \< *carau* \< *caru*
+- *carāv* ← *carau* ← *caru*
 - \[noun\], locative, singular, masculine
 - “caru; pot; Caru.”
 ------------------------------------------------------------------------
@@ -30,53 +30,53 @@ title = "Rig Veda 10.167.4"
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
 ------------------------------------------------------------------------
-- *stomaṃ* \< *stomam* \< *stoma*
+- *stomaṃ* ← *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *cemam* \< *ca*
+- *cemam* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cemam* \< *imam* \< *idam*
+- *cemam* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *prathamaḥ* \< *prathama*
+- *prathamaḥ* ← *prathama*
 - \[noun\], nominative, singular, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
 ------------------------------------------------------------------------
-- *sūrir* \< *sūriḥ* \< *sūri*
+- *sūrir* ← *sūriḥ* ← *sūri*
 - \[noun\], nominative, singular, masculine
 - “patron.”
 ------------------------------------------------------------------------
-- *un* \< *ud*
+- *un* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *mṛje* \< *mṛj*
+- *mṛje* ← *mṛj*
 - \[verb\], singular, Present indikative
 - “purify; polish; rub; remove.”
 ------------------------------------------------------------------------
-- *sute* \< *su*
+- *sute* ← *su*
 - \[verb noun\], locative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *sātena* \< *sāta*
+- *sātena* ← *sāta*
 - \[noun\], instrumental, singular, neuter
 - “wealth.”
 ------------------------------------------------------------------------
-- *yady* \< *yadī* \< *yadi*
+- *yady* ← *yadī* ← *yadi*
 - \[adverb\]
 - “if; in case.”
 ------------------------------------------------------------------------
-- *āgamaṃ* \< *āgamam* \< *āgam* \< *√gam*
+- *āgamaṃ* ← *āgamam* ← *āgam* ← *√gam*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “come; arrive; return; enter (a state); approach; travel; enter;
     inherit; hand down; achieve; reach; appear; happen.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -84,15 +84,15 @@ title = "Rig Veda 10.167.4"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *viśvāmitrajamadagnī* \< *viśvāmitra*
+- *viśvāmitrajamadagnī* ← *viśvāmitra*
 - \[noun\], masculine
 - “Viśvāmitra; coconut.”
 ------------------------------------------------------------------------
-- *viśvāmitrajamadagnī* \< *jamadagnī* \< *jamadagni*
+- *viśvāmitrajamadagnī* ← *jamadagnī* ← *jamadagni*
 - \[noun\], vocative, dual, masculine
 - “Jamadagni.”
 ------------------------------------------------------------------------
-- *dame* \< *dama*
+- *dame* ← *dama*
 - \[noun\], locative, singular, masculine
 - “dwelling; home.”
 ------------------------------------------------------------------------

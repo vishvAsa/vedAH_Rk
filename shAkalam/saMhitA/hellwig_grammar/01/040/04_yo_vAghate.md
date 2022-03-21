@@ -2,21 +2,21 @@
 title = "Rig Veda 1.40.4"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vāghate* \< *vāghant*
+- *vāghate* ← *vāghant*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *dadāti* \< *dā*
+- *dadāti* ← *dā*
 - \[verb\], singular, Present indikative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *sūnaraṃ* \< *sūnaram* \< *sūnara*
+- *sūnaraṃ* ← *sūnaram* ← *sūnara*
 - \[noun\], accusative, singular, neuter
 - “noble.”
 ------------------------------------------------------------------------
@@ -24,13 +24,13 @@ title = "Rig Veda 1.40.4"
 - \[noun\], accusative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *dhatte* \< *dhā*
+- *dhatte* ← *dhā*
 - \[verb\], singular, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
@@ -39,25 +39,25 @@ title = "Rig Veda 1.40.4"
 - \[noun\], accusative, singular, neuter
 - “imperishable.”
 ------------------------------------------------------------------------
-- *śravaḥ* \< *śravas*
+- *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *tasmā* \< *tasmai* \< *tad*
+- *tasmā* ← *tasmai* ← *tad*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *iḍāṃ* \< *iḍām* \< *iḍā*
+- *iḍāṃ* ← *iḍām* ← *iḍā*
 - \[noun\], accusative, singular, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
 ------------------------------------------------------------------------
-- *suvīrām* \< *su*
+- *suvīrām* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvīrām* \< *vīrām* \< *vīra*
+- *suvīrām* ← *vīrām* ← *vīra*
 - \[noun\], accusative, singular, feminine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
@@ -65,18 +65,18 @@ title = "Rig Veda 1.40.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yajāmahe* \< *yaj*
+- *yajāmahe* ← *yaj*
 - \[verb\], plural, Present indikative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *supratūrtim* \< *su*
+- *supratūrtim* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *supratūrtim* \< *pratūrtim* \< *pratūrti*
+- *supratūrtim* ← *pratūrtim* ← *pratūrti*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *anehasam* \< *anehas*
+- *anehasam* ← *anehas*
 - \[noun\], accusative, singular, feminine
 - “faultless; anehas \[word\]; incomparable.”
 ------------------------------------------------------------------------

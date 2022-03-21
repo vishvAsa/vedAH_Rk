@@ -2,7 +2,7 @@
 title = "Rig Veda 10.77.1"
 
 +++
--   *abhrapruṣo* \< *abhrapruṣaḥ* \< *abhrapruṣ*
+-   *abhrapruṣo* ← *abhrapruṣaḥ* ← *abhrapruṣ*
 - \[noun\], accusative, plural, feminine
 - “rain.”
 ------------------------------------------------------------------------
@@ -10,13 +10,13 @@ title = "Rig Veda 10.77.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vācā* \< *vāc*
+- *vācā* ← *vāc*
 - \[noun\], instrumental, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
 ------------------------------------------------------------------------
-- *pruṣā* \< *pruṣ*
+- *pruṣā* ← *pruṣ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “sprinkle; wet.”
 ------------------------------------------------------------------------
@@ -24,7 +24,7 @@ title = "Rig Veda 10.77.1"
 - \[noun\], accusative, singular, neuter
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *haviṣmanto* \< *haviṣmantaḥ* \< *haviṣmat*
+- *haviṣmanto* ← *haviṣmantaḥ* ← *haviṣmat*
 - \[noun\], nominative, plural, masculine
 - “sacrificing.”
 ------------------------------------------------------------------------
@@ -32,7 +32,7 @@ title = "Rig Veda 10.77.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yajñā* \< *yajñāḥ* \< *yajña*
+- *yajñā* ← *yajñāḥ* ← *yajña*
 - \[noun\], nominative, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
@@ -40,17 +40,17 @@ title = "Rig Veda 10.77.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *jānuṣaḥ* \< *jñā*
+- *jānuṣaḥ* ← *jñā*
 - \[verb noun\], genitive, singular
 - “know; diagnose; perceive; know; come to know; notice; determine;
     think of; find; learn; perceive; identify; recognize; understand;
     know; learn; ascertain; detect; deem.”
 ------------------------------------------------------------------------
-- *sumārutaṃ* \< *su*
+- *sumārutaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sumārutaṃ* \< *mārutam* \< *māruta*
+- *sumārutaṃ* ← *mārutam* ← *māruta*
 - \[noun\], accusative, singular, masculine
 - “wind; vāta; Vayu; Marut; prāṇa (coll.); breath; air; fart; air.”
 ------------------------------------------------------------------------
@@ -58,26 +58,26 @@ title = "Rig Veda 10.77.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *brahmāṇam* \< *brahman*
+- *brahmāṇam* ← *brahman*
 - \[noun\], accusative, singular, masculine
 - “Brahma; Brahmin; dhak; Brahman; brahman \[word\]; Brahman; Brahmin;
     Brahmapurāṇa; Vishnu; Brihaspati.”
 ------------------------------------------------------------------------
-- *arhase* \< *arh*
+- *arhase* ← *arh*
 - \[verb noun\]
 - “should; may; rate; can; can; equal; necessitate.”
 ------------------------------------------------------------------------
-- *gaṇam* \< *gaṇa*
+- *gaṇam* ← *gaṇa*
 - \[noun\], accusative, singular, masculine
 - “group; varga; troop; troop; battalion; flock; herd; gaṇa \[word\];
     corporation; gaṇa; herd; sect; swarm; set; party; gaṇa; series;
     Ganesa; flight.”
 ------------------------------------------------------------------------
-- *astoṣy* \< *astoṣi* \< *stu*
+- *astoṣy* ← *astoṣi* ← *stu*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *eṣāṃ* \< *eṣām* \< *idam*
+- *eṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -85,7 +85,7 @@ title = "Rig Veda 10.77.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śobhase* \< *śubh*
+- *śobhase* ← *śubh*
 - \[verb noun\]
 - “look; shine; beautify.”
 ------------------------------------------------------------------------

@@ -10,35 +10,35 @@ title = "Rig Veda 8.80.3"
 - \[adverb\]
 - “in truth; aṅga \[word\]; entirely; merely.”
 ------------------------------------------------------------------------
-- *radhracodanaḥ* \< *radhra*
+- *radhracodanaḥ* ← *radhra*
 - \[noun\]
 - “obedient; powerless; weak.”
 ------------------------------------------------------------------------
-- *radhracodanaḥ* \< *codanaḥ* \< *codana*
+- *radhracodanaḥ* ← *codanaḥ* ← *codana*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *sunvānasyāvited* \< *sunvānasya* \< *su*
+- *sunvānasyāvited* ← *sunvānasya* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *sunvānasyāvited* \< *avitā* \< *av*
+- *sunvānasyāvited* ← *avitā* ← *av*
 - \[verb\], singular, periphrast. future
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *sunvānasyāvited* \< *id*
+- *sunvānasyāvited* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *asi* \< *as*
+- *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *kuvit* \< *kuvid*
+- *kuvit* ← *kuvid*
 - \[adverb\]
 - “surely; indeed.”
 ------------------------------------------------------------------------
-- *sv* \< *su*
+- *sv* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
@@ -47,11 +47,11 @@ title = "Rig Veda 8.80.3"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *ṇaḥ* \< *naḥ* \< *mad*
+- *ṇaḥ* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śakaḥ* \< *śak*
+- *śakaḥ* ← *śak*
 - \[verb\], singular, Aorist conj./subj.
 - “can; invigorate.”
 ------------------------------------------------------------------------

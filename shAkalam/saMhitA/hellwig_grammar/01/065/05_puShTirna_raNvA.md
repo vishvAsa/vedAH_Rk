@@ -2,7 +2,7 @@
 title = "Rig Veda 1.65.5"
 
 +++
--   *puṣṭir* \< *puṣṭiḥ* \< *puṣṭi*
+-   *puṣṭir* ← *puṣṭiḥ* ← *puṣṭi*
 - \[noun\], nominative, singular, feminine
 - “prosperity; growth; increase; puṣṭi; luxury; wealth; comfort;
     increase; corpulence.”
@@ -11,11 +11,11 @@ title = "Rig Veda 1.65.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *raṇvā* \< *raṇva*
+- *raṇvā* ← *raṇva*
 - \[noun\], nominative, singular, feminine
 - “agreeable; happy; delightful; gay.”
 ------------------------------------------------------------------------
-- *kṣitir* \< *kṣitiḥ* \< *kṣiti*
+- *kṣitir* ← *kṣitiḥ* ← *kṣiti*
 - \[noun\], nominative, singular, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
@@ -24,11 +24,11 @@ title = "Rig Veda 1.65.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pṛthvī* \< *pṛthu*
+- *pṛthvī* ← *pṛthu*
 - \[noun\], nominative, singular, feminine
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
 ------------------------------------------------------------------------
-- *girir* \< *giriḥ* \< *giri*
+- *girir* ← *giriḥ* ← *giri*
 - \[noun\], nominative, singular, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
 ------------------------------------------------------------------------
@@ -36,10 +36,10 @@ title = "Rig Veda 1.65.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *bhujma* \< *bhujman*
+- *bhujma* ← *bhujman*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *kṣodo* \< *kṣodaḥ* \< *kṣodas*
+- *kṣodo* ← *kṣodaḥ* ← *kṣodas*
 - \[noun\], nominative, singular, neuter
 - “swell.”
 ------------------------------------------------------------------------

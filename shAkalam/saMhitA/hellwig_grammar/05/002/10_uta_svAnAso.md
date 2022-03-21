@@ -6,38 +6,38 @@ title = "Rig Veda 5.2.10"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *svānāso* \< *svānāsaḥ* \< *svāna*
+- *svānāso* ← *svānāsaḥ* ← *svāna*
 - \[noun\], nominative, plural, masculine
 - “sound.”
 ------------------------------------------------------------------------
-- *divi* \< *div*
+- *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *ṣantv* \< *ṣantu* \< *as*
+- *ṣantv* ← *ṣantu* ← *as*
 - \[verb\], plural, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *agnes* \< *agneḥ* \< *agni*
+- *agnes* ← *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *tigmāyudhā* \< *tigma*
+- *tigmāyudhā* ← *tigma*
 - \[noun\]
 - “sharp; pointed; fiery.”
 ------------------------------------------------------------------------
-- *tigmāyudhā* \< *āyudhā* \< *āyudha*
+- *tigmāyudhā* ← *āyudhā* ← *āyudha*
 - \[noun\], instrumental, singular, neuter
 - “weapon; āyudha \[word\].”
 ------------------------------------------------------------------------
-- *rakṣase* \< *rakṣas*
+- *rakṣase* ← *rakṣas*
 - \[noun\], dative, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
 ------------------------------------------------------------------------
-- *hantavā* \< *hantavai* \< *han*
+- *hantavā* ← *hantavai* ← *han*
 - \[verb noun\]
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
@@ -47,17 +47,17 @@ title = "Rig Veda 5.2.10"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *made* \< *mada*
+- *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -65,11 +65,11 @@ title = "Rig Veda 5.2.10"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *rujanti* \< *ruj*
+- *rujanti* ← *ruj*
 - \[verb\], plural, Present indikative
 - “break; bend.”
 ------------------------------------------------------------------------
-- *bhāmā* \< *bhāmāḥ* \< *bhāma*
+- *bhāmā* ← *bhāmāḥ* ← *bhāma*
 - \[noun\], nominative, plural, masculine
 - “wrath; anger.”
 ------------------------------------------------------------------------
@@ -77,15 +77,15 @@ title = "Rig Veda 5.2.10"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *varante* \< *vṛ*
+- *varante* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *paribādho* \< *paribādhaḥ* \< *paribādh*
+- *paribādho* ← *paribādhaḥ* ← *paribādh*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *adevīḥ* \< *adeva*
+- *adevīḥ* ← *adeva*
 - \[noun\], nominative, plural, feminine
 - “godless.”
 ------------------------------------------------------------------------

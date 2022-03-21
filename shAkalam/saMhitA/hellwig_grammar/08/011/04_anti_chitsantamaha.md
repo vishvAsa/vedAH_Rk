@@ -9,7 +9,7 @@ title = "Rig Veda 8.11.4"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *santam* \< *as*
+- *santam* ← *as*
 - \[verb noun\], accusative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -18,31 +18,31 @@ title = "Rig Veda 8.11.4"
 - \[adverb\]
 - “aha \[word\]; indeed.”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *martasya* \< *marta*
+- *martasya* ← *marta*
 - \[noun\], genitive, singular, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *ripoḥ* \< *ripu*
+- *ripoḥ* ← *ripu*
 - \[noun\], genitive, singular, masculine
 - “punic; deceitful; unfriendly.”
 ------------------------------------------------------------------------
-- *nopa* \< *na*
+- *nopa* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nopa* \< *upa*
+- *nopa* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *veṣi* \< *vī*
+- *veṣi* ← *vī*
 - \[verb\], singular, Present indikative
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *jātavedaḥ* \< *jātavedas*
+- *jātavedaḥ* ← *jātavedas*
 - \[noun\], vocative, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------

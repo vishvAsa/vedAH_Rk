@@ -2,7 +2,7 @@
 title = "Rig Veda 9.24.4"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -10,33 +10,33 @@ title = "Rig Veda 9.24.4"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *nṛmādanaḥ* \< *nṛ*
+- *nṛmādanaḥ* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nṛmādanaḥ* \< *mādanaḥ* \< *mādana*
+- *nṛmādanaḥ* ← *mādanaḥ* ← *mādana*
 - \[noun\], nominative, singular, masculine
 - “exhilarating; intoxicant.”
 ------------------------------------------------------------------------
-- *pavasva* \< *pū*
+- *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *carṣaṇīsahe* \< *carṣaṇī*
+- *carṣaṇīsahe* ← *carṣaṇī*
 - \[noun\], feminine
 ------------------------------------------------------------------------
-- *carṣaṇīsahe* \< *sahe* \< *sah*
+- *carṣaṇīsahe* ← *sahe* ← *sah*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *sasnir* \< *sasniḥ* \< *sasni*
+- *sasnir* ← *sasniḥ* ← *sasni*
 - \[noun\], nominative, singular, masculine
 - “victorious.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *anumādyaḥ* \< *anumad* \< *√mad*
+- *anumādyaḥ* ← *anumad* ← *√mad*
 - \[verb noun\], nominative, singular
 - “praise; cheer; applaud.”
 ------------------------------------------------------------------------

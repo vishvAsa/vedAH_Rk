@@ -6,22 +6,22 @@ title = "Rig Veda 8.67.21"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *dveṣo* \< *dveṣaḥ* \< *dveṣas*
+- *dveṣo* ← *dveṣaḥ* ← *dveṣas*
 - \[noun\], accusative, singular, neuter
 - “hostility; enemy.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *aṃhatim* \< *aṃhati*
+- *aṃhatim* ← *aṃhati*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *ādityāso* \< *ādityāsaḥ* \< *āditya*
+- *ādityāso* ← *ādityāsaḥ* ← *āditya*
 - \[noun\], vocative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
@@ -29,12 +29,12 @@ title = "Rig Veda 8.67.21"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *saṃhitam* \< *saṃdhā* \< *√dhā*
+- *saṃhitam* ← *saṃdhā* ← *√dhā*
 - \[verb noun\], accusative, singular
 - “connect; refer; aim; grow together; compress; ally; unite; operate
     on.”
 ------------------------------------------------------------------------
-- *viṣvag* \< *viṣvak* \< *viṣvañc*
+- *viṣvag* ← *viṣvak* ← *viṣvañc*
 - \[noun\], accusative, singular, neuter
 - “dispersed; viṣvañc \[word\].”
 ------------------------------------------------------------------------
@@ -42,11 +42,11 @@ title = "Rig Veda 8.67.21"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vṛhatā* \< *vṛhata* \< *vṛh*
+- *vṛhatā* ← *vṛhata* ← *vṛh*
 - \[verb\], plural, Present imperative
 - “extract.”
 ------------------------------------------------------------------------
-- *rapaḥ* \< *rapas*
+- *rapaḥ* ← *rapas*
 - \[noun\], accusative, singular, neuter
 - “injury; disease; infirmity; damage.”
 ------------------------------------------------------------------------

@@ -2,61 +2,61 @@
 title = "Rig Veda 1.119.10"
 
 +++
--   *yuvam* \< *tvad*
+-   *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *pedave* \< *pedu*
+- *pedave* ← *pedu*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *puruvāram* \< *puru*
+- *puruvāram* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *puruvāram* \< *vāram* \< *vāra*
+- *puruvāram* ← *vāram* ← *vāra*
 - \[noun\], accusative, singular, masculine
 - “treasure; choice.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], nominative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *spṛdhāṃ* \< *spṛdhām* \< *spṛdh*
+- *spṛdhāṃ* ← *spṛdhām* ← *spṛdh*
 - \[noun\], genitive, plural, masculine
 - “rival; enemy.”
 ------------------------------------------------------------------------
-- *śvetaṃ* \< *śvetam* \< *śveta*
+- *śvetaṃ* ← *śvetam* ← *śveta*
 - \[noun\], accusative, singular, masculine
 - “white; bright; śveta \[word\]; bright.”
 ------------------------------------------------------------------------
-- *tarutāraṃ* \< *tarutāram* \< *tarutṛ*
+- *tarutāraṃ* ← *tarutāram* ← *tarutṛ*
 - \[noun\], accusative, singular, masculine
 - “tarutṛ \[word\].”
 ------------------------------------------------------------------------
-- *duvasyathaḥ* \< *duvasy*
+- *duvasyathaḥ* ← *duvasy*
 - \[verb\], dual, Present indikative
 - “worship.”
 ------------------------------------------------------------------------
-- *śaryair* \< *śaryaiḥ* \< *śarya*
+- *śaryair* ← *śaryaiḥ* ← *śarya*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *abhidyum* \< *abhidyu*
+- *abhidyum* ← *abhidyu*
 - \[noun\], accusative, singular, masculine
 - “celestial; brilliant.”
 ------------------------------------------------------------------------
-- *pṛtanāsu* \< *pṛtanā*
+- *pṛtanāsu* ← *pṛtanā*
 - \[noun\], locative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
 ------------------------------------------------------------------------
-- *duṣṭaraṃ* \< *duṣṭaram* \< *duṣṭara*
+- *duṣṭaraṃ* ← *duṣṭaram* ← *duṣṭara*
 - \[noun\], accusative, singular, masculine
 - “incomparable; irresistible; unbearable; unconquerable.”
 ------------------------------------------------------------------------
-- *carkṛtyam* \< *carkar* \< *√kṛ*
+- *carkṛtyam* ← *carkar* ← *√kṛ*
 - \[verb noun\], accusative, singular
 - “praise; commemorate.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -65,7 +65,7 @@ title = "Rig Veda 1.119.10"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *carṣaṇīsaham* \< *carṣaṇīsah*
+- *carṣaṇīsaham* ← *carṣaṇīsah*
 - \[noun\], accusative, singular, masculine
 - “regnant.”
 ------------------------------------------------------------------------

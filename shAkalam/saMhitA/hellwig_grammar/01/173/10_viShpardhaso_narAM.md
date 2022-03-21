@@ -2,10 +2,10 @@
 title = "Rig Veda 1.173.10"
 
 +++
--   *viṣpardhaso* \< *viṣpardhasaḥ* \< *viṣpardhas*
+-   *viṣpardhaso* ← *viṣpardhasaḥ* ← *viṣpardhas*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *narāṃ* \< *narām* \< *nṛ*
+- *narāṃ* ← *narām* ← *nṛ*
 - \[noun\], genitive, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
@@ -13,62 +13,62 @@ title = "Rig Veda 1.173.10"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śaṃsair* \< *śaṃsaiḥ* \< *śaṃsa*
+- *śaṃsair* ← *śaṃsaiḥ* ← *śaṃsa*
 - \[noun\], instrumental, plural, masculine
 - “praise; śaṃs; recitation.”
 ------------------------------------------------------------------------
-- *asmākāsad* \< *asmāka*
+- *asmākāsad* ← *asmāka*
 - \[noun\], nominative, singular, masculine
 - “our; asmāka \[word\].”
 ------------------------------------------------------------------------
-- *asmākāsad* \< *asat* \< *as*
+- *asmākāsad* ← *asat* ← *as*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vajrahastaḥ* \< *vajra*
+- *vajrahastaḥ* ← *vajra*
 - \[noun\], masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *vajrahastaḥ* \< *hastaḥ* \< *hasta*
+- *vajrahastaḥ* ← *hastaḥ* ← *hasta*
 - \[noun\], nominative, singular, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------
-- *mitrāyuvo* \< *mitrāyuvaḥ* \< *mitrāyu*
+- *mitrāyuvo* ← *mitrāyuvaḥ* ← *mitrāyu*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pūrpatiṃ* \< *pūrpatim* \< *pūrpati*
+- *pūrpatiṃ* ← *pūrpatim* ← *pūrpati*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *suśiṣṭau* \< *su*
+- *suśiṣṭau* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśiṣṭau* \< *śiṣṭau* \< *śiṣṭi*
+- *suśiṣṭau* ← *śiṣṭau* ← *śiṣṭi*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
-- *madhyāyuva* \< *madhyāyuvaḥ* \< *madhyāyu*
+- *madhyāyuva* ← *madhyāyuvaḥ* ← *madhyāyu*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *śikṣanti* \< *śikṣ*
+- *śikṣanti* ← *śikṣ*
 - \[verb\], plural, Present indikative
 - “help; give.”
 ------------------------------------------------------------------------
-- *yajñaiḥ* \< *yajña*
+- *yajñaiḥ* ← *yajña*
 - \[noun\], instrumental, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 4.18.7"
 
 +++
--   *kim* \< *ka*
+-   *kim* ← *ka*
 - \[noun\], nominative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -10,70 +10,70 @@ title = "Rig Veda 4.18.7"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣvid* \< *svid*
+- *ṣvid* ← *svid*
 - \[adverb\]
 - “svid \[word\].”
 ------------------------------------------------------------------------
-- *asmai* \< *idam*
+- *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *nivido* \< *nividaḥ* \< *nivid*
+- *nivido* ← *nividaḥ* ← *nivid*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *bhanantendrasyāvadyaṃ* \< *bhananta* \< *bhan*
+- *bhanantendrasyāvadyaṃ* ← *bhananta* ← *bhan*
 - \[verb\], plural, Present injunctive
 ------------------------------------------------------------------------
-- *bhanantendrasyāvadyaṃ* \< *indrasya* \< *indra*
+- *bhanantendrasyāvadyaṃ* ← *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *bhanantendrasyāvadyaṃ* \< *avadyam* \< *avadya*
+- *bhanantendrasyāvadyaṃ* ← *avadyam* ← *avadya*
 - \[noun\], accusative, singular, neuter
 - “shame; censure; blame.”
 ------------------------------------------------------------------------
-- *didhiṣanta* \< *didhiṣante* \< *didhiṣ* \< *√dhā*
+- *didhiṣanta* ← *didhiṣante* ← *didhiṣ* ← *√dhā*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *āpaḥ* \< *ap*
+- *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *mamaitān* \< *mama* \< *mad*
+- *mamaitān* ← *mama* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mamaitān* \< *etān* \< *etad*
+- *mamaitān* ← *etān* ← *etad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *putro* \< *putraḥ* \< *putra*
+- *putro* ← *putraḥ* ← *putra*
 - \[noun\], nominative, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
-- *mahatā* \< *mahat*
+- *mahatā* ← *mahat*
 - \[noun\], instrumental, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
 ------------------------------------------------------------------------
-- *vadhena* \< *vadha*
+- *vadhena* ← *vadha*
 - \[noun\], instrumental, singular, masculine
 - “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
     dysfunction; punishment; kick.”
 ------------------------------------------------------------------------
-- *vṛtraṃ* \< *vṛtram* \< *vṛtra*
+- *vṛtraṃ* ← *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *jaghanvāṃ* \< *han*
+- *jaghanvāṃ* ← *han*
 - \[verb noun\], nominative, singular
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *asṛjad* \< *asṛjat* \< *sṛj*
+- *asṛjad* ← *asṛjat* ← *sṛj*
 - \[verb\], singular, Imperfect
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
@@ -82,7 +82,7 @@ title = "Rig Veda 4.18.7"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *sindhūn* \< *sindhu*
+- *sindhūn* ← *sindhu*
 - \[noun\], accusative, plural, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------

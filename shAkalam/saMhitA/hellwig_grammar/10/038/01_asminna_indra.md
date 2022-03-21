@@ -2,11 +2,11 @@
 title = "Rig Veda 10.38.1"
 
 +++
--   *asmin* \< *idam*
+-   *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -15,30 +15,30 @@ title = "Rig Veda 10.38.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pṛtsutau* \< *pṛtsuti*
+- *pṛtsutau* ← *pṛtsuti*
 - \[noun\], locative, singular, masculine
 - “battle.”
 ------------------------------------------------------------------------
-- *yaśasvati* \< *yaśasvat*
+- *yaśasvati* ← *yaśasvat*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *śimīvati* \< *śimīvat*
+- *śimīvati* ← *śimīvat*
 - \[noun\], locative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *krandasi* \< *krandas*
+- *krandasi* ← *krandas*
 - \[noun\], locative, singular, neuter
 - “army; war cry.”
 ------------------------------------------------------------------------
-- *prāva* \< *pra*
+- *prāva* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prāva* \< *ava* \< *av*
+- *prāva* ← *ava* ← *av*
 - \[verb\], singular, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *sātaye* \< *sāti*
+- *sātaye* ← *sāti*
 - \[noun\], dative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------
@@ -46,31 +46,31 @@ title = "Rig Veda 10.38.1"
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *goṣātā* \< *goṣāti*
+- *goṣātā* ← *goṣāti*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
-- *dhṛṣiteṣu* \< *dhṛṣ*
+- *dhṛṣiteṣu* ← *dhṛṣ*
 - \[verb noun\], locative, plural
 - “dare; attack.”
 ------------------------------------------------------------------------
-- *khādiṣu* \< *khādin*
+- *khādiṣu* ← *khādin*
 - \[noun\], locative, plural, masculine
 - “chewing.”
 ------------------------------------------------------------------------
-- *viṣvak* \< *viṣvañc*
+- *viṣvak* ← *viṣvañc*
 - \[noun\], accusative, singular, neuter
 - “dispersed; viṣvañc \[word\].”
 ------------------------------------------------------------------------
-- *patanti* \< *pat*
+- *patanti* ← *pat*
 - \[verb\], plural, Present indikative
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
 ------------------------------------------------------------------------
-- *didyavo* \< *didyavaḥ* \< *didyu*
+- *didyavo* ← *didyavaḥ* ← *didyu*
 - \[noun\], nominative, plural, masculine
 - “arrow; projectile.”
 ------------------------------------------------------------------------
-- *nṛṣāhye* \< *nṛṣāhya*
+- *nṛṣāhye* ← *nṛṣāhya*
 - \[noun\], locative, singular, neuter
 - “battle.”
 ------------------------------------------------------------------------

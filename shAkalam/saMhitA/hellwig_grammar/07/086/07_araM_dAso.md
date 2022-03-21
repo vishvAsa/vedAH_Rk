@@ -2,10 +2,10 @@
 title = "Rig Veda 7.86.7"
 
 +++
--   *araṃ* \< *aram*
+-   *araṃ* ← *aram*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *dāso* \< *dāsaḥ* \< *dāsa*
+- *dāso* ← *dāsaḥ* ← *dāsa*
 - \[noun\], nominative, singular, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
 ------------------------------------------------------------------------
@@ -13,11 +13,11 @@ title = "Rig Veda 7.86.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *mīﾱhuṣe* \< *mīḍhuṣe* \< *mīḍhvas*
+- *mīﾱhuṣe* ← *mīḍhuṣe* ← *mīḍhvas*
 - \[noun\], dative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *karāṇy* \< *karāṇi* \< *kṛ*
+- *karāṇy* ← *karāṇi* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -28,50 +28,50 @@ title = "Rig Veda 7.86.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *ahaṃ* \< *aham* \< *mad*
+- *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *devāya* \< *deva*
+- *devāya* ← *deva*
 - \[noun\], dative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *bhūrṇaye* \< *bhūrṇi*
+- *bhūrṇaye* ← *bhūrṇi*
 - \[noun\], dative, singular, masculine
 - “impatient; restless.”
 ------------------------------------------------------------------------
-- *'nāgāḥ* \< *anāgāḥ* \< *anāgas*
+- *'nāgāḥ* ← *anāgāḥ* ← *anāgas*
 - \[noun\], nominative, singular, masculine
 - “blameless; impeccant.”
 ------------------------------------------------------------------------
-- *acetayad* \< *acetayat* \< *cetay* \< *√cit*
+- *acetayad* ← *acetayat* ← *cetay* ← *√cit*
 - \[verb\], singular, Imperfect
 - “blaze; notice.”
 ------------------------------------------------------------------------
-- *acito* \< *acitaḥ* \< *acit*
+- *acito* ← *acitaḥ* ← *acit*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *devo* \< *devaḥ* \< *deva*
+- *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *aryo* \< *aryaḥ* \< *ari*
+- *aryo* ← *aryaḥ* ← *ari*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *gṛtsaṃ* \< *gṛtsam* \< *gṛtsa*
+- *gṛtsaṃ* ← *gṛtsam* ← *gṛtsa*
 - \[noun\], accusative, singular, neuter
 - “apt; deft.”
 ------------------------------------------------------------------------
-- *rāye* \< *rai*
+- *rāye* ← *rai*
 - \[noun\], dative, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *kavitaro* \< *kavitaraḥ* \< *kavitara*
+- *kavitaro* ← *kavitaraḥ* ← *kavitara*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *junāti* \< *jū*
+- *junāti* ← *jū*
 - \[verb\], singular, Present indikative
 - “animate; encourage; impel; inspire.”
 ------------------------------------------------------------------------

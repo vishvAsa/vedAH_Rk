@@ -2,40 +2,40 @@
 title = "Rig Veda 5.78.6"
 
 +++
--   *bhītāya* \< *bhī*
+-   *bhītāya* ← *bhī*
 - \[verb noun\], dative, singular
 - “fear; fear.”
 ------------------------------------------------------------------------
-- *nādhamānāya* \< *nādh*
+- *nādhamānāya* ← *nādh*
 - \[verb noun\], dative, singular
 - “suffer.”
 ------------------------------------------------------------------------
-- *ṛṣaye* \< *ṛṣi*
+- *ṛṣaye* ← *ṛṣi*
 - \[noun\], dative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *saptavadhraye* \< *saptavadhri*
+- *saptavadhraye* ← *saptavadhri*
 - \[noun\], dative, singular, masculine
 - “Saptavadhri.”
 ------------------------------------------------------------------------
-- *māyābhir* \< *māyābhiḥ* \< *māyā*
+- *māyābhir* ← *māyābhiḥ* ← *māyā*
 - \[noun\], instrumental, plural, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], nominative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *yuvaṃ* \< *yuvam* \< *tvad*
+- *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *vṛkṣaṃ* \< *vṛkṣam* \< *vṛkṣa*
+- *vṛkṣaṃ* ← *vṛkṣam* ← *vṛkṣa*
 - \[noun\], accusative, singular, masculine
 - “tree; fruit tree.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
@@ -47,10 +47,10 @@ title = "Rig Veda 5.78.6"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *cācathaḥ* \< *ca*
+- *cācathaḥ* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cācathaḥ* \< *acathaḥ* \< *añc*
+- *cācathaḥ* ← *acathaḥ* ← *añc*
 - \[verb\], dual, Present indikative
 ------------------------------------------------------------------------

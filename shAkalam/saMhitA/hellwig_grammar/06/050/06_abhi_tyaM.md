@@ -6,49 +6,49 @@ title = "Rig Veda 6.50.6"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *tyaṃ* \< *tyam* \< *tya*
+- *tyaṃ* ← *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *vīraṃ* \< *vīram* \< *vīra*
+- *vīraṃ* ← *vīram* ← *vīra*
 - \[noun\], accusative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *girvaṇasam* \< *girvaṇas*
+- *girvaṇasam* ← *girvaṇas*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *arcendram* \< *arca* \< *arc*
+- *arcendram* ← *arca* ← *arc*
 - \[verb\], singular, Present imperative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *arcendram* \< *indram* \< *indra*
+- *arcendram* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *brahmaṇā* \< *brahman*
+- *brahmaṇā* ← *brahman*
 - \[noun\], instrumental, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *jaritar* \< *jaritṛ*
+- *jaritar* ← *jaritṛ*
 - \[noun\], vocative, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *navena* \< *nava*
+- *navena* ← *nava*
 - \[noun\], instrumental, singular, neuter
 - “new; fresh; young; matutinal; recent; nava \[word\]; modern;
     fresh.”
 ------------------------------------------------------------------------
-- *śravad* \< *śravat* \< *śru*
+- *śravad* ← *śravat* ← *śru*
 - \[verb\], singular, Aorist conj./subj.
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *iddhavam* \< *id*
+- *iddhavam* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *iddhavam* \< *havam* \< *hava*
+- *iddhavam* ← *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
@@ -60,15 +60,15 @@ title = "Rig Veda 6.50.6"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *stavāno* \< *stavānaḥ* \< *stu*
+- *stavāno* ← *stavānaḥ* ← *stu*
 - \[verb noun\], nominative, singular
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *rāsad* \< *rāsat* \< *rā*
+- *rāsad* ← *rāsat* ← *rā*
 - \[verb\], singular, Aorist conj./subj.
 - “give; impart.”
 ------------------------------------------------------------------------
-- *vājāṃ* \< *vāja*
+- *vājāṃ* ← *vāja*
 - \[noun\], accusative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
@@ -76,11 +76,11 @@ title = "Rig Veda 6.50.6"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *maho* \< *mahaḥ* \< *mah*
+- *maho* ← *mahaḥ* ← *mah*
 - \[noun\], accusative, plural, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *gṛṇānaḥ* \< *gṛ*
+- *gṛṇānaḥ* ← *gṛ*
 - \[verb noun\], nominative, singular
 - “praise.”
 ------------------------------------------------------------------------

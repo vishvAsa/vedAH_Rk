@@ -2,34 +2,34 @@
 title = "Rig Veda 9.49.5"
 
 +++
--   *pavamāno* \< *pavamānaḥ* \< *pū*
+-   *pavamāno* ← *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *asiṣyadad* \< *asiṣyadat* \< *syand*
+- *asiṣyadad* ← *asiṣyadat* ← *syand*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “run.”
 ------------------------------------------------------------------------
-- *rakṣāṃsy* \< *rakṣāṃsi* \< *rakṣas*
+- *rakṣāṃsy* ← *rakṣāṃsi* ← *rakṣas*
 - \[noun\], accusative, plural, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
 ------------------------------------------------------------------------
-- *apajaṅghanat* \< *apajaṅghan* \< *√han*
+- *apajaṅghanat* ← *apajaṅghan* ← *√han*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *pratnavad* \< *pratna*
+- *pratnavad* ← *pratna*
 - \[noun\]
 - “age-old; pratna \[word\].”
 ------------------------------------------------------------------------
-- *pratnavad* \< *vat*
+- *pratnavad* ← *vat*
 - \[adverb\]
 - “equally; like.”
 ------------------------------------------------------------------------
-- *rocayan* \< *rocay* \< *√ruc*
+- *rocayan* ← *rocay* ← *√ruc*
 - \[verb noun\], nominative, singular
 - “like; approve; like; simulate.”
 ------------------------------------------------------------------------
-- *rucaḥ* \< *ruc*
+- *rucaḥ* ← *ruc*
 - \[noun\], accusative, plural, feminine
 - “beam; radiance; color.”
 ------------------------------------------------------------------------

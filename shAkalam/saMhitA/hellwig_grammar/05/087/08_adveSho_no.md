@@ -2,94 +2,94 @@
 title = "Rig Veda 5.87.8"
 
 +++
--   *adveṣo* \< *a*
+-   *adveṣo* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *adveṣo* \< *dveṣaḥ* \< *dveṣas*
+- *adveṣo* ← *dveṣaḥ* ← *dveṣas*
 - \[noun\], accusative, singular, neuter
 - “hostility; enemy.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *gātum* \< *gātu*
+- *gātum* ← *gātu*
 - \[noun\], accusative, singular, masculine
 - “path; way.”
 ------------------------------------------------------------------------
-- *etana* \< *e* \< *√i*
+- *etana* ← *e* ← *√i*
 - \[verb\], plural, Present imperative
 - “come; travel.”
 ------------------------------------------------------------------------
-- *śrotā* \< *śrota* \< *śru*
+- *śrotā* ← *śrota* ← *śru*
 - \[verb\], plural, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *havaṃ* \< *havam* \< *hava*
+- *havaṃ* ← *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *jaritur* \< *jarituḥ* \< *jaritṛ*
+- *jaritur* ← *jarituḥ* ← *jaritṛ*
 - \[noun\], genitive, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *evayāmarut* \< *eva*
+- *evayāmarut* ← *eva*
 - \[noun\]
 - “fast; rapid; agile.”
 ------------------------------------------------------------------------
-- *evayāmarut* \< *yā*
+- *evayāmarut* ← *yā*
 - \[noun\]
 - “going.”
 ------------------------------------------------------------------------
-- *evayāmarut* \< *marut*
+- *evayāmarut* ← *marut*
 - \[noun\], nominative, singular, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *viṣṇor* \< *viṣṇoḥ* \< *viṣṇu*
+- *viṣṇor* ← *viṣṇoḥ* ← *viṣṇu*
 - \[noun\], genitive, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
 ------------------------------------------------------------------------
-- *mahaḥ* \< *mah*
+- *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *samanyavo* \< *samanyavaḥ* \< *samanyu*
+- *samanyavo* ← *samanyavaḥ* ← *samanyu*
 - \[noun\], nominative, plural, masculine
 - “consentaneous.”
 ------------------------------------------------------------------------
-- *yuyotana* \< *yu*
+- *yuyotana* ← *yu*
 - \[verb\], plural, Present imperative
 - “keep away; separate; ward off.”
 ------------------------------------------------------------------------
-- *smad* \< *smat*
+- *smad* ← *smat*
 - \[adverb\]
 - “simultaneously; jointly.”
 ------------------------------------------------------------------------
-- *rathyo* \< *rathyaḥ* \< *rathī*
+- *rathyo* ← *rathyaḥ* ← *rathī*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *daṃsanāpa* \< *daṃsanā*
+- *daṃsanāpa* ← *daṃsanā*
 - \[noun\], instrumental, singular, feminine
 - “wonder; power.”
 ------------------------------------------------------------------------
-- *daṃsanāpa* \< *apa*
+- *daṃsanāpa* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *dveṣāṃsi* \< *dveṣas*
+- *dveṣāṃsi* ← *dveṣas*
 - \[noun\], accusative, plural, neuter
 - “hostility; enemy.”
 ------------------------------------------------------------------------
-- *sanutaḥ* \< *sanutar*
+- *sanutaḥ* ← *sanutar*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------

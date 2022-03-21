@@ -2,23 +2,23 @@
 title = "Rig Veda 1.38.7"
 
 +++
--   *satyaṃ* \< *satyam* \< *satya*
+-   *satyaṃ* ← *satyam* ← *satya*
 - \[noun\], accusative, singular, neuter
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *tveṣā* \< *tveṣāḥ* \< *tveṣa*
+- *tveṣā* ← *tveṣāḥ* ← *tveṣa*
 - \[noun\], nominative, plural, masculine
 - “awful; brilliant; aglitter(p); bright.”
 ------------------------------------------------------------------------
-- *amavanto* \< *amavantaḥ* \< *amavat*
+- *amavanto* ← *amavantaḥ* ← *amavat*
 - \[noun\], nominative, plural, masculine
 - “impressive; strong.”
 ------------------------------------------------------------------------
-- *dhanvañ* \< *dhanvan*
+- *dhanvañ* ← *dhanvan*
 - \[noun\], accusative, singular, neuter
 - “bow; desert; steppe; barren.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -26,15 +26,15 @@ title = "Rig Veda 1.38.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *rudriyāsaḥ* \< *rudriya*
+- *rudriyāsaḥ* ← *rudriya*
 - \[noun\], nominative, plural, masculine
 - “Marut.”
 ------------------------------------------------------------------------
-- *mihaṃ* \< *miham* \< *mih*
+- *mihaṃ* ← *miham* ← *mih*
 - \[noun\], accusative, singular, feminine
 - “fog.”
 ------------------------------------------------------------------------
-- *kṛṇvanty* \< *kṛṇvanti* \< *kṛ*
+- *kṛṇvanty* ← *kṛṇvanti* ← *kṛ*
 - \[verb\], plural, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -45,6 +45,6 @@ title = "Rig Veda 1.38.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *avātām* \< *avāta*
+- *avātām* ← *avāta*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------

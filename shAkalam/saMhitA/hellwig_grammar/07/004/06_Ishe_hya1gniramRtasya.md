@@ -2,49 +2,49 @@
 title = "Rig Veda 7.4.6"
 
 +++
--   *īśe* \< *īś*
+-   *īśe* ← *īś*
 - \[verb\], singular, Perfect indicative
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *hy* \< *hi*
+- *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *agnir* \< *agniḥ* \< *agni*
+- *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *amṛtasya* \< *amṛta*
+- *amṛtasya* ← *amṛta*
 - \[noun\], genitive, singular, neuter
 - “amṛta; immortality; vatsanābha; ambrosia; mercury; medicine;
     vighasa; calcium hydroxide.”
 ------------------------------------------------------------------------
-- *bhūrer* \< *bhūreḥ* \< *bhūri*
+- *bhūrer* ← *bhūreḥ* ← *bhūri*
 - \[noun\], genitive, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *īśe* \< *īśa*
+- *īśe* ← *īśa*
 - \[noun\], locative, singular, masculine
 - “Shiva; īśvara; king; mayor; overlord; lord; northeast; īś; supreme
     spirit; Kubera; mercury; leader.”
 ------------------------------------------------------------------------
-- *rāyaḥ* \< *rai*
+- *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *suvīryasya* \< *su*
+- *suvīryasya* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvīryasya* \< *vīryasya* \< *vīrya*
+- *suvīryasya* ← *vīryasya* ← *vīrya*
 - \[noun\], genitive, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
 ------------------------------------------------------------------------
-- *dātoḥ* \< *dā*
+- *dātoḥ* ← *dā*
 - \[verb noun\]
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
@@ -55,46 +55,46 @@ title = "Rig Veda 7.4.6"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sahasāvann* \< *sahasāvan* \< *sahasāvat*
+- *sahasāvann* ← *sahasāvan* ← *sahasāvat*
 - \[noun\], vocative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *avīrā* \< *avīrāḥ* \< *avīra*
+- *avīrā* ← *avīrāḥ* ← *avīra*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *māpsavaḥ* \< *mā*
+- *māpsavaḥ* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *māpsavaḥ* \< *apsavaḥ* \< *apsu*
+- *māpsavaḥ* ← *apsavaḥ* ← *apsu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *pari*
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *ṣadāma* \< *sadāma* \< *sad*
+- *ṣadāma* ← *sadāma* ← *sad*
 - \[verb\], plural, Aorist inj. (proh.)
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *māduvaḥ* \< *mā*
+- *māduvaḥ* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *māduvaḥ* \< *a*
+- *māduvaḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *māduvaḥ* \< *duvaḥ* \< *duvas*
+- *māduvaḥ* ← *duvaḥ* ← *duvas*
 - \[noun\], accusative, singular, neuter
 - “worship.”
 ------------------------------------------------------------------------

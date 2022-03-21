@@ -2,7 +2,7 @@
 title = "Rig Veda 8.9.9"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -10,22 +10,22 @@ title = "Rig Veda 8.9.9"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *nāsatyokthair* \< *nāsatyā* \< *nāsatya*
+- *nāsatyokthair* ← *nāsatyā* ← *nāsatya*
 - \[noun\], vocative, dual, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *nāsatyokthair* \< *ukthaiḥ* \< *uktha*
+- *nāsatyokthair* ← *ukthaiḥ* ← *uktha*
 - \[noun\], instrumental, plural, masculine
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *ācucyuvīmahi* \< *ācyu* \< *√cyu*
+- *ācucyuvīmahi* ← *ācyu* ← *√cyu*
 - \[verb\], plural, Perfect optative
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -33,26 +33,26 @@ title = "Rig Veda 8.9.9"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *vāṇībhir* \< *vāṇībhiḥ* \< *vāṇī*
+- *vāṇībhir* ← *vāṇībhiḥ* ← *vāṇī*
 - \[noun\], instrumental, plural, feminine
 - “voice; Sarasvati; words; language.”
 ------------------------------------------------------------------------
-- *aśvinevet* \< *aśvinā* \< *aśvin*
+- *aśvinevet* ← *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *aśvinevet* \< *iva*
+- *aśvinevet* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *aśvinevet* \< *id*
+- *aśvinevet* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *kāṇvasya* \< *kāṇva*
+- *kāṇvasya* ← *kāṇva*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *bodhatam* \< *budh*
+- *bodhatam* ← *budh*
 - \[verb\], dual, Present imperative
 - “understand; notice; wake up; observe; detect; attend to; awaken;
     attend.”

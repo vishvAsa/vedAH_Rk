@@ -2,31 +2,31 @@
 title = "Rig Veda 1.178.4"
 
 +++
--   *evā* \< *eva*
+-   *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *nṛbhir* \< *nṛbhiḥ* \< *nṛ*
+- *nṛbhir* ← *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *suśravasyā* \< *su*
+- *suśravasyā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśravasyā* \< *śravasyā*
+- *suśravasyā* ← *śravasyā*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *prakhādaḥ* \< *prakhāda*
+- *prakhādaḥ* ← *prakhāda*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *pṛkṣo* \< *pṛkṣaḥ* \< *pṛkṣa*
+- *pṛkṣo* ← *pṛkṣaḥ* ← *pṛkṣa*
 - \[noun\], nominative, singular, masculine
 - “strong; full of life.”
 ------------------------------------------------------------------------
@@ -34,40 +34,40 @@ title = "Rig Veda 1.178.4"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *mitriṇo* \< *mitriṇaḥ* \< *mitrin*
+- *mitriṇo* ← *mitriṇaḥ* ← *mitrin*
 - \[noun\], accusative, plural, masculine
 - “friendly.”
 ------------------------------------------------------------------------
-- *bhūt* \< *bhū*
+- *bhūt* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *samarya* \< *samarye* \< *samarya*
+- *samarya* ← *samarye* ← *samarya*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *iṣa* \< *iṣaḥ* \< *iṣ*
+- *iṣa* ← *iṣaḥ* ← *iṣ*
 - \[noun\], genitive, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *stavate* \< *stu*
+- *stavate* ← *stu*
 - \[verb\], singular, Present indikative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *vivāci* \< *vivāc*
+- *vivāci* ← *vivāc*
 - \[noun\], locative, singular, feminine
 - “contest.”
 ------------------------------------------------------------------------
-- *satrākaro* \< *satrākaraḥ* \< *satrākara*
+- *satrākaro* ← *satrākaraḥ* ← *satrākara*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *yajamānasya* \< *yaj*
+- *yajamānasya* ← *yaj*
 - \[verb noun\], genitive, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *śaṃsaḥ* \< *śaṃsa*
+- *śaṃsaḥ* ← *śaṃsa*
 - \[noun\], nominative, singular, masculine
 - “praise; śaṃs; recitation.”
 ------------------------------------------------------------------------

@@ -12,24 +12,24 @@ title = "Rig Veda 1.151.5"
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *mahinā* \< *mahina*
+- *mahinā* ← *mahina*
 - \[noun\], instrumental, singular, neuter
 - “greatness; enormousness.”
 ------------------------------------------------------------------------
-- *vāram* \< *vāra*
+- *vāram* ← *vāra*
 - \[noun\], accusative, singular, masculine
 - “treasure; choice.”
 ------------------------------------------------------------------------
-- *ṛṇvatho* \< *ṛṇvathaḥ* \< *ṛch*
+- *ṛṇvatho* ← *ṛṇvathaḥ* ← *ṛch*
 - \[verb\], dual, Present conjunctive (subjunctive)
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *'reṇavas* \< *areṇavaḥ* \< *areṇu*
+- *'reṇavas* ← *areṇavaḥ* ← *areṇu*
 - \[noun\], nominative, plural, feminine
 - “clean.”
 ------------------------------------------------------------------------
-- *tuja* \< *tujaḥ* \< *tuj*
+- *tuja* ← *tujaḥ* ← *tuj*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
 - *ā*
@@ -40,15 +40,15 @@ title = "Rig Veda 1.151.5"
 - \[noun\], locative, singular, neuter
 - “seat; house; stable; dwelling.”
 ------------------------------------------------------------------------
-- *dhenavaḥ* \< *dhenu*
+- *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *svaranti* \< *svar*
+- *svaranti* ← *svar*
 - \[verb\], plural, Present indikative
 - “sing.”
 ------------------------------------------------------------------------
-- *tā* \< *tāḥ* \< *tad*
+- *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -57,7 +57,7 @@ title = "Rig Veda 1.151.5"
 - *uparatāti*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *sūryam* \< *sūrya*
+- *sūryam* ← *sūrya*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
@@ -66,15 +66,15 @@ title = "Rig Veda 1.151.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *nimruca* \< *nimrucaḥ* \< *nimruc*
+- *nimruca* ← *nimrucaḥ* ← *nimruc*
 - \[noun\], ablative, singular, feminine
 - “sunset.”
 ------------------------------------------------------------------------
-- *uṣasas* \< *uṣasaḥ* \< *uṣas*
+- *uṣasas* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], ablative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *takvavīr* \< *takvavīḥ* \< *takvavī*
+- *takvavīr* ← *takvavīḥ* ← *takvavī*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *iva*

@@ -6,12 +6,12 @@ title = "Rig Veda 10.95.13"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *bravāṇi* \< *brū*
+- *bravāṇi* ← *brū*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
 ------------------------------------------------------------------------
-- *vartayate* \< *vartay* \< *√vṛt*
+- *vartayate* ← *vartay* ← *√vṛt*
 - \[verb noun\], dative, singular
 - “pound; tell; exist; bring; spill; mix; survive; melt; roll;
     explain; perform; turn; chop; sustain; spend; roll up; produce.”
@@ -20,7 +20,7 @@ title = "Rig Veda 10.95.13"
 - \[noun\], accusative, singular, neuter
 - “tear.”
 ------------------------------------------------------------------------
-- *cakran* \< *\_* \< *√\_*
+- *cakran* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
@@ -28,15 +28,15 @@ title = "Rig Veda 10.95.13"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *krandad* \< *krandat* \< *krand*
+- *krandad* ← *krandat* ← *krand*
 - \[verb\], singular, Present injunctive
 - “roar; neigh; cry; howl; shout.”
 ------------------------------------------------------------------------
-- *ādhye* \< *\_* \< *√\_*
+- *ādhye* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *śivāyai* \< *śiva*
+- *śivāyai* ← *śiva*
 - \[noun\], dative, singular, feminine
 - “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
     holy; nice.”
@@ -45,37 +45,37 @@ title = "Rig Veda 10.95.13"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *tat* \< *tad*
+- *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *hinavā* \< *hi*
+- *hinavā* ← *hi*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
-- *yat* \< *yad*
+- *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *parehy* \< *parehi* \< *pare* \< *√i*
+- *parehy* ← *parehi* ← *pare* ← *√i*
 - \[verb\], singular, Present imperative
 - “travel; depart; go; die.”
 ------------------------------------------------------------------------
-- *astaṃ* \< *astam* \< *asta*
+- *astaṃ* ← *astam* ← *asta*
 - \[noun\], accusative, singular, neuter
 - “home.”
 ------------------------------------------------------------------------
@@ -86,11 +86,11 @@ title = "Rig Veda 10.95.13"
 - \[noun\], vocative, singular, masculine
 - “stupid.”
 ------------------------------------------------------------------------
-- *māpaḥ* \< *mā* \< *mad*
+- *māpaḥ* ← *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *māpaḥ* \< *āpaḥ* \< *āp*
+- *māpaḥ* ← *āpaḥ* ← *āp*
 - \[verb\], singular, Aorist inj. (proh.)
 - “enter (a state); get; reach; obtain; equal.”
 ------------------------------------------------------------------------

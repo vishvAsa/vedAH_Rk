@@ -2,33 +2,33 @@
 title = "Rig Veda 2.39.5"
 
 +++
--   *vātevājuryā* \< *vātā* \< *vāta*
+-   *vātevājuryā* ← *vātā* ← *vāta*
 - \[noun\], nominative, dual, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *vātevājuryā* \< *iva*
+- *vātevājuryā* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *vātevājuryā* \< *ajuryā* \< *ajurya*
+- *vātevājuryā* ← *ajuryā* ← *ajurya*
 - \[noun\], nominative, dual, masculine
 - “ageless; amaranthine.”
 ------------------------------------------------------------------------
-- *nadyeva* \< *nadyā* \< *nadī*
+- *nadyeva* ← *nadyā* ← *nadī*
 - \[noun\], instrumental, singular, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
 ------------------------------------------------------------------------
-- *nadyeva* \< *iva*
+- *nadyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *rītir* \< *rītiḥ* \< *rīti*
+- *rītir* ← *rītiḥ* ← *rīti*
 - \[noun\], nominative, singular, feminine
 - “brass; rītikā; method; bell metal; stream; expressive style;
     manner.”
 ------------------------------------------------------------------------
-- *akṣī* \< *akṣi*
+- *akṣī* ← *akṣi*
 - \[noun\], nominative, dual, neuter
 - “eye; akṣi \[word\]; two.”
 ------------------------------------------------------------------------
@@ -36,11 +36,11 @@ title = "Rig Veda 2.39.5"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *cakṣuṣā* \< *cakṣus*
+- *cakṣuṣā* ← *cakṣus*
 - \[noun\], instrumental, singular, neuter
 - “eye; look; visual perception; cakṣus \[word\]; sight.”
 ------------------------------------------------------------------------
-- *yātam* \< *yā*
+- *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
@@ -49,7 +49,7 @@ title = "Rig Veda 2.39.5"
 - \[adverb\]
 - “here.”
 ------------------------------------------------------------------------
-- *hastāv* \< *hastau* \< *hasta*
+- *hastāv* ← *hastau* ← *hasta*
 - \[noun\], nominative, dual, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------
@@ -57,36 +57,36 @@ title = "Rig Veda 2.39.5"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *tanve* \< *tanū*
+- *tanve* ← *tanū*
 - \[noun\], dative, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *śambhaviṣṭhā* \< *śambhaviṣṭha*
+- *śambhaviṣṭhā* ← *śambhaviṣṭha*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *pādeva* \< *pādā* \< *pāda*
+- *pādeva* ← *pādā* ← *pāda*
 - \[noun\], nominative, dual, masculine
 - “foot; one-fourth; beam; pāda; foot; foundation; pāda \[word\]; leg;
     leg; animal foot; step; foot; footfall; verse.”
 ------------------------------------------------------------------------
-- *pādeva* \< *iva*
+- *pādeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *nayataṃ* \< *nayatam* \< *nī*
+- *nayataṃ* ← *nayatam* ← *nī*
 - \[verb\], dual, Present imperative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *vasyo* \< *vasyaḥ* \< *vasyas*
+- *vasyo* ← *vasyaḥ* ← *vasyas*
 - \[noun\], accusative, singular, neuter
 - “good fortune; well-being.”
 ------------------------------------------------------------------------
-- *accha* \< *acchā*
+- *accha* ← *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------

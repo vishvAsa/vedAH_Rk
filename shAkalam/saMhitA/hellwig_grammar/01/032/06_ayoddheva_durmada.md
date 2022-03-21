@@ -2,14 +2,14 @@
 title = "Rig Veda 1.32.6"
 
 +++
--   *ayoddheva* \< *ayoddhā* \< *ayoddhṛ*
+-   *ayoddheva* ← *ayoddhā* ← *ayoddhṛ*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *ayoddheva* \< *iva*
+- *ayoddheva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *durmada* \< *durmadaḥ* \< *durmada*
+- *durmada* ← *durmadaḥ* ← *durmada*
 - \[noun\], nominative, singular, masculine
 - “delirious; brainsick; fierce; crazy.”
 ------------------------------------------------------------------------
@@ -21,70 +21,70 @@ title = "Rig Veda 1.32.6"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *juhve* \< *hvā*
+- *juhve* ← *hvā*
 - \[verb\], singular, Perfect indicative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *mahāvīraṃ* \< *mahā* \< *mahat*
+- *mahāvīraṃ* ← *mahā* ← *mahat*
 - \[noun\]
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
 ------------------------------------------------------------------------
-- *mahāvīraṃ* \< *vīram* \< *vīra*
+- *mahāvīraṃ* ← *vīram* ← *vīra*
 - \[noun\], accusative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *tuvibādham* \< *tuvi*
+- *tuvibādham* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
 ------------------------------------------------------------------------
-- *tuvibādham* \< *bādham* \< *bādha*
+- *tuvibādham* ← *bādham* ← *bādha*
 - \[noun\], accusative, singular, masculine
 - “danger.”
 ------------------------------------------------------------------------
-- *ṛjīṣam* \< *ṛjīṣa*
+- *ṛjīṣam* ← *ṛjīṣa*
 - \[noun\], accusative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *nātārīd* \< *na*
+- *nātārīd* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nātārīd* \< *atārīt* \< *tṛ*
+- *nātārīd* ← *atārīt* ← *tṛ*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *samṛtiṃ* \< *samṛtim* \< *samṛti*
+- *samṛtiṃ* ← *samṛtim* ← *samṛti*
 - \[noun\], accusative, singular, feminine
 - “battle; contact.”
 ------------------------------------------------------------------------
-- *vadhānāṃ* \< *vadhānām* \< *vadha*
+- *vadhānāṃ* ← *vadhānām* ← *vadha*
 - \[noun\], genitive, plural, masculine
 - “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
     dysfunction; punishment; kick.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *rujānāḥ* \< *rujānā*
+- *rujānāḥ* ← *rujānā*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *pipiṣa* \< *pipiṣe* \< *piṣ*
+- *pipiṣa* ← *pipiṣe* ← *piṣ*
 - \[verb\], singular, Perfect indicative
 - “grind; knead; paste; crush; press out.”
 ------------------------------------------------------------------------
-- *indraśatruḥ* \< *indra*
+- *indraśatruḥ* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indraśatruḥ* \< *śatruḥ* \< *śatru*
+- *indraśatruḥ* ← *śatruḥ* ← *śatru*
 - \[noun\], nominative, singular, masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------

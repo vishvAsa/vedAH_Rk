@@ -2,48 +2,48 @@
 title = "Rig Veda 6.61.6"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *devi* \< *devī*
+- *devi* ← *devī*
 - \[noun\], vocative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *sarasvaty* \< *sarasvati* \< *sarasvatī*
+- *sarasvaty* ← *sarasvati* ← *sarasvatī*
 - \[noun\], vocative, singular, feminine
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
 ------------------------------------------------------------------------
-- *avā* \< *avāḥ* \< *av*
+- *avā* ← *avāḥ* ← *av*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *vājeṣu* \< *vāja*
+- *vājeṣu* ← *vāja*
 - \[noun\], locative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vājini* \< *vājin*
+- *vājini* ← *vājin*
 - \[noun\], vocative, singular, feminine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------
-- *radā* \< *rada* \< *rad*
+- *radā* ← *rada* ← *rad*
 - \[verb\], singular, Present imperative
 - “dig.”
 ------------------------------------------------------------------------
-- *pūṣeva* \< *pūṣā* \< *pūṣan*
+- *pūṣeva* ← *pūṣā* ← *pūṣan*
 - \[noun\], nominative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *pūṣeva* \< *iva*
+- *pūṣeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sanim* \< *sani*
+- *sanim* ← *sani*
 - \[noun\], accusative, singular, masculine
 - “gain.”
 ------------------------------------------------------------------------

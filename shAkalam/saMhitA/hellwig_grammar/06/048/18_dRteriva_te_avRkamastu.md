@@ -2,7 +2,7 @@
 title = "Rig Veda 6.48.18"
 
 +++
--   *dṛter* \< *dṛteḥ* \< *dṛti*
+-   *dṛter* ← *dṛteḥ* ← *dṛti*
 - \[noun\], genitive, singular, masculine
 - “hose; dṛti \[word\]; hide; bladder.”
 ------------------------------------------------------------------------
@@ -10,39 +10,39 @@ title = "Rig Veda 6.48.18"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *'vṛkam* \< *avṛkam* \< *avṛka*
+- *'vṛkam* ← *avṛkam* ← *avṛka*
 - \[noun\], nominative, singular, neuter
 - “protective; safe.”
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *sakhyam* \< *sakhya*
+- *sakhyam* ← *sakhya*
 - \[noun\], nominative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *acchidrasya* \< *acchidra*
+- *acchidrasya* ← *acchidra*
 - \[noun\], genitive, singular, masculine
 - “uninjured; unbroken.”
 ------------------------------------------------------------------------
-- *dadhanvataḥ* \< *dadhanvat*
+- *dadhanvataḥ* ← *dadhanvat*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *supūrṇasya* \< *su*
+- *supūrṇasya* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *supūrṇasya* \< *pūrṇasya* \< *pṛ*
+- *supūrṇasya* ← *pūrṇasya* ← *pṛ*
 - \[verb noun\], genitive, singular
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
 ------------------------------------------------------------------------
-- *dadhanvataḥ* \< *dadhanvat*
+- *dadhanvataḥ* ← *dadhanvat*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------

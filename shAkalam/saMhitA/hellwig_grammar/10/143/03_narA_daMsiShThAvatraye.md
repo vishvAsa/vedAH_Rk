@@ -2,32 +2,32 @@
 title = "Rig Veda 10.143.3"
 
 +++
--   *narā* \< *nara*
+-   *narā* ← *nara*
 - \[noun\], vocative, dual, masculine
 - “man; man; Nara; person; people; Nara; Puruṣa; nara \[word\];
     servant; hero.”
 ------------------------------------------------------------------------
-- *daṃsiṣṭhāv* \< *daṃsiṣṭhau* \< *daṃsiṣṭha*
+- *daṃsiṣṭhāv* ← *daṃsiṣṭhau* ← *daṃsiṣṭha*
 - \[noun\], vocative, dual, masculine
 ------------------------------------------------------------------------
-- *atraye* \< *atri*
+- *atraye* ← *atri*
 - \[noun\], dative, singular, masculine
 - “Atri; Atri; atri \[word\].”
 ------------------------------------------------------------------------
-- *śubhrā* \< *śubhra*
+- *śubhrā* ← *śubhra*
 - \[noun\], vocative, dual, masculine
 - “white; beautiful; attractive; śubhra \[word\]; light.”
 ------------------------------------------------------------------------
-- *siṣāsataṃ* \< *siṣāsatam* \< *siṣās* \< *√san*
+- *siṣāsataṃ* ← *siṣāsatam* ← *siṣās* ← *√san*
 - \[verb\], dual, Present imperative
 - “win; gain.”
 ------------------------------------------------------------------------
-- *dhiyaḥ* \< *dhī*
+- *dhiyaḥ* ← *dhī*
 - \[noun\], accusative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *athā* \< *atha*
+- *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
@@ -35,25 +35,25 @@ title = "Rig Veda 10.143.3"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *narā* \< *nara*
+- *narā* ← *nara*
 - \[noun\], vocative, dual, masculine
 - “man; man; Nara; person; people; Nara; Puruṣa; nara \[word\];
     servant; hero.”
 ------------------------------------------------------------------------
-- *puna* \< *punar*
+- *puna* ← *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
 ------------------------------------------------------------------------
-- *stomo* \< *stomaḥ* \< *stoma*
+- *stomo* ← *stomaḥ* ← *stoma*
 - \[noun\], nominative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
@@ -61,7 +61,7 @@ title = "Rig Veda 10.143.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *viśase* \< *\_* \< *√\_*
+- *viśase* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------

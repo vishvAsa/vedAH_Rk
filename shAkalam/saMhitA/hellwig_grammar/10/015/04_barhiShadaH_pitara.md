@@ -2,36 +2,36 @@
 title = "Rig Veda 10.15.4"
 
 +++
--   *barhiṣadaḥ* \< *barhiṣad*
+-   *barhiṣadaḥ* ← *barhiṣad*
 - \[noun\], vocative, plural, masculine
 - “Pitṛ.”
 ------------------------------------------------------------------------
-- *pitara* \< *pitaraḥ* \< *pitṛ*
+- *pitara* ← *pitaraḥ* ← *pitṛ*
 - \[noun\], vocative, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *ūty* \< *ūtī* \< *ūti*
+- *ūty* ← *ūtī* ← *ūti*
 - \[noun\], instrumental, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *arvāg* \< *arvāk*
+- *arvāg* ← *arvāk*
 - \[adverb\]
 - “here.”
 ------------------------------------------------------------------------
-- *imā* \< *idam*
+- *imā* ← *idam*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *havyā* \< *havya*
+- *havyā* ← *havya*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *cakṛmā* \< *cakṛma* \< *kṛ*
+- *cakṛmā* ← *cakṛma* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -42,12 +42,12 @@ title = "Rig Veda 10.15.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *juṣadhvam* \< *juṣ*
+- *juṣadhvam* ← *juṣ*
 - \[verb\], plural, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tad*
+- *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -57,42 +57,42 @@ title = "Rig Veda 10.15.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gatāvasā* \< *gata* \< *gam*
+- *gatāvasā* ← *gata* ← *gam*
 - \[verb\], plural, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *gatāvasā* \< *avasā* \< *avas*
+- *gatāvasā* ← *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *śantamenāthā* \< *śantamena* \< *śaṃtama*
+- *śantamenāthā* ← *śantamena* ← *śaṃtama*
 - \[noun\], instrumental, singular, neuter
 - “beneficent.”
 ------------------------------------------------------------------------
-- *śantamenāthā* \< *athā* \< *atha*
+- *śantamenāthā* ← *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śaṃ* \< *śam*
+- *śaṃ* ← *śam*
 - \[noun\], accusative, singular, neuter
 - “luck; well-being; fortune.”
 ------------------------------------------------------------------------
-- *yor* \< *yoḥ* \< *yos*
+- *yor* ← *yoḥ* ← *yos*
 - \[noun\], accusative, singular
 - “fortune.”
 ------------------------------------------------------------------------
-- *arapo* \< *arapaḥ* \< *arapas*
+- *arapo* ← *arapaḥ* ← *arapas*
 - \[noun\], accusative, singular, neuter
 - “safe; unharmed; beneficial.”
 ------------------------------------------------------------------------
-- *dadhāta* \< *dhā*
+- *dadhāta* ← *dhā*
 - \[verb\], plural, Aorist imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

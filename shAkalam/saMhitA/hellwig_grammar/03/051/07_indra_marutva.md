@@ -7,7 +7,7 @@ title = "Rig Veda 3.51.7"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *marutva* \< *marutvas* \< *marutvat*
+- *marutva* ← *marutvas* ← *marutvat*
 - \[noun\], vocative, singular, masculine
 - “Marut(a).”
 ------------------------------------------------------------------------
@@ -15,11 +15,11 @@ title = "Rig Veda 3.51.7"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Aorist imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *somaṃ* \< *somam* \< *soma*
+- *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -27,27 +27,27 @@ title = "Rig Veda 3.51.7"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *śāryāte* \< *śāryāta*
+- *śāryāte* ← *śāryāta*
 - \[noun\], locative, singular, masculine
 - “śaryāti.”
 ------------------------------------------------------------------------
-- *apibaḥ* \< *pā*
+- *apibaḥ* ← *pā*
 - \[verb\], singular, Imperfect
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *sutasya* \< *suta*
+- *sutasya* ← *suta*
 - \[noun\], genitive, singular, masculine
 - “Soma.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *praṇītī* \< *praṇīti*
+- *praṇītī* ← *praṇīti*
 - \[noun\], instrumental, singular, feminine
 - “guidance; guidance.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -56,7 +56,7 @@ title = "Rig Veda 3.51.7"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *śarmann* \< *śarman*
+- *śarmann* ← *śarman*
 - \[noun\], locative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
@@ -64,20 +64,20 @@ title = "Rig Veda 3.51.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vivāsanti* \< *vivās* \< *√van*
+- *vivāsanti* ← *vivās* ← *√van*
 - \[verb\], plural, Present indikative
 - “invite; endeavor; try for.”
 ------------------------------------------------------------------------
-- *kavayaḥ* \< *kavi*
+- *kavayaḥ* ← *kavi*
 - \[noun\], nominative, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *suyajñāḥ* \< *su*
+- *suyajñāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suyajñāḥ* \< *yajñāḥ* \< *yajña*
+- *suyajñāḥ* ← *yajñāḥ* ← *yajña*
 - \[noun\], nominative, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------

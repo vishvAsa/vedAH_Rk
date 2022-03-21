@@ -2,34 +2,34 @@
 title = "Rig Veda 6.47.31"
 
 +++
--   *āmūr* \< *ā*
+-   *āmūr* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *āmūr* \< *amūḥ* \< *adas*
+- *āmūr* ← *amūḥ* ← *adas*
 - \[noun\], accusative, plural, feminine
 - “that; John Doe; yonder; from here.”
 ------------------------------------------------------------------------
-- *aja* \< *aj*
+- *aja* ← *aj*
 - \[verb\], singular, Present imperative
 - “drive; expel.”
 ------------------------------------------------------------------------
-- *pratyāvartayemāḥ* \< *pratyāvartaya* \< *pratyāvartay* \< *√vṛt*
+- *pratyāvartayemāḥ* ← *pratyāvartaya* ← *pratyāvartay* ← *√vṛt*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------
-- *pratyāvartayemāḥ* \< *imāḥ* \< *idam*
+- *pratyāvartayemāḥ* ← *imāḥ* ← *idam*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ketumad* \< *ketumat*
+- *ketumad* ← *ketumat*
 - \[noun\], accusative, singular, neuter
 - “clean.”
 ------------------------------------------------------------------------
-- *dundubhir* \< *dundubhiḥ* \< *dundubhi*
+- *dundubhir* ← *dundubhiḥ* ← *dundubhi*
 - \[noun\], nominative, singular, masculine
 - “dundubhi; war drum; Dundubhi; Vishnu.”
 ------------------------------------------------------------------------
-- *vāvadīti* \< *vāvad* \< *√vad*
+- *vāvadīti* ← *vāvad* ← *√vad*
 - \[verb\], singular, Present indikative
 - “make noise; chatter.”
 ------------------------------------------------------------------------
@@ -37,29 +37,29 @@ title = "Rig Veda 6.47.31"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *aśvaparṇāś* \< *aśva*
+- *aśvaparṇāś* ← *aśva*
 - \[noun\], masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *aśvaparṇāś* \< *parṇāḥ* \< *parṇa*
+- *aśvaparṇāś* ← *parṇāḥ* ← *parṇa*
 - \[noun\], nominative, plural, masculine
 - “leaf; feather; parṇa \[word\]; leaf; wing.”
 ------------------------------------------------------------------------
-- *caranti* \< *car*
+- *caranti* ← *car*
 - \[verb\], plural, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *naro* \< *naraḥ* \< *nṛ*
+- *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *'smākam* \< *asmākam* \< *mad*
+- *'smākam* ← *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -68,11 +68,11 @@ title = "Rig Veda 6.47.31"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *rathino* \< *rathinaḥ* \< *rathin*
+- *rathino* ← *rathinaḥ* ← *rathin*
 - \[noun\], nominative, plural, masculine
 - “driver; charioteer; Kshatriya; owner of a car.”
 ------------------------------------------------------------------------
-- *jayantu* \< *ji*
+- *jayantu* ← *ji*
 - \[verb\], plural, Present imperative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”

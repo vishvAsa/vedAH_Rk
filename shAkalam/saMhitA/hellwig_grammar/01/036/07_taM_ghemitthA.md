@@ -2,23 +2,23 @@
 title = "Rig Veda 1.36.7"
 
 +++
--   *taṃ* \< *tam* \< *tad*
+-   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ghem* \< *gha*
+- *ghem* ← *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ghem* \< *īm* \< *īṃ*
+- *ghem* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *itthā*
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *namasvina* \< *namasvinaḥ* \< *namasvin*
+- *namasvina* ← *namasvinaḥ* ← *namasvin*
 - \[noun\], nominative, plural, masculine
 - “worshiping; reverent.”
 ------------------------------------------------------------------------
@@ -26,25 +26,25 @@ title = "Rig Veda 1.36.7"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *svarājam* \< *svarāj*
+- *svarājam* ← *svarāj*
 - \[noun\], accusative, singular, masculine
 - “svarāj; Vishnu.”
 ------------------------------------------------------------------------
-- *āsate* \< *ās*
+- *āsate* ← *ās*
 - \[verb\], plural, Present indikative
 - “sit; stay; sit down; dwell; lie; lie; exist.”
 ------------------------------------------------------------------------
-- *hotrābhir* \< *hotrābhiḥ* \< *hotrā*
+- *hotrābhir* ← *hotrābhiḥ* ← *hotrā*
 - \[noun\], instrumental, plural, feminine
 - “hotrā \[word\]; Hautra.”
 ------------------------------------------------------------------------
-- *agnim* \< *agni*
+- *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *manuṣaḥ* \< *manus*
+- *manuṣaḥ* ← *manus*
 - \[noun\], nominative, plural, masculine
 - “Manu; man.”
 ------------------------------------------------------------------------
@@ -52,11 +52,11 @@ title = "Rig Veda 1.36.7"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *indhate* \< *indh*
+- *indhate* ← *indh*
 - \[verb\], plural, Present indikative
 - “kindle; ignite; set ablaze.”
 ------------------------------------------------------------------------
-- *titirvāṃso* \< *titirvāṃsaḥ* \< *tṛ*
+- *titirvāṃso* ← *titirvāṃsaḥ* ← *tṛ*
 - \[verb noun\], nominative, plural
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
@@ -64,7 +64,7 @@ title = "Rig Veda 1.36.7"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *sridhaḥ* \< *sridh*
+- *sridhaḥ* ← *sridh*
 - \[noun\], accusative, plural, feminine
 - “failure; damage.”
 ------------------------------------------------------------------------

@@ -2,18 +2,18 @@
 title = "Rig Veda 5.30.4"
 
 +++
--   *sthiram* \< *sthira*
+-   *sthiram* ← *sthira*
 - \[noun\], accusative, singular, neuter
 - “firm; hard; lasting; calm; stable; immovable; firm; strong; sthira
     \[word\]; vegetable; potent; steadfast; durable; firm; trustworthy;
     trustworthy; diligent.”
 ------------------------------------------------------------------------
-- *manaś* \< *manaḥ* \< *manas*
+- *manaś* ← *manaḥ* ← *manas*
 - \[noun\], accusative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *cakṛṣe* \< *kṛ*
+- *cakṛṣe* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -24,7 +24,7 @@ title = "Rig Veda 5.30.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *jāta* \< *jātaḥ* \< *jan*
+- *jāta* ← *jātaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
@@ -35,25 +35,25 @@ title = "Rig Veda 5.30.4"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *veṣīd* \< *veṣi* \< *vī*
+- *veṣīd* ← *veṣi* ← *vī*
 - \[verb\], singular, Present indikative
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *veṣīd* \< *id*
+- *veṣīd* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *eko* \< *ekaḥ* \< *eka*
+- *eko* ← *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *yudhaye* \< *yudh*
+- *yudhaye* ← *yudh*
 - \[verb noun\]
 - “fight; overcome.”
 ------------------------------------------------------------------------
-- *bhūyasaś* \< *bhūyasaḥ* \< *bhūyas*
+- *bhūyasaś* ← *bhūyasaḥ* ← *bhūyas*
 - \[noun\], accusative, plural, masculine
 - “more(a); more(a); abounding in(p); stronger; bigger.”
 ------------------------------------------------------------------------
@@ -61,20 +61,20 @@ title = "Rig Veda 5.30.4"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *aśmānaṃ* \< *aśmānam* \< *aśman*
+- *aśmānaṃ* ← *aśmānam* ← *aśman*
 - \[noun\], accusative, singular, masculine
 - “stone; aśmarī; rock; aśman \[word\]; adri; mineral; piṇḍatālaka;
     mountain.”
 ------------------------------------------------------------------------
-- *cicchavasā* \< *cit*
+- *cicchavasā* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *cicchavasā* \< *śavasā* \< *śavas*
+- *cicchavasā* ← *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *didyuto* \< *didyutaḥ* \< *didyut*
+- *didyuto* ← *didyutaḥ* ← *didyut*
 - \[noun\], genitive, singular, feminine
 - “arrow; Didyut.”
 ------------------------------------------------------------------------
@@ -82,20 +82,20 @@ title = "Rig Veda 5.30.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vido* \< *vidaḥ* \< *vid*
+- *vido* ← *vidaḥ* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *gavām* \< *go*
+- *gavām* ← *go*
 - \[noun\], genitive, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *ūrvam* \< *ūrva*
+- *ūrvam* ← *ūrva*
 - \[noun\], accusative, singular, masculine
 - “pen; Aurva; ocean.”
 ------------------------------------------------------------------------
-- *usriyāṇām* \< *usriya*
+- *usriyāṇām* ← *usriya*
 - \[noun\], genitive, plural, masculine
 - “red.”
 ------------------------------------------------------------------------

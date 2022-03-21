@@ -2,15 +2,15 @@
 title = "Rig Veda 1.87.6"
 
 +++
--   *śriyase* \< *śrī*
+-   *śriyase* ← *śrī*
 - \[verb noun\]
 - “cook; boil; heat; cook; mix.”
 ------------------------------------------------------------------------
-- *kam* \< *kaṃ*
+- *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
 ------------------------------------------------------------------------
-- *bhānubhiḥ* \< *bhānu*
+- *bhānubhiḥ* ← *bhānu*
 - \[noun\], instrumental, plural, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
@@ -19,69 +19,69 @@ title = "Rig Veda 1.87.6"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *mimikṣire* \< *mikṣ*
+- *mimikṣire* ← *mikṣ*
 - \[verb\], plural, Perfect indicative
 - “season.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *raśmibhis* \< *raśmibhiḥ* \< *raśmi*
+- *raśmibhis* ← *raśmibhiḥ* ← *raśmi*
 - \[noun\], instrumental, plural, masculine
 - “beam; rein; sunbeam; shininess; cord.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tad*
+- *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ṛkvabhiḥ* \< *ṛkvan*
+- *ṛkvabhiḥ* ← *ṛkvan*
 - \[noun\], instrumental, plural, masculine
 - “singing.”
 ------------------------------------------------------------------------
-- *sukhādayaḥ* \< *su*
+- *sukhādayaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukhādayaḥ* \< *khādayaḥ* \< *khādi*
+- *sukhādayaḥ* ← *khādayaḥ* ← *khādi*
 - \[noun\], nominative, plural, masculine
 - “ring.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vāśīmanta* \< *vāśīmantaḥ* \< *vāśīmat*
+- *vāśīmanta* ← *vāśīmantaḥ* ← *vāśīmat*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *iṣmiṇo* \< *iṣmiṇaḥ* \< *iṣmin*
+- *iṣmiṇo* ← *iṣmiṇaḥ* ← *iṣmin*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *abhīravo* \< *abhīravaḥ* \< *abhīru*
+- *abhīravo* ← *abhīravaḥ* ← *abhīru*
 - \[noun\], nominative, plural, masculine
 - “brave.”
 ------------------------------------------------------------------------
-- *vidre* \< *vid*
+- *vidre* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *priyasya* \< *priya*
+- *priyasya* ← *priya*
 - \[noun\], genitive, singular, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *mārutasya* \< *māruta*
+- *mārutasya* ← *māruta*
 - \[noun\], genitive, singular, neuter
 - “Marut(a).”
 ------------------------------------------------------------------------
-- *dhāmnaḥ* \< *dhāman*
+- *dhāmnaḥ* ← *dhāman*
 - \[noun\], genitive, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”

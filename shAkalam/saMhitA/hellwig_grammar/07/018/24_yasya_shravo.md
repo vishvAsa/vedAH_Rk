@@ -2,11 +2,11 @@
 title = "Rig Veda 7.18.24"
 
 +++
--   *yasya* \< *yad*
+-   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *śravo* \< *śravaḥ* \< *śravas*
+- *śravo* ← *śravaḥ* ← *śravas*
 - \[noun\], nominative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
@@ -18,35 +18,35 @@ title = "Rig Veda 7.18.24"
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *urvī* \< *uru*
+- *urvī* ← *uru*
 - \[noun\], accusative, dual, feminine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *śīrṣṇe* \< *śīrṣan*
+- *śīrṣṇe* ← *śīrṣan*
 - \[noun\], dative, singular, neuter
 - “head; śīrṣan \[word\].”
 ------------------------------------------------------------------------
-- *śīrṣṇe* \< *śīrṣan*
+- *śīrṣṇe* ← *śīrṣan*
 - \[noun\], dative, singular, neuter
 - “head; śīrṣan \[word\].”
 ------------------------------------------------------------------------
-- *vibabhājā* \< *vibabhāja* \< *vibhaj* \< *√bhaj*
+- *vibabhājā* ← *vibabhāja* ← *vibhaj* ← *√bhaj*
 - \[verb\], singular, Perfect indicative
 - “divide; give away; distribute; choose; allocate; separate; spread;
     consider; assign; distinguish; proportion.”
 ------------------------------------------------------------------------
-- *vibhaktā* \< *vibhaktṛ*
+- *vibhaktā* ← *vibhaktṛ*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *sapted* \< *sapta* \< *saptan*
+- *sapted* ← *sapta* ← *saptan*
 - \[noun\], nominative, singular, neuter
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *sapted* \< *id*
+- *sapted* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -55,11 +55,11 @@ title = "Rig Veda 7.18.24"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sravato* \< *sravataḥ* \< *sravat*
+- *sravato* ← *sravataḥ* ← *sravat*
 - \[noun\], nominative, plural, feminine
 - “river.”
 ------------------------------------------------------------------------
-- *gṛṇanti* \< *gṛ*
+- *gṛṇanti* ← *gṛ*
 - \[verb\], plural, Present indikative
 - “praise.”
 ------------------------------------------------------------------------
@@ -67,14 +67,14 @@ title = "Rig Veda 7.18.24"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *yudhyāmadhim* \< *yudhyāmadhi*
+- *yudhyāmadhim* ← *yudhyāmadhi*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *aśiśād* \< *aśiśāt* \< *śā*
+- *aśiśād* ← *aśiśāt* ← *śā*
 - \[verb\], singular, Imperfect
 - “sharpen; whet; strengthen.”
 ------------------------------------------------------------------------
-- *abhīke* \< *abhīka*
+- *abhīke* ← *abhīka*
 - \[noun\], locative, singular, neuter
 - “battle; meeting.”
 ------------------------------------------------------------------------

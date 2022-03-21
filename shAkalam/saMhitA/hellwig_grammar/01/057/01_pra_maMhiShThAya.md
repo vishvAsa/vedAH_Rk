@@ -6,41 +6,41 @@ title = "Rig Veda 1.57.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *maṃhiṣṭhāya* \< *maṃhiṣṭha*
+- *maṃhiṣṭhāya* ← *maṃhiṣṭha*
 - \[noun\], dative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *bṛhate* \< *bṛhat*
+- *bṛhate* ← *bṛhat*
 - \[noun\], dative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *bṛhadraye* \< *bṛhadri*
+- *bṛhadraye* ← *bṛhadri*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *satyaśuṣmāya* \< *satya*
+- *satyaśuṣmāya* ← *satya*
 - \[noun\]
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *satyaśuṣmāya* \< *śuṣmāya* \< *śuṣma*
+- *satyaśuṣmāya* ← *śuṣmāya* ← *śuṣma*
 - \[noun\], dative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
-- *tavase* \< *tavas*
+- *tavase* ← *tavas*
 - \[noun\], dative, singular, masculine
 - “strong; energetic.”
 ------------------------------------------------------------------------
-- *matim* \< *mati*
+- *matim* ← *mati*
 - \[noun\], accusative, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *bhare* \< *bhṛ*
+- *bhare* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *apām* \< *ap*
+- *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -48,19 +48,19 @@ title = "Rig Veda 1.57.1"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *pravaṇe* \< *pravaṇa*
+- *pravaṇe* ← *pravaṇa*
 - \[noun\], locative, singular, masculine
 - “torrent.”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *durdharaṃ* \< *durdharam* \< *durdhara*
+- *durdharaṃ* ← *durdharam* ← *durdhara*
 - \[noun\], nominative, singular, neuter
 - “unbearable.”
 ------------------------------------------------------------------------
-- *rādho* \< *rādhaḥ* \< *rādhas*
+- *rādho* ← *rādhaḥ* ← *rādhas*
 - \[noun\], nominative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
@@ -68,11 +68,11 @@ title = "Rig Veda 1.57.1"
 - \[noun\], nominative, singular, neuter
 - “lifelong.”
 ------------------------------------------------------------------------
-- *śavase* \< *śavas*
+- *śavase* ← *śavas*
 - \[noun\], dative, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *apāvṛtam* \< *apāvṛ* \< *√vṛ*
+- *apāvṛtam* ← *apāvṛ* ← *√vṛ*
 - \[verb noun\], nominative, singular
 - “open; gape.”
 ------------------------------------------------------------------------

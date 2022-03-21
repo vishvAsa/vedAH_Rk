@@ -2,38 +2,38 @@
 title = "Rig Veda 4.8.1"
 
 +++
--   *dūtaṃ* \< *dūtam* \< *dūta*
+-   *dūtaṃ* ← *dūtam* ← *dūta*
 - \[noun\], accusative, singular, masculine
 - “messenger; emissary; dūta \[word\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *viśvavedasaṃ* \< *viśva*
+- *viśvavedasaṃ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvavedasaṃ* \< *vedasam* \< *vedas*
+- *viśvavedasaṃ* ← *vedasam* ← *vedas*
 - \[noun\], accusative, singular, masculine
 - “knowledge.”
 ------------------------------------------------------------------------
-- *havyavāham* \< *havyavāha*
+- *havyavāham* ← *havyavāha*
 - \[noun\], accusative, singular, masculine
 - “Agni; fire; sacrificial fire.”
 ------------------------------------------------------------------------
-- *amartyam* \< *amartya*
+- *amartyam* ← *amartya*
 - \[noun\], accusative, singular, masculine
 - “immortal.”
 ------------------------------------------------------------------------
-- *yajiṣṭham* \< *yajiṣṭha*
+- *yajiṣṭham* ← *yajiṣṭha*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *ṛñjase* \< *ṛj*
+- *ṛñjase* ← *ṛj*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *girā* \< *gir*
+- *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”

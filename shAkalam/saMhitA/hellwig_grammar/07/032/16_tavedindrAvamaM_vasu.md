@@ -2,20 +2,20 @@
 title = "Rig Veda 7.32.16"
 
 +++
--   *taved* \< *tava* \< *tvad*
+-   *taved* ← *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *taved* \< *id*
+- *taved* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *indrāvamaṃ* \< *indra*
+- *indrāvamaṃ* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrāvamaṃ* \< *avamam* \< *avama*
+- *indrāvamaṃ* ← *avamam* ← *avama*
 - \[noun\], nominative, singular, neuter
 - “avama \[word\]; bottom; last.”
 ------------------------------------------------------------------------
@@ -23,15 +23,15 @@ title = "Rig Veda 7.32.16"
 - \[noun\], nominative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *puṣyasi* \< *puṣ*
+- *puṣyasi* ← *puṣ*
 - \[verb\], singular, Present indikative
 - “boom; grow; promote; foster.”
 ------------------------------------------------------------------------
-- *madhyamam* \< *madhyama*
+- *madhyamam* ← *madhyama*
 - \[noun\], accusative, singular, neuter
 - “intermediate; middle; average; second; average; adult; central;
     moderate; mean; center(a).”
@@ -39,34 +39,34 @@ title = "Rig Veda 7.32.16"
 - *satrā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *viśvasya* \< *viśva*
+- *viśvasya* ← *viśva*
 - \[noun\], genitive, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *paramasya* \< *parama*
+- *paramasya* ← *parama*
 - \[noun\], genitive, singular, neuter
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”
 ------------------------------------------------------------------------
-- *rājasi* \< *rāj*
+- *rājasi* ← *rāj*
 - \[verb\], singular, Present indikative
 - “govern; shine; glitter; direct.”
 ------------------------------------------------------------------------
-- *nakiṣ* \< *nakir*
+- *nakiṣ* ← *nakir*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *ṭvā* \< *tvā* \< *tvad*
+- *ṭvā* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *goṣu* \< *go*
+- *goṣu* ← *go*
 - \[noun\], locative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *vṛṇvate* \< *vṛ*
+- *vṛṇvate* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”

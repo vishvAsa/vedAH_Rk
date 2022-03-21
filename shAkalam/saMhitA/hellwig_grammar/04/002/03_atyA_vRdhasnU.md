@@ -2,55 +2,55 @@
 title = "Rig Veda 4.2.3"
 
 +++
--   *atyā* \< *atya*
+-   *atyā* ← *atya*
 - \[noun\], accusative, dual, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------
-- *vṛdhasnū* \< *vṛdha*
+- *vṛdhasnū* ← *vṛdha*
 - \[noun\]
 - “increasing; promotive.”
 ------------------------------------------------------------------------
-- *vṛdhasnū* \< *snū* \< *snu*
+- *vṛdhasnū* ← *snū* ← *snu*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------
-- *rohitā* \< *rohita*
+- *rohitā* ← *rohita*
 - \[noun\], accusative, dual, masculine
 - “red.”
 ------------------------------------------------------------------------
-- *ghṛtasnū* \< *ghṛtasnu*
+- *ghṛtasnū* ← *ghṛtasnu*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *manye* \< *man*
+- *manye* ← *man*
 - \[verb\], singular, Present indikative
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *javiṣṭhā* \< *javiṣṭha*
+- *javiṣṭhā* ← *javiṣṭha*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------
 - *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *īyase* \< *ī* \< *√i*
+- *īyase* ← *ī* ← *√i*
 - \[verb\], singular, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------
-- *aruṣā* \< *aruṣa*
+- *aruṣā* ← *aruṣa*
 - \[noun\], accusative, dual, masculine
 - “red; red.”
 ------------------------------------------------------------------------
-- *yujāno* \< *yujānaḥ* \< *yuj*
+- *yujāno* ← *yujānaḥ* ← *yuj*
 - \[verb noun\], nominative, singular
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -58,7 +58,7 @@ title = "Rig Veda 4.2.3"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *yuṣmāṃś* \< *yuṣmān* \< *tvad*
+- *yuṣmāṃś* ← *yuṣmān* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
@@ -66,12 +66,12 @@ title = "Rig Veda 4.2.3"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *devān* \< *deva*
+- *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *viśa* \< *viśaḥ* \< *viś*
+- *viśa* ← *viśaḥ* ← *viś*
 - \[noun\], accusative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
@@ -83,7 +83,7 @@ title = "Rig Veda 4.2.3"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *martān* \< *marta*
+- *martān* ← *marta*
 - \[noun\], accusative, plural, masculine
 - “man.”
 ------------------------------------------------------------------------

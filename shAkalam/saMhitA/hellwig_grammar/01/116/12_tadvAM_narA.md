@@ -2,37 +2,37 @@
 title = "Rig Veda 1.116.12"
 
 +++
--   *tad* \< *tat* \< *tad*
+-   *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *narā* \< *nṛ*
+- *narā* ← *nṛ*
 - \[noun\], vocative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *sanaye* \< *sani*
+- *sanaye* ← *sani*
 - \[noun\], dative, singular, feminine
 - “gain.”
 ------------------------------------------------------------------------
-- *daṃsa* \< *daṃsaḥ* \< *daṃsas*
+- *daṃsa* ← *daṃsaḥ* ← *daṃsas*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *ugram* \< *ugra*
+- *ugram* ← *ugra*
 - \[noun\], accusative, singular, neuter
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *āviṣkṛṇomi* \< *āviṣkṛ* \< *√kṛ*
+- *āviṣkṛṇomi* ← *āviṣkṛ* ← *√kṛ*
 - \[verb\], singular, Present indikative
 - “show; uncover.”
 ------------------------------------------------------------------------
-- *tanyatur* \< *tanyatuḥ* \< *tanyatu*
+- *tanyatur* ← *tanyatuḥ* ← *tanyatu*
 - \[noun\], nominative, singular, masculine
 - “thunder.”
 ------------------------------------------------------------------------
@@ -40,11 +40,11 @@ title = "Rig Veda 1.116.12"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vṛṣṭim* \< *vṛṣṭi*
+- *vṛṣṭim* ← *vṛṣṭi*
 - \[noun\], accusative, singular, feminine
 - “rain; shower; rainy season.”
 ------------------------------------------------------------------------
-- *dadhyaṅ* \< *dadhyac*
+- *dadhyaṅ* ← *dadhyac*
 - \[noun\], nominative, singular, masculine
 - “Dadhyac.”
 ------------------------------------------------------------------------
@@ -52,27 +52,27 @@ title = "Rig Veda 1.116.12"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *yan* \< *yat*
+- *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *madhv* \< *madhū* \< *madhu*
+- *madhv* ← *madhū* ← *madhu*
 - \[noun\], accusative, plural, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *ātharvaṇo* \< *ātharvaṇaḥ* \< *ātharvaṇa*
+- *ātharvaṇo* ← *ātharvaṇaḥ* ← *ātharvaṇa*
 - \[noun\], nominative, singular, masculine
 - “Atharva-Veda.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *aśvasya* \< *aśva*
+- *aśvasya* ← *aśva*
 - \[noun\], genitive, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *śīrṣṇā* \< *śīrṣan*
+- *śīrṣṇā* ← *śīrṣan*
 - \[noun\], instrumental, singular, neuter
 - “head; śīrṣan \[word\].”
 ------------------------------------------------------------------------
@@ -80,14 +80,14 @@ title = "Rig Veda 1.116.12"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *īm* \< *īṃ*
+- *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *uvāca* \< *vac*
+- *uvāca* ← *vac*
 - \[verb\], singular, Perfect indicative
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;

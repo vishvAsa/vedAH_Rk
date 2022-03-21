@@ -6,30 +6,30 @@ title = "Rig Veda 2.28.5"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *macchrathāya* \< *mat* \< *mad*
+- *macchrathāya* ← *mat* ← *mad*
 - \[noun\], ablative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *macchrathāya* \< *śrathāya* \< *śrathāy* \< *√śrath*
+- *macchrathāya* ← *śrathāya* ← *śrathāy* ← *√śrath*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------
-- *raśanām* \< *raśanā*
+- *raśanām* ← *raśanā*
 - \[noun\], accusative, singular, feminine
 - “rein; bridle; girdle; cord.”
 ------------------------------------------------------------------------
-- *ivāga* \< *iva*
+- *ivāga* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ivāga* \< *āgaḥ* \< *āgas*
+- *ivāga* ← *āgaḥ* ← *āgas*
 - \[noun\], accusative, singular, neuter
 - “sin; evildoing; mistake.”
 ------------------------------------------------------------------------
-- *ṛdhyāma* \< *ṛdh*
+- *ṛdhyāma* ← *ṛdh*
 - \[verb\], plural, Aorist optative
 - “boom; stick to.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -38,10 +38,10 @@ title = "Rig Veda 2.28.5"
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *khām* \< *khā*
+- *khām* ← *khā*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
@@ -49,25 +49,25 @@ title = "Rig Veda 2.28.5"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *tantuś* \< *tantuḥ* \< *tantu*
+- *tantuś* ← *tantuḥ* ← *tantu*
 - \[noun\], nominative, singular, masculine
 - “thread; fiber; lineage; cobweb; fibril; stalk.”
 ------------------------------------------------------------------------
-- *chedi* \< *chid*
+- *chedi* ← *chid*
 - \[verb\], singular, Aorist passive
 - “cut off; cut; incise; destroy; chop; resolve; divide; hew; open;
     interrupt; strike; fell; cut.”
 ------------------------------------------------------------------------
-- *vayato* \< *vayataḥ* \< *ve*
+- *vayato* ← *vayataḥ* ← *ve*
 - \[verb noun\], genitive, singular
 - “weave.”
 ------------------------------------------------------------------------
-- *dhiyam* \< *dhī*
+- *dhiyam* ← *dhī*
 - \[noun\], accusative, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -81,19 +81,19 @@ title = "Rig Veda 2.28.5"
     particle; mātrā \[word\]; household effects; morsel; mirror;
     substance.”
 ------------------------------------------------------------------------
-- *śāry* \< *śāri* \< *śṛ*
+- *śāry* ← *śāri* ← *śṛ*
 - \[verb\], singular, Aorist passive
 - “fall off; break; disintegrate; crush; break; fracture.”
 ------------------------------------------------------------------------
-- *apasaḥ* \< *apas*
+- *apasaḥ* ← *apas*
 - \[noun\], genitive, singular, masculine
 - “busy; effective; hardworking.”
 ------------------------------------------------------------------------
-- *pura* \< *puras*
+- *pura* ← *puras*
 - \[adverb\]
 - “ahead; puras \[word\]; easterly; eastward; east; earlier.”
 ------------------------------------------------------------------------
-- *ṛtoḥ* \< *ṛtu*
+- *ṛtoḥ* ← *ṛtu*
 - \[noun\], ablative, singular, masculine
 - “season; turn; menstruation; ṛtu \[word\]; time period; order; six.”
 ------------------------------------------------------------------------

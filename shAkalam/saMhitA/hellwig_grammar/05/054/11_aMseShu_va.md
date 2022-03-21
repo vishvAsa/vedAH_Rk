@@ -2,76 +2,76 @@
 title = "Rig Veda 5.54.11"
 
 +++
--   *aṃseṣu* \< *aṃsa*
+-   *aṃseṣu* ← *aṃsa*
 - \[noun\], locative, plural, masculine
 - “shoulder; aṃsa \[word\].”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *ṛṣṭayaḥ* \< *ṛṣṭi*
+- *ṛṣṭayaḥ* ← *ṛṣṭi*
 - \[noun\], nominative, plural, feminine
 - “spear.”
 ------------------------------------------------------------------------
-- *patsu* \< *pad*
+- *patsu* ← *pad*
 - \[noun\], locative, plural, masculine
 - “foot; pad \[word\].”
 ------------------------------------------------------------------------
-- *khādayo* \< *khādayaḥ* \< *khādi*
+- *khādayo* ← *khādayaḥ* ← *khādi*
 - \[noun\], nominative, plural, masculine
 - “ring.”
 ------------------------------------------------------------------------
-- *vakṣassu* \< *vakṣas*
+- *vakṣassu* ← *vakṣas*
 - \[noun\], locative, plural, neuter
 - “breast; breast; bosom; thorax.”
 ------------------------------------------------------------------------
-- *rukmā* \< *rukma*
+- *rukmā* ← *rukma*
 - \[noun\], nominative, plural, neuter
 - “gold; svarṇamākṣika.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *rathe* \< *ratha*
+- *rathe* ← *ratha*
 - \[noun\], locative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *śubhaḥ* \< *śubh*
+- *śubhaḥ* ← *śubh*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *agnibhrājaso* \< *agni*
+- *agnibhrājaso* ← *agni*
 - \[noun\], masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *agnibhrājaso* \< *bhrājasaḥ* \< *bhrājas*
+- *agnibhrājaso* ← *bhrājasaḥ* ← *bhrājas*
 - \[noun\], nominative, plural, feminine
 - “glare.”
 ------------------------------------------------------------------------
-- *vidyuto* \< *vidyutaḥ* \< *vidyut*
+- *vidyuto* ← *vidyutaḥ* ← *vidyut*
 - \[noun\], nominative, plural, feminine
 - “lightning; Vidyut; thunderbolt.”
 ------------------------------------------------------------------------
-- *gabhastyoḥ* \< *gabhasti*
+- *gabhastyoḥ* ← *gabhasti*
 - \[noun\], locative, dual, masculine
 - “beam; hand; sun.”
 ------------------------------------------------------------------------
-- *śiprāḥ* \< *śiprā*
+- *śiprāḥ* ← *śiprā*
 - \[noun\], nominative, plural, feminine
 - “lip; śiprā.”
 ------------------------------------------------------------------------
-- *śīrṣasu* \< *śīrṣan*
+- *śīrṣasu* ← *śīrṣan*
 - \[noun\], locative, plural, neuter
 - “head; śīrṣan \[word\].”
 ------------------------------------------------------------------------
-- *vitatā* \< *vitatāḥ* \< *vitan* \< *√tan*
+- *vitatā* ← *vitatāḥ* ← *vitan* ← *√tan*
 - \[verb noun\], nominative, plural
 - “expand; perform; scatter; prolong; increase.”
 ------------------------------------------------------------------------
-- *hiraṇyayīḥ* \< *hiraṇyaya*
+- *hiraṇyayīḥ* ← *hiraṇyaya*
 - \[noun\], nominative, plural, feminine
 - “gold; aureate; hiraṇyaya \[word\].”
 ------------------------------------------------------------------------

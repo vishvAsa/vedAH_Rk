@@ -2,30 +2,30 @@
 title = "Rig Veda 10.5.6"
 
 +++
--   *sapta* \< *saptan*
+-   *sapta* ← *saptan*
 - \[noun\], accusative, plural, feminine
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *maryādāḥ* \< *maryādā*
+- *maryādāḥ* ← *maryādā*
 - \[noun\], accusative, plural, feminine
 - “boundary; limit; limit; measure; custom.”
 ------------------------------------------------------------------------
-- *kavayas* \< *kavayaḥ* \< *kavi*
+- *kavayas* ← *kavayaḥ* ← *kavi*
 - \[noun\], nominative, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *tatakṣus* \< *tatakṣuḥ* \< *takṣ*
+- *tatakṣus* ← *tatakṣuḥ* ← *takṣ*
 - \[verb\], plural, Perfect indicative
 - “produce; shape; fashion; chisel; invent.”
 ------------------------------------------------------------------------
-- *tāsām* \< *tad*
+- *tāsām* ← *tad*
 - \[noun\], genitive, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ekām* \< *eka*
+- *ekām* ← *eka*
 - \[noun\], accusative, singular, feminine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
@@ -35,50 +35,50 @@ title = "Rig Veda 10.5.6"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *abhy* \< *abhi*
+- *abhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *aṃhuro* \< *aṃhuraḥ* \< *aṃhura*
+- *aṃhuro* ← *aṃhuraḥ* ← *aṃhura*
 - \[noun\], nominative, singular, masculine
 - “disquieted.”
 ------------------------------------------------------------------------
-- *gāt* \< *gā*
+- *gāt* ← *gā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------
-- *āyor* \< *āyoḥ* \< *āyu*
+- *āyor* ← *āyoḥ* ← *āyu*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
 - *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *skambha* \< *skambhaḥ* \< *skambha*
+- *skambha* ← *skambhaḥ* ← *skambha*
 - \[noun\], nominative, singular, masculine
 - “prop.”
 ------------------------------------------------------------------------
-- *upamasya* \< *upama*
+- *upamasya* ← *upama*
 - \[noun\], genitive, singular, masculine
 - “best; topmost.”
 ------------------------------------------------------------------------
-- *nīḍe* \< *nīḍa*
+- *nīḍe* ← *nīḍa*
 - \[noun\], locative, singular, masculine
 - “nest; seat; seat.”
 ------------------------------------------------------------------------
-- *pathāṃ* \< *pathām* \< *pathin*
+- *pathāṃ* ← *pathām* ← *pathin*
 - \[noun\], genitive, plural, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *visarge* \< *visarga*
+- *visarge* ← *visarga*
 - \[noun\], locative, singular, masculine
 - “ejaculation; visarga; elimination; end; creation.”
 ------------------------------------------------------------------------
-- *dharuṇeṣu* \< *dharuṇa*
+- *dharuṇeṣu* ← *dharuṇa*
 - \[noun\], locative, plural, neuter
 - “prop; foundation.”
 ------------------------------------------------------------------------
-- *tasthau* \< *sthā*
+- *tasthau* ← *sthā*
 - \[verb\], singular, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;

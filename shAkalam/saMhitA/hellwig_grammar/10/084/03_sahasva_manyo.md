@@ -2,60 +2,60 @@
 title = "Rig Veda 10.84.3"
 
 +++
--   *sahasva* \< *sah*
+-   *sahasva* ← *sah*
 - \[verb\], singular, Present imperative
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------
-- *manyo* \< *manyu*
+- *manyo* ← *manyu*
 - \[noun\], vocative, singular, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------
-- *abhimātim* \< *abhimāti*
+- *abhimātim* ← *abhimāti*
 - \[noun\], accusative, singular, feminine
 - “aggression; hostility.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rujan* \< *ruj*
+- *rujan* ← *ruj*
 - \[verb noun\], nominative, singular
 - “break; bend.”
 ------------------------------------------------------------------------
-- *mṛṇan* \< *\_* \< *√\_*
+- *mṛṇan* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *pramṛṇan* \< *\_* \< *√\_*
+- *pramṛṇan* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *prehi* \< *pra*
+- *prehi* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prehi* \< *ihi* \< *i*
+- *prehi* ← *ihi* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *śatrūn* \< *śatru*
+- *śatrūn* ← *śatru*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------
-- *ugraṃ* \< *ugram* \< *ugra*
+- *ugraṃ* ← *ugram* ← *ugra*
 - \[noun\], accusative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *pājo* \< *pājaḥ* \< *pājas*
+- *pājo* ← *pājaḥ* ← *pājas*
 - \[noun\], accusative, singular, neuter
 - “luminosity; look.”
 ------------------------------------------------------------------------
-- *nanv* \< *nanu*
+- *nanv* ← *nanu*
 - \[adverb\]
 - “never; nanu \[word\].”
 ------------------------------------------------------------------------
@@ -63,38 +63,38 @@ title = "Rig Veda 10.84.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *rurudhre* \< *rudh*
+- *rurudhre* ← *rudh*
 - \[verb\], plural, Perfect indicative
 - “fill into; close; insert; put; enclose; obstruct; seal; besiege;
     cover; blockade; stop; lock in; plug; withhold; extinguish;
     connect.”
 ------------------------------------------------------------------------
-- *vaśī* \< *vaśin*
+- *vaśī* ← *vaśin*
 - \[noun\], nominative, singular, masculine
 - “powerful; controlling; regnant; authoritative.”
 ------------------------------------------------------------------------
-- *vaśaṃ* \< *vaśam* \< *vaśa*
+- *vaśaṃ* ← *vaśam* ← *vaśa*
 - \[noun\], accusative, singular, masculine
 - “control; dominion; influence; power; Vaśa; vaśa \[word\]; will;
     authority; control; wish; supervision.”
 ------------------------------------------------------------------------
-- *nayasa* \< *nayase* \< *nī*
+- *nayasa* ← *nayase* ← *nī*
 - \[verb\], singular, Present indikative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *ekaja* \< *eka*
+- *ekaja* ← *eka*
 - \[noun\]
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *ekaja* \< *ja*
+- *ekaja* ← *ja*
 - \[noun\], vocative, singular, masculine
 - “produced; caused; born; located; growing; descended from;
     consisting of; ja \[word\]; living; written; flourishing.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------

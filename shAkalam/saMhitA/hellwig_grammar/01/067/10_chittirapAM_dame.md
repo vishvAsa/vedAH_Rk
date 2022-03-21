@@ -2,39 +2,39 @@
 title = "Rig Veda 1.67.10"
 
 +++
--   *cittir* \< *cittiḥ* \< *citti*
+-   *cittir* ← *cittiḥ* ← *citti*
 - \[noun\], nominative, singular, feminine
 - “purpose.”
 ------------------------------------------------------------------------
-- *apāṃ* \< *apām* \< *ap*
+- *apāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *dame* \< *dama*
+- *dame* ← *dama*
 - \[noun\], locative, singular, masculine
 - “dwelling; home.”
 ------------------------------------------------------------------------
-- *viśvāyuḥ* \< *viśvāyu*
+- *viśvāyuḥ* ← *viśvāyu*
 - \[noun\], nominative, singular, masculine
 - “lifelong.”
 ------------------------------------------------------------------------
-- *sadmeva* \< *sadma* \< *sadman*
+- *sadmeva* ← *sadma* ← *sadman*
 - \[noun\], accusative, singular, neuter
 - “seat; house; stable; dwelling.”
 ------------------------------------------------------------------------
-- *sadmeva* \< *iva*
+- *sadmeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *dhīrāḥ* \< *dhīra*
+- *dhīrāḥ* ← *dhīra*
 - \[noun\], nominative, plural, masculine
 - “expert; wise; intelligent; versed; adept.”
 ------------------------------------------------------------------------
-- *saṃmāya* \< *saṃmā* \< *√mā*
+- *saṃmāya* ← *saṃmā* ← *√mā*
 - \[verb noun\]
 - “total; weigh; measure; create; last; look.”
 ------------------------------------------------------------------------
-- *cakruḥ* \< *kṛ*
+- *cakruḥ* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

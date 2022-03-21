@@ -6,60 +6,60 @@ title = "Rig Veda 9.86.47"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dhārā* \< *dhārāḥ* \< *dhārā*
+- *dhārā* ← *dhārāḥ* ← *dhārā*
 - \[noun\], nominative, plural, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *aty* \< *ati*
+- *aty* ← *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *aṇvāni* \< *aṇva*
+- *aṇvāni* ← *aṇva*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *meṣyaḥ* \< *meṣī*
+- *meṣyaḥ* ← *meṣī*
 - \[noun\], accusative, plural, feminine
 - “ewe; Dalbergia oojeinensis.”
 ------------------------------------------------------------------------
-- *punānasya* \< *pū*
+- *punānasya* ← *pū*
 - \[verb noun\], genitive, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *saṃyato* \< *saṃyataḥ* \< *saṃyat*
+- *saṃyato* ← *saṃyataḥ* ← *saṃyat*
 - \[noun\], nominative, plural, feminine
 - “continuous.”
 ------------------------------------------------------------------------
-- *yanti* \< *i*
+- *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *raṃhayaḥ* \< *raṃhi*
+- *raṃhayaḥ* ← *raṃhi*
 - \[noun\], nominative, plural, feminine
 - “speed.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *gobhir* \< *gobhiḥ* \< *go*
+- *gobhir* ← *gobhiḥ* ← *go*
 - \[noun\], instrumental, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *indo* \< *indu*
+- *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *camvoḥ* \< *camū*
+- *camvoḥ* ← *camū*
 - \[noun\], locative, dual, feminine
 - “army; camū; Camū.”
 ------------------------------------------------------------------------
-- *samajyasa* \< *samajyase* \< *samañj* \< *√añj*
+- *samajyasa* ← *samajyase* ← *samañj* ← *√añj*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “anoint.”
 ------------------------------------------------------------------------
@@ -67,7 +67,7 @@ title = "Rig Veda 9.86.47"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *suvānaḥ* \< *su*
+- *suvānaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
@@ -75,11 +75,11 @@ title = "Rig Veda 9.86.47"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *kalaśeṣu* \< *kalaśa*
+- *kalaśeṣu* ← *kalaśa*
 - \[noun\], locative, plural, masculine
 - “jar.”
 ------------------------------------------------------------------------
-- *sīdasi* \< *sad*
+- *sīdasi* ← *sad*
 - \[verb\], singular, Present indikative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”

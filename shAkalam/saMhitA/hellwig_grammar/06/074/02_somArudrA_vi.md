@@ -2,18 +2,18 @@
 title = "Rig Veda 6.74.2"
 
 +++
--   *somārudrā* \< *somārudra*
+-   *somārudrā* ← *somārudra*
 - \[noun\], vocative, dual, masculine
 ------------------------------------------------------------------------
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vṛhataṃ* \< *vṛhatam* \< *vṛh*
+- *vṛhataṃ* ← *vṛhatam* ← *vṛh*
 - \[verb\], dual, Present imperative
 - “extract.”
 ------------------------------------------------------------------------
-- *viṣūcīm* \< *viṣvañc*
+- *viṣūcīm* ← *viṣvañc*
 - \[noun\], accusative, singular, feminine
 - “dispersed; viṣvañc \[word\].”
 ------------------------------------------------------------------------
@@ -21,19 +21,19 @@ title = "Rig Veda 6.74.2"
 - \[noun\], nominative, singular, feminine
 - “disease; affliction.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *gayam* \< *gaya*
+- *gayam* ← *gaya*
 - \[noun\], accusative, singular, masculine
 - “house; Gaya; family; Gaya; property; Gaya; wealth; livestock.”
 ------------------------------------------------------------------------
-- *āviveśa* \< *āviś* \< *√viś*
+- *āviveśa* ← *āviś* ← *√viś*
 - \[verb\], singular, Perfect indicative
 - “enter; overwhelm; possess; approach; afflict; enter (a state);
     reach; wear.”
@@ -42,30 +42,30 @@ title = "Rig Veda 6.74.2"
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *bādhethāṃ* \< *bādhethām* \< *bādh*
+- *bādhethāṃ* ← *bādhethām* ← *bādh*
 - \[verb\], dual, Present imperative
 - “afflict; annoy; chase away; tease; grieve; irritate.”
 ------------------------------------------------------------------------
-- *nirṛtim* \< *nirṛti*
+- *nirṛtim* ← *nirṛti*
 - \[noun\], accusative, singular, feminine
 - “destruction; Nirṛti; adversity.”
 ------------------------------------------------------------------------
-- *parācair* \< *parācais*
+- *parācair* ← *parācais*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *bhadrā* \< *bhadra*
+- *bhadrā* ← *bhadra*
 - \[noun\], nominative, plural, neuter
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *sauśravasāni* \< *sauśravasa*
+- *sauśravasāni* ← *sauśravasa*
 - \[noun\], nominative, plural, neuter
 ------------------------------------------------------------------------
-- *santu* \< *as*
+- *santu* ← *as*
 - \[verb\], plural, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

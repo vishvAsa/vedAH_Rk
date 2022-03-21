@@ -2,13 +2,13 @@
 title = "Rig Veda 10.98.12"
 
 +++
--   *agne* \< *agni*
+-   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *bādhasva* \< *bādh*
+- *bādhasva* ← *bādh*
 - \[verb\], singular, Present imperative
 - “afflict; annoy; chase away; tease; grieve; irritate.”
 ------------------------------------------------------------------------
@@ -16,7 +16,7 @@ title = "Rig Veda 10.98.12"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *mṛdho* \< *mṛdhaḥ* \< *mṛdh*
+- *mṛdho* ← *mṛdhaḥ* ← *mṛdh*
 - \[noun\], accusative, plural, feminine
 - “enemy; adversary.”
 ------------------------------------------------------------------------
@@ -24,15 +24,15 @@ title = "Rig Veda 10.98.12"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *durgahāpāmīvām* \< *durgahā* \< *durgaha*
+- *durgahāpāmīvām* ← *durgahā* ← *durgaha*
 - \[noun\], accusative, plural, neuter
 - “danger; abyss; wilderness.”
 ------------------------------------------------------------------------
-- *durgahāpāmīvām* \< *apa*
+- *durgahāpāmīvām* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *durgahāpāmīvām* \< *amīvām* \< *amīvā*
+- *durgahāpāmīvām* ← *amīvām* ← *amīvā*
 - \[noun\], accusative, singular, feminine
 - “disease; affliction.”
 ------------------------------------------------------------------------
@@ -40,40 +40,40 @@ title = "Rig Veda 10.98.12"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *rakṣāṃsi* \< *rakṣas*
+- *rakṣāṃsi* ← *rakṣas*
 - \[noun\], accusative, plural, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
 ------------------------------------------------------------------------
-- *sedha* \< *sidh*
+- *sedha* ← *sidh*
 - \[verb\], singular, Present imperative
 - “chase away; repel.”
 ------------------------------------------------------------------------
-- *asmāt* \< *idam*
+- *asmāt* ← *idam*
 - \[noun\], ablative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *samudrād* \< *samudrāt* \< *samudra*
+- *samudrād* ← *samudrāt* ← *samudra*
 - \[noun\], ablative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *bṛhato* \< *bṛhataḥ* \< *bṛhat*
+- *bṛhato* ← *bṛhataḥ* ← *bṛhat*
 - \[noun\], genitive, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *'pām* \< *apām* \< *ap*
+- *'pām* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *bhūmānam* \< *bhūman*
+- *bhūmānam* ← *bhūman*
 - \[noun\], accusative, singular, masculine
 - “abundance; wealth; success; Krishna; plural.”
 ------------------------------------------------------------------------
@@ -81,16 +81,16 @@ title = "Rig Veda 10.98.12"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sṛjeha* \< *sṛja* \< *sṛj*
+- *sṛjeha* ← *sṛja* ← *sṛj*
 - \[verb\], singular, Present imperative
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *sṛjeha* \< *iha*
+- *sṛjeha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------

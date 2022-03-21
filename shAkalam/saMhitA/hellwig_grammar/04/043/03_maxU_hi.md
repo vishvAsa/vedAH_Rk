@@ -10,25 +10,25 @@ title = "Rig Veda 4.43.3"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *ṣmā* \< *sma*
+- *ṣmā* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *gacchatha* \< *gacchathaḥ* \< *gam*
+- *gacchatha* ← *gacchathaḥ* ← *gam*
 - \[verb\], dual, Present indikative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *īvato* \< *īvataḥ* \< *īvat*
+- *īvato* ← *īvataḥ* ← *īvat*
 - \[noun\], accusative, plural, masculine
 - “such(a).”
 ------------------------------------------------------------------------
-- *dyūn* \< *div*
+- *dyūn* ← *div*
 - \[noun\], accusative, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -37,46 +37,46 @@ title = "Rig Veda 4.43.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śaktim* \< *śakti*
+- *śaktim* ← *śakti*
 - \[noun\], accusative, singular, feminine
 - “spear; ability; Shakti; potency; power; capacity; śakti \[word\];
     potency; capability; reproduction.”
 ------------------------------------------------------------------------
-- *paritakmyāyām* \< *paritakmyā*
+- *paritakmyāyām* ← *paritakmyā*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
-- *diva* \< *divaḥ* \< *div*
+- *diva* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *ājātā* \< *ājan* \< *√jan*
+- *ājātā* ← *ājan* ← *√jan*
 - \[verb noun\], nominative, dual
 - “be born.”
 ------------------------------------------------------------------------
-- *divyā* \< *divya*
+- *divyā* ← *divya*
 - \[noun\], nominative, dual, masculine
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
 ------------------------------------------------------------------------
-- *suparṇā* \< *suparṇa*
+- *suparṇā* ← *suparṇa*
 - \[noun\], nominative, dual, masculine
 - “Garuda; Suparṇa; bird of prey; Suparṇa; suparṇa; Suparṇa; eagle.”
 ------------------------------------------------------------------------
-- *kayā* \< *ka*
+- *kayā* ← *ka*
 - \[noun\], instrumental, singular, feminine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *śacīnām* \< *śacī*
+- *śacīnām* ← *śacī*
 - \[noun\], genitive, plural, feminine
 - “Śacī; power; dexterity; ability; aid.”
 ------------------------------------------------------------------------
-- *bhavathaḥ* \< *bhū*
+- *bhavathaḥ* ← *bhū*
 - \[verb\], dual, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *śaciṣṭhā* \< *śaciṣṭha*
+- *śaciṣṭhā* ← *śaciṣṭha*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------

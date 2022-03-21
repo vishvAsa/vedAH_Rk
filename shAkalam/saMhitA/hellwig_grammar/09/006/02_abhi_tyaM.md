@@ -6,26 +6,26 @@ title = "Rig Veda 9.6.2"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *tyam* \< *tya*
+- *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *madyam* \< *mad*
+- *madyam* ← *mad*
 - \[verb noun\], accusative, singular
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *madam* \< *mada*
+- *madam* ← *mada*
 - \[noun\], accusative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *indav* \< *indo* \< *indu*
+- *indav* ← *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *indra* \< *indraḥ* \< *indra*
+- *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -34,7 +34,7 @@ title = "Rig Veda 9.6.2"
 - \[adverb\]
 - “thus; so; iti \[word\].”
 ------------------------------------------------------------------------
-- *kṣara* \< *kṣar*
+- *kṣara* ← *kṣar*
 - \[verb\], singular, Present imperative
 - “run; melt.”
 ------------------------------------------------------------------------
@@ -42,11 +42,11 @@ title = "Rig Veda 9.6.2"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *vājino* \< *vājinaḥ* \< *vājin*
+- *vājino* ← *vājinaḥ* ← *vājin*
 - \[noun\], accusative, plural, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------
-- *arvataḥ* \< *arvant*
+- *arvataḥ* ← *arvant*
 - \[noun\], accusative, plural, masculine
 - “horse.”
 ------------------------------------------------------------------------

@@ -6,34 +6,34 @@ title = "Rig Veda 4.30.5"
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *devāṃ* \< *deva*
+- *devāṃ* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *ṛghāyato* \< *ṛghāyataḥ* \< *ṛghāy*
+- *ṛghāyato* ← *ṛghāyataḥ* ← *ṛghāy*
 - \[verb noun\], genitive, singular
 ------------------------------------------------------------------------
-- *viśvāṃ* \< *viśvān* \< *viśva*
+- *viśvāṃ* ← *viśvān* ← *viśva*
 - \[noun\], accusative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *ayudhya* \< *ayudhyaḥ* \< *yudh*
+- *ayudhya* ← *ayudhyaḥ* ← *yudh*
 - \[verb\], singular, Imperfect
 - “fight; overcome.”
 ------------------------------------------------------------------------
-- *eka* \< *ekaḥ* \< *eka*
+- *eka* ← *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -42,10 +42,10 @@ title = "Rig Veda 4.30.5"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vanūṃr* \< *vanūn* \< *vanu*
+- *vanūṃr* ← *vanūn* ← *vanu*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *ahan* \< *han*
+- *ahan* ← *han*
 - \[verb\], singular, Root aorist (Ind.)
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;

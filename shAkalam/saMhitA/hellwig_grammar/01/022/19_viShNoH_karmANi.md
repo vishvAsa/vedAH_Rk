@@ -2,11 +2,11 @@
 title = "Rig Veda 1.22.19"
 
 +++
--   *viṣṇoḥ* \< *viṣṇu*
+-   *viṣṇoḥ* ← *viṣṇu*
 - \[noun\], genitive, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
 ------------------------------------------------------------------------
-- *karmāṇi* \< *karman*
+- *karmāṇi* ← *karman*
 - \[noun\], accusative, plural, neuter
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
     function; production; job; operation; karman \[word\]; act; job;
@@ -14,35 +14,35 @@ title = "Rig Veda 1.22.19"
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
 ------------------------------------------------------------------------
-- *paśyata* \< *paś*
+- *paśyata* ← *paś*
 - \[verb\], plural, Present imperative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *yato* \< *yatas*
+- *yato* ← *yatas*
 - \[adverb\]
 - “from which; whence; wherein.”
 ------------------------------------------------------------------------
-- *vratāni* \< *vrata*
+- *vratāni* ← *vrata*
 - \[noun\], accusative, plural, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *paspaśe* \< *paś*
+- *paspaśe* ← *paś*
 - \[verb\], singular, Perfect indicative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yujyaḥ* \< *yujya*
+- *yujyaḥ* ← *yujya*
 - \[noun\], nominative, singular, masculine
 - “adequate to(p); appropriate; united; allied.”
 ------------------------------------------------------------------------
-- *sakhā* \< *sakhi*
+- *sakhā* ← *sakhi*
 - \[noun\], nominative, singular
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------

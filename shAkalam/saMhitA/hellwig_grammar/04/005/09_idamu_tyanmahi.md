@@ -10,7 +10,7 @@ title = "Rig Veda 4.5.9"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tyan* \< *tyad* \< *tya*
+- *tyan* ← *tyad* ← *tya*
 - \[noun\], nominative, singular, neuter
 - “that.”
 ------------------------------------------------------------------------
@@ -18,15 +18,15 @@ title = "Rig Veda 4.5.9"
 - \[noun\], nominative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *mahām* \< *mah*
+- *mahām* ← *mah*
 - \[noun\], genitive, plural, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *anīkaṃ* \< *anīkam* \< *anīka*
+- *anīkaṃ* ← *anīkam* ← *anīka*
 - \[noun\], nominative, singular, neuter
 - “army; face; battalion; battlefront; point; appearance.”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -34,24 +34,24 @@ title = "Rig Veda 4.5.9"
 - \[noun\], nominative, singular, feminine
 - “cow; dairy product.”
 ------------------------------------------------------------------------
-- *sacata* \< *sac*
+- *sacata* ← *sac*
 - \[verb\], singular, Present injunctive
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *pūrvyaṃ* \< *pūrvyam* \< *pūrvya*
+- *pūrvyaṃ* ← *pūrvyam* ← *pūrvya*
 - \[noun\], accusative, singular, neuter
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------
-- *gauḥ* \< *go*
+- *gauḥ* ← *go*
 - \[noun\], nominative, singular, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *pade* \< *pada*
+- *pade* ← *pada*
 - \[noun\], locative, singular, neuter
 - “word; location; foot; footprint; pada \[word\]; verse; footstep;
     metrical foot; situation; dwelling; state; step; mark; position;
@@ -62,7 +62,7 @@ title = "Rig Veda 4.5.9"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *dīdyānaṃ* \< *dīdyānam* \< *dīdī*
+- *dīdyānaṃ* ← *dīdyānam* ← *dīdī*
 - \[verb noun\], accusative, singular
 - “shine; glitter.”
 ------------------------------------------------------------------------
@@ -73,15 +73,15 @@ title = "Rig Veda 4.5.9"
 - *raghuṣyad*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *raghuyad* \< *raghu*
+- *raghuyad* ← *raghu*
 - \[noun\]
 - “low; fast.”
 ------------------------------------------------------------------------
-- *raghuyad* \< *yat* \< *i*
+- *raghuyad* ← *yat* ← *i*
 - \[verb noun\], accusative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *viveda* \< *vid*
+- *viveda* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------

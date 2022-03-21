@@ -10,58 +10,58 @@ title = "Rig Veda 6.71.4"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣya* \< *sya* \< *tya*
+- *ṣya* ← *sya* ← *tya*
 - \[noun\], nominative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *devaḥ* \< *deva*
+- *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *savitā* \< *savitṛ*
+- *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *damūnā* \< *damūnāḥ* \< *damūnas*
+- *damūnā* ← *damūnāḥ* ← *damūnas*
 - \[noun\], nominative, singular, masculine
 - “master.”
 ------------------------------------------------------------------------
-- *hiraṇyapāṇiḥ* \< *hiraṇya*
+- *hiraṇyapāṇiḥ* ← *hiraṇya*
 - \[noun\]
 - “aureate; gold.”
 ------------------------------------------------------------------------
-- *hiraṇyapāṇiḥ* \< *pāṇiḥ* \< *pāṇi*
+- *hiraṇyapāṇiḥ* ← *pāṇiḥ* ← *pāṇi*
 - \[noun\], nominative, singular, masculine
 - “hand; hoof; pāṇi \[word\].”
 ------------------------------------------------------------------------
 - *pratidoṣam*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *asthāt* \< *sthā*
+- *asthāt* ← *sthā*
 - \[verb\], singular, Root aorist (Ind.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *ayohanur* \< *ayaḥ* \< *ayas*
+- *ayohanur* ← *ayaḥ* ← *ayas*
 - \[noun\], neuter
 - “iron; kāntaloha; ayas \[word\]; tīkṣṇaloha; metallic element;
     weapon.”
 ------------------------------------------------------------------------
-- *ayohanur* \< *hanuḥ* \< *hanu*
+- *ayohanur* ← *hanuḥ* ← *hanu*
 - \[noun\], nominative, singular, masculine
 - “jaw.”
 ------------------------------------------------------------------------
-- *yajato* \< *yajataḥ* \< *yajata*
+- *yajato* ← *yajataḥ* ← *yajata*
 - \[noun\], nominative, singular, masculine
 - “holy; august; sacrificial.”
 ------------------------------------------------------------------------
-- *mandrajihva* \< *mandra*
+- *mandrajihva* ← *mandra*
 - \[noun\]
 - “pleasant; eloquent; dulcet.”
 ------------------------------------------------------------------------
-- *mandrajihva* \< *jihvaḥ* \< *jihvā*
+- *mandrajihva* ← *jihvaḥ* ← *jihvā*
 - \[noun\], nominative, singular, masculine
 - “tongue; tongue; jihvā \[word\]; fire.”
 ------------------------------------------------------------------------
@@ -69,11 +69,11 @@ title = "Rig Veda 6.71.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *suvati* \< *sū*
+- *suvati* ← *sū*
 - \[verb\], singular, Present indikative
 - “give birth; urge; bestow; cause.”
 ------------------------------------------------------------------------
@@ -81,7 +81,7 @@ title = "Rig Veda 6.71.4"
 - \[noun\], accusative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *vāmam* \< *vāma*
+- *vāmam* ← *vāma*
 - \[noun\], accusative, singular, neuter
 - “agreeable; vāma \[word\]; beautiful.”
 ------------------------------------------------------------------------

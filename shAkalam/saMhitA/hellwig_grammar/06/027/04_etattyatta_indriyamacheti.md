@@ -2,43 +2,43 @@
 title = "Rig Veda 6.27.4"
 
 +++
--   *etat* \< *etad*
+-   *etat* ← *etad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *tyat* \< *tyad* \< *tya*
+- *tyat* ← *tyad* ← *tya*
 - \[noun\], nominative, singular, neuter
 - “that.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *indriyam* \< *indriya*
+- *indriyam* ← *indriya*
 - \[noun\], nominative, singular, neuter
 - “sense organ; Indriya; sense; power; semen; indriya \[word\]; mind;
     penis; manfulness; force.”
 ------------------------------------------------------------------------
-- *aceti* \< *cit*
+- *aceti* ← *cit*
 - \[verb\], singular, Aorist passive
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *yenāvadhīr* \< *yena* \< *yad*
+- *yenāvadhīr* ← *yena* ← *yad*
 - \[noun\], instrumental, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yenāvadhīr* \< *avadhīḥ* \< *vadh*
+- *yenāvadhīr* ← *avadhīḥ* ← *vadh*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “kill; assail; kick; māray; destroy; beat.”
 ------------------------------------------------------------------------
-- *varaśikhasya* \< *varaśikha*
+- *varaśikhasya* ← *varaśikha*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *śeṣaḥ* \< *śeṣas*
+- *śeṣaḥ* ← *śeṣas*
 - \[noun\], accusative, singular, neuter
 - “offspring.”
 ------------------------------------------------------------------------
-- *vajrasya* \< *vajra*
+- *vajrasya* ← *vajra*
 - \[noun\], genitive, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
@@ -47,24 +47,24 @@ title = "Rig Veda 6.27.4"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *nihatasya* \< *nihan* \< *√han*
+- *nihatasya* ← *nihan* ← *√han*
 - \[verb noun\], genitive, singular
 - “kill; cure; māray; destroy; remove; attack; beat; obviate; beat;
     destroy; assail; overpower; hurt.”
 ------------------------------------------------------------------------
-- *śuṣmāt* \< *śuṣma*
+- *śuṣmāt* ← *śuṣma*
 - \[noun\], ablative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
-- *svanāc* \< *svanāt* \< *svana*
+- *svanāc* ← *svanāt* ← *svana*
 - \[noun\], ablative, singular, masculine
 - “noise; sound; svan.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -73,12 +73,12 @@ title = "Rig Veda 6.27.4"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *paramo* \< *paramaḥ* \< *parama*
+- *paramo* ← *paramaḥ* ← *parama*
 - \[noun\], nominative, singular, masculine
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”
 ------------------------------------------------------------------------
-- *dadāra* \< *dṛ*
+- *dadāra* ← *dṛ*
 - \[verb\], singular, Perfect indicative
 - “burst; burst.”
 ------------------------------------------------------------------------

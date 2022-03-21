@@ -2,40 +2,40 @@
 title = "Rig Veda 1.13.5"
 
 +++
--   *stṛṇīta* \< *stṛ*
+-   *stṛṇīta* ← *stṛ*
 - \[verb\], plural, Present imperative
 - “spread; kill; lay; cover.”
 ------------------------------------------------------------------------
-- *barhir* \< *barhiḥ* \< *barhis*
+- *barhir* ← *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *ānuṣag* \< *ānuṣak*
+- *ānuṣag* ← *ānuṣak*
 - \[adverb\]
 - “correctly; in sequence; punctually.”
 ------------------------------------------------------------------------
-- *ghṛtapṛṣṭham* \< *ghṛta*
+- *ghṛtapṛṣṭham* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *ghṛtapṛṣṭham* \< *pṛṣṭham* \< *pṛṣṭha*
+- *ghṛtapṛṣṭham* ← *pṛṣṭham* ← *pṛṣṭha*
 - \[noun\], accusative, singular, neuter
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
 ------------------------------------------------------------------------
-- *manīṣiṇaḥ* \< *manīṣin*
+- *manīṣiṇaḥ* ← *manīṣin*
 - \[noun\], vocative, plural, masculine
 - “sage; expert; devout.”
 ------------------------------------------------------------------------
-- *yatrāmṛtasya* \< *yatrā* \< *yatra*
+- *yatrāmṛtasya* ← *yatrā* ← *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *yatrāmṛtasya* \< *amṛtasya* \< *amṛta*
+- *yatrāmṛtasya* ← *amṛtasya* ← *amṛta*
 - \[noun\], genitive, singular, masculine
 - “mercury; Phaseolus trilobus Ait.; Vishnu; Shiva; deity.”
 ------------------------------------------------------------------------
-- *cakṣaṇam* \< *cakṣaṇa*
+- *cakṣaṇam* ← *cakṣaṇa*
 - \[noun\], nominative, singular, neuter
 - “appearance.”
 ------------------------------------------------------------------------

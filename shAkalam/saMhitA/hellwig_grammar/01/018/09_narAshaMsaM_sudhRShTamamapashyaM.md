@@ -2,22 +2,22 @@
 title = "Rig Veda 1.18.9"
 
 +++
--   *narāśaṃsaṃ* \< *narāśaṃsam* \< *narāśaṃsa*
+-   *narāśaṃsaṃ* ← *narāśaṃsam* ← *narāśaṃsa*
 - \[noun\], accusative, singular, masculine
 - “Agni.”
 ------------------------------------------------------------------------
-- *sudhṛṣṭamam* \< *sudhṛṣṭama*
+- *sudhṛṣṭamam* ← *sudhṛṣṭama*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *apaśyaṃ* \< *apaśyam* \< *paś*
+- *apaśyaṃ* ← *apaśyam* ← *paś*
 - \[verb\], singular, Imperfect
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *saprathastamam* \< *saprathastama*
+- *saprathastamam* ← *saprathastama*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -25,6 +25,6 @@ title = "Rig Veda 1.18.9"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sadmamakhasam* \< *sadmamakhas*
+- *sadmamakhasam* ← *sadmamakhas*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------

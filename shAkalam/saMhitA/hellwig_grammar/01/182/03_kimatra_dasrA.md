@@ -2,7 +2,7 @@
 title = "Rig Veda 1.182.3"
 
 +++
--   *kim* \< *ka*
+-   *kim* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -11,11 +11,11 @@ title = "Rig Veda 1.182.3"
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *dasrā* \< *dasra*
+- *dasrā* ← *dasra*
 - \[noun\], vocative, dual, masculine
 - “Asvins.”
 ------------------------------------------------------------------------
-- *kṛṇuthaḥ* \< *kṛ*
+- *kṛṇuthaḥ* ← *kṛ*
 - \[verb\], dual, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -26,40 +26,40 @@ title = "Rig Veda 1.182.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *kim* \< *ka*
+- *kim* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *āsāthe* \< *ās*
+- *āsāthe* ← *ās*
 - \[verb\], dual, Present indikative
 - “sit; stay; sit down; dwell; lie; lie; exist.”
 ------------------------------------------------------------------------
-- *jano* \< *janaḥ* \< *jana*
+- *jano* ← *janaḥ* ← *jana*
 - \[noun\], nominative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *kaś* \< *kaḥ* \< *ka*
+- *kaś* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ahavir* \< *a*
+- *ahavir* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *ahavir* \< *haviḥ* \< *havis*
+- *ahavir* ← *haviḥ* ← *havis*
 - \[noun\], nominative, singular, masculine
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *mahīyate* \< *mahīy*
+- *mahīyate* ← *mahīy*
 - \[verb\], singular, Present indikative
 - “rejoice; revel.”
 ------------------------------------------------------------------------
@@ -67,32 +67,32 @@ title = "Rig Veda 1.182.3"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *kramiṣṭaṃ* \< *kramiṣṭam* \< *kram*
+- *kramiṣṭaṃ* ← *kramiṣṭam* ← *kram*
 - \[verb\], dual, Aorist imperative
 - “kram; step; go; continue; proceed; traverse; heat.”
 ------------------------------------------------------------------------
-- *juratam* \< *jṛ*
+- *juratam* ← *jṛ*
 - \[verb\], dual, Present imperative
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
 ------------------------------------------------------------------------
-- *paṇer* \< *paṇeḥ* \< *paṇi*
+- *paṇer* ← *paṇeḥ* ← *paṇi*
 - \[noun\], genitive, singular, masculine
 - “niggard; paṇ.”
 ------------------------------------------------------------------------
-- *asuṃ* \< *asum* \< *asu*
+- *asuṃ* ← *asum* ← *asu*
 - \[noun\], accusative, singular, masculine
 - “life.”
 ------------------------------------------------------------------------
-- *jyotir* \< *jyotiḥ* \< *jyotis*
+- *jyotir* ← *jyotiḥ* ← *jyotis*
 - \[noun\], accusative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
 ------------------------------------------------------------------------
-- *viprāya* \< *vipra*
+- *viprāya* ← *vipra*
 - \[noun\], dative, singular, masculine
 - “eloquent; stimulated; divine.”
 ------------------------------------------------------------------------
-- *kṛṇutaṃ* \< *kṛṇutam* \< *kṛ*
+- *kṛṇutaṃ* ← *kṛṇutam* ← *kṛ*
 - \[verb\], dual, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -103,7 +103,7 @@ title = "Rig Veda 1.182.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *vacasyave* \< *vacasyu*
+- *vacasyave* ← *vacasyu*
 - \[noun\], dative, singular, masculine
 - “eloquent.”
 ------------------------------------------------------------------------

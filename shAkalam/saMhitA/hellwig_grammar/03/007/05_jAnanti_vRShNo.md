@@ -2,21 +2,21 @@
 title = "Rig Veda 3.7.5"
 
 +++
--   *jānanti* \< *jñā*
+-   *jānanti* ← *jñā*
 - \[verb\], plural, Present indikative
 - “know; diagnose; perceive; know; come to know; notice; determine;
     think of; find; learn; perceive; identify; recognize; understand;
     know; learn; ascertain; detect; deem.”
 ------------------------------------------------------------------------
-- *vṛṣṇo* \< *vṛṣṇaḥ* \< *vṛṣan*
+- *vṛṣṇo* ← *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *aruṣasya* \< *aruṣa*
+- *aruṣasya* ← *aruṣa*
 - \[noun\], genitive, singular, masculine
 - “red; red.”
 ------------------------------------------------------------------------
-- *śevam* \< *śeva*
+- *śevam* ← *śeva*
 - \[noun\], accusative, singular, neuter
 - “friendly; favorable; dear.”
 ------------------------------------------------------------------------
@@ -24,30 +24,30 @@ title = "Rig Veda 3.7.5"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *bradhnasya* \< *bradhna*
+- *bradhnasya* ← *bradhna*
 - \[noun\], genitive, singular, masculine
 - “sun; horse.”
 ------------------------------------------------------------------------
-- *śāsane* \< *śāsana*
+- *śāsane* ← *śāsana*
 - \[noun\], locative, singular, neuter
 - “command; decree; order; doctrine; command; punishment.”
 ------------------------------------------------------------------------
-- *raṇanti* \< *raṇ*
+- *raṇanti* ← *raṇ*
 - \[verb\], plural, Present indikative
 - “rejoice.”
 ------------------------------------------------------------------------
-- *divorucaḥ* \< *divoruc*
+- *divorucaḥ* ← *divoruc*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *suruco* \< *su*
+- *suruco* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suruco* \< *rucaḥ* \< *ruc*
+- *suruco* ← *rucaḥ* ← *ruc*
 - \[noun\], nominative, plural, masculine
 - “beam; radiance; color.”
 ------------------------------------------------------------------------
-- *rocamānā* \< *rocamānāḥ* \< *ruc*
+- *rocamānā* ← *rocamānāḥ* ← *ruc*
 - \[verb noun\], nominative, plural
 - “please; shine.”
 ------------------------------------------------------------------------
@@ -55,18 +55,18 @@ title = "Rig Veda 3.7.5"
 - \[noun\], nominative, singular, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
 ------------------------------------------------------------------------
-- *yeṣāṃ* \< *yeṣām* \< *yad*
+- *yeṣāṃ* ← *yeṣām* ← *yad*
 - \[noun\], genitive, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *gaṇyā* \< *gaṇya*
+- *gaṇyā* ← *gaṇya*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *māhinā* \< *māhina*
+- *māhinā* ← *māhina*
 - \[noun\], nominative, singular, feminine
 - “mighty; large.”
 ------------------------------------------------------------------------
-- *gīḥ* \< *gir*
+- *gīḥ* ← *gir*
 - \[noun\], nominative, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”

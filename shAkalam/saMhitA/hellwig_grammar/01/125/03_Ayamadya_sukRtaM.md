@@ -2,7 +2,7 @@
 title = "Rig Veda 1.125.3"
 
 +++
--   *āyam* \< *i*
+-   *āyam* ← *i*
 - \[verb\], singular, Imperfect
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
@@ -10,11 +10,11 @@ title = "Rig Veda 1.125.3"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *sukṛtam* \< *su*
+- *sukṛtam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukṛtam* \< *kṛtam* \< *kṛt*
+- *sukṛtam* ← *kṛtam* ← *kṛt*
 - \[noun\], accusative, singular, masculine
 - “causing; making; performing; promotive; producing; doing; acting;
     writing; transforming; effecting.”
@@ -23,56 +23,56 @@ title = "Rig Veda 1.125.3"
 - \[adverb\]
 - “at dawn; early.”
 ------------------------------------------------------------------------
-- *icchann* \< *icchan* \< *iṣ*
+- *icchann* ← *icchan* ← *iṣ*
 - \[verb noun\], nominative, singular
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
 ------------------------------------------------------------------------
-- *iṣṭeḥ* \< *iṣṭi*
+- *iṣṭeḥ* ← *iṣṭi*
 - \[noun\], genitive, singular, feminine
 - “seeking.”
 ------------------------------------------------------------------------
-- *putraṃ* \< *putram* \< *putra*
+- *putraṃ* ← *putram* ← *putra*
 - \[noun\], accusative, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
-- *vasumatā* \< *vasumat*
+- *vasumatā* ← *vasumat*
 - \[noun\], instrumental, singular, masculine
 - “deluxe; affluent; rich.”
 ------------------------------------------------------------------------
-- *rathena* \< *ratha*
+- *rathena* ← *ratha*
 - \[noun\], instrumental, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *aṃśoḥ* \< *aṃśu*
+- *aṃśoḥ* ← *aṃśu*
 - \[noun\], genitive, singular, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
 ------------------------------------------------------------------------
-- *sutam* \< *suta*
+- *sutam* ← *suta*
 - \[noun\], accusative, singular, masculine
 - “Soma.”
 ------------------------------------------------------------------------
-- *pāyaya* \< *pāyay* \< *√pā*
+- *pāyaya* ← *pāyay* ← *√pā*
 - \[verb\], singular, Present imperative
 - “make to drink; temper; suckle.”
 ------------------------------------------------------------------------
-- *matsarasya* \< *matsara*
+- *matsarasya* ← *matsara*
 - \[noun\], genitive, singular, masculine
 - “intoxicant; invigorating; hostile.”
 ------------------------------------------------------------------------
-- *kṣayadvīraṃ* \< *kṣayat* \< *kṣi*
+- *kṣayadvīraṃ* ← *kṣayat* ← *kṣi*
 - \[verb noun\]
 - “govern; inhabit; dwell; stay; predominate; bide; own.”
 ------------------------------------------------------------------------
-- *kṣayadvīraṃ* \< *vīram* \< *vīra*
+- *kṣayadvīraṃ* ← *vīram* ← *vīra*
 - \[noun\], accusative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *vardhaya* \< *vardhay* \< *√vṛdh*
+- *vardhaya* ← *vardhay* ← *√vṛdh*
 - \[verb\], singular, Present imperative
 - “increase; strengthen; promote; rear; add; greet; laud.”
 ------------------------------------------------------------------------
-- *sūnṛtābhiḥ* \< *sūnṛtā*
+- *sūnṛtābhiḥ* ← *sūnṛtā*
 - \[noun\], instrumental, plural, feminine
 - “liberality.”
 ------------------------------------------------------------------------

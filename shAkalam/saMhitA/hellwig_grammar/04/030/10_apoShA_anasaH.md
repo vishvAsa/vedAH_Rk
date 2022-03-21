@@ -2,23 +2,23 @@
 title = "Rig Veda 4.30.10"
 
 +++
--   *apoṣā* \< *apa*
+-   *apoṣā* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *apoṣā* \< *uṣāḥ* \< *uṣas*
+- *apoṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *anasaḥ* \< *anas*
+- *anasaḥ* ← *anas*
 - \[noun\], ablative, singular, neuter
 - “cart; anas \[word\].”
 ------------------------------------------------------------------------
-- *sarat* \< *sṛ*
+- *sarat* ← *sṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “sṛ; liquefy; run; spread; stretch out.”
 ------------------------------------------------------------------------
-- *sampiṣṭād* \< *sampiṣṭāt* \< *sampiṣ* \< *√piṣ*
+- *sampiṣṭād* ← *sampiṣṭāt* ← *sampiṣ* ← *√piṣ*
 - \[verb noun\], ablative, singular
 - “grind; knead; jam.”
 ------------------------------------------------------------------------
@@ -26,7 +26,7 @@ title = "Rig Veda 4.30.10"
 - \[adverb\]
 - “aha \[word\]; indeed.”
 ------------------------------------------------------------------------
-- *bibhyuṣī* \< *bhī*
+- *bibhyuṣī* ← *bhī*
 - \[verb noun\], nominative, singular
 - “fear; fear.”
 ------------------------------------------------------------------------
@@ -38,14 +38,14 @@ title = "Rig Veda 4.30.10"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *sīṃ* \< *sīm*
+- *sīṃ* ← *sīm*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *śiśnathad* \< *śiśnathat* \< *śnath*
+- *śiśnathad* ← *śiśnathat* ← *śnath*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “pierce; kill.”
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣan*
+- *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------

@@ -2,38 +2,38 @@
 title = "Rig Veda 1.124.6"
 
 +++
--   *eved* \< *eva*
+-   *eved* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *eved* \< *id*
+- *eved* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *eṣā* \< *etad*
+- *eṣā* ← *etad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *purutamā* \< *purutama*
+- *purutamā* ← *purutama*
 - \[noun\], nominative, singular, feminine
 - “most(a).”
 ------------------------------------------------------------------------
-- *dṛśe* \< *dṛś*
+- *dṛśe* ← *dṛś*
 - \[verb noun\]
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
 ------------------------------------------------------------------------
-- *kaṃ* \< *kam* \< *kaṃ*
+- *kaṃ* ← *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
 ------------------------------------------------------------------------
-- *nājāmiṃ* \< *na*
+- *nājāmiṃ* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nājāmiṃ* \< *ajāmim* \< *ajāmi*
+- *nājāmiṃ* ← *ajāmim* ← *ajāmi*
 - \[noun\], accusative, singular, masculine
 - “unrelated; foreign-born.”
 ------------------------------------------------------------------------
@@ -45,45 +45,45 @@ title = "Rig Veda 1.124.6"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *vṛṇakti* \< *vṛj*
+- *vṛṇakti* ← *vṛj*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *jāmim* \< *jāmi*
+- *jāmim* ← *jāmi*
 - \[noun\], accusative, singular, masculine
 - “related; ancestral; customary; usual.”
 ------------------------------------------------------------------------
-- *arepasā* \< *arepas*
+- *arepasā* ← *arepas*
 - \[noun\], instrumental, singular, feminine
 - “immaculate.”
 ------------------------------------------------------------------------
-- *tanvā* \< *tanū*
+- *tanvā* ← *tanū*
 - \[noun\], instrumental, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *śāśadānā* \< *śad*
+- *śāśadānā* ← *śad*
 - \[verb noun\], instrumental, singular
 - “prevail.”
 ------------------------------------------------------------------------
-- *nārbhād* \< *nā* \< *na*
+- *nārbhād* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nārbhād* \< *arbhāt* \< *arbha*
+- *nārbhād* ← *arbhāt* ← *arbha*
 - \[noun\], ablative, singular, masculine
 - “few; small; unimportant.”
 ------------------------------------------------------------------------
-- *īṣate* \< *īṣ*
+- *īṣate* ← *īṣ*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *maho* \< *mahaḥ* \< *mah*
+- *maho* ← *mahaḥ* ← *mah*
 - \[noun\], ablative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *vibhātī* \< *\_* \< *√\_*
+- *vibhātī* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------

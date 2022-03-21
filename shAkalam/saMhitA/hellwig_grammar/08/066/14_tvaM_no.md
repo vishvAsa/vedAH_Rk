@@ -2,19 +2,19 @@
 title = "Rig Veda 8.66.14"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asyā* \< *asyāḥ* \< *idam*
+- *asyā* ← *asyāḥ* ← *idam*
 - \[noun\], ablative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *amater* \< *amateḥ* \< *amati*
+- *amater* ← *amateḥ* ← *amati*
 - \[noun\], ablative, singular, feminine
 - “indigence.”
 ------------------------------------------------------------------------
@@ -22,11 +22,11 @@ title = "Rig Veda 8.66.14"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *kṣudho* \< *kṣudhaḥ* \< *kṣudh*
+- *kṣudho* ← *kṣudhaḥ* ← *kṣudh*
 - \[noun\], ablative, singular, feminine
 - “hunger; kṣudh.”
 ------------------------------------------------------------------------
-- *'bhiśaster* \< *abhiśasteḥ* \< *abhiśasti*
+- *'bhiśaster* ← *abhiśasteḥ* ← *abhiśasti*
 - \[noun\], ablative, singular, feminine
 - “hex; accusation; defamation; blame; aspersion.”
 ------------------------------------------------------------------------
@@ -34,48 +34,48 @@ title = "Rig Veda 8.66.14"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *spṛdhi* \< *spṛ*
+- *spṛdhi* ← *spṛ*
 - \[verb\], singular, Aorist imperative
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ūtī* \< *ūti*
+- *ūtī* ← *ūti*
 - \[noun\], instrumental, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *citrayā* \< *citra*
+- *citrayā* ← *citra*
 - \[noun\], instrumental, singular, feminine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *dhiyā* \< *dhī*
+- *dhiyā* ← *dhī*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *śikṣā* \< *śikṣa* \< *śikṣ*
+- *śikṣā* ← *śikṣa* ← *śikṣ*
 - \[verb\], singular, Present imperative
 - “help; give.”
 ------------------------------------------------------------------------
 - *śaciṣṭha*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *gātuvit* \< *gātu*
+- *gātuvit* ← *gātu*
 - \[noun\], masculine
 - “path; way.”
 ------------------------------------------------------------------------
-- *gātuvit* \< *vid*
+- *gātuvit* ← *vid*
 - \[noun\], vocative, singular, masculine
 - “conversant(p); aware(p); enlightened; understanding.”
 ------------------------------------------------------------------------

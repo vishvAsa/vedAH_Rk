@@ -2,7 +2,7 @@
 title = "Rig Veda 8.4.1"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -11,53 +11,53 @@ title = "Rig Veda 8.4.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *prāg* \< *prāk* \< *prāñc*
+- *prāg* ← *prāk* ← *prāñc*
 - \[noun\], accusative, singular, neuter
 - “eastern; aforesaid(a); former(a); eastbound; easterly; anterior;
     forward; prāñc \[word\].”
 ------------------------------------------------------------------------
-- *apāg* \< *apāk* \< *apāñc*
+- *apāg* ← *apāk* ← *apāñc*
 - \[noun\], accusative, singular, neuter
 - “backward; apāñc \[word\]; western.”
 ------------------------------------------------------------------------
-- *udaṅ* \< *udak* \< *udañc*
+- *udaṅ* ← *udak* ← *udañc*
 - \[noun\], accusative, singular, neuter
 - “northern; northbound; udañc \[word\]; northerly.”
 ------------------------------------------------------------------------
-- *nyag* \< *nyak* \< *nyāñc*
+- *nyag* ← *nyak* ← *nyāñc*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *hūyase* \< *hvā*
+- *hūyase* ← *hvā*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *nṛbhiḥ* \< *nṛ*
+- *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *simā* \< *sima*
+- *simā* ← *sima*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *purū* \< *puru*
+- *purū* ← *puru*
 - \[noun\], accusative, plural, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *nṛṣūto* \< *nṛṣūtaḥ* \< *nṛṣūta*
+- *nṛṣūto* ← *nṛṣūtaḥ* ← *nṛṣūta*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *asy* \< *asi* \< *as*
+- *asy* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *ānave* \< *ānava*
+- *ānave* ← *ānava*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *'si* \< *asi* \< *as*
+- *'si* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -65,6 +65,6 @@ title = "Rig Veda 8.4.1"
 - *praśardha*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *turvaśe* \< *turvaśa*
+- *turvaśe* ← *turvaśa*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------

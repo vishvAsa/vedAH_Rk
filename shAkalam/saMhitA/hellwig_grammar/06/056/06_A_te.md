@@ -6,26 +6,26 @@ title = "Rig Veda 6.56.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *svastim* \< *svasti*
+- *svastim* ← *svasti*
 - \[noun\], accusative, singular, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
 ------------------------------------------------------------------------
-- *īmaha* \< *īmahe* \< *ī* \< *√i*
+- *īmaha* ← *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------
-- *āreaghām* \< *āreagha*
+- *āreaghām* ← *āreagha*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *upāvasum* \< *upāvasu*
+- *upāvasum* ← *upāvasu*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *adyā* \< *adya*
+- *adyā* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
@@ -33,11 +33,11 @@ title = "Rig Veda 6.56.6"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *sarvatātaye* \< *sarvatāti*
+- *sarvatātaye* ← *sarvatāti*
 - \[noun\], dative, singular, feminine
 - “completeness; prosperity; sum.”
 ------------------------------------------------------------------------
-- *śvaś* \< *śvas*
+- *śvaś* ← *śvas*
 - \[adverb\]
 - “tomorrow.”
 ------------------------------------------------------------------------
@@ -45,7 +45,7 @@ title = "Rig Veda 6.56.6"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *sarvatātaye* \< *sarvatāti*
+- *sarvatātaye* ← *sarvatāti*
 - \[noun\], dative, singular, feminine
 - “completeness; prosperity; sum.”
 ------------------------------------------------------------------------

@@ -2,15 +2,15 @@
 title = "Rig Veda 3.53.6"
 
 +++
--   *apāḥ* \< *pā*
+-   *apāḥ* ← *pā*
 - \[verb\], singular, Root aorist (Ind.)
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *astam* \< *asta*
+- *astam* ← *asta*
 - \[noun\], accusative, singular, neuter
 - “home.”
 ------------------------------------------------------------------------
@@ -23,12 +23,12 @@ title = "Rig Veda 3.53.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yāhi* \< *yā*
+- *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *kalyāṇīr* \< *kalyāṇīḥ* \< *kalyāṇa*
+- *kalyāṇīr* ← *kalyāṇīḥ* ← *kalyāṇa*
 - \[noun\], nominative, singular, feminine
 - “beautiful; good; auspicious; pleasant; dear; beautiful.”
 ------------------------------------------------------------------------
@@ -36,37 +36,37 @@ title = "Rig Veda 3.53.6"
 - \[noun\], nominative, singular, feminine
 - “wife; jāyā \[word\].”
 ------------------------------------------------------------------------
-- *suraṇaṃ* \< *suraṇam* \< *suraṇa*
+- *suraṇaṃ* ← *suraṇam* ← *suraṇa*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *gṛhe* \< *gṛha*
+- *gṛhe* ← *gṛha*
 - \[noun\], locative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *yatrā* \< *yatra*
+- *yatrā* ← *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *rathasya* \< *ratha*
+- *rathasya* ← *ratha*
 - \[noun\], genitive, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *bṛhato* \< *bṛhataḥ* \< *bṛhant*
+- *bṛhato* ← *bṛhataḥ* ← *bṛhant*
 - \[noun\], genitive, singular, neuter
 - “Bṛhant.”
 ------------------------------------------------------------------------
-- *nidhānaṃ* \< *nidhānam* \< *nidhāna*
+- *nidhānaṃ* ← *nidhānam* ← *nidhāna*
 - \[noun\], nominative, singular, neuter
 - “hoard; treasure; concealment; deposit.”
 ------------------------------------------------------------------------
-- *vimocanaṃ* \< *vimocanam* \< *vimocana*
+- *vimocanaṃ* ← *vimocanam* ← *vimocana*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *vājino* \< *vājinaḥ* \< *vājin*
+- *vājino* ← *vājinaḥ* ← *vājin*
 - \[noun\], genitive, singular, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------

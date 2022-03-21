@@ -6,7 +6,7 @@ title = "Rig Veda 10.46.6"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *pastyāsu* \< *pastyā*
+- *pastyāsu* ← *pastyā*
 - \[noun\], locative, plural, feminine
 - “river; dwelling.”
 ------------------------------------------------------------------------
@@ -14,59 +14,59 @@ title = "Rig Veda 10.46.6"
 - \[noun\], nominative, singular, masculine
 - “Trita.”
 ------------------------------------------------------------------------
-- *stabhūyan* \< *stabhūy* \< *√stambh*
+- *stabhūyan* ← *stabhūy* ← *√stambh*
 - \[verb noun\], nominative, singular
 - “stand.”
 ------------------------------------------------------------------------
-- *parivīto* \< *parivītaḥ* \< *parivye* \< *√vye*
+- *parivīto* ← *parivītaḥ* ← *parivye* ← *√vye*
 - \[verb noun\], nominative, singular
 - “surround; surround.”
 ------------------------------------------------------------------------
-- *yonau* \< *yoni*
+- *yonau* ← *yoni*
 - \[noun\], locative, singular, feminine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
 ------------------------------------------------------------------------
-- *sīdad* \< *sīdat* \< *sad*
+- *sīdad* ← *sīdat* ← *sad*
 - \[verb\], singular, Present injunctive
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *antaḥ* \< *antar*
+- *antaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *ataḥ* \< *atas*
+- *ataḥ* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
 ------------------------------------------------------------------------
-- *saṃgṛbhyā* \< *saṃgrah* \< *√grah*
+- *saṃgṛbhyā* ← *saṃgrah* ← *√grah*
 - \[verb noun\]
 - “take; pick; collect; sum up; reign; harness; catch; gather;
     extract; curb; choose.”
 ------------------------------------------------------------------------
-- *viśāṃ* \< *viśām* \< *viś*
+- *viśāṃ* ← *viśām* ← *viś*
 - \[noun\], genitive, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *damūnā* \< *damūnāḥ* \< *damūnas*
+- *damūnā* ← *damūnāḥ* ← *damūnas*
 - \[noun\], nominative, singular, masculine
 - “master.”
 ------------------------------------------------------------------------
-- *vidharmaṇāyantrair* \< *vidharmaṇā* \< *vidharman*
+- *vidharmaṇāyantrair* ← *vidharmaṇā* ← *vidharman*
 - \[noun\], instrumental, singular, neuter
 - “receptacle; enclosure.”
 ------------------------------------------------------------------------
-- *vidharmaṇāyantrair* \< *ayantraiḥ* \< *ayantra*
+- *vidharmaṇāyantrair* ← *ayantraiḥ* ← *ayantra*
 - \[noun\], instrumental, plural, neuter
 ------------------------------------------------------------------------
-- *īyate* \< *ī* \< *√i*
+- *īyate* ← *ī* ← *√i*
 - \[verb\], singular, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------
-- *nṝn* \< *nṛ*
+- *nṝn* ← *nṛ*
 - \[noun\], accusative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------

@@ -2,11 +2,11 @@
 title = "Rig Veda 2.28.6"
 
 +++
--   *apo* \< *apa*
+-   *apo* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *apo* \< *u*
+- *apo* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
@@ -14,7 +14,7 @@ title = "Rig Veda 2.28.6"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *myakṣa* \< *myakṣ*
+- *myakṣa* ← *myakṣ*
 - \[verb\], singular, Present imperative
 - “be situated; attach.”
 ------------------------------------------------------------------------
@@ -23,43 +23,43 @@ title = "Rig Veda 2.28.6"
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *bhiyasam* \< *bhiyas*
+- *bhiyasam* ← *bhiyas*
 - \[noun\], accusative, singular, masculine
 - “fear.”
 ------------------------------------------------------------------------
-- *mat* \< *mad*
+- *mat* ← *mad*
 - \[noun\], ablative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *samrāḍ* \< *samrāj*
+- *samrāḍ* ← *samrāj*
 - \[noun\], vocative, singular, masculine
 - “sovereign; ruler.”
 ------------------------------------------------------------------------
-- *ṛtāvo* \< *ṛtāvaḥ* \< *ṛtāvan*
+- *ṛtāvo* ← *ṛtāvaḥ* ← *ṛtāvan*
 - \[noun\], vocative, singular, masculine
 - “law-abiding; faithful; righteous.”
 ------------------------------------------------------------------------
-- *'nu* \< *anu*
+- *'nu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *gṛbhāya* \< *gṛbhāy* \< *√grah*
+- *gṛbhāya* ← *gṛbhāy* ← *√grah*
 - \[verb\], singular, Present imperative
 - “accept.”
 ------------------------------------------------------------------------
-- *dāmeva* \< *dāma* \< *dāman*
+- *dāmeva* ← *dāma* ← *dāman*
 - \[noun\], accusative, singular, neuter
 - “wreath; dāman; dāman \[word\]; shackle; girdle; fetter.”
 ------------------------------------------------------------------------
-- *dāmeva* \< *iva*
+- *dāmeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *vatsād* \< *vatsāt* \< *vatsa*
+- *vatsād* ← *vatsāt* ← *vatsa*
 - \[noun\], ablative, singular, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
@@ -68,7 +68,7 @@ title = "Rig Veda 2.28.6"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *mumugdhy* \< *mumugdhi* \< *muc*
+- *mumugdhy* ← *mumugdhi* ← *muc*
 - \[verb\], singular, Perfect imperative
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
     fill into; shoot; spill; lose; ejaculate; exclude; free; remove;
@@ -76,14 +76,14 @@ title = "Rig Veda 2.28.6"
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
 ------------------------------------------------------------------------
-- *aṃho* \< *aṃhaḥ* \< *aṃhas*
+- *aṃho* ← *aṃhaḥ* ← *aṃhas*
 - \[noun\], accusative, singular, neuter
 - “trouble; sin.”
 ------------------------------------------------------------------------
 - *nahi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *tvad* \< *tvat* \< *tvad*
+- *tvad* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -91,15 +91,15 @@ title = "Rig Veda 2.28.6"
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *nimiṣaś* \< *nimiṣaḥ* \< *nimiṣ*
+- *nimiṣaś* ← *nimiṣaḥ* ← *nimiṣ*
 - \[noun\], accusative, plural, feminine
 - “blink of an eye.”
 ------------------------------------------------------------------------
-- *caneśe* \< *cana*
+- *caneśe* ← *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *caneśe* \< *īśe* \< *īś*
+- *caneśe* ← *īśe* ← *īś*
 - \[verb\], singular, Present indikative
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------

@@ -2,41 +2,41 @@
 title = "Rig Veda 8.68.18"
 
 +++
--   *aiṣu* \< *ā*
+-   *aiṣu* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *aiṣu* \< *eṣu* \< *idam*
+- *aiṣu* ← *eṣu* ← *idam*
 - \[noun\], locative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *cetad* \< *cetat* \< *cit*
+- *cetad* ← *cetat* ← *cit*
 - \[verb\], singular, Present injunctive
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *vṛṣaṇvaty* \< *vṛṣaṇvatī* \< *vṛṣaṇvat*
+- *vṛṣaṇvaty* ← *vṛṣaṇvatī* ← *vṛṣaṇvat*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
 - *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *ṛjreṣv* \< *ṛjreṣu* \< *ṛjra*
+- *ṛjreṣv* ← *ṛjreṣu* ← *ṛjra*
 - \[noun\], locative, plural, masculine
 - “red.”
 ------------------------------------------------------------------------
-- *aruṣī* \< *aruṣa*
+- *aruṣī* ← *aruṣa*
 - \[noun\], nominative, singular, feminine
 - “red; red.”
 ------------------------------------------------------------------------
-- *svabhīśuḥ* \< *su*
+- *svabhīśuḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svabhīśuḥ* \< *abhīśuḥ* \< *abhīśu*
+- *svabhīśuḥ* ← *abhīśuḥ* ← *abhīśu*
 - \[noun\], nominative, singular, feminine
 - “beam; rein.”
 ------------------------------------------------------------------------
-- *kaśāvatī* \< *kaśāvat*
+- *kaśāvatī* ← *kaśāvat*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------

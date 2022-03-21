@@ -6,19 +6,19 @@ title = "Rig Veda 9.10.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *svānāso* \< *svānāsaḥ* \< *svāna*
+- *svānāso* ← *svānāsaḥ* ← *svāna*
 - \[noun\], nominative, plural, masculine
 - “sound.”
 ------------------------------------------------------------------------
-- *rathā* \< *rathāḥ* \< *ratha*
+- *rathā* ← *rathāḥ* ← *ratha*
 - \[noun\], nominative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *ivārvanto* \< *iva*
+- *ivārvanto* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ivārvanto* \< *arvantaḥ* \< *arvant*
+- *ivārvanto* ← *arvantaḥ* ← *arvant*
 - \[noun\], nominative, plural, masculine
 - “horse.”
 ------------------------------------------------------------------------
@@ -26,19 +26,19 @@ title = "Rig Veda 9.10.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śravasyavaḥ* \< *śravasyu*
+- *śravasyavaḥ* ← *śravasyu*
 - \[noun\], nominative, plural, masculine
 - “celebrated.”
 ------------------------------------------------------------------------
-- *somāso* \< *somāsaḥ* \< *soma*
+- *somāso* ← *somāsaḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *rāye* \< *rai*
+- *rāye* ← *rai*
 - \[noun\], dative, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *akramuḥ* \< *kram*
+- *akramuḥ* ← *kram*
 - \[verb\], plural, Root aorist (Ind.)
 - “kram; step; go; continue; proceed; traverse; heat.”
 ------------------------------------------------------------------------

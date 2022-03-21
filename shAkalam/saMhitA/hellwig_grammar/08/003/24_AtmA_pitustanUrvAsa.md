@@ -2,36 +2,36 @@
 title = "Rig Veda 8.3.24"
 
 +++
--   *ātmā* \< *ātman*
+-   *ātmā* ← *ātman*
 - \[noun\], nominative, singular, masculine
 - “self; nature; Ātman; mind; soul; self; body; character; ātman
     \[word\]; person; life; peculiarity.”
 ------------------------------------------------------------------------
-- *pitus* \< *pituḥ* \< *pitu*
+- *pitus* ← *pituḥ* ← *pitu*
 - \[noun\], nominative, singular, masculine
 - “food.”
 ------------------------------------------------------------------------
-- *tanūr* \< *tanūḥ* \< *tanū*
+- *tanūr* ← *tanūḥ* ← *tanū*
 - \[noun\], nominative, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *vāsa* \< *vāsaḥ* \< *vāsas*
+- *vāsa* ← *vāsaḥ* ← *vāsas*
 - \[noun\], nominative, singular, neuter
 - “clothing; fabric; garment; feather; dress; envelope.”
 ------------------------------------------------------------------------
-- *ojodā* \< *ojaḥ* \< *ojas*
+- *ojodā* ← *ojaḥ* ← *ojas*
 - \[noun\], neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *ojodā* \< *dāḥ* \< *dā*
+- *ojodā* ← *dāḥ* ← *dā*
 - \[noun\], nominative, singular, masculine
 - “giving.”
 ------------------------------------------------------------------------
-- *abhyañjanam* \< *abhyañjana*
+- *abhyañjanam* ← *abhyañjana*
 - \[noun\], nominative, singular, neuter
 - “abhyaṅga; ointment.”
 ------------------------------------------------------------------------
-- *turīyam* \< *turīya*
+- *turīyam* ← *turīya*
 - \[noun\], accusative, singular, masculine
 - “fourth.”
 ------------------------------------------------------------------------
@@ -39,22 +39,22 @@ title = "Rig Veda 8.3.24"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *rohitasya* \< *rohita*
+- *rohitasya* ← *rohita*
 - \[noun\], genitive, singular, masculine
 - “red.”
 ------------------------------------------------------------------------
-- *pākasthāmānam* \< *pākasthāman*
+- *pākasthāmānam* ← *pākasthāman*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *bhojaṃ* \< *bhojam* \< *bhoja*
+- *bhojaṃ* ← *bhojam* ← *bhoja*
 - \[noun\], accusative, singular, masculine
 - “big; hospitable.”
 ------------------------------------------------------------------------
-- *dātāram* \< *dātṛ*
+- *dātāram* ← *dātṛ*
 - \[noun\], accusative, singular, masculine
 - “giving; big.”
 ------------------------------------------------------------------------
-- *abravam* \< *brū*
+- *abravam* ← *brū*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”

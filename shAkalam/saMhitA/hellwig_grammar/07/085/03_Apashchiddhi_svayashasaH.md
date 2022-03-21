@@ -2,86 +2,86 @@
 title = "Rig Veda 7.85.3"
 
 +++
--   *āpaś* \< *āpaḥ* \< *ap*
+-   *āpaś* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *ciddhi* \< *cit*
+- *ciddhi* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ciddhi* \< *hi*
+- *ciddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *svayaśasaḥ* \< *sva*
+- *svayaśasaḥ* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svayaśasaḥ* \< *yaśasaḥ* \< *yaśas*
+- *svayaśasaḥ* ← *yaśasaḥ* ← *yaśas*
 - \[noun\], nominative, plural, feminine
 - “fame; Yaśas.”
 ------------------------------------------------------------------------
-- *sadassu* \< *sadas*
+- *sadassu* ← *sadas*
 - \[noun\], locative, plural, neuter
 - “mansion; assembly; seat; seat.”
 ------------------------------------------------------------------------
-- *devīr* \< *devīḥ* \< *deva*
+- *devīr* ← *devīḥ* ← *deva*
 - \[noun\], nominative, plural, feminine
 - “divine.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *varuṇaṃ* \< *varuṇam* \< *varuṇa*
+- *varuṇaṃ* ← *varuṇam* ← *varuṇa*
 - \[noun\], accusative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *devatā* \< *devatāḥ* \< *devatā*
+- *devatā* ← *devatāḥ* ← *devatā*
 - \[noun\], accusative, plural, feminine
 - “Hindu deity; Deva; deity; idol; devatā \[word\]; divinity; temple.”
 ------------------------------------------------------------------------
-- *dhuḥ* \< *dhā*
+- *dhuḥ* ← *dhā*
 - \[verb\], plural, Aorist inj. (proh.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *kṛṣṭīr* \< *kṛṣṭīḥ* \< *kṛṣṭi*
+- *kṛṣṭīr* ← *kṛṣṭīḥ* ← *kṛṣṭi*
 - \[noun\], accusative, plural, feminine
 - “people; citizenry.”
 ------------------------------------------------------------------------
-- *anyo* \< *anyaḥ* \< *anya*
+- *anyo* ← *anyaḥ* ← *anya*
 - \[noun\], nominative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *dhārayati* \< *dhāray* \< *√dhṛ*
+- *dhārayati* ← *dhāray* ← *√dhṛ*
 - \[verb\], singular, Present indikative
 - “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
     preserve; remember; stow; stop; have; fill into; endure; support;
     understand; fixate; govern; restrain.”
 ------------------------------------------------------------------------
-- *praviktā* \< *praviktāḥ* \< *pravij* \< *√vij*
+- *praviktā* ← *praviktāḥ* ← *pravij* ← *√vij*
 - \[verb noun\], accusative, plural
 ------------------------------------------------------------------------
-- *vṛtrāṇy* \< *vṛtrāṇi* \< *vṛtra*
+- *vṛtrāṇy* ← *vṛtrāṇi* ← *vṛtra*
 - \[noun\], accusative, plural, neuter
 - “enemy.”
 ------------------------------------------------------------------------
-- *anyo* \< *anyaḥ* \< *anya*
+- *anyo* ← *anyaḥ* ← *anya*
 - \[noun\], nominative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *apratīni* \< *aprati*
+- *apratīni* ← *aprati*
 - \[noun\], accusative, plural, neuter
 - “irresistible.”
 ------------------------------------------------------------------------
-- *hanti* \< *han*
+- *hanti* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;

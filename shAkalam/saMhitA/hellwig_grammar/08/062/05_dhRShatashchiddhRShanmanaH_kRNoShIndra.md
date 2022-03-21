@@ -2,24 +2,24 @@
 title = "Rig Veda 8.62.5"
 
 +++
--   *dhṛṣataś* \< *dhṛṣataḥ* \< *dhṛṣ*
+-   *dhṛṣataś* ← *dhṛṣataḥ* ← *dhṛṣ*
 - \[verb noun\], genitive, singular
 - “dare; attack.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *dhṛṣan* \< *dhṛṣat* \< *dhṛṣ*
+- *dhṛṣan* ← *dhṛṣat* ← *dhṛṣ*
 - \[verb noun\], accusative, singular
 - “dare; attack.”
 ------------------------------------------------------------------------
-- *manaḥ* \< *manas*
+- *manaḥ* ← *manas*
 - \[noun\], accusative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *kṛṇoṣīndra* \< *kṛṇoṣi* \< *kṛ*
+- *kṛṇoṣīndra* ← *kṛṇoṣi* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -30,7 +30,7 @@ title = "Rig Veda 8.62.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *kṛṇoṣīndra* \< *indra*
+- *kṛṇoṣīndra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -39,40 +39,40 @@ title = "Rig Veda 8.62.5"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tīvraiḥ* \< *tīvra*
+- *tīvraiḥ* ← *tīvra*
 - \[noun\], instrumental, plural, masculine
 - “intense; severe; pungent; acute; potent; loud.”
 ------------------------------------------------------------------------
-- *somaiḥ* \< *soma*
+- *somaiḥ* ← *soma*
 - \[noun\], instrumental, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *saparyato* \< *saparyataḥ* \< *sapary*
+- *saparyato* ← *saparyataḥ* ← *sapary*
 - \[verb noun\], genitive, singular
 - “worship.”
 ------------------------------------------------------------------------
-- *namobhiḥ* \< *namas*
+- *namobhiḥ* ← *namas*
 - \[noun\], instrumental, plural, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *pratibhūṣato* \< *pratibhūṣataḥ* \< *pratibhūṣ* \< *√bhūṣ*
+- *pratibhūṣato* ← *pratibhūṣataḥ* ← *pratibhūṣ* ← *√bhūṣ*
 - \[verb noun\], genitive, singular
 ------------------------------------------------------------------------
-- *bhadrā* \< *bhadrāḥ* \< *bhadra*
+- *bhadrā* ← *bhadrāḥ* ← *bhadra*
 - \[noun\], nominative, plural, feminine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *rātayaḥ* \< *rāti*
+- *rātayaḥ* ← *rāti*
 - \[noun\], nominative, plural, feminine
 - “gift; bounty; favor.”
 ------------------------------------------------------------------------

@@ -6,19 +6,19 @@ title = "Rig Veda 8.73.14"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *gavyebhir* \< *gavyebhiḥ* \< *gavya*
+- *gavyebhir* ← *gavyebhiḥ* ← *gavya*
 - \[noun\], instrumental, plural, neuter
 - “bovine.”
 ------------------------------------------------------------------------
-- *aśvyaiḥ* \< *aśvya*
+- *aśvyaiḥ* ← *aśvya*
 - \[noun\], instrumental, plural, neuter
 - “equine.”
 ------------------------------------------------------------------------
-- *sahasrair* \< *sahasraiḥ* \< *sahasra*
+- *sahasrair* ← *sahasraiḥ* ← *sahasra*
 - \[noun\], instrumental, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
@@ -26,7 +26,7 @@ title = "Rig Veda 8.73.14"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *gacchatam* \< *gam*
+- *gacchatam* ← *gam*
 - \[verb\], dual, Present imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
@@ -36,23 +36,23 @@ title = "Rig Veda 8.73.14"
 - *anti*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ṣad* \< *sat* \< *as*
+- *ṣad* ← *sat* ← *as*
 - \[verb noun\], nominative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *bhūtu* \< *bhū*
+- *bhūtu* ← *bhū*
 - \[verb\], singular, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *avaḥ* \< *avas*
+- *avaḥ* ← *avas*
 - \[noun\], nominative, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------

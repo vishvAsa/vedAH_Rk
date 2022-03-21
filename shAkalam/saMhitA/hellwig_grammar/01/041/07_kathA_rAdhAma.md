@@ -6,23 +6,23 @@ title = "Rig Veda 1.41.7"
 - \[adverb\]
 - “how.”
 ------------------------------------------------------------------------
-- *rādhāma* \< *rādh*
+- *rādhāma* ← *rādh*
 - \[verb\], plural, Aorist conj./subj.
 - “thrive; boom; succeed.”
 ------------------------------------------------------------------------
-- *sakhāya* \< *sakhāyaḥ* \< *sakhi*
+- *sakhāya* ← *sakhāyaḥ* ← *sakhi*
 - \[noun\], vocative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *stomam* \< *stoma*
+- *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *mitrasyāryamṇaḥ* \< *mitrasya* \< *mitra*
+- *mitrasyāryamṇaḥ* ← *mitrasya* ← *mitra*
 - \[noun\], genitive, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *mitrasyāryamṇaḥ* \< *aryamṇaḥ* \< *aryaman*
+- *mitrasyāryamṇaḥ* ← *aryamṇaḥ* ← *aryaman*
 - \[noun\], genitive, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
 ------------------------------------------------------------------------
@@ -30,10 +30,10 @@ title = "Rig Veda 1.41.7"
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *psaro* \< *psaraḥ* \< *psaras*
+- *psaro* ← *psaraḥ* ← *psaras*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *varuṇasya* \< *varuṇa*
+- *varuṇasya* ← *varuṇa*
 - \[noun\], genitive, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”

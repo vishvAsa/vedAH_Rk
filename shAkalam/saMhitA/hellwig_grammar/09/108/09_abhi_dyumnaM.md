@@ -6,29 +6,29 @@ title = "Rig Veda 9.108.9"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *dyumnam* \< *dyumna*
+- *dyumnam* ← *dyumna*
 - \[noun\], accusative, singular, neuter
 - “magnificence.”
 ------------------------------------------------------------------------
-- *bṛhad* \< *bṛhat*
+- *bṛhad* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *yaśa* \< *yaśaḥ* \< *yaśas*
+- *yaśa* ← *yaśaḥ* ← *yaśas*
 - \[noun\], accusative, singular, neuter
 - “fame; Yaśas.”
 ------------------------------------------------------------------------
-- *iṣas* \< *iṣaḥ* \< *iṣ*
+- *iṣas* ← *iṣaḥ* ← *iṣ*
 - \[noun\], genitive, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *pate* \< *pati*
+- *pate* ← *pati*
 - \[noun\], vocative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *didīhi* \< *dīdī*
+- *didīhi* ← *dīdī*
 - \[verb\], singular, Present imperative
 - “shine; glitter.”
 ------------------------------------------------------------------------
@@ -37,7 +37,7 @@ title = "Rig Veda 9.108.9"
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devayuḥ* \< *devayu*
+- *devayuḥ* ← *devayu*
 - \[noun\], nominative, singular, masculine
 - “devout; devoted.”
 ------------------------------------------------------------------------
@@ -45,17 +45,17 @@ title = "Rig Veda 9.108.9"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *kośam* \< *kośa*
+- *kośam* ← *kośa*
 - \[noun\], accusative, singular, masculine
 - “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
     treasure; calyx; container; bucket; box.”
 ------------------------------------------------------------------------
-- *madhyamaṃ* \< *madhyamam* \< *madhyama*
+- *madhyamaṃ* ← *madhyamam* ← *madhyama*
 - \[noun\], accusative, singular, masculine
 - “intermediate; middle; average; second; average; adult; central;
     moderate; mean; center(a).”
 ------------------------------------------------------------------------
-- *yuva* \< *yu*
+- *yuva* ← *yu*
 - \[verb\], singular, Present imperative
 - “unite.”
 ------------------------------------------------------------------------

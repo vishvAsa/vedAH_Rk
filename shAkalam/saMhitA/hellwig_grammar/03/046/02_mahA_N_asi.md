@@ -2,13 +2,13 @@
 title = "Rig Veda 3.46.2"
 
 +++
--   *mahāṃ* \< *mahat*
+-   *mahāṃ* ← *mahat*
 - \[noun\], nominative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
 ------------------------------------------------------------------------
-- *asi* \< *as*
+- *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -17,16 +17,16 @@ title = "Rig Veda 3.46.2"
 - \[noun\], vocative, singular, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
 ------------------------------------------------------------------------
-- *vṛṣṇyebhir* \< *vṛṣṇyebhiḥ* \< *vṛṣṇya*
+- *vṛṣṇyebhir* ← *vṛṣṇyebhiḥ* ← *vṛṣṇya*
 - \[noun\], instrumental, plural, neuter
 - “manfulness; virility.”
 ------------------------------------------------------------------------
-- *dhanaspṛd* \< *dhana*
+- *dhanaspṛd* ← *dhana*
 - \[noun\], neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
 ------------------------------------------------------------------------
-- *dhanaspṛd* \< *spṛt*
+- *dhanaspṛd* ← *spṛt*
 - \[noun\], nominative, singular, masculine
 - “victorious; protecting.”
 ------------------------------------------------------------------------
@@ -35,41 +35,41 @@ title = "Rig Veda 3.46.2"
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *sahamāno* \< *sahamānaḥ* \< *sah*
+- *sahamāno* ← *sahamānaḥ* ← *sah*
 - \[verb noun\], nominative, singular
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------
-- *anyān* \< *anya*
+- *anyān* ← *anya*
 - \[noun\], accusative, plural, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *eko* \< *ekaḥ* \< *eka*
+- *eko* ← *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *viśvasya* \< *viśva*
+- *viśvasya* ← *viśva*
 - \[noun\], genitive, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *bhuvanasya* \< *bhuvana*
+- *bhuvanasya* ← *bhuvana*
 - \[noun\], genitive, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *rājā* \< *rājan*
+- *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *yodhayā* \< *yodhay* \< *√yudh*
+- *yodhayā* ← *yodhay* ← *√yudh*
 - \[verb\], singular, Present imperative
 - “fight; equal.”
 ------------------------------------------------------------------------
@@ -77,14 +77,14 @@ title = "Rig Veda 3.46.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *kṣayayā* \< *kṣayay* \< *√kṣi*
+- *kṣayayā* ← *kṣayay* ← *√kṣi*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *janān* \< *jana*
+- *janān* ← *jana*
 - \[noun\], accusative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”

@@ -6,14 +6,14 @@ title = "Rig Veda 9.41.6"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *ṇaḥ* \< *naḥ* \< *mad*
+- *ṇaḥ* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śarmayantyā* \< *śarmay*
+- *śarmayantyā* ← *śarmay*
 - \[verb noun\], instrumental, singular
 ------------------------------------------------------------------------
-- *dhārayā* \< *dhārā*
+- *dhārayā* ← *dhārā*
 - \[noun\], instrumental, singular, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
@@ -21,22 +21,22 @@ title = "Rig Veda 9.41.6"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *viśvataḥ* \< *viśvatas*
+- *viśvataḥ* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
 ------------------------------------------------------------------------
-- *sarā* \< *sara* \< *sṛ*
+- *sarā* ← *sara* ← *sṛ*
 - \[verb\], singular, Aorist imperative
 - “sṛ; liquefy; run; spread; stretch out.”
 ------------------------------------------------------------------------
-- *raseva* \< *rasā*
+- *raseva* ← *rasā*
 - \[noun\], nominative, singular, feminine
 - “Rasā; Earth; Earth.”
 ------------------------------------------------------------------------
-- *raseva* \< *iva*
+- *raseva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *viṣṭapam* \< *viṣṭap*
+- *viṣṭapam* ← *viṣṭap*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------

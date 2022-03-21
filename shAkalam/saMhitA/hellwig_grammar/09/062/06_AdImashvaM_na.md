@@ -2,14 +2,14 @@
 title = "Rig Veda 9.62.6"
 
 +++
--   *ād* \< *āt*
+-   *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *īm* \< *īṃ*
+- *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *aśvaṃ* \< *aśvam* \< *aśva*
+- *aśvaṃ* ← *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
@@ -17,23 +17,23 @@ title = "Rig Veda 9.62.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *hetāro* \< *hetāraḥ* \< *hetṛ*
+- *hetāro* ← *hetāraḥ* ← *hetṛ*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *'śūśubhann* \< *aśūśubhan* \< *śubh*
+- *'śūśubhann* ← *aśūśubhan* ← *śubh*
 - \[verb\], plural, Redupl. Aorist (Ind.)
 - “look; shine; beautify.”
 ------------------------------------------------------------------------
-- *amṛtāya* \< *amṛta*
+- *amṛtāya* ← *amṛta*
 - \[noun\], dative, singular, neuter
 - “amṛta; immortality; vatsanābha; ambrosia; mercury; medicine;
     vighasa; calcium hydroxide.”
 ------------------------------------------------------------------------
-- *madhvo* \< *madhvaḥ* \< *madhu*
+- *madhvo* ← *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, masculine
 - “sweet; deft.”
 ------------------------------------------------------------------------
-- *rasaṃ* \< *rasam* \< *rasa*
+- *rasaṃ* ← *rasam* ← *rasa*
 - \[noun\], accusative, singular, masculine
 - “mercury; juice; medicine; rasa; alchemy; liquid; Rasa; mahārasa;
     taste; broth; elixir; resin; rasa; essence; six; water; soup; liquid
@@ -41,7 +41,7 @@ title = "Rig Veda 9.62.6"
     purpose; delight; solution; milk; beverage; alcohol; sap; nectar;
     Rasātala.”
 ------------------------------------------------------------------------
-- *sadhamāde* \< *sadhamāda*
+- *sadhamāde* ← *sadhamāda*
 - \[noun\], locative, singular, masculine
 - “banquet; party; drink.”
 ------------------------------------------------------------------------

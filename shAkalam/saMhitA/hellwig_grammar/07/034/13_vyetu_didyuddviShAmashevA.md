@@ -2,39 +2,39 @@
 title = "Rig Veda 7.34.13"
 
 +++
--   *vy* \< *vi*
+-   *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *etu* \< *i*
+- *etu* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *didyud* \< *didyut*
+- *didyud* ← *didyut*
 - \[noun\], nominative, singular, feminine
 - “arrow; Didyut.”
 ------------------------------------------------------------------------
-- *dviṣām* \< *dviṣ*
+- *dviṣām* ← *dviṣ*
 - \[noun\], genitive, plural, masculine
 - “hostile; hating.”
 ------------------------------------------------------------------------
-- *aśevā* \< *aśeva*
+- *aśevā* ← *aśeva*
 - \[noun\], nominative, singular, feminine
 - “harmful; unfriendly.”
 ------------------------------------------------------------------------
-- *yuyota* \< *yu*
+- *yuyota* ← *yu*
 - \[verb\], plural, Present imperative
 - “keep away; separate; ward off.”
 ------------------------------------------------------------------------
-- *viṣvag* \< *viṣvak* \< *viṣvañc*
+- *viṣvag* ← *viṣvak* ← *viṣvañc*
 - \[noun\], accusative, singular, neuter
 - “dispersed; viṣvañc \[word\].”
 ------------------------------------------------------------------------
-- *rapas* \< *rapaḥ* \< *rapas*
+- *rapas* ← *rapaḥ* ← *rapas*
 - \[noun\], accusative, singular, neuter
 - “injury; disease; infirmity; damage.”
 ------------------------------------------------------------------------
-- *tanūnām* \< *tanū*
+- *tanūnām* ← *tanū*
 - \[noun\], genitive, plural, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------

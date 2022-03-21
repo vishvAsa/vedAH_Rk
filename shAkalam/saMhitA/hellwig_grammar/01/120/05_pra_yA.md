@@ -6,49 +6,49 @@ title = "Rig Veda 1.120.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ghoṣe* \< *ghoṣa*
+- *ghoṣe* ← *ghoṣa*
 - \[noun\], locative, singular, masculine
 - “sound; noise; cry; voice; ghoṣa \[word\]; station; Ghoṣa; post;
     twang.”
 ------------------------------------------------------------------------
-- *bhṛgavāṇe* \< *bhṛgavāṇa*
+- *bhṛgavāṇe* ← *bhṛgavāṇa*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śobhe* \< *śubh*
+- *śobhe* ← *śubh*
 - \[verb\], singular, Present indikative
 - “look; shine; beautify.”
 ------------------------------------------------------------------------
-- *yayā* \< *yad*
+- *yayā* ← *yad*
 - \[noun\], instrumental, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vācā* \< *vāc*
+- *vācā* ← *vāc*
 - \[noun\], instrumental, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
 ------------------------------------------------------------------------
-- *yajati* \< *yaj*
+- *yajati* ← *yaj*
 - \[verb\], singular, Present indikative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *pajriyo* \< *pajriyaḥ* \< *pajriya*
+- *pajriyo* ← *pajriyaḥ* ← *pajriya*
 - \[noun\], nominative, singular, masculine
 - “Kakṣīvant.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *praiṣayur* \< *\_* \< *√\_*
+- *praiṣayur* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
@@ -56,7 +56,7 @@ title = "Rig Veda 1.120.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vidvān* \< *vid*
+- *vidvān* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”

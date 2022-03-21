@@ -6,19 +6,19 @@ title = "Rig Veda 8.19.26"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *rāsīyābhiśastaye* \< *rāsīya* \< *rā*
+- *rāsīyābhiśastaye* ← *rāsīya* ← *rā*
 - \[verb\], singular, Aorist optative
 - “give; impart.”
 ------------------------------------------------------------------------
-- *rāsīyābhiśastaye* \< *abhiśastaye* \< *abhiśasti*
+- *rāsīyābhiśastaye* ← *abhiśastaye* ← *abhiśasti*
 - \[noun\], dative, singular, feminine
 - “hex; accusation; defamation; blame; aspersion.”
 ------------------------------------------------------------------------
-- *vaso* \< *vasu*
+- *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
@@ -26,11 +26,11 @@ title = "Rig Veda 8.19.26"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pāpatvāya* \< *pāpa*
+- *pāpatvāya* ← *pāpa*
 - \[noun\]
 - “evil; dangerous; wicked; pāpa \[word\].”
 ------------------------------------------------------------------------
-- *pāpatvāya* \< *tvāya* \< *tva*
+- *pāpatvāya* ← *tvāya* ← *tva*
 - \[noun\], dative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
@@ -42,30 +42,30 @@ title = "Rig Veda 8.19.26"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *stotāmatīvā* \< *stotā* \< *stotṛ*
+- *stotāmatīvā* ← *stotā* ← *stotṛ*
 - \[noun\], nominative, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *stotāmatīvā* \< *amatīvā* \< *amatīvan*
+- *stotāmatīvā* ← *amatīvā* ← *amatīvan*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *durhitaḥ* \< *durhita*
+- *durhitaḥ* ← *durhita*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *syād* \< *syāt* \< *as*
+- *syād* ← *syāt* ← *as*
 - \[verb\], singular, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -75,7 +75,7 @@ title = "Rig Veda 8.19.26"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pāpayā* \< *pāpa*
+- *pāpayā* ← *pāpa*
 - \[noun\], instrumental, singular, feminine
 - “evil; dangerous; wicked; pāpa \[word\].”
 ------------------------------------------------------------------------

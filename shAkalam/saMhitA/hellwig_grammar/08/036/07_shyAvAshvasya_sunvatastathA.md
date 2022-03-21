@@ -2,11 +2,11 @@
 title = "Rig Veda 8.36.7"
 
 +++
--   *śyāvāśvasya* \< *śyāvāśva*
+-   *śyāvāśvasya* ← *śyāvāśva*
 - \[noun\], genitive, singular, masculine
 - “Śyāvāśva.”
 ------------------------------------------------------------------------
-- *sunvatas* \< *sunvataḥ* \< *su*
+- *sunvatas* ← *sunvataḥ* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
 ------------------------------------------------------------------------
@@ -15,23 +15,23 @@ title = "Rig Veda 8.36.7"
 - “and; thus; besides; very well; so; then; in that manner; now;
     therefore; however; so.”
 ------------------------------------------------------------------------
-- *śṛṇu* \< *śru*
+- *śṛṇu* ← *śru*
 - \[verb\], singular, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *yathāśṛṇor* \< *yathā*
+- *yathāśṛṇor* ← *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *yathāśṛṇor* \< *aśṛṇoḥ* \< *śru*
+- *yathāśṛṇor* ← *aśṛṇoḥ* ← *śru*
 - \[verb\], singular, Imperfect
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *atreḥ* \< *atri*
+- *atreḥ* ← *atri*
 - \[noun\], genitive, singular, masculine
 - “Atri; Atri; atri \[word\].”
 ------------------------------------------------------------------------
-- *karmāṇi* \< *karman*
+- *karmāṇi* ← *karman*
 - \[noun\], accusative, plural, neuter
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
     function; production; job; operation; karman \[word\]; act; job;
@@ -39,7 +39,7 @@ title = "Rig Veda 8.36.7"
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
 ------------------------------------------------------------------------
-- *kṛṇvataḥ* \< *kṛ*
+- *kṛṇvataḥ* ← *kṛ*
 - \[verb noun\], genitive, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -54,29 +54,29 @@ title = "Rig Veda 8.36.7"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *trasadasyum* \< *trasadasyu*
+- *trasadasyum* ← *trasadasyu*
 - \[noun\], accusative, singular, masculine
 - “Trasadasyu.”
 ------------------------------------------------------------------------
-- *āvitha* \< *av*
+- *āvitha* ← *av*
 - \[verb\], singular, Perfect indicative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *eka* \< *ekaḥ* \< *eka*
+- *eka* ← *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *in* \< *id*
+- *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *nṛṣāhya* \< *nṛṣāhye* \< *nṛṣāhya*
+- *nṛṣāhya* ← *nṛṣāhye* ← *nṛṣāhya*
 - \[noun\], locative, singular, neuter
 - “battle.”
 ------------------------------------------------------------------------
@@ -85,12 +85,12 @@ title = "Rig Veda 8.36.7"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *brahmāṇi* \< *brahman*
+- *brahmāṇi* ← *brahman*
 - \[noun\], accusative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *vardhayan* \< *vardhay* \< *√vṛdh*
+- *vardhayan* ← *vardhay* ← *√vṛdh*
 - \[verb noun\], nominative, singular
 - “increase; strengthen; promote; rear; add; greet; laud.”
 ------------------------------------------------------------------------

@@ -2,60 +2,60 @@
 title = "Rig Veda 4.19.7"
 
 +++
--   *prāgruvo* \< *pra*
+-   *prāgruvo* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prāgruvo* \< *agruvaḥ* \< *agru*
+- *prāgruvo* ← *agruvaḥ* ← *agru*
 - \[noun\], accusative, plural, feminine
 - “unmarried.”
 ------------------------------------------------------------------------
-- *nabhanvo* \< *nabhanvaḥ* \< *nabhanu*
+- *nabhanvo* ← *nabhanvaḥ* ← *nabhanu*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vakvā* \< *vakvāḥ* \< *vakva*
+- *vakvā* ← *vakvāḥ* ← *vakva*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *dhvasrā* \< *dhvasrāḥ* \< *dhvasra*
+- *dhvasrā* ← *dhvasrāḥ* ← *dhvasra*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *apinvad* \< *apinvat* \< *pinv*
+- *apinvad* ← *apinvat* ← *pinv*
 - \[verb\], singular, Imperfect
 - “swell; swell; overflow; abound.”
 ------------------------------------------------------------------------
-- *yuvatīr* \< *yuvatīḥ* \< *yuvatī*
+- *yuvatīr* ← *yuvatīḥ* ← *yuvatī*
 - \[noun\], accusative, plural, feminine
 - “girl.”
 ------------------------------------------------------------------------
-- *ṛtajñāḥ* \< *ṛta*
+- *ṛtajñāḥ* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *ṛtajñāḥ* \< *jñāḥ* \< *jña*
+- *ṛtajñāḥ* ← *jñāḥ* ← *jña*
 - \[noun\], accusative, plural, feminine
 - “conversant(p); aware(p); wise.”
 ------------------------------------------------------------------------
-- *dhanvāny* \< *dhanvāni* \< *dhanvan*
+- *dhanvāny* ← *dhanvāni* ← *dhanvan*
 - \[noun\], accusative, plural, neuter
 - “bow; desert; steppe; barren.”
 ------------------------------------------------------------------------
-- *ajrāṃ* \< *ajra*
+- *ajrāṃ* ← *ajra*
 - \[noun\], accusative, plural, masculine
 - “plain.”
 ------------------------------------------------------------------------
-- *apṛṇak* \< *pṛc*
+- *apṛṇak* ← *pṛc*
 - \[verb\], singular, Imperfect
 - “mix; unite.”
 ------------------------------------------------------------------------
-- *tṛṣāṇāṃ* \< *tṛṣ*
+- *tṛṣāṇāṃ* ← *tṛṣ*
 - \[verb noun\], accusative, plural
 - “thirst.”
 ------------------------------------------------------------------------
-- *adhog* \< *adhok* \< *duh*
+- *adhog* ← *adhok* ← *duh*
 - \[verb\], singular, Imperfect
 - “milk.”
 ------------------------------------------------------------------------
@@ -64,14 +64,14 @@ title = "Rig Veda 4.19.7"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *staryo* \< *staryaḥ* \< *starī*
+- *staryo* ← *staryaḥ* ← *starī*
 - \[noun\], accusative, plural, feminine
 - “barren cow.”
 ------------------------------------------------------------------------
-- *daṃsupatnīḥ* \< *daṃsu*
+- *daṃsupatnīḥ* ← *daṃsu*
 - \[noun\]
 ------------------------------------------------------------------------
-- *daṃsupatnīḥ* \< *patnīḥ* \< *patnī*
+- *daṃsupatnīḥ* ← *patnīḥ* ← *patnī*
 - \[noun\], accusative, plural, feminine
 - “wife; mistress; queen.”
 ------------------------------------------------------------------------

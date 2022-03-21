@@ -2,66 +2,66 @@
 title = "Rig Veda 4.26.3"
 
 +++
--   *aham* \< *mad*
+-   *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *puro* \< *puraḥ* \< *pur*
+- *puro* ← *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
-- *mandasāno* \< *mandasānaḥ* \< *mand*
+- *mandasāno* ← *mandasānaḥ* ← *mand*
 - \[verb noun\], nominative, singular
 - “rejoice; exhilarate.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *airaṃ* \< *airam* \< *īr*
+- *airaṃ* ← *airam* ← *īr*
 - \[verb\], singular, Imperfect
 - “go.”
 ------------------------------------------------------------------------
-- *nava* \< *navan*
+- *nava* ← *navan*
 - \[noun\], accusative, singular, neuter
 - “nine.”
 ------------------------------------------------------------------------
-- *sākaṃ* \< *sākam*
+- *sākaṃ* ← *sākam*
 - \[adverb\]
 - “together; jointly; simultaneously.”
 ------------------------------------------------------------------------
-- *navatīḥ* \< *navati*
+- *navatīḥ* ← *navati*
 - \[noun\], accusative, plural, feminine
 - “ninety; navati \[word\].”
 ------------------------------------------------------------------------
-- *śambarasya* \< *śambara*
+- *śambarasya* ← *śambara*
 - \[noun\], genitive, singular, masculine
 - “Śambara; Śambara.”
 ------------------------------------------------------------------------
-- *śatatamaṃ* \< *śatatamam* \< *śatatama*
+- *śatatamaṃ* ← *śatatamam* ← *śatatama*
 - \[noun\], accusative, singular, neuter
 - “hundredth.”
 ------------------------------------------------------------------------
-- *veśyaṃ* \< *veśyam* \< *veśya*
+- *veśyaṃ* ← *veśyam* ← *veśya*
 - \[noun\], accusative, singular, neuter
 - “whorehouse.”
 ------------------------------------------------------------------------
-- *sarvatātā* \< *sarvatāti*
+- *sarvatātā* ← *sarvatāti*
 - \[noun\], locative, singular, feminine
 - “completeness; prosperity; sum.”
 ------------------------------------------------------------------------
-- *divodāsam* \< *divodāsa*
+- *divodāsam* ← *divodāsa*
 - \[noun\], accusative, singular, masculine
 - “Divodāsa.”
 ------------------------------------------------------------------------
-- *atithigvaṃ* \< *atithigvam* \< *atithigva*
+- *atithigvaṃ* ← *atithigvam* ← *atithigva*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *āvam* \< *av*
+- *āvam* ← *av*
 - \[verb\], singular, Imperfect
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------

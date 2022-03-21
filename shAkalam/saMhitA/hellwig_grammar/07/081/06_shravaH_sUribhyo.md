@@ -2,50 +2,50 @@
 title = "Rig Veda 7.81.6"
 
 +++
--   *śravaḥ* \< *śravas*
+-   *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *sūribhyo* \< *sūribhyaḥ* \< *sūri*
+- *sūribhyo* ← *sūribhyaḥ* ← *sūri*
 - \[noun\], dative, plural, masculine
 - “patron.”
 ------------------------------------------------------------------------
-- *amṛtaṃ* \< *amṛtam* \< *amṛta*
+- *amṛtaṃ* ← *amṛtam* ← *amṛta*
 - \[noun\], accusative, singular, neuter
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *vasutvanaṃ* \< *vasutvanam* \< *vasutvana*
+- *vasutvanaṃ* ← *vasutvanam* ← *vasutvana*
 - \[noun\], accusative, singular, neuter
 - “wealth.”
 ------------------------------------------------------------------------
-- *vājāṃ* \< *vāja*
+- *vājāṃ* ← *vāja*
 - \[noun\], accusative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *asmabhyaṃ* \< *asmabhyam* \< *mad*
+- *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *gomataḥ* \< *gomat*
+- *gomataḥ* ← *gomat*
 - \[noun\], accusative, plural, masculine
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------
-- *codayitrī* \< *codayitṛ*
+- *codayitrī* ← *codayitṛ*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *maghonaḥ* \< *maghavan*
+- *maghonaḥ* ← *maghavan*
 - \[noun\], accusative, plural, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *sūnṛtāvaty* \< *sūnṛtāvatī* \< *sūnṛtāvat*
+- *sūnṛtāvaty* ← *sūnṛtāvatī* ← *sūnṛtāvat*
 - \[noun\], nominative, singular, feminine
 - “happy; big; auspicious.”
 ------------------------------------------------------------------------
-- *uṣā* \< *uṣāḥ* \< *uṣas*
+- *uṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *ucchad* \< *ucchat* \< *vas*
+- *ucchad* ← *ucchat* ← *vas*
 - \[verb\], singular, Present injunctive
 - “dawn; shine.”
 ------------------------------------------------------------------------
@@ -53,7 +53,7 @@ title = "Rig Veda 7.81.6"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *sridhaḥ* \< *sridh*
+- *sridhaḥ* ← *sridh*
 - \[noun\], accusative, plural, feminine
 - “failure; damage.”
 ------------------------------------------------------------------------

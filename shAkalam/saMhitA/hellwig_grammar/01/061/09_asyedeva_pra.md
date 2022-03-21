@@ -2,11 +2,11 @@
 title = "Rig Veda 1.61.9"
 
 +++
--   *asyed* \< *asya* \< *idam*
+-   *asyed* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *asyed* \< *id*
+- *asyed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -19,44 +19,44 @@ title = "Rig Veda 1.61.9"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ririce* \< *ric*
+- *ririce* ← *ric*
 - \[verb\], singular, Perfect indicative
 - “empty; liberate; concede; surrender; purge.”
 ------------------------------------------------------------------------
-- *mahitvaṃ* \< *mahi*
+- *mahitvaṃ* ← *mahi*
 - \[noun\]
 - “great; firm.”
 ------------------------------------------------------------------------
-- *mahitvaṃ* \< *tvam* \< *tva*
+- *mahitvaṃ* ← *tvam* ← *tva*
 - \[noun\], nominative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *divas* \< *divaḥ* \< *div*
+- *divas* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *pṛthivyāḥ* \< *pṛthivī*
+- *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], ablative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *pary* \< *pari*
+- *pary* ← *pari*
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *antarikṣāt* \< *antarikṣa*
+- *antarikṣāt* ← *antarikṣa*
 - \[noun\], ablative, singular, neuter
 - “sky; atmosphere; air; abhra.”
 ------------------------------------------------------------------------
-- *svarāḍ* \< *svarāj*
+- *svarāḍ* ← *svarāj*
 - \[noun\], nominative, singular, masculine
 - “svarāj; Vishnu.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dama* \< *dame* \< *dama*
+- *dama* ← *dame* ← *dama*
 - \[noun\], locative, singular, masculine
 - “dwelling; home.”
 ------------------------------------------------------------------------
@@ -64,25 +64,25 @@ title = "Rig Veda 1.61.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *viśvagūrtaḥ* \< *viśva*
+- *viśvagūrtaḥ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvagūrtaḥ* \< *gūrtaḥ* \< *gur*
+- *viśvagūrtaḥ* ← *gūrtaḥ* ← *gur*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *svarir* \< *svariḥ* \< *svari*
+- *svarir* ← *svariḥ* ← *svari*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *amatro* \< *amatraḥ* \< *amatra*
+- *amatro* ← *amatraḥ* ← *amatra*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vavakṣe* \< *vakṣ*
+- *vavakṣe* ← *vakṣ*
 - \[verb\], singular, Perfect indicative
 - “grow; grow.”
 ------------------------------------------------------------------------
-- *raṇāya* \< *raṇa*
+- *raṇāya* ← *raṇa*
 - \[noun\], dative, singular, masculine
 - “battle; fight; pleasure; joy; war; combat.”
 ------------------------------------------------------------------------

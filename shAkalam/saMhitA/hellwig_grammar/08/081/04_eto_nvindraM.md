@@ -2,41 +2,41 @@
 title = "Rig Veda 8.81.4"
 
 +++
--   *eto* \< *eta* \< *e* \< *√i*
+-   *eto* ← *eta* ← *e* ← *√i*
 - \[verb\], plural, Present imperative
 - “come; travel.”
 ------------------------------------------------------------------------
-- *eto* \< *u*
+- *eto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *nv* \< *nu*
+- *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *stavāmeśānaṃ* \< *stavāma* \< *stu*
+- *stavāmeśānaṃ* ← *stavāma* ← *stu*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *stavāmeśānaṃ* \< *īśānam* \< *īś*
+- *stavāmeśānaṃ* ← *īśānam* ← *īś*
 - \[verb noun\], accusative, singular
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *vasvaḥ* \< *vasu*
+- *vasvaḥ* ← *vasu*
 - \[noun\], genitive, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *svarājam* \< *sva*
+- *svarājam* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svarājam* \< *rājam* \< *rāj*
+- *svarājam* ← *rājam* ← *rāj*
 - \[noun\], accusative, singular, masculine
 - “king; best; rāj; rāj \[word\].”
 ------------------------------------------------------------------------
@@ -44,15 +44,15 @@ title = "Rig Veda 8.81.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *rādhasā* \< *rādhas*
+- *rādhasā* ← *rādhas*
 - \[noun\], instrumental, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *mardhiṣan* \< *mardhiṣat* \< *mṛdh*
+- *mardhiṣan* ← *mardhiṣat* ← *mṛdh*
 - \[verb\], singular, Aorist conj./subj.
 - “neglect.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

@@ -6,15 +6,15 @@ title = "Rig Veda 2.4.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vanā* \< *vana*
+- *vanā* ← *vana*
 - \[noun\], accusative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
-- *tātṛṣāṇo* \< *tātṛṣāṇaḥ* \< *tṛṣ*
+- *tātṛṣāṇo* ← *tātṛṣāṇaḥ* ← *tṛṣ*
 - \[verb noun\], nominative, singular
 - “thirst.”
 ------------------------------------------------------------------------
@@ -22,7 +22,7 @@ title = "Rig Veda 2.4.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *bhāti* \< *bhā*
+- *bhāti* ← *bhā*
 - \[verb\], singular, Present indikative
 - “look; shine; show; look like; glitter; reflect.”
 ------------------------------------------------------------------------
@@ -30,47 +30,47 @@ title = "Rig Veda 2.4.6"
 - \[noun\], nominative, singular, neuter
 - “water; juice; jala.”
 ------------------------------------------------------------------------
-- *ṇa* \< *na*
+- *ṇa* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pathā* \< *pathin*
+- *pathā* ← *pathin*
 - \[noun\], instrumental, singular
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *rathyeva* \< *rathyā*
+- *rathyeva* ← *rathyā*
 - \[noun\], nominative, singular, feminine
 - “road; way; highway.”
 ------------------------------------------------------------------------
-- *rathyeva* \< *iva*
+- *rathyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *svānīt* \< *svan*
+- *svānīt* ← *svan*
 - \[verb\], singular, Aorist inj. (proh.)
 - “sound; sound.”
 ------------------------------------------------------------------------
-- *kṛṣṇādhvā* \< *kṛṣṇa*
+- *kṛṣṇādhvā* ← *kṛṣṇa*
 - \[noun\]
 - “black; dark; dark; blue; black.”
 ------------------------------------------------------------------------
-- *kṛṣṇādhvā* \< *adhvā* \< *adhvan*
+- *kṛṣṇādhvā* ← *adhvā* ← *adhvan*
 - \[noun\], nominative, singular, masculine
 - “way; journey; adhvan \[word\]; time; path; method; road; time;
     distance.”
 ------------------------------------------------------------------------
-- *tapū* \< *tapuḥ* \< *tapu*
+- *tapū* ← *tapuḥ* ← *tapu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *raṇvaś* \< *raṇvaḥ* \< *raṇva*
+- *raṇvaś* ← *raṇvaḥ* ← *raṇva*
 - \[noun\], nominative, singular, masculine
 - “agreeable; happy; delightful; gay.”
 ------------------------------------------------------------------------
-- *ciketa* \< *cit*
+- *ciketa* ← *cit*
 - \[verb\], singular, Perfect indicative
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *dyaur* \< *dyauḥ* \< *div*
+- *dyaur* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -78,11 +78,11 @@ title = "Rig Veda 2.4.6"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *smayamāno* \< *smayamānaḥ* \< *smi*
+- *smayamāno* ← *smayamānaḥ* ← *smi*
 - \[verb noun\], nominative, singular
 - “smile.”
 ------------------------------------------------------------------------
-- *nabhobhiḥ* \< *nabhas*
+- *nabhobhiḥ* ← *nabhas*
 - \[noun\], instrumental, plural, neuter
 - “sky; cloud; ākāśa; air; abhra.”
 ------------------------------------------------------------------------

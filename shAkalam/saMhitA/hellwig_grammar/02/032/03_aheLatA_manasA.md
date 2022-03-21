@@ -2,55 +2,55 @@
 title = "Rig Veda 2.32.3"
 
 +++
--   *aheḍatā* \< *a*
+-   *aheḍatā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *aheḍatā* \< *heḍatā* \< *hīḍ*
+- *aheḍatā* ← *heḍatā* ← *hīḍ*
 - \[verb noun\], instrumental, singular
 - “anger; stew.”
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *śruṣṭim* \< *śruṣṭi*
+- *śruṣṭim* ← *śruṣṭi*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vaha* \< *vah*
+- *vaha* ← *vah*
 - \[verb\], singular, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *duhānāṃ* \< *duhānām* \< *duh*
+- *duhānāṃ* ← *duhānām* ← *duh*
 - \[verb noun\], accusative, singular
 - “milk.”
 ------------------------------------------------------------------------
-- *dhenum* \< *dhenu*
+- *dhenum* ← *dhenu*
 - \[noun\], accusative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *pipyuṣīm* \< *pyā*
+- *pipyuṣīm* ← *pyā*
 - \[verb noun\], accusative, singular
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
-- *asaścatam* \< *asaścat*
+- *asaścatam* ← *asaścat*
 - \[noun\], accusative, singular, feminine
 - “inexhaustible.”
 ------------------------------------------------------------------------
-- *padyābhir* \< *padyābhiḥ* \< *padyā*
+- *padyābhir* ← *padyābhiḥ* ← *padyā*
 - \[noun\], instrumental, plural, feminine
 ------------------------------------------------------------------------
-- *āśuṃ* \< *āśum* \< *āśu*
+- *āśuṃ* ← *āśum* ← *āśu*
 - \[noun\], accusative, singular, feminine
 - “quick; fast; immediate; agile.”
 ------------------------------------------------------------------------
-- *vacasā* \< *vacas*
+- *vacasā* ← *vacas*
 - \[noun\], instrumental, singular, neuter
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------
@@ -58,15 +58,15 @@ title = "Rig Veda 2.32.3"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *vājinaṃ* \< *vājinam* \< *vājin*
+- *vājinaṃ* ← *vājinam* ← *vājin*
 - \[noun\], accusative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *tvāṃ* \< *tvām* \< *tvad*
+- *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *hinomi* \< *hi*
+- *hinomi* ← *hi*
 - \[verb\], singular, Present indikative
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------

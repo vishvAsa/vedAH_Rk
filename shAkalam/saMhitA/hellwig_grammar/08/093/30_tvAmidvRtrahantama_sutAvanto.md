@@ -2,7 +2,7 @@
 title = "Rig Veda 8.93.30"
 
 +++
--   *tvām* \< *tvad*
+-   *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -10,22 +10,22 @@ title = "Rig Veda 8.93.30"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *vṛtrahantama* \< *vṛtra*
+- *vṛtrahantama* ← *vṛtra*
 - \[noun\], masculine
 - “enemy.”
 ------------------------------------------------------------------------
-- *vṛtrahantama* \< *hantama*
+- *vṛtrahantama* ← *hantama*
 - \[noun\], vocative, singular, masculine
 - “killing.”
 ------------------------------------------------------------------------
-- *sutāvanto* \< *sutāvantaḥ* \< *sutāvat*
+- *sutāvanto* ← *sutāvantaḥ* ← *sutāvat*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *havāmahe* \< *hvā*
+- *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -34,11 +34,11 @@ title = "Rig Veda 8.93.30"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *mṛﾱayāsi* \< *mṛḍayāsi* \< *mṛḍay* \< *√mṛḍ*
+- *mṛﾱayāsi* ← *mṛḍayāsi* ← *mṛḍay* ← *√mṛḍ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “pardon.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

@@ -6,28 +6,28 @@ title = "Rig Veda 8.6.15"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dyāva* \< *dyāvaḥ* \< *div*
+- *dyāva* ← *dyāvaḥ* ← *div*
 - \[noun\], nominative, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *ojasā* \< *ojas*
+- *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *nāntarikṣāṇi* \< *na*
+- *nāntarikṣāṇi* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāntarikṣāṇi* \< *antarikṣāṇi* \< *antarikṣa*
+- *nāntarikṣāṇi* ← *antarikṣāṇi* ← *antarikṣa*
 - \[noun\], nominative, plural, neuter
 - “sky; atmosphere; air; abhra.”
 ------------------------------------------------------------------------
-- *vajriṇam* \< *vajrin*
+- *vajriṇam* ← *vajrin*
 - \[noun\], accusative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
 ------------------------------------------------------------------------
@@ -35,10 +35,10 @@ title = "Rig Veda 8.6.15"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vivyacanta* \< *vyac*
+- *vivyacanta* ← *vyac*
 - \[verb\], plural, Plusquamperfect
 ------------------------------------------------------------------------
-- *bhūmayaḥ* \< *bhūmi*
+- *bhūmayaḥ* ← *bhūmi*
 - \[noun\], nominative, plural, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
     Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;

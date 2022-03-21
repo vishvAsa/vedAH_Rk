@@ -6,7 +6,7 @@ title = "Rig Veda 9.65.29"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *mandram* \< *mandra*
+- *mandram* ← *mandra*
 - \[noun\], accusative, singular, masculine
 - “pleasant; eloquent; dulcet.”
 ------------------------------------------------------------------------
@@ -14,7 +14,7 @@ title = "Rig Veda 9.65.29"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vareṇyam* \< *vareṇya*
+- *vareṇyam* ← *vareṇya*
 - \[noun\], accusative, singular, masculine
 - “excellent; desirable.”
 ------------------------------------------------------------------------
@@ -22,7 +22,7 @@ title = "Rig Veda 9.65.29"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vipram* \< *vipra*
+- *vipram* ← *vipra*
 - \[noun\], accusative, singular, masculine
 - “eloquent; stimulated; divine.”
 ------------------------------------------------------------------------
@@ -30,11 +30,11 @@ title = "Rig Veda 9.65.29"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *manīṣiṇam* \< *manīṣin*
+- *manīṣiṇam* ← *manīṣin*
 - \[noun\], accusative, singular, masculine
 - “sage; expert; devout.”
 ------------------------------------------------------------------------
-- *pāntam* \< *pānta*
+- *pāntam* ← *pānta*
 - \[noun\], accusative, singular, masculine
 - “drink; beverage.”
 ------------------------------------------------------------------------
@@ -42,7 +42,7 @@ title = "Rig Veda 9.65.29"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *puruspṛham* \< *puruspṛh*
+- *puruspṛham* ← *puruspṛh*
 - \[noun\], accusative, singular, masculine
 - “coveted; desirous.”
 ------------------------------------------------------------------------

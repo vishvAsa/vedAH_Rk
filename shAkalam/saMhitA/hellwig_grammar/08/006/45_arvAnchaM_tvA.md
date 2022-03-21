@@ -2,11 +2,11 @@
 title = "Rig Veda 8.6.45"
 
 +++
--   *arvāñcaṃ* \< *arvāñcam* \< *arvāñc*
+-   *arvāñcaṃ* ← *arvāñcam* ← *arvāñc*
 - \[noun\], accusative, singular, masculine
 - “approaching; facing; less.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -14,27 +14,27 @@ title = "Rig Veda 8.6.45"
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu; Agni.”
 ------------------------------------------------------------------------
-- *priyamedhastutā* \< *priyamedha*
+- *priyamedhastutā* ← *priyamedha*
 - \[noun\], masculine
 ------------------------------------------------------------------------
-- *priyamedhastutā* \< *stutā* \< *stu*
+- *priyamedhastutā* ← *stutā* ← *stu*
 - \[verb noun\], nominative, dual
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *harī* \< *hari*
+- *harī* ← *hari*
 - \[noun\], nominative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *somapeyāya* \< *soma*
+- *somapeyāya* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somapeyāya* \< *peyāya* \< *peya*
+- *somapeyāya* ← *peyāya* ← *peya*
 - \[noun\], dative, singular, neuter
 - “beverage.”
 ------------------------------------------------------------------------
-- *vakṣataḥ* \< *vah*
+- *vakṣataḥ* ← *vah*
 - \[verb\], dual, Aorist conj./subj.
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”

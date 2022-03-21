@@ -2,10 +2,10 @@
 title = "Rig Veda 8.1.22"
 
 +++
--   *śevāre* \< *śevāra*
+-   *śevāre* ← *śevāra*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *vāryā* \< *vārya*
+- *vāryā* ← *vārya*
 - \[noun\], accusative, plural, neuter
 - “wealth.”
 ------------------------------------------------------------------------
@@ -13,26 +13,26 @@ title = "Rig Veda 8.1.22"
 - \[noun\], accusative, singular, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *devo* \< *devaḥ* \< *deva*
+- *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *martāya* \< *marta*
+- *martāya* ← *marta*
 - \[noun\], dative, singular, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *sunvate* \< *su*
+- *sunvate* ← *su*
 - \[verb noun\], dative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
@@ -40,7 +40,7 @@ title = "Rig Veda 8.1.22"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *stuvate* \< *stu*
+- *stuvate* ← *stu*
 - \[verb noun\], dative, singular
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
@@ -48,18 +48,18 @@ title = "Rig Veda 8.1.22"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *rāsate* \< *rā*
+- *rāsate* ← *rā*
 - \[verb\], singular, Aorist conj./subj.
 - “give; impart.”
 ------------------------------------------------------------------------
-- *viśvagūrto* \< *viśva*
+- *viśvagūrto* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvagūrto* \< *gūrtaḥ* \< *gur*
+- *viśvagūrto* ← *gūrtaḥ* ← *gur*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *ariṣṭutaḥ* \< *ariṣṭuta*
+- *ariṣṭutaḥ* ← *ariṣṭuta*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

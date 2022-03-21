@@ -2,19 +2,19 @@
 title = "Rig Veda 8.101.10"
 
 +++
--   *vety* \< *veti* \< *vī*
+-   *vety* ← *veti* ← *vī*
 - \[verb\], singular, Present indikative
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *adhvaryuḥ* \< *adhvaryu*
+- *adhvaryuḥ* ← *adhvaryu*
 - \[noun\], nominative, singular, masculine
 - “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
 ------------------------------------------------------------------------
-- *pathibhī* \< *pathibhiḥ* \< *pathin*
+- *pathibhī* ← *pathibhiḥ* ← *pathin*
 - \[noun\], instrumental, plural, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *rajiṣṭhaiḥ* \< *rajiṣṭha*
+- *rajiṣṭhaiḥ* ← *rajiṣṭha*
 - \[noun\], instrumental, plural, masculine
 - “honest.”
 ------------------------------------------------------------------------
@@ -22,41 +22,41 @@ title = "Rig Veda 8.101.10"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *havyāni* \< *havya*
+- *havyāni* ← *havya*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *vītaye* \< *vīti*
+- *vītaye* ← *vīti*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------
-- *adhā* \< *adha*
+- *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *niyutva* \< *niyutvas* \< *niyutvat*
+- *niyutva* ← *niyutvas* ← *niyutvat*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *ubhayasya* \< *ubhaya*
+- *ubhayasya* ← *ubhaya*
 - \[noun\], genitive, singular, masculine
 - “both(a).”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *piba* \< *pā*
+- *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *śuciṃ* \< *śucim* \< *śuci*
+- *śuciṃ* ← *śucim* ← *śuci*
 - \[noun\], accusative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *somaṃ* \< *somam* \< *soma*
+- *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *gavāśiram* \< *gavāśir*
+- *gavāśiram* ← *gavāśir*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------

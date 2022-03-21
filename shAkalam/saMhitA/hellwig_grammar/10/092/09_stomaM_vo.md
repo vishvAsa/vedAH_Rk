@@ -2,11 +2,11 @@
 title = "Rig Veda 10.92.9"
 
 +++
--   *stomaṃ* \< *stomam* \< *stoma*
+-   *stomaṃ* ← *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
@@ -14,63 +14,63 @@ title = "Rig Veda 10.92.9"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *rudrāya* \< *rudra*
+- *rudrāya* ← *rudra*
 - \[noun\], dative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *śikvase* \< *śikvas*
+- *śikvase* ← *śikvas*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *kṣayadvīrāya* \< *kṣayadvīra*
+- *kṣayadvīrāya* ← *kṣayadvīra*
 - \[noun\], dative, singular, masculine
 - “Shiva.”
 ------------------------------------------------------------------------
-- *namasā* \< *namas*
+- *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *didiṣṭana* \< *diś*
+- *didiṣṭana* ← *diś*
 - \[verb\], plural, Perfect imperative
 - “describe; give; give; teach.”
 ------------------------------------------------------------------------
-- *yebhiḥ* \< *yad*
+- *yebhiḥ* ← *yad*
 - \[noun\], instrumental, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *śivaḥ* \< *śiva*
+- *śivaḥ* ← *śiva*
 - \[noun\], nominative, singular, masculine
 - “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
     holy; nice.”
 ------------------------------------------------------------------------
-- *svavāṃ* \< *svavat*
+- *svavāṃ* ← *svavat*
 - \[noun\], nominative, singular, masculine
 - “helpful.”
 ------------------------------------------------------------------------
-- *evayāvabhir* \< *eva*
+- *evayāvabhir* ← *eva*
 - \[noun\]
 - “fast; rapid; agile.”
 ------------------------------------------------------------------------
-- *evayāvabhir* \< *yāvabhiḥ* \< *yāvan*
+- *evayāvabhir* ← *yāvabhiḥ* ← *yāvan*
 - \[noun\], instrumental, plural, masculine
 - “traveler.”
 ------------------------------------------------------------------------
-- *divaḥ* \< *div*
+- *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *siṣakti* \< *sac*
+- *siṣakti* ← *sac*
 - \[verb\], singular, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *svayaśā* \< *sva*
+- *svayaśā* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svayaśā* \< *yaśāḥ* \< *yaśas*
+- *svayaśā* ← *yaśāḥ* ← *yaśas*
 - \[noun\], nominative, singular, masculine
 - “fame; Yaśas.”
 ------------------------------------------------------------------------
-- *nikāmabhiḥ* \< *nikāman*
+- *nikāmabhiḥ* ← *nikāman*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------

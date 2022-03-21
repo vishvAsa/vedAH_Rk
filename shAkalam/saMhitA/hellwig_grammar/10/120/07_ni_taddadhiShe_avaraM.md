@@ -6,23 +6,23 @@ title = "Rig Veda 10.120.7"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *dadhiṣe* \< *dhā*
+- *dadhiṣe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *'varam* \< *avaram* \< *avara*
+- *'varam* ← *avaram* ← *avara*
 - \[noun\], accusative, singular, neuter
 - “worst; avara \[word\]; lower; nearer; base; short; low; abject;
     later(a); worse; antecedent.”
 ------------------------------------------------------------------------
-- *paraṃ* \< *param* \< *para*
+- *paraṃ* ← *param* ← *para*
 - \[noun\], accusative, singular, neuter
 - “best; other; following; devoted(p); extreme; highest; otherwordly;
     better; hostile; maximal; distant; another(a); para \[word\]; upper;
@@ -32,19 +32,19 @@ title = "Rig Veda 10.120.7"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *yasminn* \< *yasmin* \< *yad*
+- *yasminn* ← *yasmin* ← *yad*
 - \[noun\], locative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *āvithāvasā* \< *āvitha* \< *av*
+- *āvithāvasā* ← *āvitha* ← *av*
 - \[verb\], singular, Perfect indicative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *āvithāvasā* \< *avasā* \< *avas*
+- *āvithāvasā* ← *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *duroṇe* \< *duroṇa*
+- *duroṇe* ← *duroṇa*
 - \[noun\], locative, singular, neuter
 - “home; dwelling.”
 ------------------------------------------------------------------------
@@ -52,34 +52,34 @@ title = "Rig Veda 10.120.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *mātarā* \< *mātṛ*
+- *mātarā* ← *mātṛ*
 - \[noun\], accusative, dual, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *sthāpayase* \< *sthāpay* \< *√sthā*
+- *sthāpayase* ← *sthāpay* ← *√sthā*
 - \[verb\], singular, Present indikative
 - “put; fill into; soak; stow; fixate; install; explain; set;
     construct; tie.”
 ------------------------------------------------------------------------
-- *jigatnū* \< *jigatnu*
+- *jigatnū* ← *jigatnu*
 - \[noun\], accusative, dual, masculine
 - “moving.”
 ------------------------------------------------------------------------
-- *ata* \< *atas*
+- *ata* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
 ------------------------------------------------------------------------
-- *inoṣi* \< *i*
+- *inoṣi* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *karvarā* \< *karvara*
+- *karvarā* ← *karvara*
 - \[noun\], accusative, plural, neuter
 - “deed.”
 ------------------------------------------------------------------------
-- *purūṇi* \< *puru*
+- *purūṇi* ← *puru*
 - \[noun\], accusative, plural, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------

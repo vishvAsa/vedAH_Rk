@@ -2,7 +2,7 @@
 title = "Rig Veda 1.78.3"
 
 +++
--   *tam* \< *tad*
+-   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -12,25 +12,25 @@ title = "Rig Veda 1.78.3"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vājasātamam* \< *vāja*
+- *vājasātamam* ← *vāja*
 - \[noun\], masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vājasātamam* \< *sātamam* \< *sātama*
+- *vājasātamam* ← *sātamam* ← *sātama*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *aṅgirasvaddhavāmahe* \< *aṅgirasvat*
+- *aṅgirasvaddhavāmahe* ← *aṅgirasvat*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *aṅgirasvaddhavāmahe* \< *havāmahe* \< *hvā*
+- *aṅgirasvaddhavāmahe* ← *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *dyumnair* \< *dyumnaiḥ* \< *dyumna*
+- *dyumnair* ← *dyumnaiḥ* ← *dyumna*
 - \[noun\], instrumental, plural, neuter
 - “magnificence.”
 ------------------------------------------------------------------------
@@ -42,7 +42,7 @@ title = "Rig Veda 1.78.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ṇonumaḥ* \< *nonāv* \< *√nū*
+- *ṇonumaḥ* ← *nonāv* ← *√nū*
 - \[verb\], plural, Present indikative
 - “bellow.”
 ------------------------------------------------------------------------

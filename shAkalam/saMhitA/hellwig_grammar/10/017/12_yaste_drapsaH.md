@@ -2,11 +2,11 @@
 title = "Rig Veda 10.17.12"
 
 +++
--   *yas* \< *yaḥ* \< *yad*
+-   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -14,40 +14,40 @@ title = "Rig Veda 10.17.12"
 - \[noun\], nominative, singular, masculine
 - “drop; banner.”
 ------------------------------------------------------------------------
-- *skandati* \< *skand*
+- *skandati* ← *skand*
 - \[verb\], singular, Present indikative
 - “clot; ejaculate; spill; ride.”
 ------------------------------------------------------------------------
-- *yas* \< *yaḥ* \< *yad*
+- *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *aṃśur* \< *aṃśuḥ* \< *aṃśu*
+- *aṃśur* ← *aṃśuḥ* ← *aṃśu*
 - \[noun\], nominative, singular, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
 ------------------------------------------------------------------------
-- *bāhucyuto* \< *bāhu*
+- *bāhucyuto* ← *bāhu*
 - \[noun\], masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
-- *bāhucyuto* \< *cyutaḥ* \< *cyu*
+- *bāhucyuto* ← *cyutaḥ* ← *cyu*
 - \[verb noun\], nominative, singular
 - “fall down; issue; shoot; ejaculate; deviate; banish; drop;
     dislodge; miss; deprive.”
 ------------------------------------------------------------------------
-- *dhiṣaṇāyā* \< *dhiṣaṇāyāḥ* \< *dhiṣaṇā*
+- *dhiṣaṇāyā* ← *dhiṣaṇāyāḥ* ← *dhiṣaṇā*
 - \[noun\], genitive, singular, feminine
 - “heaven and earth.”
 ------------------------------------------------------------------------
-- *upasthāt* \< *upastha*
+- *upasthāt* ← *upastha*
 - \[noun\], ablative, singular, neuter
 - “genitalia; lap; sexual desire; anus.”
 ------------------------------------------------------------------------
-- *adhvaryor* \< *adhvaryoḥ* \< *adhvaryu*
+- *adhvaryor* ← *adhvaryoḥ* ← *adhvaryu*
 - \[noun\], genitive, singular, masculine
 - “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
 ------------------------------------------------------------------------
@@ -63,33 +63,33 @@ title = "Rig Veda 10.17.12"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *pavitrāt* \< *pavitra*
+- *pavitrāt* ← *pavitra*
 - \[noun\], ablative, singular, neuter
 - “strainer.”
 ------------------------------------------------------------------------
-- *taṃ* \< *tam* \< *tad*
+- *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *juhomi* \< *hu*
+- *juhomi* ← *hu*
 - \[verb\], singular, Present indikative
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *vaṣaṭkṛtam* \< *vaṣaṭkṛ* \< *√kṛ*
+- *vaṣaṭkṛtam* ← *vaṣaṭkṛ* ← *√kṛ*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------

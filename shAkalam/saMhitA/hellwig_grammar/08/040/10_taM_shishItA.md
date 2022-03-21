@@ -2,37 +2,37 @@
 title = "Rig Veda 8.40.10"
 
 +++
--   *taṃ* \< *tam* \< *tad*
+-   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *śiśītā* \< *śiśīta* \< *śā*
+- *śiśītā* ← *śiśīta* ← *śā*
 - \[verb\], plural, Present imperative
 - “sharpen; whet; strengthen.”
 ------------------------------------------------------------------------
-- *suvṛktibhis* \< *suvṛktibhiḥ* \< *suvṛkti*
+- *suvṛktibhis* ← *suvṛktibhiḥ* ← *suvṛkti*
 - \[noun\], instrumental, plural, feminine
 - “praise.”
 ------------------------------------------------------------------------
-- *tveṣaṃ* \< *tveṣam* \< *tveṣa*
+- *tveṣaṃ* ← *tveṣam* ← *tveṣa*
 - \[noun\], accusative, singular, masculine
 - “awful; brilliant; aglitter(p); bright.”
 ------------------------------------------------------------------------
-- *satvānam* \< *satvan*
+- *satvānam* ← *satvan*
 - \[noun\], accusative, singular, masculine
 - “warrior.”
 ------------------------------------------------------------------------
-- *ṛgmiyam* \< *ṛgmiya*
+- *ṛgmiyam* ← *ṛgmiya*
 - \[noun\], accusative, singular, masculine
 - “applaudable.”
 ------------------------------------------------------------------------
-- *uto* \< *uta*
+- *uto* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *uto* \< *u*
+- *uto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
@@ -40,55 +40,55 @@ title = "Rig Veda 8.40.10"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ya* \< *yaḥ* \< *yad*
+- *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ojasā* \< *ojas*
+- *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *śuṣṇasyāṇḍāni* \< *śuṣṇasya* \< *śuṣṇa*
+- *śuṣṇasyāṇḍāni* ← *śuṣṇasya* ← *śuṣṇa*
 - \[noun\], genitive, singular, masculine
 - “Śuṣṇa.”
 ------------------------------------------------------------------------
-- *śuṣṇasyāṇḍāni* \< *aṇḍāni* \< *aṇḍa*
+- *śuṣṇasyāṇḍāni* ← *aṇḍāni* ← *aṇḍa*
 - \[noun\], accusative, plural, neuter
 - “egg; testis; roe; aṇḍa \[word\]; Brahmāṇḍa; scrotum.”
 ------------------------------------------------------------------------
-- *bhedati* \< *bhid*
+- *bhedati* ← *bhid*
 - \[verb\], singular, Aorist conj./subj.
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;
     transgress; break open; scratch; penetrate; sever; bribe; grind;
     betray; fester; strike.”
 ------------------------------------------------------------------------
-- *jeṣat* \< *ji*
+- *jeṣat* ← *ji*
 - \[verb\], singular, Aorist conj./subj.
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *svarvatīr* \< *svarvatīḥ* \< *svarvat*
+- *svarvatīr* ← *svarvatīḥ* ← *svarvat*
 - \[noun\], accusative, plural, feminine
 - “bright; bright.”
 ------------------------------------------------------------------------
-- *apo* \< *apaḥ* \< *ap*
+- *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *nabhantām* \< *nabh*
+- *nabhantām* ← *nabh*
 - \[verb\], plural, Present imperative
 - “burst.”
 ------------------------------------------------------------------------
-- *anyake* \< *anyaka*
+- *anyake* ← *anyaka*
 - \[noun\], nominative, plural, masculine
 - “other; another(a).”
 ------------------------------------------------------------------------
-- *same* \< *sama*
+- *same* ← *sama*
 - \[noun\], nominative, plural, masculine
 - “like; like; alike(p); level; symmetrical; balanced; average; same;
     regular; impartial; imperturbable; even; sama \[word\]; every(a);

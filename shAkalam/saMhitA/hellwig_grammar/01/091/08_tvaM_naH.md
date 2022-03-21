@@ -2,11 +2,11 @@
 title = "Rig Veda 1.91.8"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -14,33 +14,33 @@ title = "Rig Veda 1.91.8"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *viśvato* \< *viśvatas*
+- *viśvato* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
 ------------------------------------------------------------------------
-- *rakṣā* \< *rakṣ*
+- *rakṣā* ← *rakṣ*
 - \[verb\], singular, Present imperative
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------
-- *rājann* \< *rājan*
+- *rājann* ← *rājan*
 - \[noun\], vocative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *aghāyataḥ* \< *aghāy*
+- *aghāyataḥ* ← *aghāy*
 - \[verb noun\], ablative, singular
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *riṣyet* \< *riṣ*
+- *riṣyet* ← *riṣ*
 - \[verb\], singular, Present optative
 - “suffer; harm.”
 ------------------------------------------------------------------------
-- *tvāvataḥ* \< *tvāvat*
+- *tvāvataḥ* ← *tvāvat*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *sakhā* \< *sakhi*
+- *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------

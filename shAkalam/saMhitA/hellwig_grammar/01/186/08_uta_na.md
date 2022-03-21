@@ -6,52 +6,52 @@ title = "Rig Veda 1.186.8"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *īm* \< *īṃ*
+- *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *vṛddhasenāḥ* \< *vṛddha* \< *vṛdh*
+- *vṛddhasenāḥ* ← *vṛddha* ← *vṛdh*
 - \[verb noun\]
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *vṛddhasenāḥ* \< *senāḥ* \< *senā*
+- *vṛddhasenāḥ* ← *senāḥ* ← *senā*
 - \[noun\], nominative, plural, masculine
 - “army; senā \[word\]; armament.”
 ------------------------------------------------------------------------
-- *smad* \< *smat*
+- *smad* ← *smat*
 - \[adverb\]
 - “simultaneously; jointly.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], nominative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *samanasaḥ* \< *samanas*
+- *samanasaḥ* ← *samanas*
 - \[noun\], nominative, plural, masculine
 - “consentaneous.”
 ------------------------------------------------------------------------
-- *sadantu* \< *sad*
+- *sadantu* ← *sad*
 - \[verb\], plural, Aorist imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *pṛṣadaśvāso* \< *pṛṣat*
+- *pṛṣadaśvāso* ← *pṛṣat*
 - \[noun\]
 - “motley; patched.”
 ------------------------------------------------------------------------
-- *pṛṣadaśvāso* \< *aśvāsaḥ* \< *aśva*
+- *pṛṣadaśvāso* ← *aśvāsaḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *'vanayo* \< *avanayaḥ* \< *avani*
+- *'vanayo* ← *avanayaḥ* ← *avani*
 - \[noun\], nominative, plural, feminine
 - “river; earth; floor; path; bed; course.”
 ------------------------------------------------------------------------
@@ -59,19 +59,19 @@ title = "Rig Veda 1.186.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *rathā* \< *rathāḥ* \< *ratha*
+- *rathā* ← *rathāḥ* ← *ratha*
 - \[noun\], nominative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *riśādaso* \< *riśādasaḥ* \< *riśādas*
+- *riśādaso* ← *riśādasaḥ* ← *riśādas*
 - \[noun\], nominative, plural, masculine
 - “superior; superior; proud.”
 ------------------------------------------------------------------------
-- *mitrayujo* \< *mitra*
+- *mitrayujo* ← *mitra*
 - \[noun\], masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *mitrayujo* \< *yujaḥ* \< *yuj*
+- *mitrayujo* ← *yujaḥ* ← *yuj*
 - \[noun\], nominative, plural, masculine
 - “amalgamated; harnessed.”
 ------------------------------------------------------------------------
@@ -79,7 +79,7 @@ title = "Rig Veda 1.186.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *devāḥ* \< *deva*
+- *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”

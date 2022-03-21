@@ -2,67 +2,67 @@
 title = "Rig Veda 2.33.6"
 
 +++
--   *un* \< *ud*
+-   *un* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mamanda* \< *mad*
+- *mamanda* ← *mad*
 - \[verb\], singular, Perfect indicative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *vṛṣabho* \< *vṛṣabhaḥ* \< *vṛṣabha*
+- *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *marutvān* \< *marutvat*
+- *marutvān* ← *marutvat*
 - \[noun\], nominative, singular, masculine
 - “Marut(a).”
 ------------------------------------------------------------------------
-- *tvakṣīyasā* \< *tvakṣīyas*
+- *tvakṣīyasā* ← *tvakṣīyas*
 - \[noun\], instrumental, singular, neuter
 ------------------------------------------------------------------------
-- *vayasā* \< *vayas*
+- *vayasā* ← *vayas*
 - \[noun\], instrumental, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
 ------------------------------------------------------------------------
-- *nādhamānam* \< *nādh*
+- *nādhamānam* ← *nādh*
 - \[verb noun\], accusative, singular
 - “suffer.”
 ------------------------------------------------------------------------
-- *ghṛṇīva* \< *ghṛṇī* \< *ghṛṇin*
+- *ghṛṇīva* ← *ghṛṇī* ← *ghṛṇin*
 - \[noun\], nominative, singular, masculine
 - “fierce.”
 ------------------------------------------------------------------------
-- *ghṛṇīva* \< *iva*
+- *ghṛṇīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *cchāyām* \< *chāyām* \< *chāyā*
+- *cchāyām* ← *chāyām* ← *chāyā*
 - \[noun\], accusative, singular, feminine
 - “color; shadow; chāyā \[word\]; complexion; reflection; shade.”
 ------------------------------------------------------------------------
-- *arapā* \< *arapāḥ* \< *arapas*
+- *arapā* ← *arapāḥ* ← *arapas*
 - \[noun\], nominative, singular, masculine
 - “safe; unharmed; beneficial.”
 ------------------------------------------------------------------------
-- *aśīyā* \< *aś*
+- *aśīyā* ← *aś*
 - \[verb\], singular, Aorist optative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *vivāseyaṃ* \< *vivāseyam* \< *vivās* \< *√van*
+- *vivāseyaṃ* ← *vivāseyam* ← *vivās* ← *√van*
 - \[verb\], singular, Present optative
 - “invite; endeavor; try for.”
 ------------------------------------------------------------------------
-- *rudrasya* \< *rudra*
+- *rudrasya* ← *rudra*
 - \[noun\], genitive, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *sumnam* \< *sumna*
+- *sumnam* ← *sumna*
 - \[noun\], accusative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------

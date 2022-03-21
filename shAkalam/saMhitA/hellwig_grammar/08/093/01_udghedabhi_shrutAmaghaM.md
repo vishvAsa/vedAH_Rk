@@ -6,10 +6,10 @@ title = "Rig Veda 8.93.1"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *ghed* \< *gha*
+- *ghed* ← *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ghed* \< *id*
+- *ghed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -17,26 +17,26 @@ title = "Rig Veda 8.93.1"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *śrutāmaghaṃ* \< *śrutāmagham* \< *śrutāmagha*
+- *śrutāmaghaṃ* ← *śrutāmagham* ← *śrutāmagha*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *vṛṣabhaṃ* \< *vṛṣabham* \< *vṛṣabha*
+- *vṛṣabhaṃ* ← *vṛṣabham* ← *vṛṣabha*
 - \[noun\], accusative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *naryāpasam* \< *narya*
+- *naryāpasam* ← *narya*
 - \[noun\]
 - “manly; heroic; powerful; male; human.”
 ------------------------------------------------------------------------
-- *naryāpasam* \< *apasam* \< *apas*
+- *naryāpasam* ← *apasam* ← *apas*
 - \[noun\], accusative, singular, masculine
 - “work; deed.”
 ------------------------------------------------------------------------
-- *astāram* \< *astṛ*
+- *astāram* ← *astṛ*
 - \[noun\], accusative, singular, masculine
 - “archer; shot.”
 ------------------------------------------------------------------------
-- *eṣi* \< *i*
+- *eṣi* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------

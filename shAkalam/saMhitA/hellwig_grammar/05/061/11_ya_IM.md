@@ -2,27 +2,27 @@
 title = "Rig Veda 5.61.11"
 
 +++
--   *ya* \< *ye* \< *yad*
+-   *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *īṃ* \< *īm* \< *īṃ*
+- *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *vahanta* \< *vahante* \< *vah*
+- *vahanta* ← *vahante* ← *vah*
 - \[verb\], plural, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *āśubhiḥ* \< *āśu*
+- *āśubhiḥ* ← *āśu*
 - \[noun\], instrumental, plural, masculine
 - “quick; fast; immediate; agile.”
 ------------------------------------------------------------------------
-- *pibanto* \< *pibantaḥ* \< *pā*
+- *pibanto* ← *pibantaḥ* ← *pā*
 - \[verb noun\], nominative, plural
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *madiram* \< *madira*
+- *madiram* ← *madira*
 - \[noun\], accusative, singular, neuter
 - “intoxicant.”
 ------------------------------------------------------------------------
@@ -35,11 +35,11 @@ title = "Rig Veda 5.61.11"
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *śravāṃsi* \< *śravas*
+- *śravāṃsi* ← *śravas*
 - \[noun\], accusative, plural, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *dadhire* \< *dhā*
+- *dadhire* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

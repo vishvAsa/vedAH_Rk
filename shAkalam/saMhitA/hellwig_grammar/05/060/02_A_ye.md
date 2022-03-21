@@ -6,54 +6,54 @@ title = "Rig Veda 5.60.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *tasthuḥ* \< *sthā*
+- *tasthuḥ* ← *sthā*
 - \[verb\], plural, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *pṛṣatīṣu* \< *pṛṣatī*
+- *pṛṣatīṣu* ← *pṛṣatī*
 - \[noun\], locative, plural, feminine
 ------------------------------------------------------------------------
-- *śrutāsu* \< *śru*
+- *śrutāsu* ← *śru*
 - \[verb noun\], locative, plural
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *sukheṣu* \< *sukha*
+- *sukheṣu* ← *sukha*
 - \[noun\], locative, plural, masculine
 - “pleasant; easy; lukewarm; comfortable; sukha \[word\]; successful;
     easy; content(p).”
 ------------------------------------------------------------------------
-- *rudrā* \< *rudrāḥ* \< *rudra*
+- *rudrā* ← *rudrāḥ* ← *rudra*
 - \[noun\], nominative, plural, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *ratheṣu* \< *ratha*
+- *ratheṣu* ← *ratha*
 - \[noun\], locative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *vanā* \< *vana*
+- *vanā* ← *vana*
 - \[noun\], nominative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ugrā* \< *ugra*
+- *ugrā* ← *ugra*
 - \[noun\], nominative, plural, neuter
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *jihate* \< *hā*
+- *jihate* ← *hā*
 - \[verb\], plural, Present indikative
 - “move over; yield; give way.”
 ------------------------------------------------------------------------
@@ -61,11 +61,11 @@ title = "Rig Veda 5.60.2"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *bhiyā* \< *bhī*
+- *bhiyā* ← *bhī*
 - \[noun\], instrumental, singular, feminine
 - “fear; bhī; alarm.”
 ------------------------------------------------------------------------
@@ -73,15 +73,15 @@ title = "Rig Veda 5.60.2"
 - \[noun\], nominative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *rejate* \< *rej*
+- *rejate* ← *rej*
 - \[verb\], singular, Present indikative
 - “tremor; flicker.”
 ------------------------------------------------------------------------
-- *parvataś* \< *parvataḥ* \< *parvata*
+- *parvataś* ← *parvataḥ* ← *parvata*
 - \[noun\], nominative, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”

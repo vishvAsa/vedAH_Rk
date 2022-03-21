@@ -6,24 +6,24 @@ title = "Rig Veda 6.28.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tā* \< *tāḥ* \< *tad*
+- *tā* ← *tāḥ* ← *tad*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *arvā* \< *arvan*
+- *arvā* ← *arvan*
 - \[noun\], nominative, singular, masculine
 - “horse; arvan \[word\]; racehorse.”
 ------------------------------------------------------------------------
-- *reṇukakāṭo* \< *reṇu*
+- *reṇukakāṭo* ← *reṇu*
 - \[noun\], masculine
 - “dust; pollen; powder.”
 ------------------------------------------------------------------------
-- *reṇukakāṭo* \< *kakāṭaḥ* \< *kakāṭa*
+- *reṇukakāṭo* ← *kakāṭaḥ* ← *kakāṭa*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *aśnute* \< *aś*
+- *aśnute* ← *aś*
 - \[verb\], singular, Present indikative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
@@ -31,7 +31,7 @@ title = "Rig Veda 6.28.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *saṃskṛtatram* \< *saṃskṛtatra*
+- *saṃskṛtatram* ← *saṃskṛtatra*
 - \[noun\], accusative, singular, neuter
 - “abattoir.”
 ------------------------------------------------------------------------
@@ -39,11 +39,11 @@ title = "Rig Veda 6.28.4"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *yanti* \< *i*
+- *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *tā* \< *tāḥ* \< *tad*
+- *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -53,20 +53,20 @@ title = "Rig Veda 6.28.4"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *urugāyam* \< *urugāya*
+- *urugāyam* ← *urugāya*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *abhayaṃ* \< *abhayam* \< *abhaya*
+- *abhayaṃ* ← *abhayam* ← *abhaya*
 - \[noun\], accusative, singular, neuter
 - “safe.”
 ------------------------------------------------------------------------
-- *tasya* \< *tad*
+- *tasya* ← *tad*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tā* \< *tāḥ* \< *tad*
+- *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -76,12 +76,12 @@ title = "Rig Veda 6.28.4"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *gāvo* \< *gāvaḥ* \< *go*
+- *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *martasya* \< *marta*
+- *martasya* ← *marta*
 - \[noun\], genitive, singular, masculine
 - “man.”
 ------------------------------------------------------------------------
@@ -89,12 +89,12 @@ title = "Rig Veda 6.28.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *caranti* \< *car*
+- *caranti* ← *car*
 - \[verb\], plural, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *yajvanaḥ* \< *yajvan*
+- *yajvanaḥ* ← *yajvan*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------

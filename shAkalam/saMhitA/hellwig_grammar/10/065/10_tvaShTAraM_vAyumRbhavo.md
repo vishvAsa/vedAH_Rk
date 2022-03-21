@@ -2,74 +2,74 @@
 title = "Rig Veda 10.65.10"
 
 +++
--   *tvaṣṭāraṃ* \< *tvaṣṭāram* \< *tvaṣṭṛ*
+-   *tvaṣṭāraṃ* ← *tvaṣṭāram* ← *tvaṣṭṛ*
 - \[noun\], accusative, singular, masculine
 - “Tvaṣṭṛ; Viśvakarman; sun.”
 ------------------------------------------------------------------------
-- *vāyum* \< *vāyu*
+- *vāyum* ← *vāyu*
 - \[noun\], accusative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
 ------------------------------------------------------------------------
-- *ṛbhavo* \< *ṛbhavaḥ* \< *ṛbhu*
+- *ṛbhavo* ← *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], vocative, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
-- *ya* \< *yaḥ* \< *yad*
+- *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ohate* \< *ūh*
+- *ohate* ← *ūh*
 - \[verb\], singular, Present indikative
 - “diagnose.”
 ------------------------------------------------------------------------
-- *daivyā* \< *daivya*
+- *daivyā* ← *daivya*
 - \[noun\], accusative, dual, masculine
 - “divine; divine; celestial.”
 ------------------------------------------------------------------------
-- *hotārā* \< *hotārau* \< *hotṛ*
+- *hotārā* ← *hotārau* ← *hotṛ*
 - \[noun\], accusative, dual, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *uṣasaṃ* \< *uṣasam* \< *uṣas*
+- *uṣasaṃ* ← *uṣasam* ← *uṣas*
 - \[noun\], accusative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *svastaye* \< *svasti*
+- *svastaye* ← *svasti*
 - \[noun\], dative, singular, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
 ------------------------------------------------------------------------
-- *bṛhaspatiṃ* \< *bṛhaspatim* \< *bṛhaspati*
+- *bṛhaspatiṃ* ← *bṛhaspatim* ← *bṛhaspati*
 - \[noun\], accusative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *vṛtrakhādaṃ* \< *vṛtra*
+- *vṛtrakhādaṃ* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *vṛtrakhādaṃ* \< *khādam* \< *khāda*
+- *vṛtrakhādaṃ* ← *khādam* ← *khāda*
 - \[noun\], accusative, singular, masculine
 - “khād; eating.”
 ------------------------------------------------------------------------
-- *sumedhasam* \< *sumedhas*
+- *sumedhasam* ← *sumedhas*
 - \[noun\], accusative, singular, masculine
 - “wise.”
 ------------------------------------------------------------------------
-- *indriyaṃ* \< *indriyam* \< *indriya*
+- *indriyaṃ* ← *indriyam* ← *indriya*
 - \[noun\], accusative, singular, masculine
 - “aindra.”
 ------------------------------------------------------------------------
-- *somaṃ* \< *somam* \< *soma*
+- *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *dhanasā* \< *dhana*
+- *dhanasā* ← *dhana*
 - \[noun\], neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
 ------------------------------------------------------------------------
-- *dhanasā* \< *sāḥ* \< *sā*
+- *dhanasā* ← *sāḥ* ← *sā*
 - \[noun\], nominative, plural, masculine
 - “winning.”
 ------------------------------------------------------------------------
@@ -77,7 +77,7 @@ title = "Rig Veda 10.65.10"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *īmahe* \< *ī* \< *√i*
+- *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------

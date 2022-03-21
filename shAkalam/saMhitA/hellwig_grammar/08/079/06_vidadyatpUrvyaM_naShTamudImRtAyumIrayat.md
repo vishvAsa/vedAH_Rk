@@ -2,19 +2,19 @@
 title = "Rig Veda 8.79.6"
 
 +++
--   *vidad* \< *vidat* \< *vid*
+-   *vidad* ← *vidat* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *yat* \< *yad*
+- *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *pūrvyaṃ* \< *pūrvyam* \< *pūrvya*
+- *pūrvyaṃ* ← *pūrvyam* ← *pūrvya*
 - \[noun\], nominative, singular, neuter
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------
-- *naṣṭam* \< *naś*
+- *naṣṭam* ← *naś*
 - \[verb noun\], nominative, singular
 - “disappear; vanish; gasify; fail; perish; lose; bhasmībhū.”
 ------------------------------------------------------------------------
@@ -22,37 +22,37 @@ title = "Rig Veda 8.79.6"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *īm* \< *īṃ*
+- *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ṛtāyum* \< *ṛtāyu*
+- *ṛtāyum* ← *ṛtāyu*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *īrayat* \< *īray* \< *√īr*
+- *īrayat* ← *īray* ← *√īr*
 - \[verb\], singular, Present injunctive
 - “name; describe; propel; shoot; state; call; raise; expel; tell;
     enumerate.”
 ------------------------------------------------------------------------
-- *prem* \< *pra*
+- *prem* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prem* \< *īm* \< *īṃ*
+- *prem* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *āyus* \< *āyuḥ* \< *āyus*
+- *āyus* ← *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------
-- *tārīd* \< *tārīt* \< *tṛ*
+- *tārīd* ← *tārīt* ← *tṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *atīrṇam* \< *a*
+- *atīrṇam* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *atīrṇam* \< *tīrṇam* \< *tṛ*
+- *atīrṇam* ← *tīrṇam* ← *tṛ*
 - \[verb noun\], accusative, singular
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------

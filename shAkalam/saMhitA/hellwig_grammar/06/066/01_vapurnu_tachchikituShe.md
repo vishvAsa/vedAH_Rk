@@ -2,7 +2,7 @@
 title = "Rig Veda 6.66.1"
 
 +++
--   *vapur* \< *vapuḥ* \< *vapus*
+-   *vapur* ← *vapuḥ* ← *vapus*
 - \[noun\], nominative, singular, neuter
 - “body; form; miracle; human body; beauty; look; spectacle; figure;
     embodiment.”
@@ -11,31 +11,31 @@ title = "Rig Veda 6.66.1"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *tac* \< *tat* \< *tad*
+- *tac* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *cikituṣe* \< *cit*
+- *cikituṣe* ← *cit*
 - \[verb noun\], dative, singular
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *samānaṃ* \< *samānam* \< *samāna*
+- *samānaṃ* ← *samānam* ← *samāna*
 - \[noun\], accusative, singular, neuter
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
 ------------------------------------------------------------------------
-- *nāma* \< *nāman*
+- *nāma* ← *nāman*
 - \[noun\], accusative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
@@ -44,45 +44,45 @@ title = "Rig Veda 6.66.1"
 - \[noun\], accusative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *patyamānam* \< *pat*
+- *patyamānam* ← *pat*
 - \[verb noun\], nominative, singular
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
 ------------------------------------------------------------------------
-- *marteṣv* \< *marteṣu* \< *marta*
+- *marteṣv* ← *marteṣu* ← *marta*
 - \[noun\], locative, plural, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *anyad* \< *anyat* \< *anya*
+- *anyad* ← *anyat* ← *anya*
 - \[noun\], nominative, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *dohase* \< *duh*
+- *dohase* ← *duh*
 - \[verb noun\]
 - “milk.”
 ------------------------------------------------------------------------
-- *pīpāya* \< *pyā*
+- *pīpāya* ← *pyā*
 - \[verb\], singular, Perfect indicative
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
-- *sakṛcchukraṃ* \< *sakṛt*
+- *sakṛcchukraṃ* ← *sakṛt*
 - \[adverb\]
 - “once; immediately; sakṛt \[word\]; abruptly.”
 ------------------------------------------------------------------------
-- *sakṛcchukraṃ* \< *śukram* \< *śukra*
+- *sakṛcchukraṃ* ← *śukram* ← *śukra*
 - \[noun\], accusative, singular, neuter
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *duduhe* \< *duh*
+- *duduhe* ← *duh*
 - \[verb\], singular, Perfect indicative
 - “milk.”
 ------------------------------------------------------------------------
-- *pṛśnir* \< *pṛśniḥ* \< *pṛśni*
+- *pṛśnir* ← *pṛśniḥ* ← *pṛśni*
 - \[noun\], nominative, singular, feminine
 - “Pṛśni; beam.”
 ------------------------------------------------------------------------
-- *ūdhaḥ* \< *ūdhas*
+- *ūdhaḥ* ← *ūdhas*
 - \[noun\], accusative, singular, neuter
 - “udder; ūdhas \[word\]; night.”
 ------------------------------------------------------------------------

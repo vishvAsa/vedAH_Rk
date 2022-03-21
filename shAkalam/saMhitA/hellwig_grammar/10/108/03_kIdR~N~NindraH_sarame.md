@@ -2,42 +2,42 @@
 title = "Rig Veda 10.108.3"
 
 +++
--   *kīdṛṅṅ* \< *kīdṛṅ* \< *kīdṛś*
+-   *kīdṛṅṅ* ← *kīdṛṅ* ← *kīdṛś*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sarame* \< *saramā*
+- *sarame* ← *saramā*
 - \[noun\], vocative, singular, feminine
 - “Saramā.”
 ------------------------------------------------------------------------
-- *kā* \< *ka*
+- *kā* ← *ka*
 - \[noun\], nominative, singular, feminine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
 - *dṛśīkā*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *yasyedaṃ* \< *yasya* \< *yad*
+- *yasyedaṃ* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yasyedaṃ* \< *idam*
+- *yasyedaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *dūtīr* \< *dūtīḥ* \< *dūtī*
+- *dūtīr* ← *dūtīḥ* ← *dūtī*
 - \[noun\], nominative, singular, feminine
 - “daśadūtī.”
 ------------------------------------------------------------------------
-- *asaraḥ* \< *sṛ*
+- *asaraḥ* ← *sṛ*
 - \[verb\], singular, Imperfect
 - “sṛ; liquefy; run; spread; stretch out.”
 ------------------------------------------------------------------------
-- *parākāt* \< *parāka*
+- *parākāt* ← *parāka*
 - \[noun\], ablative, singular, masculine
 - “parāka.”
 ------------------------------------------------------------------------
@@ -49,44 +49,44 @@ title = "Rig Veda 10.108.3"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *gacchān* \< *gacchāt* \< *gam*
+- *gacchān* ← *gacchāt* ← *gam*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *mitram* \< *mitra*
+- *mitram* ← *mitra*
 - \[noun\], accusative, singular, neuter
 - “friendship.”
 ------------------------------------------------------------------------
-- *enā* \< *idam*
+- *enā* ← *idam*
 - \[noun\], instrumental, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *dadhāmāthā* \< *dadhāma* \< *dhā*
+- *dadhāmāthā* ← *dadhāma* ← *dhā*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *dadhāmāthā* \< *athā* \< *atha*
+- *dadhāmāthā* ← *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *gavāṃ* \< *gavām* \< *go*
+- *gavāṃ* ← *gavām* ← *go*
 - \[noun\], genitive, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *gopatir* \< *gopatiḥ* \< *gopati*
+- *gopatir* ← *gopatiḥ* ← *gopati*
 - \[noun\], nominative, singular, masculine
 - “Shiva; bull; cowboy; Indra; Gopati; king.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *bhavāti* \< *bhū*
+- *bhavāti* ← *bhū*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;

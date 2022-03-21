@@ -2,23 +2,23 @@
 title = "Rig Veda 8.79.4"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *cittī* \< *citti*
+- *cittī* ← *citti*
 - \[noun\], instrumental, singular, feminine
 - “purpose.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dakṣair* \< *dakṣaiḥ* \< *dakṣa*
+- *dakṣair* ← *dakṣaiḥ* ← *dakṣa*
 - \[noun\], instrumental, plural, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
 ------------------------------------------------------------------------
-- *diva* \< *divaḥ* \< *div*
+- *diva* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -26,26 +26,26 @@ title = "Rig Veda 8.79.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *pṛthivyā* \< *pṛthivyāḥ* \< *pṛthivī*
+- *pṛthivyā* ← *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], ablative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
 - *ṛjīṣin*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *yāvīr* \< *yāvīḥ* \< *yu*
+- *yāvīr* ← *yāvīḥ* ← *yu*
 - \[verb\], singular, Aorist inj. (proh.)
 - “keep away; separate; ward off.”
 ------------------------------------------------------------------------
-- *aghasya* \< *agha*
+- *aghasya* ← *agha*
 - \[noun\], genitive, singular, masculine
 - “bad; dangerous; ill; iniquitous; bad.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *dveṣaḥ* \< *dveṣas*
+- *dveṣaḥ* ← *dveṣas*
 - \[noun\], accusative, singular, neuter
 - “hostility; enemy.”
 ------------------------------------------------------------------------

@@ -2,19 +2,19 @@
 title = "Rig Veda 2.33.5"
 
 +++
--   *havīmabhir* \< *havīmabhiḥ* \< *havīman*
+-   *havīmabhir* ← *havīmabhiḥ* ← *havīman*
 - \[noun\], instrumental, plural, neuter
 - “call; invocation.”
 ------------------------------------------------------------------------
-- *havate* \< *hvā*
+- *havate* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *havirbhir* \< *havirbhiḥ* \< *havis*
+- *havirbhir* ← *havirbhiḥ* ← *havis*
 - \[noun\], instrumental, plural, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
@@ -22,26 +22,26 @@ title = "Rig Veda 2.33.5"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *stomebhī* \< *stomebhiḥ* \< *stoma*
+- *stomebhī* ← *stomebhiḥ* ← *stoma*
 - \[noun\], instrumental, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *rudraṃ* \< *rudram* \< *rudra*
+- *rudraṃ* ← *rudram* ← *rudra*
 - \[noun\], accusative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *diṣīya* \< *dā*
+- *diṣīya* ← *dā*
 - \[verb\], singular, Aorist optative
 - “cut; mow.”
 ------------------------------------------------------------------------
-- *ṛdūdaraḥ* \< *ṛdūdara*
+- *ṛdūdaraḥ* ← *ṛdūdara*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *suhavo* \< *su*
+- *suhavo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suhavo* \< *havaḥ* \< *hava*
+- *suhavo* ← *havaḥ* ← *hava*
 - \[noun\], nominative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
@@ -49,31 +49,31 @@ title = "Rig Veda 2.33.5"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asyai* \< *idam*
+- *asyai* ← *idam*
 - \[noun\], dative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *babhruḥ* \< *babhru*
+- *babhruḥ* ← *babhru*
 - \[noun\], nominative, singular, masculine
 - “tawny; brown.”
 ------------------------------------------------------------------------
-- *suśipro* \< *su*
+- *suśipro* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśipro* \< *śipraḥ* \< *śiprā*
+- *suśipro* ← *śipraḥ* ← *śiprā*
 - \[noun\], nominative, singular, masculine
 - “lip; śiprā.”
 ------------------------------------------------------------------------
-- *rīradhan* \< *rīradhat* \< *radh*
+- *rīradhan* ← *rīradhat* ← *radh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “subjugate.”
 ------------------------------------------------------------------------
-- *manāyai* \< *manā*
+- *manāyai* ← *manā*
 - \[noun\], dative, singular, feminine
 - “jewelry.”
 ------------------------------------------------------------------------

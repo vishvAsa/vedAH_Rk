@@ -2,30 +2,30 @@
 title = "Rig Veda 8.25.9"
 
 +++
--   *akṣṇaś* \< *akṣṇaḥ* \< *akṣi*
+-   *akṣṇaś* ← *akṣṇaḥ* ← *akṣi*
 - \[noun\], ablative, singular, neuter
 - “eye; akṣi \[word\]; two.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *gātuvittarānulbaṇena* \< *gātu*
+- *gātuvittarānulbaṇena* ← *gātu*
 - \[noun\], masculine
 - “path; way.”
 ------------------------------------------------------------------------
-- *gātuvittarānulbaṇena* \< *vittarā* \< *vittara*
+- *gātuvittarānulbaṇena* ← *vittarā* ← *vittara*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *gātuvittarānulbaṇena* \< *an*
+- *gātuvittarānulbaṇena* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *gātuvittarānulbaṇena* \< *ulbaṇena* \< *ulbaṇa*
+- *gātuvittarānulbaṇena* ← *ulbaṇena* ← *ulbaṇa*
 - \[noun\], instrumental, singular, neuter
 - “abounding in(p); prevailing; strong; excess.”
 ------------------------------------------------------------------------
-- *cakṣasā* \< *cakṣas*
+- *cakṣasā* ← *cakṣas*
 - \[noun\], instrumental, singular, neuter
 - “eye; look; radiance.”
 ------------------------------------------------------------------------
@@ -33,14 +33,14 @@ title = "Rig Veda 8.25.9"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *miṣantā* \< *miṣ*
+- *miṣantā* ← *miṣ*
 - \[verb noun\], nominative, dual
 ------------------------------------------------------------------------
-- *nicirā* \< *nicira*
+- *nicirā* ← *nicira*
 - \[noun\], nominative, dual, masculine
 - “attentive; argus-eyed.”
 ------------------------------------------------------------------------
@@ -48,7 +48,7 @@ title = "Rig Veda 8.25.9"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *cikyatuḥ* \< *ci*
+- *cikyatuḥ* ← *ci*
 - \[verb\], dual, Perfect indicative
 - “observe; detect; notice; heed; mind.”
 ------------------------------------------------------------------------

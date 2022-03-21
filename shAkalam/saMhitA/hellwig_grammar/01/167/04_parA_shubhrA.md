@@ -6,30 +6,30 @@ title = "Rig Veda 1.167.4"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *śubhrā* \< *śubhrāḥ* \< *śubhra*
+- *śubhrā* ← *śubhrāḥ* ← *śubhra*
 - \[noun\], nominative, plural, masculine
 - “white; beautiful; attractive; śubhra \[word\]; light.”
 ------------------------------------------------------------------------
-- *ayāso* \< *ayāsaḥ* \< *ayās*
+- *ayāso* ← *ayāsaḥ* ← *ayās*
 - \[noun\], nominative, plural, masculine
 - “undaunted; irrepressible; audacious.”
 ------------------------------------------------------------------------
 - *yavyā*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *sādhāraṇyeva* \< *sādhāraṇyā* \< *sādhāraṇa*
+- *sādhāraṇyeva* ← *sādhāraṇyā* ← *sādhāraṇa*
 - \[noun\], instrumental, singular, feminine
 - “general; sādhāraṇa; common; average; general.”
 ------------------------------------------------------------------------
-- *sādhāraṇyeva* \< *iva*
+- *sādhāraṇyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *mimikṣuḥ* \< *myakṣ*
+- *mimikṣuḥ* ← *myakṣ*
 - \[verb\], plural, Perfect indicative
 - “be situated; attach.”
 ------------------------------------------------------------------------
@@ -45,29 +45,29 @@ title = "Rig Veda 1.167.4"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *nudanta* \< *nud*
+- *nudanta* ← *nud*
 - \[verb\], plural, Present injunctive
 - “push; propel; expel; push; move.”
 ------------------------------------------------------------------------
-- *ghorā* \< *ghorāḥ* \< *ghora*
+- *ghorā* ← *ghorāḥ* ← *ghora*
 - \[noun\], nominative, plural, masculine
 - “awful; dangerous; terrific; intense; dreadful.”
 ------------------------------------------------------------------------
-- *juṣanta* \< *juṣ*
+- *juṣanta* ← *juṣ*
 - \[verb\], plural, Present injunctive
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *vṛdhaṃ* \< *vṛdham* \< *vṛdh*
+- *vṛdhaṃ* ← *vṛdham* ← *vṛdh*
 - \[verb noun\]
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *sakhyāya* \< *sakhya*
+- *sakhyāya* ← *sakhya*
 - \[noun\], dative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *devāḥ* \< *deva*
+- *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”

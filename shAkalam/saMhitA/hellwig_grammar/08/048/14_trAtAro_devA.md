@@ -2,10 +2,10 @@
 title = "Rig Veda 8.48.14"
 
 +++
--   *trātāro* \< *trātāraḥ* \< *trātṛ*
+-   *trātāro* ← *trātāraḥ* ← *trātṛ*
 - \[noun\], vocative, plural, masculine
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -14,14 +14,14 @@ title = "Rig Veda 8.48.14"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *vocatā* \< *vocata* \< *vac*
+- *vocatā* ← *vocata* ← *vac*
 - \[verb\], plural, Aorist imperative
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -29,7 +29,7 @@ title = "Rig Veda 8.48.14"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -37,46 +37,46 @@ title = "Rig Veda 8.48.14"
 - \[noun\], nominative, singular, feminine
 - “sleep; sleepiness; nidrā.”
 ------------------------------------------------------------------------
-- *īśata* \< *īś*
+- *īśata* ← *īś*
 - \[verb\], singular, Present injunctive
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *mota* \< *mā*
+- *mota* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *mota* \< *uta*
+- *mota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *jalpiḥ* \< *jalpi*
+- *jalpiḥ* ← *jalpi*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *somasya* \< *soma*
+- *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
 - *viśvaha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *priyāsaḥ* \< *priya*
+- *priyāsaḥ* ← *priya*
 - \[noun\], nominative, plural, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *suvīrāso* \< *su*
+- *suvīrāso* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvīrāso* \< *vīrāsaḥ* \< *vīra*
+- *suvīrāso* ← *vīrāsaḥ* ← *vīra*
 - \[noun\], nominative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *vidatham* \< *vidatha*
+- *vidatham* ← *vidatha*
 - \[noun\], accusative, singular, neuter
 - “meeting; wisdom; council.”
 ------------------------------------------------------------------------
@@ -84,7 +84,7 @@ title = "Rig Veda 8.48.14"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vadema* \< *vad*
+- *vadema* ← *vad*
 - \[verb\], plural, Present optative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”

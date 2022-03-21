@@ -6,25 +6,25 @@ title = "Rig Veda 7.16.3"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *śocir* \< *śociḥ* \< *śocis*
+- *śocir* ← *śociḥ* ← *śocis*
 - \[noun\], nominative, singular, neuter
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------
-- *asthād* \< *asthāt* \< *sthā*
+- *asthād* ← *asthāt* ← *sthā*
 - \[verb\], singular, Root aorist (Ind.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *ājuhvānasya* \< *āhu* \< *√hu*
+- *ājuhvānasya* ← *āhu* ← *√hu*
 - \[verb noun\], genitive, singular
 - “sacrifice; sprinkle.”
 ------------------------------------------------------------------------
-- *mīﾱhuṣaḥ* \< *mīḍhuṣaḥ* \< *mīḍhvas*
+- *mīﾱhuṣaḥ* ← *mīḍhuṣaḥ* ← *mīḍhvas*
 - \[noun\], genitive, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
@@ -32,16 +32,16 @@ title = "Rig Veda 7.16.3"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *dhūmāso* \< *dhūmāsaḥ* \< *dhūma*
+- *dhūmāso* ← *dhūmāsaḥ* ← *dhūma*
 - \[noun\], nominative, plural, masculine
 - “smoke; dhūmavedha; carbon black; dhūmana; mist; vapor;
     vaporization; dhūma \[word\]; incense.”
 ------------------------------------------------------------------------
-- *aruṣāso* \< *aruṣāsaḥ* \< *aruṣa*
+- *aruṣāso* ← *aruṣāsaḥ* ← *aruṣa*
 - \[noun\], nominative, plural, masculine
 - “red; red.”
 ------------------------------------------------------------------------
-- *divispṛśaḥ* \< *divispṛś*
+- *divispṛśaḥ* ← *divispṛś*
 - \[noun\], nominative, plural, masculine
 - “heavenward.”
 ------------------------------------------------------------------------
@@ -49,17 +49,17 @@ title = "Rig Veda 7.16.3"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *agnim* \< *agni*
+- *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *indhate* \< *indh*
+- *indhate* ← *indh*
 - \[verb\], plural, Present indikative
 - “kindle; ignite; set ablaze.”
 ------------------------------------------------------------------------
-- *naraḥ* \< *nṛ*
+- *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------

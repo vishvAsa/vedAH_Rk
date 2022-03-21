@@ -2,54 +2,54 @@
 title = "Rig Veda 8.97.12"
 
 +++
--   *nemiṃ* \< *nemim* \< *nemi*
+-   *nemiṃ* ← *nemim* ← *nemi*
 - \[noun\], accusative, singular, masculine
 - “rim; felloe.”
 ------------------------------------------------------------------------
-- *namanti* \< *nam*
+- *namanti* ← *nam*
 - \[verb\], plural, Present indikative
 - “bow; bend; condescend; worship; bend; lower.”
 ------------------------------------------------------------------------
-- *cakṣasā* \< *cakṣas*
+- *cakṣasā* ← *cakṣas*
 - \[noun\], instrumental, singular, neuter
 - “eye; look; radiance.”
 ------------------------------------------------------------------------
-- *meṣaṃ* \< *meṣam* \< *meṣa*
+- *meṣaṃ* ← *meṣam* ← *meṣa*
 - \[noun\], accusative, singular, masculine
 - “sheep; ram; Naigameṣa.”
 ------------------------------------------------------------------------
-- *viprā* \< *viprāḥ* \< *vipra*
+- *viprā* ← *viprāḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “eloquent; stimulated; divine.”
 ------------------------------------------------------------------------
-- *abhisvarā* \< *abhisvara*
+- *abhisvarā* ← *abhisvara*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
-- *sudītayo* \< *su*
+- *sudītayo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudītayo* \< *dītayaḥ* \< *dīti*
+- *sudītayo* ← *dītayaḥ* ← *dīti*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *adruho* \< *adruhaḥ* \< *adruh*
+- *adruho* ← *adruhaḥ* ← *adruh*
 - \[noun\], nominative, plural, masculine
 - “friendly; benign.”
 ------------------------------------------------------------------------
-- *'pi* \< *api*
+- *'pi* ← *api*
 - \[adverb\]
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
 ------------------------------------------------------------------------
-- *karṇe* \< *karṇa*
+- *karṇe* ← *karṇa*
 - \[noun\], locative, singular, masculine
 - “ear; Karṇa; karṇa \[word\]; auricle; fluke; diameter; lobule.”
 ------------------------------------------------------------------------
-- *tarasvinaḥ* \< *tarasvin*
+- *tarasvinaḥ* ← *tarasvin*
 - \[noun\], nominative, plural, masculine
 - “strong; energetic; fast; agile.”
 ------------------------------------------------------------------------
@@ -57,7 +57,7 @@ title = "Rig Veda 8.97.12"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *ṛkvabhiḥ* \< *ṛkvan*
+- *ṛkvabhiḥ* ← *ṛkvan*
 - \[noun\], instrumental, plural, masculine
 - “singing.”
 ------------------------------------------------------------------------

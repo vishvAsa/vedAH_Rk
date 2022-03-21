@@ -6,72 +6,72 @@ title = "Rig Veda 1.156.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vivāya* \< *vī*
+- *vivāya* ← *vī*
 - \[verb\], singular, Perfect indicative
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *sacathāya* \< *sacatha*
+- *sacathāya* ← *sacatha*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *daivya* \< *daivyaḥ* \< *daivya*
+- *daivya* ← *daivyaḥ* ← *daivya*
 - \[noun\], nominative, singular, masculine
 - “divine; divine; celestial.”
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *viṣṇuḥ* \< *viṣṇu*
+- *viṣṇuḥ* ← *viṣṇu*
 - \[noun\], nominative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
 ------------------------------------------------------------------------
-- *sukṛte* \< *su*
+- *sukṛte* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukṛte* \< *kṛte* \< *kṛt*
+- *sukṛte* ← *kṛte* ← *kṛt*
 - \[noun\], dative, singular, masculine
 - “causing; making; performing; promotive; producing; doing; acting;
     writing; transforming; effecting.”
 ------------------------------------------------------------------------
-- *sukṛttaraḥ* \< *sukṛttara*
+- *sukṛttaraḥ* ← *sukṛttara*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vedhā* \< *vedhāḥ* \< *vedhas*
+- *vedhā* ← *vedhāḥ* ← *vedhas*
 - \[noun\], nominative, singular, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
 ------------------------------------------------------------------------
-- *ajinvat* \< *jinv*
+- *ajinvat* ← *jinv*
 - \[verb\], singular, Imperfect
 - “enliven; animate.”
 ------------------------------------------------------------------------
-- *triṣadhastha* \< *triṣadhasthaḥ* \< *triṣadhastha*
+- *triṣadhastha* ← *triṣadhasthaḥ* ← *triṣadhastha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *āryam* \< *ārya*
+- *āryam* ← *ārya*
 - \[noun\], accusative, singular, masculine
 - “Ārya; Ārya.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *bhāge* \< *bhāga*
+- *bhāge* ← *bhāga*
 - \[noun\], locative, singular, masculine
 - “part; part; part; parcel; quarter; body part; location; region;
     allotment; part; numerator; division; application; function;
     outside; bhāga \[word\]; volume; helping.”
 ------------------------------------------------------------------------
-- *yajamānam* \< *yaj*
+- *yajamānam* ← *yaj*
 - \[verb noun\], accusative, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *ābhajat* \< *ābhaj* \< *√bhaj*
+- *ābhajat* ← *ābhaj* ← *√bhaj*
 - \[verb\], singular, Imperfect
 - “partake; share.”
 ------------------------------------------------------------------------

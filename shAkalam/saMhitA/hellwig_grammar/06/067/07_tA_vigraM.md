@@ -2,26 +2,26 @@
 title = "Rig Veda 6.67.7"
 
 +++
--   *tā* \< *tad*
+-   *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vigraṃ* \< *vigram* \< *vigra*
+- *vigraṃ* ← *vigram* ← *vigra*
 - \[noun\], accusative, singular, neuter
 - “strong.”
 ------------------------------------------------------------------------
-- *dhaithe* \< *dhā*
+- *dhaithe* ← *dhā*
 - \[verb\], singular, Aorist conj./subj.
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *jaṭharam* \< *jaṭhara*
+- *jaṭharam* ← *jaṭhara*
 - \[noun\], accusative, singular, neuter
 - “abdomen; udara; Jaṭhara; edema; garbha; inside; stomach; belly.”
 ------------------------------------------------------------------------
-- *pṛṇadhyā* \< *pṛṇadhyai* \< *pṛṇ*
+- *pṛṇadhyā* ← *pṛṇadhyai* ← *pṛṇ*
 - \[verb noun\]
 - “satisfy.”
 ------------------------------------------------------------------------
@@ -33,19 +33,19 @@ title = "Rig Veda 6.67.7"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *sadma* \< *sadman*
+- *sadma* ← *sadman*
 - \[noun\], accusative, singular, neuter
 - “seat; house; stable; dwelling.”
 ------------------------------------------------------------------------
-- *sabhṛtayaḥ* \< *sa*
+- *sabhṛtayaḥ* ← *sa*
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *sabhṛtayaḥ* \< *bhṛtayaḥ* \< *bhṛti*
+- *sabhṛtayaḥ* ← *bhṛtayaḥ* ← *bhṛti*
 - \[noun\], nominative, plural, masculine
 - “rental; support; wage.”
 ------------------------------------------------------------------------
-- *pṛṇanti* \< *pṛṇ*
+- *pṛṇanti* ← *pṛṇ*
 - \[verb\], plural, Present indikative
 - “satisfy.”
 ------------------------------------------------------------------------
@@ -53,15 +53,15 @@ title = "Rig Veda 6.67.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *mṛṣyante* \< *mṛṣ*
+- *mṛṣyante* ← *mṛṣ*
 - \[verb\], plural, Present indikative
 - “forgive; endure; heed; pardon; neglect; forget.”
 ------------------------------------------------------------------------
-- *yuvatayo* \< *yuvatayaḥ* \< *yuvati*
+- *yuvatayo* ← *yuvatayaḥ* ← *yuvati*
 - \[noun\], nominative, plural, feminine
 - “girl; woman.”
 ------------------------------------------------------------------------
-- *'vātā* \< *avātāḥ* \< *avāta*
+- *'vātā* ← *avātāḥ* ← *avāta*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
 - *vi*
@@ -72,19 +72,19 @@ title = "Rig Veda 6.67.7"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *payo* \< *payaḥ* \< *payas*
+- *payo* ← *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
-- *viśvajinvā* \< *viśva*
+- *viśvajinvā* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvajinvā* \< *jinvāḥ* \< *jinva*
+- *viśvajinvā* ← *jinvāḥ* ← *jinva*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *bharante* \< *bhṛ*
+- *bharante* ← *bhṛ*
 - \[verb\], plural, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”

@@ -2,7 +2,7 @@
 title = "Rig Veda 1.113.10"
 
 +++
--   *kiyāty* \< *kiyāti* \< *kiyat*
+-   *kiyāty* ← *kiyāti* ← *kiyat*
 - \[noun\], locative, singular, masculine
 - “some(a); some(a).”
 ------------------------------------------------------------------------
@@ -18,22 +18,22 @@ title = "Rig Veda 1.113.10"
 - \[adverb\]
 - “near.”
 ------------------------------------------------------------------------
-- *bhavāti* \< *bhū*
+- *bhavāti* ← *bhū*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *yā* \< *yāḥ* \< *yad*
+- *yā* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vyūṣur* \< *vyūṣuḥ* \< *vivas* \< *√vas*
+- *vyūṣur* ← *vyūṣuḥ* ← *vivas* ← *√vas*
 - \[verb\], plural, Perfect indicative
 - “spend; dwell.”
 ------------------------------------------------------------------------
-- *yāś* \< *yāḥ* \< *yad*
+- *yāś* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -41,11 +41,11 @@ title = "Rig Veda 1.113.10"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *nūnaṃ* \< *nūnam*
+- *nūnaṃ* ← *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
 ------------------------------------------------------------------------
-- *vyucchān* \< *vivas* \< *√vas*
+- *vyucchān* ← *vivas* ← *√vas*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “dawn.”
 ------------------------------------------------------------------------
@@ -53,31 +53,31 @@ title = "Rig Veda 1.113.10"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *pūrvāḥ* \< *pūrva*
+- *pūrvāḥ* ← *pūrva*
 - \[noun\], accusative, plural, feminine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *kṛpate* \< *kṛp*
+- *kṛpate* ← *kṛp*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *vāvaśānā* \< *vaś*
+- *vāvaśānā* ← *vaś*
 - \[verb noun\], nominative, singular
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *pradīdhyānā* \< *pradhī* \< *√dhī*
+- *pradīdhyānā* ← *pradhī* ← *√dhī*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *joṣam* \< *joṣa*
+- *joṣam* ← *joṣa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *anyābhir* \< *anyābhiḥ* \< *anya*
+- *anyābhir* ← *anyābhiḥ* ← *anya*
 - \[noun\], instrumental, plural, feminine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------

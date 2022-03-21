@@ -2,19 +2,19 @@
 title = "Rig Veda 1.29.4"
 
 +++
--   *sasantu* \< *sas*
+-   *sasantu* ← *sas*
 - \[verb\], plural, Present imperative
 - “sleep.”
 ------------------------------------------------------------------------
-- *tyā* \< *tyāḥ* \< *tya*
+- *tyā* ← *tyāḥ* ← *tya*
 - \[noun\], nominative, plural, feminine
 - “that.”
 ------------------------------------------------------------------------
-- *arātayo* \< *arātayaḥ* \< *arāti*
+- *arātayo* ← *arātayaḥ* ← *arāti*
 - \[noun\], nominative, plural, feminine
 - “hostility; adversity; foe; envy; stinginess.”
 ------------------------------------------------------------------------
-- *bodhantu* \< *budh*
+- *bodhantu* ← *budh*
 - \[verb\], plural, Present imperative
 - “understand; notice; wake up; observe; detect; attend to; awaken;
     attend.”
@@ -24,7 +24,7 @@ title = "Rig Veda 1.29.4"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *rātayaḥ* \< *rāti*
+- *rātayaḥ* ← *rāti*
 - \[noun\], nominative, plural, feminine
 - “gift; bounty; favor.”
 ------------------------------------------------------------------------
@@ -32,11 +32,11 @@ title = "Rig Veda 1.29.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tū* \< *tu*
+- *tū* ← *tu*
 - \[adverb\]
 - “now; then; but; and; now; however; then; then; surely.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -45,23 +45,23 @@ title = "Rig Veda 1.29.4"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *śaṃsaya* \< *śaṃsay* \< *√śaṃs*
+- *śaṃsaya* ← *śaṃsay* ← *√śaṃs*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------
-- *goṣv* \< *goṣu* \< *go*
+- *goṣv* ← *goṣu* ← *go*
 - \[noun\], locative, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *aśveṣu* \< *aśva*
+- *aśveṣu* ← *aśva*
 - \[noun\], locative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *śubhriṣu* \< *śubhri*
+- *śubhriṣu* ← *śubhri*
 - \[noun\], locative, plural, masculine
 - “beautiful.”
 ------------------------------------------------------------------------
-- *sahasreṣu* \< *sahasra*
+- *sahasreṣu* ← *sahasra*
 - \[noun\], locative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------

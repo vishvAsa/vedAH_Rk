@@ -2,72 +2,72 @@
 title = "Rig Veda 9.86.19"
 
 +++
--   *vṛṣā* \< *vṛṣan*
+-   *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *matīnām* \< *mati*
+- *matīnām* ← *mati*
 - \[noun\], genitive, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *pavate* \< *pū*
+- *pavate* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *vicakṣaṇaḥ* \< *vicakṣaṇa*
+- *vicakṣaṇaḥ* ← *vicakṣaṇa*
 - \[noun\], nominative, singular, masculine
 - “expert; wise; discerning; clear-sighted; conversant(p); bright.”
 ------------------------------------------------------------------------
-- *somo* \< *somaḥ* \< *soma*
+- *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *ahnaḥ* \< *ahar*
+- *ahnaḥ* ← *ahar*
 - \[noun\], genitive, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *pratarītoṣaso* \< *pratarītā* \< *pratarītṛ*
+- *pratarītoṣaso* ← *pratarītā* ← *pratarītṛ*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *pratarītoṣaso* \< *uṣasaḥ* \< *uṣas*
+- *pratarītoṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], genitive, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *divaḥ* \< *div*
+- *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
 - *krāṇā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *sindhūnāṃ* \< *sindhūnām* \< *sindhu*
+- *sindhūnāṃ* ← *sindhūnām* ← *sindhu*
 - \[noun\], genitive, plural, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *kalaśāṃ* \< *kalaśa*
+- *kalaśāṃ* ← *kalaśa*
 - \[noun\], accusative, plural, masculine
 - “jar.”
 ------------------------------------------------------------------------
-- *avīvaśad* \< *avīvaśat* \< *vāś*
+- *avīvaśad* ← *avīvaśat* ← *vāś*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “bellow; howl; sing; moo; shout.”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *hārdy* \< *hārdi*
+- *hārdy* ← *hārdi*
 - \[noun\], accusative, singular, neuter
 - “heart.”
 ------------------------------------------------------------------------
-- *āviśan* \< *āviś* \< *√viś*
+- *āviśan* ← *āviś* ← *√viś*
 - \[verb noun\], nominative, singular
 - “enter; overwhelm; possess; approach; afflict; enter (a state);
     reach; wear.”
 ------------------------------------------------------------------------
-- *manīṣibhiḥ* \< *manīṣin*
+- *manīṣibhiḥ* ← *manīṣin*
 - \[noun\], instrumental, plural, masculine
 - “sage; expert; devout.”
 ------------------------------------------------------------------------

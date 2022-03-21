@@ -2,44 +2,44 @@
 title = "Rig Veda 5.64.4"
 
 +++
--   *yuvābhyām* \< *tvad*
+-   *yuvābhyām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇopamaṃ* \< *mitrāvaruṇā* \< *mitrāvaruṇa*
+- *mitrāvaruṇopamaṃ* ← *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇopamaṃ* \< *upamam* \< *upama*
+- *mitrāvaruṇopamaṃ* ← *upamam* ← *upama*
 - \[noun\], accusative, singular, neuter
 - “like; alike(p); colored; similar; like; comparable; equal.”
 ------------------------------------------------------------------------
-- *dheyām* \< *dhā*
+- *dheyām* ← *dhā*
 - \[verb\], singular, Aorist optative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *ṛcā* \< *ṛc*
+- *ṛcā* ← *ṛc*
 - \[noun\], instrumental, singular, feminine
 - “Rig-Veda; Mantra; verse; ṛc \[word\]; ṛc.”
 ------------------------------------------------------------------------
-- *yaddha* \< *yat* \< *yad*
+- *yaddha* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yaddha* \< *ha*
+- *yaddha* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *kṣaye* \< *kṣaya*
+- *kṣaye* ← *kṣaya*
 - \[noun\], locative, singular, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
 ------------------------------------------------------------------------
-- *maghonāṃ* \< *maghonām* \< *maghavan*
+- *maghonāṃ* ← *maghonām* ← *maghavan*
 - \[noun\], genitive, plural, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *stotṝṇāṃ* \< *stotṝṇām* \< *stotṛ*
+- *stotṝṇāṃ* ← *stotṝṇām* ← *stotṛ*
 - \[noun\], genitive, plural, masculine
 - “laudatory; worshiping.”
 ------------------------------------------------------------------------
@@ -47,7 +47,7 @@ title = "Rig Veda 5.64.4"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *spūrdhase* \< *spṛdh*
+- *spūrdhase* ← *spṛdh*
 - \[verb noun\]
 - “rival.”
 ------------------------------------------------------------------------

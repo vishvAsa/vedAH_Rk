@@ -2,11 +2,11 @@
 title = "Rig Veda 10.40.10"
 
 +++
--   *jīvaṃ* \< *jīvam* \< *jīva*
+-   *jīvaṃ* ← *jīvam* ← *jīva*
 - \[noun\], accusative, singular, masculine
 - “live; alive(p); amṛta.”
 ------------------------------------------------------------------------
-- *rudanti* \< *rud*
+- *rudanti* ← *rud*
 - \[verb\], plural, Present indikative
 - “cry; howl; lament; howl.”
 ------------------------------------------------------------------------
@@ -14,14 +14,14 @@ title = "Rig Veda 10.40.10"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *mayante* \< *may*
+- *mayante* ← *may*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *adhvare* \< *adhvara*
+- *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *dīrghām* \< *dīrgha*
+- *dīrghām* ← *dīrgha*
 - \[noun\], accusative, singular, feminine
 - “long; long; long; large; far; deep; dīrgha \[word\].”
 ------------------------------------------------------------------------
@@ -29,32 +29,32 @@ title = "Rig Veda 10.40.10"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *prasitiṃ* \< *prasitim* \< *prasiti*
+- *prasitiṃ* ← *prasitim* ← *prasiti*
 - \[noun\], accusative, singular, feminine
 - “binding.”
 ------------------------------------------------------------------------
-- *dīdhiyur* \< *dīdhiyuḥ* \< *dhī*
+- *dīdhiyur* ← *dīdhiyuḥ* ← *dhī*
 - \[verb\], plural, Perfect indicative
 - “think; desire; chew over.”
 ------------------------------------------------------------------------
-- *naraḥ* \< *nṛ*
+- *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *vāmam* \< *vāma*
+- *vāmam* ← *vāma*
 - \[noun\], nominative, singular, neuter
 - “agreeable; vāma \[word\]; beautiful.”
 ------------------------------------------------------------------------
-- *pitṛbhyo* \< *pitṛbhyaḥ* \< *pitṛ*
+- *pitṛbhyo* ← *pitṛbhyaḥ* ← *pitṛ*
 - \[noun\], dative, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *ya* \< *ye* \< *yad*
+- *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *idaṃ* \< *idam*
+- *idaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -62,23 +62,23 @@ title = "Rig Veda 10.40.10"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *erire* \< *er* \< *√īr*
+- *erire* ← *er* ← *√īr*
 - \[verb\], plural, Perfect indicative
 ------------------------------------------------------------------------
-- *mayaḥ* \< *mayas*
+- *mayaḥ* ← *mayas*
 - \[noun\], nominative, singular, neuter
 - “pleasure; refreshment.”
 ------------------------------------------------------------------------
-- *patibhyo* \< *patibhyaḥ* \< *pati*
+- *patibhyo* ← *patibhyaḥ* ← *pati*
 - \[noun\], dative, plural, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *janayaḥ* \< *jani*
+- *janayaḥ* ← *jani*
 - \[noun\], nominative, plural, feminine
 - “wife; jan; woman; jani \[word\]; birth.”
 ------------------------------------------------------------------------
-- *pariṣvaje* \< *pariṣvaj* \< *√svaj*
+- *pariṣvaje* ← *pariṣvaj* ← *√svaj*
 - \[verb noun\]
 - “embrace.”
 ------------------------------------------------------------------------

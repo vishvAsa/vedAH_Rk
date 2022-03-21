@@ -2,42 +2,42 @@
 title = "Rig Veda 10.85.4"
 
 +++
--   *ācchadvidhānair* \< *ācchad*
+-   *ācchadvidhānair* ← *ācchad*
 - \[noun\], feminine
 ------------------------------------------------------------------------
-- *ācchadvidhānair* \< *vidhānaiḥ* \< *vidhāna*
+- *ācchadvidhānair* ← *vidhānaiḥ* ← *vidhāna*
 - \[noun\], instrumental, plural, neuter
 - “method; treatment; preparation; ritual; rule; formulation; means;
     manner; administration; performance; act.”
 ------------------------------------------------------------------------
-- *gupito* \< *gupitaḥ* \< *gup*
+- *gupito* ← *gupitaḥ* ← *gup*
 - \[verb noun\], nominative, singular
 - “protect; hide; guard; defend; cover.”
 ------------------------------------------------------------------------
-- *bārhataiḥ* \< *bārhata*
+- *bārhataiḥ* ← *bārhata*
 - \[noun\], instrumental, plural, neuter
 ------------------------------------------------------------------------
 - *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *rakṣitaḥ* \< *rakṣ*
+- *rakṣitaḥ* ← *rakṣ*
 - \[verb noun\], nominative, singular
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------
-- *grāvṇām* \< *grāvan*
+- *grāvṇām* ← *grāvan*
 - \[noun\], genitive, plural, masculine
 - “stone; millstone; grindstone; mountain.”
 ------------------------------------------------------------------------
-- *icchṛṇvan* \< *id*
+- *icchṛṇvan* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *icchṛṇvan* \< *śṛṇvan* \< *śru*
+- *icchṛṇvan* ← *śṛṇvan* ← *śru*
 - \[verb noun\], nominative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *tiṣṭhasi* \< *sthā*
+- *tiṣṭhasi* ← *sthā*
 - \[verb\], singular, Present indikative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
@@ -47,15 +47,15 @@ title = "Rig Veda 10.85.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *aśnāti* \< *aś*
+- *aśnāti* ← *aś*
 - \[verb\], singular, Present indikative
 - “eat; consume; chew; feed.”
 ------------------------------------------------------------------------
-- *pārthivaḥ* \< *pārthiva*
+- *pārthivaḥ* ← *pārthiva*
 - \[noun\], nominative, singular, masculine
 - “earthly; earthen; mundane; royal; tellurian; sublunar.”
 ------------------------------------------------------------------------

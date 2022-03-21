@@ -6,41 +6,41 @@ title = "Rig Veda 9.94.2"
 - \[adverb\]
 - “again.”
 ------------------------------------------------------------------------
-- *vyūrṇvann* \< *vyūrṇvan* \< *vivṛ* \< *√vṛ*
+- *vyūrṇvann* ← *vyūrṇvan* ← *vivṛ* ← *√vṛ*
 - \[verb noun\], nominative, singular
 - “open; comment; uncover; disclose.”
 ------------------------------------------------------------------------
-- *amṛtasya* \< *amṛta*
+- *amṛtasya* ← *amṛta*
 - \[noun\], genitive, singular, neuter
 - “amṛta; immortality; vatsanābha; ambrosia; mercury; medicine;
     vighasa; calcium hydroxide.”
 ------------------------------------------------------------------------
-- *dhāma* \< *dhāman*
+- *dhāma* ← *dhāman*
 - \[noun\], accusative, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
 ------------------------------------------------------------------------
-- *svarvide* \< *svarvid*
+- *svarvide* ← *svarvid*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *bhuvanāni* \< *bhuvana*
+- *bhuvanāni* ← *bhuvana*
 - \[noun\], nominative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *prathanta* \< *prath*
+- *prathanta* ← *prath*
 - \[verb\], plural, Present injunctive
 - “be known; expand; expand; boom.”
 ------------------------------------------------------------------------
-- *dhiyaḥ* \< *dhī*
+- *dhiyaḥ* ← *dhī*
 - \[noun\], nominative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *pinvānāḥ* \< *pyā*
+- *pinvānāḥ* ← *pyā*
 - \[verb noun\], nominative, plural
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
-- *svasare* \< *svasara*
+- *svasare* ← *svasara*
 - \[noun\], locative, singular, neuter
 - “pasture; stall.”
 ------------------------------------------------------------------------
@@ -48,23 +48,23 @@ title = "Rig Veda 9.94.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *gāva* \< *gāvaḥ* \< *go*
+- *gāva* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *ṛtāyantīr* \< *ṛtāyantīḥ* \< *ṛtāy*
+- *ṛtāyantīr* ← *ṛtāyantīḥ* ← *ṛtāy*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
 - *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *vāvaśra* \< *vāvaśre* \< *vāś*
+- *vāvaśra* ← *vāvaśre* ← *vāś*
 - \[verb\], plural, Perfect indicative
 - “bellow; howl; sing; moo; shout.”
 ------------------------------------------------------------------------
-- *indum* \< *indu*
+- *indum* ← *indu*
 - \[noun\], accusative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”

@@ -2,11 +2,11 @@
 title = "Rig Veda 5.79.1"
 
 +++
--   *mahe* \< *mah*
+-   *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -14,58 +14,58 @@ title = "Rig Veda 5.79.1"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *bodhayoṣo* \< *bodhaya* \< *bodhay* \< *√budh*
+- *bodhayoṣo* ← *bodhaya* ← *bodhay* ← *√budh*
 - \[verb\], singular, Present imperative
 - “awaken; ignite; advise; admonish; communicate.”
 ------------------------------------------------------------------------
-- *bodhayoṣo* \< *uṣaḥ* \< *uṣas*
+- *bodhayoṣo* ← *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *rāye* \< *rai*
+- *rāye* ← *rai*
 - \[noun\], dative, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *divitmatī* \< *divitmat*
+- *divitmatī* ← *divitmat*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *abodhayaḥ* \< *bodhay* \< *√budh*
+- *abodhayaḥ* ← *bodhay* ← *√budh*
 - \[verb\], singular, Imperfect
 - “awaken; ignite; advise; admonish; communicate.”
 ------------------------------------------------------------------------
-- *satyaśravasi* \< *satyaśravas*
+- *satyaśravasi* ← *satyaśravas*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *vāyye* \< *vāyya*
+- *vāyye* ← *vāyya*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *sujāte* \< *su*
+- *sujāte* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sujāte* \< *jāte* \< *jan*
+- *sujāte* ← *jāte* ← *jan*
 - \[verb noun\], vocative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *aśvasūnṛte* \< *aśva*
+- *aśvasūnṛte* ← *aśva*
 - \[noun\], masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *aśvasūnṛte* \< *sūnṛte* \< *sūnṛta*
+- *aśvasūnṛte* ← *sūnṛte* ← *sūnṛta*
 - \[noun\], vocative, singular, feminine
 - “big; friendly.”
 ------------------------------------------------------------------------

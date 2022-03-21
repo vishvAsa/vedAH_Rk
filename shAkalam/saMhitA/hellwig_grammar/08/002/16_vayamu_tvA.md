@@ -2,7 +2,7 @@
 title = "Rig Veda 8.2.16"
 
 +++
--   *vayam* \< *mad*
+-   *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -10,11 +10,11 @@ title = "Rig Veda 8.2.16"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tadidarthā* \< *tadidarthāḥ* \< *tadidartha*
+- *tadidarthā* ← *tadidarthāḥ* ← *tadidartha*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *indra*
@@ -22,22 +22,22 @@ title = "Rig Veda 8.2.16"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tvāyantaḥ* \< *tvāyat*
+- *tvāyantaḥ* ← *tvāyat*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *sakhāyaḥ* \< *sakhi*
+- *sakhāyaḥ* ← *sakhi*
 - \[noun\], nominative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *kaṇvā* \< *kaṇvāḥ* \< *kaṇva*
+- *kaṇvā* ← *kaṇvāḥ* ← *kaṇva*
 - \[noun\], nominative, plural, masculine
 - “Kaṇva; Kaṇva; kaṇva \[word\].”
 ------------------------------------------------------------------------
-- *ukthebhir* \< *ukthebhiḥ* \< *uktha*
+- *ukthebhir* ← *ukthebhiḥ* ← *uktha*
 - \[noun\], instrumental, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *jarante* \< *jṛ*
+- *jarante* ← *jṛ*
 - \[verb\], plural, Present indikative
 - “sing.”
 ------------------------------------------------------------------------

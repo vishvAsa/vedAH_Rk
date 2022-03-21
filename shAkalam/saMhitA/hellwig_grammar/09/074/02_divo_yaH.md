@@ -2,77 +2,77 @@
 title = "Rig Veda 9.74.2"
 
 +++
--   *divo* \< *divaḥ* \< *div*
+-   *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *ya* \< *yaḥ* \< *yad*
+- *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *skambho* \< *skambhaḥ* \< *skambha*
+- *skambho* ← *skambhaḥ* ← *skambha*
 - \[noun\], nominative, singular, masculine
 - “prop.”
 ------------------------------------------------------------------------
-- *dharuṇaḥ* \< *dharuṇa*
+- *dharuṇaḥ* ← *dharuṇa*
 - \[noun\], nominative, singular, masculine
 - “holding; supportive.”
 ------------------------------------------------------------------------
-- *svātata* \< *su*
+- *svātata* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svātata* \< *ātataḥ* \< *ātan* \< *√tan*
+- *svātata* ← *ātataḥ* ← *ātan* ← *√tan*
 - \[verb noun\], nominative, singular
 - “expand; prolong; chant; inflate.”
 ------------------------------------------------------------------------
-- *āpūrṇo* \< *āpūrṇaḥ* \< *āp￞* \< *√pṛ*
+- *āpūrṇo* ← *āpūrṇaḥ* ← *āp￞* ← *√pṛ*
 - \[verb noun\], nominative, singular
 - “fill.”
 ------------------------------------------------------------------------
-- *aṃśuḥ* \< *aṃśu*
+- *aṃśuḥ* ← *aṃśu*
 - \[noun\], nominative, singular, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
 ------------------------------------------------------------------------
-- *paryeti* \< *parī* \< *√i*
+- *paryeti* ← *parī* ← *√i*
 - \[verb\], singular, Present indikative
 - “circumambulate; wander; revolve; overwhelm.”
 ------------------------------------------------------------------------
-- *viśvataḥ* \< *viśvatas*
+- *viśvataḥ* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
 ------------------------------------------------------------------------
-- *seme* \< *sa* \< *tad*
+- *seme* ← *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *seme* \< *ime* \< *idam*
+- *seme* ← *ime* ← *idam*
 - \[noun\], accusative, dual, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *mahī* \< *mah*
+- *mahī* ← *mah*
 - \[noun\], accusative, dual, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *yakṣad* \< *yakṣat* \< *yaj*
+- *yakṣad* ← *yakṣat* ← *yaj*
 - \[verb\], singular, Aorist conj./subj.
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *āvṛtā* \< *āvṛt*
+- *āvṛtā* ← *āvṛt*
 - \[noun\], instrumental, singular, feminine
 - “arrival.”
 ------------------------------------------------------------------------
-- *samīcīne* \< *samīcīna*
+- *samīcīne* ← *samīcīna*
 - \[noun\], accusative, dual, neuter
 - “combined; real.”
 ------------------------------------------------------------------------
-- *dādhāra* \< *dhṛ*
+- *dādhāra* ← *dhṛ*
 - \[verb\], singular, Perfect indicative
 - “keep; put; hold; assume; wear; take; promise; stay; exist; hold;
     begin; dip.”
@@ -81,11 +81,11 @@ title = "Rig Veda 9.74.2"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *iṣaḥ* \< *iṣ*
+- *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *kaviḥ* \< *kavi*
+- *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”

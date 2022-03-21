@@ -2,7 +2,7 @@
 title = "Rig Veda 1.9.6"
 
 +++
--   *asmān* \< *mad*
+-   *asmān* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -15,30 +15,30 @@ title = "Rig Veda 1.9.6"
 - “there; now; then; then; there; in that place; then; locative;
     respectively; there; tatra \[word\]; inside; therefore.”
 ------------------------------------------------------------------------
-- *codayendra* \< *codaya* \< *coday* \< *√cud*
+- *codayendra* ← *codaya* ← *coday* ← *√cud*
 - \[verb\], singular, Present imperative
 - “impel; drive; incite; command; drive; arouse; propel.”
 ------------------------------------------------------------------------
-- *codayendra* \< *indra*
+- *codayendra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *rāye* \< *rai*
+- *rāye* ← *rai*
 - \[noun\], dative, singular
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *rabhasvataḥ* \< *rabhasvat*
+- *rabhasvataḥ* ← *rabhasvat*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *tuvidyumna* \< *tuvi*
+- *tuvidyumna* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
 ------------------------------------------------------------------------
-- *tuvidyumna* \< *dyumna*
+- *tuvidyumna* ← *dyumna*
 - \[noun\], vocative, singular, masculine
 - “magnificence.”
 ------------------------------------------------------------------------
-- *yaśasvataḥ* \< *yaśasvat*
+- *yaśasvataḥ* ← *yaśasvat*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------

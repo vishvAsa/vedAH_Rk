@@ -2,16 +2,16 @@
 title = "Rig Veda 10.61.8"
 
 +++
--   *sa* \< *saḥ* \< *tad*
+-   *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *īṃ* \< *īm* \< *īṃ*
+- *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣan*
+- *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
@@ -19,20 +19,20 @@ title = "Rig Veda 10.61.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *phenam* \< *phena*
+- *phenam* ← *phena*
 - \[noun\], accusative, singular, masculine
 - “foam; cuttlefish bone; phenaprameha; saliva; opium; phena
     \[word\].”
 ------------------------------------------------------------------------
-- *asyad* \< *asyat* \< *as*
+- *asyad* ← *asyat* ← *as*
 - \[verb\], singular, Imperfect
 - “shoot; remove.”
 ------------------------------------------------------------------------
-- *ājau* \< *āji*
+- *ājau* ← *āji*
 - \[noun\], locative, singular, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
 ------------------------------------------------------------------------
-- *smad* \< *smat*
+- *smad* ← *smat*
 - \[adverb\]
 - “simultaneously; jointly.”
 ------------------------------------------------------------------------
@@ -40,7 +40,7 @@ title = "Rig Veda 10.61.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *paraid* \< *parait* \< *pare* \< *√i*
+- *paraid* ← *parait* ← *pare* ← *√i*
 - \[verb\], singular, Imperfect
 - “travel; depart; go; die.”
 ------------------------------------------------------------------------
@@ -48,19 +48,19 @@ title = "Rig Veda 10.61.8"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *dabhracetāḥ* \< *dabhra*
+- *dabhracetāḥ* ← *dabhra*
 - \[noun\]
 - “few; little(a); deficient.”
 ------------------------------------------------------------------------
-- *dabhracetāḥ* \< *cetāḥ* \< *cetas*
+- *dabhracetāḥ* ← *cetāḥ* ← *cetas*
 - \[noun\], nominative, singular, masculine
 - “mind; heart; consciousness; intelligence; purpose; cetas \[word\].”
 ------------------------------------------------------------------------
-- *sarat* \< *sṛ*
+- *sarat* ← *sṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “sṛ; liquefy; run; spread; stretch out.”
 ------------------------------------------------------------------------
-- *padā* \< *pad*
+- *padā* ← *pad*
 - \[noun\], instrumental, singular, masculine
 - “foot; pad \[word\].”
 ------------------------------------------------------------------------
@@ -72,14 +72,14 @@ title = "Rig Veda 10.61.8"
 - \[noun\], nominative, singular, feminine
 - “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
 ------------------------------------------------------------------------
-- *parāvṛṅ* \< *parāvṛj*
+- *parāvṛṅ* ← *parāvṛj*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tā* \< *tāḥ* \< *tad*
+- *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -89,14 +89,14 @@ title = "Rig Veda 10.61.8"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pṛśanyo* \< *pṛśanyaḥ* \< *pṛśana*
+- *pṛśanyo* ← *pṛśanyaḥ* ← *pṛśana*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *jagṛbhre* \< *grah*
+- *jagṛbhre* ← *grah*
 - \[verb\], plural, Perfect indicative
 - “take; grasp; take out; extract; perceive; pick; assume; include;
     accept; understand; use; learn; possess; keep; choose; accept;

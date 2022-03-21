@@ -2,19 +2,19 @@
 title = "Rig Veda 8.31.5"
 
 +++
--   *yā* \< *yad*
+-   *yā* ← *yad*
 - \[noun\], nominative, dual, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dampatī* \< *dampati*
+- *dampatī* ← *dampati*
 - \[noun\], nominative, dual, masculine
 - “couple.”
 ------------------------------------------------------------------------
-- *samanasā* \< *samanas*
+- *samanasā* ← *samanas*
 - \[noun\], nominative, dual, masculine
 - “consentaneous.”
 ------------------------------------------------------------------------
-- *sunuta* \< *sunutaḥ* \< *su*
+- *sunuta* ← *sunutaḥ* ← *su*
 - \[verb\], dual, Present indikative
 - “press out; su.”
 ------------------------------------------------------------------------
@@ -26,22 +26,22 @@ title = "Rig Veda 8.31.5"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *dhāvataḥ* \< *dhāv*
+- *dhāvataḥ* ← *dhāv*
 - \[verb\], dual, Present indikative
 - “run; run; wash.”
 ------------------------------------------------------------------------
-- *devāso* \< *devāsaḥ* \< *deva*
+- *devāso* ← *devāsaḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *nityayāśirā* \< *nityayā* \< *nitya*
+- *nityayāśirā* ← *nityayā* ← *nitya*
 - \[noun\], instrumental, singular, feminine
 - “continuous; own(a); changeless; everlasting; continual; devoted(p);
     permanent; obligatory; continuing; indispensable; native; addicted;
     connatural; necessary; durable; ageless; invariable; biological.”
 ------------------------------------------------------------------------
-- *nityayāśirā* \< *āśirā* \< *āśir*
+- *nityayāśirā* ← *āśirā* ← *āśir*
 - \[noun\], instrumental, singular, feminine
 - “mixture.”
 ------------------------------------------------------------------------

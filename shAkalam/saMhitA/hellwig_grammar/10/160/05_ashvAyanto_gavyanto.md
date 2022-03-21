@@ -2,25 +2,25 @@
 title = "Rig Veda 10.160.5"
 
 +++
--   *aśvāyanto* \< *aśvāyantaḥ* \< *aśvāyat*
+-   *aśvāyanto* ← *aśvāyantaḥ* ← *aśvāyat*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *gavyanto* \< *gavyantaḥ* \< *gavyat*
+- *gavyanto* ← *gavyantaḥ* ← *gavyat*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *vājayanto* \< *vājayantaḥ* \< *vājay* \< *√vaj*
+- *vājayanto* ← *vājayantaḥ* ← *vājay* ← *√vaj*
 - \[verb noun\], nominative, plural
 - “incite.”
 ------------------------------------------------------------------------
-- *havāmahe* \< *hvā*
+- *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *tvopagantavā* \< *tvā* \< *tvad*
+- *tvopagantavā* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tvopagantavā* \< *upagantavai* \< *upagam* \< *√gam*
+- *tvopagantavā* ← *upagantavai* ← *upagam* ← *√gam*
 - \[verb noun\]
 - “enter (a state); go; approach; meet; arrive; repair to.”
 ------------------------------------------------------------------------
@@ -28,24 +28,24 @@ title = "Rig Veda 10.160.5"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ābhūṣantas* \< *ābhūṣantaḥ* \< *ābhūṣ* \< *√bhūṣ*
+- *ābhūṣantas* ← *ābhūṣantaḥ* ← *ābhūṣ* ← *√bhūṣ*
 - \[verb noun\], nominative, plural
 - “cover.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sumatau* \< *sumati*
+- *sumatau* ← *sumati*
 - \[noun\], locative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *navāyāṃ* \< *navāyām* \< *nava*
+- *navāyāṃ* ← *navāyām* ← *nava*
 - \[noun\], locative, singular, feminine
 - “new; fresh; young; matutinal; recent; nava \[word\]; modern;
     fresh.”
 ------------------------------------------------------------------------
-- *vayam* \< *mad*
+- *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -54,15 +54,15 @@ title = "Rig Veda 10.160.5"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śunaṃ* \< *śunam* \< *śuna*
+- *śunaṃ* ← *śunam* ← *śuna*
 - \[noun\], accusative, singular, neuter
 - “well-being; success.”
 ------------------------------------------------------------------------
-- *huvema* \< *hu*
+- *huvema* ← *hu*
 - \[verb\], plural, Aorist optative
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------

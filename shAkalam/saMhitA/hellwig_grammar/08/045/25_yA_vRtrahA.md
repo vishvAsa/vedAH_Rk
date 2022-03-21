@@ -2,23 +2,23 @@
 title = "Rig Veda 8.45.25"
 
 +++
--   *yā* \< *yad*
+-   *yā* ← *yad*
 - \[noun\], accusative, plural, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vṛtrahā* \< *vṛtrahan*
+- *vṛtrahā* ← *vṛtrahan*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *parāvati* \< *parāvat*
+- *parāvati* ← *parāvat*
 - \[noun\], locative, singular, feminine
 - “distance; distance; distance.”
 ------------------------------------------------------------------------
-- *sanā* \< *sana*
+- *sanā* ← *sana*
 - \[noun\], accusative, plural, neuter
 - “age-old; ancient.”
 ------------------------------------------------------------------------
-- *navā* \< *nava*
+- *navā* ← *nava*
 - \[noun\], accusative, plural, neuter
 - “new; fresh; young; matutinal; recent; nava \[word\]; modern;
     fresh.”
@@ -27,18 +27,18 @@ title = "Rig Veda 8.45.25"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cucyuve* \< *cyu*
+- *cucyuve* ← *cyu*
 - \[verb\], singular, Perfect indicative
 - “fall down; issue; shoot; ejaculate; deviate; banish; drop;
     dislodge; miss; deprive.”
 ------------------------------------------------------------------------
-- *tā* \< *tad*
+- *tā* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *saṃsatsu* \< *saṃsad*
+- *saṃsatsu* ← *saṃsad*
 - \[noun\], locative, plural, feminine
 - “assembly; court; company.”
 ------------------------------------------------------------------------
@@ -46,7 +46,7 @@ title = "Rig Veda 8.45.25"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vocata* \< *vac*
+- *vocata* ← *vac*
 - \[verb\], plural, Aorist imperative
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;

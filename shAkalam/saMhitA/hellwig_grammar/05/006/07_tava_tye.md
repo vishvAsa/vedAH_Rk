@@ -2,21 +2,21 @@
 title = "Rig Veda 5.6.7"
 
 +++
--   *tava* \< *tvad*
+-   *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tye* \< *tya*
+- *tye* ← *tya*
 - \[noun\], nominative, plural, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *arcayo* \< *arcayaḥ* \< *arci*
+- *arcayo* ← *arcayaḥ* ← *arci*
 - \[noun\], nominative, plural, masculine
 - “flare.”
 ------------------------------------------------------------------------
@@ -24,43 +24,43 @@ title = "Rig Veda 5.6.7"
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *vrādhanta* \< *vrādh*
+- *vrādhanta* ← *vrādh*
 - \[verb\], plural, Imperfect
 ------------------------------------------------------------------------
-- *vājinaḥ* \< *vājin*
+- *vājinaḥ* ← *vājin*
 - \[noun\], nominative, plural, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *patvabhiḥ* \< *patvan*
+- *patvabhiḥ* ← *patvan*
 - \[noun\], instrumental, plural, neuter
 - “flight.”
 ------------------------------------------------------------------------
-- *śaphānāṃ* \< *śaphānām* \< *śapha*
+- *śaphānāṃ* ← *śaphānām* ← *śapha*
 - \[noun\], genitive, plural, masculine
 - “one-eighth; śapha \[word\].”
 ------------------------------------------------------------------------
-- *vrajā* \< *vrajāḥ* \< *vraja*
+- *vrajā* ← *vrajāḥ* ← *vraja*
 - \[noun\], accusative, plural, masculine
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”
 ------------------------------------------------------------------------
-- *bhuranta* \< *bhur*
+- *bhuranta* ← *bhur*
 - \[verb\], plural, Imperfect
 ------------------------------------------------------------------------
-- *gonām* \< *go*
+- *gonām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *iṣaṃ* \< *iṣam* \< *iṣ*
+- *iṣaṃ* ← *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *stotṛbhya* \< *stotṛbhyaḥ* \< *stotṛ*
+- *stotṛbhya* ← *stotṛbhyaḥ* ← *stotṛ*
 - \[noun\], dative, plural, masculine
 - “laudatory; worshiping.”
 ------------------------------------------------------------------------
@@ -68,7 +68,7 @@ title = "Rig Veda 5.6.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *bhara* \< *bhṛ*
+- *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”

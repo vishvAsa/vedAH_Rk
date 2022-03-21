@@ -6,21 +6,21 @@ title = "Rig Veda 1.90.5"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dhiyo* \< *dhiyaḥ* \< *dhī*
+- *dhiyo* ← *dhiyaḥ* ← *dhī*
 - \[noun\], accusative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *goagrāḥ* \< *go*
+- *goagrāḥ* ← *go*
 - \[noun\], masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *goagrāḥ* \< *agrāḥ* \< *agra*
+- *goagrāḥ* ← *agrāḥ* ← *agra*
 - \[noun\], accusative, plural, feminine
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
@@ -30,19 +30,19 @@ title = "Rig Veda 1.90.5"
 - \[noun\], locative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *viṣṇav* \< *viṣṇu*
+- *viṣṇav* ← *viṣṇu*
 - \[noun\], vocative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
 ------------------------------------------------------------------------
-- *evayāvaḥ* \< *eva*
+- *evayāvaḥ* ← *eva*
 - \[noun\]
 - “fast; rapid; agile.”
 ------------------------------------------------------------------------
-- *evayāvaḥ* \< *yāvaḥ* \< *yāvan*
+- *evayāvaḥ* ← *yāvaḥ* ← *yāvan*
 - \[noun\], vocative, singular, masculine
 - “traveler.”
 ------------------------------------------------------------------------
-- *kartā* \< *kṛ*
+- *kartā* ← *kṛ*
 - \[verb\], plural, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -53,11 +53,11 @@ title = "Rig Veda 1.90.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *svastimataḥ* \< *svastimat*
+- *svastimataḥ* ← *svastimat*
 - \[noun\], accusative, plural, masculine
 - “happy; favored.”
 ------------------------------------------------------------------------

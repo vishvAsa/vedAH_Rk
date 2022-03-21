@@ -2,19 +2,19 @@
 title = "Rig Veda 1.190.7"
 
 +++
--   *saṃ* \< *sam*
+-   *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *stubho* \< *stubhaḥ* \< *stubh*
+- *stubho* ← *stubhaḥ* ← *stubh*
 - \[noun\], nominative, plural, feminine
 - “song; praise.”
 ------------------------------------------------------------------------
-- *'vanayo* \< *avanayaḥ* \< *avani*
+- *'vanayo* ← *avanayaḥ* ← *avani*
 - \[noun\], nominative, plural, feminine
 - “river; earth; floor; path; bed; course.”
 ------------------------------------------------------------------------
@@ -22,11 +22,11 @@ title = "Rig Veda 1.190.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yanti* \< *i*
+- *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *samudraṃ* \< *samudram* \< *samudra*
+- *samudraṃ* ← *samudram* ← *samudra*
 - \[noun\], accusative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
@@ -34,16 +34,16 @@ title = "Rig Veda 1.190.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sravato* \< *sravataḥ* \< *sravat*
+- *sravato* ← *sravataḥ* ← *sravat*
 - \[noun\], nominative, plural, feminine
 - “river.”
 ------------------------------------------------------------------------
-- *rodhacakrāḥ* \< *rodha*
+- *rodhacakrāḥ* ← *rodha*
 - \[noun\], masculine
 - “obstruction; sealing; suppression; shutting; dam; rodhana; Rodha;
     reservoir.”
 ------------------------------------------------------------------------
-- *rodhacakrāḥ* \< *cakrāḥ* \< *cakra*
+- *rodhacakrāḥ* ← *cakrāḥ* ← *cakra*
 - \[noun\], nominative, plural, feminine
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
@@ -52,16 +52,16 @@ title = "Rig Veda 1.190.7"
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *vidvāṃ* \< *vid*
+- *vidvāṃ* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *ubhayaṃ* \< *ubhayam* \< *ubhaya*
+- *ubhayaṃ* ← *ubhayam* ← *ubhaya*
 - \[noun\], accusative, singular, neuter
 - “both(a).”
 ------------------------------------------------------------------------
-- *caṣṭe* \< *cakṣ*
+- *caṣṭe* ← *cakṣ*
 - \[verb\], singular, Present indikative
 - “watch; look.”
 ------------------------------------------------------------------------
@@ -69,15 +69,15 @@ title = "Rig Veda 1.190.7"
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *bṛhaspatis* \< *bṛhaspatiḥ* \< *bṛhaspati*
+- *bṛhaspatis* ← *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *tara* \< *taraḥ* \< *taras*
+- *tara* ← *taraḥ* ← *taras*
 - \[noun\], accusative, singular, neuter
 - “speed; Stoma.”
 ------------------------------------------------------------------------
-- *āpaś* \< *āpaḥ* \< *ap*
+- *āpaś* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -85,7 +85,7 @@ title = "Rig Veda 1.190.7"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *gṛdhraḥ* \< *gṛdhra*
+- *gṛdhraḥ* ← *gṛdhra*
 - \[noun\], nominative, singular, masculine
 - “vulture.”
 ------------------------------------------------------------------------

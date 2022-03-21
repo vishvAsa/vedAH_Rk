@@ -2,7 +2,7 @@
 title = "Rig Veda 7.18.5"
 
 +++
--   *arṇāṃsi* \< *arṇas*
+-   *arṇāṃsi* ← *arṇas*
 - \[noun\], accusative, plural, neuter
 - “body of water; water.”
 ------------------------------------------------------------------------
@@ -10,24 +10,24 @@ title = "Rig Veda 7.18.5"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *paprathānā* \< *prath*
+- *paprathānā* ← *prath*
 - \[verb noun\], accusative, plural
 - “be known; expand; expand; boom.”
 ------------------------------------------------------------------------
-- *sudāsa* \< *sudāse* \< *sudās*
+- *sudāsa* ← *sudāse* ← *sudās*
 - \[noun\], dative, singular, masculine
 - “Sudās.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *gādhāny* \< *gādhāni* \< *gādha*
+- *gādhāny* ← *gādhāni* ← *gādha*
 - \[noun\], accusative, plural, neuter
 - “gādha \[word\]; fordable.”
 ------------------------------------------------------------------------
-- *akṛṇot* \< *kṛ*
+- *akṛṇot* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -38,37 +38,37 @@ title = "Rig Veda 7.18.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *supārā* \< *su*
+- *supārā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *supārā* \< *pārā* \< *pāra*
+- *supārā* ← *pārā* ← *pāra*
 - \[noun\], accusative, plural, neuter
 - “Pāra; Pāra.”
 ------------------------------------------------------------------------
-- *śardhantaṃ* \< *śardhantam* \< *śṛdh*
+- *śardhantaṃ* ← *śardhantam* ← *śṛdh*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *śimyum* \< *śimyu*
+- *śimyum* ← *śimyu*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *ucathasya* \< *ucatha*
+- *ucathasya* ← *ucatha*
 - \[noun\], genitive, singular, neuter
 - “praise.”
 ------------------------------------------------------------------------
-- *navyaḥ* \< *navyas*
+- *navyaḥ* ← *navyas*
 - \[noun\], accusative, singular, neuter
 - “new.”
 ------------------------------------------------------------------------
-- *śāpaṃ* \< *śāpam* \< *śāpa*
+- *śāpaṃ* ← *śāpam* ← *śāpa*
 - \[noun\], accusative, singular, masculine
 - “imprecation; ban; curse.”
 ------------------------------------------------------------------------
-- *sindhūnām* \< *sindhu*
+- *sindhūnām* ← *sindhu*
 - \[noun\], genitive, plural, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *akṛṇod* \< *akṛṇot* \< *kṛ*
+- *akṛṇod* ← *akṛṇot* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -79,7 +79,7 @@ title = "Rig Veda 7.18.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *aśastīḥ* \< *aśasti*
+- *aśastīḥ* ← *aśasti*
 - \[noun\], accusative, plural, feminine
 - “hex.”
 ------------------------------------------------------------------------

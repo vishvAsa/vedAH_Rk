@@ -2,63 +2,63 @@
 title = "Rig Veda 10.89.5"
 
 +++
--   *āpāntamanyus* \< *āpāntamanyuḥ* \< *āpāntamanyu*
+-   *āpāntamanyus* ← *āpāntamanyuḥ* ← *āpāntamanyu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *tṛpalaprabharmā* \< *tṛpala*
+- *tṛpalaprabharmā* ← *tṛpala*
 - \[noun\]
 ------------------------------------------------------------------------
-- *tṛpalaprabharmā* \< *prabharmā* \< *prabharman*
+- *tṛpalaprabharmā* ← *prabharmā* ← *prabharman*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *dhuniḥ* \< *dhuni*
+- *dhuniḥ* ← *dhuni*
 - \[noun\], nominative, singular, masculine
 - “deafening; boisterous; noisy.”
 ------------------------------------------------------------------------
-- *śimīvāñcharumāṃ* \< *śimīvān* \< *śimīvat*
+- *śimīvāñcharumāṃ* ← *śimīvān* ← *śimīvat*
 - \[noun\], nominative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *śimīvāñcharumāṃ* \< *śarumāṃ* \< *śarumat*
+- *śimīvāñcharumāṃ* ← *śarumāṃ* ← *śarumat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *ṛjīṣī* \< *ṛjīṣin*
+- *ṛjīṣī* ← *ṛjīṣin*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *somo* \< *somaḥ* \< *soma*
+- *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *viśvāny* \< *viśvāni* \< *viśva*
+- *viśvāny* ← *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *atasā* \< *atasa*
+- *atasā* ← *atasa*
 - \[noun\], accusative, plural, neuter
 - “shrub; scrub.”
 ------------------------------------------------------------------------
-- *vanāni* \< *vana*
+- *vanāni* ← *vana*
 - \[noun\], accusative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
-- *nārvāg* \< *na*
+- *nārvāg* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nārvāg* \< *arvāk*
+- *nārvāg* ← *arvāk*
 - \[adverb\]
 - “here.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pratimānāni* \< *pratimāna*
+- *pratimānāni* ← *pratimāna*
 - \[noun\], nominative, plural, neuter
 - “weight.”
 ------------------------------------------------------------------------
-- *debhuḥ* \< *dabh*
+- *debhuḥ* ← *dabh*
 - \[verb\], plural, Perfect indicative
 ------------------------------------------------------------------------

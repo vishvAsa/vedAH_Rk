@@ -2,41 +2,41 @@
 title = "Rig Veda 10.163.1"
 
 +++
--   *akṣībhyāṃ* \< *akṣībhyām* \< *akṣi*
+-   *akṣībhyāṃ* ← *akṣībhyām* ← *akṣi*
 - \[noun\], ablative, plural
 - “eye; akṣi \[word\]; two.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *nāsikābhyāṃ* \< *nāsikābhyām* \< *nāsikā*
+- *nāsikābhyāṃ* ← *nāsikābhyām* ← *nāsikā*
 - \[noun\], ablative, dual, feminine
 - “nose; nāsikā \[word\]; nostrils.”
 ------------------------------------------------------------------------
-- *karṇābhyāṃ* \< *karṇābhyām* \< *karṇa*
+- *karṇābhyāṃ* ← *karṇābhyām* ← *karṇa*
 - \[noun\], ablative, dual, masculine
 - “ear; Karṇa; karṇa \[word\]; auricle; fluke; diameter; lobule.”
 ------------------------------------------------------------------------
-- *chubukād* \< *chubukāt* \< *chubuka*
+- *chubukād* ← *chubukāt* ← *chubuka*
 - \[noun\], ablative, singular, neuter
 ------------------------------------------------------------------------
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *yakṣmaṃ* \< *yakṣmam* \< *yakṣma*
+- *yakṣmaṃ* ← *yakṣmam* ← *yakṣma*
 - \[noun\], accusative, singular, masculine
 - “tuberculosis; disease; pulmonary tuberculosis.”
 ------------------------------------------------------------------------
-- *śīrṣaṇyam* \< *śīrṣaṇya*
+- *śīrṣaṇyam* ← *śīrṣaṇya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *mastiṣkāj* \< *mastiṣkāt* \< *mastiṣka*
+- *mastiṣkāj* ← *mastiṣkāt* ← *mastiṣka*
 - \[noun\], ablative, singular, neuter
 - “brain; nape.”
 ------------------------------------------------------------------------
-- *jihvāyā* \< *jihvāyāḥ* \< *jihvā*
+- *jihvāyā* ← *jihvāyāḥ* ← *jihvā*
 - \[noun\], ablative, singular, feminine
 - “tongue; tongue; jihvā \[word\]; fire.”
 ------------------------------------------------------------------------
@@ -44,11 +44,11 @@ title = "Rig Veda 10.163.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vṛhāmi* \< *vṛh*
+- *vṛhāmi* ← *vṛh*
 - \[verb\], singular, Present indikative
 - “extract.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------

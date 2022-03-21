@@ -2,27 +2,27 @@
 title = "Rig Veda 7.32.19"
 
 +++
--   *śikṣeyam* \< *śikṣ*
+-   *śikṣeyam* ← *śikṣ*
 - \[verb\], singular, Present optative
 - “help; give.”
 ------------------------------------------------------------------------
-- *in* \< *id*
+- *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *mahayate* \< *mahay* \< *√mah*
+- *mahayate* ← *mahay* ← *√mah*
 - \[verb noun\], dative, singular
 - “glorify.”
 ------------------------------------------------------------------------
-- *dive* \< *diva*
+- *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
 ------------------------------------------------------------------------
-- *dive* \< *diva*
+- *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
 ------------------------------------------------------------------------
-- *rāya* \< *rāyaḥ* \< *rai*
+- *rāya* ← *rāyaḥ* ← *rai*
 - \[noun\], accusative, plural, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
@@ -30,21 +30,21 @@ title = "Rig Veda 7.32.19"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *kuhacidvide* \< *kuhacid*
+- *kuhacidvide* ← *kuhacid*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *kuhacidvide* \< *vide* \< *vid*
+- *kuhacidvide* ← *vide* ← *vid*
 - \[verb noun\]
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
 - *nahi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *tvad* \< *tvat* \< *tvad*
+- *tvad* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *anyan* \< *anyat* \< *anya*
+- *anyan* ← *anyat* ← *anya*
 - \[noun\], nominative, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
@@ -53,24 +53,24 @@ title = "Rig Veda 7.32.19"
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *āpyaṃ* \< *āpyam* \< *āpya*
+- *āpyaṃ* ← *āpyam* ← *āpya*
 - \[noun\], nominative, singular, neuter
 - “friendship.”
 ------------------------------------------------------------------------
-- *vasyo* \< *vasyaḥ* \< *vasyas*
+- *vasyo* ← *vasyaḥ* ← *vasyas*
 - \[noun\], nominative, singular, neuter
 - “better; rich.”
 ------------------------------------------------------------------------
-- *asti* \< *as*
+- *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *pitā* \< *pitṛ*
+- *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”

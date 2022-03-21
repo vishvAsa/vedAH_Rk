@@ -2,43 +2,43 @@
 title = "Rig Veda 3.62.17"
 
 +++
--   *uruśaṃsā* \< *uru*
+-   *uruśaṃsā* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *uruśaṃsā* \< *śaṃsā* \< *śaṃsa*
+- *uruśaṃsā* ← *śaṃsā* ← *śaṃsa*
 - \[noun\], nominative, dual, masculine
 - “praise; śaṃs; recitation.”
 ------------------------------------------------------------------------
-- *namovṛdhā* \< *namaḥ* \< *namas*
+- *namovṛdhā* ← *namaḥ* ← *namas*
 - \[noun\], neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *namovṛdhā* \< *vṛdhā* \< *vṛdh*
+- *namovṛdhā* ← *vṛdhā* ← *vṛdh*
 - \[noun\], nominative, dual, masculine
 - “increasing.”
 ------------------------------------------------------------------------
-- *mahnā* \< *mahan*
+- *mahnā* ← *mahan*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
 ------------------------------------------------------------------------
-- *dakṣasya* \< *dakṣa*
+- *dakṣasya* ← *dakṣa*
 - \[noun\], genitive, singular, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
 ------------------------------------------------------------------------
-- *rājathaḥ* \< *rāj*
+- *rājathaḥ* ← *rāj*
 - \[verb\], dual, Present indikative
 - “govern; shine; glitter; direct.”
 ------------------------------------------------------------------------
-- *drāghiṣṭhābhiḥ* \< *drāghiṣṭha*
+- *drāghiṣṭhābhiḥ* ← *drāghiṣṭha*
 - \[noun\], instrumental, plural, feminine
 ------------------------------------------------------------------------
-- *śucivratā* \< *śuci*
+- *śucivratā* ← *śuci*
 - \[noun\]
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *śucivratā* \< *vratā* \< *vrata*
+- *śucivratā* ← *vratā* ← *vrata*
 - \[noun\], nominative, dual, masculine
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”

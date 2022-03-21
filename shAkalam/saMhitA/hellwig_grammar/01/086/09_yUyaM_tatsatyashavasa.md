@@ -2,29 +2,29 @@
 title = "Rig Veda 1.86.9"
 
 +++
--   *yūyaṃ* \< *yūyam* \< *tvad*
+-   *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *tat* \< *tad*
+- *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *satyaśavasa* \< *satya*
+- *satyaśavasa* ← *satya*
 - \[noun\]
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *satyaśavasa* \< *śavasaḥ* \< *śavas*
+- *satyaśavasa* ← *śavasaḥ* ← *śavas*
 - \[noun\], genitive, singular, masculine
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *āviṣ* \< *āvis*
+- *āviṣ* ← *āvis*
 - \[adverb\]
 - “openly; obviously.”
 ------------------------------------------------------------------------
-- *karta* \< *kṛ*
+- *karta* ← *kṛ*
 - \[verb\], plural, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -35,19 +35,19 @@ title = "Rig Veda 1.86.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *mahitvanā* \< *mahitvana*
+- *mahitvanā* ← *mahitvana*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
 ------------------------------------------------------------------------
-- *vidhyatā* \< *vyadh*
+- *vidhyatā* ← *vyadh*
 - \[verb\], plural, Present imperative
 - “pierce; vedhay; pierce; transfix; bleed; pierce; cut off; injure.”
 ------------------------------------------------------------------------
-- *vidyutā* \< *vidyut*
+- *vidyutā* ← *vidyut*
 - \[noun\], instrumental, singular, feminine
 - “lightning; Vidyut; thunderbolt.”
 ------------------------------------------------------------------------
-- *rakṣaḥ* \< *rakṣas*
+- *rakṣaḥ* ← *rakṣas*
 - \[noun\], accusative, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
 ------------------------------------------------------------------------

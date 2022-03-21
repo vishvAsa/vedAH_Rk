@@ -2,7 +2,7 @@
 title = "Rig Veda 8.3.14"
 
 +++
--   *kad* \< *ka*
+-   *kad* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -10,31 +10,31 @@ title = "Rig Veda 8.3.14"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *stuvanta* \< *stuvante* \< *stu*
+- *stuvanta* ← *stuvante* ← *stu*
 - \[verb\], plural, Present indikative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *ṛtayanta* \< *ṛtayantaḥ* \< *ṛtay*
+- *ṛtayanta* ← *ṛtayantaḥ* ← *ṛtay*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *devata* \< *devataḥ* \< *deva*
+- *devata* ← *devataḥ* ← *deva*
 - \[noun\], ablative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *ṛṣiḥ* \< *ṛṣi*
+- *ṛṣiḥ* ← *ṛṣi*
 - \[noun\], nominative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *ko* \< *kaḥ* \< *ka*
+- *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *vipra* \< *vipraḥ* \< *vipra*
+- *vipra* ← *vipraḥ* ← *vipra*
 - \[noun\], nominative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *ohate* \< *ūh*
+- *ohate* ← *ūh*
 - \[verb\], singular, Present indikative
 - “diagnose.”
 ------------------------------------------------------------------------
@@ -42,11 +42,11 @@ title = "Rig Veda 8.3.14"
 - \[adverb\]
 - “when; kadā \[word\].”
 ------------------------------------------------------------------------
-- *havam* \< *hava*
+- *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *maghavann* \< *maghavan*
+- *maghavann* ← *maghavan*
 - \[noun\], vocative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
@@ -55,11 +55,11 @@ title = "Rig Veda 8.3.14"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sunvataḥ* \< *su*
+- *sunvataḥ* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *kad* \< *ka*
+- *kad* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -67,16 +67,16 @@ title = "Rig Veda 8.3.14"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *stuvata* \< *stuvataḥ* \< *stu*
+- *stuvata* ← *stuvataḥ* ← *stu*
 - \[verb noun\], genitive, singular
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *ā* \< *āḥ* \< *as*
+- *ā* ← *āḥ* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *gamaḥ* \< *gam*
+- *gamaḥ* ← *gam*
 - \[verb\], singular, Aorist inj. (proh.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

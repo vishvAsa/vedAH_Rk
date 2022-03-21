@@ -2,34 +2,34 @@
 title = "Rig Veda 9.96.22"
 
 +++
--   *prāsya* \< *prās* \< *√as*
+-   *prāsya* ← *prās* ← *√as*
 - \[verb noun\]
 - “throw.”
 ------------------------------------------------------------------------
-- *dhārā* \< *dhārāḥ* \< *dhārā*
+- *dhārā* ← *dhārāḥ* ← *dhārā*
 - \[noun\], nominative, plural, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *bṛhatīr* \< *bṛhatīḥ* \< *bṛhat*
+- *bṛhatīr* ← *bṛhatīḥ* ← *bṛhat*
 - \[noun\], nominative, plural, feminine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *asṛgrann* \< *asṛgran* \< *sṛj*
+- *asṛgrann* ← *asṛgran* ← *sṛj*
 - \[verb\], plural, Root aorist (Ind.)
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *akto* \< *aktaḥ* \< *añj*
+- *akto* ← *aktaḥ* ← *añj*
 - \[verb noun\], nominative, singular
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *gobhiḥ* \< *go*
+- *gobhiḥ* ← *go*
 - \[noun\], instrumental, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *kalaśāṃ* \< *kalaśa*
+- *kalaśāṃ* ← *kalaśa*
 - \[noun\], accusative, plural, masculine
 - “jar.”
 ------------------------------------------------------------------------
@@ -37,15 +37,15 @@ title = "Rig Veda 9.96.22"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *viveśa* \< *viś*
+- *viveśa* ← *viś*
 - \[verb\], singular, Perfect indicative
 - “enter; penetrate; settle; settle.”
 ------------------------------------------------------------------------
-- *sāma* \< *sāman*
+- *sāma* ← *sāman*
 - \[noun\], accusative, singular, neuter
 - “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
 ------------------------------------------------------------------------
-- *kṛṇvan* \< *kṛ*
+- *kṛṇvan* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -56,18 +56,18 @@ title = "Rig Veda 9.96.22"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *sāmanyo* \< *sāmanyaḥ* \< *sāmanya*
+- *sāmanyo* ← *sāmanyaḥ* ← *sāmanya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *vipaścit*
 - \[noun\], nominative, singular, masculine
 - “wise; expert.”
 ------------------------------------------------------------------------
-- *krandann* \< *krandan* \< *krand*
+- *krandann* ← *krandan* ← *krand*
 - \[verb noun\], nominative, singular
 - “roar; neigh; cry; howl; shout.”
 ------------------------------------------------------------------------
-- *ety* \< *eti* \< *i*
+- *ety* ← *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
@@ -75,7 +75,7 @@ title = "Rig Veda 9.96.22"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *sakhyur* \< *sakhyuḥ* \< *sakhi*
+- *sakhyur* ← *sakhyuḥ* ← *sakhi*
 - \[noun\], genitive, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
@@ -83,7 +83,7 @@ title = "Rig Veda 9.96.22"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *jāmim* \< *jāmi*
+- *jāmim* ← *jāmi*
 - \[noun\], accusative, singular, feminine
 - “sister; woman; daughter-in-law.”
 ------------------------------------------------------------------------

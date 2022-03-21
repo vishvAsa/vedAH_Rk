@@ -2,58 +2,58 @@
 title = "Rig Veda 10.162.6"
 
 +++
--   *yas* \< *yaḥ* \< *yad*
+-   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *svapnena* \< *svapna*
+- *svapnena* ← *svapna*
 - \[noun\], instrumental, singular, masculine
 - “dream; sleep.”
 ------------------------------------------------------------------------
-- *tamasā* \< *tamas*
+- *tamasā* ← *tamas*
 - \[noun\], instrumental, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
 ------------------------------------------------------------------------
-- *mohayitvā* \< *mohay* \< *√muh*
+- *mohayitvā* ← *mohay* ← *√muh*
 - \[verb noun\]
 - “confuse; bewilder.”
 ------------------------------------------------------------------------
-- *nipadyate* \< *nipad* \< *√pad*
+- *nipadyate* ← *nipad* ← *√pad*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *prajāṃ* \< *prajām* \< *prajā*
+- *prajāṃ* ← *prajām* ← *prajā*
 - \[noun\], accusative, singular, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”
 ------------------------------------------------------------------------
-- *yas* \< *yaḥ* \< *yad*
+- *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *jighāṃsati* \< *jighāṃs* \< *√han*
+- *jighāṃsati* ← *jighāṃs* ← *√han*
 - \[verb\], singular, Present indikative
 - “kill.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ito* \< *itas*
+- *ito* ← *itas*
 - \[adverb\]
 - “from here; therefore.”
 ------------------------------------------------------------------------
-- *nāśayāmasi* \< *nāśay* \< *√naś*
+- *nāśayāmasi* ← *nāśay* ← *√naś*
 - \[verb\], plural, Present indikative
 - “cure; destroy; kill; remove; māray; obstruct; expiate; eliminate.”
 ------------------------------------------------------------------------

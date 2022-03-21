@@ -2,40 +2,40 @@
 title = "Rig Veda 7.19.8"
 
 +++
--   *priyāsa* \< *priyāsaḥ* \< *priya*
+-   *priyāsa* ← *priyāsaḥ* ← *priya*
 - \[noun\], nominative, plural, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *maghavann* \< *maghavan*
+- *maghavann* ← *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *abhiṣṭau* \< *abhiṣṭi*
+- *abhiṣṭau* ← *abhiṣṭi*
 - \[noun\], locative, singular, feminine
 - “prevalence; protection.”
 ------------------------------------------------------------------------
-- *naro* \< *naraḥ* \< *nṛ*
+- *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *madema* \< *mad*
+- *madema* ← *mad*
 - \[verb\], plural, Present optative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *śaraṇe* \< *śaraṇa*
+- *śaraṇe* ← *śaraṇa*
 - \[noun\], locative, singular, neuter
 - “refuge; safety; shelter; house; protection.”
 ------------------------------------------------------------------------
-- *sakhāyaḥ* \< *sakhi*
+- *sakhāyaḥ* ← *sakhi*
 - \[noun\], nominative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
@@ -43,29 +43,29 @@ title = "Rig Veda 7.19.8"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *turvaśaṃ* \< *turvaśam* \< *turvaśa*
+- *turvaśaṃ* ← *turvaśam* ← *turvaśa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *yādvaṃ* \< *yādvam* \< *yādva*
+- *yādvaṃ* ← *yādvam* ← *yādva*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *śiśīhy* \< *śiśīhi* \< *śā*
+- *śiśīhy* ← *śiśīhi* ← *śā*
 - \[verb\], singular, Present imperative
 - “sharpen; whet; strengthen.”
 ------------------------------------------------------------------------
-- *atithigvāya* \< *atithigva*
+- *atithigvāya* ← *atithigva*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *śaṃsyaṃ* \< *śaṃsyam* \< *śaṃs*
+- *śaṃsyaṃ* ← *śaṃsyam* ← *śaṃs*
 - \[verb noun\], accusative, singular
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
 ------------------------------------------------------------------------
-- *kariṣyan* \< *kṛ*
+- *kariṣyan* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

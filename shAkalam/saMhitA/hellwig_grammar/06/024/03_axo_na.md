@@ -2,7 +2,7 @@
 title = "Rig Veda 6.24.3"
 
 +++
--   *akṣo* \< *akṣaḥ* \< *akṣa*
+-   *akṣo* ← *akṣaḥ* ← *akṣa*
 - \[noun\], nominative, singular, masculine
 - “axle.”
 ------------------------------------------------------------------------
@@ -10,7 +10,7 @@ title = "Rig Veda 6.24.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *cakryoḥ* \< *cakrī*
+- *cakryoḥ* ← *cakrī*
 - \[noun\], genitive, dual, feminine
 - “cakrikā.”
 ------------------------------------------------------------------------
@@ -19,7 +19,7 @@ title = "Rig Veda 6.24.3"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *bṛhan* \< *bṛhat*
+- *bṛhan* ← *bṛhat*
 - \[noun\], nominative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
@@ -28,23 +28,23 @@ title = "Rig Veda 6.24.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *mahnā* \< *mahan*
+- *mahnā* ← *mahan*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
 ------------------------------------------------------------------------
-- *ririce* \< *ric*
+- *ririce* ← *ric*
 - \[verb\], singular, Perfect indicative
 - “empty; liberate; concede; surrender; purge.”
 ------------------------------------------------------------------------
-- *rodasyoḥ* \< *rodasī*
+- *rodasyoḥ* ← *rodasī*
 - \[noun\], genitive, dual, feminine
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *vṛkṣasya* \< *vṛkṣa*
+- *vṛkṣasya* ← *vṛkṣa*
 - \[noun\], genitive, singular, masculine
 - “tree; fruit tree.”
 ------------------------------------------------------------------------
@@ -52,7 +52,7 @@ title = "Rig Veda 6.24.3"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -60,19 +60,19 @@ title = "Rig Veda 6.24.3"
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu.”
 ------------------------------------------------------------------------
-- *vayā* \< *vayāḥ* \< *vayā*
+- *vayā* ← *vayāḥ* ← *vayā*
 - \[noun\], nominative, plural, feminine
 - “branch; branchlet.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ūtayo* \< *ūtayaḥ* \< *ūti*
+- *ūtayo* ← *ūtayaḥ* ← *ūti*
 - \[noun\], nominative, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *ruruhur* \< *ruruhuḥ* \< *ruh*
+- *ruruhur* ← *ruruhuḥ* ← *ruh*
 - \[verb\], plural, Perfect indicative
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
 ------------------------------------------------------------------------
@@ -81,7 +81,7 @@ title = "Rig Veda 6.24.3"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pūrvīḥ* \< *puru*
+- *pūrvīḥ* ← *puru*
 - \[noun\], nominative, plural, feminine
 - “many; much(a); very.”
 ------------------------------------------------------------------------

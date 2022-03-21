@@ -2,36 +2,36 @@
 title = "Rig Veda 5.41.9"
 
 +++
--   *tuje* \< *tuj*
+-   *tuje* ← *tuj*
 - \[verb noun\]
 - “draw.”
 ------------------------------------------------------------------------
-- *nas* \< *naḥ* \< *mad*
+- *nas* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tane* \< *tan*
+- *tane* ← *tan*
 - \[noun\], dative, singular, feminine
 - “continuity; sequence; longevity.”
 ------------------------------------------------------------------------
-- *parvatāḥ* \< *parvata*
+- *parvatāḥ* ← *parvata*
 - \[noun\], nominative, plural, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
 ------------------------------------------------------------------------
-- *santu* \< *as*
+- *santu* ← *as*
 - \[verb\], plural, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *svaitavo* \< *svaitavaḥ* \< *svaitu*
+- *svaitavo* ← *svaitavaḥ* ← *svaitu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vasavo* \< *vasavaḥ* \< *vasu*
+- *vasavo* ← *vasavaḥ* ← *vasu*
 - \[noun\], nominative, plural, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
@@ -39,18 +39,18 @@ title = "Rig Veda 5.41.9"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vīrāḥ* \< *vīra*
+- *vīrāḥ* ← *vīra*
 - \[noun\], nominative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *panita* \< *panitaḥ* \< *pan*
+- *panita* ← *panitaḥ* ← *pan*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *āptyo* \< *āptyaḥ* \< *āptya*
+- *āptyo* ← *āptyaḥ* ← *āptya*
 - \[noun\], nominative, singular, masculine
 - “Āptya; Trita.”
 ------------------------------------------------------------------------
-- *yajataḥ* \< *yajata*
+- *yajataḥ* ← *yajata*
 - \[noun\], nominative, singular, masculine
 - “holy; august; sacrificial.”
 ------------------------------------------------------------------------
@@ -58,28 +58,28 @@ title = "Rig Veda 5.41.9"
 - \[adverb\]
 - “always; continually; always; perpetually.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vardhān* \< *vardhāt* \< *vṛdh*
+- *vardhān* ← *vardhāt* ← *vṛdh*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śaṃsaṃ* \< *śaṃsam* \< *śaṃsa*
+- *śaṃsaṃ* ← *śaṃsam* ← *śaṃsa*
 - \[noun\], accusative, singular, masculine
 - “praise; śaṃs; recitation.”
 ------------------------------------------------------------------------
-- *naryo* \< *naryaḥ* \< *narya*
+- *naryo* ← *naryaḥ* ← *narya*
 - \[noun\], nominative, singular, masculine
 - “manly; heroic; powerful; male; human.”
 ------------------------------------------------------------------------
-- *abhiṣṭau* \< *abhiṣṭi*
+- *abhiṣṭau* ← *abhiṣṭi*
 - \[noun\], locative, singular, feminine
 - “prevalence; protection.”
 ------------------------------------------------------------------------

@@ -6,25 +6,25 @@ title = "Rig Veda 1.97.1"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śośucad* \< *śośucat* \< *śośuc* \< *√śuc*
+- *śośucad* ← *śośucat* ← *śośuc* ← *√śuc*
 - \[verb noun\], nominative, singular
 - “blaze.”
 ------------------------------------------------------------------------
-- *agham* \< *agha*
+- *agham* ← *agha*
 - \[noun\], accusative, singular, neuter
 - “sin; evil; impurity; agha \[word\].”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *śuśugdhy* \< *śuśugdhi* \< *śuc*
+- *śuśugdhy* ← *śuśugdhi* ← *śuc*
 - \[verb\], singular, Perfect imperative
 - “mourn; grieve; flame; glow; burn; repent.”
 ------------------------------------------------------------------------
@@ -32,7 +32,7 @@ title = "Rig Veda 1.97.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *rayim* \< *rayi*
+- *rayim* ← *rayi*
 - \[noun\], accusative, singular, feminine
 - “wealth; property.”
 ------------------------------------------------------------------------
@@ -40,15 +40,15 @@ title = "Rig Veda 1.97.1"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śośucad* \< *śośucat* \< *śośuc* \< *√śuc*
+- *śośucad* ← *śośucat* ← *śośuc* ← *√śuc*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “blaze.”
 ------------------------------------------------------------------------
-- *agham* \< *agha*
+- *agham* ← *agha*
 - \[noun\], accusative, singular, neuter
 - “sin; evil; impurity; agha \[word\].”
 ------------------------------------------------------------------------

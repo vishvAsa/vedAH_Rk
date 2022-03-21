@@ -2,77 +2,77 @@
 title = "Rig Veda 8.46.26"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *aśvebhir* \< *aśvebhiḥ* \< *aśva*
+- *aśvebhir* ← *aśvebhiḥ* ← *aśva*
 - \[noun\], instrumental, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *vahate* \< *vah*
+- *vahate* ← *vah*
 - \[verb\], singular, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *vasta* \< *\_* \< *√\_*
+- *vasta* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *usrās* \< *usrāḥ* \< *usṛ*
+- *usrās* ← *usrāḥ* ← *usṛ*
 - \[noun\], genitive, singular, feminine
 - “dawn.”
 ------------------------------------------------------------------------
-- *triḥ* \< *tris*
+- *triḥ* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], accusative, singular, neuter
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *saptatīnām* \< *saptati*
+- *saptatīnām* ← *saptati*
 - \[noun\], genitive, plural, feminine
 - “seventy; saptati \[word\].”
 ------------------------------------------------------------------------
-- *ebhiḥ* \< *idam*
+- *ebhiḥ* ← *idam*
 - \[noun\], instrumental, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *somebhiḥ* \< *soma*
+- *somebhiḥ* ← *soma*
 - \[noun\], instrumental, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somasudbhiḥ* \< *soma*
+- *somasudbhiḥ* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somasudbhiḥ* \< *sudbhiḥ* \< *sut*
+- *somasudbhiḥ* ← *sudbhiḥ* ← *sut*
 - \[noun\], instrumental, plural, masculine
 - “pressing.”
 ------------------------------------------------------------------------
-- *somapā* \< *soma*
+- *somapā* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somapā* \< *pāḥ* \< *pā*
+- *somapā* ← *pāḥ* ← *pā*
 - \[noun\], nominative, singular, masculine
 - “drinking.”
 ------------------------------------------------------------------------
-- *dānāya* \< *dāna*
+- *dānāya* ← *dāna*
 - \[noun\], dative, singular, neuter
 - “giving; gift; bribery; performance; addition; yajña; fueling;
     teaching.”
 ------------------------------------------------------------------------
-- *śukrapūtapāḥ* \< *śukra*
+- *śukrapūtapāḥ* ← *śukra*
 - \[noun\]
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *śukrapūtapāḥ* \< *pūta* \< *pū*
+- *śukrapūtapāḥ* ← *pūta* ← *pū*
 - \[verb noun\]
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *śukrapūtapāḥ* \< *pāḥ* \< *pā*
+- *śukrapūtapāḥ* ← *pāḥ* ← *pā*
 - \[noun\], nominative, singular, masculine
 - “drinking.”
 ------------------------------------------------------------------------

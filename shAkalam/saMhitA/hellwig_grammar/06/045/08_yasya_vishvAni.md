@@ -2,27 +2,27 @@
 title = "Rig Veda 6.45.8"
 
 +++
--   *yasya* \< *yad*
+-   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *viśvāni* \< *viśva*
+- *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *hastayor* \< *hastayoḥ* \< *hasta*
+- *hastayor* ← *hastayoḥ* ← *hasta*
 - \[noun\], locative, dual, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------
-- *ūcur* \< *ūcuḥ* \< *vac*
+- *ūcur* ← *ūcuḥ* ← *vac*
 - \[verb\], plural, Perfect indicative
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
 ------------------------------------------------------------------------
-- *vasūni* \< *vasu*
+- *vasūni* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
@@ -34,11 +34,11 @@ title = "Rig Veda 6.45.8"
 - \[adverb\]
 - “again.”
 ------------------------------------------------------------------------
-- *vīrasya* \< *vīra*
+- *vīrasya* ← *vīra*
 - \[noun\], genitive, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *pṛtanāṣahaḥ* \< *pṛtanāṣāh*
+- *pṛtanāṣahaḥ* ← *pṛtanāṣāh*
 - \[noun\], genitive, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------

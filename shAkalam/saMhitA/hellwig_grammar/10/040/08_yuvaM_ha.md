@@ -2,7 +2,7 @@
 title = "Rig Veda 10.40.8"
 
 +++
--   *yuvaṃ* \< *yuvam* \< *tvad*
+-   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
 - “you.”
 ------------------------------------------------------------------------
@@ -10,72 +10,72 @@ title = "Rig Veda 10.40.8"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *kṛśaṃ* \< *kṛśam* \< *kṛśa*
+- *kṛśaṃ* ← *kṛśam* ← *kṛśa*
 - \[noun\], accusative, singular, masculine
 - “Kṛśa.”
 ------------------------------------------------------------------------
-- *yuvam* \< *tvad*
+- *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
 - “you.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *śayuṃ* \< *śayum* \< *śayu*
+- *śayuṃ* ← *śayum* ← *śayu*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *yuvaṃ* \< *yuvam* \< *tvad*
+- *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
 - “you.”
 ------------------------------------------------------------------------
-- *vidhantaṃ* \< *vidhantam* \< *vidh*
+- *vidhantaṃ* ← *vidhantam* ← *vidh*
 - \[verb noun\], accusative, singular
 - “worship; offer.”
 ------------------------------------------------------------------------
-- *vidhavām* \< *vidhavā*
+- *vidhavām* ← *vidhavā*
 - \[noun\], accusative, singular, feminine
 - “widow.”
 ------------------------------------------------------------------------
-- *uruṣyathaḥ* \< *uruṣy*
+- *uruṣyathaḥ* ← *uruṣy*
 - \[verb\], dual, Present indikative
 - “protect; help.”
 ------------------------------------------------------------------------
-- *yuvaṃ* \< *yuvam* \< *tvad*
+- *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
 - “you.”
 ------------------------------------------------------------------------
-- *sanibhya* \< *sanibhyaḥ* \< *sani*
+- *sanibhya* ← *sanibhyaḥ* ← *sani*
 - \[noun\], dative, plural, masculine
 - “gain.”
 ------------------------------------------------------------------------
-- *stanayantam* \< *stanay* \< *√stan*
+- *stanayantam* ← *stanay* ← *√stan*
 - \[verb noun\], accusative, singular
 - “thunder; thunder.”
 ------------------------------------------------------------------------
-- *aśvināpa* \< *aśvinā* \< *aśvin*
+- *aśvināpa* ← *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *aśvināpa* \< *apa*
+- *aśvināpa* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *vrajam* \< *vraja*
+- *vrajam* ← *vraja*
 - \[noun\], accusative, singular, masculine
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”
 ------------------------------------------------------------------------
-- *ūrṇuthaḥ* \< *vṛ*
+- *ūrṇuthaḥ* ← *vṛ*
 - \[verb\], dual, Present indikative
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *saptāsyam* \< *sapta* \< *saptan*
+- *saptāsyam* ← *sapta* ← *saptan*
 - \[noun\]
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *saptāsyam* \< *āsyam* \< *āsya*
+- *saptāsyam* ← *āsyam* ← *āsya*
 - \[noun\], accusative, singular, masculine
 - “mouth; mouth; aperture; face; mukha; jaw; point.”
 ------------------------------------------------------------------------

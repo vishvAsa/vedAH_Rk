@@ -2,27 +2,27 @@
 title = "Rig Veda 6.24.4"
 
 +++
--   *śacīvatas* \< *śacīvataḥ* \< *śacīvat*
+-   *śacīvatas* ← *śacīvataḥ* ← *śacīvat*
 - \[noun\], genitive, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *puruśāka* \< *puru*
+- *puruśāka* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *puruśāka* \< *śāka*
+- *puruśāka* ← *śāka*
 - \[noun\], vocative, singular, masculine
 - “power.”
 ------------------------------------------------------------------------
-- *śākā* \< *śākāḥ* \< *śāka*
+- *śākā* ← *śākāḥ* ← *śāka*
 - \[noun\], nominative, plural, masculine
 - “power.”
 ------------------------------------------------------------------------
-- *gavām* \< *go*
+- *gavām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -31,15 +31,15 @@ title = "Rig Veda 6.24.4"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *srutayaḥ* \< *sruti*
+- *srutayaḥ* ← *sruti*
 - \[noun\], nominative, plural, feminine
 - “discharge; path; road; stream.”
 ------------------------------------------------------------------------
-- *saṃcaraṇīḥ* \< *saṃcaraṇa*
+- *saṃcaraṇīḥ* ← *saṃcaraṇa*
 - \[noun\], nominative, plural, feminine
 - “accessible.”
 ------------------------------------------------------------------------
-- *vatsānāṃ* \< *vatsānām* \< *vatsa*
+- *vatsānāṃ* ← *vatsānām* ← *vatsa*
 - \[noun\], genitive, plural, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
@@ -48,11 +48,11 @@ title = "Rig Veda 6.24.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tantayas* \< *tantayaḥ* \< *tanti*
+- *tantayas* ← *tantayaḥ* ← *tanti*
 - \[noun\], nominative, plural, feminine
 - “tanti \[word\].”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -61,21 +61,21 @@ title = "Rig Veda 6.24.4"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dāmanvanto* \< *dāmanvantaḥ* \< *dāmanvat*
+- *dāmanvanto* ← *dāmanvantaḥ* ← *dāmanvat*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *adāmānaḥ* \< *a*
+- *adāmānaḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *adāmānaḥ* \< *dāmānaḥ* \< *dāman*
+- *adāmānaḥ* ← *dāmānaḥ* ← *dāman*
 - \[noun\], nominative, plural, masculine
 - “wreath; dāman; dāman \[word\]; shackle; girdle; fetter.”
 ------------------------------------------------------------------------
-- *sudāman* \< *su*
+- *sudāman* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudāman* \< *dāman*
+- *sudāman* ← *dāman*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------

@@ -2,69 +2,69 @@
 title = "Rig Veda 1.167.9"
 
 +++
--   *nahī* \< *nahi*
+-   *nahī* ← *nahi*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *anty* \< *anti*
+- *anty* ← *anti*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ārāttāc* \< *ārāttāt*
+- *ārāttāc* ← *ārāttāt*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *cicchavaso* \< *cit*
+- *cicchavaso* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *cicchavaso* \< *śavasaḥ* \< *śavas*
+- *cicchavaso* ← *śavasaḥ* ← *śavas*
 - \[noun\], genitive, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *antam* \< *anta*
+- *antam* ← *anta*
 - \[noun\], accusative, singular, masculine
 - “end; last syllable; end; end; boundary; inside; border; death; anta
     \[word\]; edge; end; shore; limit; region; outskirt; destruction;
     boundary; limit; anta; termination; corner; conclusion; hem; end;
     ant; edge.”
 ------------------------------------------------------------------------
-- *āpuḥ* \< *āp*
+- *āpuḥ* ← *āp*
 - \[verb\], plural, Perfect indicative
 - “enter (a state); get; reach; obtain; equal.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *dhṛṣṇunā* \< *dhṛṣṇu*
+- *dhṛṣṇunā* ← *dhṛṣṇu*
 - \[noun\], instrumental, singular, neuter
 - “brave; ferocious; strong.”
 ------------------------------------------------------------------------
-- *śavasā* \< *śavas*
+- *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *śūśuvāṃso* \< *śūśuvāṃsaḥ* \< *śvi*
+- *śūśuvāṃso* ← *śūśuvāṃsaḥ* ← *śvi*
 - \[verb noun\], nominative, plural
 - “swell; grow.”
 ------------------------------------------------------------------------
-- *'rṇo* \< *arṇaḥ* \< *arṇas*
+- *'rṇo* ← *arṇaḥ* ← *arṇas*
 - \[noun\], accusative, singular, neuter
 - “body of water; water.”
 ------------------------------------------------------------------------
@@ -72,18 +72,18 @@ title = "Rig Veda 1.167.9"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dveṣo* \< *dveṣaḥ* \< *dveṣas*
+- *dveṣo* ← *dveṣaḥ* ← *dveṣas*
 - \[noun\], accusative, singular, neuter
 - “hostility; enemy.”
 ------------------------------------------------------------------------
-- *dhṛṣatā* \< *dhṛṣat*
+- *dhṛṣatā* ← *dhṛṣat*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
 - *pari*
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *ṣṭhuḥ* \< *sthuḥ* \< *sthā*
+- *ṣṭhuḥ* ← *sthuḥ* ← *sthā*
 - \[verb\], plural, Aorist inj. (proh.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;

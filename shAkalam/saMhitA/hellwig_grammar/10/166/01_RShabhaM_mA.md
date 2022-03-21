@@ -2,37 +2,37 @@
 title = "Rig Veda 10.166.1"
 
 +++
--   *ṛṣabham* \< *ṛṣabha*
+-   *ṛṣabham* ← *ṛṣabha*
 - \[noun\], accusative, singular, masculine
 - “best; leader; bull; Ṛṣabha; ṛṣabha; ṛṣabha; Ṛṣabha; ṛṣabha
     \[word\]; hero; bull.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *samānānāṃ* \< *samānānām* \< *samāna*
+- *samānānāṃ* ← *samānānām* ← *samāna*
 - \[noun\], genitive, plural, masculine
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
 ------------------------------------------------------------------------
-- *sapatnānāṃ* \< *sapatnānām* \< *sapatna*
+- *sapatnānāṃ* ← *sapatnānām* ← *sapatna*
 - \[noun\], genitive, plural, masculine
 - “rival; enemy; foe.”
 ------------------------------------------------------------------------
-- *viṣāsahim* \< *viṣāsahi*
+- *viṣāsahim* ← *viṣāsahi*
 - \[noun\], accusative, singular, masculine
 - “victorious.”
 ------------------------------------------------------------------------
-- *hantāraṃ* \< *hantāram* \< *hantṛ*
+- *hantāraṃ* ← *hantāram* ← *hantṛ*
 - \[noun\], accusative, singular, masculine
 - “killer; curative; killing; removing; destroyer.”
 ------------------------------------------------------------------------
-- *śatrūṇāṃ* \< *śatrūṇām* \< *śatru*
+- *śatrūṇāṃ* ← *śatrūṇām* ← *śatru*
 - \[noun\], genitive, plural, masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------
-- *kṛdhi* \< *kṛ*
+- *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -43,21 +43,21 @@ title = "Rig Veda 10.166.1"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *virājaṃ* \< *virājam* \< *virāj*
+- *virājaṃ* ← *virājam* ← *virāj*
 - \[noun\], accusative, singular, masculine
 - “regnant; chief(a).”
 ------------------------------------------------------------------------
-- *gopatiṃ* \< *go*
+- *gopatiṃ* ← *go*
 - \[noun\], masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *gopatiṃ* \< *patim* \< *pati*
+- *gopatiṃ* ← *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *gavām* \< *go*
+- *gavām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”

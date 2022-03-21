@@ -2,44 +2,44 @@
 title = "Rig Veda 10.158.4"
 
 +++
--   *cakṣur* \< *cakṣuḥ* \< *cakṣus*
+-   *cakṣur* ← *cakṣuḥ* ← *cakṣus*
 - \[noun\], accusative, singular, neuter
 - “eye; look; visual perception; cakṣus \[word\]; sight.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dhehi* \< *dhā*
+- *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *cakṣuṣe* \< *cakṣus*
+- *cakṣuṣe* ← *cakṣus*
 - \[noun\], dative, singular, neuter
 - “eye; look; visual perception; cakṣus \[word\]; sight.”
 ------------------------------------------------------------------------
-- *cakṣur* \< *cakṣuḥ* \< *cakṣus*
+- *cakṣur* ← *cakṣuḥ* ← *cakṣus*
 - \[noun\], accusative, singular, neuter
 - “eye; look; visual perception; cakṣus \[word\]; sight.”
 ------------------------------------------------------------------------
-- *vikhyai* \< *vikhyā* \< *√khyā*
+- *vikhyai* ← *vikhyā* ← *√khyā*
 - \[verb noun\]
 - “name; be known; call; enumerate; behold.”
 ------------------------------------------------------------------------
-- *tanūbhyaḥ* \< *tanū*
+- *tanūbhyaḥ* ← *tanū*
 - \[noun\], dative, plural, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *cedaṃ* \< *ca*
+- *cedaṃ* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cedaṃ* \< *idam*
+- *cedaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -51,7 +51,7 @@ title = "Rig Veda 10.158.4"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *paśyema* \< *paś*
+- *paśyema* ← *paś*
 - \[verb\], plural, Present optative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”

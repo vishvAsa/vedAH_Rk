@@ -2,7 +2,7 @@
 title = "Rig Veda 10.170.2"
 
 +++
--   *vibhrāḍ* \< *vibhrāj*
+-   *vibhrāḍ* ← *vibhrāj*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
 - *bṛhat*
@@ -10,90 +10,90 @@ title = "Rig Veda 10.170.2"
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *subhṛtaṃ* \< *su*
+- *subhṛtaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *subhṛtaṃ* \< *bhṛtam* \< *bhṛ*
+- *subhṛtaṃ* ← *bhṛtam* ← *bhṛ*
 - \[verb noun\], nominative, singular
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *vājasātamaṃ* \< *vāja*
+- *vājasātamaṃ* ← *vāja*
 - \[noun\], masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vājasātamaṃ* \< *sātamam* \< *sātama*
+- *vājasātamaṃ* ← *sātamam* ← *sātama*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
 - *dharman*
 - \[noun\], locative, singular, neuter
 - “regulation; Dharma; law; property.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *dharuṇe* \< *dharuṇa*
+- *dharuṇe* ← *dharuṇa*
 - \[noun\], locative, singular, neuter
 - “prop; foundation.”
 ------------------------------------------------------------------------
-- *satyam* \< *satya*
+- *satyam* ← *satya*
 - \[noun\], nominative, singular, neuter
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *arpitam* \< *arpay*
+- *arpitam* ← *arpay*
 - \[verb noun\], nominative, singular
 - “shoot; give; direct; hide; put; insert.”
 ------------------------------------------------------------------------
-- *amitrahā* \< *amitra*
+- *amitrahā* ← *amitra*
 - \[noun\], masculine
 - “enemy; foe.”
 ------------------------------------------------------------------------
-- *amitrahā* \< *hā* \< *han*
+- *amitrahā* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
-- *vṛtrahā* \< *vṛtra*
+- *vṛtrahā* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *vṛtrahā* \< *hā* \< *han*
+- *vṛtrahā* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
-- *dasyuhantamaṃ* \< *dasyu*
+- *dasyuhantamaṃ* ← *dasyu*
 - \[noun\], masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
-- *dasyuhantamaṃ* \< *hantamam* \< *hantama*
+- *dasyuhantamaṃ* ← *hantamam* ← *hantama*
 - \[noun\], nominative, singular, neuter
 - “killing.”
 ------------------------------------------------------------------------
-- *jyotir* \< *jyotiḥ* \< *jyotis*
+- *jyotir* ← *jyotiḥ* ← *jyotis*
 - \[noun\], nominative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
 ------------------------------------------------------------------------
-- *jajñe* \< *jan*
+- *jajñe* ← *jan*
 - \[verb\], singular, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *asurahā* \< *asura*
+- *asurahā* ← *asura*
 - \[noun\], masculine
 - “Asura; lord; asura \[word\]; sulfur.”
 ------------------------------------------------------------------------
-- *asurahā* \< *hā* \< *han*
+- *asurahā* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
-- *sapatnahā* \< *sapatna*
+- *sapatnahā* ← *sapatna*
 - \[noun\], masculine
 - “rival; enemy; foe.”
 ------------------------------------------------------------------------
-- *sapatnahā* \< *hā* \< *han*
+- *sapatnahā* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------

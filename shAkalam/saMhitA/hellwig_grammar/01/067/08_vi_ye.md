@@ -6,21 +6,21 @@ title = "Rig Veda 1.67.8"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *cṛtanty* \< *cṛtanti* \< *cṛt*
+- *cṛtanty* ← *cṛtanti* ← *cṛt*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *ṛtā* \< *ṛta*
+- *ṛtā* ← *ṛta*
 - \[noun\], accusative, plural, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *sapanta* \< *sapantaḥ* \< *sap*
+- *sapanta* ← *sapantaḥ* ← *sap*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
@@ -28,7 +28,7 @@ title = "Rig Veda 1.67.8"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *vasūni* \< *vasu*
+- *vasūni* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
@@ -36,14 +36,14 @@ title = "Rig Veda 1.67.8"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vavācāsmai* \< *vavāca* \< *vac*
+- *vavācāsmai* ← *vavāca* ← *vac*
 - \[verb\], singular, Perfect indicative
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
 ------------------------------------------------------------------------
-- *vavācāsmai* \< *asmai* \< *idam*
+- *vavācāsmai* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------

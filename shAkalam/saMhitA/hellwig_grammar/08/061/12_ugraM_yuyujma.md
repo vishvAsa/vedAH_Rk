@@ -2,12 +2,12 @@
 title = "Rig Veda 8.61.12"
 
 +++
--   *ugraṃ* \< *ugram* \< *ugra*
+-   *ugraṃ* ← *ugram* ← *ugra*
 - \[noun\], accusative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *yuyujma* \< *yuj*
+- *yuyujma* ← *yuj*
 - \[verb\], plural, Perfect indicative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -15,45 +15,45 @@ title = "Rig Veda 8.61.12"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *pṛtanāsu* \< *pṛtanā*
+- *pṛtanāsu* ← *pṛtanā*
 - \[noun\], locative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
 ------------------------------------------------------------------------
-- *sāsahim* \< *sāsahi*
+- *sāsahim* ← *sāsahi*
 - \[noun\], accusative, singular, masculine
 - “victorious.”
 ------------------------------------------------------------------------
-- *ṛṇakātim* \< *ṛṇakāti*
+- *ṛṇakātim* ← *ṛṇakāti*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *adābhyam* \< *adābhya*
+- *adābhyam* ← *adābhya*
 - \[noun\], accusative, singular, masculine
 - “trustworthy; disabused(p).”
 ------------------------------------------------------------------------
-- *vedā* \< *veda* \< *vid*
+- *vedā* ← *veda* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *bhṛmaṃ* \< *bhṛmam* \< *bhṛma*
+- *bhṛmaṃ* ← *bhṛmam* ← *bhṛma*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *sanitā* \< *sanitṛ*
+- *sanitā* ← *sanitṛ*
 - \[noun\], nominative, singular, masculine
 - “bestowing; victorious.”
 ------------------------------------------------------------------------
-- *rathītamo* \< *rathītamaḥ* \< *rathītama*
+- *rathītamo* ← *rathītamaḥ* ← *rathītama*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vājinaṃ* \< *vājinam* \< *vājin*
+- *vājinaṃ* ← *vājinam* ← *vājin*
 - \[noun\], accusative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *yam* \< *yad*
+- *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -61,11 +61,11 @@ title = "Rig Veda 8.61.12"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *ū* \< *u*
+- *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *naśat* \< *naś*
+- *naśat* ← *naś*
 - \[verb\], singular, Present injunctive
 - “reach; achieve; enter (a state); reach.”
 ------------------------------------------------------------------------

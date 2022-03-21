@@ -2,17 +2,17 @@
 title = "Rig Veda 10.32.4"
 
 +++
--   *tad* \< *tat* \< *tad*
+-   *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *sadhastham* \< *sadhastha*
+- *sadhastham* ← *sadhastha*
 - \[noun\], accusative, singular, neuter
 - “dwelling; location; home.”
 ------------------------------------------------------------------------
@@ -24,25 +24,25 @@ title = "Rig Veda 10.32.4"
 - \[noun\], accusative, singular, neuter
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
 ------------------------------------------------------------------------
-- *dīdhaya* \< *dhī*
+- *dīdhaya* ← *dhī*
 - \[verb\], singular, Perfect indicative
 - “think; desire; chew over.”
 ------------------------------------------------------------------------
-- *gāvo* \< *gāvaḥ* \< *go*
+- *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *yacchāsan* \< *yat* \< *yad*
+- *yacchāsan* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yacchāsan* \< *śāsan* \< *śās*
+- *yacchāsan* ← *śāsan* ← *śās*
 - \[verb\], plural, Present injunctive
 - “teach; govern; command; order; control; tell; recommend; chastize;
     instruct.”
 ------------------------------------------------------------------------
-- *vahatuṃ* \< *vahatum* \< *vahatu*
+- *vahatuṃ* ← *vahatum* ← *vahatu*
 - \[noun\], accusative, singular, masculine
 - “marriage.”
 ------------------------------------------------------------------------
@@ -50,53 +50,53 @@ title = "Rig Veda 10.32.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dhenavaḥ* \< *dhenu*
+- *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *mātā* \< *mātṛ*
+- *mātā* ← *mātṛ*
 - \[noun\], nominative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *yan* \< *yat* \< *yad*
+- *yan* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *mantur* \< *mantuḥ* \< *mantu*
+- *mantur* ← *mantuḥ* ← *mantu*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *yūthasya* \< *yūtha*
+- *yūthasya* ← *yūtha*
 - \[noun\], genitive, singular, masculine
 - “herd; troop; battalion.”
 ------------------------------------------------------------------------
-- *pūrvyābhi* \< *pūrvyā* \< *pūrvya*
+- *pūrvyābhi* ← *pūrvyā* ← *pūrvya*
 - \[noun\], nominative, singular, feminine
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------
-- *pūrvyābhi* \< *abhi*
+- *pūrvyābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *vāṇasya* \< *vāṇa*
+- *vāṇasya* ← *vāṇa*
 - \[noun\], genitive, singular, masculine
 - “music.”
 ------------------------------------------------------------------------
-- *saptadhātur* \< *sapta* \< *saptan*
+- *saptadhātur* ← *sapta* ← *saptan*
 - \[noun\]
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *saptadhātur* \< *dhātuḥ* \< *dhātu*
+- *saptadhātur* ← *dhātuḥ* ← *dhātu*
 - \[noun\], nominative, singular, masculine
 - “mineral; dhātu; saptadhātu; Sanskrit verbal root; etymon; aṣṭaloha;
     mahābhūta; gairika; component; navadhātu; svarṇamākṣika; doṣa;
     inorganic compound.”
 ------------------------------------------------------------------------
-- *ij* \< *id*
+- *ij* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *janaḥ* \< *jana*
+- *janaḥ* ← *jana*
 - \[noun\], nominative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”

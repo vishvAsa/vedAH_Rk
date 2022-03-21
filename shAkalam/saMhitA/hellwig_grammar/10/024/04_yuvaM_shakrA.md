@@ -2,47 +2,47 @@
 title = "Rig Veda 10.24.4"
 
 +++
--   *yuvaṃ* \< *yuvam* \< *tvad*
+-   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
 - “you.”
 ------------------------------------------------------------------------
-- *śakrā* \< *śakra*
+- *śakrā* ← *śakra*
 - \[noun\], nominative, dual, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *māyāvinā* \< *māyāvin*
+- *māyāvinā* ← *māyāvin*
 - \[noun\], nominative, dual, masculine
 - “illusional.”
 ------------------------------------------------------------------------
-- *samīcī* \< *samyañc*
+- *samīcī* ← *samyañc*
 - \[noun\], accusative, dual, feminine
 - “conjugate; united.”
 ------------------------------------------------------------------------
-- *nir* \< *niḥ*
+- *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *amanthatam* \< *math*
+- *amanthatam* ← *math*
 - \[verb\], dual, Imperfect
 - “churn; knead; trample; full; stir; crush.”
 ------------------------------------------------------------------------
-- *vimadena* \< *vimada*
+- *vimadena* ← *vimada*
 - \[noun\], instrumental, singular, masculine
 - “Vimada.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *īḍitā* \< *īḍ*
+- *īḍitā* ← *īḍ*
 - \[verb noun\], nominative, dual
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
-- *nāsatyā* \< *nāsatya*
+- *nāsatyā* ← *nāsatya*
 - \[noun\], nominative, dual, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *niramanthatam* \< *nirmath* \< *√math*
+- *niramanthatam* ← *nirmath* ← *√math*
 - \[verb\], dual, Imperfect
 - “churn; crush; grind.”
 ------------------------------------------------------------------------

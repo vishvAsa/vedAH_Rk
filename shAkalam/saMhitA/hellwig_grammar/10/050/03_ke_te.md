@@ -2,17 +2,17 @@
 title = "Rig Veda 10.50.3"
 
 +++
--   *ke* \< *ka*
+-   *ke* ← *ka*
 - \[noun\], nominative, plural, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *nara* \< *naraḥ* \< *nṛ*
+- *nara* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
@@ -21,81 +21,81 @@ title = "Rig Veda 10.50.3"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *iṣe* \< *iṣ*
+- *iṣe* ← *iṣ*
 - \[noun\], dative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sumnaṃ* \< *sumnam* \< *sumna*
+- *sumnaṃ* ← *sumnam* ← *sumna*
 - \[noun\], accusative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
-- *sadhanyam* \< *sa*
+- *sadhanyam* ← *sa*
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *sadhanyam* \< *dhanyam* \< *dhanya*
+- *sadhanyam* ← *dhanyam* ← *dhanya*
 - \[noun\], accusative, singular, neuter
 - “fortunate; auspicious; affluent.”
 ------------------------------------------------------------------------
-- *iyakṣān* \< *iyakṣ* \< *√yaj*
+- *iyakṣān* ← *iyakṣ* ← *√yaj*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “endeavor.”
 ------------------------------------------------------------------------
-- *ke* \< *ka*
+- *ke* ← *ka*
 - \[noun\], nominative, plural, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vājāyāsuryāya* \< *vājāya* \< *vāja*
+- *vājāyāsuryāya* ← *vājāya* ← *vāja*
 - \[noun\], dative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vājāyāsuryāya* \< *āsuryāya* \< *āsurya*
+- *vājāyāsuryāya* ← *āsuryāya* ← *āsurya*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *hinvire* \< *hi*
+- *hinvire* ← *hi*
 - \[verb\], plural, Present indikative
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
-- *ke* \< *ka*
+- *ke* ← *ka*
 - \[noun\], nominative, plural, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *apsu* \< *ap*
+- *apsu* ← *ap*
 - \[noun\], locative, plural, masculine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *svāsūrvarāsu* \< *svāsu* \< *sva*
+- *svāsūrvarāsu* ← *svāsu* ← *sva*
 - \[noun\], locative, plural, feminine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svāsūrvarāsu* \< *urvarāsu* \< *urvarā*
+- *svāsūrvarāsu* ← *urvarāsu* ← *urvarā*
 - \[noun\], locative, plural, feminine
 - “field; Urvarā.”
 ------------------------------------------------------------------------
-- *pauṃsye* \< *pauṃsya*
+- *pauṃsye* ← *pauṃsya*
 - \[noun\], locative, singular, neuter
 - “manfulness; deed; army; strength.”
 ------------------------------------------------------------------------

@@ -6,11 +6,11 @@ title = "Rig Veda 7.22.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *giro* \< *giraḥ* \< *gir*
+- *giro* ← *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
@@ -20,11 +20,11 @@ title = "Rig Veda 7.22.5"
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
 ------------------------------------------------------------------------
-- *mṛṣye* \< *mṛṣ*
+- *mṛṣye* ← *mṛṣ*
 - \[verb\], singular, Present indikative
 - “forgive; endure; heed; pardon; neglect; forget.”
 ------------------------------------------------------------------------
-- *turasya* \< *tura*
+- *turasya* ← *tura*
 - \[noun\], genitive, singular, neuter
 - “powerful; noble; noble.”
 ------------------------------------------------------------------------
@@ -32,15 +32,15 @@ title = "Rig Veda 7.22.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *suṣṭutim* \< *suṣṭuti*
+- *suṣṭutim* ← *suṣṭuti*
 - \[noun\], accusative, singular, feminine
 - “hymn; praise.”
 ------------------------------------------------------------------------
-- *asuryasya* \< *asurya*
+- *asuryasya* ← *asurya*
 - \[noun\], genitive, singular, neuter
 - “dignity.”
 ------------------------------------------------------------------------
-- *vidvān* \< *vid*
+- *vidvān* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
@@ -49,25 +49,25 @@ title = "Rig Veda 7.22.5"
 - \[adverb\]
 - “always; continually; always; perpetually.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *nāma* \< *nāman*
+- *nāma* ← *nāman*
 - \[noun\], accusative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
 ------------------------------------------------------------------------
-- *svayaśo* \< *sva*
+- *svayaśo* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svayaśo* \< *yaśaḥ* \< *yaśas*
+- *svayaśo* ← *yaśaḥ* ← *yaśas*
 - \[noun\], vocative, singular, masculine
 - “fame; Yaśas.”
 ------------------------------------------------------------------------
-- *vivakmi* \< *vac*
+- *vivakmi* ← *vac*
 - \[verb\], singular, Present indikative
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;

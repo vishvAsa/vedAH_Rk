@@ -6,24 +6,24 @@ title = "Rig Veda 2.33.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *pitar* \< *pitṛ*
+- *pitar* ← *pitṛ*
 - \[noun\], vocative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *marutāṃ* \< *marutām* \< *marut*
+- *marutāṃ* ← *marutām* ← *marut*
 - \[noun\], genitive, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *sumnam* \< *sumna*
+- *sumnam* ← *sumna*
 - \[noun\], nominative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
-- *etu* \< *i*
+- *etu* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
@@ -31,20 +31,20 @@ title = "Rig Veda 2.33.1"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sūryasya* \< *sūrya*
+- *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *saṃdṛśo* \< *saṃdṛśaḥ* \< *saṃdṛś*
+- *saṃdṛśo* ← *saṃdṛśaḥ* ← *saṃdṛś*
 - \[noun\], ablative, singular, feminine
 - “appearance; view; view.”
 ------------------------------------------------------------------------
-- *yuyothāḥ* \< *yu*
+- *yuyothāḥ* ← *yu*
 - \[verb\], singular, Present injunctive
 - “keep away; separate; ward off.”
 ------------------------------------------------------------------------
@@ -52,19 +52,19 @@ title = "Rig Veda 2.33.1"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vīro* \< *vīraḥ* \< *vīra*
+- *vīro* ← *vīraḥ* ← *vīra*
 - \[noun\], nominative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *arvati* \< *arvant*
+- *arvati* ← *arvant*
 - \[noun\], locative, singular, masculine
 - “horse.”
 ------------------------------------------------------------------------
-- *kṣameta* \< *kṣam*
+- *kṣameta* ← *kṣam*
 - \[verb\], singular, Present optative
 - “forgive; can; endure; permit.”
 ------------------------------------------------------------------------
@@ -72,7 +72,7 @@ title = "Rig Veda 2.33.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *jāyemahi* \< *jan*
+- *jāyemahi* ← *jan*
 - \[verb\], plural, Present optative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
@@ -82,7 +82,7 @@ title = "Rig Veda 2.33.1"
 - \[noun\], vocative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *prajābhiḥ* \< *prajā*
+- *prajābhiḥ* ← *prajā*
 - \[noun\], instrumental, plural, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”

@@ -2,22 +2,22 @@
 title = "Rig Veda 1.50.12"
 
 +++
--   *śukeṣu* \< *śuka*
+-   *śukeṣu* ← *śuka*
 - \[noun\], locative, plural, masculine
 - “Śuka; parrot; Śuka.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *harimāṇaṃ* \< *harimāṇam* \< *hariman*
+- *harimāṇaṃ* ← *harimāṇam* ← *hariman*
 - \[noun\], accusative, singular, masculine
 - “jaundice.”
 ------------------------------------------------------------------------
-- *ropaṇākāsu* \< *ropaṇākā*
+- *ropaṇākāsu* ← *ropaṇākā*
 - \[noun\], locative, plural, feminine
 ------------------------------------------------------------------------
-- *dadhmasi* \< *dhā*
+- *dadhmasi* ← *dhā*
 - \[verb\], plural, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
@@ -26,14 +26,14 @@ title = "Rig Veda 1.50.12"
 - \[adverb\]
 - “now; but; furthermore.”
 ------------------------------------------------------------------------
-- *hāridraveṣu* \< *hāridrava*
+- *hāridraveṣu* ← *hāridrava*
 - \[noun\], locative, plural, masculine
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *harimāṇaṃ* \< *harimāṇam* \< *hariman*
+- *harimāṇaṃ* ← *harimāṇam* ← *hariman*
 - \[noun\], accusative, singular, masculine
 - “jaundice.”
 ------------------------------------------------------------------------
@@ -41,7 +41,7 @@ title = "Rig Veda 1.50.12"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *dadhmasi* \< *dhā*
+- *dadhmasi* ← *dhā*
 - \[verb\], plural, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

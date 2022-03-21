@@ -2,29 +2,29 @@
 title = "Rig Veda 5.59.2"
 
 +++
--   *amād* \< *amāt* \< *ama*
+-   *amād* ← *amāt* ← *ama*
 - \[noun\], ablative, singular, masculine
 - “am; panic; power; ferocity.”
 ------------------------------------------------------------------------
-- *eṣām* \< *idam*
+- *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *bhiyasā* \< *bhiyas*
+- *bhiyasā* ← *bhiyas*
 - \[noun\], instrumental, singular, masculine
 - “fear.”
 ------------------------------------------------------------------------
-- *bhūmir* \< *bhūmiḥ* \< *bhūmi*
+- *bhūmir* ← *bhūmiḥ* ← *bhūmi*
 - \[noun\], nominative, singular, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
     Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
     distance; country; space; land; territory; topographic point.”
 ------------------------------------------------------------------------
-- *ejati* \< *ej*
+- *ejati* ← *ej*
 - \[verb\], singular, Present indikative
 - “move; stir; tremble; travel.”
 ------------------------------------------------------------------------
-- *naur* \< *nauḥ* \< *nau*
+- *naur* ← *nauḥ* ← *nau*
 - \[noun\], nominative, singular, feminine
 - “ship; boat; nau \[word\].”
 ------------------------------------------------------------------------
@@ -32,52 +32,52 @@ title = "Rig Veda 5.59.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pūrṇā* \< *pṛ*
+- *pūrṇā* ← *pṛ*
 - \[verb noun\], nominative, singular
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
 ------------------------------------------------------------------------
-- *kṣarati* \< *kṣar*
+- *kṣarati* ← *kṣar*
 - \[verb\], singular, Present indikative
 - “run; melt.”
 ------------------------------------------------------------------------
-- *vyathir* \< *vyathiḥ* \< *vyathis*
+- *vyathir* ← *vyathiḥ* ← *vyathis*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *yatī* \< *i*
+- *yatī* ← *i*
 - \[verb noun\], nominative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *dūredṛśo* \< *dūredṛśaḥ* \< *dūredṛś*
+- *dūredṛśo* ← *dūredṛśaḥ* ← *dūredṛś*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *citayanta* \< *citayante* \< *citay* \< *√cit*
+- *citayanta* ← *citayante* ← *citay* ← *√cit*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *emabhir* \< *emabhiḥ* \< *eman*
+- *emabhir* ← *emabhiḥ* ← *eman*
 - \[noun\], instrumental, plural, neuter
 ------------------------------------------------------------------------
 - *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *mahe* \< *maha*
+- *mahe* ← *maha*
 - \[noun\], locative, singular, neuter
 - “great; abundant.”
 ------------------------------------------------------------------------
-- *vidathe* \< *vidatha*
+- *vidathe* ← *vidatha*
 - \[noun\], locative, singular, neuter
 - “meeting; wisdom; council.”
 ------------------------------------------------------------------------
-- *yetire* \< *yat*
+- *yetire* ← *yat*
 - \[verb\], plural, Perfect indicative
 - “strive; endeavor; join; equal; rival.”
 ------------------------------------------------------------------------
-- *naraḥ* \< *nṛ*
+- *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------

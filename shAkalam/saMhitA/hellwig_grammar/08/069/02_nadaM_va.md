@@ -2,41 +2,41 @@
 title = "Rig Veda 8.69.2"
 
 +++
--   *nadaṃ* \< *nadam* \< *nada*
+-   *nadaṃ* ← *nadam* ← *nada*
 - \[noun\], accusative, singular, masculine
 - “river; nad; roarer; stallion.”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *odatīnāṃ* \< *odatīnām* \< *odatī*
+- *odatīnāṃ* ← *odatīnām* ← *odatī*
 - \[noun\], genitive, plural, feminine
 ------------------------------------------------------------------------
-- *nadaṃ* \< *nadam* \< *nada*
+- *nadaṃ* ← *nadam* ← *nada*
 - \[noun\], accusative, singular, masculine
 - “river; nad; roarer; stallion.”
 ------------------------------------------------------------------------
-- *yoyuvatīnām* \< *yoyu* \< *√yu*
+- *yoyuvatīnām* ← *yoyu* ← *√yu*
 - \[verb noun\], genitive, plural
 ------------------------------------------------------------------------
-- *patiṃ* \< *patim* \< *pati*
+- *patiṃ* ← *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *aghnyānāṃ* \< *aghnyānām* \< *aghnyā*
+- *aghnyānāṃ* ← *aghnyānām* ← *aghnyā*
 - \[noun\], genitive, plural, feminine
 - “cow.”
 ------------------------------------------------------------------------
-- *dhenūnām* \< *dhenu*
+- *dhenūnām* ← *dhenu*
 - \[noun\], genitive, plural, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *iṣudhyasi* \< *iṣudhy*
+- *iṣudhyasi* ← *iṣudhy*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------

@@ -2,18 +2,18 @@
 title = "Rig Veda 6.38.5"
 
 +++
--   *evā* \< *eva*
+-   *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *jajñānaṃ* \< *jajñānam* \< *jan*
+- *jajñānaṃ* ← *jajñānam* ← *jan*
 - \[verb noun\], accusative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *sahase* \< *sahas*
+- *sahase* ← *sahas*
 - \[noun\], dative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
@@ -21,12 +21,12 @@ title = "Rig Veda 6.38.5"
 - \[noun\], accusative, singular, neuter
 - “perfect; complete; entire.”
 ------------------------------------------------------------------------
-- *vāvṛdhānaṃ* \< *vāvṛdhānam* \< *vṛdh*
+- *vāvṛdhānaṃ* ← *vāvṛdhānam* ← *vṛdh*
 - \[verb noun\], accusative, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *rādhase* \< *rādhas*
+- *rādhase* ← *rādhas*
 - \[noun\], dative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
@@ -34,22 +34,22 @@ title = "Rig Veda 6.38.5"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *śrutāya* \< *śru*
+- *śrutāya* ← *śru*
 - \[verb noun\], dative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *mahām* \< *mahat*
+- *mahām* ← *mahat*
 - \[noun\], accusative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
 ------------------------------------------------------------------------
-- *ugram* \< *ugra*
+- *ugram* ← *ugra*
 - \[noun\], accusative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *avase* \< *av*
+- *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
@@ -65,11 +65,11 @@ title = "Rig Veda 6.38.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vivāsema* \< *vivās* \< *√van*
+- *vivāsema* ← *vivās* ← *√van*
 - \[verb\], plural, Present optative
 - “invite; endeavor; try for.”
 ------------------------------------------------------------------------
-- *vṛtratūryeṣu* \< *vṛtratūrya*
+- *vṛtratūryeṣu* ← *vṛtratūrya*
 - \[noun\], locative, plural, neuter
 - “battle.”
 ------------------------------------------------------------------------

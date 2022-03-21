@@ -6,7 +6,7 @@ title = "Rig Veda 9.30.4"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *somo* \< *somaḥ* \< *soma*
+- *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -14,15 +14,15 @@ title = "Rig Veda 9.30.4"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *dhārayā* \< *dhārā*
+- *dhārayā* ← *dhārā*
 - \[noun\], instrumental, singular, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *pavamāno* \< *pavamānaḥ* \< *pū*
+- *pavamāno* ← *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *asiṣyadat* \< *syand*
+- *asiṣyadat* ← *syand*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “run.”
 ------------------------------------------------------------------------
@@ -30,10 +30,10 @@ title = "Rig Veda 9.30.4"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *droṇāny* \< *droṇāni* \< *droṇa*
+- *droṇāny* ← *droṇāni* ← *droṇa*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *āsadam* \< *āsad* \< *√sad*
+- *āsadam* ← *āsad* ← *√sad*
 - \[verb noun\]
 - “approach; attack; sit down; approach; find; arrive.”
 ------------------------------------------------------------------------

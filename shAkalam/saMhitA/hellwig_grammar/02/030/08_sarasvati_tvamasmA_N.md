@@ -2,70 +2,70 @@
 title = "Rig Veda 2.30.8"
 
 +++
--   *sarasvati* \< *sarasvatī*
+-   *sarasvati* ← *sarasvatī*
 - \[noun\], vocative, singular, feminine
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *asmāṃ* \< *mad*
+- *asmāṃ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *aviḍḍhi* \< *av*
+- *aviḍḍhi* ← *av*
 - \[verb\], singular, Aorist imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *marutvatī* \< *marutvat*
+- *marutvatī* ← *marutvat*
 - \[noun\], nominative, singular, feminine
 - “Marut(a).”
 ------------------------------------------------------------------------
-- *dhṛṣatī* \< *dhṛṣ*
+- *dhṛṣatī* ← *dhṛṣ*
 - \[verb noun\], nominative, singular
 - “dare; attack.”
 ------------------------------------------------------------------------
-- *jeṣi* \< *ji*
+- *jeṣi* ← *ji*
 - \[verb\], singular, Present indikative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *śatrūn* \< *śatru*
+- *śatrūn* ← *śatru*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------
-- *tyaṃ* \< *tyam* \< *tya*
+- *tyaṃ* ← *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *cicchardhantaṃ* \< *cit*
+- *cicchardhantaṃ* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *cicchardhantaṃ* \< *śardhantam* \< *śṛdh*
+- *cicchardhantaṃ* ← *śardhantam* ← *śṛdh*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *taviṣīyamāṇam* \< *taviṣīy*
+- *taviṣīyamāṇam* ← *taviṣīy*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *hanti* \< *han*
+- *hanti* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *vṛṣabhaṃ* \< *vṛṣabham* \< *vṛṣabha*
+- *vṛṣabhaṃ* ← *vṛṣabham* ← *vṛṣabha*
 - \[noun\], accusative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *śaṇḍikānām* \< *śaṇḍika*
+- *śaṇḍikānām* ← *śaṇḍika*
 - \[noun\], genitive, plural, masculine
 - “śaṇḍika \[word\].”
 ------------------------------------------------------------------------

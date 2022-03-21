@@ -2,66 +2,66 @@
 title = "Rig Veda 1.117.20"
 
 +++
--   *adhenuṃ* \< *adhenum* \< *adhenu*
+-   *adhenuṃ* ← *adhenum* ← *adhenu*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *dasrā* \< *dasra*
+- *dasrā* ← *dasra*
 - \[noun\], nominative, dual, masculine
 - “Asvins.”
 ------------------------------------------------------------------------
-- *staryaṃ* \< *staryam* \< *starī*
+- *staryaṃ* ← *staryam* ← *starī*
 - \[noun\], accusative, singular, feminine
 - “barren cow.”
 ------------------------------------------------------------------------
-- *viṣaktām* \< *viṣañj* \< *√sañj*
+- *viṣaktām* ← *viṣañj* ← *√sañj*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *apinvataṃ* \< *apinvatam* \< *pinv*
+- *apinvataṃ* ← *apinvatam* ← *pinv*
 - \[verb\], dual, Imperfect
 - “swell; swell; overflow; abound.”
 ------------------------------------------------------------------------
-- *śayave* \< *śayu*
+- *śayave* ← *śayu*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *gām* \< *go*
+- *gām* ← *go*
 - \[noun\], accusative, singular, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *yuvaṃ* \< *yuvam* \< *tvad*
+- *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *śacībhir* \< *śacībhiḥ* \< *śacī*
+- *śacībhir* ← *śacībhiḥ* ← *śacī*
 - \[noun\], instrumental, plural, feminine
 - “Śacī; power; dexterity; ability; aid.”
 ------------------------------------------------------------------------
-- *vimadāya* \< *vimada*
+- *vimadāya* ← *vimada*
 - \[noun\], dative, singular, masculine
 - “Vimada.”
 ------------------------------------------------------------------------
-- *jāyāṃ* \< *jāyām* \< *jāyā*
+- *jāyāṃ* ← *jāyām* ← *jāyā*
 - \[noun\], accusative, singular, feminine
 - “wife; jāyā \[word\].”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ūhathuḥ* \< *vah*
+- *ūhathuḥ* ← *vah*
 - \[verb\], dual, Perfect indicative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *purumitrasya* \< *purumitra*
+- *purumitrasya* ← *purumitra*
 - \[noun\], genitive, singular, masculine
 - “Purumitra.”
 ------------------------------------------------------------------------
-- *yoṣām* \< *yoṣā*
+- *yoṣām* ← *yoṣā*
 - \[noun\], accusative, singular, feminine
 - “woman; puppet; daughter.”
 ------------------------------------------------------------------------

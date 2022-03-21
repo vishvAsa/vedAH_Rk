@@ -2,54 +2,54 @@
 title = "Rig Veda 5.74.10"
 
 +++
--   *aśvinā* \< *aśvin*
+-   *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *yaddha* \< *yat*
+- *yaddha* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yaddha* \< *ha*
+- *yaddha* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *karhicicchuśrūyātam* \< *karhicit*
+- *karhicicchuśrūyātam* ← *karhicit*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *karhicicchuśrūyātam* \< *śuśrūyātam* \< *śru*
+- *karhicicchuśrūyātam* ← *śuśrūyātam* ← *śru*
 - \[verb\], dual, Perfect optative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *imaṃ* \< *imam* \< *idam*
+- *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *havam* \< *hava*
+- *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *vasvīr* \< *vasvīḥ* \< *vasu*
+- *vasvīr* ← *vasvīḥ* ← *vasu*
 - \[noun\], nominative, plural, feminine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *ū* \< *u*
+- *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *bhujaḥ* \< *bhuj*
+- *bhujaḥ* ← *bhuj*
 - \[noun\], nominative, plural, feminine
 - “use; advantage; enjoyment.”
 ------------------------------------------------------------------------
-- *pṛñcanti* \< *pṛc*
+- *pṛñcanti* ← *pṛc*
 - \[verb\], plural, Present indikative
 - “mix; unite.”
 ------------------------------------------------------------------------
@@ -57,10 +57,10 @@ title = "Rig Veda 5.74.10"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *pṛcaḥ* \< *pṛc*
+- *pṛcaḥ* ← *pṛc*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------

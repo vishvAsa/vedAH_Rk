@@ -2,11 +2,11 @@
 title = "Rig Veda 1.116.1"
 
 +++
--   *nāsatyābhyām* \< *nāsatya*
+-   *nāsatyābhyām* ← *nāsatya*
 - \[noun\], dative, dual, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *barhir* \< *barhiḥ* \< *barhis*
+- *barhir* ← *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
@@ -18,58 +18,58 @@ title = "Rig Veda 1.116.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vṛñje* \< *vṛj*
+- *vṛñje* ← *vṛj*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *stomāṃ* \< *stoma*
+- *stomāṃ* ← *stoma*
 - \[noun\], accusative, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *iyarmy* \< *iyarmi* \< *ṛch*
+- *iyarmy* ← *iyarmi* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *abhriyeva* \< *abhriyā* \< *abhriya*
+- *abhriyeva* ← *abhriyā* ← *abhriya*
 - \[noun\], accusative, plural, neuter
 - “cumulonimbus.”
 ------------------------------------------------------------------------
-- *abhriyeva* \< *iva*
+- *abhriyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *vātaḥ* \< *vāta*
+- *vātaḥ* ← *vāta*
 - \[noun\], nominative, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *yāv* \< *yau* \< *yad*
+- *yāv* ← *yau* ← *yad*
 - \[noun\], nominative, dual, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *arbhagāya* \< *arbhaga*
+- *arbhagāya* ← *arbhaga*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *vimadāya* \< *vimada*
+- *vimadāya* ← *vimada*
 - \[noun\], dative, singular, masculine
 - “Vimada.”
 ------------------------------------------------------------------------
-- *jāyāṃ* \< *jāyām* \< *jāyā*
+- *jāyāṃ* ← *jāyām* ← *jāyā*
 - \[noun\], accusative, singular, feminine
 - “wife; jāyā \[word\].”
 ------------------------------------------------------------------------
-- *senājuvā* \< *senā*
+- *senājuvā* ← *senā*
 - \[noun\], feminine
 - “army; senā \[word\]; armament.”
 ------------------------------------------------------------------------
-- *senājuvā* \< *juvā* \< *jū*
+- *senājuvā* ← *juvā* ← *jū*
 - \[noun\], instrumental, singular, masculine
 - “fleet.”
 ------------------------------------------------------------------------
-- *nyūhatū* \< *nyūhatuḥ* \< *nivah* \< *√vah*
+- *nyūhatū* ← *nyūhatuḥ* ← *nivah* ← *√vah*
 - \[verb\], dual, Perfect indicative
 ------------------------------------------------------------------------
-- *rathena* \< *ratha*
+- *rathena* ← *ratha*
 - \[noun\], instrumental, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 6.51.3"
 
 +++
--   *stuṣa* \< *stuṣe* \< *stu*
+-   *stuṣa* ← *stuṣe* ← *stu*
 - \[verb\], singular, Present indikative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
@@ -10,53 +10,53 @@ title = "Rig Veda 6.51.3"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *maha* \< *mahaḥ* \< *mah*
+- *maha* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *gopān* \< *gopa*
+- *gopān* ← *gopa*
 - \[noun\], accusative, plural, masculine
 - “cowboy; Gopa; defender.”
 ------------------------------------------------------------------------
-- *aditim* \< *aditi*
+- *aditim* ← *aditi*
 - \[noun\], accusative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *mitraṃ* \< *mitram* \< *mitra*
+- *mitraṃ* ← *mitram* ← *mitra*
 - \[noun\], accusative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *varuṇaṃ* \< *varuṇam* \< *varuṇa*
+- *varuṇaṃ* ← *varuṇam* ← *varuṇa*
 - \[noun\], accusative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *sujātān* \< *sujāta*
+- *sujātān* ← *sujāta*
 - \[noun\], accusative, plural, masculine
 - “noble; beautiful.”
 ------------------------------------------------------------------------
-- *aryamaṇam* \< *aryaman*
+- *aryamaṇam* ← *aryaman*
 - \[noun\], accusative, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
 ------------------------------------------------------------------------
-- *bhagam* \< *bhaga*
+- *bhagam* ← *bhaga*
 - \[noun\], accusative, singular, masculine
 - “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
     well-being; happiness; overlord.”
 ------------------------------------------------------------------------
-- *adabdhadhītīn* \< *adabdha*
+- *adabdhadhītīn* ← *adabdha*
 - \[noun\]
 - “unfailing; unimpaired.”
 ------------------------------------------------------------------------
-- *adabdhadhītīn* \< *dhītīn* \< *dhīti*
+- *adabdhadhītīn* ← *dhītīn* ← *dhīti*
 - \[noun\], accusative, plural, masculine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------
@@ -64,17 +64,17 @@ title = "Rig Veda 6.51.3"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *voce* \< *vac*
+- *voce* ← *vac*
 - \[verb\], singular, Aorist inj. (proh.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
 ------------------------------------------------------------------------
-- *sadhanyaḥ* \< *sadhanī*
+- *sadhanyaḥ* ← *sadhanī*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *pāvakān* \< *pāvaka*
+- *pāvakān* ← *pāvaka*
 - \[noun\], accusative, plural, masculine
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
 ------------------------------------------------------------------------

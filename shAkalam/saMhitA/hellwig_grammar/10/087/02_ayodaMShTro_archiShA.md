@@ -2,20 +2,20 @@
 title = "Rig Veda 10.87.2"
 
 +++
--   *ayodaṃṣṭro* \< *ayaḥ* \< *ayas*
+-   *ayodaṃṣṭro* ← *ayaḥ* ← *ayas*
 - \[noun\], neuter
 - “iron; kāntaloha; ayas \[word\]; tīkṣṇaloha; metallic element;
     weapon.”
 ------------------------------------------------------------------------
-- *ayodaṃṣṭro* \< *daṃṣṭraḥ* \< *daṃṣṭra*
+- *ayodaṃṣṭro* ← *daṃṣṭraḥ* ← *daṃṣṭra*
 - \[noun\], nominative, singular, masculine
 - “tusk; fang; tooth; fang; bite.”
 ------------------------------------------------------------------------
-- *arciṣā* \< *arcis*
+- *arciṣā* ← *arcis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; light; beam; gleam; shininess.”
 ------------------------------------------------------------------------
-- *yātudhānān* \< *yātudhāna*
+- *yātudhānān* ← *yātudhāna*
 - \[noun\], accusative, plural, masculine
 - “sorcerer; Rākṣasa; Yātudhāna; rākṣasavaktravant.”
 ------------------------------------------------------------------------
@@ -23,15 +23,15 @@ title = "Rig Veda 10.87.2"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *spṛśa* \< *spṛś*
+- *spṛśa* ← *spṛś*
 - \[verb\], singular, Present imperative
 - “touch; enter (a state); reach; touch.”
 ------------------------------------------------------------------------
-- *jātavedaḥ* \< *jātavedas*
+- *jātavedaḥ* ← *jātavedas*
 - \[noun\], vocative, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------
-- *samiddhaḥ* \< *samindh* \< *√indh*
+- *samiddhaḥ* ← *samindh* ← *√indh*
 - \[verb noun\], nominative, singular
 - “kindle; blaze.”
 ------------------------------------------------------------------------
@@ -39,22 +39,22 @@ title = "Rig Veda 10.87.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *jihvayā* \< *jihvā*
+- *jihvayā* ← *jihvā*
 - \[noun\], instrumental, singular, feminine
 - “tongue; tongue; jihvā \[word\]; fire.”
 ------------------------------------------------------------------------
-- *mūradevān* \< *mūradeva*
+- *mūradevān* ← *mūradeva*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *rabhasva* \< *rabh*
+- *rabhasva* ← *rabh*
 - \[verb\], singular, Present imperative
 - “clasp.”
 ------------------------------------------------------------------------
-- *kravyādo* \< *kravyādaḥ* \< *kravyād*
+- *kravyādo* ← *kravyādaḥ* ← *kravyād*
 - \[noun\], accusative, plural, masculine
 - “carnivore.”
 ------------------------------------------------------------------------
-- *vṛktvy* \< *vṛktvī* \< *vṛj*
+- *vṛktvy* ← *vṛktvī* ← *vṛj*
 - \[verb noun\]
 ------------------------------------------------------------------------
 - *api*
@@ -62,12 +62,12 @@ title = "Rig Veda 10.87.2"
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
 ------------------------------------------------------------------------
-- *dhatsvāsan* \< *dhatsva* \< *dhā*
+- *dhatsvāsan* ← *dhatsva* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *dhatsvāsan* \< *āsan*
+- *dhatsvāsan* ← *āsan*
 - \[noun\], locative, singular, neuter
 - “mouth.”
 ------------------------------------------------------------------------

@@ -6,7 +6,7 @@ title = "Rig Veda 8.1.10"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tv* \< *tu*
+- *tv* ← *tu*
 - \[adverb\]
 - “now; then; but; and; now; however; then; then; surely.”
 ------------------------------------------------------------------------
@@ -14,55 +14,55 @@ title = "Rig Veda 8.1.10"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *sabardughāṃ* \< *sabardughām* \< *sabardugha*
+- *sabardughāṃ* ← *sabardughām* ← *sabardugha*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *huve* \< *hvā*
+- *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *gāyatravepasam* \< *gāyatra*
+- *gāyatravepasam* ← *gāyatra*
 - \[noun\], neuter
 - “Gāyatrī; Gāyatra.”
 ------------------------------------------------------------------------
-- *gāyatravepasam* \< *vepasam* \< *vepas*
+- *gāyatravepasam* ← *vepasam* ← *vepas*
 - \[noun\], accusative, singular, feminine
 - “inspiration; shaking.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dhenuṃ* \< *dhenum* \< *dhenu*
+- *dhenuṃ* ← *dhenum* ← *dhenu*
 - \[noun\], accusative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *sudughām* \< *su*
+- *sudughām* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudughām* \< *dughām* \< *dugha*
+- *sudughām* ← *dughām* ← *dugha*
 - \[noun\], accusative, singular, feminine
 - “yielding.”
 ------------------------------------------------------------------------
-- *anyām* \< *anya*
+- *anyām* ← *anya*
 - \[noun\], accusative, singular, feminine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *iṣam* \< *iṣ*
+- *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *urudhārām* \< *uru*
+- *urudhārām* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *urudhārām* \< *dhārām* \< *dhārā*
+- *urudhārām* ← *dhārām* ← *dhārā*
 - \[noun\], accusative, singular, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *araṅkṛtam* \< *araṃkṛt*
+- *araṅkṛtam* ← *araṃkṛt*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------

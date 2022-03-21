@@ -6,18 +6,18 @@ title = "Rig Veda 1.85.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *ratheṣu* \< *ratha*
+- *ratheṣu* ← *ratha*
 - \[noun\], locative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *pṛṣatīr* \< *pṛṣatīḥ* \< *pṛṣatī*
+- *pṛṣatīr* ← *pṛṣatīḥ* ← *pṛṣatī*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *ayugdhvaṃ* \< *ayugdhvam* \< *yuj*
+- *ayugdhvaṃ* ← *ayugdhvam* ← *yuj*
 - \[verb\], plural, Root aorist (Ind.)
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -25,27 +25,27 @@ title = "Rig Veda 1.85.5"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *vāje* \< *vāja*
+- *vāje* ← *vāja*
 - \[noun\], locative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *adrim* \< *adri*
+- *adrim* ← *adri*
 - \[noun\], accusative, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *raṃhayantaḥ* \< *raṃhay* \< *√raṃh*
+- *raṃhayantaḥ* ← *raṃhay* ← *√raṃh*
 - \[verb noun\], nominative, plural
 - “rush; rush.”
 ------------------------------------------------------------------------
-- *utāruṣasya* \< *uta*
+- *utāruṣasya* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *utāruṣasya* \< *aruṣasya* \< *aruṣa*
+- *utāruṣasya* ← *aruṣasya* ← *aruṣa*
 - \[noun\], genitive, singular, masculine
 - “red; red.”
 ------------------------------------------------------------------------
@@ -53,34 +53,34 @@ title = "Rig Veda 1.85.5"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ṣyanti* \< *sā*
+- *ṣyanti* ← *sā*
 - \[verb\], plural, Present indikative
 - “tie.”
 ------------------------------------------------------------------------
-- *dhārāś* \< *dhārāḥ* \< *dhārā*
+- *dhārāś* ← *dhārāḥ* ← *dhārā*
 - \[noun\], accusative, plural, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *carmevodabhir* \< *carmā* \< *carman*
+- *carmevodabhir* ← *carmā* ← *carman*
 - \[noun\], nominative, plural, neuter
 - “leather; hide; shield; skin; carman \[word\]; carman; hide.”
 ------------------------------------------------------------------------
-- *carmevodabhir* \< *iva*
+- *carmevodabhir* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *carmevodabhir* \< *udabhiḥ* \< *udan*
+- *carmevodabhir* ← *udabhiḥ* ← *udan*
 - \[noun\], instrumental, plural, neuter
 - “water; body of water.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *undanti* \< *und*
+- *undanti* ← *und*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *bhūma* \< *bhūman*
+- *bhūma* ← *bhūman*
 - \[noun\], accusative, singular, neuter
 - “Earth; floor.”
 ------------------------------------------------------------------------

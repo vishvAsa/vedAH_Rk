@@ -2,82 +2,82 @@
 title = "Rig Veda 1.51.2"
 
 +++
--   *abhīm* \< *abhi*
+-   *abhīm* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *abhīm* \< *īm* \< *īṃ*
+- *abhīm* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *avanvan* \< *van*
+- *avanvan* ← *van*
 - \[verb\], plural, Imperfect
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *svabhiṣṭim* \< *su*
+- *svabhiṣṭim* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svabhiṣṭim* \< *abhiṣṭim* \< *abhiṣṭi*
+- *svabhiṣṭim* ← *abhiṣṭim* ← *abhiṣṭi*
 - \[noun\], accusative, singular, masculine
 - “prevalence; protection.”
 ------------------------------------------------------------------------
-- *ūtayo* \< *ūtayaḥ* \< *ūti*
+- *ūtayo* ← *ūtayaḥ* ← *ūti*
 - \[noun\], nominative, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *'ntarikṣaprāṃ* \< *antarikṣa*
+- *'ntarikṣaprāṃ* ← *antarikṣa*
 - \[noun\], neuter
 - “sky; atmosphere; air; abhra.”
 ------------------------------------------------------------------------
-- *'ntarikṣaprāṃ* \< *prām* \< *prā*
+- *'ntarikṣaprāṃ* ← *prām* ← *prā*
 - \[noun\], accusative, singular, masculine
 - “appreciated.”
 ------------------------------------------------------------------------
-- *taviṣībhir* \< *taviṣībhiḥ* \< *taviṣī*
+- *taviṣībhir* ← *taviṣībhiḥ* ← *taviṣī*
 - \[noun\], instrumental, plural, feminine
 - “strength; power.”
 ------------------------------------------------------------------------
-- *āvṛtam* \< *āvṛ* \< *√vṛ*
+- *āvṛtam* ← *āvṛ* ← *√vṛ*
 - \[verb noun\], accusative, singular
 - “envelop; accompany; surround; obstruct; cover; close; surround;
     endow; overwhelm; mix; coat.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dakṣāsa* \< *dakṣāsaḥ* \< *dakṣa*
+- *dakṣāsa* ← *dakṣāsaḥ* ← *dakṣa*
 - \[noun\], nominative, plural, masculine
 - “deft; right; intelligent; expert.”
 ------------------------------------------------------------------------
-- *ṛbhavo* \< *ṛbhavaḥ* \< *ṛbhu*
+- *ṛbhavo* ← *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], nominative, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
-- *madacyutaṃ* \< *mada*
+- *madacyutaṃ* ← *mada*
 - \[noun\], masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *madacyutaṃ* \< *cyutam* \< *cyut*
+- *madacyutaṃ* ← *cyutam* ← *cyut*
 - \[noun\], accusative, singular, masculine
 - “shaking; dropping.”
 ------------------------------------------------------------------------
-- *śatakratuṃ* \< *śatakratum* \< *śatakratu*
+- *śatakratuṃ* ← *śatakratum* ← *śatakratu*
 - \[noun\], accusative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *javanī* \< *javana*
+- *javanī* ← *javana*
 - \[noun\], nominative, singular, feminine
 - “fleet; stimulating.”
 ------------------------------------------------------------------------
-- *sūnṛtāruhat* \< *sūnṛtā*
+- *sūnṛtāruhat* ← *sūnṛtā*
 - \[noun\], nominative, singular, feminine
 - “liberality.”
 ------------------------------------------------------------------------
-- *sūnṛtāruhat* \< *āruhat* \< *āruh* \< *√ruh*
+- *sūnṛtāruhat* ← *āruhat* ← *āruh* ← *√ruh*
 - \[verb\], singular, Imperfect
 - “board; hop on; climb; ascend; descend; ride; copulate; grow.”
 ------------------------------------------------------------------------

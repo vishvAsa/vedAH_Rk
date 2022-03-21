@@ -2,84 +2,84 @@
 title = "Rig Veda 5.58.4"
 
 +++
--   *yūyaṃ* \< *yūyam* \< *tvad*
+-   *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *rājānam* \< *rājan*
+- *rājānam* ← *rājan*
 - \[noun\], accusative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *iryaṃ* \< *iryam* \< *irya*
+- *iryaṃ* ← *iryam* ← *irya*
 - \[noun\], accusative, singular, masculine
 - “argus-eyed; active; heedful.”
 ------------------------------------------------------------------------
-- *janāya* \< *jana*
+- *janāya* ← *jana*
 - \[noun\], dative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *vibhvataṣṭaṃ* \< *vibhva* \< *vibhvan*
+- *vibhvataṣṭaṃ* ← *vibhva* ← *vibhvan*
 - \[noun\]
 ------------------------------------------------------------------------
-- *vibhvataṣṭaṃ* \< *taṣṭam* \< *takṣ*
+- *vibhvataṣṭaṃ* ← *taṣṭam* ← *takṣ*
 - \[verb noun\], accusative, singular
 - “produce; shape; fashion; chisel; invent.”
 ------------------------------------------------------------------------
-- *janayathā* \< *janay* \< *√jan*
+- *janayathā* ← *janay* ← *√jan*
 - \[verb\], plural, Present indikative
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
 ------------------------------------------------------------------------
-- *yajatrāḥ* \< *yajatra*
+- *yajatrāḥ* ← *yajatra*
 - \[noun\], vocative, plural, masculine
 - “adorable.”
 ------------------------------------------------------------------------
-- *yuṣmad* \< *yuṣmat* \< *tvad*
+- *yuṣmad* ← *yuṣmat* ← *tvad*
 - \[noun\], ablative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *muṣṭihā* \< *muṣṭi*
+- *muṣṭihā* ← *muṣṭi*
 - \[noun\], masculine
 - “fist; handful; pestle; muṣṭi \[word\]; pala.”
 ------------------------------------------------------------------------
-- *muṣṭihā* \< *hā* \< *han*
+- *muṣṭihā* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
-- *bāhujūto* \< *bāhu*
+- *bāhujūto* ← *bāhu*
 - \[noun\], masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
-- *bāhujūto* \< *jūtaḥ* \< *jū*
+- *bāhujūto* ← *jūtaḥ* ← *jū*
 - \[verb noun\], nominative, singular
 - “animate; encourage; impel; inspire.”
 ------------------------------------------------------------------------
-- *yuṣmat* \< *tvad*
+- *yuṣmat* ← *tvad*
 - \[noun\], ablative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *sadaśvo* \< *sat*
+- *sadaśvo* ← *sat*
 - \[noun\]
 - “good; good; real; existent; virtuous; sat \[prefix\]; real.”
 ------------------------------------------------------------------------
-- *sadaśvo* \< *aśvaḥ* \< *aśva*
+- *sadaśvo* ← *aśvaḥ* ← *aśva*
 - \[noun\], nominative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *suvīraḥ* \< *su*
+- *suvīraḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvīraḥ* \< *vīraḥ* \< *vīra*
+- *suvīraḥ* ← *vīraḥ* ← *vīra*
 - \[noun\], nominative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------

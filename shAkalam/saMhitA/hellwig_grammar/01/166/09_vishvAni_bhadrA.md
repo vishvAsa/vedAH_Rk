@@ -2,43 +2,43 @@
 title = "Rig Veda 1.166.9"
 
 +++
--   *viśvāni* \< *viśva*
+-   *viśvāni* ← *viśva*
 - \[noun\], nominative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *bhadrā* \< *bhadra*
+- *bhadrā* ← *bhadra*
 - \[noun\], nominative, plural, neuter
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *ratheṣu* \< *ratha*
+- *ratheṣu* ← *ratha*
 - \[noun\], locative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *mithaspṛdhyeva* \< *mithaspṛdhyā* \< *mithaspṛdhya*
+- *mithaspṛdhyeva* ← *mithaspṛdhyā* ← *mithaspṛdhya*
 - \[noun\], nominative, plural, neuter
 ------------------------------------------------------------------------
-- *mithaspṛdhyeva* \< *iva*
+- *mithaspṛdhyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *taviṣāṇy* \< *taviṣāṇi* \< *taviṣa*
+- *taviṣāṇy* ← *taviṣāṇi* ← *taviṣa*
 - \[noun\], nominative, plural, neuter
 ------------------------------------------------------------------------
-- *āhitā* \< *ādhā* \< *√dhā*
+- *āhitā* ← *ādhā* ← *√dhā*
 - \[verb noun\], nominative, plural
 - “put; conceive; ignite; keep; effect; fuel; lend; cover; direct.”
 ------------------------------------------------------------------------
-- *aṃseṣv* \< *aṃseṣu* \< *aṃsa*
+- *aṃseṣv* ← *aṃseṣu* ← *aṃsa*
 - \[noun\], locative, plural, masculine
 - “shoulder; aṃsa \[word\].”
 ------------------------------------------------------------------------
@@ -46,27 +46,27 @@ title = "Rig Veda 1.166.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *prapatheṣu* \< *prapatha*
+- *prapatheṣu* ← *prapatha*
 - \[noun\], locative, plural, masculine
 - “journey; way.”
 ------------------------------------------------------------------------
-- *khādayo* \< *khādayaḥ* \< *khādi*
+- *khādayo* ← *khādayaḥ* ← *khādi*
 - \[noun\], nominative, plural, masculine
 - “ring.”
 ------------------------------------------------------------------------
-- *'kṣo* \< *akṣaḥ* \< *akṣa*
+- *'kṣo* ← *akṣaḥ* ← *akṣa*
 - \[noun\], nominative, singular, masculine
 - “axle.”
 ------------------------------------------------------------------------
-- *vaś* \< *vaḥ* \< *tvad*
+- *vaś* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *cakrā* \< *cakra*
+- *cakrā* ← *cakra*
 - \[noun\], accusative, plural, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
@@ -79,7 +79,7 @@ title = "Rig Veda 1.166.9"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vāvṛte* \< *vṛt*
+- *vāvṛte* ← *vṛt*
 - \[verb\], singular, Perfect indicative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;

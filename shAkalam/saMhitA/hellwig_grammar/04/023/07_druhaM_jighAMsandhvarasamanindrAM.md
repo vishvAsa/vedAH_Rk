@@ -2,46 +2,46 @@
 title = "Rig Veda 4.23.7"
 
 +++
--   *druhaṃ* \< *druham* \< *druh*
+-   *druhaṃ* ← *druham* ← *druh*
 - \[noun\], accusative, singular, feminine
 - “deception; druh; misrepresentation; fraudulence; offense; injury.”
 ------------------------------------------------------------------------
-- *jighāṃsan* \< *jighāṃs* \< *√han*
+- *jighāṃsan* ← *jighāṃs* ← *√han*
 - \[verb noun\], nominative, singular
 - “kill.”
 ------------------------------------------------------------------------
-- *dhvarasam* \< *dhvaras*
+- *dhvarasam* ← *dhvaras*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *anindrāṃ* \< *an*
+- *anindrāṃ* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *anindrāṃ* \< *indrām* \< *indra*
+- *anindrāṃ* ← *indrām* ← *indra*
 - \[noun\], accusative, singular, feminine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tetikte* \< *tetij* \< *√tij*
+- *tetikte* ← *tetij* ← *√tij*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *tigmā* \< *tigma*
+- *tigmā* ← *tigma*
 - \[noun\], accusative, plural, neuter
 - “sharp; pointed; fiery.”
 ------------------------------------------------------------------------
-- *tujase* \< *tuj*
+- *tujase* ← *tuj*
 - \[verb noun\]
 - “draw.”
 ------------------------------------------------------------------------
-- *anīkā* \< *anīka*
+- *anīkā* ← *anīka*
 - \[noun\], accusative, plural, neuter
 - “army; face; battalion; battlefront; point; appearance.”
 ------------------------------------------------------------------------
-- *ṛṇā* \< *ṛṇa*
+- *ṛṇā* ← *ṛṇa*
 - \[noun\], accusative, plural, neuter
 - “debt; debt; ṛṇa \[word\].”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -49,31 +49,31 @@ title = "Rig Veda 4.23.7"
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *ṛṇayā* \< *ṛṇayāḥ* \< *ṛṇayā*
+- *ṛṇayā* ← *ṛṇayāḥ* ← *ṛṇayā*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ugro* \< *ugraḥ* \< *ugra*
+- *ugro* ← *ugraḥ* ← *ugra*
 - \[noun\], nominative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *dūre* \< *dūra*
+- *dūre* ← *dūra*
 - \[noun\], locative, singular, neuter
 - “distance; distance; farness.”
 ------------------------------------------------------------------------
-- *ajñātā* \< *ajñātāḥ* \< *ajñāta*
+- *ajñātā* ← *ajñātāḥ* ← *ajñāta*
 - \[noun\], accusative, plural, feminine
 - “unknown; unexpected.”
 ------------------------------------------------------------------------
-- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], accusative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *babādhe* \< *bādh*
+- *babādhe* ← *bādh*
 - \[verb\], singular, Perfect indicative
 - “afflict; annoy; chase away; tease; grieve; irritate.”
 ------------------------------------------------------------------------

@@ -2,15 +2,15 @@
 title = "Rig Veda 3.29.6"
 
 +++
--   *yadī* \< *yadi*
+-   *yadī* ← *yadi*
 - \[adverb\]
 - “if; in case.”
 ------------------------------------------------------------------------
-- *manthanti* \< *math*
+- *manthanti* ← *math*
 - \[verb\], plural, Present indikative
 - “churn; knead; trample; full; stir; crush.”
 ------------------------------------------------------------------------
-- *bāhubhir* \< *bāhubhiḥ* \< *bāhu*
+- *bāhubhir* ← *bāhubhiḥ* ← *bāhu*
 - \[noun\], instrumental, plural, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
@@ -18,11 +18,11 @@ title = "Rig Veda 3.29.6"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *rocate* \< *ruc*
+- *rocate* ← *ruc*
 - \[verb\], singular, Present indikative
 - “please; shine.”
 ------------------------------------------------------------------------
-- *'śvo* \< *aśvaḥ* \< *aśva*
+- *'śvo* ← *aśvaḥ* ← *aśva*
 - \[noun\], nominative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
@@ -30,15 +30,15 @@ title = "Rig Veda 3.29.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vājy* \< *vājī* \< *vājin*
+- *vājy* ← *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *aruṣo* \< *aruṣaḥ* \< *aruṣa*
+- *aruṣo* ← *aruṣaḥ* ← *aruṣa*
 - \[noun\], nominative, singular, masculine
 - “red; red.”
 ------------------------------------------------------------------------
-- *vaneṣv* \< *vaneṣu* \< *vana*
+- *vaneṣv* ← *vaneṣu* ← *vana*
 - \[noun\], locative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
@@ -46,7 +46,7 @@ title = "Rig Veda 3.29.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *citro* \< *citraḥ* \< *citra*
+- *citro* ← *citraḥ* ← *citra*
 - \[noun\], nominative, singular, masculine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
@@ -56,19 +56,19 @@ title = "Rig Veda 3.29.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yāmann* \< *yāman*
+- *yāmann* ← *yāman*
 - \[noun\], locative, singular, neuter
 - “expedition; path; expedition; arrival.”
 ------------------------------------------------------------------------
-- *aśvinor* \< *aśvinoḥ* \< *aśvin*
+- *aśvinor* ← *aśvinoḥ* ← *aśvin*
 - \[noun\], genitive, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *anivṛtaḥ* \< *a*
+- *anivṛtaḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *anivṛtaḥ* \< *nivṛtaḥ* \< *nivṛ* \< *√vṛ*
+- *anivṛtaḥ* ← *nivṛtaḥ* ← *nivṛ* ← *√vṛ*
 - \[verb noun\], nominative, singular
 - “restrain.”
 ------------------------------------------------------------------------
@@ -76,19 +76,19 @@ title = "Rig Veda 3.29.6"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *vṛṇakty* \< *vṛṇakti* \< *vṛj*
+- *vṛṇakty* ← *vṛṇakti* ← *vṛj*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *aśmanas* \< *aśmanaḥ* \< *aśman*
+- *aśmanas* ← *aśmanaḥ* ← *aśman*
 - \[noun\], accusative, plural, masculine
 - “stone; aśmarī; rock; aśman \[word\]; adri; mineral; piṇḍatālaka;
     mountain.”
 ------------------------------------------------------------------------
-- *tṛṇā* \< *tṛṇa*
+- *tṛṇā* ← *tṛṇa*
 - \[noun\], accusative, plural, neuter
 - “grass; tṛṇa \[word\]; herb.”
 ------------------------------------------------------------------------
-- *dahan* \< *dah*
+- *dahan* ← *dah*
 - \[verb noun\], nominative, singular
 - “burn; cauterize; heat; burn; burn; burn; roast; blaze; burn;
     distress; destroy.”

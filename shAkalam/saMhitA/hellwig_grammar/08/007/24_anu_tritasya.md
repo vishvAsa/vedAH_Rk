@@ -6,19 +6,19 @@ title = "Rig Veda 8.7.24"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *tritasya* \< *trita*
+- *tritasya* ← *trita*
 - \[noun\], genitive, singular, masculine
 - “Trita.”
 ------------------------------------------------------------------------
-- *yudhyataḥ* \< *yudh*
+- *yudhyataḥ* ← *yudh*
 - \[verb noun\], genitive, singular
 - “fight; overcome.”
 ------------------------------------------------------------------------
-- *śuṣmam* \< *śuṣma*
+- *śuṣmam* ← *śuṣma*
 - \[noun\], accusative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
-- *āvann* \< *āvan* \< *av*
+- *āvann* ← *āvan* ← *av*
 - \[verb\], plural, Imperfect
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
@@ -26,21 +26,21 @@ title = "Rig Veda 8.7.24"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *kratum* \< *kratu*
+- *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *anv* \< *anu*
+- *anv* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vṛtratūrye* \< *vṛtratūrya*
+- *vṛtratūrye* ← *vṛtratūrya*
 - \[noun\], locative, singular, neuter
 - “battle.”
 ------------------------------------------------------------------------

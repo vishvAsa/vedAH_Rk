@@ -2,29 +2,29 @@
 title = "Rig Veda 1.164.5"
 
 +++
--   *pākaḥ* \< *pāka*
+-   *pākaḥ* ← *pāka*
 - \[noun\], nominative, singular, masculine
 - “ignorant; childlike; honest.”
 ------------------------------------------------------------------------
-- *pṛcchāmi* \< *pracch*
+- *pṛcchāmi* ← *pracch*
 - \[verb\], singular, Present indikative
 - “ask; ask; ask; consult; interrogate.”
 ------------------------------------------------------------------------
-- *manasāvijānan* \< *manasā* \< *manas*
+- *manasāvijānan* ← *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *manasāvijānan* \< *a*
+- *manasāvijānan* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *manasāvijānan* \< *vijānan* \< *vijñā* \< *√jñā*
+- *manasāvijānan* ← *vijānan* ← *vijñā* ← *√jñā*
 - \[verb noun\], nominative, singular
 - “know; diagnose; detect; find; identify; call; understand; observe;
     name; deem; recognize; explain; know.”
 ------------------------------------------------------------------------
-- *devānām* \< *deva*
+- *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -33,35 +33,35 @@ title = "Rig Veda 1.164.5"
 - \[adverb\]
 - “thus.”
 ------------------------------------------------------------------------
-- *nihitā* \< *nidhā* \< *√dhā*
+- *nihitā* ← *nidhā* ← *√dhā*
 - \[verb noun\], accusative, plural
 - “put; fill into; stow; insert; ignite; insert; add; put on;
     establish; keep down.”
 ------------------------------------------------------------------------
-- *padāni* \< *pada*
+- *padāni* ← *pada*
 - \[noun\], accusative, plural, neuter
 - “word; location; foot; footprint; pada \[word\]; verse; footstep;
     metrical foot; situation; dwelling; state; step; mark; position;
     trace; construction; animal foot; way; moment; social station;
     topographic point; path; residence; site; topic.”
 ------------------------------------------------------------------------
-- *vatse* \< *vatsa*
+- *vatse* ← *vatsa*
 - \[noun\], locative, singular, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
 ------------------------------------------------------------------------
-- *baṣkaye* \< *baṣkaya*
+- *baṣkaye* ← *baṣkaya*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *'dhi* \< *adhi*
+- *'dhi* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], accusative, plural, masculine
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *tantūn* \< *tantu*
+- *tantūn* ← *tantu*
 - \[noun\], accusative, plural, masculine
 - “thread; fiber; lineage; cobweb; fibril; stalk.”
 ------------------------------------------------------------------------
@@ -69,17 +69,17 @@ title = "Rig Veda 1.164.5"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *tatnire* \< *tan*
+- *tatnire* ← *tan*
 - \[verb\], plural, Perfect indicative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
 ------------------------------------------------------------------------
-- *kavaya* \< *kavayaḥ* \< *kavi*
+- *kavaya* ← *kavayaḥ* ← *kavi*
 - \[noun\], nominative, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *otavā* \< *otavai* \< *ve*
+- *otavā* ← *otavai* ← *ve*
 - \[verb noun\]
 - “weave.”
 ------------------------------------------------------------------------

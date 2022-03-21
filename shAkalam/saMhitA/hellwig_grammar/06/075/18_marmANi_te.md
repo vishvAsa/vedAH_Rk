@@ -2,66 +2,66 @@
 title = "Rig Veda 6.75.18"
 
 +++
--   *marmāṇi* \< *marman*
+-   *marmāṇi* ← *marman*
 - \[noun\], accusative, plural, neuter
 - “marman; secret; secret; mystery; vulnerability.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *varmaṇā* \< *varman*
+- *varmaṇā* ← *varman*
 - \[noun\], instrumental, singular, neuter
 - “cuirass; armor; varman \[word\]; protective covering; Varman;
     varman.”
 ------------------------------------------------------------------------
-- *chādayāmi* \< *chāday* \< *√chad*
+- *chādayāmi* ← *chāday* ← *√chad*
 - \[verb\], singular, Present indikative
 - “cover; hide; protect.”
 ------------------------------------------------------------------------
-- *somas* \< *somaḥ* \< *soma*
+- *somas* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *rājāmṛtenānu* \< *rājā* \< *rājan*
+- *rājāmṛtenānu* ← *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *rājāmṛtenānu* \< *amṛtena* \< *amṛta*
+- *rājāmṛtenānu* ← *amṛtena* ← *amṛta*
 - \[noun\], instrumental, singular, neuter
 - “amṛta; immortality; vatsanābha; ambrosia; mercury; medicine;
     vighasa; calcium hydroxide.”
 ------------------------------------------------------------------------
-- *rājāmṛtenānu* \< *anu*
+- *rājāmṛtenānu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *vastām* \< *vas*
+- *vastām* ← *vas*
 - \[verb\], singular, Present imperative
 - “wear.”
 ------------------------------------------------------------------------
-- *uror* \< *uroḥ* \< *uru*
+- *uror* ← *uroḥ* ← *uru*
 - \[noun\], ablative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *varīyo* \< *varīyaḥ* \< *varīyas*
+- *varīyo* ← *varīyaḥ* ← *varīyas*
 - \[noun\], accusative, singular, neuter
 - “broad; further.”
 ------------------------------------------------------------------------
-- *varuṇas* \< *varuṇaḥ* \< *varuṇa*
+- *varuṇas* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *kṛṇotu* \< *kṛ*
+- *kṛṇotu* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -72,25 +72,25 @@ title = "Rig Veda 6.75.18"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *jayantaṃ* \< *jayantam* \< *ji*
+- *jayantaṃ* ← *jayantam* ← *ji*
 - \[verb noun\], accusative, singular
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *tvānu* \< *tvā* \< *tvad*
+- *tvānu* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tvānu* \< *anu*
+- *tvānu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *madantu* \< *mad*
+- *madantu* ← *mad*
 - \[verb\], plural, Present imperative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------

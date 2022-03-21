@@ -2,76 +2,76 @@
 title = "Rig Veda 2.20.5"
 
 +++
--   *so* \< *saḥ* \< *tad*
+-   *so* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *aṅgirasām* \< *aṅgiras*
+- *aṅgirasām* ← *aṅgiras*
 - \[noun\], genitive, plural, masculine
 - “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
     Aṅgiras.”
 ------------------------------------------------------------------------
-- *ucathā* \< *ucatha*
+- *ucathā* ← *ucatha*
 - \[noun\], accusative, plural, neuter
 - “praise.”
 ------------------------------------------------------------------------
-- *jujuṣvān* \< *juṣ*
+- *jujuṣvān* ← *juṣ*
 - \[verb noun\], nominative, singular
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *brahmā* \< *brahman*
+- *brahmā* ← *brahman*
 - \[noun\], accusative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *tūtod* \< *tūtot* \< *tu*
+- *tūtod* ← *tūtot* ← *tu*
 - \[verb\], singular, Plusquamperfect
 - “strengthen.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *gātum* \< *gā*
+- *gātum* ← *gā*
 - \[verb noun\]
 - “sing; praise; jap; recite; describe.”
 ------------------------------------------------------------------------
-- *iṣṇan* \< *iṣ*
+- *iṣṇan* ← *iṣ*
 - \[verb noun\], nominative, singular
 - “send.”
 ------------------------------------------------------------------------
-- *muṣṇann* \< *muṣṇan* \< *muṣ*
+- *muṣṇann* ← *muṣṇan* ← *muṣ*
 - \[verb noun\], nominative, singular
 - “rob; remove; steal.”
 ------------------------------------------------------------------------
-- *uṣasaḥ* \< *uṣas*
+- *uṣasaḥ* ← *uṣas*
 - \[noun\], accusative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *sūryeṇa* \< *sūrya*
+- *sūryeṇa* ← *sūrya*
 - \[noun\], instrumental, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *stavān* \< *stavat*
+- *stavān* ← *stavat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *aśnasya* \< *aśna*
+- *aśnasya* ← *aśna*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *cicchiśnathat* \< *cit*
+- *cicchiśnathat* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *cicchiśnathat* \< *śiśnathat* \< *śnath*
+- *cicchiśnathat* ← *śiśnathat* ← *śnath*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “pierce; kill.”
 ------------------------------------------------------------------------
-- *pūrvyāṇi* \< *pūrvya*
+- *pūrvyāṇi* ← *pūrvya*
 - \[noun\], accusative, plural, neuter
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------

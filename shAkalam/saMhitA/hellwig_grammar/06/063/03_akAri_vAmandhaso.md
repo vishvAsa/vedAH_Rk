@@ -2,7 +2,7 @@
 title = "Rig Veda 6.63.3"
 
 +++
--   *akāri* \< *kṛ*
+-   *akāri* ← *kṛ*
 - \[verb\], singular, Aorist passive
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -13,56 +13,56 @@ title = "Rig Veda 6.63.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *andhaso* \< *andhasaḥ* \< *andhas*
+- *andhaso* ← *andhasaḥ* ← *andhas*
 - \[noun\], genitive, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
-- *varīmann* \< *varīman*
+- *varīmann* ← *varīman*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *astāri* \< *stṛ*
+- *astāri* ← *stṛ*
 - \[verb\], singular, Aorist passive
 - “spread; kill; lay; cover.”
 ------------------------------------------------------------------------
-- *barhiḥ* \< *barhis*
+- *barhiḥ* ← *barhis*
 - \[noun\], nominative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *suprāyaṇatamam* \< *suprāyaṇatama*
+- *suprāyaṇatamam* ← *suprāyaṇatama*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *uttānahasto* \< *uttāna*
+- *uttānahasto* ← *uttāna*
 - \[noun\]
 - “supine; upward; upright; skin-deep; raised; shallow.”
 ------------------------------------------------------------------------
-- *uttānahasto* \< *hastaḥ* \< *hasta*
+- *uttānahasto* ← *hastaḥ* ← *hasta*
 - \[noun\], nominative, singular, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------
-- *yuvayur* \< *yuvayuḥ* \< *yuvayu*
+- *yuvayur* ← *yuvayuḥ* ← *yuvayu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vavandā* \< *vavanda* \< *vand*
+- *vavandā* ← *vavanda* ← *vand*
 - \[verb\], singular, Perfect indicative
 - “worship; laud.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *nakṣanto* \< *nakṣantaḥ* \< *nakṣ*
+- *nakṣanto* ← *nakṣantaḥ* ← *nakṣ*
 - \[verb noun\], nominative, plural
 - “reach; approach.”
 ------------------------------------------------------------------------
-- *adraya* \< *adrayaḥ* \< *adri*
+- *adraya* ← *adrayaḥ* ← *adri*
 - \[noun\], nominative, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *āñjan* \< *añj*
+- *āñjan* ← *añj*
 - \[verb\], plural, Imperfect
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------

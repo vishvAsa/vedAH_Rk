@@ -2,7 +2,7 @@
 title = "Rig Veda 1.126.5"
 
 +++
--   *pūrvām* \< *pūrva*
+-   *pūrvām* ← *pūrva*
 - \[noun\], accusative, singular, feminine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
@@ -12,7 +12,7 @@ title = "Rig Veda 1.126.5"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *prayatim* \< *prayati*
+- *prayatim* ← *prayati*
 - \[noun\], accusative, singular, feminine
 - “offering.”
 ------------------------------------------------------------------------
@@ -20,22 +20,22 @@ title = "Rig Veda 1.126.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dade* \< *dā*
+- *dade* ← *dā*
 - \[verb\], singular, Perfect indicative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *vas* \< *vaḥ* \< *tvad*
+- *vas* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *trīn* \< *tri*
+- *trīn* ← *tri*
 - \[noun\], accusative, plural, masculine
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *yuktāṃ* \< *yuj*
+- *yuktāṃ* ← *yuj*
 - \[verb noun\], accusative, plural
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -43,55 +43,55 @@ title = "Rig Veda 1.126.5"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *aṣṭāv* \< *aṣṭau* \< *aṣṭan*
+- *aṣṭāv* ← *aṣṭau* ← *aṣṭan*
 - \[noun\], accusative, plural, masculine
 - “eight; eighth; aṣṭan \[word\].”
 ------------------------------------------------------------------------
-- *aridhāyaso* \< *ari*
+- *aridhāyaso* ← *ari*
 - \[noun\]
 ------------------------------------------------------------------------
-- *aridhāyaso* \< *dhāyasaḥ* \< *dhāyas*
+- *aridhāyaso* ← *dhāyasaḥ* ← *dhāyas*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *gāḥ* \< *go*
+- *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *subandhavo* \< *su*
+- *subandhavo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *subandhavo* \< *bandhavaḥ* \< *bandhu*
+- *subandhavo* ← *bandhavaḥ* ← *bandhu*
 - \[noun\], nominative, plural, masculine
 - “relative; bandhu \[word\]; association; friend; kin.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *viśyā* \< *viśyāḥ* \< *viśya*
+- *viśyā* ← *viśyāḥ* ← *viśya*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *vrā* \< *vrāḥ* \< *vrā*
+- *vrā* ← *vrāḥ* ← *vrā*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *anasvantaḥ* \< *anasvat*
+- *anasvantaḥ* ← *anasvat*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *śrava* \< *śravaḥ* \< *śravas*
+- *śrava* ← *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *aiṣanta* \< *iṣ*
+- *aiṣanta* ← *iṣ*
 - \[verb\], plural, Imperfect
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
 ------------------------------------------------------------------------
-- *pajrāḥ* \< *pajra*
+- *pajrāḥ* ← *pajra*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------

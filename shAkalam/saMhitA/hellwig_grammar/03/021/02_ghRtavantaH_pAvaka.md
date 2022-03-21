@@ -2,7 +2,7 @@
 title = "Rig Veda 3.21.2"
 
 +++
--   *ghṛtavantaḥ* \< *ghṛtavat*
+-   *ghṛtavantaḥ* ← *ghṛtavat*
 - \[noun\], nominative, plural, masculine
 - “buttery.”
 ------------------------------------------------------------------------
@@ -11,52 +11,52 @@ title = "Rig Veda 3.21.2"
 - “fire; Agni; sacrificial fire; digestion; Plumbago zeylanica;
     vahni.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *stokā* \< *stoka*
+- *stokā* ← *stoka*
 - \[noun\], nominative, plural, masculine
 - “drop; myrrh; morsel.”
 ------------------------------------------------------------------------
-- *ścotanti* \< *ścut*
+- *ścotanti* ← *ścut*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *medasaḥ* \< *medas*
+- *medasaḥ* ← *medas*
 - \[noun\], genitive, singular, neuter
 - “medas; fat; corpulence.”
 ------------------------------------------------------------------------
-- *svadharman* \< *sva*
+- *svadharman* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svadharman* \< *dharman*
+- *svadharman* ← *dharman*
 - \[noun\], locative, singular, neuter
 - “regulation; Dharma; law; property.”
 ------------------------------------------------------------------------
-- *devavītaye* \< *deva*
+- *devavītaye* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devavītaye* \< *vītaye* \< *vīti*
+- *devavītaye* ← *vītaye* ← *vīti*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------
-- *śreṣṭhaṃ* \< *śreṣṭham* \< *śreṣṭha*
+- *śreṣṭhaṃ* ← *śreṣṭham* ← *śreṣṭha*
 - \[noun\], accusative, singular, neuter
 - “best; better; chief(a); beautiful.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dhehi* \< *dhā*
+- *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *vāryam* \< *vārya*
+- *vāryam* ← *vārya*
 - \[noun\], accusative, singular, neuter
 - “wealth.”
 ------------------------------------------------------------------------

@@ -6,7 +6,7 @@ title = "Rig Veda 8.9.20"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *dyumnāya* \< *dyumna*
+- *dyumnāya* ← *dyumna*
 - \[noun\], dative, singular, neuter
 - “magnificence.”
 ------------------------------------------------------------------------
@@ -14,7 +14,7 @@ title = "Rig Veda 8.9.20"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *śavase* \< *śavas*
+- *śavase* ← *śavas*
 - \[noun\], dative, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
@@ -22,11 +22,11 @@ title = "Rig Veda 8.9.20"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *nṛṣāhyāya* \< *nṛṣāhya*
+- *nṛṣāhyāya* ← *nṛṣāhya*
 - \[noun\], dative, singular, neuter
 - “battle.”
 ------------------------------------------------------------------------
-- *śarmaṇe* \< *śarman*
+- *śarmaṇe* ← *śarman*
 - \[noun\], dative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
@@ -34,11 +34,11 @@ title = "Rig Veda 8.9.20"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *dakṣāya* \< *dakṣa*
+- *dakṣāya* ← *dakṣa*
 - \[noun\], dative, singular, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
 ------------------------------------------------------------------------
-- *pracetasā* \< *pracetas*
+- *pracetasā* ← *pracetas*
 - \[noun\], vocative, dual, masculine
 - “intelligent; mindful; attentive; wise; apt; observant.”
 ------------------------------------------------------------------------

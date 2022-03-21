@@ -2,31 +2,31 @@
 title = "Rig Veda 7.18.23"
 
 +++
--   *catvāro* \< *catvāraḥ* \< *catur*
+-   *catvāro* ← *catvāraḥ* ← *catur*
 - \[noun\], nominative, plural, masculine
 - “four; catur \[word\].”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *paijavanasya* \< *paijavana*
+- *paijavanasya* ← *paijavana*
 - \[noun\], genitive, singular, masculine
 - “Sudās.”
 ------------------------------------------------------------------------
-- *dānāḥ* \< *dāna*
+- *dānāḥ* ← *dāna*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *smaddiṣṭayaḥ* \< *smaddiṣṭi*
+- *smaddiṣṭayaḥ* ← *smaddiṣṭi*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *kṛśanino* \< *kṛśaninaḥ* \< *kṛśanin*
+- *kṛśanino* ← *kṛśaninaḥ* ← *kṛśanin*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *nireke* \< *nireka*
+- *nireke* ← *nireka*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *ṛjrāso* \< *ṛjrāsaḥ* \< *ṛjra*
+- *ṛjrāso* ← *ṛjrāsaḥ* ← *ṛjra*
 - \[noun\], nominative, plural, masculine
 - “red.”
 ------------------------------------------------------------------------
@@ -34,30 +34,30 @@ title = "Rig Veda 7.18.23"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *pṛthiviṣṭhāḥ* \< *pṛthivi* \< *pṛthivī*
+- *pṛthiviṣṭhāḥ* ← *pṛthivi* ← *pṛthivī*
 - \[noun\], feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *pṛthiviṣṭhāḥ* \< *sthāḥ* \< *sthā*
+- *pṛthiviṣṭhāḥ* ← *sthāḥ* ← *sthā*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *sudāsas* \< *sudāsaḥ* \< *sudās*
+- *sudāsas* ← *sudāsaḥ* ← *sudās*
 - \[noun\], genitive, singular, masculine
 - “Sudās.”
 ------------------------------------------------------------------------
-- *tokaṃ* \< *tokam* \< *toka*
+- *tokaṃ* ← *tokam* ← *toka*
 - \[noun\], accusative, singular, neuter
 - “offspring.”
 ------------------------------------------------------------------------
-- *tokāya* \< *toka*
+- *tokāya* ← *toka*
 - \[noun\], dative, singular, neuter
 - “offspring.”
 ------------------------------------------------------------------------
-- *śravase* \< *śravas*
+- *śravase* ← *śravas*
 - \[noun\], dative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *vahanti* \< *vah*
+- *vahanti* ← *vah*
 - \[verb\], plural, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”

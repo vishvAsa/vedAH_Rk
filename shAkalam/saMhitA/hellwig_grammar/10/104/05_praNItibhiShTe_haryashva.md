@@ -2,11 +2,11 @@
 title = "Rig Veda 10.104.5"
 
 +++
--   *praṇītibhiṣ* \< *praṇītibhiḥ* \< *praṇīti*
+-   *praṇītibhiṣ* ← *praṇītibhiḥ* ← *praṇīti*
 - \[noun\], instrumental, plural, feminine
 - “guidance; guidance.”
 ------------------------------------------------------------------------
-- *ṭe* \< *te* \< *tvad*
+- *ṭe* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -14,43 +14,43 @@ title = "Rig Veda 10.104.5"
 - \[noun\], vocative, singular, masculine
 - “Indra; Haryaśva.”
 ------------------------------------------------------------------------
-- *suṣṭoḥ* \< *suṣṭu*
+- *suṣṭoḥ* ← *suṣṭu*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *suṣumnasya* \< *suṣumna*
+- *suṣumnasya* ← *suṣumna*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *pururuco* \< *puru*
+- *pururuco* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *pururuco* \< *rucaḥ* \< *ruc*
+- *pururuco* ← *rucaḥ* ← *ruc*
 - \[noun\], genitive, singular, masculine
 - “beam; radiance; color.”
 ------------------------------------------------------------------------
-- *janāsaḥ* \< *jana*
+- *janāsaḥ* ← *jana*
 - \[noun\], nominative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *maṃhiṣṭhām* \< *maṃhiṣṭha*
+- *maṃhiṣṭhām* ← *maṃhiṣṭha*
 - \[noun\], accusative, singular, feminine
 - “big.”
 ------------------------------------------------------------------------
-- *ūtiṃ* \< *ūtim* \< *ūti*
+- *ūtiṃ* ← *ūtim* ← *ūti*
 - \[noun\], accusative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *vitire* \< *\_* \< *√\_*
+- *vitire* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *dadhānā* \< *dhā*
+- *dadhānā* ← *dhā*
 - \[verb noun\], nominative, plural
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *stotāra* \< *stotāraḥ* \< *stotṛ*
+- *stotāra* ← *stotāraḥ* ← *stotṛ*
 - \[noun\], nominative, plural, masculine
 - “laudatory; worshiping.”
 ------------------------------------------------------------------------
@@ -59,11 +59,11 @@ title = "Rig Veda 10.104.5"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sūnṛtābhiḥ* \< *sūnṛtā*
+- *sūnṛtābhiḥ* ← *sūnṛtā*
 - \[noun\], instrumental, plural, feminine
 - “liberality.”
 ------------------------------------------------------------------------

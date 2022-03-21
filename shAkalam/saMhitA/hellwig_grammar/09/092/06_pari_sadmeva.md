@@ -6,23 +6,23 @@ title = "Rig Veda 9.92.6"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *sadmeva* \< *sadmā* \< *sadman*
+- *sadmeva* ← *sadmā* ← *sadman*
 - \[noun\], accusative, plural, neuter
 - “seat; house; stable; dwelling.”
 ------------------------------------------------------------------------
-- *sadmeva* \< *iva*
+- *sadmeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *paśumānti* \< *paśumat*
+- *paśumānti* ← *paśumat*
 - \[noun\], accusative, plural, neuter
 - “rich in cattle.”
 ------------------------------------------------------------------------
-- *hotā* \< *hotṛ*
+- *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *rājā* \< *rājan*
+- *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
@@ -30,41 +30,41 @@ title = "Rig Veda 9.92.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *satyaḥ* \< *satya*
+- *satyaḥ* ← *satya*
 - \[noun\], nominative, singular, masculine
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *samitīr* \< *samitīḥ* \< *samiti*
+- *samitīr* ← *samitīḥ* ← *samiti*
 - \[noun\], accusative, plural, feminine
 - “battle; council; assembly; meeting.”
 ------------------------------------------------------------------------
-- *iyānaḥ* \< *ī* \< *√i*
+- *iyānaḥ* ← *ī* ← *√i*
 - \[verb noun\], nominative, singular
 - “beg; solicit.”
 ------------------------------------------------------------------------
-- *somaḥ* \< *soma*
+- *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *punānaḥ* \< *pū*
+- *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *kalaśāṃ* \< *kalaśa*
+- *kalaśāṃ* ← *kalaśa*
 - \[noun\], accusative, plural, masculine
 - “jar.”
 ------------------------------------------------------------------------
-- *ayāsīt* \< *yā*
+- *ayāsīt* ← *yā*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *sīdan* \< *sad*
+- *sīdan* ← *sad*
 - \[verb noun\], nominative, singular
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *mṛgo* \< *mṛgaḥ* \< *mṛga*
+- *mṛgo* ← *mṛgaḥ* ← *mṛga*
 - \[noun\], nominative, singular, masculine
 - “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
 ------------------------------------------------------------------------
@@ -72,11 +72,11 @@ title = "Rig Veda 9.92.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *mahiṣo* \< *mahiṣaḥ* \< *mahiṣa*
+- *mahiṣo* ← *mahiṣaḥ* ← *mahiṣa*
 - \[noun\], nominative, singular, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
 ------------------------------------------------------------------------
-- *vaneṣu* \< *vana*
+- *vaneṣu* ← *vana*
 - \[noun\], locative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------

@@ -6,30 +6,30 @@ title = "Rig Veda 1.67.9"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vīrutsu* \< *vīrudh*
+- *vīrutsu* ← *vīrudh*
 - \[noun\], locative, plural
 - “plant; shrub.”
 ------------------------------------------------------------------------
-- *rodhan* \< *rudh*
+- *rodhan* ← *rudh*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *mahitvota* \< *mahi*
+- *mahitvota* ← *mahi*
 - \[noun\]
 - “great; firm.”
 ------------------------------------------------------------------------
-- *mahitvota* \< *tvā* \< *tva*
+- *mahitvota* ← *tvā* ← *tva*
 - \[noun\], instrumental, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *mahitvota* \< *uta*
+- *mahitvota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *prajā* \< *prajāḥ* \< *prajā*
+- *prajā* ← *prajāḥ* ← *prajā*
 - \[noun\], accusative, plural, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”
@@ -38,11 +38,11 @@ title = "Rig Veda 1.67.9"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *prasūṣv* \< *prasūṣu* \< *prasū*
+- *prasūṣv* ← *prasūṣu* ← *prasū*
 - \[noun\], locative, plural, feminine
 - “mother; grass.”
 ------------------------------------------------------------------------
-- *antaḥ* \< *antar*
+- *antaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------

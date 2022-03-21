@@ -2,85 +2,85 @@
 title = "Rig Veda 10.44.2"
 
 +++
--   *suṣṭhāmā* \< *suṣṭhāman*
+-   *suṣṭhāmā* ← *suṣṭhāman*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *rathaḥ* \< *ratha*
+- *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *suyamā* \< *su*
+- *suyamā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suyamā* \< *yamā* \< *yama*
+- *suyamā* ← *yamā* ← *yama*
 - \[noun\], nominative, dual, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
 ------------------------------------------------------------------------
-- *harī* \< *hari*
+- *harī* ← *hari*
 - \[noun\], nominative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *mimyakṣa* \< *myakṣ*
+- *mimyakṣa* ← *myakṣ*
 - \[verb\], singular, Perfect indicative
 - “be situated; attach.”
 ------------------------------------------------------------------------
-- *vajro* \< *vajraḥ* \< *vajra*
+- *vajro* ← *vajraḥ* ← *vajra*
 - \[noun\], nominative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *nṛpate* \< *nṛpati*
+- *nṛpate* ← *nṛpati*
 - \[noun\], vocative, singular, masculine
 - “king.”
 ------------------------------------------------------------------------
-- *gabhastau* \< *gabhasti*
+- *gabhastau* ← *gabhasti*
 - \[noun\], locative, singular, masculine
 - “beam; hand; sun.”
 ------------------------------------------------------------------------
-- *śībhaṃ* \< *śībham*
+- *śībhaṃ* ← *śībham*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *rājan*
 - \[noun\], vocative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *supathā* \< *su*
+- *supathā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *supathā* \< *pathā* \< *pathin*
+- *supathā* ← *pathā* ← *pathin*
 - \[noun\], instrumental, singular, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *yāhy* \< *yāhi* \< *yā*
+- *yāhy* ← *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *arvāṅ* \< *arvāñc*
+- *arvāṅ* ← *arvāñc*
 - \[noun\], nominative, singular, masculine
 - “approaching; facing; less.”
 ------------------------------------------------------------------------
-- *vardhāma* \< *vṛdh*
+- *vardhāma* ← *vṛdh*
 - \[verb\], plural, Present imperative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *papuṣo* \< *papuṣaḥ* \< *pā*
+- *papuṣo* ← *papuṣaḥ* ← *pā*
 - \[verb noun\], genitive, singular
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *vṛṣṇyāni* \< *vṛṣṇya*
+- *vṛṣṇyāni* ← *vṛṣṇya*
 - \[noun\], accusative, plural, neuter
 - “manfulness; virility.”
 ------------------------------------------------------------------------

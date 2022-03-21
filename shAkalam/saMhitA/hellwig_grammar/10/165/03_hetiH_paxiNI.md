@@ -2,11 +2,11 @@
 title = "Rig Veda 10.165.3"
 
 +++
--   *hetiḥ* \< *heti*
+-   *hetiḥ* ← *heti*
 - \[noun\], nominative, singular, feminine
 - “projectile; heti \[word\].”
 ------------------------------------------------------------------------
-- *pakṣiṇī* \< *pakṣin*
+- *pakṣiṇī* ← *pakṣin*
 - \[noun\], nominative, singular, feminine
 - “winged.”
 ------------------------------------------------------------------------
@@ -14,24 +14,24 @@ title = "Rig Veda 10.165.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dabhāty* \< *dabhāti* \< *dabh*
+- *dabhāty* ← *dabhāti* ← *dabh*
 - \[verb\], singular, Present conjunctive (subjunctive)
 ------------------------------------------------------------------------
-- *asmān* \< *mad*
+- *asmān* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *āṣṭryām* \< *āṣṭrī*
+- *āṣṭryām* ← *āṣṭrī*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
-- *padaṃ* \< *padam* \< *pada*
+- *padaṃ* ← *padam* ← *pada*
 - \[noun\], accusative, singular, neuter
 - “word; location; foot; footprint; pada \[word\]; verse; footstep;
     metrical foot; situation; dwelling; state; step; mark; position;
     trace; construction; animal foot; way; moment; social station;
     topographic point; path; residence; site; topic.”
 ------------------------------------------------------------------------
-- *kṛṇute* \< *kṛ*
+- *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -42,18 +42,18 @@ title = "Rig Veda 10.165.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *agnidhāne* \< *agnidhāna*
+- *agnidhāne* ← *agnidhāna*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *śaṃ* \< *śam*
+- *śaṃ* ← *śam*
 - \[adverb\]
 - “śam \[word\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *gobhyaś* \< *gobhyaḥ* \< *go*
+- *gobhyaś* ← *gobhyaḥ* ← *go*
 - \[noun\], dative, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -62,16 +62,16 @@ title = "Rig Veda 10.165.3"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *puruṣebhyaś* \< *puruṣebhyaḥ* \< *puruṣa*
+- *puruṣebhyaś* ← *puruṣebhyaḥ* ← *puruṣa*
 - \[noun\], dative, plural, masculine
 - “man; man; Puruṣa; puṃvajra; puruṣa; servant; puruṣa \[word\];
     assistant; soldier; soul; commoner; generation; people; doll.”
 ------------------------------------------------------------------------
-- *cāstu* \< *ca*
+- *cāstu* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cāstu* \< *astu* \< *as*
+- *cāstu* ← *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -80,11 +80,11 @@ title = "Rig Veda 10.165.3"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *hiṃsīd* \< *hiṃsīt* \< *hiṃs*
+- *hiṃsīd* ← *hiṃsīt* ← *hiṃs*
 - \[verb\], singular, Aorist inj. (proh.)
 - “injure; kill; remove; harm; cure; damage.”
 ------------------------------------------------------------------------
@@ -92,12 +92,12 @@ title = "Rig Veda 10.165.3"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *devāḥ* \< *deva*
+- *devāḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *kapotaḥ* \< *kapota*
+- *kapotaḥ* ← *kapota*
 - \[noun\], nominative, singular, masculine
 - “dove; kapotapuṭa; pigeon; sauvīrāñjana; bird.”
 ------------------------------------------------------------------------

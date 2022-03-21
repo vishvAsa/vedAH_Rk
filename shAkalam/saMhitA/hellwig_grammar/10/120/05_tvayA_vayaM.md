@@ -2,67 +2,67 @@
 title = "Rig Veda 10.120.5"
 
 +++
--   *tvayā* \< *tvad*
+-   *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śāśadmahe* \< *śad*
+- *śāśadmahe* ← *śad*
 - \[verb\], plural, Perfect indicative
 - “prevail.”
 ------------------------------------------------------------------------
-- *raṇeṣu* \< *raṇa*
+- *raṇeṣu* ← *raṇa*
 - \[noun\], locative, plural, masculine
 - “battle; fight; pleasure; joy; war; combat.”
 ------------------------------------------------------------------------
-- *prapaśyanto* \< *prapaśyantaḥ* \< *prapaś* \< *√paś*
+- *prapaśyanto* ← *prapaśyantaḥ* ← *prapaś* ← *√paś*
 - \[verb noun\], nominative, plural
 - “see.”
 ------------------------------------------------------------------------
-- *yudhenyāni* \< *yudhenya*
+- *yudhenyāni* ← *yudhenya*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
 - *bhūri*
 - \[noun\], accusative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *codayāmi* \< *coday* \< *√cud*
+- *codayāmi* ← *coday* ← *√cud*
 - \[verb\], singular, Present indikative
 - “impel; drive; incite; command; drive; arouse; propel.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *āyudhā* \< *āyudha*
+- *āyudhā* ← *āyudha*
 - \[noun\], accusative, plural, neuter
 - “weapon; āyudha \[word\].”
 ------------------------------------------------------------------------
-- *vacobhiḥ* \< *vacas*
+- *vacobhiḥ* ← *vacas*
 - \[noun\], instrumental, plural, neuter
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[noun\], nominative, singular, masculine
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śiśāmi* \< *śā*
+- *śiśāmi* ← *śā*
 - \[verb\], singular, Present indikative
 - “sharpen; whet; strengthen.”
 ------------------------------------------------------------------------
-- *brahmaṇā* \< *brahman*
+- *brahmaṇā* ← *brahman*
 - \[noun\], instrumental, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *vayāṃsi* \< *vayas*
+- *vayāṃsi* ← *vayas*
 - \[noun\], accusative, plural, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”

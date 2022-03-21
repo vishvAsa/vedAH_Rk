@@ -10,19 +10,19 @@ title = "Rig Veda 7.42.3"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *mahayan* \< *mahay* \< *√mah*
+- *mahayan* ← *mahay* ← *√mah*
 - \[verb\], plural, Present injunctive
 - “glorify.”
 ------------------------------------------------------------------------
-- *namobhiḥ* \< *namas*
+- *namobhiḥ* ← *namas*
 - \[noun\], instrumental, plural, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
@@ -30,22 +30,22 @@ title = "Rig Veda 7.42.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *hotā* \< *hotṛ*
+- *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *mandro* \< *mandraḥ* \< *mandra*
+- *mandro* ← *mandraḥ* ← *mandra*
 - \[noun\], nominative, singular, masculine
 - “pleasant; eloquent; dulcet.”
 ------------------------------------------------------------------------
-- *ririca* \< *ririce* \< *ric*
+- *ririca* ← *ririce* ← *ric*
 - \[verb\], singular, Perfect indicative
 - “empty; liberate; concede; surrender; purge.”
 ------------------------------------------------------------------------
-- *upāke* \< *upāka*
+- *upāke* ← *upāka*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *yajasva* \< *yaj*
+- *yajasva* ← *yaj*
 - \[verb\], singular, Present imperative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
@@ -56,7 +56,7 @@ title = "Rig Veda 7.42.3"
 - *purvaṇīka*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *devān* \< *deva*
+- *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -65,14 +65,14 @@ title = "Rig Veda 7.42.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yajñiyām* \< *yajñiya*
+- *yajñiyām* ← *yajñiya*
 - \[noun\], accusative, singular, feminine
 - “sacrificial; divine; devoted.”
 ------------------------------------------------------------------------
-- *aramatiṃ* \< *aramatim* \< *aramati*
+- *aramatiṃ* ← *aramatim* ← *aramati*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *vavṛtyāḥ* \< *vṛt*
+- *vavṛtyāḥ* ← *vṛt*
 - \[verb\], singular, Perfect optative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;

@@ -6,15 +6,15 @@ title = "Rig Veda 8.5.9"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *gomatīr* \< *gomatīḥ* \< *gomat*
+- *gomatīr* ← *gomatīḥ* ← *gomat*
 - \[noun\], accusative, plural, feminine
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------
-- *iṣa* \< *iṣaḥ* \< *iṣ*
+- *iṣa* ← *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
@@ -22,15 +22,15 @@ title = "Rig Veda 8.5.9"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *sātīr* \< *sātīḥ* \< *sāti*
+- *sātīr* ← *sātīḥ* ← *sāti*
 - \[noun\], accusative, plural, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------
-- *aharvidā* \< *ahar*
+- *aharvidā* ← *ahar*
 - \[noun\], neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *aharvidā* \< *vidā* \< *vid*
+- *aharvidā* ← *vidā* ← *vid*
 - \[noun\], vocative, dual, masculine
 - “conversant(p); aware(p); enlightened; understanding.”
 ------------------------------------------------------------------------
@@ -38,15 +38,15 @@ title = "Rig Veda 8.5.9"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *pathaḥ* \< *pathin*
+- *pathaḥ* ← *pathin*
 - \[noun\], accusative, plural, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *sātaye* \< *sāti*
+- *sātaye* ← *sāti*
 - \[noun\], dative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------
-- *sitam* \< *si*
+- *sitam* ← *si*
 - \[verb\], dual, Aorist imperative
 - “tie.”
 ------------------------------------------------------------------------

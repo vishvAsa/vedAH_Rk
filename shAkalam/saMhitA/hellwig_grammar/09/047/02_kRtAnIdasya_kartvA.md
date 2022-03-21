@@ -2,7 +2,7 @@
 title = "Rig Veda 9.47.2"
 
 +++
--   *kṛtānīd* \< *kṛtāni* \< *kṛ*
+-   *kṛtānīd* ← *kṛtāni* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -13,29 +13,29 @@ title = "Rig Veda 9.47.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *kṛtānīd* \< *id*
+- *kṛtānīd* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *kartvā* \< *kartva*
+- *kartvā* ← *kartva*
 - \[noun\], nominative, plural, neuter
 ------------------------------------------------------------------------
-- *cetante* \< *cit*
+- *cetante* ← *cit*
 - \[verb\], plural, Present indikative
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *dasyutarhaṇā* \< *dasyu*
+- *dasyutarhaṇā* ← *dasyu*
 - \[noun\], masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
-- *dasyutarhaṇā* \< *tarhaṇā* \< *tarhaṇa*
+- *dasyutarhaṇā* ← *tarhaṇā* ← *tarhaṇa*
 - \[noun\], nominative, plural, neuter
 ------------------------------------------------------------------------
-- *ṛṇā* \< *ṛṇa*
+- *ṛṇā* ← *ṛṇa*
 - \[noun\], accusative, plural, neuter
 - “debt; debt; ṛṇa \[word\].”
 ------------------------------------------------------------------------
@@ -43,11 +43,11 @@ title = "Rig Veda 9.47.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *dhṛṣṇuś* \< *dhṛṣṇuḥ* \< *dhṛṣṇu*
+- *dhṛṣṇuś* ← *dhṛṣṇuḥ* ← *dhṛṣṇu*
 - \[noun\], nominative, singular, masculine
 - “brave; ferocious; strong.”
 ------------------------------------------------------------------------
-- *cayate* \< *ci*
+- *cayate* ← *ci*
 - \[verb\], singular, Present indikative
 - “cover; accumulate; pile up; pick; cover.”
 ------------------------------------------------------------------------

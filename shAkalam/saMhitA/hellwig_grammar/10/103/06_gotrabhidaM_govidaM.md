@@ -2,54 +2,54 @@
 title = "Rig Veda 10.103.6"
 
 +++
--   *gotrabhidaṃ* \< *gotra*
+-   *gotrabhidaṃ* ← *gotra*
 - \[noun\], neuter
 - “Gotra; patronymic; gotra \[word\]; name; family; family; kin;
     Gotra; mountain; herd; cow pen; cowbarn.”
 ------------------------------------------------------------------------
-- *gotrabhidaṃ* \< *bhidam* \< *bhid*
+- *gotrabhidaṃ* ← *bhidam* ← *bhid*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *govidaṃ* \< *go*
+- *govidaṃ* ← *go*
 - \[noun\]
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *govidaṃ* \< *vidam* \< *vid*
+- *govidaṃ* ← *vidam* ← *vid*
 - \[noun\], accusative, singular, masculine
 - “finding.”
 ------------------------------------------------------------------------
-- *vajrabāhuṃ* \< *vajra*
+- *vajrabāhuṃ* ← *vajra*
 - \[noun\], masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *vajrabāhuṃ* \< *bāhum* \< *bāhu*
+- *vajrabāhuṃ* ← *bāhum* ← *bāhu*
 - \[noun\], accusative, singular, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
-- *jayantam* \< *ji*
+- *jayantam* ← *ji*
 - \[verb noun\], accusative, singular
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *ajma* \< *ajman*
+- *ajma* ← *ajman*
 - \[noun\], accusative, singular, neuter
 - “drive.”
 ------------------------------------------------------------------------
-- *pramṛṇantam* \< *pramṛ* \< *√mṛ*
+- *pramṛṇantam* ← *pramṛ* ← *√mṛ*
 - \[verb noun\], accusative, singular
 - “butcher; massacre.”
 ------------------------------------------------------------------------
-- *ojasā* \< *ojas*
+- *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *imaṃ* \< *imam* \< *idam*
+- *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *sajātā* \< *sajātāḥ* \< *sajāta*
+- *sajātā* ← *sajātāḥ* ← *sajāta*
 - \[noun\], vocative, plural, masculine
 - “kinsman; companion; relative; countryman.”
 ------------------------------------------------------------------------
@@ -57,15 +57,15 @@ title = "Rig Veda 10.103.6"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *vīrayadhvam* \< *vīray*
+- *vīrayadhvam* ← *vīray*
 - \[verb\], plural, Present imperative
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sakhāyo* \< *sakhāyaḥ* \< *sakhi*
+- *sakhāyo* ← *sakhāyaḥ* ← *sakhi*
 - \[noun\], vocative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
@@ -73,11 +73,11 @@ title = "Rig Veda 10.103.6"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *rabhadhvam* \< *rabh*
+- *rabhadhvam* ← *rabh*
 - \[verb\], plural, Present imperative
 - “clasp.”
 ------------------------------------------------------------------------

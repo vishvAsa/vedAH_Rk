@@ -2,58 +2,58 @@
 title = "Rig Veda 1.164.29"
 
 +++
--   *ayaṃ* \< *ayam* \< *idam*
+-   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *śiṅkte* \< *śiñj*
+- *śiṅkte* ← *śiñj*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *yena* \< *yad*
+- *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *gaur* \< *gauḥ* \< *go*
+- *gaur* ← *gauḥ* ← *go*
 - \[noun\], nominative, singular, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *abhīvṛtā* \< *abhivṛ* \< *√vṛ*
+- *abhīvṛtā* ← *abhivṛ* ← *√vṛ*
 - \[verb noun\], nominative, singular
 - “cover.”
 ------------------------------------------------------------------------
-- *mimāti* \< *mā*
+- *mimāti* ← *mā*
 - \[verb\], singular, Present indikative
 - “moo; howl.”
 ------------------------------------------------------------------------
-- *māyuṃ* \< *māyum* \< *māyu*
+- *māyuṃ* ← *māyum* ← *māyu*
 - \[noun\], accusative, singular, masculine
 - “moo; boom.”
 ------------------------------------------------------------------------
-- *dhvasanāv* \< *dhvasanau* \< *dhvasani*
+- *dhvasanāv* ← *dhvasanau* ← *dhvasani*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *śritā* \< *śri*
+- *śritā* ← *śri*
 - \[verb noun\], nominative, singular
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 ------------------------------------------------------------------------
-- *sā* \< *tad*
+- *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *cittibhir* \< *cittibhiḥ* \< *citti*
+- *cittibhir* ← *cittibhiḥ* ← *citti*
 - \[noun\], instrumental, plural, feminine
 ------------------------------------------------------------------------
 - *ni*
@@ -64,7 +64,7 @@ title = "Rig Veda 1.164.29"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *cakāra* \< *kṛ*
+- *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -75,15 +75,15 @@ title = "Rig Veda 1.164.29"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *martyaṃ* \< *martyam* \< *martya*
+- *martyaṃ* ← *martyam* ← *martya*
 - \[noun\], accusative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------
-- *vidyud* \< *vidyut*
+- *vidyud* ← *vidyut*
 - \[noun\], nominative, singular, feminine
 - “lightning; Vidyut; thunderbolt.”
 ------------------------------------------------------------------------
-- *bhavantī* \< *bhū*
+- *bhavantī* ← *bhū*
 - \[verb noun\], nominative, singular
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
@@ -94,10 +94,10 @@ title = "Rig Veda 1.164.29"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *vavrim* \< *vavri*
+- *vavrim* ← *vavri*
 - \[noun\], accusative, singular, masculine
 - “covering; lurking place.”
 ------------------------------------------------------------------------
-- *auhata* \< *ūh*
+- *auhata* ← *ūh*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------

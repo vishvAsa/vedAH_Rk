@@ -6,14 +6,14 @@ title = "Rig Veda 7.32.21"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *duṣṭutī* \< *duṣṭuti*
+- *duṣṭutī* ← *duṣṭuti*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *martyo* \< *martyaḥ* \< *martya*
+- *martyo* ← *martyaḥ* ← *martya*
 - \[noun\], nominative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------
-- *vindate* \< *vid*
+- *vindate* ← *vid*
 - \[verb\], singular, Present indikative
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
@@ -25,27 +25,27 @@ title = "Rig Veda 7.32.21"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sredhantaṃ* \< *sredhantam* \< *sridh*
+- *sredhantaṃ* ← *sredhantam* ← *sridh*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *rayir* \< *rayiḥ* \< *rayi*
+- *rayir* ← *rayiḥ* ← *rayi*
 - \[noun\], nominative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *naśat* \< *naś*
+- *naśat* ← *naś*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “reach; achieve; enter (a state); reach.”
 ------------------------------------------------------------------------
-- *suśaktir* \< *su*
+- *suśaktir* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśaktir* \< *śaktiḥ* \< *śakti*
+- *suśaktir* ← *śaktiḥ* ← *śakti*
 - \[noun\], nominative, singular, feminine
 - “spear; ability; Shakti; potency; power; capacity; śakti \[word\];
     potency; capability; reproduction.”
 ------------------------------------------------------------------------
-- *in* \< *id*
+- *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -53,26 +53,26 @@ title = "Rig Veda 7.32.21"
 - \[noun\], locative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *tubhyam* \< *tvad*
+- *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *māvate* \< *māvat*
+- *māvate* ← *māvat*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *deṣṇaṃ* \< *deṣṇam* \< *deṣṇa*
+- *deṣṇaṃ* ← *deṣṇam* ← *deṣṇa*
 - \[noun\], nominative, singular, neuter
 - “gift; giving.”
 ------------------------------------------------------------------------
-- *yat* \< *yad*
+- *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *pārye* \< *pārya*
+- *pārye* ← *pārya*
 - \[noun\], locative, singular, masculine
 - “critical; decisive.”
 ------------------------------------------------------------------------
-- *divi* \< *div*
+- *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------

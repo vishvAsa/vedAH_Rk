@@ -11,11 +11,11 @@ title = "Rig Veda 10.137.3"
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *vāhi* \< *vā*
+- *vāhi* ← *vā*
 - \[verb\], singular, Present imperative
 - “blow; blow; emit.”
 ------------------------------------------------------------------------
-- *bheṣajaṃ* \< *bheṣajam* \< *bheṣaja*
+- *bheṣajaṃ* ← *bheṣajam* ← *bheṣaja*
 - \[noun\], accusative, singular, neuter
 - “drug; medicine; herb; bheṣaja \[word\]; remedy; reagent.”
 ------------------------------------------------------------------------
@@ -28,19 +28,19 @@ title = "Rig Veda 10.137.3"
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *vāhi* \< *vā*
+- *vāhi* ← *vā*
 - \[verb\], singular, Present imperative
 - “blow; blow; emit.”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *rapaḥ* \< *rapas*
+- *rapaḥ* ← *rapas*
 - \[noun\], nominative, singular, neuter
 - “injury; disease; infirmity; damage.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -48,25 +48,25 @@ title = "Rig Veda 10.137.3"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *viśvabheṣajo* \< *viśva*
+- *viśvabheṣajo* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvabheṣajo* \< *bheṣajaḥ* \< *bheṣaja*
+- *viśvabheṣajo* ← *bheṣajaḥ* ← *bheṣaja*
 - \[noun\], nominative, singular, masculine
 - “curative.”
 ------------------------------------------------------------------------
-- *devānāṃ* \< *devānām* \< *deva*
+- *devānāṃ* ← *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *dūta* \< *dūtaḥ* \< *dūta*
+- *dūta* ← *dūtaḥ* ← *dūta*
 - \[noun\], nominative, singular, masculine
 - “messenger; emissary; dūta \[word\].”
 ------------------------------------------------------------------------
-- *īyase* \< *i*
+- *īyase* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------

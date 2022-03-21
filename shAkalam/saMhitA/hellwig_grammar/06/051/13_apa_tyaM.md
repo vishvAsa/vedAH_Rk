@@ -6,49 +6,49 @@ title = "Rig Veda 6.51.13"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *tyaṃ* \< *tyam* \< *tya*
+- *tyaṃ* ← *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *vṛjinaṃ* \< *vṛjinam* \< *vṛjina*
+- *vṛjinaṃ* ← *vṛjinam* ← *vṛjina*
 - \[noun\], accusative, singular, masculine
 - “deceitful; crooked; bent.”
 ------------------------------------------------------------------------
-- *ripuṃ* \< *ripum* \< *ripu*
+- *ripuṃ* ← *ripum* ← *ripu*
 - \[noun\], accusative, singular, masculine
 - “enemy; arivarga; Ripu; foe.”
 ------------------------------------------------------------------------
-- *stenam* \< *stena*
+- *stenam* ← *stena*
 - \[noun\], accusative, singular, masculine
 - “thief; stena \[word\].”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *durādhyam* \< *durādhī*
+- *durādhyam* ← *durādhī*
 - \[noun\], accusative, singular, masculine
 - “malevolent.”
 ------------------------------------------------------------------------
-- *daviṣṭham* \< *daviṣṭha*
+- *daviṣṭham* ← *daviṣṭha*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *asya* \< *as*
+- *asya* ← *as*
 - \[verb\], singular, Present imperative
 - “shoot; remove.”
 ------------------------------------------------------------------------
-- *satpate* \< *sat*
+- *satpate* ← *sat*
 - \[noun\]
 - “good; good; real; existent; virtuous; sat \[prefix\]; real.”
 ------------------------------------------------------------------------
-- *satpate* \< *pate* \< *pati*
+- *satpate* ← *pate* ← *pati*
 - \[noun\], vocative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *kṛdhī* \< *kṛ*
+- *kṛdhī* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -59,6 +59,6 @@ title = "Rig Veda 6.51.13"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *sugam* \< *suga*
+- *sugam* ← *suga*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------

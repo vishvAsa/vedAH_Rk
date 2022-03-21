@@ -2,39 +2,39 @@
 title = "Rig Veda 4.32.3"
 
 +++
--   *dabhrebhiś* \< *dabhrebhiḥ* \< *dabhra*
+-   *dabhrebhiś* ← *dabhrebhiḥ* ← *dabhra*
 - \[noun\], instrumental, plural, masculine
 - “few; little(a); deficient.”
 ------------------------------------------------------------------------
-- *cicchaśīyāṃsaṃ* \< *cit*
+- *cicchaśīyāṃsaṃ* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *cicchaśīyāṃsaṃ* \< *śaśīyāṃsam* \< *śaśīyas*
+- *cicchaśīyāṃsaṃ* ← *śaśīyāṃsam* ← *śaśīyas*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *haṃsi* \< *han*
+- *haṃsi* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *vrādhantam* \< *vrādh*
+- *vrādhantam* ← *vrādh*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *ojasā* \< *ojas*
+- *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *sakhibhir* \< *sakhibhiḥ* \< *sakhi*
+- *sakhibhir* ← *sakhibhiḥ* ← *sakhi*
 - \[noun\], instrumental, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *tve* \< *tvad*
+- *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
 ------------------------------------------------------------------------

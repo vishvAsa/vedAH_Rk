@@ -2,27 +2,27 @@
 title = "Rig Veda 7.103.9"
 
 +++
--   *devahitiṃ* \< *deva*
+-   *devahitiṃ* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devahitiṃ* \< *hitim* \< *hiti*
+- *devahitiṃ* ← *hitim* ← *hiti*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *jugupur* \< *jugupuḥ* \< *gup*
+- *jugupur* ← *jugupuḥ* ← *gup*
 - \[verb\], plural, Perfect indicative
 - “protect; hide; guard; defend; cover.”
 ------------------------------------------------------------------------
-- *dvādaśasya* \< *dvādaśa*
+- *dvādaśasya* ← *dvādaśa*
 - \[noun\], genitive, singular, masculine
 - “twelfth.”
 ------------------------------------------------------------------------
-- *ṛtuṃ* \< *ṛtum* \< *ṛtu*
+- *ṛtuṃ* ← *ṛtum* ← *ṛtu*
 - \[noun\], accusative, singular, masculine
 - “season; turn; menstruation; ṛtu \[word\]; time period; order; six.”
 ------------------------------------------------------------------------
-- *naro* \< *naraḥ* \< *nṛ*
+- *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
@@ -34,41 +34,41 @@ title = "Rig Veda 7.103.9"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *minanty* \< *minanti* \< *mī*
+- *minanty* ← *minanti* ← *mī*
 - \[verb\], plural, Present indikative
 - “transgress; damage.”
 ------------------------------------------------------------------------
-- *ete* \< *etad*
+- *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *saṃvatsare* \< *saṃvatsara*
+- *saṃvatsare* ← *saṃvatsara*
 - \[noun\], locative, singular, masculine
 - “year; year; saṃvatsara \[word\].”
 ------------------------------------------------------------------------
-- *prāvṛṣy* \< *prāvṛṣi* \< *prāvṛṣ*
+- *prāvṛṣy* ← *prāvṛṣi* ← *prāvṛṣ*
 - \[noun\], locative, singular, feminine
 - “monsoon; rainy season; prāvṛṣ \[word\]; prāvṛṣ.”
 ------------------------------------------------------------------------
-- *āgatāyāṃ* \< *āgatāyām* \< *āgam* \< *√gam*
+- *āgatāyāṃ* ← *āgatāyām* ← *āgam* ← *√gam*
 - \[verb noun\], locative, singular
 - “come; arrive; return; enter (a state); approach; travel; enter;
     inherit; hand down; achieve; reach; appear; happen.”
 ------------------------------------------------------------------------
-- *taptā* \< *taptāḥ* \< *tap*
+- *taptā* ← *taptāḥ* ← *tap*
 - \[verb noun\], nominative, plural
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
 ------------------------------------------------------------------------
-- *gharmā* \< *gharmāḥ* \< *gharma*
+- *gharmā* ← *gharmāḥ* ← *gharma*
 - \[noun\], nominative, plural, masculine
 - “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
     caldron.”
 ------------------------------------------------------------------------
-- *aśnuvate* \< *aś*
+- *aśnuvate* ← *aś*
 - \[verb\], plural, Present indikative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *visargam* \< *visarga*
+- *visargam* ← *visarga*
 - \[noun\], accusative, singular, masculine
 - “ejaculation; visarga; elimination; end; creation.”
 ------------------------------------------------------------------------

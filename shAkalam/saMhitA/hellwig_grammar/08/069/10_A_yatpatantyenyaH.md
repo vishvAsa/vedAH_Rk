@@ -10,46 +10,46 @@ title = "Rig Veda 8.69.10"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *patanty* \< *patanti* \< *pat*
+- *patanty* ← *patanti* ← *pat*
 - \[verb\], plural, Present indikative
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
 ------------------------------------------------------------------------
-- *enyaḥ* \< *ena*
+- *enyaḥ* ← *ena*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *sudughā* \< *su*
+- *sudughā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudughā* \< *dughāḥ* \< *dugha*
+- *sudughā* ← *dughāḥ* ← *dugha*
 - \[noun\], nominative, plural, feminine
 - “yielding.”
 ------------------------------------------------------------------------
-- *anapasphuraḥ* \< *an*
+- *anapasphuraḥ* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *anapasphuraḥ* \< *apasphuraḥ* \< *apasphur*
+- *anapasphuraḥ* ← *apasphuraḥ* ← *apasphur*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *apasphuraṃ* \< *apasphuram* \< *apasphur*
+- *apasphuraṃ* ← *apasphuram* ← *apasphur*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *gṛbhāyata* \< *gṛbhāy* \< *√grah*
+- *gṛbhāyata* ← *gṛbhāy* ← *√grah*
 - \[verb\], plural, Present imperative
 - “accept.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pātave* \< *pā*
+- *pātave* ← *pā*
 - \[verb noun\]
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------

@@ -2,21 +2,21 @@
 title = "Rig Veda 10.37.2"
 
 +++
--   *sā* \< *tad*
+-   *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *satyoktiḥ* \< *satyā* \< *satya*
+- *satyoktiḥ* ← *satyā* ← *satya*
 - \[noun\], nominative, singular, feminine
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *satyoktiḥ* \< *uktiḥ* \< *ukti*
+- *satyoktiḥ* ← *uktiḥ* ← *ukti*
 - \[noun\], nominative, singular, feminine
 - “teaching; word; expression.”
 ------------------------------------------------------------------------
@@ -24,15 +24,15 @@ title = "Rig Veda 10.37.2"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *pātu* \< *pā*
+- *pātu* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *viśvato* \< *viśvatas*
+- *viśvato* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
 ------------------------------------------------------------------------
-- *dyāvā* \< *div*
+- *dyāvā* ← *div*
 - \[noun\], nominative, dual, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -44,12 +44,12 @@ title = "Rig Veda 10.37.2"
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *tatanann* \< *tatanan* \< *tan*
+- *tatanann* ← *tatanan* ← *tan*
 - \[verb\], plural, Perfect conjunctive (subj.)
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
 ------------------------------------------------------------------------
-- *ahāni* \< *ahar*
+- *ahāni* ← *ahar*
 - \[noun\], nominative, plural, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
@@ -57,12 +57,12 @@ title = "Rig Veda 10.37.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *viśvam* \< *viśva*
+- *viśvam* ← *viśva*
 - \[noun\], nominative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *anyan* \< *anyat* \< *anya*
+- *anyan* ← *anyat* ← *anya*
 - \[noun\], nominative, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
@@ -71,39 +71,39 @@ title = "Rig Veda 10.37.2"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *viśate* \< *viś*
+- *viśate* ← *viś*
 - \[verb\], singular, Present indikative
 - “enter; penetrate; settle; settle.”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ejati* \< *ej*
+- *ejati* ← *ej*
 - \[verb\], singular, Present indikative
 - “move; stir; tremble; travel.”
 ------------------------------------------------------------------------
-- *viśvāhāpo* \< *viśvāhā*
+- *viśvāhāpo* ← *viśvāhā*
 - \[adverb\]
 - “always.”
 ------------------------------------------------------------------------
-- *viśvāhāpo* \< *āpaḥ* \< *ap*
+- *viśvāhāpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, masculine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *viśvāhod* \< *viśvāhā*
+- *viśvāhod* ← *viśvāhā*
 - \[adverb\]
 - “always.”
 ------------------------------------------------------------------------
-- *viśvāhod* \< *ud*
+- *viśvāhod* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *sūryaḥ* \< *sūrya*
+- *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”

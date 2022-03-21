@@ -2,19 +2,19 @@
 title = "Rig Veda 1.24.10"
 
 +++
--   *amī* \< *adas*
+-   *amī* ← *adas*
 - \[noun\], nominative, plural, masculine
 - “that; John Doe; yonder; from here.”
 ------------------------------------------------------------------------
-- *ya* \< *ye* \< *yad*
+- *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ṛkṣā* \< *ṛkṣāḥ* \< *ṛkṣa*
+- *ṛkṣā* ← *ṛkṣāḥ* ← *ṛkṣa*
 - \[noun\], nominative, plural, masculine
 - “constellation; star; Nakṣatra; sign of the zodiac.”
 ------------------------------------------------------------------------
-- *nihitāsa* \< *nihitāsaḥ* \< *nidhā* \< *√dhā*
+- *nihitāsa* ← *nihitāsaḥ* ← *nidhā* ← *√dhā*
 - \[verb noun\], nominative, plural
 - “put; fill into; stow; insert; ignite; insert; add; put on;
     establish; keep down.”
@@ -23,11 +23,11 @@ title = "Rig Veda 1.24.10"
 - \[adverb\]
 - “above.”
 ------------------------------------------------------------------------
-- *naktaṃ* \< *naktam* \< *nakta*
+- *naktaṃ* ← *naktam* ← *nakta*
 - \[noun\], accusative, singular, neuter
 - “night; night.”
 ------------------------------------------------------------------------
-- *dadṛśre* \< *dṛś*
+- *dadṛśre* ← *dṛś*
 - \[verb\], plural, Perfect indicative
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
@@ -37,45 +37,45 @@ title = "Rig Veda 1.24.10"
 - \[adverb\]
 - “wherein.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *diveyuḥ* \< *divā*
+- *diveyuḥ* ← *divā*
 - \[adverb\]
 - “by day; divā \[indecl.\].”
 ------------------------------------------------------------------------
-- *diveyuḥ* \< *īyuḥ* \< *i*
+- *diveyuḥ* ← *īyuḥ* ← *i*
 - \[verb\], plural, Perfect indicative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *adabdhāni* \< *adabdha*
+- *adabdhāni* ← *adabdha*
 - \[noun\], nominative, plural, neuter
 - “unfailing; unimpaired.”
 ------------------------------------------------------------------------
-- *varuṇasya* \< *varuṇa*
+- *varuṇasya* ← *varuṇa*
 - \[noun\], genitive, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *vratāni* \< *vrata*
+- *vratāni* ← *vrata*
 - \[noun\], nominative, plural, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *vicākaśac* \< *vicākaśat* \< *vicākaś* \< *√kāś*
+- *vicākaśac* ← *vicākaśat* ← *vicākaś* ← *√kāś*
 - \[verb noun\], nominative, singular
 - “inspect; visit.”
 ------------------------------------------------------------------------
-- *candramā* \< *candramāḥ* \< *candramas*
+- *candramā* ← *candramāḥ* ← *candramas*
 - \[noun\], nominative, singular, masculine
 - “moon; Candra; candramas.”
 ------------------------------------------------------------------------
-- *naktam* \< *nakta*
+- *naktam* ← *nakta*
 - \[noun\], accusative, singular, neuter
 - “night; night.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------

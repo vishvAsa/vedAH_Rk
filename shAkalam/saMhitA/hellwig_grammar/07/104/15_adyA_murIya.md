@@ -2,11 +2,11 @@
 title = "Rig Veda 7.104.15"
 
 +++
--   *adyā* \< *adya*
+-   *adyā* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *murīya* \< *mṛ*
+- *murīya* ← *mṛ*
 - \[verb\], singular, Aorist optative
 - “mṛ; die; disappear; go out.”
 ------------------------------------------------------------------------
@@ -14,11 +14,11 @@ title = "Rig Veda 7.104.15"
 - \[adverb\]
 - “if; in case.”
 ------------------------------------------------------------------------
-- *yātudhāno* \< *yātudhānaḥ* \< *yātudhāna*
+- *yātudhāno* ← *yātudhānaḥ* ← *yātudhāna*
 - \[noun\], nominative, singular, masculine
 - “sorcerer; Rākṣasa; Yātudhāna; rākṣasavaktravant.”
 ------------------------------------------------------------------------
-- *asmi* \< *as*
+- *asmi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -27,23 +27,23 @@ title = "Rig Veda 7.104.15"
 - \[adverb\]
 - “if; in case.”
 ------------------------------------------------------------------------
-- *vāyus* \< *vā*
+- *vāyus* ← *vā*
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *vāyus* \< *āyuḥ* \< *āyus*
+- *vāyus* ← *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------
-- *tatapa* \< *tap*
+- *tatapa* ← *tap*
 - \[verb\], singular, Perfect indicative
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
 ------------------------------------------------------------------------
-- *pūruṣasya* \< *pūruṣa*
+- *pūruṣasya* ← *pūruṣa*
 - \[noun\], genitive, singular, masculine
 - “man; man; Puruṣa.”
 ------------------------------------------------------------------------
-- *adhā* \< *adha*
+- *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
@@ -51,11 +51,11 @@ title = "Rig Veda 7.104.15"
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *vīrair* \< *vīraiḥ* \< *vīra*
+- *vīrair* ← *vīraiḥ* ← *vīra*
 - \[noun\], instrumental, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *daśabhir* \< *daśabhiḥ* \< *daśan*
+- *daśabhir* ← *daśabhiḥ* ← *daśan*
 - \[noun\], instrumental, plural, masculine
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
@@ -63,31 +63,31 @@ title = "Rig Veda 7.104.15"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *yūyā* \< *yūyāḥ* \< *yu*
+- *yūyā* ← *yūyāḥ* ← *yu*
 - \[verb\], singular, Prekativ
 - “keep away; separate; ward off.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *moghaṃ* \< *mogham* \< *mogha*
+- *moghaṃ* ← *mogham* ← *mogha*
 - \[noun\], accusative, singular, neuter
 - “bootless; untrue; causeless.”
 ------------------------------------------------------------------------
-- *yātudhānety* \< *yātudhāna*
+- *yātudhānety* ← *yātudhāna*
 - \[noun\], vocative, singular, masculine
 - “sorcerer; Rākṣasa; Yātudhāna; rākṣasavaktravant.”
 ------------------------------------------------------------------------
-- *yātudhānety* \< *iti*
+- *yātudhānety* ← *iti*
 - \[adverb\]
 - “thus; so; iti \[word\].”
 ------------------------------------------------------------------------
-- *āha* \< *ah*
+- *āha* ← *ah*
 - \[verb\], singular, Perfect indicative
 - “describe; state; say; enumerate; call; name; teach; tell; deem;
     explain; say; define.”

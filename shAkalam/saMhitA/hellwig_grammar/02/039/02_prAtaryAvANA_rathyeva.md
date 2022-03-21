@@ -2,39 +2,39 @@
 title = "Rig Veda 2.39.2"
 
 +++
--   *prātaryāvāṇā* \< *prātar*
+-   *prātaryāvāṇā* ← *prātar*
 - \[adverb\]
 - “at dawn; early.”
 ------------------------------------------------------------------------
-- *prātaryāvāṇā* \< *yāvāṇā* \< *yāvan*
+- *prātaryāvāṇā* ← *yāvāṇā* ← *yāvan*
 - \[noun\], nominative, dual, masculine
 - “traveler.”
 ------------------------------------------------------------------------
-- *rathyeva* \< *rathyā* \< *rathya*
+- *rathyeva* ← *rathyā* ← *rathya*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *rathyeva* \< *iva*
+- *rathyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *vīrājeva* \< *vīrā* \< *vīra*
+- *vīrājeva* ← *vīrā* ← *vīra*
 - \[noun\], nominative, dual, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *vīrājeva* \< *ajā* \< *aja*
+- *vīrājeva* ← *ajā* ← *aja*
 - \[noun\], nominative, dual, masculine
 - “goat; Vishnu; Brahma; Shiva; Aja; aja \[word\]; Aja; aj; Ocimum
     gratissimum; Puruṣa.”
 ------------------------------------------------------------------------
-- *vīrājeva* \< *iva*
+- *vīrājeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *yamā* \< *yamāḥ* \< *yama*
+- *yamā* ← *yamāḥ* ← *yama*
 - \[noun\], nominative, plural, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
 ------------------------------------------------------------------------
-- *varam* \< *vara*
+- *varam* ← *vara*
 - \[noun\], accusative, singular, masculine
 - “gift; favor; wish; privilege; varac; wages.”
 ------------------------------------------------------------------------
@@ -42,11 +42,11 @@ title = "Rig Veda 2.39.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sacethe* \< *sac*
+- *sacethe* ← *sac*
 - \[verb\], dual, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *mene* \< *menā*
+- *mene* ← *menā*
 - \[noun\], nominative, dual, feminine
 - “Menā; woman; Menā; Durga.”
 ------------------------------------------------------------------------
@@ -54,32 +54,32 @@ title = "Rig Veda 2.39.2"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *tanvā* \< *tanū*
+- *tanvā* ← *tanū*
 - \[noun\], instrumental, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *śumbhamāne* \< *śubh*
+- *śumbhamāne* ← *śubh*
 - \[verb noun\], nominative, dual
 - “look; shine; beautify.”
 ------------------------------------------------------------------------
-- *dampatīva* \< *dampatī* \< *dampati*
+- *dampatīva* ← *dampatī* ← *dampati*
 - \[noun\], nominative, dual, masculine
 - “couple.”
 ------------------------------------------------------------------------
-- *dampatīva* \< *iva*
+- *dampatīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *kratuvidā* \< *kratu*
+- *kratuvidā* ← *kratu*
 - \[noun\], masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *kratuvidā* \< *vidā* \< *vid*
+- *kratuvidā* ← *vidā* ← *vid*
 - \[noun\], nominative, dual, masculine
 - “conversant(p); aware(p); enlightened; understanding.”
 ------------------------------------------------------------------------
-- *janeṣu* \< *jana*
+- *janeṣu* ← *jana*
 - \[noun\], locative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”

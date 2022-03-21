@@ -2,15 +2,15 @@
 title = "Rig Veda 6.28.2"
 
 +++
--   *indro* \< *indraḥ* \< *indra*
+-   *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yajvane* \< *yajvan*
+- *yajvane* ← *yajvan*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *pṛṇate* \< *pṛṇ*
+- *pṛṇate* ← *pṛṇ*
 - \[verb noun\], dative, singular
 - “satisfy.”
 ------------------------------------------------------------------------
@@ -18,19 +18,19 @@ title = "Rig Veda 6.28.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *śikṣaty* \< *śikṣati* \< *śikṣ*
+- *śikṣaty* ← *śikṣati* ← *śikṣ*
 - \[verb\], singular, Present indikative
 - “help; give.”
 ------------------------------------------------------------------------
-- *uped* \< *upa*
+- *uped* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *uped* \< *id*
+- *uped* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *dadāti* \< *dā*
+- *dadāti* ← *dā*
 - \[verb\], singular, Present indikative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
@@ -41,23 +41,23 @@ title = "Rig Veda 6.28.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *svam* \< *sva*
+- *svam* ← *sva*
 - \[noun\], accusative, singular, neuter
 - “property; wealth.”
 ------------------------------------------------------------------------
-- *muṣāyati* \< *muṣāy* \< *√muṣ*
+- *muṣāyati* ← *muṣāy* ← *√muṣ*
 - \[verb\], singular, Present indikative
 - “steal; rob.”
 ------------------------------------------------------------------------
-- *bhūyo* \< *bhūyas*
+- *bhūyo* ← *bhūyas*
 - \[adverb\]
 - “again; further; further; repeatedly.”
 ------------------------------------------------------------------------
-- *bhūyo* \< *bhūyas*
+- *bhūyo* ← *bhūyas*
 - \[adverb\]
 - “again; further; further; repeatedly.”
 ------------------------------------------------------------------------
-- *rayim* \< *rayi*
+- *rayim* ← *rayi*
 - \[noun\], accusative, singular, feminine
 - “wealth; property.”
 ------------------------------------------------------------------------
@@ -65,19 +65,19 @@ title = "Rig Veda 6.28.2"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vardhayann* \< *vardhayan* \< *vardhay* \< *√vṛdh*
+- *vardhayann* ← *vardhayan* ← *vardhay* ← *√vṛdh*
 - \[verb noun\], nominative, singular
 - “increase; strengthen; promote; rear; add; greet; laud.”
 ------------------------------------------------------------------------
-- *abhinne* \< *abhinna*
+- *abhinne* ← *abhinna*
 - \[noun\], locative, singular, masculine
 - “uncut; unfestering; identical; unbroken.”
 ------------------------------------------------------------------------
-- *khilye* \< *khilya*
+- *khilye* ← *khilya*
 - \[noun\], locative, singular, masculine
 - “barren.”
 ------------------------------------------------------------------------
@@ -85,12 +85,12 @@ title = "Rig Veda 6.28.2"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *dadhāti* \< *dhā*
+- *dadhāti* ← *dhā*
 - \[verb\], singular, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *devayum* \< *devayu*
+- *devayum* ← *devayu*
 - \[noun\], accusative, singular, masculine
 - “devout; devoted.”
 ------------------------------------------------------------------------

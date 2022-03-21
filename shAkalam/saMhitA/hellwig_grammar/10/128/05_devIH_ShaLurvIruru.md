@@ -2,15 +2,15 @@
 title = "Rig Veda 10.128.5"
 
 +++
--   *devīḥ* \< *devī*
+-   *devīḥ* ← *devī*
 - \[noun\], vocative, plural, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *ṣaḍ* \< *ṣaṣ*
+- *ṣaḍ* ← *ṣaṣ*
 - \[noun\], vocative, plural, feminine
 - “six; ṣaṣ; sixth; ṣaṣ \[word\].”
 ------------------------------------------------------------------------
-- *urvīr* \< *urvīḥ* \< *uru*
+- *urvīr* ← *urvīḥ* ← *uru*
 - \[noun\], vocative, plural, feminine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
@@ -18,11 +18,11 @@ title = "Rig Veda 10.128.5"
 - \[noun\], accusative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *kṛṇota* \< *kṛ*
+- *kṛṇota* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -33,12 +33,12 @@ title = "Rig Veda 10.128.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *viśve* \< *viśva*
+- *viśve* ← *viśva*
 - \[noun\], vocative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *devāsa* \< *devāsaḥ* \< *deva*
+- *devāsa* ← *devāsaḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -47,21 +47,21 @@ title = "Rig Veda 10.128.5"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *vīrayadhvam* \< *vīray*
+- *vīrayadhvam* ← *vīray*
 - \[verb\], plural, Present imperative
 ------------------------------------------------------------------------
 - *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *hāsmahi* \< *hā*
+- *hāsmahi* ← *hā*
 - \[verb\], plural, Aorist inj. (proh.)
 - “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
     lose; avoid; remove; leave; abandon; neglect; leave; discard;
     apostatize; discontinue; weaken; abandon; assail; subtract;
     foreswear; pour away; withdraw; depart; reduce.”
 ------------------------------------------------------------------------
-- *prajayā* \< *prajā*
+- *prajayā* ← *prajā*
 - \[noun\], instrumental, singular, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”
@@ -70,7 +70,7 @@ title = "Rig Veda 10.128.5"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *tanūbhir* \< *tanūbhiḥ* \< *tanū*
+- *tanūbhir* ← *tanūbhiḥ* ← *tanū*
 - \[noun\], instrumental, plural, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
@@ -78,11 +78,11 @@ title = "Rig Veda 10.128.5"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *radhāma* \< *radh*
+- *radhāma* ← *radh*
 - \[verb\], plural, Aorist inj. (proh.)
 - “subjugate.”
 ------------------------------------------------------------------------
-- *dviṣate* \< *dviṣ*
+- *dviṣate* ← *dviṣ*
 - \[verb noun\], dative, singular
 - “hate; dislike.”
 ------------------------------------------------------------------------

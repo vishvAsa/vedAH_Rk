@@ -6,26 +6,26 @@ title = "Rig Veda 8.67.9"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mṛcā* \< *mṛc*
+- *mṛcā* ← *mṛc*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *ripūṇāṃ* \< *ripūṇām* \< *ripu*
+- *ripūṇāṃ* ← *ripūṇām* ← *ripu*
 - \[noun\], genitive, plural, masculine
 - “enemy; arivarga; Ripu; foe.”
 ------------------------------------------------------------------------
-- *vṛjinānām* \< *vṛjina*
+- *vṛjinānām* ← *vṛjina*
 - \[noun\], genitive, plural, masculine
 - “deceitful; crooked; bent.”
 ------------------------------------------------------------------------
-- *aviṣyavaḥ* \< *aviṣyu*
+- *aviṣyavaḥ* ← *aviṣyu*
 - \[noun\], vocative, plural, masculine
 - “impetuous.”
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -38,7 +38,7 @@ title = "Rig Veda 8.67.9"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *mṛkṣata* \< *mṛś*
+- *mṛkṣata* ← *mṛś*
 - \[verb\], plural, Aorist inj. (proh.)
 - “touch.”
 ------------------------------------------------------------------------

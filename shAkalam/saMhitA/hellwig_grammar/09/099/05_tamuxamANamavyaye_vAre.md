@@ -2,33 +2,33 @@
 title = "Rig Veda 9.99.5"
 
 +++
--   *tam* \< *tad*
+-   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ukṣamāṇam* \< *ukṣ*
+- *ukṣamāṇam* ← *ukṣ*
 - \[verb noun\], accusative, singular
 - “sprinkle; wet.”
 ------------------------------------------------------------------------
-- *avyaye* \< *avyaya*
+- *avyaye* ← *avyaya*
 - \[noun\], locative, singular, masculine
 - “sheep.”
 ------------------------------------------------------------------------
-- *vāre* \< *vāra*
+- *vāre* ← *vāra*
 - \[noun\], locative, singular, masculine
 - “strainer.”
 ------------------------------------------------------------------------
-- *punanti* \< *pū*
+- *punanti* ← *pū*
 - \[verb\], plural, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *dharṇasim* \< *dharṇasi*
+- *dharṇasim* ← *dharṇasi*
 - \[noun\], accusative, singular, masculine
 - “permanent; firm.”
 ------------------------------------------------------------------------
-- *dūtaṃ* \< *dūtam* \< *dūta*
+- *dūtaṃ* ← *dūtam* ← *dūta*
 - \[noun\], accusative, singular, masculine
 - “messenger; emissary; dūta \[word\].”
 ------------------------------------------------------------------------
@@ -36,7 +36,7 @@ title = "Rig Veda 9.99.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pūrvacittaya* \< *pūrvacittaye* \< *pūrvacitti*
+- *pūrvacittaya* ← *pūrvacittaye* ← *pūrvacitti*
 - \[noun\], dative, singular, feminine
 - “Pūrvacitti.”
 ------------------------------------------------------------------------
@@ -44,12 +44,12 @@ title = "Rig Veda 9.99.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *śāsate* \< *śās*
+- *śāsate* ← *śās*
 - \[verb\], plural, Present indikative
 - “teach; govern; command; order; control; tell; recommend; chastize;
     instruct.”
 ------------------------------------------------------------------------
-- *manīṣiṇaḥ* \< *manīṣin*
+- *manīṣiṇaḥ* ← *manīṣin*
 - \[noun\], nominative, plural, masculine
 - “sage; expert; devout.”
 ------------------------------------------------------------------------

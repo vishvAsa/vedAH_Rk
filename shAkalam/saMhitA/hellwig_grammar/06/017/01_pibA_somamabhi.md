@@ -2,11 +2,11 @@
 title = "Rig Veda 6.17.1"
 
 +++
--   *pibā* \< *pā*
+-   *pibā* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -14,7 +14,7 @@ title = "Rig Veda 6.17.1"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *yam* \< *yad*
+- *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -23,22 +23,22 @@ title = "Rig Veda 6.17.1"
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *tarda* \< *tardaḥ* \< *tṛd*
+- *tarda* ← *tardaḥ* ← *tṛd*
 - \[verb\], singular, Aorist conj./subj.
 ------------------------------------------------------------------------
-- *ūrvaṃ* \< *ūrvam* \< *ūrva*
+- *ūrvaṃ* ← *ūrvam* ← *ūrva*
 - \[noun\], accusative, singular, masculine
 - “pen; Aurva; ocean.”
 ------------------------------------------------------------------------
-- *gavyam* \< *gavya*
+- *gavyam* ← *gavya*
 - \[noun\], accusative, singular, masculine
 - “bovine.”
 ------------------------------------------------------------------------
-- *mahi* \< *mah*
+- *mahi* ← *mah*
 - \[noun\], accusative, plural, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *gṛṇāna* \< *gṛṇānaḥ* \< *gṛ*
+- *gṛṇāna* ← *gṛṇānaḥ* ← *gṛ*
 - \[verb noun\], nominative, singular
 - “praise.”
 ------------------------------------------------------------------------
@@ -51,15 +51,15 @@ title = "Rig Veda 6.17.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dhṛṣṇo* \< *dhṛṣṇu*
+- *dhṛṣṇo* ← *dhṛṣṇu*
 - \[noun\], vocative, singular, masculine
 - “brave; ferocious; strong.”
 ------------------------------------------------------------------------
-- *vadhiṣo* \< *vadhiṣaḥ* \< *vadh*
+- *vadhiṣo* ← *vadhiṣaḥ* ← *vadh*
 - \[verb\], singular, Aorist conj./subj.
 - “kill; assail; kick; māray; destroy; beat.”
 ------------------------------------------------------------------------
@@ -67,20 +67,20 @@ title = "Rig Veda 6.17.1"
 - \[noun\], vocative, singular, masculine
 - “Indra; Shiva.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *vṛtram* \< *vṛtra*
+- *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, neuter
 - “enemy.”
 ------------------------------------------------------------------------
-- *amitriyā* \< *amitriya*
+- *amitriyā* ← *amitriya*
 - \[noun\], accusative, plural, neuter
 - “hostile.”
 ------------------------------------------------------------------------
-- *śavobhiḥ* \< *śavas*
+- *śavobhiḥ* ← *śavas*
 - \[noun\], instrumental, plural, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------

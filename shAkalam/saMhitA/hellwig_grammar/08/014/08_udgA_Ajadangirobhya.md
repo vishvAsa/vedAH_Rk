@@ -6,21 +6,21 @@ title = "Rig Veda 8.14.8"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *gā* \< *gāḥ* \< *go*
+- *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *ājad* \< *ājat* \< *aj*
+- *ājad* ← *ājat* ← *aj*
 - \[verb\], singular, Imperfect
 - “drive; expel.”
 ------------------------------------------------------------------------
-- *aṅgirobhya* \< *aṅgirobhyaḥ* \< *aṅgiras*
+- *aṅgirobhya* ← *aṅgirobhyaḥ* ← *aṅgiras*
 - \[noun\], dative, plural, masculine
 - “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
     Aṅgiras.”
 ------------------------------------------------------------------------
-- *āviṣkṛṇvan* \< *āviṣkṛ* \< *√kṛ*
+- *āviṣkṛṇvan* ← *āviṣkṛ* ← *√kṛ*
 - \[verb noun\], nominative, singular
 - “show; uncover.”
 ------------------------------------------------------------------------
@@ -28,20 +28,20 @@ title = "Rig Veda 8.14.8"
 - \[adverb\]
 - “secretly.”
 ------------------------------------------------------------------------
-- *satīḥ* \< *as*
+- *satīḥ* ← *as*
 - \[verb noun\], accusative, plural
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *arvāñcaṃ* \< *arvāñcam* \< *arvāñc*
+- *arvāñcaṃ* ← *arvāñcam* ← *arvāñc*
 - \[noun\], accusative, singular, masculine
 - “approaching; facing; less.”
 ------------------------------------------------------------------------
-- *nunude* \< *nud*
+- *nunude* ← *nud*
 - \[verb\], singular, Perfect indicative
 - “push; propel; expel; push; move.”
 ------------------------------------------------------------------------
-- *valam* \< *vala*
+- *valam* ← *vala*
 - \[noun\], accusative, singular, masculine
 - “Vala; vala; cave.”
 ------------------------------------------------------------------------

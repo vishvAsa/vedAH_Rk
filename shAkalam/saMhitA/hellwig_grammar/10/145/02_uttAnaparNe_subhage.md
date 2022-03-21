@@ -2,37 +2,37 @@
 title = "Rig Veda 10.145.2"
 
 +++
--   *uttānaparṇe* \< *uttāna*
+-   *uttānaparṇe* ← *uttāna*
 - \[noun\]
 - “supine; upward; upright; skin-deep; raised; shallow.”
 ------------------------------------------------------------------------
-- *uttānaparṇe* \< *parṇe* \< *parṇa*
+- *uttānaparṇe* ← *parṇe* ← *parṇa*
 - \[noun\], vocative, singular, feminine
 - “leaf; feather; parṇa \[word\]; leaf; wing.”
 ------------------------------------------------------------------------
-- *subhage* \< *subhaga*
+- *subhage* ← *subhaga*
 - \[noun\], vocative, singular, feminine
 - “beautiful; auspicious; beloved; fine-looking; fortunate; subhaga
     \[word\]; charming; pleasing; lucky.”
 ------------------------------------------------------------------------
-- *devajūte* \< *deva*
+- *devajūte* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devajūte* \< *jūte* \< *jū*
+- *devajūte* ← *jūte* ← *jū*
 - \[verb noun\], vocative, singular
 - “animate; encourage; impel; inspire.”
 ------------------------------------------------------------------------
-- *sahasvati* \< *sahasvat*
+- *sahasvati* ← *sahasvat*
 - \[noun\], vocative, singular, feminine
 - “mighty; powerful.”
 ------------------------------------------------------------------------
-- *sapatnīm* \< *sapatnī*
+- *sapatnīm* ← *sapatnī*
 - \[noun\], accusative, singular, feminine
 - “sapatnī; rival; sapatnī \[word\]; mistress.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -40,25 +40,25 @@ title = "Rig Veda 10.145.2"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *dhama* \< *dham*
+- *dhama* ← *dham*
 - \[verb\], singular, Present imperative
 - “heat; blow; fan; blow; ignite; blow; inflate.”
 ------------------------------------------------------------------------
-- *patim* \< *pati*
+- *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *kevalaṃ* \< *kevalam* \< *kevala*
+- *kevalaṃ* ← *kevalam* ← *kevala*
 - \[noun\], accusative, singular, masculine
 - “pure; alone(p); whole; all(a); pure; entire; kevala \[word\];
     alone(p); single(a); white; absolute.”
 ------------------------------------------------------------------------
-- *kuru* \< *kṛ*
+- *kuru* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

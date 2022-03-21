@@ -2,53 +2,53 @@
 title = "Rig Veda 1.117.18"
 
 +++
--   *śunam* \< *śuna*
+-   *śunam* ← *śuna*
 - \[noun\], accusative, singular, neuter
 - “well-being; success.”
 ------------------------------------------------------------------------
-- *andhāya* \< *andha*
+- *andhāya* ← *andha*
 - \[noun\], dative, singular, masculine
 - “blind; andha \[word\]; andha; blind; complete; dark.”
 ------------------------------------------------------------------------
-- *bharam* \< *bhara*
+- *bharam* ← *bhara*
 - \[noun\], accusative, singular, masculine
 - “battle; weight; foray; bhṛ; load.”
 ------------------------------------------------------------------------
-- *ahvayat* \< *hvā*
+- *ahvayat* ← *hvā*
 - \[verb\], singular, Imperfect
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *sā* \< *tad*
+- *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vṛkīr* \< *vṛkīḥ* \< *vṛkī*
+- *vṛkīr* ← *vṛkīḥ* ← *vṛkī*
 - \[noun\], nominative, singular, feminine
 - “wolf.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *vṛṣaṇā* \< *vṛṣan*
+- *vṛṣaṇā* ← *vṛṣan*
 - \[noun\], vocative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *nareti* \< *narā* \< *nṛ*
+- *nareti* ← *narā* ← *nṛ*
 - \[noun\], nominative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nareti* \< *iti*
+- *nareti* ← *iti*
 - \[adverb\]
 - “thus; so; iti \[word\].”
 ------------------------------------------------------------------------
-- *jāraḥ* \< *jāra*
+- *jāraḥ* ← *jāra*
 - \[noun\], nominative, singular, masculine
 - “fancy man.”
 ------------------------------------------------------------------------
-- *kanīna* \< *kanīnaḥ* \< *kanīna*
+- *kanīna* ← *kanīnaḥ* ← *kanīna*
 - \[noun\], nominative, singular, masculine
 - “young; kanīna \[word\].”
 ------------------------------------------------------------------------
@@ -56,19 +56,19 @@ title = "Rig Veda 1.117.18"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *cakṣadāna* \< *cakṣadānaḥ* \< *kṣad*
+- *cakṣadāna* ← *cakṣadānaḥ* ← *kṣad*
 - \[verb noun\], nominative, singular
 - “butcher; carve.”
 ------------------------------------------------------------------------
-- *ṛjrāśvaḥ* \< *ṛjrāśva*
+- *ṛjrāśvaḥ* ← *ṛjrāśva*
 - \[noun\], nominative, singular, masculine
 - “Ṛjrāśva.”
 ------------------------------------------------------------------------
-- *śatam* \< *śata*
+- *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *ekaṃ* \< *ekam* \< *eka*
+- *ekaṃ* ← *ekam* ← *eka*
 - \[noun\], accusative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
@@ -78,7 +78,7 @@ title = "Rig Veda 1.117.18"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *meṣān* \< *meṣa*
+- *meṣān* ← *meṣa*
 - \[noun\], accusative, plural, masculine
 - “sheep; ram; Naigameṣa.”
 ------------------------------------------------------------------------

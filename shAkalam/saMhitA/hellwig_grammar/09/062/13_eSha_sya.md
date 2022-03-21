@@ -2,11 +2,11 @@
 title = "Rig Veda 9.62.13"
 
 +++
--   *eṣa* \< *etad*
+-   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *sya* \< *tya*
+- *sya* ← *tya*
 - \[noun\], nominative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
@@ -14,30 +14,30 @@ title = "Rig Veda 9.62.13"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *ṣicyate* \< *sicyate* \< *sic*
+- *ṣicyate* ← *sicyate* ← *sic*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 ------------------------------------------------------------------------
-- *marmṛjyamāna* \< *marmṛjyamānaḥ* \< *marmṛj* \< *√mṛj*
+- *marmṛjyamāna* ← *marmṛjyamānaḥ* ← *marmṛj* ← *√mṛj*
 - \[verb noun\], nominative, singular
 - “groom; wash; rub.”
 ------------------------------------------------------------------------
-- *āyubhiḥ* \< *āyu*
+- *āyubhiḥ* ← *āyu*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *urugāyaḥ* \< *uru*
+- *urugāyaḥ* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *urugāyaḥ* \< *gāyaḥ* \< *gāya*
+- *urugāyaḥ* ← *gāyaḥ* ← *gāya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *kavikratuḥ* \< *kavi*
+- *kavikratuḥ* ← *kavi*
 - \[noun\], masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *kavikratuḥ* \< *kratuḥ* \< *kratu*
+- *kavikratuḥ* ← *kratuḥ* ← *kratu*
 - \[noun\], nominative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”

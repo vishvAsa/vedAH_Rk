@@ -2,72 +2,72 @@
 title = "Rig Veda 10.178.1"
 
 +++
--   *tyam* \< *tya*
+-   *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *ū* \< *u*
+- *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *vājinaṃ* \< *vājinam* \< *vājin*
+- *vājinaṃ* ← *vājinam* ← *vājin*
 - \[noun\], accusative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *devajūtaṃ* \< *deva*
+- *devajūtaṃ* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devajūtaṃ* \< *jūtam* \< *jū*
+- *devajūtaṃ* ← *jūtam* ← *jū*
 - \[verb noun\], accusative, singular
 - “animate; encourage; impel; inspire.”
 ------------------------------------------------------------------------
-- *sahāvānaṃ* \< *sahāvānam* \< *sahāvan*
+- *sahāvānaṃ* ← *sahāvānam* ← *sahāvan*
 - \[noun\], accusative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *tarutāraṃ* \< *tarutāram* \< *tarutṛ*
+- *tarutāraṃ* ← *tarutāram* ← *tarutṛ*
 - \[noun\], accusative, singular, masculine
 - “tarutṛ \[word\].”
 ------------------------------------------------------------------------
-- *rathānām* \< *ratha*
+- *rathānām* ← *ratha*
 - \[noun\], genitive, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *ariṣṭanemim* \< *ariṣṭa*
+- *ariṣṭanemim* ← *ariṣṭa*
 - \[noun\]
 - “safe; unharmed.”
 ------------------------------------------------------------------------
-- *ariṣṭanemim* \< *nemim* \< *nemi*
+- *ariṣṭanemim* ← *nemim* ← *nemi*
 - \[noun\], accusative, singular, masculine
 - “rim; felloe.”
 ------------------------------------------------------------------------
-- *pṛtanājam* \< *pṛtanāj*
+- *pṛtanājam* ← *pṛtanāj*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *āśuṃ* \< *āśum* \< *āśu*
+- *āśuṃ* ← *āśum* ← *āśu*
 - \[noun\], accusative, singular, masculine
 - “quick; fast; immediate; agile.”
 ------------------------------------------------------------------------
-- *svastaye* \< *svasti*
+- *svastaye* ← *svasti*
 - \[noun\], dative, singular, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
 ------------------------------------------------------------------------
-- *tārkṣyam* \< *tārkṣya*
+- *tārkṣyam* ← *tārkṣya*
 - \[noun\], accusative, singular, masculine
 - “emerald; Garuda; Shiva.”
 ------------------------------------------------------------------------
-- *ihā* \< *iha*
+- *ihā* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *huvema* \< *hvā*
+- *huvema* ← *hvā*
 - \[verb\], plural, Present optative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------

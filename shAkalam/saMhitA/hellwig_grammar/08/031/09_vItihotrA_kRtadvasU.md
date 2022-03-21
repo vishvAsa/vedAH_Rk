@@ -2,25 +2,25 @@
 title = "Rig Veda 8.31.9"
 
 +++
--   *vītihotrā* \< *vīti*
+-   *vītihotrā* ← *vīti*
 - \[noun\], feminine
 ------------------------------------------------------------------------
-- *vītihotrā* \< *hotrā* \< *hotra*
+- *vītihotrā* ← *hotrā* ← *hotra*
 - \[noun\], nominative, dual, masculine
 - “yajña; sacrifice.”
 ------------------------------------------------------------------------
-- *kṛtadvasū* \< *kṛtadvasu*
+- *kṛtadvasū* ← *kṛtadvasu*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *daśasyantāmṛtāya* \< *daśasyantā* \< *daśasy*
+- *daśasyantāmṛtāya* ← *daśasyantā* ← *daśasy*
 - \[verb noun\], nominative, dual
 ------------------------------------------------------------------------
-- *daśasyantāmṛtāya* \< *amṛtāya* \< *amṛta*
+- *daśasyantāmṛtāya* ← *amṛtāya* ← *amṛta*
 - \[noun\], dative, singular, neuter
 - “amṛta; immortality; vatsanābha; ambrosia; mercury; medicine;
     vighasa; calcium hydroxide.”
 ------------------------------------------------------------------------
-- *kam* \< *kaṃ*
+- *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
 ------------------------------------------------------------------------
@@ -28,26 +28,26 @@ title = "Rig Veda 8.31.9"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *ūdho* \< *ūdhaḥ* \< *ūdhas*
+- *ūdho* ← *ūdhaḥ* ← *ūdhas*
 - \[noun\], accusative, singular, neuter
 - “udder; ūdhas \[word\]; night.”
 ------------------------------------------------------------------------
-- *romaśaṃ* \< *romaśam* \< *romaśa*
+- *romaśaṃ* ← *romaśam* ← *romaśa*
 - \[noun\], accusative, singular, neuter
 - “hairy; green.”
 ------------------------------------------------------------------------
-- *hato* \< *hataḥ* \< *han*
+- *hato* ← *hataḥ* ← *han*
 - \[verb\], dual, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *deveṣu* \< *deva*
+- *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *kṛṇuto* \< *kṛṇutaḥ* \< *kṛ*
+- *kṛṇuto* ← *kṛṇutaḥ* ← *kṛ*
 - \[verb\], dual, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -58,7 +58,7 @@ title = "Rig Veda 8.31.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *duvaḥ* \< *duvas*
+- *duvaḥ* ← *duvas*
 - \[noun\], accusative, singular, neuter
 - “worship.”
 ------------------------------------------------------------------------

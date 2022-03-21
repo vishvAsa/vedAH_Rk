@@ -9,24 +9,24 @@ title = "Rig Veda 8.7.26"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *parāvata* \< *parāvataḥ* \< *parāvat*
+- *parāvata* ← *parāvataḥ* ← *parāvat*
 - \[noun\], ablative, singular, feminine
 - “distance; distance; distance.”
 ------------------------------------------------------------------------
-- *ukṣṇo* \< *ukṣṇaḥ* \< *ukṣan*
+- *ukṣṇo* ← *ukṣṇaḥ* ← *ukṣan*
 - \[noun\], genitive, singular, masculine
 - “bull; ukṣan \[word\].”
 ------------------------------------------------------------------------
-- *randhram* \< *randhra*
+- *randhram* ← *randhra*
 - \[noun\], accusative, singular, neuter
 - “hole; aperture; brahmarandhra; failing; nine; cave.”
 ------------------------------------------------------------------------
-- *ayātana* \< *yā*
+- *ayātana* ← *yā*
 - \[verb\], plural, Imperfect
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *dyaur* \< *dyauḥ* \< *div*
+- *dyaur* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -34,11 +34,11 @@ title = "Rig Veda 8.7.26"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *cakradad* \< *cakradat* \< *krand*
+- *cakradad* ← *cakradat* ← *krand*
 - \[verb\], singular, Plusquamperfect
 - “roar; neigh; cry; howl; shout.”
 ------------------------------------------------------------------------
-- *bhiyā* \< *bhī*
+- *bhiyā* ← *bhī*
 - \[noun\], instrumental, singular, feminine
 - “fear; bhī; alarm.”
 ------------------------------------------------------------------------

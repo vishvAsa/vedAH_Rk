@@ -2,15 +2,15 @@
 title = "Rig Veda 4.1.3"
 
 +++
--   *sakhe* \< *sakhi*
+-   *sakhe* ← *sakhi*
 - \[noun\], vocative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *sakhāyam* \< *sakhi*
+- *sakhāyam* ← *sakhi*
 - \[noun\], accusative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *abhy* \< *abhī* \< *abhi*
+- *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
@@ -18,13 +18,13 @@ title = "Rig Veda 4.1.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vavṛtsvāśuṃ* \< *vavṛtsva* \< *vṛt*
+- *vavṛtsvāśuṃ* ← *vavṛtsva* ← *vṛt*
 - \[verb\], singular, Perfect imperative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
 ------------------------------------------------------------------------
-- *vavṛtsvāśuṃ* \< *āśum* \< *āśu*
+- *vavṛtsvāśuṃ* ← *āśum* ← *āśu*
 - \[noun\], accusative, singular, masculine
 - “quick; fast; immediate; agile.”
 ------------------------------------------------------------------------
@@ -32,22 +32,22 @@ title = "Rig Veda 4.1.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *cakraṃ* \< *cakram* \< *cakra*
+- *cakraṃ* ← *cakram* ← *cakra*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *rathyeva* \< *rathyā*
+- *rathyeva* ← *rathyā*
 - \[noun\], nominative, singular, feminine
 - “road; way; highway.”
 ------------------------------------------------------------------------
-- *rathyeva* \< *iva*
+- *rathyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *raṃhyāsmabhyaṃ* \< *raṃhyā* \< *raṃhi*
+- *raṃhyāsmabhyaṃ* ← *raṃhyā* ← *raṃhi*
 - \[noun\], instrumental, singular, feminine
 - “speed.”
 ------------------------------------------------------------------------
-- *raṃhyāsmabhyaṃ* \< *asmabhyam* \< *mad*
+- *raṃhyāsmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -55,21 +55,21 @@ title = "Rig Veda 4.1.3"
 - \[noun\], vocative, singular, masculine
 - “overlord.”
 ------------------------------------------------------------------------
-- *raṃhyā* \< *raṃhi*
+- *raṃhyā* ← *raṃhi*
 - \[noun\], instrumental, singular, feminine
 - “speed.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *mṛﾱīkaṃ* \< *mṛﾱīkam* \< *mṛḍīka*
+- *mṛﾱīkaṃ* ← *mṛﾱīkam* ← *mṛḍīka*
 - \[noun\], accusative, singular, neuter
 - “compassion; favor.”
 ------------------------------------------------------------------------
-- *varuṇe* \< *varuṇa*
+- *varuṇe* ← *varuṇa*
 - \[noun\], locative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
@@ -78,41 +78,41 @@ title = "Rig Veda 4.1.3"
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *vido* \< *vidaḥ* \< *vid*
+- *vido* ← *vidaḥ* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *marutsu* \< *marut*
+- *marutsu* ← *marut*
 - \[noun\], locative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *viśvabhānuṣu* \< *viśva*
+- *viśvabhānuṣu* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvabhānuṣu* \< *bhānuṣu* \< *bhānu*
+- *viśvabhānuṣu* ← *bhānuṣu* ← *bhānu*
 - \[noun\], locative, plural, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
 ------------------------------------------------------------------------
-- *tokāya* \< *toka*
+- *tokāya* ← *toka*
 - \[noun\], dative, singular, neuter
 - “offspring.”
 ------------------------------------------------------------------------
-- *tuje* \< *tuj*
+- *tuje* ← *tuj*
 - \[verb noun\]
 - “draw.”
 ------------------------------------------------------------------------
-- *śuśucāna* \< *śuc*
+- *śuśucāna* ← *śuc*
 - \[verb noun\], vocative, singular
 - “mourn; grieve; flame; glow; burn; repent.”
 ------------------------------------------------------------------------
-- *śaṃ* \< *śam*
+- *śaṃ* ← *śam*
 - \[adverb\]
 - “śam \[word\].”
 ------------------------------------------------------------------------
-- *kṛdhy* \< *kṛdhi* \< *kṛ*
+- *kṛdhy* ← *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -123,7 +123,7 @@ title = "Rig Veda 4.1.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *asmabhyaṃ* \< *asmabhyam* \< *mad*
+- *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -131,11 +131,11 @@ title = "Rig Veda 4.1.3"
 - \[noun\], vocative, singular, masculine
 - “overlord.”
 ------------------------------------------------------------------------
-- *śaṃ* \< *śam*
+- *śaṃ* ← *śam*
 - \[adverb\]
 - “śam \[word\].”
 ------------------------------------------------------------------------
-- *kṛdhi* \< *kṛ*
+- *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

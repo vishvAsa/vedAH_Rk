@@ -2,7 +2,7 @@
 title = "Rig Veda 1.168.7"
 
 +++
--   *sātir* \< *sātiḥ* \< *sāti*
+-   *sātir* ← *sātiḥ* ← *sāti*
 - \[noun\], nominative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------
@@ -10,46 +10,46 @@ title = "Rig Veda 1.168.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *'mavatī* \< *amavatī* \< *amavat*
+- *'mavatī* ← *amavatī* ← *amavat*
 - \[noun\], nominative, singular, feminine
 - “impressive; strong.”
 ------------------------------------------------------------------------
-- *svarvatī* \< *svarvat*
+- *svarvatī* ← *svarvat*
 - \[noun\], nominative, singular, feminine
 - “bright; bright.”
 ------------------------------------------------------------------------
-- *tveṣā* \< *tveṣa*
+- *tveṣā* ← *tveṣa*
 - \[noun\], nominative, singular, feminine
 - “awful; brilliant; aglitter(p); bright.”
 ------------------------------------------------------------------------
-- *vipākā* \< *vipāka*
+- *vipākā* ← *vipāka*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *pipiṣvatī* \< *pipiṣvat*
+- *pipiṣvatī* ← *pipiṣvat*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *bhadrā* \< *bhadra*
+- *bhadrā* ← *bhadra*
 - \[noun\], nominative, singular, feminine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *rātiḥ* \< *rāti*
+- *rātiḥ* ← *rāti*
 - \[noun\], nominative, singular, feminine
 - “gift; bounty; favor.”
 ------------------------------------------------------------------------
-- *pṛṇato* \< *pṛṇataḥ* \< *pṛṇ*
+- *pṛṇato* ← *pṛṇataḥ* ← *pṛṇ*
 - \[verb noun\], genitive, singular
 - “satisfy.”
 ------------------------------------------------------------------------
@@ -61,17 +61,17 @@ title = "Rig Veda 1.168.7"
 - \[noun\], nominative, singular, feminine
 - “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
 ------------------------------------------------------------------------
-- *pṛthujrayī* \< *pṛthujraya*
+- *pṛthujrayī* ← *pṛthujraya*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *asuryeva* \< *asuryā* \< *asurya*
+- *asuryeva* ← *asuryā* ← *asurya*
 - \[noun\], nominative, singular, feminine
 - “āsura.”
 ------------------------------------------------------------------------
-- *asuryeva* \< *iva*
+- *asuryeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *jañjatī* \< *jañj*
+- *jañjatī* ← *jañj*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------

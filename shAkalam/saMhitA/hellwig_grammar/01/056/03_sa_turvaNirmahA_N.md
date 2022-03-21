@@ -2,17 +2,17 @@
 title = "Rig Veda 1.56.3"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *turvaṇir* \< *turvaṇiḥ* \< *turvaṇi*
+- *turvaṇir* ← *turvaṇiḥ* ← *turvaṇi*
 - \[noun\], nominative, singular, masculine
 - “victorious; overpowering.”
 ------------------------------------------------------------------------
-- *mahāṃ* \< *mahat*
+- *mahāṃ* ← *mahat*
 - \[noun\], nominative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
@@ -22,15 +22,15 @@ title = "Rig Veda 1.56.3"
 - \[noun\], accusative, singular, neuter
 - “clean.”
 ------------------------------------------------------------------------
-- *pauṃsye* \< *pauṃsya*
+- *pauṃsye* ← *pauṃsya*
 - \[noun\], locative, singular, neuter
 - “manfulness; deed; army; strength.”
 ------------------------------------------------------------------------
-- *girer* \< *gireḥ* \< *giri*
+- *girer* ← *gireḥ* ← *giri*
 - \[noun\], genitive, singular, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
 ------------------------------------------------------------------------
-- *bhṛṣṭir* \< *bhṛṣṭiḥ* \< *bhṛṣṭi*
+- *bhṛṣṭir* ← *bhṛṣṭiḥ* ← *bhṛṣṭi*
 - \[noun\], nominative, singular, feminine
 - “spike.”
 ------------------------------------------------------------------------
@@ -38,55 +38,55 @@ title = "Rig Veda 1.56.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *bhrājate* \< *bhrāj*
+- *bhrājate* ← *bhrāj*
 - \[verb\], singular, Present indikative
 - “shine; glitter; look.”
 ------------------------------------------------------------------------
-- *tujā* \< *tuj*
+- *tujā* ← *tuj*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *śavaḥ* \< *śavas*
+- *śavaḥ* ← *śavas*
 - \[noun\], nominative, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *yena* \< *yad*
+- *yena* ← *yad*
 - \[noun\], instrumental, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *śuṣṇam* \< *śuṣṇa*
+- *śuṣṇam* ← *śuṣṇa*
 - \[noun\], accusative, singular, masculine
 - “Śuṣṇa.”
 ------------------------------------------------------------------------
-- *māyinam* \< *māyin*
+- *māyinam* ← *māyin*
 - \[noun\], accusative, singular, masculine
 - “artful; charming; crafty; deceptive.”
 ------------------------------------------------------------------------
-- *āyaso* \< *āyasaḥ* \< *āyasa*
+- *āyaso* ← *āyasaḥ* ← *āyasa*
 - \[noun\], nominative, singular, masculine
 - “iron; metallic.”
 ------------------------------------------------------------------------
-- *made* \< *mada*
+- *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *dudhra* \< *dudhraḥ* \< *dudhra*
+- *dudhra* ← *dudhraḥ* ← *dudhra*
 - \[noun\], nominative, singular, masculine
 - “obstinate.”
 ------------------------------------------------------------------------
-- *ābhūṣu* \< *ābhū*
+- *ābhūṣu* ← *ābhū*
 - \[noun\], locative, plural, masculine
 - “assistant.”
 ------------------------------------------------------------------------
-- *rāmayan* \< *rāmay* \< *√ram*
+- *rāmayan* ← *rāmay* ← *√ram*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
 - *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *dāmani* \< *dāman*
+- *dāmani* ← *dāman*
 - \[noun\], locative, singular, masculine
 - “wreath; dāman; dāman \[word\]; shackle; girdle; fetter.”
 ------------------------------------------------------------------------

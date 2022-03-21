@@ -2,18 +2,18 @@
 title = "Rig Veda 8.77.11"
 
 +++
--   *tuvikṣaṃ* \< *tuvikṣam* \< *tuvikṣa*
+-   *tuvikṣaṃ* ← *tuvikṣam* ← *tuvikṣa*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sukṛtaṃ* \< *su*
+- *sukṛtaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukṛtaṃ* \< *kṛtam* \< *kṛ*
+- *sukṛtaṃ* ← *kṛtam* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -24,56 +24,56 @@ title = "Rig Veda 8.77.11"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *sūmayaṃ* \< *sūmayam* \< *sūmaya*
+- *sūmayaṃ* ← *sūmayam* ← *sūmaya*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *dhanuḥ* \< *dhanus*
+- *dhanuḥ* ← *dhanus*
 - \[noun\], nominative, singular, neuter
 - “bow; archery; dhanus \[word\].”
 ------------------------------------------------------------------------
-- *sādhur* \< *sādhuḥ* \< *sādhu*
+- *sādhur* ← *sādhuḥ* ← *sādhu*
 - \[noun\], nominative, singular, masculine
 - “good; good; correct; correct; sādhu \[word\]; excellent;
     efficient.”
 ------------------------------------------------------------------------
-- *bundo* \< *bundaḥ* \< *bunda*
+- *bundo* ← *bundaḥ* ← *bunda*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *hiraṇyayaḥ* \< *hiraṇyaya*
+- *hiraṇyayaḥ* ← *hiraṇyaya*
 - \[noun\], nominative, singular, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
 ------------------------------------------------------------------------
-- *ubhā* \< *ubh*
+- *ubhā* ← *ubh*
 - \[noun\], nominative, dual, masculine
 - “both(a).”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *bāhū* \< *bāhu*
+- *bāhū* ← *bāhu*
 - \[noun\], nominative, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
-- *raṇyā* \< *raṇya*
+- *raṇyā* ← *raṇya*
 - \[noun\], nominative, dual, masculine
 - “pleasant; unpacific; warlike.”
 ------------------------------------------------------------------------
-- *susaṃskṛta* \< *su*
+- *susaṃskṛta* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *susaṃskṛta* \< *saṃskṛte* \< *saṃskṛ* \< *√kṛ*
+- *susaṃskṛta* ← *saṃskṛte* ← *saṃskṛ* ← *√kṛ*
 - \[verb noun\], nominative, dual
 - “prepare; prepare; consecrate; perfect; marry; perfect; process.”
 ------------------------------------------------------------------------
-- *ṛdūpe* \< *ṛdūpā*
+- *ṛdūpe* ← *ṛdūpā*
 - \[noun\], nominative, dual, feminine
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ṛdūvṛdhā* \< *ṛdūvṛdh*
+- *ṛdūvṛdhā* ← *ṛdūvṛdh*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------

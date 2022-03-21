@@ -2,15 +2,15 @@
 title = "Rig Veda 8.46.20"
 
 +++
--   *sanitaḥ* \< *sanitar* \< *sanitṛ*
+-   *sanitaḥ* ← *sanitar* ← *sanitṛ*
 - \[noun\], vocative, singular, masculine
 - “bestowing; victorious.”
 ------------------------------------------------------------------------
-- *susanitar* \< *su*
+- *susanitar* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *susanitar* \< *sanitar* \< *sanitṛ*
+- *susanitar* ← *sanitar* ← *sanitṛ*
 - \[noun\], vocative, singular, masculine
 - “bestowing; victorious.”
 ------------------------------------------------------------------------
@@ -33,30 +33,30 @@ title = "Rig Veda 8.46.20"
 - \[noun\], vocative, singular, masculine
 - “big; friendly.”
 ------------------------------------------------------------------------
-- *prāsahā* \< *prāsah*
+- *prāsahā* ← *prāsah*
 - \[noun\], instrumental, singular, feminine
 - “violence.”
 ------------------------------------------------------------------------
-- *samrāṭ* \< *samrāj*
+- *samrāṭ* ← *samrāj*
 - \[noun\], vocative, singular, masculine
 - “sovereign; ruler.”
 ------------------------------------------------------------------------
-- *sahuriṃ* \< *sahurim* \< *sahuri*
+- *sahuriṃ* ← *sahurim* ← *sahuri*
 - \[noun\], accusative, singular, masculine
 - “victorious; mighty; strong.”
 ------------------------------------------------------------------------
-- *sahantam* \< *sah*
+- *sahantam* ← *sah*
 - \[verb noun\], accusative, singular
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------
-- *bhujyuṃ* \< *bhujyum* \< *bhujyu*
+- *bhujyuṃ* ← *bhujyum* ← *bhujyu*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *vājeṣu* \< *vāja*
+- *vājeṣu* ← *vāja*
 - \[noun\], locative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *pūrvyam* \< *pūrvya*
+- *pūrvyam* ← *pūrvya*
 - \[noun\], accusative, singular, masculine
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------

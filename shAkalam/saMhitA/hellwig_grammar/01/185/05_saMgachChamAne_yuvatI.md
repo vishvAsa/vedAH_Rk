@@ -2,7 +2,7 @@
 title = "Rig Veda 1.185.5"
 
 +++
--   *saṃgacchamāne* \< *saṃgam* \< *√gam*
+-   *saṃgacchamāne* ← *saṃgam* ← *√gam*
 - \[verb noun\], nominative, dual
 - “meet; unite; love; connect; exist; land; justify.”
 ------------------------------------------------------------------------
@@ -10,45 +10,45 @@ title = "Rig Veda 1.185.5"
 - \[noun\], nominative, dual, feminine
 - “girl.”
 ------------------------------------------------------------------------
-- *samante* \< *samanta*
+- *samante* ← *samanta*
 - \[noun\], nominative, dual, feminine
 - “contiguous; whole.”
 ------------------------------------------------------------------------
-- *svasārā* \< *svasṛ*
+- *svasārā* ← *svasṛ*
 - \[noun\], nominative, dual, feminine
 - “sister; svasṛ \[word\].”
 ------------------------------------------------------------------------
-- *jāmī* \< *jāmi*
+- *jāmī* ← *jāmi*
 - \[noun\], nominative, dual, feminine
 - “sister; woman; daughter-in-law.”
 ------------------------------------------------------------------------
-- *pitror* \< *pitroḥ* \< *pitṛ*
+- *pitror* ← *pitroḥ* ← *pitṛ*
 - \[noun\], genitive, dual, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *upasthe* \< *upastha*
+- *upasthe* ← *upastha*
 - \[noun\], locative, singular, neuter
 - “genitalia; lap; sexual desire; anus.”
 ------------------------------------------------------------------------
-- *abhijighrantī* \< *abhighrā* \< *√ghrā*
+- *abhijighrantī* ← *abhighrā* ← *√ghrā*
 - \[verb noun\], nominative, dual
 - “snuff.”
 ------------------------------------------------------------------------
-- *bhuvanasya* \< *bhuvana*
+- *bhuvanasya* ← *bhuvana*
 - \[noun\], genitive, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *nābhiṃ* \< *nābhim* \< *nābhi*
+- *nābhiṃ* ← *nābhim* ← *nābhi*
 - \[noun\], accusative, singular, feminine
 - “navel; hub; kinship; beginning; origin; umbilical cord; nābhi
     \[word\]; friendship; center.”
 ------------------------------------------------------------------------
-- *dyāvā* \< *div*
+- *dyāvā* ← *div*
 - \[noun\], vocative, dual, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *rakṣatam* \< *rakṣ*
+- *rakṣatam* ← *rakṣ*
 - \[verb\], dual, Present imperative
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------
@@ -56,11 +56,11 @@ title = "Rig Veda 1.185.5"
 - \[noun\], vocative, dual, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *abhvāt* \< *abhva*
+- *abhvāt* ← *abhva*
 - \[noun\], ablative, singular, neuter
 - “monstrosity; nothingness; void; force.”
 ------------------------------------------------------------------------

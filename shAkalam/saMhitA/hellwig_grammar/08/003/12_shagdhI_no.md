@@ -2,34 +2,34 @@
 title = "Rig Veda 8.3.12"
 
 +++
--   *śagdhī* \< *śagdhi* \< *śak*
+-   *śagdhī* ← *śagdhi* ← *śak*
 - \[verb\], singular, Aorist imperative
 - “can; invigorate.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *yaddha* \< *yat*
+- *yaddha* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yaddha* \< *ha*
+- *yaddha* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *pauram* \< *paura*
+- *pauram* ← *paura*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *āvitha* \< *av*
+- *āvitha* ← *av*
 - \[verb\], singular, Perfect indicative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *dhiya* \< *dhiyaḥ* \< *dhī*
+- *dhiya* ← *dhiyaḥ* ← *dhī*
 - \[noun\], accusative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
@@ -39,11 +39,11 @@ title = "Rig Veda 8.3.12"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *siṣāsataḥ* \< *siṣās* \< *√san*
+- *siṣāsataḥ* ← *siṣās* ← *√san*
 - \[verb noun\], genitive, singular
 - “win; gain.”
 ------------------------------------------------------------------------
-- *śagdhi* \< *śak*
+- *śagdhi* ← *śak*
 - \[verb\], singular, Aorist imperative
 - “can; invigorate.”
 ------------------------------------------------------------------------
@@ -51,13 +51,13 @@ title = "Rig Veda 8.3.12"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *ruśamaṃ* \< *ruśamam* \< *ruśama*
+- *ruśamaṃ* ← *ruśamam* ← *ruśama*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *śyāvakaṃ* \< *śyāvakam* \< *śyāvaka*
+- *śyāvakaṃ* ← *śyāvakam* ← *śyāvaka*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *kṛpam* \< *kṛpa*
+- *kṛpam* ← *kṛpa*
 - \[noun\], accusative, singular, masculine
 - “Kṛpa; Kṛpa.”
 ------------------------------------------------------------------------
@@ -66,10 +66,10 @@ title = "Rig Veda 8.3.12"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *prāvaḥ* \< *prāv* \< *√av*
+- *prāvaḥ* ← *prāv* ← *√av*
 - \[verb\], singular, Imperfect
 - “help; promote.”
 ------------------------------------------------------------------------
-- *svarṇaram* \< *svarṇṛ*
+- *svarṇaram* ← *svarṇṛ*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------

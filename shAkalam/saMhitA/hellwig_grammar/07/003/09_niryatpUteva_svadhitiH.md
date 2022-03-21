@@ -2,7 +2,7 @@
 title = "Rig Veda 7.3.9"
 
 +++
--   *nir* \< *niḥ*
+-   *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
@@ -10,41 +10,41 @@ title = "Rig Veda 7.3.9"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *pūteva* \< *pūtā* \< *pū*
+- *pūteva* ← *pūtā* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *pūteva* \< *iva*
+- *pūteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *svadhitiḥ* \< *svadhiti*
+- *svadhitiḥ* ← *svadhiti*
 - \[noun\], nominative, singular, feminine
 - “ax; knife.”
 ------------------------------------------------------------------------
-- *śucir* \< *śuciḥ* \< *śuci*
+- *śucir* ← *śuciḥ* ← *śuci*
 - \[noun\], nominative, singular, feminine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *gāt* \< *gā*
+- *gāt* ← *gā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------
-- *svayā* \< *sva*
+- *svayā* ← *sva*
 - \[noun\], instrumental, singular, feminine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *kṛpā* \< *kṛp*
+- *kṛpā* ← *kṛp*
 - \[noun\], instrumental, singular, feminine
 - “kṛp.”
 ------------------------------------------------------------------------
-- *tanvā* \< *tanū*
+- *tanvā* ← *tanū*
 - \[noun\], instrumental, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *rocamānaḥ* \< *ruc*
+- *rocamānaḥ* ← *ruc*
 - \[verb noun\], nominative, singular
 - “please; shine.”
 ------------------------------------------------------------------------
@@ -52,38 +52,38 @@ title = "Rig Veda 7.3.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *mātror* \< *mātroḥ* \< *mātṛ*
+- *mātror* ← *mātroḥ* ← *mātṛ*
 - \[noun\], genitive, dual, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *uśenyo* \< *uśenyaḥ* \< *uśenya*
+- *uśenyo* ← *uśenyaḥ* ← *uśenya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *janiṣṭa* \< *jan*
+- *janiṣṭa* ← *jan*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *devayajyāya* \< *deva*
+- *devayajyāya* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devayajyāya* \< *yajyāya* \< *yajya*
+- *devayajyāya* ← *yajyāya* ← *yajya*
 - \[noun\], dative, singular, neuter
 - “sacrifice; yajña.”
 ------------------------------------------------------------------------
-- *sukratuḥ* \< *sukratu*
+- *sukratuḥ* ← *sukratu*
 - \[noun\], nominative, singular, masculine
 - “wise.”
 ------------------------------------------------------------------------
-- *pāvakaḥ* \< *pāvaka*
+- *pāvakaḥ* ← *pāvaka*
 - \[noun\], nominative, singular, masculine
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
 ------------------------------------------------------------------------

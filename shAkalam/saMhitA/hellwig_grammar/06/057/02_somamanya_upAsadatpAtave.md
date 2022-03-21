@@ -2,41 +2,41 @@
 title = "Rig Veda 6.57.2"
 
 +++
--   *somam* \< *soma*
+-   *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *anya* \< *anyaḥ* \< *anya*
+- *anya* ← *anyaḥ* ← *anya*
 - \[noun\], nominative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *upāsadat* \< *upasad* \< *√sad*
+- *upāsadat* ← *upasad* ← *√sad*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “respect.”
 ------------------------------------------------------------------------
-- *pātave* \< *pā*
+- *pātave* ← *pā*
 - \[verb noun\]
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *camvoḥ* \< *camū*
+- *camvoḥ* ← *camū*
 - \[noun\], locative, dual, feminine
 - “army; camū; Camū.”
 ------------------------------------------------------------------------
-- *sutam* \< *su*
+- *sutam* ← *su*
 - \[verb noun\], accusative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *karambham* \< *karambha*
+- *karambham* ← *karambha*
 - \[noun\], accusative, singular, masculine
 - “gruel.”
 ------------------------------------------------------------------------
-- *anya* \< *anyaḥ* \< *anya*
+- *anya* ← *anyaḥ* ← *anya*
 - \[noun\], nominative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *icchati* \< *iṣ*
+- *icchati* ← *iṣ*
 - \[verb\], singular, Present indikative
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”

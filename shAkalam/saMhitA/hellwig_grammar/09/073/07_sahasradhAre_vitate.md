@@ -2,19 +2,19 @@
 title = "Rig Veda 9.73.7"
 
 +++
--   *sahasradhāre* \< *sahasra*
+-   *sahasradhāre* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasradhāre* \< *dhāre* \< *dhārā*
+- *sahasradhāre* ← *dhāre* ← *dhārā*
 - \[noun\], locative, singular, neuter
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *vitate* \< *vitan* \< *√tan*
+- *vitate* ← *vitan* ← *√tan*
 - \[verb noun\], locative, singular
 - “expand; perform; scatter; prolong; increase.”
 ------------------------------------------------------------------------
-- *pavitra* \< *pavitre* \< *pavitra*
+- *pavitra* ← *pavitre* ← *pavitra*
 - \[noun\], locative, singular, neuter
 - “strainer.”
 ------------------------------------------------------------------------
@@ -22,57 +22,57 @@ title = "Rig Veda 9.73.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vācam* \< *vāc*
+- *vācam* ← *vāc*
 - \[noun\], accusative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
 ------------------------------------------------------------------------
-- *punanti* \< *pū*
+- *punanti* ← *pū*
 - \[verb\], plural, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *kavayo* \< *kavayaḥ* \< *kavi*
+- *kavayo* ← *kavayaḥ* ← *kavi*
 - \[noun\], nominative, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *manīṣiṇaḥ* \< *manīṣin*
+- *manīṣiṇaḥ* ← *manīṣin*
 - \[noun\], nominative, plural, masculine
 - “sage; expert; devout.”
 ------------------------------------------------------------------------
-- *rudrāsa* \< *rudrāsaḥ* \< *rudra*
+- *rudrāsa* ← *rudrāsaḥ* ← *rudra*
 - \[noun\], nominative, plural, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *eṣām* \< *idam*
+- *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *iṣirāso* \< *iṣirāsaḥ* \< *iṣira*
+- *iṣirāso* ← *iṣirāsaḥ* ← *iṣira*
 - \[noun\], nominative, plural, masculine
 - “vigorous; bracing; quick.”
 ------------------------------------------------------------------------
-- *adruha* \< *adruhaḥ* \< *adruh*
+- *adruha* ← *adruhaḥ* ← *adruh*
 - \[noun\], nominative, plural, masculine
 - “friendly; benign.”
 ------------------------------------------------------------------------
-- *spaśaḥ* \< *spaś*
+- *spaśaḥ* ← *spaś*
 - \[noun\], nominative, plural, masculine
 - “lookout; spy; spaś.”
 ------------------------------------------------------------------------
-- *svañcaḥ* \< *svañc*
+- *svañcaḥ* ← *svañc*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *sudṛśo* \< *sudṛśaḥ* \< *sudṛś*
+- *sudṛśo* ← *sudṛśaḥ* ← *sudṛś*
 - \[noun\], nominative, plural, masculine
 - “fine-looking.”
 ------------------------------------------------------------------------
-- *nṛcakṣasaḥ* \< *nṛ*
+- *nṛcakṣasaḥ* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nṛcakṣasaḥ* \< *cakṣasaḥ* \< *cakṣas*
+- *nṛcakṣasaḥ* ← *cakṣasaḥ* ← *cakṣas*
 - \[noun\], nominative, plural, masculine
 - “eye; look; radiance.”
 ------------------------------------------------------------------------

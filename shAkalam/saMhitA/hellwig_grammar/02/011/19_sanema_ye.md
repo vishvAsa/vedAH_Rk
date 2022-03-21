@@ -2,68 +2,68 @@
 title = "Rig Veda 2.11.19"
 
 +++
--   *sanema* \< *san*
+-   *sanema* ← *san*
 - \[verb\], plural, Aorist optative
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ūtibhis* \< *ūtibhiḥ* \< *ūti*
+- *ūtibhis* ← *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *taranto* \< *tarantaḥ* \< *tṛ*
+- *taranto* ← *tarantaḥ* ← *tṛ*
 - \[verb noun\], nominative, plural
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *spṛdha* \< *spṛdhaḥ* \< *spṛdh*
+- *spṛdha* ← *spṛdhaḥ* ← *spṛdh*
 - \[noun\], accusative, plural, feminine
 - “adversary; enemy; rival.”
 ------------------------------------------------------------------------
-- *āryeṇa* \< *ārya*
+- *āryeṇa* ← *ārya*
 - \[noun\], instrumental, singular, masculine
 - “Ārya; Ārya.”
 ------------------------------------------------------------------------
-- *dasyūn* \< *dasyu*
+- *dasyūn* ← *dasyu*
 - \[noun\], accusative, plural, masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
-- *asmabhyaṃ* \< *asmabhyam* \< *mad*
+- *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tat* \< *tad*
+- *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tvāṣṭraṃ* \< *tvāṣṭram* \< *tvāṣṭra*
+- *tvāṣṭraṃ* ← *tvāṣṭram* ← *tvāṣṭra*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *viśvarūpam* \< *viśvarūpa*
+- *viśvarūpam* ← *viśvarūpa*
 - \[noun\], accusative, singular, masculine
 - “Viśvarūpa; Vishnu; Shiva.”
 ------------------------------------------------------------------------
-- *arandhayaḥ* \< *randhay* \< *√radh*
+- *arandhayaḥ* ← *randhay* ← *√radh*
 - \[verb\], singular, Imperfect
 - “subjugate; hand over.”
 ------------------------------------------------------------------------
-- *sākhyasya* \< *sākhya*
+- *sākhyasya* ← *sākhya*
 - \[noun\], genitive, singular, neuter
 ------------------------------------------------------------------------
-- *tritāya* \< *trita*
+- *tritāya* ← *trita*
 - \[noun\], dative, singular, masculine
 - “Trita.”
 ------------------------------------------------------------------------

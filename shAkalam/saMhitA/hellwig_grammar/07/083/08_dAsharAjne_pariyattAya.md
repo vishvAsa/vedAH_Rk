@@ -2,29 +2,29 @@
 title = "Rig Veda 7.83.8"
 
 +++
--   *dāśarājñe* \< *dāśarājña*
+-   *dāśarājñe* ← *dāśarājña*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *pariyattāya* \< *pariyat* \< *√yat*
+- *pariyattāya* ← *pariyat* ← *√yat*
 - \[verb noun\], dative, singular
 ------------------------------------------------------------------------
-- *viśvataḥ* \< *viśvatas*
+- *viśvataḥ* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
 ------------------------------------------------------------------------
-- *sudāsa* \< *sudāse* \< *sudās*
+- *sudāsa* ← *sudāse* ← *sudās*
 - \[noun\], dative, singular, masculine
 - “Sudās.”
 ------------------------------------------------------------------------
-- *indrāvaruṇāv* \< *indrāvaruṇau* \< *indrāvaruṇa*
+- *indrāvaruṇāv* ← *indrāvaruṇau* ← *indrāvaruṇa*
 - \[noun\], nominative, dual, masculine
 - “Varuna; Indra.”
 ------------------------------------------------------------------------
-- *aśikṣatam* \< *śikṣ*
+- *aśikṣatam* ← *śikṣ*
 - \[verb\], dual, Imperfect
 - “help; give.”
 ------------------------------------------------------------------------
-- *śvityañco* \< *śvityañcaḥ* \< *śvityañc*
+- *śvityañco* ← *śvityañcaḥ* ← *śvityañc*
 - \[noun\], nominative, plural, masculine
 - “white.”
 ------------------------------------------------------------------------
@@ -32,26 +32,26 @@ title = "Rig Veda 7.83.8"
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *namasā* \< *namas*
+- *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *kapardino* \< *kapardinaḥ* \< *kapardin*
+- *kapardino* ← *kapardinaḥ* ← *kapardin*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *dhiyā* \< *dhī*
+- *dhiyā* ← *dhī*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *dhīvanto* \< *dhīvantaḥ* \< *dhīvat*
+- *dhīvanto* ← *dhīvantaḥ* ← *dhīvat*
 - \[noun\], nominative, plural, masculine
 - “religious.”
 ------------------------------------------------------------------------
-- *asapanta* \< *sap*
+- *asapanta* ← *sap*
 - \[verb\], plural, Imperfect
 ------------------------------------------------------------------------
-- *tṛtsavaḥ* \< *tṛtsu*
+- *tṛtsavaḥ* ← *tṛtsu*
 - \[noun\], nominative, plural, masculine
 - “Tṛtsu.”
 ------------------------------------------------------------------------

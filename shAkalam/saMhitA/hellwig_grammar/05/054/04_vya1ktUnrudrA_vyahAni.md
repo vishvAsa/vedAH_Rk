@@ -2,34 +2,34 @@
 title = "Rig Veda 5.54.4"
 
 +++
--   *vy* \< *vi*
+-   *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *aktūn* \< *aktu*
+- *aktūn* ← *aktu*
 - \[noun\], accusative, plural, masculine
 - “night; dark; beam.”
 ------------------------------------------------------------------------
-- *rudrā* \< *rudrāḥ* \< *rudra*
+- *rudrā* ← *rudrāḥ* ← *rudra*
 - \[noun\], vocative, plural, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ahāni* \< *ahar*
+- *ahāni* ← *ahar*
 - \[noun\], accusative, plural, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *śikvaso* \< *śikvasaḥ* \< *śikvas*
+- *śikvaso* ← *śikvasaḥ* ← *śikvas*
 - \[noun\], vocative, plural, masculine
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *antarikṣaṃ* \< *antarikṣam* \< *antarikṣa*
+- *antarikṣaṃ* ← *antarikṣam* ← *antarikṣa*
 - \[noun\], accusative, singular, neuter
 - “sky; atmosphere; air; abhra.”
 ------------------------------------------------------------------------
@@ -37,12 +37,12 @@ title = "Rig Veda 5.54.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *rajāṃsi* \< *rajas*
+- *rajāṃsi* ← *rajas*
 - \[noun\], accusative, plural, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 ------------------------------------------------------------------------
-- *dhūtayaḥ* \< *dhūti*
+- *dhūtayaḥ* ← *dhūti*
 - \[noun\], vocative, plural, masculine
 - “Marut.”
 ------------------------------------------------------------------------
@@ -50,23 +50,23 @@ title = "Rig Veda 5.54.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *ajrāṃ* \< *ajra*
+- *ajrāṃ* ← *ajra*
 - \[noun\], accusative, plural, masculine
 - “plain.”
 ------------------------------------------------------------------------
-- *ajatha* \< *aj*
+- *ajatha* ← *aj*
 - \[verb\], plural, Present indikative
 - “drive; expel.”
 ------------------------------------------------------------------------
-- *nāva* \< *nāvaḥ* \< *nau*
+- *nāva* ← *nāvaḥ* ← *nau*
 - \[noun\], nominative, plural, feminine
 - “ship; boat; nau \[word\].”
 ------------------------------------------------------------------------
-- *īṃ* \< *īm* \< *īṃ*
+- *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *yathā*
@@ -77,23 +77,23 @@ title = "Rig Veda 5.54.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *durgāṇi* \< *durga*
+- *durgāṇi* ← *durga*
 - \[noun\], accusative, plural, neuter
 - “fortress; stronghold; difficulty; danger; passage.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *nāha* \< *na*
+- *nāha* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāha* \< *aha*
+- *nāha* ← *aha*
 - \[adverb\]
 - “aha \[word\]; indeed.”
 ------------------------------------------------------------------------
-- *riṣyatha* \< *riṣ*
+- *riṣyatha* ← *riṣ*
 - \[verb\], plural, Present indikative
 - “suffer; harm.”
 ------------------------------------------------------------------------

@@ -7,28 +7,28 @@ title = "Rig Veda 8.24.17"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sthātar* \< *sthātṛ*
+- *sthātar* ← *sthātṛ*
 - \[noun\], vocative, singular, masculine
 - “driver.”
 ------------------------------------------------------------------------
-- *harīṇāṃ* \< *harīṇām* \< *hari*
+- *harīṇāṃ* ← *harīṇām* ← *hari*
 - \[noun\], genitive, plural, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *nakiṣ* \< *nakir*
+- *nakiṣ* ← *nakir*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *ṭe* \< *te* \< *tvad*
+- *ṭe* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *pūrvyastutim* \< *pūrvya*
+- *pūrvyastutim* ← *pūrvya*
 - \[noun\]
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------
-- *pūrvyastutim* \< *stutim* \< *stuti*
+- *pūrvyastutim* ← *stutim* ← *stuti*
 - \[noun\], accusative, singular, feminine
 - “praise; encomium; praise.”
 ------------------------------------------------------------------------
@@ -36,11 +36,11 @@ title = "Rig Veda 8.24.17"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *ānaṃśa* \< *aś*
+- *ānaṃśa* ← *aś*
 - \[verb\], singular, Perfect indicative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *śavasā* \< *śavas*
+- *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------

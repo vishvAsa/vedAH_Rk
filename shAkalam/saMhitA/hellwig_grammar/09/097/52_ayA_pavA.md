@@ -2,34 +2,34 @@
 title = "Rig Veda 9.97.52"
 
 +++
--   *ayā* \< *idam*
+-   *ayā* ← *idam*
 - \[noun\], instrumental, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
 - *pavā*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *pavasvainā* \< *pavasva* \< *pū*
+- *pavasvainā* ← *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *pavasvainā* \< *enā* \< *enad*
+- *pavasvainā* ← *enā* ← *enad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
-- *vasūni* \< *vasu*
+- *vasūni* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
 ------------------------------------------------------------------------
-- *māṃścatva* \< *māṃścatve* \< *māṃścatva*
+- *māṃścatva* ← *māṃścatve* ← *māṃścatva*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *indo* \< *indu*
+- *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *sarasi* \< *saras*
+- *sarasi* ← *saras*
 - \[noun\], locative, singular, neuter
 - “lake; saras \[word\]; pond.”
 ------------------------------------------------------------------------
@@ -37,15 +37,15 @@ title = "Rig Veda 9.97.52"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *dhanva* \< *dhanv*
+- *dhanva* ← *dhanv*
 - \[verb\], singular, Present imperative
 - “run.”
 ------------------------------------------------------------------------
-- *bradhnaś* \< *bradhnaḥ* \< *bradhna*
+- *bradhnaś* ← *bradhnaḥ* ← *bradhna*
 - \[noun\], nominative, singular, masculine
 - “sun; horse.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -54,7 +54,7 @@ title = "Rig Veda 9.97.52"
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *vāto* \< *vātaḥ* \< *vāta*
+- *vāto* ← *vātaḥ* ← *vāta*
 - \[noun\], nominative, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
@@ -63,15 +63,15 @@ title = "Rig Veda 9.97.52"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *jūtaḥ* \< *jū*
+- *jūtaḥ* ← *jū*
 - \[verb noun\], nominative, singular
 - “animate; encourage; impel; inspire.”
 ------------------------------------------------------------------------
-- *purumedhaś* \< *puru*
+- *purumedhaś* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purumedhaś* \< *medhaḥ* \< *medhā*
+- *purumedhaś* ← *medhaḥ* ← *medhā*
 - \[noun\], nominative, singular, masculine
 - “intelligence; medhā \[word\]; Medhā.”
 ------------------------------------------------------------------------
@@ -79,14 +79,14 @@ title = "Rig Veda 9.97.52"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *takave* \< *taku*
+- *takave* ← *taku*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *naraṃ* \< *naram* \< *nṛ*
+- *naraṃ* ← *naram* ← *nṛ*
 - \[noun\], accusative, singular, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *dāt* \< *dā*
+- *dāt* ← *dā*
 - \[verb\], singular, Aorist conj./subj.
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;

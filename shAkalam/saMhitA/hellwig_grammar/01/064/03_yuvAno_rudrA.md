@@ -2,35 +2,35 @@
 title = "Rig Veda 1.64.3"
 
 +++
--   *yuvāno* \< *yuvānaḥ* \< *yuvan*
+-   *yuvāno* ← *yuvānaḥ* ← *yuvan*
 - \[noun\], nominative, plural, masculine
 - “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
     buck; young.”
 ------------------------------------------------------------------------
-- *rudrā* \< *rudrāḥ* \< *rudra*
+- *rudrā* ← *rudrāḥ* ← *rudra*
 - \[noun\], nominative, plural, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *ajarā* \< *ajarāḥ* \< *ajara*
+- *ajarā* ← *ajarāḥ* ← *ajara*
 - \[noun\], nominative, plural, masculine
 - “undecaying; ageless.”
 ------------------------------------------------------------------------
-- *abhogghano* \< *abhoj*
+- *abhogghano* ← *abhoj*
 - \[noun\]
 - “stingy.”
 ------------------------------------------------------------------------
-- *abhogghano* \< *hanaḥ* \< *han*
+- *abhogghano* ← *hanaḥ* ← *han*
 - \[noun\], nominative, plural, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
-- *vavakṣur* \< *vavakṣuḥ* \< *vakṣ*
+- *vavakṣur* ← *vavakṣuḥ* ← *vakṣ*
 - \[verb\], plural, Perfect indicative
 - “grow; grow.”
 ------------------------------------------------------------------------
-- *adhrigāvaḥ* \< *adhrigu*
+- *adhrigāvaḥ* ← *adhrigu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *parvatā* \< *parvatāḥ* \< *parvata*
+- *parvatā* ← *parvatāḥ* ← *parvata*
 - \[noun\], nominative, plural, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
@@ -39,24 +39,24 @@ title = "Rig Veda 1.64.3"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *dṛḍhā* \< *dṛh*
+- *dṛḍhā* ← *dṛh*
 - \[verb noun\], accusative, plural
 - “fixate; strengthen.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *bhuvanāni* \< *bhuvana*
+- *bhuvanāni* ← *bhuvana*
 - \[noun\], accusative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *pārthivā* \< *pārthiva*
+- *pārthivā* ← *pārthiva*
 - \[noun\], accusative, plural, neuter
 - “earthly; earthen; mundane; royal; tellurian; sublunar.”
 ------------------------------------------------------------------------
@@ -64,16 +64,16 @@ title = "Rig Veda 1.64.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *cyāvayanti* \< *cyāvay* \< *√cyu*
+- *cyāvayanti* ← *cyāvay* ← *√cyu*
 - \[verb\], plural, Present indikative
 - “chase away; remove; move.”
 ------------------------------------------------------------------------
-- *divyāni* \< *divya*
+- *divyāni* ← *divya*
 - \[noun\], accusative, plural, neuter
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
 ------------------------------------------------------------------------
-- *majmanā* \< *majman*
+- *majmanā* ← *majman*
 - \[noun\], instrumental, singular, masculine
 - “size.”
 ------------------------------------------------------------------------

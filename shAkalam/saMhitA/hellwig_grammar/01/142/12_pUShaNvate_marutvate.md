@@ -2,24 +2,24 @@
 title = "Rig Veda 1.142.12"
 
 +++
--   *pūṣaṇvate* \< *pūṣaṇvat*
+-   *pūṣaṇvate* ← *pūṣaṇvat*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *marutvate* \< *marutvat*
+- *marutvate* ← *marutvat*
 - \[noun\], dative, singular, masculine
 - “Marut(a).”
 ------------------------------------------------------------------------
-- *viśvadevāya* \< *viśva*
+- *viśvadevāya* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvadevāya* \< *devāya* \< *deva*
+- *viśvadevāya* ← *devāya* ← *deva*
 - \[noun\], dative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *vāyave* \< *vāyu*
+- *vāyave* ← *vāyu*
 - \[noun\], dative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
@@ -28,24 +28,24 @@ title = "Rig Veda 1.142.12"
 - \[adverb\]
 - “hail.”
 ------------------------------------------------------------------------
-- *gāyatravepase* \< *gāyatra*
+- *gāyatravepase* ← *gāyatra*
 - \[noun\], neuter
 - “Gāyatrī; Gāyatra.”
 ------------------------------------------------------------------------
-- *gāyatravepase* \< *vepase* \< *vepas*
+- *gāyatravepase* ← *vepase* ← *vepas*
 - \[noun\], dative, singular, masculine
 - “inspiration; shaking.”
 ------------------------------------------------------------------------
-- *havyam* \< *havya*
+- *havyam* ← *havya*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *kartana* \< *kṛ*
+- *kartana* ← *kṛ*
 - \[verb\], plural, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

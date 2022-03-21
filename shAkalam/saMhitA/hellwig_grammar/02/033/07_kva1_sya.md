@@ -6,11 +6,11 @@ title = "Rig Veda 2.33.7"
 - \[adverb\]
 - “wherein; how; kva \[word\].”
 ------------------------------------------------------------------------
-- *sya* \< *tya*
+- *sya* ← *tya*
 - \[noun\], nominative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -18,42 +18,42 @@ title = "Rig Veda 2.33.7"
 - \[noun\], vocative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *mṛḍayākur* \< *mṛḍayākuḥ* \< *mṛḍayāku*
+- *mṛḍayākur* ← *mṛḍayākuḥ* ← *mṛḍayāku*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *hasto* \< *hastaḥ* \< *hasta*
+- *hasto* ← *hastaḥ* ← *hasta*
 - \[noun\], nominative, singular, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *asti* \< *as*
+- *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *bheṣajo* \< *bheṣajaḥ* \< *bheṣaja*
+- *bheṣajo* ← *bheṣajaḥ* ← *bheṣaja*
 - \[noun\], nominative, singular, masculine
 - “curative.”
 ------------------------------------------------------------------------
-- *jalāṣaḥ* \< *jalāṣa*
+- *jalāṣaḥ* ← *jalāṣa*
 - \[noun\], nominative, singular, masculine
 - “cooling; curative.”
 ------------------------------------------------------------------------
-- *apabhartā* \< *apabhṛ* \< *√bhṛ*
+- *apabhartā* ← *apabhṛ* ← *√bhṛ*
 - \[verb\], singular, periphrast. future
 ------------------------------------------------------------------------
-- *rapaso* \< *rapasaḥ* \< *rapas*
+- *rapaso* ← *rapasaḥ* ← *rapas*
 - \[noun\], genitive, singular, neuter
 - “injury; disease; infirmity; damage.”
 ------------------------------------------------------------------------
-- *daivyasyābhī* \< *daivyasya* \< *daivya*
+- *daivyasyābhī* ← *daivyasya* ← *daivya*
 - \[noun\], genitive, singular, neuter
 - “divine; divine; celestial.”
 ------------------------------------------------------------------------
-- *daivyasyābhī* \< *abhī* \< *abhi*
+- *daivyasyābhī* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
@@ -61,7 +61,7 @@ title = "Rig Veda 2.33.7"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -69,7 +69,7 @@ title = "Rig Veda 2.33.7"
 - \[noun\], vocative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *cakṣamīthāḥ* \< *kṣam*
+- *cakṣamīthāḥ* ← *kṣam*
 - \[verb\], singular, Perfect optative
 - “forgive; can; endure; permit.”
 ------------------------------------------------------------------------

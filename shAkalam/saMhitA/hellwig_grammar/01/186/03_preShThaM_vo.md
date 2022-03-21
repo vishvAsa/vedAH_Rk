@@ -2,41 +2,41 @@
 title = "Rig Veda 1.186.3"
 
 +++
--   *preṣṭhaṃ* \< *preṣṭham* \< *preṣṭha*
+-   *preṣṭhaṃ* ← *preṣṭham* ← *preṣṭha*
 - \[noun\], accusative, singular, masculine
 - “dearest.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *atithiṃ* \< *atithim* \< *atithi*
+- *atithiṃ* ← *atithim* ← *atithi*
 - \[noun\], accusative, singular, masculine
 - “guest; atithi \[word\]; Atithi.”
 ------------------------------------------------------------------------
-- *gṛṇīṣe* \< *gṛ*
+- *gṛṇīṣe* ← *gṛ*
 - \[verb\], singular, Present indikative
 - “praise.”
 ------------------------------------------------------------------------
-- *'gniṃ* \< *agnim* \< *agni*
+- *'gniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *śastibhis* \< *śastibhiḥ* \< *śasti*
+- *śastibhis* ← *śastibhiḥ* ← *śasti*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise.”
 ------------------------------------------------------------------------
-- *turvaṇiḥ* \< *turvaṇi*
+- *turvaṇiḥ* ← *turvaṇi*
 - \[noun\], nominative, singular, masculine
 - “victorious; overpowering.”
 ------------------------------------------------------------------------
-- *sajoṣāḥ* \< *sajoṣas*
+- *sajoṣāḥ* ← *sajoṣas*
 - \[noun\], nominative, singular, masculine
 - “consentaneous; combined; associated; united.”
 ------------------------------------------------------------------------
-- *asad* \< *asat* \< *as*
+- *asad* ← *asat* ← *as*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -45,24 +45,24 @@ title = "Rig Veda 1.186.3"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *varuṇaḥ* \< *varuṇa*
+- *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *sukīrtir* \< *su*
+- *sukīrtir* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukīrtir* \< *kīrtiḥ* \< *kīrti*
+- *sukīrtir* ← *kīrtiḥ* ← *kīrti*
 - \[noun\], nominative, singular, masculine
 - “fame; fame; glory; kīrti \[word\]; mention.”
 ------------------------------------------------------------------------
-- *iṣaś* \< *iṣaḥ* \< *iṣ*
+- *iṣaś* ← *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
@@ -70,17 +70,17 @@ title = "Rig Veda 1.186.3"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *parṣad* \< *parṣat* \< *pṛ*
+- *parṣad* ← *parṣat* ← *pṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “protect; promote; rescue; help.”
 ------------------------------------------------------------------------
-- *arigūrtaḥ* \< *ari*
+- *arigūrtaḥ* ← *ari*
 - \[noun\]
 ------------------------------------------------------------------------
-- *arigūrtaḥ* \< *gūrtaḥ* \< *gur*
+- *arigūrtaḥ* ← *gūrtaḥ* ← *gur*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *sūriḥ* \< *sūri*
+- *sūriḥ* ← *sūri*
 - \[noun\], nominative, singular, masculine
 - “patron.”
 ------------------------------------------------------------------------

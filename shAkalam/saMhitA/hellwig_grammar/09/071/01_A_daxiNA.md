@@ -10,47 +10,47 @@ title = "Rig Veda 9.71.1"
 - \[noun\], instrumental, singular, feminine
 - “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
 ------------------------------------------------------------------------
-- *sṛjyate* \< *sṛj*
+- *sṛjyate* ← *sṛj*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *śuṣmy* \< *śuṣmī* \< *śuṣmin*
+- *śuṣmy* ← *śuṣmī* ← *śuṣmin*
 - \[noun\], nominative, singular, masculine
 - “strong; hotheaded.”
 ------------------------------------------------------------------------
-- *āsadaṃ* \< *āsadam* \< *āsad* \< *√sad*
+- *āsadaṃ* ← *āsadam* ← *āsad* ← *√sad*
 - \[verb noun\]
 - “approach; attack; sit down; approach; find; arrive.”
 ------------------------------------------------------------------------
-- *veti* \< *vī*
+- *veti* ← *vī*
 - \[verb\], singular, Present indikative
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *druho* \< *druhaḥ* \< *druh*
+- *druho* ← *druhaḥ* ← *druh*
 - \[noun\], accusative, plural, masculine
 - “punic; hostile.”
 ------------------------------------------------------------------------
-- *rakṣasaḥ* \< *rakṣas*
+- *rakṣasaḥ* ← *rakṣas*
 - \[noun\], ablative, singular, masculine
 - “Rākṣasa.”
 ------------------------------------------------------------------------
-- *pāti* \< *pā*
+- *pāti* ← *pā*
 - \[verb\], singular, Present indikative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *jāgṛviḥ* \< *jāgṛvi*
+- *jāgṛviḥ* ← *jāgṛvi*
 - \[noun\], nominative, singular, masculine
 - “attentive; argus-eyed; light.”
 ------------------------------------------------------------------------
-- *harir* \< *hariḥ* \< *hari*
+- *harir* ← *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
-- *opaśaṃ* \< *opaśam* \< *opaśa*
+- *opaśaṃ* ← *opaśam* ← *opaśa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *kṛṇute* \< *kṛ*
+- *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -61,27 +61,27 @@ title = "Rig Veda 9.71.1"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *nabhas* \< *nabhaḥ* \< *nabhas*
+- *nabhas* ← *nabhaḥ* ← *nabhas*
 - \[noun\], accusative, singular, neuter
 - “sky; cloud; ākāśa; air; abhra.”
 ------------------------------------------------------------------------
-- *paya* \< *payaḥ* \< *payas*
+- *paya* ← *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
-- *upastire* \< *upastir*
+- *upastire* ← *upastir*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------
-- *camvor* \< *camvoḥ* \< *camū*
+- *camvor* ← *camvoḥ* ← *camū*
 - \[noun\], locative, dual, feminine
 - “army; camū; Camū.”
 ------------------------------------------------------------------------
-- *brahma* \< *brahman*
+- *brahma* ← *brahman*
 - \[noun\], accusative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *nirṇije* \< *nirṇij*
+- *nirṇije* ← *nirṇij*
 - \[noun\], dative, singular, feminine
 - “attire; garment.”
 ------------------------------------------------------------------------

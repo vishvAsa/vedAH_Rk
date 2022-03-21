@@ -2,12 +2,12 @@
 title = "Rig Veda 10.106.8"
 
 +++
--   *gharmeva* \< *gharmā* \< *gharma*
+-   *gharmeva* ← *gharmā* ← *gharma*
 - \[noun\], nominative, dual, masculine
 - “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
     caldron.”
 ------------------------------------------------------------------------
-- *gharmeva* \< *iva*
+- *gharmeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
@@ -15,54 +15,54 @@ title = "Rig Veda 10.106.8"
 - \[noun\], accusative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *jaṭhare* \< *jaṭhara*
+- *jaṭhare* ← *jaṭhara*
 - \[noun\], locative, singular, neuter
 - “abdomen; udara; Jaṭhara; edema; garbha; inside; stomach; belly.”
 ------------------------------------------------------------------------
-- *sanerū* \< *saneru*
+- *sanerū* ← *saneru*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *bhagevitā* \< *\_* \< *√\_*
+- *bhagevitā* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *turpharī* \< *turphari*
+- *turpharī* ← *turphari*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *phārivāram* \< *\_* \< *√\_*
+- *phārivāram* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *patareva* \< *patarā* \< *patara*
+- *patareva* ← *patarā* ← *patara*
 - \[noun\], nominative, dual, masculine
 - “winged.”
 ------------------------------------------------------------------------
-- *patareva* \< *iva*
+- *patareva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *cacarā* \< *cacara*
+- *cacarā* ← *cacara*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *candranirṇiṅ* \< *candra*
+- *candranirṇiṅ* ← *candra*
 - \[noun\], masculine
 - “moon; silver; Candra; camphor; candrikā; Candra; candra \[word\];
     vajra; left nostril; one.”
 ------------------------------------------------------------------------
-- *candranirṇiṅ* \< *nirṇij*
+- *candranirṇiṅ* ← *nirṇij*
 - \[noun\], nominative, singular, feminine
 - “attire; garment.”
 ------------------------------------------------------------------------
-- *manaṛṅgā* \< *manaṛṅga*
+- *manaṛṅgā* ← *manaṛṅga*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *mananyā* \< *mananya*
+- *mananyā* ← *mananya*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *jagmī* \< *jagmi*
+- *jagmī* ← *jagmi*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------

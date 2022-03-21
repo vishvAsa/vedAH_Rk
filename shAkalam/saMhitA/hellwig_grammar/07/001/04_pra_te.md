@@ -6,25 +6,25 @@ title = "Rig Veda 7.1.4"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *agnayo* \< *agnayaḥ* \< *agni*
+- *agnayo* ← *agnayaḥ* ← *agni*
 - \[noun\], nominative, plural, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *'gnibhyo* \< *agnibhyaḥ* \< *agni*
+- *'gnibhyo* ← *agnibhyaḥ* ← *agni*
 - \[noun\], ablative, plural, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *varaṃ* \< *varam* \< *vara*
+- *varaṃ* ← *varam* ← *vara*
 - \[noun\], accusative, singular, neuter
 - “best; excellent; better; choice; optimum; maximal.”
 ------------------------------------------------------------------------
@@ -32,35 +32,35 @@ title = "Rig Veda 7.1.4"
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *suvīrāsaḥ* \< *su*
+- *suvīrāsaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvīrāsaḥ* \< *vīrāsaḥ* \< *vīra*
+- *suvīrāsaḥ* ← *vīrāsaḥ* ← *vīra*
 - \[noun\], nominative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *śośucanta* \< *śośuc* \< *√śuc*
+- *śośucanta* ← *śośuc* ← *√śuc*
 - \[verb\], plural, Present injunctive
 - “blaze.”
 ------------------------------------------------------------------------
-- *dyumantaḥ* \< *dyumat*
+- *dyumantaḥ* ← *dyumat*
 - \[noun\], nominative, plural, masculine
 - “bright; brilliant; brilliant; loud.”
 ------------------------------------------------------------------------
-- *yatrā* \< *yatra*
+- *yatrā* ← *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *naraḥ* \< *nṛ*
+- *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *samāsate* \< *samās* \< *√ās*
+- *samāsate* ← *samās* ← *√ās*
 - \[verb\], plural, Present indikative
 - “sit.”
 ------------------------------------------------------------------------
-- *sujātāḥ* \< *sujāta*
+- *sujātāḥ* ← *sujāta*
 - \[noun\], nominative, plural, masculine
 - “noble; beautiful.”
 ------------------------------------------------------------------------

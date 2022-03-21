@@ -10,11 +10,11 @@ title = "Rig Veda 9.110.2"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sutaṃ* \< *sutam* \< *su*
+- *sutaṃ* ← *sutam* ← *su*
 - \[verb noun\], accusative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
@@ -22,22 +22,22 @@ title = "Rig Veda 9.110.2"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *madāmasi* \< *mad*
+- *madāmasi* ← *mad*
 - \[verb\], plural, Present indikative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *mahe* \< *maha*
+- *mahe* ← *maha*
 - \[noun\], locative, singular, neuter
 - “great; abundant.”
 ------------------------------------------------------------------------
-- *samaryarājye* \< *samarya*
+- *samaryarājye* ← *samarya*
 - \[noun\], neuter
 ------------------------------------------------------------------------
-- *samaryarājye* \< *rājye* \< *rājya*
+- *samaryarājye* ← *rājye* ← *rājya*
 - \[noun\], locative, singular, neuter
 - “kingdom; kingship; sovereignty; rājya \[word\].”
 ------------------------------------------------------------------------
-- *vājāṃ* \< *vāja*
+- *vājāṃ* ← *vāja*
 - \[noun\], accusative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
@@ -45,7 +45,7 @@ title = "Rig Veda 9.110.2"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *pavamāna* \< *pū*
+- *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
@@ -53,6 +53,6 @@ title = "Rig Veda 9.110.2"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *gāhase* \< *gāh*
+- *gāhase* ← *gāh*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------

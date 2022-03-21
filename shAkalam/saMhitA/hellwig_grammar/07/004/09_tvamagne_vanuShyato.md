@@ -2,28 +2,28 @@
 title = "Rig Veda 7.4.9"
 
 +++
--   *tvam* \< *tvad*
+-   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *vanuṣyato* \< *vanuṣyataḥ* \< *vanuṣy*
+- *vanuṣyato* ← *vanuṣyataḥ* ← *vanuṣy*
 - \[verb noun\], ablative, singular
 ------------------------------------------------------------------------
 - *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -31,42 +31,42 @@ title = "Rig Veda 7.4.9"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sahasāvann* \< *sahasāvan* \< *sahasāvat*
+- *sahasāvann* ← *sahasāvan* ← *sahasāvat*
 - \[noun\], vocative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *avadyāt* \< *avadya*
+- *avadyāt* ← *avadya*
 - \[noun\], ablative, singular, neuter
 - “shame; censure; blame.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dhvasmanvad* \< *dhvasmanvat*
+- *dhvasmanvad* ← *dhvasmanvat*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *abhy* \< *abhī* \< *abhi*
+- *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *etu* \< *i*
+- *etu* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *pāthaḥ* \< *pāthas*
+- *pāthaḥ* ← *pāthas*
 - \[noun\], accusative, singular, neuter
 - “pāthas \[word\]; water; place.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
@@ -74,10 +74,10 @@ title = "Rig Veda 7.4.9"
 - \[noun\], instrumental, singular, feminine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *spṛhayāyyaḥ* \< *spṛhayāyya*
+- *spṛhayāyyaḥ* ← *spṛhayāyya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *sahasrī* \< *sahasrin*
+- *sahasrī* ← *sahasrin*
 - \[noun\], nominative, singular, masculine
 - “thousandfold.”
 ------------------------------------------------------------------------

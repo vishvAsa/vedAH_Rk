@@ -2,12 +2,12 @@
 title = "Rig Veda 5.50.3"
 
 +++
--   *ato* \< *atas*
+-   *ato* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -15,46 +15,46 @@ title = "Rig Veda 5.50.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *nṝn* \< *nṛ*
+- *nṝn* ← *nṛ*
 - \[noun\], accusative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *atithīn* \< *atithi*
+- *atithīn* ← *atithi*
 - \[noun\], accusative, plural, masculine
 - “guest; atithi \[word\]; Atithi.”
 ------------------------------------------------------------------------
-- *ataḥ* \< *atas*
+- *ataḥ* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
 ------------------------------------------------------------------------
-- *patnīr* \< *patnīḥ* \< *patnī*
+- *patnīr* ← *patnīḥ* ← *patnī*
 - \[noun\], accusative, plural, feminine
 - “wife; mistress; queen.”
 ------------------------------------------------------------------------
-- *daśasyata* \< *daśasy*
+- *daśasyata* ← *daśasy*
 - \[verb\], plural, Present imperative
 ------------------------------------------------------------------------
 - *āre*
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *viśvam* \< *viśva*
+- *viśvam* ← *viśva*
 - \[noun\], accusative, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *patheṣṭhāṃ* \< *patheṣṭhām* \< *patheṣṭhā*
+- *patheṣṭhāṃ* ← *patheṣṭhām* ← *patheṣṭhā*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *dviṣo* \< *dviṣaḥ* \< *dviṣ*
+- *dviṣo* ← *dviṣaḥ* ← *dviṣ*
 - \[noun\], accusative, plural, masculine
 - “hostile; hating.”
 ------------------------------------------------------------------------
-- *yuyotu* \< *yu*
+- *yuyotu* ← *yu*
 - \[verb\], singular, Present imperative
 - “keep away; separate; ward off.”
 ------------------------------------------------------------------------
-- *yūyuviḥ* \< *yūyuvi*
+- *yūyuviḥ* ← *yūyuvi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

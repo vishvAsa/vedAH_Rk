@@ -2,23 +2,23 @@
 title = "Rig Veda 10.93.8"
 
 +++
--   *ṛbhur* \< *ṛbhuḥ* \< *ṛbhu*
+-   *ṛbhur* ← *ṛbhuḥ* ← *ṛbhu*
 - \[noun\], nominative, singular, masculine
 - “adept.”
 ------------------------------------------------------------------------
-- *ṛbhukṣā* \< *ṛbhukṣāḥ* \< *ṛbhukṣan*
+- *ṛbhukṣā* ← *ṛbhukṣāḥ* ← *ṛbhukṣan*
 - \[noun\], nominative, singular
 - “Indra.”
 ------------------------------------------------------------------------
-- *ṛbhur* \< *ṛbhuḥ* \< *ṛbhu*
+- *ṛbhur* ← *ṛbhuḥ* ← *ṛbhu*
 - \[noun\], nominative, singular, masculine
 - “adept.”
 ------------------------------------------------------------------------
-- *vidhato* \< *vidhataḥ* \< *vidh*
+- *vidhato* ← *vidhataḥ* ← *vidh*
 - \[verb noun\], genitive, singular
 - “worship; offer.”
 ------------------------------------------------------------------------
-- *mada* \< *madaḥ* \< *mada*
+- *mada* ← *madaḥ* ← *mada*
 - \[noun\], nominative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
@@ -28,43 +28,43 @@ title = "Rig Veda 10.93.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *harī* \< *hari*
+- *harī* ← *hari*
 - \[noun\], nominative, dual, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
-- *jūjuvānasya* \< *jū*
+- *jūjuvānasya* ← *jū*
 - \[verb noun\], genitive, singular
 - “animate; encourage; impel; inspire.”
 ------------------------------------------------------------------------
-- *vājinā* \< *vājin*
+- *vājinā* ← *vājin*
 - \[noun\], nominative, dual, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *duṣṭaraṃ* \< *duṣṭaram* \< *duṣṭara*
+- *duṣṭaraṃ* ← *duṣṭaram* ← *duṣṭara*
 - \[noun\], nominative, singular, neuter
 - “incomparable; irresistible; unbearable; unconquerable.”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sāma* \< *sāman*
+- *sāma* ← *sāman*
 - \[noun\], nominative, singular, neuter
 - “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ṛdhag* \< *ṛdhak*
+- *ṛdhag* ← *ṛdhak*
 - \[adverb\]
 - “away; apart.”
 ------------------------------------------------------------------------
-- *yajño* \< *yajñaḥ* \< *yajña*
+- *yajño* ← *yajñaḥ* ← *yajña*
 - \[noun\], nominative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
@@ -72,7 +72,7 @@ title = "Rig Veda 10.93.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *mānuṣaḥ* \< *mānuṣa*
+- *mānuṣaḥ* ← *mānuṣa*
 - \[noun\], nominative, singular, masculine
 - “man; man.”
 ------------------------------------------------------------------------

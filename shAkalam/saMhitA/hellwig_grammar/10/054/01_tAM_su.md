@@ -2,7 +2,7 @@
 title = "Rig Veda 10.54.1"
 
 +++
--   *tāṃ* \< *tām* \< *tad*
+-   *tāṃ* ← *tām* ← *tad*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -12,11 +12,11 @@ title = "Rig Veda 10.54.1"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *kīrtim* \< *kīrti*
+- *kīrtim* ← *kīrti*
 - \[noun\], accusative, singular, feminine
 - “fame; fame; glory; kīrti \[word\]; mention.”
 ------------------------------------------------------------------------
@@ -24,7 +24,7 @@ title = "Rig Veda 10.54.1"
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *mahitvā* \< *mahitva*
+- *mahitvā* ← *mahitva*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
 ------------------------------------------------------------------------
@@ -32,65 +32,65 @@ title = "Rig Veda 10.54.1"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *bhīte* \< *bhī*
+- *bhīte* ← *bhī*
 - \[verb noun\], nominative, dual
 - “fear; fear.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], nominative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *ahvayetām* \< *hvā*
+- *ahvayetām* ← *hvā*
 - \[verb\], dual, Imperfect
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *prāvo* \< *pra*
+- *prāvo* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prāvo* \< *āvaḥ* \< *av*
+- *prāvo* ← *āvaḥ* ← *av*
 - \[verb\], singular, Imperfect
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *devāṃ* \< *deva*
+- *devāṃ* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *ātiro* \< *ā*
+- *ātiro* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *ātiro* \< *atiraḥ* \< *tṛ*
+- *ātiro* ← *atiraḥ* ← *tṛ*
 - \[verb\], singular, Imperfect
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *dāsam* \< *dāsa*
+- *dāsam* ← *dāsa*
 - \[noun\], accusative, singular, neuter
 - “dāsa(a).”
 ------------------------------------------------------------------------
-- *ojaḥ* \< *ojas*
+- *ojaḥ* ← *ojas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *prajāyai* \< *prajā*
+- *prajāyai* ← *prajā*
 - \[noun\], dative, singular, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”
 ------------------------------------------------------------------------
-- *tvasyai* \< *tva*
+- *tvasyai* ← *tva*
 - \[noun\], dative, singular, feminine
 - “many a(a); one.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *aśikṣa* \< *aśikṣaḥ* \< *śikṣ*
+- *aśikṣa* ← *aśikṣaḥ* ← *śikṣ*
 - \[verb\], singular, Imperfect
 - “help; give.”
 ------------------------------------------------------------------------

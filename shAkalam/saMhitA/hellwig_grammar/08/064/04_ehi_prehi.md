@@ -2,39 +2,39 @@
 title = "Rig Veda 8.64.4"
 
 +++
--   *ehi* \< *e* \< *√i*
+-   *ehi* ← *e* ← *√i*
 - \[verb\], singular, Present imperative
 - “come; travel.”
 ------------------------------------------------------------------------
-- *prehi* \< *pre* \< *√i*
+- *prehi* ← *pre* ← *√i*
 - \[verb\], singular, Present imperative
 - “die; proceed; advance; continue; begin; depart.”
 ------------------------------------------------------------------------
-- *kṣayo* \< *kṣayaḥ* \< *kṣaya*
+- *kṣayo* ← *kṣayaḥ* ← *kṣaya*
 - \[noun\], nominative, singular, masculine
 - “dwelling.”
 ------------------------------------------------------------------------
-- *divy* \< *divi* \< *div*
+- *divy* ← *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *āghoṣañcarṣaṇīnām* \< *āghoṣan* \< *āghuṣ* \< *√ghuṣ*
+- *āghoṣañcarṣaṇīnām* ← *āghoṣan* ← *āghuṣ* ← *√ghuṣ*
 - \[verb noun\], nominative, singular
 - “listen.”
 ------------------------------------------------------------------------
-- *āghoṣañcarṣaṇīnām* \< *carṣaṇīnām* \< *carṣaṇi*
+- *āghoṣañcarṣaṇīnām* ← *carṣaṇīnām* ← *carṣaṇi*
 - \[noun\], genitive, plural, feminine
 - “people.”
 ------------------------------------------------------------------------
-- *obhe* \< *ā*
+- *obhe* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *obhe* \< *ubhe* \< *ubh*
+- *obhe* ← *ubhe* ← *ubh*
 - \[noun\], accusative, dual, feminine
 - “both(a).”
 ------------------------------------------------------------------------
-- *pṛṇāsi* \< *pṛ*
+- *pṛṇāsi* ← *pṛ*
 - \[verb\], singular, Present indikative
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”

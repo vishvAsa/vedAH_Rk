@@ -2,26 +2,26 @@
 title = "Rig Veda 6.46.10"
 
 +++
--   *ye* \< *yad*
+-   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *gavyatā* \< *gavyat*
+- *gavyatā* ← *gavyat*
 - \[noun\], instrumental, singular, neuter
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *śatrum* \< *śatru*
+- *śatrum* ← *śatru*
 - \[noun\], accusative, singular, masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------
-- *ādabhur* \< *ādabhuḥ* \< *ādabh* \< *√dabh*
+- *ādabhur* ← *ādabhuḥ* ← *ādabh* ← *√dabh*
 - \[verb\], plural, Root aorist (Ind.)
 ------------------------------------------------------------------------
-- *abhipraghnanti* \< *abhiprahan* \< *√han*
+- *abhipraghnanti* ← *abhiprahan* ← *√han*
 - \[verb\], plural, Present indikative
 - “cut.”
 ------------------------------------------------------------------------
@@ -33,14 +33,14 @@ title = "Rig Veda 6.46.10"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *smā* \< *sma*
+- *smā* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *maghavann* \< *maghavan*
+- *maghavann* ← *maghavan*
 - \[noun\], vocative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
@@ -49,22 +49,22 @@ title = "Rig Veda 6.46.10"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *girvaṇas* \< *girvaṇaḥ* \< *girvaṇas*
+- *girvaṇas* ← *girvaṇaḥ* ← *girvaṇas*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *tanūpā* \< *tanū*
+- *tanūpā* ← *tanū*
 - \[noun\], feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *tanūpā* \< *pāḥ* \< *pā*
+- *tanūpā* ← *pāḥ* ← *pā*
 - \[noun\], nominative, singular, masculine
 - “protecting.”
 ------------------------------------------------------------------------
-- *antamo* \< *antamaḥ* \< *antama*
+- *antamo* ← *antamaḥ* ← *antama*
 - \[noun\], nominative, singular, masculine
 - “intimate; bosom(a).”
 ------------------------------------------------------------------------
-- *bhava* \< *bhū*
+- *bhava* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;

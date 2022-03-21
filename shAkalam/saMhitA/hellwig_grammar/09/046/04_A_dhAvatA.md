@@ -6,18 +6,18 @@ title = "Rig Veda 9.46.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dhāvatā* \< *dhāvata* \< *dhāv*
+- *dhāvatā* ← *dhāvata* ← *dhāv*
 - \[verb\], plural, Present imperative
 - “run; run; wash.”
 ------------------------------------------------------------------------
-- *suhastyaḥ* \< *suhastī*
+- *suhastyaḥ* ← *suhastī*
 - \[noun\], vocative, plural, masculine
 ------------------------------------------------------------------------
-- *śukrā* \< *śukrāḥ* \< *śukra*
+- *śukrā* ← *śukrāḥ* ← *śukra*
 - \[noun\], vocative, plural, masculine
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *gṛbhṇīta* \< *grah*
+- *gṛbhṇīta* ← *grah*
 - \[verb\], plural, Present imperative
 - “take; grasp; take out; extract; perceive; pick; assume; include;
     accept; understand; use; learn; possess; keep; choose; accept;
@@ -25,20 +25,20 @@ title = "Rig Veda 9.46.4"
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
 ------------------------------------------------------------------------
-- *manthinā* \< *manthin*
+- *manthinā* ← *manthin*
 - \[noun\], instrumental, singular, masculine
 - “manthin \[word\].”
 ------------------------------------------------------------------------
-- *gobhiḥ* \< *go*
+- *gobhiḥ* ← *go*
 - \[noun\], instrumental, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *śrīṇīta* \< *śrī*
+- *śrīṇīta* ← *śrī*
 - \[verb\], plural, Present imperative
 - “cook; boil; heat; cook; mix.”
 ------------------------------------------------------------------------
-- *matsaram* \< *matsara*
+- *matsaram* ← *matsara*
 - \[noun\], accusative, singular, masculine
 - “envy; hostility.”
 ------------------------------------------------------------------------

@@ -2,33 +2,33 @@
 title = "Rig Veda 2.17.6"
 
 +++
--   *sāsmā* \< *sa* \< *tad*
+-   *sāsmā* ← *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *sāsmā* \< *asmai* \< *idam*
+- *sāsmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
 - *aram*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *bāhubhyāṃ* \< *bāhubhyām* \< *bāhu*
+- *bāhubhyāṃ* ← *bāhubhyām* ← *bāhu*
 - \[noun\], dative, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
-- *yam* \< *yad*
+- *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *pitākṛṇod* \< *pitā* \< *pitṛ*
+- *pitākṛṇod* ← *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *pitākṛṇod* \< *akṛṇot* \< *kṛ*
+- *pitākṛṇod* ← *akṛṇot* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -39,7 +39,7 @@ title = "Rig Veda 2.17.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *viśvasmād* \< *viśvasmāt* \< *viśva*
+- *viśvasmād* ← *viśvasmāt* ← *viśva*
 - \[noun\], ablative, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
@@ -48,11 +48,11 @@ title = "Rig Veda 2.17.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *januṣo* \< *januṣaḥ* \< *janus*
+- *januṣo* ← *januṣaḥ* ← *janus*
 - \[noun\], ablative, singular, masculine
 - “birth.”
 ------------------------------------------------------------------------
-- *vedasas* \< *vedas*
+- *vedasas* ← *vedas*
 - \[noun\], ablative, singular, neuter
 - “knowledge.”
 ------------------------------------------------------------------------
@@ -60,11 +60,11 @@ title = "Rig Veda 2.17.6"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *yenā* \< *yad*
+- *yenā* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *pṛthivyāṃ* \< *pṛthivyām* \< *pṛthivī*
+- *pṛthivyāṃ* ← *pṛthivyām* ← *pṛthivī*
 - \[noun\], locative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
@@ -72,27 +72,27 @@ title = "Rig Veda 2.17.6"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *kriviṃ* \< *krivim* \< *krivi*
+- *kriviṃ* ← *krivim* ← *krivi*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *śayadhyai* \< *śī*
+- *śayadhyai* ← *śī*
 - \[verb noun\]
 - “lie; sleep.”
 ------------------------------------------------------------------------
-- *vajreṇa* \< *vajra*
+- *vajreṇa* ← *vajra*
 - \[noun\], instrumental, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *hatvy* \< *hatvī* \< *han*
+- *hatvy* ← *hatvī* ← *han*
 - \[verb noun\]
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *avṛṇak* \< *vṛj*
+- *avṛṇak* ← *vṛj*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *tuviṣvaṇiḥ* \< *tuviṣvaṇi*
+- *tuviṣvaṇiḥ* ← *tuviṣvaṇi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

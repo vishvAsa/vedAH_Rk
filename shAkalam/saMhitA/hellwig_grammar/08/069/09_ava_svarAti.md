@@ -6,11 +6,11 @@ title = "Rig Veda 8.69.9"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *svarāti* \< *svar*
+- *svarāti* ← *svar*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “sing.”
 ------------------------------------------------------------------------
-- *gargaro* \< *gargaraḥ* \< *gargara*
+- *gargaro* ← *gargaraḥ* ← *gargara*
 - \[noun\], nominative, singular, masculine
 - “gulf; churn.”
 ------------------------------------------------------------------------
@@ -22,7 +22,7 @@ title = "Rig Veda 8.69.9"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *saniṣvaṇat* \< *saniṣvan* \< *√svan*
+- *saniṣvaṇat* ← *saniṣvan* ← *√svan*
 - \[verb\], singular, Present conjunctive (subjunctive)
 ------------------------------------------------------------------------
 - *piṅgā*
@@ -33,20 +33,20 @@ title = "Rig Veda 8.69.9"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *caniṣkadad* \< *caniṣkadat* \< *caniṣkad* \< *√skand*
+- *caniṣkadad* ← *caniṣkadat* ← *caniṣkad* ← *√skand*
 - \[verb\], singular, Present conjunctive (subjunctive)
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *brahmodyatam* \< *brahma* \< *brahman*
+- *brahmodyatam* ← *brahma* ← *brahman*
 - \[noun\], nominative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *brahmodyatam* \< *udyatam* \< *udyam* \< *√yam*
+- *brahmodyatam* ← *udyatam* ← *udyam* ← *√yam*
 - \[verb noun\], nominative, singular
 - “raise; prepare; begin; endeavor; specialize.”
 ------------------------------------------------------------------------

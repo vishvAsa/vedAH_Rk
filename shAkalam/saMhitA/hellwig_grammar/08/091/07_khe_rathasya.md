@@ -2,39 +2,39 @@
 title = "Rig Veda 8.91.7"
 
 +++
--   *khe* \< *kha*
+-   *khe* ← *kha*
 - \[noun\], locative, singular, neuter
 - “sky; abhra; orifice; ākāśa; hub; aperture; air; hollow; cavity;
     air.”
 ------------------------------------------------------------------------
-- *rathasya* \< *ratha*
+- *rathasya* ← *ratha*
 - \[noun\], genitive, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *khe* \< *kha*
+- *khe* ← *kha*
 - \[noun\], locative, singular, neuter
 - “sky; abhra; orifice; ākāśa; hub; aperture; air; hollow; cavity;
     air.”
 ------------------------------------------------------------------------
-- *'nasaḥ* \< *anasaḥ* \< *anas*
+- *'nasaḥ* ← *anasaḥ* ← *anas*
 - \[noun\], genitive, singular, neuter
 - “cart; anas \[word\].”
 ------------------------------------------------------------------------
-- *khe* \< *kha*
+- *khe* ← *kha*
 - \[noun\], locative, singular, neuter
 - “sky; abhra; orifice; ākāśa; hub; aperture; air; hollow; cavity;
     air.”
 ------------------------------------------------------------------------
-- *yugasya* \< *yuga*
+- *yugasya* ← *yuga*
 - \[noun\], genitive, singular, neuter
 - “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
     \[word\]; Yuga; race.”
 ------------------------------------------------------------------------
-- *śatakrato* \< *śatakratu*
+- *śatakrato* ← *śatakratu*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *apālām* \< *apālā*
+- *apālām* ← *apālā*
 - \[noun\], accusative, singular, feminine
 - “Apālā.”
 ------------------------------------------------------------------------
@@ -43,15 +43,15 @@ title = "Rig Veda 8.91.7"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *triṣ* \< *tris*
+- *triṣ* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
 ------------------------------------------------------------------------
-- *pūtvy* \< *pūtvī* \< *pū*
+- *pūtvy* ← *pūtvī* ← *pū*
 - \[verb noun\]
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *akṛṇoḥ* \< *kṛ*
+- *akṛṇoḥ* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -62,12 +62,12 @@ title = "Rig Veda 8.91.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *sūryatvacam* \< *sūrya*
+- *sūryatvacam* ← *sūrya*
 - \[noun\], masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *sūryatvacam* \< *tvacam* \< *tvac*
+- *sūryatvacam* ← *tvacam* ← *tvac*
 - \[noun\], accusative, singular, feminine
 - “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
 ------------------------------------------------------------------------

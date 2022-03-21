@@ -6,42 +6,42 @@ title = "Rig Veda 10.137.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tvāgamaṃ* \< *tvā* \< *tvad*
+- *tvāgamaṃ* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tvāgamaṃ* \< *agamam* \< *gam*
+- *tvāgamaṃ* ← *agamam* ← *gam*
 - \[verb\], singular, Root aorist (Ind.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *śantātibhir* \< *śantātibhiḥ* \< *śaṃtāti*
+- *śantātibhir* ← *śantātibhiḥ* ← *śaṃtāti*
 - \[noun\], instrumental, plural, feminine
 ------------------------------------------------------------------------
 - *atho*
 - \[adverb\]
 - “now; but; furthermore.”
 ------------------------------------------------------------------------
-- *ariṣṭatātibhiḥ* \< *ariṣṭatāti*
+- *ariṣṭatātibhiḥ* ← *ariṣṭatāti*
 - \[noun\], instrumental, plural, feminine
 - “safeness.”
 ------------------------------------------------------------------------
-- *dakṣaṃ* \< *dakṣam* \< *dakṣa*
+- *dakṣaṃ* ← *dakṣam* ← *dakṣa*
 - \[noun\], accusative, singular, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *bhadram* \< *bhadra*
+- *bhadram* ← *bhadra*
 - \[noun\], accusative, singular, masculine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *ābhārṣam* \< *ābhṛ* \< *√bhṛ*
+- *ābhārṣam* ← *ābhṛ* ← *√bhṛ*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “bring.”
 ------------------------------------------------------------------------
@@ -49,15 +49,15 @@ title = "Rig Veda 10.137.4"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *yakṣmaṃ* \< *yakṣmam* \< *yakṣma*
+- *yakṣmaṃ* ← *yakṣmam* ← *yakṣma*
 - \[noun\], accusative, singular, masculine
 - “tuberculosis; disease; pulmonary tuberculosis.”
 ------------------------------------------------------------------------
-- *suvāmi* \< *sū*
+- *suvāmi* ← *sū*
 - \[verb\], singular, Present indikative
 - “give birth; urge; bestow; cause.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------

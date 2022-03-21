@@ -2,7 +2,7 @@
 title = "Rig Veda 6.18.10"
 
 +++
--   *agnir* \< *agniḥ* \< *agni*
+-   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -12,11 +12,11 @@ title = "Rig Veda 6.18.10"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śuṣkaṃ* \< *śuṣkam* \< *śuṣka*
+- *śuṣkaṃ* ← *śuṣkam* ← *śuṣka*
 - \[noun\], accusative, singular, neuter
 - “dried; dry; dried-up; śuṣka \[word\]; baseless; arid.”
 ------------------------------------------------------------------------
-- *vanam* \< *vana*
+- *vanam* ← *vana*
 - \[noun\], accusative, singular, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
@@ -25,11 +25,11 @@ title = "Rig Veda 6.18.10"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *hetī* \< *heti*
+- *hetī* ← *heti*
 - \[noun\], instrumental, singular, feminine
 - “projectile; heti \[word\].”
 ------------------------------------------------------------------------
-- *rakṣo* \< *rakṣaḥ* \< *rakṣas*
+- *rakṣo* ← *rakṣaḥ* ← *rakṣas*
 - \[noun\], accusative, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
 ------------------------------------------------------------------------
@@ -37,12 +37,12 @@ title = "Rig Veda 6.18.10"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *dhakṣy* \< *dhakṣi* \< *dah*
+- *dhakṣy* ← *dhakṣi* ← *dah*
 - \[verb\], singular, Present indikative
 - “burn; cauterize; heat; burn; burn; burn; roast; blaze; burn;
     distress; destroy.”
 ------------------------------------------------------------------------
-- *aśanir* \< *aśaniḥ* \< *aśani*
+- *aśanir* ← *aśaniḥ* ← *aśani*
 - \[noun\], nominative, singular, feminine
 - “lightning; Vajra; vajra; thunderbolt.”
 ------------------------------------------------------------------------
@@ -50,38 +50,38 @@ title = "Rig Veda 6.18.10"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *bhīmā* \< *bhīma*
+- *bhīmā* ← *bhīma*
 - \[noun\], nominative, singular, feminine
 - “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
 ------------------------------------------------------------------------
-- *gambhīraya* \< *\_* \< *√\_*
+- *gambhīraya* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *ṛṣvayā* \< *ṛṣva*
+- *ṛṣvayā* ← *ṛṣva*
 - \[noun\], instrumental, singular, feminine
 - “distinguished; high; noble; enormous.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *rurojādhvānayad* \< *ruroja* \< *ruj*
+- *rurojādhvānayad* ← *ruroja* ← *ruj*
 - \[verb\], singular, Perfect indicative
 - “break; bend.”
 ------------------------------------------------------------------------
-- *rurojādhvānayad* \< *adhvānayat* \< *dhvānay* \< *√dhvan*
+- *rurojādhvānayad* ← *adhvānayat* ← *dhvānay* ← *√dhvan*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *duritā* \< *durita*
+- *duritā* ← *durita*
 - \[noun\], accusative, plural, neuter
 - “danger; sin; difficulty; difficulty; evil.”
 ------------------------------------------------------------------------
-- *dambhayacca* \< *dambhayat* \< *dambhay* \< *√dabh*
+- *dambhayacca* ← *dambhayat* ← *dambhay* ← *√dabh*
 - \[verb\], singular, Present injunctive
 - “subjugate; destroy.”
 ------------------------------------------------------------------------
-- *dambhayacca* \< *ca*
+- *dambhayacca* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------

@@ -6,39 +6,39 @@ title = "Rig Veda 1.37.4"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *śardhāya* \< *śardha*
+- *śardhāya* ← *śardha*
 - \[noun\], dative, singular, masculine
 - “troop.”
 ------------------------------------------------------------------------
-- *ghṛṣvaye* \< *ghṛṣvi*
+- *ghṛṣvaye* ← *ghṛṣvi*
 - \[noun\], dative, singular, masculine
 - “anticipated; electrifying.”
 ------------------------------------------------------------------------
-- *tveṣadyumnāya* \< *tveṣa*
+- *tveṣadyumnāya* ← *tveṣa*
 - \[noun\]
 - “awful; brilliant; aglitter(p); bright.”
 ------------------------------------------------------------------------
-- *tveṣadyumnāya* \< *dyumnāya* \< *dyumna*
+- *tveṣadyumnāya* ← *dyumnāya* ← *dyumna*
 - \[noun\], dative, singular, masculine
 - “magnificence.”
 ------------------------------------------------------------------------
-- *śuṣmiṇe* \< *śuṣmin*
+- *śuṣmiṇe* ← *śuṣmin*
 - \[noun\], dative, singular, masculine
 - “strong; hotheaded.”
 ------------------------------------------------------------------------
-- *devattam* \< *devatta*
+- *devattam* ← *devatta*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *brahma* \< *brahman*
+- *brahma* ← *brahman*
 - \[noun\], accusative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *gāyata* \< *gā*
+- *gāyata* ← *gā*
 - \[verb\], plural, Present imperative
 - “sing; praise; jap; recite; describe.”
 ------------------------------------------------------------------------

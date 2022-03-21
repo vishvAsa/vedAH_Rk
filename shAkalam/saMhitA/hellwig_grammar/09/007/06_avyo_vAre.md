@@ -2,10 +2,10 @@
 title = "Rig Veda 9.7.6"
 
 +++
--   *avyo* \< *avyaḥ* \< *avya*
+-   *avyo* ← *avyaḥ* ← *avya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vāre* \< *vāra*
+- *vāre* ← *vāra*
 - \[noun\], locative, singular, masculine
 - “strainer.”
 ------------------------------------------------------------------------
@@ -13,32 +13,32 @@ title = "Rig Veda 9.7.6"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *priyo* \< *priyaḥ* \< *priya*
+- *priyo* ← *priyaḥ* ← *priya*
 - \[noun\], nominative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *harir* \< *hariḥ* \< *hari*
+- *harir* ← *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
-- *vaneṣu* \< *vana*
+- *vaneṣu* ← *vana*
 - \[noun\], locative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
-- *sīdati* \< *sad*
+- *sīdati* ← *sad*
 - \[verb\], singular, Present indikative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *rebho* \< *rebhaḥ* \< *rebha*
+- *rebho* ← *rebhaḥ* ← *rebha*
 - \[noun\], nominative, singular, masculine
 - “bard; eulogist.”
 ------------------------------------------------------------------------
-- *vanuṣyate* \< *vanuṣy*
+- *vanuṣyate* ← *vanuṣy*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *matī* \< *mati*
+- *matī* ← *mati*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”

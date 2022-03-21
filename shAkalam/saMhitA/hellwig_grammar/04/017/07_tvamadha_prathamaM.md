@@ -2,7 +2,7 @@
 title = "Rig Veda 4.17.7"
 
 +++
--   *tvam* \< *tvad*
+-   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -10,26 +10,26 @@ title = "Rig Veda 4.17.7"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *prathamaṃ* \< *prathamam*
+- *prathamaṃ* ← *prathamam*
 - \[adverb\]
 - “first.”
 ------------------------------------------------------------------------
-- *jāyamāno* \< *jāyamānaḥ* \< *jan*
+- *jāyamāno* ← *jāyamānaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *'me* \< *ame* \< *ama*
+- *'me* ← *ame* ← *ama*
 - \[noun\], locative, singular, masculine
 - “am; panic; power; ferocity.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśvāḥ* \< *viśva*
+- *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *adhithā* \< *adhithāḥ* \< *dhā*
+- *adhithā* ← *adhithāḥ* ← *dhā*
 - \[verb\], singular, Root aorist (Ind.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
@@ -39,11 +39,11 @@ title = "Rig Veda 4.17.7"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *kṛṣṭīḥ* \< *kṛṣṭī*
+- *kṛṣṭīḥ* ← *kṛṣṭī*
 - \[noun\], accusative, plural, feminine
 - “kṛṣṭī.”
 ------------------------------------------------------------------------
-- *tvam* \< *tva*
+- *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
@@ -51,19 +51,19 @@ title = "Rig Veda 4.17.7"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *pravata* \< *pravataḥ* \< *pravat*
+- *pravata* ← *pravataḥ* ← *pravat*
 - \[noun\], accusative, plural, feminine
 - “slope; river.”
 ------------------------------------------------------------------------
-- *āśayānam* \< *āśī* \< *√śī*
+- *āśayānam* ← *āśī* ← *√śī*
 - \[verb noun\], accusative, singular
 - “lie; stay.”
 ------------------------------------------------------------------------
-- *ahiṃ* \< *ahim* \< *ahi*
+- *ahiṃ* ← *ahim* ← *ahi*
 - \[noun\], accusative, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
 ------------------------------------------------------------------------
-- *vajreṇa* \< *vajra*
+- *vajreṇa* ← *vajra*
 - \[noun\], instrumental, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
@@ -76,7 +76,7 @@ title = "Rig Veda 4.17.7"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vṛścaḥ* \< *vraśc*
+- *vṛścaḥ* ← *vraśc*
 - \[verb\], singular, Present injunctive
 - “cleave; fell; cut off; hew.”
 ------------------------------------------------------------------------

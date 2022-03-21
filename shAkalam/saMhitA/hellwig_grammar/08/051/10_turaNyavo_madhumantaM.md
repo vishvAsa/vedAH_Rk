@@ -2,59 +2,59 @@
 title = "Rig Veda 8.51.10"
 
 +++
--   *turaṇyavo* \< *turaṇyavaḥ* \< *turaṇyu*
+-   *turaṇyavo* ← *turaṇyavaḥ* ← *turaṇyu*
 - \[noun\], nominative, plural, masculine
 - “fleet.”
 ------------------------------------------------------------------------
-- *madhumantaṃ* \< *madhumantam* \< *madhumat*
+- *madhumantaṃ* ← *madhumantam* ← *madhumat*
 - \[noun\], accusative, singular, masculine
 - “sweet; honeyed; sweet; pleasant.”
 ------------------------------------------------------------------------
-- *ghṛtaścutaṃ* \< *ghṛtaścutam* \< *ghṛtaścut*
+- *ghṛtaścutaṃ* ← *ghṛtaścutam* ← *ghṛtaścut*
 - \[noun\], accusative, singular, masculine
 - “ghee-dripping.”
 ------------------------------------------------------------------------
-- *viprāso* \< *viprāsaḥ* \< *vipra*
+- *viprāso* ← *viprāsaḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *arkam* \< *arka*
+- *arkam* ← *arka*
 - \[noun\], accusative, singular, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *ānṛcuḥ* \< *arc*
+- *ānṛcuḥ* ← *arc*
 - \[verb\], plural, Perfect indicative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rayiḥ* \< *rayi*
+- *rayiḥ* ← *rayi*
 - \[noun\], nominative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *paprathe* \< *prath*
+- *paprathe* ← *prath*
 - \[verb\], singular, Perfect indicative
 - “be known; expand; expand; boom.”
 ------------------------------------------------------------------------
-- *vṛṣṇyaṃ* \< *vṛṣṇyam* \< *vṛṣṇya*
+- *vṛṣṇyaṃ* ← *vṛṣṇyam* ← *vṛṣṇya*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *śavo* \< *śavaḥ* \< *śavas*
+- *śavo* ← *śavaḥ* ← *śavas*
 - \[noun\], nominative, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *'sme* \< *asme* \< *mad*
+- *'sme* ← *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *suvānāsa* \< *suvānāsaḥ* \< *su*
+- *suvānāsa* ← *suvānāsaḥ* ← *su*
 - \[verb noun\], nominative, plural
 - “press out; su.”
 ------------------------------------------------------------------------
-- *indavaḥ* \< *indu*
+- *indavaḥ* ← *indu*
 - \[noun\], nominative, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”

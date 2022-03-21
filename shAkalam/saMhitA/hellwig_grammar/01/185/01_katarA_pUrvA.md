@@ -2,26 +2,26 @@
 title = "Rig Veda 1.185.1"
 
 +++
--   *katarā* \< *katara*
+-   *katarā* ← *katara*
 - \[noun\], nominative, singular, feminine
 - “katara \[word\]; who.”
 ------------------------------------------------------------------------
-- *pūrvā* \< *pūrva*
+- *pūrvā* ← *pūrva*
 - \[noun\], nominative, singular, feminine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *katarāparāyoḥ* \< *katarā* \< *katara*
+- *katarāparāyoḥ* ← *katarā* ← *katara*
 - \[noun\], nominative, singular, feminine
 - “katara \[word\]; who.”
 ------------------------------------------------------------------------
-- *katarāparāyoḥ* \< *aparā* \< *apara*
+- *katarāparāyoḥ* ← *aparā* ← *apara*
 - \[noun\], nominative, singular, feminine
 - “other; another(a); following; western; future; apara \[word\];
     elder; remaining; some(a); later(a); back(a).”
 ------------------------------------------------------------------------
-- *katarāparāyoḥ* \< *ayoḥ* \< *idam*
+- *katarāparāyoḥ* ← *ayoḥ* ← *idam*
 - \[noun\], genitive, dual, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -29,18 +29,18 @@ title = "Rig Veda 1.185.1"
 - \[adverb\]
 - “how.”
 ------------------------------------------------------------------------
-- *jāte* \< *jan*
+- *jāte* ← *jan*
 - \[verb noun\], nominative, dual
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *kavayaḥ* \< *kavi*
+- *kavayaḥ* ← *kavi*
 - \[noun\], vocative, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *ko* \< *kaḥ* \< *ka*
+- *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -48,34 +48,34 @@ title = "Rig Veda 1.185.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *veda* \< *vid*
+- *veda* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *viśvaṃ* \< *viśvam* \< *viśva*
+- *viśvaṃ* ← *viśvam* ← *viśva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *tmanā* \< *tman*
+- *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
 ------------------------------------------------------------------------
-- *bibhṛto* \< *bibhṛtaḥ* \< *bhṛ*
+- *bibhṛto* ← *bibhṛtaḥ* ← *bhṛ*
 - \[verb\], dual, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *yaddha* \< *yat* \< *yad*
+- *yaddha* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yaddha* \< *ha*
+- *yaddha* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *nāma* \< *nāman*
+- *nāma* ← *nāman*
 - \[noun\], nominative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
@@ -84,21 +84,21 @@ title = "Rig Veda 1.185.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vartete* \< *vṛt*
+- *vartete* ← *vṛt*
 - \[verb\], dual, Present indikative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
 ------------------------------------------------------------------------
-- *ahanī* \< *ahar*
+- *ahanī* ← *ahar*
 - \[noun\], nominative, dual, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *cakriyeva* \< *cakriyā* \< *cakriya*
+- *cakriyeva* ← *cakriyā* ← *cakriya*
 - \[noun\], nominative, plural, neuter
 - “traveling.”
 ------------------------------------------------------------------------
-- *cakriyeva* \< *iva*
+- *cakriyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------

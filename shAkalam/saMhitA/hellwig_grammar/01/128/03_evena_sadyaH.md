@@ -2,113 +2,113 @@
 title = "Rig Veda 1.128.3"
 
 +++
--   *evena* \< *eva*
+-   *evena* ← *eva*
 - \[noun\], instrumental, singular, masculine
 - “eva \[word\]; habit; manner; behavior; custom.”
 ------------------------------------------------------------------------
-- *sadyaḥ* \< *sadyas*
+- *sadyaḥ* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
 ------------------------------------------------------------------------
-- *pary* \< *pari*
+- *pary* ← *pari*
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *pārthivam* \< *pārthiva*
+- *pārthivam* ← *pārthiva*
 - \[noun\], accusative, singular, neuter
 - “earthly; earthen; mundane; royal; tellurian; sublunar.”
 ------------------------------------------------------------------------
-- *muhurgī* \< *muhur*
+- *muhurgī* ← *muhur*
 - \[adverb\]
 - “again; repeatedly; continually.”
 ------------------------------------------------------------------------
-- *muhurgī* \< *gir*
+- *muhurgī* ← *gir*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *reto* \< *retaḥ* \< *retas*
+- *reto* ← *retaḥ* ← *retas*
 - \[noun\], accusative, singular, neuter
 - “semen; sperm.”
 ------------------------------------------------------------------------
-- *vṛṣabhaḥ* \< *vṛṣabha*
+- *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *kanikradad* \< *kanikradat* \< *kanikrad* \< *√krand*
+- *kanikradad* ← *kanikradat* ← *kanikrad* ← *√krand*
 - \[verb noun\], nominative, singular
 - “roar; neigh.”
 ------------------------------------------------------------------------
-- *dadhad* \< *dadhat* \< *dhā*
+- *dadhad* ← *dadhat* ← *dhā*
 - \[verb noun\], nominative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *retaḥ* \< *retas*
+- *retaḥ* ← *retas*
 - \[noun\], accusative, singular, neuter
 - “semen; sperm.”
 ------------------------------------------------------------------------
-- *kanikradat* \< *kanikrad* \< *√krand*
+- *kanikradat* ← *kanikrad* ← *√krand*
 - \[verb noun\], nominative, singular
 - “roar; neigh.”
 ------------------------------------------------------------------------
-- *śataṃ* \< *śatam* \< *śata*
+- *śataṃ* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *cakṣāṇo* \< *cakṣāṇaḥ* \< *cakṣ*
+- *cakṣāṇo* ← *cakṣāṇaḥ* ← *cakṣ*
 - \[verb noun\], nominative, singular
 - “watch; look.”
 ------------------------------------------------------------------------
-- *akṣabhir* \< *akṣabhiḥ* \< *akṣa*
+- *akṣabhir* ← *akṣabhiḥ* ← *akṣa*
 - \[noun\], instrumental, plural, neuter
 - “eye; akṣa \[word\]; hole.”
 ------------------------------------------------------------------------
-- *devo* \< *devaḥ* \< *deva*
+- *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *vaneṣu* \< *vana*
+- *vaneṣu* ← *vana*
 - \[noun\], locative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
-- *turvaṇiḥ* \< *turvaṇi*
+- *turvaṇiḥ* ← *turvaṇi*
 - \[noun\], nominative, singular, masculine
 - “victorious; overpowering.”
 ------------------------------------------------------------------------
-- *sado* \< *sadaḥ* \< *sadas*
+- *sado* ← *sadaḥ* ← *sadas*
 - \[noun\], accusative, singular, neuter
 - “mansion; assembly; seat; seat.”
 ------------------------------------------------------------------------
-- *dadhāna* \< *dadhānaḥ* \< *dhā*
+- *dadhāna* ← *dadhānaḥ* ← *dhā*
 - \[verb noun\], nominative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *upareṣu* \< *upara*
+- *upareṣu* ← *upara*
 - \[noun\], locative, plural, masculine
 - “later(a); future(a); nether.”
 ------------------------------------------------------------------------
-- *sānuṣv* \< *sānuṣu* \< *sānu*
+- *sānuṣv* ← *sānuṣu* ← *sānu*
 - \[noun\], locative, plural, masculine
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------
-- *agniḥ* \< *agni*
+- *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *pareṣu* \< *para*
+- *pareṣu* ← *para*
 - \[noun\], locative, plural, masculine
 - “best; other; following; devoted(p); extreme; highest; otherwordly;
     better; hostile; maximal; distant; another(a); para \[word\]; upper;
     concluding; foreign; earlier; worse; longer; finest; excessive.”
 ------------------------------------------------------------------------
-- *sānuṣu* \< *sānu*
+- *sānuṣu* ← *sānu*
 - \[noun\], locative, plural, masculine
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------

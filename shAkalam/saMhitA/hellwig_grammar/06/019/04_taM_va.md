@@ -2,29 +2,29 @@
 title = "Rig Veda 6.19.4"
 
 +++
--   *taṃ* \< *tam* \< *tad*
+-   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *catinam* \< *catin*
+- *catinam* ← *catin*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *śākair* \< *śākaiḥ* \< *śāka*
+- *śākair* ← *śākaiḥ* ← *śāka*
 - \[noun\], instrumental, plural, masculine
 - “power.”
 ------------------------------------------------------------------------
@@ -32,15 +32,15 @@ title = "Rig Veda 6.19.4"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *nūnaṃ* \< *nūnam*
+- *nūnaṃ* ← *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
 ------------------------------------------------------------------------
-- *vājayanto* \< *vājayantaḥ* \< *vājay* \< *√vaj*
+- *vājayanto* ← *vājayantaḥ* ← *vājay* ← *√vaj*
 - \[verb noun\], nominative, plural
 - “incite.”
 ------------------------------------------------------------------------
-- *huvema* \< *hvā*
+- *huvema* ← *hvā*
 - \[verb\], plural, Present optative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
@@ -52,29 +52,29 @@ title = "Rig Veda 6.19.4"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *pūrve* \< *pūrva*
+- *pūrve* ← *pūrva*
 - \[noun\], nominative, plural, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *jaritāra* \< *jaritāraḥ* \< *jaritṛ*
+- *jaritāra* ← *jaritāraḥ* ← *jaritṛ*
 - \[noun\], nominative, plural, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *āsur* \< *āsuḥ* \< *as*
+- *āsur* ← *āsuḥ* ← *as*
 - \[verb\], plural, Perfect indicative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *anedyā* \< *anedyāḥ* \< *anedya*
+- *anedyā* ← *anedyāḥ* ← *anedya*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *anavadyā* \< *anavadyāḥ* \< *anavadya*
+- *anavadyā* ← *anavadyāḥ* ← *anavadya*
 - \[noun\], nominative, plural, masculine
 - “blameless; faultless.”
 ------------------------------------------------------------------------
-- *ariṣṭāḥ* \< *ariṣṭa*
+- *ariṣṭāḥ* ← *ariṣṭa*
 - \[noun\], nominative, plural, masculine
 - “safe; unharmed.”
 ------------------------------------------------------------------------

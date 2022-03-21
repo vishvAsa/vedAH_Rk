@@ -2,88 +2,88 @@
 title = "Rig Veda 7.20.3"
 
 +++
--   *yudhmo* \< *yudhmaḥ* \< *yudhma*
+-   *yudhmo* ← *yudhmaḥ* ← *yudhma*
 - \[noun\], nominative, singular, masculine
 - “warrior.”
 ------------------------------------------------------------------------
-- *anarvā* \< *anarvan*
+- *anarvā* ← *anarvan*
 - \[noun\], nominative, singular, masculine
 - “unchallenged; unrivaled.”
 ------------------------------------------------------------------------
-- *khajakṛt* \< *khaja*
+- *khajakṛt* ← *khaja*
 - \[noun\], masculine
 - “churning stick.”
 ------------------------------------------------------------------------
-- *khajakṛt* \< *kṛt*
+- *khajakṛt* ← *kṛt*
 - \[noun\], nominative, singular, masculine
 - “causing; making; performing; promotive; producing; doing; acting;
     writing; transforming; effecting.”
 ------------------------------------------------------------------------
-- *samadvā* \< *samadvan*
+- *samadvā* ← *samadvan*
 - \[noun\], nominative, singular, masculine
 - “unpacific; belligerent.”
 ------------------------------------------------------------------------
-- *śūraḥ* \< *śūra*
+- *śūraḥ* ← *śūra*
 - \[noun\], nominative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *satrāṣāḍ* \< *satrāṣāh* \< *satrāsāh*
+- *satrāṣāḍ* ← *satrāṣāh* ← *satrāsāh*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *januṣem* \< *januṣā* \< *janus*
+- *januṣem* ← *januṣā* ← *janus*
 - \[noun\], instrumental, singular, masculine
 - “birth.”
 ------------------------------------------------------------------------
-- *januṣem* \< *īm* \< *īṃ*
+- *januṣem* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *aṣāﾱhaḥ* \< *a*
+- *aṣāﾱhaḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *aṣāﾱhaḥ* \< *sāḍhaḥ* \< *sah*
+- *aṣāﾱhaḥ* ← *sāḍhaḥ* ← *sah*
 - \[verb noun\], nominative, singular
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *āsa* \< *āse* \< *as*
+- *āsa* ← *āse* ← *as*
 - \[verb\], singular, Perfect indicative
 - “shoot; remove.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pṛtanāḥ* \< *pṛtanā*
+- *pṛtanāḥ* ← *pṛtanā*
 - \[noun\], accusative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
 ------------------------------------------------------------------------
-- *svojā* \< *su*
+- *svojā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svojā* \< *ojāḥ* \< *ojas*
+- *svojā* ← *ojāḥ* ← *ojas*
 - \[noun\], nominative, singular, masculine
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *adhā* \< *adha*
+- *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *viśvaṃ* \< *viśvam* \< *viśva*
+- *viśvaṃ* ← *viśvam* ← *viśva*
 - \[noun\], accusative, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *śatrūyantaṃ* \< *śatrūyantam* \< *śatrūy*
+- *śatrūyantaṃ* ← *śatrūyantam* ← *śatrūy*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *jaghāna* \< *han*
+- *jaghāna* ← *han*
 - \[verb\], singular, Perfect indicative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;

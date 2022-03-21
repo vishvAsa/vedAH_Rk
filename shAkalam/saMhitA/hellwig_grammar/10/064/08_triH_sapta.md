@@ -2,62 +2,62 @@
 title = "Rig Veda 10.64.8"
 
 +++
--   *triḥ* \< *tris*
+-   *triḥ* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], accusative, singular, neuter
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *sasrā* \< *sasrāḥ* \< *sasra*
+- *sasrā* ← *sasrāḥ* ← *sasra*
 - \[noun\], accusative, plural, feminine
 - “flowing.”
 ------------------------------------------------------------------------
-- *nadyo* \< *nadyaḥ* \< *nadī*
+- *nadyo* ← *nadyaḥ* ← *nadī*
 - \[noun\], accusative, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
 ------------------------------------------------------------------------
-- *mahīr* \< *mahīḥ* \< *mahi*
+- *mahīr* ← *mahīḥ* ← *mahi*
 - \[noun\], accusative, plural, feminine
 - “great; firm.”
 ------------------------------------------------------------------------
-- *apo* \< *apaḥ* \< *ap*
+- *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *vanaspatīn* \< *vanaspati*
+- *vanaspatīn* ← *vanaspati*
 - \[noun\], accusative, plural, masculine
 - “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
 ------------------------------------------------------------------------
-- *parvatāṃ* \< *parvata*
+- *parvatāṃ* ← *parvata*
 - \[noun\], accusative, plural, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
 ------------------------------------------------------------------------
-- *agnim* \< *agni*
+- *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *ūtaye* \< *ūti*
+- *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *kṛśānum* \< *kṛśānu*
+- *kṛśānum* ← *kṛśānu*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; Plumbago zeylanica.”
 ------------------------------------------------------------------------
-- *astṝn* \< *astṛ*
+- *astṝn* ← *astṛ*
 - \[noun\], accusative, plural, masculine
 - “archer; shot.”
 ------------------------------------------------------------------------
-- *tiṣyaṃ* \< *tiṣyam* \< *tiṣya*
+- *tiṣyaṃ* ← *tiṣyam* ← *tiṣya*
 - \[noun\], accusative, singular, masculine
 - “Tiṣya; tiṣya \[word\].”
 ------------------------------------------------------------------------
-- *sadhastha* \< *sadhasthe* \< *sadhastha*
+- *sadhastha* ← *sadhasthe* ← *sadhastha*
 - \[noun\], locative, singular, neuter
 - “dwelling; location; home.”
 ------------------------------------------------------------------------
@@ -65,18 +65,18 @@ title = "Rig Veda 10.64.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *rudraṃ* \< *rudram* \< *rudra*
+- *rudraṃ* ← *rudram* ← *rudra*
 - \[noun\], accusative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *rudreṣu* \< *rudra*
+- *rudreṣu* ← *rudra*
 - \[noun\], locative, plural, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *rudriyaṃ* \< *rudriyam* \< *rudriya*
+- *rudriyaṃ* ← *rudriyam* ← *rudriya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *havāmahe* \< *hvā*
+- *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------

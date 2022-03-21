@@ -2,38 +2,38 @@
 title = "Rig Veda 8.55.2"
 
 +++
--   *śataṃ* \< *śatam* \< *śata*
+-   *śataṃ* ← *śatam* ← *śata*
 - \[noun\], nominative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *śvetāsa* \< *śvetāsaḥ* \< *śveta*
+- *śvetāsa* ← *śvetāsaḥ* ← *śveta*
 - \[noun\], nominative, plural, masculine
 - “white; bright; śveta \[word\]; bright.”
 ------------------------------------------------------------------------
-- *ukṣaṇo* \< *ukṣaṇaḥ* \< *ukṣan*
+- *ukṣaṇo* ← *ukṣaṇaḥ* ← *ukṣan*
 - \[noun\], nominative, plural, masculine
 - “bull; ukṣan \[word\].”
 ------------------------------------------------------------------------
-- *divi* \< *div*
+- *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *tāro* \< *tāraḥ* \< *tṛ*
+- *tāro* ← *tāraḥ* ← *tṛ*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *rocante* \< *ruc*
+- *rocante* ← *ruc*
 - \[verb\], plural, Present indikative
 - “please; shine.”
 ------------------------------------------------------------------------
-- *mahnā* \< *mahan*
+- *mahnā* ← *mahan*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
 ------------------------------------------------------------------------
-- *divaṃ* \< *divam* \< *div*
+- *divaṃ* ← *divam* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -41,7 +41,7 @@ title = "Rig Veda 8.55.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tastabhuḥ* \< *stambh*
+- *tastabhuḥ* ← *stambh*
 - \[verb\], plural, Perfect indicative
 - “paralyze; stiffen; fixate; fixate; stambh; rear; stop; strengthen;
     constipate.”

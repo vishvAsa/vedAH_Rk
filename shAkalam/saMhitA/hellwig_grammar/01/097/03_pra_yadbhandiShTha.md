@@ -6,23 +6,23 @@ title = "Rig Veda 1.97.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *bhandiṣṭha* \< *bhandiṣṭhaḥ* \< *bhandiṣṭha*
+- *bhandiṣṭha* ← *bhandiṣṭhaḥ* ← *bhandiṣṭha*
 - \[noun\], nominative, singular, masculine
 - “favored.”
 ------------------------------------------------------------------------
-- *eṣām* \< *idam*
+- *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *prāsmākāsaś* \< *pra*
+- *prāsmākāsaś* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prāsmākāsaś* \< *asmākāsaḥ* \< *asmāka*
+- *prāsmākāsaś* ← *asmākāsaḥ* ← *asmāka*
 - \[noun\], nominative, plural, masculine
 - “our; asmāka \[word\].”
 ------------------------------------------------------------------------
@@ -30,7 +30,7 @@ title = "Rig Veda 1.97.3"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *sūrayaḥ* \< *sūri*
+- *sūrayaḥ* ← *sūri*
 - \[noun\], nominative, plural, masculine
 - “guru.”
 ------------------------------------------------------------------------
@@ -38,15 +38,15 @@ title = "Rig Veda 1.97.3"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śośucad* \< *śośucat* \< *śośuc* \< *√śuc*
+- *śośucad* ← *śośucat* ← *śośuc* ← *√śuc*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “blaze.”
 ------------------------------------------------------------------------
-- *agham* \< *agha*
+- *agham* ← *agha*
 - \[noun\], accusative, singular, neuter
 - “sin; evil; impurity; agha \[word\].”
 ------------------------------------------------------------------------

@@ -6,44 +6,44 @@ title = "Rig Veda 9.52.1"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *dyukṣaḥ* \< *dyukṣa*
+- *dyukṣaḥ* ← *dyukṣa*
 - \[noun\], nominative, singular, masculine
 - “celestial; divine; divine; brilliant.”
 ------------------------------------------------------------------------
-- *sanadrayir* \< *sanat* \< *san*
+- *sanadrayir* ← *sanat* ← *san*
 - \[verb noun\]
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *sanadrayir* \< *rayiḥ* \< *rayi*
+- *sanadrayir* ← *rayiḥ* ← *rayi*
 - \[noun\], nominative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *bharad* \< *bharat* \< *bhṛ*
+- *bharad* ← *bharat* ← *bhṛ*
 - \[verb\], singular, Present injunctive
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *vājaṃ* \< *vājam* \< *vāja*
+- *vājaṃ* ← *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *andhasā* \< *andhas*
+- *andhasā* ← *andhas*
 - \[noun\], instrumental, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
-- *suvāno* \< *suvānaḥ* \< *su*
+- *suvāno* ← *suvānaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *arṣa* \< *ṛṣ*
+- *arṣa* ← *ṛṣ*
 - \[verb\], singular, Present imperative
 - “run.”
 ------------------------------------------------------------------------
-- *pavitra* \< *pavitre* \< *pavitra*
+- *pavitra* ← *pavitre* ← *pavitra*
 - \[noun\], locative, singular, neuter
 - “strainer.”
 ------------------------------------------------------------------------

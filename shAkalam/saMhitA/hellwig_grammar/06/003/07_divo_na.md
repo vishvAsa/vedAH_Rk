@@ -2,7 +2,7 @@
 title = "Rig Veda 6.3.7"
 
 +++
--   *divo* \< *divaḥ* \< *div*
+-   *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -10,34 +10,34 @@ title = "Rig Veda 6.3.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vidhato* \< *vidhataḥ* \< *vidh*
+- *vidhato* ← *vidhataḥ* ← *vidh*
 - \[verb noun\], genitive, singular
 - “worship; offer.”
 ------------------------------------------------------------------------
-- *navīnod* \< *navīnot* \< *nonāv* \< *√nū*
+- *navīnod* ← *navīnot* ← *nonāv* ← *√nū*
 - \[verb\], singular, Imperfect
 - “bellow.”
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣan*
+- *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *rukṣa* \< *rukṣaḥ* \< *rukṣa*
+- *rukṣa* ← *rukṣaḥ* ← *rukṣa*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *oṣadhīṣu* \< *oṣadhī*
+- *oṣadhīṣu* ← *oṣadhī*
 - \[noun\], locative, plural, feminine
 - “herb; plant; drug; herb.”
 ------------------------------------------------------------------------
-- *nūnot* \< *nū*
+- *nūnot* ← *nū*
 - \[verb\], singular, Plusquamperfect
 - “praise; shout.”
 ------------------------------------------------------------------------
-- *ghṛṇā* \< *ghṛṇi*
+- *ghṛṇā* ← *ghṛṇi*
 - \[noun\], locative, singular, masculine
 - “sunbeam.”
 ------------------------------------------------------------------------
@@ -45,18 +45,18 @@ title = "Rig Veda 6.3.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dhrajasā* \< *dhrajas*
+- *dhrajasā* ← *dhrajas*
 - \[noun\], instrumental, singular, neuter
 ------------------------------------------------------------------------
-- *patmanā* \< *patman*
+- *patmanā* ← *patman*
 - \[noun\], instrumental, singular, neuter
 - “flight.”
 ------------------------------------------------------------------------
-- *yann* \< *yan* \< *i*
+- *yann* ← *yan* ← *i*
 - \[verb noun\], nominative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
@@ -64,23 +64,23 @@ title = "Rig Veda 6.3.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *vasunā* \< *vasu*
+- *vasunā* ← *vasu*
 - \[noun\], instrumental, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *daṃ* \< *\_* \< *√\_*
+- *daṃ* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *supatnī* \< *su*
+- *supatnī* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *supatnī* \< *patnī*
+- *supatnī* ← *patnī*
 - \[noun\], nominative, dual, feminine
 - “wife; mistress; queen.”
 ------------------------------------------------------------------------

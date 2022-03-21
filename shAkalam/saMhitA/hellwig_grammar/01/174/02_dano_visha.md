@@ -2,10 +2,10 @@
 title = "Rig Veda 1.174.2"
 
 +++
--   *dano* \< *danaḥ* \< *dan*
+-   *dano* ← *danaḥ* ← *dan*
 - \[verb\], singular, Present injunctive
 ------------------------------------------------------------------------
-- *viśa* \< *viśaḥ* \< *viś*
+- *viśa* ← *viśaḥ* ← *viś*
 - \[noun\], accusative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
@@ -14,11 +14,11 @@ title = "Rig Veda 1.174.2"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *mṛdhravācaḥ* \< *mṛdhravāc*
+- *mṛdhravācaḥ* ← *mṛdhravāc*
 - \[noun\], accusative, plural, feminine
 - “abusive.”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], accusative, singular, neuter
 - “seven; seventh.”
 ------------------------------------------------------------------------
@@ -26,53 +26,53 @@ title = "Rig Veda 1.174.2"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *puraḥ* \< *pur*
+- *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *śāradīr* \< *śāradīḥ* \< *śārada*
+- *śāradīr* ← *śāradīḥ* ← *śārada*
 - \[noun\], accusative, plural, feminine
 - “autumnal; śārada \[word\]; autumn(a).”
 ------------------------------------------------------------------------
-- *dart* \< *dṛ*
+- *dart* ← *dṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “burst; burst.”
 ------------------------------------------------------------------------
-- *ṛṇor* \< *ṛṇoḥ* \< *ṛch*
+- *ṛṇor* ← *ṛṇoḥ* ← *ṛch*
 - \[verb\], singular, Present injunctive
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *apo* \< *apaḥ* \< *ap*
+- *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *anavadyārṇā* \< *anavadya*
+- *anavadyārṇā* ← *anavadya*
 - \[noun\]
 - “blameless; faultless.”
 ------------------------------------------------------------------------
-- *anavadyārṇā* \< *arṇāḥ* \< *arṇa*
+- *anavadyārṇā* ← *arṇāḥ* ← *arṇa*
 - \[noun\], accusative, plural, feminine
 - “wave; flood.”
 ------------------------------------------------------------------------
-- *yūne* \< *yuvan*
+- *yūne* ← *yuvan*
 - \[noun\], dative, singular, masculine
 - “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
     buck; young.”
 ------------------------------------------------------------------------
-- *vṛtram* \< *vṛtra*
+- *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *purukutsāya* \< *purukutsa*
+- *purukutsāya* ← *purukutsa*
 - \[noun\], dative, singular, masculine
 - “Purukutsa.”
 ------------------------------------------------------------------------
-- *randhīḥ* \< *radh*
+- *randhīḥ* ← *radh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “subjugate.”
 ------------------------------------------------------------------------

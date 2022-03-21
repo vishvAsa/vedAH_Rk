@@ -2,30 +2,30 @@
 title = "Rig Veda 4.15.7"
 
 +++
--   *bodhad* \< *bodhat* \< *budh*
+-   *bodhad* ← *bodhat* ← *budh*
 - \[verb\], singular, Imperfect
 - “understand; notice; wake up; observe; detect; attend to; awaken;
     attend.”
 ------------------------------------------------------------------------
-- *yan* \< *yat*
+- *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *haribhyāṃ* \< *haribhyām* \< *hari*
+- *haribhyāṃ* ← *haribhyām* ← *hari*
 - \[noun\], instrumental, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *kumāraḥ* \< *kumāra*
+- *kumāraḥ* ← *kumāra*
 - \[noun\], nominative, singular, masculine
 - “prince; male child; child; Skanda; son; kumārabandha; kumāra
     \[word\]; young person.”
 ------------------------------------------------------------------------
-- *sāhadevyaḥ* \< *sāhadevya*
+- *sāhadevyaḥ* ← *sāhadevya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *acchā*
@@ -36,7 +36,7 @@ title = "Rig Veda 4.15.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *hūta* \< *hūtaḥ* \< *hvā*
+- *hūta* ← *hūtaḥ* ← *hvā*
 - \[verb noun\], nominative, singular
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
@@ -44,7 +44,7 @@ title = "Rig Veda 4.15.7"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *aram* \< *ṛch*
+- *aram* ← *ṛch*
 - \[verb\], singular, Aorist inj. (proh.)
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”

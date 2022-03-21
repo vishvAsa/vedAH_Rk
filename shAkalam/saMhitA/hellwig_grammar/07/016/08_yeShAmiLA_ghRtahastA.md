@@ -2,27 +2,27 @@
 title = "Rig Veda 7.16.8"
 
 +++
--   *yeṣām* \< *yad*
+-   *yeṣām* ← *yad*
 - \[noun\], genitive, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *iﾱā* \< *iḍā*
+- *iﾱā* ← *iḍā*
 - \[noun\], nominative, singular, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
 ------------------------------------------------------------------------
-- *ghṛtahastā* \< *ghṛta*
+- *ghṛtahastā* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *ghṛtahastā* \< *hastā* \< *hasta*
+- *ghṛtahastā* ← *hastā* ← *hasta*
 - \[noun\], nominative, singular, feminine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------
-- *duroṇa* \< *duroṇe* \< *duroṇa*
+- *duroṇa* ← *duroṇe* ← *duroṇa*
 - \[noun\], locative, singular, neuter
 - “home; dwelling.”
 ------------------------------------------------------------------------
-- *āṃ* \< *ām* \< *āṃ*
+- *āṃ* ← *ām* ← *āṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *api*
@@ -30,20 +30,20 @@ title = "Rig Veda 7.16.8"
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
 ------------------------------------------------------------------------
-- *prātā* \< *prāti*
+- *prātā* ← *prāti*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
-- *niṣīdati* \< *niṣad* \< *√sad*
+- *niṣīdati* ← *niṣad* ← *√sad*
 - \[verb\], singular, Present indikative
 - “sit down; sit; put.”
 ------------------------------------------------------------------------
-- *tāṃs* \< *tān* \< *tad*
+- *tāṃs* ← *tān* ← *tad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *trāyasva* \< *trā*
+- *trāyasva* ← *trā*
 - \[verb\], singular, Present imperative
 - “protect; help.”
 ------------------------------------------------------------------------
@@ -51,31 +51,31 @@ title = "Rig Veda 7.16.8"
 - \[noun\], vocative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *druho* \< *druhaḥ* \< *druh*
+- *druho* ← *druhaḥ* ← *druh*
 - \[noun\], ablative, singular, feminine
 - “deception; druh; misrepresentation; fraudulence; offense; injury.”
 ------------------------------------------------------------------------
-- *nido* \< *nidaḥ* \< *nid*
+- *nido* ← *nidaḥ* ← *nid*
 - \[noun\], ablative, singular, feminine
 - “derision; scoffer; contempt.”
 ------------------------------------------------------------------------
-- *yacchā* \< *yaccha* \< *yam*
+- *yacchā* ← *yaccha* ← *yam*
 - \[verb\], singular, Present imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *dīrghaśrut* \< *dīrgha*
+- *dīrghaśrut* ← *dīrgha*
 - \[noun\]
 - “long; long; long; large; far; deep; dīrgha \[word\].”
 ------------------------------------------------------------------------
-- *dīrghaśrut* \< *śrut*
+- *dīrghaśrut* ← *śrut*
 - \[noun\], accusative, singular, neuter
 - “listening.”
 ------------------------------------------------------------------------

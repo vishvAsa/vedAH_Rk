@@ -2,7 +2,7 @@
 title = "Rig Veda 1.121.1"
 
 +++
--   *kad* \< *ka*
+-   *kad* ← *ka*
 - \[noun\], nominative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -10,34 +10,34 @@ title = "Rig Veda 1.121.1"
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *nṝṃḥ* \< *nṝn* \< *nṛ*
+- *nṝṃḥ* ← *nṝn* ← *nṛ*
 - \[noun\], accusative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *pātraṃ* \< *pātram* \< *pātra*
+- *pātraṃ* ← *pātram* ← *pātra*
 - \[noun\], nominative, singular, neuter
 - “vessel; pātra \[word\]; authority; receptacle; pātra; vessel; cup;
     bowl; basket.”
 ------------------------------------------------------------------------
-- *devayatāṃ* \< *devayatām* \< *devay*
+- *devayatāṃ* ← *devayatām* ← *devay*
 - \[verb noun\], genitive, plural
 - “solicit.”
 ------------------------------------------------------------------------
-- *śravad* \< *śravat* \< *śru*
+- *śravad* ← *śravat* ← *śru*
 - \[verb\], singular, Aorist conj./subj.
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *giro* \< *giraḥ* \< *gir*
+- *giro* ← *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *aṅgirasāṃ* \< *aṅgirasām* \< *aṅgiras*
+- *aṅgirasāṃ* ← *aṅgirasām* ← *aṅgiras*
 - \[noun\], genitive, plural, masculine
 - “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
     Aṅgiras.”
 ------------------------------------------------------------------------
-- *turaṇyan* \< *turaṇy*
+- *turaṇyan* ← *turaṇy*
 - \[verb noun\], nominative, singular
 - “rush.”
 ------------------------------------------------------------------------
@@ -45,15 +45,15 @@ title = "Rig Veda 1.121.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *ānaḍ* \< *ānaṭ* \< *naś*
+- *ānaḍ* ← *ānaṭ* ← *naś*
 - \[verb\], singular, Root aorist (Ind.)
 - “reach; achieve; enter (a state); reach.”
 ------------------------------------------------------------------------
-- *viśa* \< *viśaḥ* \< *viś*
+- *viśa* ← *viśaḥ* ← *viś*
 - \[noun\], accusative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
@@ -61,23 +61,23 @@ title = "Rig Veda 1.121.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *harmyasyoru* \< *harmyasya* \< *harmya*
+- *harmyasyoru* ← *harmyasya* ← *harmya*
 - \[noun\], genitive, singular, neuter
 - “mansion; house; palace.”
 ------------------------------------------------------------------------
-- *harmyasyoru* \< *uru*
+- *harmyasyoru* ← *uru*
 - \[noun\], accusative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *kraṃsate* \< *kram*
+- *kraṃsate* ← *kram*
 - \[verb\], singular, Aorist conj./subj.
 - “kram; step; go; continue; proceed; traverse; heat.”
 ------------------------------------------------------------------------
-- *adhvare* \< *adhvara*
+- *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *yajatraḥ* \< *yajatra*
+- *yajatraḥ* ← *yajatra*
 - \[noun\], nominative, singular, masculine
 - “adorable.”
 ------------------------------------------------------------------------

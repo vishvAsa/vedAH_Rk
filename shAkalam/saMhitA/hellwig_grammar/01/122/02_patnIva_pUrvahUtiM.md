@@ -2,25 +2,25 @@
 title = "Rig Veda 1.122.2"
 
 +++
--   *patnīva* \< *patnī*
+-   *patnīva* ← *patnī*
 - \[noun\], nominative, dual, feminine
 - “wife; mistress; queen.”
 ------------------------------------------------------------------------
-- *patnīva* \< *iva*
+- *patnīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *pūrvahūtiṃ* \< *pūrva*
+- *pūrvahūtiṃ* ← *pūrva*
 - \[noun\]
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *pūrvahūtiṃ* \< *hūtim* \< *hūti*
+- *pūrvahūtiṃ* ← *hūtim* ← *hūti*
 - \[noun\], accusative, singular, feminine
 - “invocation.”
 ------------------------------------------------------------------------
-- *vāvṛdhadhyā* \< *vāvṛdhadhyai* \< *vṛdh*
+- *vāvṛdhadhyā* ← *vāvṛdhadhyai* ← *vṛdh*
 - \[verb noun\]
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
@@ -33,46 +33,46 @@ title = "Rig Veda 1.122.2"
 - \[adverb\]
 - “multiply.”
 ------------------------------------------------------------------------
-- *vidāne* \< *vid*
+- *vidāne* ← *vid*
 - \[verb noun\], nominative, dual
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *starīr* \< *starīḥ* \< *starī*
+- *starīr* ← *starīḥ* ← *starī*
 - \[noun\], nominative, singular, feminine
 - “barren cow.”
 ------------------------------------------------------------------------
-- *nātkaṃ* \< *nā* \< *na*
+- *nātkaṃ* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nātkaṃ* \< *atkam* \< *atka*
+- *nātkaṃ* ← *atkam* ← *atka*
 - \[noun\], accusative, singular, masculine
 - “garment.”
 ------------------------------------------------------------------------
-- *vyutaṃ* \< *vyutam* \< *vyuta*
+- *vyutaṃ* ← *vyutam* ← *vyuta*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *vasānā* \< *vas*
+- *vasānā* ← *vas*
 - \[verb noun\], nominative, singular
 - “wear.”
 ------------------------------------------------------------------------
-- *sūryasya* \< *sūrya*
+- *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *śriyā* \< *śrī*
+- *śriyā* ← *śrī*
 - \[noun\], instrumental, singular, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
 ------------------------------------------------------------------------
-- *sudṛśī* \< *sudṛś*
+- *sudṛśī* ← *sudṛś*
 - \[noun\], nominative, singular, feminine
 - “fine-looking.”
 ------------------------------------------------------------------------
-- *hiraṇyaiḥ* \< *hiraṇya*
+- *hiraṇyaiḥ* ← *hiraṇya*
 - \[noun\], instrumental, plural, neuter
 - “gold; jewelry; hiraṇya \[word\]; gold.”
 ------------------------------------------------------------------------

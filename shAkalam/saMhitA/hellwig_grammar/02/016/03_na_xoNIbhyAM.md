@@ -6,19 +6,19 @@ title = "Rig Veda 2.16.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *kṣoṇībhyām* \< *kṣoṇī*
+- *kṣoṇībhyām* ← *kṣoṇī*
 - \[noun\], instrumental, dual, feminine
 - “Earth.”
 ------------------------------------------------------------------------
-- *paribhve* \< *paribhū* \< *√bhū*
+- *paribhve* ← *paribhū* ← *√bhū*
 - \[verb noun\]
 - “overcome; contemn; enclose; discredit; happen.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *indriyaṃ* \< *indriyam* \< *indriya*
+- *indriyaṃ* ← *indriyam* ← *indriya*
 - \[noun\], nominative, singular, neuter
 - “sense organ; Indriya; sense; power; semen; indriya \[word\]; mind;
     penis; manfulness; force.”
@@ -27,11 +27,11 @@ title = "Rig Veda 2.16.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *samudraiḥ* \< *samudra*
+- *samudraiḥ* ← *samudra*
 - \[noun\], instrumental, plural, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *parvatair* \< *parvataiḥ* \< *parvata*
+- *parvatair* ← *parvataiḥ* ← *parvata*
 - \[noun\], instrumental, plural, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
@@ -41,11 +41,11 @@ title = "Rig Veda 2.16.3"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *rathaḥ* \< *ratha*
+- *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -53,20 +53,20 @@ title = "Rig Veda 2.16.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vajram* \< *vajra*
+- *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *anv* \< *anu*
+- *anv* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *aśnoti* \< *aś*
+- *aśnoti* ← *aś*
 - \[verb\], singular, Present indikative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
@@ -74,20 +74,20 @@ title = "Rig Veda 2.16.3"
 - \[noun\], nominative, singular, masculine
 - “some(a); any(a); some(a); any(a).”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *āśubhiḥ* \< *āśu*
+- *āśubhiḥ* ← *āśu*
 - \[noun\], instrumental, plural, masculine
 - “quick; fast; immediate; agile.”
 ------------------------------------------------------------------------
-- *patasi* \< *pat*
+- *patasi* ← *pat*
 - \[verb\], singular, Present indikative
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
 ------------------------------------------------------------------------
-- *yojanā* \< *yojana*
+- *yojanā* ← *yojana*
 - \[noun\], accusative, plural, neuter
 - “yojana; use; yojana \[word\]; team.”
 ------------------------------------------------------------------------

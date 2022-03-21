@@ -2,7 +2,7 @@
 title = "Rig Veda 8.86.3"
 
 +++
--   *yuvaṃ* \< *yuvam* \< *tvad*
+-   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -10,68 +10,68 @@ title = "Rig Veda 8.86.3"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *ṣmā* \< *sma*
+- *ṣmā* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *purubhujemam* \< *puru*
+- *purubhujemam* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purubhujemam* \< *bhujā* \< *bhuj*
+- *purubhujemam* ← *bhujā* ← *bhuj*
 - \[noun\], nominative, dual, masculine
 - “eating; consuming.”
 ------------------------------------------------------------------------
-- *purubhujemam* \< *imam* \< *idam*
+- *purubhujemam* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *edhatuṃ* \< *edhatum* \< *edhatu*
+- *edhatuṃ* ← *edhatum* ← *edhatu*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *viṣṇāpve* \< *viṣṇāpū*
+- *viṣṇāpve* ← *viṣṇāpū*
 - \[noun\], dative, singular, masculine
 - “Viṣṇāpū.”
 ------------------------------------------------------------------------
-- *dadathur* \< *dadathuḥ* \< *dā*
+- *dadathur* ← *dadathuḥ* ← *dā*
 - \[verb\], dual, Perfect indicative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *vasyaiṣṭaye* \< *vasyaiṣṭi*
+- *vasyaiṣṭaye* ← *vasyaiṣṭi*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------
-- *tā* \< *tad*
+- *tā* ← *tad*
 - \[noun\], accusative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *viśvako* \< *viśvakaḥ* \< *viśvaka*
+- *viśvako* ← *viśvakaḥ* ← *viśvaka*
 - \[noun\], nominative, singular, masculine
 - “Viśvaka; Viśvaka.”
 ------------------------------------------------------------------------
-- *havate* \< *hvā*
+- *havate* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *tanūkṛthe* \< *tanū*
+- *tanūkṛthe* ← *tanū*
 - \[noun\], feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *tanūkṛthe* \< *kṛthe* \< *kṛtha*
+- *tanūkṛthe* ← *kṛthe* ← *kṛtha*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
 - *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -79,15 +79,15 @@ title = "Rig Veda 8.86.3"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *yauṣṭaṃ* \< *yauṣṭam* \< *yu*
+- *yauṣṭaṃ* ← *yauṣṭam* ← *yu*
 - \[verb\], dual, Aorist inj. (proh.)
 - “keep away; separate; ward off.”
 ------------------------------------------------------------------------
-- *sakhyā* \< *sakhya*
+- *sakhyā* ← *sakhya*
 - \[noun\], accusative, plural, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *mumocatam* \< *muc*
+- *mumocatam* ← *muc*
 - \[verb\], dual, Perfect imperative
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
     fill into; shoot; spill; lose; ejaculate; exclude; free; remove;

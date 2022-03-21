@@ -2,15 +2,15 @@
 title = "Rig Veda 9.86.43"
 
 +++
--   *añjate* \< *añj*
+-   *añjate* ← *añj*
 - \[verb\], plural, Present indikative
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *añjate* \< *añj*
+- *añjate* ← *añj*
 - \[verb\], plural, Present indikative
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
@@ -18,64 +18,64 @@ title = "Rig Veda 9.86.43"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *añjate* \< *añj*
+- *añjate* ← *añj*
 - \[verb\], plural, Present indikative
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *kratuṃ* \< *kratum* \< *kratu*
+- *kratuṃ* ← *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *rihanti* \< *rih*
+- *rihanti* ← *rih*
 - \[verb\], plural, Present indikative
 - “lick.”
 ------------------------------------------------------------------------
-- *madhunābhy* \< *madhunā* \< *madhu*
+- *madhunābhy* ← *madhunā* ← *madhu*
 - \[noun\], instrumental, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *madhunābhy* \< *abhi*
+- *madhunābhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *añjate* \< *añj*
+- *añjate* ← *añj*
 - \[verb\], plural, Present indikative
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *sindhor* \< *sindhoḥ* \< *sindhu*
+- *sindhor* ← *sindhoḥ* ← *sindhu*
 - \[noun\], genitive, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *ucchvāse* \< *ucchvāsa*
+- *ucchvāse* ← *ucchvāsa*
 - \[noun\], locative, singular, masculine
 - “exhalation; chapter; breath; breathing.”
 ------------------------------------------------------------------------
-- *patayantam* \< *patay* \< *√pat*
+- *patayantam* ← *patay* ← *√pat*
 - \[verb noun\], accusative, singular
 - “fly.”
 ------------------------------------------------------------------------
-- *ukṣaṇaṃ* \< *ukṣaṇam* \< *ukṣan*
+- *ukṣaṇaṃ* ← *ukṣaṇam* ← *ukṣan*
 - \[noun\], accusative, singular, masculine
 - “bull; ukṣan \[word\].”
 ------------------------------------------------------------------------
-- *hiraṇyapāvāḥ* \< *hiraṇya*
+- *hiraṇyapāvāḥ* ← *hiraṇya*
 - \[noun\], neuter
 - “gold; jewelry; hiraṇya \[word\]; gold.”
 ------------------------------------------------------------------------
-- *hiraṇyapāvāḥ* \< *pāvāḥ* \< *pāva*
+- *hiraṇyapāvāḥ* ← *pāvāḥ* ← *pāva*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *paśum* \< *paśu*
+- *paśum* ← *paśu*
 - \[noun\], accusative, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
 ------------------------------------------------------------------------
-- *āsu* \< *idam*
+- *āsu* ← *idam*
 - \[noun\], locative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *gṛbhṇate* \< *grah*
+- *gṛbhṇate* ← *grah*
 - \[verb\], plural, Present indikative
 - “take; grasp; take out; extract; perceive; pick; assume; include;
     accept; understand; use; learn; possess; keep; choose; accept;

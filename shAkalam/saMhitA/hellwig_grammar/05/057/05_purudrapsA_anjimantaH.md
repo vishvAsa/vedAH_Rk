@@ -2,72 +2,72 @@
 title = "Rig Veda 5.57.5"
 
 +++
--   *purudrapsā* \< *puru*
+-   *purudrapsā* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purudrapsā* \< *drapsāḥ* \< *drapsa*
+- *purudrapsā* ← *drapsāḥ* ← *drapsa*
 - \[noun\], nominative, plural, masculine
 - “drop; banner.”
 ------------------------------------------------------------------------
-- *añjimantaḥ* \< *añjimat*
+- *añjimantaḥ* ← *añjimat*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *sudānavas* \< *sudānavaḥ* \< *sudānu*
+- *sudānavas* ← *sudānavaḥ* ← *sudānu*
 - \[noun\], nominative, plural, masculine
 - “big; lavish.”
 ------------------------------------------------------------------------
-- *tveṣasaṃdṛśo* \< *tveṣa*
+- *tveṣasaṃdṛśo* ← *tveṣa*
 - \[noun\]
 - “awful; brilliant; aglitter(p); bright.”
 ------------------------------------------------------------------------
-- *tveṣasaṃdṛśo* \< *saṃdṛśaḥ* \< *saṃdṛś*
+- *tveṣasaṃdṛśo* ← *saṃdṛśaḥ* ← *saṃdṛś*
 - \[noun\], nominative, plural, masculine
 - “appearance; view; view.”
 ------------------------------------------------------------------------
-- *anavabhrarādhasaḥ* \< *anavabhra*
+- *anavabhrarādhasaḥ* ← *anavabhra*
 - \[noun\]
 - “permanent.”
 ------------------------------------------------------------------------
-- *anavabhrarādhasaḥ* \< *rādhasaḥ* \< *rādhas*
+- *anavabhrarādhasaḥ* ← *rādhasaḥ* ← *rādhas*
 - \[noun\], nominative, plural, masculine
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *sujātāso* \< *sujātāsaḥ* \< *sujāta*
+- *sujātāso* ← *sujātāsaḥ* ← *sujāta*
 - \[noun\], nominative, plural, masculine
 - “noble; beautiful.”
 ------------------------------------------------------------------------
-- *januṣā* \< *janus*
+- *januṣā* ← *janus*
 - \[noun\], instrumental, singular, masculine
 - “birth.”
 ------------------------------------------------------------------------
-- *rukmavakṣaso* \< *rukma*
+- *rukmavakṣaso* ← *rukma*
 - \[noun\], neuter
 - “gold; svarṇamākṣika.”
 ------------------------------------------------------------------------
-- *rukmavakṣaso* \< *vakṣasaḥ* \< *vakṣas*
+- *rukmavakṣaso* ← *vakṣasaḥ* ← *vakṣas*
 - \[noun\], nominative, plural, masculine
 - “breast; breast; bosom; thorax.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *arkā* \< *arkāḥ* \< *arka*
+- *arkā* ← *arkāḥ* ← *arka*
 - \[noun\], nominative, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *amṛtaṃ* \< *amṛtam* \< *amṛta*
+- *amṛtaṃ* ← *amṛtam* ← *amṛta*
 - \[noun\], accusative, singular, neuter
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *nāma* \< *nāman*
+- *nāma* ← *nāman*
 - \[noun\], accusative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
 ------------------------------------------------------------------------
-- *bhejire* \< *bhaj*
+- *bhejire* ← *bhaj*
 - \[verb\], plural, Perfect indicative
 - “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
     one's share; partake; share; get; approach; love; use.”

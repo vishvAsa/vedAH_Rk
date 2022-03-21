@@ -6,17 +6,17 @@ title = "Rig Veda 8.19.37"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *prayiyor* \< *prayiyoḥ* \< *prayiyu*
+- *prayiyor* ← *prayiyoḥ* ← *prayiyu*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *vayiyoḥ* \< *vayiyu*
+- *vayiyoḥ* ← *vayiyu*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *suvāstvā* \< *suvāstvāḥ* \< *suvāstu*
+- *suvāstvā* ← *suvāstvāḥ* ← *suvāstu*
 - \[noun\], genitive, singular, feminine
 - “suvāstu \[word\].”
 ------------------------------------------------------------------------
@@ -24,42 +24,42 @@ title = "Rig Veda 8.19.37"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *tugvani* \< *tugvan*
+- *tugvani* ← *tugvan*
 - \[noun\], locative, singular, neuter
 - “ford.”
 ------------------------------------------------------------------------
-- *tisṝṇāṃ* \< *tisṝṇām* \< *tri*
+- *tisṝṇāṃ* ← *tisṝṇām* ← *tri*
 - \[noun\], genitive, plural, feminine
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *saptatīnāṃ* \< *saptatīnām* \< *saptati*
+- *saptatīnāṃ* ← *saptatīnām* ← *saptati*
 - \[noun\], genitive, plural, feminine
 - “seventy; saptati \[word\].”
 ------------------------------------------------------------------------
-- *śyāvaḥ* \< *śyāva*
+- *śyāvaḥ* ← *śyāva*
 - \[noun\], nominative, singular, masculine
 - “brown; dark; śyāva \[word\].”
 ------------------------------------------------------------------------
-- *praṇetā* \< *praṇetṛ*
+- *praṇetā* ← *praṇetṛ*
 - \[noun\], nominative, singular, masculine
 - “leader.”
 ------------------------------------------------------------------------
-- *bhuvad* \< *bhuvat* \< *bhū*
+- *bhuvad* ← *bhuvat* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *vasur* \< *vasuḥ* \< *vasu*
+- *vasur* ← *vasuḥ* ← *vasu*
 - \[noun\], nominative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *diyānām* \< *diya*
+- *diyānām* ← *diya*
 - \[noun\], genitive, plural, neuter
 - “gift.”
 ------------------------------------------------------------------------
-- *patiḥ* \< *pati*
+- *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”

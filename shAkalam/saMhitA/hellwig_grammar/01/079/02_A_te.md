@@ -6,43 +6,43 @@ title = "Rig Veda 1.79.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *suparṇā* \< *suparṇau* \< *suparṇa*
+- *suparṇā* ← *suparṇau* ← *suparṇa*
 - \[noun\], nominative, dual, masculine
 - “Garuda; Suparṇa; bird of prey; Suparṇa; suparṇa; Suparṇa; eagle.”
 ------------------------------------------------------------------------
-- *aminantaṃ* \< *aminantam* \< *mī*
+- *aminantaṃ* ← *aminantam* ← *mī*
 - \[verb\], dual, Imperfect
 - “transgress; damage.”
 ------------------------------------------------------------------------
-- *evaiḥ* \< *eva*
+- *evaiḥ* ← *eva*
 - \[noun\], instrumental, plural, masculine
 - “eva \[word\]; habit; manner; behavior; custom.”
 ------------------------------------------------------------------------
-- *kṛṣṇo* \< *kṛṣṇaḥ* \< *kṛṣṇa*
+- *kṛṣṇo* ← *kṛṣṇaḥ* ← *kṛṣṇa*
 - \[noun\], nominative, singular, masculine
 - “black; dark; dark; blue; black.”
 ------------------------------------------------------------------------
-- *nonāva* \< *nonāv* \< *√nū*
+- *nonāva* ← *nonāv* ← *√nū*
 - \[verb\], singular, Perfect indicative
 - “bellow.”
 ------------------------------------------------------------------------
-- *vṛṣabho* \< *vṛṣabhaḥ* \< *vṛṣabha*
+- *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *yadīdam* \< *yadi*
+- *yadīdam* ← *yadi*
 - \[adverb\]
 - “if; in case.”
 ------------------------------------------------------------------------
-- *yadīdam* \< *idam*
+- *yadīdam* ← *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *śivābhir* \< *śivābhiḥ* \< *śiva*
+- *śivābhir* ← *śivābhiḥ* ← *śiva*
 - \[noun\], instrumental, plural, feminine
 - “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
     holy; nice.”
@@ -51,28 +51,28 @@ title = "Rig Veda 1.79.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *smayamānābhir* \< *smayamānābhiḥ* \< *smi*
+- *smayamānābhir* ← *smayamānābhiḥ* ← *smi*
 - \[verb noun\], instrumental, plural
 - “smile.”
 ------------------------------------------------------------------------
-- *āgāt* \< *āgā* \< *√gā*
+- *āgāt* ← *āgā* ← *√gā*
 - \[verb\], singular, Root aorist (Ind.)
 - “come; arrive.”
 ------------------------------------------------------------------------
-- *patanti* \< *pat*
+- *patanti* ← *pat*
 - \[verb\], plural, Present indikative
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
 ------------------------------------------------------------------------
-- *miha* \< *mih*
+- *miha* ← *mih*
 - \[noun\], nominative, plural, feminine
 - “fog.”
 ------------------------------------------------------------------------
-- *stanayanty* \< *stanayanti* \< *stanay* \< *√stan*
+- *stanayanty* ← *stanayanti* ← *stanay* ← *√stan*
 - \[verb\], plural, Present indikative
 - “thunder; thunder.”
 ------------------------------------------------------------------------
-- *abhrā* \< *abhra*
+- *abhrā* ← *abhra*
 - \[noun\], nominative, plural, neuter
 - “abhra; cloud; sky; abhra \[word\]; cumulonimbus; mica; air;
     cloudiness.”

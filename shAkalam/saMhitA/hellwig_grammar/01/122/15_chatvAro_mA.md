@@ -2,71 +2,71 @@
 title = "Rig Veda 1.122.15"
 
 +++
--   *catvāro* \< *catvāraḥ* \< *catur*
+-   *catvāro* ← *catvāraḥ* ← *catur*
 - \[noun\], nominative, plural, masculine
 - “four; catur \[word\].”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *maśarśārasya* \< *maśarśāra*
+- *maśarśārasya* ← *maśarśāra*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *śiśvas* \< *śiśvaḥ* \< *śiśu*
+- *śiśvas* ← *śiśvaḥ* ← *śiśu*
 - \[noun\], genitive, singular, masculine
 - “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
 ------------------------------------------------------------------------
-- *trayo* \< *trayaḥ* \< *tri*
+- *trayo* ← *trayaḥ* ← *tri*
 - \[noun\], nominative, plural, masculine
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *rājña* \< *rājñaḥ* \< *rājan*
+- *rājña* ← *rājñaḥ* ← *rājan*
 - \[noun\], genitive, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *āyavasasya* \< *āyavasa*
+- *āyavasasya* ← *āyavasa*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *jiṣṇoḥ* \< *jiṣṇu*
+- *jiṣṇoḥ* ← *jiṣṇu*
 - \[noun\], genitive, singular, masculine
 - “victorious.”
 ------------------------------------------------------------------------
-- *ratho* \< *rathaḥ* \< *ratha*
+- *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇā* \< *mitrāvaruṇa*
+- *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *dīrghāpsāḥ* \< *dīrgha*
+- *dīrghāpsāḥ* ← *dīrgha*
 - \[noun\]
 - “long; long; long; large; far; deep; dīrgha \[word\].”
 ------------------------------------------------------------------------
-- *dīrghāpsāḥ* \< *apsāḥ* \< *apsas*
+- *dīrghāpsāḥ* ← *apsāḥ* ← *apsas*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *syūmagabhastiḥ* \< *syūma* \< *syūman*
+- *syūmagabhastiḥ* ← *syūma* ← *syūman*
 - \[noun\], neuter
 ------------------------------------------------------------------------
-- *syūmagabhastiḥ* \< *gabhastiḥ* \< *gabhasti*
+- *syūmagabhastiḥ* ← *gabhastiḥ* ← *gabhasti*
 - \[noun\], nominative, singular, masculine
 - “beam; hand; sun.”
 ------------------------------------------------------------------------
-- *sūro* \< *sūraḥ* \< *sūra*
+- *sūro* ← *sūraḥ* ← *sūra*
 - \[noun\], nominative, singular, masculine
 - “sun.”
 ------------------------------------------------------------------------
-- *nādyaut* \< *nā* \< *na*
+- *nādyaut* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nādyaut* \< *adyaut* \< *dyut*
+- *nādyaut* ← *adyaut* ← *dyut*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “shine; inflame.”
 ------------------------------------------------------------------------

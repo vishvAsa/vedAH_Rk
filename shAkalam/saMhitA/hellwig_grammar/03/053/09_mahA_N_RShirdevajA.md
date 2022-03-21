@@ -2,80 +2,80 @@
 title = "Rig Veda 3.53.9"
 
 +++
--   *mahāṃ* \< *mahat*
+-   *mahāṃ* ← *mahat*
 - \[noun\], nominative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
 ------------------------------------------------------------------------
-- *ṛṣir* \< *ṛṣiḥ* \< *ṛṣi*
+- *ṛṣir* ← *ṛṣiḥ* ← *ṛṣi*
 - \[noun\], nominative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *devajā* \< *deva*
+- *devajā* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devajā* \< *jāḥ* \< *jā*
+- *devajā* ← *jāḥ* ← *jā*
 - \[noun\], nominative, singular, masculine
 - “born.”
 ------------------------------------------------------------------------
-- *devajūto* \< *deva*
+- *devajūto* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devajūto* \< *jūtaḥ* \< *jū*
+- *devajūto* ← *jūtaḥ* ← *jū*
 - \[verb noun\], nominative, singular
 - “animate; encourage; impel; inspire.”
 ------------------------------------------------------------------------
-- *'stabhnāt* \< *astabhnāt* \< *stambh*
+- *'stabhnāt* ← *astabhnāt* ← *stambh*
 - \[verb\], singular, Imperfect
 - “paralyze; stiffen; fixate; fixate; stambh; rear; stop; strengthen;
     constipate.”
 ------------------------------------------------------------------------
-- *sindhum* \< *sindhu*
+- *sindhum* ← *sindhu*
 - \[noun\], accusative, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *arṇavaṃ* \< *arṇavam* \< *arṇava*
+- *arṇavaṃ* ← *arṇavam* ← *arṇava*
 - \[noun\], accusative, singular, masculine
 - “wavy; flowing.”
 ------------------------------------------------------------------------
-- *nṛcakṣāḥ* \< *nṛ*
+- *nṛcakṣāḥ* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nṛcakṣāḥ* \< *cakṣāḥ* \< *cakṣas*
+- *nṛcakṣāḥ* ← *cakṣāḥ* ← *cakṣas*
 - \[noun\], nominative, singular, masculine
 - “eye; look; radiance.”
 ------------------------------------------------------------------------
-- *viśvāmitro* \< *viśvāmitraḥ* \< *viśvāmitra*
+- *viśvāmitro* ← *viśvāmitraḥ* ← *viśvāmitra*
 - \[noun\], nominative, singular, masculine
 - “Viśvāmitra; coconut.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *avahat* \< *vah*
+- *avahat* ← *vah*
 - \[verb\], singular, Imperfect
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *sudāsam* \< *sudās*
+- *sudāsam* ← *sudās*
 - \[noun\], accusative, singular, masculine
 - “Sudās.”
 ------------------------------------------------------------------------
-- *apriyāyata* \< *priyāy*
+- *apriyāyata* ← *priyāy*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *kuśikebhir* \< *kuśikebhiḥ* \< *kuśika*
+- *kuśikebhir* ← *kuśikebhiḥ* ← *kuśika*
 - \[noun\], instrumental, plural, masculine
 - “Kuśika; Vatica robusta.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”

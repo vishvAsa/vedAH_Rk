@@ -2,44 +2,44 @@
 title = "Rig Veda 8.89.2"
 
 +++
--   *apādhamad* \< *apādhamat* \< *apadham* \< *√dham*
+-   *apādhamad* ← *apādhamat* ← *apadham* ← *√dham*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *abhiśastīr* \< *abhiśastīḥ* \< *abhiśasti*
+- *abhiśastīr* ← *abhiśastīḥ* ← *abhiśasti*
 - \[noun\], accusative, plural, feminine
 - “hex; accusation; defamation; blame; aspersion.”
 ------------------------------------------------------------------------
-- *aśastihāthendro* \< *aśasti*
+- *aśastihāthendro* ← *aśasti*
 - \[noun\], feminine
 - “hex.”
 ------------------------------------------------------------------------
-- *aśastihāthendro* \< *hā* \< *han*
+- *aśastihāthendro* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
-- *aśastihāthendro* \< *atha*
+- *aśastihāthendro* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *aśastihāthendro* \< *indraḥ* \< *indra*
+- *aśastihāthendro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dyumny* \< *dyumnī* \< *dyumnin*
+- *dyumny* ← *dyumnī* ← *dyumnin*
 - \[noun\], nominative, singular, masculine
 - “powerful; imperial.”
 ------------------------------------------------------------------------
-- *ābhavat* \< *ābhū* \< *√bhū*
+- *ābhavat* ← *ābhū* ← *√bhū*
 - \[verb\], singular, Imperfect
 - “originate.”
 ------------------------------------------------------------------------
-- *devās* \< *devāḥ* \< *deva*
+- *devās* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -48,29 +48,29 @@ title = "Rig Veda 8.89.2"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sakhyāya* \< *sakhya*
+- *sakhyāya* ← *sakhya*
 - \[noun\], dative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *yemire* \< *yam*
+- *yemire* ← *yam*
 - \[verb\], plural, Perfect indicative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *bṛhadbhāno* \< *bṛhat*
+- *bṛhadbhāno* ← *bṛhat*
 - \[noun\]
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *bṛhadbhāno* \< *bhāno* \< *bhānu*
+- *bṛhadbhāno* ← *bhāno* ← *bhānu*
 - \[noun\], vocative, singular, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
 ------------------------------------------------------------------------
-- *marudgaṇa* \< *marut*
+- *marudgaṇa* ← *marut*
 - \[noun\], masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *marudgaṇa* \< *gaṇa*
+- *marudgaṇa* ← *gaṇa*
 - \[noun\], vocative, singular, masculine
 - “group; varga; troop; troop; battalion; flock; herd; gaṇa \[word\];
     corporation; gaṇa; herd; sect; swarm; set; party; gaṇa; series;

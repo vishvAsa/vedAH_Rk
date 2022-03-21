@@ -2,45 +2,45 @@
 title = "Rig Veda 4.18.1"
 
 +++
--   *ayam* \< *idam*
+-   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *panthā* \< *panthāḥ* \< *pathin*
+- *panthā* ← *panthāḥ* ← *pathin*
 - \[noun\], nominative, singular, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *anuvittaḥ* \< *anuvid* \< *√vid*
+- *anuvittaḥ* ← *anuvid* ← *√vid*
 - \[verb noun\], nominative, singular
 - “find; obtain.”
 ------------------------------------------------------------------------
-- *purāṇo* \< *purāṇaḥ* \< *purāṇa*
+- *purāṇo* ← *purāṇaḥ* ← *purāṇa*
 - \[noun\], nominative, singular, masculine
 - “age-old; stale; old; old; traditional; aged.”
 ------------------------------------------------------------------------
-- *yato* \< *yatas*
+- *yato* ← *yatas*
 - \[adverb\]
 - “from which; whence; wherein.”
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *udajāyanta* \< *ujjan* \< *√jan*
+- *udajāyanta* ← *ujjan* ← *√jan*
 - \[verb\], plural, Imperfect
 ------------------------------------------------------------------------
-- *viśve* \< *viśva*
+- *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *ataś* \< *atas*
+- *ataś* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -48,13 +48,13 @@ title = "Rig Veda 4.18.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *janiṣīṣṭa* \< *jan*
+- *janiṣīṣṭa* ← *jan*
 - \[verb\], singular, Aorist optative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *pravṛddho* \< *pravṛddhaḥ* \< *pravṛdh* \< *√vṛdh*
+- *pravṛddho* ← *pravṛddhaḥ* ← *pravṛdh* ← *√vṛdh*
 - \[verb noun\], nominative, singular
 - “increase; develop; advance.”
 ------------------------------------------------------------------------
@@ -62,21 +62,21 @@ title = "Rig Veda 4.18.1"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *mātaram* \< *mātṛ*
+- *mātaram* ← *mātṛ*
 - \[noun\], accusative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *amuyā* \< *adas*
+- *amuyā* ← *adas*
 - \[noun\], instrumental, singular, feminine
 - “that; John Doe; yonder; from here.”
 ------------------------------------------------------------------------
-- *pattave* \< *pat*
+- *pattave* ← *pat*
 - \[verb noun\]
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
 ------------------------------------------------------------------------
-- *kaḥ* \< *kṛ*
+- *kaḥ* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

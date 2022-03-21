@@ -10,87 +10,87 @@ title = "Rig Veda 1.136.1"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *jyeṣṭhaṃ* \< *jyeṣṭham* \< *jyeṣṭha*
+- *jyeṣṭhaṃ* ← *jyeṣṭham* ← *jyeṣṭha*
 - \[noun\], accusative, singular, neuter
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
 ------------------------------------------------------------------------
-- *nicirābhyām* \< *nicira*
+- *nicirābhyām* ← *nicira*
 - \[noun\], instrumental, dual, masculine
 - “attentive; argus-eyed.”
 ------------------------------------------------------------------------
-- *bṛhan* \< *bṛhat*
+- *bṛhan* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *namo* \< *namaḥ* \< *namas*
+- *namo* ← *namaḥ* ← *namas*
 - \[noun\], accusative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *havyam* \< *havya*
+- *havyam* ← *havya*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *matim* \< *mati*
+- *matim* ← *mati*
 - \[noun\], accusative, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *bharatā* \< *bharata* \< *bhṛ*
+- *bharatā* ← *bharata* ← *bhṛ*
 - \[verb\], plural, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *mṛﾱayadbhyāṃ* \< *mṛḍayadbhyām* \< *mṛḍay* \< *√mṛḍ*
+- *mṛﾱayadbhyāṃ* ← *mṛḍayadbhyām* ← *mṛḍay* ← *√mṛḍ*
 - \[verb noun\], dative, dual
 - “pardon.”
 ------------------------------------------------------------------------
-- *svādiṣṭham* \< *svādiṣṭha*
+- *svādiṣṭham* ← *svādiṣṭha*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *mṛﾱayadbhyām* \< *mṛḍayadbhyām* \< *mṛḍay* \< *√mṛḍ*
+- *mṛﾱayadbhyām* ← *mṛḍayadbhyām* ← *mṛḍay* ← *√mṛḍ*
 - \[verb noun\], dative, dual
 - “pardon.”
 ------------------------------------------------------------------------
-- *tā* \< *tad*
+- *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *samrājā* \< *samrāj*
+- *samrājā* ← *samrāj*
 - \[noun\], nominative, dual, masculine
 - “sovereign; ruler.”
 ------------------------------------------------------------------------
-- *ghṛtāsutī* \< *ghṛta*
+- *ghṛtāsutī* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *ghṛtāsutī* \< *āsutī* \< *āsuti*
+- *ghṛtāsutī* ← *āsutī* ← *āsuti*
 - \[noun\], nominative, dual, masculine
 - “āsuti \[word\].”
 ------------------------------------------------------------------------
-- *yajñe* \< *yajña*
+- *yajñe* ← *yajña*
 - \[noun\], locative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *yajña* \< *yajñe* \< *yajña*
+- *yajña* ← *yajñe* ← *yajña*
 - \[noun\], locative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *upastutā* \< *upastu* \< *√stu*
+- *upastutā* ← *upastu* ← *√stu*
 - \[verb noun\], nominative, dual
 - “praise.”
 ------------------------------------------------------------------------
-- *athainoḥ* \< *athā* \< *atha*
+- *athainoḥ* ← *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *athainoḥ* \< *enoḥ* \< *enad*
+- *athainoḥ* ← *enoḥ* ← *enad*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
-- *kṣatraṃ* \< *kṣatram* \< *kṣatra*
+- *kṣatraṃ* ← *kṣatram* ← *kṣatra*
 - \[noun\], nominative, singular, neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
 ------------------------------------------------------------------------
@@ -98,36 +98,36 @@ title = "Rig Veda 1.136.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *kutaś* \< *kutas*
+- *kutaś* ← *kutas*
 - \[adverb\]
 - “how; whence; why.”
 ------------------------------------------------------------------------
-- *canādhṛṣe* \< *cana*
+- *canādhṛṣe* ← *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *canādhṛṣe* \< *ādhṛṣe* \< *ādhṛṣ* \< *√dhṛṣ*
+- *canādhṛṣe* ← *ādhṛṣe* ← *ādhṛṣ* ← *√dhṛṣ*
 - \[verb noun\]
 - “overcome; suppress.”
 ------------------------------------------------------------------------
-- *devatvaṃ* \< *deva*
+- *devatvaṃ* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devatvaṃ* \< *tvam* \< *tva*
+- *devatvaṃ* ← *tvam* ← *tva*
 - \[noun\], nominative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *nū* \< *nu*
+- *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ādhṛṣe* \< *ādhṛṣ* \< *√dhṛṣ*
+- *ādhṛṣe* ← *ādhṛṣ* ← *√dhṛṣ*
 - \[verb noun\]
 - “overcome; suppress.”
 ------------------------------------------------------------------------

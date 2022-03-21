@@ -6,15 +6,15 @@ title = "Rig Veda 1.181.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *ratho* \< *rathaḥ* \< *ratha*
+- *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *'vanir* \< *avaniḥ* \< *avani*
+- *'vanir* ← *avaniḥ* ← *avani*
 - \[noun\], nominative, singular, feminine
 - “river; earth; floor; path; bed; course.”
 ------------------------------------------------------------------------
@@ -22,58 +22,58 @@ title = "Rig Veda 1.181.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pravatvān* \< *pravatvat*
+- *pravatvān* ← *pravatvat*
 - \[noun\], nominative, singular, masculine
 - “cragged.”
 ------------------------------------------------------------------------
-- *sṛpravandhuraḥ* \< *sṛpra*
+- *sṛpravandhuraḥ* ← *sṛpra*
 - \[noun\]
 - “glossy; greasy.”
 ------------------------------------------------------------------------
-- *sṛpravandhuraḥ* \< *vandhuraḥ* \< *vandhura*
+- *sṛpravandhuraḥ* ← *vandhuraḥ* ← *vandhura*
 - \[noun\], nominative, singular, masculine
 - “seat; seat.”
 ------------------------------------------------------------------------
-- *suvitāya* \< *suvita*
+- *suvitāya* ← *suvita*
 - \[noun\], dative, singular, neuter
 - “prosperity; well-being.”
 ------------------------------------------------------------------------
-- *gamyāḥ* \< *gam*
+- *gamyāḥ* ← *gam*
 - \[verb\], singular, Prekativ
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *vṛṣṇa* \< *vṛṣṇaḥ* \< *vṛṣan*
+- *vṛṣṇa* ← *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
 ------------------------------------------------------------------------
-- *sthātārā* \< *sthātṛ*
+- *sthātārā* ← *sthātṛ*
 - \[noun\], vocative, dual, masculine
 ------------------------------------------------------------------------
-- *manaso* \< *manasaḥ* \< *manas*
+- *manaso* ← *manasaḥ* ← *manas*
 - \[noun\], ablative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *javīyān* \< *javīyas*
+- *javīyān* ← *javīyas*
 - \[noun\], nominative, singular, masculine
 - “fast.”
 ------------------------------------------------------------------------
-- *ahampūrvo* \< *ahampūrvaḥ* \< *ahampūrva*
+- *ahampūrvo* ← *ahampūrvaḥ* ← *ahampūrva*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *yajato* \< *yajataḥ* \< *yajata*
+- *yajato* ← *yajataḥ* ← *yajata*
 - \[noun\], nominative, singular, masculine
 - “holy; august; sacrificial.”
 ------------------------------------------------------------------------
-- *dhiṣṇyā* \< *dhiṣṇya*
+- *dhiṣṇyā* ← *dhiṣṇya*
 - \[noun\], vocative, dual, masculine
 - “wise; beneficent.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------

@@ -2,59 +2,59 @@
 title = "Rig Veda 1.87.1"
 
 +++
--   *pratvakṣasaḥ* \< *pratvakṣas*
+-   *pratvakṣasaḥ* ← *pratvakṣas*
 - \[noun\], nominative, plural, masculine
 - “strong; vigorous.”
 ------------------------------------------------------------------------
-- *pratavaso* \< *pratavasaḥ* \< *pratavas*
+- *pratavaso* ← *pratavasaḥ* ← *pratavas*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *virapśino* \< *virapśinaḥ* \< *virapśin*
+- *virapśino* ← *virapśinaḥ* ← *virapśin*
 - \[noun\], nominative, plural, masculine
 - “exuberant; copious; ample.”
 ------------------------------------------------------------------------
-- *'nānatā* \< *an*
+- *'nānatā* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *'nānatā* \< *ānatāḥ* \< *ānam* \< *√nam*
+- *'nānatā* ← *ānatāḥ* ← *ānam* ← *√nam*
 - \[verb noun\], nominative, plural
 - “bend; bow; crouch; bend.”
 ------------------------------------------------------------------------
-- *avithurā* \< *a*
+- *avithurā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *avithurā* \< *vithurāḥ* \< *vithura*
+- *avithurā* ← *vithurāḥ* ← *vithura*
 - \[noun\], nominative, plural, masculine
 - “weak.”
 ------------------------------------------------------------------------
-- *ṛjīṣiṇaḥ* \< *ṛjīṣin*
+- *ṛjīṣiṇaḥ* ← *ṛjīṣin*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *juṣṭatamāso* \< *juṣṭatamāsaḥ* \< *juṣṭatama*
+- *juṣṭatamāso* ← *juṣṭatamāsaḥ* ← *juṣṭatama*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *nṛtamāso* \< *nṛtamāsaḥ* \< *nṛtama*
+- *nṛtamāso* ← *nṛtamāsaḥ* ← *nṛtama*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *añjibhir* \< *añjibhiḥ* \< *añji*
+- *añjibhir* ← *añjibhiḥ* ← *añji*
 - \[noun\], instrumental, plural, masculine
 - “color; ointment; adornment.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ānajre* \< *añj*
+- *ānajre* ← *añj*
 - \[verb\], plural, Perfect indicative
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *kecid* \< *kaścit*
+- *kecid* ← *kaścit*
 - \[noun\], nominative, plural, masculine
 - “any(a); some(a); some(a); some(a); some(a).”
 ------------------------------------------------------------------------
-- *usrā* \< *usrāḥ* \< *usra*
+- *usrā* ← *usrāḥ* ← *usra*
 - \[noun\], nominative, plural, masculine
 - “beam; Asvins.”
 ------------------------------------------------------------------------
@@ -62,7 +62,7 @@ title = "Rig Veda 1.87.1"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *stṛbhiḥ* \< *star*
+- *stṛbhiḥ* ← *star*
 - \[noun\], instrumental, plural, masculine
 - “star.”
 ------------------------------------------------------------------------

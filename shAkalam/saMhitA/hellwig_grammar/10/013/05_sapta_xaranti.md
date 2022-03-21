@@ -2,45 +2,45 @@
 title = "Rig Veda 10.13.5"
 
 +++
--   *sapta* \< *saptan*
+-   *sapta* ← *saptan*
 - \[noun\], nominative, plural, masculine
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *kṣaranti* \< *kṣar*
+- *kṣaranti* ← *kṣar*
 - \[verb\], plural, Present indikative
 - “run; melt.”
 ------------------------------------------------------------------------
-- *śiśave* \< *śiśu*
+- *śiśave* ← *śiśu*
 - \[noun\], dative, singular, masculine
 - “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
 ------------------------------------------------------------------------
-- *marutvate* \< *marutvat*
+- *marutvate* ← *marutvat*
 - \[noun\], dative, singular, masculine
 - “Marut(a).”
 ------------------------------------------------------------------------
-- *pitre* \< *pitṛ*
+- *pitre* ← *pitṛ*
 - \[noun\], dative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *putrāso* \< *putrāsaḥ* \< *putra*
+- *putrāso* ← *putrāsaḥ* ← *putra*
 - \[noun\], nominative, plural, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
-- *apy* \< *api*
+- *apy* ← *api*
 - \[adverb\]
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
 ------------------------------------------------------------------------
-- *avīvatann* \< *avīvatan* \< *vat*
+- *avīvatann* ← *avīvatan* ← *vat*
 - \[verb\], plural, Redupl. Aorist (Ind.)
 - “teach.”
 ------------------------------------------------------------------------
-- *ṛtam* \< *ṛta*
+- *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *ubhe* \< *ubh*
+- *ubhe* ← *ubh*
 - \[noun\], nominative, dual, feminine
 - “both(a).”
 ------------------------------------------------------------------------
@@ -48,31 +48,31 @@ title = "Rig Veda 10.13.5"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *asyobhayasya* \< *asya* \< *idam*
+- *asyobhayasya* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *asyobhayasya* \< *ubhayasya* \< *ubhaya*
+- *asyobhayasya* ← *ubhayasya* ← *ubhaya*
 - \[noun\], genitive, singular, masculine
 - “both(a).”
 ------------------------------------------------------------------------
-- *rājata* \< *rājataḥ* \< *rāj*
+- *rājata* ← *rājataḥ* ← *rāj*
 - \[verb\], dual, Present indikative
 - “govern; shine; glitter; direct.”
 ------------------------------------------------------------------------
-- *ubhe* \< *ubh*
+- *ubhe* ← *ubh*
 - \[noun\], nominative, dual, feminine
 - “both(a).”
 ------------------------------------------------------------------------
-- *yatete* \< *yat*
+- *yatete* ← *yat*
 - \[verb\], dual, Present indikative
 - “strive; endeavor; join; equal; rival.”
 ------------------------------------------------------------------------
-- *ubhayasya* \< *ubhaya*
+- *ubhayasya* ← *ubhaya*
 - \[noun\], genitive, singular, masculine
 - “both(a).”
 ------------------------------------------------------------------------
-- *puṣyataḥ* \< *puṣ*
+- *puṣyataḥ* ← *puṣ*
 - \[verb\], dual, Present indikative
 - “boom; grow; promote; foster.”
 ------------------------------------------------------------------------

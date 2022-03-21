@@ -2,7 +2,7 @@
 title = "Rig Veda 8.48.9"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -10,11 +10,11 @@ title = "Rig Veda 8.48.9"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *nas* \< *naḥ* \< *mad*
+- *nas* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tanvaḥ* \< *tanū*
+- *tanvaḥ* ← *tanū*
 - \[noun\], genitive, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
@@ -22,27 +22,27 @@ title = "Rig Veda 8.48.9"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *gopā* \< *gopāḥ* \< *gopā*
+- *gopā* ← *gopāḥ* ← *gopā*
 - \[noun\], nominative, singular, masculine
 - “herder; defender.”
 ------------------------------------------------------------------------
-- *gātre* \< *gātra*
+- *gātre* ← *gātra*
 - \[noun\], locative, singular, neuter
 - “body part; body; limb; part; largeness.”
 ------------------------------------------------------------------------
-- *gātre* \< *gātra*
+- *gātre* ← *gātra*
 - \[noun\], locative, singular, neuter
 - “body part; body; limb; part; largeness.”
 ------------------------------------------------------------------------
-- *niṣasatthā* \< *niṣasattha* \< *niṣad* \< *√sad*
+- *niṣasatthā* ← *niṣasattha* ← *niṣad* ← *√sad*
 - \[verb\], singular, Perfect indicative
 - “sit down; sit; put.”
 ------------------------------------------------------------------------
-- *nṛcakṣāḥ* \< *nṛ*
+- *nṛcakṣāḥ* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nṛcakṣāḥ* \< *cakṣāḥ* \< *cakṣas*
+- *nṛcakṣāḥ* ← *cakṣāḥ* ← *cakṣas*
 - \[noun\], nominative, singular, masculine
 - “eye; look; radiance.”
 ------------------------------------------------------------------------
@@ -50,42 +50,42 @@ title = "Rig Veda 8.48.9"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vayam* \< *mad*
+- *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pramināma* \< *pramī* \< *√mī*
+- *pramināma* ← *pramī* ← *√mī*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “destroy.”
 ------------------------------------------------------------------------
-- *vratāni* \< *vrata*
+- *vratāni* ← *vrata*
 - \[noun\], accusative, plural, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mṛﾱa* \< *mṛḍa* \< *mṛḍ*
+- *mṛﾱa* ← *mṛḍa* ← *mṛḍ*
 - \[verb\], singular, Present imperative
 - “pardon.”
 ------------------------------------------------------------------------
-- *suṣakhā* \< *su*
+- *suṣakhā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suṣakhā* \< *sakhā* \< *sakhi*
+- *suṣakhā* ← *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
@@ -94,7 +94,7 @@ title = "Rig Veda 8.48.9"
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *vasyaḥ* \< *vasyas*
+- *vasyaḥ* ← *vasyas*
 - \[noun\], accusative, singular, neuter
 - “good fortune; well-being.”
 ------------------------------------------------------------------------

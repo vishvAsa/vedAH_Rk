@@ -2,57 +2,57 @@
 title = "Rig Veda 8.5.38"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *hiraṇyasaṃdṛśo* \< *hiraṇya*
+- *hiraṇyasaṃdṛśo* ← *hiraṇya*
 - \[noun\], neuter
 - “gold; jewelry; hiraṇya \[word\]; gold.”
 ------------------------------------------------------------------------
-- *hiraṇyasaṃdṛśo* \< *saṃdṛśaḥ* \< *saṃdṛśa*
+- *hiraṇyasaṃdṛśo* ← *saṃdṛśaḥ* ← *saṃdṛśa*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *daśa* \< *daśan*
+- *daśa* ← *daśan*
 - \[noun\], accusative, singular, neuter
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *rājño* \< *rājñaḥ* \< *rājan*
+- *rājño* ← *rājñaḥ* ← *rājan*
 - \[noun\], genitive, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *amaṃhata* \< *mah*
+- *amaṃhata* ← *mah*
 - \[verb\], singular, Imperfect
 - “give; accord.”
 ------------------------------------------------------------------------
-- *adhaspadā* \< *adhaspadāḥ* \< *adhaspada*
+- *adhaspadā* ← *adhaspadāḥ* ← *adhaspada*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *ic* \< *id*
+- *ic* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *caidyasya* \< *caidya*
+- *caidyasya* ← *caidya*
 - \[noun\], genitive, singular, masculine
 - “Śiśupāla.”
 ------------------------------------------------------------------------
-- *kṛṣṭayaś* \< *kṛṣṭayaḥ* \< *kṛṣṭi*
+- *kṛṣṭayaś* ← *kṛṣṭayaḥ* ← *kṛṣṭi*
 - \[noun\], nominative, plural, feminine
 - “people; citizenry.”
 ------------------------------------------------------------------------
-- *carmamnā* \< *carmamnāḥ* \< *carmamna*
+- *carmamnā* ← *carmamnāḥ* ← *carmamna*
 - \[noun\], nominative, plural, masculine
 - “tanner.”
 ------------------------------------------------------------------------
-- *abhito* \< *abhitas*
+- *abhito* ← *abhitas*
 - \[adverb\]
 - “about; around; regarding; about.”
 ------------------------------------------------------------------------
-- *janāḥ* \< *jana*
+- *janāḥ* ← *jana*
 - \[noun\], nominative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”

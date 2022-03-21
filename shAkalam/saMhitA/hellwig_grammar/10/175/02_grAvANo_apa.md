@@ -2,7 +2,7 @@
 title = "Rig Veda 10.175.2"
 
 +++
--   *grāvāṇo* \< *grāvāṇaḥ* \< *grāvan*
+-   *grāvāṇo* ← *grāvāṇaḥ* ← *grāvan*
 - \[noun\], vocative, plural, masculine
 - “stone; millstone; grindstone; mountain.”
 ------------------------------------------------------------------------
@@ -10,7 +10,7 @@ title = "Rig Veda 10.175.2"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *ducchunām* \< *ducchunā*
+- *ducchunām* ← *ducchunā*
 - \[noun\], accusative, singular, feminine
 - “calamity; misfortune.”
 ------------------------------------------------------------------------
@@ -18,19 +18,19 @@ title = "Rig Veda 10.175.2"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *sedhata* \< *sidh*
+- *sedhata* ← *sidh*
 - \[verb\], plural, Present imperative
 - “chase away; repel.”
 ------------------------------------------------------------------------
-- *durmatim* \< *durmati*
+- *durmatim* ← *durmati*
 - \[noun\], accusative, singular, feminine
 - “hate; envy.”
 ------------------------------------------------------------------------
-- *usrāḥ* \< *usrā*
+- *usrāḥ* ← *usrā*
 - \[noun\], accusative, plural, feminine
 - “cow; dawn.”
 ------------------------------------------------------------------------
-- *kartana* \< *kṛ*
+- *kartana* ← *kṛ*
 - \[verb\], plural, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -41,7 +41,7 @@ title = "Rig Veda 10.175.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *bheṣajam* \< *bheṣaja*
+- *bheṣajam* ← *bheṣaja*
 - \[noun\], accusative, singular, neuter
 - “drug; medicine; herb; bheṣaja \[word\]; remedy; reagent.”
 ------------------------------------------------------------------------

@@ -2,40 +2,40 @@
 title = "Rig Veda 10.178.2"
 
 +++
--   *indrasyeva* \< *indrasya* \< *indra*
+-   *indrasyeva* ← *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrasyeva* \< *iva*
+- *indrasyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *rātim* \< *rāti*
+- *rātim* ← *rāti*
 - \[noun\], accusative, singular, feminine
 - “gift; bounty; favor.”
 ------------------------------------------------------------------------
-- *ājohuvānāḥ* \< *ājohav* \< *√hvā*
+- *ājohuvānāḥ* ← *ājohav* ← *√hvā*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *svastaye* \< *svasti*
+- *svastaye* ← *svasti*
 - \[noun\], dative, singular, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
 ------------------------------------------------------------------------
-- *nāvam* \< *nau*
+- *nāvam* ← *nau*
 - \[noun\], accusative, singular
 - “ship; boat; nau \[word\].”
 ------------------------------------------------------------------------
-- *ivā* \< *iva*
+- *ivā* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ruhema* \< *ruh*
+- *ruhema* ← *ruh*
 - \[verb\], plural, Aorist optative
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
 ------------------------------------------------------------------------
-- *urvī* \< *uru*
+- *urvī* ← *uru*
 - \[noun\], nominative, dual, feminine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
@@ -43,16 +43,16 @@ title = "Rig Veda 10.178.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pṛthvī* \< *pṛthu*
+- *pṛthvī* ← *pṛthu*
 - \[noun\], nominative, dual, feminine
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
 ------------------------------------------------------------------------
-- *bahule* \< *bahula*
+- *bahule* ← *bahula*
 - \[noun\], vocative, dual, feminine
 - “frequent; endowed; much(a); many; abounding in(p); abundant; bahula
     \[word\]; accompanied; prevailing.”
 ------------------------------------------------------------------------
-- *gabhīre* \< *gabhīra*
+- *gabhīre* ← *gabhīra*
 - \[noun\], vocative, singular, feminine
 - “deep; profound; immeasurable; unfathomable; unfathomable;
     mysterious; deep; countless.”
@@ -61,11 +61,11 @@ title = "Rig Veda 10.178.2"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *etau* \< *eti*
+- *etau* ← *eti*
 - \[noun\], locative, singular, feminine
 - “i; arrival.”
 ------------------------------------------------------------------------
@@ -73,11 +73,11 @@ title = "Rig Veda 10.178.2"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *paretau* \< *pareti*
+- *paretau* ← *pareti*
 - \[noun\], locative, singular, feminine
 - “departure.”
 ------------------------------------------------------------------------
-- *riṣāma* \< *riṣ*
+- *riṣāma* ← *riṣ*
 - \[verb\], plural, Aorist conj./subj.
 - “suffer; harm.”
 ------------------------------------------------------------------------

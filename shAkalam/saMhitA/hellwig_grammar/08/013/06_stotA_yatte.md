@@ -2,7 +2,7 @@
 title = "Rig Veda 8.13.6"
 
 +++
--   *stotā* \< *stotṛ*
+-   *stotā* ← *stotṛ*
 - \[noun\], nominative, singular, masculine
 - “laudatory; worshiping.”
 ------------------------------------------------------------------------
@@ -10,39 +10,39 @@ title = "Rig Veda 8.13.6"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vicarṣaṇir* \< *vicarṣaṇiḥ* \< *vicarṣaṇi*
+- *vicarṣaṇir* ← *vicarṣaṇiḥ* ← *vicarṣaṇi*
 - \[noun\], nominative, singular, masculine
 - “excellent.”
 ------------------------------------------------------------------------
-- *atipraśardhayad* \< *atipraśardhayat* \< *atipraśardhay* \< *√śṛdh*
+- *atipraśardhayad* ← *atipraśardhayat* ← *atipraśardhay* ← *√śṛdh*
 - \[verb\], singular, Present injunctive
 ------------------------------------------------------------------------
-- *giraḥ* \< *gir*
+- *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *vayā* \< *vayāḥ* \< *vayā*
+- *vayā* ← *vayāḥ* ← *vayā*
 - \[noun\], nominative, plural, feminine
 - “branch; branchlet.”
 ------------------------------------------------------------------------
-- *ivānu* \< *iva*
+- *ivānu* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ivānu* \< *anu*
+- *ivānu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *rohate* \< *ruh*
+- *rohate* ← *ruh*
 - \[verb\], singular, Present indikative
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
 ------------------------------------------------------------------------
-- *juṣanta* \< *juṣ*
+- *juṣanta* ← *juṣ*
 - \[verb\], plural, Present injunctive
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”

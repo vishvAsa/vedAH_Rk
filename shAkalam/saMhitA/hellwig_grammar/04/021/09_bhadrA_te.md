@@ -2,24 +2,24 @@
 title = "Rig Veda 4.21.9"
 
 +++
--   *bhadrā* \< *bhadra*
+-   *bhadrā* ← *bhadra*
 - \[noun\], nominative, dual, masculine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *hastā* \< *hasta*
+- *hastā* ← *hasta*
 - \[noun\], nominative, dual, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------
-- *sukṛtota* \< *su*
+- *sukṛtota* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukṛtota* \< *kṛtā* \< *kṛ*
+- *sukṛtota* ← *kṛtā* ← *kṛ*
 - \[verb noun\], nominative, dual
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -30,22 +30,22 @@ title = "Rig Veda 4.21.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *sukṛtota* \< *uta*
+- *sukṛtota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *pāṇī* \< *pāṇi*
+- *pāṇī* ← *pāṇi*
 - \[noun\], nominative, dual, masculine
 - “hand; hoof; pāṇi \[word\].”
 ------------------------------------------------------------------------
-- *prayantārā* \< *prayantṛ*
+- *prayantārā* ← *prayantṛ*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *stuvate* \< *stu*
+- *stuvate* ← *stu*
 - \[verb noun\], dative, singular
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *rādha* \< *rādhaḥ* \< *rādhas*
+- *rādha* ← *rādhaḥ* ← *rādhas*
 - \[noun\], accusative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
@@ -54,15 +54,15 @@ title = "Rig Veda 4.21.9"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *kā* \< *ka*
+- *kā* ← *ka*
 - \[noun\], nominative, singular, feminine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *niṣattiḥ* \< *niṣatti*
+- *niṣattiḥ* ← *niṣatti*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
 - *kim*
@@ -73,27 +73,27 @@ title = "Rig Veda 4.21.9"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *no* \< *na*
+- *no* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *no* \< *u*
+- *no* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *mamatsi* \< *mad*
+- *mamatsi* ← *mad*
 - \[verb\], singular, Present indikative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *kiṃ* \< *kim*
+- *kiṃ* ← *kim*
 - \[adverb\]
 - “why; ka \[pronoun\]; if; how.”
 ------------------------------------------------------------------------
-- *nod* \< *na*
+- *nod* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nod* \< *ud*
+- *nod* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
@@ -105,11 +105,11 @@ title = "Rig Veda 4.21.9"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *harṣase* \< *hṛṣ*
+- *harṣase* ← *hṛṣ*
 - \[verb\], singular, Present indikative
 - “rejoice; bristle; thrill.”
 ------------------------------------------------------------------------
-- *dātavā* \< *dātavai* \< *dā*
+- *dātavā* ← *dātavai* ← *dā*
 - \[verb noun\]
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;

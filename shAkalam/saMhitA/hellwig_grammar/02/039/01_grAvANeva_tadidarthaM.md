@@ -2,15 +2,15 @@
 title = "Rig Veda 2.39.1"
 
 +++
--   *grāvāṇeva* \< *grāvāṇā* \< *grāvan*
+-   *grāvāṇeva* ← *grāvāṇā* ← *grāvan*
 - \[noun\], nominative, dual, masculine
 - “stone; millstone; grindstone; mountain.”
 ------------------------------------------------------------------------
-- *grāvāṇeva* \< *iva*
+- *grāvāṇeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -20,70 +20,70 @@ title = "Rig Veda 2.39.1"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *arthaṃ* \< *artham* \< *artha*
+- *arthaṃ* ← *artham* ← *artha*
 - \[noun\], accusative, singular, neuter
 - “for; meaning; purpose; sense; wealth; object of sense; matter; aim;
     money; message; object; artha \[word\]; wealth; function; content;
     topic; property; situation; reason; affair; concern; reason;
     enterprise; reason; cause; five; application; application.”
 ------------------------------------------------------------------------
-- *jarethe* \< *jṛ*
+- *jarethe* ← *jṛ*
 - \[verb\], dual, Present indikative
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
 ------------------------------------------------------------------------
-- *gṛdhreva* \< *gṛdhrā* \< *gṛdhra*
+- *gṛdhreva* ← *gṛdhrā* ← *gṛdhra*
 - \[noun\], nominative, dual, masculine
 - “vulture.”
 ------------------------------------------------------------------------
-- *gṛdhreva* \< *iva*
+- *gṛdhreva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *vṛkṣaṃ* \< *vṛkṣam* \< *vṛkṣa*
+- *vṛkṣaṃ* ← *vṛkṣam* ← *vṛkṣa*
 - \[noun\], accusative, singular, masculine
 - “tree; fruit tree.”
 ------------------------------------------------------------------------
-- *nidhimantam* \< *nidhimat*
+- *nidhimantam* ← *nidhimat*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *accha* \< *acchā*
+- *accha* ← *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *brahmāṇeva* \< *brahmāṇā* \< *brahman*
+- *brahmāṇeva* ← *brahmāṇā* ← *brahman*
 - \[noun\], nominative, dual, masculine
 - “Brahma; Brahmin; dhak; Brahman; brahman \[word\]; Brahman; Brahmin;
     Brahmapurāṇa; Vishnu; Brihaspati.”
 ------------------------------------------------------------------------
-- *brahmāṇeva* \< *iva*
+- *brahmāṇeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *vidatha* \< *vidathe* \< *vidatha*
+- *vidatha* ← *vidathe* ← *vidatha*
 - \[noun\], locative, singular, neuter
 - “meeting; wisdom; council.”
 ------------------------------------------------------------------------
-- *ukthaśāsā* \< *uktha*
+- *ukthaśāsā* ← *uktha*
 - \[noun\], neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *ukthaśāsā* \< *śāsā* \< *śās*
+- *ukthaśāsā* ← *śāsā* ← *śās*
 - \[noun\], nominative, dual, masculine
 - “śās; command; ruler; commander.”
 ------------------------------------------------------------------------
-- *dūteva* \< *dūtā* \< *dūta*
+- *dūteva* ← *dūtā* ← *dūta*
 - \[noun\], nominative, dual, masculine
 - “messenger; emissary; dūta \[word\].”
 ------------------------------------------------------------------------
-- *dūteva* \< *iva*
+- *dūteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *havyā* \< *hu*
+- *havyā* ← *hu*
 - \[verb noun\], nominative, dual
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
-- *janyā* \< *janya*
+- *janyā* ← *janya*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
 - *purutrā*

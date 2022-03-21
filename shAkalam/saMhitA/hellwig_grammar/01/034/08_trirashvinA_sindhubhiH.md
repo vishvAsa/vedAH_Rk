@@ -2,32 +2,32 @@
 title = "Rig Veda 1.34.8"
 
 +++
--   *trir* \< *tris*
+-   *trir* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *sindhubhiḥ* \< *sindhu*
+- *sindhubhiḥ* ← *sindhu*
 - \[noun\], instrumental, plural, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *saptamātṛbhis* \< *sapta* \< *saptan*
+- *saptamātṛbhis* ← *sapta* ← *saptan*
 - \[noun\]
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *saptamātṛbhis* \< *mātṛbhiḥ* \< *mātṛ*
+- *saptamātṛbhis* ← *mātṛbhiḥ* ← *mātṛ*
 - \[noun\], instrumental, plural, masculine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *traya* \< *trayaḥ* \< *tri*
+- *traya* ← *trayaḥ* ← *tri*
 - \[noun\], nominative, plural, masculine
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *āhāvās* \< *āhāvāḥ* \< *āhāva*
+- *āhāvās* ← *āhāvāḥ* ← *āhāva*
 - \[noun\], nominative, plural, masculine
 - “bucket; āhāva \[word\]; manger.”
 ------------------------------------------------------------------------
@@ -35,11 +35,11 @@ title = "Rig Veda 1.34.8"
 - \[adverb\]
 - “threefold.”
 ------------------------------------------------------------------------
-- *haviṣ* \< *havis*
+- *haviṣ* ← *havis*
 - \[noun\], nominative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *kṛtam* \< *kṛ*
+- *kṛtam* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -50,11 +50,11 @@ title = "Rig Veda 1.34.8"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *tisraḥ* \< *tri*
+- *tisraḥ* ← *tri*
 - \[noun\], accusative, plural, feminine
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *pṛthivīr* \< *pṛthivīḥ* \< *pṛthivī*
+- *pṛthivīr* ← *pṛthivīḥ* ← *pṛthivī*
 - \[noun\], accusative, plural, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
@@ -62,31 +62,31 @@ title = "Rig Veda 1.34.8"
 - \[adverb\]
 - “above; up; additionally; upari \[word\]; subsequently.”
 ------------------------------------------------------------------------
-- *pravā* \< *prava*
+- *pravā* ← *prava*
 - \[noun\], nominative, dual, masculine
 - “floating.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *nākaṃ* \< *nākam* \< *nāka*
+- *nākaṃ* ← *nākam* ← *nāka*
 - \[noun\], accusative, singular, masculine
 - “sky; celestial sphere; Svarga; nāka \[word\].”
 ------------------------------------------------------------------------
-- *rakṣethe* \< *rakṣ*
+- *rakṣethe* ← *rakṣ*
 - \[verb\], dual, Present indikative
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------
-- *dyubhir* \< *dyubhiḥ* \< *div*
+- *dyubhir* ← *dyubhiḥ* ← *div*
 - \[noun\], instrumental, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *aktubhir* \< *aktubhiḥ* \< *aktu*
+- *aktubhir* ← *aktubhiḥ* ← *aktu*
 - \[noun\], instrumental, plural, masculine
 - “night; dark; beam.”
 ------------------------------------------------------------------------
-- *hitam* \< *dhā*
+- *hitam* ← *dhā*
 - \[verb noun\], accusative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

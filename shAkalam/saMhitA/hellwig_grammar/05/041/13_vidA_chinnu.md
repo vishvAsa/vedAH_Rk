@@ -2,12 +2,12 @@
 title = "Rig Veda 5.41.13"
 
 +++
--   *vidā* \< *vid*
+-   *vidā* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -15,43 +15,43 @@ title = "Rig Veda 5.41.13"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *mahānto* \< *mahāntaḥ* \< *mahat*
+- *mahānto* ← *mahāntaḥ* ← *mahat*
 - \[noun\], nominative, plural, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *evā* \< *evāḥ* \< *eva*
+- *evā* ← *evāḥ* ← *eva*
 - \[noun\], nominative, plural, masculine
 - “eva \[word\]; habit; manner; behavior; custom.”
 ------------------------------------------------------------------------
-- *bravāma* \< *brū*
+- *bravāma* ← *brū*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
 ------------------------------------------------------------------------
-- *dasmā* \< *dasmāḥ* \< *dasma*
+- *dasmā* ← *dasmāḥ* ← *dasma*
 - \[noun\], vocative, plural, masculine
 - “overlord.”
 ------------------------------------------------------------------------
-- *vāryaṃ* \< *vāryam* \< *vārya*
+- *vāryaṃ* ← *vāryam* ← *vārya*
 - \[noun\], accusative, singular, neuter
 - “precious; valuable.”
 ------------------------------------------------------------------------
-- *dadhānāḥ* \< *dhā*
+- *dadhānāḥ* ← *dhā*
 - \[verb noun\], nominative, plural
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *vayaś* \< *vayaḥ* \< *vi*
+- *vayaś* ← *vayaḥ* ← *vi*
 - \[noun\], nominative, plural, masculine
 - “vi; bird; vi.”
 ------------------------------------------------------------------------
@@ -59,35 +59,35 @@ title = "Rig Veda 5.41.13"
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *subhva* \< *su*
+- *subhva* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *subhva* \< *bhvaḥ* \< *bhū*
+- *subhva* ← *bhvaḥ* ← *bhū*
 - \[noun\], nominative, plural, masculine
 - “Earth; floor; earth; bhū; Earth; one; saurāṣṭrā; three; land; land;
     place; world; bhū \[word\]; soil; pṛthivī; being; bhūja; floor;
     bhūnāga; sphaṭikā; beginning; birth; estate.”
 ------------------------------------------------------------------------
-- *āva* \< *ava*
+- *āva* ← *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *yanti* \< *i*
+- *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *kṣubhā* \< *kṣubh*
+- *kṣubhā* ← *kṣubh*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *martam* \< *marta*
+- *martam* ← *marta*
 - \[noun\], accusative, singular, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *anuyataṃ* \< *anuyatam* \< *anuyam* \< *√yam*
+- *anuyataṃ* ← *anuyatam* ← *anuyam* ← *√yam*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *vadhasnaiḥ* \< *vadhasna*
+- *vadhasnaiḥ* ← *vadhasna*
 - \[noun\], instrumental, plural, masculine
 - “weapon.”
 ------------------------------------------------------------------------

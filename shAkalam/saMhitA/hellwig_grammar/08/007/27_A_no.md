@@ -6,34 +6,34 @@ title = "Rig Veda 8.7.27"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *makhasya* \< *makha*
+- *makhasya* ← *makha*
 - \[noun\], genitive, singular, masculine
 - “yajña; Makha; festival.”
 ------------------------------------------------------------------------
-- *dāvane* \< *dā*
+- *dāvane* ← *dā*
 - \[verb noun\]
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *'śvair* \< *aśvaiḥ* \< *aśva*
+- *'śvair* ← *aśvaiḥ* ← *aśva*
 - \[noun\], instrumental, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *hiraṇyapāṇibhiḥ* \< *hiraṇya*
+- *hiraṇyapāṇibhiḥ* ← *hiraṇya*
 - \[noun\]
 - “aureate; gold.”
 ------------------------------------------------------------------------
-- *hiraṇyapāṇibhiḥ* \< *pāṇibhiḥ* \< *pāṇi*
+- *hiraṇyapāṇibhiḥ* ← *pāṇibhiḥ* ← *pāṇi*
 - \[noun\], instrumental, plural, masculine
 - “hand; hoof; pāṇi \[word\].”
 ------------------------------------------------------------------------
-- *devāsa* \< *devāsaḥ* \< *deva*
+- *devāsa* ← *devāsaḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -42,7 +42,7 @@ title = "Rig Veda 8.7.27"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *gantana* \< *gam*
+- *gantana* ← *gam*
 - \[verb\], plural, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

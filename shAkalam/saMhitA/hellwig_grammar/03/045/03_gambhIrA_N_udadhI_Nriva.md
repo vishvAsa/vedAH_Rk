@@ -2,12 +2,12 @@
 title = "Rig Veda 3.45.3"
 
 +++
--   *gambhīrāṃ* \< *gambhīra*
+-   *gambhīrāṃ* ← *gambhīra*
 - \[noun\], accusative, plural, masculine
 - “deep; bass; complex; profound; complicated; intense; gambhīra
     \[word\]; hidden.”
 ------------------------------------------------------------------------
-- *udadhīṃr* \< *udadhi*
+- *udadhīṃr* ← *udadhi*
 - \[noun\], accusative, plural, masculine
 - “ocean.”
 ------------------------------------------------------------------------
@@ -15,16 +15,16 @@ title = "Rig Veda 3.45.3"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *kratum* \< *kratu*
+- *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *puṣyasi* \< *puṣ*
+- *puṣyasi* ← *puṣ*
 - \[verb\], singular, Present indikative
 - “boom; grow; promote; foster.”
 ------------------------------------------------------------------------
-- *gā* \< *gāḥ* \< *go*
+- *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -37,19 +37,19 @@ title = "Rig Veda 3.45.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *sugopā* \< *su*
+- *sugopā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sugopā* \< *gopāḥ* \< *gopā*
+- *sugopā* ← *gopāḥ* ← *gopā*
 - \[noun\], nominative, plural, feminine
 - “herder; defender.”
 ------------------------------------------------------------------------
-- *yavasaṃ* \< *yavasam* \< *yavasa*
+- *yavasaṃ* ← *yavasam* ← *yavasa*
 - \[noun\], accusative, singular, neuter
 - “eatage; pasture; fodder.”
 ------------------------------------------------------------------------
-- *dhenavo* \< *dhenavaḥ* \< *dhenu*
+- *dhenavo* ← *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
@@ -57,19 +57,19 @@ title = "Rig Veda 3.45.3"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *hradaṃ* \< *hradam* \< *hrada*
+- *hradaṃ* ← *hradam* ← *hrada*
 - \[noun\], accusative, singular, neuter
 - “lake; pool; hrada \[word\]; body of water; pool.”
 ------------------------------------------------------------------------
-- *kulyā* \< *kulyāḥ* \< *kulyā*
+- *kulyā* ← *kulyāḥ* ← *kulyā*
 - \[noun\], nominative, plural, feminine
 - “rivulet; canal.”
 ------------------------------------------------------------------------
-- *ivāśata* \< *iva*
+- *ivāśata* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ivāśata* \< *āśata* \< *aś*
+- *ivāśata* ← *āśata* ← *aś*
 - \[verb\], plural, Root aorist (Ind.)
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------

@@ -5,42 +5,42 @@ title = "Rig Veda 4.32.24"
 -   *aram*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ma* \< *me* \< *mad*
+- *ma* ← *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *usrayāmṇe* \< *usra*
+- *usrayāmṇe* ← *usra*
 - \[noun\], masculine
 - “beam; Asvins.”
 ------------------------------------------------------------------------
-- *usrayāmṇe* \< *yāmṇe* \< *yāman*
+- *usrayāmṇe* ← *yāmṇe* ← *yāman*
 - \[noun\], dative, singular, masculine
 - “expedition; path; expedition; arrival.”
 ------------------------------------------------------------------------
-- *'ram* \< *aram*
+- *'ram* ← *aram*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *anusrayāmṇe* \< *an*
+- *anusrayāmṇe* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *anusrayāmṇe* \< *usra*
+- *anusrayāmṇe* ← *usra*
 - \[noun\], masculine
 - “beam; Asvins.”
 ------------------------------------------------------------------------
-- *anusrayāmṇe* \< *yāmṇe* \< *yāman*
+- *anusrayāmṇe* ← *yāmṇe* ← *yāman*
 - \[noun\], dative, singular, masculine
 - “expedition; path; expedition; arrival.”
 ------------------------------------------------------------------------
-- *babhrū* \< *babhru*
+- *babhrū* ← *babhru*
 - \[noun\], nominative, dual, masculine
 - “tawny; brown.”
 ------------------------------------------------------------------------
-- *yāmeṣv* \< *yāmeṣu* \< *yāma*
+- *yāmeṣv* ← *yāmeṣu* ← *yāma*
 - \[noun\], locative, plural, masculine
 - “prahara; watch; travel; path.”
 ------------------------------------------------------------------------
-- *asridhā* \< *asridh*
+- *asridhā* ← *asridh*
 - \[noun\], nominative, dual, masculine
 - “unfailing.”
 ------------------------------------------------------------------------

@@ -10,27 +10,27 @@ title = "Rig Veda 7.23.1"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *brahmāṇy* \< *brahmāṇi* \< *brahman*
+- *brahmāṇy* ← *brahmāṇi* ← *brahman*
 - \[noun\], nominative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *airata* \< *īr*
+- *airata* ← *īr*
 - \[verb\], plural, Imperfect
 - “go.”
 ------------------------------------------------------------------------
-- *śravasyendraṃ* \< *śravasyā* \< *śravasya*
+- *śravasyendraṃ* ← *śravasyā* ← *śravasya*
 - \[noun\], nominative, plural, neuter
 ------------------------------------------------------------------------
-- *śravasyendraṃ* \< *indram* \< *indra*
+- *śravasyendraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *samarye* \< *samarya*
+- *samarye* ← *samarya*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *mahayā* \< *mahaya* \< *mahay* \< *√mah*
+- *mahayā* ← *mahaya* ← *mahay* ← *√mah*
 - \[verb\], singular, Present imperative
 - “glorify.”
 ------------------------------------------------------------------------
@@ -42,37 +42,37 @@ title = "Rig Veda 7.23.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *viśvāni* \< *viśva*
+- *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *śavasā* \< *śavas*
+- *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *tatānopaśrotā* \< *tatāna* \< *tan*
+- *tatānopaśrotā* ← *tatāna* ← *tan*
 - \[verb\], singular, Perfect indicative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
 ------------------------------------------------------------------------
-- *tatānopaśrotā* \< *upaśrotā* \< *upaśru* \< *√śru*
+- *tatānopaśrotā* ← *upaśrotā* ← *upaśru* ← *√śru*
 - \[verb\], singular, periphrast. future
 - “listen; come to know; attend; hear.”
 ------------------------------------------------------------------------
-- *ma* \< *me* \< *mad*
+- *ma* ← *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *īvato* \< *īvataḥ* \< *īvat*
+- *īvato* ← *īvataḥ* ← *īvat*
 - \[noun\], genitive, singular, masculine
 - “such(a).”
 ------------------------------------------------------------------------
-- *vacāṃsi* \< *vacas*
+- *vacāṃsi* ← *vacas*
 - \[noun\], accusative, plural, neuter
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------

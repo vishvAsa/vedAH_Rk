@@ -2,40 +2,40 @@
 title = "Rig Veda 8.56.2"
 
 +++
--   *daśa* \< *daśan*
+-   *daśa* ← *daśan*
 - \[noun\], accusative, singular, neuter
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *mahyam* \< *mad*
+- *mahyam* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pautakrataḥ* \< *pautakrata*
+- *pautakrataḥ* ← *pautakrata*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *sahasrā* \< *sahasra*
+- *sahasrā* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *dasyave* \< *dasyu*
+- *dasyave* ← *dasyu*
 - \[noun\], dative, singular, masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
-- *vṛkaḥ* \< *vṛka*
+- *vṛkaḥ* ← *vṛka*
 - \[noun\], nominative, singular, masculine
 - “wolf; Vṛka; vṛka \[word\]; Vṛka.”
 ------------------------------------------------------------------------
-- *nityād* \< *nityāt* \< *nitya*
+- *nityād* ← *nityāt* ← *nitya*
 - \[noun\], ablative, singular, masculine
 - “continuous; own(a); changeless; everlasting; continual; devoted(p);
     permanent; obligatory; continuing; indispensable; native; addicted;
     connatural; necessary; durable; ageless; invariable; biological.”
 ------------------------------------------------------------------------
-- *rāyo* \< *rāyaḥ* \< *rai*
+- *rāyo* ← *rāyaḥ* ← *rai*
 - \[noun\], ablative, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *amaṃhata* \< *mah*
+- *amaṃhata* ← *mah*
 - \[verb\], singular, Imperfect
 - “give; accord.”
 ------------------------------------------------------------------------

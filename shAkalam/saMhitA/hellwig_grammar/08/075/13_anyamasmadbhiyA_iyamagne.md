@@ -2,30 +2,30 @@
 title = "Rig Veda 8.75.13"
 
 +++
--   *anyam* \< *anya*
+-   *anyam* ← *anya*
 - \[noun\], accusative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *asmad* \< *asmat* \< *mad*
+- *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *bhiyā* \< *bhiyai* \< *bhī*
+- *bhiyā* ← *bhiyai* ← *bhī*
 - \[noun\], dative, singular, feminine
 - “fear; bhī; alarm.”
 ------------------------------------------------------------------------
-- *iyam* \< *idam*
+- *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *siṣaktu* \< *sac*
+- *siṣaktu* ← *sac*
 - \[verb\], singular, Present imperative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
@@ -33,20 +33,20 @@ title = "Rig Veda 8.75.13"
 - \[noun\], nominative, singular, feminine
 - “calamity; misfortune.”
 ------------------------------------------------------------------------
-- *vardhā* \< *vardha* \< *vṛdh*
+- *vardhā* ← *vardha* ← *vṛdh*
 - \[verb\], singular, Present imperative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *amavacchavaḥ* \< *amavat*
+- *amavacchavaḥ* ← *amavat*
 - \[noun\], accusative, singular, neuter
 - “impressive; strong.”
 ------------------------------------------------------------------------
-- *amavacchavaḥ* \< *śavaḥ* \< *śavas*
+- *amavacchavaḥ* ← *śavaḥ* ← *śavas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------

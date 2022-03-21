@@ -2,19 +2,19 @@
 title = "Rig Veda 5.79.9"
 
 +++
--   *vy* \< *vi*
+-   *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ucchā* \< *uccha* \< *vas*
+- *ucchā* ← *uccha* ← *vas*
 - \[verb\], singular, Present imperative
 - “dawn; shine.”
 ------------------------------------------------------------------------
-- *duhitar* \< *duhitṛ*
+- *duhitar* ← *duhitṛ*
 - \[noun\], vocative, singular, feminine
 - “daughter; duhitṛ \[word\].”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -22,32 +22,32 @@ title = "Rig Veda 5.79.9"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *ciraṃ* \< *ciram* \< *cira*
+- *ciraṃ* ← *ciram* ← *cira*
 - \[noun\], accusative, singular, neuter
 - “long; slow; cira \[word\].”
 ------------------------------------------------------------------------
-- *tanuthā* \< *tanuthāḥ* \< *tan*
+- *tanuthā* ← *tanuthāḥ* ← *tan*
 - \[verb\], singular, Present injunctive
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
 ------------------------------------------------------------------------
-- *apaḥ* \< *apas*
+- *apaḥ* ← *apas*
 - \[noun\], accusative, singular, neuter
 - “work; deed.”
 ------------------------------------------------------------------------
-- *net* \< *nā* \< *na*
+- *net* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *net* \< *id*
+- *net* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *stenaṃ* \< *stenam* \< *stena*
+- *stenaṃ* ← *stenam* ← *stena*
 - \[noun\], accusative, singular, masculine
 - “thief; stena \[word\].”
 ------------------------------------------------------------------------
@@ -55,37 +55,37 @@ title = "Rig Veda 5.79.9"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *ripuṃ* \< *ripum* \< *ripu*
+- *ripuṃ* ← *ripum* ← *ripu*
 - \[noun\], accusative, singular, masculine
 - “punic; deceitful; unfriendly.”
 ------------------------------------------------------------------------
-- *tapāti* \< *tap*
+- *tapāti* ← *tap*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
 ------------------------------------------------------------------------
-- *sūro* \< *sūraḥ* \< *sūra*
+- *sūro* ← *sūraḥ* ← *sūra*
 - \[noun\], nominative, singular, masculine
 - “sun.”
 ------------------------------------------------------------------------
-- *arciṣā* \< *arcis*
+- *arciṣā* ← *arcis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; light; beam; gleam; shininess.”
 ------------------------------------------------------------------------
-- *sujāte* \< *su*
+- *sujāte* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sujāte* \< *jāte* \< *jan*
+- *sujāte* ← *jāte* ← *jan*
 - \[verb noun\], nominative, dual
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *aśvasūnṛte* \< *aśva*
+- *aśvasūnṛte* ← *aśva*
 - \[noun\], masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *aśvasūnṛte* \< *sūnṛte* \< *sūnṛta*
+- *aśvasūnṛte* ← *sūnṛte* ← *sūnṛta*
 - \[noun\], vocative, singular, feminine
 - “big; friendly.”
 ------------------------------------------------------------------------

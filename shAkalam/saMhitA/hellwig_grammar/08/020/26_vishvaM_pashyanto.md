@@ -2,22 +2,22 @@
 title = "Rig Veda 8.20.26"
 
 +++
--   *viśvam* \< *viśva*
+-   *viśvam* ← *viśva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *paśyanto* \< *paśyantaḥ* \< *paś*
+- *paśyanto* ← *paśyantaḥ* ← *paś*
 - \[verb noun\], nominative, plural
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *bibhṛthā* \< *bibhṛtha* \< *bhṛ*
+- *bibhṛthā* ← *bibhṛtha* ← *bhṛ*
 - \[verb\], plural, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *tanūṣv* \< *tanūṣu* \< *tanū*
+- *tanūṣv* ← *tanūṣu* ← *tanū*
 - \[noun\], locative, plural, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
@@ -25,13 +25,13 @@ title = "Rig Veda 8.20.26"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tenā* \< *tena* \< *tad*
+- *tenā* ← *tena* ← *tad*
 - \[noun\], instrumental, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -39,7 +39,7 @@ title = "Rig Veda 8.20.26"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *vocata* \< *vac*
+- *vocata* ← *vac*
 - \[verb\], plural, Aorist imperative
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
@@ -49,31 +49,31 @@ title = "Rig Veda 8.20.26"
 - *kṣamā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *rapo* \< *rapaḥ* \< *rapas*
+- *rapo* ← *rapaḥ* ← *rapas*
 - \[noun\], nominative, singular, neuter
 - “injury; disease; infirmity; damage.”
 ------------------------------------------------------------------------
-- *maruta* \< *marutaḥ* \< *marut*
+- *maruta* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *āturasya* \< *ātura*
+- *āturasya* ← *ātura*
 - \[noun\], genitive, singular, masculine
 - “ill; miserable; suffering; brainsick; unhappy; desirous.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *iṣkartā* \< *iṣkarta* \< *iṣkṛ* \< *√kṛ*
+- *iṣkartā* ← *iṣkarta* ← *iṣkṛ* ← *√kṛ*
 - \[verb\], plural, Aorist imperative
 - “prepare.”
 ------------------------------------------------------------------------
-- *vihrutam* \< *vihruta*
+- *vihrutam* ← *vihruta*
 - \[noun\], accusative, singular, neuter
 - “disjointed.”
 ------------------------------------------------------------------------
-- *punaḥ* \< *punar*
+- *punaḥ* ← *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”

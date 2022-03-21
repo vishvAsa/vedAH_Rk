@@ -6,71 +6,71 @@ title = "Rig Veda 1.122.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *pāntaṃ* \< *pāntam* \< *pānta*
+- *pāntaṃ* ← *pāntam* ← *pānta*
 - \[noun\], accusative, singular, masculine
 - “drink; beverage.”
 ------------------------------------------------------------------------
-- *raghumanyavo* \< *raghu*
+- *raghumanyavo* ← *raghu*
 - \[noun\]
 - “low; fast.”
 ------------------------------------------------------------------------
-- *raghumanyavo* \< *manyavaḥ* \< *manyu*
+- *raghumanyavo* ← *manyavaḥ* ← *manyu*
 - \[noun\], vocative, plural, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------
-- *'ndho* \< *andhaḥ* \< *andhas*
+- *'ndho* ← *andhaḥ* ← *andhas*
 - \[noun\], accusative, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
-- *yajñaṃ* \< *yajñam* \< *yajña*
+- *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *rudrāya* \< *rudra*
+- *rudrāya* ← *rudra*
 - \[noun\], dative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *mīﾱhuṣe* \< *mīḍhuṣe* \< *mīḍhvas*
+- *mīﾱhuṣe* ← *mīḍhuṣe* ← *mīḍhvas*
 - \[noun\], dative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *bharadhvam* \< *bhṛ*
+- *bharadhvam* ← *bhṛ*
 - \[verb\], plural, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *astoṣy* \< *astoṣi* \< *stu*
+- *astoṣy* ← *astoṣi* ← *stu*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *asurasya* \< *asura*
+- *asurasya* ← *asura*
 - \[noun\], genitive, singular, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
 ------------------------------------------------------------------------
-- *vīrair* \< *vīraiḥ* \< *vīra*
+- *vīrair* ← *vīraiḥ* ← *vīra*
 - \[noun\], instrumental, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *iṣudhyeva* \< *iṣudhyā*
+- *iṣudhyeva* ← *iṣudhyā*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *iṣudhyeva* \< *iva*
+- *iṣudhyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], accusative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *rodasyoḥ* \< *rodasī*
+- *rodasyoḥ* ← *rodasī*
 - \[noun\], locative, dual, feminine
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------

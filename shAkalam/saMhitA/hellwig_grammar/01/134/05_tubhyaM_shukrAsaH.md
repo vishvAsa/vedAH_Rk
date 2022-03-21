@@ -2,103 +2,103 @@
 title = "Rig Veda 1.134.5"
 
 +++
--   *tubhyaṃ* \< *tubhyam* \< *tvad*
+-   *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śukrāsaḥ* \< *śukra*
+- *śukrāsaḥ* ← *śukra*
 - \[noun\], nominative, plural, masculine
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *śucayas* \< *śucayaḥ* \< *śuci*
+- *śucayas* ← *śucayaḥ* ← *śuci*
 - \[noun\], nominative, plural, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *turaṇyavo* \< *turaṇyavaḥ* \< *turaṇyu*
+- *turaṇyavo* ← *turaṇyavaḥ* ← *turaṇyu*
 - \[noun\], nominative, plural, masculine
 - “fleet.”
 ------------------------------------------------------------------------
-- *madeṣūgrā* \< *madeṣu* \< *mada*
+- *madeṣūgrā* ← *madeṣu* ← *mada*
 - \[noun\], locative, plural, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *madeṣūgrā* \< *ugrāḥ* \< *ugra*
+- *madeṣūgrā* ← *ugrāḥ* ← *ugra*
 - \[noun\], nominative, plural, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *iṣaṇanta* \< *iṣaṇ*
+- *iṣaṇanta* ← *iṣaṇ*
 - \[verb\], plural, Present injunctive
 ------------------------------------------------------------------------
-- *bhurvaṇy* \< *bhurvaṇi*
+- *bhurvaṇy* ← *bhurvaṇi*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *apām* \< *ap*
+- *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *iṣanta* \< *iṣ*
+- *iṣanta* ← *iṣ*
 - \[verb\], plural, Present injunctive
 - “send.”
 ------------------------------------------------------------------------
 - *bhurvaṇi*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *tvāṃ* \< *tvām* \< *tvad*
+- *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tsārī* \< *tsārin*
+- *tsārī* ← *tsārin*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *dasamāno* \< *dasamānaḥ* \< *das*
+- *dasamāno* ← *dasamānaḥ* ← *das*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *bhagam* \< *bhaga*
+- *bhagam* ← *bhaga*
 - \[noun\], accusative, singular, masculine
 - “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
     well-being; happiness; overlord.”
 ------------------------------------------------------------------------
-- *īṭṭe* \< *īḍ*
+- *īṭṭe* ← *īḍ*
 - \[verb\], singular, Present indikative
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
-- *takvavīye* \< *takvavī*
+- *takvavīye* ← *takvavī*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *viśvasmād* \< *viśvasmāt* \< *viśva*
+- *viśvasmād* ← *viśvasmāt* ← *viśva*
 - \[noun\], ablative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *bhuvanāt* \< *bhuvana*
+- *bhuvanāt* ← *bhuvana*
 - \[noun\], ablative, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *pāsi* \< *pā*
+- *pāsi* ← *pā*
 - \[verb\], singular, Present indikative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *dharmaṇāsuryāt* \< *dharmaṇā* \< *dharman*
+- *dharmaṇāsuryāt* ← *dharmaṇā* ← *dharman*
 - \[noun\], instrumental, singular, neuter
 - “regulation; Dharma; law; property.”
 ------------------------------------------------------------------------
-- *dharmaṇāsuryāt* \< *asuryāt* \< *asurya*
+- *dharmaṇāsuryāt* ← *asuryāt* ← *asurya*
 - \[noun\], ablative, singular, neuter
 - “dignity.”
 ------------------------------------------------------------------------
-- *pāsi* \< *pā*
+- *pāsi* ← *pā*
 - \[verb\], singular, Present indikative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *dharmaṇā* \< *dharman*
+- *dharmaṇā* ← *dharman*
 - \[noun\], instrumental, singular, neuter
 - “regulation; Dharma; law; property.”
 ------------------------------------------------------------------------

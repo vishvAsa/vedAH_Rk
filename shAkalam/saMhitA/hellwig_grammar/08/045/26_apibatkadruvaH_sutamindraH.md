@@ -2,40 +2,40 @@
 title = "Rig Veda 8.45.26"
 
 +++
--   *apibat* \< *pā*
+-   *apibat* ← *pā*
 - \[verb\], singular, Imperfect
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *kadruvaḥ* \< *kadru*
+- *kadruvaḥ* ← *kadru*
 - \[noun\], genitive, singular, feminine
 - “Kadru; kadrū \[word\].”
 ------------------------------------------------------------------------
-- *sutam* \< *su*
+- *sutam* ← *su*
 - \[verb noun\], accusative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sahasrabāhve* \< *sahasra*
+- *sahasrabāhve* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasrabāhve* \< *bāhve* \< *bāhu*
+- *sahasrabāhve* ← *bāhve* ← *bāhu*
 - \[noun\], dative, singular, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
-- *atrādediṣṭa* \< *atra*
+- *atrādediṣṭa* ← *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *atrādediṣṭa* \< *adediṣṭa* \< *dediś* \< *√diś*
+- *atrādediṣṭa* ← *adediṣṭa* ← *dediś* ← *√diś*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *pauṃsyam* \< *pauṃsya*
+- *pauṃsyam* ← *pauṃsya*
 - \[noun\], accusative, singular, neuter
 - “manfulness; deed; army; strength.”
 ------------------------------------------------------------------------

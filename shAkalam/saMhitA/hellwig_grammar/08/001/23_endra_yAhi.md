@@ -2,25 +2,25 @@
 title = "Rig Veda 8.1.23"
 
 +++
--   *endra* \< *ā*
+-   *endra* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *endra* \< *indra*
+- *endra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yāhi* \< *yā*
+- *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *matsva* \< *mad*
+- *matsva* ← *mad*
 - \[verb\], singular, Aorist imperative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *citreṇa* \< *citra*
+- *citreṇa* ← *citra*
 - \[noun\], instrumental, singular, neuter
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
@@ -31,11 +31,11 @@ title = "Rig Veda 8.1.23"
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *rādhasā* \< *rādhas*
+- *rādhasā* ← *rādhas*
 - \[noun\], instrumental, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *saro* \< *saraḥ* \< *saras*
+- *saro* ← *saraḥ* ← *saras*
 - \[noun\], accusative, singular, neuter
 - “lake; saras \[word\]; pond.”
 ------------------------------------------------------------------------
@@ -43,20 +43,20 @@ title = "Rig Veda 8.1.23"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *prāsy* \< *prāsi* \< *prā*
+- *prāsy* ← *prāsi* ← *prā*
 - \[verb\], singular, Present indikative
 - “fill; satisfy.”
 ------------------------------------------------------------------------
-- *udaraṃ* \< *udaram* \< *udara*
+- *udaraṃ* ← *udaram* ← *udara*
 - \[noun\], accusative, singular, neuter
 - “udara; cavity; abdomen; inside; stomach; belly; udara \[word\];
     garbha; abdominal disease; intestine; inside; uterus; vessel.”
 ------------------------------------------------------------------------
-- *sapītibhir* \< *sa*
+- *sapītibhir* ← *sa*
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *sapītibhir* \< *pītibhiḥ* \< *pīti*
+- *sapītibhir* ← *pītibhiḥ* ← *pīti*
 - \[noun\], instrumental, plural, masculine
 - “drinking; haritāla.”
 ------------------------------------------------------------------------
@@ -64,7 +64,7 @@ title = "Rig Veda 8.1.23"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *somebhir* \< *somebhiḥ* \< *soma*
+- *somebhir* ← *somebhiḥ* ← *soma*
 - \[noun\], instrumental, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -72,7 +72,7 @@ title = "Rig Veda 8.1.23"
 - \[noun\], accusative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *sphiram* \< *sphira*
+- *sphiram* ← *sphira*
 - \[noun\], accusative, singular, neuter
 - “sphira \[word\].”
 ------------------------------------------------------------------------

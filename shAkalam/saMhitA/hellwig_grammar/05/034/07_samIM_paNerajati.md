@@ -6,22 +6,22 @@ title = "Rig Veda 5.34.7"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *īm* \< *īṃ*
+- *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *paṇer* \< *paṇeḥ* \< *paṇi*
+- *paṇer* ← *paṇeḥ* ← *paṇi*
 - \[noun\], genitive, singular, masculine
 - “niggard; paṇ.”
 ------------------------------------------------------------------------
-- *ajati* \< *aj*
+- *ajati* ← *aj*
 - \[verb\], singular, Present indikative
 - “drive; expel.”
 ------------------------------------------------------------------------
-- *bhojanam* \< *bhojana*
+- *bhojanam* ← *bhojana*
 - \[noun\], accusative, singular, neuter
 - “food; eating; foodstuff; meal; property; sevana; enjoyment.”
 ------------------------------------------------------------------------
-- *muṣe* \< *muṣ*
+- *muṣe* ← *muṣ*
 - \[verb noun\]
 - “rob; remove; steal.”
 ------------------------------------------------------------------------
@@ -29,16 +29,16 @@ title = "Rig Veda 5.34.7"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *bhajati* \< *bhaj*
+- *bhajati* ← *bhaj*
 - \[verb\], singular, Present indikative
 - “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
     one's share; partake; share; get; approach; love; use.”
 ------------------------------------------------------------------------
-- *sūnaraṃ* \< *sūnaram* \< *sūnara*
+- *sūnaraṃ* ← *sūnaram* ← *sūnara*
 - \[noun\], accusative, singular, neuter
 - “noble.”
 ------------------------------------------------------------------------
@@ -46,7 +46,7 @@ title = "Rig Veda 5.34.7"
 - \[noun\], accusative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *durge* \< *durga*
+- *durge* ← *durga*
 - \[noun\], locative, singular, neuter
 - “fortress; stronghold; difficulty; danger; passage.”
 ------------------------------------------------------------------------
@@ -54,12 +54,12 @@ title = "Rig Veda 5.34.7"
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *dhriyate* \< *dhṛ*
+- *dhriyate* ← *dhṛ*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “keep; put; hold; assume; wear; take; promise; stay; exist; hold;
     begin; dip.”
 ------------------------------------------------------------------------
-- *viśva* \< *viśvaḥ* \< *viśva*
+- *viśva* ← *viśvaḥ* ← *viśva*
 - \[noun\], nominative, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
@@ -72,24 +72,24 @@ title = "Rig Veda 5.34.7"
 - \[noun\], accusative, singular, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *jano* \< *janaḥ* \< *jana*
+- *jano* ← *janaḥ* ← *jana*
 - \[noun\], nominative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *taviṣīm* \< *taviṣī*
+- *taviṣīm* ← *taviṣī*
 - \[noun\], accusative, singular, feminine
 - “strength; power.”
 ------------------------------------------------------------------------
-- *acukrudhat* \< *krudh*
+- *acukrudhat* ← *krudh*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “anger; kup.”
 ------------------------------------------------------------------------

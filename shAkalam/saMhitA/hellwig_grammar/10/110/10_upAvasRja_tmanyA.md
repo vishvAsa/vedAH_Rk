@@ -2,28 +2,28 @@
 title = "Rig Veda 10.110.10"
 
 +++
--   *upāvasṛja* \< *upa*
+-   *upāvasṛja* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *upāvasṛja* \< *avasṛja* \< *avasṛj* \< *√sṛj*
+- *upāvasṛja* ← *avasṛja* ← *avasṛj* ← *√sṛj*
 - \[verb\], singular, Present imperative
 - “free; shoot; ejaculate.”
 ------------------------------------------------------------------------
-- *tmanyā* \< *\_* \< *√\_*
+- *tmanyā* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *samañjan* \< *samañj* \< *√añj*
+- *samañjan* ← *samañj* ← *√añj*
 - \[verb noun\], nominative, singular
 - “anoint.”
 ------------------------------------------------------------------------
-- *devānām* \< *deva*
+- *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *pātha* \< *pāthaḥ* \< *pāthas*
+- *pātha* ← *pāthaḥ* ← *pāthas*
 - \[noun\], accusative, singular, neuter
 - “pāthas \[word\]; water; place.”
 ------------------------------------------------------------------------
@@ -31,42 +31,42 @@ title = "Rig Veda 10.110.10"
 - \[adverb\]
 - “seasonably.”
 ------------------------------------------------------------------------
-- *havīṃṣi* \< *havis*
+- *havīṃṣi* ← *havis*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *vanaspatiḥ* \< *vanaspati*
+- *vanaspatiḥ* ← *vanaspati*
 - \[noun\], nominative, singular, masculine
 - “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
 ------------------------------------------------------------------------
-- *śamitā* \< *śamitṛ*
+- *śamitā* ← *śamitṛ*
 - \[noun\], nominative, singular, masculine
 - “śamitṛ \[word\]; butcher.”
 ------------------------------------------------------------------------
-- *devo* \< *devaḥ* \< *deva*
+- *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *agniḥ* \< *agni*
+- *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *svadantu* \< *svad*
+- *svadantu* ← *svad*
 - \[verb\], plural, Present imperative
 - “sweeten.”
 ------------------------------------------------------------------------
-- *havyam* \< *havya*
+- *havyam* ← *havya*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *madhunā* \< *madhu*
+- *madhunā* ← *madhu*
 - \[noun\], instrumental, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *ghṛtena* \< *ghṛta*
+- *ghṛtena* ← *ghṛta*
 - \[noun\], instrumental, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------

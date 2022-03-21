@@ -2,7 +2,7 @@
 title = "Rig Veda 6.75.14"
 
 +++
--   *ahir* \< *ahiḥ* \< *ahi*
+-   *ahir* ← *ahiḥ* ← *ahi*
 - \[noun\], nominative, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
 ------------------------------------------------------------------------
@@ -10,56 +10,56 @@ title = "Rig Veda 6.75.14"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *bhogaiḥ* \< *bhoga*
+- *bhogaiḥ* ← *bhoga*
 - \[noun\], instrumental, plural, masculine
 - “coil; snake.”
 ------------------------------------------------------------------------
-- *pary* \< *pari*
+- *pary* ← *pari*
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *bāhuṃ* \< *bāhum* \< *bāhu*
+- *bāhuṃ* ← *bāhum* ← *bāhu*
 - \[noun\], accusative, singular, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
-- *jyāyā* \< *jyāyāḥ* \< *jyā*
+- *jyāyā* ← *jyāyāḥ* ← *jyā*
 - \[noun\], genitive, singular, feminine
 - “bowstring.”
 ------------------------------------------------------------------------
-- *hetim* \< *heti*
+- *hetim* ← *heti*
 - \[noun\], accusative, singular, feminine
 - “projectile; heti \[word\].”
 ------------------------------------------------------------------------
-- *paribādhamānaḥ* \< *paribādh* \< *√bādh*
+- *paribādhamānaḥ* ← *paribādh* ← *√bādh*
 - \[verb noun\], nominative, singular
 - “annoy.”
 ------------------------------------------------------------------------
-- *hastaghno* \< *hastaghnaḥ* \< *hastaghna*
+- *hastaghno* ← *hastaghnaḥ* ← *hastaghna*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *vayunāni* \< *vayuna*
+- *vayunāni* ← *vayuna*
 - \[noun\], accusative, plural, neuter
 - “convention; custom; means.”
 ------------------------------------------------------------------------
-- *vidvān* \< *vid*
+- *vidvān* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *pumān* \< *puṃs*
+- *pumān* ← *puṃs*
 - \[noun\], nominative, singular, masculine
 - “man; masculine; man; puṃvajra; puruṣa; son; puṃs \[word\].”
 ------------------------------------------------------------------------
-- *pumāṃsam* \< *puṃs*
+- *pumāṃsam* ← *puṃs*
 - \[noun\], accusative, singular, masculine
 - “man; masculine; man; puṃvajra; puruṣa; son; puṃs \[word\].”
 ------------------------------------------------------------------------
@@ -67,11 +67,11 @@ title = "Rig Veda 6.75.14"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *pātu* \< *pā*
+- *pātu* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *viśvataḥ* \< *viśvatas*
+- *viśvataḥ* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
 ------------------------------------------------------------------------

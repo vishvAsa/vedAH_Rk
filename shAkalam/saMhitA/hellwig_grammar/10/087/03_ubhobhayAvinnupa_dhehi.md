@@ -2,39 +2,39 @@
 title = "Rig Veda 10.87.3"
 
 +++
--   *ubhobhayāvinn* \< *ubhā* \< *ubh*
+-   *ubhobhayāvinn* ← *ubhā* ← *ubh*
 - \[noun\], accusative, dual, masculine
 - “both(a).”
 ------------------------------------------------------------------------
-- *ubhobhayāvinn* \< *ubhayāvin*
+- *ubhobhayāvinn* ← *ubhayāvin*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *dhehi* \< *dhā*
+- *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *daṃṣṭrā* \< *daṃṣṭra*
+- *daṃṣṭrā* ← *daṃṣṭra*
 - \[noun\], accusative, dual, masculine
 - “tusk; fang; tooth; fang; bite.”
 ------------------------------------------------------------------------
-- *hiṃsraḥ* \< *hiṃsra*
+- *hiṃsraḥ* ← *hiṃsra*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *śiśāno* \< *śiśānaḥ* \< *śā*
+- *śiśāno* ← *śiśānaḥ* ← *śā*
 - \[verb noun\], nominative, singular
 - “sharpen; whet; strengthen.”
 ------------------------------------------------------------------------
-- *'varam* \< *avaram* \< *avara*
+- *'varam* ← *avaram* ← *avara*
 - \[noun\], accusative, singular, masculine
 - “worst; avara \[word\]; lower; nearer; base; short; low; abject;
     later(a); worse; antecedent.”
 ------------------------------------------------------------------------
-- *paraṃ* \< *param* \< *para*
+- *paraṃ* ← *param* ← *para*
 - \[noun\], accusative, singular, masculine
 - “best; other; following; devoted(p); extreme; highest; otherwordly;
     better; hostile; maximal; distant; another(a); para \[word\]; upper;
@@ -44,11 +44,11 @@ title = "Rig Veda 10.87.3"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *utāntarikṣe* \< *uta*
+- *utāntarikṣe* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *utāntarikṣe* \< *antarikṣe* \< *antarikṣa*
+- *utāntarikṣe* ← *antarikṣe* ← *antarikṣa*
 - \[noun\], locative, singular, neuter
 - “sky; atmosphere; air; abhra.”
 ------------------------------------------------------------------------
@@ -56,24 +56,24 @@ title = "Rig Veda 10.87.3"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *yāhi* \< *yā*
+- *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *rājañ* \< *rājan*
+- *rājañ* ← *rājan*
 - \[noun\], vocative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *jambhaiḥ* \< *jambha*
+- *jambhaiḥ* ← *jambha*
 - \[noun\], instrumental, plural, masculine
 - “Jambha; citron; jaw; tooth; molar; back tooth.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *dhehy* \< *dhehi* \< *dhā*
+- *dhehy* ← *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
@@ -82,7 +82,7 @@ title = "Rig Veda 10.87.3"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *yātudhānān* \< *yātudhāna*
+- *yātudhānān* ← *yātudhāna*
 - \[noun\], accusative, plural, masculine
 - “sorcerer; Rākṣasa; Yātudhāna; rākṣasavaktravant.”
 ------------------------------------------------------------------------

@@ -2,13 +2,13 @@
 title = "Rig Veda 4.21.2"
 
 +++
--   *tasyed* \< *tasya* \< *tad*
+-   *tasyed* ← *tasya* ← *tad*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tasyed* \< *id*
+- *tasyed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -16,44 +16,44 @@ title = "Rig Veda 4.21.2"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *stavatha* \< *stu*
+- *stavatha* ← *stu*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *vṛṣṇyāni* \< *vṛṣṇya*
+- *vṛṣṇyāni* ← *vṛṣṇya*
 - \[noun\], accusative, plural, neuter
 - “manfulness; virility.”
 ------------------------------------------------------------------------
-- *tuvidyumnasya* \< *tuvi*
+- *tuvidyumnasya* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
 ------------------------------------------------------------------------
-- *tuvidyumnasya* \< *dyumnasya* \< *dyumna*
+- *tuvidyumnasya* ← *dyumnasya* ← *dyumna*
 - \[noun\], genitive, singular, masculine
 - “magnificence.”
 ------------------------------------------------------------------------
-- *tuvirādhaso* \< *tuvi*
+- *tuvirādhaso* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
 ------------------------------------------------------------------------
-- *tuvirādhaso* \< *rādhasaḥ* \< *rādhas*
+- *tuvirādhaso* ← *rādhasaḥ* ← *rādhas*
 - \[noun\], genitive, singular, masculine
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *nṝn* \< *nṛ*
+- *nṝn* ← *nṛ*
 - \[noun\], accusative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *kratur* \< *kratuḥ* \< *kratu*
+- *kratur* ← *kratuḥ* ← *kratu*
 - \[noun\], nominative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *vidathyo* \< *vidathyaḥ* \< *vidathya*
+- *vidathyo* ← *vidathyaḥ* ← *vidathya*
 - \[noun\], nominative, singular, masculine
 - “wise.”
 ------------------------------------------------------------------------
@@ -61,28 +61,28 @@ title = "Rig Veda 4.21.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *samrāṭ* \< *samrāj*
+- *samrāṭ* ← *samrāj*
 - \[noun\], nominative, singular, masculine
 - “sovereign; ruler.”
 ------------------------------------------------------------------------
-- *sāhvān* \< *sah*
+- *sāhvān* ← *sah*
 - \[verb noun\], nominative, singular
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------
-- *tarutro* \< *tarutraḥ* \< *tarutra*
+- *tarutro* ← *tarutraḥ* ← *tarutra*
 - \[noun\], nominative, singular, masculine
 - “triumphant; conquering(a); superior.”
 ------------------------------------------------------------------------
-- *abhy* \< *abhī* \< *abhi*
+- *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *asti* \< *as*
+- *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *kṛṣṭīḥ* \< *kṛṣṭi*
+- *kṛṣṭīḥ* ← *kṛṣṭi*
 - \[noun\], accusative, plural, feminine
 - “people; citizenry.”
 ------------------------------------------------------------------------

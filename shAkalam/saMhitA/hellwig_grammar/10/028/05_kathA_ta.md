@@ -6,15 +6,15 @@ title = "Rig Veda 10.28.5"
 - \[adverb\]
 - “how.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *etad* \< *etat* \< *etad*
+- *etad* ← *etat* ← *etad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *aham* \< *mad*
+- *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -22,36 +22,36 @@ title = "Rig Veda 10.28.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *ciketaṃ* \< *ciketam* \< *cit*
+- *ciketaṃ* ← *ciketam* ← *cit*
 - \[verb\], singular, Plusquamperfect
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *gṛtsasya* \< *gṛtsa*
+- *gṛtsasya* ← *gṛtsa*
 - \[noun\], genitive, singular, masculine
 - “apt; deft.”
 ------------------------------------------------------------------------
-- *pākas* \< *pākaḥ* \< *pāka*
+- *pākas* ← *pākaḥ* ← *pāka*
 - \[noun\], nominative, singular, masculine
 - “ignorant; childlike; honest.”
 ------------------------------------------------------------------------
-- *tavaso* \< *tavasaḥ* \< *tavas*
+- *tavaso* ← *tavasaḥ* ← *tavas*
 - \[noun\], genitive, singular, masculine
 - “strong; energetic.”
 ------------------------------------------------------------------------
-- *manīṣām* \< *manīṣā*
+- *manīṣām* ← *manīṣā*
 - \[noun\], accusative, singular, feminine
 - “hymn; inspiration; idea; thinking; wish; consideration;
     intelligence.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vidvāṃ* \< *vid*
+- *vidvāṃ* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
@@ -64,22 +64,22 @@ title = "Rig Veda 10.28.5"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *voco* \< *vocaḥ* \< *vac*
+- *voco* ← *vocaḥ* ← *vac*
 - \[verb\], singular, Aorist inj. (proh.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
 ------------------------------------------------------------------------
-- *yam* \< *yad*
+- *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ardhaṃ* \< *ardham* \< *ardha*
+- *ardhaṃ* ← *ardham* ← *ardha*
 - \[noun\], accusative, singular, masculine
 - “one-half; ardha \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -87,9 +87,9 @@ title = "Rig Veda 10.28.5"
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *kṣemyā* \< *kṣemya*
+- *kṣemyā* ← *kṣemya*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *dhūḥ* \< *dhū*
+- *dhūḥ* ← *dhū*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------

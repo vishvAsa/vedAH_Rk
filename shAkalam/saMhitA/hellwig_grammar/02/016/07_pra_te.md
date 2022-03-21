@@ -6,11 +6,11 @@ title = "Rig Veda 2.16.7"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *nāvaṃ* \< *nāvam* \< *nau*
+- *nāvaṃ* ← *nāvam* ← *nau*
 - \[noun\], accusative, singular, feminine
 - “ship; boat; nau \[word\].”
 ------------------------------------------------------------------------
@@ -18,57 +18,57 @@ title = "Rig Veda 2.16.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *samane* \< *samana*
+- *samane* ← *samana*
 - \[noun\], locative, singular, neuter
 - “marriage; conflict.”
 ------------------------------------------------------------------------
-- *vacasyuvam* \< *vacasyu*
+- *vacasyuvam* ← *vacasyu*
 - \[noun\], accusative, singular, feminine
 - “eloquent.”
 ------------------------------------------------------------------------
-- *brahmaṇā* \< *brahman*
+- *brahmaṇā* ← *brahman*
 - \[noun\], instrumental, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *yāmi* \< *yā*
+- *yāmi* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *savaneṣu* \< *savana*
+- *savaneṣu* ← *savana*
 - \[noun\], locative, plural, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
-- *dādhṛṣiḥ* \< *dādhṛṣi*
+- *dādhṛṣiḥ* ← *dādhṛṣi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *kuvin* \< *kuvid*
+- *kuvin* ← *kuvid*
 - \[adverb\]
 - “surely; indeed.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vacaso* \< *vacasaḥ* \< *vacas*
+- *vacaso* ← *vacasaḥ* ← *vacas*
 - \[noun\], genitive, singular, neuter
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------
-- *nibodhiṣad* \< *nibodhiṣat* \< *nibudh* \< *√budh*
+- *nibodhiṣad* ← *nibodhiṣat* ← *nibudh* ← *√budh*
 - \[verb\], singular, Aorist conj./subj.
 - “learn; come to know; know; attend to; understand; understand.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *utsaṃ* \< *utsam* \< *utsa*
+- *utsaṃ* ← *utsam* ← *utsa*
 - \[noun\], accusative, singular, masculine
 - “spring; fountain; utsa \[word\]; well.”
 ------------------------------------------------------------------------
@@ -76,11 +76,11 @@ title = "Rig Veda 2.16.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vasunaḥ* \< *vasu*
+- *vasunaḥ* ← *vasu*
 - \[noun\], genitive, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *sicāmahe* \< *sic*
+- *sicāmahe* ← *sic*
 - \[verb\], plural, Aorist conj./subj.
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 ------------------------------------------------------------------------

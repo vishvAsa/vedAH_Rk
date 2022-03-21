@@ -6,15 +6,15 @@ title = "Rig Veda 8.62.6"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *caṣṭa* \< *caṣṭe* \< *cakṣ*
+- *caṣṭa* ← *caṣṭe* ← *cakṣ*
 - \[verb\], singular, Present indikative
 - “watch; look.”
 ------------------------------------------------------------------------
-- *ṛcīṣamo* \< *ṛcīṣamaḥ* \< *ṛcīṣama*
+- *ṛcīṣamo* ← *ṛcīṣamaḥ* ← *ṛcīṣama*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *'vatāṃ* \< *avatāṃ* \< *avata*
+- *'vatāṃ* ← *avatāṃ* ← *avata*
 - \[noun\], accusative, plural, masculine
 - “well.”
 ------------------------------------------------------------------------
@@ -22,27 +22,27 @@ title = "Rig Veda 8.62.6"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *mānuṣaḥ* \< *mānuṣa*
+- *mānuṣaḥ* ← *mānuṣa*
 - \[noun\], nominative, singular, masculine
 - “man; man.”
 ------------------------------------------------------------------------
-- *juṣṭvī* \< *juṣ*
+- *juṣṭvī* ← *juṣ*
 - \[verb noun\]
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *dakṣasya* \< *dakṣa*
+- *dakṣasya* ← *dakṣa*
 - \[noun\], genitive, singular, masculine
 - “deft; right; intelligent; expert.”
 ------------------------------------------------------------------------
-- *sominaḥ* \< *somin*
+- *sominaḥ* ← *somin*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *sakhāyaṃ* \< *sakhāyam* \< *sakhi*
+- *sakhāyaṃ* ← *sakhāyam* ← *sakhi*
 - \[noun\], accusative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *kṛṇute* \< *kṛ*
+- *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -53,21 +53,21 @@ title = "Rig Veda 8.62.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *yujam* \< *yuj*
+- *yujam* ← *yuj*
 - \[noun\], accusative, singular, masculine
 - “amalgamated; harnessed.”
 ------------------------------------------------------------------------
-- *bhadrā* \< *bhadrāḥ* \< *bhadra*
+- *bhadrā* ← *bhadrāḥ* ← *bhadra*
 - \[noun\], nominative, plural, feminine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *rātayaḥ* \< *rāti*
+- *rātayaḥ* ← *rāti*
 - \[noun\], nominative, plural, feminine
 - “gift; bounty; favor.”
 ------------------------------------------------------------------------

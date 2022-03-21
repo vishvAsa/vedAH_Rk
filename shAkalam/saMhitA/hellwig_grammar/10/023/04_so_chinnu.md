@@ -2,17 +2,17 @@
 title = "Rig Veda 10.23.4"
 
 +++
--   *so* \< *sā* \< *tad*
+-   *so* ← *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *so* \< *u*
+- *so* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -20,68 +20,68 @@ title = "Rig Veda 10.23.4"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *vṛṣṭir* \< *vṛṣṭiḥ* \< *vṛṣṭi*
+- *vṛṣṭir* ← *vṛṣṭiḥ* ← *vṛṣṭi*
 - \[noun\], nominative, singular, feminine
 - “rain; shower; rainy season.”
 ------------------------------------------------------------------------
-- *yūthyā* \< *yūthya*
+- *yūthyā* ← *yūthya*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *svā* \< *sva*
+- *svā* ← *sva*
 - \[noun\], nominative, singular, feminine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *sacāṃ* \< *\_* \< *√\_*
+- *sacāṃ* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *śmaśrūṇi* \< *śmaśru*
+- *śmaśrūṇi* ← *śmaśru*
 - \[noun\], accusative, plural, neuter
 - “beard.”
 ------------------------------------------------------------------------
-- *haritābhi* \< *haritā* \< *harita*
+- *haritābhi* ← *haritā* ← *harita*
 - \[noun\], accusative, plural, neuter
 - “green; yellow; fresh; harita \[word\]; green.”
 ------------------------------------------------------------------------
-- *haritābhi* \< *abhi*
+- *haritābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *pruṣṇute* \< *pruṣ*
+- *pruṣṇute* ← *pruṣ*
 - \[verb\], singular, Present indikative
 - “sprinkle; wet.”
 ------------------------------------------------------------------------
-- *ava* \< *av*
+- *ava* ← *av*
 - \[verb\], singular, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *veti* \< *vī*
+- *veti* ← *vī*
 - \[verb\], singular, Present indikative
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *sukṣayaṃ* \< *su*
+- *sukṣayaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukṣayaṃ* \< *kṣayam* \< *kṣaya*
+- *sukṣayaṃ* ← *kṣayam* ← *kṣaya*
 - \[noun\], accusative, singular, neuter
 - “dwelling; house; kṣaya \[word\]; home; family.”
 ------------------------------------------------------------------------
-- *sute* \< *suta*
+- *sute* ← *suta*
 - \[noun\], locative, singular, masculine
 - “Soma.”
 ------------------------------------------------------------------------
-- *madhūd* \< *madhu*
+- *madhūd* ← *madhu*
 - \[noun\], accusative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *madhūd* \< *ud*
+- *madhūd* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
@@ -89,11 +89,11 @@ title = "Rig Veda 10.23.4"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *dhūnoti* \< *dhū*
+- *dhūnoti* ← *dhū*
 - \[verb\], singular, Present indikative
 - “shake; remove; chase away.”
 ------------------------------------------------------------------------
-- *vāto* \< *vātaḥ* \< *vāta*
+- *vāto* ← *vātaḥ* ← *vāta*
 - \[noun\], nominative, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
@@ -102,7 +102,7 @@ title = "Rig Veda 10.23.4"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *vanam* \< *vana*
+- *vanam* ← *vana*
 - \[noun\], accusative, singular, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------

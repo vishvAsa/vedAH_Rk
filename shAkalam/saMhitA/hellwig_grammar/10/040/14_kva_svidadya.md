@@ -14,61 +14,61 @@ title = "Rig Veda 10.40.14"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *katamāsv* \< *katamāsu* \< *katama*
+- *katamāsv* ← *katamāsu* ← *katama*
 - \[noun\], locative, plural, feminine
 - “katama \[word\]; who.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], nominative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *vikṣu* \< *viś*
+- *vikṣu* ← *viś*
 - \[noun\], locative, plural
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *dasrā* \< *dasra*
+- *dasrā* ← *dasra*
 - \[noun\], nominative, dual, masculine
 - “Asvins.”
 ------------------------------------------------------------------------
-- *mādayete* \< *māday* \< *√mad*
+- *mādayete* ← *māday* ← *√mad*
 - \[verb\], dual, Present indikative
 - “delight; enjoy; intoxicate.”
 ------------------------------------------------------------------------
-- *śubhas* \< *śubhaḥ* \< *śubh*
+- *śubhas* ← *śubhaḥ* ← *śubh*
 - \[noun\], genitive, singular, feminine
 ------------------------------------------------------------------------
-- *patī* \< *pati*
+- *patī* ← *pati*
 - \[noun\], nominative, dual, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *ka* \< *kaḥ* \< *ka*
+- *ka* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *īṃ* \< *īm* \< *īṃ*
+- *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *yeme* \< *yam*
+- *yeme* ← *yam*
 - \[verb\], singular, Perfect indicative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *katamasya* \< *katama*
+- *katamasya* ← *katama*
 - \[noun\], genitive, singular, masculine
 - “katama \[word\]; who.”
 ------------------------------------------------------------------------
-- *jagmatur* \< *jagmatuḥ* \< *gam*
+- *jagmatur* ← *jagmatuḥ* ← *gam*
 - \[verb\], dual, Perfect indicative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *viprasya* \< *vipra*
+- *viprasya* ← *vipra*
 - \[noun\], genitive, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
@@ -76,7 +76,7 @@ title = "Rig Veda 10.40.14"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *yajamānasya* \< *yaj*
+- *yajamānasya* ← *yaj*
 - \[verb noun\], genitive, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
@@ -84,7 +84,7 @@ title = "Rig Veda 10.40.14"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *gṛham* \< *gṛha*
+- *gṛham* ← *gṛha*
 - \[noun\], accusative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
 ------------------------------------------------------------------------

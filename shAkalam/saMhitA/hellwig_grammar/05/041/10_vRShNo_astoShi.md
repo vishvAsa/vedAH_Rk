@@ -2,33 +2,33 @@
 title = "Rig Veda 5.41.10"
 
 +++
--   *vṛṣṇo* \< *vṛṣṇaḥ* \< *vṛṣan*
+-   *vṛṣṇo* ← *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *astoṣi* \< *stu*
+- *astoṣi* ← *stu*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *bhūmyasya* \< *bhūmya*
+- *bhūmyasya* ← *bhūmya*
 - \[noun\], genitive, singular, masculine
 - “mundane.”
 ------------------------------------------------------------------------
-- *garbhaṃ* \< *garbham* \< *garbha*
+- *garbhaṃ* ← *garbham* ← *garbha*
 - \[noun\], accusative, singular, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
 ------------------------------------------------------------------------
-- *trito* \< *tritaḥ* \< *trita*
+- *trito* ← *tritaḥ* ← *trita*
 - \[noun\], nominative, singular, masculine
 - “Trita.”
 ------------------------------------------------------------------------
-- *napātam* \< *napāt*
+- *napātam* ← *napāt*
 - \[noun\], accusative, singular, masculine
 - “grandson; nephew; napāt \[word\].”
 ------------------------------------------------------------------------
-- *apāṃ* \< *apām* \< *ap*
+- *apāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, masculine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -36,11 +36,11 @@ title = "Rig Veda 5.41.10"
 - \[noun\], instrumental, singular, feminine
 - “praise.”
 ------------------------------------------------------------------------
-- *gṛṇīte* \< *gṛ*
+- *gṛṇīte* ← *gṛ*
 - \[verb\], singular, Present indikative
 - “praise.”
 ------------------------------------------------------------------------
-- *agnir* \< *agniḥ* \< *agni*
+- *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -53,11 +53,11 @@ title = "Rig Veda 5.41.10"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śūṣaiḥ* \< *śūṣa*
+- *śūṣaiḥ* ← *śūṣa*
 - \[noun\], instrumental, plural, masculine
 - “song; energy.”
 ------------------------------------------------------------------------
-- *śociṣkeśo* \< *śociṣkeśaḥ* \< *śociṣkeśa*
+- *śociṣkeśo* ← *śociṣkeśaḥ* ← *śociṣkeśa*
 - \[noun\], nominative, singular, masculine
 - “Agni.”
 ------------------------------------------------------------------------
@@ -65,11 +65,11 @@ title = "Rig Veda 5.41.10"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *riṇāti* \< *ri*
+- *riṇāti* ← *ri*
 - \[verb\], singular, Present indikative
 - “free; liberate; run; let go of.”
 ------------------------------------------------------------------------
-- *vanā* \< *vana*
+- *vanā* ← *vana*
 - \[noun\], accusative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------

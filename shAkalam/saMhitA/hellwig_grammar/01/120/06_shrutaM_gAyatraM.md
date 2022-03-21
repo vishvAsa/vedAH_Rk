@@ -2,53 +2,53 @@
 title = "Rig Veda 1.120.6"
 
 +++
--   *śrutaṃ* \< *śrutam* \< *śru*
+-   *śrutaṃ* ← *śrutam* ← *śru*
 - \[verb\], dual, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *gāyatraṃ* \< *gāyatram* \< *gāyatra*
+- *gāyatraṃ* ← *gāyatram* ← *gāyatra*
 - \[noun\], accusative, singular, neuter
 - “Gāyatrī; Gāyatra.”
 ------------------------------------------------------------------------
-- *takavānasyāhaṃ* \< *takavānasya* \< *takavāna*
+- *takavānasyāhaṃ* ← *takavānasya* ← *takavāna*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *takavānasyāhaṃ* \< *aham* \< *mad*
+- *takavānasyāhaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ciddhi* \< *cit*
+- *ciddhi* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ciddhi* \< *hi*
+- *ciddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *rirebhāśvinā* \< *rirebha* \< *ribh*
+- *rirebhāśvinā* ← *rirebha* ← *ribh*
 - \[verb\], singular, Perfect indicative
 - “moo; murmur; praise.”
 ------------------------------------------------------------------------
-- *rirebhāśvinā* \< *aśvinā* \< *aśvin*
+- *rirebhāśvinā* ← *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *ākṣī* \< *ā*
+- *ākṣī* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *ākṣī* \< *akṣī* \< *akṣi*
+- *ākṣī* ← *akṣī* ← *akṣi*
 - \[noun\], accusative, dual, neuter
 - “eye; akṣi \[word\]; two.”
 ------------------------------------------------------------------------
-- *śubhas* \< *śubhaḥ* \< *śubh*
+- *śubhas* ← *śubhaḥ* ← *śubh*
 - \[noun\], genitive, singular, feminine
 ------------------------------------------------------------------------
-- *patī* \< *pati*
+- *patī* ← *pati*
 - \[noun\], vocative, dual, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”

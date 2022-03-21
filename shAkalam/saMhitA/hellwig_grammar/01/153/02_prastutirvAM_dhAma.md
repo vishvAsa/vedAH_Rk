@@ -2,14 +2,14 @@
 title = "Rig Veda 1.153.2"
 
 +++
--   *prastutir* \< *prastutiḥ* \< *prastuti*
+-   *prastutir* ← *prastutiḥ* ← *prastuti*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *dhāma* \< *dhāman*
+- *dhāma* ← *dhāman*
 - \[noun\], nominative, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
@@ -18,58 +18,58 @@ title = "Rig Veda 1.153.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *prayuktir* \< *prayuktiḥ* \< *prayukti*
+- *prayuktir* ← *prayuktiḥ* ← *prayukti*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *ayāmi* \< *yam*
+- *ayāmi* ← *yam*
 - \[verb\], singular, Aorist passive
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇā* \< *mitrāvaruṇa*
+- *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *suvṛktiḥ* \< *suvṛkti*
+- *suvṛktiḥ* ← *suvṛkti*
 - \[noun\], nominative, singular, feminine
 - “praise.”
 ------------------------------------------------------------------------
-- *anakti* \< *añj*
+- *anakti* ← *añj*
 - \[verb\], singular, Present indikative
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *vidatheṣu* \< *vidatha*
+- *vidatheṣu* ← *vidatha*
 - \[noun\], locative, plural, neuter
 - “meeting; wisdom; council.”
 ------------------------------------------------------------------------
-- *hotā* \< *hotṛ*
+- *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *sumnaṃ* \< *sumnam* \< *sumna*
+- *sumnaṃ* ← *sumnam* ← *sumna*
 - \[noun\], accusative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *sūrir* \< *sūriḥ* \< *sūri*
+- *sūrir* ← *sūriḥ* ← *sūri*
 - \[noun\], nominative, singular, masculine
 - “patron.”
 ------------------------------------------------------------------------
-- *vṛṣaṇāv* \< *vṛṣaṇau* \< *vṛṣan*
+- *vṛṣaṇāv* ← *vṛṣaṇau* ← *vṛṣan*
 - \[noun\], vocative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *iyakṣan* \< *iyakṣ* \< *√yaj*
+- *iyakṣan* ← *iyakṣ* ← *√yaj*
 - \[verb noun\], nominative, singular
 - “endeavor.”
 ------------------------------------------------------------------------

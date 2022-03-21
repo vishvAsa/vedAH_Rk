@@ -2,19 +2,19 @@
 title = "Rig Veda 7.68.8"
 
 +++
--   *vṛkāya* \< *vṛka*
+-   *vṛkāya* ← *vṛka*
 - \[noun\], dative, singular, masculine
 - “wolf; Vṛka; vṛka \[word\]; Vṛka.”
 ------------------------------------------------------------------------
-- *cij* \< *cit*
+- *cij* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *jasamānāya* \< *jas*
+- *jasamānāya* ← *jas*
 - \[verb noun\], dative, singular
 - “starve.”
 ------------------------------------------------------------------------
-- *śaktam* \< *śak*
+- *śaktam* ← *śak*
 - \[verb\], dual, Aorist imperative
 - “can; invigorate.”
 ------------------------------------------------------------------------
@@ -22,30 +22,30 @@ title = "Rig Veda 7.68.8"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *śrutaṃ* \< *śrutam* \< *śru*
+- *śrutaṃ* ← *śrutam* ← *śru*
 - \[verb\], dual, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *śayave* \< *śayu*
+- *śayave* ← *śayu*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *hūyamānā* \< *hvā*
+- *hūyamānā* ← *hvā*
 - \[verb noun\], nominative, dual
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *yāv* \< *yau* \< *yad*
+- *yāv* ← *yau* ← *yad*
 - \[noun\], nominative, dual, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *aghnyām* \< *aghnyā*
+- *aghnyām* ← *aghnyā*
 - \[noun\], accusative, singular, feminine
 - “cow.”
 ------------------------------------------------------------------------
-- *apinvatam* \< *pinv*
+- *apinvatam* ← *pinv*
 - \[verb\], dual, Imperfect
 - “swell; swell; overflow; abound.”
 ------------------------------------------------------------------------
-- *apo* \< *apaḥ* \< *ap*
+- *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -53,24 +53,24 @@ title = "Rig Veda 7.68.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *staryaṃ* \< *staryam* \< *starī*
+- *staryaṃ* ← *staryam* ← *starī*
 - \[noun\], accusative, singular, feminine
 - “barren cow.”
 ------------------------------------------------------------------------
-- *cicchakty* \< *cit*
+- *cicchakty* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *cicchakty* \< *śaktī* \< *śakti*
+- *cicchakty* ← *śaktī* ← *śakti*
 - \[noun\], instrumental, singular, feminine
 - “spear; ability; Shakti; potency; power; capacity; śakti \[word\];
     potency; capability; reproduction.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *śacībhiḥ* \< *śacī*
+- *śacībhiḥ* ← *śacī*
 - \[noun\], instrumental, plural, feminine
 - “Śacī; power; dexterity; ability; aid.”
 ------------------------------------------------------------------------

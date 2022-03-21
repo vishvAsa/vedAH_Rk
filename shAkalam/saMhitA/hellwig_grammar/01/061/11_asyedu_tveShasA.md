@@ -2,11 +2,11 @@
 title = "Rig Veda 1.61.11"
 
 +++
--   *asyed* \< *asya* \< *idam*
+-   *asyed* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *asyed* \< *id*
+- *asyed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -14,14 +14,14 @@ title = "Rig Veda 1.61.11"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tveṣasā* \< *tveṣas*
+- *tveṣasā* ← *tveṣas*
 - \[noun\], instrumental, singular, neuter
 ------------------------------------------------------------------------
-- *ranta* \< *ram*
+- *ranta* ← *ram*
 - \[verb\], singular, Root aorist (Ind.)
 - “delight; rejoice; love; frolic; desire; give; calm; break.”
 ------------------------------------------------------------------------
-- *sindhavaḥ* \< *sindhu*
+- *sindhavaḥ* ← *sindhu*
 - \[noun\], nominative, plural, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
@@ -29,11 +29,11 @@ title = "Rig Veda 1.61.11"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vajreṇa* \< *vajra*
+- *vajreṇa* ← *vajra*
 - \[noun\], instrumental, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
@@ -41,39 +41,39 @@ title = "Rig Veda 1.61.11"
 - *sīm*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ayacchat* \< *yam*
+- *ayacchat* ← *yam*
 - \[verb\], singular, Imperfect
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *īśānakṛd* \< *īśāna*
+- *īśānakṛd* ← *īśāna*
 - \[noun\], masculine
 - “Shiva; Īśāna; ruler; Vishnu; īśvara; overlord.”
 ------------------------------------------------------------------------
-- *īśānakṛd* \< *kṛt*
+- *īśānakṛd* ← *kṛt*
 - \[noun\], nominative, singular, masculine
 - “causing; making; performing; promotive; producing; doing; acting;
     writing; transforming; effecting.”
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *daśasyan* \< *daśasy*
+- *daśasyan* ← *daśasy*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *turvītaye* \< *turvīti*
+- *turvītaye* ← *turvīti*
 - \[noun\], dative, singular, masculine
 - “Turvīti.”
 ------------------------------------------------------------------------
-- *gādhaṃ* \< *gādham* \< *gādha*
+- *gādhaṃ* ← *gādham* ← *gādha*
 - \[noun\], accusative, singular, neuter
 - “ford.”
 ------------------------------------------------------------------------
-- *turvaṇiḥ* \< *turvaṇi*
+- *turvaṇiḥ* ← *turvaṇi*
 - \[noun\], nominative, singular, masculine
 - “victorious; overpowering.”
 ------------------------------------------------------------------------
-- *kaḥ* \< *kṛ*
+- *kaḥ* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

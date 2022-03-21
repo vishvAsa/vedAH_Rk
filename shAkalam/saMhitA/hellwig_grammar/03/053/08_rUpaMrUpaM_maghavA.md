@@ -2,33 +2,33 @@
 title = "Rig Veda 3.53.8"
 
 +++
--   *rūpaṃ* \< *rūpam* \< *rūpa*
+-   *rūpaṃ* ← *rūpam* ← *rūpa*
 - \[noun\], nominative, singular, neuter
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
 ------------------------------------------------------------------------
-- *rūpam* \< *rūpa*
+- *rūpam* ← *rūpa*
 - \[noun\], nominative, singular, neuter
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
 ------------------------------------------------------------------------
-- *maghavā* \< *maghavan*
+- *maghavā* ← *maghavan*
 - \[noun\], nominative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *bobhavīti* \< *bobhav* \< *√bhū*
+- *bobhavīti* ← *bobhav* ← *√bhū*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *māyāḥ* \< *māyā*
+- *māyāḥ* ← *māyā*
 - \[noun\], accusative, plural, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
 ------------------------------------------------------------------------
-- *kṛṇvānas* \< *kṛṇvānaḥ* \< *kṛ*
+- *kṛṇvānas* ← *kṛṇvānaḥ* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -39,7 +39,7 @@ title = "Rig Veda 3.53.8"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *tanvam* \< *tanū*
+- *tanvam* ← *tanū*
 - \[noun\], accusative, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
@@ -47,20 +47,20 @@ title = "Rig Veda 3.53.8"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *svām* \< *sva*
+- *svām* ← *sva*
 - \[noun\], accusative, singular, feminine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *trir* \< *tris*
+- *trir* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *divaḥ* \< *div*
+- *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -68,32 +68,32 @@ title = "Rig Veda 3.53.8"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *muhūrtam* \< *muhūrta*
+- *muhūrtam* ← *muhūrta*
 - \[noun\], accusative, singular, neuter
 - “moment; Muhūrta; moment; Muhūrta.”
 ------------------------------------------------------------------------
-- *āgāt* \< *āgā* \< *√gā*
+- *āgāt* ← *āgā* ← *√gā*
 - \[verb\], singular, Root aorist (Ind.)
 - “come; arrive.”
 ------------------------------------------------------------------------
-- *svair* \< *svaiḥ* \< *sva*
+- *svair* ← *svaiḥ* ← *sva*
 - \[noun\], instrumental, plural, masculine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *mantrair* \< *mantraiḥ* \< *mantra*
+- *mantrair* ← *mantraiḥ* ← *mantra*
 - \[noun\], instrumental, plural, masculine
 - “mantra; Mantra; consultation; advice; consultation; mantra
     \[word\]; speech; plan.”
 ------------------------------------------------------------------------
-- *anṛtupā* \< *anṛtu*
+- *anṛtupā* ← *anṛtu*
 - \[noun\], masculine
 ------------------------------------------------------------------------
-- *anṛtupā* \< *pāḥ* \< *pā*
+- *anṛtupā* ← *pāḥ* ← *pā*
 - \[noun\], nominative, singular, masculine
 - “drinking.”
 ------------------------------------------------------------------------
-- *ṛtāvā* \< *ṛtāvan*
+- *ṛtāvā* ← *ṛtāvan*
 - \[noun\], nominative, singular, masculine
 - “law-abiding; faithful; righteous.”
 ------------------------------------------------------------------------

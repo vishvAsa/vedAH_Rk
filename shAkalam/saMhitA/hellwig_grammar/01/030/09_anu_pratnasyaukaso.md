@@ -6,30 +6,30 @@ title = "Rig Veda 1.30.9"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *pratnasyaukaso* \< *pratnasya* \< *pratna*
+- *pratnasyaukaso* ← *pratnasya* ← *pratna*
 - \[noun\], genitive, singular, masculine
 - “age-old; pratna \[word\].”
 ------------------------------------------------------------------------
-- *pratnasyaukaso* \< *okasaḥ* \< *oka*
+- *pratnasyaukaso* ← *okasaḥ* ← *oka*
 - \[noun\], genitive, singular, masculine
 - “home; house; oka \[word\].”
 ------------------------------------------------------------------------
-- *huve* \< *hvā*
+- *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *tuvipratiṃ* \< *tuvipratim* \< *tuviprati*
+- *tuvipratiṃ* ← *tuvipratim* ← *tuviprati*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *naram* \< *nṛ*
+- *naram* ← *nṛ*
 - \[noun\], accusative, singular, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -37,12 +37,12 @@ title = "Rig Veda 1.30.9"
 - \[adverb\]
 - “earlier; first; once; previously; ahead.”
 ------------------------------------------------------------------------
-- *pitā* \< *pitṛ*
+- *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *huve* \< *hvā*
+- *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------

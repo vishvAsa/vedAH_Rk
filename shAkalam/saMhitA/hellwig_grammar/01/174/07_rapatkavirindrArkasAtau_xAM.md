@@ -2,41 +2,41 @@
 title = "Rig Veda 1.174.7"
 
 +++
--   *rapat* \< *rap*
+-   *rapat* ← *rap*
 - \[verb\], singular, Present injunctive
 - “whisper.”
 ------------------------------------------------------------------------
-- *kavir* \< *kaviḥ* \< *kavi*
+- *kavir* ← *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *indrārkasātau* \< *indra*
+- *indrārkasātau* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrārkasātau* \< *arka*
+- *indrārkasātau* ← *arka*
 - \[noun\], masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *indrārkasātau* \< *sātau* \< *sāti*
+- *indrārkasātau* ← *sātau* ← *sāti*
 - \[noun\], locative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------
-- *kṣāṃ* \< *kṣām* \< *kṣā*
+- *kṣāṃ* ← *kṣām* ← *kṣā*
 - \[noun\], accusative, singular, feminine
 - “Earth; Earth.”
 ------------------------------------------------------------------------
-- *dāsāyopabarhaṇīṃ* \< *dāsāya* \< *dāsa*
+- *dāsāyopabarhaṇīṃ* ← *dāsāya* ← *dāsa*
 - \[noun\], dative, singular, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
 ------------------------------------------------------------------------
-- *dāsāyopabarhaṇīṃ* \< *upabarhaṇīm* \< *upabarhaṇī*
+- *dāsāyopabarhaṇīṃ* ← *upabarhaṇīm* ← *upabarhaṇī*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *kaḥ* \< *kṛ*
+- *kaḥ* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -47,7 +47,7 @@ title = "Rig Veda 1.174.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *karat* \< *kṛ*
+- *karat* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -58,19 +58,19 @@ title = "Rig Veda 1.174.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *tisro* \< *tisraḥ* \< *tri*
+- *tisro* ← *tisraḥ* ← *tri*
 - \[noun\], accusative, plural, feminine
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *maghavā* \< *maghavan*
+- *maghavā* ← *maghavan*
 - \[noun\], nominative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *dānucitrā* \< *dānu*
+- *dānucitrā* ← *dānu*
 - \[noun\], feminine
 - “Dānu; dew; drop.”
 ------------------------------------------------------------------------
-- *dānucitrā* \< *citrāḥ* \< *citra*
+- *dānucitrā* ← *citrāḥ* ← *citra*
 - \[noun\], accusative, plural, feminine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
@@ -80,17 +80,17 @@ title = "Rig Veda 1.174.7"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *duryoṇe* \< *duryoṇa*
+- *duryoṇe* ← *duryoṇa*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *kuyavācam* \< *kuyavāc*
+- *kuyavācam* ← *kuyavāc*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *mṛdhi* \< *mṛdh*
+- *mṛdhi* ← *mṛdh*
 - \[noun\], locative, singular, feminine
 - “enemy; adversary.”
 ------------------------------------------------------------------------
-- *śret* \< *śri*
+- *śret* ← *śri*
 - \[verb\], singular, Aorist inj. (proh.)
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 ------------------------------------------------------------------------

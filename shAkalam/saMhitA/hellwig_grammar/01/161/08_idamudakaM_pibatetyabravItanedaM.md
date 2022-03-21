@@ -6,25 +6,25 @@ title = "Rig Veda 1.161.8"
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *udakam* \< *udaka*
+- *udakam* ← *udaka*
 - \[noun\], accusative, singular, neuter
 - “water; Udaka; juice; body of water; solution; udaka \[word\];
     decoction; udakaprameha; washing water; kaṣāya; tear; ablution.”
 ------------------------------------------------------------------------
-- *pibatety* \< *pibata* \< *pā*
+- *pibatety* ← *pibata* ← *pā*
 - \[verb\], plural, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *pibatety* \< *iti*
+- *pibatety* ← *iti*
 - \[adverb\]
 - “thus; so; iti \[word\].”
 ------------------------------------------------------------------------
-- *abravītanedaṃ* \< *abravītana* \< *brū*
+- *abravītanedaṃ* ← *abravītana* ← *brū*
 - \[verb\], plural, Imperfect
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
 ------------------------------------------------------------------------
-- *abravītanedaṃ* \< *idam*
+- *abravītanedaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -32,21 +32,21 @@ title = "Rig Veda 1.161.8"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *ghā* \< *gha*
+- *ghā* ← *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *pibatā* \< *pibata* \< *pā*
+- *pibatā* ← *pibata* ← *pā*
 - \[verb\], plural, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *muñjanejanam* \< *muñja*
+- *muñjanejanam* ← *muñja*
 - \[noun\], masculine
 - “munj; Muñja.”
 ------------------------------------------------------------------------
-- *muñjanejanam* \< *nejanam* \< *nejana*
+- *muñjanejanam* ← *nejanam* ← *nejana*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *saudhanvanā* \< *saudhanvanāḥ* \< *saudhanvana*
+- *saudhanvanā* ← *saudhanvanāḥ* ← *saudhanvana*
 - \[noun\], vocative, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
@@ -54,36 +54,36 @@ title = "Rig Veda 1.161.8"
 - \[adverb\]
 - “if; in case.”
 ------------------------------------------------------------------------
-- *tan* \< *tat* \< *tad*
+- *tan* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *neva* \< *nā* \< *na*
+- *neva* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *neva* \< *iva*
+- *neva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *haryatha* \< *hary*
+- *haryatha* ← *hary*
 - \[verb\], plural, Present indikative
 - “delight.”
 ------------------------------------------------------------------------
-- *tṛtīye* \< *tṛtīya*
+- *tṛtīye* ← *tṛtīya*
 - \[noun\], locative, singular, neuter
 - “third; neuter; tṛtīya \[word\]; homosexual.”
 ------------------------------------------------------------------------
-- *ghā* \< *gha*
+- *ghā* ← *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *savane* \< *savana*
+- *savane* ← *savana*
 - \[noun\], locative, singular, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
-- *mādayādhvai* \< *māday* \< *√mad*
+- *mādayādhvai* ← *māday* ← *√mad*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “delight; enjoy; intoxicate.”
 ------------------------------------------------------------------------

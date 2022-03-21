@@ -2,28 +2,28 @@
 title = "Rig Veda 8.97.4"
 
 +++
--   *yacchakrāsi* \< *yat*
+-   *yacchakrāsi* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yacchakrāsi* \< *śakra*
+- *yacchakrāsi* ← *śakra*
 - \[noun\], vocative, singular, masculine
 - “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
 ------------------------------------------------------------------------
-- *yacchakrāsi* \< *asi* \< *as*
+- *yacchakrāsi* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *parāvati* \< *parāvat*
+- *parāvati* ← *parāvat*
 - \[noun\], locative, singular, feminine
 - “distance; distance; distance.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *arvāvati* \< *arvāvat*
+- *arvāvati* ← *arvāvat*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
 - *vṛtrahan*
@@ -35,16 +35,16 @@ title = "Rig Veda 8.97.4"
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *gīrbhir* \< *gīrbhiḥ* \< *gir*
+- *gīrbhir* ← *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *dyugad* \< *dyugat*
+- *dyugad* ← *dyugat*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *indra*
@@ -52,18 +52,18 @@ title = "Rig Veda 8.97.4"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *keśibhiḥ* \< *keśin*
+- *keśibhiḥ* ← *keśin*
 - \[noun\], instrumental, plural, masculine
 - “haired.”
 ------------------------------------------------------------------------
-- *sutāvāṃ* \< *sutāvat*
+- *sutāvāṃ* ← *sutāvat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vivāsati* \< *vivās* \< *√van*
+- *vivāsati* ← *vivās* ← *√van*
 - \[verb\], singular, Present indikative
 - “invite; endeavor; try for.”
 ------------------------------------------------------------------------

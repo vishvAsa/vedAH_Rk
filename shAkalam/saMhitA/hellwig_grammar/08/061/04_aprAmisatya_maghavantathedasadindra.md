@@ -2,10 +2,10 @@
 title = "Rig Veda 8.61.4"
 
 +++
--   *aprāmisatya* \< *aprāmi*
+-   *aprāmisatya* ← *aprāmi*
 - \[noun\]
 ------------------------------------------------------------------------
-- *aprāmisatya* \< *satya*
+- *aprāmisatya* ← *satya*
 - \[noun\], vocative, singular, masculine
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
@@ -13,16 +13,16 @@ title = "Rig Veda 8.61.4"
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *tathed* \< *tathā*
+- *tathed* ← *tathā*
 - \[adverb\]
 - “and; thus; besides; very well; so; then; in that manner; now;
     therefore; however; so.”
 ------------------------------------------------------------------------
-- *tathed* \< *id*
+- *tathed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *asad* \< *asat* \< *as*
+- *asad* ← *asat* ← *as*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -32,7 +32,7 @@ title = "Rig Veda 8.61.4"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *kratvā* \< *kratu*
+- *kratvā* ← *kratu*
 - \[noun\], instrumental, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
@@ -41,26 +41,26 @@ title = "Rig Veda 8.61.4"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *vaśaḥ* \< *vaś*
+- *vaśaḥ* ← *vaś*
 - \[verb\], singular, Present injunctive
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *sanema* \< *san*
+- *sanema* ← *san*
 - \[verb\], plural, Aorist optative
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *vājaṃ* \< *vājam* \< *vāja*
+- *vājaṃ* ← *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śiprinn* \< *śiprin*
+- *śiprinn* ← *śiprin*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *avasā* \< *avas*
+- *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
@@ -68,15 +68,15 @@ title = "Rig Veda 8.61.4"
 - \[adverb\]
 - “promptly; soon; quickly.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *yanto* \< *yantaḥ* \< *i*
+- *yanto* ← *yantaḥ* ← *i*
 - \[verb noun\], nominative, plural
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *adrivaḥ* \< *adrivas* \< *adrivat*
+- *adrivaḥ* ← *adrivas* ← *adrivat*
 - \[noun\], vocative, singular, masculine
 - “rocky; petrous.”
 ------------------------------------------------------------------------

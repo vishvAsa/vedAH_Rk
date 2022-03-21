@@ -2,30 +2,30 @@
 title = "Rig Veda 10.89.1"
 
 +++
--   *indraṃ* \< *indram* \< *indra*
+-   *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *stavā* \< *stu*
+- *stavā* ← *stu*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *nṛtamaṃ* \< *nṛtamam* \< *nṛtama*
+- *nṛtamaṃ* ← *nṛtamam* ← *nṛtama*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *mahnā* \< *mahan*
+- *mahnā* ← *mahan*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
 ------------------------------------------------------------------------
-- *vibabādhe* \< *vibādh* \< *√bādh*
+- *vibabādhe* ← *vibādh* ← *√bādh*
 - \[verb\], singular, Perfect indicative
 ------------------------------------------------------------------------
-- *rocanā* \< *rocana*
+- *rocanā* ← *rocana*
 - \[noun\], accusative, plural, neuter
 - “light; celestial sphere.”
 ------------------------------------------------------------------------
@@ -33,10 +33,10 @@ title = "Rig Veda 10.89.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *jmo* \< *jmaḥ* \< *jm*
+- *jmo* ← *jmaḥ* ← *jm*
 - \[noun\], genitive, singular, feminine
 ------------------------------------------------------------------------
-- *antān* \< *anta*
+- *antān* ← *anta*
 - \[noun\], accusative, plural, masculine
 - “end; last syllable; end; end; boundary; inside; border; death; anta
     \[word\]; edge; end; shore; limit; region; outskirt; destruction;
@@ -47,37 +47,37 @@ title = "Rig Veda 10.89.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *paprau* \< *prā*
+- *paprau* ← *prā*
 - \[verb\], singular, Perfect indicative
 - “fill; satisfy.”
 ------------------------------------------------------------------------
-- *carṣaṇīdhṛd* \< *carṣaṇī*
+- *carṣaṇīdhṛd* ← *carṣaṇī*
 - \[noun\], feminine
 ------------------------------------------------------------------------
-- *carṣaṇīdhṛd* \< *dhṛt*
+- *carṣaṇīdhṛd* ← *dhṛt*
 - \[noun\], nominative, singular, masculine
 - “maintaining.”
 ------------------------------------------------------------------------
-- *varobhiḥ* \< *varas*
+- *varobhiḥ* ← *varas*
 - \[noun\], instrumental, plural, neuter
 ------------------------------------------------------------------------
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *sindhubhyo* \< *sindhubhyaḥ* \< *sindhu*
+- *sindhubhyo* ← *sindhubhyaḥ* ← *sindhu*
 - \[noun\], ablative, plural, feminine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *riricāno* \< *riricānaḥ* \< *ric*
+- *riricāno* ← *riricānaḥ* ← *ric*
 - \[verb noun\], nominative, singular
 - “empty; liberate; concede; surrender; purge.”
 ------------------------------------------------------------------------
-- *mahitvā* \< *mahitva*
+- *mahitvā* ← *mahitva*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
 ------------------------------------------------------------------------

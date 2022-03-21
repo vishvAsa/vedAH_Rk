@@ -2,22 +2,22 @@
 title = "Rig Veda 6.48.7"
 
 +++
--   *bṛhadbhir* \< *bṛhadbhiḥ* \< *bṛhat*
+-   *bṛhadbhir* ← *bṛhadbhiḥ* ← *bṛhat*
 - \[noun\], instrumental, plural, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *arcibhiḥ* \< *arci*
+- *arcibhiḥ* ← *arci*
 - \[noun\], instrumental, plural, masculine
 - “flare.”
 ------------------------------------------------------------------------
-- *śukreṇa* \< *śukra*
+- *śukreṇa* ← *śukra*
 - \[noun\], instrumental, singular, neuter
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
@@ -26,15 +26,15 @@ title = "Rig Veda 6.48.7"
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *śociṣā* \< *śocis*
+- *śociṣā* ← *śocis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------
-- *bharadvāje* \< *bharadvāja*
+- *bharadvāje* ← *bharadvāja*
 - \[noun\], locative, singular, masculine
 - “Bharadvāja; Droṇa; Bharadvāja; skylark.”
 ------------------------------------------------------------------------
-- *samidhāno* \< *samidhānaḥ* \< *samindh* \< *√indh*
+- *samidhāno* ← *samidhānaḥ* ← *samindh* ← *√indh*
 - \[verb noun\], nominative, singular
 - “kindle; blaze.”
 ------------------------------------------------------------------------
@@ -42,11 +42,11 @@ title = "Rig Veda 6.48.7"
 - \[noun\], vocative, singular, masculine
 - “youngest.”
 ------------------------------------------------------------------------
-- *revan* \< *revat*
+- *revan* ← *revat*
 - \[noun\], accusative, singular, neuter
 - “abundant; rich; affluent; brilliant; brilliant.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -54,7 +54,7 @@ title = "Rig Veda 6.48.7"
 - \[noun\], vocative, singular, masculine
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *dīdihi* \< *dīdī*
+- *dīdihi* ← *dīdī*
 - \[verb\], singular, Present imperative
 - “shine; glitter.”
 ------------------------------------------------------------------------
@@ -67,7 +67,7 @@ title = "Rig Veda 6.48.7"
 - “fire; Agni; sacrificial fire; digestion; Plumbago zeylanica;
     vahni.”
 ------------------------------------------------------------------------
-- *dīdihi* \< *dīdī*
+- *dīdihi* ← *dīdī*
 - \[verb\], singular, Present imperative
 - “shine; glitter.”
 ------------------------------------------------------------------------

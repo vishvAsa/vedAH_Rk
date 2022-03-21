@@ -2,11 +2,11 @@
 title = "Rig Veda 6.66.2"
 
 +++
--   *ye* \< *yad*
+-   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *agnayo* \< *agnayaḥ* \< *agni*
+- *agnayo* ← *agnayaḥ* ← *agni*
 - \[noun\], nominative, plural, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -16,15 +16,15 @@ title = "Rig Veda 6.66.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śośucann* \< *śośucan* \< *śośuc* \< *√śuc*
+- *śośucann* ← *śośucan* ← *śośuc* ← *√śuc*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “blaze.”
 ------------------------------------------------------------------------
-- *idhānā* \< *idhānāḥ* \< *indh*
+- *idhānā* ← *idhānāḥ* ← *indh*
 - \[verb noun\], nominative, plural
 - “kindle; ignite; set ablaze.”
 ------------------------------------------------------------------------
-- *dvir* \< *dvis*
+- *dvir* ← *dvis*
 - \[adverb\]
 - “twice; dvis \[word\].”
 ------------------------------------------------------------------------
@@ -32,40 +32,40 @@ title = "Rig Veda 6.66.2"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *trir* \< *tris*
+- *trir* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *vāvṛdhanta* \< *vṛdh*
+- *vāvṛdhanta* ← *vṛdh*
 - \[verb\], plural, Plusquamperfect
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *areṇavo* \< *areṇavaḥ* \< *areṇu*
+- *areṇavo* ← *areṇavaḥ* ← *areṇu*
 - \[noun\], nominative, plural, masculine
 - “clean.”
 ------------------------------------------------------------------------
-- *hiraṇyayāsa* \< *hiraṇyayāsaḥ* \< *hiraṇyaya*
+- *hiraṇyayāsa* ← *hiraṇyayāsaḥ* ← *hiraṇyaya*
 - \[noun\], nominative, plural, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
 ------------------------------------------------------------------------
-- *eṣāṃ* \< *eṣām* \< *idam*
+- *eṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *sākaṃ* \< *sākam*
+- *sākaṃ* ← *sākam*
 - \[adverb\]
 - “together; jointly; simultaneously.”
 ------------------------------------------------------------------------
-- *nṛmṇaiḥ* \< *nṛmṇa*
+- *nṛmṇaiḥ* ← *nṛmṇa*
 - \[noun\], instrumental, plural, neuter
 - “manhood; power.”
 ------------------------------------------------------------------------
-- *pauṃsyebhiś* \< *pauṃsyebhiḥ* \< *pauṃsya*
+- *pauṃsyebhiś* ← *pauṃsyebhiḥ* ← *pauṃsya*
 - \[noun\], instrumental, plural, neuter
 - “manfulness; deed; army; strength.”
 ------------------------------------------------------------------------
@@ -73,7 +73,7 @@ title = "Rig Veda 6.66.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *bhūvan* \< *bhū*
+- *bhūvan* ← *bhū*
 - \[verb\], plural, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;

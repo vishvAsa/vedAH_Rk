@@ -6,68 +6,68 @@ title = "Rig Veda 10.64.4"
 - \[adverb\]
 - “how.”
 ------------------------------------------------------------------------
-- *kavis* \< *kaviḥ* \< *kavi*
+- *kavis* ← *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *tuvīravān* \< *tuvīravat*
+- *tuvīravān* ← *tuvīravat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *kayā* \< *ka*
+- *kayā* ← *ka*
 - \[noun\], instrumental, singular, feminine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *girā* \< *gir*
+- *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *bṛhaspatir* \< *bṛhaspatiḥ* \< *bṛhaspati*
+- *bṛhaspatir* ← *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *vāvṛdhate* \< *vṛdh*
+- *vāvṛdhate* ← *vṛdh*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *suvṛktibhiḥ* \< *suvṛkti*
+- *suvṛktibhiḥ* ← *suvṛkti*
 - \[noun\], instrumental, plural, feminine
 - “praise.”
 ------------------------------------------------------------------------
-- *aja* \< *ajaḥ* \< *aja*
+- *aja* ← *ajaḥ* ← *aja*
 - \[noun\], nominative, singular, masculine
 - “unborn.”
 ------------------------------------------------------------------------
-- *ekapāt* \< *ekapād*
+- *ekapāt* ← *ekapād*
 - \[noun\], nominative, singular, masculine
 - “Shiva.”
 ------------------------------------------------------------------------
-- *suhavebhir* \< *su*
+- *suhavebhir* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suhavebhir* \< *havebhiḥ* \< *hava*
+- *suhavebhir* ← *havebhiḥ* ← *hava*
 - \[noun\], instrumental, plural, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *ṛkvabhir* \< *ṛkvabhiḥ* \< *ṛkvan*
+- *ṛkvabhir* ← *ṛkvabhiḥ* ← *ṛkvan*
 - \[noun\], instrumental, plural, masculine
 - “singing.”
 ------------------------------------------------------------------------
-- *ahiḥ* \< *ahi*
+- *ahiḥ* ← *ahi*
 - \[noun\], nominative, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
 ------------------------------------------------------------------------
-- *śṛṇotu* \< *śru*
+- *śṛṇotu* ← *śru*
 - \[verb\], singular, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *budhnyo* \< *budhnyaḥ* \< *budhnya*
+- *budhnyo* ← *budhnyaḥ* ← *budhnya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *havīmani* \< *havīman*
+- *havīmani* ← *havīman*
 - \[noun\], locative, singular, neuter
 - “call; invocation.”
 ------------------------------------------------------------------------

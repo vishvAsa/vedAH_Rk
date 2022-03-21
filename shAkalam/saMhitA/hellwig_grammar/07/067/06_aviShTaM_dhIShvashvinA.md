@@ -2,43 +2,43 @@
 title = "Rig Veda 7.67.6"
 
 +++
--   *aviṣṭaṃ* \< *aviṣṭam* \< *av*
+-   *aviṣṭaṃ* ← *aviṣṭam* ← *av*
 - \[verb\], dual, Aorist imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *dhīṣv* \< *dhīṣu* \< *dhī*
+- *dhīṣv* ← *dhīṣu* ← *dhī*
 - \[noun\], locative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *āsu* \< *idam*
+- *āsu* ← *idam*
 - \[noun\], locative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *prajāvad* \< *prajāvat*
+- *prajāvad* ← *prajāvat*
 - \[noun\], nominative, singular, neuter
 - “prolific.”
 ------------------------------------------------------------------------
-- *reto* \< *retaḥ* \< *retas*
+- *reto* ← *retaḥ* ← *retas*
 - \[noun\], nominative, singular, neuter
 - “semen; sperm.”
 ------------------------------------------------------------------------
-- *ahrayaṃ* \< *ahrayam* \< *ahraya*
+- *ahrayaṃ* ← *ahrayam* ← *ahraya*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -47,40 +47,40 @@ title = "Rig Veda 7.67.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *toke* \< *toka*
+- *toke* ← *toka*
 - \[noun\], locative, singular, neuter
 - “offspring.”
 ------------------------------------------------------------------------
-- *tanaye* \< *tanaya*
+- *tanaye* ← *tanaya*
 - \[noun\], locative, singular, neuter
 - “biological.”
 ------------------------------------------------------------------------
-- *tūtujānāḥ* \< *tuj*
+- *tūtujānāḥ* ← *tuj*
 - \[verb noun\], nominative, plural
 - “draw.”
 ------------------------------------------------------------------------
-- *suratnāso* \< *su*
+- *suratnāso* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suratnāso* \< *ratnāsaḥ* \< *ratna*
+- *suratnāso* ← *ratnāsaḥ* ← *ratna*
 - \[noun\], nominative, plural, masculine
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
 ------------------------------------------------------------------------
-- *devavītiṃ* \< *deva*
+- *devavītiṃ* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devavītiṃ* \< *vītim* \< *vīti*
+- *devavītiṃ* ← *vītim* ← *vīti*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *gamema* \< *gam*
+- *gamema* ← *gam*
 - \[verb\], plural, Aorist optative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

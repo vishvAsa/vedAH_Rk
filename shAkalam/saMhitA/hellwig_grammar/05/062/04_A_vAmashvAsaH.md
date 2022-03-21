@@ -6,32 +6,32 @@ title = "Rig Veda 5.62.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *aśvāsaḥ* \< *aśva*
+- *aśvāsaḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *suyujo* \< *su*
+- *suyujo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suyujo* \< *yujaḥ* \< *yuj*
+- *suyujo* ← *yujaḥ* ← *yuj*
 - \[noun\], nominative, plural, masculine
 - “amalgamated; harnessed.”
 ------------------------------------------------------------------------
-- *vahantu* \< *vah*
+- *vahantu* ← *vah*
 - \[verb\], plural, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *yataraśmaya* \< *yata* \< *yam*
+- *yataraśmaya* ← *yata* ← *yam*
 - \[verb noun\]
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *yataraśmaya* \< *raśmayaḥ* \< *raśmi*
+- *yataraśmaya* ← *raśmayaḥ* ← *raśmi*
 - \[noun\], nominative, plural, masculine
 - “beam; rein; sunbeam; shininess; cord.”
 ------------------------------------------------------------------------
@@ -39,7 +39,7 @@ title = "Rig Veda 5.62.4"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *yantv* \< *yantu* \< *i*
+- *yantv* ← *yantu* ← *i*
 - \[verb\], plural, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
@@ -47,11 +47,11 @@ title = "Rig Veda 5.62.4"
 - \[adverb\]
 - “here.”
 ------------------------------------------------------------------------
-- *ghṛtasya* \< *ghṛta*
+- *ghṛtasya* ← *ghṛta*
 - \[noun\], genitive, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *nirṇig* \< *nirṇij*
+- *nirṇig* ← *nirṇij*
 - \[noun\], nominative, singular, feminine
 - “attire; garment.”
 ------------------------------------------------------------------------
@@ -59,13 +59,13 @@ title = "Rig Veda 5.62.4"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *vartate* \< *vṛt*
+- *vartate* ← *vṛt*
 - \[verb\], singular, Present indikative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -73,15 +73,15 @@ title = "Rig Veda 5.62.4"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *sindhavaḥ* \< *sindhu*
+- *sindhavaḥ* ← *sindhu*
 - \[noun\], nominative, plural, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *pradivi* \< *pradiv*
+- *pradivi* ← *pradiv*
 - \[noun\], locative, singular, masculine
 - “age-old; long.”
 ------------------------------------------------------------------------
-- *kṣaranti* \< *kṣar*
+- *kṣaranti* ← *kṣar*
 - \[verb\], plural, Present indikative
 - “run; melt.”
 ------------------------------------------------------------------------

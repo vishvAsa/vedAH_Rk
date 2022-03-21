@@ -2,29 +2,29 @@
 title = "Rig Veda 10.26.7"
 
 +++
--   *ino* \< *inaḥ* \< *ina*
+-   *ino* ← *inaḥ* ← *ina*
 - \[noun\], nominative, singular, masculine
 - “mighty; powerful.”
 ------------------------------------------------------------------------
-- *vājānām* \< *vāja*
+- *vājānām* ← *vāja*
 - \[noun\], genitive, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *patir* \< *patiḥ* \< *pati*
+- *patir* ← *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *inaḥ* \< *ina*
+- *inaḥ* ← *ina*
 - \[noun\], nominative, singular, masculine
 - “mighty; powerful.”
 ------------------------------------------------------------------------
-- *puṣṭīnāṃ* \< *puṣṭīnām* \< *puṣṭi*
+- *puṣṭīnāṃ* ← *puṣṭīnām* ← *puṣṭi*
 - \[noun\], genitive, plural, feminine
 - “prosperity; growth; increase; puṣṭi; luxury; wealth; comfort;
     increase; corpulence.”
 ------------------------------------------------------------------------
-- *sakhā* \< *sakhi*
+- *sakhā* ← *sakhi*
 - \[noun\], nominative, singular
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
@@ -36,11 +36,11 @@ title = "Rig Veda 10.26.7"
 - \[noun\], accusative, singular, neuter
 - “beard.”
 ------------------------------------------------------------------------
-- *haryato* \< *haryataḥ* \< *haryata*
+- *haryato* ← *haryataḥ* ← *haryata*
 - \[noun\], nominative, singular, masculine
 - “desirable; delightful.”
 ------------------------------------------------------------------------
-- *dūdhod* \< *dūdhot* \< *dhū*
+- *dūdhod* ← *dūdhot* ← *dhū*
 - \[verb\], singular, Plusquamperfect
 - “shake; remove; chase away.”
 ------------------------------------------------------------------------
@@ -52,11 +52,11 @@ title = "Rig Veda 10.26.7"
 - \[adverb\]
 - “vainly; incorrectly; unnecessarily; at will.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *adābhyaḥ* \< *adābhya*
+- *adābhyaḥ* ← *adābhya*
 - \[noun\], nominative, singular, masculine
 - “trustworthy; disabused(p).”
 ------------------------------------------------------------------------

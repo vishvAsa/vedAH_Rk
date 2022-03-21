@@ -2,20 +2,20 @@
 title = "Rig Veda 8.64.9"
 
 +++
--   *kaṃ* \< *kam* \< *ka*
+-   *kaṃ* ← *kam* ← *ka*
 - \[noun\], accusative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dānā* \< *dāna*
+- *dānā* ← *dāna*
 - \[noun\], nominative, plural, neuter
 - “giving; gift; bribery; performance; addition; yajña; fueling;
     teaching.”
 ------------------------------------------------------------------------
-- *asakṣata* \< *sañj*
+- *asakṣata* ← *sañj*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “adhere; cling; cling; break.”
 ------------------------------------------------------------------------
@@ -23,25 +23,25 @@ title = "Rig Veda 8.64.9"
 - \[noun\], vocative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *kaṃ* \< *kam* \< *ka*
+- *kaṃ* ← *kam* ← *ka*
 - \[noun\], accusative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *suvīryā* \< *su*
+- *suvīryā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvīryā* \< *vīryā* \< *vīrya*
+- *suvīryā* ← *vīryā* ← *vīrya*
 - \[noun\], nominative, plural, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
 ------------------------------------------------------------------------
-- *ukthe* \< *uktha*
+- *ukthe* ← *uktha*
 - \[noun\], locative, singular, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *ka* \< *kaḥ* \< *ka*
+- *ka* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -53,7 +53,7 @@ title = "Rig Veda 8.64.9"
 - \[adverb\]
 - “svid \[word\].”
 ------------------------------------------------------------------------
-- *antamaḥ* \< *antama*
+- *antamaḥ* ← *antama*
 - \[noun\], nominative, singular, masculine
 - “intimate; bosom(a).”
 ------------------------------------------------------------------------

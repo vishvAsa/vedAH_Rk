@@ -2,58 +2,58 @@
 title = "Rig Veda 9.98.6"
 
 +++
--   *dvir* \< *dvis*
+-   *dvir* ← *dvis*
 - \[adverb\]
 - “twice; dvis \[word\].”
 ------------------------------------------------------------------------
-- *yam* \< *yad*
+- *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *pañca* \< *pañcan*
+- *pañca* ← *pañcan*
 - \[noun\], nominative, plural, feminine
 - “five; fifth; pañcan \[word\].”
 ------------------------------------------------------------------------
-- *svayaśasaṃ* \< *sva*
+- *svayaśasaṃ* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svayaśasaṃ* \< *yaśasam* \< *yaśas*
+- *svayaśasaṃ* ← *yaśasam* ← *yaśas*
 - \[noun\], accusative, singular, masculine
 - “fame; Yaśas.”
 ------------------------------------------------------------------------
-- *svasāro* \< *svasāraḥ* \< *svasṛ*
+- *svasāro* ← *svasāraḥ* ← *svasṛ*
 - \[noun\], nominative, plural, feminine
 - “sister; svasṛ \[word\].”
 ------------------------------------------------------------------------
-- *adrisaṃhatam* \< *adri*
+- *adrisaṃhatam* ← *adri*
 - \[noun\], masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *adrisaṃhatam* \< *saṃhatam* \< *saṃhan* \< *√han*
+- *adrisaṃhatam* ← *saṃhatam* ← *saṃhan* ← *√han*
 - \[verb noun\], accusative, singular
 - “compress; consolidate; join; compose; kill.”
 ------------------------------------------------------------------------
-- *priyam* \< *priya*
+- *priyam* ← *priya*
 - \[noun\], accusative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *kāmyam* \< *kāmya*
+- *kāmyam* ← *kāmya*
 - \[noun\], accusative, singular, masculine
 - “desirable; optional; beautiful.”
 ------------------------------------------------------------------------
-- *prasnāpayanty* \< *prasnāpayanti* \< *prasnāpay* \< *√snā*
+- *prasnāpayanty* ← *prasnāpayanti* ← *prasnāpay* ← *√snā*
 - \[verb\], plural, Present indikative
 - “bathe.”
 ------------------------------------------------------------------------
-- *ūrmiṇam* \< *ūrmin*
+- *ūrmiṇam* ← *ūrmin*
 - \[noun\], accusative, singular, masculine
 - “wavy.”
 ------------------------------------------------------------------------

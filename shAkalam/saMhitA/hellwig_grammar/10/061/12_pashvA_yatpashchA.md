@@ -2,7 +2,7 @@
 title = "Rig Veda 10.61.12"
 
 +++
--   *paśvā* \< *paśu*
+-   *paśvā* ← *paśu*
 - \[noun\], instrumental, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
@@ -15,61 +15,61 @@ title = "Rig Veda 10.61.12"
 - \[adverb\]
 - “west; behind; paścā \[word\]; on all fours; subsequently.”
 ------------------------------------------------------------------------
-- *viyutā* \< *viyuti*
+- *viyutā* ← *viyuti*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
-- *budhanteti* \< *budhanta* \< *budh*
+- *budhanteti* ← *budhanta* ← *budh*
 - \[verb\], plural, Aorist inj. (proh.)
 - “understand; notice; wake up; observe; detect; attend to; awaken;
     attend.”
 ------------------------------------------------------------------------
-- *budhanteti* \< *iti*
+- *budhanteti* ← *iti*
 - \[adverb\]
 - “thus; so; iti \[word\].”
 ------------------------------------------------------------------------
-- *bravīti* \< *brū*
+- *bravīti* ← *brū*
 - \[verb\], singular, Present indikative
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
 ------------------------------------------------------------------------
-- *vaktarī* \< *vaktari* \< *vaktṛ*
+- *vaktarī* ← *vaktari* ← *vaktṛ*
 - \[noun\], locative, singular, masculine
 - “speaker.”
 ------------------------------------------------------------------------
-- *rarāṇaḥ* \< *rā*
+- *rarāṇaḥ* ← *rā*
 - \[verb noun\], nominative, singular
 - “give; impart.”
 ------------------------------------------------------------------------
-- *vasor* \< *vasoḥ* \< *vasu*
+- *vasor* ← *vasoḥ* ← *vasu*
 - \[noun\], genitive, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *vasutvā* \< *vasu*
+- *vasutvā* ← *vasu*
 - \[noun\]
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *vasutvā* \< *tvā* \< *tva*
+- *vasutvā* ← *tvā* ← *tva*
 - \[noun\], instrumental, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *kāravo* \< *kāravaḥ* \< *kāru*
+- *kāravo* ← *kāravaḥ* ← *kāru*
 - \[noun\], nominative, plural, masculine
 - “poet; singer.”
 ------------------------------------------------------------------------
-- *'nehā* \< *anehāḥ* \< *anehas*
+- *'nehā* ← *anehāḥ* ← *anehas*
 - \[noun\], nominative, plural, masculine
 - “faultless; anehas \[word\]; incomparable.”
 ------------------------------------------------------------------------
-- *viśvaṃ* \< *viśvam* \< *viśva*
+- *viśvaṃ* ← *viśvam* ← *viśva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viveṣṭi* \< *viṣ*
+- *viveṣṭi* ← *viṣ*
 - \[verb\], singular, Present indikative
 - “labor; act; perform.”
 ------------------------------------------------------------------------
-- *draviṇam* \< *draviṇa*
+- *draviṇam* ← *draviṇa*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; money; jewel.”
 ------------------------------------------------------------------------

@@ -6,20 +6,20 @@ title = "Rig Veda 6.67.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yātam* \< *yā*
+- *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇā* \< *mitrāvaruṇa*
+- *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *suśasty* \< *su*
+- *suśasty* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśasty* \< *śastī* \< *śasti*
+- *suśasty* ← *śastī* ← *śasti*
 - \[noun\], vocative, dual, masculine
 - “hymn; praise.”
 ------------------------------------------------------------------------
@@ -27,55 +27,55 @@ title = "Rig Veda 6.67.3"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *priyā* \< *priya*
+- *priyā* ← *priya*
 - \[noun\], nominative, dual, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *namasā* \< *namas*
+- *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *hūyamānā* \< *hu*
+- *hūyamānā* ← *hu*
 - \[verb noun\], nominative, dual
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *yāv* \< *yau* \< *yad*
+- *yāv* ← *yau* ← *yad*
 - \[noun\], nominative, dual, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *apnaḥstho* \< *apnaḥsthaḥ* \< *apnaḥstha*
+- *apnaḥstho* ← *apnaḥsthaḥ* ← *apnaḥstha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *apaseva* \< *apasā* \< *apas*
+- *apaseva* ← *apasā* ← *apas*
 - \[noun\], nominative, dual, masculine
 - “busy; effective; hardworking.”
 ------------------------------------------------------------------------
-- *apaseva* \< *iva*
+- *apaseva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *janāñ* \< *janān* \< *jana*
+- *janāñ* ← *janān* ← *jana*
 - \[noun\], accusative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *chrudhīyataś* \< *śrudhīyataḥ* \< *śrudhīyat*
+- *chrudhīyataś* ← *śrudhīyataḥ* ← *śrudhīyat*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *yatatho* \< *yatathaḥ* \< *yat*
+- *yatatho* ← *yatathaḥ* ← *yat*
 - \[verb\], dual, Present indikative
 - “strive; endeavor; join; equal; rival.”
 ------------------------------------------------------------------------
-- *mahitvā* \< *mahitva*
+- *mahitvā* ← *mahitva*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
 ------------------------------------------------------------------------

@@ -6,83 +6,83 @@ title = "Rig Veda 5.41.14"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *daivyāni* \< *daivya*
+- *daivyāni* ← *daivya*
 - \[noun\], accusative, plural, neuter
 - “divine; divine; celestial.”
 ------------------------------------------------------------------------
-- *pārthivāni* \< *pārthiva*
+- *pārthivāni* ← *pārthiva*
 - \[noun\], accusative, plural, neuter
 - “earthly; earthen; mundane; royal; tellurian; sublunar.”
 ------------------------------------------------------------------------
-- *janmāpaś* \< *janmā* \< *janman*
+- *janmāpaś* ← *janmā* ← *janman*
 - \[noun\], accusative, plural, neuter
 - “birth; reincarnation; lineage; origin; race; metempsychosis;
     parentage; descent; appearance; age; birthplace; beginning; being.”
 ------------------------------------------------------------------------
-- *janmāpaś* \< *apaḥ* \< *ap*
+- *janmāpaś* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *cācchā* \< *ca*
+- *cācchā* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cācchā* \< *acchā*
+- *cācchā* ← *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *sumakhāya* \< *su*
+- *sumakhāya* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sumakhāya* \< *makhāya* \< *makha*
+- *sumakhāya* ← *makhāya* ← *makha*
 - \[noun\], dative, singular, masculine
 - “yajña; Makha; festival.”
 ------------------------------------------------------------------------
-- *vocam* \< *vac*
+- *vocam* ← *vac*
 - \[verb\], singular, Aorist inj. (proh.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
 ------------------------------------------------------------------------
-- *vardhantāṃ* \< *vardhantām* \< *vṛdh*
+- *vardhantāṃ* ← *vardhantām* ← *vṛdh*
 - \[verb\], plural, Present imperative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *dyāvo* \< *dyāvaḥ* \< *div*
+- *dyāvo* ← *dyāvaḥ* ← *div*
 - \[noun\], nominative, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *giraś* \< *giraḥ* \< *gir*
+- *giraś* ← *giraḥ* ← *gir*
 - \[noun\], nominative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *candrāgrā* \< *candra*
+- *candrāgrā* ← *candra*
 - \[noun\]
 - “aglitter(p); shining.”
 ------------------------------------------------------------------------
-- *candrāgrā* \< *agrāḥ* \< *agra*
+- *candrāgrā* ← *agrāḥ* ← *agra*
 - \[noun\], nominative, plural, feminine
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
 ------------------------------------------------------------------------
-- *udā* \< *udan*
+- *udā* ← *udan*
 - \[noun\], accusative, plural, neuter
 - “water; body of water.”
 ------------------------------------------------------------------------
-- *vardhantām* \< *vṛdh*
+- *vardhantām* ← *vṛdh*
 - \[verb\], plural, Present imperative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *abhiṣātā* \< *abhiṣātāḥ* \< *abhiṣan* \< *√san*
+- *abhiṣātā* ← *abhiṣātāḥ* ← *abhiṣan* ← *√san*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *arṇāḥ* \< *arṇa*
+- *arṇāḥ* ← *arṇa*
 - \[noun\], nominative, plural, masculine
 - “wave; flood.”
 ------------------------------------------------------------------------

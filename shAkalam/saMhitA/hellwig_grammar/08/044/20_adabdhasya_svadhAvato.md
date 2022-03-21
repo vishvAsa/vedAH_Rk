@@ -2,19 +2,19 @@
 title = "Rig Veda 8.44.20"
 
 +++
--   *adabdhasya* \< *adabdha*
+-   *adabdhasya* ← *adabdha*
 - \[noun\], genitive, singular, masculine
 - “unfailing; unimpaired.”
 ------------------------------------------------------------------------
-- *svadhāvato* \< *svadhāvataḥ* \< *svadhāvat*
+- *svadhāvato* ← *svadhāvataḥ* ← *svadhāvat*
 - \[noun\], genitive, singular, masculine
 - “autonomous; independent.”
 ------------------------------------------------------------------------
-- *dūtasya* \< *dūta*
+- *dūtasya* ← *dūta*
 - \[noun\], genitive, singular, masculine
 - “messenger; emissary; dūta \[word\].”
 ------------------------------------------------------------------------
-- *rebhataḥ* \< *ribh*
+- *rebhataḥ* ← *ribh*
 - \[verb noun\], genitive, singular
 - “moo; murmur; praise.”
 ------------------------------------------------------------------------
@@ -22,17 +22,17 @@ title = "Rig Veda 8.44.20"
 - \[adverb\]
 - “always; continually; always; perpetually.”
 ------------------------------------------------------------------------
-- *agneḥ* \< *agni*
+- *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *sakhyaṃ* \< *sakhyam* \< *sakhya*
+- *sakhyaṃ* ← *sakhyam* ← *sakhya*
 - \[noun\], accusative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *vṛṇīmahe* \< *vṛ*
+- *vṛṇīmahe* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “choose; ask.”
 ------------------------------------------------------------------------

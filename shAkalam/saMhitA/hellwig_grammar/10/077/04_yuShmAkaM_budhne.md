@@ -2,15 +2,15 @@
 title = "Rig Veda 10.77.4"
 
 +++
--   *yuṣmākam* \< *tvad*
+-   *yuṣmākam* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *budhne* \< *budhna*
+- *budhne* ← *budhna*
 - \[noun\], locative, singular, masculine
 - “bottom; bottom; base.”
 ------------------------------------------------------------------------
-- *apāṃ* \< *apām* \< *ap*
+- *apāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -18,11 +18,11 @@ title = "Rig Veda 10.77.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yāmani* \< *yāman*
+- *yāmani* ← *yāman*
 - \[noun\], locative, singular, neuter
 - “expedition; path; expedition; arrival.”
 ------------------------------------------------------------------------
-- *vithuryati* \< *vithury*
+- *vithuryati* ← *vithury*
 - \[verb\], singular, Present indikative
 - “tremor.”
 ------------------------------------------------------------------------
@@ -35,21 +35,21 @@ title = "Rig Veda 10.77.4"
 - “Earth; floor; Earth; land; real property; heaven and earth; space;
     Mahī; soil; earth; estate; area.”
 ------------------------------------------------------------------------
-- *śratharyati* \< *śrathary*
+- *śratharyati* ← *śrathary*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *viśvapsur* \< *viśvapsuḥ* \< *viśvapsu*
+- *viśvapsur* ← *viśvapsuḥ* ← *viśvapsu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *yajño* \< *yajñaḥ* \< *yajña*
+- *yajño* ← *yajñaḥ* ← *yajña*
 - \[noun\], nominative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *arvāg* \< *arvāk*
+- *arvāg* ← *arvāk*
 - \[adverb\]
 - “here.”
 ------------------------------------------------------------------------
-- *ayaṃ* \< *ayam* \< *idam*
+- *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -57,11 +57,11 @@ title = "Rig Veda 10.77.4"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *prayasvanto* \< *prayasvantaḥ* \< *prayasvat*
+- *prayasvanto* ← *prayasvantaḥ* ← *prayasvat*
 - \[noun\], nominative, plural, masculine
 - “offering.”
 ------------------------------------------------------------------------
@@ -69,7 +69,7 @@ title = "Rig Veda 10.77.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *satrāca* \< *satrācaḥ* \< *satrāc*
+- *satrāca* ← *satrācaḥ* ← *satrāc*
 - \[noun\], nominative, plural, masculine
 - “focused; attentive.”
 ------------------------------------------------------------------------
@@ -77,7 +77,7 @@ title = "Rig Veda 10.77.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gata* \< *gam*
+- *gata* ← *gam*
 - \[verb\], plural, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

@@ -2,59 +2,59 @@
 title = "Rig Veda 1.92.7"
 
 +++
--   *bhāsvatī* \< *bhāsvat*
+-   *bhāsvatī* ← *bhāsvat*
 - \[noun\], nominative, singular, feminine
 - “shining; glorious; glistening; aglow(p); beautiful.”
 ------------------------------------------------------------------------
-- *netrī* \< *netṛ*
+- *netrī* ← *netṛ*
 - \[noun\], nominative, singular, feminine
 - “leader.”
 ------------------------------------------------------------------------
-- *sūnṛtānāṃ* \< *sūnṛtānām* \< *sūnṛtā*
+- *sūnṛtānāṃ* ← *sūnṛtānām* ← *sūnṛtā*
 - \[noun\], genitive, plural, feminine
 - “liberality.”
 ------------------------------------------------------------------------
-- *diva* \< *div*
+- *diva* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *stave* \< *stu*
+- *stave* ← *stu*
 - \[verb\], singular, Present indikative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *duhitā* \< *duhitṛ*
+- *duhitā* ← *duhitṛ*
 - \[noun\], nominative, singular, feminine
 - “daughter; duhitṛ \[word\].”
 ------------------------------------------------------------------------
-- *gotamebhiḥ* \< *gotama*
+- *gotamebhiḥ* ← *gotama*
 - \[noun\], instrumental, plural, masculine
 - “Gotama; gotama \[word\].”
 ------------------------------------------------------------------------
-- *prajāvato* \< *prajāvataḥ* \< *prajāvat*
+- *prajāvato* ← *prajāvataḥ* ← *prajāvat*
 - \[noun\], accusative, plural, masculine
 - “prolific.”
 ------------------------------------------------------------------------
-- *nṛvato* \< *nṛvataḥ* \< *nṛvat*
+- *nṛvato* ← *nṛvataḥ* ← *nṛvat*
 - \[noun\], accusative, plural, masculine
 - “rich in men.”
 ------------------------------------------------------------------------
-- *aśvabudhyān* \< *aśva*
+- *aśvabudhyān* ← *aśva*
 - \[noun\], masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *aśvabudhyān* \< *budhyān* \< *budhya*
+- *aśvabudhyān* ← *budhyān* ← *budhya*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *uṣo* \< *uṣaḥ* \< *uṣas*
+- *uṣo* ← *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *goagrāṃ* \< *go*
+- *goagrāṃ* ← *go*
 - \[noun\], masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *goagrāṃ* \< *agrāṃ* \< *agra*
+- *goagrāṃ* ← *agrāṃ* ← *agra*
 - \[noun\], accusative, plural, masculine
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
@@ -64,11 +64,11 @@ title = "Rig Veda 1.92.7"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *māsi* \< *mā*
+- *māsi* ← *mā*
 - \[verb\], singular, Present indikative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
 ------------------------------------------------------------------------
-- *vājān* \< *vāja*
+- *vājān* ← *vāja*
 - \[noun\], accusative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------

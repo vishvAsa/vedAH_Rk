@@ -6,17 +6,17 @@ title = "Rig Veda 2.11.8"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *parvataḥ* \< *parvata*
+- *parvataḥ* ← *parvata*
 - \[noun\], nominative, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
 ------------------------------------------------------------------------
-- *sādy* \< *sādi* \< *sad*
+- *sādy* ← *sādi* ← *sad*
 - \[verb\], singular, Aorist passive
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *aprayucchan* \< *aprayucchat*
+- *aprayucchan* ← *aprayucchat*
 - \[noun\], nominative, singular, masculine
 - “ceaseless; attentive.”
 ------------------------------------------------------------------------
@@ -24,48 +24,48 @@ title = "Rig Veda 2.11.8"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *mātṛbhir* \< *mātṛbhiḥ* \< *mātṛ*
+- *mātṛbhir* ← *mātṛbhiḥ* ← *mātṛ*
 - \[noun\], instrumental, plural, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *vāvaśāno* \< *vāvaśānaḥ* \< *vaś*
+- *vāvaśāno* ← *vāvaśānaḥ* ← *vaś*
 - \[verb noun\], nominative, singular
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *akrān* \< *krand*
+- *akrān* ← *krand*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “roar; neigh; cry; howl; shout.”
 ------------------------------------------------------------------------
-- *dūre* \< *dūra*
+- *dūre* ← *dūra*
 - \[noun\], locative, singular, masculine
 - “distant; long; dūra \[word\]; deep; far.”
 ------------------------------------------------------------------------
-- *pāre* \< *pāra*
+- *pāre* ← *pāra*
 - \[noun\], locative, singular, masculine
 - “shore; pāra \[word\]; end; excellence.”
 ------------------------------------------------------------------------
-- *vāṇīṃ* \< *vāṇīm* \< *vāṇī*
+- *vāṇīṃ* ← *vāṇīm* ← *vāṇī*
 - \[noun\], accusative, singular, feminine
 - “voice; Sarasvati; words; language.”
 ------------------------------------------------------------------------
-- *vardhayanta* \< *vardhayantaḥ* \< *vardhay* \< *√vṛdh*
+- *vardhayanta* ← *vardhayantaḥ* ← *vardhay* ← *√vṛdh*
 - \[verb noun\], nominative, plural
 - “increase; strengthen; promote; rear; add; greet; laud.”
 ------------------------------------------------------------------------
-- *indreṣitāṃ* \< *indra*
+- *indreṣitāṃ* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indreṣitāṃ* \< *iṣitām* \< *iṣay* \< *√iṣ*
+- *indreṣitāṃ* ← *iṣitām* ← *iṣay* ← *√iṣ*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *dhamanim* \< *dhamani*
+- *dhamanim* ← *dhamani*
 - \[noun\], accusative, singular, feminine
 - “dhamanī; vessel; tube; tube.”
 ------------------------------------------------------------------------
-- *paprathan* \< *paprathat* \< *prath*
+- *paprathan* ← *paprathat* ← *prath*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “be known; expand; expand; boom.”
 ------------------------------------------------------------------------

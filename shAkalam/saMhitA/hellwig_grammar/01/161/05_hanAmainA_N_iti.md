@@ -2,13 +2,13 @@
 title = "Rig Veda 1.161.5"
 
 +++
--   *hanāmaināṃ* \< *hanāma* \< *han*
+-   *hanāmaināṃ* ← *hanāma* ← *han*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *hanāmaināṃ* \< *enām* \< *enad*
+- *hanāmaināṃ* ← *enām* ← *enad*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
@@ -16,52 +16,52 @@ title = "Rig Veda 1.161.5"
 - \[adverb\]
 - “thus; so; iti \[word\].”
 ------------------------------------------------------------------------
-- *tvaṣṭā* \< *tvaṣṭṛ*
+- *tvaṣṭā* ← *tvaṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “Tvaṣṭṛ; Viśvakarman; sun.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *abravīc* \< *abravīt* \< *brū*
+- *abravīc* ← *abravīt* ← *brū*
 - \[verb\], singular, Imperfect
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
 ------------------------------------------------------------------------
-- *camasaṃ* \< *camasam* \< *camasa*
+- *camasaṃ* ← *camasam* ← *camasa*
 - \[noun\], accusative, singular, masculine
 - “camasa; beaker; cake.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *devapānam* \< *deva*
+- *devapānam* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devapānam* \< *pānam* \< *pāna*
+- *devapānam* ← *pānam* ← *pāna*
 - \[noun\], accusative, singular, neuter
 - “beverage; drinking; alcohol; drink; draft; drinking vessel; pāna
     \[word\]; vagina; well; cup; inhalation.”
 ------------------------------------------------------------------------
-- *anindiṣuḥ* \< *nind*
+- *anindiṣuḥ* ← *nind*
 - \[verb\], plural, Athematic is aor. (Ind.)
 - “blame; disapprove; condemn; reprehend; reprimand.”
 ------------------------------------------------------------------------
-- *anyā* \< *anya*
+- *anyā* ← *anya*
 - \[noun\], accusative, plural, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *nāmāni* \< *nāman*
+- *nāmāni* ← *nāman*
 - \[noun\], accusative, plural, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
 ------------------------------------------------------------------------
-- *kṛṇvate* \< *kṛ*
+- *kṛṇvate* ← *kṛ*
 - \[verb\], plural, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -72,19 +72,19 @@ title = "Rig Veda 1.161.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *sute* \< *suta*
+- *sute* ← *suta*
 - \[noun\], locative, singular, masculine
 - “Soma.”
 ------------------------------------------------------------------------
-- *sacāṃ* \< *saca*
+- *sacāṃ* ← *saca*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *anyair* \< *anyaiḥ* \< *anya*
+- *anyair* ← *anyaiḥ* ← *anya*
 - \[noun\], instrumental, plural, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *enān* \< *enad*
+- *enān* ← *enad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
@@ -93,11 +93,11 @@ title = "Rig Veda 1.161.5"
 - “girl; daughter; kanyā; virgin; Aloe perfoliata; Aloe Indica; female
     child; kanyā \[word\]; burn plant.”
 ------------------------------------------------------------------------
-- *nāmabhi* \< *nāmabhiḥ* \< *nāman*
+- *nāmabhi* ← *nāmabhiḥ* ← *nāman*
 - \[noun\], instrumental, plural, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
 ------------------------------------------------------------------------
-- *sparat* \< *spṛ*
+- *sparat* ← *spṛ*
 - \[verb\], singular, Aorist conj./subj.
 ------------------------------------------------------------------------

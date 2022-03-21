@@ -2,39 +2,39 @@
 title = "Rig Veda 1.42.6"
 
 +++
--   *adhā* \< *adha*
+-   *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *viśvasaubhaga* \< *viśva*
+- *viśvasaubhaga* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvasaubhaga* \< *saubhaga*
+- *viśvasaubhaga* ← *saubhaga*
 - \[noun\], vocative, singular, masculine
 - “well-being.”
 ------------------------------------------------------------------------
-- *hiraṇyavāśīmattama* \< *hiraṇya*
+- *hiraṇyavāśīmattama* ← *hiraṇya*
 - \[noun\], neuter
 - “gold; jewelry; hiraṇya \[word\]; gold.”
 ------------------------------------------------------------------------
-- *hiraṇyavāśīmattama* \< *vāśīmattama*
+- *hiraṇyavāśīmattama* ← *vāśīmattama*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *dhanāni* \< *dhana*
+- *dhanāni* ← *dhana*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
 ------------------------------------------------------------------------
-- *suṣaṇā* \< *suṣaṇa*
+- *suṣaṇā* ← *suṣaṇa*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *kṛdhi* \< *kṛ*
+- *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

@@ -6,26 +6,26 @@ title = "Rig Veda 9.96.8"
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *matsaraḥ* \< *matsara*
+- *matsaraḥ* ← *matsara*
 - \[noun\], nominative, singular, masculine
 - “intoxicant; invigorating; hostile.”
 ------------------------------------------------------------------------
-- *pṛtsu* \< *pṛt*
+- *pṛtsu* ← *pṛt*
 - \[noun\], locative, plural, feminine
 - “battle.”
 ------------------------------------------------------------------------
-- *vanvann* \< *vanvan* \< *van*
+- *vanvann* ← *vanvan* ← *van*
 - \[verb noun\], nominative, singular
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *avātaḥ* \< *avāta*
+- *avātaḥ* ← *avāta*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *sahasraretā* \< *sahasra*
+- *sahasraretā* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasraretā* \< *retāḥ* \< *retas*
+- *sahasraretā* ← *retāḥ* ← *retas*
 - \[noun\], nominative, singular, masculine
 - “semen; sperm.”
 ------------------------------------------------------------------------
@@ -33,50 +33,50 @@ title = "Rig Veda 9.96.8"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *vājam* \< *vāja*
+- *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *arṣa* \< *ṛṣ*
+- *arṣa* ← *ṛṣ*
 - \[verb\], singular, Present imperative
 - “run.”
 ------------------------------------------------------------------------
-- *indrāyendo* \< *indrāya* \< *indra*
+- *indrāyendo* ← *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrāyendo* \< *indo* \< *indu*
+- *indrāyendo* ← *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *pavamāno* \< *pavamānaḥ* \< *pū*
+- *pavamāno* ← *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *manīṣy* \< *manīṣī* \< *manīṣin*
+- *manīṣy* ← *manīṣī* ← *manīṣin*
 - \[noun\], nominative, singular, masculine
 - “sage; expert; devout.”
 ------------------------------------------------------------------------
-- *aṃśor* \< *aṃśoḥ* \< *aṃśu*
+- *aṃśor* ← *aṃśoḥ* ← *aṃśu*
 - \[noun\], genitive, singular, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
 ------------------------------------------------------------------------
-- *ūrmim* \< *ūrmi*
+- *ūrmim* ← *ūrmi*
 - \[noun\], accusative, singular, masculine
 - “wave; billow.”
 ------------------------------------------------------------------------
-- *īraya* \< *īray* \< *√īr*
+- *īraya* ← *īray* ← *√īr*
 - \[verb\], singular, Present imperative
 - “name; describe; propel; shoot; state; call; raise; expel; tell;
     enumerate.”
 ------------------------------------------------------------------------
-- *gā* \< *gāḥ* \< *go*
+- *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *iṣaṇyan* \< *iṣaṇy*
+- *iṣaṇyan* ← *iṣaṇy*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 8.45.37"
 
 +++
--   *ko* \< *kaḥ* \< *ka*
+-   *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -10,38 +10,38 @@ title = "Rig Veda 8.45.37"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *maryā* \< *maryāḥ* \< *marya*
+- *maryā* ← *maryāḥ* ← *marya*
 - \[noun\], vocative, plural, masculine
 - “young buck; boyfriend.”
 ------------------------------------------------------------------------
-- *amithitaḥ* \< *amithita*
+- *amithitaḥ* ← *amithita*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *sakhā* \< *sakhi*
+- *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *sakhāyam* \< *sakhi*
+- *sakhāyam* ← *sakhi*
 - \[noun\], accusative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *abravīt* \< *brū*
+- *abravīt* ← *brū*
 - \[verb\], singular, Imperfect
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
 ------------------------------------------------------------------------
-- *jahā* \< *\_* \< *√\_*
+- *jahā* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *ko* \< *kaḥ* \< *ka*
+- *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *asmad* \< *asmat* \< *mad*
+- *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *īṣate* \< *īṣ*
+- *īṣate* ← *īṣ*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------

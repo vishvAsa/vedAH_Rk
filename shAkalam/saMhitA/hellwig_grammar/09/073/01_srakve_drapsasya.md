@@ -2,14 +2,14 @@
 title = "Rig Veda 9.73.1"
 
 +++
--   *srakve* \< *srakva*
+-   *srakve* ← *srakva*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *drapsasya* \< *drapsa*
+- *drapsasya* ← *drapsa*
 - \[noun\], genitive, singular, masculine
 - “drop; banner.”
 ------------------------------------------------------------------------
-- *dhamataḥ* \< *dham*
+- *dhamataḥ* ← *dham*
 - \[verb noun\], genitive, singular
 - “heat; blow; fan; blow; ignite; blow; inflate.”
 ------------------------------------------------------------------------
@@ -17,15 +17,15 @@ title = "Rig Veda 9.73.1"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *asvarann* \< *asvaran* \< *svar*
+- *asvarann* ← *asvaran* ← *svar*
 - \[verb\], plural, Imperfect
 - “sing.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *yonā* \< *yoni*
+- *yonā* ← *yoni*
 - \[noun\], locative, singular, feminine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
@@ -35,35 +35,35 @@ title = "Rig Veda 9.73.1"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *aranta* \< *ṛch*
+- *aranta* ← *ṛch*
 - \[verb\], plural, Aorist inj. (proh.)
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *nābhayaḥ* \< *nābhi*
+- *nābhayaḥ* ← *nābhi*
 - \[noun\], nominative, plural, feminine
 - “navel; hub; kinship; beginning; origin; umbilical cord; nābhi
     \[word\]; friendship; center.”
 ------------------------------------------------------------------------
-- *trīn* \< *tri*
+- *trīn* ← *tri*
 - \[noun\], accusative, plural, masculine
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *mūrdhno* \< *mūrdhnaḥ* \< *mūrdhan*
+- *mūrdhno* ← *mūrdhnaḥ* ← *mūrdhan*
 - \[noun\], accusative, plural, masculine
 - “head; battlefront; peak; top; mūrdhan \[word\]; leader; top.”
 ------------------------------------------------------------------------
-- *asuraś* \< *asuraḥ* \< *asura*
+- *asuraś* ← *asuraḥ* ← *asura*
 - \[noun\], nominative, singular, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
 ------------------------------------------------------------------------
-- *cakra* \< *cakre* \< *kṛ*
+- *cakra* ← *cakre* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -74,23 +74,23 @@ title = "Rig Veda 9.73.1"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *ārabhe* \< *ārabh* \< *√rabh*
+- *ārabhe* ← *ārabh* ← *√rabh*
 - \[verb noun\]
 - “begin; begin; undertake; do; take.”
 ------------------------------------------------------------------------
-- *satyasya* \< *satya*
+- *satyasya* ← *satya*
 - \[noun\], genitive, singular, neuter
 - “truth; oath; satya \[word\]; promise.”
 ------------------------------------------------------------------------
-- *nāvaḥ* \< *nau*
+- *nāvaḥ* ← *nau*
 - \[noun\], nominative, plural, feminine
 - “ship; boat; nau \[word\].”
 ------------------------------------------------------------------------
-- *sukṛtam* \< *sukṛt*
+- *sukṛtam* ← *sukṛt*
 - \[noun\], accusative, singular, masculine
 - “devout; virtuous.”
 ------------------------------------------------------------------------
-- *apīparan* \< *pṛ*
+- *apīparan* ← *pṛ*
 - \[verb\], plural, Redupl. Aorist (Ind.)
 - “protect; promote; rescue; help.”
 ------------------------------------------------------------------------

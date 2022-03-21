@@ -2,34 +2,34 @@
 title = "Rig Veda 5.78.4"
 
 +++
--   *atrir* \< *atriḥ* \< *atri*
+-   *atrir* ← *atriḥ* ← *atri*
 - \[noun\], nominative, singular, masculine
 - “Atri; Atri; atri \[word\].”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *avarohann* \< *avarohan* \< *avaruh* \< *√ruh*
+- *avarohann* ← *avarohan* ← *avaruh* ← *√ruh*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *ṛbīsam* \< *ṛbīsa*
+- *ṛbīsam* ← *ṛbīsa*
 - \[noun\], accusative, singular, neuter
 - “chasm.”
 ------------------------------------------------------------------------
-- *ajohavīn* \< *ajohavīt* \< *johav* \< *√hvā*
+- *ajohavīn* ← *ajohavīt* ← *johav* ← *√hvā*
 - \[verb\], singular, Imperfect
 - “appeal.”
 ------------------------------------------------------------------------
-- *nādhamāneva* \< *nādhamānā* \< *nādh*
+- *nādhamāneva* ← *nādhamānā* ← *nādh*
 - \[verb noun\], nominative, singular
 - “suffer.”
 ------------------------------------------------------------------------
-- *nādhamāneva* \< *iva*
+- *nādhamāneva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
@@ -37,32 +37,32 @@ title = "Rig Veda 5.78.4"
 - \[noun\], nominative, singular, feminine
 - “woman; puppet; daughter.”
 ------------------------------------------------------------------------
-- *śyenasya* \< *śyena*
+- *śyenasya* ← *śyena*
 - \[noun\], genitive, singular, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
 ------------------------------------------------------------------------
-- *cij* \< *cit*
+- *cij* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *javasā* \< *javas*
+- *javasā* ← *javas*
 - \[noun\], instrumental, singular, neuter
 - “speed.”
 ------------------------------------------------------------------------
-- *nūtanenāgacchatam* \< *nūtanena* \< *nūtana*
+- *nūtanenāgacchatam* ← *nūtanena* ← *nūtana*
 - \[noun\], instrumental, singular, neuter
 - “new; fresh; recent; contemporary; present(a); first.”
 ------------------------------------------------------------------------
-- *nūtanenāgacchatam* \< *āgacchatam* \< *āgam* \< *√gam*
+- *nūtanenāgacchatam* ← *āgacchatam* ← *āgam* ← *√gam*
 - \[verb\], dual, Imperfect
 - “come; arrive; return; enter (a state); approach; travel; enter;
     inherit; hand down; achieve; reach; appear; happen.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], nominative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *śantamena* \< *śaṃtama*
+- *śantamena* ← *śaṃtama*
 - \[noun\], instrumental, singular, neuter
 - “beneficent.”
 ------------------------------------------------------------------------

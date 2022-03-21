@@ -2,23 +2,23 @@
 title = "Rig Veda 4.25.2"
 
 +++
--   *ko* \< *kaḥ* \< *ka*
+-   *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *nānāma* \< *nam*
+- *nānāma* ← *nam*
 - \[verb\], singular, Perfect indicative
 - “bow; bend; condescend; worship; bend; lower.”
 ------------------------------------------------------------------------
-- *vacasā* \< *vacas*
+- *vacasā* ← *vacas*
 - \[noun\], instrumental, singular, neuter
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------
-- *somyāya* \< *somya*
+- *somyāya* ← *somya*
 - \[noun\], dative, singular, masculine
 - “saumya.”
 ------------------------------------------------------------------------
-- *manāyur* \< *manāyuḥ* \< *manāyu*
+- *manāyur* ← *manāyuḥ* ← *manāyu*
 - \[noun\], nominative, singular, masculine
 - “poetic; devoted.”
 ------------------------------------------------------------------------
@@ -26,66 +26,66 @@ title = "Rig Veda 4.25.2"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *bhavati* \< *bhū*
+- *bhavati* ← *bhū*
 - \[verb\], singular, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *vasta* \< *\_* \< *√\_*
+- *vasta* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *usrāḥ* \< *usṛ*
+- *usrāḥ* ← *usṛ*
 - \[noun\], genitive, singular, feminine
 - “dawn.”
 ------------------------------------------------------------------------
-- *ka* \< *kaḥ* \< *ka*
+- *ka* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yujyaṃ* \< *yujyam* \< *yujya*
+- *yujyaṃ* ← *yujyam* ← *yujya*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *kaḥ* \< *ka*
+- *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *sakhitvaṃ* \< *sakhi*
+- *sakhitvaṃ* ← *sakhi*
 - \[noun\], masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *sakhitvaṃ* \< *tvam* \< *tva*
+- *sakhitvaṃ* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *ko* \< *kaḥ* \< *ka*
+- *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *bhrātraṃ* \< *bhrātram* \< *bhrātra*
+- *bhrātraṃ* ← *bhrātram* ← *bhrātra*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *vaṣṭi* \< *vaś*
+- *vaṣṭi* ← *vaś*
 - \[verb\], singular, Present indikative
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *kavaye* \< *kavi*
+- *kavaye* ← *kavi*
 - \[noun\], dative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *ka* \< *kaḥ* \< *ka*
+- *ka* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *ūtī* \< *ūti*
+- *ūtī* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------

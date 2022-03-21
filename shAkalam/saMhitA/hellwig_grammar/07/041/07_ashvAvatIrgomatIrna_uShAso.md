@@ -2,23 +2,23 @@
 title = "Rig Veda 7.41.7"
 
 +++
--   *aśvāvatīr* \< *aśvāvatīḥ* \< *aśvāvat*
+-   *aśvāvatīr* ← *aśvāvatīḥ* ← *aśvāvat*
 - \[noun\], nominative, plural, feminine
 - “rich in horses.”
 ------------------------------------------------------------------------
-- *gomatīr* \< *gomatīḥ* \< *gomat*
+- *gomatīr* ← *gomatīḥ* ← *gomat*
 - \[noun\], nominative, plural, feminine
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *uṣāso* \< *uṣāsaḥ* \< *uṣas*
+- *uṣāso* ← *uṣāsaḥ* ← *uṣas*
 - \[noun\], nominative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *vīravatīḥ* \< *vīravat*
+- *vīravatīḥ* ← *vīravat*
 - \[noun\], nominative, plural, feminine
 - “rich in men.”
 ------------------------------------------------------------------------
@@ -26,40 +26,40 @@ title = "Rig Veda 7.41.7"
 - \[adverb\]
 - “always.”
 ------------------------------------------------------------------------
-- *ucchantu* \< *vas*
+- *ucchantu* ← *vas*
 - \[verb\], plural, Present imperative
 - “dawn; shine.”
 ------------------------------------------------------------------------
-- *bhadrāḥ* \< *bhadra*
+- *bhadrāḥ* ← *bhadra*
 - \[noun\], nominative, plural, feminine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *ghṛtaṃ* \< *ghṛtam* \< *ghṛta*
+- *ghṛtaṃ* ← *ghṛtam* ← *ghṛta*
 - \[noun\], accusative, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *duhānā* \< *duhānāḥ* \< *duh*
+- *duhānā* ← *duhānāḥ* ← *duh*
 - \[verb noun\], nominative, plural
 - “milk.”
 ------------------------------------------------------------------------
-- *viśvataḥ* \< *viśvatas*
+- *viśvataḥ* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
 ------------------------------------------------------------------------
-- *prapītā* \< *prapītāḥ* \< *prapā* \< *√pā*
+- *prapītā* ← *prapītāḥ* ← *prapā* ← *√pā*
 - \[verb noun\], nominative, plural
 - “drink.”
 ------------------------------------------------------------------------
-- *yūyam* \< *tvad*
+- *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *pāta* \< *pā*
+- *pāta* ← *pā*
 - \[verb\], plural, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *svastibhiḥ* \< *svasti*
+- *svastibhiḥ* ← *svasti*
 - \[noun\], instrumental, plural, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
@@ -68,7 +68,7 @@ title = "Rig Veda 7.41.7"
 - \[adverb\]
 - “always; continually; always; perpetually.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

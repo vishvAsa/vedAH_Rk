@@ -2,44 +2,44 @@
 title = "Rig Veda 10.17.10"
 
 +++
--   *āpo* \< *āpaḥ* \< *ap*
+-   *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *asmān* \< *mad*
+- *asmān* ← *mad*
 - \[noun\], accusative, plural, masculine
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mātaraḥ* \< *mātṛ*
+- *mātaraḥ* ← *mātṛ*
 - \[noun\], nominative, plural, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *śundhayantu* \< *śundhay* \< *√śudh*
+- *śundhayantu* ← *śundhay* ← *√śudh*
 - \[verb\], plural, Present imperative
 - “purify.”
 ------------------------------------------------------------------------
-- *ghṛtena* \< *ghṛta*
+- *ghṛtena* ← *ghṛta*
 - \[noun\], instrumental, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ghṛtapvaḥ* \< *ghṛta*
+- *ghṛtapvaḥ* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *ghṛtapvaḥ* \< *pvaḥ* \< *pu*
+- *ghṛtapvaḥ* ← *pvaḥ* ← *pu*
 - \[noun\], nominative, plural, feminine
 - “purifying.”
 ------------------------------------------------------------------------
-- *punantu* \< *pū*
+- *punantu* ← *pū*
 - \[verb\], plural, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *viśvaṃ* \< *viśvam* \< *viśva*
+- *viśvaṃ* ← *viśvam* ← *viśva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
@@ -48,15 +48,15 @@ title = "Rig Veda 10.17.10"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *ripram* \< *ripra*
+- *ripram* ← *ripra*
 - \[noun\], accusative, singular, neuter
 - “impurity.”
 ------------------------------------------------------------------------
-- *pravahanti* \< *pravah* \< *√vah*
+- *pravahanti* ← *pravah* ← *√vah*
 - \[verb\], plural, Present indikative
 - “take away; issue.”
 ------------------------------------------------------------------------
-- *devīr* \< *devīḥ* \< *devī*
+- *devīr* ← *devīḥ* ← *devī*
 - \[noun\], nominative, plural, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
@@ -68,11 +68,11 @@ title = "Rig Veda 10.17.10"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *ābhyaḥ* \< *idam*
+- *ābhyaḥ* ← *idam*
 - \[noun\], ablative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *śucir* \< *śuciḥ* \< *śuci*
+- *śucir* ← *śuciḥ* ← *śuci*
 - \[noun\], nominative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
@@ -81,11 +81,11 @@ title = "Rig Veda 10.17.10"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *pūta* \< *pūtaḥ* \< *pū*
+- *pūta* ← *pūtaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *emi* \< *i*
+- *emi* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------

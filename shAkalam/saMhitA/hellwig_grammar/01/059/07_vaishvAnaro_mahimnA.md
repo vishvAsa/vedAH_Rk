@@ -2,56 +2,56 @@
 title = "Rig Veda 1.59.7"
 
 +++
--   *vaiśvānaro* \< *vaiśvānaraḥ* \< *vaiśvānara*
+-   *vaiśvānaro* ← *vaiśvānaraḥ* ← *vaiśvānara*
 - \[noun\], nominative, singular, masculine
 - “Agni; fire; Vaiśvānara; Vaiśvānara; sacrificial fire; sun.”
 ------------------------------------------------------------------------
-- *mahimnā* \< *mahiman*
+- *mahimnā* ← *mahiman*
 - \[noun\], instrumental, singular, masculine
 - “greatness; power; mahiman.”
 ------------------------------------------------------------------------
-- *viśvakṛṣṭir* \< *viśva*
+- *viśvakṛṣṭir* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvakṛṣṭir* \< *kṛṣṭiḥ* \< *kṛṣṭi*
+- *viśvakṛṣṭir* ← *kṛṣṭiḥ* ← *kṛṣṭi*
 - \[noun\], nominative, singular, masculine
 - “people; citizenry.”
 ------------------------------------------------------------------------
-- *bharadvājeṣu* \< *bharadvāja*
+- *bharadvājeṣu* ← *bharadvāja*
 - \[noun\], locative, plural, masculine
 - “Bharadvāja; Droṇa; Bharadvāja; skylark.”
 ------------------------------------------------------------------------
-- *yajato* \< *yajataḥ* \< *yajata*
+- *yajato* ← *yajataḥ* ← *yajata*
 - \[noun\], nominative, singular, masculine
 - “holy; august; sacrificial.”
 ------------------------------------------------------------------------
-- *vibhāvā* \< *vibhāvan*
+- *vibhāvā* ← *vibhāvan*
 - \[noun\], nominative, singular, masculine
 - “illuminating; shining.”
 ------------------------------------------------------------------------
-- *śātavaneye* \< *śātavaneya*
+- *śātavaneye* ← *śātavaneya*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *śatinībhir* \< *śatinībhiḥ* \< *śatin*
+- *śatinībhir* ← *śatinībhiḥ* ← *śatin*
 - \[noun\], instrumental, plural, feminine
 - “hundredfold.”
 ------------------------------------------------------------------------
-- *agniḥ* \< *agni*
+- *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *puruṇīthe* \< *puruṇītha*
+- *puruṇīthe* ← *puruṇītha*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *jarate* \< *jṛ*
+- *jarate* ← *jṛ*
 - \[verb\], singular, Present indikative
 - “sing.”
 ------------------------------------------------------------------------
-- *sūnṛtāvān* \< *sūnṛtāvat*
+- *sūnṛtāvān* ← *sūnṛtāvat*
 - \[noun\], nominative, singular, masculine
 - “happy; big; auspicious.”
 ------------------------------------------------------------------------

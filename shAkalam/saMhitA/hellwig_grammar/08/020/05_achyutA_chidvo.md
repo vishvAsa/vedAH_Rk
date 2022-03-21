@@ -2,19 +2,19 @@
 title = "Rig Veda 8.20.5"
 
 +++
--   *acyutā* \< *acyuta*
+-   *acyutā* ← *acyuta*
 - \[noun\], nominative, plural, neuter
 - “firm; regular; permanent; immovable; unchanging.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *ajmann* \< *ajman*
+- *ajmann* ← *ajman*
 - \[noun\], locative, singular, neuter
 - “drive.”
 ------------------------------------------------------------------------
@@ -22,30 +22,30 @@ title = "Rig Veda 8.20.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *nānadati* \< *nānad* \< *√nad*
+- *nānadati* ← *nānad* ← *√nad*
 - \[verb\], plural, Present indikative
 - “bellow.”
 ------------------------------------------------------------------------
-- *parvatāso* \< *parvatāsaḥ* \< *parvata*
+- *parvatāso* ← *parvatāsaḥ* ← *parvata*
 - \[noun\], nominative, plural, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
 ------------------------------------------------------------------------
-- *vanaspatiḥ* \< *vanaspati*
+- *vanaspatiḥ* ← *vanaspati*
 - \[noun\], nominative, singular, masculine
 - “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
 ------------------------------------------------------------------------
-- *bhūmir* \< *bhūmiḥ* \< *bhūmi*
+- *bhūmir* ← *bhūmiḥ* ← *bhūmi*
 - \[noun\], nominative, singular, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
     Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
     distance; country; space; land; territory; topographic point.”
 ------------------------------------------------------------------------
-- *yāmeṣu* \< *yāma*
+- *yāmeṣu* ← *yāma*
 - \[noun\], locative, plural, masculine
 - “prahara; watch; travel; path.”
 ------------------------------------------------------------------------
-- *rejate* \< *rej*
+- *rejate* ← *rej*
 - \[verb\], singular, Present indikative
 - “tremor; flicker.”
 ------------------------------------------------------------------------

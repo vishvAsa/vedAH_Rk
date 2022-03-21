@@ -2,7 +2,7 @@
 title = "Rig Veda 7.24.2"
 
 +++
--   *gṛbhītaṃ* \< *gṛbhītam* \< *grah*
+-   *gṛbhītaṃ* ← *gṛbhītam* ← *grah*
 - \[verb noun\], nominative, singular
 - “take; grasp; take out; extract; perceive; pick; assume; include;
     accept; understand; use; learn; possess; keep; choose; accept;
@@ -10,11 +10,11 @@ title = "Rig Veda 7.24.2"
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *mana* \< *manaḥ* \< *manas*
+- *mana* ← *manaḥ* ← *manas*
 - \[noun\], nominative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
@@ -24,55 +24,55 @@ title = "Rig Veda 7.24.2"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dvibarhāḥ* \< *dvibarhas*
+- *dvibarhāḥ* ← *dvibarhas*
 - \[noun\], nominative, singular, masculine
 - “double.”
 ------------------------------------------------------------------------
-- *sutaḥ* \< *su*
+- *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *somaḥ* \< *soma*
+- *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *pariṣiktā* \< *pariṣic* \< *√sic*
+- *pariṣiktā* ← *pariṣic* ← *√sic*
 - \[verb noun\], nominative, plural
 - “sprinkle; effuse; rub.”
 ------------------------------------------------------------------------
-- *madhūni* \< *madhu*
+- *madhūni* ← *madhu*
 - \[noun\], nominative, plural, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *visṛṣṭadhenā* \< *visṛṣṭa* \< *visṛj* \< *√sṛj*
+- *visṛṣṭadhenā* ← *visṛṣṭa* ← *visṛj* ← *√sṛj*
 - \[verb noun\]
 - “dismiss; emit; shoot; secrete; hand over; lose; abandon; disperse;
     make; emit; utter; shoot; ejaculate; spill; give; discard; refrain
     from; discontinue; throw.”
 ------------------------------------------------------------------------
-- *visṛṣṭadhenā* \< *dhenā*
+- *visṛṣṭadhenā* ← *dhenā*
 - \[noun\], nominative, singular, feminine
 - “river; lip; voice.”
 ------------------------------------------------------------------------
-- *bharate* \< *bhṛ*
+- *bharate* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *suvṛktir* \< *suvṛktiḥ* \< *suvṛkti*
+- *suvṛktir* ← *suvṛktiḥ* ← *suvṛkti*
 - \[noun\], nominative, singular, feminine
 - “praise.”
 ------------------------------------------------------------------------
-- *iyam* \< *idam*
+- *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *johuvatī* \< *johav* \< *√hvā*
+- *johuvatī* ← *johav* ← *√hvā*
 - \[verb noun\], nominative, singular
 - “appeal.”
 ------------------------------------------------------------------------

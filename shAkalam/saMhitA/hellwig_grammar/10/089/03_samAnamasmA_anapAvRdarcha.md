@@ -2,40 +2,40 @@
 title = "Rig Veda 10.89.3"
 
 +++
--   *samānam* \< *samāna*
+-   *samānam* ← *samāna*
 - \[noun\], accusative, singular, neuter
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
 ------------------------------------------------------------------------
-- *asmā* \< *asmai* \< *idam*
+- *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *anapāvṛd* \< *anapāvṛt*
+- *anapāvṛd* ← *anapāvṛt*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *arca* \< *arcā* \< *arc*
+- *arca* ← *arcā* ← *arc*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *kṣmayā* \< *kṣmā*
+- *kṣmayā* ← *kṣmā*
 - \[noun\], instrumental, singular, feminine
 - “Earth; Earth; land.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *asamam* \< *asama*
+- *asamam* ← *asama*
 - \[noun\], accusative, singular, neuter
 - “incomparable; unlike.”
 ------------------------------------------------------------------------
-- *brahma* \< *brahman*
+- *brahma* ← *brahman*
 - \[noun\], accusative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *navyam* \< *navya*
+- *navyam* ← *navya*
 - \[noun\], accusative, singular, neuter
 - “new; fresh.”
 ------------------------------------------------------------------------
@@ -43,32 +43,32 @@ title = "Rig Veda 10.89.3"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *pṛṣṭheva* \< *pṛṣṭhā* \< *pṛṣṭha*
+- *pṛṣṭheva* ← *pṛṣṭhā* ← *pṛṣṭha*
 - \[noun\], accusative, plural, neuter
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
 ------------------------------------------------------------------------
-- *pṛṣṭheva* \< *iva*
+- *pṛṣṭheva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *janimāny* \< *janimāni* \< *janiman*
+- *janimāny* ← *janimāni* ← *janiman*
 - \[noun\], accusative, plural, neuter
 - “birth; offspring; origin; kind; being.”
 ------------------------------------------------------------------------
-- *arya* \< *aryaḥ* \< *arya*
+- *arya* ← *aryaḥ* ← *arya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *indraś* \< *indraḥ* \< *indra*
+- *indraś* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *cikāya* \< *ci*
+- *cikāya* ← *ci*
 - \[verb\], singular, Perfect indicative
 - “cover; accumulate; pile up; pick; cover.”
 ------------------------------------------------------------------------
@@ -76,11 +76,11 @@ title = "Rig Veda 10.89.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sakhāyam* \< *sakhi*
+- *sakhāyam* ← *sakhi*
 - \[noun\], accusative, singular
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *īṣe* \< *iṣ*
+- *īṣe* ← *iṣ*
 - \[verb\], singular, Perfect indicative
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”

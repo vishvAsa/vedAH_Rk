@@ -6,16 +6,16 @@ title = "Rig Veda 6.54.9"
 - \[noun\], vocative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vrate* \< *vrata*
+- *vrate* ← *vrata*
 - \[noun\], locative, singular, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -23,7 +23,7 @@ title = "Rig Veda 6.54.9"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *riṣyema* \< *riṣ*
+- *riṣyema* ← *riṣ*
 - \[verb\], plural, Present optative
 - “suffer; harm.”
 ------------------------------------------------------------------------
@@ -31,11 +31,11 @@ title = "Rig Veda 6.54.9"
 - \[adverb\]
 - “ever; sometimes.”
 ------------------------------------------------------------------------
-- *stotāras* \< *stotāraḥ* \< *stotṛ*
+- *stotāras* ← *stotāraḥ* ← *stotṛ*
 - \[noun\], nominative, plural, masculine
 - “laudatory; worshiping.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -43,7 +43,7 @@ title = "Rig Veda 6.54.9"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *smasi* \< *as*
+- *smasi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

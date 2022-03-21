@@ -2,11 +2,11 @@
 title = "Rig Veda 7.1.12"
 
 +++
--   *yam* \< *yad*
+-   *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *aśvī* \< *aśvin*
+- *aśvī* ← *aśvin*
 - \[noun\], nominative, singular, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
@@ -14,49 +14,49 @@ title = "Rig Veda 7.1.12"
 - \[adverb\]
 - “always; continually; repeatedly.”
 ------------------------------------------------------------------------
-- *upayāti* \< *upayā* \< *√yā*
+- *upayāti* ← *upayā* ← *√yā*
 - \[verb\], singular, Present indikative
 - “enter (a state); arrive; come; go.”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *prajāvantaṃ* \< *prajāvantam* \< *prajāvat*
+- *prajāvantaṃ* ← *prajāvantam* ← *prajāvat*
 - \[noun\], accusative, singular, masculine
 - “prolific.”
 ------------------------------------------------------------------------
-- *svapatyaṃ* \< *su*
+- *svapatyaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svapatyaṃ* \< *apatyam* \< *apatya*
+- *svapatyaṃ* ← *apatyam* ← *apatya*
 - \[noun\], accusative, singular, masculine
 - “child; offspring; patronymic; descendant.”
 ------------------------------------------------------------------------
-- *kṣayaṃ* \< *kṣayam* \< *kṣaya*
+- *kṣayaṃ* ← *kṣayam* ← *kṣaya*
 - \[noun\], accusative, singular, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *svajanmanā* \< *sva*
+- *svajanmanā* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svajanmanā* \< *janmanā* \< *janman*
+- *svajanmanā* ← *janmanā* ← *janman*
 - \[noun\], instrumental, singular, neuter
 - “birth; reincarnation; lineage; origin; race; metempsychosis;
     parentage; descent; appearance; age; birthplace; beginning; being.”
 ------------------------------------------------------------------------
-- *śeṣasā* \< *śeṣas*
+- *śeṣasā* ← *śeṣas*
 - \[noun\], instrumental, singular, neuter
 - “offspring.”
 ------------------------------------------------------------------------
-- *vāvṛdhānam* \< *vṛdh*
+- *vāvṛdhānam* ← *vṛdh*
 - \[verb noun\], accusative, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”

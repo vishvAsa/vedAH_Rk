@@ -2,63 +2,63 @@
 title = "Rig Veda 10.66.11"
 
 +++
--   *samudraḥ* \< *samudra*
+-   *samudraḥ* ← *samudra*
 - \[noun\], nominative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *sindhū* \< *sindhuḥ* \< *sindhu*
+- *sindhū* ← *sindhuḥ* ← *sindhu*
 - \[noun\], nominative, singular, feminine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *rajo* \< *rajaḥ* \< *rajas*
+- *rajo* ← *rajaḥ* ← *rajas*
 - \[noun\], nominative, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 ------------------------------------------------------------------------
-- *antarikṣam* \< *antarikṣa*
+- *antarikṣam* ← *antarikṣa*
 - \[noun\], nominative, singular, neuter
 - “sky; atmosphere; air; abhra.”
 ------------------------------------------------------------------------
-- *aja* \< *ajaḥ* \< *aja*
+- *aja* ← *ajaḥ* ← *aja*
 - \[noun\], nominative, singular, masculine
 - “unborn.”
 ------------------------------------------------------------------------
-- *ekapāt* \< *ekapād*
+- *ekapāt* ← *ekapād*
 - \[noun\], nominative, singular, masculine
 - “Shiva.”
 ------------------------------------------------------------------------
-- *tanayitnur* \< *tanayitnuḥ* \< *tanayitnu*
+- *tanayitnur* ← *tanayitnuḥ* ← *tanayitnu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *arṇavaḥ* \< *arṇava*
+- *arṇavaḥ* ← *arṇava*
 - \[noun\], nominative, singular, masculine
 - “wave; flood.”
 ------------------------------------------------------------------------
-- *ahir* \< *ahiḥ* \< *ahi*
+- *ahir* ← *ahiḥ* ← *ahi*
 - \[noun\], nominative, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
 ------------------------------------------------------------------------
-- *budhnyaḥ* \< *budhnya*
+- *budhnyaḥ* ← *budhnya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *śṛṇavad* \< *śṛṇavat* \< *śru*
+- *śṛṇavad* ← *śṛṇavat* ← *śru*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *vacāṃsi* \< *vacas*
+- *vacāṃsi* ← *vacas*
 - \[noun\], accusative, plural, neuter
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *viśve* \< *viśva*
+- *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *devāsa* \< *devāsaḥ* \< *deva*
+- *devāsa* ← *devāsaḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -67,11 +67,11 @@ title = "Rig Veda 10.66.11"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *sūrayo* \< *sūrayaḥ* \< *sūri*
+- *sūrayo* ← *sūrayaḥ* ← *sūri*
 - \[noun\], nominative, plural, masculine
 - “guru.”
 ------------------------------------------------------------------------
-- *mama* \< *mad*
+- *mama* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------

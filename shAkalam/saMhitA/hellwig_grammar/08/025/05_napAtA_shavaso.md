@@ -2,48 +2,48 @@
 title = "Rig Veda 8.25.5"
 
 +++
--   *napātā* \< *napāt*
+-   *napātā* ← *napāt*
 - \[noun\], nominative, dual, masculine
 - “grandson; nephew; napāt \[word\].”
 ------------------------------------------------------------------------
-- *śavaso* \< *śavasaḥ* \< *śavas*
+- *śavaso* ← *śavasaḥ* ← *śavas*
 - \[noun\], genitive, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *mahaḥ* \< *mah*
+- *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *sūnū* \< *sūnu*
+- *sūnū* ← *sūnu*
 - \[noun\], nominative, dual, masculine
 - “son; offspring.”
 ------------------------------------------------------------------------
-- *dakṣasya* \< *dakṣa*
+- *dakṣasya* ← *dakṣa*
 - \[noun\], genitive, singular, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
 ------------------------------------------------------------------------
-- *sukratū* \< *su*
+- *sukratū* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukratū* \< *kratū* \< *kratu*
+- *sukratū* ← *kratū* ← *kratu*
 - \[noun\], nominative, dual, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *sṛpradānū* \< *sṛpra*
+- *sṛpradānū* ← *sṛpra*
 - \[noun\]
 - “glossy; greasy.”
 ------------------------------------------------------------------------
-- *sṛpradānū* \< *dānū* \< *dānu*
+- *sṛpradānū* ← *dānū* ← *dānu*
 - \[noun\], nominative, dual, masculine
 - “Dānu; dew; drop.”
 ------------------------------------------------------------------------
-- *iṣo* \< *iṣaḥ* \< *iṣ*
+- *iṣo* ← *iṣaḥ* ← *iṣ*
 - \[noun\], genitive, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *vāstv* \< *vāstū* \< *vāstu*
+- *vāstv* ← *vāstū* ← *vāstu*
 - \[noun\], accusative, plural, neuter
 - “vacant lot; site; space; extension; house; architecture.”
 ------------------------------------------------------------------------
@@ -51,7 +51,7 @@ title = "Rig Veda 8.25.5"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *kṣitaḥ* \< *kṣi*
+- *kṣitaḥ* ← *kṣi*
 - \[verb\], dual, Present indikative
 - “govern; inhabit; dwell; stay; predominate; bide; own.”
 ------------------------------------------------------------------------

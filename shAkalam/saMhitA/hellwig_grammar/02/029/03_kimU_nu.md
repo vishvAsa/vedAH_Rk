@@ -2,11 +2,11 @@
 title = "Rig Veda 2.29.3"
 
 +++
--   *kim* \< *ka*
+-   *kim* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *ū* \< *u*
+- *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
@@ -14,11 +14,11 @@ title = "Rig Veda 2.29.3"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *kṛṇavāmāpareṇa* \< *kṛṇavāma* \< *kṛ*
+- *kṛṇavāmāpareṇa* ← *kṛṇavāma* ← *kṛ*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -29,40 +29,40 @@ title = "Rig Veda 2.29.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *kṛṇavāmāpareṇa* \< *apareṇa* \< *apara*
+- *kṛṇavāmāpareṇa* ← *apareṇa* ← *apara*
 - \[noun\], instrumental, singular, neuter
 - “other; another(a); following; western; future; apara \[word\];
     elder; remaining; some(a); later(a); back(a).”
 ------------------------------------------------------------------------
-- *kiṃ* \< *kim* \< *ka*
+- *kiṃ* ← *kim* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *sanena* \< *sana*
+- *sanena* ← *sana*
 - \[noun\], instrumental, singular, neuter
 - “age-old; ancient.”
 ------------------------------------------------------------------------
-- *vasava* \< *vasavaḥ* \< *vasu*
+- *vasava* ← *vasavaḥ* ← *vasu*
 - \[noun\], vocative, plural, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *āpyena* \< *āpya*
+- *āpyena* ← *āpya*
 - \[noun\], instrumental, singular, neuter
 - “friendship.”
 ------------------------------------------------------------------------
-- *yūyaṃ* \< *yūyam* \< *tvad*
+- *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇādite* \< *mitrāvaruṇa*
+- *mitrāvaruṇādite* ← *mitrāvaruṇa*
 - \[noun\], vocative, singular, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇādite* \< *adite* \< *aditi*
+- *mitrāvaruṇādite* ← *adite* ← *aditi*
 - \[noun\], vocative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
@@ -70,16 +70,16 @@ title = "Rig Veda 2.29.3"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *svastim* \< *svasti*
+- *svastim* ← *svasti*
 - \[noun\], accusative, singular, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
 ------------------------------------------------------------------------
-- *indrāmaruto* \< *indrāmarutaḥ* \< *indrāmarut*
+- *indrāmaruto* ← *indrāmarutaḥ* ← *indrāmarut*
 - \[noun\], vocative, plural, masculine
 - “Marut; Indra.”
 ------------------------------------------------------------------------
-- *dadhāta* \< *dhā*
+- *dadhāta* ← *dhā*
 - \[verb\], plural, Aorist imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

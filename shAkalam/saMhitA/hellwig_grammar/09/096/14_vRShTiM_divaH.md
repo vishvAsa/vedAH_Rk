@@ -2,59 +2,59 @@
 title = "Rig Veda 9.96.14"
 
 +++
--   *vṛṣṭiṃ* \< *vṛṣṭim* \< *vṛṣṭi*
+-   *vṛṣṭiṃ* ← *vṛṣṭim* ← *vṛṣṭi*
 - \[noun\], accusative, singular, feminine
 - “rain; shower; rainy season.”
 ------------------------------------------------------------------------
-- *divaḥ* \< *div*
+- *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *śatadhāraḥ* \< *śata*
+- *śatadhāraḥ* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *śatadhāraḥ* \< *dhāraḥ* \< *dhārā*
+- *śatadhāraḥ* ← *dhāraḥ* ← *dhārā*
 - \[noun\], nominative, singular, masculine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *pavasva* \< *pū*
+- *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *sahasrasā* \< *sahasra*
+- *sahasrasā* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasrasā* \< *sāḥ* \< *sā*
+- *sahasrasā* ← *sāḥ* ← *sā*
 - \[noun\], nominative, singular, masculine
 - “winning.”
 ------------------------------------------------------------------------
-- *vājayur* \< *vājayuḥ* \< *vājayu*
+- *vājayur* ← *vājayuḥ* ← *vājayu*
 - \[noun\], nominative, singular, masculine
 - “competing(a); competitive.”
 ------------------------------------------------------------------------
-- *devavītau* \< *deva*
+- *devavītau* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devavītau* \< *vītau* \< *vīti*
+- *devavītau* ← *vītau* ← *vīti*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *sindhubhiḥ* \< *sindhu*
+- *sindhubhiḥ* ← *sindhu*
 - \[noun\], instrumental, plural, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *kalaśe* \< *kalaśa*
+- *kalaśe* ← *kalaśa*
 - \[noun\], locative, singular, masculine
 - “jar.”
 ------------------------------------------------------------------------
-- *vāvaśānaḥ* \< *vāś*
+- *vāvaśānaḥ* ← *vāś*
 - \[verb noun\], nominative, singular
 - “bellow; howl; sing; moo; shout.”
 ------------------------------------------------------------------------
@@ -62,19 +62,19 @@ title = "Rig Veda 9.96.14"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *usriyābhiḥ* \< *usriyā*
+- *usriyābhiḥ* ← *usriyā*
 - \[noun\], instrumental, plural, feminine
 - “cow; dairy product.”
 ------------------------------------------------------------------------
-- *pratiran* \< *pratṛ* \< *√tṛ*
+- *pratiran* ← *pratṛ* ← *√tṛ*
 - \[verb noun\], nominative, singular
 - “traverse; prolong.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *āyuḥ* \< *āyus*
+- *āyuḥ* ← *āyus*
 - \[noun\], nominative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------

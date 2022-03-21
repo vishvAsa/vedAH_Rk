@@ -2,19 +2,19 @@
 title = "Rig Veda 8.9.6"
 
 +++
--   *yan* \< *yat*
+-   *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *nāsatyā* \< *nāsatya*
+- *nāsatyā* ← *nāsatya*
 - \[noun\], nominative, dual, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *bhuraṇyatho* \< *bhuraṇyathaḥ* \< *bhuraṇy*
+- *bhuraṇyatho* ← *bhuraṇyathaḥ* ← *bhuraṇy*
 - \[verb\], dual, Present indikative
 - “be active.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -27,24 +27,24 @@ title = "Rig Veda 8.9.6"
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *bhiṣajyathaḥ* \< *bhiṣajy*
+- *bhiṣajyathaḥ* ← *bhiṣajy*
 - \[verb\], dual, Present indikative
 - “cure.”
 ------------------------------------------------------------------------
-- *ayaṃ* \< *ayam* \< *idam*
+- *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *vatso* \< *vatsaḥ* \< *vatsa*
+- *vatso* ← *vatsaḥ* ← *vatsa*
 - \[noun\], nominative, singular, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
 ------------------------------------------------------------------------
-- *matibhir* \< *matibhiḥ* \< *mati*
+- *matibhir* ← *matibhiḥ* ← *mati*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
@@ -53,10 +53,10 @@ title = "Rig Veda 8.9.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vindhate* \< *vidh*
+- *vindhate* ← *vidh*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *haviṣmantaṃ* \< *haviṣmantam* \< *haviṣmat*
+- *haviṣmantaṃ* ← *haviṣmantam* ← *haviṣmat*
 - \[noun\], accusative, singular, masculine
 - “sacrificing.”
 ------------------------------------------------------------------------
@@ -64,7 +64,7 @@ title = "Rig Veda 8.9.6"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *gacchathaḥ* \< *gam*
+- *gacchathaḥ* ← *gam*
 - \[verb\], dual, Present indikative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

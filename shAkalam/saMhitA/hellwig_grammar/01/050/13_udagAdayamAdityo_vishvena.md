@@ -6,24 +6,24 @@ title = "Rig Veda 1.50.13"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *agād* \< *agāt* \< *gā*
+- *agād* ← *agāt* ← *gā*
 - \[verb\], singular, Root aorist (Ind.)
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------
-- *ayam* \< *idam*
+- *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ādityo* \< *ādityaḥ* \< *āditya*
+- *ādityo* ← *ādityaḥ* ← *āditya*
 - \[noun\], nominative, singular, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
-- *viśvena* \< *viśva*
+- *viśvena* ← *viśva*
 - \[noun\], instrumental, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *sahasā* \< *sahas*
+- *sahasā* ← *sahas*
 - \[noun\], instrumental, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
@@ -31,35 +31,35 @@ title = "Rig Veda 1.50.13"
 - \[adverb\]
 - “together; together; with; jointly; together; saha \[word\]; along.”
 ------------------------------------------------------------------------
-- *dviṣantam* \< *dviṣ*
+- *dviṣantam* ← *dviṣ*
 - \[verb noun\], accusative, singular
 - “hate; dislike.”
 ------------------------------------------------------------------------
-- *mahyaṃ* \< *mahyam* \< *mad*
+- *mahyaṃ* ← *mahyam* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *randhayan* \< *randhay* \< *√radh*
+- *randhayan* ← *randhay* ← *√radh*
 - \[verb noun\], nominative, singular
 - “subjugate; hand over.”
 ------------------------------------------------------------------------
-- *mo* \< *mā*
+- *mo* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *mo* \< *u*
+- *mo* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ahaṃ* \< *aham* \< *mad*
+- *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dviṣate* \< *dviṣ*
+- *dviṣate* ← *dviṣ*
 - \[verb noun\], dative, singular
 - “hate; dislike.”
 ------------------------------------------------------------------------
-- *radham* \< *radh*
+- *radham* ← *radh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “subjugate.”
 ------------------------------------------------------------------------

@@ -2,32 +2,32 @@
 title = "Rig Veda 6.20.5"
 
 +++
--   *maho* \< *mahaḥ* \< *mah*
+-   *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *druho* \< *druhaḥ* \< *druh*
+- *druho* ← *druhaḥ* ← *druh*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
 - *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *viśvāyu* \< *viśva*
+- *viśvāyu* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvāyu* \< *āyu*
+- *viśvāyu* ← *āyu*
 - \[noun\], nominative, singular, neuter
 - “life; life; age.”
 ------------------------------------------------------------------------
-- *dhāyi* \< *dhā*
+- *dhāyi* ← *dhā*
 - \[verb\], singular, Aorist passive
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *vajrasya* \< *vajra*
+- *vajrasya* ← *vajra*
 - \[noun\], genitive, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
@@ -36,16 +36,16 @@ title = "Rig Veda 6.20.5"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *patane* \< *patana*
+- *patane* ← *patana*
 - \[noun\], locative, singular, neuter
 - “fall; drop; spill; decline; ruin; flight; pātana; cut; spontaneous
     abortion; shooting; jump.”
 ------------------------------------------------------------------------
-- *pādi* \< *pad*
+- *pādi* ← *pad*
 - \[verb\], singular, Aorist passive
 - “fall.”
 ------------------------------------------------------------------------
-- *śuṣṇaḥ* \< *śuṣṇa*
+- *śuṣṇaḥ* ← *śuṣṇa*
 - \[noun\], nominative, singular, masculine
 - “Śuṣṇa.”
 ------------------------------------------------------------------------
@@ -53,25 +53,25 @@ title = "Rig Veda 6.20.5"
 - \[noun\], accusative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *ṣa* \< *sa* \< *tad*
+- *ṣa* ← *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *sarathaṃ* \< *sa*
+- *sarathaṃ* ← *sa*
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *sarathaṃ* \< *ratham* \< *ratha*
+- *sarathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *sārathaye* \< *sārathi*
+- *sārathaye* ← *sārathi*
 - \[noun\], dative, singular, masculine
 - “charioteer; sārathi \[word\].”
 ------------------------------------------------------------------------
-- *kar* \< *kaḥ* \< *kṛ*
+- *kar* ← *kaḥ* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -82,21 +82,21 @@ title = "Rig Veda 6.20.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *kutsāya* \< *kutsa*
+- *kutsāya* ← *kutsa*
 - \[noun\], dative, singular, masculine
 - “Kutsa; kutsa \[word\].”
 ------------------------------------------------------------------------
-- *sūryasya* \< *sūrya*
+- *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *sātau* \< *sāti*
+- *sātau* ← *sāti*
 - \[noun\], locative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------

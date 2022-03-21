@@ -2,7 +2,7 @@
 title = "Rig Veda 7.94.5"
 
 +++
--   *tā* \< *tad*
+-   *tā* ← *tad*
 - \[noun\], accusative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -12,11 +12,11 @@ title = "Rig Veda 7.94.5"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *śaśvanta* \< *śaśvantaḥ* \< *śaśvat*
+- *śaśvanta* ← *śaśvantaḥ* ← *śaśvat*
 - \[noun\], nominative, plural, masculine
 - “all(a).”
 ------------------------------------------------------------------------
-- *īﾱata* \< *īḍata* \< *īḍ*
+- *īﾱata* ← *īḍata* ← *īḍ*
 - \[verb\], plural, Present injunctive
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
@@ -24,19 +24,19 @@ title = "Rig Veda 7.94.5"
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *viprāsa* \< *viprāsaḥ* \< *vipra*
+- *viprāsa* ← *viprāsaḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *ūtaye* \< *ūti*
+- *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *sabādho* \< *sabādhaḥ* \< *sabādh*
+- *sabādho* ← *sabādhaḥ* ← *sabādh*
 - \[noun\], nominative, plural, masculine
 - “pressing; clamant.”
 ------------------------------------------------------------------------
-- *vājasātaye* \< *vājasāti*
+- *vājasātaye* ← *vājasāti*
 - \[noun\], dative, singular, feminine
 - “victory; battle.”
 ------------------------------------------------------------------------

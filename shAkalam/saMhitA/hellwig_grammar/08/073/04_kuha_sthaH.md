@@ -6,7 +6,7 @@ title = "Rig Veda 8.73.4"
 - \[adverb\]
 - “wherein.”
 ------------------------------------------------------------------------
-- *sthaḥ* \< *as*
+- *sthaḥ* ← *as*
 - \[verb\], dual, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -15,7 +15,7 @@ title = "Rig Veda 8.73.4"
 - \[adverb\]
 - “wherein.”
 ------------------------------------------------------------------------
-- *jagmathuḥ* \< *gam*
+- *jagmathuḥ* ← *gam*
 - \[verb\], dual, Perfect indicative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
@@ -26,15 +26,15 @@ title = "Rig Veda 8.73.4"
 - \[adverb\]
 - “wherein.”
 ------------------------------------------------------------------------
-- *śyeneva* \< *śyenā* \< *śyena*
+- *śyeneva* ← *śyenā* ← *śyena*
 - \[noun\], nominative, dual, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
 ------------------------------------------------------------------------
-- *śyeneva* \< *iva*
+- *śyeneva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *petathuḥ* \< *pat*
+- *petathuḥ* ← *pat*
 - \[verb\], dual, Perfect indicative
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
@@ -42,23 +42,23 @@ title = "Rig Veda 8.73.4"
 - *anti*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ṣad* \< *sat* \< *as*
+- *ṣad* ← *sat* ← *as*
 - \[verb noun\], nominative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *bhūtu* \< *bhū*
+- *bhūtu* ← *bhū*
 - \[verb\], singular, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *avaḥ* \< *avas*
+- *avaḥ* ← *avas*
 - \[noun\], nominative, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------

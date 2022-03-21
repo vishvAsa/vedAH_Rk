@@ -10,15 +10,15 @@ title = "Rig Veda 7.36.6"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *sākaṃ* \< *sākam*
+- *sākaṃ* ← *sākam*
 - \[adverb\]
 - “together; jointly; simultaneously.”
 ------------------------------------------------------------------------
-- *yaśaso* \< *yaśasaḥ* \< *yaśas*
+- *yaśaso* ← *yaśasaḥ* ← *yaśas*
 - \[noun\], nominative, plural, feminine
 - “esteemed; celebrated; glorious; honorable.”
 ------------------------------------------------------------------------
-- *vāvaśānāḥ* \< *vaś*
+- *vāvaśānāḥ* ← *vaś*
 - \[verb noun\], nominative, plural
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
@@ -27,40 +27,40 @@ title = "Rig Veda 7.36.6"
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
 ------------------------------------------------------------------------
-- *saptathī* \< *saptatha*
+- *saptathī* ← *saptatha*
 - \[noun\], nominative, singular, feminine
 - “seventh.”
 ------------------------------------------------------------------------
-- *sindhumātā* \< *sindhu*
+- *sindhumātā* ← *sindhu*
 - \[noun\], masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *sindhumātā* \< *mātā* \< *mātṛ*
+- *sindhumātā* ← *mātā* ← *mātṛ*
 - \[noun\], nominative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *yāḥ* \< *yad*
+- *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *suṣvayanta* \< *\_* \< *√\_*
+- *suṣvayanta* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *sudughāḥ* \< *su*
+- *sudughāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudughāḥ* \< *dughāḥ* \< *dugha*
+- *sudughāḥ* ← *dughāḥ* ← *dugha*
 - \[noun\], nominative, plural, feminine
 - “yielding.”
 ------------------------------------------------------------------------
-- *sudhārā* \< *su*
+- *sudhārā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudhārā* \< *dhārāḥ* \< *dhārā*
+- *sudhārā* ← *dhārāḥ* ← *dhārā*
 - \[noun\], nominative, plural, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
@@ -68,16 +68,16 @@ title = "Rig Veda 7.36.6"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *svena* \< *sva*
+- *svena* ← *sva*
 - \[noun\], instrumental, singular, neuter
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *payasā* \< *payas*
+- *payasā* ← *payas*
 - \[noun\], instrumental, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
-- *pīpyānāḥ* \< *pyā*
+- *pīpyānāḥ* ← *pyā*
 - \[verb noun\], nominative, plural
 - “swell; abound; swell.”
 ------------------------------------------------------------------------

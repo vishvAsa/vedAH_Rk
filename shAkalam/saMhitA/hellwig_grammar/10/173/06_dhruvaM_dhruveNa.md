@@ -2,29 +2,29 @@
 title = "Rig Veda 10.173.6"
 
 +++
--   *dhruvaṃ* \< *dhruvam* \< *dhruva*
+-   *dhruvaṃ* ← *dhruvam* ← *dhruva*
 - \[noun\], accusative, singular, masculine
 - “certain; fixed; permanent; changeless; firm; safe; resident;
     immovable; fixed; fixed; vital; faithful.”
 ------------------------------------------------------------------------
-- *dhruveṇa* \< *dhruva*
+- *dhruveṇa* ← *dhruva*
 - \[noun\], instrumental, singular, neuter
 - “certain; fixed; permanent; changeless; firm; safe; resident;
     immovable; fixed; fixed; vital; faithful.”
 ------------------------------------------------------------------------
-- *haviṣābhi* \< *haviṣā* \< *havis*
+- *haviṣābhi* ← *haviṣā* ← *havis*
 - \[noun\], instrumental, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *haviṣābhi* \< *abhi*
+- *haviṣābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *mṛśāmasi* \< *mṛś*
+- *mṛśāmasi* ← *mṛś*
 - \[verb\], plural, Present indikative
 - “touch.”
 ------------------------------------------------------------------------
@@ -32,33 +32,33 @@ title = "Rig Veda 10.173.6"
 - \[adverb\]
 - “now; but; furthermore.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *kevalīr* \< *kevalīḥ* \< *kevala*
+- *kevalīr* ← *kevalīḥ* ← *kevala*
 - \[noun\], accusative, plural, feminine
 - “pure; alone(p); whole; all(a); pure; entire; kevala \[word\];
     alone(p); single(a); white; absolute.”
 ------------------------------------------------------------------------
-- *viśo* \< *viśaḥ* \< *viś*
+- *viśo* ← *viśaḥ* ← *viś*
 - \[noun\], accusative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *balihṛtas* \< *bali*
+- *balihṛtas* ← *bali*
 - \[noun\], masculine
 - “sulfur; bali; Bali; tribute; tax; bali \[word\]; Bali.”
 ------------------------------------------------------------------------
-- *balihṛtas* \< *hṛtas* \< *hṛt*
+- *balihṛtas* ← *hṛtas* ← *hṛt*
 - \[noun\], accusative, plural, feminine
 - “curative; removing; destructive; seizing; carrying away; bringing.”
 ------------------------------------------------------------------------
-- *karat* \< *kṛ*
+- *karat* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

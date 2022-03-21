@@ -6,43 +6,43 @@ title = "Rig Veda 1.22.11"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *devīr* \< *devīḥ* \< *devī*
+- *devīr* ← *devīḥ* ← *devī*
 - \[noun\], nominative, plural, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *avasā* \< *avas*
+- *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *mahaḥ* \< *mah*
+- *mahaḥ* ← *mah*
 - \[noun\], instrumental, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *śarmaṇā* \< *śarman*
+- *śarmaṇā* ← *śarman*
 - \[noun\], instrumental, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *nṛpatnīḥ* \< *nṛ*
+- *nṛpatnīḥ* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nṛpatnīḥ* \< *patnīḥ* \< *patnī*
+- *nṛpatnīḥ* ← *patnīḥ* ← *patnī*
 - \[noun\], nominative, plural, feminine
 - “wife; mistress; queen.”
 ------------------------------------------------------------------------
-- *acchinnapatrāḥ* \< *acchinna*
+- *acchinnapatrāḥ* ← *acchinna*
 - \[noun\]
 ------------------------------------------------------------------------
-- *acchinnapatrāḥ* \< *patrāḥ* \< *pattra*
+- *acchinnapatrāḥ* ← *patrāḥ* ← *pattra*
 - \[noun\], nominative, plural, feminine
 - “leaf; leaf; feather; pattratālaka; draft animal; vehicle; hammer;
     pattra \[word\]; petal; page; wing; plant.”
 ------------------------------------------------------------------------
-- *sacantām* \< *sac*
+- *sacantām* ← *sac*
 - \[verb\], plural, Present imperative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------

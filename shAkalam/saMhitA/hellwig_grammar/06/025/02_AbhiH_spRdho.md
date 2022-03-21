@@ -2,35 +2,35 @@
 title = "Rig Veda 6.25.2"
 
 +++
--   *ābhi* \< *ābhiḥ* \< *idam*
+-   *ābhi* ← *ābhiḥ* ← *idam*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *spṛdho* \< *spṛdhaḥ* \< *spṛdh*
+- *spṛdho* ← *spṛdhaḥ* ← *spṛdh*
 - \[noun\], accusative, plural, feminine
 - “adversary; enemy; rival.”
 ------------------------------------------------------------------------
-- *mithatīr* \< *mithatīḥ* \< *mith*
+- *mithatīr* ← *mithatīḥ* ← *mith*
 - \[verb noun\], accusative, plural
 - “oppose.”
 ------------------------------------------------------------------------
-- *ariṣaṇyann* \< *a*
+- *ariṣaṇyann* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *ariṣaṇyann* \< *riṣaṇyan* \< *riṣaṇy* \< *√riṣ*
+- *ariṣaṇyann* ← *riṣaṇyan* ← *riṣaṇy* ← *√riṣ*
 - \[verb noun\], nominative, singular
 - “riṣaṇy \[verb\].”
 ------------------------------------------------------------------------
-- *amitrasya* \< *amitra*
+- *amitrasya* ← *amitra*
 - \[noun\], genitive, singular, masculine
 - “enemy; foe.”
 ------------------------------------------------------------------------
-- *vyathayā* \< *vyathaya* \< *vyathay* \< *√vyath*
+- *vyathayā* ← *vyathaya* ← *vyathay* ← *√vyath*
 - \[verb\], singular, Present imperative
 - “afflict.”
 ------------------------------------------------------------------------
-- *manyum* \< *manyu*
+- *manyum* ← *manyu*
 - \[noun\], accusative, singular, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------
@@ -39,40 +39,40 @@ title = "Rig Veda 6.25.2"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *ābhir* \< *ābhiḥ* \< *idam*
+- *ābhir* ← *ābhiḥ* ← *idam*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśvāḥ* \< *viśva*
+- *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *abhiyujo* \< *abhiyujaḥ* \< *abhiyuj*
+- *abhiyujo* ← *abhiyujaḥ* ← *abhiyuj*
 - \[noun\], accusative, plural, feminine
 - “attack; attack.”
 ------------------------------------------------------------------------
-- *viṣūcīr* \< *viṣūcīḥ* \< *viṣvañc*
+- *viṣūcīr* ← *viṣūcīḥ* ← *viṣvañc*
 - \[noun\], accusative, plural, feminine
 - “dispersed; viṣvañc \[word\].”
 ------------------------------------------------------------------------
-- *āryāya* \< *ārya*
+- *āryāya* ← *ārya*
 - \[noun\], dative, singular, masculine
 - “Ārya; Ārya.”
 ------------------------------------------------------------------------
-- *viśo* \< *viśaḥ* \< *viś*
+- *viśo* ← *viśaḥ* ← *viś*
 - \[noun\], accusative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *'va* \< *ava*
+- *'va* ← *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *tārīr* \< *tārīḥ* \< *tṛ*
+- *tārīr* ← *tārīḥ* ← *tṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *dāsīḥ* \< *dāsa*
+- *dāsīḥ* ← *dāsa*
 - \[noun\], accusative, plural, feminine
 - “dāsa(a).”
 ------------------------------------------------------------------------

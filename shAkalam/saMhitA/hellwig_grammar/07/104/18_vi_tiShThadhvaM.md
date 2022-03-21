@@ -6,30 +6,30 @@ title = "Rig Veda 7.104.18"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *tiṣṭhadhvam* \< *sthā*
+- *tiṣṭhadhvam* ← *sthā*
 - \[verb\], plural, Present imperative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *vikṣv* \< *vikṣu* \< *viś*
+- *vikṣv* ← *vikṣu* ← *viś*
 - \[noun\], locative, plural
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *icchata* \< *iṣ*
+- *icchata* ← *iṣ*
 - \[verb\], plural, Present imperative
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
 ------------------------------------------------------------------------
-- *gṛbhāyata* \< *gṛbhāy* \< *√grah*
+- *gṛbhāyata* ← *gṛbhāy* ← *√grah*
 - \[verb\], plural, Present imperative
 - “accept.”
 ------------------------------------------------------------------------
-- *rakṣasaḥ* \< *rakṣas*
+- *rakṣasaḥ* ← *rakṣas*
 - \[noun\], accusative, plural, masculine
 - “Rākṣasa.”
 ------------------------------------------------------------------------
@@ -37,34 +37,34 @@ title = "Rig Veda 7.104.18"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *pinaṣṭana* \< *piṣ*
+- *pinaṣṭana* ← *piṣ*
 - \[verb\], plural, Present imperative
 - “grind; knead; paste; crush; press out.”
 ------------------------------------------------------------------------
-- *vayo* \< *vayaḥ* \< *vi*
+- *vayo* ← *vayaḥ* ← *vi*
 - \[noun\], nominative, plural, masculine
 - “vi; bird; vi.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *bhūtvī* \< *bhū*
+- *bhūtvī* ← *bhū*
 - \[verb noun\]
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *patayanti* \< *patay* \< *√pat*
+- *patayanti* ← *patay* ← *√pat*
 - \[verb\], plural, Present indikative
 - “fly.”
 ------------------------------------------------------------------------
-- *naktabhir* \< *naktabhiḥ* \< *nakta*
+- *naktabhir* ← *naktabhiḥ* ← *nakta*
 - \[noun\], instrumental, plural, neuter
 - “night; night.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -72,20 +72,20 @@ title = "Rig Veda 7.104.18"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *ripo* \< *ripaḥ* \< *rip*
+- *ripo* ← *ripaḥ* ← *rip*
 - \[noun\], accusative, plural, feminine
 - “deceiver.”
 ------------------------------------------------------------------------
-- *dadhire* \< *dhā*
+- *dadhire* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *deve* \< *deva*
+- *deve* ← *deva*
 - \[noun\], locative, singular, masculine
 - “divine.”
 ------------------------------------------------------------------------
-- *adhvare* \< *adhvara*
+- *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------

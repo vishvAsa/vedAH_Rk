@@ -2,51 +2,51 @@
 title = "Rig Veda 1.121.2"
 
 +++
--   *stambhīddha* \< *stambhīt* \< *stambh*
+-   *stambhīddha* ← *stambhīt* ← *stambh*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “paralyze; stiffen; fixate; fixate; stambh; rear; stop; strengthen;
     constipate.”
 ------------------------------------------------------------------------
-- *stambhīddha* \< *ha*
+- *stambhīddha* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *dyāṃ* \< *dyām* \< *div*
+- *dyāṃ* ← *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *dharuṇam* \< *dharuṇa*
+- *dharuṇam* ← *dharuṇa*
 - \[noun\], accusative, singular, neuter
 - “prop; foundation.”
 ------------------------------------------------------------------------
-- *pruṣāyad* \< *pruṣāyat* \< *pruṣāy* \< *√pruṣ*
+- *pruṣāyad* ← *pruṣāyat* ← *pruṣāy* ← *√pruṣ*
 - \[verb\], singular, Present injunctive
 - “sprinkle.”
 ------------------------------------------------------------------------
-- *ṛbhur* \< *ṛbhuḥ* \< *ṛbhu*
+- *ṛbhur* ← *ṛbhuḥ* ← *ṛbhu*
 - \[noun\], nominative, singular, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
-- *vājāya* \< *vāja*
+- *vājāya* ← *vāja*
 - \[noun\], dative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *draviṇaṃ* \< *draviṇam* \< *draviṇa*
+- *draviṇaṃ* ← *draviṇam* ← *draviṇa*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; money; jewel.”
 ------------------------------------------------------------------------
-- *naro* \< *naraḥ* \< *nara*
+- *naro* ← *naraḥ* ← *nara*
 - \[noun\], nominative, singular, masculine
 - “man; man; Nara; person; people; Nara; Puruṣa; nara \[word\];
     servant; hero.”
 ------------------------------------------------------------------------
-- *goḥ* \< *go*
+- *goḥ* ← *go*
 - \[noun\], genitive, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -55,31 +55,31 @@ title = "Rig Veda 1.121.2"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *svajām* \< *sva*
+- *svajām* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svajām* \< *jām* \< *jā*
+- *svajām* ← *jām* ← *jā*
 - \[noun\], accusative, singular, feminine
 - “born.”
 ------------------------------------------------------------------------
-- *mahiṣaś* \< *mahiṣaḥ* \< *mahiṣa*
+- *mahiṣaś* ← *mahiṣaḥ* ← *mahiṣa*
 - \[noun\], nominative, singular, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
 ------------------------------------------------------------------------
-- *cakṣata* \< *cakṣ*
+- *cakṣata* ← *cakṣ*
 - \[verb\], singular, Present injunctive
 - “watch; look.”
 ------------------------------------------------------------------------
-- *vrām* \< *vrā*
+- *vrām* ← *vrā*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *menām* \< *menā*
+- *menām* ← *menā*
 - \[noun\], accusative, singular, feminine
 - “Menā; woman; Menā; Durga.”
 ------------------------------------------------------------------------
-- *aśvasya* \< *aśva*
+- *aśvasya* ← *aśva*
 - \[noun\], genitive, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
@@ -87,12 +87,12 @@ title = "Rig Veda 1.121.2"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *mātaraṃ* \< *mātaram* \< *mātṛ*
+- *mātaraṃ* ← *mātaram* ← *mātṛ*
 - \[noun\], accusative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *goḥ* \< *go*
+- *goḥ* ← *go*
 - \[noun\], genitive, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”

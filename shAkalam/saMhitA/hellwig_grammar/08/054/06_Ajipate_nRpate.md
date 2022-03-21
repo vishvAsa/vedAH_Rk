@@ -2,36 +2,36 @@
 title = "Rig Veda 8.54.6"
 
 +++
--   *ājipate* \< *āji*
+-   *ājipate* ← *āji*
 - \[noun\], masculine
 - “battle; fight; contest; āji \[word\]; combat.”
 ------------------------------------------------------------------------
-- *ājipate* \< *pate* \< *pati*
+- *ājipate* ← *pate* ← *pati*
 - \[noun\], vocative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *nṛpate* \< *nṛpati*
+- *nṛpate* ← *nṛpati*
 - \[noun\], vocative, singular, masculine
 - “king.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *iddhi* \< *id*
+- *iddhi* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *iddhi* \< *hi*
+- *iddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vāja* \< *vāje* \< *vāja*
+- *vāja* ← *vāje* ← *vāja*
 - \[noun\], locative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
@@ -39,19 +39,19 @@ title = "Rig Veda 8.54.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vakṣi* \< *vah*
+- *vakṣi* ← *vah*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *sukrato* \< *sukratu*
+- *sukrato* ← *sukratu*
 - \[noun\], vocative, singular, masculine
 - “wise.”
 ------------------------------------------------------------------------
-- *vītī* \< *vīti*
+- *vītī* ← *vīti*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *hotrābhir* \< *hotrābhiḥ* \< *hotrā*
+- *hotrābhir* ← *hotrābhiḥ* ← *hotrā*
 - \[noun\], instrumental, plural, feminine
 - “hotrā \[word\]; Hautra.”
 ------------------------------------------------------------------------
@@ -59,15 +59,15 @@ title = "Rig Veda 8.54.6"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *devavītibhiḥ* \< *deva*
+- *devavītibhiḥ* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devavītibhiḥ* \< *vītibhiḥ* \< *vīti*
+- *devavītibhiḥ* ← *vītibhiḥ* ← *vīti*
 - \[noun\], instrumental, plural, feminine
 ------------------------------------------------------------------------
-- *sasavāṃso* \< *sasavāṃsaḥ* \< *san*
+- *sasavāṃso* ← *sasavāṃsaḥ* ← *san*
 - \[verb noun\], nominative, plural
 - “win; get; gain.”
 ------------------------------------------------------------------------
@@ -75,7 +75,7 @@ title = "Rig Veda 8.54.6"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *śṛṇvire* \< *śru*
+- *śṛṇvire* ← *śru*
 - \[verb\], plural, Present indikative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------

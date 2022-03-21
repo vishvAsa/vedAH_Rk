@@ -6,39 +6,39 @@ title = "Rig Veda 8.23.10"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *aṅgirastamaṃ* \< *aṅgirastamam* \< *aṅgirastama*
+- *aṅgirastamaṃ* ← *aṅgirastamam* ← *aṅgirastama*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *yajñāso* \< *yajñāsaḥ* \< *yajña*
+- *yajñāso* ← *yajñāsaḥ* ← *yajña*
 - \[noun\], nominative, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *yantu* \< *i*
+- *yantu* ← *i*
 - \[verb\], plural, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *saṃyataḥ* \< *saṃyat*
+- *saṃyataḥ* ← *saṃyat*
 - \[noun\], nominative, plural, masculine
 - “continuous.”
 ------------------------------------------------------------------------
-- *hotā* \< *hotṛ*
+- *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *asti* \< *as*
+- *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *vikṣv* \< *vikṣu* \< *viś*
+- *vikṣv* ← *vikṣu* ← *viś*
 - \[noun\], locative, plural
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
@@ -46,6 +46,6 @@ title = "Rig Veda 8.23.10"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yaśastamaḥ* \< *yaśastama*
+- *yaśastamaḥ* ← *yaśastama*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

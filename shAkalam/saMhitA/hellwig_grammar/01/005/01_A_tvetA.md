@@ -6,11 +6,11 @@ title = "Rig Veda 1.5.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tv* \< *tu*
+- *tv* ← *tu*
 - \[adverb\]
 - “now; then; but; and; now; however; then; then; surely.”
 ------------------------------------------------------------------------
-- *etā* \< *i*
+- *etā* ← *i*
 - \[verb\], plural, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
@@ -18,12 +18,12 @@ title = "Rig Veda 1.5.1"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ṣīdatendram* \< *ṣīdata* \< *sad*
+- *ṣīdatendram* ← *ṣīdata* ← *sad*
 - \[verb\], plural, Present imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *ṣīdatendram* \< *indram* \< *indra*
+- *ṣīdatendram* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -36,19 +36,19 @@ title = "Rig Veda 1.5.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *gāyata* \< *gā*
+- *gāyata* ← *gā*
 - \[verb\], plural, Present imperative
 - “sing; praise; jap; recite; describe.”
 ------------------------------------------------------------------------
-- *sakhāya* \< *sakhi*
+- *sakhāya* ← *sakhi*
 - \[noun\], nominative, plural
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *stomavāhasaḥ* \< *stoma*
+- *stomavāhasaḥ* ← *stoma*
 - \[noun\], masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *stomavāhasaḥ* \< *vāhasaḥ* \< *vāhas*
+- *stomavāhasaḥ* ← *vāhasaḥ* ← *vāhas*
 - \[noun\], vocative, plural, masculine
 - “invocation.”
 ------------------------------------------------------------------------

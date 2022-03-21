@@ -2,7 +2,7 @@
 title = "Rig Veda 8.44.11"
 
 +++
--   *agne* \< *agni*
+-   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -12,15 +12,15 @@ title = "Rig Veda 8.44.11"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *nas* \< *naḥ* \< *mad*
+- *nas* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -28,7 +28,7 @@ title = "Rig Veda 8.44.11"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *ṣma* \< *sma*
+- *ṣma* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *deva*
@@ -36,18 +36,18 @@ title = "Rig Veda 8.44.11"
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *rīṣataḥ* \< *riṣ*
+- *rīṣataḥ* ← *riṣ*
 - \[verb noun\], accusative, plural
 - “suffer; harm.”
 ------------------------------------------------------------------------
-- *bhinddhi* \< *bhid*
+- *bhinddhi* ← *bhid*
 - \[verb\], singular, Present imperative
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;
     transgress; break open; scratch; penetrate; sever; bribe; grind;
     betray; fester; strike.”
 ------------------------------------------------------------------------
-- *dveṣaḥ* \< *dveṣas*
+- *dveṣaḥ* ← *dveṣas*
 - \[noun\], accusative, singular, neuter
 - “hostility; enemy.”
 ------------------------------------------------------------------------

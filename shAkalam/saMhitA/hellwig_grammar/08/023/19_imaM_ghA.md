@@ -2,26 +2,26 @@
 title = "Rig Veda 8.23.19"
 
 +++
--   *imaṃ* \< *imam* \< *idam*
+-   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ghā* \< *gha*
+- *ghā* ← *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *vīro* \< *vīraḥ* \< *vīra*
+- *vīro* ← *vīraḥ* ← *vīra*
 - \[noun\], nominative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *amṛtaṃ* \< *amṛtam* \< *amṛta*
+- *amṛtaṃ* ← *amṛtam* ← *amṛta*
 - \[noun\], accusative, singular, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *dūtaṃ* \< *dūtam* \< *dūta*
+- *dūtaṃ* ← *dūtam* ← *dūta*
 - \[noun\], accusative, singular, masculine
 - “messenger; emissary; dūta \[word\].”
 ------------------------------------------------------------------------
-- *kṛṇvīta* \< *kṛ*
+- *kṛṇvīta* ← *kṛ*
 - \[verb\], singular, Present optative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -32,24 +32,24 @@ title = "Rig Veda 8.23.19"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *martyaḥ* \< *martya*
+- *martyaḥ* ← *martya*
 - \[noun\], nominative, singular, masculine
 - “mortal.”
 ------------------------------------------------------------------------
-- *pāvakaṃ* \< *pāvakam* \< *pāvaka*
+- *pāvakaṃ* ← *pāvakam* ← *pāvaka*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; Plumbago zeylanica;
     vahni.”
 ------------------------------------------------------------------------
-- *kṛṣṇavartaniṃ* \< *kṛṣṇa*
+- *kṛṣṇavartaniṃ* ← *kṛṣṇa*
 - \[noun\]
 - “black; dark; dark; blue; black.”
 ------------------------------------------------------------------------
-- *kṛṣṇavartaniṃ* \< *vartanim* \< *vartani*
+- *kṛṣṇavartaniṃ* ← *vartanim* ← *vartani*
 - \[noun\], accusative, singular, masculine
 - “path; East; way.”
 ------------------------------------------------------------------------
-- *vihāyasam* \< *vihāyas*
+- *vihāyasam* ← *vihāyas*
 - \[noun\], accusative, singular, masculine
 - “vigorous.”
 ------------------------------------------------------------------------

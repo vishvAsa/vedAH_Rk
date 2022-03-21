@@ -2,55 +2,55 @@
 title = "Rig Veda 1.142.5"
 
 +++
--   *stṛṇānāso* \< *stṛṇānāsaḥ* \< *stṛ*
+-   *stṛṇānāso* ← *stṛṇānāsaḥ* ← *stṛ*
 - \[verb noun\], nominative, plural
 - “spread; kill; lay; cover.”
 ------------------------------------------------------------------------
-- *yatasruco* \< *yata* \< *yam*
+- *yatasruco* ← *yata* ← *yam*
 - \[verb noun\]
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *yatasruco* \< *srucaḥ* \< *sruc*
+- *yatasruco* ← *srucaḥ* ← *sruc*
 - \[noun\], nominative, plural, masculine
 - “Sruc.”
 ------------------------------------------------------------------------
-- *barhir* \< *barhiḥ* \< *barhis*
+- *barhir* ← *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *yajñe* \< *yajña*
+- *yajñe* ← *yajña*
 - \[noun\], locative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *svadhvare* \< *su*
+- *svadhvare* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svadhvare* \< *adhvare* \< *adhvara*
+- *svadhvare* ← *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *vṛñje* \< *vṛj*
+- *vṛñje* ← *vṛj*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *devavyacastamam* \< *deva*
+- *devavyacastamam* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devavyacastamam* \< *vyacastamam* \< *vyacastama*
+- *devavyacastamam* ← *vyacastamam* ← *vyacastama*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *saprathaḥ* \< *saprathas*
+- *saprathaḥ* ← *saprathas*
 - \[noun\], accusative, singular, neuter
 - “extensive; wide; extended.”
 ------------------------------------------------------------------------

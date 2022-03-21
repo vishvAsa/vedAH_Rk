@@ -6,38 +6,38 @@ title = "Rig Veda 10.112.9"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sīda* \< *sad*
+- *sīda* ← *sad*
 - \[verb\], singular, Present imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *gaṇapate* \< *gaṇapati*
+- *gaṇapate* ← *gaṇapati*
 - \[noun\], vocative, singular, masculine
 - “Ganesa; general; Shiva; Brihaspati.”
 ------------------------------------------------------------------------
-- *gaṇeṣu* \< *gaṇa*
+- *gaṇeṣu* ← *gaṇa*
 - \[noun\], locative, plural, masculine
 - “group; varga; troop; troop; battalion; flock; herd; gaṇa \[word\];
     corporation; gaṇa; herd; sect; swarm; set; party; gaṇa; series;
     Ganesa; flight.”
 ------------------------------------------------------------------------
-- *tvām* \< *tvad*
+- *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *āhur* \< *āhuḥ* \< *ah*
+- *āhur* ← *āhuḥ* ← *ah*
 - \[verb\], plural, Perfect indicative
 - “describe; state; say; enumerate; call; name; teach; tell; deem;
     explain; say; define.”
 ------------------------------------------------------------------------
-- *vipratamaṃ* \< *vipratamam* \< *vipratama*
+- *vipratamaṃ* ← *vipratamam* ← *vipratama*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *kavīnām* \< *kavi*
+- *kavīnām* ← *kavi*
 - \[noun\], genitive, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
@@ -50,11 +50,11 @@ title = "Rig Veda 10.112.9"
 - \[adverb\]
 - “without; ṛte \[word\].”
 ------------------------------------------------------------------------
-- *tvat* \< *tvad*
+- *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *kriyate* \< *kṛ*
+- *kriyate* ← *kṛ*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -65,37 +65,37 @@ title = "Rig Veda 10.112.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *kiṃ* \< *kim* \< *ka*
+- *kiṃ* ← *kim* ← *ka*
 - \[noun\], nominative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *canāre* \< *cana*
+- *canāre* ← *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *canāre* \< *are*
+- *canāre* ← *are*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *mahām* \< *\_* \< *√\_*
+- *mahām* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *arkam* \< *arka*
+- *arkam* ← *arka*
 - \[noun\], accusative, singular, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *maghavañ* \< *maghavan*
+- *maghavañ* ← *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *citram* \< *citra*
+- *citram* ← *citra*
 - \[noun\], accusative, singular, masculine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *arca* \< *arc*
+- *arca* ← *arc*
 - \[verb\], singular, Present imperative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------

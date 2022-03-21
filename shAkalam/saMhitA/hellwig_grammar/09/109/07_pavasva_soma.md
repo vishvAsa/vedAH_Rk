@@ -2,7 +2,7 @@
 title = "Rig Veda 9.109.7"
 
 +++
--   *pavasva* \< *pū*
+-   *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
@@ -10,23 +10,23 @@ title = "Rig Veda 9.109.7"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *dyumnī* \< *dyumnin*
+- *dyumnī* ← *dyumnin*
 - \[noun\], nominative, singular, masculine
 - “powerful; imperial.”
 ------------------------------------------------------------------------
-- *sudhāro* \< *su*
+- *sudhāro* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudhāro* \< *dhāraḥ* \< *dhārā*
+- *sudhāro* ← *dhāraḥ* ← *dhārā*
 - \[noun\], nominative, singular, masculine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *mahām* \< *mah*
+- *mahām* ← *mah*
 - \[noun\], genitive, plural, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *avīnām* \< *avi*
+- *avīnām* ← *avi*
 - \[noun\], genitive, plural, masculine
 - “sheep; avi \[word\]; menstruating woman; ewe.”
 ------------------------------------------------------------------------
@@ -34,7 +34,7 @@ title = "Rig Veda 9.109.7"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *pūrvyaḥ* \< *pūrvya*
+- *pūrvyaḥ* ← *pūrvya*
 - \[noun\], nominative, singular, masculine
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------

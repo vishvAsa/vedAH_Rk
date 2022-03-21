@@ -2,56 +2,56 @@
 title = "Rig Veda 10.85.33"
 
 +++
--   *sumaṅgalīr* \< *su*
+-   *sumaṅgalīr* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sumaṅgalīr* \< *maṅgalīḥ* \< *maṅgala*
+- *sumaṅgalīr* ← *maṅgalīḥ* ← *maṅgala*
 - \[noun\], nominative, singular, feminine
 - “auspicious.”
 ------------------------------------------------------------------------
-- *iyaṃ* \< *iyam* \< *idam*
+- *iyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vadhūr* \< *vadhūḥ* \< *vadhū*
+- *vadhūr* ← *vadhūḥ* ← *vadhū*
 - \[noun\], nominative, singular, feminine
 - “wife; woman; bride; female; Trigonella corniculata; female; cow.”
 ------------------------------------------------------------------------
-- *imāṃ* \< *imām* \< *idam*
+- *imāṃ* ← *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *sameta* \< *same* \< *√i*
+- *sameta* ← *same* ← *√i*
 - \[verb\], plural, Present imperative
 - “meet; mix; approach; meet; endow; meet.”
 ------------------------------------------------------------------------
-- *paśyata* \< *paś*
+- *paśyata* ← *paś*
 - \[verb\], plural, Present imperative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *saubhāgyam* \< *saubhāgya*
+- *saubhāgyam* ← *saubhāgya*
 - \[noun\], accusative, singular, neuter
 - “borax; good fortune; good luck; sindūra; prosperity; happiness;
     affection.”
 ------------------------------------------------------------------------
-- *asyai* \< *idam*
+- *asyai* ← *idam*
 - \[noun\], dative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *dattvāyāthāstaṃ* \< *dattvāya* \< *dā*
+- *dattvāyāthāstaṃ* ← *dattvāya* ← *dā*
 - \[verb noun\]
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *dattvāyāthāstaṃ* \< *atha*
+- *dattvāyāthāstaṃ* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *dattvāyāthāstaṃ* \< *astam* \< *asta*
+- *dattvāyāthāstaṃ* ← *astam* ← *asta*
 - \[noun\], accusative, singular, masculine
 - “set; Asta.”
 ------------------------------------------------------------------------
@@ -59,11 +59,11 @@ title = "Rig Veda 10.85.33"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *paretana* \< *parā*
+- *paretana* ← *parā*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *paretana* \< *itana* \< *i*
+- *paretana* ← *itana* ← *i*
 - \[verb\], plural, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------

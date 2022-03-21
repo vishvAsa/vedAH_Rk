@@ -2,45 +2,45 @@
 title = "Rig Veda 10.90.8"
 
 +++
--   *tasmād* \< *tasmāt* \< *tad*
+-   *tasmād* ← *tasmāt* ← *tad*
 - \[noun\], ablative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *yajñāt* \< *yajña*
+- *yajñāt* ← *yajña*
 - \[noun\], ablative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *sarvahutaḥ* \< *sarva*
+- *sarvahutaḥ* ← *sarva*
 - \[noun\]
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
 ------------------------------------------------------------------------
-- *sarvahutaḥ* \< *hutaḥ* \< *hu*
+- *sarvahutaḥ* ← *hutaḥ* ← *hu*
 - \[verb noun\], nominative, singular
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
-- *saṃbhṛtam* \< *sambhṛ* \< *√bhṛ*
+- *saṃbhṛtam* ← *sambhṛ* ← *√bhṛ*
 - \[verb noun\], nominative, singular
 - “gather; collect; fill; mix; fill into; produce.”
 ------------------------------------------------------------------------
-- *pṛṣadājyam* \< *pṛṣadājya*
+- *pṛṣadājyam* ← *pṛṣadājya*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *paśūn* \< *paśu*
+- *paśūn* ← *paśu*
 - \[noun\], accusative, plural, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
 ------------------------------------------------------------------------
-- *tāṃś* \< *tān* \< *tad*
+- *tāṃś* ← *tān* ← *tad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *cakre* \< *kṛ*
+- *cakre* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -51,15 +51,15 @@ title = "Rig Veda 10.90.8"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *vāyavyān* \< *vāyavya*
+- *vāyavyān* ← *vāyavya*
 - \[noun\], accusative, plural, masculine
 - “aerial; air(a).”
 ------------------------------------------------------------------------
-- *āraṇyān* \< *āraṇya*
+- *āraṇyān* ← *āraṇya*
 - \[noun\], accusative, plural, masculine
 - “sylvan; wild; wild.”
 ------------------------------------------------------------------------
-- *grāmyāś* \< *grāmyāḥ* \< *grāmya*
+- *grāmyāś* ← *grāmyāḥ* ← *grāmya*
 - \[noun\], nominative, plural, masculine
 - “domestic; cultivated; tame; sexual; rural; coarse; coarse.”
 ------------------------------------------------------------------------
@@ -67,7 +67,7 @@ title = "Rig Veda 10.90.8"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------

@@ -2,23 +2,23 @@
 title = "Rig Veda 9.66.6"
 
 +++
--   *taveme* \< *tava* \< *tvad*
+-   *taveme* ← *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *taveme* \< *ime* \< *idam*
+- *taveme* ← *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], nominative, plural, masculine
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *sindhavaḥ* \< *sindhu*
+- *sindhavaḥ* ← *sindhu*
 - \[noun\], nominative, plural, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *praśiṣaṃ* \< *praśiṣam* \< *praśis*
+- *praśiṣaṃ* ← *praśiṣam* ← *praśis*
 - \[noun\], accusative, singular, feminine
 - “order; direction.”
 ------------------------------------------------------------------------
@@ -26,19 +26,19 @@ title = "Rig Veda 9.66.6"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *sisrate* \< *sṛ*
+- *sisrate* ← *sṛ*
 - \[verb\], plural, Present indikative
 - “sṛ; liquefy; run; spread; stretch out.”
 ------------------------------------------------------------------------
-- *tubhyaṃ* \< *tubhyam* \< *tvad*
+- *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dhāvanti* \< *dhāv*
+- *dhāvanti* ← *dhāv*
 - \[verb\], plural, Present indikative
 - “run; run; wash.”
 ------------------------------------------------------------------------
-- *dhenavaḥ* \< *dhenu*
+- *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------

@@ -6,81 +6,81 @@ title = "Rig Veda 5.41.16"
 - \[adverb\]
 - “how.”
 ------------------------------------------------------------------------
-- *dāśema* \< *dāś*
+- *dāśema* ← *dāś*
 - \[verb\], plural, Present optative
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *namasā* \< *namas*
+- *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *sudānūn* \< *sudānu*
+- *sudānūn* ← *sudānu*
 - \[noun\], accusative, plural, masculine
 - “big; lavish.”
 ------------------------------------------------------------------------
-- *evayā* \< *eva*
+- *evayā* ← *eva*
 - \[noun\]
 - “fast; rapid; agile.”
 ------------------------------------------------------------------------
-- *evayā* \< *yāḥ* \< *yā*
+- *evayā* ← *yāḥ* ← *yā*
 - \[noun\], accusative, plural, masculine
 - “going.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], accusative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *acchoktau* \< *acchokti*
+- *acchoktau* ← *acchokti*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
-- *praśravaso* \< *praśravasaḥ* \< *praśravas*
+- *praśravaso* ← *praśravasaḥ* ← *praśravas*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], accusative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *acchoktau* \< *acchokti*
+- *acchoktau* ← *acchokti*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
 - *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *'hir* \< *ahiḥ* \< *ahi*
+- *'hir* ← *ahiḥ* ← *ahi*
 - \[noun\], nominative, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
 ------------------------------------------------------------------------
-- *budhnyo* \< *budhnyaḥ* \< *budhnya*
+- *budhnyo* ← *budhnyaḥ* ← *budhnya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *riṣe* \< *riṣ*
+- *riṣe* ← *riṣ*
 - \[verb noun\]
 - “suffer; harm.”
 ------------------------------------------------------------------------
-- *dhād* \< *dhāt* \< *dhā*
+- *dhād* ← *dhāt* ← *dhā*
 - \[verb\], singular, Aorist conj./subj.
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *asmākam* \< *mad*
+- *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *bhūd* \< *bhūt* \< *bhū*
+- *bhūd* ← *bhūt* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *upamātivaniḥ* \< *upamāti*
+- *upamātivaniḥ* ← *upamāti*
 - \[noun\], feminine
 ------------------------------------------------------------------------
-- *upamātivaniḥ* \< *vaniḥ* \< *vani*
+- *upamātivaniḥ* ← *vaniḥ* ← *vani*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

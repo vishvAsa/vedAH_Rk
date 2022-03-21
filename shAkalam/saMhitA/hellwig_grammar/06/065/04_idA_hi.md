@@ -9,55 +9,55 @@ title = "Rig Veda 6.65.4"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *vidhate* \< *vidh*
+- *vidhate* ← *vidh*
 - \[verb noun\], dative, singular
 - “worship; offer.”
 ------------------------------------------------------------------------
-- *ratnam* \< *ratna*
+- *ratnam* ← *ratna*
 - \[noun\], nominative, singular, neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
 ------------------------------------------------------------------------
-- *astīdā* \< *asti* \< *as*
+- *astīdā* ← *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *astīdā* \< *idā*
+- *astīdā* ← *idā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *vīrāya* \< *vīra*
+- *vīrāya* ← *vīra*
 - \[noun\], dative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *dāśuṣa* \< *dāśuṣe* \< *dāś*
+- *dāśuṣa* ← *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *uṣāsaḥ* \< *uṣas*
+- *uṣāsaḥ* ← *uṣas*
 - \[noun\], vocative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
 - *idā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *viprāya* \< *vipra*
+- *viprāya* ← *vipra*
 - \[noun\], dative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *jarate* \< *jṛ*
+- *jarate* ← *jṛ*
 - \[verb noun\], dative, singular
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *ukthā* \< *uktha*
+- *ukthā* ← *uktha*
 - \[noun\], accusative, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
@@ -65,13 +65,13 @@ title = "Rig Veda 6.65.4"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ṣma* \< *sma*
+- *ṣma* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *māvate* \< *māvat*
+- *māvate* ← *māvat*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *vahathā* \< *vahatha* \< *vah*
+- *vahathā* ← *vahatha* ← *vah*
 - \[verb\], plural, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”

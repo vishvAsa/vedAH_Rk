@@ -2,15 +2,15 @@
 title = "Rig Veda 10.14.1"
 
 +++
--   *pareyivāṃsam* \< *pare* \< *√i*
+-   *pareyivāṃsam* ← *pare* ← *√i*
 - \[verb noun\], accusative, singular
 - “travel; depart; go; die.”
 ------------------------------------------------------------------------
-- *pravato* \< *pravataḥ* \< *pravat*
+- *pravato* ← *pravataḥ* ← *pravat*
 - \[noun\], accusative, plural, feminine
 - “slope; river.”
 ------------------------------------------------------------------------
-- *mahīr* \< *mahīḥ* \< *mahi*
+- *mahīr* ← *mahīḥ* ← *mahi*
 - \[noun\], accusative, plural, feminine
 - “great; firm.”
 ------------------------------------------------------------------------
@@ -18,44 +18,44 @@ title = "Rig Veda 10.14.1"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *bahubhyaḥ* \< *bahu*
+- *bahubhyaḥ* ← *bahu*
 - \[noun\], dative, plural, masculine
 - “many; much(a); bahu \[word\]; abundant; long; large; abounding
     in(p); perennial.”
 ------------------------------------------------------------------------
-- *panthām* \< *pathin*
+- *panthām* ← *pathin*
 - \[noun\], accusative, singular
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *anupaspaśānam* \< *anupaś* \< *√paś*
+- *anupaspaśānam* ← *anupaś* ← *√paś*
 - \[verb noun\], accusative, singular
 - “notice; detect; heed; spy.”
 ------------------------------------------------------------------------
-- *vaivasvataṃ* \< *vaivasvatam* \< *vaivasvata*
+- *vaivasvataṃ* ← *vaivasvatam* ← *vaivasvata*
 - \[noun\], accusative, singular, masculine
 - “Yama; Vaivasvata.”
 ------------------------------------------------------------------------
-- *saṃgamanaṃ* \< *saṃgamanam* \< *saṃgamana*
+- *saṃgamanaṃ* ← *saṃgamanam* ← *saṃgamana*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *janānāṃ* \< *janānām* \< *jana*
+- *janānāṃ* ← *janānām* ← *jana*
 - \[noun\], genitive, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *yamaṃ* \< *yamam* \< *yama*
+- *yamaṃ* ← *yamam* ← *yama*
 - \[noun\], accusative, singular, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
 ------------------------------------------------------------------------
-- *rājānaṃ* \< *rājānam* \< *rājan*
+- *rājānaṃ* ← *rājānam* ← *rājan*
 - \[noun\], accusative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *haviṣā* \< *havis*
+- *haviṣā* ← *havis*
 - \[noun\], instrumental, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *duvasya* \< *duvasy*
+- *duvasya* ← *duvasy*
 - \[verb\], singular, Present imperative
 - “worship.”
 ------------------------------------------------------------------------

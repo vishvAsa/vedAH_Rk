@@ -2,11 +2,11 @@
 title = "Rig Veda 4.17.15"
 
 +++
--   *asiknyāṃ* \< *asiknyām* \< *asiknī*
+-   *asiknyāṃ* ← *asiknyām* ← *asiknī*
 - \[noun\], locative, singular, feminine
 - “Asiknī; Vairiṇī; night.”
 ------------------------------------------------------------------------
-- *yajamāno* \< *yajamānaḥ* \< *yaj*
+- *yajamāno* ← *yajamānaḥ* ← *yaj*
 - \[verb noun\], nominative, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
@@ -14,7 +14,7 @@ title = "Rig Veda 4.17.15"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *hotā* \< *hotṛ*
+- *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------

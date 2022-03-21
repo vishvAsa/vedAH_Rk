@@ -2,18 +2,18 @@
 title = "Rig Veda 1.32.14"
 
 +++
--   *aher* \< *aheḥ* \< *ahi*
+-   *aher* ← *aheḥ* ← *ahi*
 - \[noun\], genitive, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
 ------------------------------------------------------------------------
-- *yātāraṃ* \< *yātāram* \< *yātṛ*
+- *yātāraṃ* ← *yātāram* ← *yātṛ*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *kam* \< *ka*
+- *kam* ← *ka*
 - \[noun\], accusative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *apaśya* \< *apaśyaḥ* \< *paś*
+- *apaśya* ← *apaśyaḥ* ← *paś*
 - \[verb\], singular, Imperfect
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
@@ -23,7 +23,7 @@ title = "Rig Veda 1.32.14"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *hṛdi* \< *hṛd*
+- *hṛdi* ← *hṛd*
 - \[noun\], locative, singular, neuter
 - “heart; heart; mind; breast; hṛd \[word\].”
 ------------------------------------------------------------------------
@@ -31,28 +31,28 @@ title = "Rig Veda 1.32.14"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *jaghnuṣo* \< *jaghnuṣaḥ* \< *han*
+- *jaghnuṣo* ← *jaghnuṣaḥ* ← *han*
 - \[verb noun\], genitive, singular
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *bhīr* \< *bhīḥ* \< *bhī*
+- *bhīr* ← *bhīḥ* ← *bhī*
 - \[noun\], nominative, singular, feminine
 - “fear; bhī; alarm.”
 ------------------------------------------------------------------------
-- *agacchat* \< *gam*
+- *agacchat* ← *gam*
 - \[verb\], singular, Imperfect
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *nava* \< *navan*
+- *nava* ← *navan*
 - \[noun\], accusative, singular, neuter
 - “nine.”
 ------------------------------------------------------------------------
@@ -60,11 +60,11 @@ title = "Rig Veda 1.32.14"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *yan* \< *yat*
+- *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *navatiṃ* \< *navatim* \< *navati*
+- *navatiṃ* ← *navatim* ← *navati*
 - \[noun\], accusative, singular, feminine
 - “ninety; navati \[word\].”
 ------------------------------------------------------------------------
@@ -72,11 +72,11 @@ title = "Rig Veda 1.32.14"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *sravantīḥ* \< *sravantī*
+- *sravantīḥ* ← *sravantī*
 - \[noun\], accusative, plural, feminine
 - “river.”
 ------------------------------------------------------------------------
-- *śyeno* \< *śyenaḥ* \< *śyena*
+- *śyeno* ← *śyenaḥ* ← *śyena*
 - \[noun\], nominative, singular, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
 ------------------------------------------------------------------------
@@ -84,15 +84,15 @@ title = "Rig Veda 1.32.14"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *bhīto* \< *bhītaḥ* \< *bhī*
+- *bhīto* ← *bhītaḥ* ← *bhī*
 - \[verb noun\], nominative, singular
 - “fear; fear.”
 ------------------------------------------------------------------------
-- *ataro* \< *ataraḥ* \< *tṛ*
+- *ataro* ← *ataraḥ* ← *tṛ*
 - \[verb\], singular, Imperfect
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *rajāṃsi* \< *rajas*
+- *rajāṃsi* ← *rajas*
 - \[noun\], accusative, plural, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”

@@ -2,12 +2,12 @@
 title = "Rig Veda 10.101.8"
 
 +++
--   *vrajaṃ* \< *vrajam* \< *vraja*
+-   *vrajaṃ* ← *vrajam* ← *vraja*
 - \[noun\], accusative, singular, masculine
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”
 ------------------------------------------------------------------------
-- *kṛṇudhvaṃ* \< *kṛṇudhvam* \< *kṛ*
+- *kṛṇudhvaṃ* ← *kṛṇudhvam* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -18,7 +18,7 @@ title = "Rig Veda 10.101.8"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -28,36 +28,36 @@ title = "Rig Veda 10.101.8"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *nṛpāṇo* \< *nṛpāṇaḥ* \< *nṛpāṇa*
+- *nṛpāṇo* ← *nṛpāṇaḥ* ← *nṛpāṇa*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *varma* \< *varman*
+- *varma* ← *varman*
 - \[noun\], accusative, singular, neuter
 - “cuirass; armor; varman \[word\]; protective covering; Varman;
     varman.”
 ------------------------------------------------------------------------
-- *sīvyadhvam* \< *sīv*
+- *sīvyadhvam* ← *sīv*
 - \[verb\], plural, Imperativ Pr￤s. Passiv
 - “suture; sew.”
 ------------------------------------------------------------------------
-- *bahulā* \< *bahula*
+- *bahulā* ← *bahula*
 - \[noun\], accusative, plural, neuter
 - “frequent; endowed; much(a); many; abounding in(p); abundant; bahula
     \[word\]; accompanied; prevailing.”
 ------------------------------------------------------------------------
-- *pṛthūni* \< *pṛthu*
+- *pṛthūni* ← *pṛthu*
 - \[noun\], accusative, plural, neuter
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
 ------------------------------------------------------------------------
-- *puraḥ* \< *pur*
+- *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
-- *kṛṇudhvam* \< *kṛ*
+- *kṛṇudhvam* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -68,11 +68,11 @@ title = "Rig Veda 10.101.8"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *āyasīr* \< *āyasīḥ* \< *āyasa*
+- *āyasīr* ← *āyasīḥ* ← *āyasa*
 - \[noun\], accusative, plural, feminine
 - “iron; metallic.”
 ------------------------------------------------------------------------
-- *adhṛṣṭā* \< *adhṛṣṭāḥ* \< *adhṛṣṭa*
+- *adhṛṣṭā* ← *adhṛṣṭāḥ* ← *adhṛṣṭa*
 - \[noun\], accusative, plural, feminine
 - “modest; invincible.”
 ------------------------------------------------------------------------
@@ -80,24 +80,24 @@ title = "Rig Veda 10.101.8"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *susroc* \< *susrot* \< *sru*
+- *susroc* ← *susrot* ← *sru*
 - \[verb\], singular, Perfect injunctive
 - “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
     disappear; leak; fester.”
 ------------------------------------------------------------------------
-- *camaso* \< *camasaḥ* \< *camasa*
+- *camaso* ← *camasaḥ* ← *camasa*
 - \[noun\], nominative, singular, masculine
 - “camasa; beaker; cake.”
 ------------------------------------------------------------------------
-- *dṛṃhatā* \< *dṛṃhata* \< *dṛh*
+- *dṛṃhatā* ← *dṛṃhata* ← *dṛh*
 - \[verb\], plural, Present imperative
 - “fixate; strengthen.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad

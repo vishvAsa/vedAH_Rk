@@ -2,7 +2,7 @@
 title = "Rig Veda 5.46.2"
 
 +++
--   *agna* \< *agne* \< *agni*
+-   *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -22,12 +22,12 @@ title = "Rig Veda 5.46.2"
 - \[noun\], vocative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *devāḥ* \< *deva*
+- *devāḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *śardhaḥ* \< *śardhas*
+- *śardhaḥ* ← *śardhas*
 - \[noun\], vocative, singular, neuter
 - “troop.”
 ------------------------------------------------------------------------
@@ -35,31 +35,31 @@ title = "Rig Veda 5.46.2"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yanta* \< *yam*
+- *yanta* ← *yam*
 - \[verb\], plural, Aorist imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *mārutota* \< *māruta*
+- *mārutota* ← *māruta*
 - \[noun\], vocative, singular, masculine
 - “wind; vāta; Vayu; Marut; prāṇa (coll.); breath; air; fart; air.”
 ------------------------------------------------------------------------
-- *mārutota* \< *uta*
+- *mārutota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *viṣṇo* \< *viṣṇu*
+- *viṣṇo* ← *viṣṇu*
 - \[noun\], vocative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
 ------------------------------------------------------------------------
-- *ubhā* \< *ubh*
+- *ubhā* ← *ubh*
 - \[noun\], nominative, dual, masculine
 - “both(a).”
 ------------------------------------------------------------------------
-- *nāsatyā* \< *nāsatya*
+- *nāsatyā* ← *nāsatya*
 - \[noun\], nominative, dual, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *rudro* \< *rudraḥ* \< *rudra*
+- *rudro* ← *rudraḥ* ← *rudra*
 - \[noun\], nominative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
@@ -67,15 +67,15 @@ title = "Rig Veda 5.46.2"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *gnāḥ* \< *gnā*
+- *gnāḥ* ← *gnā*
 - \[noun\], nominative, plural, feminine
 - “goddess.”
 ------------------------------------------------------------------------
-- *pūṣā* \< *pūṣan*
+- *pūṣā* ← *pūṣan*
 - \[noun\], nominative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *bhagaḥ* \< *bhaga*
+- *bhagaḥ* ← *bhaga*
 - \[noun\], nominative, singular, masculine
 - “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
     well-being; happiness; overlord.”
@@ -85,7 +85,7 @@ title = "Rig Veda 5.46.2"
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
 ------------------------------------------------------------------------
-- *juṣanta* \< *juṣ*
+- *juṣanta* ← *juṣ*
 - \[verb\], plural, Present injunctive
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”

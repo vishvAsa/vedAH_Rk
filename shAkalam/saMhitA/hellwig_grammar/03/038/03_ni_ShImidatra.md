@@ -6,7 +6,7 @@ title = "Rig Veda 3.38.3"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ṣīm* \< *sīm*
+- *ṣīm* ← *sīm*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *id*
@@ -18,11 +18,11 @@ title = "Rig Veda 3.38.3"
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *guhyā* \< *guhya*
+- *guhyā* ← *guhya*
 - \[noun\], accusative, plural, neuter
 - “secret; genitalia; guhyayantra; vagina.”
 ------------------------------------------------------------------------
-- *dadhānā* \< *dadhānāḥ* \< *dhā*
+- *dadhānā* ← *dadhānāḥ* ← *dhā*
 - \[verb noun\], nominative, plural
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
@@ -31,11 +31,11 @@ title = "Rig Veda 3.38.3"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *kṣatrāya* \< *kṣatra*
+- *kṣatrāya* ← *kṣatra*
 - \[noun\], dative, singular, neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
@@ -43,7 +43,7 @@ title = "Rig Veda 3.38.3"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *añjan* \< *añj*
+- *añjan* ← *añj*
 - \[verb\], plural, Imperfect
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
@@ -51,17 +51,17 @@ title = "Rig Veda 3.38.3"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *mātrābhir* \< *mātrābhiḥ* \< *mātrā*
+- *mātrābhir* ← *mātrābhiḥ* ← *mātrā*
 - \[noun\], instrumental, plural, feminine
 - “measure; weight; quantity; syllable; mātrā; property; part;
     particle; mātrā \[word\]; household effects; morsel; mirror;
     substance.”
 ------------------------------------------------------------------------
-- *mamire* \< *mā*
+- *mamire* ← *mā*
 - \[verb\], plural, Perfect indicative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
 ------------------------------------------------------------------------
-- *yemur* \< *yemuḥ* \< *yam*
+- *yemur* ← *yemuḥ* ← *yam*
 - \[verb\], plural, Perfect indicative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
@@ -78,14 +78,14 @@ title = "Rig Veda 3.38.3"
 - “Earth; floor; Earth; land; real property; heaven and earth; space;
     Mahī; soil; earth; estate; area.”
 ------------------------------------------------------------------------
-- *samṛte* \< *samṛch* \< *√ṛch*
+- *samṛte* ← *samṛch* ← *√ṛch*
 - \[verb noun\], accusative, dual
 - “collapse.”
 ------------------------------------------------------------------------
-- *dhāyase* \< *dhāyas*
+- *dhāyase* ← *dhāyas*
 - \[noun\], dative, singular, neuter
 ------------------------------------------------------------------------
-- *dhuḥ* \< *dhā*
+- *dhuḥ* ← *dhā*
 - \[verb\], plural, Aorist inj. (proh.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

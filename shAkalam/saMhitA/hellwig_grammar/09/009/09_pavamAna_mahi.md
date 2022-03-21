@@ -10,39 +10,39 @@ title = "Rig Veda 9.9.9"
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *śravo* \< *śravaḥ* \< *śravas*
+- *śravo* ← *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *gām* \< *go*
+- *gām* ← *go*
 - \[noun\], accusative, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *aśvaṃ* \< *aśvam* \< *aśva*
+- *aśvaṃ* ← *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *rāsi* \< *rā*
+- *rāsi* ← *rā*
 - \[verb\], singular, Present indikative
 - “give; impart.”
 ------------------------------------------------------------------------
-- *vīravat* \< *vīravant*
+- *vīravat* ← *vīravant*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *sanā* \< *sana* \< *san*
+- *sanā* ← *sana* ← *san*
 - \[verb\], singular, Aorist imperative
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *medhāṃ* \< *medhām* \< *medhā*
+- *medhāṃ* ← *medhām* ← *medhā*
 - \[noun\], accusative, singular, feminine
 - “intelligence; medhā \[word\]; Medhā.”
 ------------------------------------------------------------------------
-- *sanā* \< *sana* \< *san*
+- *sanā* ← *sana* ← *san*
 - \[verb\], singular, Aorist imperative
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *svaḥ* \< *svar*
+- *svaḥ* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 1.110.4"
 
 +++
--   *viṣṭvī* \< *viṣ*
+-   *viṣṭvī* ← *viṣ*
 - \[verb noun\]
 - “labor; act; perform.”
 ------------------------------------------------------------------------
@@ -11,55 +11,55 @@ title = "Rig Veda 1.110.4"
 - “Prosopis spicigera Linn.; śamī \[word\]; Acacia sundra; attempt;
     labor.”
 ------------------------------------------------------------------------
-- *taraṇitvena* \< *taraṇi*
+- *taraṇitvena* ← *taraṇi*
 - \[noun\]
 - “energetic; agile.”
 ------------------------------------------------------------------------
-- *taraṇitvena* \< *tvena* \< *tva*
+- *taraṇitvena* ← *tvena* ← *tva*
 - \[noun\], instrumental, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *vāghato* \< *vāghataḥ* \< *vāghant*
+- *vāghato* ← *vāghataḥ* ← *vāghant*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *martāsaḥ* \< *marta*
+- *martāsaḥ* ← *marta*
 - \[noun\], nominative, plural, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *santo* \< *santaḥ* \< *as*
+- *santo* ← *santaḥ* ← *as*
 - \[verb noun\], nominative, plural
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *amṛtatvam* \< *amṛta*
+- *amṛtatvam* ← *amṛta*
 - \[noun\]
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *amṛtatvam* \< *tvam* \< *tva*
+- *amṛtatvam* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *ānaśuḥ* \< *aś*
+- *ānaśuḥ* ← *aś*
 - \[verb\], plural, Perfect indicative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *saudhanvanā* \< *saudhanvanāḥ* \< *saudhanvana*
+- *saudhanvanā* ← *saudhanvanāḥ* ← *saudhanvana*
 - \[noun\], nominative, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
-- *ṛbhavaḥ* \< *ṛbhu*
+- *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], nominative, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
-- *sūracakṣasaḥ* \< *sūra*
+- *sūracakṣasaḥ* ← *sūra*
 - \[noun\], masculine
 - “sun.”
 ------------------------------------------------------------------------
-- *sūracakṣasaḥ* \< *cakṣasaḥ* \< *cakṣas*
+- *sūracakṣasaḥ* ← *cakṣasaḥ* ← *cakṣas*
 - \[noun\], nominative, plural, masculine
 - “eye; look; radiance.”
 ------------------------------------------------------------------------
-- *saṃvatsare* \< *saṃvatsara*
+- *saṃvatsare* ← *saṃvatsara*
 - \[noun\], locative, singular, masculine
 - “year; year; saṃvatsara \[word\].”
 ------------------------------------------------------------------------
@@ -67,11 +67,11 @@ title = "Rig Veda 1.110.4"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *apṛcyanta* \< *pṛc*
+- *apṛcyanta* ← *pṛc*
 - \[verb\], plural, Imperfekt Passiv
 - “mix; unite.”
 ------------------------------------------------------------------------
-- *dhītibhiḥ* \< *dhīti*
+- *dhītibhiḥ* ← *dhīti*
 - \[noun\], instrumental, plural, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------

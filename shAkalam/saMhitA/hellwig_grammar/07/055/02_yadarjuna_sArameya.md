@@ -2,7 +2,7 @@
 title = "Rig Veda 7.55.2"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -14,7 +14,7 @@ title = "Rig Veda 7.55.2"
 - \[noun\], vocative, singular, masculine
 - “dog.”
 ------------------------------------------------------------------------
-- *dataḥ* \< *dat*
+- *dataḥ* ← *dat*
 - \[noun\], accusative, plural, masculine
 - “tooth; dat \[word\].”
 ------------------------------------------------------------------------
@@ -22,23 +22,23 @@ title = "Rig Veda 7.55.2"
 - \[noun\], vocative, singular, masculine
 - “tawny; red; brown.”
 ------------------------------------------------------------------------
-- *yacchase* \< *yam*
+- *yacchase* ← *yam*
 - \[verb\], singular, Present indikative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *vīva* \< *vi*
+- *vīva* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vīva* \< *iva*
+- *vīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *bhrājanta* \< *bhrājante* \< *bhrāj*
+- *bhrājanta* ← *bhrājante* ← *bhrāj*
 - \[verb\], plural, Present indikative
 - “shine; glitter; look.”
 ------------------------------------------------------------------------
-- *ṛṣṭaya* \< *ṛṣṭayaḥ* \< *ṛṣṭi*
+- *ṛṣṭaya* ← *ṛṣṭayaḥ* ← *ṛṣṭi*
 - \[noun\], nominative, plural, feminine
 - “spear.”
 ------------------------------------------------------------------------
@@ -46,10 +46,10 @@ title = "Rig Veda 7.55.2"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *srakveṣu* \< *srakva*
+- *srakveṣu* ← *srakva*
 - \[noun\], locative, plural, masculine
 ------------------------------------------------------------------------
-- *bapsato* \< *bapsataḥ* \< *bhas*
+- *bapsato* ← *bapsataḥ* ← *bhas*
 - \[verb noun\], genitive, singular
 - “chew; snatch.”
 ------------------------------------------------------------------------
@@ -57,11 +57,11 @@ title = "Rig Veda 7.55.2"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svapa* \< *svap*
+- *svapa* ← *svap*
 - \[verb\], singular, Present imperative
 - “sleep; numb; fall asleep.”
 ------------------------------------------------------------------------

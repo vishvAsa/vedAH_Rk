@@ -2,20 +2,20 @@
 title = "Rig Veda 5.80.3"
 
 +++
--   *eṣā* \< *etad*
+-   *eṣā* ← *etad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *gobhir* \< *gobhiḥ* \< *go*
+- *gobhir* ← *gobhiḥ* ← *go*
 - \[noun\], instrumental, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *aruṇebhir* \< *aruṇebhiḥ* \< *aruṇa*
+- *aruṇebhir* ← *aruṇebhiḥ* ← *aruṇa*
 - \[noun\], instrumental, plural, masculine
 - “red; tawny; dusty; gray.”
 ------------------------------------------------------------------------
-- *yujānāsredhantī* \< *yujānā* \< *yuj*
+- *yujānāsredhantī* ← *yujānā* ← *yuj*
 - \[verb noun\], nominative, singular
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -23,21 +23,21 @@ title = "Rig Veda 5.80.3"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *yujānāsredhantī* \< *a*
+- *yujānāsredhantī* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *yujānāsredhantī* \< *sredhantī* \< *sridh*
+- *yujānāsredhantī* ← *sredhantī* ← *sridh*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *rayim* \< *rayi*
+- *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
 - *aprāyu*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *cakre* \< *kṛ*
+- *cakre* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -48,15 +48,15 @@ title = "Rig Veda 5.80.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *patho* \< *pathaḥ* \< *pathin*
+- *patho* ← *pathaḥ* ← *pathin*
 - \[noun\], accusative, plural, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *radantī* \< *rad*
+- *radantī* ← *rad*
 - \[verb noun\], accusative, dual
 - “dig.”
 ------------------------------------------------------------------------
-- *suvitāya* \< *suvita*
+- *suvitāya* ← *suvita*
 - \[noun\], dative, singular, neuter
 - “prosperity; well-being.”
 ------------------------------------------------------------------------
@@ -64,15 +64,15 @@ title = "Rig Veda 5.80.3"
 - \[noun\], nominative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *puruṣṭutā* \< *puruṣṭuta*
+- *puruṣṭutā* ← *puruṣṭuta*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *viśvavārā* \< *viśva*
+- *viśvavārā* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvavārā* \< *vārā* \< *vāra*
+- *viśvavārā* ← *vārā* ← *vāra*
 - \[noun\], nominative, singular, feminine
 - “treasure; choice.”
 ------------------------------------------------------------------------
@@ -80,7 +80,7 @@ title = "Rig Veda 5.80.3"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *bhāti* \< *bhā*
+- *bhāti* ← *bhā*
 - \[verb\], singular, Present indikative
 - “look; shine; show; look like; glitter; reflect.”
 ------------------------------------------------------------------------

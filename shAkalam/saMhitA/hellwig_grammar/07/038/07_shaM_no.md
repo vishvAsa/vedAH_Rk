@@ -2,73 +2,73 @@
 title = "Rig Veda 7.38.7"
 
 +++
--   *śaṃ* \< *śam*
+-   *śaṃ* ← *śam*
 - \[adverb\]
 - “śam \[word\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *bhavantu* \< *bhū*
+- *bhavantu* ← *bhū*
 - \[verb\], plural, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *vājino* \< *vājinaḥ* \< *vājin*
+- *vājino* ← *vājinaḥ* ← *vājin*
 - \[noun\], nominative, plural, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *haveṣu* \< *hava*
+- *haveṣu* ← *hava*
 - \[noun\], locative, plural, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *devatātā* \< *devatāti*
+- *devatātā* ← *devatāti*
 - \[noun\], locative, singular, feminine
 - “deity; Deva.”
 ------------------------------------------------------------------------
-- *mitadravaḥ* \< *mitadru*
+- *mitadravaḥ* ← *mitadru*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *svarkāḥ* \< *su*
+- *svarkāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svarkāḥ* \< *arkāḥ* \< *arka*
+- *svarkāḥ* ← *arkāḥ* ← *arka*
 - \[noun\], nominative, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *jambhayanto* \< *jambhayantaḥ* \< *jambhay* \< *√jabh*
+- *jambhayanto* ← *jambhayantaḥ* ← *jambhay* ← *√jabh*
 - \[verb noun\], nominative, plural
 - “crunch; strangle.”
 ------------------------------------------------------------------------
-- *'hiṃ* \< *ahim* \< *ahi*
+- *'hiṃ* ← *ahim* ← *ahi*
 - \[noun\], accusative, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
 ------------------------------------------------------------------------
-- *vṛkaṃ* \< *vṛkam* \< *vṛka*
+- *vṛkaṃ* ← *vṛkam* ← *vṛka*
 - \[noun\], accusative, singular, masculine
 - “wolf; Vṛka; vṛka \[word\]; Vṛka.”
 ------------------------------------------------------------------------
-- *rakṣāṃsi* \< *rakṣas*
+- *rakṣāṃsi* ← *rakṣas*
 - \[noun\], accusative, plural, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
 ------------------------------------------------------------------------
-- *sanemy* \< *sanemi*
+- *sanemy* ← *sanemi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *asmad* \< *asmat* \< *mad*
+- *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *yuyavann* \< *yuyavan* \< *yu*
+- *yuyavann* ← *yuyavan* ← *yu*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “keep away; separate; ward off.”
 ------------------------------------------------------------------------
-- *amīvāḥ* \< *amīvā*
+- *amīvāḥ* ← *amīvā*
 - \[noun\], accusative, plural, feminine
 - “disease; affliction.”
 ------------------------------------------------------------------------

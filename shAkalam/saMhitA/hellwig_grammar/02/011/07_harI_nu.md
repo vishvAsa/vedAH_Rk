@@ -2,7 +2,7 @@
 title = "Rig Veda 2.11.7"
 
 +++
--   *harī* \< *hari*
+-   *harī* ← *hari*
 - \[noun\], nominative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
@@ -11,7 +11,7 @@ title = "Rig Veda 2.11.7"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -20,18 +20,18 @@ title = "Rig Veda 2.11.7"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vājayantā* \< *vājay* \< *√vaj*
+- *vājayantā* ← *vājay* ← *√vaj*
 - \[verb noun\], nominative, dual
 - “incite.”
 ------------------------------------------------------------------------
-- *ghṛtaścutaṃ* \< *ghṛtaścutam* \< *ghṛtaścut*
+- *ghṛtaścutaṃ* ← *ghṛtaścutam* ← *ghṛtaścut*
 - \[noun\], accusative, singular, masculine
 - “ghee-dripping.”
 ------------------------------------------------------------------------
-- *svāram* \< *svāra*
+- *svāram* ← *svāra*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *asvārṣṭām* \< *svar*
+- *asvārṣṭām* ← *svar*
 - \[verb\], dual, Athematic s aor. (Ind.)
 - “sing.”
 ------------------------------------------------------------------------
@@ -42,21 +42,21 @@ title = "Rig Veda 2.11.7"
 - *samanā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *bhūmir* \< *bhūmiḥ* \< *bhūmi*
+- *bhūmir* ← *bhūmiḥ* ← *bhūmi*
 - \[noun\], nominative, singular, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
     Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
     distance; country; space; land; territory; topographic point.”
 ------------------------------------------------------------------------
-- *aprathiṣṭāraṃsta* \< *aprathiṣṭa* \< *prath*
+- *aprathiṣṭāraṃsta* ← *aprathiṣṭa* ← *prath*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “be known; expand; expand; boom.”
 ------------------------------------------------------------------------
-- *aprathiṣṭāraṃsta* \< *araṃsta* \< *ram*
+- *aprathiṣṭāraṃsta* ← *araṃsta* ← *ram*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “delight; rejoice; love; frolic; desire; give; calm; break.”
 ------------------------------------------------------------------------
-- *parvataś* \< *parvataḥ* \< *parvata*
+- *parvataś* ← *parvataḥ* ← *parvata*
 - \[noun\], nominative, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
@@ -65,7 +65,7 @@ title = "Rig Veda 2.11.7"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *sariṣyan* \< *sṛ*
+- *sariṣyan* ← *sṛ*
 - \[verb noun\], nominative, singular
 - “sṛ; liquefy; run; spread; stretch out.”
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 8.10.2"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -10,68 +10,68 @@ title = "Rig Veda 8.10.2"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *manave* \< *manu*
+- *manave* ← *manu*
 - \[noun\], dative, singular, masculine
 - “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
     incantation; sacred text.”
 ------------------------------------------------------------------------
-- *saṃmimikṣathur* \< *saṃmimikṣathuḥ* \< *saṃmikṣ* \< *√mikṣ*
+- *saṃmimikṣathur* ← *saṃmimikṣathuḥ* ← *saṃmikṣ* ← *√mikṣ*
 - \[verb\], dual, Perfect indicative
 ------------------------------------------------------------------------
-- *evet* \< *eva*
+- *evet* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *evet* \< *id*
+- *evet* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *kāṇvasya* \< *kāṇva*
+- *kāṇvasya* ← *kāṇva*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *bodhatam* \< *budh*
+- *bodhatam* ← *budh*
 - \[verb\], dual, Present imperative
 - “understand; notice; wake up; observe; detect; attend to; awaken;
     attend.”
 ------------------------------------------------------------------------
-- *bṛhaspatiṃ* \< *bṛhaspatim* \< *bṛhaspati*
+- *bṛhaspatiṃ* ← *bṛhaspatim* ← *bṛhaspati*
 - \[noun\], accusative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *viśvān* \< *viśva*
+- *viśvān* ← *viśva*
 - \[noun\], accusative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *devāṃ* \< *deva*
+- *devāṃ* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *ahaṃ* \< *aham* \< *mad*
+- *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *huva* \< *huve* \< *hvā*
+- *huva* ← *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *indrāviṣṇū* \< *indrāviṣṇu*
+- *indrāviṣṇū* ← *indrāviṣṇu*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------
-- *aśvināv* \< *aśvinau* \< *aśvin*
+- *aśvināv* ← *aśvinau* ← *aśvin*
 - \[noun\], accusative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *āśuheṣasā* \< *āśu*
+- *āśuheṣasā* ← *āśu*
 - \[noun\]
 - “quick; fast; immediate; agile.”
 ------------------------------------------------------------------------
-- *āśuheṣasā* \< *heṣasā* \< *heṣas*
+- *āśuheṣasā* ← *heṣasā* ← *heṣas*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------

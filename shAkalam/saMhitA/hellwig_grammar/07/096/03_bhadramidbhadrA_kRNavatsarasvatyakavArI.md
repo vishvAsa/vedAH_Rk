@@ -2,7 +2,7 @@
 title = "Rig Veda 7.96.3"
 
 +++
--   *bhadram* \< *bhadra*
+-   *bhadram* ← *bhadra*
 - \[noun\], accusative, singular, neuter
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
@@ -11,12 +11,12 @@ title = "Rig Veda 7.96.3"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *bhadrā* \< *bhadra*
+- *bhadrā* ← *bhadra*
 - \[noun\], nominative, singular, feminine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *kṛṇavat* \< *kṛ*
+- *kṛṇavat* ← *kṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -27,40 +27,40 @@ title = "Rig Veda 7.96.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *sarasvaty* \< *sarasvatī*
+- *sarasvaty* ← *sarasvatī*
 - \[noun\], nominative, singular, feminine
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
 ------------------------------------------------------------------------
-- *akavārī* \< *a*
+- *akavārī* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *akavārī* \< *kavārī* \< *kavāri*
+- *akavārī* ← *kavārī* ← *kavāri*
 - \[noun\], nominative, singular, feminine
 - “stingy.”
 ------------------------------------------------------------------------
-- *cetati* \< *cit*
+- *cetati* ← *cit*
 - \[verb\], singular, Present indikative
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *vājinīvatī* \< *vājinīvat*
+- *vājinīvatī* ← *vājinīvat*
 - \[noun\], nominative, singular, feminine
 - “rich; rich in horses.”
 ------------------------------------------------------------------------
-- *gṛṇānā* \< *gṛ*
+- *gṛṇānā* ← *gṛ*
 - \[verb noun\], nominative, singular
 - “praise.”
 ------------------------------------------------------------------------
-- *jamadagnivat* \< *jamadagni*
+- *jamadagnivat* ← *jamadagni*
 - \[noun\], masculine
 - “Jamadagni.”
 ------------------------------------------------------------------------
-- *jamadagnivat* \< *vat*
+- *jamadagnivat* ← *vat*
 - \[adverb\]
 - “equally; like.”
 ------------------------------------------------------------------------
-- *stuvānā* \< *stu*
+- *stuvānā* ← *stu*
 - \[verb noun\], nominative, singular
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
@@ -68,11 +68,11 @@ title = "Rig Veda 7.96.3"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *vasiṣṭhavat* \< *vasiṣṭha*
+- *vasiṣṭhavat* ← *vasiṣṭha*
 - \[noun\], masculine
 - “Vasiṣṭha; vasiṣṭha \[word\].”
 ------------------------------------------------------------------------
-- *vasiṣṭhavat* \< *vat*
+- *vasiṣṭhavat* ← *vat*
 - \[adverb\]
 - “equally; like.”
 ------------------------------------------------------------------------

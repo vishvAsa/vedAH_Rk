@@ -2,44 +2,44 @@
 title = "Rig Veda 4.37.5"
 
 +++
--   *ṛbhum* \< *ṛbhu*
+-   *ṛbhum* ← *ṛbhu*
 - \[noun\], accusative, singular, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
-- *ṛbhukṣaṇo* \< *ṛbhukṣaṇaḥ* \< *ṛbhukṣan*
+- *ṛbhukṣaṇo* ← *ṛbhukṣaṇaḥ* ← *ṛbhukṣan*
 - \[noun\], vocative, plural, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *rayiṃ* \< *rayim* \< *rayi*
+- *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *vāje* \< *vāja*
+- *vāje* ← *vāja*
 - \[noun\], locative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vājintamaṃ* \< *vājintamam* \< *vājintama*
+- *vājintamaṃ* ← *vājintamam* ← *vājintama*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *yujam* \< *yuj*
+- *yujam* ← *yuj*
 - \[noun\], accusative, singular, masculine
 - “amalgamated; harnessed.”
 ------------------------------------------------------------------------
-- *indrasvantaṃ* \< *indrasvantam* \< *indrasvat*
+- *indrasvantaṃ* ← *indrasvantam* ← *indrasvat*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *havāmahe* \< *hvā*
+- *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *sadāsātamam* \< *sadā*
+- *sadāsātamam* ← *sadā*
 - \[adverb\]
 - “always; continually; always; perpetually.”
 ------------------------------------------------------------------------
-- *sadāsātamam* \< *sātamam* \< *sātama*
+- *sadāsātamam* ← *sātamam* ← *sātama*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *aśvinam* \< *aśvin*
+- *aśvinam* ← *aśvin*
 - \[noun\], accusative, singular, masculine
 - “rich in horses; horsy.”
 ------------------------------------------------------------------------

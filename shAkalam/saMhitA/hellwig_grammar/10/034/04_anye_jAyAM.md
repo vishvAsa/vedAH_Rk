@@ -2,12 +2,12 @@
 title = "Rig Veda 10.34.4"
 
 +++
--   *anye* \< *anya*
+-   *anye* ← *anya*
 - \[noun\], nominative, plural, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *jāyām* \< *jāyā*
+- *jāyām* ← *jāyā*
 - \[noun\], accusative, singular, feminine
 - “wife; jāyā \[word\].”
 ------------------------------------------------------------------------
@@ -15,54 +15,54 @@ title = "Rig Veda 10.34.4"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *mṛśanty* \< *mṛśanti* \< *mṛś*
+- *mṛśanty* ← *mṛśanti* ← *mṛś*
 - \[verb\], plural, Present indikative
 - “touch.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *yasyāgṛdhad* \< *yasya* \< *yad*
+- *yasyāgṛdhad* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yasyāgṛdhad* \< *agṛdhat* \< *gṛdh*
+- *yasyāgṛdhad* ← *agṛdhat* ← *gṛdh*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “desire; covet.”
 ------------------------------------------------------------------------
-- *vedane* \< *vedana*
+- *vedane* ← *vedana*
 - \[noun\], locative, singular, neuter
 - “property; marriage; obtainment.”
 ------------------------------------------------------------------------
-- *vājy* \< *vājī* \< *vājin*
+- *vājy* ← *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------
-- *akṣaḥ* \< *akṣa*
+- *akṣaḥ* ← *akṣa*
 - \[noun\], nominative, singular, masculine
 - “belleric myrobalan; dice; gambling; karṣa; akṣa; akṣa \[word\];
     berry.”
 ------------------------------------------------------------------------
-- *pitā* \< *pitṛ*
+- *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *mātā* \< *mātṛ*
+- *mātā* ← *mātṛ*
 - \[noun\], nominative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *bhrātara* \< *bhrātaraḥ* \< *bhrātṛ*
+- *bhrātara* ← *bhrātaraḥ* ← *bhrātṛ*
 - \[noun\], nominative, plural, masculine
 - “brother; bhrātṛ; relative.”
 ------------------------------------------------------------------------
-- *enam* \< *enad*
+- *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
-- *āhur* \< *āhuḥ* \< *ah*
+- *āhur* ← *āhuḥ* ← *ah*
 - \[verb\], plural, Perfect indicative
 - “describe; state; say; enumerate; call; name; teach; tell; deem;
     explain; say; define.”
@@ -71,18 +71,18 @@ title = "Rig Veda 10.34.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *jānīmo* \< *jānīmaḥ* \< *jñā*
+- *jānīmo* ← *jānīmaḥ* ← *jñā*
 - \[verb\], plural, Present indikative
 - “know; diagnose; perceive; know; come to know; notice; determine;
     think of; find; learn; perceive; identify; recognize; understand;
     know; learn; ascertain; detect; deem.”
 ------------------------------------------------------------------------
-- *nayatā* \< *nayata* \< *nī*
+- *nayatā* ← *nayata* ← *nī*
 - \[verb\], plural, Present imperative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *baddham* \< *bandh*
+- *baddham* ← *bandh*
 - \[verb noun\], accusative, singular
 - “bandh; tie; envelop; close; dress; wrap; bind; constipate; fixate;
     shape; paralyze; construct; bandage; compress; beset; oblige; strap;
@@ -90,7 +90,7 @@ title = "Rig Veda 10.34.4"
     obstruct; write; restrain; bind; persecute; enclose; ligature; fill
     into; fasten.”
 ------------------------------------------------------------------------
-- *etam* \< *etad*
+- *etam* ← *etad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------

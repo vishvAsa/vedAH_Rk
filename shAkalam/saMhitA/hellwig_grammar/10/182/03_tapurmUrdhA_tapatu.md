@@ -2,34 +2,34 @@
 title = "Rig Veda 10.182.3"
 
 +++
--   *tapurmūrdhā* \< *tapurmūrdhan*
+-   *tapurmūrdhā* ← *tapurmūrdhan*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *tapatu* \< *tap*
+- *tapatu* ← *tap*
 - \[verb\], singular, Present imperative
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
 ------------------------------------------------------------------------
-- *rakṣaso* \< *rakṣasaḥ* \< *rakṣas*
+- *rakṣaso* ← *rakṣasaḥ* ← *rakṣas*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *brahmadviṣaḥ* \< *brahma* \< *brahman*
+- *brahmadviṣaḥ* ← *brahma* ← *brahman*
 - \[noun\], neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *brahmadviṣaḥ* \< *dviṣaḥ* \< *dviṣ*
+- *brahmadviṣaḥ* ← *dviṣaḥ* ← *dviṣ*
 - \[noun\], nominative, plural, masculine
 - “hostile; hating.”
 ------------------------------------------------------------------------
-- *śarave* \< *śaru*
+- *śarave* ← *śaru*
 - \[noun\], dative, singular, masculine
 - “arrow.”
 ------------------------------------------------------------------------
-- *hantavā* \< *hantavai* \< *han*
+- *hantavā* ← *hantavai* ← *han*
 - \[verb noun\]
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
@@ -39,12 +39,12 @@ title = "Rig Veda 10.182.3"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *kṣipad* \< *kṣipat* \< *kṣip*
+- *kṣipad* ← *kṣipat* ← *kṣip*
 - \[verb\], singular, Present injunctive
 - “fill into; add; put; throw; insert; submerge; pour; mix; ignite;
     shoot; hurl; vilify; reject; join; put on; stow; stack; throw.”
 ------------------------------------------------------------------------
-- *aśastim* \< *aśasti*
+- *aśastim* ← *aśasti*
 - \[noun\], accusative, singular, feminine
 - “hex.”
 ------------------------------------------------------------------------
@@ -52,21 +52,21 @@ title = "Rig Veda 10.182.3"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *durmatiṃ* \< *durmatim* \< *durmati*
+- *durmatiṃ* ← *durmatim* ← *durmati*
 - \[noun\], accusative, singular, feminine
 - “hate; envy.”
 ------------------------------------------------------------------------
-- *hann* \< *han*
+- *hann* ← *han*
 - \[verb\], singular, Present injunctive
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *athā* \< *atha*
+- *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *karad* \< *karat* \< *kṛ*
+- *karad* ← *karat* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -77,15 +77,15 @@ title = "Rig Veda 10.182.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *yajamānāya* \< *yajamāna*
+- *yajamānāya* ← *yajamāna*
 - \[noun\], dative, singular, masculine
 - “Yajamāna.”
 ------------------------------------------------------------------------
-- *śaṃ* \< *śam*
+- *śaṃ* ← *śam*
 - \[adverb\]
 - “śam \[word\].”
 ------------------------------------------------------------------------
-- *yoḥ* \< *yos*
+- *yoḥ* ← *yos*
 - \[noun\], accusative, singular
 - “fortune.”
 ------------------------------------------------------------------------

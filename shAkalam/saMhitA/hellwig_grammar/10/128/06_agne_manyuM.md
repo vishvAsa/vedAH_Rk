@@ -2,30 +2,30 @@
 title = "Rig Veda 10.128.6"
 
 +++
--   *agne* \< *agni*
+-   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *manyum* \< *manyu*
+- *manyum* ← *manyu*
 - \[noun\], accusative, singular, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------
-- *pratinudan* \< *pratinud* \< *√nud*
+- *pratinudan* ← *pratinud* ← *√nud*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *pareṣām* \< *para*
+- *pareṣām* ← *para*
 - \[noun\], genitive, plural, masculine
 - “best; other; following; devoted(p); extreme; highest; otherwordly;
     better; hostile; maximal; distant; another(a); para \[word\]; upper;
     concluding; foreign; earlier; worse; longer; finest; excessive.”
 ------------------------------------------------------------------------
-- *adabdho* \< *adabdhaḥ* \< *adabdha*
+- *adabdho* ← *adabdhaḥ* ← *adabdha*
 - \[noun\], nominative, singular, masculine
 - “unfailing; unimpaired.”
 ------------------------------------------------------------------------
-- *gopāḥ* \< *gopā*
+- *gopāḥ* ← *gopā*
 - \[noun\], nominative, singular, masculine
 - “herder; defender.”
 ------------------------------------------------------------------------
@@ -33,60 +33,60 @@ title = "Rig Veda 10.128.6"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *nas* \< *naḥ* \< *mad*
+- *nas* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *pratyañco* \< *pratyañcaḥ* \< *pratyañc*
+- *pratyañco* ← *pratyañcaḥ* ← *pratyañc*
 - \[noun\], nominative, plural, masculine
 - “western; facing; westbound; backward; pratyañc \[word\]; inverted.”
 ------------------------------------------------------------------------
-- *yantu* \< *i*
+- *yantu* ← *i*
 - \[verb\], plural, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *nigutaḥ* \< *nigut*
+- *nigutaḥ* ← *nigut*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *punas* \< *punar*
+- *punas* ← *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *'maiṣāṃ* \< *amā*
+- *'maiṣāṃ* ← *amā*
 - \[adverb\]
 - “at home.”
 ------------------------------------------------------------------------
-- *'maiṣāṃ* \< *eṣām* \< *idam*
+- *'maiṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *cittam* \< *citta*
+- *cittam* ← *citta*
 - \[noun\], nominative, singular, neuter
 - “mind; attention; idea; thinking; fondness; purpose.”
 ------------------------------------------------------------------------
-- *prabudhāṃ* \< *prabudhām* \< *prabudh*
+- *prabudhāṃ* ← *prabudhām* ← *prabudh*
 - \[noun\], genitive, plural, masculine
 ------------------------------------------------------------------------
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *neśat* \< *naś*
+- *neśat* ← *naś*
 - \[verb\], singular, Aorist inj. (proh.)
 - “disappear; vanish; gasify; fail; perish; lose; bhasmībhū.”
 ------------------------------------------------------------------------

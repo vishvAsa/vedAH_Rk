@@ -10,17 +10,17 @@ title = "Rig Veda 1.121.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *jajñe* \< *jan*
+- *jajñe* ← *jan*
 - \[verb\], singular, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *taraṇir* \< *taraṇiḥ* \< *taraṇi*
+- *taraṇir* ← *taraṇiḥ* ← *taraṇi*
 - \[noun\], nominative, singular, masculine
 - “energetic; agile.”
 ------------------------------------------------------------------------
-- *mamattu* \< *mad*
+- *mamattu* ← *mad*
 - \[verb\], singular, Perfect imperative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
@@ -28,15 +28,15 @@ title = "Rig Veda 1.121.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *rocy* \< *roci* \< *ruc*
+- *rocy* ← *roci* ← *ruc*
 - \[verb\], singular, Aorist passive
 - “please; shine.”
 ------------------------------------------------------------------------
-- *asyā* \< *asyāḥ* \< *idam*
+- *asyā* ← *asyāḥ* ← *idam*
 - \[noun\], ablative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], ablative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
@@ -44,43 +44,43 @@ title = "Rig Veda 1.121.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sūraḥ* \< *sūra*
+- *sūraḥ* ← *sūra*
 - \[noun\], nominative, singular, masculine
 - “sun.”
 ------------------------------------------------------------------------
-- *indur* \< *induḥ* \< *indu*
+- *indur* ← *induḥ* ← *indu*
 - \[noun\], nominative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *yebhir* \< *yebhiḥ* \< *yad*
+- *yebhir* ← *yebhiḥ* ← *yad*
 - \[noun\], instrumental, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *āṣṭa* \< *aś*
+- *āṣṭa* ← *aś*
 - \[verb\], singular, Root aorist (Ind.)
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *sveduhavyaiḥ* \< *sveduhavya*
+- *sveduhavyaiḥ* ← *sveduhavya*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *sruveṇa* \< *sruva*
+- *sruveṇa* ← *sruva*
 - \[noun\], instrumental, singular, masculine
 - “Sruva; sruva \[word\].”
 ------------------------------------------------------------------------
-- *siñcañ* \< *siñcan* \< *sic*
+- *siñcañ* ← *siñcan* ← *sic*
 - \[verb noun\], nominative, singular
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 ------------------------------------------------------------------------
-- *jaraṇābhi* \< *jaraṇā* \< *jaraṇa*
+- *jaraṇābhi* ← *jaraṇā* ← *jaraṇa*
 - \[noun\], accusative, plural, neuter
 - “digestive; old.”
 ------------------------------------------------------------------------
-- *jaraṇābhi* \< *abhi*
+- *jaraṇābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *dhāma* \< *dhāman*
+- *dhāma* ← *dhāman*
 - \[noun\], accusative, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”

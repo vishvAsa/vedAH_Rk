@@ -2,19 +2,19 @@
 title = "Rig Veda 8.9.19"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *āpītāso* \< *āpītāsaḥ* \< *āpā* \< *√pā*
+- *āpītāso* ← *āpītāsaḥ* ← *āpā* ← *√pā*
 - \[verb noun\], nominative, plural
 - “drain the cup.”
 ------------------------------------------------------------------------
-- *aṃśavo* \< *aṃśavaḥ* \< *aṃśu*
+- *aṃśavo* ← *aṃśavaḥ* ← *aṃśu*
 - \[noun\], nominative, plural, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
 ------------------------------------------------------------------------
-- *gāvo* \< *gāvaḥ* \< *go*
+- *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -23,15 +23,15 @@ title = "Rig Veda 8.9.19"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *duhra* \< *duhre* \< *duh*
+- *duhra* ← *duhre* ← *duh*
 - \[verb\], plural, Present indikative
 - “milk.”
 ------------------------------------------------------------------------
-- *ūdhabhiḥ* \< *ūdhas*
+- *ūdhabhiḥ* ← *ūdhas*
 - \[noun\], instrumental, plural, neuter
 - “udder; ūdhas \[word\]; night.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -39,11 +39,11 @@ title = "Rig Veda 8.9.19"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *vāṇīr* \< *vāṇīḥ* \< *vāṇī*
+- *vāṇīr* ← *vāṇīḥ* ← *vāṇī*
 - \[noun\], nominative, plural, feminine
 - “voice; Sarasvati; words; language.”
 ------------------------------------------------------------------------
-- *anūṣata* \< *nū*
+- *anūṣata* ← *nū*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “praise; shout.”
 ------------------------------------------------------------------------
@@ -51,11 +51,11 @@ title = "Rig Veda 8.9.19"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *devayanto* \< *devayantaḥ* \< *devay*
+- *devayanto* ← *devayantaḥ* ← *devay*
 - \[verb noun\], nominative, plural
 - “solicit.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], accusative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------

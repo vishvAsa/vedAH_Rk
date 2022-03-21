@@ -2,23 +2,23 @@
 title = "Rig Veda 7.29.3"
 
 +++
--   *kā* \< *ka*
+-   *kā* ← *ka*
 - \[noun\], nominative, singular, feminine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *asty* \< *asti* \< *as*
+- *asty* ← *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *araṅkṛtiḥ* \< *araṃkṛti*
+- *araṅkṛtiḥ* ← *araṃkṛti*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *sūktaiḥ* \< *sūkta*
+- *sūktaiḥ* ← *sūkta*
 - \[noun\], instrumental, plural, neuter
 - “Mantra; hymn.”
 ------------------------------------------------------------------------
@@ -26,11 +26,11 @@ title = "Rig Veda 7.29.3"
 - \[adverb\]
 - “when; kadā \[word\].”
 ------------------------------------------------------------------------
-- *nūnaṃ* \< *nūnam*
+- *nūnaṃ* ← *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -38,16 +38,16 @@ title = "Rig Veda 7.29.3"
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *dāśema* \< *dāś*
+- *dāśema* ← *dāś*
 - \[verb\], plural, Present optative
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśvāḥ* \< *viśva*
+- *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *matīr* \< *matīḥ* \< *mati*
+- *matīr* ← *matīḥ* ← *mati*
 - \[noun\], accusative, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
@@ -56,19 +56,19 @@ title = "Rig Veda 7.29.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tatane* \< *tan*
+- *tatane* ← *tan*
 - \[verb\], singular, Perfect indicative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
 ------------------------------------------------------------------------
-- *tvāyādhā* \< *tvāyā*
+- *tvāyādhā* ← *tvāyā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *tvāyādhā* \< *adha*
+- *tvāyādhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *ma* \< *me* \< *mad*
+- *ma* ← *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -77,15 +77,15 @@ title = "Rig Veda 7.29.3"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *śṛṇavo* \< *śṛṇavaḥ* \< *śru*
+- *śṛṇavo* ← *śṛṇavaḥ* ← *śru*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *havemā* \< *havā* \< *hava*
+- *havemā* ← *havā* ← *hava*
 - \[noun\], ablative, plural, neuter
 - “invocation.”
 ------------------------------------------------------------------------
-- *havemā* \< *imā* \< *idam*
+- *havemā* ← *imā* ← *idam*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------

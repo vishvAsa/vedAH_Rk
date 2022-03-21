@@ -2,47 +2,47 @@
 title = "Rig Veda 5.14.5"
 
 +++
--   *agnim* \< *agni*
+-   *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *īﾱenyaṃ* \< *īḍenyam* \< *īḍ*
+- *īﾱenyaṃ* ← *īḍenyam* ← *īḍ*
 - \[verb noun\], accusative, singular
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
-- *kaviṃ* \< *kavim* \< *kavi*
+- *kaviṃ* ← *kavim* ← *kavi*
 - \[noun\], accusative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *ghṛtapṛṣṭhaṃ* \< *ghṛta*
+- *ghṛtapṛṣṭhaṃ* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *ghṛtapṛṣṭhaṃ* \< *pṛṣṭham* \< *pṛṣṭha*
+- *ghṛtapṛṣṭhaṃ* ← *pṛṣṭham* ← *pṛṣṭha*
 - \[noun\], accusative, singular, masculine
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
 ------------------------------------------------------------------------
-- *saparyata* \< *sapary*
+- *saparyata* ← *sapary*
 - \[verb\], plural, Present imperative
 - “worship.”
 ------------------------------------------------------------------------
-- *vetu* \< *vī*
+- *vetu* ← *vī*
 - \[verb\], singular, Present imperative
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śṛṇavaddhavam* \< *śṛṇavat* \< *śru*
+- *śṛṇavaddhavam* ← *śṛṇavat* ← *śru*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *śṛṇavaddhavam* \< *havam* \< *hava*
+- *śṛṇavaddhavam* ← *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------

@@ -6,23 +6,23 @@ title = "Rig Veda 9.103.3"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *kośam* \< *kośa*
+- *kośam* ← *kośa*
 - \[noun\], accusative, singular, masculine
 - “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
     treasure; calyx; container; bucket; box.”
 ------------------------------------------------------------------------
-- *madhuścutam* \< *madhuścut*
+- *madhuścutam* ← *madhuścut*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *avyaye* \< *avyaya*
+- *avyaye* ← *avyaya*
 - \[noun\], locative, singular, masculine
 - “sheep.”
 ------------------------------------------------------------------------
-- *vāre* \< *vāra*
+- *vāre* ← *vāra*
 - \[noun\], locative, singular, masculine
 - “strainer.”
 ------------------------------------------------------------------------
-- *arṣati* \< *ṛṣ*
+- *arṣati* ← *ṛṣ*
 - \[verb\], singular, Present indikative
 - “run.”
 ------------------------------------------------------------------------
@@ -30,19 +30,19 @@ title = "Rig Veda 9.103.3"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *vāṇīr* \< *vāṇīḥ* \< *vāṇī*
+- *vāṇīr* ← *vāṇīḥ* ← *vāṇī*
 - \[noun\], nominative, plural, feminine
 - “voice; Sarasvati; words; language.”
 ------------------------------------------------------------------------
-- *ṛṣīṇāṃ* \< *ṛṣīṇām* \< *ṛṣi*
+- *ṛṣīṇāṃ* ← *ṛṣīṇām* ← *ṛṣi*
 - \[noun\], genitive, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], nominative, singular, neuter
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *nūṣata* \< *nū*
+- *nūṣata* ← *nū*
 - \[verb\], plural, Aorist inj. (proh.)
 - “praise; shout.”
 ------------------------------------------------------------------------

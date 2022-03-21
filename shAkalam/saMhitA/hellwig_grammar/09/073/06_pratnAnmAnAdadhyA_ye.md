@@ -2,16 +2,16 @@
 title = "Rig Veda 9.73.6"
 
 +++
--   *pratnān* \< *pratnāt* \< *pratna*
+-   *pratnān* ← *pratnāt* ← *pratna*
 - \[noun\], ablative, singular, neuter
 - “age-old; pratna \[word\].”
 ------------------------------------------------------------------------
-- *mānād* \< *mānāt* \< *māna*
+- *mānād* ← *mānāt* ← *māna*
 - \[noun\], ablative, singular, neuter
 - “weight; size; intensity; duration; dimension; weighing; volume;
     measure; grāsamāna; weight unit; accord; height; thickness.”
 ------------------------------------------------------------------------
-- *adhy* \< *adhi*
+- *adhy* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
@@ -19,44 +19,44 @@ title = "Rig Veda 9.73.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *samasvarañchlokayantrāso* \< *samasvaran* \< *saṃsvar* \< *√svar*
+- *samasvarañchlokayantrāso* ← *samasvaran* ← *saṃsvar* ← *√svar*
 - \[verb\], plural, Imperfect
 ------------------------------------------------------------------------
-- *samasvarañchlokayantrāso* \< *ślokayantrāsaḥ* \< *ślokayantra*
+- *samasvarañchlokayantrāso* ← *ślokayantrāsaḥ* ← *ślokayantra*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *rabhasasya* \< *rabhasa*
+- *rabhasasya* ← *rabhasa*
 - \[noun\], genitive, singular, masculine
 - “fierce; impetuous; powerful; potent; flamboyant.”
 ------------------------------------------------------------------------
-- *mantavaḥ* \< *mantu*
+- *mantavaḥ* ← *mantu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *apānakṣāso* \< *apa*
+- *apānakṣāso* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *apānakṣāso* \< *anakṣāsaḥ* \< *anakṣa*
+- *apānakṣāso* ← *anakṣāsaḥ* ← *anakṣa*
 - \[noun\], nominative, plural, masculine
 - “eyeless; blind.”
 ------------------------------------------------------------------------
-- *badhirā* \< *badhirāḥ* \< *badhira*
+- *badhirā* ← *badhirāḥ* ← *badhira*
 - \[noun\], nominative, plural, masculine
 - “deaf.”
 ------------------------------------------------------------------------
-- *ahāsata* \< *hā*
+- *ahāsata* ← *hā*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “move over; yield; give way.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *panthāṃ* \< *panthām* \< *pathin*
+- *panthāṃ* ← *panthām* ← *pathin*
 - \[noun\], accusative, singular, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
@@ -64,11 +64,11 @@ title = "Rig Veda 9.73.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *taranti* \< *tṛ*
+- *taranti* ← *tṛ*
 - \[verb\], plural, Present indikative
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *duṣkṛtaḥ* \< *duṣkṛt*
+- *duṣkṛtaḥ* ← *duṣkṛt*
 - \[noun\], nominative, plural, masculine
 - “wicked.”
 ------------------------------------------------------------------------

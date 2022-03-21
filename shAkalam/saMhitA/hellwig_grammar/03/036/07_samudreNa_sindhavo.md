@@ -2,61 +2,61 @@
 title = "Rig Veda 3.36.7"
 
 +++
--   *samudreṇa* \< *samudra*
+-   *samudreṇa* ← *samudra*
 - \[noun\], instrumental, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *sindhavo* \< *sindhavaḥ* \< *sindhu*
+- *sindhavo* ← *sindhavaḥ* ← *sindhu*
 - \[noun\], nominative, plural, feminine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *yādamānā* \< *yādamānāḥ* \< *yād*
+- *yādamānā* ← *yādamānāḥ* ← *yād*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *somaṃ* \< *somam* \< *soma*
+- *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *suṣutam* \< *suṣuta*
+- *suṣutam* ← *suṣuta*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *bharantaḥ* \< *bhṛ*
+- *bharantaḥ* ← *bhṛ*
 - \[verb noun\], nominative, plural
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *aṃśuṃ* \< *aṃśum* \< *aṃśu*
+- *aṃśuṃ* ← *aṃśum* ← *aṃśu*
 - \[noun\], accusative, singular, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
 ------------------------------------------------------------------------
-- *duhanti* \< *duh*
+- *duhanti* ← *duh*
 - \[verb\], plural, Present indikative
 - “milk.”
 ------------------------------------------------------------------------
-- *hastino* \< *hastinaḥ* \< *hastin*
+- *hastino* ← *hastinaḥ* ← *hastin*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *bharitrair* \< *bharitraiḥ* \< *bharitra*
+- *bharitrair* ← *bharitraiḥ* ← *bharitra*
 - \[noun\], instrumental, plural, neuter
 ------------------------------------------------------------------------
-- *madhvaḥ* \< *madhu*
+- *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *punanti* \< *pū*
+- *punanti* ← *pū*
 - \[verb\], plural, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *dhārayā* \< *dhārā*
+- *dhārayā* ← *dhārā*
 - \[noun\], instrumental, singular, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *pavitraiḥ* \< *pavitra*
+- *pavitraiḥ* ← *pavitra*
 - \[noun\], instrumental, plural, neuter
 - “strainer.”
 ------------------------------------------------------------------------

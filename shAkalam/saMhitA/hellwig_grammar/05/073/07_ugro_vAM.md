@@ -2,57 +2,57 @@
 title = "Rig Veda 5.73.7"
 
 +++
--   *ugro* \< *ugraḥ* \< *ugra*
+-   *ugro* ← *ugraḥ* ← *ugra*
 - \[noun\], nominative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *kakuho* \< *kakuhaḥ* \< *kakuha*
+- *kakuho* ← *kakuhaḥ* ← *kakuha*
 - \[noun\], nominative, singular, masculine
 - “huge; eminent; distinguished.”
 ------------------------------------------------------------------------
-- *yayiḥ* \< *yayi*
+- *yayiḥ* ← *yayi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *śṛṇve* \< *śru*
+- *śṛṇve* ← *śru*
 - \[verb\], singular, Present indikative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *yāmeṣu* \< *yāma*
+- *yāmeṣu* ← *yāma*
 - \[noun\], locative, plural, masculine
 - “prahara; watch; travel; path.”
 ------------------------------------------------------------------------
-- *saṃtaniḥ* \< *saṃtani*
+- *saṃtaniḥ* ← *saṃtani*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *daṃsobhir* \< *daṃsobhiḥ* \< *daṃsas*
+- *daṃsobhir* ← *daṃsobhiḥ* ← *daṃsas*
 - \[noun\], instrumental, plural, neuter
 ------------------------------------------------------------------------
-- *aśvinātrir* \< *aśvinā* \< *aśvin*
+- *aśvinātrir* ← *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *aśvinātrir* \< *atriḥ* \< *atri*
+- *aśvinātrir* ← *atriḥ* ← *atri*
 - \[noun\], nominative, singular, masculine
 - “Atri; Atri; atri \[word\].”
 ------------------------------------------------------------------------
-- *narāvavartati* \< *nar* \< *nṛ*
+- *narāvavartati* ← *nar* ← *nṛ*
 - \[noun\], vocative, singular, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *narāvavartati* \< *āvavartati* \< *āvṛt* \< *√vṛt*
+- *narāvavartati* ← *āvavartati* ← *āvṛt* ← *√vṛt*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “melt; return; melt; to be reborn; turn; turn; revolve; roll.”
 ------------------------------------------------------------------------

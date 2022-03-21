@@ -6,13 +6,13 @@ title = "Rig Veda 2.23.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vibādhyā* \< *vibādh* \< *√bādh*
+- *vibādhyā* ← *vibādh* ← *√bādh*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *parirāpas* \< *parirāpaḥ* \< *parirāp*
+- *parirāpas* ← *parirāpaḥ* ← *parirāp*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *tamāṃsi* \< *tamas*
+- *tamāṃsi* ← *tamas*
 - \[noun\], accusative, plural, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
@@ -21,61 +21,61 @@ title = "Rig Veda 2.23.3"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *jyotiṣmantaṃ* \< *jyotiṣmantam* \< *jyotiṣmat*
+- *jyotiṣmantaṃ* ← *jyotiṣmantam* ← *jyotiṣmat*
 - \[noun\], accusative, singular, masculine
 - “shining.”
 ------------------------------------------------------------------------
-- *ratham* \< *ratha*
+- *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *tiṣṭhasi* \< *sthā*
+- *tiṣṭhasi* ← *sthā*
 - \[verb\], singular, Present indikative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *bṛhaspate* \< *bṛhaspati*
+- *bṛhaspate* ← *bṛhaspati*
 - \[noun\], vocative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *bhīmam* \< *bhīma*
+- *bhīmam* ← *bhīma*
 - \[noun\], accusative, singular, masculine
 - “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
 ------------------------------------------------------------------------
-- *amitradambhanaṃ* \< *amitra*
+- *amitradambhanaṃ* ← *amitra*
 - \[noun\], masculine
 - “enemy; foe.”
 ------------------------------------------------------------------------
-- *amitradambhanaṃ* \< *dambhanam* \< *dambhana*
+- *amitradambhanaṃ* ← *dambhanam* ← *dambhana*
 - \[noun\], accusative, singular, masculine
 - “damaging.”
 ------------------------------------------------------------------------
-- *rakṣohaṇaṃ* \< *rakṣaḥ* \< *rakṣas*
+- *rakṣohaṇaṃ* ← *rakṣaḥ* ← *rakṣas*
 - \[noun\], neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
 ------------------------------------------------------------------------
-- *rakṣohaṇaṃ* \< *haṇam* \< *han*
+- *rakṣohaṇaṃ* ← *haṇam* ← *han*
 - \[noun\], accusative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
-- *gotrabhidaṃ* \< *gotra*
+- *gotrabhidaṃ* ← *gotra*
 - \[noun\], neuter
 - “Gotra; patronymic; gotra \[word\]; name; family; family; kin;
     Gotra; mountain; herd; cow pen; cowbarn.”
 ------------------------------------------------------------------------
-- *gotrabhidaṃ* \< *bhidam* \< *bhid*
+- *gotrabhidaṃ* ← *bhidam* ← *bhid*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *svarvidam* \< *svar*
+- *svarvidam* ← *svar*
 - \[noun\], neuter
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *svarvidam* \< *vidam* \< *vid*
+- *svarvidam* ← *vidam* ← *vid*
 - \[noun\], accusative, singular, masculine
 - “finding.”
 ------------------------------------------------------------------------

@@ -2,46 +2,46 @@
 title = "Rig Veda 10.84.1"
 
 +++
--   *tvayā* \< *tvad*
+-   *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
 ------------------------------------------------------------------------
-- *manyo* \< *manyu*
+- *manyo* ← *manyu*
 - \[noun\], vocative, singular, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------
-- *saratham* \< *sa*
+- *saratham* ← *sa*
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *saratham* \< *ratham* \< *ratha*
+- *saratham* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *ārujanto* \< *ārujantaḥ* \< *āruj* \< *√ruj*
+- *ārujanto* ← *ārujantaḥ* ← *āruj* ← *√ruj*
 - \[verb noun\], nominative, plural
 - “demolish; break up.”
 ------------------------------------------------------------------------
-- *harṣamāṇāso* \< *harṣamāṇāsaḥ* \< *hṛṣ*
+- *harṣamāṇāso* ← *harṣamāṇāsaḥ* ← *hṛṣ*
 - \[verb noun\], nominative, plural
 - “rejoice; bristle; thrill.”
 ------------------------------------------------------------------------
-- *dhṛṣitā* \< *dhṛṣitāḥ* \< *dhṛṣ*
+- *dhṛṣitā* ← *dhṛṣitāḥ* ← *dhṛṣ*
 - \[verb noun\], nominative, plural
 - “dare; attack.”
 ------------------------------------------------------------------------
-- *marutvaḥ* \< *marutvas* \< *marutvat*
+- *marutvaḥ* ← *marutvas* ← *marutvat*
 - \[noun\], vocative, singular, masculine
 - “Marut(a).”
 ------------------------------------------------------------------------
-- *tigmeṣava* \< *tigmeṣavaḥ* \< *tigmeṣu*
+- *tigmeṣava* ← *tigmeṣavaḥ* ← *tigmeṣu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *āyudhā* \< *āyudha*
+- *āyudhā* ← *āyudha*
 - \[noun\], accusative, plural, neuter
 - “weapon; āyudha \[word\].”
 ------------------------------------------------------------------------
-- *saṃśiśānā* \< *saṃśiśānāḥ* \< *saṃśā* \< *√śā*
+- *saṃśiśānā* ← *saṃśiśānāḥ* ← *saṃśā* ← *√śā*
 - \[verb noun\], nominative, plural
 - “sharpen.”
 ------------------------------------------------------------------------
@@ -53,21 +53,21 @@ title = "Rig Veda 10.84.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yantu* \< *i*
+- *yantu* ← *i*
 - \[verb\], plural, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *naro* \< *naraḥ* \< *nṛ*
+- *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *agnirūpāḥ* \< *agni*
+- *agnirūpāḥ* ← *agni*
 - \[noun\], masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *agnirūpāḥ* \< *rūpāḥ* \< *rūpa*
+- *agnirūpāḥ* ← *rūpāḥ* ← *rūpa*
 - \[noun\], nominative, plural, masculine
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;

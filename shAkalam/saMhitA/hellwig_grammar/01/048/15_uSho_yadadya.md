@@ -2,11 +2,11 @@
 title = "Rig Veda 1.48.15"
 
 +++
--   *uṣo* \< *uṣaḥ* \< *uṣas*
+-   *uṣo* ← *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -14,7 +14,7 @@ title = "Rig Veda 1.48.15"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *bhānunā* \< *bhānu*
+- *bhānunā* ← *bhānu*
 - \[noun\], instrumental, singular, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
@@ -23,16 +23,16 @@ title = "Rig Veda 1.48.15"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *dvārāv* \< *dvārau* \< *dvār*
+- *dvārāv* ← *dvārau* ← *dvār*
 - \[noun\], accusative, dual, feminine
 - “door; means.”
 ------------------------------------------------------------------------
-- *ṛṇavo* \< *ṛṇavaḥ* \< *ṛch*
+- *ṛṇavo* ← *ṛṇavaḥ* ← *ṛch*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *divaḥ* \< *div*
+- *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -40,15 +40,15 @@ title = "Rig Veda 1.48.15"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *yacchatād* \< *yacchatāt* \< *yam*
+- *yacchatād* ← *yacchatāt* ← *yam*
 - \[verb\], singular, Present imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *avṛkam* \< *avṛka*
+- *avṛkam* ← *avṛka*
 - \[noun\], accusative, singular, neuter
 - “safety.”
 ------------------------------------------------------------------------
@@ -56,7 +56,7 @@ title = "Rig Veda 1.48.15"
 - \[noun\], accusative, singular, neuter
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
 ------------------------------------------------------------------------
-- *cchardiḥ* \< *chardiḥ* \< *chardis*
+- *cchardiḥ* ← *chardiḥ* ← *chardis*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering.”
 ------------------------------------------------------------------------
@@ -64,15 +64,15 @@ title = "Rig Veda 1.48.15"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *devi* \< *devī*
+- *devi* ← *devī*
 - \[noun\], vocative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *gomatīr* \< *gomatīḥ* \< *gomat*
+- *gomatīr* ← *gomatīḥ* ← *gomat*
 - \[noun\], accusative, plural, feminine
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------
-- *iṣaḥ* \< *iṣ*
+- *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------

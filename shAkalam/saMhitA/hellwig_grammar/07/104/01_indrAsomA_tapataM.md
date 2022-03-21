@@ -2,63 +2,63 @@
 title = "Rig Veda 7.104.1"
 
 +++
--   *indrāsomā* \< *indrāsoma*
+-   *indrāsomā* ← *indrāsoma*
 - \[noun\], vocative, dual, masculine
 - “Soma; Indra.”
 ------------------------------------------------------------------------
-- *tapataṃ* \< *tapatam* \< *tap*
+- *tapataṃ* ← *tapatam* ← *tap*
 - \[verb\], dual, Present imperative
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
 ------------------------------------------------------------------------
-- *rakṣa* \< *rakṣaḥ* \< *rakṣas*
+- *rakṣa* ← *rakṣaḥ* ← *rakṣas*
 - \[noun\], accusative, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
 ------------------------------------------------------------------------
-- *ubjataṃ* \< *ubjatam* \< *ubj*
+- *ubjataṃ* ← *ubjatam* ← *ubj*
 - \[verb\], dual, Present imperative
 - “oppress.”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *arpayataṃ* \< *arpayatam* \< *arpay*
+- *arpayataṃ* ← *arpayatam* ← *arpay*
 - \[verb\], dual, Present imperative
 - “shoot; give; direct; hide; put; insert.”
 ------------------------------------------------------------------------
-- *vṛṣaṇā* \< *vṛṣan*
+- *vṛṣaṇā* ← *vṛṣan*
 - \[noun\], vocative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *tamovṛdhaḥ* \< *tamovṛdh*
+- *tamovṛdhaḥ* ← *tamovṛdh*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
 - *parā*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *śṛṇītam* \< *śṛ*
+- *śṛṇītam* ← *śṛ*
 - \[verb\], dual, Present imperative
 - “fall off; break; disintegrate; crush; break; fracture.”
 ------------------------------------------------------------------------
-- *acito* \< *acitaḥ* \< *acit*
+- *acito* ← *acitaḥ* ← *acit*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *oṣataṃ* \< *oṣatam* \< *uṣ*
+- *oṣataṃ* ← *oṣatam* ← *uṣ*
 - \[verb\], dual, Imperfect
 - “burn; punish.”
 ------------------------------------------------------------------------
-- *hataṃ* \< *hatam* \< *han*
+- *hataṃ* ← *hatam* ← *han*
 - \[verb\], dual, Present imperative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *nudethāṃ* \< *nudethām* \< *nud*
+- *nudethāṃ* ← *nudethām* ← *nud*
 - \[verb\], dual, Present imperative
 - “push; propel; expel; push; move.”
 ------------------------------------------------------------------------
@@ -66,11 +66,11 @@ title = "Rig Veda 7.104.1"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *śiśītam* \< *śā*
+- *śiśītam* ← *śā*
 - \[verb\], dual, Present imperative
 - “sharpen; whet; strengthen.”
 ------------------------------------------------------------------------
-- *atriṇaḥ* \< *atrin*
+- *atriṇaḥ* ← *atrin*
 - \[noun\], accusative, plural, masculine
 - “Atrin; eater.”
 ------------------------------------------------------------------------

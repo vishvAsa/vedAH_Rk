@@ -10,19 +10,19 @@ title = "Rig Veda 6.66.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yeṣu* \< *yad*
+- *yeṣu* ← *yad*
 - \[noun\], locative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dohase* \< *duh*
+- *dohase* ← *duh*
 - \[verb noun\]
 - “milk.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ayā* \< *idam*
+- *ayā* ← *idam*
 - \[noun\], instrumental, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -30,7 +30,7 @@ title = "Rig Veda 6.66.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *nāma* \< *nāman*
+- *nāma* ← *nāman*
 - \[noun\], accusative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
@@ -39,11 +39,11 @@ title = "Rig Veda 6.66.5"
 - \[noun\], accusative, singular, neuter
 - “brave; ferocious; strong.”
 ------------------------------------------------------------------------
-- *mārutaṃ* \< *mārutam* \< *māruta*
+- *mārutaṃ* ← *mārutam* ← *māruta*
 - \[noun\], accusative, singular, neuter
 - “Marut(a).”
 ------------------------------------------------------------------------
-- *dadhānāḥ* \< *dhā*
+- *dadhānāḥ* ← *dhā*
 - \[verb noun\], nominative, plural
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
@@ -52,22 +52,22 @@ title = "Rig Veda 6.66.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *staunā* \< *staunāḥ* \< *stauna*
+- *staunā* ← *staunāḥ* ← *stauna*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *ayāso* \< *ayāsaḥ* \< *ayās*
+- *ayāso* ← *ayāsaḥ* ← *ayās*
 - \[noun\], nominative, plural, masculine
 - “undaunted; irrepressible; audacious.”
 ------------------------------------------------------------------------
-- *mahnā* \< *mahan*
+- *mahnā* ← *mahan*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
 ------------------------------------------------------------------------
-- *nū* \< *nu*
+- *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
@@ -75,11 +75,11 @@ title = "Rig Veda 6.66.5"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *sudānur* \< *su*
+- *sudānur* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudānur* \< *dānuḥ* \< *dānu*
+- *sudānur* ← *dānuḥ* ← *dānu*
 - \[noun\], nominative, singular, feminine
 - “giving; big.”
 ------------------------------------------------------------------------
@@ -87,12 +87,12 @@ title = "Rig Veda 6.66.5"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *yāsad* \< *yāsat* \< *yā*
+- *yāsad* ← *yāsat* ← *yā*
 - \[verb\], singular, Aorist conj./subj.
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *ugrān* \< *ugra*
+- *ugrān* ← *ugra*
 - \[noun\], accusative, plural, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”

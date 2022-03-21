@@ -2,29 +2,29 @@
 title = "Rig Veda 5.10.5"
 
 +++
--   *tava* \< *tvad*
+-   *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tye* \< *tya*
+- *tye* ← *tya*
 - \[noun\], nominative, plural, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *arcayo* \< *arcayaḥ* \< *arci*
+- *arcayo* ← *arcayaḥ* ← *arci*
 - \[noun\], nominative, plural, masculine
 - “flare.”
 ------------------------------------------------------------------------
-- *bhrājanto* \< *bhrājantaḥ* \< *bhrāj*
+- *bhrājanto* ← *bhrājantaḥ* ← *bhrāj*
 - \[verb noun\], nominative, plural
 - “shine; glitter; look.”
 ------------------------------------------------------------------------
-- *yanti* \< *i*
+- *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
@@ -32,7 +32,7 @@ title = "Rig Veda 5.10.5"
 - \[adverb\]
 - “boldly.”
 ------------------------------------------------------------------------
-- *parijmāno* \< *parijmānaḥ* \< *parijman*
+- *parijmāno* ← *parijmānaḥ* ← *parijman*
 - \[noun\], nominative, plural, feminine
 - “encompassing(a).”
 ------------------------------------------------------------------------
@@ -40,15 +40,15 @@ title = "Rig Veda 5.10.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vidyutaḥ* \< *vidyut*
+- *vidyutaḥ* ← *vidyut*
 - \[noun\], nominative, plural, feminine
 - “lightning; Vidyut; thunderbolt.”
 ------------------------------------------------------------------------
-- *svāno* \< *svānaḥ* \< *svāna*
+- *svāno* ← *svānaḥ* ← *svāna*
 - \[noun\], nominative, singular, masculine
 - “sound.”
 ------------------------------------------------------------------------
-- *ratho* \< *rathaḥ* \< *ratha*
+- *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -56,7 +56,7 @@ title = "Rig Veda 5.10.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vājayuḥ* \< *vājayu*
+- *vājayuḥ* ← *vājayu*
 - \[noun\], nominative, singular, masculine
 - “competing(a); competitive.”
 ------------------------------------------------------------------------

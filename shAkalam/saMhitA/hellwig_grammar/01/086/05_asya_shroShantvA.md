@@ -2,33 +2,33 @@
 title = "Rig Veda 1.86.5"
 
 +++
--   *asya* \< *idam*
+-   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *śroṣantv* \< *śroṣantu* \< *śruṣ*
+- *śroṣantv* ← *śroṣantu* ← *śruṣ*
 - \[verb\], plural, Present imperative
 ------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *bhuvo* \< *bhuvaḥ* \< *bhū*
+- *bhuvo* ← *bhuvaḥ* ← *bhū*
 - \[noun\], nominative, plural, feminine
 - “Earth; floor; earth; bhū; Earth; one; saurāṣṭrā; three; land; land;
     place; world; bhū \[word\]; soil; pṛthivī; being; bhūja; floor;
     bhūnāga; sphaṭikā; beginning; birth; estate.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśvāḥ* \< *viśva*
+- *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], nominative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *yaś* \< *yaḥ* \< *yad*
+- *yaś* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *carṣaṇīr* \< *carṣaṇīḥ* \< *carṣaṇi*
+- *carṣaṇīr* ← *carṣaṇīḥ* ← *carṣaṇi*
 - \[noun\], accusative, plural, feminine
 - “people.”
 ------------------------------------------------------------------------
@@ -36,7 +36,7 @@ title = "Rig Veda 1.86.5"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *sūraṃ* \< *sūram* \< *sūra*
+- *sūraṃ* ← *sūram* ← *sūra*
 - \[noun\], accusative, singular, masculine
 - “sun.”
 ------------------------------------------------------------------------
@@ -44,11 +44,11 @@ title = "Rig Veda 1.86.5"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *sasruṣīr* \< *sasruṣīḥ* \< *sṛ*
+- *sasruṣīr* ← *sasruṣīḥ* ← *sṛ*
 - \[verb noun\], accusative, plural
 - “sṛ; liquefy; run; spread; stretch out.”
 ------------------------------------------------------------------------
-- *iṣaḥ* \< *iṣ*
+- *iṣaḥ* ← *iṣ*
 - \[noun\], nominative, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------

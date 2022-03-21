@@ -2,32 +2,32 @@
 title = "Rig Veda 8.101.13"
 
 +++
--   *iyaṃ* \< *iyam* \< *idam*
+-   *iyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *nīcy* \< *nīcī* \< *nyāñc*
+- *nīcy* ← *nīcī* ← *nyāñc*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *arkiṇī* \< *arkin*
+- *arkiṇī* ← *arkin*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *rūpā* \< *rūpa*
+- *rūpā* ← *rūpa*
 - \[noun\], nominative, plural, neuter
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
 ------------------------------------------------------------------------
-- *rohiṇyā* \< *rohin*
+- *rohiṇyā* ← *rohin*
 - \[noun\], instrumental, singular, feminine
 - “growing.”
 ------------------------------------------------------------------------
-- *kṛtā* \< *kṛ*
+- *kṛtā* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -38,27 +38,27 @@ title = "Rig Veda 8.101.13"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *citreva* \< *citrā* \< *citra*
+- *citreva* ← *citrā* ← *citra*
 - \[noun\], nominative, singular, feminine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *citreva* \< *iva*
+- *citreva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *praty* \< *prati*
+- *praty* ← *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *adarśy* \< *adarśi* \< *dṛś*
+- *adarśy* ← *adarśi* ← *dṛś*
 - \[verb\], singular, Aorist passive
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
 ------------------------------------------------------------------------
-- *āyaty* \< *āyatī* \< *e* \< *√i*
+- *āyaty* ← *āyatī* ← *e* ← *√i*
 - \[verb noun\], nominative, singular
 - “come; travel.”
 ------------------------------------------------------------------------
@@ -66,11 +66,11 @@ title = "Rig Veda 8.101.13"
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *daśasu* \< *daśan*
+- *daśasu* ← *daśan*
 - \[noun\], locative, plural, masculine
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *bāhuṣu* \< *bāhu*
+- *bāhuṣu* ← *bāhu*
 - \[noun\], locative, plural, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------

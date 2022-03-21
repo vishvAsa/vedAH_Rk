@@ -2,7 +2,7 @@
 title = "Rig Veda 9.70.9"
 
 +++
--   *pavasva* \< *pū*
+-   *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
@@ -10,19 +10,19 @@ title = "Rig Veda 9.70.9"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *devavītaye* \< *deva*
+- *devavītaye* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devavītaye* \< *vītaye* \< *vīti*
+- *devavītaye* ← *vītaye* ← *vīti*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------
-- *vṛṣendrasya* \< *vṛṣā* \< *vṛṣan*
+- *vṛṣendrasya* ← *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *vṛṣendrasya* \< *indrasya* \< *indra*
+- *vṛṣendrasya* ← *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -31,11 +31,11 @@ title = "Rig Veda 9.70.9"
 - \[noun\], accusative, singular, neuter
 - “heart.”
 ------------------------------------------------------------------------
-- *somadhānam* \< *soma*
+- *somadhānam* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somadhānam* \< *dhānam* \< *dhāna*
+- *somadhānam* ← *dhānam* ← *dhāna*
 - \[noun\], accusative, singular, neuter
 - “containing.”
 ------------------------------------------------------------------------
@@ -43,7 +43,7 @@ title = "Rig Veda 9.70.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *viśa* \< *viś*
+- *viśa* ← *viś*
 - \[verb\], singular, Present imperative
 - “enter; penetrate; settle; settle.”
 ------------------------------------------------------------------------
@@ -51,49 +51,49 @@ title = "Rig Veda 9.70.9"
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *bādhād* \< *bādhāt* \< *bādha*
+- *bādhād* ← *bādhāt* ← *bādha*
 - \[noun\], ablative, singular, masculine
 - “danger.”
 ------------------------------------------------------------------------
-- *duritāti* \< *duritā* \< *durita*
+- *duritāti* ← *duritā* ← *durita*
 - \[noun\], accusative, plural, neuter
 - “danger; sin; difficulty; difficulty; evil.”
 ------------------------------------------------------------------------
-- *duritāti* \< *ati*
+- *duritāti* ← *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *pāraya* \< *pāray* \< *√pṛ*
+- *pāraya* ← *pāray* ← *√pṛ*
 - \[verb\], singular, Present imperative
 - “rescue; keep alive; satisfy; save; resist; endure.”
 ------------------------------------------------------------------------
-- *kṣetraviddhi* \< *kṣetra*
+- *kṣetraviddhi* ← *kṣetra*
 - \[noun\], neuter
 - “field; location; habitat; country; area; earth; region; estate;
     body; kṣetra \[word\]; kṣetradoṣa; seat; reincarnation; uterus.”
 ------------------------------------------------------------------------
-- *kṣetraviddhi* \< *vid*
+- *kṣetraviddhi* ← *vid*
 - \[noun\], nominative, singular, masculine
 - “conversant(p); aware(p); enlightened; understanding.”
 ------------------------------------------------------------------------
-- *kṣetraviddhi* \< *hi*
+- *kṣetraviddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *diśa* \< *diśaḥ* \< *diś*
+- *diśa* ← *diśaḥ* ← *diś*
 - \[noun\], accusative, plural, feminine
 - “quarter; direction; region; diś \[word\]; Aṣṭādhyāyī, 5.3.27;
     distant region; Diś; four; example; method; space.”
 ------------------------------------------------------------------------
-- *āhā* \< *āha* \< *ah*
+- *āhā* ← *āha* ← *ah*
 - \[verb\], singular, Perfect indicative
 - “describe; state; say; enumerate; call; name; teach; tell; deem;
     explain; say; define.”
 ------------------------------------------------------------------------
-- *vipṛcchate* \< *vipracch* \< *√pracch*
+- *vipṛcchate* ← *vipracch* ← *√pracch*
 - \[verb noun\], dative, singular
 ------------------------------------------------------------------------

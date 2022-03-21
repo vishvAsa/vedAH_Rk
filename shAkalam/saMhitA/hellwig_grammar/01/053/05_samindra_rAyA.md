@@ -11,7 +11,7 @@ title = "Rig Veda 1.53.5"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *rāyā* \< *rai*
+- *rāyā* ← *rai*
 - \[noun\], instrumental, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
@@ -19,69 +19,69 @@ title = "Rig Veda 1.53.5"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *iṣā* \< *iṣ*
+- *iṣā* ← *iṣ*
 - \[noun\], instrumental, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *rabhemahi* \< *rabh*
+- *rabhemahi* ← *rabh*
 - \[verb\], plural, Present optative
 - “clasp.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *vājebhiḥ* \< *vāja*
+- *vājebhiḥ* ← *vāja*
 - \[noun\], instrumental, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *puruścandrair* \< *puru*
+- *puruścandrair* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *puruścandrair* \< *ścandraiḥ* \< *ścandra*
+- *puruścandrair* ← *ścandraiḥ* ← *ścandra*
 - \[noun\], instrumental, plural, masculine
 - “shining; glistening; brilliant.”
 ------------------------------------------------------------------------
-- *abhidyubhiḥ* \< *abhidyu*
+- *abhidyubhiḥ* ← *abhidyu*
 - \[noun\], instrumental, plural, masculine
 - “celestial; brilliant.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *devyā* \< *devī*
+- *devyā* ← *devī*
 - \[noun\], instrumental, singular, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *pramatyā* \< *pramati*
+- *pramatyā* ← *pramati*
 - \[noun\], instrumental, singular, feminine
 - “care; solicitude; caution; providence.”
 ------------------------------------------------------------------------
-- *vīraśuṣmayā* \< *vīra*
+- *vīraśuṣmayā* ← *vīra*
 - \[noun\], masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *vīraśuṣmayā* \< *śuṣmayā* \< *śuṣma*
+- *vīraśuṣmayā* ← *śuṣmayā* ← *śuṣma*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *goagrayāśvāvatyā* \< *go*
+- *goagrayāśvāvatyā* ← *go*
 - \[noun\]
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *goagrayāśvāvatyā* \< *agrayā* \< *agra*
+- *goagrayāśvāvatyā* ← *agrayā* ← *agra*
 - \[noun\], instrumental, singular, feminine
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
 ------------------------------------------------------------------------
-- *goagrayāśvāvatyā* \< *aśvāvatyā* \< *aśvāvat*
+- *goagrayāśvāvatyā* ← *aśvāvatyā* ← *aśvāvat*
 - \[noun\], instrumental, singular, feminine
 - “rich in horses.”
 ------------------------------------------------------------------------
-- *rabhemahi* \< *rabh*
+- *rabhemahi* ← *rabh*
 - \[verb\], plural, Present optative
 - “clasp.”
 ------------------------------------------------------------------------

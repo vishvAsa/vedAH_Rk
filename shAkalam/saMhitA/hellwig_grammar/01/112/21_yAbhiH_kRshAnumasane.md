@@ -2,39 +2,39 @@
 title = "Rig Veda 1.112.21"
 
 +++
--   *yābhiḥ* \< *yad*
+-   *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *kṛśānum* \< *kṛśānu*
+- *kṛśānum* ← *kṛśānu*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; Plumbago zeylanica.”
 ------------------------------------------------------------------------
-- *asane* \< *asana*
+- *asane* ← *asana*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *duvasyatho* \< *duvasyathaḥ* \< *duvasy*
+- *duvasyatho* ← *duvasyathaḥ* ← *duvasy*
 - \[verb\], dual, Present indikative
 - “worship.”
 ------------------------------------------------------------------------
-- *jave* \< *java*
+- *jave* ← *java*
 - \[noun\], locative, singular, masculine
 - “speed; Java; speed.”
 ------------------------------------------------------------------------
-- *yābhir* \< *yābhiḥ* \< *yad*
+- *yābhir* ← *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yūno* \< *yūnaḥ* \< *yuvan*
+- *yūno* ← *yūnaḥ* ← *yuvan*
 - \[noun\], genitive, singular, masculine
 - “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
     buck; young.”
 ------------------------------------------------------------------------
-- *arvantam* \< *arvant*
+- *arvantam* ← *arvant*
 - \[noun\], accusative, singular, masculine
 - “horse.”
 ------------------------------------------------------------------------
-- *āvatam* \< *av*
+- *āvatam* ← *av*
 - \[verb\], dual, Imperfect
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
@@ -42,12 +42,12 @@ title = "Rig Veda 1.112.21"
 - \[noun\], accusative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *priyam* \< *priya*
+- *priyam* ← *priya*
 - \[noun\], accusative, singular, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *bharatho* \< *bharathaḥ* \< *bhṛ*
+- *bharatho* ← *bharathaḥ* ← *bhṛ*
 - \[verb\], dual, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
@@ -56,32 +56,32 @@ title = "Rig Veda 1.112.21"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *saraḍbhyas* \< *saraḍbhyaḥ* \< *saraḍ*
+- *saraḍbhyas* ← *saraḍbhyaḥ* ← *saraḍ*
 - \[noun\], dative, plural, masculine
 ------------------------------------------------------------------------
-- *tābhir* \< *tābhiḥ* \< *tad*
+- *tābhir* ← *tābhiḥ* ← *tad*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ū* \< *u*
+- *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *ūtibhir* \< *ūtibhiḥ* \< *ūti*
+- *ūtibhir* ← *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *gatam* \< *gam*
+- *gatam* ← *gam*
 - \[verb\], dual, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

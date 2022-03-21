@@ -2,7 +2,7 @@
 title = "Rig Veda 10.100.2"
 
 +++
--   *bharāya* \< *bhara*
+-   *bharāya* ← *bhara*
 - \[noun\], dative, singular, masculine
 - “battle; weight; foray; bhṛ; load.”
 ------------------------------------------------------------------------
@@ -10,18 +10,18 @@ title = "Rig Veda 10.100.2"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *bharata* \< *bhṛ*
+- *bharata* ← *bhṛ*
 - \[verb\], plural, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *bhāgam* \< *bhāga*
+- *bhāgam* ← *bhāga*
 - \[noun\], accusative, singular, masculine
 - “part; part; part; parcel; quarter; body part; location; region;
     allotment; part; numerator; division; application; function;
     outside; bhāga \[word\]; volume; helping.”
 ------------------------------------------------------------------------
-- *ṛtviyam* \< *ṛtviya*
+- *ṛtviyam* ← *ṛtviya*
 - \[noun\], accusative, singular, masculine
 - “regular; punctual; timely.”
 ------------------------------------------------------------------------
@@ -29,45 +29,45 @@ title = "Rig Veda 10.100.2"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vāyave* \< *vāyu*
+- *vāyave* ← *vāyu*
 - \[noun\], dative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
 ------------------------------------------------------------------------
-- *śucipe* \< *śuci*
+- *śucipe* ← *śuci*
 - \[noun\]
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *śucipe* \< *pe* \< *pā*
+- *śucipe* ← *pe* ← *pā*
 - \[noun\], dative, singular, masculine
 - “drinking.”
 ------------------------------------------------------------------------
-- *krandadiṣṭaye* \< *krandat* \< *krand*
+- *krandadiṣṭaye* ← *krandat* ← *krand*
 - \[verb noun\]
 - “roar; neigh; cry; howl; shout.”
 ------------------------------------------------------------------------
-- *krandadiṣṭaye* \< *iṣṭaye* \< *iṣṭi*
+- *krandadiṣṭaye* ← *iṣṭaye* ← *iṣṭi*
 - \[noun\], dative, singular, masculine
 - “seeking.”
 ------------------------------------------------------------------------
-- *gaurasya* \< *gaura*
+- *gaurasya* ← *gaura*
 - \[noun\], genitive, singular, neuter
 - “white; light; gaura \[word\]; yellow.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *payasaḥ* \< *payas*
+- *payasaḥ* ← *payas*
 - \[noun\], genitive, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
-- *pītim* \< *pīti*
+- *pītim* ← *pīti*
 - \[noun\], accusative, singular, feminine
 - “drinking; haritāla.”
 ------------------------------------------------------------------------
-- *ānaśa* \< *ānaśe* \< *aś*
+- *ānaśa* ← *ānaśe* ← *aś*
 - \[verb\], singular, Perfect indicative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
@@ -75,15 +75,15 @@ title = "Rig Veda 10.100.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sarvatātim* \< *sarvatāti*
+- *sarvatātim* ← *sarvatāti*
 - \[noun\], accusative, singular, feminine
 - “completeness; prosperity; sum.”
 ------------------------------------------------------------------------
-- *aditiṃ* \< *aditim* \< *aditi*
+- *aditiṃ* ← *aditim* ← *aditi*
 - \[noun\], accusative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *vṛṇīmahe* \< *vṛ*
+- *vṛṇīmahe* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “choose; ask.”
 ------------------------------------------------------------------------

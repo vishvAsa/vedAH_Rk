@@ -2,29 +2,29 @@
 title = "Rig Veda 10.72.8"
 
 +++
--   *aṣṭau* \< *aṣṭan*
+-   *aṣṭau* ← *aṣṭan*
 - \[noun\], nominative, plural, masculine
 - “eight; eighth; aṣṭan \[word\].”
 ------------------------------------------------------------------------
-- *putrāso* \< *putrāsaḥ* \< *putra*
+- *putrāso* ← *putrāsaḥ* ← *putra*
 - \[noun\], nominative, plural, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
-- *aditer* \< *aditeḥ* \< *aditi*
+- *aditer* ← *aditeḥ* ← *aditi*
 - \[noun\], genitive, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *jātās* \< *jātāḥ* \< *jan*
+- *jātās* ← *jātāḥ* ← *jan*
 - \[verb noun\], nominative, plural
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *tanvas* \< *tanvaḥ* \< *tanū*
+- *tanvas* ← *tanvaḥ* ← *tanū*
 - \[noun\], ablative, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
@@ -32,7 +32,7 @@ title = "Rig Veda 10.72.8"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *devāṃ* \< *deva*
+- *devāṃ* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -41,11 +41,11 @@ title = "Rig Veda 10.72.8"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *prait* \< *pre* \< *√i*
+- *prait* ← *pre* ← *√i*
 - \[verb\], singular, Imperfect
 - “die; proceed; advance; continue; begin; depart.”
 ------------------------------------------------------------------------
-- *saptabhiḥ* \< *saptan*
+- *saptabhiḥ* ← *saptan*
 - \[noun\], instrumental, plural, masculine
 - “seven; seventh.”
 ------------------------------------------------------------------------
@@ -53,11 +53,11 @@ title = "Rig Veda 10.72.8"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *mārtāṇḍam* \< *mārtāṇḍa*
+- *mārtāṇḍam* ← *mārtāṇḍa*
 - \[noun\], accusative, singular, masculine
 - “Surya; sun; bird.”
 ------------------------------------------------------------------------
-- *āsyat* \< *as*
+- *āsyat* ← *as*
 - \[verb\], singular, Imperfect
 - “shoot; remove.”
 ------------------------------------------------------------------------

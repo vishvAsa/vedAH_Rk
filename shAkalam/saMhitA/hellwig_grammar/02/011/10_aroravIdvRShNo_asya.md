@@ -2,36 +2,36 @@
 title = "Rig Veda 2.11.10"
 
 +++
--   *aroravīd* \< *aroravīt* \< *roro* \< *√ru*
+-   *aroravīd* ← *aroravīt* ← *roro* ← *√ru*
 - \[verb\], singular, Imperfect
 - “bellow.”
 ------------------------------------------------------------------------
-- *vṛṣṇo* \< *vṛṣṇaḥ* \< *vṛṣan*
+- *vṛṣṇo* ← *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vajro* \< *vajraḥ* \< *vajra*
+- *vajro* ← *vajraḥ* ← *vajra*
 - \[noun\], nominative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *'mānuṣaṃ* \< *amānuṣam* \< *amānuṣa*
+- *'mānuṣaṃ* ← *amānuṣam* ← *amānuṣa*
 - \[noun\], accusative, singular, masculine
 - “superhuman.”
 ------------------------------------------------------------------------
-- *yan* \< *yat*
+- *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *mānuṣo* \< *mānuṣaḥ* \< *mānuṣa*
+- *mānuṣo* ← *mānuṣaḥ* ← *mānuṣa*
 - \[noun\], nominative, singular, masculine
 - “human.”
 ------------------------------------------------------------------------
-- *nijūrvāt* \< *nijūrv* \< *√jūrv*
+- *nijūrvāt* ← *nijūrv* ← *√jūrv*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “burn.”
 ------------------------------------------------------------------------
@@ -39,28 +39,28 @@ title = "Rig Veda 2.11.10"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *māyino* \< *māyinaḥ* \< *māyin*
+- *māyino* ← *māyinaḥ* ← *māyin*
 - \[noun\], genitive, singular, masculine
 - “artful; charming; crafty; deceptive.”
 ------------------------------------------------------------------------
-- *dānavasya* \< *dānava*
+- *dānavasya* ← *dānava*
 - \[noun\], genitive, singular, masculine
 - “Dānava.”
 ------------------------------------------------------------------------
-- *māyā* \< *māyāḥ* \< *māyā*
+- *māyā* ← *māyāḥ* ← *māyā*
 - \[noun\], accusative, plural, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
 ------------------------------------------------------------------------
-- *apādayat* \< *pāday* \< *√pad*
+- *apādayat* ← *pāday* ← *√pad*
 - \[verb\], singular, Imperfect
 - “make fall.”
 ------------------------------------------------------------------------
-- *papivān* \< *pā*
+- *papivān* ← *pā*
 - \[verb noun\], nominative, singular
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *sutasya* \< *suta*
+- *sutasya* ← *suta*
 - \[noun\], genitive, singular, masculine
 - “Soma.”
 ------------------------------------------------------------------------

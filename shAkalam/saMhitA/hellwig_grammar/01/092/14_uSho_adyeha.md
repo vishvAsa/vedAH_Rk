@@ -2,47 +2,47 @@
 title = "Rig Veda 1.92.14"
 
 +++
--   *uṣo* \< *uṣaḥ* \< *uṣas*
+-   *uṣo* ← *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *adyeha* \< *adyā* \< *adya*
+- *adyeha* ← *adyā* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *adyeha* \< *iha*
+- *adyeha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *gomaty* \< *gomati* \< *gomat*
+- *gomaty* ← *gomati* ← *gomat*
 - \[noun\], vocative, singular, feminine
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------
-- *aśvāvati* \< *aśvāvat*
+- *aśvāvati* ← *aśvāvat*
 - \[noun\], vocative, singular, feminine
 - “rich in horses.”
 ------------------------------------------------------------------------
-- *vibhāvari* \< *vibhāvan*
+- *vibhāvari* ← *vibhāvan*
 - \[noun\], vocative, singular, feminine
 - “illuminating; shining.”
 ------------------------------------------------------------------------
-- *revad* \< *revat*
+- *revad* ← *revat*
 - \[noun\], accusative, singular, neuter
 - “abundant; rich; affluent; brilliant; brilliant.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *uccha* \< *vas*
+- *uccha* ← *vas*
 - \[verb\], singular, Present imperative
 - “dawn; shine.”
 ------------------------------------------------------------------------
-- *sūnṛtāvati* \< *sūnṛtāvat*
+- *sūnṛtāvati* ← *sūnṛtāvat*
 - \[noun\], vocative, singular, feminine
 - “happy; big; auspicious.”
 ------------------------------------------------------------------------

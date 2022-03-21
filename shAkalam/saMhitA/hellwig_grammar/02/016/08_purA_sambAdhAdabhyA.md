@@ -6,11 +6,11 @@ title = "Rig Veda 2.16.8"
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
 ------------------------------------------------------------------------
-- *sambādhād* \< *sambādhāt* \< *sambādha*
+- *sambādhād* ← *sambādhāt* ← *sambādha*
 - \[noun\], ablative, singular, masculine
 - “crowd; multitude; damage; vagina.”
 ------------------------------------------------------------------------
-- *abhy* \< *abhī* \< *abhi*
+- *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
@@ -18,17 +18,17 @@ title = "Rig Veda 2.16.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vavṛtsva* \< *vṛt*
+- *vavṛtsva* ← *vṛt*
 - \[verb\], singular, Perfect imperative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dhenur* \< *dhenuḥ* \< *dhenu*
+- *dhenur* ← *dhenuḥ* ← *dhenu*
 - \[noun\], nominative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
@@ -36,16 +36,16 @@ title = "Rig Veda 2.16.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vatsaṃ* \< *vatsam* \< *vatsa*
+- *vatsaṃ* ← *vatsam* ← *vatsa*
 - \[noun\], accusative, singular, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
 ------------------------------------------------------------------------
-- *yavasasya* \< *yavasa*
+- *yavasasya* ← *yavasa*
 - \[noun\], genitive, singular, masculine
 - “eatage; pasture; fodder.”
 ------------------------------------------------------------------------
-- *pipyuṣī* \< *pyā*
+- *pipyuṣī* ← *pyā*
 - \[verb noun\], nominative, singular
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
@@ -57,15 +57,15 @@ title = "Rig Veda 2.16.8"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sumatibhiḥ* \< *sumati*
+- *sumatibhiḥ* ← *sumati*
 - \[noun\], instrumental, plural, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *śatakrato* \< *śatakratu*
+- *śatakrato* ← *śatakratu*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
@@ -73,7 +73,7 @@ title = "Rig Veda 2.16.8"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *patnībhir* \< *patnībhiḥ* \< *patnī*
+- *patnībhir* ← *patnībhiḥ* ← *patnī*
 - \[noun\], instrumental, plural, feminine
 - “wife; mistress; queen.”
 ------------------------------------------------------------------------
@@ -81,10 +81,10 @@ title = "Rig Veda 2.16.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vṛṣaṇo* \< *vṛṣaṇaḥ* \< *vṛṣan*
+- *vṛṣaṇo* ← *vṛṣaṇaḥ* ← *vṛṣan*
 - \[noun\], nominative, plural, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *nasīmahi* \< *nas*
+- *nasīmahi* ← *nas*
 - \[verb\], plural, Aorist optative
 ------------------------------------------------------------------------

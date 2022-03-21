@@ -10,15 +10,15 @@ title = "Rig Veda 8.91.3"
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *cikitsāmo* \< *cikitsāmaḥ* \< *cikits*
+- *cikitsāmo* ← *cikitsāmaḥ* ← *cikits*
 - \[verb\], plural, Present indikative
 - “cure; understand; take care; heal.”
 ------------------------------------------------------------------------
-- *'dhi* \< *adhi*
+- *'dhi* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
@@ -26,19 +26,19 @@ title = "Rig Veda 8.91.3"
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *nemasi* \< *na*
+- *nemasi* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nemasi* \< *imasi* \< *i*
+- *nemasi* ← *imasi* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *śanair* \< *śanais*
+- *śanair* ← *śanais*
 - \[adverb\]
 - “carefully; slowly; gently; quietly; lightly; gradually.”
 ------------------------------------------------------------------------
@@ -46,20 +46,20 @@ title = "Rig Veda 8.91.3"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *śanakair* \< *śanakais*
+- *śanakair* ← *śanakais*
 - \[adverb\]
 - “cautiously; quietly; carefully; lightly; easily.”
 ------------------------------------------------------------------------
-- *ivendrāyendo* \< *iva*
+- *ivendrāyendo* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ivendrāyendo* \< *indrāya* \< *indra*
+- *ivendrāyendo* ← *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *ivendrāyendo* \< *indo* \< *indu*
+- *ivendrāyendo* ← *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
@@ -68,7 +68,7 @@ title = "Rig Veda 8.91.3"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *srava* \< *sru*
+- *srava* ← *sru*
 - \[verb\], singular, Present imperative
 - “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
     disappear; leak; fester.”

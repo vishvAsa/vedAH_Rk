@@ -2,11 +2,11 @@
 title = "Rig Veda 2.11.1"
 
 +++
--   *śrudhī* \< *śru*
+-   *śrudhī* ← *śru*
 - \[verb\], singular, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *havam* \< *hava*
+- *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
@@ -19,31 +19,31 @@ title = "Rig Veda 2.11.1"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *riṣaṇyaḥ* \< *riṣaṇy* \< *√riṣ*
+- *riṣaṇyaḥ* ← *riṣaṇy* ← *√riṣ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “riṣaṇy \[verb\].”
 ------------------------------------------------------------------------
-- *syāma* \< *as*
+- *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dāvane* \< *dā*
+- *dāvane* ← *dā*
 - \[verb noun\]
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *vasūnām* \< *vasu*
+- *vasūnām* ← *vasu*
 - \[noun\], genitive, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *imā* \< *imāḥ* \< *idam*
+- *imā* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -51,22 +51,22 @@ title = "Rig Veda 2.11.1"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *tvām* \< *tvad*
+- *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ūrjo* \< *ūrjaḥ* \< *ūrj*
+- *ūrjo* ← *ūrjaḥ* ← *ūrj*
 - \[noun\], nominative, plural, feminine
 - “strength; refreshment; vigor; food; strengthening.”
 ------------------------------------------------------------------------
-- *vardhayanti* \< *vardhay* \< *√vṛdh*
+- *vardhayanti* ← *vardhay* ← *√vṛdh*
 - \[verb\], plural, Present indikative
 - “increase; strengthen; promote; rear; add; greet; laud.”
 ------------------------------------------------------------------------
-- *vasūyavaḥ* \< *vasūyu*
+- *vasūyavaḥ* ← *vasūyu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *sindhavo* \< *sindhavaḥ* \< *sindhu*
+- *sindhavo* ← *sindhavaḥ* ← *sindhu*
 - \[noun\], nominative, plural, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
@@ -74,7 +74,7 @@ title = "Rig Veda 2.11.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *kṣarantaḥ* \< *kṣar*
+- *kṣarantaḥ* ← *kṣar*
 - \[verb noun\], nominative, plural
 - “run; melt.”
 ------------------------------------------------------------------------

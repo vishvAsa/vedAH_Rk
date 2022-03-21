@@ -2,65 +2,65 @@
 title = "Rig Veda 10.128.8"
 
 +++
--   *uruvyacā* \< *uru*
+-   *uruvyacā* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *uruvyacā* \< *vyacāḥ* \< *vyacas*
+- *uruvyacā* ← *vyacāḥ* ← *vyacas*
 - \[noun\], nominative, singular, masculine
 - “area; capacity.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mahiṣaḥ* \< *mahiṣa*
+- *mahiṣaḥ* ← *mahiṣa*
 - \[noun\], nominative, singular, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *yaṃsad* \< *yaṃsat* \< *yam*
+- *yaṃsad* ← *yaṃsat* ← *yam*
 - \[verb\], singular, Aorist conj./subj.
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *asmin* \< *idam*
+- *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *have* \< *hava*
+- *have* ← *hava*
 - \[noun\], locative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *puruhūtaḥ* \< *puru*
+- *puruhūtaḥ* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *puruhūtaḥ* \< *hūtaḥ* \< *hvā*
+- *puruhūtaḥ* ← *hūtaḥ* ← *hvā*
 - \[verb noun\], nominative, singular
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *purukṣuḥ* \< *puru*
+- *purukṣuḥ* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purukṣuḥ* \< *kṣuḥ* \< *kṣu*
+- *purukṣuḥ* ← *kṣuḥ* ← *kṣu*
 - \[noun\], nominative, singular, masculine
 - “food.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *prajāyai* \< *prajā*
+- *prajāyai* ← *prajā*
 - \[noun\], dative, singular, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”
@@ -69,11 +69,11 @@ title = "Rig Veda 10.128.8"
 - \[noun\], vocative, singular, masculine
 - “Indra; Haryaśva.”
 ------------------------------------------------------------------------
-- *mṛḍayendra* \< *mṛḍaya* \< *mṛḍay* \< *√mṛḍ*
+- *mṛḍayendra* ← *mṛḍaya* ← *mṛḍay* ← *√mṛḍ*
 - \[verb\], singular, Present imperative
 - “pardon.”
 ------------------------------------------------------------------------
-- *mṛḍayendra* \< *indra*
+- *mṛḍayendra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -82,11 +82,11 @@ title = "Rig Veda 10.128.8"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rīriṣo* \< *rīriṣaḥ* \< *riṣ*
+- *rīriṣo* ← *rīriṣaḥ* ← *riṣ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “suffer; harm.”
 ------------------------------------------------------------------------
@@ -98,7 +98,7 @@ title = "Rig Veda 10.128.8"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *dāḥ* \< *dā*
+- *dāḥ* ← *dā*
 - \[verb\], singular, Aorist conj./subj.
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;

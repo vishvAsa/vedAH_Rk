@@ -2,36 +2,36 @@
 title = "Rig Veda 1.140.5"
 
 +++
--   *ād* \< *āt*
+-   *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *dhvasayanto* \< *dhvasayantaḥ* \< *dhvasay* \< *√dhvaṃs*
+- *dhvasayanto* ← *dhvasayantaḥ* ← *dhvasay* ← *√dhvaṃs*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *vṛtherate* \< *vṛthā*
+- *vṛtherate* ← *vṛthā*
 - \[adverb\]
 - “vainly; incorrectly; unnecessarily; at will.”
 ------------------------------------------------------------------------
-- *vṛtherate* \< *īrate* \< *īr*
+- *vṛtherate* ← *īrate* ← *īr*
 - \[verb\], plural, Present indikative
 - “go.”
 ------------------------------------------------------------------------
-- *kṛṣṇam* \< *kṛṣṇa*
+- *kṛṣṇam* ← *kṛṣṇa*
 - \[noun\], accusative, singular, neuter
 - “black; dark; dark; blue; black.”
 ------------------------------------------------------------------------
-- *abhvam* \< *abhva*
+- *abhvam* ← *abhva*
 - \[noun\], accusative, singular, neuter
 - “monstrosity; nothingness; void; force.”
 ------------------------------------------------------------------------
@@ -39,11 +39,11 @@ title = "Rig Veda 1.140.5"
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *varpaḥ* \< *varpas*
+- *varpaḥ* ← *varpas*
 - \[noun\], accusative, singular, neuter
 - “form; look; disguise.”
 ------------------------------------------------------------------------
-- *karikrataḥ* \< *karikṛ* \< *√kṛ*
+- *karikrataḥ* ← *karikṛ* ← *√kṛ*
 - \[verb noun\], nominative, plural
 - “produce.”
 ------------------------------------------------------------------------
@@ -54,37 +54,37 @@ title = "Rig Veda 1.140.5"
 - *sīm*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *mahīm* \< *mah*
+- *mahīm* ← *mah*
 - \[noun\], accusative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *avanim* \< *avani*
+- *avanim* ← *avani*
 - \[noun\], accusative, singular, feminine
 - “river; earth; floor; path; bed; course.”
 ------------------------------------------------------------------------
-- *prābhi* \< *pra*
+- *prābhi* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prābhi* \< *abhi*
+- *prābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *marmṛśad* \< *marmṛśat* \< *marmṛś* \< *√mṛś*
+- *marmṛśad* ← *marmṛśat* ← *marmṛś* ← *√mṛś*
 - \[verb\], singular, Present conjunctive (subjunctive)
 ------------------------------------------------------------------------
-- *abhiśvasan* \< *abhiśvas* \< *√śvas*
+- *abhiśvasan* ← *abhiśvas* ← *√śvas*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *stanayann* \< *stanayan* \< *stanay* \< *√stan*
+- *stanayann* ← *stanayan* ← *stanay* ← *√stan*
 - \[verb noun\], nominative, singular
 - “thunder; thunder.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *nānadat* \< *nānad* \< *√nad*
+- *nānadat* ← *nānad* ← *√nad*
 - \[verb noun\], nominative, singular
 - “bellow.”
 ------------------------------------------------------------------------

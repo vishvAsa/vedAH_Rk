@@ -2,11 +2,11 @@
 title = "Rig Veda 2.20.2"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -15,56 +15,56 @@ title = "Rig Veda 2.20.2"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tvābhir* \< *\_* \< *√\_*
+- *tvābhir* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *ūtī* \< *ūti*
+- *ūtī* ← *ūti*
 - \[noun\], instrumental, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *tvāyato* \< *tvāyataḥ* \< *tvāyat*
+- *tvāyato* ← *tvāyataḥ* ← *tvāyat*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *abhiṣṭipāsi* \< *abhiṣṭi*
+- *abhiṣṭipāsi* ← *abhiṣṭi*
 - \[noun\], feminine
 - “prevalence; protection.”
 ------------------------------------------------------------------------
-- *abhiṣṭipāsi* \< *pā*
+- *abhiṣṭipāsi* ← *pā*
 - \[noun\], nominative, singular, masculine
 - “protecting.”
 ------------------------------------------------------------------------
-- *abhiṣṭipāsi* \< *asi* \< *as*
+- *abhiṣṭipāsi* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *janān* \< *jana*
+- *janān* ← *jana*
 - \[noun\], accusative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ino* \< *inaḥ* \< *ina*
+- *ino* ← *inaḥ* ← *ina*
 - \[noun\], nominative, singular, masculine
 - “mighty; powerful.”
 ------------------------------------------------------------------------
-- *dāśuṣo* \< *dāśuṣaḥ* \< *dāś*
+- *dāśuṣo* ← *dāśuṣaḥ* ← *dāś*
 - \[verb noun\], genitive, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *varūtetthādhīr* \< *varūtā* \< *varūtṛ*
+- *varūtetthādhīr* ← *varūtā* ← *varūtṛ*
 - \[noun\], nominative, singular, masculine
 - “varūtṛ \[word\].”
 ------------------------------------------------------------------------
-- *varūtetthādhīr* \< *itthā*
+- *varūtetthādhīr* ← *itthā*
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *varūtetthādhīr* \< *dhīḥ* \< *dhī*
+- *varūtetthādhīr* ← *dhīḥ* ← *dhī*
 - \[noun\], nominative, singular, masculine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
@@ -73,15 +73,15 @@ title = "Rig Veda 2.20.2"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *nakṣati* \< *nakṣ*
+- *nakṣati* ← *nakṣ*
 - \[verb\], singular, Present indikative
 - “reach; approach.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------

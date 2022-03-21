@@ -2,19 +2,19 @@
 title = "Rig Veda 6.11.3"
 
 +++
--   *dhanyā* \< *dhanya*
+-   *dhanyā* ← *dhanya*
 - \[noun\], nominative, singular, feminine
 - “fortunate; auspicious; affluent.”
 ------------------------------------------------------------------------
-- *ciddhi* \< *cit*
+- *ciddhi* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ciddhi* \< *hi*
+- *ciddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *tve* \< *tvad*
+- *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -22,7 +22,7 @@ title = "Rig Veda 6.11.3"
 - \[noun\], nominative, singular, feminine
 - “heaven and earth.”
 ------------------------------------------------------------------------
-- *vaṣṭi* \< *vaś*
+- *vaṣṭi* ← *vaś*
 - \[verb\], singular, Present indikative
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
@@ -30,41 +30,41 @@ title = "Rig Veda 6.11.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *devāñ* \< *devān* \< *deva*
+- *devāñ* ← *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *janma* \< *janman*
+- *janma* ← *janman*
 - \[noun\], accusative, singular, neuter
 - “birth; reincarnation; lineage; origin; race; metempsychosis;
     parentage; descent; appearance; age; birthplace; beginning; being.”
 ------------------------------------------------------------------------
-- *gṛṇate* \< *gṛ*
+- *gṛṇate* ← *gṛ*
 - \[verb noun\], dative, singular
 - “praise.”
 ------------------------------------------------------------------------
-- *yajadhyai* \< *yaj*
+- *yajadhyai* ← *yaj*
 - \[verb noun\]
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *vepiṣṭho* \< *vepiṣṭhaḥ* \< *vepiṣṭha*
+- *vepiṣṭho* ← *vepiṣṭhaḥ* ← *vepiṣṭha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *aṅgirasāṃ* \< *aṅgirasām* \< *aṅgiras*
+- *aṅgirasāṃ* ← *aṅgirasām* ← *aṅgiras*
 - \[noun\], genitive, plural, masculine
 - “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
     Aṅgiras.”
 ------------------------------------------------------------------------
-- *yaddha* \< *yat*
+- *yaddha* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yaddha* \< *ha*
+- *yaddha* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *vipro* \< *vipraḥ* \< *vipra*
+- *vipro* ← *vipraḥ* ← *vipra*
 - \[noun\], nominative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
@@ -72,18 +72,18 @@ title = "Rig Veda 6.11.3"
 - \[noun\], accusative, singular, neuter
 - “sweet; deft.”
 ------------------------------------------------------------------------
-- *cchando* \< *chandaḥ* \< *chandas*
+- *cchando* ← *chandaḥ* ← *chandas*
 - \[noun\], accusative, singular, neuter
 - “Veda; meter; chandas \[word\]; hymn; meter; meter.”
 ------------------------------------------------------------------------
-- *bhanati* \< *bhan*
+- *bhanati* ← *bhan*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *rebha* \< *rebhaḥ* \< *rebha*
+- *rebha* ← *rebhaḥ* ← *rebha*
 - \[noun\], nominative, singular, masculine
 - “bard; eulogist.”
 ------------------------------------------------------------------------
-- *iṣṭau* \< *iṣṭi*
+- *iṣṭau* ← *iṣṭi*
 - \[noun\], locative, singular, feminine
 - “seeking.”
 ------------------------------------------------------------------------

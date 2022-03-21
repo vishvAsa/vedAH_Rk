@@ -2,16 +2,16 @@
 title = "Rig Veda 8.80.9"
 
 +++
--   *turīyaṃ* \< *turīyam* \< *turīya*
+-   *turīyaṃ* ← *turīyam* ← *turīya*
 - \[noun\], accusative, singular, neuter
 - “fourth.”
 ------------------------------------------------------------------------
-- *nāma* \< *nāman*
+- *nāma* ← *nāman*
 - \[noun\], accusative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
 ------------------------------------------------------------------------
-- *yajñiyaṃ* \< *yajñiyam* \< *yajñiya*
+- *yajñiyaṃ* ← *yajñiyam* ← *yajñiya*
 - \[noun\], accusative, singular, neuter
 - “sacrificial; divine; devoted.”
 ------------------------------------------------------------------------
@@ -19,7 +19,7 @@ title = "Rig Veda 8.80.9"
 - \[adverb\]
 - “once \[when\]; if.”
 ------------------------------------------------------------------------
-- *karas* \< *karaḥ* \< *kṛ*
+- *karas* ← *karaḥ* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -30,34 +30,34 @@ title = "Rig Veda 8.80.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *uśmasi* \< *vaś*
+- *uśmasi* ← *vaś*
 - \[verb\], plural, Present indikative
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *patir* \< *patiḥ* \< *pati*
+- *patir* ← *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ohase* \< *ūh*
+- *ohase* ← *ūh*
 - \[verb\], singular, Present indikative
 - “diagnose.”
 ------------------------------------------------------------------------

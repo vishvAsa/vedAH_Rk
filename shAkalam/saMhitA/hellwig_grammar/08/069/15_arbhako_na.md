@@ -2,7 +2,7 @@
 title = "Rig Veda 8.69.15"
 
 +++
--   *arbhako* \< *arbhakaḥ* \< *arbhaka*
+-   *arbhako* ← *arbhakaḥ* ← *arbhaka*
 - \[noun\], nominative, singular, masculine
 - “humble; weak.”
 ------------------------------------------------------------------------
@@ -10,26 +10,26 @@ title = "Rig Veda 8.69.15"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *kumārako* \< *kumārakaḥ* \< *kumāraka*
+- *kumārako* ← *kumārakaḥ* ← *kumāraka*
 - \[noun\], nominative, singular, masculine
 - “kumārabandha; child.”
 ------------------------------------------------------------------------
-- *'dhi* \< *adhi*
+- *'dhi* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *tiṣṭhan* \< *tiṣṭhat* \< *sthā*
+- *tiṣṭhan* ← *tiṣṭhat* ← *sthā*
 - \[verb\], singular, Present injunctive
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *navaṃ* \< *navam* \< *nava*
+- *navaṃ* ← *navam* ← *nava*
 - \[noun\], accusative, singular, masculine
 - “new; fresh; young; matutinal; recent; nava \[word\]; modern;
     fresh.”
 ------------------------------------------------------------------------
-- *ratham* \< *ratha*
+- *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -37,34 +37,34 @@ title = "Rig Veda 8.69.15"
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *pakṣan* \< *pakṣat* \< *pac*
+- *pakṣan* ← *pakṣat* ← *pac*
 - \[verb\], singular, Aorist conj./subj.
 - “heat; cook; digest; boil; ripen; fester; burn; boil; cauterize;
     fry; cook; suppurate; inflame.”
 ------------------------------------------------------------------------
-- *mahiṣam* \< *mahiṣa*
+- *mahiṣam* ← *mahiṣa*
 - \[noun\], accusative, singular, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
 ------------------------------------------------------------------------
-- *mṛgam* \< *mṛga*
+- *mṛgam* ← *mṛga*
 - \[noun\], accusative, singular, masculine
 - “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
 ------------------------------------------------------------------------
-- *pitre* \< *pitṛ*
+- *pitre* ← *pitṛ*
 - \[noun\], dative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *mātre* \< *mātṛ*
+- *mātre* ← *mātṛ*
 - \[noun\], dative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *vibhukratum* \< *vibhu*
+- *vibhukratum* ← *vibhu*
 - \[noun\]
 - “mighty; abundant; big.”
 ------------------------------------------------------------------------
-- *vibhukratum* \< *kratum* \< *kratu*
+- *vibhukratum* ← *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”

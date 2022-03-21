@@ -2,35 +2,35 @@
 title = "Rig Veda 10.26.2"
 
 +++
--   *yasya* \< *yad*
+-   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *tyan* \< *tyad* \< *tya*
+- *tyan* ← *tyad* ← *tya*
 - \[noun\], accusative, singular, neuter
 - “that.”
 ------------------------------------------------------------------------
-- *mahitvaṃ* \< *mahi*
+- *mahitvaṃ* ← *mahi*
 - \[noun\]
 - “great; firm.”
 ------------------------------------------------------------------------
-- *mahitvaṃ* \< *tvam* \< *tva*
+- *mahitvaṃ* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *vātāpyam* \< *vātāpya*
+- *vātāpyam* ← *vātāpya*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *ayaṃ* \< *ayam* \< *idam*
+- *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *janaḥ* \< *jana*
+- *janaḥ* ← *jana*
 - \[noun\], nominative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *vipra* \< *vipraḥ* \< *vipra*
+- *vipra* ← *vipraḥ* ← *vipra*
 - \[noun\], nominative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
@@ -38,19 +38,19 @@ title = "Rig Veda 10.26.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vaṃsad* \< *vaṃsat* \< *van*
+- *vaṃsad* ← *vaṃsat* ← *van*
 - \[verb\], singular, Aorist conj./subj.
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *dhītibhiś* \< *dhītibhiḥ* \< *dhīti*
+- *dhītibhiś* ← *dhītibhiḥ* ← *dhīti*
 - \[noun\], instrumental, plural, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------
-- *ciketa* \< *cit*
+- *ciketa* ← *cit*
 - \[verb\], singular, Perfect indicative
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *suṣṭutīnām* \< *suṣṭuti*
+- *suṣṭutīnām* ← *suṣṭuti*
 - \[noun\], genitive, plural, feminine
 - “hymn; praise.”
 ------------------------------------------------------------------------

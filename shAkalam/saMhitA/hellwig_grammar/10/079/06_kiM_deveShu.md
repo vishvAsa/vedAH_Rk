@@ -2,23 +2,23 @@
 title = "Rig Veda 10.79.6"
 
 +++
--   *kiṃ* \< *kim* \< *ka*
+-   *kiṃ* ← *kim* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *deveṣu* \< *deva*
+- *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *tyaja* \< *tyajaḥ* \< *tyajas*
+- *tyaja* ← *tyajaḥ* ← *tyajas*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *enaś* \< *enaḥ* \< *enas*
+- *enaś* ← *enaḥ* ← *enas*
 - \[noun\], accusative, singular, neuter
 - “sin; calamity; blame.”
 ------------------------------------------------------------------------
-- *cakarthāgne* \< *cakartha* \< *kṛ*
+- *cakarthāgne* ← *cakartha* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -29,13 +29,13 @@ title = "Rig Veda 10.79.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *cakarthāgne* \< *agne* \< *agni*
+- *cakarthāgne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *pṛcchāmi* \< *pracch*
+- *pṛcchāmi* ← *pracch*
 - \[verb\], singular, Present indikative
 - “ask; ask; ask; consult; interrogate.”
 ------------------------------------------------------------------------
@@ -43,44 +43,44 @@ title = "Rig Veda 10.79.6"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *tvām* \< *tvad*
+- *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *avidvān* \< *a*
+- *avidvān* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *avidvān* \< *vidvān* \< *vid*
+- *avidvān* ← *vidvān* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *akrīḍan* \< *a*
+- *akrīḍan* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *akrīḍan* \< *krīḍan* \< *krīḍ*
+- *akrīḍan* ← *krīḍan* ← *krīḍ*
 - \[verb noun\], nominative, singular
 - “frolic; love; play; amuse.”
 ------------------------------------------------------------------------
-- *krīḍan* \< *krīḍ*
+- *krīḍan* ← *krīḍ*
 - \[verb noun\], nominative, singular
 - “frolic; love; play; amuse.”
 ------------------------------------------------------------------------
-- *harir* \< *hariḥ* \< *hari*
+- *harir* ← *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
-- *attave* \< *ad*
+- *attave* ← *ad*
 - \[verb noun\]
 - “eat; devour.”
 ------------------------------------------------------------------------
-- *'dan* \< *a*
+- *'dan* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *'dan* \< *dat*
+- *'dan* ← *dat*
 - \[noun\], nominative, singular, masculine
 - “tooth; dat \[word\].”
 ------------------------------------------------------------------------
@@ -88,23 +88,23 @@ title = "Rig Veda 10.79.6"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *parvaśaś* \< *parvaśas*
+- *parvaśaś* ← *parvaśas*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *cakarta* \< *kṛt*
+- *cakarta* ← *kṛt*
 - \[verb\], singular, Perfect indicative
 - “cut; cut; cut off; fell; cut.”
 ------------------------------------------------------------------------
-- *gām* \< *go*
+- *gām* ← *go*
 - \[noun\], accusative, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *ivāsiḥ* \< *iva*
+- *ivāsiḥ* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ivāsiḥ* \< *asiḥ* \< *asi*
+- *ivāsiḥ* ← *asiḥ* ← *asi*
 - \[noun\], nominative, singular, masculine
 - “sword; knife; knife.”
 ------------------------------------------------------------------------

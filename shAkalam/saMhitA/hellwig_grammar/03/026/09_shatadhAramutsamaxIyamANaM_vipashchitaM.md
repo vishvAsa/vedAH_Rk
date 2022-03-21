@@ -2,74 +2,74 @@
 title = "Rig Veda 3.26.9"
 
 +++
--   *śatadhāram* \< *śata*
+-   *śatadhāram* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *śatadhāram* \< *dhāram* \< *dhārā*
+- *śatadhāram* ← *dhāram* ← *dhārā*
 - \[noun\], accusative, singular, masculine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *utsam* \< *utsa*
+- *utsam* ← *utsa*
 - \[noun\], accusative, singular, masculine
 - “spring; fountain; utsa \[word\]; well.”
 ------------------------------------------------------------------------
-- *akṣīyamāṇaṃ* \< *a*
+- *akṣīyamāṇaṃ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *akṣīyamāṇaṃ* \< *kṣīyamāṇam* \< *kṣi*
+- *akṣīyamāṇaṃ* ← *kṣīyamāṇam* ← *kṣi*
 - \[verb noun\], accusative, singular
 - “decrease; emaciate; vanish; kill; wane; destroy; run down; elapse;
     lose; lose; gasify; decline; decay; corrupt.”
 ------------------------------------------------------------------------
-- *vipaścitam* \< *vipaścit*
+- *vipaścitam* ← *vipaścit*
 - \[noun\], accusative, singular, masculine
 - “wise; expert.”
 ------------------------------------------------------------------------
-- *pitaraṃ* \< *pitaram* \< *pitṛ*
+- *pitaraṃ* ← *pitaram* ← *pitṛ*
 - \[noun\], accusative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *vaktvānām* \< *vaktva*
+- *vaktvānām* ← *vaktva*
 - \[noun\], genitive, plural, masculine
 ------------------------------------------------------------------------
-- *meḍim* \< *meḍi*
+- *meḍim* ← *meḍi*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *madantam* \< *mad*
+- *madantam* ← *mad*
 - \[verb noun\], accusative, singular
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *pitror* \< *pitroḥ* \< *pitṛ*
+- *pitror* ← *pitroḥ* ← *pitṛ*
 - \[noun\], genitive, dual, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *upasthe* \< *upastha*
+- *upasthe* ← *upastha*
 - \[noun\], locative, singular, neuter
 - “genitalia; lap; sexual desire; anus.”
 ------------------------------------------------------------------------
-- *taṃ* \< *tam* \< *tad*
+- *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], vocative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *pipṛtaṃ* \< *pipṛtam* \< *pṛ*
+- *pipṛtaṃ* ← *pipṛtam* ← *pṛ*
 - \[verb\], dual, Present imperative
 - “protect; promote; rescue; help.”
 ------------------------------------------------------------------------
-- *satyavācam* \< *satya*
+- *satyavācam* ← *satya*
 - \[noun\]
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *satyavācam* \< *vācam* \< *vāc*
+- *satyavācam* ← *vācam* ← *vāc*
 - \[noun\], accusative, singular, masculine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;

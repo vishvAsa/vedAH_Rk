@@ -6,11 +6,11 @@ title = "Rig Veda 9.61.27"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śataṃ* \< *śatam* \< *śata*
+- *śataṃ* ← *śatam* ← *śata*
 - \[noun\], nominative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
@@ -18,21 +18,21 @@ title = "Rig Veda 9.61.27"
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *hruto* \< *hrutaḥ* \< *hrut*
+- *hruto* ← *hrutaḥ* ← *hrut*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *rādho* \< *rādhaḥ* \< *rādhas*
+- *rādho* ← *rādhaḥ* ← *rādhas*
 - \[noun\], accusative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *ditsantam* \< *dits* \< *√dā*
+- *ditsantam* ← *dits* ← *√dā*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *minan* \< *mī*
+- *minan* ← *mī*
 - \[verb\], plural, Present injunctive
 - “transgress; damage.”
 ------------------------------------------------------------------------
@@ -40,10 +40,10 @@ title = "Rig Veda 9.61.27"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *punāno* \< *punānaḥ* \< *pū*
+- *punāno* ← *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *makhasyase* \< *makhasy*
+- *makhasyase* ← *makhasy*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------

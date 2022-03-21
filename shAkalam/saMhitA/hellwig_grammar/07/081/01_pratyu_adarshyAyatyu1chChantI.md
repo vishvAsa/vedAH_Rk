@@ -2,7 +2,7 @@
 title = "Rig Veda 7.81.1"
 
 +++
--   *praty* \< *prati*
+-   *praty* ← *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
@@ -10,33 +10,33 @@ title = "Rig Veda 7.81.1"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *adarśy* \< *adarśi* \< *dṛś*
+- *adarśy* ← *adarśi* ← *dṛś*
 - \[verb\], singular, Aorist passive
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
 ------------------------------------------------------------------------
-- *āyaty* \< *āyatī* \< *e* \< *√i*
+- *āyaty* ← *āyatī* ← *e* ← *√i*
 - \[verb noun\], nominative, singular
 - “come; travel.”
 ------------------------------------------------------------------------
-- *ucchantī* \< *vas*
+- *ucchantī* ← *vas*
 - \[verb noun\], nominative, singular
 - “dawn; shine.”
 ------------------------------------------------------------------------
-- *duhitā* \< *duhitṛ*
+- *duhitā* ← *duhitṛ*
 - \[noun\], nominative, singular, feminine
 - “daughter; duhitṛ \[word\].”
 ------------------------------------------------------------------------
-- *divaḥ* \< *div*
+- *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *apo* \< *apa*
+- *apo* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *apo* \< *u*
+- *apo* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
@@ -44,25 +44,25 @@ title = "Rig Veda 7.81.1"
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *vyayati* \< *vye*
+- *vyayati* ← *vye*
 - \[verb\], singular, Present indikative
 - “cover.”
 ------------------------------------------------------------------------
-- *cakṣase* \< *cakṣ*
+- *cakṣase* ← *cakṣ*
 - \[verb noun\]
 - “watch; look.”
 ------------------------------------------------------------------------
-- *tamo* \< *tamaḥ* \< *tamas*
+- *tamo* ← *tamaḥ* ← *tamas*
 - \[noun\], accusative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
 ------------------------------------------------------------------------
-- *jyotiṣ* \< *jyotiḥ* \< *jyotis*
+- *jyotiṣ* ← *jyotiḥ* ← *jyotis*
 - \[noun\], accusative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
 ------------------------------------------------------------------------
-- *kṛṇoti* \< *kṛ*
+- *kṛṇoti* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -73,7 +73,7 @@ title = "Rig Veda 7.81.1"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *sūnarī* \< *sūnara*
+- *sūnarī* ← *sūnara*
 - \[noun\], nominative, singular, feminine
 - “noble.”
 ------------------------------------------------------------------------

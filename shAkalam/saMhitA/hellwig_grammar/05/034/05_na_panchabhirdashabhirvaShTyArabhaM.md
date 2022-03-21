@@ -6,39 +6,39 @@ title = "Rig Veda 5.34.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pañcabhir* \< *pañcabhiḥ* \< *pañcan*
+- *pañcabhir* ← *pañcabhiḥ* ← *pañcan*
 - \[noun\], instrumental, plural, masculine
 - “five; fifth; pañcan \[word\].”
 ------------------------------------------------------------------------
-- *daśabhir* \< *daśabhiḥ* \< *daśan*
+- *daśabhir* ← *daśabhiḥ* ← *daśan*
 - \[noun\], instrumental, plural, masculine
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *vaṣṭy* \< *vaṣṭi* \< *vaś*
+- *vaṣṭy* ← *vaṣṭi* ← *vaś*
 - \[verb\], singular, Present indikative
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *ārabhaṃ* \< *ārabham* \< *ārabh* \< *√rabh*
+- *ārabhaṃ* ← *ārabham* ← *ārabh* ← *√rabh*
 - \[verb noun\]
 - “begin; begin; undertake; do; take.”
 ------------------------------------------------------------------------
-- *nāsunvatā* \< *na*
+- *nāsunvatā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāsunvatā* \< *a*
+- *nāsunvatā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *nāsunvatā* \< *sunvatā* \< *su*
+- *nāsunvatā* ← *sunvatā* ← *su*
 - \[verb noun\], instrumental, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *sacate* \< *sac*
+- *sacate* ← *sac*
 - \[verb\], singular, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *puṣyatā* \< *puṣ*
+- *puṣyatā* ← *puṣ*
 - \[verb noun\], instrumental, singular
 - “boom; grow; promote; foster.”
 ------------------------------------------------------------------------
@@ -46,24 +46,24 @@ title = "Rig Veda 5.34.5"
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *jināti* \< *ji*
+- *jināti* ← *ji*
 - \[verb\], singular, Present indikative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *ved* \< *vā*
+- *ved* ← *vā*
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *ved* \< *id*
+- *ved* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *amuyā* \< *adas*
+- *amuyā* ← *adas*
 - \[noun\], instrumental, singular, feminine
 - “that; John Doe; yonder; from here.”
 ------------------------------------------------------------------------
-- *hanti* \< *han*
+- *hanti* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
@@ -73,7 +73,7 @@ title = "Rig Veda 5.34.5"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *dhunir* \< *dhuniḥ* \< *dhuni*
+- *dhunir* ← *dhuniḥ* ← *dhuni*
 - \[noun\], nominative, singular, masculine
 - “deafening; boisterous; noisy.”
 ------------------------------------------------------------------------
@@ -81,20 +81,20 @@ title = "Rig Veda 5.34.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *devayum* \< *devayu*
+- *devayum* ← *devayu*
 - \[noun\], accusative, singular, masculine
 - “devout; devoted.”
 ------------------------------------------------------------------------
-- *bhajati* \< *bhaj*
+- *bhajati* ← *bhaj*
 - \[verb\], singular, Present indikative
 - “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
     one's share; partake; share; get; approach; love; use.”
 ------------------------------------------------------------------------
-- *gomati* \< *gomat*
+- *gomati* ← *gomat*
 - \[noun\], locative, singular, masculine
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------
-- *vraje* \< *vraja*
+- *vraje* ← *vraja*
 - \[noun\], locative, singular, masculine
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”

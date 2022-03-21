@@ -6,7 +6,7 @@ title = "Rig Veda 1.173.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -14,52 +14,52 @@ title = "Rig Veda 1.173.6"
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *mahinā* \< *mahina*
+- *mahinā* ← *mahina*
 - \[noun\], instrumental, singular, neuter
 - “greatness; enormousness.”
 ------------------------------------------------------------------------
-- *nṛbhyo* \< *nṛbhyaḥ* \< *nṛ*
+- *nṛbhyo* ← *nṛbhyaḥ* ← *nṛ*
 - \[noun\], ablative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *asty* \< *asti* \< *as*
+- *asty* ← *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *araṃ* \< *aram*
+- *araṃ* ← *aram*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], nominative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *kakṣye* \< *kakṣyā*
+- *kakṣye* ← *kakṣyā*
 - \[noun\], nominative, dual, feminine
 - “girdle; rampart; wall; enclosure; cinch.”
 ------------------------------------------------------------------------
-- *nāsmai* \< *nā* \< *na*
+- *nāsmai* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāsmai* \< *asmai* \< *idam*
+- *nāsmai* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[noun\], nominative, singular, masculine
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *vivya* \< *vivye* \< *vye*
+- *vivya* ← *vivye* ← *vye*
 - \[verb\], singular, Perfect indicative
 - “cover.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vṛjanaṃ* \< *vṛjanam* \< *vṛjana*
+- *vṛjanaṃ* ← *vṛjanam* ← *vṛjana*
 - \[noun\], accusative, singular, neuter
 - “community; settlement.”
 ------------------------------------------------------------------------
@@ -67,27 +67,27 @@ title = "Rig Veda 1.173.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *bhūmā* \< *bhūman*
+- *bhūmā* ← *bhūman*
 - \[noun\], accusative, plural, neuter
 - “Earth; floor.”
 ------------------------------------------------------------------------
-- *bharti* \< *bhṛ*
+- *bharti* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *svadhāvāṃ* \< *svadhāvat*
+- *svadhāvāṃ* ← *svadhāvat*
 - \[noun\], nominative, singular, masculine
 - “autonomous; independent.”
 ------------------------------------------------------------------------
-- *opaśam* \< *opaśa*
+- *opaśam* ← *opaśa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *dyām* \< *div*
+- *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------

@@ -2,25 +2,25 @@
 title = "Rig Veda 3.41.3"
 
 +++
--   *imā* \< *idam*
+-   *imā* ← *idam*
 - \[noun\], nominative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *brahma* \< *brahman*
+- *brahma* ← *brahman*
 - \[noun\], nominative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *brahmavāhaḥ* \< *brahma* \< *brahman*
+- *brahmavāhaḥ* ← *brahma* ← *brahman*
 - \[noun\], neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *brahmavāhaḥ* \< *vāhaḥ* \< *vāhas*
+- *brahmavāhaḥ* ← *vāhaḥ* ← *vāhas*
 - \[noun\], nominative, singular, neuter
 - “invocation.”
 ------------------------------------------------------------------------
-- *kriyanta* \< *kriyante* \< *kṛ*
+- *kriyanta* ← *kriyante* ← *kṛ*
 - \[verb\], plural, Indikativ Pr￤s. Passiv
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -35,16 +35,16 @@ title = "Rig Veda 3.41.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *barhiḥ* \< *barhis*
+- *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *sīda* \< *sad*
+- *sīda* ← *sad*
 - \[verb\], singular, Present imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *vīhi* \< *vī*
+- *vīhi* ← *vī*
 - \[verb\], singular, Present imperative
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
@@ -53,7 +53,7 @@ title = "Rig Veda 3.41.3"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *puroﾱāśam* \< *puroḍāś*
+- *puroﾱāśam* ← *puroḍāś*
 - \[noun\], accusative, singular, masculine
 - “puroḍāśa.”
 ------------------------------------------------------------------------

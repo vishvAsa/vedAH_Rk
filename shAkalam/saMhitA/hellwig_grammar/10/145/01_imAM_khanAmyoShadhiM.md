@@ -2,47 +2,47 @@
 title = "Rig Veda 10.145.1"
 
 +++
--   *imāṃ* \< *imām* \< *idam*
+-   *imāṃ* ← *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *khanāmy* \< *khanāmi* \< *khan*
+- *khanāmy* ← *khanāmi* ← *khan*
 - \[verb\], singular, Present indikative
 - “dig; dig out; dig; bury.”
 ------------------------------------------------------------------------
-- *oṣadhiṃ* \< *oṣadhim* \< *oṣadhi*
+- *oṣadhiṃ* ← *oṣadhim* ← *oṣadhi*
 - \[noun\], accusative, singular, feminine
 - “herb; plant; drug; simple; oṣadhi \[word\]; remedy.”
 ------------------------------------------------------------------------
-- *vīrudham* \< *vīrudh*
+- *vīrudham* ← *vīrudh*
 - \[noun\], accusative, singular, feminine
 - “plant; shrub.”
 ------------------------------------------------------------------------
-- *balavattamām* \< *balavattama*
+- *balavattamām* ← *balavattama*
 - \[noun\], accusative, singular, feminine
 - “strong.”
 ------------------------------------------------------------------------
-- *yayā* \< *yad*
+- *yayā* ← *yad*
 - \[noun\], instrumental, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sapatnīm* \< *sapatnī*
+- *sapatnīm* ← *sapatnī*
 - \[noun\], accusative, singular, feminine
 - “sapatnī; rival; sapatnī \[word\]; mistress.”
 ------------------------------------------------------------------------
-- *bādhate* \< *bādh*
+- *bādhate* ← *bādh*
 - \[verb\], singular, Present indikative
 - “afflict; annoy; chase away; tease; grieve; irritate.”
 ------------------------------------------------------------------------
-- *yayā* \< *yad*
+- *yayā* ← *yad*
 - \[noun\], instrumental, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *saṃvindate* \< *saṃvid* \< *√vid*
+- *saṃvindate* ← *saṃvid* ← *√vid*
 - \[verb\], singular, Present indikative
 - “line up.”
 ------------------------------------------------------------------------
-- *patim* \< *pati*
+- *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”

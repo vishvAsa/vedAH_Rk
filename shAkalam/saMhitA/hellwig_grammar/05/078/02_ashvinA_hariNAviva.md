@@ -2,11 +2,11 @@
 title = "Rig Veda 5.78.2"
 
 +++
--   *aśvinā* \< *aśvin*
+-   *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *hariṇāv* \< *hariṇau* \< *hariṇa*
+- *hariṇāv* ← *hariṇau* ← *hariṇa*
 - \[noun\], nominative, dual, masculine
 - “antelope; Shiva.”
 ------------------------------------------------------------------------
@@ -14,23 +14,23 @@ title = "Rig Veda 5.78.2"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *gaurāv* \< *gaurau* \< *gaura*
+- *gaurāv* ← *gaurau* ← *gaura*
 - \[noun\], nominative, dual, masculine
 - “Gaura; Gaura; downy grislee; Gaura.”
 ------------------------------------------------------------------------
-- *ivānu* \< *iva*
+- *ivānu* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ivānu* \< *anu*
+- *ivānu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *yavasam* \< *yavasa*
+- *yavasam* ← *yavasa*
 - \[noun\], accusative, singular, masculine
 - “eatage; pasture; fodder.”
 ------------------------------------------------------------------------
-- *haṃsāv* \< *haṃsau* \< *haṃsa*
+- *haṃsāv* ← *haṃsau* ← *haṃsa*
 - \[noun\], nominative, dual, masculine
 - “goose; Vishnu; sun.”
 ------------------------------------------------------------------------
@@ -38,7 +38,7 @@ title = "Rig Veda 5.78.2"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *patatam* \< *pat*
+- *patatam* ← *pat*
 - \[verb\], dual, Present imperative
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
@@ -47,7 +47,7 @@ title = "Rig Veda 5.78.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sutāṃ* \< *suta*
+- *sutāṃ* ← *suta*
 - \[noun\], accusative, plural, masculine
 - “Soma.”
 ------------------------------------------------------------------------

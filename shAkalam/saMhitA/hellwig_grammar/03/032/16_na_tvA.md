@@ -6,11 +6,11 @@ title = "Rig Veda 3.32.16"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *gabhīraḥ* \< *gabhīra*
+- *gabhīraḥ* ← *gabhīra*
 - \[noun\], nominative, singular, masculine
 - “deep; profound; immeasurable; unfathomable; unfathomable;
     mysterious; deep; countless.”
@@ -19,15 +19,15 @@ title = "Rig Veda 3.32.16"
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu.”
 ------------------------------------------------------------------------
-- *sindhur* \< *sindhuḥ* \< *sindhu*
+- *sindhur* ← *sindhuḥ* ← *sindhu*
 - \[noun\], nominative, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *nādrayaḥ* \< *nā* \< *na*
+- *nādrayaḥ* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nādrayaḥ* \< *adrayaḥ* \< *adri*
+- *nādrayaḥ* ← *adrayaḥ* ← *adri*
 - \[noun\], nominative, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
@@ -35,12 +35,12 @@ title = "Rig Veda 3.32.16"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *ṣanto* \< *ṣantaḥ* \< *as*
+- *ṣanto* ← *ṣantaḥ* ← *as*
 - \[verb noun\], nominative, plural
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *varanta* \< *vṛ*
+- *varanta* ← *vṛ*
 - \[verb\], plural, Imperfect
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
@@ -49,45 +49,45 @@ title = "Rig Veda 3.32.16"
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *sakhibhya* \< *sakhibhyaḥ* \< *sakhi*
+- *sakhibhya* ← *sakhibhyaḥ* ← *sakhi*
 - \[noun\], dative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *iṣito* \< *iṣitaḥ* \< *iṣay* \< *√iṣ*
+- *iṣito* ← *iṣitaḥ* ← *iṣay* ← *√iṣ*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *indrā* \< *indra*
+- *indrā* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrā* \< *ā*
+- *indrā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dṛﾱhaṃ* \< *dṛﾱham* \< *dṛḍha*
+- *dṛﾱhaṃ* ← *dṛﾱham* ← *dṛḍha*
 - \[noun\], accusative, singular, masculine
 - “hard; intense; firm; fixed; resolute; mesomorphic; grim; dṛḍha
     \[word\]; rainproof; sturdy; shut; firm; insoluble; strong; tough;
     tight.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *arujo* \< *arujaḥ* \< *ruj*
+- *arujo* ← *arujaḥ* ← *ruj*
 - \[verb\], singular, Imperfect
 - “break; bend.”
 ------------------------------------------------------------------------
-- *gavyam* \< *gavya*
+- *gavyam* ← *gavya*
 - \[noun\], accusative, singular, masculine
 - “bovine.”
 ------------------------------------------------------------------------
-- *ūrvam* \< *ūrva*
+- *ūrvam* ← *ūrva*
 - \[noun\], accusative, singular, masculine
 - “pen; Aurva; ocean.”
 ------------------------------------------------------------------------

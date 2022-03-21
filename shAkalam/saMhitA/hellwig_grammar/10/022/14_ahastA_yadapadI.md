@@ -2,34 +2,34 @@
 title = "Rig Veda 10.22.14"
 
 +++
--   *ahastā* \< *ahasta*
+-   *ahastā* ← *ahasta*
 - \[noun\], nominative, singular, feminine
 - “handless.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *apadī* \< *apada*
+- *apadī* ← *apada*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *vardhata* \< *vṛdh*
+- *vardhata* ← *vṛdh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *kṣāḥ* \< *kṣā*
+- *kṣāḥ* ← *kṣā*
 - \[noun\], nominative, singular, feminine
 - “Earth; Earth.”
 ------------------------------------------------------------------------
-- *śacībhir* \< *śacībhiḥ* \< *śacī*
+- *śacībhir* ← *śacībhiḥ* ← *śacī*
 - \[noun\], instrumental, plural, feminine
 - “Śacī; power; dexterity; ability; aid.”
 ------------------------------------------------------------------------
-- *vedyānām* \< *vedyā*
+- *vedyānām* ← *vedyā*
 - \[noun\], genitive, plural, feminine
 ------------------------------------------------------------------------
-- *śuṣṇam* \< *śuṣṇa*
+- *śuṣṇam* ← *śuṣṇa*
 - \[noun\], accusative, singular, masculine
 - “Śuṣṇa.”
 ------------------------------------------------------------------------
@@ -37,15 +37,15 @@ title = "Rig Veda 10.22.14"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *pradakṣiṇid* \< *pradakṣiṇit*
+- *pradakṣiṇid* ← *pradakṣiṇit*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *viśvāyave* \< *viśva*
+- *viśvāyave* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvāyave* \< *āyave* \< *āyu*
+- *viśvāyave* ← *āyave* ← *āyu*
 - \[noun\], dative, singular, masculine
 - “life; life; age.”
 ------------------------------------------------------------------------
@@ -53,7 +53,7 @@ title = "Rig Veda 10.22.14"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *śiśnathaḥ* \< *śnath*
+- *śiśnathaḥ* ← *śnath*
 - \[verb\], singular, Aorist inj. (proh.)
 - “pierce; kill.”
 ------------------------------------------------------------------------

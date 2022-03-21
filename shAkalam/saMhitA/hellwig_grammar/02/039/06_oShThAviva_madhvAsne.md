@@ -2,7 +2,7 @@
 title = "Rig Veda 2.39.6"
 
 +++
--   *oṣṭhāv* \< *oṣṭhau* \< *oṣṭha*
+-   *oṣṭhāv* ← *oṣṭhau* ← *oṣṭha*
 - \[noun\], nominative, dual, masculine
 - “lip; oṣṭha; oṣṭha \[word\]; bulge.”
 ------------------------------------------------------------------------
@@ -10,20 +10,20 @@ title = "Rig Veda 2.39.6"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *madhv* \< *madhū* \< *madhu*
+- *madhv* ← *madhū* ← *madhu*
 - \[noun\], accusative, plural, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *āsne* \< *āsan*
+- *āsne* ← *āsan*
 - \[noun\], dative, singular, neuter
 - “mouth.”
 ------------------------------------------------------------------------
-- *vadantā* \< *vad*
+- *vadantā* ← *vad*
 - \[verb noun\], nominative, dual
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
 ------------------------------------------------------------------------
-- *stanāv* \< *stanau* \< *stana*
+- *stanāv* ← *stanau* ← *stana*
 - \[noun\], nominative, dual, masculine
 - “breast; udder; stana \[word\]; sprout; nipple.”
 ------------------------------------------------------------------------
@@ -31,39 +31,39 @@ title = "Rig Veda 2.39.6"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *pipyataṃ* \< *pipyatam* \< *pyā*
+- *pipyataṃ* ← *pipyatam* ← *pyā*
 - \[verb\], dual, Perfect imperative
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
-- *jīvase* \< *jīv*
+- *jīvase* ← *jīv*
 - \[verb noun\]
 - “survive; be; exist; live on; dwell.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *nāseva* \< *nāsā*
+- *nāseva* ← *nāsā*
 - \[noun\], nominative, singular, feminine
 - “nose; proboscis.”
 ------------------------------------------------------------------------
-- *nāseva* \< *iva*
+- *nāseva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *nas* \< *naḥ* \< *mad*
+- *nas* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tanvo* \< *tanvaḥ* \< *tanū*
+- *tanvo* ← *tanvaḥ* ← *tanū*
 - \[noun\], genitive, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *rakṣitārā* \< *rakṣitṛ*
+- *rakṣitārā* ← *rakṣitṛ*
 - \[noun\], nominative, dual, masculine
 - “protecting.”
 ------------------------------------------------------------------------
-- *karṇāv* \< *karṇau* \< *karṇa*
+- *karṇāv* ← *karṇau* ← *karṇa*
 - \[noun\], nominative, dual, masculine
 - “ear; Karṇa; karṇa \[word\]; auricle; fluke; diameter; lobule.”
 ------------------------------------------------------------------------
@@ -71,22 +71,22 @@ title = "Rig Veda 2.39.6"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *suśrutā* \< *su*
+- *suśrutā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśrutā* \< *śrutā* \< *śrut*
+- *suśrutā* ← *śrutā* ← *śrut*
 - \[noun\], nominative, dual, masculine
 - “listening.”
 ------------------------------------------------------------------------
-- *bhūtam* \< *bhū*
+- *bhūtam* ← *bhū*
 - \[verb\], dual, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

@@ -6,11 +6,11 @@ title = "Rig Veda 4.32.22"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *babhrū* \< *babhru*
+- *babhrū* ← *babhru*
 - \[noun\], accusative, dual, masculine
 - “tawny; brown.”
 ------------------------------------------------------------------------
@@ -18,27 +18,27 @@ title = "Rig Veda 4.32.22"
 - \[noun\], vocative, singular, masculine
 - “expert; wise; discerning; clear-sighted; conversant(p); bright.”
 ------------------------------------------------------------------------
-- *śaṃsāmi* \< *śaṃs*
+- *śaṃsāmi* ← *śaṃs*
 - \[verb\], singular, Present indikative
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
 ------------------------------------------------------------------------
-- *goṣaṇo* \< *goṣaṇaḥ* \< *goṣan*
+- *goṣaṇo* ← *goṣaṇaḥ* ← *goṣan*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
 - *napāt*
 - \[noun\], vocative, singular, masculine
 - “grandson; nephew; napāt \[word\].”
 ------------------------------------------------------------------------
-- *mābhyāṃ* \< *mā*
+- *mābhyāṃ* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *mābhyāṃ* \< *ābhyām* \< *idam*
+- *mābhyāṃ* ← *ābhyām* ← *idam*
 - \[noun\], ablative, dual, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *gā* \< *gāḥ* \< *go*
+- *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -47,6 +47,6 @@ title = "Rig Veda 4.32.22"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *śiśrathaḥ* \< *śrath*
+- *śiśrathaḥ* ← *śrath*
 - \[verb\], singular, Aorist inj. (proh.)
 ------------------------------------------------------------------------

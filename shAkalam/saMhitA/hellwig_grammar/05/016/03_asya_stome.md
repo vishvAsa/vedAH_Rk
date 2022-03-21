@@ -2,37 +2,37 @@
 title = "Rig Veda 5.16.3"
 
 +++
--   *asya* \< *idam*
+-   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *stome* \< *stoma*
+- *stome* ← *stoma*
 - \[noun\], locative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *maghonaḥ* \< *maghavan*
+- *maghonaḥ* ← *maghavan*
 - \[noun\], genitive, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *sakhye* \< *sakhya*
+- *sakhye* ← *sakhya*
 - \[noun\], locative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *vṛddhaśociṣaḥ* \< *vṛddha* \< *vṛdh*
+- *vṛddhaśociṣaḥ* ← *vṛddha* ← *vṛdh*
 - \[verb noun\]
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *vṛddhaśociṣaḥ* \< *śociṣaḥ* \< *śocis*
+- *vṛddhaśociṣaḥ* ← *śociṣaḥ* ← *śocis*
 - \[noun\], genitive, singular, masculine
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], nominative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *yasmin* \< *yad*
+- *yasmin* ← *yad*
 - \[noun\], locative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -43,14 +43,14 @@ title = "Rig Veda 5.16.3"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *arye* \< *arya*
+- *arye* ← *arya*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *śuṣmam* \< *śuṣma*
+- *śuṣmam* ← *śuṣma*
 - \[noun\], accusative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
-- *ādadhuḥ* \< *ādhā* \< *√dhā*
+- *ādadhuḥ* ← *ādhā* ← *√dhā*
 - \[verb\], plural, Perfect indicative
 - “put; conceive; ignite; keep; effect; fuel; lend; cover; direct.”
 ------------------------------------------------------------------------

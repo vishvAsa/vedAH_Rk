@@ -2,7 +2,7 @@
 title = "Rig Veda 1.191.1"
 
 +++
--   *kaṅkato* \< *kaṅkataḥ* \< *kaṅkata*
+-   *kaṅkato* ← *kaṅkataḥ* ← *kaṅkata*
 - \[noun\], nominative, singular, masculine
 - “comb.”
 ------------------------------------------------------------------------
@@ -10,23 +10,23 @@ title = "Rig Veda 1.191.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *kaṅkato* \< *kaṅkataḥ* \< *kaṅkata*
+- *kaṅkato* ← *kaṅkataḥ* ← *kaṅkata*
 - \[noun\], nominative, singular, masculine
 - “comb.”
 ------------------------------------------------------------------------
-- *'tho* \< *atho*
+- *'tho* ← *atho*
 - \[adverb\]
 - “now; but; furthermore.”
 ------------------------------------------------------------------------
-- *satīnakaṅkataḥ* \< *satīna*
+- *satīnakaṅkataḥ* ← *satīna*
 - \[noun\]
 - “real.”
 ------------------------------------------------------------------------
-- *satīnakaṅkataḥ* \< *kaṅkataḥ* \< *kaṅkata*
+- *satīnakaṅkataḥ* ← *kaṅkataḥ* ← *kaṅkata*
 - \[noun\], nominative, singular, masculine
 - “comb.”
 ------------------------------------------------------------------------
-- *dvāv* \< *dvau* \< *dvi*
+- *dvāv* ← *dvau* ← *dvi*
 - \[noun\], nominative, dual, masculine
 - “two; dvi \[word\]; second.”
 ------------------------------------------------------------------------
@@ -34,22 +34,22 @@ title = "Rig Veda 1.191.1"
 - \[adverb\]
 - “thus; so; iti \[word\].”
 ------------------------------------------------------------------------
-- *pluṣī* \< *pluṣi*
+- *pluṣī* ← *pluṣi*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
 - *iti*
 - \[adverb\]
 - “thus; so; iti \[word\].”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *adṛṣṭā* \< *adṛṣṭāḥ* \< *adṛṣṭa*
+- *adṛṣṭā* ← *adṛṣṭāḥ* ← *adṛṣṭa*
 - \[noun\], nominative, plural, masculine
 - “unobserved; invisible; unseen; unanticipated; unknown.”
 ------------------------------------------------------------------------
-- *alipsata* \< *lip*
+- *alipsata* ← *lip*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “smear; tarnish; dirty; anoint; poultice.”
 ------------------------------------------------------------------------

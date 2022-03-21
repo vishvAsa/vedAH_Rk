@@ -2,11 +2,11 @@
 title = "Rig Veda 10.130.1"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yajño* \< *yajñaḥ* \< *yajña*
+- *yajño* ← *yajñaḥ* ← *yajña*
 - \[noun\], nominative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
@@ -14,51 +14,51 @@ title = "Rig Veda 10.130.1"
 - \[adverb\]
 - “everywhere; around; about.”
 ------------------------------------------------------------------------
-- *tantubhis* \< *tantubhiḥ* \< *tantu*
+- *tantubhis* ← *tantubhiḥ* ← *tantu*
 - \[noun\], instrumental, plural, masculine
 - “thread; fiber; lineage; cobweb; fibril; stalk.”
 ------------------------------------------------------------------------
-- *tata* \< *tataḥ* \< *tan*
+- *tata* ← *tataḥ* ← *tan*
 - \[verb noun\], nominative, singular
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
 ------------------------------------------------------------------------
-- *ekaśataṃ* \< *eka*
+- *ekaśataṃ* ← *eka*
 - \[noun\]
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *ekaśataṃ* \< *śatam* \< *śata*
+- *ekaśataṃ* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *devakarmebhir* \< *devakarmebhiḥ* \< *devakarma*
+- *devakarmebhir* ← *devakarmebhiḥ* ← *devakarma*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *āyataḥ* \< *āyam* \< *√yam*
+- *āyataḥ* ← *āyam* ← *√yam*
 - \[verb noun\], nominative, singular
 - “measure in length; measure in width; extend; spread; lengthen;
     unfold; broaden; measure; broaden.”
 ------------------------------------------------------------------------
-- *ime* \< *idam*
+- *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vayanti* \< *ve*
+- *vayanti* ← *ve*
 - \[verb\], plural, Present indikative
 - “weave.”
 ------------------------------------------------------------------------
-- *pitaro* \< *pitaraḥ* \< *pitṛ*
+- *pitaro* ← *pitaraḥ* ← *pitṛ*
 - \[noun\], nominative, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *ya* \< *ye* \< *yad*
+- *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *āyayuḥ* \< *āyā* \< *√yā*
+- *āyayuḥ* ← *āyā* ← *√yā*
 - \[verb\], plural, Perfect indicative
 - “enter (a state); come; transform; approach; arrive; reach; enter.”
 ------------------------------------------------------------------------
@@ -66,27 +66,27 @@ title = "Rig Veda 10.130.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vayāpa* \< *vaya* \< *ve*
+- *vayāpa* ← *vaya* ← *ve*
 - \[verb\], singular, Present imperative
 - “weave.”
 ------------------------------------------------------------------------
-- *vayāpa* \< *apa*
+- *vayāpa* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *vayety* \< *vaya* \< *ve*
+- *vayety* ← *vaya* ← *ve*
 - \[verb\], singular, Present imperative
 - “weave.”
 ------------------------------------------------------------------------
-- *vayety* \< *iti*
+- *vayety* ← *iti*
 - \[adverb\]
 - “thus; so; iti \[word\].”
 ------------------------------------------------------------------------
-- *āsate* \< *ās*
+- *āsate* ← *ās*
 - \[verb\], plural, Present indikative
 - “sit; stay; sit down; dwell; lie; lie; exist.”
 ------------------------------------------------------------------------
-- *tate* \< *tan*
+- *tate* ← *tan*
 - \[verb noun\], locative, singular
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”

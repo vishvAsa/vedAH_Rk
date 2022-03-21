@@ -2,7 +2,7 @@
 title = "Rig Veda 7.104.6"
 
 +++
--   *indrāsomā* \< *indrāsoma*
+-   *indrāsomā* ← *indrāsoma*
 - \[noun\], vocative, dual, masculine
 - “Soma; Indra.”
 ------------------------------------------------------------------------
@@ -10,82 +10,82 @@ title = "Rig Veda 7.104.6"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *bhūtu* \< *bhū*
+- *bhūtu* ← *bhū*
 - \[verb\], singular, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *viśvata* \< *viśvatas*
+- *viśvata* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
 ------------------------------------------------------------------------
-- *iyam* \< *idam*
+- *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *matiḥ* \< *mati*
+- *matiḥ* ← *mati*
 - \[noun\], nominative, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *kakṣyāśveva* \< *kakṣyā*
+- *kakṣyāśveva* ← *kakṣyā*
 - \[noun\], nominative, singular, feminine
 - “girdle; rampart; wall; enclosure; cinch.”
 ------------------------------------------------------------------------
-- *kakṣyāśveva* \< *aśvā* \< *aśva*
+- *kakṣyāśveva* ← *aśvā* ← *aśva*
 - \[noun\], accusative, dual, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *kakṣyāśveva* \< *iva*
+- *kakṣyāśveva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *vājinā* \< *vājin*
+- *vājinā* ← *vājin*
 - \[noun\], accusative, dual, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------
-- *yāṃ* \< *yām* \< *yad*
+- *yāṃ* ← *yām* ← *yad*
 - \[noun\], accusative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *hotrām* \< *hotrā*
+- *hotrām* ← *hotrā*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *parihinomi* \< *parihi* \< *√hi*
+- *parihinomi* ← *parihi* ← *√hi*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *medhayemā* \< *medhayā* \< *medhā*
+- *medhayemā* ← *medhayā* ← *medhā*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; medhā \[word\]; Medhā.”
 ------------------------------------------------------------------------
-- *medhayemā* \< *imā* \< *idam*
+- *medhayemā* ← *imā* ← *idam*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *brahmāṇi* \< *brahman*
+- *brahmāṇi* ← *brahman*
 - \[noun\], accusative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *nṛpatīva* \< *nṛpatī* \< *nṛpati*
+- *nṛpatīva* ← *nṛpatī* ← *nṛpati*
 - \[noun\], nominative, dual, masculine
 - “king.”
 ------------------------------------------------------------------------
-- *nṛpatīva* \< *iva*
+- *nṛpatīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *jinvatam* \< *jinv*
+- *jinvatam* ← *jinv*
 - \[verb\], dual, Present imperative
 - “enliven; animate.”
 ------------------------------------------------------------------------

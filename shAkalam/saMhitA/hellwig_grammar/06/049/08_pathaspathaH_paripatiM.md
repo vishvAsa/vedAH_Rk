@@ -2,28 +2,28 @@
 title = "Rig Veda 6.49.8"
 
 +++
--   *pathas* \< *pathaḥ* \< *pathin*
+-   *pathas* ← *pathaḥ* ← *pathin*
 - \[noun\], genitive, singular, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *pathaḥ* \< *pathin*
+- *pathaḥ* ← *pathin*
 - \[noun\], genitive, singular, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *paripatiṃ* \< *paripatim* \< *paripati*
+- *paripatiṃ* ← *paripatim* ← *paripati*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *vacasyā*
 - \[noun\], instrumental, singular, feminine
 - “eloquence.”
 ------------------------------------------------------------------------
-- *kāmena* \< *kāma*
+- *kāmena* ← *kāma*
 - \[noun\], instrumental, singular, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
 ------------------------------------------------------------------------
-- *kṛto* \< *kṛtaḥ* \< *kṛ*
+- *kṛto* ← *kṛtaḥ* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -34,57 +34,57 @@ title = "Rig Veda 6.49.8"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *abhy* \< *abhī* \< *abhi*
+- *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *ānaﾱ* \< *ānaṭ* \< *naś*
+- *ānaﾱ* ← *ānaṭ* ← *naś*
 - \[verb\], singular, Root aorist (Ind.)
 - “reach; achieve; enter (a state); reach.”
 ------------------------------------------------------------------------
-- *arkam* \< *arka*
+- *arkam* ← *arka*
 - \[noun\], accusative, singular, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rāsacchurudhaś* \< *rāsat* \< *rā*
+- *rāsacchurudhaś* ← *rāsat* ← *rā*
 - \[verb\], singular, Aorist conj./subj.
 - “give; impart.”
 ------------------------------------------------------------------------
-- *rāsacchurudhaś* \< *śurudhaḥ* \< *śurudh*
+- *rāsacchurudhaś* ← *śurudhaḥ* ← *śurudh*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *candrāgrā* \< *candra*
+- *candrāgrā* ← *candra*
 - \[noun\], neuter
 - “gold.”
 ------------------------------------------------------------------------
-- *candrāgrā* \< *agrāḥ* \< *agra*
+- *candrāgrā* ← *agrāḥ* ← *agra*
 - \[noun\], accusative, plural, feminine
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
 ------------------------------------------------------------------------
-- *dhiyaṃ* \< *dhiyam* \< *dhī*
+- *dhiyaṃ* ← *dhiyam* ← *dhī*
 - \[noun\], accusative, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *dhiyaṃ* \< *dhiyam* \< *dhī*
+- *dhiyaṃ* ← *dhiyam* ← *dhī*
 - \[noun\], accusative, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *sīṣadhāti* \< *sādh*
+- *sīṣadhāti* ← *sādh*
 - \[verb\], singular, Aorist conj./subj.
 - “promote; succeed.”
 ------------------------------------------------------------------------
@@ -92,7 +92,7 @@ title = "Rig Veda 6.49.8"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *pūṣā* \< *pūṣan*
+- *pūṣā* ← *pūṣan*
 - \[noun\], nominative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------

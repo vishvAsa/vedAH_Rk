@@ -2,7 +2,7 @@
 title = "Rig Veda 1.131.1"
 
 +++
--   *indrāya* \< *indra*
+-   *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -11,18 +11,18 @@ title = "Rig Veda 1.131.1"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *dyaur* \< *dyauḥ* \< *div*
+- *dyaur* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *asuro* \< *asuraḥ* \< *asura*
+- *asuro* ← *asuraḥ* ← *asura*
 - \[noun\], nominative, singular, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
 ------------------------------------------------------------------------
-- *anamnatendrāya* \< *anamnata* \< *nannam* \< *√nam*
+- *anamnatendrāya* ← *anamnata* ← *nannam* ← *√nam*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *anamnatendrāya* \< *indrāya* \< *indra*
+- *anamnatendrāya* ← *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -36,76 +36,76 @@ title = "Rig Veda 1.131.1"
 - \[noun\], nominative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *varīmabhir* \< *varīmabhiḥ* \< *varīman*
+- *varīmabhir* ← *varīmabhiḥ* ← *varīman*
 - \[noun\], instrumental, plural, neuter
 ------------------------------------------------------------------------
-- *dyumnasātā* \< *dyumna*
+- *dyumnasātā* ← *dyumna*
 - \[noun\], neuter
 - “magnificence.”
 ------------------------------------------------------------------------
-- *dyumnasātā* \< *sātā* \< *sāti*
+- *dyumnasātā* ← *sātā* ← *sāti*
 - \[noun\], locative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------
-- *varīmabhiḥ* \< *varīman*
+- *varīmabhiḥ* ← *varīman*
 - \[noun\], instrumental, plural, neuter
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *viśve* \< *viśva*
+- *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *sajoṣaso* \< *sajoṣasaḥ* \< *sajoṣas*
+- *sajoṣaso* ← *sajoṣasaḥ* ← *sajoṣas*
 - \[noun\], nominative, plural, masculine
 - “consentaneous; combined; associated; united.”
 ------------------------------------------------------------------------
-- *devāso* \< *devāsaḥ* \< *deva*
+- *devāso* ← *devāsaḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *dadhire* \< *dhā*
+- *dadhire* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *puraḥ* \< *puras*
+- *puraḥ* ← *puras*
 - \[adverb\]
 - “ahead; puras \[word\]; easterly; eastward; east; earlier.”
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], nominative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *savanāni* \< *savana*
+- *savanāni* ← *savana*
 - \[noun\], nominative, plural, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
-- *mānuṣā* \< *mānuṣa*
+- *mānuṣā* ← *mānuṣa*
 - \[noun\], nominative, plural, neuter
 - “human.”
 ------------------------------------------------------------------------
-- *rātāni* \< *rā*
+- *rātāni* ← *rā*
 - \[verb noun\], nominative, plural
 - “give; impart.”
 ------------------------------------------------------------------------
-- *santu* \< *as*
+- *santu* ← *as*
 - \[verb\], plural, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *mānuṣā* \< *mānuṣa*
+- *mānuṣā* ← *mānuṣa*
 - \[noun\], nominative, plural, neuter
 - “human.”
 ------------------------------------------------------------------------

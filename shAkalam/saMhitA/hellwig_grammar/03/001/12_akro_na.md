@@ -2,7 +2,7 @@
 title = "Rig Veda 3.1.12"
 
 +++
--   *akro* \< *akraḥ* \< *akra*
+-   *akro* ← *akraḥ* ← *akra*
 - \[noun\], nominative, singular, masculine
 - “banner.”
 ------------------------------------------------------------------------
@@ -10,26 +10,26 @@ title = "Rig Veda 3.1.12"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *babhriḥ* \< *babhri*
+- *babhriḥ* ← *babhri*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *samithe* \< *samitha*
+- *samithe* ← *samitha*
 - \[noun\], locative, singular, neuter
 - “battle; conflict.”
 ------------------------------------------------------------------------
-- *mahīnāṃ* \< *mahīnām* \< *mahī*
+- *mahīnāṃ* ← *mahīnām* ← *mahī*
 - \[noun\], genitive, plural, feminine
 - “Earth; floor; Earth; land; real property; heaven and earth; space;
     Mahī; soil; earth; estate; area.”
 ------------------------------------------------------------------------
-- *didṛkṣeyaḥ* \< *didṛkṣeya*
+- *didṛkṣeyaḥ* ← *didṛkṣeya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *sūnave* \< *sūnu*
+- *sūnave* ← *sūnu*
 - \[noun\], dative, singular, masculine
 - “son; offspring.”
 ------------------------------------------------------------------------
-- *bhāṛjīkaḥ* \< *bhāṛjīka*
+- *bhāṛjīkaḥ* ← *bhāṛjīka*
 - \[noun\], nominative, singular, masculine
 - “shining.”
 ------------------------------------------------------------------------
@@ -37,42 +37,42 @@ title = "Rig Veda 3.1.12"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *usriyā* \< *usriyāḥ* \< *usriyā*
+- *usriyā* ← *usriyāḥ* ← *usriyā*
 - \[noun\], accusative, plural, feminine
 - “cow; dairy product.”
 ------------------------------------------------------------------------
-- *janitā* \< *janitṛ*
+- *janitā* ← *janitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; janitṛ \[word\].”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *jajānāpāṃ* \< *jajāna* \< *jan*
+- *jajānāpāṃ* ← *jajāna* ← *jan*
 - \[verb\], singular, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *jajānāpāṃ* \< *apām* \< *ap*
+- *jajānāpāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *garbho* \< *garbhaḥ* \< *garbha*
+- *garbho* ← *garbhaḥ* ← *garbha*
 - \[noun\], nominative, singular, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
 ------------------------------------------------------------------------
-- *nṛtamo* \< *nṛtamaḥ* \< *nṛtama*
+- *nṛtamo* ← *nṛtamaḥ* ← *nṛtama*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *yahvo* \< *yahvaḥ* \< *yahva*
+- *yahvo* ← *yahvaḥ* ← *yahva*
 - \[noun\], nominative, singular, masculine
 - “youngest; youthful; active.”
 ------------------------------------------------------------------------
-- *agniḥ* \< *agni*
+- *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;

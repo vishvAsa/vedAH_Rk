@@ -2,15 +2,15 @@
 title = "Rig Veda 1.91.23"
 
 +++
--   *devena* \< *deva*
+-   *devena* ← *deva*
 - \[noun\], instrumental, singular, neuter
 - “divine.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
@@ -24,17 +24,17 @@ title = "Rig Veda 1.91.23"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *rāyo* \< *rāyaḥ* \< *rai*
+- *rāyo* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *bhāgaṃ* \< *bhāgam* \< *bhāga*
+- *bhāgaṃ* ← *bhāgam* ← *bhāga*
 - \[noun\], accusative, singular, masculine
 - “part; part; part; parcel; quarter; body part; location; region;
     allotment; part; numerator; division; application; function;
     outside; bhāga \[word\]; volume; helping.”
 ------------------------------------------------------------------------
-- *sahasāvann* \< *sahasāvan* \< *sahasāvat*
+- *sahasāvann* ← *sahasāvan* ← *sahasāvat*
 - \[noun\], nominative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
@@ -42,7 +42,7 @@ title = "Rig Veda 1.91.23"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *yudhya* \< *yudh*
+- *yudhya* ← *yudh*
 - \[verb\], singular, Present imperative
 - “fight; overcome.”
 ------------------------------------------------------------------------
@@ -50,26 +50,26 @@ title = "Rig Veda 1.91.23"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tanad* \< *tanat* \< *tan*
+- *tanad* ← *tanat* ← *tan*
 - \[verb\], singular, Aorist inj. (proh.)
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
 ------------------------------------------------------------------------
-- *īśiṣe* \< *īś*
+- *īśiṣe* ← *īś*
 - \[verb\], singular, Present indikative
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *vīryasyobhayebhyaḥ* \< *vīryasya* \< *vīrya*
+- *vīryasyobhayebhyaḥ* ← *vīryasya* ← *vīrya*
 - \[noun\], genitive, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
 ------------------------------------------------------------------------
-- *vīryasyobhayebhyaḥ* \< *ubhayebhyaḥ* \< *ubhaya*
+- *vīryasyobhayebhyaḥ* ← *ubhayebhyaḥ* ← *ubhaya*
 - \[noun\], dative, plural, masculine
 - “both(a).”
 ------------------------------------------------------------------------
@@ -77,11 +77,11 @@ title = "Rig Veda 1.91.23"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *cikitsā* \< *cikitsāḥ* \< *cikits*
+- *cikitsā* ← *cikitsāḥ* ← *cikits*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “cure; understand; take care; heal.”
 ------------------------------------------------------------------------
-- *gaviṣṭau* \< *gaviṣṭi*
+- *gaviṣṭau* ← *gaviṣṭi*
 - \[noun\], locative, singular, feminine
 - “foray.”
 ------------------------------------------------------------------------

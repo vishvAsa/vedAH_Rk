@@ -2,42 +2,42 @@
 title = "Rig Veda 10.16.11"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *agniḥ* \< *agni*
+- *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *kravyavāhanaḥ* \< *kravya*
+- *kravyavāhanaḥ* ← *kravya*
 - \[noun\], neuter
 - “meat; kravya \[word\]; cadaver.”
 ------------------------------------------------------------------------
-- *kravyavāhanaḥ* \< *vāhanaḥ* \< *vāhana*
+- *kravyavāhanaḥ* ← *vāhanaḥ* ← *vāhana*
 - \[noun\], nominative, singular, masculine
 - “bringing; carrying.”
 ------------------------------------------------------------------------
-- *pitṝn* \< *pitṛ*
+- *pitṝn* ← *pitṛ*
 - \[noun\], accusative, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *yakṣad* \< *yakṣat* \< *yaj*
+- *yakṣad* ← *yakṣat* ← *yaj*
 - \[verb\], singular, Aorist conj./subj.
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *ṛtāvṛdhaḥ* \< *ṛtāvṛdh*
+- *ṛtāvṛdhaḥ* ← *ṛtāvṛdh*
 - \[noun\], accusative, plural, masculine
 - “sincere.”
 ------------------------------------------------------------------------
-- *pred* \< *pra*
+- *pred* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *pred* \< *id*
+- *pred* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -45,18 +45,18 @@ title = "Rig Veda 10.16.11"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *havyāni* \< *havya*
+- *havyāni* ← *havya*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *vocati* \< *vac*
+- *vocati* ← *vac*
 - \[verb\], singular, Aorist optative
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
 ------------------------------------------------------------------------
-- *devebhyaś* \< *devebhyaḥ* \< *deva*
+- *devebhyaś* ← *devebhyaḥ* ← *deva*
 - \[noun\], dative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -65,7 +65,7 @@ title = "Rig Veda 10.16.11"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *pitṛbhya* \< *pitṛbhyaḥ* \< *pitṛ*
+- *pitṛbhya* ← *pitṛbhyaḥ* ← *pitṛ*
 - \[noun\], dative, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”

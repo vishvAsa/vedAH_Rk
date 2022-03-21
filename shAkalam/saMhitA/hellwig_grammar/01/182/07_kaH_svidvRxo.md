@@ -2,7 +2,7 @@
 title = "Rig Veda 1.182.7"
 
 +++
--   *kaḥ* \< *ka*
+-   *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -10,55 +10,55 @@ title = "Rig Veda 1.182.7"
 - \[adverb\]
 - “svid \[word\].”
 ------------------------------------------------------------------------
-- *vṛkṣo* \< *vṛkṣaḥ* \< *vṛkṣa*
+- *vṛkṣo* ← *vṛkṣaḥ* ← *vṛkṣa*
 - \[noun\], nominative, singular, masculine
 - “tree; fruit tree.”
 ------------------------------------------------------------------------
-- *niṣṭhito* \< *niṣṭhitaḥ* \< *niṣṭhā* \< *√sthā*
+- *niṣṭhito* ← *niṣṭhitaḥ* ← *niṣṭhā* ← *√sthā*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *madhye* \< *madhya*
+- *madhye* ← *madhya*
 - \[noun\], locative, singular, neuter
 - “midst; center; cavity; inside; middle; center; waist; group; pulp;
     torso; time interval; area; series; madhya \[word\]; Madhya; noon;
     middle; middle age; span; belly.”
 ------------------------------------------------------------------------
-- *arṇaso* \< *arṇasaḥ* \< *arṇas*
+- *arṇaso* ← *arṇasaḥ* ← *arṇas*
 - \[noun\], genitive, singular, neuter
 - “body of water; water.”
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *taugryo* \< *taugryaḥ* \< *taugrya*
+- *taugryo* ← *taugryaḥ* ← *taugrya*
 - \[noun\], nominative, singular, masculine
 - “Bhujyu.”
 ------------------------------------------------------------------------
-- *nādhitaḥ* \< *nādh*
+- *nādhitaḥ* ← *nādh*
 - \[verb noun\], nominative, singular
 - “suffer.”
 ------------------------------------------------------------------------
-- *paryaṣasvajat* \< *pariṣvaj* \< *√svaj*
+- *paryaṣasvajat* ← *pariṣvaj* ← *√svaj*
 - \[verb\], singular, Plusquamperfect
 - “embrace.”
 ------------------------------------------------------------------------
-- *parṇā* \< *parṇa*
+- *parṇā* ← *parṇa*
 - \[noun\], accusative, plural, neuter
 - “leaf; feather; parṇa \[word\]; leaf; wing.”
 ------------------------------------------------------------------------
-- *mṛgasya* \< *mṛga*
+- *mṛgasya* ← *mṛga*
 - \[noun\], genitive, singular, masculine
 - “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
 ------------------------------------------------------------------------
-- *pataror* \< *pataroḥ* \< *pataru*
+- *pataror* ← *pataroḥ* ← *pataru*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *ivārabha* \< *iva*
+- *ivārabha* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ivārabha* \< *ārabhe* \< *ārabh* \< *√rabh*
+- *ivārabha* ← *ārabhe* ← *ārabh* ← *√rabh*
 - \[verb noun\]
 - “begin; begin; undertake; do; take.”
 ------------------------------------------------------------------------
@@ -66,20 +66,20 @@ title = "Rig Veda 1.182.7"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvinau* \< *aśvin*
+- *aśvinā* ← *aśvinau* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *ūhathuḥ* \< *vah*
+- *ūhathuḥ* ← *vah*
 - \[verb\], dual, Perfect indicative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *śromatāya* \< *śromata*
+- *śromatāya* ← *śromata*
 - \[noun\], dative, singular, neuter
 - “fame.”
 ------------------------------------------------------------------------
-- *kam* \< *kaṃ*
+- *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
 ------------------------------------------------------------------------

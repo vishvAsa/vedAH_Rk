@@ -2,23 +2,23 @@
 title = "Rig Veda 1.56.2"
 
 +++
--   *taṃ* \< *tam* \< *tad*
+-   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *gūrtayo* \< *gūrtayaḥ* \< *gūrti*
+- *gūrtayo* ← *gūrtayaḥ* ← *gūrti*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *nemanniṣaḥ* \< *nemanniṣ*
+- *nemanniṣaḥ* ← *nemanniṣ*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *parīṇasaḥ* \< *parīṇas*
+- *parīṇasaḥ* ← *parīṇas*
 - \[noun\], nominative, plural, masculine
 - “plenty.”
 ------------------------------------------------------------------------
-- *samudraṃ* \< *samudram* \< *samudra*
+- *samudraṃ* ← *samudram* ← *samudra*
 - \[noun\], accusative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
@@ -26,36 +26,36 @@ title = "Rig Veda 1.56.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *saṃcaraṇe* \< *saṃcaraṇa*
+- *saṃcaraṇe* ← *saṃcaraṇa*
 - \[noun\], locative, singular, neuter
 - “movement; motion.”
 ------------------------------------------------------------------------
-- *saniṣyavaḥ* \< *saniṣyu*
+- *saniṣyavaḥ* ← *saniṣyu*
 - \[noun\], nominative, plural, masculine
 - “eager; plundering.”
 ------------------------------------------------------------------------
-- *patiṃ* \< *patim* \< *pati*
+- *patiṃ* ← *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *dakṣasya* \< *dakṣa*
+- *dakṣasya* ← *dakṣa*
 - \[noun\], genitive, singular, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
 ------------------------------------------------------------------------
-- *vidathasya* \< *vidatha*
+- *vidathasya* ← *vidatha*
 - \[noun\], genitive, singular, neuter
 - “meeting; wisdom; council.”
 ------------------------------------------------------------------------
-- *nū* \< *nu*
+- *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *saho* \< *sahaḥ* \< *sahas*
+- *saho* ← *sahaḥ* ← *sahas*
 - \[noun\], accusative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *giriṃ* \< *girim* \< *giri*
+- *giriṃ* ← *girim* ← *giri*
 - \[noun\], accusative, singular, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
 ------------------------------------------------------------------------
@@ -63,7 +63,7 @@ title = "Rig Veda 1.56.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *venā* \< *venāḥ* \< *vena*
+- *venā* ← *venāḥ* ← *vena*
 - \[noun\], nominative, plural, masculine
 - “Vena.”
 ------------------------------------------------------------------------
@@ -71,11 +71,11 @@ title = "Rig Veda 1.56.2"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *roha* \< *ruh*
+- *roha* ← *ruh*
 - \[verb\], singular, Present imperative
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
 ------------------------------------------------------------------------
-- *tejasā* \< *tejas*
+- *tejasā* ← *tejas*
 - \[noun\], instrumental, singular, neuter
 - “magnificence; luminosity; glory; fire; semen; fire; heat; light;
     quintessence; brilliance; glare; dignity; beauty; tejas; potency;

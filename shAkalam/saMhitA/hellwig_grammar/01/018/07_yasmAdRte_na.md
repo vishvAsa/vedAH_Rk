@@ -2,7 +2,7 @@
 title = "Rig Veda 1.18.7"
 
 +++
--   *yasmād* \< *yasmāt* \< *yad*
+-   *yasmād* ← *yasmāt* ← *yad*
 - \[noun\], ablative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -14,16 +14,16 @@ title = "Rig Veda 1.18.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sidhyati* \< *sidh*
+- *sidhyati* ← *sidh*
 - \[verb\], singular, Present indikative
 - “prepare; prepare; succeed; heal; perfect; be known; compound;
     achieve; prove.”
 ------------------------------------------------------------------------
-- *yajño* \< *yajñaḥ* \< *yajña*
+- *yajño* ← *yajñaḥ* ← *yajña*
 - \[noun\], nominative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *vipaścitaś* \< *vipaścitaḥ* \< *vipaścit*
+- *vipaścitaś* ← *vipaścitaḥ* ← *vipaścit*
 - \[noun\], genitive, singular, masculine
 - “wise; expert.”
 ------------------------------------------------------------------------
@@ -31,18 +31,18 @@ title = "Rig Veda 1.18.7"
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *dhīnāṃ* \< *dhīnām* \< *dhī*
+- *dhīnāṃ* ← *dhīnām* ← *dhī*
 - \[noun\], genitive, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *yogam* \< *yoga*
+- *yogam* ← *yoga*
 - \[noun\], accusative, singular, masculine
 - “method; application; yoga; remedy; mix; treatment; mixture;
     procedure; contact; use; yogin; connection; application; union;
@@ -51,7 +51,7 @@ title = "Rig Veda 1.18.7"
     yoke; yoga \[word\]; art; combination; assortment; confluence;
     constellation; relationship; connection; agent; means.”
 ------------------------------------------------------------------------
-- *invati* \< *inv*
+- *invati* ← *inv*
 - \[verb\], singular, Present indikative
 - “bring; drive.”
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 8.24.15"
 
 +++
--   *nahy* \< *nahi*
+-   *nahy* ← *nahi*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *aṅga*
@@ -17,32 +17,32 @@ title = "Rig Veda 8.24.15"
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *jajñe* \< *jan*
+- *jajñe* ← *jan*
 - \[verb\], singular, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *vīrataras* \< *vīrataraḥ* \< *vīratara*
+- *vīrataras* ← *vīrataraḥ* ← *vīratara*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *tvat* \< *tvad*
+- *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *nakī* \< *nakir*
+- *nakī* ← *nakir*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *rāyā* \< *rai*
+- *rāyā* ← *rai*
 - \[noun\], instrumental, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *naivathā* \< *na*
+- *naivathā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *naivathā* \< *evathā*
+- *naivathā* ← *evathā*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *na*

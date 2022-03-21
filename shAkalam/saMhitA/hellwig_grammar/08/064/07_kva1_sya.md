@@ -6,50 +6,50 @@ title = "Rig Veda 8.64.7"
 - \[adverb\]
 - “wherein; how; kva \[word\].”
 ------------------------------------------------------------------------
-- *sya* \< *tya*
+- *sya* ← *tya*
 - \[noun\], nominative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *vṛṣabho* \< *vṛṣabhaḥ* \< *vṛṣabha*
+- *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *yuvā* \< *yuvan*
+- *yuvā* ← *yuvan*
 - \[noun\], nominative, singular, masculine
 - “young; youthful.”
 ------------------------------------------------------------------------
-- *tuvigrīvo* \< *tuvi*
+- *tuvigrīvo* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
 ------------------------------------------------------------------------
-- *tuvigrīvo* \< *grīvaḥ* \< *grīvā*
+- *tuvigrīvo* ← *grīvaḥ* ← *grīvā*
 - \[noun\], nominative, singular, masculine
 - “neck; grīvā \[word\].”
 ------------------------------------------------------------------------
-- *anānataḥ* \< *an*
+- *anānataḥ* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *anānataḥ* \< *ānataḥ* \< *ānam* \< *√nam*
+- *anānataḥ* ← *ānataḥ* ← *ānam* ← *√nam*
 - \[verb noun\], nominative, singular
 - “bend; bow; crouch; bend.”
 ------------------------------------------------------------------------
-- *brahmā* \< *brahman*
+- *brahmā* ← *brahman*
 - \[noun\], nominative, singular, masculine
 - “Brahma; Brahmin; dhak; Brahman; brahman \[word\]; Brahman; Brahmin;
     Brahmapurāṇa; Vishnu; Brihaspati.”
 ------------------------------------------------------------------------
-- *kas* \< *kaḥ* \< *ka*
+- *kas* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *taṃ* \< *tam* \< *tad*
+- *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *saparyati* \< *sapary*
+- *saparyati* ← *sapary*
 - \[verb\], singular, Present indikative
 - “worship.”
 ------------------------------------------------------------------------

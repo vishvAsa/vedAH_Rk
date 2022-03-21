@@ -2,71 +2,71 @@
 title = "Rig Veda 10.61.17"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *dvibandhur* \< *dvi*
+- *dvibandhur* ← *dvi*
 - \[noun\]
 - “two; dvi \[word\]; second.”
 ------------------------------------------------------------------------
-- *dvibandhur* \< *bandhuḥ* \< *bandhu*
+- *dvibandhur* ← *bandhuḥ* ← *bandhu*
 - \[noun\], nominative, singular, masculine
 - “relative; bandhu \[word\]; association; friend; kin.”
 ------------------------------------------------------------------------
-- *vaitaraṇo* \< *vaitaraṇaḥ* \< *vaitaraṇa*
+- *vaitaraṇo* ← *vaitaraṇaḥ* ← *vaitaraṇa*
 - \[noun\], nominative, singular, masculine
 - “Vaitaraṇa.”
 ------------------------------------------------------------------------
-- *yaṣṭā* \< *yaṣṭṛ*
+- *yaṣṭā* ← *yaṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “sacrificing.”
 ------------------------------------------------------------------------
-- *sabardhuṃ* \< *sabardhum* \< *sabardhu*
+- *sabardhuṃ* ← *sabardhum* ← *sabardhu*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *dhenum* \< *dhenu*
+- *dhenum* ← *dhenu*
 - \[noun\], accusative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *asvaṃ* \< *\_* \< *√\_*
+- *asvaṃ* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *duhadhyai* \< *duh*
+- *duhadhyai* ← *duh*
 - \[verb noun\]
 - “milk.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *yan* \< *yat*
+- *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇā* \< *mitrāvaruṇa*
+- *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], accusative, dual, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *vṛñja* \< *vṛñje* \< *vṛj*
+- *vṛñja* ← *vṛñje* ← *vṛj*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *ukthair* \< *ukthaiḥ* \< *uktha*
+- *ukthair* ← *ukthaiḥ* ← *uktha*
 - \[noun\], instrumental, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *jyeṣṭhebhir* \< *jyeṣṭhebhiḥ* \< *jyeṣṭha*
+- *jyeṣṭhebhir* ← *jyeṣṭhebhiḥ* ← *jyeṣṭha*
 - \[noun\], instrumental, plural, neuter
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
 ------------------------------------------------------------------------
-- *aryamaṇaṃ* \< *aryamaṇam* \< *aryaman*
+- *aryamaṇaṃ* ← *aryamaṇam* ← *aryaman*
 - \[noun\], accusative, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
 ------------------------------------------------------------------------
-- *varūthaiḥ* \< *varūtha*
+- *varūthaiḥ* ← *varūtha*
 - \[noun\], instrumental, plural, neuter
 - “defense; protective covering.”
 ------------------------------------------------------------------------

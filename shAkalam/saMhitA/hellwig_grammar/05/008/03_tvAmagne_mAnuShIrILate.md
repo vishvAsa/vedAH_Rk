@@ -2,45 +2,45 @@
 title = "Rig Veda 5.8.3"
 
 +++
--   *tvām* \< *tvad*
+-   *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *mānuṣīr* \< *mānuṣīḥ* \< *mānuṣa*
+- *mānuṣīr* ← *mānuṣīḥ* ← *mānuṣa*
 - \[noun\], nominative, plural, feminine
 - “human.”
 ------------------------------------------------------------------------
-- *īﾱate* \< *īḍ*
+- *īﾱate* ← *īḍ*
 - \[verb\], plural, Present indikative
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
-- *viśo* \< *viśaḥ* \< *viś*
+- *viśo* ← *viśaḥ* ← *viś*
 - \[noun\], nominative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *hotrāvidaṃ* \< *hotrā*
+- *hotrāvidaṃ* ← *hotrā*
 - \[noun\], feminine
 - “hotrā \[word\]; Hautra.”
 ------------------------------------------------------------------------
-- *hotrāvidaṃ* \< *vidam* \< *vid*
+- *hotrāvidaṃ* ← *vidam* ← *vid*
 - \[noun\], accusative, singular, masculine
 - “conversant(p); aware(p); enlightened; understanding.”
 ------------------------------------------------------------------------
-- *viviciṃ* \< *vivicim* \< *vivici*
+- *viviciṃ* ← *vivicim* ← *vivici*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *ratnadhātamam* \< *ratna*
+- *ratnadhātamam* ← *ratna*
 - \[noun\], neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
 ------------------------------------------------------------------------
-- *ratnadhātamam* \< *dhātamam* \< *dhātama*
+- *ratnadhātamam* ← *dhātamam* ← *dhātama*
 - \[noun\], accusative, singular, masculine
 - “giving.”
 ------------------------------------------------------------------------
@@ -48,7 +48,7 @@ title = "Rig Veda 5.8.3"
 - \[adverb\]
 - “secretly.”
 ------------------------------------------------------------------------
-- *santaṃ* \< *santam* \< *as*
+- *santaṃ* ← *santam* ← *as*
 - \[verb noun\], accusative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -58,31 +58,31 @@ title = "Rig Veda 5.8.3"
 - “beautiful; auspicious; beloved; fine-looking; fortunate; subhaga
     \[word\]; charming; pleasing; lucky.”
 ------------------------------------------------------------------------
-- *viśvadarśataṃ* \< *viśva*
+- *viśvadarśataṃ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvadarśataṃ* \< *darśatam* \< *darśata*
+- *viśvadarśataṃ* ← *darśatam* ← *darśata*
 - \[noun\], accusative, singular, masculine
 - “beautiful; visible; beautiful.”
 ------------------------------------------------------------------------
-- *tuviṣvaṇasaṃ* \< *tuviṣvaṇasam* \< *tuviṣvaṇas*
+- *tuviṣvaṇasaṃ* ← *tuviṣvaṇasam* ← *tuviṣvaṇas*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *suyajaṃ* \< *su*
+- *suyajaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suyajaṃ* \< *yajam* \< *yaj*
+- *suyajaṃ* ← *yajam* ← *yaj*
 - \[noun\], accusative, singular, masculine
 - “sacrificing.”
 ------------------------------------------------------------------------
-- *ghṛtaśriyam* \< *ghṛta*
+- *ghṛtaśriyam* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *ghṛtaśriyam* \< *śriyam* \< *śrī*
+- *ghṛtaśriyam* ← *śriyam* ← *śrī*
 - \[noun\], accusative, singular, masculine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī

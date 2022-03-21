@@ -2,55 +2,55 @@
 title = "Rig Veda 1.71.4"
 
 +++
--   *mathīd* \< *mathīt* \< *math*
+-   *mathīd* ← *mathīt* ← *math*
 - \[verb\], singular, Aorist inj. (proh.)
 - “churn; knead; trample; full; stir; crush.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *īṃ* \< *īm* \< *īṃ*
+- *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *vibhṛto* \< *vibhṛtaḥ* \< *vibhṛ* \< *√bhṛ*
+- *vibhṛto* ← *vibhṛtaḥ* ← *vibhṛ* ← *√bhṛ*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *mātariśvā* \< *mātariśvan*
+- *mātariśvā* ← *mātariśvan*
 - \[noun\], nominative, singular, masculine
 - “wind; Mātariśvan; Vayu; vāta.”
 ------------------------------------------------------------------------
-- *gṛhe* \< *gṛha*
+- *gṛhe* ← *gṛha*
 - \[noun\], locative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
 ------------------------------------------------------------------------
-- *gṛhe* \< *gṛha*
+- *gṛhe* ← *gṛha*
 - \[noun\], locative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
 ------------------------------------------------------------------------
-- *śyeto* \< *śyetaḥ* \< *śyeta*
+- *śyeto* ← *śyetaḥ* ← *śyeta*
 - \[noun\], nominative, singular, masculine
 - “whitish; red.”
 ------------------------------------------------------------------------
-- *jenyo* \< *jenyaḥ* \< *jenya*
+- *jenyo* ← *jenyaḥ* ← *jenya*
 - \[noun\], nominative, singular, masculine
 - “noble.”
 ------------------------------------------------------------------------
-- *bhūt* \< *bhū*
+- *bhūt* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *īṃ* \< *īm* \< *īṃ*
+- *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *rājñe* \< *rājan*
+- *rājñe* ← *rājan*
 - \[noun\], dative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
@@ -58,7 +58,7 @@ title = "Rig Veda 1.71.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sahīyase* \< *sahīyas*
+- *sahīyase* ← *sahīyas*
 - \[noun\], dative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
@@ -66,7 +66,7 @@ title = "Rig Veda 1.71.4"
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *sann* \< *san* \< *as*
+- *sann* ← *san* ← *as*
 - \[verb noun\], nominative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -75,13 +75,13 @@ title = "Rig Veda 1.71.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dūtyam* \< *dūtya*
+- *dūtyam* ← *dūtya*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *bhṛgavāṇo* \< *bhṛgavāṇaḥ* \< *bhṛgavāṇa*
+- *bhṛgavāṇo* ← *bhṛgavāṇaḥ* ← *bhṛgavāṇa*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vivāya* \< *vī*
+- *vivāya* ← *vī*
 - \[verb\], singular, Perfect indicative
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------

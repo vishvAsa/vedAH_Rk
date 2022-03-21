@@ -2,30 +2,30 @@
 title = "Rig Veda 7.56.19"
 
 +++
--   *ime* \< *idam*
+-   *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *turam* \< *tura*
+- *turam* ← *tura*
 - \[noun\], accusative, singular, masculine
 - “powerful; noble; noble.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *rāmayantīme* \< *rāmayanti* \< *rāmay* \< *√ram*
+- *rāmayantīme* ← *rāmayanti* ← *rāmay* ← *√ram*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *rāmayantīme* \< *ime* \< *idam*
+- *rāmayantīme* ← *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *sahaḥ* \< *sahas*
+- *sahaḥ* ← *sahas*
 - \[noun\], accusative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *sahasa* \< *sahasaḥ* \< *sahas*
+- *sahasa* ← *sahasaḥ* ← *sahas*
 - \[noun\], genitive, singular, masculine
 - “powerful; mighty.”
 ------------------------------------------------------------------------
@@ -33,26 +33,26 @@ title = "Rig Veda 7.56.19"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *namanti* \< *nam*
+- *namanti* ← *nam*
 - \[verb\], plural, Present indikative
 - “bow; bend; condescend; worship; bend; lower.”
 ------------------------------------------------------------------------
-- *ime* \< *idam*
+- *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *śaṃsaṃ* \< *śaṃsam* \< *śaṃsa*
+- *śaṃsaṃ* ← *śaṃsam* ← *śaṃsa*
 - \[noun\], accusative, singular, masculine
 - “praise; śaṃs; recitation.”
 ------------------------------------------------------------------------
-- *vanuṣyato* \< *vanuṣyataḥ* \< *vanuṣy*
+- *vanuṣyato* ← *vanuṣyataḥ* ← *vanuṣy*
 - \[verb noun\], ablative, singular
 ------------------------------------------------------------------------
 - *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *pānti* \< *pā*
+- *pānti* ← *pā*
 - \[verb\], plural, Present indikative
 - “protect; govern.”
 ------------------------------------------------------------------------
@@ -61,19 +61,19 @@ title = "Rig Veda 7.56.19"
 - “heavy; guru; heavy; heavy; long; guru \[word\]; difficult;
     vehement; full; impressive; serious.”
 ------------------------------------------------------------------------
-- *dveṣo* \< *dveṣaḥ* \< *dveṣas*
+- *dveṣo* ← *dveṣaḥ* ← *dveṣas*
 - \[noun\], accusative, singular, neuter
 - “hostility; enemy.”
 ------------------------------------------------------------------------
-- *araruṣe* \< *a*
+- *araruṣe* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *araruṣe* \< *raruṣe* \< *rā*
+- *araruṣe* ← *raruṣe* ← *rā*
 - \[verb noun\], dative, singular
 - “give; impart.”
 ------------------------------------------------------------------------
-- *dadhanti* \< *dhā*
+- *dadhanti* ← *dhā*
 - \[verb\], plural, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

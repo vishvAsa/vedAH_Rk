@@ -2,19 +2,19 @@
 title = "Rig Veda 8.79.1"
 
 +++
--   *ayaṃ* \< *ayam* \< *idam*
+-   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *kṛtnur* \< *kṛtnuḥ* \< *kṛtnu*
+- *kṛtnur* ← *kṛtnuḥ* ← *kṛtnu*
 - \[noun\], nominative, singular, masculine
 - “adept; adroit.”
 ------------------------------------------------------------------------
-- *agṛbhīto* \< *a*
+- *agṛbhīto* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *agṛbhīto* \< *gṛbhītaḥ* \< *grah*
+- *agṛbhīto* ← *gṛbhītaḥ* ← *grah*
 - \[verb noun\], nominative, singular
 - “take; grasp; take out; extract; perceive; pick; assume; include;
     accept; understand; use; learn; possess; keep; choose; accept;
@@ -22,35 +22,35 @@ title = "Rig Veda 8.79.1"
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
 ------------------------------------------------------------------------
-- *viśvajid* \< *viśva*
+- *viśvajid* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvajid* \< *jit*
+- *viśvajid* ← *jit*
 - \[noun\], nominative, singular, masculine
 - “curative; removing; victorious; winning.”
 ------------------------------------------------------------------------
 - *udbhid*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *somaḥ* \< *soma*
+- *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *ṛṣir* \< *ṛṣiḥ* \< *ṛṣi*
+- *ṛṣir* ← *ṛṣiḥ* ← *ṛṣi*
 - \[noun\], nominative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *vipraḥ* \< *vipra*
+- *vipraḥ* ← *vipra*
 - \[noun\], nominative, singular, masculine
 - “eloquent; stimulated; divine.”
 ------------------------------------------------------------------------
-- *kāvyena* \< *kāvya*
+- *kāvyena* ← *kāvya*
 - \[noun\], instrumental, singular, neuter
 - “Uśanas; poem; Kāvya; wisdom.”
 ------------------------------------------------------------------------

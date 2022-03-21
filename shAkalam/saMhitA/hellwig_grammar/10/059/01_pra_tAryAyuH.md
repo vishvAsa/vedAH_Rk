@@ -6,34 +6,34 @@ title = "Rig Veda 10.59.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *tāry* \< *tāri* \< *tṛ*
+- *tāry* ← *tāri* ← *tṛ*
 - \[verb\], singular, Aorist passive
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *āyuḥ* \< *āyus*
+- *āyuḥ* ← *āyus*
 - \[noun\], nominative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------
-- *prataraṃ* \< *prataram*
+- *prataraṃ* ← *prataram*
 - \[adverb\]
 - “farther.”
 ------------------------------------------------------------------------
-- *navīya* \< *navīyas*
+- *navīya* ← *navīyas*
 - \[noun\], nominative, singular, neuter
 - “new; fresh; up-to-the-minute.”
 ------------------------------------------------------------------------
-- *sthātāreva* \< *sthātārā* \< *sthātṛ*
+- *sthātāreva* ← *sthātārā* ← *sthātṛ*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *sthātāreva* \< *iva*
+- *sthātāreva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *kratumatā* \< *kratumat*
+- *kratumatā* ← *kratumat*
 - \[noun\], instrumental, singular, masculine
 - “prudent; resolute.”
 ------------------------------------------------------------------------
-- *rathasya* \< *ratha*
+- *rathasya* ← *ratha*
 - \[noun\], genitive, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -41,26 +41,26 @@ title = "Rig Veda 10.59.1"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *cyavāna* \< *cyavānaḥ* \< *cyavāna*
+- *cyavāna* ← *cyavānaḥ* ← *cyavāna*
 - \[noun\], nominative, singular, masculine
 - “Cyavana.”
 ------------------------------------------------------------------------
-- *ut* \< *ud*
+- *ut* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *tavīty* \< *tavīti* \< *tu*
+- *tavīty* ← *tavīti* ← *tu*
 - \[verb\], singular, Present indikative
 - “strengthen.”
 ------------------------------------------------------------------------
-- *artham* \< *artha*
+- *artham* ← *artha*
 - \[noun\], accusative, singular, masculine
 - “for; meaning; purpose; sense; wealth; object of sense; matter; aim;
     money; message; object; artha \[word\]; wealth; function; content;
     topic; property; situation; reason; affair; concern; reason;
     enterprise; reason; cause; five; application; application.”
 ------------------------------------------------------------------------
-- *parātaraṃ* \< *parātaram*
+- *parātaraṃ* ← *parātaram*
 - \[adverb\]
 - “farther.”
 ------------------------------------------------------------------------
@@ -68,11 +68,11 @@ title = "Rig Veda 10.59.1"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *nirṛtir* \< *nirṛtiḥ* \< *nirṛti*
+- *nirṛtir* ← *nirṛtiḥ* ← *nirṛti*
 - \[noun\], nominative, singular, feminine
 - “destruction; Nirṛti; adversity.”
 ------------------------------------------------------------------------
-- *jihītām* \< *hā*
+- *jihītām* ← *hā*
 - \[verb\], singular, Present imperative
 - “move over; yield; give way.”
 ------------------------------------------------------------------------

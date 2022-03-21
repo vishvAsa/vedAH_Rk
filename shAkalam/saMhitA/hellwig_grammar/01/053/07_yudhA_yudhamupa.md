@@ -2,11 +2,11 @@
 title = "Rig Veda 1.53.7"
 
 +++
--   *yudhā* \< *yudh*
+-   *yudhā* ← *yudh*
 - \[noun\], instrumental, singular, feminine
 - “battle; fight; war; combat.”
 ------------------------------------------------------------------------
-- *yudham* \< *yudh*
+- *yudham* ← *yudh*
 - \[noun\], accusative, singular, feminine
 - “battle; fight; war; combat.”
 ------------------------------------------------------------------------
@@ -14,14 +14,14 @@ title = "Rig Veda 1.53.7"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *ghed* \< *gha*
+- *ghed* ← *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ghed* \< *id*
+- *ghed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *eṣi* \< *i*
+- *eṣi* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
@@ -29,11 +29,11 @@ title = "Rig Veda 1.53.7"
 - \[adverb\]
 - “boldly.”
 ------------------------------------------------------------------------
-- *purā* \< *pur*
+- *purā* ← *pur*
 - \[noun\], instrumental, singular, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
-- *puraṃ* \< *puram* \< *pur*
+- *puraṃ* ← *puram* ← *pur*
 - \[noun\], accusative, singular, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
@@ -41,25 +41,25 @@ title = "Rig Veda 1.53.7"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *idaṃ* \< *idam*
+- *idaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *haṃsy* \< *haṃsi* \< *han*
+- *haṃsy* ← *haṃsi* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *ojasā* \< *ojas*
+- *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *namyā* \< *nami*
+- *namyā* ← *nami*
 - \[noun\], instrumental, singular, masculine
 - “Nami.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -68,18 +68,18 @@ title = "Rig Veda 1.53.7"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sakhyā* \< *sakhi*
+- *sakhyā* ← *sakhi*
 - \[noun\], instrumental, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *parāvati* \< *parāvat*
+- *parāvati* ← *parāvat*
 - \[noun\], locative, singular, feminine
 - “distance; distance; distance.”
 ------------------------------------------------------------------------
-- *nibarhayo* \< *nibarhayaḥ* \< *nibarhay* \< *√bṛṃh*
+- *nibarhayo* ← *nibarhayaḥ* ← *nibarhay* ← *√bṛṃh*
 - \[verb\], singular, Present injunctive
 ------------------------------------------------------------------------
-- *namuciṃ* \< *namucim* \< *namuci*
+- *namuciṃ* ← *namucim* ← *namuci*
 - \[noun\], accusative, singular, masculine
 - “Namuci; namuci \[word\].”
 ------------------------------------------------------------------------
@@ -87,7 +87,7 @@ title = "Rig Veda 1.53.7"
 - \[adverb\]
 - “by name; indeed; however; indeed.”
 ------------------------------------------------------------------------
-- *māyinam* \< *māyin*
+- *māyinam* ← *māyin*
 - \[noun\], accusative, singular, masculine
 - “artful; charming; crafty; deceptive.”
 ------------------------------------------------------------------------

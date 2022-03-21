@@ -6,7 +6,7 @@ title = "Rig Veda 9.81.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -14,51 +14,51 @@ title = "Rig Veda 9.81.3"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *pavamānaḥ* \< *pū*
+- *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *kirā* \< *kira* \< *kṛ*
+- *kirā* ← *kira* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “spread; scatter.”
 ------------------------------------------------------------------------
-- *vasv* \< *vasū* \< *vasu*
+- *vasv* ← *vasū* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *indo* \< *indu*
+- *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *bhava* \< *bhū*
+- *bhava* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *maghavā* \< *maghavan*
+- *maghavā* ← *maghavan*
 - \[noun\], nominative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *rādhaso* \< *rādhasaḥ* \< *rādhas*
+- *rādhaso* ← *rādhasaḥ* ← *rādhas*
 - \[noun\], genitive, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *mahaḥ* \< *mah*
+- *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *śikṣā* \< *śikṣa* \< *śikṣ*
+- *śikṣā* ← *śikṣa* ← *śikṣ*
 - \[verb\], singular, Present imperative
 - “help; give.”
 ------------------------------------------------------------------------
-- *vayodho* \< *vayodhaḥ* \< *vayodhas*
+- *vayodho* ← *vayodhaḥ* ← *vayodhas*
 - \[noun\], vocative, singular, masculine
 - “fortifying.”
 ------------------------------------------------------------------------
-- *vasave* \< *vasu*
+- *vasave* ← *vasu*
 - \[noun\], dative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
@@ -66,22 +66,22 @@ title = "Rig Veda 9.81.3"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *cetunā* \< *cetu*
+- *cetunā* ← *cetu*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
 - *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *na*
+- *no* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *no* \< *u*
+- *no* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *gayam* \< *gaya*
+- *gayam* ← *gaya*
 - \[noun\], accusative, singular, masculine
 - “house; Gaya; family; Gaya; property; Gaya; wealth; livestock.”
 ------------------------------------------------------------------------
@@ -89,7 +89,7 @@ title = "Rig Veda 9.81.3"
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *asmat* \< *mad*
+- *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -97,7 +97,7 @@ title = "Rig Veda 9.81.3"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *sicaḥ* \< *sic*
+- *sicaḥ* ← *sic*
 - \[verb\], singular, Aorist inj. (proh.)
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 ------------------------------------------------------------------------

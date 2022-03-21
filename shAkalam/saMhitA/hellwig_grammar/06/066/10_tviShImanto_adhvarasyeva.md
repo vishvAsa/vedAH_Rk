@@ -2,15 +2,15 @@
 title = "Rig Veda 6.66.10"
 
 +++
--   *tviṣīmanto* \< *tviṣīmantaḥ* \< *tviṣīmat*
+-   *tviṣīmanto* ← *tviṣīmantaḥ* ← *tviṣīmat*
 - \[noun\], nominative, plural, masculine
 - “glistening; beautiful.”
 ------------------------------------------------------------------------
-- *adhvarasyeva* \< *adhvarasya* \< *adhvara*
+- *adhvarasyeva* ← *adhvarasya* ← *adhvara*
 - \[noun\], genitive, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *adhvarasyeva* \< *iva*
+- *adhvarasyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
@@ -18,27 +18,27 @@ title = "Rig Veda 6.66.10"
 - \[noun\], nominative, singular, feminine
 - “arrow; Didyut.”
 ------------------------------------------------------------------------
-- *tṛṣucyavaso* \< *tṛṣucyavasaḥ* \< *tṛṣucyavas*
+- *tṛṣucyavaso* ← *tṛṣucyavasaḥ* ← *tṛṣucyavas*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *juhvo* \< *juhvaḥ* \< *juhū*
+- *juhvo* ← *juhvaḥ* ← *juhū*
 - \[noun\], nominative, plural, feminine
 - “tongue; fire; ladle.”
 ------------------------------------------------------------------------
-- *nāgneḥ* \< *nā* \< *na*
+- *nāgneḥ* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāgneḥ* \< *agneḥ* \< *agni*
+- *nāgneḥ* ← *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *arcatrayo* \< *arcatrayaḥ* \< *arcatri*
+- *arcatrayo* ← *arcatrayaḥ* ← *arcatri*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *dhunayo* \< *dhunayaḥ* \< *dhuni*
+- *dhunayo* ← *dhunayaḥ* ← *dhuni*
 - \[noun\], nominative, plural, masculine
 - “deafening; boisterous; noisy.”
 ------------------------------------------------------------------------
@@ -46,24 +46,24 @@ title = "Rig Veda 6.66.10"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vīrā* \< *vīrāḥ* \< *vīra*
+- *vīrā* ← *vīrāḥ* ← *vīra*
 - \[noun\], nominative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *bhrājajjanmāno* \< *bhrājat* \< *bhrāj*
+- *bhrājajjanmāno* ← *bhrājat* ← *bhrāj*
 - \[verb noun\]
 - “shine; glitter; look.”
 ------------------------------------------------------------------------
-- *bhrājajjanmāno* \< *janmānaḥ* \< *janman*
+- *bhrājajjanmāno* ← *janmānaḥ* ← *janman*
 - \[noun\], nominative, plural, masculine
 - “birth; reincarnation; lineage; origin; race; metempsychosis;
     parentage; descent; appearance; age; birthplace; beginning; being.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *adhṛṣṭāḥ* \< *adhṛṣṭa*
+- *adhṛṣṭāḥ* ← *adhṛṣṭa*
 - \[noun\], nominative, plural, masculine
 - “modest; invincible.”
 ------------------------------------------------------------------------

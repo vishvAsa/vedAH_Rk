@@ -2,15 +2,15 @@
 title = "Rig Veda 3.61.2"
 
 +++
--   *uṣo* \< *uṣaḥ* \< *uṣas*
+-   *uṣo* ← *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *devy* \< *devī*
+- *devy* ← *devī*
 - \[noun\], nominative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *amartyā* \< *amartya*
+- *amartyā* ← *amartya*
 - \[noun\], nominative, singular, feminine
 - “immortal.”
 ------------------------------------------------------------------------
@@ -18,23 +18,23 @@ title = "Rig Veda 3.61.2"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *bhāhi* \< *bhā*
+- *bhāhi* ← *bhā*
 - \[verb\], singular, Present imperative
 - “look; shine; show; look like; glitter; reflect.”
 ------------------------------------------------------------------------
-- *candrarathā* \< *candra*
+- *candrarathā* ← *candra*
 - \[noun\]
 - “aglitter(p); shining.”
 ------------------------------------------------------------------------
-- *candrarathā* \< *rathā* \< *ratha*
+- *candrarathā* ← *rathā* ← *ratha*
 - \[noun\], nominative, singular, feminine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *sūnṛtā* \< *sūnṛtāḥ* \< *sūnṛtā*
+- *sūnṛtā* ← *sūnṛtāḥ* ← *sūnṛtā*
 - \[noun\], accusative, plural, feminine
 - “liberality.”
 ------------------------------------------------------------------------
-- *īrayantī* \< *īray* \< *√īr*
+- *īrayantī* ← *īray* ← *√īr*
 - \[verb noun\], nominative, singular
 - “name; describe; propel; shoot; state; call; raise; expel; tell;
     enumerate.”
@@ -43,45 +43,45 @@ title = "Rig Veda 3.61.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vahantu* \< *vah*
+- *vahantu* ← *vah*
 - \[verb\], plural, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *suyamāso* \< *su*
+- *suyamāso* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suyamāso* \< *yamāsaḥ* \< *yama*
+- *suyamāso* ← *yamāsaḥ* ← *yama*
 - \[noun\], nominative, plural, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
 ------------------------------------------------------------------------
-- *aśvā* \< *aśvāḥ* \< *aśva*
+- *aśvā* ← *aśvāḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *hiraṇyavarṇām* \< *hiraṇya*
+- *hiraṇyavarṇām* ← *hiraṇya*
 - \[noun\]
 - “aureate; gold.”
 ------------------------------------------------------------------------
-- *hiraṇyavarṇām* \< *varṇām* \< *varṇa*
+- *hiraṇyavarṇām* ← *varṇām* ← *varṇa*
 - \[noun\], accusative, singular, feminine
 - “color; caste; complexion; vowel; varṇa \[word\]; vowel; syllable;
     appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
 ------------------------------------------------------------------------
-- *pṛthupājaso* \< *pṛthu*
+- *pṛthupājaso* ← *pṛthu*
 - \[noun\]
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
 ------------------------------------------------------------------------
-- *pṛthupājaso* \< *pājasaḥ* \< *pājas*
+- *pṛthupājaso* ← *pājasaḥ* ← *pājas*
 - \[noun\], nominative, plural, masculine
 - “luminosity; look.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------

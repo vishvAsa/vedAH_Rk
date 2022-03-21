@@ -2,73 +2,73 @@
 title = "Rig Veda 1.167.6"
 
 +++
--   *āsthāpayanta* \< *āsthāpay* \< *√sthā*
+-   *āsthāpayanta* ← *āsthāpay* ← *√sthā*
 - \[verb\], plural, Imperfect
 - “āsthāpay.”
 ------------------------------------------------------------------------
-- *yuvatiṃ* \< *yuvatim* \< *yuvati*
+- *yuvatiṃ* ← *yuvatim* ← *yuvati*
 - \[noun\], accusative, singular, feminine
 - “girl; woman.”
 ------------------------------------------------------------------------
-- *yuvānaḥ* \< *yuvan*
+- *yuvānaḥ* ← *yuvan*
 - \[noun\], nominative, plural, masculine
 - “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
     buck; young.”
 ------------------------------------------------------------------------
-- *śubhe* \< *śubha*
+- *śubhe* ← *śubha*
 - \[noun\], locative, singular, masculine
 - “good; beautiful; auspicious; good; suitable; pleasant; righteous;
     beautiful; wholesome; beneficial.”
 ------------------------------------------------------------------------
-- *nimiślāṃ* \< *nimiślām* \< *nimiśla*
+- *nimiślāṃ* ← *nimiślām* ← *nimiśla*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *vidatheṣu* \< *vidatha*
+- *vidatheṣu* ← *vidatha*
 - \[noun\], locative, plural, neuter
 - “meeting; wisdom; council.”
 ------------------------------------------------------------------------
-- *pajrām* \< *pajra*
+- *pajrām* ← *pajra*
 - \[noun\], accusative, singular, feminine
 - “steadfast.”
 ------------------------------------------------------------------------
-- *arko* \< *arkaḥ* \< *arka*
+- *arko* ← *arkaḥ* ← *arka*
 - \[noun\], nominative, singular, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *haviṣmān* \< *haviṣmat*
+- *haviṣmān* ← *haviṣmat*
 - \[noun\], nominative, singular, masculine
 - “sacrificing.”
 ------------------------------------------------------------------------
-- *gāyad* \< *gāyat* \< *gā*
+- *gāyad* ← *gāyat* ← *gā*
 - \[verb\], singular, Present injunctive
 - “sing; praise; jap; recite; describe.”
 ------------------------------------------------------------------------
-- *gāthaṃ* \< *gātham* \< *gātha*
+- *gāthaṃ* ← *gātham* ← *gātha*
 - \[noun\], accusative, singular, masculine
 - “song.”
 ------------------------------------------------------------------------
-- *sutasomo* \< *suta* \< *su*
+- *sutasomo* ← *suta* ← *su*
 - \[verb noun\]
 - “press out; su.”
 ------------------------------------------------------------------------
-- *sutasomo* \< *somaḥ* \< *soma*
+- *sutasomo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *duvasyan* \< *duvasy*
+- *duvasyan* ← *duvasy*
 - \[verb noun\], nominative, singular
 - “worship.”
 ------------------------------------------------------------------------

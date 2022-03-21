@@ -2,19 +2,19 @@
 title = "Rig Veda 8.61.17"
 
 +++
--   *adyādyā* \< *adya*
+-   *adyādyā* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *adyādyā* \< *adya*
+- *adyādyā* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *śvaḥ* \< *śvas*
+- *śvaḥ* ← *śvas*
 - \[adverb\]
 - “tomorrow.”
 ------------------------------------------------------------------------
-- *śva* \< *śvas*
+- *śva* ← *śvas*
 - \[adverb\]
 - “tomorrow.”
 ------------------------------------------------------------------------
@@ -23,11 +23,11 @@ title = "Rig Veda 8.61.17"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *trāsva* \< *trā*
+- *trāsva* ← *trā*
 - \[verb\], singular, Present imperative
 - “protect; help.”
 ------------------------------------------------------------------------
-- *pare* \< *para*
+- *pare* ← *para*
 - \[noun\], locative, singular, neuter
 - “best; other; following; devoted(p); extreme; highest; otherwordly;
     better; hostile; maximal; distant; another(a); para \[word\]; upper;
@@ -37,11 +37,11 @@ title = "Rig Veda 8.61.17"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
@@ -50,19 +50,19 @@ title = "Rig Veda 8.61.17"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *jaritṝn* \< *jaritṛ*
+- *jaritṝn* ← *jaritṛ*
 - \[noun\], accusative, plural, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *satpate* \< *satpati*
+- *satpate* ← *satpati*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *ahā* \< *aha*
+- *ahā* ← *aha*
 - \[noun\], accusative, plural, neuter
 - “day; aha \[word\]; day.”
 ------------------------------------------------------------------------
@@ -70,7 +70,7 @@ title = "Rig Veda 8.61.17"
 - \[adverb\]
 - “by day; divā \[indecl.\].”
 ------------------------------------------------------------------------
-- *naktaṃ* \< *naktam* \< *nakta*
+- *naktaṃ* ← *naktam* ← *nakta*
 - \[noun\], accusative, singular, neuter
 - “night; night.”
 ------------------------------------------------------------------------
@@ -78,7 +78,7 @@ title = "Rig Veda 8.61.17"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *rakṣiṣaḥ* \< *rakṣ*
+- *rakṣiṣaḥ* ← *rakṣ*
 - \[verb\], singular, Aorist conj./subj.
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------

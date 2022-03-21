@@ -6,63 +6,63 @@ title = "Rig Veda 4.38.7"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *sya* \< *tya*
+- *sya* ← *tya*
 - \[noun\], nominative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *vājī* \< *vājin*
+- *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *sahurir* \< *sahuriḥ* \< *sahuri*
+- *sahurir* ← *sahuriḥ* ← *sahuri*
 - \[noun\], nominative, singular, masculine
 - “victorious; mighty; strong.”
 ------------------------------------------------------------------------
-- *ṛtāvā* \< *ṛtāvan*
+- *ṛtāvā* ← *ṛtāvan*
 - \[noun\], nominative, singular, masculine
 - “law-abiding; faithful; righteous.”
 ------------------------------------------------------------------------
-- *śuśrūṣamāṇas* \< *śuśrūṣamāṇaḥ* \< *śuśrūṣ*
+- *śuśrūṣamāṇas* ← *śuśrūṣamāṇaḥ* ← *śuśrūṣ*
 - \[verb noun\], nominative, singular
 - “obey; heed.”
 ------------------------------------------------------------------------
-- *tanvā* \< *tanū*
+- *tanvā* ← *tanū*
 - \[noun\], instrumental, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *samarye* \< *samarya*
+- *samarye* ← *samarya*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *turaṃ* \< *turam* \< *tura*
+- *turaṃ* ← *turam* ← *tura*
 - \[noun\], accusative, singular, neuter
 - “powerful; noble; noble.”
 ------------------------------------------------------------------------
-- *yatīṣu* \< *i*
+- *yatīṣu* ← *i*
 - \[verb noun\], locative, plural
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *turayann* \< *turayan* \< *turay* \< *√tṛ*
+- *turayann* ← *turayan* ← *turay* ← *√tṛ*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *ṛjipyo* \< *ṛjipyaḥ* \< *ṛjipya*
+- *ṛjipyo* ← *ṛjipyaḥ* ← *ṛjipya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *'dhi* \< *adhi*
+- *'dhi* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *bhruvoḥ* \< *bhrū*
+- *bhruvoḥ* ← *bhrū*
 - \[noun\], locative, dual, feminine
 - “eyebrow; bhrū \[word\].”
 ------------------------------------------------------------------------
-- *kirate* \< *kṛ*
+- *kirate* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “spread; scatter.”
 ------------------------------------------------------------------------
-- *reṇum* \< *reṇu*
+- *reṇum* ← *reṇu*
 - \[noun\], accusative, singular, masculine
 - “dust; pollen; powder.”
 ------------------------------------------------------------------------
-- *ṛñjan* \< *ṛj*
+- *ṛñjan* ← *ṛj*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------

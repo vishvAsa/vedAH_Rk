@@ -2,26 +2,26 @@
 title = "Rig Veda 2.33.11"
 
 +++
--   *stuhi* \< *stu*
+-   *stuhi* ← *stu*
 - \[verb\], singular, Present imperative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *śrutaṃ* \< *śrutam* \< *śru*
+- *śrutaṃ* ← *śrutam* ← *śru*
 - \[verb noun\], accusative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *gartasadaṃ* \< *garta*
+- *gartasadaṃ* ← *garta*
 - \[noun\], masculine
 ------------------------------------------------------------------------
-- *gartasadaṃ* \< *sadam* \< *sad*
+- *gartasadaṃ* ← *sadam* ← *sad*
 - \[noun\], accusative, singular, masculine
 - “seated.”
 ------------------------------------------------------------------------
-- *yuvānam* \< *yuvan*
+- *yuvānam* ← *yuvan*
 - \[noun\], accusative, singular, masculine
 - “young; youthful.”
 ------------------------------------------------------------------------
-- *mṛgaṃ* \< *mṛgam* \< *mṛga*
+- *mṛgaṃ* ← *mṛgam* ← *mṛga*
 - \[noun\], accusative, singular, masculine
 - “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
 ------------------------------------------------------------------------
@@ -29,24 +29,24 @@ title = "Rig Veda 2.33.11"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *bhīmam* \< *bhīma*
+- *bhīmam* ← *bhīma*
 - \[noun\], accusative, singular, masculine
 - “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
 ------------------------------------------------------------------------
-- *upahatnum* \< *upahatnu*
+- *upahatnum* ← *upahatnu*
 - \[noun\], accusative, singular, masculine
 - “hurtful.”
 ------------------------------------------------------------------------
-- *ugram* \< *ugra*
+- *ugram* ← *ugra*
 - \[noun\], accusative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *mṛḍā* \< *mṛḍ*
+- *mṛḍā* ← *mṛḍ*
 - \[verb\], singular, Present imperative
 - “pardon.”
 ------------------------------------------------------------------------
-- *jaritre* \< *jaritṛ*
+- *jaritre* ← *jaritṛ*
 - \[noun\], dative, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------
@@ -54,20 +54,20 @@ title = "Rig Veda 2.33.11"
 - \[noun\], vocative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *stavāno* \< *stavānaḥ* \< *stu*
+- *stavāno* ← *stavānaḥ* ← *stu*
 - \[verb noun\], nominative, singular
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *'nyaṃ* \< *anyam* \< *anya*
+- *'nyaṃ* ← *anyam* ← *anya*
 - \[noun\], accusative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *asman* \< *asmat* \< *mad*
+- *asman* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -75,11 +75,11 @@ title = "Rig Veda 2.33.11"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *vapantu* \< *vap*
+- *vapantu* ← *vap*
 - \[verb\], plural, Present imperative
 - “sow; bestrew; strew; scatter.”
 ------------------------------------------------------------------------
-- *senāḥ* \< *senā*
+- *senāḥ* ← *senā*
 - \[noun\], nominative, plural, feminine
 - “army; senā \[word\]; armament.”
 ------------------------------------------------------------------------

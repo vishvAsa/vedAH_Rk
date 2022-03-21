@@ -2,78 +2,78 @@
 title = "Rig Veda 6.67.1"
 
 +++
--   *viśveṣāṃ* \< *viśveṣām* \< *viśva*
+-   *viśveṣāṃ* ← *viśveṣām* ← *viśva*
 - \[noun\], genitive, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *satāṃ* \< *satām* \< *as*
+- *satāṃ* ← *satām* ← *as*
 - \[verb noun\], genitive, plural
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *jyeṣṭhatamā* \< *jyeṣṭhatama*
+- *jyeṣṭhatamā* ← *jyeṣṭhatama*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------
-- *gīrbhir* \< *gīrbhiḥ* \< *gir*
+- *gīrbhir* ← *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇā* \< *mitrāvaruṇa*
+- *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *vāvṛdhadhyai* \< *vṛdh*
+- *vāvṛdhadhyai* ← *vṛdh*
 - \[verb noun\]
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, dual, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *raśmeva* \< *raśmā* \< *raśman*
+- *raśmeva* ← *raśmā* ← *raśman*
 - \[noun\], nominative, singular, masculine
 - “rein.”
 ------------------------------------------------------------------------
-- *raśmeva* \< *iva*
+- *raśmeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *yamatur* \< *yamatuḥ* \< *yam*
+- *yamatur* ← *yamatuḥ* ← *yam*
 - \[verb\], dual, Aorist conj./subj.
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *yamiṣṭhā* \< *yamiṣṭha*
+- *yamiṣṭhā* ← *yamiṣṭha*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *dvā* \< *dvi*
+- *dvā* ← *dvi*
 - \[noun\], nominative, dual, masculine
 - “two; dvi \[word\]; second.”
 ------------------------------------------------------------------------
-- *janāṃ* \< *jana*
+- *janāṃ* ← *jana*
 - \[noun\], accusative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *asamā* \< *asama*
+- *asamā* ← *asama*
 - \[noun\], nominative, dual, masculine
 - “incomparable; unlike.”
 ------------------------------------------------------------------------
-- *bāhubhiḥ* \< *bāhu*
+- *bāhubhiḥ* ← *bāhu*
 - \[noun\], instrumental, plural, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
-- *svaiḥ* \< *sva*
+- *svaiḥ* ← *sva*
 - \[noun\], instrumental, plural, masculine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”

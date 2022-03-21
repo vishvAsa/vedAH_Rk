@@ -2,27 +2,27 @@
 title = "Rig Veda 10.10.9"
 
 +++
--   *rātrībhir* \< *rātrībhiḥ* \< *rātri*
+-   *rātrībhir* ← *rātrībhiḥ* ← *rātri*
 - \[noun\], instrumental, plural, feminine
 - “night; night; rātri \[word\]; turmeric; Rātri; day; night.”
 ------------------------------------------------------------------------
-- *asmā* \< *asmai* \< *idam*
+- *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ahabhir* \< *ahabhiḥ* \< *aha*
+- *ahabhir* ← *ahabhiḥ* ← *aha*
 - \[noun\], instrumental, plural, neuter
 - “day; aha \[word\]; day.”
 ------------------------------------------------------------------------
-- *daśasyet* \< *daśasy*
+- *daśasyet* ← *daśasy*
 - \[verb\], singular, Present optative
 ------------------------------------------------------------------------
-- *sūryasya* \< *sūrya*
+- *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *cakṣur* \< *cakṣuḥ* \< *cakṣus*
+- *cakṣur* ← *cakṣuḥ* ← *cakṣus*
 - \[noun\], accusative, singular, neuter
 - “eye; look; visual perception; cakṣus \[word\]; sight.”
 ------------------------------------------------------------------------
@@ -30,39 +30,39 @@ title = "Rig Veda 10.10.9"
 - \[adverb\]
 - “again; repeatedly; continually.”
 ------------------------------------------------------------------------
-- *un* \< *ud*
+- *un* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *mimīyāt* \< *mī*
+- *mimīyāt* ← *mī*
 - \[verb\], singular, Present optative
 - “transgress; damage.”
 ------------------------------------------------------------------------
-- *divā* \< *div*
+- *divā* ← *div*
 - \[noun\], instrumental, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *pṛthivyā* \< *pṛthivī*
+- *pṛthivyā* ← *pṛthivī*
 - \[noun\], instrumental, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *mithunā* \< *mithuna*
+- *mithunā* ← *mithuna*
 - \[noun\], nominative, dual, masculine
 - “twin; couple; couple; coupling; sexual intercourse; Gemini.”
 ------------------------------------------------------------------------
-- *sabandhū* \< *sabandhu*
+- *sabandhū* ← *sabandhu*
 - \[noun\], nominative, dual, masculine
 - “related.”
 ------------------------------------------------------------------------
-- *yamīr* \< *yamīḥ* \< *yamī*
+- *yamīr* ← *yamīḥ* ← *yamī*
 - \[noun\], nominative, singular, feminine
 - “Yamī.”
 ------------------------------------------------------------------------
-- *yamasya* \< *yama*
+- *yamasya* ← *yama*
 - \[noun\], genitive, singular, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
 ------------------------------------------------------------------------
-- *bibhṛyād* \< *bibhṛyāt* \< *bhṛ*
+- *bibhṛyād* ← *bibhṛyāt* ← *bhṛ*
 - \[verb\], singular, Present optative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”

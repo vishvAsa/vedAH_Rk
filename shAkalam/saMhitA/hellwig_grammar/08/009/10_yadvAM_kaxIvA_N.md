@@ -2,15 +2,15 @@
 title = "Rig Veda 8.9.10"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *kakṣīvāṃ* \< *kakṣīvān* \< *kakṣīvant*
+- *kakṣīvāṃ* ← *kakṣīvān* ← *kakṣīvant*
 - \[noun\], nominative, singular, masculine
 - “Kakṣīvant; kakṣīvant \[word\].”
 ------------------------------------------------------------------------
@@ -18,71 +18,71 @@ title = "Rig Veda 8.9.10"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vyaśva* \< *vyaśvaḥ* \< *vyaśva*
+- *vyaśva* ← *vyaśvaḥ* ← *vyaśva*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *ṛṣir* \< *ṛṣiḥ* \< *ṛṣi*
+- *ṛṣir* ← *ṛṣiḥ* ← *ṛṣi*
 - \[noun\], nominative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *dīrghatamā* \< *dīrghatamāḥ* \< *dīrghatamas*
+- *dīrghatamā* ← *dīrghatamāḥ* ← *dīrghatamas*
 - \[noun\], nominative, singular, masculine
 - “Dīrghatamas.”
 ------------------------------------------------------------------------
-- *juhāva* \< *hvā*
+- *juhāva* ← *hvā*
 - \[verb\], singular, Perfect indicative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *pṛthī* \< *pṛthi*
+- *pṛthī* ← *pṛthi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *vainyaḥ* \< *vainya*
+- *vainyaḥ* ← *vainya*
 - \[noun\], nominative, singular, masculine
 - “Pṛthu.”
 ------------------------------------------------------------------------
-- *sādaneṣv* \< *sādaneṣu* \< *sādana*
+- *sādaneṣv* ← *sādaneṣu* ← *sādana*
 - \[noun\], locative, plural, neuter
 - “home; dwelling; seat.”
 ------------------------------------------------------------------------
-- *eved* \< *eva*
+- *eved* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *eved* \< *id*
+- *eved* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *ato* \< *atas*
+- *ato* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *cetayethām* \< *cetay* \< *√cit*
+- *cetayethām* ← *cetay* ← *√cit*
 - \[verb\], dual, Present imperative
 - “blaze; notice.”
 ------------------------------------------------------------------------

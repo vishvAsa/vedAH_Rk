@@ -6,32 +6,32 @@ title = "Rig Veda 10.134.5"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *svedā* \< *svedāḥ* \< *sveda*
+- *svedā* ← *svedāḥ* ← *sveda*
 - \[noun\], nominative, plural, masculine
 - “svedana; perspiration; svedana; perspiring; fomentation; sweat.”
 ------------------------------------------------------------------------
-- *ivābhito* \< *iva*
+- *ivābhito* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ivābhito* \< *abhitas*
+- *ivābhito* ← *abhitas*
 - \[adverb\]
 - “about; around; regarding; about.”
 ------------------------------------------------------------------------
-- *viṣvak* \< *viṣvañc*
+- *viṣvak* ← *viṣvañc*
 - \[noun\], accusative, singular, neuter
 - “dispersed; viṣvañc \[word\].”
 ------------------------------------------------------------------------
-- *patantu* \< *pat*
+- *patantu* ← *pat*
 - \[verb\], plural, Present imperative
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
 ------------------------------------------------------------------------
-- *didyavaḥ* \< *didyu*
+- *didyavaḥ* ← *didyu*
 - \[noun\], nominative, plural, masculine
 - “arrow; projectile.”
 ------------------------------------------------------------------------
-- *dūrvāyā* \< *dūrvāyāḥ* \< *dūrvā*
+- *dūrvāyā* ← *dūrvāyāḥ* ← *dūrvā*
 - \[noun\], genitive, singular, feminine
 - “Bermuda grass.”
 ------------------------------------------------------------------------
@@ -39,23 +39,23 @@ title = "Rig Veda 10.134.5"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *tantavo* \< *tantavaḥ* \< *tantu*
+- *tantavo* ← *tantavaḥ* ← *tantu*
 - \[noun\], nominative, plural, masculine
 - “thread; fiber; lineage; cobweb; fibril; stalk.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *asmad* \< *asmat* \< *mad*
+- *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *etu* \< *i*
+- *etu* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *durmatir* \< *durmatiḥ* \< *durmati*
+- *durmatir* ← *durmatiḥ* ← *durmati*
 - \[noun\], nominative, singular, feminine
 - “hate; envy.”
 ------------------------------------------------------------------------
@@ -63,26 +63,26 @@ title = "Rig Veda 10.134.5"
 - \[noun\], nominative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *janitry* \< *janitrī*
+- *janitry* ← *janitrī*
 - \[noun\], nominative, singular, feminine
 - “mother.”
 ------------------------------------------------------------------------
-- *ajījanad* \< *ajījanat* \< *jan*
+- *ajījanad* ← *ajījanat* ← *jan*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *bhadrā* \< *bhadra*
+- *bhadrā* ← *bhadra*
 - \[noun\], nominative, singular, feminine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *janitry* \< *janitrī*
+- *janitry* ← *janitrī*
 - \[noun\], nominative, singular, feminine
 - “mother.”
 ------------------------------------------------------------------------
-- *ajījanat* \< *jan*
+- *ajījanat* ← *jan*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;

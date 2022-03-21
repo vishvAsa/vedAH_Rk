@@ -2,31 +2,31 @@
 title = "Rig Veda 9.86.42"
 
 +++
--   *so* \< *saḥ* \< *tad*
+-   *so* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *agre* \< *agra*
+- *agre* ← *agra*
 - \[noun\], locative, singular, neuter
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
 ------------------------------------------------------------------------
-- *ahnāṃ* \< *ahnām* \< *ahar*
+- *ahnāṃ* ← *ahnām* ← *ahar*
 - \[noun\], genitive, plural, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *harir* \< *hariḥ* \< *hari*
+- *harir* ← *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
-- *haryato* \< *haryataḥ* \< *haryata*
+- *haryato* ← *haryataḥ* ← *haryata*
 - \[noun\], nominative, singular, masculine
 - “desirable; delightful.”
 ------------------------------------------------------------------------
-- *madaḥ* \< *mada*
+- *madaḥ* ← *mada*
 - \[noun\], nominative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
@@ -36,11 +36,11 @@ title = "Rig Veda 9.86.42"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *cetasā* \< *cetas*
+- *cetasā* ← *cetas*
 - \[noun\], instrumental, singular, neuter
 - “mind; heart; consciousness; intelligence; purpose; cetas \[word\].”
 ------------------------------------------------------------------------
-- *cetayate* \< *cetay* \< *√cit*
+- *cetayate* ← *cetay* ← *√cit*
 - \[verb\], singular, Present indikative
 - “blaze; notice.”
 ------------------------------------------------------------------------
@@ -48,20 +48,20 @@ title = "Rig Veda 9.86.42"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *dyubhiḥ* \< *div*
+- *dyubhiḥ* ← *div*
 - \[noun\], instrumental, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *dvā* \< *dvi*
+- *dvā* ← *dvi*
 - \[noun\], accusative, dual, masculine
 - “two; dvi \[word\]; second.”
 ------------------------------------------------------------------------
-- *janā* \< *jana*
+- *janā* ← *jana*
 - \[noun\], accusative, dual, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *yātayann* \< *yātayan* \< *yātay* \< *√yat*
+- *yātayann* ← *yātayan* ← *yātay* ← *√yat*
 - \[verb noun\], nominative, singular
 - “endeavor; settle.”
 ------------------------------------------------------------------------
@@ -69,11 +69,11 @@ title = "Rig Veda 9.86.42"
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *īyate* \< *ī* \< *√i*
+- *īyate* ← *ī* ← *√i*
 - \[verb\], singular, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------
-- *narā* \< *nṛ*
+- *narā* ← *nṛ*
 - \[noun\], accusative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
@@ -81,11 +81,11 @@ title = "Rig Veda 9.86.42"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *śaṃsaṃ* \< *śaṃsam* \< *śaṃsa*
+- *śaṃsaṃ* ← *śaṃsam* ← *śaṃsa*
 - \[noun\], accusative, singular, masculine
 - “praise; śaṃs; recitation.”
 ------------------------------------------------------------------------
-- *daivyaṃ* \< *daivyam* \< *daivya*
+- *daivyaṃ* ← *daivyam* ← *daivya*
 - \[noun\], accusative, singular, masculine
 - “divine; divine; celestial.”
 ------------------------------------------------------------------------
@@ -93,7 +93,7 @@ title = "Rig Veda 9.86.42"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *dhartari* \< *dhartṛ*
+- *dhartari* ← *dhartṛ*
 - \[noun\], locative, singular, masculine
 - “supporter.”
 ------------------------------------------------------------------------

@@ -2,11 +2,11 @@
 title = "Rig Veda 9.5.6"
 
 +++
--   *suśilpe* \< *su*
+-   *suśilpe* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśilpe* \< *śilpe* \< *śilpa*
+- *suśilpe* ← *śilpe* ← *śilpa*
 - \[noun\], accusative, dual, feminine
 - “art; art.”
 ------------------------------------------------------------------------
@@ -20,22 +20,22 @@ title = "Rig Veda 9.5.6"
 - “Earth; floor; Earth; land; real property; heaven and earth; space;
     Mahī; soil; earth; estate; area.”
 ------------------------------------------------------------------------
-- *pavamāno* \< *pavamānaḥ* \< *pū*
+- *pavamāno* ← *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *vṛṣaṇyati* \< *vṛṣaṇy*
+- *vṛṣaṇyati* ← *vṛṣaṇy*
 - \[verb\], singular, Present indikative
 - “vṛṣaṇy \[verb\].”
 ------------------------------------------------------------------------
-- *naktoṣāsā* \< *naktoṣāsāḥ* \< *naktoṣāsā*
+- *naktoṣāsā* ← *naktoṣāsāḥ* ← *naktoṣāsā*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *darśate* \< *darśata*
+- *darśate* ← *darśata*
 - \[noun\], accusative, dual, feminine
 - “beautiful; visible; beautiful.”
 ------------------------------------------------------------------------

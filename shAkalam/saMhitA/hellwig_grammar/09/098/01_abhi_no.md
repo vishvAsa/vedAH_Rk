@@ -6,45 +6,45 @@ title = "Rig Veda 9.98.1"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vājasātamaṃ* \< *vāja*
+- *vājasātamaṃ* ← *vāja*
 - \[noun\], masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vājasātamaṃ* \< *sātamam* \< *sātama*
+- *vājasātamaṃ* ← *sātamam* ← *sātama*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *rayim* \< *rayi*
+- *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *arṣa* \< *ṛṣ*
+- *arṣa* ← *ṛṣ*
 - \[verb\], singular, Present imperative
 - “run.”
 ------------------------------------------------------------------------
-- *puruspṛham* \< *puruspṛh*
+- *puruspṛham* ← *puruspṛh*
 - \[noun\], accusative, singular, masculine
 - “coveted; desirous.”
 ------------------------------------------------------------------------
-- *indo* \< *indu*
+- *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *sahasrabharṇasaṃ* \< *sahasrabharṇasam* \< *sahasrabharṇas*
+- *sahasrabharṇasaṃ* ← *sahasrabharṇasam* ← *sahasrabharṇas*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *tuvidyumnaṃ* \< *tuvi*
+- *tuvidyumnaṃ* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
 ------------------------------------------------------------------------
-- *tuvidyumnaṃ* \< *dyumnam* \< *dyumna*
+- *tuvidyumnaṃ* ← *dyumnam* ← *dyumna*
 - \[noun\], accusative, singular, masculine
 - “magnificence.”
 ------------------------------------------------------------------------
-- *vibhvāsaham* \< *vibhvāsah*
+- *vibhvāsaham* ← *vibhvāsah*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------

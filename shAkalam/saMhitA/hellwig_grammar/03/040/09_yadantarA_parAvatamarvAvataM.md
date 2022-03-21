@@ -2,7 +2,7 @@
 title = "Rig Veda 3.40.9"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -10,31 +10,31 @@ title = "Rig Veda 3.40.9"
 - \[adverb\]
 - “inside; meanwhile; occasionally.”
 ------------------------------------------------------------------------
-- *parāvatam* \< *parāvat*
+- *parāvatam* ← *parāvat*
 - \[noun\], accusative, singular, feminine
 - “distance; distance; distance.”
 ------------------------------------------------------------------------
-- *arvāvataṃ* \< *arvāvatam* \< *arvāvat*
+- *arvāvataṃ* ← *arvāvatam* ← *arvāvat*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *hūyase* \< *hvā*
+- *hūyase* ← *hvā*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *indreha* \< *indra*
+- *indreha* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indreha* \< *iha*
+- *indreha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *tata* \< *tatas*
+- *tata* ← *tatas*
 - \[adverb\]
 - “then; therefore; now; then; from there; subsequently; consequently;
     then; there; from that; for that reason; alternatively;
@@ -44,7 +44,7 @@ title = "Rig Veda 3.40.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gahi* \< *gam*
+- *gahi* ← *gam*
 - \[verb\], singular, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

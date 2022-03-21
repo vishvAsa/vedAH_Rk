@@ -6,11 +6,11 @@ title = "Rig Veda 8.32.8"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pitum* \< *pitu*
+- *pitum* ← *pitu*
 - \[noun\], accusative, singular, masculine
 - “food.”
 ------------------------------------------------------------------------
@@ -18,19 +18,19 @@ title = "Rig Veda 8.32.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *bhara* \< *bhṛ*
+- *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *saṃrarāṇo* \< *saṃrarāṇaḥ* \< *saṃrā* \< *√rā*
+- *saṃrarāṇo* ← *saṃrarāṇaḥ* ← *saṃrā* ← *√rā*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *avikṣitam* \< *a*
+- *avikṣitam* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *avikṣitam* \< *vikṣitam* \< *vikṣi* \< *√kṣi*
+- *avikṣitam* ← *vikṣitam* ← *vikṣi* ← *√kṣi*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
 - *maghavan*
@@ -41,7 +41,7 @@ title = "Rig Veda 8.32.8"
 - \[noun\], nominative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------

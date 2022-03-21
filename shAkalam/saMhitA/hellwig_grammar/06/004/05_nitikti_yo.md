@@ -5,23 +5,23 @@ title = "Rig Veda 6.4.5"
 -   *nitikti*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vāraṇam* \< *vāraṇa*
+- *vāraṇam* ← *vāraṇa*
 - \[noun\], accusative, singular, neuter
 - “removing; desert.”
 ------------------------------------------------------------------------
-- *annam* \< *anna*
+- *annam* ← *anna*
 - \[noun\], accusative, singular, neuter
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
 ------------------------------------------------------------------------
-- *atti* \< *ad*
+- *atti* ← *ad*
 - \[verb\], singular, Present indikative
 - “eat; devour.”
 ------------------------------------------------------------------------
-- *vāyur* \< *vāyuḥ* \< *vāyu*
+- *vāyur* ← *vāyuḥ* ← *vāyu*
 - \[noun\], nominative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
@@ -30,41 +30,41 @@ title = "Rig Veda 6.4.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *rāṣṭry* \< *rāṣṭrī* \< *rāṣṭrin*
+- *rāṣṭry* ← *rāṣṭrī* ← *rāṣṭrin*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *aty* \< *ati*
+- *aty* ← *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *ety* \< *eti* \< *i*
+- *ety* ← *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *aktūn* \< *aktu*
+- *aktūn* ← *aktu*
 - \[noun\], accusative, plural, masculine
 - “night; dark; beam.”
 ------------------------------------------------------------------------
-- *turyāma* \< *tur*
+- *turyāma* ← *tur*
 - \[verb\], plural, Present optative
 ------------------------------------------------------------------------
-- *yas* \< *yaḥ* \< *yad*
+- *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ādiśām* \< *ādiś*
+- *ādiśām* ← *ādiś*
 - \[noun\], genitive, plural, feminine
 - “admonition.”
 ------------------------------------------------------------------------
-- *arātīr* \< *arātīḥ* \< *arāti*
+- *arātīr* ← *arātīḥ* ← *arāti*
 - \[noun\], nominative, singular, masculine
 - “enemy; niggard.”
 ------------------------------------------------------------------------
-- *atyo* \< *atyaḥ* \< *atya*
+- *atyo* ← *atyaḥ* ← *atya*
 - \[noun\], nominative, singular, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------
@@ -72,10 +72,10 @@ title = "Rig Veda 6.4.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *hrutaḥ* \< *hrut*
+- *hrutaḥ* ← *hrut*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *patataḥ* \< *pat*
+- *patataḥ* ← *pat*
 - \[verb noun\], accusative, plural
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”

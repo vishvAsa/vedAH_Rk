@@ -6,7 +6,7 @@ title = "Rig Veda 6.49.12"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vīrāya* \< *vīra*
+- *vīrāya* ← *vīra*
 - \[noun\], dative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
@@ -14,52 +14,52 @@ title = "Rig Veda 6.49.12"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *tavase* \< *tavas*
+- *tavase* ← *tavas*
 - \[noun\], dative, singular, masculine
 - “strong; energetic.”
 ------------------------------------------------------------------------
-- *turāyājā* \< *turāya* \< *tura*
+- *turāyājā* ← *turāya* ← *tura*
 - \[noun\], dative, singular, masculine
 - “powerful; noble; noble.”
 ------------------------------------------------------------------------
-- *turāyājā* \< *ajā* \< *aj*
+- *turāyājā* ← *ajā* ← *aj*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “drive; expel.”
 ------------------------------------------------------------------------
-- *yūtheva* \< *yūthā* \< *yūtha*
+- *yūtheva* ← *yūthā* ← *yūtha*
 - \[noun\], accusative, plural, neuter
 - “herd; troop; battalion.”
 ------------------------------------------------------------------------
-- *yūtheva* \< *iva*
+- *yūtheva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *paśurakṣir* \< *paśurakṣiḥ* \< *paśurakṣi*
+- *paśurakṣir* ← *paśurakṣiḥ* ← *paśurakṣi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *astam* \< *asta*
+- *astam* ← *asta*
 - \[noun\], accusative, singular, neuter
 - “home.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *pispṛśati* \< *spṛś*
+- *pispṛśati* ← *spṛś*
 - \[verb\], singular, Aorist conj./subj.
 - “touch; enter (a state); reach; touch.”
 ------------------------------------------------------------------------
-- *tanvi* \< *tanū*
+- *tanvi* ← *tanū*
 - \[noun\], locative, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *śrutasya* \< *śru*
+- *śrutasya* ← *śru*
 - \[verb noun\], genitive, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *stṛbhir* \< *stṛbhiḥ* \< *star*
+- *stṛbhir* ← *stṛbhiḥ* ← *star*
 - \[noun\], instrumental, plural, masculine
 - “star.”
 ------------------------------------------------------------------------
@@ -67,15 +67,15 @@ title = "Rig Veda 6.49.12"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nākaṃ* \< *nākam* \< *nāka*
+- *nākaṃ* ← *nākam* ← *nāka*
 - \[noun\], accusative, singular, masculine
 - “sky; celestial sphere; Svarga; nāka \[word\].”
 ------------------------------------------------------------------------
-- *vacanasya* \< *vacana*
+- *vacanasya* ← *vacana*
 - \[noun\], genitive, singular, masculine
 - “expressive(p); eloquent.”
 ------------------------------------------------------------------------
-- *vipaḥ* \< *vip*
+- *vipaḥ* ← *vip*
 - \[noun\], genitive, singular, masculine
 - “priest.”
 ------------------------------------------------------------------------

@@ -2,11 +2,11 @@
 title = "Rig Veda 6.50.5"
 
 +++
--   *mimyakṣa* \< *myakṣ*
+-   *mimyakṣa* ← *myakṣ*
 - \[verb\], singular, Perfect indicative
 - “be situated; attach.”
 ------------------------------------------------------------------------
-- *yeṣu* \< *yad*
+- *yeṣu* ← *yad*
 - \[noun\], locative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -22,57 +22,57 @@ title = "Rig Veda 6.50.5"
 - \[noun\], nominative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *siṣakti* \< *sac*
+- *siṣakti* ← *sac*
 - \[verb\], singular, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *pūṣā* \< *pūṣan*
+- *pūṣā* ← *pūṣan*
 - \[noun\], nominative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *abhyardhayajvā* \< *abhyardha*
+- *abhyardhayajvā* ← *abhyardha*
 - \[noun\], masculine
 ------------------------------------------------------------------------
-- *abhyardhayajvā* \< *yajvā* \< *yajvan*
+- *abhyardhayajvā* ← *yajvā* ← *yajvan*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *śrutvā* \< *śru*
+- *śrutvā* ← *śru*
 - \[verb noun\]
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *havam* \< *hava*
+- *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *yaddha* \< *yat*
+- *yaddha* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yaddha* \< *ha*
+- *yaddha* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *yātha* \< *yā*
+- *yātha* ← *yā*
 - \[verb\], plural, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *bhūmā* \< *bhūmāḥ* \< *bhūma*
+- *bhūmā* ← *bhūmāḥ* ← *bhūma*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *rejante* \< *rej*
+- *rejante* ← *rej*
 - \[verb\], plural, Present indikative
 - “tremor; flicker.”
 ------------------------------------------------------------------------
-- *adhvani* \< *adhvan*
+- *adhvani* ← *adhvan*
 - \[noun\], locative, singular, masculine
 - “way; journey; adhvan \[word\]; time; path; method; road; time;
     distance.”
 ------------------------------------------------------------------------
-- *pravikte* \< *pravij* \< *√vij*
+- *pravikte* ← *pravij* ← *√vij*
 - \[verb noun\], locative, singular
 ------------------------------------------------------------------------

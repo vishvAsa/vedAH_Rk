@@ -6,30 +6,30 @@ title = "Rig Veda 7.56.3"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *svapūbhir* \< *svapūbhiḥ* \< *svapū*
+- *svapūbhir* ← *svapūbhiḥ* ← *svapū*
 - \[noun\], instrumental, plural, feminine
 ------------------------------------------------------------------------
-- *mitho* \< *mithas*
+- *mitho* ← *mithas*
 - \[adverb\]
 - “together; mutually; alternately.”
 ------------------------------------------------------------------------
-- *vapanta* \< *vap*
+- *vapanta* ← *vap*
 - \[verb\], plural, Present injunctive
 - “sow; bestrew; strew; scatter.”
 ------------------------------------------------------------------------
-- *vātasvanasaḥ* \< *vāta*
+- *vātasvanasaḥ* ← *vāta*
 - \[noun\], masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *vātasvanasaḥ* \< *svanasaḥ* \< *svanas*
+- *vātasvanasaḥ* ← *svanasaḥ* ← *svanas*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *śyenā* \< *śyenāḥ* \< *śyena*
+- *śyenā* ← *śyenāḥ* ← *śyena*
 - \[noun\], nominative, plural, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
 ------------------------------------------------------------------------
-- *aspṛdhran* \< *spṛdh*
+- *aspṛdhran* ← *spṛdh*
 - \[verb\], plural, Root aorist (Ind.)
 - “rival.”
 ------------------------------------------------------------------------

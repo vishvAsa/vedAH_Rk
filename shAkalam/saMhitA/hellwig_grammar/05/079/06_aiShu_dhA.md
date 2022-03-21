@@ -2,77 +2,77 @@
 title = "Rig Veda 5.79.6"
 
 +++
--   *aiṣu* \< *ā*
+-   *aiṣu* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *aiṣu* \< *eṣu* \< *idam*
+- *aiṣu* ← *eṣu* ← *idam*
 - \[noun\], locative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *dhā* \< *dhāḥ* \< *dhā*
+- *dhā* ← *dhāḥ* ← *dhā*
 - \[verb\], singular, Aorist conj./subj.
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *vīravad* \< *vīravat*
+- *vīravad* ← *vīravat*
 - \[noun\], accusative, singular, neuter
 - “rich in men.”
 ------------------------------------------------------------------------
-- *yaśa* \< *yaśaḥ* \< *yaśas*
+- *yaśa* ← *yaśaḥ* ← *yaśas*
 - \[noun\], accusative, singular, neuter
 - “fame; Yaśas.”
 ------------------------------------------------------------------------
-- *uṣo* \< *uṣaḥ* \< *uṣas*
+- *uṣo* ← *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *maghoni* \< *maghavan*
+- *maghoni* ← *maghavan*
 - \[noun\], vocative, singular, feminine
 - “big.”
 ------------------------------------------------------------------------
-- *sūriṣu* \< *sūri*
+- *sūriṣu* ← *sūri*
 - \[noun\], locative, plural, masculine
 - “patron.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rādhāṃsy* \< *rādhāṃsi* \< *rādhas*
+- *rādhāṃsy* ← *rādhāṃsi* ← *rādhas*
 - \[noun\], accusative, plural, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *ahrayā* \< *ahraya*
+- *ahrayā* ← *ahraya*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *maghavāno* \< *maghavānaḥ* \< *maghavan*
+- *maghavāno* ← *maghavānaḥ* ← *maghavan*
 - \[noun\], nominative, plural, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *arāsata* \< *rā*
+- *arāsata* ← *rā*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “give; impart.”
 ------------------------------------------------------------------------
-- *sujāte* \< *su*
+- *sujāte* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sujāte* \< *jāte* \< *jan*
+- *sujāte* ← *jāte* ← *jan*
 - \[verb noun\], vocative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *aśvasūnṛte* \< *aśva*
+- *aśvasūnṛte* ← *aśva*
 - \[noun\], masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *aśvasūnṛte* \< *sūnṛte* \< *sūnṛta*
+- *aśvasūnṛte* ← *sūnṛte* ← *sūnṛta*
 - \[noun\], vocative, singular, feminine
 - “big; friendly.”
 ------------------------------------------------------------------------

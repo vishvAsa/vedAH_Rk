@@ -2,7 +2,7 @@
 title = "Rig Veda 3.49.2"
 
 +++
--   *yaṃ* \< *yam* \< *yad*
+-   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -10,15 +10,15 @@ title = "Rig Veda 3.49.2"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *nakiḥ* \< *nakir*
+- *nakiḥ* ← *nakir*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *pṛtanāsu* \< *pṛtanā*
+- *pṛtanāsu* ← *pṛtanā*
 - \[noun\], locative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
 ------------------------------------------------------------------------
-- *svarājaṃ* \< *svarājam* \< *svarāj*
+- *svarājaṃ* ← *svarājam* ← *svarāj*
 - \[noun\], accusative, singular, masculine
 - “svarāj; Vishnu.”
 ------------------------------------------------------------------------
@@ -26,24 +26,24 @@ title = "Rig Veda 3.49.2"
 - \[adverb\]
 - “again.”
 ------------------------------------------------------------------------
-- *tarati* \< *tṛ*
+- *tarati* ← *tṛ*
 - \[verb\], singular, Present indikative
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *nṛtamaṃ* \< *nṛtamam* \< *nṛtama*
+- *nṛtamaṃ* ← *nṛtamam* ← *nṛtama*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *hariṣṭhām* \< *hariṣṭhā*
+- *hariṣṭhām* ← *hariṣṭhā*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *inatamaḥ* \< *inatama*
+- *inatamaḥ* ← *inatama*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *satvabhir* \< *satvabhiḥ* \< *satvan*
+- *satvabhir* ← *satvabhiḥ* ← *satvan*
 - \[noun\], instrumental, plural, masculine
 - “warrior.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -51,27 +51,27 @@ title = "Rig Veda 3.49.2"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *śūṣaiḥ* \< *śūṣa*
+- *śūṣaiḥ* ← *śūṣa*
 - \[noun\], instrumental, plural, masculine
 - “loud; brave.”
 ------------------------------------------------------------------------
-- *pṛthujrayā* \< *pṛthu*
+- *pṛthujrayā* ← *pṛthu*
 - \[noun\]
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
 ------------------------------------------------------------------------
-- *pṛthujrayā* \< *jrayāḥ* \< *jrayas*
+- *pṛthujrayā* ← *jrayāḥ* ← *jrayas*
 - \[noun\], nominative, singular, masculine
 - “expanse; area.”
 ------------------------------------------------------------------------
-- *aminād* \< *amināt* \< *mī*
+- *aminād* ← *amināt* ← *mī*
 - \[verb\], singular, Imperfect
 - “transgress; damage.”
 ------------------------------------------------------------------------
-- *āyur* \< *āyuḥ* \< *āyus*
+- *āyur* ← *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------
-- *dasyoḥ* \< *dasyu*
+- *dasyoḥ* ← *dasyu*
 - \[noun\], genitive, singular, masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------

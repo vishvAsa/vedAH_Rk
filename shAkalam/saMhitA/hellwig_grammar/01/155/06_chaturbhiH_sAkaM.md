@@ -2,15 +2,15 @@
 title = "Rig Veda 1.155.6"
 
 +++
--   *caturbhiḥ* \< *catur*
+-   *caturbhiḥ* ← *catur*
 - \[noun\], instrumental, plural, neuter
 - “four; catur \[word\].”
 ------------------------------------------------------------------------
-- *sākaṃ* \< *sākam*
+- *sākaṃ* ← *sākam*
 - \[adverb\]
 - “together; jointly; simultaneously.”
 ------------------------------------------------------------------------
-- *navatiṃ* \< *navatim* \< *navati*
+- *navatiṃ* ← *navatim* ← *navati*
 - \[noun\], accusative, singular, feminine
 - “ninety; navati \[word\].”
 ------------------------------------------------------------------------
@@ -18,12 +18,12 @@ title = "Rig Veda 1.155.6"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *nāmabhiś* \< *nāmabhiḥ* \< *nāman*
+- *nāmabhiś* ← *nāmabhiḥ* ← *nāman*
 - \[noun\], instrumental, plural, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
 ------------------------------------------------------------------------
-- *cakraṃ* \< *cakram* \< *cakra*
+- *cakraṃ* ← *cakram* ← *cakra*
 - \[noun\], nominative, singular, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
@@ -32,59 +32,59 @@ title = "Rig Veda 1.155.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vṛttaṃ* \< *vṛttam* \< *vṛt*
+- *vṛttaṃ* ← *vṛttam* ← *vṛt*
 - \[verb noun\], nominative, singular
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
 ------------------------------------------------------------------------
-- *vyatīṃr* \< *vyatīn* \< *vyati*
+- *vyatīṃr* ← *vyatīn* ← *vyati*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *avīvipat* \< *vip*
+- *avīvipat* ← *vip*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “tremble.”
 ------------------------------------------------------------------------
-- *bṛhaccharīro* \< *bṛhat*
+- *bṛhaccharīro* ← *bṛhat*
 - \[noun\]
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *bṛhaccharīro* \< *śarīraḥ* \< *śarīra*
+- *bṛhaccharīro* ← *śarīraḥ* ← *śarīra*
 - \[noun\], nominative, singular, masculine
 - “body; human body; body part; body; body; strength.”
 ------------------------------------------------------------------------
-- *vimimāna* \< *vimimānaḥ* \< *vimā* \< *√mā*
+- *vimimāna* ← *vimimānaḥ* ← *vimā* ← *√mā*
 - \[verb noun\], nominative, singular
 - “arrange; distribute; barter; measure; fixate.”
 ------------------------------------------------------------------------
-- *ṛkvabhir* \< *ṛkvabhiḥ* \< *ṛkvan*
+- *ṛkvabhir* ← *ṛkvabhiḥ* ← *ṛkvan*
 - \[noun\], instrumental, plural, masculine
 - “singing.”
 ------------------------------------------------------------------------
-- *yuvākumāraḥ* \< *yuvā* \< *yuvan*
+- *yuvākumāraḥ* ← *yuvā* ← *yuvan*
 - \[noun\], nominative, singular, masculine
 - “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
     buck; young.”
 ------------------------------------------------------------------------
-- *yuvākumāraḥ* \< *a*
+- *yuvākumāraḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *yuvākumāraḥ* \< *kumāraḥ* \< *kumāra*
+- *yuvākumāraḥ* ← *kumāraḥ* ← *kumāra*
 - \[noun\], nominative, singular, masculine
 - “prince; male child; child; Skanda; son; kumārabandha; kumāra
     \[word\]; young person.”
 ------------------------------------------------------------------------
-- *praty* \< *prati*
+- *praty* ← *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *ety* \< *eti* \< *i*
+- *ety* ← *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *āhavam* \< *āhava*
+- *āhavam* ← *āhava*
 - \[noun\], accusative, singular, masculine
 - “battle; fight; challenge; war.”
 ------------------------------------------------------------------------

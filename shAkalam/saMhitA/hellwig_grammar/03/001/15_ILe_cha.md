@@ -2,7 +2,7 @@
 title = "Rig Veda 3.1.15"
 
 +++
--   *īḍe* \< *īḍ*
+-   *īḍe* ← *īḍ*
 - \[verb\], singular, Present indikative
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
@@ -10,59 +10,59 @@ title = "Rig Veda 3.1.15"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
 ------------------------------------------------------------------------
-- *yajamāno* \< *yajamānaḥ* \< *yaj*
+- *yajamāno* ← *yajamānaḥ* ← *yaj*
 - \[verb noun\], nominative, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *havirbhir* \< *havirbhiḥ* \< *havis*
+- *havirbhir* ← *havirbhiḥ* ← *havis*
 - \[noun\], instrumental, plural, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *īḍe* \< *īḍ*
+- *īḍe* ← *īḍ*
 - \[verb\], singular, Present indikative
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
-- *sakhitvaṃ* \< *sakhi* \< *sakhī*
+- *sakhitvaṃ* ← *sakhi* ← *sakhī*
 - \[noun\], feminine
 - “confidante; sakhī \[word\]; friend.”
 ------------------------------------------------------------------------
-- *sakhitvaṃ* \< *tvam* \< *tva*
+- *sakhitvaṃ* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *sumatiṃ* \< *sumatim* \< *sumati*
+- *sumatiṃ* ← *sumatim* ← *sumati*
 - \[noun\], accusative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *nikāmaḥ* \< *nikāma*
+- *nikāmaḥ* ← *nikāma*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *devair* \< *devaiḥ* \< *deva*
+- *devair* ← *devaiḥ* ← *deva*
 - \[noun\], instrumental, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *avo* \< *avaḥ* \< *avas*
+- *avo* ← *avaḥ* ← *avas*
 - \[noun\], accusative, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *mimīhi* \< *mā*
+- *mimīhi* ← *mā*
 - \[verb\], singular, Present imperative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *jaritre* \< *jaritṛ*
+- *jaritre* ← *jaritṛ*
 - \[noun\], dative, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *rakṣā* \< *rakṣ*
+- *rakṣā* ← *rakṣ*
 - \[verb\], singular, Present imperative
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------
@@ -70,15 +70,15 @@ title = "Rig Veda 3.1.15"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *damyebhir* \< *damyebhiḥ* \< *damya*
+- *damyebhir* ← *damyebhiḥ* ← *damya*
 - \[noun\], instrumental, plural, neuter
 - “household.”
 ------------------------------------------------------------------------
-- *anīkaiḥ* \< *anīka*
+- *anīkaiḥ* ← *anīka*
 - \[noun\], instrumental, plural, neuter
 - “army; face; battalion; battlefront; point; appearance.”
 ------------------------------------------------------------------------

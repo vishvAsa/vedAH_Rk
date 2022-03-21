@@ -2,46 +2,46 @@
 title = "Rig Veda 9.66.17"
 
 +++
--   *ya* \< *yaḥ* \< *yad*
+-   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ugrebhyaś* \< *ugrebhyaḥ* \< *ugra*
+- *ugrebhyaś* ← *ugrebhyaḥ* ← *ugra*
 - \[noun\], ablative, plural, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ojīyāñchūrebhyaś* \< *ojīyān* \< *ojīyas*
+- *ojīyāñchūrebhyaś* ← *ojīyān* ← *ojīyas*
 - \[noun\], nominative, singular, masculine
 - “stronger.”
 ------------------------------------------------------------------------
-- *ojīyāñchūrebhyaś* \< *śūrebhyaḥ* \< *śūra*
+- *ojīyāñchūrebhyaś* ← *śūrebhyaḥ* ← *śūra*
 - \[noun\], ablative, plural, masculine
 - “brave; powerful.”
 ------------------------------------------------------------------------
-- *cicchūrataraḥ* \< *cit*
+- *cicchūrataraḥ* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *cicchūrataraḥ* \< *śūrataraḥ* \< *śūratara*
+- *cicchūrataraḥ* ← *śūrataraḥ* ← *śūratara*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *bhūridābhyaś* \< *bhūri*
+- *bhūridābhyaś* ← *bhūri*
 - \[noun\]
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *bhūridābhyaś* \< *dābhyaḥ* \< *dā*
+- *bhūridābhyaś* ← *dābhyaḥ* ← *dā*
 - \[noun\], ablative, plural, masculine
 - “giving.”
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *maṃhīyān* \< *maṃhīyas*
+- *maṃhīyān* ← *maṃhīyas*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

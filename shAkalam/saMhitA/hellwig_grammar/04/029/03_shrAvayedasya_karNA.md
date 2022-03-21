@@ -2,23 +2,23 @@
 title = "Rig Veda 4.29.3"
 
 +++
--   *śrāvayed* \< *śrāvayet* \< *śrāvay* \< *√śru*
+-   *śrāvayed* ← *śrāvayet* ← *śrāvay* ← *√śru*
 - \[verb\], singular, Present optative
 - “tell.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *karṇā* \< *karṇa*
+- *karṇā* ← *karṇa*
 - \[noun\], accusative, dual, masculine
 - “ear; Karṇa; karṇa \[word\]; auricle; fluke; diameter; lobule.”
 ------------------------------------------------------------------------
-- *vājayadhyai* \< *vājay* \< *√vaj*
+- *vājayadhyai* ← *vājay* ← *√vaj*
 - \[verb noun\]
 - “incite.”
 ------------------------------------------------------------------------
-- *juṣṭām* \< *juṣ*
+- *juṣṭām* ← *juṣ*
 - \[verb noun\], accusative, singular
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
@@ -31,26 +31,26 @@ title = "Rig Veda 4.29.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *diśam* \< *diś*
+- *diśam* ← *diś*
 - \[noun\], accusative, singular, feminine
 - “quarter; direction; region; diś \[word\]; Aṣṭādhyāyī, 5.3.27;
     distant region; Diś; four; example; method; space.”
 ------------------------------------------------------------------------
-- *mandayadhyai* \< *manday* \< *√mad*
+- *mandayadhyai* ← *manday* ← *√mad*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *udvāvṛṣāṇo* \< *udvāvṛṣāṇaḥ* \< *udvṛṣ* \< *√vṛṣ*
+- *udvāvṛṣāṇo* ← *udvāvṛṣāṇaḥ* ← *udvṛṣ* ← *√vṛṣ*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *rādhase* \< *rādhas*
+- *rādhase* ← *rādhas*
 - \[noun\], dative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *tuviṣmān* \< *tuviṣmat*
+- *tuviṣmān* ← *tuviṣmat*
 - \[noun\], nominative, singular, masculine
 - “powerful.”
 ------------------------------------------------------------------------
-- *karan* \< *karat* \< *kṛ*
+- *karan* ← *karat* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -61,25 +61,25 @@ title = "Rig Veda 4.29.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sutīrthābhayaṃ* \< *su*
+- *sutīrthābhayaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sutīrthābhayaṃ* \< *tīrthā* \< *tīrtha*
+- *sutīrthābhayaṃ* ← *tīrthā* ← *tīrtha*
 - \[noun\], accusative, plural, neuter
 - “Tīrtha; ford; tīrtha \[word\]; guru; administrator; fingertip;
     landing.”
 ------------------------------------------------------------------------
-- *sutīrthābhayaṃ* \< *abhayam* \< *abhaya*
+- *sutīrthābhayaṃ* ← *abhayam* ← *abhaya*
 - \[noun\], accusative, singular, neuter
 - “security; abhayamudrā; Abhaya.”
 ------------------------------------------------------------------------

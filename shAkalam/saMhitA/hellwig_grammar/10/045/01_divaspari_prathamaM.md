@@ -2,7 +2,7 @@
 title = "Rig Veda 10.45.1"
 
 +++
--   *divas* \< *divaḥ* \< *div*
+-   *divas* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -10,23 +10,23 @@ title = "Rig Veda 10.45.1"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *prathamaṃ* \< *prathamam*
+- *prathamaṃ* ← *prathamam*
 - \[adverb\]
 - “first.”
 ------------------------------------------------------------------------
-- *jajñe* \< *jan*
+- *jajñe* ← *jan*
 - \[verb\], singular, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *agnir* \< *agniḥ* \< *agni*
+- *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *asmad* \< *asmat* \< *mad*
+- *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -37,37 +37,37 @@ title = "Rig Veda 10.45.1"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *jātavedāḥ* \< *jātavedas*
+- *jātavedāḥ* ← *jātavedas*
 - \[noun\], nominative, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------
 - *tṛtīyam*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *apsu* \< *ap*
+- *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *nṛmaṇā* \< *nṛmaṇāḥ* \< *nṛmaṇas*
+- *nṛmaṇā* ← *nṛmaṇāḥ* ← *nṛmaṇas*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *ajasram*
 - \[adverb\]
 - “constantly; always.”
 ------------------------------------------------------------------------
-- *indhāna* \< *indhānaḥ* \< *indh*
+- *indhāna* ← *indhānaḥ* ← *indh*
 - \[verb noun\], nominative, singular
 - “kindle; ignite; set ablaze.”
 ------------------------------------------------------------------------
-- *enaṃ* \< *enam* \< *enad*
+- *enaṃ* ← *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
-- *jarate* \< *jṛ*
+- *jarate* ← *jṛ*
 - \[verb\], singular, Present indikative
 - “sing.”
 ------------------------------------------------------------------------
-- *svādhīḥ* \< *svādhī*
+- *svādhīḥ* ← *svādhī*
 - \[noun\], nominative, singular, masculine
 - “devout; heedful; prudent.”
 ------------------------------------------------------------------------

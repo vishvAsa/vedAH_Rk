@@ -2,7 +2,7 @@
 title = "Rig Veda 1.101.8"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -10,40 +10,40 @@ title = "Rig Veda 1.101.8"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *marutvaḥ* \< *marutvas* \< *marutvat*
+- *marutvaḥ* ← *marutvas* ← *marutvat*
 - \[noun\], vocative, singular, masculine
 - “Marut(a).”
 ------------------------------------------------------------------------
-- *parame* \< *parama*
+- *parame* ← *parama*
 - \[noun\], locative, singular, neuter
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”
 ------------------------------------------------------------------------
-- *sadhasthe* \< *sadhastha*
+- *sadhasthe* ← *sadhastha*
 - \[noun\], locative, singular, neuter
 - “dwelling; location; home.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vāvame* \< *vā*
+- *vāvame* ← *vā*
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *vāvame* \< *avame* \< *avama*
+- *vāvame* ← *avame* ← *avama*
 - \[noun\], locative, singular, neuter
 - “avama \[word\]; bottom; last.”
 ------------------------------------------------------------------------
-- *vṛjane* \< *vṛjana*
+- *vṛjane* ← *vṛjana*
 - \[noun\], locative, singular, neuter
 - “community; settlement.”
 ------------------------------------------------------------------------
-- *mādayāse* \< *māday* \< *√mad*
+- *mādayāse* ← *māday* ← *√mad*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “delight; enjoy; intoxicate.”
 ------------------------------------------------------------------------
-- *ata* \< *atas*
+- *ata* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
@@ -52,16 +52,16 @@ title = "Rig Veda 1.101.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yāhy* \< *yāhi* \< *yā*
+- *yāhy* ← *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *adhvaraṃ* \< *adhvaram* \< *adhvara*
+- *adhvaraṃ* ← *adhvaram* ← *adhvara*
 - \[noun\], accusative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -72,11 +72,11 @@ title = "Rig Veda 1.101.8"
 - *tvāyā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *haviś* \< *haviḥ* \< *havis*
+- *haviś* ← *haviḥ* ← *havis*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *cakṛmā* \< *cakṛma* \< *kṛ*
+- *cakṛmā* ← *cakṛma* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -87,11 +87,11 @@ title = "Rig Veda 1.101.8"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *satyarādhaḥ* \< *satya*
+- *satyarādhaḥ* ← *satya*
 - \[noun\]
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *satyarādhaḥ* \< *rādhaḥ* \< *rādhas*
+- *satyarādhaḥ* ← *rādhaḥ* ← *rādhas*
 - \[noun\], vocative, singular, masculine
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------

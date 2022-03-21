@@ -10,7 +10,7 @@ title = "Rig Veda 9.104.2"
 - \[adverb\]
 - “īkāra.”
 ------------------------------------------------------------------------
-- *vatsaṃ* \< *vatsam* \< *vatsa*
+- *vatsaṃ* ← *vatsam* ← *vatsa*
 - \[noun\], accusative, singular, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
@@ -19,28 +19,28 @@ title = "Rig Veda 9.104.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *mātṛbhiḥ* \< *mātṛ*
+- *mātṛbhiḥ* ← *mātṛ*
 - \[noun\], instrumental, plural, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *sṛjatā* \< *sṛjata* \< *sṛj*
+- *sṛjatā* ← *sṛjata* ← *sṛj*
 - \[verb\], plural, Present imperative
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *gayasādhanam* \< *gaya*
+- *gayasādhanam* ← *gaya*
 - \[noun\], masculine
 - “house; Gaya; family; Gaya; property; Gaya; wealth; livestock.”
 ------------------------------------------------------------------------
-- *gayasādhanam* \< *sādhanam* \< *sādhana*
+- *gayasādhanam* ← *sādhanam* ← *sādhana*
 - \[noun\], accusative, singular, masculine
 - “effective; performing.”
 ------------------------------------------------------------------------
-- *devāvyam* \< *devāvī*
+- *devāvyam* ← *devāvī*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *madam* \< *mada*
+- *madam* ← *mada*
 - \[noun\], accusative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
@@ -50,11 +50,11 @@ title = "Rig Veda 9.104.2"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *dviśavasam* \< *dvi*
+- *dviśavasam* ← *dvi*
 - \[noun\]
 - “two; dvi \[word\]; second.”
 ------------------------------------------------------------------------
-- *dviśavasam* \< *śavasam* \< *śavas*
+- *dviśavasam* ← *śavasam* ← *śavas*
 - \[noun\], accusative, singular, masculine
 - “strength; power; superiority.”
 ------------------------------------------------------------------------

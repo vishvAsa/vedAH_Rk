@@ -6,15 +6,15 @@ title = "Rig Veda 8.4.3"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *gauro* \< *gauraḥ* \< *gaura*
+- *gauro* ← *gauraḥ* ← *gaura*
 - \[noun\], nominative, singular, masculine
 - “Gaura; Gaura; downy grislee; Gaura.”
 ------------------------------------------------------------------------
-- *apā* \< *ap*
+- *apā* ← *ap*
 - \[noun\], instrumental, singular, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *kṛtaṃ* \< *kṛtam* \< *kṛ*
+- *kṛtaṃ* ← *kṛtam* ← *kṛ*
 - \[verb noun\], vocative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -25,34 +25,34 @@ title = "Rig Veda 8.4.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *tṛṣyann* \< *tṛṣyan* \< *tṛṣ*
+- *tṛṣyann* ← *tṛṣyan* ← *tṛṣ*
 - \[verb noun\], nominative, singular
 - “thirst.”
 ------------------------------------------------------------------------
-- *ety* \< *eti* \< *i*
+- *ety* ← *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *averiṇam* \< *ava*
+- *averiṇam* ← *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *averiṇam* \< *iriṇam* \< *iriṇa*
+- *averiṇam* ← *iriṇam* ← *iriṇa*
 - \[noun\], accusative, singular, neuter
 - “hole; rivulet.”
 ------------------------------------------------------------------------
-- *āpitve* \< *āpitva*
+- *āpitve* ← *āpitva*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *prapitve* \< *prapitva*
+- *prapitve* ← *prapitva*
 - \[noun\], locative, singular, neuter
 - “beginning.”
 ------------------------------------------------------------------------
-- *tūyam* \< *tūya*
+- *tūyam* ← *tūya*
 - \[noun\], accusative, singular, neuter
 - “quick; fast; potent.”
 ------------------------------------------------------------------------
@@ -60,14 +60,14 @@ title = "Rig Veda 8.4.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gahi* \< *gam*
+- *gahi* ← *gam*
 - \[verb\], singular, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *kaṇveṣu* \< *kaṇva*
+- *kaṇveṣu* ← *kaṇva*
 - \[noun\], locative, plural, masculine
 - “Kaṇva; Kaṇva; kaṇva \[word\].”
 ------------------------------------------------------------------------
@@ -79,7 +79,7 @@ title = "Rig Veda 8.4.3"
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *piba* \< *pā*
+- *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------

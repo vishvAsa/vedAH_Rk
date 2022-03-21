@@ -6,22 +6,22 @@ title = "Rig Veda 6.48.17"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *kākambīram* \< *kākambīra*
+- *kākambīram* ← *kākambīra*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *vṛho* \< *vṛhaḥ* \< *vṛh*
+- *vṛho* ← *vṛhaḥ* ← *vṛh*
 - \[verb\], singular, Present injunctive
 - “extract.”
 ------------------------------------------------------------------------
-- *vanaspatim* \< *vanaspati*
+- *vanaspatim* ← *vanaspati*
 - \[noun\], accusative, singular, masculine
 - “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
 ------------------------------------------------------------------------
-- *aśastīr* \< *aśastīḥ* \< *aśasti*
+- *aśastīr* ← *aśastīḥ* ← *aśasti*
 - \[noun\], accusative, plural, feminine
 - “hex.”
 ------------------------------------------------------------------------
@@ -33,19 +33,19 @@ title = "Rig Veda 6.48.17"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *nīnaśaḥ* \< *naś*
+- *nīnaśaḥ* ← *naś*
 - \[verb\], singular, Aorist inj. (proh.)
 - “disappear; vanish; gasify; fail; perish; lose; bhasmībhū.”
 ------------------------------------------------------------------------
-- *mota* \< *mā*
+- *mota* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *mota* \< *uta*
+- *mota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *sūro* \< *sūraḥ* \< *svar*
+- *sūro* ← *sūraḥ* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
@@ -53,7 +53,7 @@ title = "Rig Veda 6.48.17"
 - \[adverb\]
 - “aha \[word\]; indeed.”
 ------------------------------------------------------------------------
-- *evā* \< *eva*
+- *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
@@ -62,15 +62,15 @@ title = "Rig Veda 6.48.17"
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *grīvā* \< *grīvāḥ* \< *grīvā*
+- *grīvā* ← *grīvāḥ* ← *grīvā*
 - \[noun\], accusative, plural, feminine
 - “neck; grīvā \[word\].”
 ------------------------------------------------------------------------
-- *ādadhate* \< *ādhā* \< *√dhā*
+- *ādadhate* ← *ādhā* ← *√dhā*
 - \[verb noun\], dative, singular
 - “put; conceive; ignite; keep; effect; fuel; lend; cover; direct.”
 ------------------------------------------------------------------------
-- *veḥ* \< *vi*
+- *veḥ* ← *vi*
 - \[noun\], genitive, singular, masculine
 - “vi; bird; vi.”
 ------------------------------------------------------------------------

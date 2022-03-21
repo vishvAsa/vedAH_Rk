@@ -2,29 +2,29 @@
 title = "Rig Veda 5.64.7"
 
 +++
--   *ucchantyām* \< *vas*
+-   *ucchantyām* ← *vas*
 - \[verb noun\], locative, singular
 - “dawn; shine.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *yajatā* \< *yajata*
+- *yajatā* ← *yajata*
 - \[noun\], nominative, dual, masculine
 - “holy; august; sacrificial.”
 ------------------------------------------------------------------------
-- *devakṣatre* \< *devakṣatra*
+- *devakṣatre* ← *devakṣatra*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *ruśadgavi* \< *ruśadgu*
+- *ruśadgavi* ← *ruśadgu*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *sutaṃ* \< *sutam* \< *su*
+- *sutaṃ* ← *sutam* ← *su*
 - \[verb noun\], accusative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *somaṃ* \< *somam* \< *soma*
+- *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -32,7 +32,7 @@ title = "Rig Veda 5.64.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *hastibhir* \< *hastibhiḥ* \< *hastin*
+- *hastibhir* ← *hastibhiḥ* ← *hastin*
 - \[noun\], instrumental, plural, masculine
 - “elephant; hastin \[word\]; Hastin; hastimeha.”
 ------------------------------------------------------------------------
@@ -40,23 +40,23 @@ title = "Rig Veda 5.64.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *paḍbhir* \< *paḍbhiḥ* \< *pad*
+- *paḍbhir* ← *paḍbhiḥ* ← *pad*
 - \[noun\], instrumental, plural
 - “foot; pad \[word\].”
 ------------------------------------------------------------------------
-- *dhāvataṃ* \< *dhāvatam* \< *dhāv*
+- *dhāvataṃ* ← *dhāvatam* ← *dhāv*
 - \[verb\], dual, Present imperative
 - “run; run; wash.”
 ------------------------------------------------------------------------
-- *narā* \< *nṛ*
+- *narā* ← *nṛ*
 - \[noun\], nominative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *bibhratāv* \< *bibhratau* \< *bhṛ*
+- *bibhratāv* ← *bibhratau* ← *bhṛ*
 - \[verb noun\], nominative, dual
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *arcanānasam* \< *arcanānas*
+- *arcanānasam* ← *arcanānas*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------

@@ -2,72 +2,72 @@
 title = "Rig Veda 6.69.6"
 
 +++
--   *indrāviṣṇū* \< *indrāviṣṇu*
+-   *indrāviṣṇū* ← *indrāviṣṇu*
 - \[noun\], vocative, dual, masculine
 ------------------------------------------------------------------------
-- *haviṣā* \< *havis*
+- *haviṣā* ← *havis*
 - \[noun\], instrumental, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *vāvṛdhānāgrādvānā* \< *vāvṛdhānā* \< *vṛdh*
+- *vāvṛdhānāgrādvānā* ← *vāvṛdhānā* ← *vṛdh*
 - \[verb noun\], nominative, dual
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *vāvṛdhānāgrādvānā* \< *agrādvānā* \< *agrādvan*
+- *vāvṛdhānāgrādvānā* ← *agrādvānā* ← *agrādvan*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *namasā* \< *namas*
+- *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *rātahavyā* \< *rāta* \< *rā*
+- *rātahavyā* ← *rāta* ← *rā*
 - \[verb noun\]
 - “give; impart.”
 ------------------------------------------------------------------------
-- *rātahavyā* \< *havyā* \< *havya*
+- *rātahavyā* ← *havyā* ← *havya*
 - \[noun\], nominative, dual, masculine
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *ghṛtāsutī* \< *ghṛta*
+- *ghṛtāsutī* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *ghṛtāsutī* \< *āsutī* \< *āsuti*
+- *ghṛtāsutī* ← *āsutī* ← *āsuti*
 - \[noun\], nominative, dual, masculine
 - “āsuti \[word\].”
 ------------------------------------------------------------------------
-- *draviṇaṃ* \< *draviṇam* \< *draviṇa*
+- *draviṇaṃ* ← *draviṇam* ← *draviṇa*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; money; jewel.”
 ------------------------------------------------------------------------
-- *dhattam* \< *dhā*
+- *dhattam* ← *dhā*
 - \[verb\], dual, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *samudra* \< *samudraḥ* \< *samudra*
+- *samudra* ← *samudraḥ* ← *samudra*
 - \[noun\], nominative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *sthaḥ* \< *as*
+- *sthaḥ* ← *as*
 - \[verb\], dual, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *kalaśaḥ* \< *kalaśa*
+- *kalaśaḥ* ← *kalaśa*
 - \[noun\], nominative, singular, masculine
 - “jar.”
 ------------------------------------------------------------------------
-- *somadhānaḥ* \< *soma*
+- *somadhānaḥ* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somadhānaḥ* \< *dhānaḥ* \< *dhāna*
+- *somadhānaḥ* ← *dhānaḥ* ← *dhāna*
 - \[noun\], nominative, singular, masculine
 - “containing.”
 ------------------------------------------------------------------------

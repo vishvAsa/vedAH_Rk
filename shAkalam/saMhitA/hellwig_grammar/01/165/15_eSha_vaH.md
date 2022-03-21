@@ -2,78 +2,78 @@
 title = "Rig Veda 1.165.15"
 
 +++
--   *eṣa* \< *etad*
+-   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *stomo* \< *stomaḥ* \< *stoma*
+- *stomo* ← *stomaḥ* ← *stoma*
 - \[noun\], nominative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *maruta* \< *marutaḥ* \< *marut*
+- *maruta* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *iyaṃ* \< *iyam* \< *idam*
+- *iyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *gīr* \< *gīḥ* \< *gir*
+- *gīr* ← *gīḥ* ← *gir*
 - \[noun\], nominative, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *māndāryasya* \< *māndārya*
+- *māndāryasya* ← *māndārya*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *mānyasya* \< *mānya*
+- *mānyasya* ← *mānya*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *kāroḥ* \< *kāru*
+- *kāroḥ* ← *kāru*
 - \[noun\], genitive, singular, masculine
 - “poet; singer.”
 ------------------------------------------------------------------------
-- *eṣā* \< *ā*
+- *eṣā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *eṣā* \< *iṣā* \< *iṣ*
+- *eṣā* ← *iṣā* ← *iṣ*
 - \[noun\], instrumental, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *yāsīṣṭa* \< *\_* \< *√\_*
+- *yāsīṣṭa* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *tanve* \< *tanū*
+- *tanve* ← *tanū*
 - \[noun\], dative, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *vayāṃ* \< *vayām* \< *vayā*
+- *vayāṃ* ← *vayām* ← *vayā*
 - \[noun\], accusative, singular, feminine
 - “branch; branchlet.”
 ------------------------------------------------------------------------
-- *vidyāmeṣaṃ* \< *vidyāma* \< *vid*
+- *vidyāmeṣaṃ* ← *vidyāma* ← *vid*
 - \[verb\], plural, Present optative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *vidyāmeṣaṃ* \< *iṣam* \< *iṣa*
+- *vidyāmeṣaṃ* ← *iṣam* ← *iṣa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *vṛjanaṃ* \< *vṛjanam* \< *vṛjana*
+- *vṛjanaṃ* ← *vṛjanam* ← *vṛjana*
 - \[noun\], accusative, singular, neuter
 - “community; settlement.”
 ------------------------------------------------------------------------
-- *jīradānum* \< *jīra*
+- *jīradānum* ← *jīra*
 - \[noun\]
 - “agile; quick; fast.”
 ------------------------------------------------------------------------
-- *jīradānum* \< *dānum* \< *dānu*
+- *jīradānum* ← *dānum* ← *dānu*
 - \[noun\], accusative, singular, masculine
 - “Dānu; dew; drop.”
 ------------------------------------------------------------------------

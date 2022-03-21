@@ -2,25 +2,25 @@
 title = "Rig Veda 7.99.5"
 
 +++
--   *indrāviṣṇū* \< *indrāviṣṇu*
+-   *indrāviṣṇū* ← *indrāviṣṇu*
 - \[noun\], vocative, dual, masculine
 ------------------------------------------------------------------------
-- *dṛṃhitāḥ* \< *dṛṃhay* \< *√dṛh*
+- *dṛṃhitāḥ* ← *dṛṃhay* ← *√dṛh*
 - \[verb noun\], accusative, plural
 ------------------------------------------------------------------------
-- *śambarasya* \< *śambara*
+- *śambarasya* ← *śambara*
 - \[noun\], genitive, singular, masculine
 - “Śambara; Śambara.”
 ------------------------------------------------------------------------
-- *nava* \< *navan*
+- *nava* ← *navan*
 - \[noun\], accusative, singular, neuter
 - “nine.”
 ------------------------------------------------------------------------
-- *puro* \< *puraḥ* \< *pur*
+- *puro* ← *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
-- *navatiṃ* \< *navatim* \< *navati*
+- *navatiṃ* ← *navatim* ← *navati*
 - \[noun\], accusative, singular, feminine
 - “ninety; navati \[word\].”
 ------------------------------------------------------------------------
@@ -28,18 +28,18 @@ title = "Rig Veda 7.99.5"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *śnathiṣṭam* \< *śnath*
+- *śnathiṣṭam* ← *śnath*
 - \[verb\], dual, Aorist imperative
 - “pierce; kill.”
 ------------------------------------------------------------------------
-- *śataṃ* \< *śatam* \< *śata*
+- *śataṃ* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *varcinaḥ* \< *varcin*
+- *varcinaḥ* ← *varcin*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *sahasraṃ* \< *sahasram* \< *sahasra*
+- *sahasraṃ* ← *sahasram* ← *sahasra*
 - \[noun\], accusative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
@@ -47,25 +47,25 @@ title = "Rig Veda 7.99.5"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *sākaṃ* \< *sākam*
+- *sākaṃ* ← *sākam*
 - \[adverb\]
 - “together; jointly; simultaneously.”
 ------------------------------------------------------------------------
-- *hatho* \< *hathaḥ* \< *han*
+- *hatho* ← *hathaḥ* ← *han*
 - \[verb\], dual, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *apraty* \< *aprati*
+- *apraty* ← *aprati*
 - \[noun\], accusative, singular, neuter
 - “irresistible.”
 ------------------------------------------------------------------------
-- *asurasya* \< *asura*
+- *asurasya* ← *asura*
 - \[noun\], genitive, singular, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
 ------------------------------------------------------------------------
-- *vīrān* \< *vīra*
+- *vīrān* ← *vīra*
 - \[noun\], accusative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------

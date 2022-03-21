@@ -2,74 +2,74 @@
 title = "Rig Veda 1.124.7"
 
 +++
--   *abhrāteva* \< *abhrātā* \< *abhrātṛ*
+-   *abhrāteva* ← *abhrātā* ← *abhrātṛ*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *abhrāteva* \< *iva*
+- *abhrāteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *puṃsa* \< *puṃsaḥ* \< *puṃs*
+- *puṃsa* ← *puṃsaḥ* ← *puṃs*
 - \[noun\], accusative, plural, masculine
 - “man; masculine; man; puṃvajra; puruṣa; son; puṃs \[word\].”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *pratīcī* \< *pratyañc*
+- *pratīcī* ← *pratyañc*
 - \[noun\], nominative, singular, feminine
 - “western; facing; westbound; backward; pratyañc \[word\]; inverted.”
 ------------------------------------------------------------------------
-- *gartārug* \< *gartāruh*
+- *gartārug* ← *gartāruh*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sanaye* \< *sani*
+- *sanaye* ← *sani*
 - \[noun\], dative, singular, feminine
 - “gain.”
 ------------------------------------------------------------------------
-- *dhanānām* \< *dhana*
+- *dhanānām* ← *dhana*
 - \[noun\], genitive, plural, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
 ------------------------------------------------------------------------
-- *jāyeva* \< *jāyā*
+- *jāyeva* ← *jāyā*
 - \[noun\], nominative, singular, feminine
 - “wife; jāyā \[word\].”
 ------------------------------------------------------------------------
-- *jāyeva* \< *iva*
+- *jāyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *patya* \< *patye* \< *pati*
+- *patya* ← *patye* ← *pati*
 - \[noun\], dative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *uśatī* \< *vaś*
+- *uśatī* ← *vaś*
 - \[verb noun\], nominative, singular
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *suvāsā* \< *su*
+- *suvāsā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvāsā* \< *vāsāḥ* \< *vāsas*
+- *suvāsā* ← *vāsāḥ* ← *vāsas*
 - \[noun\], nominative, singular, feminine
 - “clothing; fabric; garment; feather; dress; envelope.”
 ------------------------------------------------------------------------
-- *uṣā* \< *uṣāḥ* \< *uṣas*
+- *uṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *hasreva* \< *hasrā* \< *hasra*
+- *hasreva* ← *hasrā* ← *hasra*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *hasreva* \< *iva*
+- *hasreva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
@@ -77,10 +77,10 @@ title = "Rig Veda 1.124.7"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *riṇīte* \< *ri*
+- *riṇīte* ← *ri*
 - \[verb\], singular, Present indikative
 - “free; liberate; run; let go of.”
 ------------------------------------------------------------------------
-- *apsaḥ* \< *apsas*
+- *apsaḥ* ← *apsas*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------

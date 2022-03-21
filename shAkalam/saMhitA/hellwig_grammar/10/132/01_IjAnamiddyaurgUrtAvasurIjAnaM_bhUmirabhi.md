@@ -2,7 +2,7 @@
 title = "Rig Veda 10.132.1"
 
 +++
--   *ījānam* \< *yaj*
+-   *ījānam* ← *yaj*
 - \[verb noun\], accusative, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
@@ -10,18 +10,18 @@ title = "Rig Veda 10.132.1"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *dyaur* \< *dyauḥ* \< *div*
+- *dyaur* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *gūrtāvasur* \< *gūrtāvasuḥ* \< *gūrtāvasu*
+- *gūrtāvasur* ← *gūrtāvasuḥ* ← *gūrtāvasu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *ījānam* \< *yaj*
+- *ījānam* ← *yaj*
 - \[verb noun\], accusative, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *bhūmir* \< *bhūmiḥ* \< *bhūmi*
+- *bhūmir* ← *bhūmiḥ* ← *bhūmi*
 - \[noun\], nominative, singular, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
     Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
@@ -31,20 +31,20 @@ title = "Rig Veda 10.132.1"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *prabhūṣaṇi* \< *prabhū* \< *√bhū*
+- *prabhūṣaṇi* ← *prabhū* ← *√bhū*
 - \[verb noun\]
 - “arise; issue; can; happen; suffice; originate; succeed.”
 ------------------------------------------------------------------------
-- *ījānaṃ* \< *ījānam* \< *yaj*
+- *ījānaṃ* ← *ījānam* ← *yaj*
 - \[verb noun\], accusative, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *devāv* \< *devau* \< *deva*
+- *devāv* ← *devau* ← *deva*
 - \[noun\], nominative, dual, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *aśvināv* \< *aśvinau* \< *aśvin*
+- *aśvināv* ← *aśvinau* ← *aśvin*
 - \[noun\], nominative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
@@ -52,11 +52,11 @@ title = "Rig Veda 10.132.1"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *sumnair* \< *sumnaiḥ* \< *sumna*
+- *sumnair* ← *sumnaiḥ* ← *sumna*
 - \[noun\], instrumental, plural, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
-- *avardhatām* \< *vṛdh*
+- *avardhatām* ← *vṛdh*
 - \[verb\], dual, Imperfect
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”

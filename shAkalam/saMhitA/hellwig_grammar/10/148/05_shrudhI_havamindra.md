@@ -2,11 +2,11 @@
 title = "Rig Veda 10.148.5"
 
 +++
--   *śrudhī* \< *śru*
+-   *śrudhī* ← *śru*
 - \[verb\], singular, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *havam* \< *hava*
+- *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
@@ -20,22 +20,22 @@ title = "Rig Veda 10.148.5"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *pṛthyā* \< *pṛthi*
+- *pṛthyā* ← *pṛthi*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *stavase* \< *stu*
+- *stavase* ← *stu*
 - \[verb\], singular, Present indikative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *venyasyārkaiḥ* \< *venyasya* \< *venya*
+- *venyasyārkaiḥ* ← *venyasya* ← *venya*
 - \[noun\], genitive, singular, masculine
 - “Venya.”
 ------------------------------------------------------------------------
-- *venyasyārkaiḥ* \< *arkaiḥ* \< *arka*
+- *venyasyārkaiḥ* ← *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
@@ -44,29 +44,29 @@ title = "Rig Veda 10.148.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yas* \< *yaḥ* \< *yad*
+- *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *yoniṃ* \< *yonim* \< *yoni*
+- *yoniṃ* ← *yonim* ← *yoni*
 - \[noun\], accusative, singular, masculine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
 ------------------------------------------------------------------------
-- *ghṛtavantam* \< *ghṛtavat*
+- *ghṛtavantam* ← *ghṛtavat*
 - \[noun\], accusative, singular, masculine
 - “buttery.”
 ------------------------------------------------------------------------
-- *asvār* \< *svar*
+- *asvār* ← *svar*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “sing.”
 ------------------------------------------------------------------------
-- *ūrmir* \< *ūrmiḥ* \< *ūrmi*
+- *ūrmir* ← *ūrmiḥ* ← *ūrmi*
 - \[noun\], nominative, singular, masculine
 - “wave; billow.”
 ------------------------------------------------------------------------
@@ -74,13 +74,13 @@ title = "Rig Veda 10.148.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nimnair* \< *nimnaiḥ* \< *nimna*
+- *nimnair* ← *nimnaiḥ* ← *nimna*
 - \[noun\], instrumental, plural, neuter
 - “depression; depth.”
 ------------------------------------------------------------------------
-- *dravayanta* \< *dravay* \< *√dru*
+- *dravayanta* ← *dravay* ← *√dru*
 - \[verb\], plural, Imperfect
 ------------------------------------------------------------------------
-- *vakvāḥ* \< *vakva*
+- *vakvāḥ* ← *vakva*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------

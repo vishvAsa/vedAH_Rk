@@ -2,12 +2,12 @@
 title = "Rig Veda 9.106.12"
 
 +++
--   *asarji* \< *sṛj*
+-   *asarji* ← *sṛj*
 - \[verb\], singular, Aorist passive
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *kalaśāṃ* \< *kalaśa*
+- *kalaśāṃ* ← *kalaśa*
 - \[noun\], accusative, plural, masculine
 - “jar.”
 ------------------------------------------------------------------------
@@ -15,10 +15,10 @@ title = "Rig Veda 9.106.12"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *mīﾱhe* \< *mīḍhe* \< *mīḍha*
+- *mīﾱhe* ← *mīḍhe* ← *mīḍha*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *saptir* \< *saptiḥ* \< *sapti*
+- *saptir* ← *saptiḥ* ← *sapti*
 - \[noun\], nominative, singular, masculine
 - “horse.”
 ------------------------------------------------------------------------
@@ -26,26 +26,26 @@ title = "Rig Veda 9.106.12"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vājayuḥ* \< *vājayu*
+- *vājayuḥ* ← *vājayu*
 - \[noun\], nominative, singular, masculine
 - “competing(a); competitive.”
 ------------------------------------------------------------------------
-- *punāno* \< *punānaḥ* \< *pū*
+- *punāno* ← *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *vācaṃ* \< *vācam* \< *vāc*
+- *vācaṃ* ← *vācam* ← *vāc*
 - \[noun\], accusative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
 ------------------------------------------------------------------------
-- *janayann* \< *janayan* \< *janay* \< *√jan*
+- *janayann* ← *janayan* ← *janay* ← *√jan*
 - \[verb noun\], nominative, singular
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
 ------------------------------------------------------------------------
-- *asiṣyadat* \< *syand*
+- *asiṣyadat* ← *syand*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “run.”
 ------------------------------------------------------------------------

@@ -2,11 +2,11 @@
 title = "Rig Veda 8.22.4"
 
 +++
--   *yuvo* \< *yuvoḥ* \< *tvad*
+-   *yuvo* ← *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *rathasya* \< *ratha*
+- *rathasya* ← *ratha*
 - \[noun\], genitive, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -14,32 +14,32 @@ title = "Rig Veda 8.22.4"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *cakram* \< *cakra*
+- *cakram* ← *cakra*
 - \[noun\], nominative, singular, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
 ------------------------------------------------------------------------
-- *īyata* \< *īyate* \< *i*
+- *īyata* ← *īyate* ← *i*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *īrmānyad* \< *īrmā*
+- *īrmānyad* ← *īrmā*
 - \[noun\], instrumental, singular, feminine
 - “foreleg.”
 ------------------------------------------------------------------------
-- *īrmānyad* \< *anyat* \< *anya*
+- *īrmānyad* ← *anyat* ← *anya*
 - \[noun\], nominative, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *iṣaṇyati* \< *iṣaṇy*
+- *iṣaṇyati* ← *iṣaṇy*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *asmāṃ* \< *asmān* \< *mad*
+- *asmāṃ* ← *asmān* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -47,18 +47,18 @@ title = "Rig Veda 8.22.4"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *sumatir* \< *sumatiḥ* \< *sumati*
+- *sumatir* ← *sumatiḥ* ← *sumati*
 - \[noun\], nominative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *śubhas* \< *śubhaḥ* \< *śubh*
+- *śubhas* ← *śubhaḥ* ← *śubh*
 - \[noun\], genitive, singular, feminine
 ------------------------------------------------------------------------
-- *patī* \< *pati*
+- *patī* ← *pati*
 - \[noun\], vocative, dual, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
@@ -67,7 +67,7 @@ title = "Rig Veda 8.22.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dhenur* \< *dhenuḥ* \< *dhenu*
+- *dhenur* ← *dhenuḥ* ← *dhenu*
 - \[noun\], nominative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
@@ -75,7 +75,7 @@ title = "Rig Veda 8.22.4"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *dhāvatu* \< *dhāv*
+- *dhāvatu* ← *dhāv*
 - \[verb\], singular, Present imperative
 - “run; run; wash.”
 ------------------------------------------------------------------------

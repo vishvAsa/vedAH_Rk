@@ -6,12 +6,12 @@ title = "Rig Veda 10.127.5"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *grāmāso* \< *grāmāsaḥ* \< *grāma*
+- *grāmāso* ← *grāmāsaḥ* ← *grāma*
 - \[noun\], nominative, plural, masculine
 - “village; grāma \[word\]; group; battalion; club; Hindu gamut;
     troop; multitude; crowd; kin; collection; people.”
 ------------------------------------------------------------------------
-- *avikṣata* \< *viś*
+- *avikṣata* ← *viś*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “enter; penetrate; settle; settle.”
 ------------------------------------------------------------------------
@@ -19,7 +19,7 @@ title = "Rig Veda 10.127.5"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *padvanto* \< *padvantaḥ* \< *padvat*
+- *padvanto* ← *padvantaḥ* ← *padvat*
 - \[noun\], nominative, plural, masculine
 - “footed.”
 ------------------------------------------------------------------------
@@ -27,7 +27,7 @@ title = "Rig Veda 10.127.5"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *pakṣiṇaḥ* \< *pakṣin*
+- *pakṣiṇaḥ* ← *pakṣin*
 - \[noun\], nominative, plural, masculine
 - “winged.”
 ------------------------------------------------------------------------
@@ -35,15 +35,15 @@ title = "Rig Veda 10.127.5"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *śyenāsaś* \< *śyenāsaḥ* \< *śyena*
+- *śyenāsaś* ← *śyenāsaḥ* ← *śyena*
 - \[noun\], nominative, plural, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *arthinaḥ* \< *arthin*
+- *arthinaḥ* ← *arthin*
 - \[noun\], nominative, plural, masculine
 - “desirous; active; suppliant; busy.”
 ------------------------------------------------------------------------

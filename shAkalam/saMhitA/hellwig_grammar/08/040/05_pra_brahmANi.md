@@ -6,82 +6,82 @@ title = "Rig Veda 8.40.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *brahmāṇi* \< *brahman*
+- *brahmāṇi* ← *brahman*
 - \[noun\], accusative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *nabhākavad* \< *nabhāka*
+- *nabhākavad* ← *nabhāka*
 - \[noun\], masculine
 ------------------------------------------------------------------------
-- *nabhākavad* \< *vat*
+- *nabhākavad* ← *vat*
 - \[adverb\]
 - “equally; like.”
 ------------------------------------------------------------------------
-- *indrāgnibhyām* \< *indra*
+- *indrāgnibhyām* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrāgnibhyām* \< *agnibhyām* \< *agni*
+- *indrāgnibhyām* ← *agnibhyām* ← *agni*
 - \[noun\], dative, dual, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *irajyata* \< *irajy* \< *√rañj*
+- *irajyata* ← *irajy* ← *√rañj*
 - \[verb\], plural, Present imperative
 - “direct.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, dual, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *saptabudhnam* \< *sapta* \< *saptan*
+- *saptabudhnam* ← *sapta* ← *saptan*
 - \[noun\]
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *saptabudhnam* \< *budhnam* \< *budhna*
+- *saptabudhnam* ← *budhnam* ← *budhna*
 - \[noun\], accusative, singular, masculine
 - “bottom; bottom; base.”
 ------------------------------------------------------------------------
-- *arṇavaṃ* \< *arṇavam* \< *arṇava*
+- *arṇavaṃ* ← *arṇavam* ← *arṇava*
 - \[noun\], accusative, singular, masculine
 - “ocean; sea; four.”
 ------------------------------------------------------------------------
-- *jihmabāram* \< *jihma*
+- *jihmabāram* ← *jihma*
 - \[noun\]
 - “crooked; oblique; crooked.”
 ------------------------------------------------------------------------
-- *jihmabāram* \< *bāram* \< *bāra*
+- *jihmabāram* ← *bāram* ← *bāra*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *aporṇuta* \< *aporṇutaḥ* \< *apavṛ* \< *√vṛ*
+- *aporṇuta* ← *aporṇutaḥ* ← *apavṛ* ← *√vṛ*
 - \[verb\], dual, Present indikative
 - “open.”
 ------------------------------------------------------------------------
-- *indra* \< *indraḥ* \< *indra*
+- *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *īśāna* \< *īśānaḥ* \< *īś*
+- *īśāna* ← *īśānaḥ* ← *īś*
 - \[verb noun\], nominative, singular
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *ojasā* \< *ojas*
+- *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *nabhantām* \< *nabh*
+- *nabhantām* ← *nabh*
 - \[verb\], plural, Present imperative
 - “burst.”
 ------------------------------------------------------------------------
-- *anyake* \< *anyaka*
+- *anyake* ← *anyaka*
 - \[noun\], nominative, plural, masculine
 - “other; another(a).”
 ------------------------------------------------------------------------
-- *same* \< *sama*
+- *same* ← *sama*
 - \[noun\], nominative, plural, masculine
 - “like; like; alike(p); level; symmetrical; balanced; average; same;
     regular; impartial; imperturbable; even; sama \[word\]; every(a);

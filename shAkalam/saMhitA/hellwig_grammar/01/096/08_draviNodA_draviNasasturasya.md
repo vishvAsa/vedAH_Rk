@@ -2,35 +2,35 @@
 title = "Rig Veda 1.96.8"
 
 +++
--   *draviṇodā* \< *draviṇaḥ* \< *draviṇas*
+-   *draviṇodā* ← *draviṇaḥ* ← *draviṇas*
 - \[noun\], neuter
 - “property.”
 ------------------------------------------------------------------------
-- *draviṇodā* \< *dāḥ* \< *dā*
+- *draviṇodā* ← *dāḥ* ← *dā*
 - \[noun\], nominative, singular, masculine
 - “giving.”
 ------------------------------------------------------------------------
-- *draviṇasas* \< *draviṇasaḥ* \< *draviṇas*
+- *draviṇasas* ← *draviṇasaḥ* ← *draviṇas*
 - \[noun\], genitive, singular, neuter
 - “property.”
 ------------------------------------------------------------------------
-- *turasya* \< *tura*
+- *turasya* ← *tura*
 - \[noun\], genitive, singular, neuter
 - “powerful; noble; noble.”
 ------------------------------------------------------------------------
-- *draviṇodāḥ* \< *draviṇaḥ* \< *draviṇas*
+- *draviṇodāḥ* ← *draviṇaḥ* ← *draviṇas*
 - \[noun\], neuter
 - “property.”
 ------------------------------------------------------------------------
-- *draviṇodāḥ* \< *dāḥ* \< *dā*
+- *draviṇodāḥ* ← *dāḥ* ← *dā*
 - \[noun\], nominative, singular, masculine
 - “giving.”
 ------------------------------------------------------------------------
-- *sanarasya* \< *sa*
+- *sanarasya* ← *sa*
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *sanarasya* \< *narasya* \< *nara*
+- *sanarasya* ← *narasya* ← *nara*
 - \[noun\], genitive, singular, neuter
 - “man; man; Nara; person; people; Nara; Puruṣa; nara \[word\];
     servant; hero.”
@@ -39,47 +39,47 @@ title = "Rig Veda 1.96.8"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yaṃsat* \< *yam*
+- *yaṃsat* ← *yam*
 - \[verb\], singular, Aorist conj./subj.
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *draviṇodā* \< *draviṇaḥ* \< *draviṇas*
+- *draviṇodā* ← *draviṇaḥ* ← *draviṇas*
 - \[noun\], neuter
 - “property.”
 ------------------------------------------------------------------------
-- *draviṇodā* \< *dāḥ* \< *dā*
+- *draviṇodā* ← *dāḥ* ← *dā*
 - \[noun\], nominative, singular, masculine
 - “giving.”
 ------------------------------------------------------------------------
-- *vīravatīm* \< *vīravat*
+- *vīravatīm* ← *vīravat*
 - \[noun\], accusative, singular, feminine
 - “rich in men.”
 ------------------------------------------------------------------------
-- *iṣaṃ* \< *iṣam* \< *iṣ*
+- *iṣaṃ* ← *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *draviṇodā* \< *draviṇaḥ* \< *draviṇas*
+- *draviṇodā* ← *draviṇaḥ* ← *draviṇas*
 - \[noun\], neuter
 - “property.”
 ------------------------------------------------------------------------
-- *draviṇodā* \< *dāḥ* \< *dā*
+- *draviṇodā* ← *dāḥ* ← *dā*
 - \[noun\], nominative, singular, masculine
 - “giving.”
 ------------------------------------------------------------------------
-- *rāsate* \< *rā*
+- *rāsate* ← *rā*
 - \[verb\], singular, Aorist conj./subj.
 - “give; impart.”
 ------------------------------------------------------------------------
-- *dīrgham* \< *dīrgha*
+- *dīrgham* ← *dīrgha*
 - \[noun\], accusative, singular, neuter
 - “long; long; long; large; far; deep; dīrgha \[word\].”
 ------------------------------------------------------------------------
-- *āyuḥ* \< *āyus*
+- *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------

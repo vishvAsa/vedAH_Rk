@@ -6,7 +6,7 @@ title = "Rig Veda 7.67.3"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -14,44 +14,44 @@ title = "Rig Veda 7.67.3"
 - \[adverb\]
 - “now; surely; immediately; just.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *suhotā* \< *su*
+- *suhotā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suhotā* \< *hotā* \< *hotṛ*
+- *suhotā* ← *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *stomaiḥ* \< *stoma*
+- *stomaiḥ* ← *stoma*
 - \[noun\], instrumental, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *siṣakti* \< *sac*
+- *siṣakti* ← *sac*
 - \[verb\], singular, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *nāsatyā* \< *nāsatyāḥ* \< *nāsatya*
+- *nāsatyā* ← *nāsatyāḥ* ← *nāsatya*
 - \[noun\], vocative, plural, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *vivakvān* \< *vivakvat*
+- *vivakvān* ← *vivakvat*
 - \[noun\], nominative, singular, masculine
 - “eloquent.”
 ------------------------------------------------------------------------
-- *pūrvībhir* \< *pūrvībhiḥ* \< *puru*
+- *pūrvībhir* ← *pūrvībhiḥ* ← *puru*
 - \[noun\], instrumental, plural, feminine
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *yātam* \< *yā*
+- *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *pathyābhir* \< *pathyābhiḥ* \< *pathyā*
+- *pathyābhir* ← *pathyābhiḥ* ← *pathyā*
 - \[noun\], instrumental, plural, feminine
 - “Terminalia chebula Retz.; path; Pathyā; way.”
 ------------------------------------------------------------------------
@@ -59,14 +59,14 @@ title = "Rig Veda 7.67.3"
 - \[adverb\]
 - “here.”
 ------------------------------------------------------------------------
-- *svarvidā* \< *svarvid*
+- *svarvidā* ← *svarvid*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
-- *vasumatā* \< *vasumat*
+- *vasumatā* ← *vasumat*
 - \[noun\], instrumental, singular, masculine
 - “deluxe; affluent; rich.”
 ------------------------------------------------------------------------
-- *rathena* \< *ratha*
+- *rathena* ← *ratha*
 - \[noun\], instrumental, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------

@@ -2,38 +2,38 @@
 title = "Rig Veda 3.2.12"
 
 +++
--   *vaiśvānaraḥ* \< *vaiśvānara*
+-   *vaiśvānaraḥ* ← *vaiśvānara*
 - \[noun\], nominative, singular, masculine
 - “Agni; fire; Vaiśvānara; Vaiśvānara; sacrificial fire; sun.”
 ------------------------------------------------------------------------
 - *pratnathā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *nākam* \< *nāka*
+- *nākam* ← *nāka*
 - \[noun\], accusative, singular, masculine
 - “sky; celestial sphere; Svarga; nāka \[word\].”
 ------------------------------------------------------------------------
-- *āruhad* \< *āruhat* \< *āruh* \< *√ruh*
+- *āruhad* ← *āruhat* ← *āruh* ← *√ruh*
 - \[verb\], singular, Imperfect
 - “board; hop on; climb; ascend; descend; ride; copulate; grow.”
 ------------------------------------------------------------------------
-- *divas* \< *div*
+- *divas* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *pṛṣṭham* \< *pṛṣṭha*
+- *pṛṣṭham* ← *pṛṣṭha*
 - \[noun\], accusative, singular, neuter
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
 ------------------------------------------------------------------------
-- *bhandamānaḥ* \< *bhand*
+- *bhandamānaḥ* ← *bhand*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *sumanmabhiḥ* \< *su*
+- *sumanmabhiḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sumanmabhiḥ* \< *manmabhiḥ* \< *manman*
+- *sumanmabhiḥ* ← *manmabhiḥ* ← *manman*
 - \[noun\], instrumental, plural, masculine
 - “hymn; idea; purpose.”
 ------------------------------------------------------------------------
@@ -41,42 +41,42 @@ title = "Rig Veda 3.2.12"
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *pūrvavaj* \< *pūrvavat*
+- *pūrvavaj* ← *pūrvavat*
 - \[adverb\]
 - “as before.”
 ------------------------------------------------------------------------
-- *janayañ* \< *janayan* \< *janay* \< *√jan*
+- *janayañ* ← *janayan* ← *janay* ← *√jan*
 - \[verb noun\], nominative, singular
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
 ------------------------------------------------------------------------
-- *jantave* \< *jantu*
+- *jantave* ← *jantu*
 - \[noun\], dative, singular, masculine
 - “man; worm; being; child; Jantu; offspring; insect; vermin; animal.”
 ------------------------------------------------------------------------
-- *dhanaṃ* \< *dhanam* \< *dhana*
+- *dhanaṃ* ← *dhanam* ← *dhana*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
 ------------------------------------------------------------------------
-- *samānam* \< *samāna*
+- *samānam* ← *samāna*
 - \[noun\], accusative, singular, masculine
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
 ------------------------------------------------------------------------
-- *ajmam* \< *ajma*
+- *ajmam* ← *ajma*
 - \[noun\], accusative, singular, masculine
 - “march.”
 ------------------------------------------------------------------------
-- *pary* \< *pari*
+- *pary* ← *pari*
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *jāgṛviḥ* \< *jāgṛvi*
+- *jāgṛviḥ* ← *jāgṛvi*
 - \[noun\], nominative, singular, masculine
 - “attentive; argus-eyed; light.”
 ------------------------------------------------------------------------

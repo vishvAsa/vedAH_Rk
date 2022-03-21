@@ -2,25 +2,25 @@
 title = "Rig Veda 1.130.10"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *navyebhir* \< *navyebhiḥ* \< *navya*
+- *navyebhir* ← *navyebhiḥ* ← *navya*
 - \[noun\], instrumental, plural, neuter
 - “new; fresh.”
 ------------------------------------------------------------------------
-- *vṛṣakarmann* \< *vṛṣa* \< *vṛṣan*
+- *vṛṣakarmann* ← *vṛṣa* ← *vṛṣan*
 - \[noun\], masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *vṛṣakarmann* \< *karman*
+- *vṛṣakarmann* ← *karman*
 - \[noun\], vocative, singular, masculine
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
     function; production; job; operation; karman \[word\]; act; job;
@@ -28,30 +28,30 @@ title = "Rig Veda 1.130.10"
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
 ------------------------------------------------------------------------
-- *ukthaiḥ* \< *uktha*
+- *ukthaiḥ* ← *uktha*
 - \[noun\], instrumental, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *purāṃ* \< *purām* \< *pur*
+- *purāṃ* ← *purām* ← *pur*
 - \[noun\], genitive, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
-- *dartaḥ* \< *dartar* \< *dartṛ*
+- *dartaḥ* ← *dartar* ← *dartṛ*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *pāyubhiḥ* \< *pāyu*
+- *pāyubhiḥ* ← *pāyu*
 - \[noun\], instrumental, plural, masculine
 - “guard; pāyu \[word\]; Pāyu.”
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *śagmaiḥ* \< *śagma*
+- *śagmaiḥ* ← *śagma*
 - \[noun\], instrumental, plural, masculine
 - “powerful; reliable; competent.”
 ------------------------------------------------------------------------
-- *divodāsebhir* \< *divodāsebhiḥ* \< *divodāsa*
+- *divodāsebhir* ← *divodāsebhiḥ* ← *divodāsa*
 - \[noun\], instrumental, plural, masculine
 - “Divodāsa.”
 ------------------------------------------------------------------------
@@ -60,16 +60,16 @@ title = "Rig Veda 1.130.10"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *stavāno* \< *stavānaḥ* \< *stu*
+- *stavāno* ← *stavānaḥ* ← *stu*
 - \[verb noun\], nominative, singular
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *vāvṛdhīthā* \< *vāvṛdhīthāḥ* \< *vṛdh*
+- *vāvṛdhīthā* ← *vāvṛdhīthāḥ* ← *vṛdh*
 - \[verb\], singular, Perfect optative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *ahobhir* \< *ahobhiḥ* \< *ahar*
+- *ahobhir* ← *ahobhiḥ* ← *ahar*
 - \[noun\], instrumental, plural, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
@@ -77,7 +77,7 @@ title = "Rig Veda 1.130.10"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *dyauḥ* \< *div*
+- *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------

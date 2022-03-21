@@ -2,23 +2,23 @@
 title = "Rig Veda 9.96.23"
 
 +++
--   *apaghnann* \< *apaghnan* \< *apahan* \< *√han*
+-   *apaghnann* ← *apaghnan* ← *apahan* ← *√han*
 - \[verb noun\], nominative, singular
 - “remove; cure; ward off; repel.”
 ------------------------------------------------------------------------
-- *eṣi* \< *i*
+- *eṣi* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *pavamāna* \< *pū*
+- *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *śatrūn* \< *śatru*
+- *śatrūn* ← *śatru*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------
-- *priyāṃ* \< *priyām* \< *priya*
+- *priyāṃ* ← *priyām* ← *priya*
 - \[noun\], accusative, singular, feminine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
@@ -27,28 +27,28 @@ title = "Rig Veda 9.96.23"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *jāro* \< *jāraḥ* \< *jāra*
+- *jāro* ← *jāraḥ* ← *jāra*
 - \[noun\], nominative, singular, masculine
 - “fancy man.”
 ------------------------------------------------------------------------
-- *abhigīta* \< *abhigītaḥ* \< *abhigā* \< *√gā*
+- *abhigīta* ← *abhigītaḥ* ← *abhigā* ← *√gā*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *induḥ* \< *indu*
+- *induḥ* ← *indu*
 - \[noun\], nominative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *sīdan* \< *sad*
+- *sīdan* ← *sad*
 - \[verb noun\], nominative, singular
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *vaneṣu* \< *vana*
+- *vaneṣu* ← *vana*
 - \[noun\], locative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
-- *śakuno* \< *śakunaḥ* \< *śakuna*
+- *śakuno* ← *śakunaḥ* ← *śakuna*
 - \[noun\], nominative, singular, masculine
 - “bird; large bird.”
 ------------------------------------------------------------------------
@@ -56,22 +56,22 @@ title = "Rig Veda 9.96.23"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *patvā* \< *patvan*
+- *patvā* ← *patvan*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *somaḥ* \< *soma*
+- *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *punānaḥ* \< *pū*
+- *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *kalaśeṣu* \< *kalaśa*
+- *kalaśeṣu* ← *kalaśa*
 - \[noun\], locative, plural, masculine
 - “jar.”
 ------------------------------------------------------------------------
-- *sattā* \< *sad*
+- *sattā* ← *sad*
 - \[verb\], singular, periphrast. future
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”

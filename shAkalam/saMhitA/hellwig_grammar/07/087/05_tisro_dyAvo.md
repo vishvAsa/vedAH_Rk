@@ -2,15 +2,15 @@
 title = "Rig Veda 7.87.5"
 
 +++
--   *tisro* \< *tisraḥ* \< *tri*
+-   *tisro* ← *tisraḥ* ← *tri*
 - \[noun\], nominative, plural, feminine
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *dyāvo* \< *dyāvaḥ* \< *div*
+- *dyāvo* ← *dyāvaḥ* ← *div*
 - \[noun\], nominative, plural, feminine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *nihitā* \< *nihitāḥ* \< *nidhā* \< *√dhā*
+- *nihitā* ← *nihitāḥ* ← *nidhā* ← *√dhā*
 - \[verb noun\], nominative, plural
 - “put; fill into; stow; insert; ignite; insert; add; put on;
     establish; keep down.”
@@ -19,47 +19,47 @@ title = "Rig Veda 7.87.5"
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *asmin* \< *idam*
+- *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *tisro* \< *tisraḥ* \< *tri*
+- *tisro* ← *tisraḥ* ← *tri*
 - \[noun\], nominative, plural, feminine
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *bhūmīr* \< *bhūmīḥ* \< *bhūmi*
+- *bhūmīr* ← *bhūmīḥ* ← *bhūmi*
 - \[noun\], nominative, plural, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
     Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
     distance; country; space; land; territory; topographic point.”
 ------------------------------------------------------------------------
-- *uparāḥ* \< *upara*
+- *uparāḥ* ← *upara*
 - \[noun\], nominative, plural, feminine
 - “later(a); future(a); nether.”
 ------------------------------------------------------------------------
-- *ṣaḍvidhānāḥ* \< *ṣaṣ*
+- *ṣaḍvidhānāḥ* ← *ṣaṣ*
 - \[noun\]
 - “six; ṣaṣ; sixth; ṣaṣ \[word\].”
 ------------------------------------------------------------------------
-- *ṣaḍvidhānāḥ* \< *vidhānāḥ* \< *vidhāna*
+- *ṣaḍvidhānāḥ* ← *vidhānāḥ* ← *vidhāna*
 - \[noun\], nominative, plural, feminine
 - “method; treatment; preparation; ritual; rule; formulation; means;
     manner; administration; performance; act.”
 ------------------------------------------------------------------------
-- *gṛtso* \< *gṛtsaḥ* \< *gṛtsa*
+- *gṛtso* ← *gṛtsaḥ* ← *gṛtsa*
 - \[noun\], nominative, singular, masculine
 - “apt; deft.”
 ------------------------------------------------------------------------
-- *rājā* \< *rājan*
+- *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *varuṇaś* \< *varuṇaḥ* \< *varuṇa*
+- *varuṇaś* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *cakra* \< *cakre* \< *kṛ*
+- *cakra* ← *cakre* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -70,27 +70,27 @@ title = "Rig Veda 7.87.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *etaṃ* \< *etam* \< *etad*
+- *etaṃ* ← *etam* ← *etad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *divi* \< *div*
+- *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *preṅkhaṃ* \< *preṅkham* \< *preṅkha*
+- *preṅkhaṃ* ← *preṅkham* ← *preṅkha*
 - \[noun\], accusative, singular, masculine
 - “swing.”
 ------------------------------------------------------------------------
-- *hiraṇyayaṃ* \< *hiraṇyayam* \< *hiraṇyaya*
+- *hiraṇyayaṃ* ← *hiraṇyayam* ← *hiraṇyaya*
 - \[noun\], accusative, singular, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
 ------------------------------------------------------------------------
-- *śubhe* \< *śubh*
+- *śubhe* ← *śubh*
 - \[verb noun\]
 - “look; shine; beautify.”
 ------------------------------------------------------------------------
-- *kam* \< *kaṃ*
+- *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
 ------------------------------------------------------------------------

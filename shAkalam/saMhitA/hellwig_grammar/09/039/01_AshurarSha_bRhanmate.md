@@ -2,20 +2,20 @@
 title = "Rig Veda 9.39.1"
 
 +++
--   *āśur* \< *āśuḥ* \< *āśu*
+-   *āśur* ← *āśuḥ* ← *āśu*
 - \[noun\], nominative, singular, masculine
 - “quick; fast; immediate; agile.”
 ------------------------------------------------------------------------
-- *arṣa* \< *ṛṣ*
+- *arṣa* ← *ṛṣ*
 - \[verb\], singular, Present imperative
 - “run.”
 ------------------------------------------------------------------------
-- *bṛhanmate* \< *bṛhat*
+- *bṛhanmate* ← *bṛhat*
 - \[noun\]
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *bṛhanmate* \< *mate* \< *mati*
+- *bṛhanmate* ← *mate* ← *mati*
 - \[noun\], vocative, singular, masculine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
@@ -24,12 +24,12 @@ title = "Rig Veda 9.39.1"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *priyeṇa* \< *priya*
+- *priyeṇa* ← *priya*
 - \[noun\], instrumental, singular, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *dhāmnā* \< *dhāman*
+- *dhāmnā* ← *dhāman*
 - \[noun\], instrumental, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
@@ -38,7 +38,7 @@ title = "Rig Veda 9.39.1"
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -47,7 +47,7 @@ title = "Rig Veda 9.39.1"
 - \[adverb\]
 - “thus; so; iti \[word\].”
 ------------------------------------------------------------------------
-- *bravan* \< *brū*
+- *bravan* ← *brū*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”

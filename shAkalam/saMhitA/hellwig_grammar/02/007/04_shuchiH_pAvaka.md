@@ -2,7 +2,7 @@
 title = "Rig Veda 2.7.4"
 
 +++
--   *śuciḥ* \< *śuci*
+-   *śuciḥ* ← *śuci*
 - \[noun\], nominative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
@@ -12,17 +12,17 @@ title = "Rig Veda 2.7.4"
 - “fire; Agni; sacrificial fire; digestion; Plumbago zeylanica;
     vahni.”
 ------------------------------------------------------------------------
-- *vandyo* \< *vandyaḥ* \< *vand*
+- *vandyo* ← *vandyaḥ* ← *vand*
 - \[verb noun\], nominative, singular
 - “worship; laud.”
 ------------------------------------------------------------------------
-- *'gne* \< *agne* \< *agni*
+- *'gne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *bṛhad* \< *bṛhat*
+- *bṛhad* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
@@ -31,19 +31,19 @@ title = "Rig Veda 2.7.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *rocase* \< *ruc*
+- *rocase* ← *ruc*
 - \[verb\], singular, Present indikative
 - “please; shine.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ghṛtebhir* \< *ghṛtebhiḥ* \< *ghṛta*
+- *ghṛtebhir* ← *ghṛtebhiḥ* ← *ghṛta*
 - \[noun\], instrumental, plural, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *āhutaḥ* \< *āhu* \< *√hu*
+- *āhutaḥ* ← *āhu* ← *√hu*
 - \[verb noun\], nominative, singular
 - “sacrifice; sprinkle.”
 ------------------------------------------------------------------------

@@ -2,56 +2,56 @@
 title = "Rig Veda 8.66.1"
 
 +++
--   *tarobhir* \< *tarobhiḥ* \< *taras*
+-   *tarobhir* ← *tarobhiḥ* ← *taras*
 - \[noun\], instrumental, plural, neuter
 - “speed; Stoma.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *vidadvasum* \< *vidadvasu*
+- *vidadvasum* ← *vidadvasu*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sabādha* \< *sabādhas*
+- *sabādha* ← *sabādhas*
 - \[noun\], accusative, singular, neuter
 - “eager; ardent.”
 ------------------------------------------------------------------------
-- *ūtaye* \< *ūti*
+- *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *bṛhad* \< *bṛhat*
+- *bṛhad* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *gāyantaḥ* \< *gā*
+- *gāyantaḥ* ← *gā*
 - \[verb noun\], nominative, plural
 - “sing; praise; jap; recite; describe.”
 ------------------------------------------------------------------------
-- *sutasome* \< *suta* \< *su*
+- *sutasome* ← *suta* ← *su*
 - \[verb noun\]
 - “press out; su.”
 ------------------------------------------------------------------------
-- *sutasome* \< *some* \< *soma*
+- *sutasome* ← *some* ← *soma*
 - \[noun\], locative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *adhvare* \< *adhvara*
+- *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *huve* \< *hvā*
+- *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *bharaṃ* \< *bharam* \< *bhara*
+- *bharaṃ* ← *bharam* ← *bhara*
 - \[noun\], accusative, singular, masculine
 - “battle; weight; foray; bhṛ; load.”
 ------------------------------------------------------------------------
@@ -59,7 +59,7 @@ title = "Rig Veda 8.66.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *kāriṇam* \< *kārin*
+- *kāriṇam* ← *kārin*
 - \[noun\], accusative, singular, masculine
 - “causing; making; acting; performing; producing; doing.”
 ------------------------------------------------------------------------

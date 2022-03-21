@@ -2,23 +2,23 @@
 title = "Rig Veda 1.112.23"
 
 +++
--   *yābhiḥ* \< *yad*
+-   *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *kutsam* \< *kutsa*
+- *kutsam* ← *kutsa*
 - \[noun\], accusative, singular, masculine
 - “Kutsa; kutsa \[word\].”
 ------------------------------------------------------------------------
-- *ārjuneyaṃ* \< *ārjuneyam* \< *ārjuneya*
+- *ārjuneyaṃ* ← *ārjuneyam* ← *ārjuneya*
 - \[noun\], accusative, singular, masculine
 - “Kutsa.”
 ------------------------------------------------------------------------
-- *śatakratū* \< *śata*
+- *śatakratū* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *śatakratū* \< *kratū* \< *kratu*
+- *śatakratū* ← *kratū* ← *kratu*
 - \[noun\], vocative, dual, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
@@ -27,7 +27,7 @@ title = "Rig Veda 1.112.23"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *turvītim* \< *turvīti*
+- *turvītim* ← *turvīti*
 - \[noun\], accusative, singular, masculine
 - “Turvīti.”
 ------------------------------------------------------------------------
@@ -39,52 +39,52 @@ title = "Rig Veda 1.112.23"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *dabhītim* \< *dabhīti*
+- *dabhītim* ← *dabhīti*
 - \[noun\], accusative, singular, masculine
 - “Dabhīti.”
 ------------------------------------------------------------------------
-- *āvatam* \< *av*
+- *āvatam* ← *av*
 - \[verb\], dual, Imperfect
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *yābhir* \< *yābhiḥ* \< *yad*
+- *yābhir* ← *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dhvasantim* \< *dhvasanti*
+- *dhvasantim* ← *dhvasanti*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *puruṣantim* \< *puruṣanti*
+- *puruṣantim* ← *puruṣanti*
 - \[noun\], accusative, singular, masculine
 - “Puruṣanti.”
 ------------------------------------------------------------------------
-- *āvataṃ* \< *āvatam* \< *av*
+- *āvataṃ* ← *āvatam* ← *av*
 - \[verb\], dual, Imperfect
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *tābhir* \< *tābhiḥ* \< *tad*
+- *tābhir* ← *tābhiḥ* ← *tad*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ū* \< *u*
+- *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *ūtibhir* \< *ūtibhiḥ* \< *ūti*
+- *ūtibhir* ← *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *gatam* \< *gam*
+- *gatam* ← *gam*
 - \[verb\], dual, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

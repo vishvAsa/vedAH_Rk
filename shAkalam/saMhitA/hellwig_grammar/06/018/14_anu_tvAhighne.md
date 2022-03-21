@@ -6,15 +6,15 @@ title = "Rig Veda 6.18.14"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *tvāhighne* \< *tvā* \< *tvad*
+- *tvāhighne* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tvāhighne* \< *ahi*
+- *tvāhighne* ← *ahi*
 - \[noun\], masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
 ------------------------------------------------------------------------
-- *tvāhighne* \< *ghne* \< *ghna*
+- *tvāhighne* ← *ghne* ← *ghna*
 - \[noun\], locative, singular, neuter
 - “fight; killing.”
 ------------------------------------------------------------------------
@@ -27,28 +27,28 @@ title = "Rig Veda 6.18.14"
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *madan* \< *mad*
+- *madan* ← *mad*
 - \[verb\], plural, Present injunctive
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *viśve* \< *viśva*
+- *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *kavitamaṃ* \< *kavitamam* \< *kavitama*
+- *kavitamaṃ* ← *kavitamam* ← *kavitama*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *kavīnām* \< *kavi*
+- *kavīnām* ← *kavi*
 - \[noun\], genitive, plural, masculine
 - “mental; wise; mental; enlightened.”
 ------------------------------------------------------------------------
-- *karo* \< *karaḥ* \< *kṛ*
+- *karo* ← *karaḥ* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -63,28 +63,28 @@ title = "Rig Veda 6.18.14"
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *varivo* \< *varivaḥ* \< *varivas*
+- *varivo* ← *varivaḥ* ← *varivas*
 - \[noun\], accusative, singular, neuter
 - “room; varivas \[word\]; space; escape.”
 ------------------------------------------------------------------------
-- *bādhitāya* \< *bādh*
+- *bādhitāya* ← *bādh*
 - \[verb noun\], dative, singular
 - “afflict; annoy; chase away; tease; grieve; irritate.”
 ------------------------------------------------------------------------
-- *dive* \< *div*
+- *dive* ← *div*
 - \[noun\], dative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *janāya* \< *jana*
+- *janāya* ← *jana*
 - \[noun\], dative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *tanve* \< *tanū*
+- *tanve* ← *tanū*
 - \[noun\], dative, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *gṛṇānaḥ* \< *gṛ*
+- *gṛṇānaḥ* ← *gṛ*
 - \[verb noun\], nominative, singular
 - “praise.”
 ------------------------------------------------------------------------

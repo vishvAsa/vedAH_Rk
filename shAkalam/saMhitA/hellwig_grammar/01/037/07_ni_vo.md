@@ -6,42 +6,42 @@ title = "Rig Veda 1.37.7"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *yāmāya* \< *yāma*
+- *yāmāya* ← *yāma*
 - \[noun\], dative, singular, masculine
 - “prahara; watch; travel; path.”
 ------------------------------------------------------------------------
-- *mānuṣo* \< *mānuṣaḥ* \< *mānuṣa*
+- *mānuṣo* ← *mānuṣaḥ* ← *mānuṣa*
 - \[noun\], nominative, singular, masculine
 - “man; man.”
 ------------------------------------------------------------------------
-- *dadhra* \< *dadhre* \< *dhṛ*
+- *dadhra* ← *dadhre* ← *dhṛ*
 - \[verb\], singular, Perfect indicative
 - “keep; put; hold; assume; wear; take; promise; stay; exist; hold;
     begin; dip.”
 ------------------------------------------------------------------------
-- *ugrāya* \< *ugra*
+- *ugrāya* ← *ugra*
 - \[noun\], dative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *manyave* \< *manyu*
+- *manyave* ← *manyu*
 - \[noun\], dative, singular, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------
-- *jihīta* \< *hā*
+- *jihīta* ← *hā*
 - \[verb\], singular, Present injunctive
 - “move over; yield; give way.”
 ------------------------------------------------------------------------
-- *parvato* \< *parvataḥ* \< *parvata*
+- *parvato* ← *parvataḥ* ← *parvata*
 - \[noun\], nominative, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
 ------------------------------------------------------------------------
-- *giriḥ* \< *giri*
+- *giriḥ* ← *giri*
 - \[noun\], nominative, singular, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
 ------------------------------------------------------------------------

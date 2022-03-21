@@ -2,7 +2,7 @@
 title = "Rig Veda 10.81.2"
 
 +++
--   *kiṃ* \< *kim* \< *ka*
+-   *kiṃ* ← *kim* ← *ka*
 - \[noun\], nominative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -10,51 +10,51 @@ title = "Rig Veda 10.81.2"
 - \[adverb\]
 - “svid \[word\].”
 ------------------------------------------------------------------------
-- *āsīd* \< *āsīt* \< *as*
+- *āsīd* ← *āsīt* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *adhiṣṭhānam* \< *adhiṣṭhāna*
+- *adhiṣṭhānam* ← *adhiṣṭhāna*
 - \[noun\], nominative, singular, neuter
 - “location; base; seat; seat; dwelling; foundation; cause.”
 ------------------------------------------------------------------------
-- *ārambhaṇaṃ* \< *ārambhaṇam* \< *ārambhaṇa*
+- *ārambhaṇaṃ* ← *ārambhaṇam* ← *ārambhaṇa*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *katamat* \< *katama*
+- *katamat* ← *katama*
 - \[noun\], nominative, singular, neuter
 - “katama \[word\]; who.”
 ------------------------------------------------------------------------
-- *svit* \< *svid*
+- *svit* ← *svid*
 - \[adverb\]
 - “svid \[word\].”
 ------------------------------------------------------------------------
-- *kathāsīt* \< *kathā*
+- *kathāsīt* ← *kathā*
 - \[adverb\]
 - “how.”
 ------------------------------------------------------------------------
-- *kathāsīt* \< *āsīt* \< *as*
+- *kathāsīt* ← *āsīt* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *yato* \< *yatas*
+- *yato* ← *yatas*
 - \[adverb\]
 - “from which; whence; wherein.”
 ------------------------------------------------------------------------
-- *bhūmiṃ* \< *bhūmim* \< *bhūmi*
+- *bhūmiṃ* ← *bhūmim* ← *bhūmi*
 - \[noun\], accusative, singular, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
     Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
     distance; country; space; land; territory; topographic point.”
 ------------------------------------------------------------------------
-- *janayan* \< *janay* \< *√jan*
+- *janayan* ← *janay* ← *√jan*
 - \[verb noun\], nominative, singular
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
 ------------------------------------------------------------------------
-- *viśvakarmā* \< *viśvakarman*
+- *viśvakarmā* ← *viśvakarman*
 - \[noun\], nominative, singular, masculine
 - “Viśvakarman; viśvakarman; Shiva; Maya; Vishnu.”
 ------------------------------------------------------------------------
@@ -62,25 +62,25 @@ title = "Rig Veda 10.81.2"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *dyām* \< *div*
+- *dyām* ← *div*
 - \[noun\], accusative, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *aurṇon* \< *aurṇot* \< *vṛ*
+- *aurṇon* ← *aurṇot* ← *vṛ*
 - \[verb\], singular, Imperfect
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *mahinā* \< *mahina*
+- *mahinā* ← *mahina*
 - \[noun\], instrumental, singular, neuter
 - “greatness; enormousness.”
 ------------------------------------------------------------------------
-- *viśvacakṣāḥ* \< *viśva*
+- *viśvacakṣāḥ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvacakṣāḥ* \< *cakṣāḥ* \< *cakṣas*
+- *viśvacakṣāḥ* ← *cakṣāḥ* ← *cakṣas*
 - \[noun\], nominative, singular, masculine
 - “eye; look; radiance.”
 ------------------------------------------------------------------------

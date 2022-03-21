@@ -2,28 +2,28 @@
 title = "Rig Veda 3.33.8"
 
 +++
--   *etad* \< *etat* \< *etad*
+-   *etad* ← *etat* ← *etad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *vaco* \< *vacaḥ* \< *vacas*
+- *vaco* ← *vacaḥ* ← *vacas*
 - \[noun\], accusative, singular, neuter
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------
-- *jaritar* \< *jaritṛ*
+- *jaritar* ← *jaritṛ*
 - \[noun\], vocative, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *māpi* \< *mā*
+- *māpi* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *māpi* \< *api*
+- *māpi* ← *api*
 - \[adverb\]
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
 ------------------------------------------------------------------------
-- *mṛṣṭhā* \< *mṛṣṭhāḥ* \< *mṛṣ*
+- *mṛṣṭhā* ← *mṛṣṭhāḥ* ← *mṛṣ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “forgive; endure; heed; pardon; neglect; forget.”
 ------------------------------------------------------------------------
@@ -31,34 +31,34 @@ title = "Rig Veda 3.33.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yat* \< *yad*
+- *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ghoṣān* \< *ghuṣ*
+- *ghoṣān* ← *ghuṣ*
 - \[verb\], plural, Present conjunctive (subjunctive)
 ------------------------------------------------------------------------
-- *uttarā* \< *uttara*
+- *uttarā* ← *uttara*
 - \[noun\], nominative, plural, neuter
 - “northern; following; upper; additional; better; more(a); last;
     concluding; superior; later(a); uttara \[word\]; prevailing; future;
     left; northerly; northerly; higher; second; dominant; excellent;
     chief(a).”
 ------------------------------------------------------------------------
-- *yugāni* \< *yuga*
+- *yugāni* ← *yuga*
 - \[noun\], nominative, plural, neuter
 - “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
     \[word\]; Yuga; race.”
 ------------------------------------------------------------------------
-- *uktheṣu* \< *uktha*
+- *uktheṣu* ← *uktha*
 - \[noun\], locative, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *kāro* \< *kāru*
+- *kāro* ← *kāru*
 - \[noun\], vocative, singular, masculine
 - “poet; singer.”
 ------------------------------------------------------------------------
@@ -66,11 +66,11 @@ title = "Rig Veda 3.33.8"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *juṣasva* \< *juṣ*
+- *juṣasva* ← *juṣ*
 - \[verb\], singular, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
@@ -79,7 +79,7 @@ title = "Rig Veda 3.33.8"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -87,7 +87,7 @@ title = "Rig Veda 3.33.8"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *kaḥ* \< *kṛ*
+- *kaḥ* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -101,11 +101,11 @@ title = "Rig Veda 3.33.8"
 - *puruṣatrā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *namas* \< *namaḥ* \< *namas*
+- *namas* ← *namaḥ* ← *namas*
 - \[noun\], nominative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------

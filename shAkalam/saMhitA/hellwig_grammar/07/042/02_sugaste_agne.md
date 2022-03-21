@@ -2,33 +2,33 @@
 title = "Rig Veda 7.42.2"
 
 +++
--   *sugas* \< *su*
+-   *sugas* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sugas* \< *gaḥ* \< *ga*
+- *sugas* ← *gaḥ* ← *ga*
 - \[noun\], nominative, singular, masculine
 - “located; moving; flowing; passable; ga \[word\]; accordant.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *sanavitto* \< *sanavittaḥ* \< *sanavitta*
+- *sanavitto* ← *sanavittaḥ* ← *sanavitta*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *adhvā* \< *adhvan*
+- *adhvā* ← *adhvan*
 - \[noun\], nominative, singular, masculine
 - “way; journey; adhvan \[word\]; time; path; method; road; time;
     distance.”
 ------------------------------------------------------------------------
-- *yukṣvā* \< *yuj*
+- *yukṣvā* ← *yuj*
 - \[verb\], singular, Aorist imperative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -36,15 +36,15 @@ title = "Rig Veda 7.42.2"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *sute* \< *suta*
+- *sute* ← *suta*
 - \[noun\], locative, singular, masculine
 - “Soma.”
 ------------------------------------------------------------------------
-- *harito* \< *haritaḥ* \< *harit*
+- *harito* ← *haritaḥ* ← *harit*
 - \[noun\], accusative, plural, masculine
 - “pale; green; bay; yellow.”
 ------------------------------------------------------------------------
-- *rohitaś* \< *rohitaḥ* \< *rohit*
+- *rohitaś* ← *rohitaḥ* ← *rohit*
 - \[noun\], accusative, plural, masculine
 - “red; red.”
 ------------------------------------------------------------------------
@@ -52,7 +52,7 @@ title = "Rig Veda 7.42.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], accusative, dual, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -60,36 +60,36 @@ title = "Rig Veda 7.42.2"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *sadmann* \< *sadman*
+- *sadmann* ← *sadman*
 - \[noun\], locative, singular, neuter
 - “seat; house; stable; dwelling.”
 ------------------------------------------------------------------------
-- *aruṣā* \< *aruṣāḥ* \< *aruṣa*
+- *aruṣā* ← *aruṣāḥ* ← *aruṣa*
 - \[noun\], nominative, plural, masculine
 - “red; red.”
 ------------------------------------------------------------------------
-- *vīravāho* \< *vīra*
+- *vīravāho* ← *vīra*
 - \[noun\], masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *vīravāho* \< *vāhaḥ* \< *vāh*
+- *vīravāho* ← *vāhaḥ* ← *vāh*
 - \[noun\], nominative, plural, masculine
 - “vah.”
 ------------------------------------------------------------------------
-- *huve* \< *hvā*
+- *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *devānāṃ* \< *devānām* \< *deva*
+- *devānāṃ* ← *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *janimāni* \< *janiman*
+- *janimāni* ← *janiman*
 - \[noun\], accusative, plural, neuter
 - “birth; offspring; origin; kind; being.”
 ------------------------------------------------------------------------
-- *sattaḥ* \< *sad*
+- *sattaḥ* ← *sad*
 - \[verb noun\], nominative, singular
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”

@@ -6,11 +6,11 @@ title = "Rig Veda 1.54.1"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asmin* \< *idam*
+- *asmin* ← *idam*
 - \[noun\], locative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -18,47 +18,47 @@ title = "Rig Veda 1.54.1"
 - \[noun\], locative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *pṛtsv* \< *pṛtsu* \< *pṛt*
+- *pṛtsv* ← *pṛtsu* ← *pṛt*
 - \[noun\], locative, plural, feminine
 - “battle.”
 ------------------------------------------------------------------------
-- *aṃhasi* \< *aṃhas*
+- *aṃhasi* ← *aṃhas*
 - \[noun\], locative, singular, neuter
 - “trouble; sin.”
 ------------------------------------------------------------------------
 - *nahi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *antaḥ* \< *anta*
+- *antaḥ* ← *anta*
 - \[noun\], nominative, singular, masculine
 - “end; last syllable; end; end; boundary; inside; border; death; anta
     \[word\]; edge; end; shore; limit; region; outskirt; destruction;
     boundary; limit; anta; termination; corner; conclusion; hem; end;
     ant; edge.”
 ------------------------------------------------------------------------
-- *śavasaḥ* \< *śavas*
+- *śavasaḥ* ← *śavas*
 - \[noun\], genitive, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *parīṇaśe* \< *parīṇaś* \< *√naś*
+- *parīṇaśe* ← *parīṇaś* ← *√naś*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *akrandayo* \< *akrandayaḥ* \< *kranday* \< *√krand*
+- *akrandayo* ← *akrandayaḥ* ← *kranday* ← *√krand*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *nadyo* \< *nadyaḥ* \< *nadī*
+- *nadyo* ← *nadyaḥ* ← *nadī*
 - \[noun\], accusative, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
 ------------------------------------------------------------------------
-- *roruvad* \< *roruvat* \< *roro* \< *√ru*
+- *roruvad* ← *roruvat* ← *roro* ← *√ru*
 - \[verb noun\], nominative, singular
 - “bellow.”
 ------------------------------------------------------------------------
-- *vanā* \< *vana*
+- *vanā* ← *vana*
 - \[noun\], accusative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
@@ -70,11 +70,11 @@ title = "Rig Veda 1.54.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *kṣoṇīr* \< *kṣoṇīḥ* \< *kṣoṇī*
+- *kṣoṇīr* ← *kṣoṇīḥ* ← *kṣoṇī*
 - \[noun\], nominative, singular, feminine
 - “Earth.”
 ------------------------------------------------------------------------
-- *bhiyasā* \< *bhiyas*
+- *bhiyasā* ← *bhiyas*
 - \[noun\], instrumental, singular, masculine
 - “fear.”
 ------------------------------------------------------------------------
@@ -82,7 +82,7 @@ title = "Rig Veda 1.54.1"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *ārata* \< *ṛch*
+- *ārata* ← *ṛch*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”

@@ -10,49 +10,49 @@ title = "Rig Veda 9.93.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *pipya* \< *pipye* \< *pyā*
+- *pipya* ← *pipye* ← *pyā*
 - \[verb\], singular, Perfect indicative
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
-- *ūdhar* \< *ūdhas*
+- *ūdhar* ← *ūdhas*
 - \[noun\], nominative, singular, neuter
 - “udder; ūdhas \[word\]; night.”
 ------------------------------------------------------------------------
-- *aghnyāyā* \< *aghnyāyāḥ* \< *aghnyā*
+- *aghnyāyā* ← *aghnyāyāḥ* ← *aghnyā*
 - \[noun\], genitive, singular, feminine
 - “cow.”
 ------------------------------------------------------------------------
-- *indur* \< *induḥ* \< *indu*
+- *indur* ← *induḥ* ← *indu*
 - \[noun\], nominative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *dhārābhiḥ* \< *dhārā*
+- *dhārābhiḥ* ← *dhārā*
 - \[noun\], instrumental, plural, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *sacate* \< *sac*
+- *sacate* ← *sac*
 - \[verb\], singular, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *sumedhāḥ* \< *sumedhas*
+- *sumedhāḥ* ← *sumedhas*
 - \[noun\], nominative, singular, masculine
 - “wise.”
 ------------------------------------------------------------------------
-- *mūrdhānaṃ* \< *mūrdhānam* \< *mūrdhan*
+- *mūrdhānaṃ* ← *mūrdhānam* ← *mūrdhan*
 - \[noun\], accusative, singular, masculine
 - “head; battlefront; peak; top; mūrdhan \[word\]; leader; top.”
 ------------------------------------------------------------------------
-- *gāvaḥ* \< *go*
+- *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *payasā* \< *payas*
+- *payasā* ← *payas*
 - \[noun\], instrumental, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
-- *camūṣv* \< *camūṣu* \< *camū*
+- *camūṣv* ← *camūṣu* ← *camū*
 - \[noun\], locative, plural, feminine
 - “army; camū; Camū.”
 ------------------------------------------------------------------------
@@ -60,11 +60,11 @@ title = "Rig Veda 9.93.3"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *śrīṇanti* \< *śrī*
+- *śrīṇanti* ← *śrī*
 - \[verb\], plural, Present indikative
 - “cook; boil; heat; cook; mix.”
 ------------------------------------------------------------------------
-- *vasubhir* \< *vasubhiḥ* \< *vasu*
+- *vasubhir* ← *vasubhiḥ* ← *vasu*
 - \[noun\], instrumental, plural, neuter
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
@@ -72,6 +72,6 @@ title = "Rig Veda 9.93.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *niktaiḥ* \< *nij*
+- *niktaiḥ* ← *nij*
 - \[verb noun\], instrumental, plural
 ------------------------------------------------------------------------

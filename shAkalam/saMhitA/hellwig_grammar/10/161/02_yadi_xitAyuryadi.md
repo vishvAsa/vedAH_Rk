@@ -6,12 +6,12 @@ title = "Rig Veda 10.161.2"
 - \[adverb\]
 - “if; in case.”
 ------------------------------------------------------------------------
-- *kṣitāyur* \< *kṣita* \< *kṣi*
+- *kṣitāyur* ← *kṣita* ← *kṣi*
 - \[verb noun\]
 - “decrease; emaciate; vanish; kill; wane; destroy; run down; elapse;
     lose; lose; gasify; decline; decay; corrupt.”
 ------------------------------------------------------------------------
-- *kṣitāyur* \< *āyuḥ* \< *āyus*
+- *kṣitāyur* ← *āyuḥ* ← *āyus*
 - \[noun\], nominative, singular, masculine
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------
@@ -23,7 +23,7 @@ title = "Rig Veda 10.161.2"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *pareto* \< *paretaḥ* \< *pare* \< *√i*
+- *pareto* ← *paretaḥ* ← *pare* ← *√i*
 - \[verb noun\], nominative, singular
 - “travel; depart; go; die.”
 ------------------------------------------------------------------------
@@ -31,15 +31,15 @@ title = "Rig Veda 10.161.2"
 - \[adverb\]
 - “if; in case.”
 ------------------------------------------------------------------------
-- *mṛtyor* \< *mṛtyoḥ* \< *mṛtyu*
+- *mṛtyor* ← *mṛtyoḥ* ← *mṛtyu*
 - \[noun\], genitive, singular, masculine
 - “death; Yama; māraṇa; Mṛtyu.”
 ------------------------------------------------------------------------
-- *antikaṃ* \< *antikam* \< *antika*
+- *antikaṃ* ← *antikam* ← *antika*
 - \[noun\], accusative, singular, neuter
 - “vicinity; proximity.”
 ------------------------------------------------------------------------
-- *nīta* \< *nītaḥ* \< *nī*
+- *nīta* ← *nītaḥ* ← *nī*
 - \[verb noun\], nominative, singular
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
@@ -49,7 +49,7 @@ title = "Rig Veda 10.161.2"
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -59,32 +59,32 @@ title = "Rig Veda 10.161.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *harāmi* \< *hṛ*
+- *harāmi* ← *hṛ*
 - \[verb\], singular, Present indikative
 - “cure; remove; kidnap; rob; take away; get; destroy; take; extract;
     collect; seize; clean; offer; drain; pick; take out; bring; accept;
     sever; produce; conquer; steal; deprive; press out.”
 ------------------------------------------------------------------------
-- *nirṛter* \< *nirṛteḥ* \< *nirṛti*
+- *nirṛter* ← *nirṛteḥ* ← *nirṛti*
 - \[noun\], genitive, singular, feminine
 - “destruction; Nirṛti; adversity.”
 ------------------------------------------------------------------------
-- *upasthād* \< *upasthāt* \< *upastha*
+- *upasthād* ← *upasthāt* ← *upastha*
 - \[noun\], ablative, singular, neuter
 - “genitalia; lap; sexual desire; anus.”
 ------------------------------------------------------------------------
-- *aspārṣam* \< *spṛ*
+- *aspārṣam* ← *spṛ*
 - \[verb\], singular, Athematic s aor. (Ind.)
 ------------------------------------------------------------------------
-- *enaṃ* \< *enam* \< *enad*
+- *enaṃ* ← *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
-- *śataśāradāya* \< *śata*
+- *śataśāradāya* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *śataśāradāya* \< *śāradāya* \< *śārada*
+- *śataśāradāya* ← *śāradāya* ← *śārada*
 - \[noun\], dative, singular, masculine
 - “Śārada; Śārada; dita.”
 ------------------------------------------------------------------------

@@ -6,19 +6,19 @@ title = "Rig Veda 3.50.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *saparyū* \< *saparyu*
+- *saparyū* ← *saparyu*
 - \[noun\], accusative, dual, masculine
 - “deferent.”
 ------------------------------------------------------------------------
-- *javase* \< *javas*
+- *javase* ← *javas*
 - \[noun\], dative, singular, neuter
 - “speed.”
 ------------------------------------------------------------------------
-- *yunajmi* \< *yuj*
+- *yunajmi* ← *yuj*
 - \[verb\], singular, Present indikative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -26,7 +26,7 @@ title = "Rig Veda 3.50.2"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *yayor* \< *yayoḥ* \< *yad*
+- *yayor* ← *yayoḥ* ← *yad*
 - \[noun\], genitive, dual, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -34,14 +34,14 @@ title = "Rig Veda 3.50.2"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *pradivaḥ* \< *pradiv*
+- *pradivaḥ* ← *pradiv*
 - \[noun\], ablative, singular, masculine
 - “age-old; long.”
 ------------------------------------------------------------------------
-- *śruṣṭim* \< *śruṣṭi*
+- *śruṣṭim* ← *śruṣṭi*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *āvaḥ* \< *av*
+- *āvaḥ* ← *av*
 - \[verb\], singular, Imperfect
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
@@ -49,44 +49,44 @@ title = "Rig Veda 3.50.2"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dheyur* \< *dheyuḥ* \< *dhā*
+- *dheyur* ← *dheyuḥ* ← *dhā*
 - \[verb\], plural, Aorist optative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *harayaḥ* \< *hari*
+- *harayaḥ* ← *hari*
 - \[noun\], nominative, plural, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *suśipra* \< *su*
+- *suśipra* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśipra* \< *śipra* \< *śiprā*
+- *suśipra* ← *śipra* ← *śiprā*
 - \[noun\], vocative, singular, masculine
 - “lip; śiprā.”
 ------------------------------------------------------------------------
-- *pibā* \< *pā*
+- *pibā* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *tv* \< *tu*
+- *tv* ← *tu*
 - \[adverb\]
 - “now; then; but; and; now; however; then; then; surely.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *suṣutasya* \< *suṣuta*
+- *suṣutasya* ← *suṣuta*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *cāroḥ* \< *cāru*
+- *cāroḥ* ← *cāru*
 - \[noun\], genitive, singular, masculine
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
 ------------------------------------------------------------------------

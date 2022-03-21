@@ -2,68 +2,68 @@
 title = "Rig Veda 1.51.11"
 
 +++
--   *mandiṣṭa* \< *mand*
+-   *mandiṣṭa* ← *mand*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “rejoice; exhilarate.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *uśane* \< *uśanas*
+- *uśane* ← *uśanas*
 - \[noun\], locative, singular, masculine
 - “Uśanas; Uśanas; uśanas \[word\]; Uśanas; Venus.”
 ------------------------------------------------------------------------
-- *kāvye* \< *kāvya*
+- *kāvye* ← *kāvya*
 - \[noun\], locative, singular, masculine
 - “Uśanas; poem; Kāvya; wisdom.”
 ------------------------------------------------------------------------
-- *sacāṃ* \< *saca*
+- *sacāṃ* ← *saca*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vaṅkū* \< *vaṅku*
+- *vaṅkū* ← *vaṅku*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------
-- *vaṅkutarādhi* \< *vaṅkutarā* \< *vaṅkutara*
+- *vaṅkutarādhi* ← *vaṅkutarā* ← *vaṅkutara*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------
-- *vaṅkutarādhi* \< *adhi*
+- *vaṅkutarādhi* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *tiṣṭhati* \< *sthā*
+- *tiṣṭhati* ← *sthā*
 - \[verb\], singular, Present indikative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *ugro* \< *ugraḥ* \< *ugra*
+- *ugro* ← *ugraḥ* ← *ugra*
 - \[noun\], nominative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *yayiṃ* \< *yayim* \< *yayi*
+- *yayiṃ* ← *yayim* ← *yayi*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *nir* \< *niḥ*
+- *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *apaḥ* \< *ap*
+- *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *srotasāsṛjad* \< *srotasā* \< *srotas*
+- *srotasāsṛjad* ← *srotasā* ← *srotas*
 - \[noun\], instrumental, singular, neuter
 - “srotas; vessel; current; torrent; srotas \[word\]; flow; cavity;
     orifice; passage; tube.”
 ------------------------------------------------------------------------
-- *srotasāsṛjad* \< *asṛjat* \< *sṛj*
+- *srotasāsṛjad* ← *asṛjat* ← *sṛj*
 - \[verb\], singular, Imperfect
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
@@ -72,19 +72,19 @@ title = "Rig Veda 1.51.11"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *śuṣṇasya* \< *śuṣṇa*
+- *śuṣṇasya* ← *śuṣṇa*
 - \[noun\], genitive, singular, masculine
 - “Śuṣṇa.”
 ------------------------------------------------------------------------
-- *dṛṃhitā* \< *dṛṃhitāḥ* \< *dṛṃhay* \< *√dṛh*
+- *dṛṃhitā* ← *dṛṃhitāḥ* ← *dṛṃhay* ← *√dṛh*
 - \[verb noun\], accusative, plural
 ------------------------------------------------------------------------
-- *airayat* \< *īray* \< *√īr*
+- *airayat* ← *īray* ← *√īr*
 - \[verb\], singular, Imperfect
 - “name; describe; propel; shoot; state; call; raise; expel; tell;
     enumerate.”
 ------------------------------------------------------------------------
-- *puraḥ* \< *pur*
+- *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------

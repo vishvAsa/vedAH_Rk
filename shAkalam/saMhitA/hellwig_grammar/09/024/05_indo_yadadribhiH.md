@@ -2,40 +2,40 @@
 title = "Rig Veda 9.24.5"
 
 +++
--   *indo* \< *indu*
+-   *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *adribhiḥ* \< *adri*
+- *adribhiḥ* ← *adri*
 - \[noun\], instrumental, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *sutaḥ* \< *su*
+- *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *pavitram* \< *pavitra*
+- *pavitram* ← *pavitra*
 - \[noun\], accusative, singular, neuter
 - “strainer.”
 ------------------------------------------------------------------------
-- *paridhāvasi* \< *paridhāv* \< *√dhāv*
+- *paridhāvasi* ← *paridhāv* ← *√dhāv*
 - \[verb\], singular, Present indikative
 - “run; run; permeate.”
 ------------------------------------------------------------------------
 - *aram*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dhāmne* \< *dhāman*
+- *dhāmne* ← *dhāman*
 - \[noun\], dative, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”

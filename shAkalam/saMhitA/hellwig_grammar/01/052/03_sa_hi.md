@@ -2,7 +2,7 @@
 title = "Rig Veda 1.52.3"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -12,73 +12,73 @@ title = "Rig Veda 1.52.3"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *dvaro* \< *dvaraḥ* \< *dvara*
+- *dvaro* ← *dvaraḥ* ← *dvara*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *dvariṣu* \< *dvarin*
+- *dvariṣu* ← *dvarin*
 - \[noun\], locative, plural, masculine
 ------------------------------------------------------------------------
-- *vavra* \< *vavraḥ* \< *vavra*
+- *vavra* ← *vavraḥ* ← *vavra*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *ūdhani* \< *ūdhas*
+- *ūdhani* ← *ūdhas*
 - \[noun\], locative, singular, neuter
 - “udder; ūdhas \[word\]; night.”
 ------------------------------------------------------------------------
-- *candrabudhno* \< *candra*
+- *candrabudhno* ← *candra*
 - \[noun\]
 - “aglitter(p); shining.”
 ------------------------------------------------------------------------
-- *candrabudhno* \< *budhnaḥ* \< *budhna*
+- *candrabudhno* ← *budhnaḥ* ← *budhna*
 - \[noun\], nominative, singular, masculine
 - “bottom; bottom; base.”
 ------------------------------------------------------------------------
-- *madavṛddho* \< *mada*
+- *madavṛddho* ← *mada*
 - \[noun\], masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *madavṛddho* \< *vṛddhaḥ* \< *vṛdh*
+- *madavṛddho* ← *vṛddhaḥ* ← *vṛdh*
 - \[verb noun\], nominative, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *manīṣibhiḥ* \< *manīṣin*
+- *manīṣibhiḥ* ← *manīṣin*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ahve* \< *hvā*
+- *ahve* ← *hvā*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *svapasyayā* \< *svapasyā*
+- *svapasyayā* ← *svapasyā*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *dhiyā* \< *dhī*
+- *dhiyā* ← *dhī*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *maṃhiṣṭharātiṃ* \< *maṃhiṣṭha*
+- *maṃhiṣṭharātiṃ* ← *maṃhiṣṭha*
 - \[noun\]
 - “big.”
 ------------------------------------------------------------------------
-- *maṃhiṣṭharātiṃ* \< *rātim* \< *rāti*
+- *maṃhiṣṭharātiṃ* ← *rātim* ← *rāti*
 - \[noun\], accusative, singular, masculine
 - “gift; bounty; favor.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -88,10 +88,10 @@ title = "Rig Veda 1.52.3"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *paprir* \< *papriḥ* \< *papri*
+- *paprir* ← *papriḥ* ← *papri*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *andhasaḥ* \< *andhas*
+- *andhasaḥ* ← *andhas*
 - \[noun\], genitive, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------

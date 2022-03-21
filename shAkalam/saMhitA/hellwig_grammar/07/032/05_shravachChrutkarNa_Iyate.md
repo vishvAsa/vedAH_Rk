@@ -2,63 +2,63 @@
 title = "Rig Veda 7.32.5"
 
 +++
--   *śravac* \< *śravat* \< *śru*
+-   *śravac* ← *śravat* ← *śru*
 - \[verb\], singular, Aorist conj./subj.
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *chrutkarṇa* \< *śrutkarṇaḥ* \< *śrutkarṇa*
+- *chrutkarṇa* ← *śrutkarṇaḥ* ← *śrutkarṇa*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *īyate* \< *ī* \< *√i*
+- *īyate* ← *ī* ← *√i*
 - \[verb\], singular, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------
-- *vasūnāṃ* \< *vasūnām* \< *vasu*
+- *vasūnāṃ* ← *vasūnām* ← *vasu*
 - \[noun\], genitive, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *nū* \< *nu*
+- *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mardhiṣad* \< *mardhiṣat* \< *mṛdh*
+- *mardhiṣad* ← *mardhiṣat* ← *mṛdh*
 - \[verb\], singular, Aorist conj./subj.
 - “neglect.”
 ------------------------------------------------------------------------
-- *giraḥ* \< *gir*
+- *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *sadyaś* \< *sadyas*
+- *sadyaś* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sahasrāṇi* \< *sahasra*
+- *sahasrāṇi* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *śatā* \< *śata*
+- *śatā* ← *śata*
 - \[noun\], accusative, plural, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *dadan* \< *dadat* \< *dā*
+- *dadan* ← *dadat* ← *dā*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
@@ -69,14 +69,14 @@ title = "Rig Veda 7.32.5"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *ditsantam* \< *dits* \< *√dā*
+- *ditsantam* ← *dits* ← *√dā*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *minat* \< *mī*
+- *minat* ← *mī*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “transgress; damage.”
 ------------------------------------------------------------------------

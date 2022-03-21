@@ -6,7 +6,7 @@ title = "Rig Veda 8.49.10"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *kaṇve* \< *kaṇva*
+- *kaṇve* ← *kaṇva*
 - \[noun\], locative, singular, masculine
 - “Kaṇva; Kaṇva; kaṇva \[word\].”
 ------------------------------------------------------------------------
@@ -14,7 +14,7 @@ title = "Rig Veda 8.49.10"
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *trasadasyavi* \< *trasadasyu*
+- *trasadasyavi* ← *trasadasyu*
 - \[noun\], locative, singular, masculine
 - “Trasadasyu.”
 ------------------------------------------------------------------------
@@ -22,37 +22,37 @@ title = "Rig Veda 8.49.10"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *pakthe* \< *paktha*
+- *pakthe* ← *paktha*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *daśavraje* \< *daśavraja*
+- *daśavraje* ← *daśavraja*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
 - *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *gośarye* \< *gośarya*
+- *gośarye* ← *gośarya*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *asanor* \< *asanoḥ* \< *san*
+- *asanor* ← *asanoḥ* ← *san*
 - \[verb\], singular, Imperfect
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *ṛjiśvanīndra* \< *ṛjiśvani* \< *ṛjiśvan*
+- *ṛjiśvanīndra* ← *ṛjiśvani* ← *ṛjiśvan*
 - \[noun\], locative, singular, masculine
 - “Ṛjiśvan.”
 ------------------------------------------------------------------------
-- *ṛjiśvanīndra* \< *indra*
+- *ṛjiśvanīndra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *gomaddhiraṇyavat* \< *gomat*
+- *gomaddhiraṇyavat* ← *gomat*
 - \[noun\], accusative, singular, neuter
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------
-- *gomaddhiraṇyavat* \< *hiraṇyavat*
+- *gomaddhiraṇyavat* ← *hiraṇyavat*
 - \[noun\], accusative, singular, neuter
 - “possessing gold.”
 ------------------------------------------------------------------------

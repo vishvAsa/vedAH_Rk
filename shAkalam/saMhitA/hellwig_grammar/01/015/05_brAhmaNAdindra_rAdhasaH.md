@@ -2,7 +2,7 @@
 title = "Rig Veda 1.15.5"
 
 +++
--   *brāhmaṇād* \< *brāhmaṇāt* \< *brāhmaṇa*
+-   *brāhmaṇād* ← *brāhmaṇāt* ← *brāhmaṇa*
 - \[noun\], ablative, singular, neuter
 - “brahmanical.”
 ------------------------------------------------------------------------
@@ -11,19 +11,19 @@ title = "Rig Veda 1.15.5"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *rādhasaḥ* \< *rādhas*
+- *rādhasaḥ* ← *rādhas*
 - \[noun\], ablative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *pibā* \< *piba* \< *pā*
+- *pibā* ← *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *ṛtūṃr* \< *ṛtu*
+- *ṛtūṃr* ← *ṛtu*
 - \[noun\], accusative, plural, masculine
 - “season; turn; menstruation; ṛtu \[word\]; time period; order; six.”
 ------------------------------------------------------------------------
@@ -31,23 +31,23 @@ title = "Rig Veda 1.15.5"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *taveddhi* \< *tava* \< *tvad*
+- *taveddhi* ← *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *taveddhi* \< *id*
+- *taveddhi* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *taveddhi* \< *hi*
+- *taveddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *sakhyam* \< *sakhya*
+- *sakhyam* ← *sakhya*
 - \[noun\], nominative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *astṛtam* \< *astṛta*
+- *astṛtam* ← *astṛta*
 - \[noun\], nominative, singular, neuter
 - “durable; invincible.”
 ------------------------------------------------------------------------

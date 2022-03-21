@@ -7,22 +7,22 @@ title = "Rig Veda 1.52.9"
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *svaścandram* \< *svaścandra*
+- *svaścandram* ← *svaścandra*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *amavad* \< *amavat*
+- *amavad* ← *amavat*
 - \[noun\], accusative, singular, neuter
 - “impressive; strong.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *ukthyam* \< *ukthya*
+- *ukthyam* ← *ukthya*
 - \[noun\], accusative, singular, neuter
 - “applaudable.”
 ------------------------------------------------------------------------
-- *akṛṇvata* \< *kṛ*
+- *akṛṇvata* ← *kṛ*
 - \[verb\], plural, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -33,35 +33,35 @@ title = "Rig Veda 1.52.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *bhiyasā* \< *bhiyas*
+- *bhiyasā* ← *bhiyas*
 - \[noun\], instrumental, singular, masculine
 - “fear.”
 ------------------------------------------------------------------------
-- *rohaṇaṃ* \< *rohaṇam* \< *rohaṇa*
+- *rohaṇaṃ* ← *rohaṇam* ← *rohaṇa*
 - \[noun\], accusative, singular, neuter
 - “rohaṇa; climb.”
 ------------------------------------------------------------------------
-- *divaḥ* \< *div*
+- *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *yan* \< *yat*
+- *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *mānuṣapradhanā* \< *mānuṣa*
+- *mānuṣapradhanā* ← *mānuṣa*
 - \[noun\], masculine
 - “man; man.”
 ------------------------------------------------------------------------
-- *mānuṣapradhanā* \< *pradhanāḥ* \< *pradhana*
+- *mānuṣapradhanā* ← *pradhanāḥ* ← *pradhana*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *ūtayaḥ* \< *ūti*
+- *ūtayaḥ* ← *ūti*
 - \[noun\], nominative, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
@@ -69,14 +69,14 @@ title = "Rig Veda 1.52.9"
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *nṛṣāco* \< *nṛṣācaḥ* \< *nṛṣāc*
+- *nṛṣāco* ← *nṛṣācaḥ* ← *nṛṣāc*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *'madann* \< *amadan* \< *mad*
+- *'madann* ← *amadan* ← *mad*
 - \[verb\], plural, Imperfect
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------

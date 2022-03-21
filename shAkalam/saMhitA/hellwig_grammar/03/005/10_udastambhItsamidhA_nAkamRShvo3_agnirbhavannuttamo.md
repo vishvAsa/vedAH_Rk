@@ -6,51 +6,51 @@ title = "Rig Veda 3.5.10"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *astambhīt* \< *stambh*
+- *astambhīt* ← *stambh*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “paralyze; stiffen; fixate; fixate; stambh; rear; stop; strengthen;
     constipate.”
 ------------------------------------------------------------------------
-- *samidhā* \< *samidh*
+- *samidhā* ← *samidh*
 - \[noun\], instrumental, singular, feminine
 - “firewood; kindling; fuel; fire.”
 ------------------------------------------------------------------------
-- *nākam* \< *nāka*
+- *nākam* ← *nāka*
 - \[noun\], accusative, singular, masculine
 - “sky; celestial sphere; Svarga; nāka \[word\].”
 ------------------------------------------------------------------------
-- *ṛṣvo* \< *ṛṣvaḥ* \< *ṛṣva*
+- *ṛṣvo* ← *ṛṣvaḥ* ← *ṛṣva*
 - \[noun\], nominative, singular, masculine
 - “distinguished; high; noble; enormous.”
 ------------------------------------------------------------------------
-- *'gnir* \< *agniḥ* \< *agni*
+- *'gnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *bhavann* \< *bhavan* \< *bhū*
+- *bhavann* ← *bhavan* ← *bhū*
 - \[verb noun\], nominative, singular
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *uttamo* \< *uttamaḥ* \< *uttama*
+- *uttamo* ← *uttamaḥ* ← *uttama*
 - \[noun\], nominative, singular, masculine
 - “best; excellent; highest; better; extreme; last; first; topmost;
     chief(a); higher; highest; maximal; uttama \[word\]; prevailing;
     finest.”
 ------------------------------------------------------------------------
-- *rocanānām* \< *rocana*
+- *rocanānām* ← *rocana*
 - \[noun\], genitive, plural, neuter
 - “light; celestial sphere.”
 ------------------------------------------------------------------------
-- *yadī* \< *yadi*
+- *yadī* ← *yadi*
 - \[adverb\]
 - “if; in case.”
 ------------------------------------------------------------------------
-- *bhṛgubhyaḥ* \< *bhṛgu*
+- *bhṛgubhyaḥ* ← *bhṛgu*
 - \[noun\], ablative, plural, masculine
 - “Bhṛgu; precipice; Bhṛgu; Bhṛgu; Venus; bhṛgu \[word\].”
 ------------------------------------------------------------------------
@@ -58,7 +58,7 @@ title = "Rig Veda 3.5.10"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *mātariśvā* \< *mātariśvan*
+- *mātariśvā* ← *mātariśvan*
 - \[noun\], nominative, singular, masculine
 - “wind; Mātariśvan; Vayu; vāta.”
 ------------------------------------------------------------------------
@@ -66,16 +66,16 @@ title = "Rig Veda 3.5.10"
 - \[adverb\]
 - “secretly.”
 ------------------------------------------------------------------------
-- *santaṃ* \< *santam* \< *as*
+- *santaṃ* ← *santam* ← *as*
 - \[verb noun\], accusative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *havyavāhaṃ* \< *havyavāham* \< *havyavāha*
+- *havyavāhaṃ* ← *havyavāham* ← *havyavāha*
 - \[noun\], accusative, singular, masculine
 - “Agni; fire; sacrificial fire.”
 ------------------------------------------------------------------------
-- *samīdhe* \< *samindh* \< *√indh*
+- *samīdhe* ← *samindh* ← *√indh*
 - \[verb\], singular, Perfect indicative
 - “kindle; blaze.”
 ------------------------------------------------------------------------

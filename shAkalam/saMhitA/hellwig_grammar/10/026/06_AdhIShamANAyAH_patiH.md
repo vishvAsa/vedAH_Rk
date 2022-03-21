@@ -2,38 +2,38 @@
 title = "Rig Veda 10.26.6"
 
 +++
--   *ādhīṣamāṇāyāḥ* \< *adhīṣ* \< *√iṣ*
+-   *ādhīṣamāṇāyāḥ* ← *adhīṣ* ← *√iṣ*
 - \[verb noun\], genitive, singular
 - “ask.”
 ------------------------------------------------------------------------
-- *patiḥ* \< *pati*
+- *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *śucāyāś* \< *śucāyāḥ* \< *śuca*
+- *śucāyāś* ← *śucāyāḥ* ← *śuca*
 - \[noun\], genitive, singular, feminine
 ------------------------------------------------------------------------
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *śucasya* \< *śuca*
+- *śucasya* ← *śuca*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *vāsovāyo* \< *vāsaḥ* \< *vāsas*
+- *vāsovāyo* ← *vāsaḥ* ← *vāsas*
 - \[noun\], neuter
 - “clothing; fabric; garment; feather; dress; envelope.”
 ------------------------------------------------------------------------
-- *vāsovāyo* \< *vāyaḥ* \< *vāya*
+- *vāsovāyo* ← *vāyaḥ* ← *vāya*
 - \[noun\], nominative, singular, masculine
 - “weaving.”
 ------------------------------------------------------------------------
-- *'vīnām* \< *avīnām* \< *avi*
+- *'vīnām* ← *avīnām* ← *avi*
 - \[noun\], genitive, plural, masculine
 - “sheep; avi \[word\]; menstruating woman; ewe.”
 ------------------------------------------------------------------------
@@ -41,11 +41,11 @@ title = "Rig Veda 10.26.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vāsāṃsi* \< *vāsas*
+- *vāsāṃsi* ← *vāsas*
 - \[noun\], accusative, plural, neuter
 - “clothing; fabric; garment; feather; dress; envelope.”
 ------------------------------------------------------------------------
-- *marmṛjat* \< *marmṛj* \< *√mṛj*
+- *marmṛjat* ← *marmṛj* ← *√mṛj*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “groom; wash; rub.”
 ------------------------------------------------------------------------

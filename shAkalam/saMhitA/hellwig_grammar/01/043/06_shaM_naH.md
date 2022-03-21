@@ -2,15 +2,15 @@
 title = "Rig Veda 1.43.6"
 
 +++
--   *śaṃ* \< *śam*
+-   *śaṃ* ← *śam*
 - \[adverb\]
 - “śam \[word\].”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *karaty* \< *karati* \< *kṛ*
+- *karaty* ← *karati* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -21,30 +21,30 @@ title = "Rig Veda 1.43.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *arvate* \< *arvant*
+- *arvate* ← *arvant*
 - \[noun\], dative, singular, masculine
 - “horse.”
 ------------------------------------------------------------------------
-- *sugam* \< *suga*
+- *sugam* ← *suga*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *meṣāya* \< *meṣa*
+- *meṣāya* ← *meṣa*
 - \[noun\], dative, singular, masculine
 - “sheep; ram; Naigameṣa.”
 ------------------------------------------------------------------------
-- *meṣye* \< *meṣī*
+- *meṣye* ← *meṣī*
 - \[noun\], dative, singular, feminine
 - “ewe; Dalbergia oojeinensis.”
 ------------------------------------------------------------------------
-- *nṛbhyo* \< *nṛbhyaḥ* \< *nṛ*
+- *nṛbhyo* ← *nṛbhyaḥ* ← *nṛ*
 - \[noun\], dative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nāribhyo* \< *nāribhyaḥ* \< *nārī*
+- *nāribhyo* ← *nāribhyaḥ* ← *nārī*
 - \[noun\], dative, plural, feminine
 - “woman; wife; female.”
 ------------------------------------------------------------------------
-- *gave* \< *go*
+- *gave* ← *go*
 - \[noun\], dative, singular, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”

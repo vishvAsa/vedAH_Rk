@@ -2,38 +2,38 @@
 title = "Rig Veda 8.44.27"
 
 +++
--   *yajñānāṃ* \< *yajñānām* \< *yajña*
+-   *yajñānāṃ* ← *yajñānām* ← *yajña*
 - \[noun\], genitive, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *rathye* \< *rathī*
+- *rathye* ← *rathī*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tigmajambhāya* \< *tigma*
+- *tigmajambhāya* ← *tigma*
 - \[noun\]
 - “sharp; pointed; fiery.”
 ------------------------------------------------------------------------
-- *tigmajambhāya* \< *jambhāya* \< *jambha*
+- *tigmajambhāya* ← *jambhāya* ← *jambha*
 - \[noun\], dative, singular, masculine
 - “Jambha; citron; jaw; tooth; molar; back tooth.”
 ------------------------------------------------------------------------
-- *vīﾱave* \< *vīḍu*
+- *vīﾱave* ← *vīḍu*
 - \[noun\], dative, singular, masculine
 - “hard; firm.”
 ------------------------------------------------------------------------
-- *stomair* \< *stomaiḥ* \< *stoma*
+- *stomair* ← *stomaiḥ* ← *stoma*
 - \[noun\], instrumental, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *iṣemāgnaye* \< *iṣema* \< *iṣ*
+- *iṣemāgnaye* ← *iṣema* ← *iṣ*
 - \[verb\], plural, Present optative
 - “send.”
 ------------------------------------------------------------------------
-- *iṣemāgnaye* \< *agnaye* \< *agni*
+- *iṣemāgnaye* ← *agnaye* ← *agni*
 - \[noun\], dative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;

@@ -2,44 +2,44 @@
 title = "Rig Veda 6.15.4"
 
 +++
--   *dyutānaṃ* \< *dyutānam* \< *dyut*
+-   *dyutānaṃ* ← *dyutānam* ← *dyut*
 - \[verb noun\], accusative, singular
 - “shine; inflame.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *atithiṃ* \< *atithim* \< *atithi*
+- *atithiṃ* ← *atithim* ← *atithi*
 - \[noun\], accusative, singular, masculine
 - “guest; atithi \[word\]; Atithi.”
 ------------------------------------------------------------------------
-- *svarṇaram* \< *svarṇṛ*
+- *svarṇaram* ← *svarṇṛ*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *agniṃ* \< *agnim* \< *agni*
+- *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *hotāram* \< *hotṛ*
+- *hotāram* ← *hotṛ*
 - \[noun\], accusative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *manuṣaḥ* \< *manus*
+- *manuṣaḥ* ← *manus*
 - \[noun\], genitive, singular, masculine
 - “Manu; man.”
 ------------------------------------------------------------------------
-- *svadhvaram* \< *su*
+- *svadhvaram* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svadhvaram* \< *adhvaram* \< *adhvara*
+- *svadhvaram* ← *adhvaram* ← *adhvara*
 - \[noun\], accusative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *vipraṃ* \< *vipram* \< *vipra*
+- *vipraṃ* ← *vipram* ← *vipra*
 - \[noun\], accusative, singular, masculine
 - “eloquent; stimulated; divine.”
 ------------------------------------------------------------------------
@@ -47,31 +47,31 @@ title = "Rig Veda 6.15.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dyukṣavacasaṃ* \< *dyukṣa*
+- *dyukṣavacasaṃ* ← *dyukṣa*
 - \[noun\]
 - “celestial; divine; divine; brilliant.”
 ------------------------------------------------------------------------
-- *dyukṣavacasaṃ* \< *vacasam* \< *vacas*
+- *dyukṣavacasaṃ* ← *vacasam* ← *vacas*
 - \[noun\], accusative, singular, masculine
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------
-- *suvṛktibhir* \< *suvṛktibhiḥ* \< *suvṛkti*
+- *suvṛktibhir* ← *suvṛktibhiḥ* ← *suvṛkti*
 - \[noun\], instrumental, plural, feminine
 - “praise.”
 ------------------------------------------------------------------------
-- *havyavāham* \< *havyavāha*
+- *havyavāham* ← *havyavāha*
 - \[noun\], accusative, singular, masculine
 - “Agni; fire; sacrificial fire.”
 ------------------------------------------------------------------------
-- *aratiṃ* \< *aratim* \< *arati*
+- *aratiṃ* ← *aratim* ← *arati*
 - \[noun\], accusative, singular, masculine
 - “charioteer.”
 ------------------------------------------------------------------------
-- *devam* \< *deva*
+- *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *ṛñjase* \< *ṛj*
+- *ṛñjase* ← *ṛj*
 - \[verb noun\]
 ------------------------------------------------------------------------

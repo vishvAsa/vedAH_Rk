@@ -2,7 +2,7 @@
 title = "Rig Veda 10.103.4"
 
 +++
--   *bṛhaspate* \< *bṛhaspati*
+-   *bṛhaspate* ← *bṛhaspati*
 - \[noun\], vocative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
@@ -10,62 +10,62 @@ title = "Rig Veda 10.103.4"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *dīyā* \< *dī*
+- *dīyā* ← *dī*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------
-- *rathena* \< *ratha*
+- *rathena* ← *ratha*
 - \[noun\], instrumental, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *rakṣohāmitrāṃ* \< *rakṣaḥ* \< *rakṣas*
+- *rakṣohāmitrāṃ* ← *rakṣaḥ* ← *rakṣas*
 - \[noun\], neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
 ------------------------------------------------------------------------
-- *rakṣohāmitrāṃ* \< *hā* \< *han*
+- *rakṣohāmitrāṃ* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
-- *rakṣohāmitrāṃ* \< *amitrāṃ* \< *amitra*
+- *rakṣohāmitrāṃ* ← *amitrāṃ* ← *amitra*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe.”
 ------------------------------------------------------------------------
-- *apabādhamānaḥ* \< *apabādh* \< *√bādh*
+- *apabādhamānaḥ* ← *apabādh* ← *√bādh*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *prabhañjan* \< *prabhañj* \< *√bhañj*
+- *prabhañjan* ← *prabhañj* ← *√bhañj*
 - \[verb noun\], nominative, singular
 - “destroy; crush.”
 ------------------------------------------------------------------------
-- *senāḥ* \< *senā*
+- *senāḥ* ← *senā*
 - \[noun\], accusative, plural, feminine
 - “army; senā \[word\]; armament.”
 ------------------------------------------------------------------------
-- *pramṛṇo* \< *pramṛṇaḥ* \< *pramṛṇa*
+- *pramṛṇo* ← *pramṛṇaḥ* ← *pramṛṇa*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *yudhā* \< *yudh*
+- *yudhā* ← *yudh*
 - \[noun\], instrumental, singular, feminine
 - “battle; fight; war; combat.”
 ------------------------------------------------------------------------
-- *jayann* \< *jayan* \< *ji*
+- *jayann* ← *jayan* ← *ji*
 - \[verb noun\], nominative, singular
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *asmākam* \< *mad*
+- *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *edhy* \< *edhi* \< *as*
+- *edhy* ← *edhi* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *avitā* \< *av*
+- *avitā* ← *av*
 - \[verb\], singular, periphrast. future
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *rathānām* \< *ratha*
+- *rathānām* ← *ratha*
 - \[noun\], genitive, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------

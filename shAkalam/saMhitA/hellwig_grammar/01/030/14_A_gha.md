@@ -9,35 +9,35 @@ title = "Rig Veda 1.30.14"
 - *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *tvāvān* \< *tvāvat*
+- *tvāvān* ← *tvāvat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *tmanāpta* \< *tmanā* \< *tman*
+- *tmanāpta* ← *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
 ------------------------------------------------------------------------
-- *tmanāpta* \< *āpta* \< *āp*
+- *tmanāpta* ← *āpta* ← *āp*
 - \[verb noun\], vocative, singular
 - “enter (a state); get; reach; obtain; equal.”
 ------------------------------------------------------------------------
-- *stotṛbhyo* \< *stotṛbhyaḥ* \< *stotṛ*
+- *stotṛbhyo* ← *stotṛbhyaḥ* ← *stotṛ*
 - \[noun\], dative, plural, masculine
 - “laudatory; worshiping.”
 ------------------------------------------------------------------------
-- *dhṛṣṇav* \< *dhṛṣṇu*
+- *dhṛṣṇav* ← *dhṛṣṇu*
 - \[noun\], vocative, singular, masculine
 - “brave; ferocious; strong.”
 ------------------------------------------------------------------------
-- *iyānaḥ* \< *i*
+- *iyānaḥ* ← *i*
 - \[verb noun\], nominative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *ṛṇor* \< *ṛṇoḥ* \< *ṛch*
+- *ṛṇor* ← *ṛṇoḥ* ← *ṛch*
 - \[verb\], singular, Present injunctive
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *akṣaṃ* \< *akṣam* \< *akṣa*
+- *akṣaṃ* ← *akṣam* ← *akṣa*
 - \[noun\], accusative, singular, masculine
 - “axle.”
 ------------------------------------------------------------------------
@@ -45,7 +45,7 @@ title = "Rig Veda 1.30.14"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *cakryoḥ* \< *cakrī*
+- *cakryoḥ* ← *cakrī*
 - \[noun\], locative, dual, feminine
 - “cakrikā.”
 ------------------------------------------------------------------------

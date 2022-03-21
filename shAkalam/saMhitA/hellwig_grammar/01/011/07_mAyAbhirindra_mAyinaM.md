@@ -2,7 +2,7 @@
 title = "Rig Veda 1.11.7"
 
 +++
--   *māyābhir* \< *māyābhiḥ* \< *māyā*
+-   *māyābhir* ← *māyābhiḥ* ← *māyā*
 - \[noun\], instrumental, plural, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
@@ -12,56 +12,56 @@ title = "Rig Veda 1.11.7"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *māyinaṃ* \< *māyinam* \< *māyin*
+- *māyinaṃ* ← *māyinam* ← *māyin*
 - \[noun\], accusative, singular, masculine
 - “artful; charming; crafty; deceptive.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śuṣṇam* \< *śuṣṇa*
+- *śuṣṇam* ← *śuṣṇa*
 - \[noun\], accusative, singular, masculine
 - “Śuṣṇa.”
 ------------------------------------------------------------------------
-- *avātiraḥ* \< *avatṛ* \< *√tṛ*
+- *avātiraḥ* ← *avatṛ* ← *√tṛ*
 - \[verb\], singular, Imperfect
 - “descend; be born; incarnate; come out; alight; overcome.”
 ------------------------------------------------------------------------
-- *viduṣ* \< *viduḥ* \< *vid*
+- *viduṣ* ← *viduḥ* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *ṭe* \< *tvad*
+- *ṭe* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tasya* \< *tad*
+- *tasya* ← *tad*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *medhirās* \< *medhirāḥ* \< *medhira*
+- *medhirās* ← *medhirāḥ* ← *medhira*
 - \[noun\], nominative, plural, masculine
 - “wise; intelligent.”
 ------------------------------------------------------------------------
-- *teṣāṃ* \< *teṣām* \< *tad*
+- *teṣāṃ* ← *teṣām* ← *tad*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *śravāṃsy* \< *śravāṃsi* \< *śravas*
+- *śravāṃsy* ← *śravāṃsi* ← *śravas*
 - \[noun\], accusative, plural, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *ut* \< *ud*
+- *ut* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *tira* \< *tṛ*
+- *tira* ← *tṛ*
 - \[verb\], singular, Present imperative
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------

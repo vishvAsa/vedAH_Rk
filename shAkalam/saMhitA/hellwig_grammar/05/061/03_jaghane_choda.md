@@ -2,14 +2,14 @@
 title = "Rig Veda 5.61.3"
 
 +++
--   *jaghane* \< *jaghana*
+-   *jaghane* ← *jaghana*
 - \[noun\], locative, singular, neuter
 - “hip; buttock; buttocks; vulva; vagina.”
 ------------------------------------------------------------------------
-- *coda* \< *codaḥ* \< *coda*
+- *coda* ← *codaḥ* ← *coda*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *eṣāṃ* \< *eṣām* \< *idam*
+- *eṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -17,19 +17,19 @@ title = "Rig Veda 5.61.3"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *sakthāni* \< *saktha*
+- *sakthāni* ← *saktha*
 - \[noun\], accusative, plural, neuter
 - “saktha \[word\].”
 ------------------------------------------------------------------------
-- *naro* \< *naraḥ* \< *nṛ*
+- *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *yamuḥ* \< *yam*
+- *yamuḥ* ← *yam*
 - \[verb\], plural, Aorist inj. (proh.)
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *putrakṛthe* \< *putrakṛtha*
+- *putrakṛthe* ← *putrakṛtha*
 - \[noun\], locative, singular, masculine
 - “reproduction.”
 ------------------------------------------------------------------------
@@ -37,7 +37,7 @@ title = "Rig Veda 5.61.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *janayaḥ* \< *jani*
+- *janayaḥ* ← *jani*
 - \[noun\], nominative, plural, feminine
 - “wife; jan; woman; jani \[word\]; birth.”
 ------------------------------------------------------------------------

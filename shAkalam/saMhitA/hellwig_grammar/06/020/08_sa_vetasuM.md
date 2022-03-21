@@ -2,40 +2,40 @@
 title = "Rig Veda 6.20.8"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vetasuṃ* \< *vetasum* \< *vetasu*
+- *vetasuṃ* ← *vetasum* ← *vetasu*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *daśamāyaṃ* \< *daśa* \< *daśan*
+- *daśamāyaṃ* ← *daśa* ← *daśan*
 - \[noun\]
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *daśamāyaṃ* \< *māyam* \< *māyā*
+- *daśamāyaṃ* ← *māyam* ← *māyā*
 - \[noun\], accusative, singular, masculine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
 ------------------------------------------------------------------------
-- *daśoṇiṃ* \< *daśoṇim* \< *daśoṇi*
+- *daśoṇiṃ* ← *daśoṇim* ← *daśoṇi*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *tūtujim* \< *tūtuji*
+- *tūtujim* ← *tūtuji*
 - \[noun\], accusative, singular, masculine
 - “exciting; avid; eager.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *svabhiṣṭisumnaḥ* \< *svabhiṣṭi*
+- *svabhiṣṭisumnaḥ* ← *svabhiṣṭi*
 - \[noun\]
 ------------------------------------------------------------------------
-- *svabhiṣṭisumnaḥ* \< *sumnaḥ* \< *sumna*
+- *svabhiṣṭisumnaḥ* ← *sumnaḥ* ← *sumna*
 - \[noun\], nominative, singular, masculine
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
@@ -43,22 +43,22 @@ title = "Rig Veda 6.20.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tugraṃ* \< *tugram* \< *tugra*
+- *tugraṃ* ← *tugram* ← *tugra*
 - \[noun\], accusative, singular, masculine
 - “Tugra; tugra \[word\].”
 ------------------------------------------------------------------------
-- *śaśvad* \< *śaśvat*
+- *śaśvad* ← *śaśvat*
 - \[adverb\]
 - “always; repeatedly; continually; wholly.”
 ------------------------------------------------------------------------
-- *ibhaṃ* \< *ibham* \< *ibha*
+- *ibhaṃ* ← *ibham* ← *ibha*
 - \[noun\], accusative, singular, masculine
 - “elephant.”
 ------------------------------------------------------------------------
-- *dyotanāya* \< *dyotana*
+- *dyotanāya* ← *dyotana*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *mātur* \< *mātuḥ* \< *mātṛ*
+- *mātur* ← *mātuḥ* ← *mātṛ*
 - \[noun\], genitive, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
@@ -74,12 +74,12 @@ title = "Rig Veda 6.20.8"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *sṛjā* \< *sṛjai* \< *sṛj*
+- *sṛjā* ← *sṛjai* ← *sṛj*
 - \[verb\], singular, Present imperative
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *iyadhyai* \< *i*
+- *iyadhyai* ← *i*
 - \[verb noun\]
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------

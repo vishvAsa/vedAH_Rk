@@ -2,16 +2,16 @@
 title = "Rig Veda 2.30.1"
 
 +++
--   *ṛtaṃ* \< *ṛtam* \< *ṛta*
+-   *ṛtaṃ* ← *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *devāya* \< *deva*
+- *devāya* ← *deva*
 - \[noun\], dative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *kṛṇvate* \< *kṛ*
+- *kṛṇvate* ← *kṛ*
 - \[verb noun\], dative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -22,20 +22,20 @@ title = "Rig Veda 2.30.1"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *savitra* \< *savitre* \< *savitṛ*
+- *savitra* ← *savitre* ← *savitṛ*
 - \[noun\], dative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *indrāyāhighne* \< *indrāya* \< *indra*
+- *indrāyāhighne* ← *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrāyāhighne* \< *ahi*
+- *indrāyāhighne* ← *ahi*
 - \[noun\], masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
 ------------------------------------------------------------------------
-- *indrāyāhighne* \< *ghne* \< *han*
+- *indrāyāhighne* ← *ghne* ← *han*
 - \[noun\], dative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
@@ -43,11 +43,11 @@ title = "Rig Veda 2.30.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *ramanta* \< *ramante* \< *ram*
+- *ramanta* ← *ramante* ← *ram*
 - \[verb\], plural, Present indikative
 - “delight; rejoice; love; frolic; desire; give; calm; break.”
 ------------------------------------------------------------------------
-- *āpaḥ* \< *ap*
+- *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -59,20 +59,20 @@ title = "Rig Veda 2.30.1"
 - \[noun\], accusative, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *yāty* \< *yāti* \< *yā*
+- *yāty* ← *yāti* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *aktur* \< *aktuḥ* \< *aktu*
+- *aktur* ← *aktuḥ* ← *aktu*
 - \[noun\], nominative, singular, masculine
 - “night; dark; beam.”
 ------------------------------------------------------------------------
-- *apāṃ* \< *apām* \< *ap*
+- *apāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *kiyāty* \< *kiyāti* \< *kiyat*
+- *kiyāty* ← *kiyāti* ← *kiyat*
 - \[noun\], locative, singular, neuter
 - “some(a); some(a).”
 ------------------------------------------------------------------------
@@ -80,16 +80,16 @@ title = "Rig Veda 2.30.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *prathamaḥ* \< *prathama*
+- *prathamaḥ* ← *prathama*
 - \[noun\], nominative, singular, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
 ------------------------------------------------------------------------
-- *sarga* \< *sargaḥ* \< *sarga*
+- *sarga* ← *sargaḥ* ← *sarga*
 - \[noun\], nominative, singular, masculine
 - “Creation; metempsychosis; discharge; torrent; birth; undertaking.”
 ------------------------------------------------------------------------
-- *āsām* \< *idam*
+- *āsām* ← *idam*
 - \[noun\], genitive, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------

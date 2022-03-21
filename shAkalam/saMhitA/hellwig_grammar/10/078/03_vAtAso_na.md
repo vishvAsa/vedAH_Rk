@@ -2,7 +2,7 @@
 title = "Rig Veda 10.78.3"
 
 +++
--   *vātāso* \< *vātāsaḥ* \< *vāta*
+-   *vātāso* ← *vātāsaḥ* ← *vāta*
 - \[noun\], nominative, plural, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
@@ -11,19 +11,19 @@ title = "Rig Veda 10.78.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dhunayo* \< *dhunayaḥ* \< *dhuni*
+- *dhunayo* ← *dhunayaḥ* ← *dhuni*
 - \[noun\], nominative, plural, masculine
 - “deafening; boisterous; noisy.”
 ------------------------------------------------------------------------
-- *jigatnavo* \< *jigatnavaḥ* \< *jigatnu*
+- *jigatnavo* ← *jigatnavaḥ* ← *jigatnu*
 - \[noun\], nominative, plural, masculine
 - “moving.”
 ------------------------------------------------------------------------
-- *'gnīnāṃ* \< *agnīnām* \< *agni*
+- *'gnīnāṃ* ← *agnīnām* ← *agni*
 - \[noun\], genitive, plural, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -33,30 +33,30 @@ title = "Rig Veda 10.78.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *jihvā* \< *jihvāḥ* \< *jihvā*
+- *jihvā* ← *jihvāḥ* ← *jihvā*
 - \[noun\], nominative, plural, feminine
 - “tongue; tongue; jihvā \[word\]; fire.”
 ------------------------------------------------------------------------
-- *virokiṇaḥ* \< *virokin*
+- *virokiṇaḥ* ← *virokin*
 - \[noun\], nominative, plural, masculine
 - “shining.”
 ------------------------------------------------------------------------
-- *varmaṇvanto* \< *varmaṇvantaḥ* \< *varmaṇvat*
+- *varmaṇvanto* ← *varmaṇvantaḥ* ← *varmaṇvat*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yodhāḥ* \< *yodha*
+- *yodhāḥ* ← *yodha*
 - \[noun\], nominative, plural, masculine
 - “soldier.”
 ------------------------------------------------------------------------
-- *śimīvantaḥ* \< *śimīvat*
+- *śimīvantaḥ* ← *śimīvat*
 - \[noun\], nominative, plural, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *pitṝṇāṃ* \< *pitṝṇām* \< *pitṛ*
+- *pitṝṇāṃ* ← *pitṝṇām* ← *pitṛ*
 - \[noun\], genitive, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
@@ -65,15 +65,15 @@ title = "Rig Veda 10.78.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śaṃsāḥ* \< *śaṃsa*
+- *śaṃsāḥ* ← *śaṃsa*
 - \[noun\], nominative, plural, masculine
 - “praise; śaṃs; recitation.”
 ------------------------------------------------------------------------
-- *surātayaḥ* \< *su*
+- *surātayaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *surātayaḥ* \< *rātayaḥ* \< *rāti*
+- *surātayaḥ* ← *rātayaḥ* ← *rāti*
 - \[noun\], nominative, plural, masculine
 - “gift; bounty; favor.”
 ------------------------------------------------------------------------

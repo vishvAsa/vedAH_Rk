@@ -6,24 +6,24 @@ title = "Rig Veda 8.24.29"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *nāryasya* \< *nārya*
+- *nāryasya* ← *nārya*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
 - *dakṣiṇā*
 - \[noun\], nominative, singular, feminine
 - “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
 ------------------------------------------------------------------------
-- *vyaśvāṃ* \< *vyaśva*
+- *vyaśvāṃ* ← *vyaśva*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *etu* \< *i*
+- *etu* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *sominaḥ* \< *somin*
+- *sominaḥ* ← *somin*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *sthūraṃ* \< *sthūram* \< *sthūra*
+- *sthūraṃ* ← *sthūram* ← *sthūra*
 - \[noun\], nominative, singular, neuter
 - “large; portly; fleshy.”
 ------------------------------------------------------------------------
@@ -31,7 +31,7 @@ title = "Rig Veda 8.24.29"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *rādhaḥ* \< *rādhas*
+- *rādhaḥ* ← *rādhas*
 - \[noun\], nominative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------

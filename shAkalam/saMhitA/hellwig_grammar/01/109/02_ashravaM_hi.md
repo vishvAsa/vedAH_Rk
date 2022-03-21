@@ -2,7 +2,7 @@
 title = "Rig Veda 1.109.2"
 
 +++
--   *aśravaṃ* \< *aśravam* \< *śru*
+-   *aśravaṃ* ← *aśravam* ← *śru*
 - \[verb\], singular, Root aorist (Ind.)
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
@@ -10,18 +10,18 @@ title = "Rig Veda 1.109.2"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *bhūridāvattarā* \< *bhūri*
+- *bhūridāvattarā* ← *bhūri*
 - \[noun\]
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *bhūridāvattarā* \< *dāvattarā* \< *dāvattara*
+- *bhūridāvattarā* ← *dāvattarā* ← *dāvattara*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *vijāmātur* \< *vijāmātuḥ* \< *vijāmātṛ*
+- *vijāmātur* ← *vijāmātuḥ* ← *vijāmātṛ*
 - \[noun\], ablative, singular, masculine
 ------------------------------------------------------------------------
 - *uta*
@@ -32,50 +32,50 @@ title = "Rig Veda 1.109.2"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *ghā* \< *gha*
+- *ghā* ← *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *syālāt* \< *syāla*
+- *syālāt* ← *syāla*
 - \[noun\], ablative, singular, masculine
 - “brother-in-law.”
 ------------------------------------------------------------------------
-- *athā* \< *atha*
+- *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *somasya* \< *soma*
+- *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *prayatī* \< *prayati*
+- *prayatī* ← *prayati*
 - \[noun\], instrumental, singular, feminine
 - “offering.”
 ------------------------------------------------------------------------
-- *yuvabhyām* \< *tvad*
+- *yuvabhyām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *indrāgnī* \< *indra*
+- *indrāgnī* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrāgnī* \< *agnī* \< *agni*
+- *indrāgnī* ← *agnī* ← *agni*
 - \[noun\], vocative, dual, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *stomaṃ* \< *stomam* \< *stoma*
+- *stomaṃ* ← *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *janayāmi* \< *janay* \< *√jan*
+- *janayāmi* ← *janay* ← *√jan*
 - \[verb\], singular, Present indikative
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
 ------------------------------------------------------------------------
-- *navyam* \< *navya*
+- *navyam* ← *navya*
 - \[noun\], accusative, singular, masculine
 - “new; fresh.”
 ------------------------------------------------------------------------

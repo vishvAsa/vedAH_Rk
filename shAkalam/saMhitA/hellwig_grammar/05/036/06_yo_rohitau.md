@@ -2,39 +2,39 @@
 title = "Rig Veda 5.36.6"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *rohitau* \< *rohita*
+- *rohitau* ← *rohita*
 - \[noun\], accusative, dual, masculine
 - “red.”
 ------------------------------------------------------------------------
-- *vājinau* \< *vājin*
+- *vājinau* ← *vājin*
 - \[noun\], accusative, dual, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *vājinīvān* \< *vājinīvat*
+- *vājinīvān* ← *vājinīvat*
 - \[noun\], nominative, singular, masculine
 - “rich; rich in horses.”
 ------------------------------------------------------------------------
-- *tribhiḥ* \< *tri*
+- *tribhiḥ* ← *tri*
 - \[noun\], instrumental, plural, masculine
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *śataiḥ* \< *śata*
+- *śataiḥ* ← *śata*
 - \[noun\], instrumental, plural, masculine
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *sacamānāv* \< *sacamānau* \< *sac*
+- *sacamānāv* ← *sacamānau* ← *sac*
 - \[verb noun\], accusative, dual
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *adiṣṭa* \< *diś*
+- *adiṣṭa* ← *diś*
 - \[verb\], singular, Root aorist (Ind.)
 - “describe; give; give; teach.”
 ------------------------------------------------------------------------
-- *yūne* \< *yuvan*
+- *yūne* ← *yuvan*
 - \[noun\], dative, singular, masculine
 - “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
     buck; young.”
@@ -43,28 +43,28 @@ title = "Rig Veda 5.36.6"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *asmai* \< *idam*
+- *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *kṣitayo* \< *kṣitayaḥ* \< *kṣiti*
+- *kṣitayo* ← *kṣitayaḥ* ← *kṣiti*
 - \[noun\], nominative, plural, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
 ------------------------------------------------------------------------
-- *namantāṃ* \< *namantām* \< *nam*
+- *namantāṃ* ← *namantām* ← *nam*
 - \[verb\], plural, Present imperative
 - “bow; bend; condescend; worship; bend; lower.”
 ------------------------------------------------------------------------
-- *śrutarathāya* \< *śruta* \< *śru*
+- *śrutarathāya* ← *śruta* ← *śru*
 - \[verb noun\]
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *śrutarathāya* \< *rathāya* \< *ratha*
+- *śrutarathāya* ← *rathāya* ← *ratha*
 - \[noun\], dative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------

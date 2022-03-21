@@ -2,11 +2,11 @@
 title = "Rig Veda 1.174.9"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dhunir* \< *dhuniḥ* \< *dhuni*
+- *dhunir* ← *dhuniḥ* ← *dhuni*
 - \[noun\], nominative, singular, masculine
 - “deafening; boisterous; noisy.”
 ------------------------------------------------------------------------
@@ -15,19 +15,19 @@ title = "Rig Veda 1.174.9"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dhunimatīr* \< *dhunimatīḥ* \< *dhunimat*
+- *dhunimatīr* ← *dhunimatīḥ* ← *dhunimat*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *ṛṇor* \< *ṛṇoḥ* \< *ṛch*
+- *ṛṇor* ← *ṛṇoḥ* ← *ṛch*
 - \[verb\], singular, Present injunctive
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *apaḥ* \< *ap*
+- *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *sīrā* \< *sīrāḥ* \< *sīrā*
+- *sīrā* ← *sīrāḥ* ← *sīrā*
 - \[noun\], accusative, plural, feminine
 - “stream.”
 ------------------------------------------------------------------------
@@ -35,7 +35,7 @@ title = "Rig Veda 1.174.9"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sravantīḥ* \< *sru*
+- *sravantīḥ* ← *sru*
 - \[verb noun\], accusative, plural
 - “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
     disappear; leak; fester.”
@@ -48,7 +48,7 @@ title = "Rig Veda 1.174.9"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *samudram* \< *samudra*
+- *samudram* ← *samudra*
 - \[noun\], accusative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
@@ -61,18 +61,18 @@ title = "Rig Veda 1.174.9"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *parṣi* \< *pṛ*
+- *parṣi* ← *pṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “protect; promote; rescue; help.”
 ------------------------------------------------------------------------
-- *pārayā* \< *pāraya* \< *pāray* \< *√pṛ*
+- *pārayā* ← *pāraya* ← *pāray* ← *√pṛ*
 - \[verb\], singular, Present imperative
 - “rescue; keep alive; satisfy; save; resist; endure.”
 ------------------------------------------------------------------------
-- *turvaśaṃ* \< *turvaśam* \< *turvaśa*
+- *turvaśaṃ* ← *turvaśam* ← *turvaśa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *yaduṃ* \< *yadum* \< *yadu*
+- *yaduṃ* ← *yadum* ← *yadu*
 - \[noun\], accusative, singular, masculine
 - “Yadu; Yadu.”
 ------------------------------------------------------------------------

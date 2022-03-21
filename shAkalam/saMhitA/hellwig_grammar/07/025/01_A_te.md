@@ -6,20 +6,20 @@ title = "Rig Veda 7.25.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *maha* \< *mahaḥ* \< *mah*
+- *maha* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *indroty* \< *indra*
+- *indroty* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indroty* \< *ūtī* \< *ūti*
+- *indroty* ← *ūtī* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
@@ -28,7 +28,7 @@ title = "Rig Veda 7.25.1"
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *samanyavo* \< *samanyavaḥ* \< *samanyu*
+- *samanyavo* ← *samanyavaḥ* ← *samanyu*
 - \[noun\], nominative, plural, feminine
 - “consentaneous.”
 ------------------------------------------------------------------------
@@ -36,28 +36,28 @@ title = "Rig Veda 7.25.1"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *samaranta* \< *samṛch* \< *√ṛch*
+- *samaranta* ← *samṛch* ← *√ṛch*
 - \[verb\], plural, Thematic aorist (Ind.)
 - “collapse.”
 ------------------------------------------------------------------------
-- *senāḥ* \< *senā*
+- *senāḥ* ← *senā*
 - \[noun\], nominative, plural, feminine
 - “army; senā \[word\]; armament.”
 ------------------------------------------------------------------------
-- *patāti* \< *pat*
+- *patāti* ← *pat*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
 ------------------------------------------------------------------------
-- *didyun* \< *didyut*
+- *didyun* ← *didyut*
 - \[noun\], nominative, singular, feminine
 - “arrow; Didyut.”
 ------------------------------------------------------------------------
-- *naryasya* \< *narya*
+- *naryasya* ← *narya*
 - \[noun\], genitive, singular, masculine
 - “manly; heroic; powerful; male; human.”
 ------------------------------------------------------------------------
-- *bāhvor* \< *bāhvoḥ* \< *bāhu*
+- *bāhvor* ← *bāhvoḥ* ← *bāhu*
 - \[noun\], locative, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
@@ -65,23 +65,23 @@ title = "Rig Veda 7.25.1"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *mano* \< *manaḥ* \< *manas*
+- *mano* ← *manaḥ* ← *manas*
 - \[noun\], nominative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *viṣvadryag* \< *viṣvadryak* \< *viṣvadryañc*
+- *viṣvadryag* ← *viṣvadryak* ← *viṣvadryañc*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *cārīt* \< *car*
+- *cārīt* ← *car*
 - \[verb\], singular, Aorist inj. (proh.)
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;

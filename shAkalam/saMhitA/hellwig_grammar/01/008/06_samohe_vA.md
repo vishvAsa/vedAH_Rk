@@ -2,34 +2,34 @@
 title = "Rig Veda 1.8.6"
 
 +++
--   *samohe* \< *samoha*
+-   *samohe* ← *samoha*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *ya* \< *ye* \< *yad*
+- *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *āśata* \< *aś*
+- *āśata* ← *aś*
 - \[verb\], plural, Root aorist (Ind.)
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *naras* \< *naraḥ* \< *nṛ*
+- *naras* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *tokasya* \< *toka*
+- *tokasya* ← *toka*
 - \[noun\], genitive, singular, neuter
 - “offspring.”
 ------------------------------------------------------------------------
-- *sanitau* \< *saniti*
+- *sanitau* ← *saniti*
 - \[noun\], locative, singular, feminine
 - “obtainment.”
 ------------------------------------------------------------------------
-- *viprāso* \< *viprāsaḥ* \< *vipra*
+- *viprāso* ← *viprāsaḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
@@ -37,7 +37,7 @@ title = "Rig Veda 1.8.6"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *dhiyāyavaḥ* \< *dhiyāyu*
+- *dhiyāyavaḥ* ← *dhiyāyu*
 - \[noun\], nominative, plural, masculine
 - “thoughtful.”
 ------------------------------------------------------------------------

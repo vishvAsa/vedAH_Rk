@@ -2,16 +2,16 @@
 title = "Rig Veda 3.1.2"
 
 +++
--   *prāñcaṃ* \< *prāñcam* \< *prāñc*
+-   *prāñcaṃ* ← *prāñcam* ← *prāñc*
 - \[noun\], accusative, singular, masculine
 - “eastern; aforesaid(a); former(a); eastbound; easterly; anterior;
     forward; prāñc \[word\].”
 ------------------------------------------------------------------------
-- *yajñaṃ* \< *yajñam* \< *yajña*
+- *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *cakṛma* \< *kṛ*
+- *cakṛma* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -22,53 +22,53 @@ title = "Rig Veda 3.1.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *vardhatāṃ* \< *vardhatām* \< *vṛdh*
+- *vardhatāṃ* ← *vardhatām* ← *vṛdh*
 - \[verb\], singular, Present imperative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *gīḥ* \< *gir*
+- *gīḥ* ← *gir*
 - \[noun\], nominative, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *samidbhir* \< *samidbhiḥ* \< *samidh*
+- *samidbhir* ← *samidbhiḥ* ← *samidh*
 - \[noun\], instrumental, plural
 - “firewood; kindling; fuel; fire.”
 ------------------------------------------------------------------------
-- *agniṃ* \< *agnim* \< *agni*
+- *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *namasā* \< *namas*
+- *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *duvasyan* \< *duvasy*
+- *duvasyan* ← *duvasy*
 - \[verb\], plural, Imperfect
 - “worship.”
 ------------------------------------------------------------------------
-- *divaḥ* \< *div*
+- *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *śaśāsur* \< *śaśāsuḥ* \< *śās*
+- *śaśāsur* ← *śaśāsuḥ* ← *śās*
 - \[verb\], plural, Perfect indicative
 - “teach; govern; command; order; control; tell; recommend; chastize;
     instruct.”
 ------------------------------------------------------------------------
-- *vidathā* \< *vidatha*
+- *vidathā* ← *vidatha*
 - \[noun\], accusative, plural, neuter
 - “meeting; wisdom; council.”
 ------------------------------------------------------------------------
-- *kavīnāṃ* \< *kavīnām* \< *kavi*
+- *kavīnāṃ* ← *kavīnām* ← *kavi*
 - \[noun\], genitive, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *gṛtsāya* \< *gṛtsa*
+- *gṛtsāya* ← *gṛtsa*
 - \[noun\], dative, singular, masculine
 - “apt; deft.”
 ------------------------------------------------------------------------
@@ -76,15 +76,15 @@ title = "Rig Veda 3.1.2"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *tavase* \< *tavas*
+- *tavase* ← *tavas*
 - \[noun\], dative, singular, masculine
 - “strong; energetic.”
 ------------------------------------------------------------------------
-- *gātum* \< *gātu*
+- *gātum* ← *gātu*
 - \[noun\], accusative, singular, masculine
 - “path; way.”
 ------------------------------------------------------------------------
-- *īṣuḥ* \< *iṣ*
+- *īṣuḥ* ← *iṣ*
 - \[verb\], plural, Perfect indicative
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”

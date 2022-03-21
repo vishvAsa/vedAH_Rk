@@ -2,7 +2,7 @@
 title = "Rig Veda 2.34.2"
 
 +++
--   *dyāvo* \< *dyāvaḥ* \< *div*
+-   *dyāvo* ← *dyāvaḥ* ← *div*
 - \[noun\], nominative, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -10,21 +10,21 @@ title = "Rig Veda 2.34.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *stṛbhiś* \< *stṛbhiḥ* \< *star*
+- *stṛbhiś* ← *stṛbhiḥ* ← *star*
 - \[noun\], instrumental, plural, masculine
 - “star.”
 ------------------------------------------------------------------------
-- *citayanta* \< *citay* \< *√cit*
+- *citayanta* ← *citay* ← *√cit*
 - \[verb\], plural, Imperfect
 ------------------------------------------------------------------------
-- *khādino* \< *khādinaḥ* \< *khādin*
+- *khādino* ← *khādinaḥ* ← *khādin*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *abhriyā* \< *abhriyāḥ* \< *abhriya*
+- *abhriyā* ← *abhriyāḥ* ← *abhriya*
 - \[noun\], nominative, plural, feminine
 - “cloudy.”
 ------------------------------------------------------------------------
@@ -32,56 +32,56 @@ title = "Rig Veda 2.34.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dyutayanta* \< *dyutay* \< *√dyut*
+- *dyutayanta* ← *dyutay* ← *√dyut*
 - \[verb\], plural, Imperfect
 ------------------------------------------------------------------------
-- *vṛṣṭayaḥ* \< *vṛṣṭi*
+- *vṛṣṭayaḥ* ← *vṛṣṭi*
 - \[noun\], nominative, plural, feminine
 - “rain; shower; rainy season.”
 ------------------------------------------------------------------------
-- *rudro* \< *rudraḥ* \< *rudra*
+- *rudro* ← *rudraḥ* ← *rudra*
 - \[noun\], nominative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *rukmavakṣaso* \< *rukma*
+- *rukmavakṣaso* ← *rukma*
 - \[noun\], neuter
 - “gold; svarṇamākṣika.”
 ------------------------------------------------------------------------
-- *rukmavakṣaso* \< *vakṣasaḥ* \< *vakṣas*
+- *rukmavakṣaso* ← *vakṣasaḥ* ← *vakṣas*
 - \[noun\], accusative, plural, masculine
 - “breast; breast; bosom; thorax.”
 ------------------------------------------------------------------------
-- *vṛṣājani* \< *vṛṣā* \< *vṛṣan*
+- *vṛṣājani* ← *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *vṛṣājani* \< *ajani* \< *jan*
+- *vṛṣājani* ← *ajani* ← *jan*
 - \[verb\], singular, Aorist passive
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *pṛśnyāḥ* \< *pṛśni*
+- *pṛśnyāḥ* ← *pṛśni*
 - \[noun\], genitive, singular, feminine
 - “Pṛśni; beam.”
 ------------------------------------------------------------------------
-- *śukra* \< *śukre* \< *śukra*
+- *śukra* ← *śukre* ← *śukra*
 - \[noun\], locative, singular, neuter
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *ūdhani* \< *ūdhas*
+- *ūdhani* ← *ūdhas*
 - \[noun\], locative, singular, neuter
 - “udder; ūdhas \[word\]; night.”
 ------------------------------------------------------------------------

@@ -2,11 +2,11 @@
 title = "Rig Veda 6.72.5"
 
 +++
--   *indrāsomā* \< *indrāsoma*
+-   *indrāsomā* ← *indrāsoma*
 - \[noun\], vocative, dual, masculine
 - “Soma; Indra.”
 ------------------------------------------------------------------------
-- *yuvam* \< *tvad*
+- *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -14,49 +14,49 @@ title = "Rig Veda 6.72.5"
 - \[adverb\]
 - “in truth; aṅga \[word\]; entirely; merely.”
 ------------------------------------------------------------------------
-- *tarutram* \< *tarutra*
+- *tarutram* ← *tarutra*
 - \[noun\], accusative, singular, masculine
 - “triumphant; conquering(a); superior.”
 ------------------------------------------------------------------------
-- *apatyasācaṃ* \< *apatyasācam* \< *apatyasāc*
+- *apatyasācaṃ* ← *apatyasācam* ← *apatyasāc*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *śrutyaṃ* \< *śrutyam* \< *śrutya*
+- *śrutyaṃ* ← *śrutyam* ← *śrutya*
 - \[noun\], accusative, singular, masculine
 - “celebrated; glorious.”
 ------------------------------------------------------------------------
-- *rarāthe* \< *rā*
+- *rarāthe* ← *rā*
 - \[verb\], dual, Perfect indicative
 - “give; impart.”
 ------------------------------------------------------------------------
-- *yuvaṃ* \< *yuvam* \< *tvad*
+- *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *śuṣmaṃ* \< *śuṣmam* \< *śuṣma*
+- *śuṣmaṃ* ← *śuṣmam* ← *śuṣma*
 - \[noun\], accusative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
-- *naryaṃ* \< *naryam* \< *narya*
+- *naryaṃ* ← *naryam* ← *narya*
 - \[noun\], accusative, singular, masculine
 - “manly; heroic; powerful; male; human.”
 ------------------------------------------------------------------------
-- *carṣaṇibhyaḥ* \< *carṣaṇi*
+- *carṣaṇibhyaḥ* ← *carṣaṇi*
 - \[noun\], dative, plural, feminine
 - “people.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *vivyathuḥ* \< *vye*
+- *vivyathuḥ* ← *vye*
 - \[verb\], dual, Perfect indicative
 - “cover.”
 ------------------------------------------------------------------------
-- *pṛtanāṣāham* \< *pṛtanāṣāh*
+- *pṛtanāṣāham* ← *pṛtanāṣāh*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *ugrā* \< *ugra*
+- *ugrā* ← *ugra*
 - \[noun\], vocative, dual, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”

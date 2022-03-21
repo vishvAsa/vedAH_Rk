@@ -2,15 +2,15 @@
 title = "Rig Veda 9.93.5"
 
 +++
--   *nū* \< *nu*
+-   *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rayim* \< *rayi*
+- *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
@@ -18,27 +18,27 @@ title = "Rig Veda 9.93.5"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *māsva* \< *mā*
+- *māsva* ← *mā*
 - \[verb\], singular, Aorist imperative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
 ------------------------------------------------------------------------
-- *nṛvantam* \< *nṛvat*
+- *nṛvantam* ← *nṛvat*
 - \[noun\], accusative, singular, masculine
 - “rich in men.”
 ------------------------------------------------------------------------
-- *punāno* \< *punānaḥ* \< *pū*
+- *punāno* ← *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *vātāpyaṃ* \< *vātāpyam* \< *vātāpya*
+- *vātāpyaṃ* ← *vātāpyam* ← *vātāpya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *viśvaścandram* \< *viśva*
+- *viśvaścandram* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvaścandram* \< *ścandram* \< *ścandra*
+- *viśvaścandram* ← *ścandram* ← *ścandra*
 - \[noun\], accusative, singular, masculine
 - “shining; glistening; brilliant.”
 ------------------------------------------------------------------------
@@ -46,19 +46,19 @@ title = "Rig Veda 9.93.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vanditur* \< *vandituḥ* \< *vanditṛ*
+- *vanditur* ← *vandituḥ* ← *vanditṛ*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *indo* \< *indu*
+- *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *tāry* \< *tāri* \< *tṛ*
+- *tāry* ← *tāri* ← *tṛ*
 - \[verb\], singular, Aorist passive
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *āyuḥ* \< *āyus*
+- *āyuḥ* ← *āyus*
 - \[noun\], nominative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------
@@ -70,11 +70,11 @@ title = "Rig Veda 9.93.5"
 - \[adverb\]
 - “promptly; soon; quickly.”
 ------------------------------------------------------------------------
-- *dhiyāvasur* \< *dhiyāvasuḥ* \< *dhiyāvasu*
+- *dhiyāvasur* ← *dhiyāvasuḥ* ← *dhiyāvasu*
 - \[noun\], nominative, singular, masculine
 - “wise.”
 ------------------------------------------------------------------------
-- *jagamyāt* \< *gam*
+- *jagamyāt* ← *gam*
 - \[verb\], singular, Perfect optative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

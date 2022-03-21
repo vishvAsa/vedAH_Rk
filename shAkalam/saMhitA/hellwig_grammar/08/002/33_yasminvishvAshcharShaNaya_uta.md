@@ -2,16 +2,16 @@
 title = "Rig Veda 8.2.33"
 
 +++
--   *yasmin* \< *yad*
+-   *yasmin* ← *yad*
 - \[noun\], locative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *viśvāś* \< *viśvāḥ* \< *viśva*
+- *viśvāś* ← *viśvāḥ* ← *viśva*
 - \[noun\], nominative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *carṣaṇaya* \< *carṣaṇayaḥ* \< *carṣaṇi*
+- *carṣaṇaya* ← *carṣaṇayaḥ* ← *carṣaṇi*
 - \[noun\], nominative, plural, feminine
 - “people.”
 ------------------------------------------------------------------------
@@ -19,10 +19,10 @@ title = "Rig Veda 8.2.33"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *cyautnā* \< *cyautna*
+- *cyautnā* ← *cyautna*
 - \[noun\], nominative, plural, neuter
 ------------------------------------------------------------------------
-- *jrayāṃsi* \< *jrayas*
+- *jrayāṃsi* ← *jrayas*
 - \[noun\], nominative, plural, neuter
 - “expanse; area.”
 ------------------------------------------------------------------------
@@ -34,18 +34,18 @@ title = "Rig Veda 8.2.33"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *ghen* \< *gha*
+- *ghen* ← *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ghen* \< *id*
+- *ghen* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *mandī* \< *mandin*
+- *mandī* ← *mandin*
 - \[noun\], nominative, singular, masculine
 - “intoxicant; exhilarating.”
 ------------------------------------------------------------------------
-- *maghonaḥ* \< *maghavan*
+- *maghonaḥ* ← *maghavan*
 - \[noun\], accusative, plural, masculine
 - “big.”
 ------------------------------------------------------------------------

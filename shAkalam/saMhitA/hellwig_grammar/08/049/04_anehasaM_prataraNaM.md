@@ -2,28 +2,28 @@
 title = "Rig Veda 8.49.4"
 
 +++
--   *anehasam* \< *anehas*
+-   *anehasam* ← *anehas*
 - \[noun\], accusative, singular, masculine
 - “faultless; anehas \[word\]; incomparable.”
 ------------------------------------------------------------------------
-- *prataraṇaṃ* \< *prataraṇam* \< *prataraṇa*
+- *prataraṇaṃ* ← *prataraṇam* ← *prataraṇa*
 - \[noun\], accusative, singular, masculine
 - “prolonging; beneficial.”
 ------------------------------------------------------------------------
-- *vivakṣaṇam* \< *vivakṣaṇa*
+- *vivakṣaṇam* ← *vivakṣaṇa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *madhvaḥ* \< *madhu*
+- *madhvaḥ* ← *madhu*
 - \[noun\], ablative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *svādiṣṭham* \< *svādiṣṭha*
+- *svādiṣṭham* ← *svādiṣṭha*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *īm* \< *īṃ*
+- *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *piba* \< *pā*
+- *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
@@ -35,15 +35,15 @@ title = "Rig Veda 8.49.4"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *mandasānaḥ* \< *mand*
+- *mandasānaḥ* ← *mand*
 - \[verb noun\], nominative, singular
 - “rejoice; exhilarate.”
 ------------------------------------------------------------------------
-- *kirāsi* \< *kṛ*
+- *kirāsi* ← *kṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “spread; scatter.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -51,19 +51,19 @@ title = "Rig Veda 8.49.4"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *kṣudreva* \< *kṣudrā* \< *kṣudra*
+- *kṣudreva* ← *kṣudrā* ← *kṣudra*
 - \[noun\], nominative, plural, neuter
 - “small; despicable; kṣudra \[word\]; avaricious.”
 ------------------------------------------------------------------------
-- *kṣudreva* \< *iva*
+- *kṣudreva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *tmanā* \< *tman*
+- *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
 ------------------------------------------------------------------------
-- *dhṛṣat* \< *dhṛṣ*
+- *dhṛṣat* ← *dhṛṣ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “dare; attack.”
 ------------------------------------------------------------------------

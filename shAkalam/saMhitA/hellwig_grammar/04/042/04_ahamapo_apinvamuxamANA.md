@@ -2,58 +2,58 @@
 title = "Rig Veda 4.42.4"
 
 +++
--   *aham* \< *mad*
+-   *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *apo* \< *apaḥ* \< *ap*
+- *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *apinvam* \< *pinv*
+- *apinvam* ← *pinv*
 - \[verb\], singular, Imperfect
 - “swell; swell; overflow; abound.”
 ------------------------------------------------------------------------
-- *ukṣamāṇā* \< *ukṣamāṇāḥ* \< *vakṣ*
+- *ukṣamāṇā* ← *ukṣamāṇāḥ* ← *vakṣ*
 - \[verb noun\], accusative, plural
 - “grow; grow.”
 ------------------------------------------------------------------------
-- *dhārayaṃ* \< *dhārayam* \< *dhāray* \< *√dhṛ*
+- *dhārayaṃ* ← *dhārayam* ← *dhāray* ← *√dhṛ*
 - \[verb\], singular, Present injunctive
 - “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
     preserve; remember; stow; stop; have; fill into; endure; support;
     understand; fixate; govern; restrain.”
 ------------------------------------------------------------------------
-- *divaṃ* \< *divam* \< *div*
+- *divaṃ* ← *divam* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *sadana* \< *sadane* \< *sadana*
+- *sadana* ← *sadane* ← *sadana*
 - \[noun\], locative, singular, neuter
 - “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
     residence; seat; inanition; location.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *ṛtena* \< *ṛta*
+- *ṛtena* ← *ṛta*
 - \[noun\], instrumental, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *putro* \< *putraḥ* \< *putra*
+- *putro* ← *putraḥ* ← *putra*
 - \[noun\], nominative, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
-- *aditer* \< *aditeḥ* \< *aditi*
+- *aditer* ← *aditeḥ* ← *aditi*
 - \[noun\], genitive, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *ṛtāvota* \< *ṛtāvā* \< *ṛtāvan*
+- *ṛtāvota* ← *ṛtāvā* ← *ṛtāvan*
 - \[noun\], nominative, singular, masculine
 - “law-abiding; faithful; righteous.”
 ------------------------------------------------------------------------
-- *ṛtāvota* \< *uta*
+- *ṛtāvota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
@@ -61,7 +61,7 @@ title = "Rig Veda 4.42.4"
 - \[noun\], accusative, singular, neuter
 - “tridoṣa; Triloka.”
 ------------------------------------------------------------------------
-- *prathayad* \< *prathayat* \< *prathay* \< *√prath*
+- *prathayad* ← *prathayat* ← *prathay* ← *√prath*
 - \[verb\], singular, Present injunctive
 - “spread; proclaim.”
 ------------------------------------------------------------------------
@@ -69,7 +69,7 @@ title = "Rig Veda 4.42.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *bhūma* \< *bhūman*
+- *bhūma* ← *bhūman*
 - \[noun\], accusative, singular, neuter
 - “Earth; floor.”
 ------------------------------------------------------------------------

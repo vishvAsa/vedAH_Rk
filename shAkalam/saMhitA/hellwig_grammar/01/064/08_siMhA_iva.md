@@ -2,7 +2,7 @@
 title = "Rig Veda 1.64.8"
 
 +++
--   *siṃhā* \< *siṃhāḥ* \< *siṃha*
+-   *siṃhā* ← *siṃhāḥ* ← *siṃha*
 - \[noun\], nominative, plural, masculine
 - “lion; hero; best; leader; siṃha \[word\].”
 ------------------------------------------------------------------------
@@ -10,46 +10,46 @@ title = "Rig Veda 1.64.8"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *nānadati* \< *nānad* \< *√nad*
+- *nānadati* ← *nānad* ← *√nad*
 - \[verb\], plural, Present indikative
 - “bellow.”
 ------------------------------------------------------------------------
-- *pracetasaḥ* \< *pracetas*
+- *pracetasaḥ* ← *pracetas*
 - \[noun\], nominative, plural, masculine
 - “intelligent; mindful; attentive; wise; apt; observant.”
 ------------------------------------------------------------------------
-- *piśā* \< *piśāḥ* \< *piśa*
+- *piśā* ← *piśāḥ* ← *piśa*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *supiśo* \< *supiśaḥ* \< *supiś*
+- *supiśo* ← *supiśaḥ* ← *supiś*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *viśvavedasaḥ* \< *viśva*
+- *viśvavedasaḥ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvavedasaḥ* \< *vedasaḥ* \< *vedas*
+- *viśvavedasaḥ* ← *vedasaḥ* ← *vedas*
 - \[noun\], nominative, plural, masculine
 - “property.”
 ------------------------------------------------------------------------
-- *kṣapo* \< *kṣapaḥ* \< *kṣap*
+- *kṣapo* ← *kṣapaḥ* ← *kṣap*
 - \[noun\], accusative, plural, feminine
 - “night.”
 ------------------------------------------------------------------------
-- *jinvantaḥ* \< *jinv*
+- *jinvantaḥ* ← *jinv*
 - \[verb noun\], nominative, plural
 - “enliven; animate.”
 ------------------------------------------------------------------------
-- *pṛṣatībhir* \< *pṛṣatībhiḥ* \< *pṛṣat*
+- *pṛṣatībhir* ← *pṛṣatībhiḥ* ← *pṛṣat*
 - \[noun\], instrumental, plural, feminine
 - “motley; patched.”
 ------------------------------------------------------------------------
-- *ṛṣṭibhiḥ* \< *ṛṣṭi*
+- *ṛṣṭibhiḥ* ← *ṛṣṭi*
 - \[noun\], instrumental, plural, feminine
 - “spear.”
 ------------------------------------------------------------------------
@@ -57,23 +57,23 @@ title = "Rig Veda 1.64.8"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *sabādhaḥ* \< *sabādh*
+- *sabādhaḥ* ← *sabādh*
 - \[noun\], nominative, plural, masculine
 - “pressing; clamant.”
 ------------------------------------------------------------------------
-- *śavasāhimanyavaḥ* \< *śavasā* \< *śavas*
+- *śavasāhimanyavaḥ* ← *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *śavasāhimanyavaḥ* \< *ahi*
+- *śavasāhimanyavaḥ* ← *ahi*
 - \[noun\], masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
 ------------------------------------------------------------------------
-- *śavasāhimanyavaḥ* \< *manyavaḥ* \< *manyu*
+- *śavasāhimanyavaḥ* ← *manyavaḥ* ← *manyu*
 - \[noun\], nominative, plural, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------

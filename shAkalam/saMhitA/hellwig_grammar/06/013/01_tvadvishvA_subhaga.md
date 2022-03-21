@@ -2,11 +2,11 @@
 title = "Rig Veda 6.13.1"
 
 +++
--   *tvad* \< *tvat* \< *tvad*
+-   *tvad* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], nominative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
@@ -16,11 +16,11 @@ title = "Rig Veda 6.13.1"
 - “beautiful; auspicious; beloved; fine-looking; fortunate; subhaga
     \[word\]; charming; pleasing; lucky.”
 ------------------------------------------------------------------------
-- *saubhagāny* \< *saubhagāni* \< *saubhaga*
+- *saubhagāny* ← *saubhagāni* ← *saubhaga*
 - \[noun\], nominative, plural, neuter
 - “well-being.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -30,11 +30,11 @@ title = "Rig Veda 6.13.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *yanti* \< *i*
+- *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *vanino* \< *vaninaḥ* \< *vanin*
+- *vanino* ← *vaninaḥ* ← *vanin*
 - \[noun\], genitive, singular, masculine
 - “tree.”
 ------------------------------------------------------------------------
@@ -42,47 +42,47 @@ title = "Rig Veda 6.13.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vayāḥ* \< *vayā*
+- *vayāḥ* ← *vayā*
 - \[noun\], nominative, plural, feminine
 - “branch; branchlet.”
 ------------------------------------------------------------------------
-- *śruṣṭī* \< *śruṣṭiḥ* \< *śruṣṭi*
+- *śruṣṭī* ← *śruṣṭiḥ* ← *śruṣṭi*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *rayir* \< *rayiḥ* \< *rayi*
+- *rayir* ← *rayiḥ* ← *rayi*
 - \[noun\], nominative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *vājo* \< *vājaḥ* \< *vāja*
+- *vājo* ← *vājaḥ* ← *vāja*
 - \[noun\], nominative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vṛtratūrye* \< *vṛtratūrya*
+- *vṛtratūrye* ← *vṛtratūrya*
 - \[noun\], locative, singular, neuter
 - “battle.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *vṛṣṭir* \< *vṛṣṭiḥ* \< *vṛṣṭi*
+- *vṛṣṭir* ← *vṛṣṭiḥ* ← *vṛṣṭi*
 - \[noun\], nominative, singular, feminine
 - “rain; shower; rainy season.”
 ------------------------------------------------------------------------
-- *īḍyo* \< *īḍyā* \< *īḍ*
+- *īḍyo* ← *īḍyā* ← *īḍ*
 - \[verb noun\], nominative, singular
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
-- *īḍyo* \< *u*
+- *īḍyo* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *rītir* \< *rītiḥ* \< *rīti*
+- *rītir* ← *rītiḥ* ← *rīti*
 - \[noun\], nominative, singular, feminine
 - “brass; rītikā; method; bell metal; stream; expressive style;
     manner.”
 ------------------------------------------------------------------------
-- *apām* \< *ap*
+- *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------

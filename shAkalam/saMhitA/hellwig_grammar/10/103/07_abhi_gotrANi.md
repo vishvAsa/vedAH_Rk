@@ -6,54 +6,54 @@ title = "Rig Veda 10.103.7"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *gotrāṇi* \< *gotra*
+- *gotrāṇi* ← *gotra*
 - \[noun\], accusative, plural, neuter
 - “Gotra; patronymic; gotra \[word\]; name; family; family; kin;
     Gotra; mountain; herd; cow pen; cowbarn.”
 ------------------------------------------------------------------------
-- *sahasā* \< *sahas*
+- *sahasā* ← *sahas*
 - \[noun\], instrumental, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *gāhamāno* \< *gāhamānaḥ* \< *gāh*
+- *gāhamāno* ← *gāhamānaḥ* ← *gāh*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *'dayo* \< *adayaḥ* \< *adaya*
+- *'dayo* ← *adayaḥ* ← *adaya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vīraḥ* \< *vīra*
+- *vīraḥ* ← *vīra*
 - \[noun\], nominative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *śatamanyur* \< *śatamanyuḥ* \< *śatamanyu*
+- *śatamanyur* ← *śatamanyuḥ* ← *śatamanyu*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *duścyavanaḥ* \< *duścyavana*
+- *duścyavanaḥ* ← *duścyavana*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *pṛtanāṣāḍ* \< *pṛtanāṣāh*
+- *pṛtanāṣāḍ* ← *pṛtanāṣāh*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *ayudhyo* \< *ayudhyaḥ* \< *ayudhya*
+- *ayudhyo* ← *ayudhyaḥ* ← *ayudhya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *'smākaṃ* \< *asmākam* \< *mad*
+- *'smākaṃ* ← *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *senā* \< *senāḥ* \< *senā*
+- *senā* ← *senāḥ* ← *senā*
 - \[noun\], accusative, plural, feminine
 - “army; senā \[word\]; armament.”
 ------------------------------------------------------------------------
-- *avatu* \< *av*
+- *avatu* ← *av*
 - \[verb\], singular, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
@@ -61,7 +61,7 @@ title = "Rig Veda 10.103.7"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yutsu* \< *yudh*
+- *yutsu* ← *yudh*
 - \[noun\], locative, plural
 - “battle; fight; war; combat.”
 ------------------------------------------------------------------------

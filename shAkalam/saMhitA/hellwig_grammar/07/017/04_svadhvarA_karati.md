@@ -2,15 +2,15 @@
 title = "Rig Veda 7.17.4"
 
 +++
--   *svadhvarā* \< *su*
+-   *svadhvarā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svadhvarā* \< *adhvarā* \< *adhvara*
+- *svadhvarā* ← *adhvarā* ← *adhvara*
 - \[noun\], accusative, plural, neuter
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *karati* \< *kṛ*
+- *karati* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -21,24 +21,24 @@ title = "Rig Veda 7.17.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *jātavedā* \< *jātavedāḥ* \< *jātavedas*
+- *jātavedā* ← *jātavedāḥ* ← *jātavedas*
 - \[noun\], nominative, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------
-- *yakṣad* \< *yakṣat* \< *yaj*
+- *yakṣad* ← *yakṣat* ← *yaj*
 - \[verb\], singular, Aorist conj./subj.
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *devāṃ* \< *deva*
+- *devāṃ* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *amṛtān* \< *amṛta*
+- *amṛtān* ← *amṛta*
 - \[noun\], accusative, plural, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *piprayac* \< *piprayat* \< *prī*
+- *piprayac* ← *piprayat* ← *prī*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “delight; gladden; satisfy; nutrify; comfort.”
 ------------------------------------------------------------------------

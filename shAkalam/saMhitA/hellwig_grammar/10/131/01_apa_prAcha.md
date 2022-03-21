@@ -6,7 +6,7 @@ title = "Rig Veda 10.131.1"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *prāca* \< *prācaḥ* \< *prāñc*
+- *prāca* ← *prācaḥ* ← *prāñc*
 - \[noun\], accusative, plural, masculine
 - “eastern; aforesaid(a); former(a); eastbound; easterly; anterior;
     forward; prāñc \[word\].”
@@ -16,36 +16,36 @@ title = "Rig Veda 10.131.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *viśvāṃ* \< *viśvān* \< *viśva*
+- *viśvāṃ* ← *viśvān* ← *viśva*
 - \[noun\], accusative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *amitrān* \< *amitra*
+- *amitrān* ← *amitra*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe.”
 ------------------------------------------------------------------------
-- *apāpāco* \< *apa*
+- *apāpāco* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *apāpāco* \< *apācaḥ* \< *apāñc*
+- *apāpāco* ← *apācaḥ* ← *apāñc*
 - \[noun\], accusative, plural, masculine
 - “backward; apāñc \[word\]; western.”
 ------------------------------------------------------------------------
-- *abhibhūte* \< *abhibhūti*
+- *abhibhūte* ← *abhibhūti*
 - \[noun\], vocative, singular, masculine
 - “superior; overpowering.”
 ------------------------------------------------------------------------
-- *nudasva* \< *nud*
+- *nudasva* ← *nud*
 - \[verb\], singular, Present imperative
 - “push; propel; expel; push; move.”
 ------------------------------------------------------------------------
-- *apodīco* \< *apa*
+- *apodīco* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *apodīco* \< *udīcaḥ* \< *udañc*
+- *apodīco* ← *udīcaḥ* ← *udañc*
 - \[noun\], accusative, plural, masculine
 - “northern; northbound; udañc \[word\]; northerly.”
 ------------------------------------------------------------------------
@@ -53,16 +53,16 @@ title = "Rig Veda 10.131.1"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *śūrādharāca* \< *śūra*
+- *śūrādharāca* ← *śūra*
 - \[noun\], vocative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *śūrādharāca* \< *adharācaḥ* \< *adharāñc*
+- *śūrādharāca* ← *adharācaḥ* ← *adharāñc*
 - \[noun\], accusative, plural, masculine
 - “downward(ip); south.”
 ------------------------------------------------------------------------
-- *urau* \< *uru*
+- *urau* ← *uru*
 - \[noun\], locative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
@@ -70,7 +70,7 @@ title = "Rig Veda 10.131.1"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -78,7 +78,7 @@ title = "Rig Veda 10.131.1"
 - \[noun\], locative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *madema* \< *mad*
+- *madema* ← *mad*
 - \[verb\], plural, Present optative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------

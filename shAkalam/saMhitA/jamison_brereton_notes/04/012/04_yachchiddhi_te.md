@@ -10,5 +10,5 @@ Although puruṣatrā́has the locational suffix -trá / -trā́, it seems less 
 
 The use of áditeḥ in pāda c is clarified by the more expansive expression in d.
 
-On the one hand, áditi- is, of course, the name of the goddess and mother of the Ādityas, and the mention of her here ushers in the 2nd half of the hymn, which, as was indicated in the published introduction, has a distinctly Ādityan tone. On the other, á-diti- means literally ‘unbinding’ (< √dā ‘bind’), and the lexeme ví … √śrath ‘let loose’ in the VP vy énāṃsi śíśrathaḥ ‘let loose our transgressions’ is synonymous with ‘unbind’.
+On the one hand, áditi- is, of course, the name of the goddess and mother of the Ādityas, and the mention of her here ushers in the 2nd half of the hymn, which, as was indicated in the published introduction, has a distinctly Ādityan tone. On the other, á-diti- means literally ‘unbinding’ (← √dā ‘bind’), and the lexeme ví … √śrath ‘let loose’ in the VP vy énāṃsi śíśrathaḥ ‘let loose our transgressions’ is synonymous with ‘unbind’.
 

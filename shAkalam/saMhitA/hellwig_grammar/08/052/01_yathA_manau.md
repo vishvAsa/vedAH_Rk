@@ -6,28 +6,28 @@ title = "Rig Veda 8.52.1"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *manau* \< *manu*
+- *manau* ← *manu*
 - \[noun\], locative, singular, masculine
 - “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
     incantation; sacred text.”
 ------------------------------------------------------------------------
-- *vivasvati* \< *vivasvant*
+- *vivasvati* ← *vivasvant*
 - \[noun\], locative, singular, masculine
 - “Surya; sun; Vivasvant; Vivasvant.”
 ------------------------------------------------------------------------
-- *somaṃ* \< *somam* \< *soma*
+- *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *śakrāpibaḥ* \< *śakra*
+- *śakrāpibaḥ* ← *śakra*
 - \[noun\], vocative, singular, masculine
 - “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
 ------------------------------------------------------------------------
-- *śakrāpibaḥ* \< *apibaḥ* \< *pā*
+- *śakrāpibaḥ* ← *apibaḥ* ← *pā*
 - \[verb\], singular, Imperfect
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *sutam* \< *su*
+- *sutam* ← *su*
 - \[verb noun\], accusative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
@@ -35,7 +35,7 @@ title = "Rig Veda 8.52.1"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *trite* \< *trita*
+- *trite* ← *trita*
 - \[noun\], locative, singular, masculine
 - “Trita.”
 ------------------------------------------------------------------------
@@ -47,15 +47,15 @@ title = "Rig Veda 8.52.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *jujoṣasy* \< *jujoṣasi* \< *juṣ*
+- *jujoṣasy* ← *jujoṣasi* ← *juṣ*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *āyau* \< *āyu*
+- *āyau* ← *āyu*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *mādayase* \< *māday* \< *√mad*
+- *mādayase* ← *māday* ← *√mad*
 - \[verb\], singular, Present indikative
 - “delight; enjoy; intoxicate.”
 ------------------------------------------------------------------------

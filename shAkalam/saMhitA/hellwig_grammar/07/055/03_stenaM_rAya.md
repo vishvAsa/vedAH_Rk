@@ -2,11 +2,11 @@
 title = "Rig Veda 7.55.3"
 
 +++
--   *stenaṃ* \< *stenam* \< *stena*
+-   *stenaṃ* ← *stenam* ← *stena*
 - \[noun\], accusative, singular, masculine
 - “thief; stena \[word\].”
 ------------------------------------------------------------------------
-- *rāya* \< *rā*
+- *rāya* ← *rā*
 - \[verb\], singular, Present imperative
 - “bark.”
 ------------------------------------------------------------------------
@@ -14,7 +14,7 @@ title = "Rig Veda 7.55.3"
 - \[noun\], vocative, singular, masculine
 - “dog.”
 ------------------------------------------------------------------------
-- *taskaraṃ* \< *taskaram* \< *taskara*
+- *taskaraṃ* ← *taskaram* ← *taskara*
 - \[noun\], accusative, singular, masculine
 - “thief; mugger.”
 ------------------------------------------------------------------------
@@ -25,16 +25,16 @@ title = "Rig Veda 7.55.3"
 - *punaḥsara*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *stotṝn* \< *stotṛ*
+- *stotṝn* ← *stotṛ*
 - \[noun\], accusative, plural, masculine
 - “laudatory; worshiping.”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *rāyasi* \< *rā*
+- *rāyasi* ← *rā*
 - \[verb\], singular, Present indikative
 - “bark.”
 ------------------------------------------------------------------------
@@ -42,11 +42,11 @@ title = "Rig Veda 7.55.3"
 - \[adverb\]
 - “why; ka \[pronoun\]; if; how.”
 ------------------------------------------------------------------------
-- *asmān* \< *mad*
+- *asmān* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ducchunāyase* \< *duchunāy*
+- *ducchunāyase* ← *duchunāy*
 - \[verb\], singular, Present indikative
 - “threaten.”
 ------------------------------------------------------------------------
@@ -54,11 +54,11 @@ title = "Rig Veda 7.55.3"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svapa* \< *svap*
+- *svapa* ← *svap*
 - \[verb\], singular, Present imperative
 - “sleep; numb; fall asleep.”
 ------------------------------------------------------------------------

@@ -2,19 +2,19 @@
 title = "Rig Veda 8.50.9"
 
 +++
--   *etāvatas* \< *etāvataḥ* \< *etāvat*
+-   *etāvatas* ← *etāvataḥ* ← *etāvat*
 - \[noun\], genitive, singular, neuter
 - “such(a); such(a).”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vaso* \< *vasu*
+- *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *vidyāma* \< *vid*
+- *vidyāma* ← *vid*
 - \[verb\], plural, Present optative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
@@ -24,7 +24,7 @@ title = "Rig Veda 8.50.9"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *navyasaḥ* \< *navyas*
+- *navyasaḥ* ← *navyas*
 - \[noun\], genitive, singular, neuter
 - “new.”
 ------------------------------------------------------------------------
@@ -32,19 +32,19 @@ title = "Rig Veda 8.50.9"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *prāva* \< *prāvaḥ* \< *prāv* \< *√av*
+- *prāva* ← *prāvaḥ* ← *prāv* ← *√av*
 - \[verb\], singular, Imperfect
 - “help; promote.”
 ------------------------------------------------------------------------
-- *etaśaṃ* \< *etaśam* \< *etaśa*
+- *etaśaṃ* ← *etaśam* ← *etaśa*
 - \[noun\], accusative, singular, masculine
 - “Etaśa; horse.”
 ------------------------------------------------------------------------
-- *kṛtvye* \< *kṛtvya*
+- *kṛtvye* ← *kṛtvya*
 - \[noun\], locative, singular, neuter
 - “confident.”
 ------------------------------------------------------------------------
-- *dhane* \< *dhana*
+- *dhane* ← *dhana*
 - \[noun\], locative, singular, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
@@ -53,11 +53,11 @@ title = "Rig Veda 8.50.9"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *vaśaṃ* \< *vaśam* \< *vaśa*
+- *vaśaṃ* ← *vaśam* ← *vaśa*
 - \[noun\], accusative, singular, masculine
 - “control; dominion; influence; power; Vaśa; vaśa \[word\]; will;
     authority; control; wish; supervision.”
 ------------------------------------------------------------------------
-- *daśavraje* \< *daśavraja*
+- *daśavraje* ← *daśavraja*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------

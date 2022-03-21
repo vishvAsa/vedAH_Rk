@@ -2,28 +2,28 @@
 title = "Rig Veda 2.21.3"
 
 +++
--   *satrāsāho* \< *satrā*
+-   *satrāsāho* ← *satrā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *satrāsāho* \< *sāhaḥ* \< *sāha*
+- *satrāsāho* ← *sāhaḥ* ← *sāha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *janabhakṣo* \< *jana*
+- *janabhakṣo* ← *jana*
 - \[noun\], masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *janabhakṣo* \< *bhakṣaḥ* \< *bhakṣa*
+- *janabhakṣo* ← *bhakṣaḥ* ← *bhakṣa*
 - \[noun\], nominative, singular, masculine
 - “food; eating; drink; beverage.”
 ------------------------------------------------------------------------
-- *janaṃsahaś* \< *janaṃsahaḥ* \< *janaṃsaha*
+- *janaṃsahaś* ← *janaṃsahaḥ* ← *janaṃsaha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *cyavano* \< *cyavanaḥ* \< *cyavana*
+- *cyavano* ← *cyavanaḥ* ← *cyavana*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *yudhmo* \< *yudhmaḥ* \< *yudhma*
+- *yudhmo* ← *yudhmaḥ* ← *yudhma*
 - \[noun\], nominative, singular, masculine
 - “warrior.”
 ------------------------------------------------------------------------
@@ -31,34 +31,34 @@ title = "Rig Veda 2.21.3"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *joṣam* \< *joṣa*
+- *joṣam* ← *joṣa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *ukṣitaḥ* \< *vakṣ*
+- *ukṣitaḥ* ← *vakṣ*
 - \[verb noun\], nominative, singular
 - “grow; grow.”
 ------------------------------------------------------------------------
-- *vṛtañcayaḥ* \< *vṛtaṃcaya*
+- *vṛtañcayaḥ* ← *vṛtaṃcaya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *sahurir* \< *sahuriḥ* \< *sahuri*
+- *sahurir* ← *sahuriḥ* ← *sahuri*
 - \[noun\], nominative, singular, masculine
 - “victorious; mighty; strong.”
 ------------------------------------------------------------------------
-- *vikṣv* \< *vikṣu* \< *viś*
+- *vikṣv* ← *vikṣu* ← *viś*
 - \[noun\], locative, plural
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *ārita* \< *āritaḥ* \< *ār*
+- *ārita* ← *āritaḥ* ← *ār*
 - \[verb noun\], nominative, singular
 - “praise.”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vocam* \< *vac*
+- *vocam* ← *vac*
 - \[verb\], singular, Aorist inj. (proh.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
@@ -69,7 +69,7 @@ title = "Rig Veda 2.21.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *kṛtāni* \< *kṛ*
+- *kṛtāni* ← *kṛ*
 - \[verb noun\], accusative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -80,7 +80,7 @@ title = "Rig Veda 2.21.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *vīryā* \< *vīrya*
+- *vīryā* ← *vīrya*
 - \[noun\], accusative, plural, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];

@@ -2,7 +2,7 @@
 title = "Rig Veda 1.166.2"
 
 +++
--   *nityaṃ* \< *nityam* \< *nitya*
+-   *nityaṃ* ← *nityam* ← *nitya*
 - \[noun\], accusative, singular, masculine
 - “continuous; own(a); changeless; everlasting; continual; devoted(p);
     permanent; obligatory; continuing; indispensable; native; addicted;
@@ -12,7 +12,7 @@ title = "Rig Veda 1.166.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sūnum* \< *sūnu*
+- *sūnum* ← *sūnu*
 - \[noun\], accusative, singular, masculine
 - “son; offspring.”
 ------------------------------------------------------------------------
@@ -20,7 +20,7 @@ title = "Rig Veda 1.166.2"
 - \[noun\], accusative, plural, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *bibhrata* \< *bibhrataḥ* \< *bhṛ*
+- *bibhrata* ← *bibhrataḥ* ← *bhṛ*
 - \[verb noun\], nominative, plural
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
@@ -29,34 +29,34 @@ title = "Rig Veda 1.166.2"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *krīﾱanti* \< *krīḍanti* \< *krīḍ*
+- *krīﾱanti* ← *krīḍanti* ← *krīḍ*
 - \[verb\], plural, Present indikative
 - “frolic; love; play; amuse.”
 ------------------------------------------------------------------------
-- *krīﾱā* \< *krīḍāḥ* \< *krīḍa*
+- *krīﾱā* ← *krīḍāḥ* ← *krīḍa*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *vidatheṣu* \< *vidatha*
+- *vidatheṣu* ← *vidatha*
 - \[noun\], locative, plural, neuter
 - “meeting; wisdom; council.”
 ------------------------------------------------------------------------
-- *ghṛṣvayaḥ* \< *ghṛṣvi*
+- *ghṛṣvayaḥ* ← *ghṛṣvi*
 - \[noun\], nominative, plural, masculine
 - “anticipated; electrifying.”
 ------------------------------------------------------------------------
-- *nakṣanti* \< *nakṣ*
+- *nakṣanti* ← *nakṣ*
 - \[verb\], plural, Present indikative
 - “reach; approach.”
 ------------------------------------------------------------------------
-- *rudrā* \< *rudrāḥ* \< *rudra*
+- *rudrā* ← *rudrāḥ* ← *rudra*
 - \[noun\], nominative, plural, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *avasā* \< *avas*
+- *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *namasvinaṃ* \< *namasvinam* \< *namasvin*
+- *namasvinaṃ* ← *namasvinam* ← *namasvin*
 - \[noun\], accusative, singular, masculine
 - “worshiping; reverent.”
 ------------------------------------------------------------------------
@@ -64,19 +64,19 @@ title = "Rig Veda 1.166.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *mardhanti* \< *mṛdh*
+- *mardhanti* ← *mṛdh*
 - \[verb\], plural, Present indikative
 - “neglect.”
 ------------------------------------------------------------------------
-- *svatavaso* \< *sva*
+- *svatavaso* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svatavaso* \< *tavasaḥ* \< *tavas*
+- *svatavaso* ← *tavasaḥ* ← *tavas*
 - \[noun\], nominative, plural, masculine
 - “strong; energetic.”
 ------------------------------------------------------------------------
-- *haviṣkṛtam* \< *haviṣkṛt*
+- *haviṣkṛtam* ← *haviṣkṛt*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------

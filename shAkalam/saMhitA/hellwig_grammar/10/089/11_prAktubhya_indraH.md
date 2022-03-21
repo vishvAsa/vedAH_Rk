@@ -2,15 +2,15 @@
 title = "Rig Veda 10.89.11"
 
 +++
--   *prāktubhya* \< *pra*
+-   *prāktubhya* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prāktubhya* \< *aktubhyaḥ* \< *aktu*
+- *prāktubhya* ← *aktubhyaḥ* ← *aktu*
 - \[noun\], ablative, plural, masculine
 - “night; dark; beam.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -19,19 +19,19 @@ title = "Rig Veda 10.89.11"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vṛdho* \< *vṛdhaḥ* \< *vṛdha*
+- *vṛdho* ← *vṛdhaḥ* ← *vṛdha*
 - \[noun\], nominative, singular, masculine
 - “increasing; promotive.”
 ------------------------------------------------------------------------
-- *ahabhyaḥ* \< *\_* \< *√\_*
+- *ahabhyaḥ* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *prāntarikṣāt* \< *pra*
+- *prāntarikṣāt* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prāntarikṣāt* \< *antarikṣāt* \< *antarikṣa*
+- *prāntarikṣāt* ← *antarikṣāt* ← *antarikṣa*
 - \[noun\], ablative, singular, neuter
 - “sky; atmosphere; air; abhra.”
 ------------------------------------------------------------------------
@@ -39,11 +39,11 @@ title = "Rig Veda 10.89.11"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *samudrasya* \< *samudra*
+- *samudrasya* ← *samudra*
 - \[noun\], genitive, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *dhāseḥ* \< *dhāsi*
+- *dhāseḥ* ← *dhāsi*
 - \[noun\], ablative, singular, feminine
 - “seat; home.”
 ------------------------------------------------------------------------
@@ -51,12 +51,12 @@ title = "Rig Veda 10.89.11"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vātasya* \< *vāta*
+- *vātasya* ← *vāta*
 - \[noun\], genitive, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *prathasaḥ* \< *prathas*
+- *prathasaḥ* ← *prathas*
 - \[noun\], ablative, singular, neuter
 - “width.”
 ------------------------------------------------------------------------
@@ -64,10 +64,10 @@ title = "Rig Veda 10.89.11"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *jmo* \< *jmaḥ* \< *jm*
+- *jmo* ← *jmaḥ* ← *jm*
 - \[noun\], genitive, singular, feminine
 ------------------------------------------------------------------------
-- *antāt* \< *anta*
+- *antāt* ← *anta*
 - \[noun\], ablative, singular, masculine
 - “end; last syllable; end; end; boundary; inside; border; death; anta
     \[word\]; edge; end; shore; limit; region; outskirt; destruction;
@@ -78,11 +78,11 @@ title = "Rig Veda 10.89.11"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *sindhubhyo* \< *sindhubhyaḥ* \< *sindhu*
+- *sindhubhyo* ← *sindhubhyaḥ* ← *sindhu*
 - \[noun\], ablative, plural, feminine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *ririce* \< *ric*
+- *ririce* ← *ric*
 - \[verb\], singular, Perfect indicative
 - “empty; liberate; concede; surrender; purge.”
 ------------------------------------------------------------------------
@@ -90,7 +90,7 @@ title = "Rig Veda 10.89.11"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *kṣitibhyaḥ* \< *kṣiti*
+- *kṣitibhyaḥ* ← *kṣiti*
 - \[noun\], ablative, plural, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”

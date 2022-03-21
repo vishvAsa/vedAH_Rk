@@ -6,48 +6,48 @@ title = "Rig Veda 9.97.8"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *haṃsāsas* \< *haṃsāsaḥ* \< *haṃsa*
+- *haṃsāsas* ← *haṃsāsaḥ* ← *haṃsa*
 - \[noun\], nominative, plural, masculine
 - “goose; Vishnu; sun.”
 ------------------------------------------------------------------------
-- *tṛpalam* \< *tṛpala*
+- *tṛpalam* ← *tṛpala*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *manyum* \< *manyu*
+- *manyum* ← *manyu*
 - \[noun\], accusative, singular, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------
-- *acchāmād* \< *accha* \< *acchā*
+- *acchāmād* ← *accha* ← *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *acchāmād* \< *amāt*
+- *acchāmād* ← *amāt*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *astaṃ* \< *astam* \< *asta*
+- *astaṃ* ← *astam* ← *asta*
 - \[noun\], accusative, singular, neuter
 - “home.”
 ------------------------------------------------------------------------
-- *vṛṣagaṇā* \< *vṛṣagaṇāḥ* \< *vṛṣagaṇa*
+- *vṛṣagaṇā* ← *vṛṣagaṇāḥ* ← *vṛṣagaṇa*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *ayāsuḥ* \< *yā*
+- *ayāsuḥ* ← *yā*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *āṅgūṣyam* \< *āṅgūṣya*
+- *āṅgūṣyam* ← *āṅgūṣya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *pavamānaṃ* \< *pavamānam* \< *pū*
+- *pavamānaṃ* ← *pavamānam* ← *pū*
 - \[verb noun\], accusative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *sakhāyo* \< *sakhāyaḥ* \< *sakhi*
+- *sakhāyo* ← *sakhāyaḥ* ← *sakhi*
 - \[noun\], nominative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *durmarṣaṃ* \< *durmarṣam* \< *durmarṣa*
+- *durmarṣaṃ* ← *durmarṣam* ← *durmarṣa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *sākam*
@@ -58,12 +58,12 @@ title = "Rig Veda 9.97.8"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vadanti* \< *vad*
+- *vadanti* ← *vad*
 - \[verb\], plural, Present indikative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
 ------------------------------------------------------------------------
-- *vāṇam* \< *vāṇa*
+- *vāṇam* ← *vāṇa*
 - \[noun\], accusative, singular, masculine
 - “music.”
 ------------------------------------------------------------------------

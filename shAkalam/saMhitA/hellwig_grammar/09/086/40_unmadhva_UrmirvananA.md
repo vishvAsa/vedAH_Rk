@@ -2,35 +2,35 @@
 title = "Rig Veda 9.86.40"
 
 +++
--   *un* \< *ud*
+-   *un* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *madhva* \< *madhvaḥ* \< *madhu*
+- *madhva* ← *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *ūrmir* \< *ūrmiḥ* \< *ūrmi*
+- *ūrmir* ← *ūrmiḥ* ← *ūrmi*
 - \[noun\], nominative, singular, masculine
 - “wave; billow.”
 ------------------------------------------------------------------------
-- *vananā* \< *vanana*
+- *vananā* ← *vanana*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *atiṣṭhipad* \< *atiṣṭhipat* \< *sthāpay* \< *√sthā*
+- *atiṣṭhipad* ← *atiṣṭhipat* ← *sthāpay* ← *√sthā*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “put; fill into; soak; stow; fixate; install; explain; set;
     construct; tie.”
 ------------------------------------------------------------------------
-- *apo* \< *apaḥ* \< *ap*
+- *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *vasāno* \< *vasānaḥ* \< *vas*
+- *vasāno* ← *vasānaḥ* ← *vas*
 - \[verb noun\], nominative, singular
 - “wear.”
 ------------------------------------------------------------------------
-- *mahiṣo* \< *mahiṣaḥ* \< *mahiṣa*
+- *mahiṣo* ← *mahiṣaḥ* ← *mahiṣa*
 - \[noun\], nominative, singular, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
 ------------------------------------------------------------------------
@@ -38,43 +38,43 @@ title = "Rig Veda 9.86.40"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *gāhate* \< *gāh*
+- *gāhate* ← *gāh*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *rājā* \< *rājan*
+- *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *pavitraratho* \< *pavitra*
+- *pavitraratho* ← *pavitra*
 - \[noun\], neuter
 - “strainer.”
 ------------------------------------------------------------------------
-- *pavitraratho* \< *rathaḥ* \< *ratha*
+- *pavitraratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *vājam* \< *vāja*
+- *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *āruhat* \< *āruh* \< *√ruh*
+- *āruhat* ← *āruh* ← *√ruh*
 - \[verb\], singular, Imperfect
 - “board; hop on; climb; ascend; descend; ride; copulate; grow.”
 ------------------------------------------------------------------------
-- *sahasrabhṛṣṭir* \< *sahasra*
+- *sahasrabhṛṣṭir* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasrabhṛṣṭir* \< *bhṛṣṭiḥ* \< *bhṛṣṭi*
+- *sahasrabhṛṣṭir* ← *bhṛṣṭiḥ* ← *bhṛṣṭi*
 - \[noun\], nominative, singular, masculine
 - “spike.”
 ------------------------------------------------------------------------
-- *jayati* \< *ji*
+- *jayati* ← *ji*
 - \[verb\], singular, Present indikative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *śravo* \< *śravaḥ* \< *śravas*
+- *śravo* ← *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------

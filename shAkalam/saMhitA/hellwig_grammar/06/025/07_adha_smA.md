@@ -6,22 +6,22 @@ title = "Rig Veda 6.25.7"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *smā* \< *sma*
+- *smā* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *carṣaṇayo* \< *carṣaṇayaḥ* \< *carṣaṇi*
+- *carṣaṇayo* ← *carṣaṇayaḥ* ← *carṣaṇi*
 - \[noun\], nominative, plural, feminine
 - “people.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *ejān* \< *ej*
+- *ejān* ← *ej*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “move; stir; tremble; travel.”
 ------------------------------------------------------------------------
@@ -30,37 +30,37 @@ title = "Rig Veda 6.25.7"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *trātota* \< *trātā* \< *trātṛ*
+- *trātota* ← *trātā* ← *trātṛ*
 - \[noun\], nominative, singular, masculine
 - “defender; savior.”
 ------------------------------------------------------------------------
-- *trātota* \< *uta*
+- *trātota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *bhavā* \< *bhava* \< *bhū*
+- *bhavā* ← *bhava* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *varūtā* \< *varūtṛ*
+- *varūtā* ← *varūtṛ*
 - \[noun\], nominative, singular, masculine
 - “varūtṛ \[word\].”
 ------------------------------------------------------------------------
-- *asmākāso* \< *asmākāsaḥ* \< *asmāka*
+- *asmākāso* ← *asmākāsaḥ* ← *asmāka*
 - \[noun\], nominative, plural, masculine
 - “our; asmāka \[word\].”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *nṛtamāso* \< *nṛtamāsaḥ* \< *nṛtama*
+- *nṛtamāso* ← *nṛtamāsaḥ* ← *nṛtama*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *arya* \< *aryaḥ* \< *ari*
+- *arya* ← *aryaḥ* ← *ari*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *indra*
@@ -68,20 +68,20 @@ title = "Rig Veda 6.25.7"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sūrayo* \< *sūrayaḥ* \< *sūri*
+- *sūrayo* ← *sūrayaḥ* ← *sūri*
 - \[noun\], nominative, plural, masculine
 - “patron.”
 ------------------------------------------------------------------------
-- *dadhire* \< *dhā*
+- *dadhire* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *puro* \< *puras*
+- *puro* ← *puras*
 - \[adverb\]
 - “ahead; puras \[word\]; easterly; eastward; east; earlier.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

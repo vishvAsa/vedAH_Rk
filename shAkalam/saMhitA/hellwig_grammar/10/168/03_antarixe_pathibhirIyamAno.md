@@ -2,15 +2,15 @@
 title = "Rig Veda 10.168.3"
 
 +++
--   *antarikṣe* \< *antarikṣa*
+-   *antarikṣe* ← *antarikṣa*
 - \[noun\], locative, singular, neuter
 - “sky; atmosphere; air; abhra.”
 ------------------------------------------------------------------------
-- *pathibhir* \< *pathibhiḥ* \< *pathin*
+- *pathibhir* ← *pathibhiḥ* ← *pathin*
 - \[noun\], instrumental, plural
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *īyamāno* \< *īyamānaḥ* \< *i*
+- *īyamāno* ← *īyamānaḥ* ← *i*
 - \[verb noun\], nominative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
@@ -22,40 +22,40 @@ title = "Rig Veda 10.168.3"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *viśate* \< *viś*
+- *viśate* ← *viś*
 - \[verb\], singular, Present indikative
 - “enter; penetrate; settle; settle.”
 ------------------------------------------------------------------------
-- *katamac* \< *katamat* \< *katama*
+- *katamac* ← *katamat* ← *katama*
 - \[noun\], accusative, singular, neuter
 - “katama \[word\]; who.”
 ------------------------------------------------------------------------
-- *canāhaḥ* \< *cana*
+- *canāhaḥ* ← *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *canāhaḥ* \< *ahar*
+- *canāhaḥ* ← *ahar*
 - \[noun\], accusative, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *apāṃ* \< *apām* \< *ap*
+- *apāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, neuter
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *sakhā* \< *sakhi*
+- *sakhā* ← *sakhi*
 - \[noun\], nominative, singular
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *prathamajā* \< *prathama*
+- *prathamajā* ← *prathama*
 - \[noun\]
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
 ------------------------------------------------------------------------
-- *prathamajā* \< *jāḥ* \< *jā*
+- *prathamajā* ← *jāḥ* ← *jā*
 - \[noun\], nominative, singular, masculine
 - “born.”
 ------------------------------------------------------------------------
-- *ṛtāvā* \< *ṛtāvan*
+- *ṛtāvā* ← *ṛtāvan*
 - \[noun\], nominative, singular, masculine
 - “law-abiding; faithful; righteous.”
 ------------------------------------------------------------------------
@@ -63,17 +63,17 @@ title = "Rig Veda 10.168.3"
 - \[adverb\]
 - “wherein; how; kva \[word\].”
 ------------------------------------------------------------------------
-- *svij* \< *svid*
+- *svij* ← *svid*
 - \[adverb\]
 - “svid \[word\].”
 ------------------------------------------------------------------------
-- *jātaḥ* \< *jan*
+- *jātaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *kuta* \< *kutas*
+- *kuta* ← *kutas*
 - \[adverb\]
 - “how; whence; why.”
 ------------------------------------------------------------------------
@@ -81,7 +81,7 @@ title = "Rig Veda 10.168.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *babhūva* \< *bhū*
+- *babhūva* ← *bhū*
 - \[verb\], singular, Perfect indicative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;

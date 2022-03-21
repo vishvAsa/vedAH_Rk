@@ -2,62 +2,62 @@
 title = "Rig Veda 9.93.1"
 
 +++
--   *sākamukṣo* \< *sākamukṣaḥ* \< *sākamukṣ*
+-   *sākamukṣo* ← *sākamukṣaḥ* ← *sākamukṣ*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *marjayanta* \< *marjay* \< *√mṛj*
+- *marjayanta* ← *marjay* ← *√mṛj*
 - \[verb\], plural, Present injunctive
 ------------------------------------------------------------------------
-- *svasāro* \< *svasāraḥ* \< *svasṛ*
+- *svasāro* ← *svasāraḥ* ← *svasṛ*
 - \[noun\], nominative, plural, feminine
 - “sister; svasṛ \[word\].”
 ------------------------------------------------------------------------
-- *daśa* \< *daśan*
+- *daśa* ← *daśan*
 - \[noun\], nominative, plural, feminine
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *dhīrasya* \< *dhīra*
+- *dhīrasya* ← *dhīra*
 - \[noun\], genitive, singular, masculine
 - “expert; wise; intelligent; versed; adept.”
 ------------------------------------------------------------------------
-- *dhītayo* \< *dhītayaḥ* \< *dhīti*
+- *dhītayo* ← *dhītayaḥ* ← *dhīti*
 - \[noun\], nominative, plural, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------
-- *dhanutrīḥ* \< *dhanutṛ*
+- *dhanutrīḥ* ← *dhanutṛ*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *hariḥ* \< *hari*
+- *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
-- *pary* \< *pari*
+- *pary* ← *pari*
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *adravaj* \< *adravat* \< *dru*
+- *adravaj* ← *adravat* ← *dru*
 - \[verb\], singular, Imperfect
 - “liquefy; melt; melt; flee; run; run; vanish; run; rush; dissolve;
     dissolve.”
 ------------------------------------------------------------------------
-- *jāḥ* \< *jā*
+- *jāḥ* ← *jā*
 - \[noun\], accusative, plural, feminine
 - “child; jā; being.”
 ------------------------------------------------------------------------
-- *sūryasya* \< *sūrya*
+- *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *droṇaṃ* \< *droṇam* \< *droṇa*
+- *droṇaṃ* ← *droṇam* ← *droṇa*
 - \[noun\], accusative, singular, masculine
 - “Droṇa; Droṇa; Droṇa; droṇa \[word\]; raven.”
 ------------------------------------------------------------------------
-- *nanakṣe* \< *nakṣ*
+- *nanakṣe* ← *nakṣ*
 - \[verb\], singular, Perfect indicative
 - “reach; approach.”
 ------------------------------------------------------------------------
-- *atyo* \< *atyaḥ* \< *atya*
+- *atyo* ← *atyaḥ* ← *atya*
 - \[noun\], nominative, singular, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------
@@ -65,7 +65,7 @@ title = "Rig Veda 9.93.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vājī* \< *vājin*
+- *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------

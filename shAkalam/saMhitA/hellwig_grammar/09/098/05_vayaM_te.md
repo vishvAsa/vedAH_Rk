@@ -2,35 +2,35 @@
 title = "Rig Veda 9.98.5"
 
 +++
--   *vayaṃ* \< *vayam* \< *mad*
+-   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vṛtrahan* \< *vṛtra*
+- *vṛtrahan* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *vṛtrahan* \< *han*
+- *vṛtrahan* ← *han*
 - \[noun\], vocative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
-- *vaso* \< *vasu*
+- *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *vasvaḥ* \< *vasu*
+- *vasvaḥ* ← *vasu*
 - \[noun\], genitive, singular, neuter
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
 ------------------------------------------------------------------------
-- *puruspṛhaḥ* \< *puruspṛh*
+- *puruspṛhaḥ* ← *puruspṛh*
 - \[noun\], genitive, singular, neuter
 - “coveted; desirous.”
 ------------------------------------------------------------------------
@@ -38,23 +38,23 @@ title = "Rig Veda 9.98.5"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *nediṣṭhatamā* \< *nediṣṭhatamāḥ* \< *nediṣṭhatama*
+- *nediṣṭhatamā* ← *nediṣṭhatamāḥ* ← *nediṣṭhatama*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *iṣaḥ* \< *iṣ*
+- *iṣaḥ* ← *iṣ*
 - \[noun\], genitive, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *syāma* \< *as*
+- *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *sumnasyādhrigo* \< *sumnasya* \< *sumna*
+- *sumnasyādhrigo* ← *sumnasya* ← *sumna*
 - \[noun\], genitive, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
-- *sumnasyādhrigo* \< *adhrigo* \< *adhrigu*
+- *sumnasyādhrigo* ← *adhrigo* ← *adhrigu*
 - \[noun\], vocative, singular, masculine
 - “rich; powerful.”
 ------------------------------------------------------------------------

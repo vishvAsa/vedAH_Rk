@@ -2,7 +2,7 @@
 title = "Rig Veda 9.109.10"
 
 +++
--   *pavasva* \< *pū*
+-   *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
@@ -10,16 +10,16 @@ title = "Rig Veda 9.109.10"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *kratve* \< *kratu*
+- *kratve* ← *kratu*
 - \[noun\], dative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *dakṣāyāśvo* \< *dakṣāya* \< *dakṣa*
+- *dakṣāyāśvo* ← *dakṣāya* ← *dakṣa*
 - \[noun\], dative, singular, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
 ------------------------------------------------------------------------
-- *dakṣāyāśvo* \< *aśvaḥ* \< *aśva*
+- *dakṣāyāśvo* ← *aśvaḥ* ← *aśva*
 - \[noun\], nominative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
@@ -27,14 +27,14 @@ title = "Rig Veda 9.109.10"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nikto* \< *niktaḥ* \< *nij*
+- *nikto* ← *niktaḥ* ← *nij*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *vājī* \< *vājin*
+- *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------
-- *dhanāya* \< *dhana*
+- *dhanāya* ← *dhana*
 - \[noun\], dative, singular, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”

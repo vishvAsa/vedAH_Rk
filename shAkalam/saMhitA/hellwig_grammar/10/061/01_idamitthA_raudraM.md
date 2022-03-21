@@ -10,30 +10,30 @@ title = "Rig Veda 10.61.1"
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *raudraṃ* \< *raudram* \< *raudra*
+- *raudraṃ* ← *raudram* ← *raudra*
 - \[noun\], accusative, singular, neuter
 - “terrific; shivaite; intense; violent; fierce; barbarous;
     barbarian.”
 ------------------------------------------------------------------------
-- *gūrtavacā* \< *gūrta*
+- *gūrtavacā* ← *gūrta*
 - \[noun\]
 - “gūrta \[word\]; welcome.”
 ------------------------------------------------------------------------
-- *gūrtavacā* \< *vacāḥ* \< *vacas*
+- *gūrtavacā* ← *vacāḥ* ← *vacas*
 - \[noun\], nominative, singular, masculine
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------
-- *brahma* \< *brahman*
+- *brahma* ← *brahman*
 - \[noun\], accusative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *kratvā* \< *kratu*
+- *kratvā* ← *kratu*
 - \[noun\], instrumental, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *śacyām* \< *śacī*
+- *śacyām* ← *śacī*
 - \[noun\], locative, singular, feminine
 - “Śacī; power; dexterity; ability; aid.”
 ------------------------------------------------------------------------
@@ -41,11 +41,11 @@ title = "Rig Veda 10.61.1"
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *ājau* \< *āji*
+- *ājau* ← *āji*
 - \[noun\], locative, singular, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
 ------------------------------------------------------------------------
-- *krāṇā* \< *krāṇāḥ* \< *kṛ*
+- *krāṇā* ← *krāṇāḥ* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -56,30 +56,30 @@ title = "Rig Veda 10.61.1"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *pitarā* \< *pitṛ*
+- *pitarā* ← *pitṛ*
 - \[noun\], nominative, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *maṃhaneṣṭhāḥ* \< *maṃhaneṣṭhā*
+- *maṃhaneṣṭhāḥ* ← *maṃhaneṣṭhā*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *parṣat* \< *pṛ*
+- *parṣat* ← *pṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “protect; promote; rescue; help.”
 ------------------------------------------------------------------------
-- *pakthe* \< *paktha*
+- *pakthe* ← *paktha*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *ahann* \< *ahan* \< *ahar*
+- *ahann* ← *ahan* ← *ahar*
 - \[noun\], locative, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
@@ -87,11 +87,11 @@ title = "Rig Veda 10.61.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], accusative, plural, masculine
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *hotṝn* \< *hotṛ*
+- *hotṝn* ← *hotṛ*
 - \[noun\], accusative, plural, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------

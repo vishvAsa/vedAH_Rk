@@ -6,23 +6,23 @@ title = "Rig Veda 7.18.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *pakthāso* \< *pakthāsaḥ* \< *paktha*
+- *pakthāso* ← *pakthāsaḥ* ← *paktha*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *bhalānaso* \< *bhalānasaḥ* \< *bhalānas*
+- *bhalānaso* ← *bhalānasaḥ* ← *bhalānas*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *bhanantālināso* \< *bhananta* \< *bhan*
+- *bhanantālināso* ← *bhananta* ← *bhan*
 - \[verb\], plural, Present injunctive
 ------------------------------------------------------------------------
-- *bhanantālināso* \< *alināsaḥ* \< *alina*
+- *bhanantālināso* ← *alināsaḥ* ← *alina*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *viṣāṇinaḥ* \< *viṣāṇin*
+- *viṣāṇinaḥ* ← *viṣāṇin*
 - \[noun\], nominative, plural, masculine
 - “Trapa bispinosa; elephant.”
 ------------------------------------------------------------------------
-- *śivāsaḥ* \< *śiva*
+- *śivāsaḥ* ← *śiva*
 - \[noun\], nominative, plural, masculine
 - “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
     holy; nice.”
@@ -31,19 +31,19 @@ title = "Rig Veda 7.18.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *'nayat* \< *anayat* \< *nī*
+- *'nayat* ← *anayat* ← *nī*
 - \[verb\], singular, Imperfect
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *sadhamā* \< *sadhamād*
+- *sadhamā* ← *sadhamād*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *āryasya* \< *ārya*
+- *āryasya* ← *ārya*
 - \[noun\], genitive, singular, masculine
 - “noble; noble; Indo-European; ārya \[word\]; honorable; noble.”
 ------------------------------------------------------------------------
@@ -51,22 +51,22 @@ title = "Rig Veda 7.18.7"
 - \[noun\], instrumental, singular, feminine
 - “gorocanā.”
 ------------------------------------------------------------------------
-- *tṛtsubhyo* \< *tṛtsubhyaḥ* \< *tṛtsu*
+- *tṛtsubhyo* ← *tṛtsubhyaḥ* ← *tṛtsu*
 - \[noun\], dative, plural, masculine
 - “Tṛtsu.”
 ------------------------------------------------------------------------
-- *ajagan* \< *gam*
+- *ajagan* ← *gam*
 - \[verb\], singular, Plusquamperfect
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *yudhā* \< *yudh*
+- *yudhā* ← *yudh*
 - \[noun\], instrumental, singular, feminine
 - “battle; fight; war; combat.”
 ------------------------------------------------------------------------
-- *nṝn* \< *nṛ*
+- *nṝn* ← *nṛ*
 - \[noun\], accusative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------

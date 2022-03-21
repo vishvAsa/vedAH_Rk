@@ -2,36 +2,36 @@
 title = "Rig Veda 5.42.10"
 
 +++
--   *ya* \< *yaḥ* \< *yad*
+-   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ohate* \< *ūh*
+- *ohate* ← *ūh*
 - \[verb\], singular, Present indikative
 - “diagnose.”
 ------------------------------------------------------------------------
-- *rakṣaso* \< *rakṣasaḥ* \< *rakṣas*
+- *rakṣaso* ← *rakṣasaḥ* ← *rakṣas*
 - \[noun\], accusative, plural, masculine
 - “Rākṣasa.”
 ------------------------------------------------------------------------
-- *devavītāv* \< *deva*
+- *devavītāv* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devavītāv* \< *vītau* \< *vīti*
+- *devavītāv* ← *vītau* ← *vīti*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
-- *acakrebhis* \< *acakrebhiḥ* \< *acakra*
+- *acakrebhis* ← *acakrebhiḥ* ← *acakra*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
@@ -39,42 +39,42 @@ title = "Rig Veda 5.42.10"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *yāta* \< *yā*
+- *yāta* ← *yā*
 - \[verb\], plural, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *śamīṃ* \< *śamīm* \< *śamī*
+- *śamīṃ* ← *śamīm* ← *śamī*
 - \[noun\], accusative, singular, feminine
 - “Prosopis spicigera Linn.; śamī \[word\]; Acacia sundra; attempt;
     labor.”
 ------------------------------------------------------------------------
-- *śaśamānasya* \< *śam*
+- *śaśamānasya* ← *śam*
 - \[verb noun\], genitive, singular
 - “calm; go out; end; die; pacify; heal; labor; make peace; rest.”
 ------------------------------------------------------------------------
-- *nindāt* \< *nind*
+- *nindāt* ← *nind*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “blame; disapprove; condemn; reprehend; reprimand.”
 ------------------------------------------------------------------------
-- *tucchyān* \< *tucchya*
+- *tucchyān* ← *tucchya*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *kāmān* \< *kāma*
+- *kāmān* ← *kāma*
 - \[noun\], accusative, plural, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
 ------------------------------------------------------------------------
-- *karate* \< *kṛ*
+- *karate* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -85,7 +85,7 @@ title = "Rig Veda 5.42.10"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *siṣvidānaḥ* \< *svid*
+- *siṣvidānaḥ* ← *svid*
 - \[verb noun\], nominative, singular
 - “sveday; svid; sweat; heat; macerate.”
 ------------------------------------------------------------------------

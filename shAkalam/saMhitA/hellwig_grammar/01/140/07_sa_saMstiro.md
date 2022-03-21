@@ -2,27 +2,27 @@
 title = "Rig Veda 1.140.7"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *saṃstiro* \< *saṃstiraḥ* \< *saṃstir*
+- *saṃstiro* ← *saṃstiraḥ* ← *saṃstir*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *viṣṭiraḥ* \< *viṣṭir*
+- *viṣṭiraḥ* ← *viṣṭir*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *gṛbhāyati* \< *gṛbhāy* \< *√grah*
+- *gṛbhāyati* ← *gṛbhāy* ← *√grah*
 - \[verb\], singular, Present indikative
 - “accept.”
 ------------------------------------------------------------------------
-- *jānann* \< *jānan* \< *jñā*
+- *jānann* ← *jānan* ← *jñā*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; come to know; notice; determine;
     think of; find; learn; perceive; identify; recognize; understand;
@@ -33,13 +33,13 @@ title = "Rig Veda 1.140.7"
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *jānatīr* \< *jānatīḥ* \< *jñā*
+- *jānatīr* ← *jānatīḥ* ← *jñā*
 - \[verb noun\], accusative, plural
 - “know; diagnose; perceive; know; come to know; notice; determine;
     think of; find; learn; perceive; identify; recognize; understand;
     know; learn; ascertain; detect; deem.”
 ------------------------------------------------------------------------
-- *nitya* \< *nityaḥ* \< *nitya*
+- *nitya* ← *nityaḥ* ← *nitya*
 - \[noun\], nominative, singular, masculine
 - “continuous; own(a); changeless; everlasting; continual; devoted(p);
     permanent; obligatory; continuing; indispensable; native; addicted;
@@ -49,7 +49,7 @@ title = "Rig Veda 1.140.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *śaye* \< *śī*
+- *śaye* ← *śī*
 - \[verb\], singular, Present indikative
 - “lie; sleep.”
 ------------------------------------------------------------------------
@@ -58,7 +58,7 @@ title = "Rig Veda 1.140.7"
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
 ------------------------------------------------------------------------
-- *vardhante* \< *vṛdh*
+- *vardhante* ← *vṛdh*
 - \[verb\], plural, Present indikative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
@@ -68,28 +68,28 @@ title = "Rig Veda 1.140.7"
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
 ------------------------------------------------------------------------
-- *yanti* \< *i*
+- *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *devyam* \< *devya*
+- *devyam* ← *devya*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *anyad* \< *anyat* \< *anya*
+- *anyad* ← *anyat* ← *anya*
 - \[noun\], accusative, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *varpaḥ* \< *varpas*
+- *varpaḥ* ← *varpas*
 - \[noun\], accusative, singular, neuter
 - “form; look; disguise.”
 ------------------------------------------------------------------------
-- *pitroḥ* \< *pitṛ*
+- *pitroḥ* ← *pitṛ*
 - \[noun\], locative, dual, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *kṛṇvate* \< *kṛ*
+- *kṛṇvate* ← *kṛ*
 - \[verb\], plural, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

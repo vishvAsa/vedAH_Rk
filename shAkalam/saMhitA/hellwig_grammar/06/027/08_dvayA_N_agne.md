@@ -2,63 +2,63 @@
 title = "Rig Veda 6.27.8"
 
 +++
--   *dvayāṃ* \< *dvaya*
+-   *dvayāṃ* ← *dvaya*
 - \[noun\], accusative, plural, masculine
 - “two; double.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *rathino* \< *rathinaḥ* \< *rathin*
+- *rathino* ← *rathinaḥ* ← *rathin*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *viṃśatiṃ* \< *viṃśatim* \< *viṃśati*
+- *viṃśatiṃ* ← *viṃśatim* ← *viṃśati*
 - \[noun\], accusative, singular, feminine
 - “twenty; twentieth; viṃśati \[word\].”
 ------------------------------------------------------------------------
-- *gā* \< *gāḥ* \< *go*
+- *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *vadhūmato* \< *vadhūmataḥ* \< *vadhūmat*
+- *vadhūmato* ← *vadhūmataḥ* ← *vadhūmat*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *maghavā* \< *maghavan*
+- *maghavā* ← *maghavan*
 - \[noun\], nominative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *mahyaṃ* \< *mahyam* \< *mad*
+- *mahyaṃ* ← *mahyam* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *samrāṭ* \< *samrāj*
+- *samrāṭ* ← *samrāj*
 - \[noun\], nominative, singular, masculine
 - “sovereign; ruler.”
 ------------------------------------------------------------------------
-- *abhyāvartī* \< *abhyāvartin*
+- *abhyāvartī* ← *abhyāvartin*
 - \[noun\], nominative, singular, masculine
 - “Abhyāvartin.”
 ------------------------------------------------------------------------
-- *cāyamāno* \< *cāyamānaḥ* \< *cāyamāna*
+- *cāyamāno* ← *cāyamānaḥ* ← *cāyamāna*
 - \[noun\], nominative, singular, masculine
 - “Abhyāvartin.”
 ------------------------------------------------------------------------
-- *dadāti* \< *dā*
+- *dadāti* ← *dā*
 - \[verb\], singular, Present indikative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *dūṇāśeyaṃ* \< *dūṇāśā* \< *dūṇāśa*
+- *dūṇāśeyaṃ* ← *dūṇāśā* ← *dūṇāśa*
 - \[noun\], nominative, singular, feminine
 - “rare.”
 ------------------------------------------------------------------------
-- *dūṇāśeyaṃ* \< *iyam* \< *idam*
+- *dūṇāśeyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -66,6 +66,6 @@ title = "Rig Veda 6.27.8"
 - \[noun\], nominative, singular, feminine
 - “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
 ------------------------------------------------------------------------
-- *pārthavānām* \< *pārthava*
+- *pārthavānām* ← *pārthava*
 - \[noun\], genitive, plural, masculine
 ------------------------------------------------------------------------

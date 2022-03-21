@@ -2,27 +2,27 @@
 title = "Rig Veda 5.5.2"
 
 +++
--   *narāśaṃsaḥ* \< *narāśaṃsa*
+-   *narāśaṃsaḥ* ← *narāśaṃsa*
 - \[noun\], nominative, singular, masculine
 - “Agni.”
 ------------------------------------------------------------------------
-- *suṣūdatīmaṃ* \< *suṣūdati* \< *sūd*
+- *suṣūdatīmaṃ* ← *suṣūdati* ← *sūd*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “sweeten; prepare.”
 ------------------------------------------------------------------------
-- *suṣūdatīmaṃ* \< *imam* \< *idam*
+- *suṣūdatīmaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *adābhyaḥ* \< *adābhya*
+- *adābhyaḥ* ← *adābhya*
 - \[noun\], nominative, singular, masculine
 - “trustworthy; disabused(p).”
 ------------------------------------------------------------------------
-- *kavir* \< *kaviḥ* \< *kavi*
+- *kavir* ← *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
@@ -31,11 +31,11 @@ title = "Rig Veda 5.5.2"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *madhuhastyaḥ* \< *madhu*
+- *madhuhastyaḥ* ← *madhu*
 - \[noun\], neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *madhuhastyaḥ* \< *hastyaḥ* \< *hastya*
+- *madhuhastyaḥ* ← *hastyaḥ* ← *hastya*
 - \[noun\], nominative, singular, masculine
 - “hand(a).”
 ------------------------------------------------------------------------

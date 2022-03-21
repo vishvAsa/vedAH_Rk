@@ -6,45 +6,45 @@ title = "Rig Veda 2.32.2"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *guhyā* \< *guhyāḥ* \< *guhya*
+- *guhyā* ← *guhyāḥ* ← *guhya*
 - \[noun\], nominative, plural, feminine
 - “secret; concealed.”
 ------------------------------------------------------------------------
-- *ripa* \< *ripaḥ* \< *rip*
+- *ripa* ← *ripaḥ* ← *rip*
 - \[noun\], nominative, plural, feminine
 - “deceiver.”
 ------------------------------------------------------------------------
-- *āyor* \< *āyoḥ* \< *āyu*
+- *āyor* ← *āyoḥ* ← *āyu*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *ahan* \< *ahar*
+- *ahan* ← *ahar*
 - \[noun\], locative, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *dabhan* \< *dabh*
+- *dabhan* ← *dabh*
 - \[verb\], plural, Present injunctive
 ------------------------------------------------------------------------
 - *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ābhyo* \< *ābhyaḥ* \< *idam*
+- *ābhyo* ← *ābhyaḥ* ← *idam*
 - \[noun\], dative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *rīradho* \< *rīradhaḥ* \< *radh*
+- *rīradho* ← *rīradhaḥ* ← *radh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “subjugate.”
 ------------------------------------------------------------------------
-- *ducchunābhyaḥ* \< *ducchunā*
+- *ducchunābhyaḥ* ← *ducchunā*
 - \[noun\], dative, plural, feminine
 - “calamity; misfortune.”
 ------------------------------------------------------------------------
@@ -52,7 +52,7 @@ title = "Rig Veda 2.32.2"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -60,48 +60,48 @@ title = "Rig Veda 2.32.2"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *yauḥ* \< *yu*
+- *yauḥ* ← *yu*
 - \[verb\], singular, Aorist inj. (proh.)
 - “keep away; separate; ward off.”
 ------------------------------------------------------------------------
-- *sakhyā* \< *sakhya*
+- *sakhyā* ← *sakhya*
 - \[noun\], accusative, plural, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *viddhi* \< *vid*
+- *viddhi* ← *vid*
 - \[verb\], singular, Present imperative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *tasya* \< *tad*
+- *tasya* ← *tad*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sumnāyatā* \< *sumnāy*
+- *sumnāyatā* ← *sumnāy*
 - \[verb noun\], instrumental, singular
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *tat* \< *tad*
+- *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tvemahe* \< *tvā* \< *tvad*
+- *tvemahe* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tvemahe* \< *īmahe* \< *i*
+- *tvemahe* ← *īmahe* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------

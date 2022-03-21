@@ -2,42 +2,42 @@
 title = "Rig Veda 9.28.6"
 
 +++
--   *eṣa* \< *etad*
+-   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *śuṣmy* \< *śuṣmī* \< *śuṣmin*
+- *śuṣmy* ← *śuṣmī* ← *śuṣmin*
 - \[noun\], nominative, singular, masculine
 - “strong; hotheaded.”
 ------------------------------------------------------------------------
-- *adābhyaḥ* \< *adābhya*
+- *adābhyaḥ* ← *adābhya*
 - \[noun\], nominative, singular, masculine
 - “trustworthy; disabused(p).”
 ------------------------------------------------------------------------
-- *somaḥ* \< *soma*
+- *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *punāno* \< *punānaḥ* \< *pū*
+- *punāno* ← *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *arṣati* \< *ṛṣ*
+- *arṣati* ← *ṛṣ*
 - \[verb\], singular, Present indikative
 - “run.”
 ------------------------------------------------------------------------
-- *devāvīr* \< *devāvīḥ* \< *devāvī*
+- *devāvīr* ← *devāvīḥ* ← *devāvī*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *aghaśaṃsahā* \< *agha*
+- *aghaśaṃsahā* ← *agha*
 - \[noun\], neuter
 - “sin; evil; impurity; agha \[word\].”
 ------------------------------------------------------------------------
-- *aghaśaṃsahā* \< *śaṃsa*
+- *aghaśaṃsahā* ← *śaṃsa*
 - \[noun\]
 - “speaking.”
 ------------------------------------------------------------------------
-- *aghaśaṃsahā* \< *hā* \< *han*
+- *aghaśaṃsahā* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------

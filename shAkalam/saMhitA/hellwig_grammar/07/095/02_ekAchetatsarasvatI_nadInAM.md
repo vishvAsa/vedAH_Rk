@@ -2,13 +2,13 @@
 title = "Rig Veda 7.95.2"
 
 +++
--   *ekācetat* \< *ekā* \< *eka*
+-   *ekācetat* ← *ekā* ← *eka*
 - \[noun\], nominative, singular, feminine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *ekācetat* \< *acetat* \< *cit*
+- *ekācetat* ← *acetat* ← *cit*
 - \[verb\], singular, Imperfect
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
@@ -17,20 +17,20 @@ title = "Rig Veda 7.95.2"
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
 ------------------------------------------------------------------------
-- *nadīnāṃ* \< *nadīnām* \< *nadī*
+- *nadīnāṃ* ← *nadīnām* ← *nadī*
 - \[noun\], genitive, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
 ------------------------------------------------------------------------
-- *śucir* \< *śuciḥ* \< *śuci*
+- *śucir* ← *śuciḥ* ← *śuci*
 - \[noun\], nominative, singular, feminine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *yatī* \< *i*
+- *yatī* ← *i*
 - \[verb noun\], nominative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *giribhya* \< *giribhyaḥ* \< *giri*
+- *giribhya* ← *giribhyaḥ* ← *giri*
 - \[noun\], ablative, plural, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
 ------------------------------------------------------------------------
@@ -38,39 +38,39 @@ title = "Rig Veda 7.95.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *samudrāt* \< *samudra*
+- *samudrāt* ← *samudra*
 - \[noun\], ablative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *rāyaś* \< *rāyaḥ* \< *rai*
+- *rāyaś* ← *rāyaḥ* ← *rai*
 - \[noun\], accusative, plural, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *cetantī* \< *cit*
+- *cetantī* ← *cit*
 - \[verb noun\], nominative, singular
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *bhuvanasya* \< *bhuvana*
+- *bhuvanasya* ← *bhuvana*
 - \[noun\], genitive, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *bhūrer* \< *bhūreḥ* \< *bhūri*
+- *bhūrer* ← *bhūreḥ* ← *bhūri*
 - \[noun\], genitive, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *ghṛtam* \< *ghṛta*
+- *ghṛtam* ← *ghṛta*
 - \[noun\], accusative, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *payo* \< *payaḥ* \< *payas*
+- *payo* ← *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
-- *duduhe* \< *duh*
+- *duduhe* ← *duh*
 - \[verb\], singular, Perfect indicative
 - “milk.”
 ------------------------------------------------------------------------
-- *nāhuṣāya* \< *nāhuṣa*
+- *nāhuṣāya* ← *nāhuṣa*
 - \[noun\], dative, singular, masculine
 - “Yayāti.”
 ------------------------------------------------------------------------

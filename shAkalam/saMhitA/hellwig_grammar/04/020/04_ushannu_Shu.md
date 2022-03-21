@@ -2,7 +2,7 @@
 title = "Rig Veda 4.20.4"
 
 +++
--   *uśann* \< *uśan* \< *vaś*
+-   *uśann* ← *uśan* ← *vaś*
 - \[verb noun\], nominative, singular
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
@@ -10,22 +10,22 @@ title = "Rig Veda 4.20.4"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *ṇaḥ* \< *naḥ* \< *mad*
+- *ṇaḥ* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sumanā* \< *sumanāḥ* \< *sumanas*
+- *sumanā* ← *sumanāḥ* ← *sumanas*
 - \[noun\], nominative, singular, masculine
 - “benevolent; cheerful; happy; satisfied.”
 ------------------------------------------------------------------------
-- *upāke* \< *upāka*
+- *upāke* ← *upāka*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *somasya* \< *soma*
+- *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -33,19 +33,19 @@ title = "Rig Veda 4.20.4"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *suṣutasya* \< *su*
+- *suṣutasya* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suṣutasya* \< *sutasya* \< *su*
+- *suṣutasya* ← *sutasya* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *svadhāvaḥ* \< *svadhāvas* \< *svadhāvat*
+- *svadhāvaḥ* ← *svadhāvas* ← *svadhāvat*
 - \[noun\], vocative, singular, masculine
 - “autonomous; independent.”
 ------------------------------------------------------------------------
-- *pā* \< *pāḥ* \< *pā*
+- *pā* ← *pāḥ* ← *pā*
 - \[verb\], singular, Aorist conj./subj.
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
@@ -54,11 +54,11 @@ title = "Rig Veda 4.20.4"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pratibhṛtasya* \< *pratibhṛ* \< *√bhṛ*
+- *pratibhṛtasya* ← *pratibhṛ* ← *√bhṛ*
 - \[verb noun\], genitive, singular
 - “serve; serve.”
 ------------------------------------------------------------------------
-- *madhvaḥ* \< *madhu*
+- *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
@@ -66,14 +66,14 @@ title = "Rig Veda 4.20.4"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *andhasā* \< *andhas*
+- *andhasā* ← *andhas*
 - \[noun\], instrumental, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
-- *mamadaḥ* \< *mad*
+- *mamadaḥ* ← *mad*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *pṛṣṭhyena* \< *pṛṣṭhya*
+- *pṛṣṭhyena* ← *pṛṣṭhya*
 - \[noun\], instrumental, singular, neuter
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 10.28.4"
 
 +++
--   *idaṃ* \< *idam*
+-   *idaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -10,11 +10,11 @@ title = "Rig Veda 10.28.4"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *jaritar* \< *jaritṛ*
+- *jaritar* ← *jaritṛ*
 - \[noun\], vocative, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------
@@ -22,58 +22,58 @@ title = "Rig Veda 10.28.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *cikiddhi* \< *cit*
+- *cikiddhi* ← *cit*
 - \[verb\], singular, Perfect imperative
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *pratīpaṃ* \< *pratīpam* \< *pratīpa*
+- *pratīpaṃ* ← *pratīpam* ← *pratīpa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *śāpaṃ* \< *śāpam* \< *śāpa*
+- *śāpaṃ* ← *śāpam* ← *śāpa*
 - \[noun\], accusative, singular, masculine
 - “float.”
 ------------------------------------------------------------------------
-- *nadyo* \< *nadyaḥ* \< *nadī*
+- *nadyo* ← *nadyaḥ* ← *nadī*
 - \[noun\], nominative, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
 ------------------------------------------------------------------------
-- *vahanti* \< *vah*
+- *vahanti* ← *vah*
 - \[verb\], plural, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *lopāśaḥ* \< *lopāśa*
+- *lopāśaḥ* ← *lopāśa*
 - \[noun\], nominative, singular, masculine
 - “fox.”
 ------------------------------------------------------------------------
-- *siṃham* \< *siṃha*
+- *siṃham* ← *siṃha*
 - \[noun\], accusative, singular, masculine
 - “lion; hero; best; leader; siṃha \[word\].”
 ------------------------------------------------------------------------
-- *pratyañcam* \< *pratyañc*
+- *pratyañcam* ← *pratyañc*
 - \[noun\], accusative, singular, masculine
 - “western; facing; westbound; backward; pratyañc \[word\]; inverted.”
 ------------------------------------------------------------------------
-- *atsāḥ* \< *tsar*
+- *atsāḥ* ← *tsar*
 - \[verb\], singular, Athematic s aor. (Ind.)
 ------------------------------------------------------------------------
-- *kroṣṭā* \< *kroṣṭṛ*
+- *kroṣṭā* ← *kroṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “jackal.”
 ------------------------------------------------------------------------
-- *varāhaṃ* \< *varāham* \< *varāha*
+- *varāhaṃ* ← *varāham* ← *varāha*
 - \[noun\], accusative, singular, masculine
 - “hog; wild boar; boar; Varaha; vārāhapuṭa; varāha \[word\]; Varāha;
     Varāha.”
 ------------------------------------------------------------------------
-- *nir* \< *niḥ*
+- *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *atakta* \< *tak*
+- *atakta* ← *tak*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *kakṣāt* \< *kakṣa*
+- *kakṣāt* ← *kakṣa*
 - \[noun\], ablative, singular, masculine
 - “grass; weed; lurking place; hiding place; underbrush; brush;
     recess.”

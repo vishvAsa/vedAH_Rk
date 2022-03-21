@@ -6,16 +6,16 @@ title = "Rig Veda 3.23.4"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dadhe* \< *dhā*
+- *dadhe* ← *dhā*
 - \[verb\], singular, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *vara* \< *vare* \< *vara*
+- *vara* ← *vare* ← *vara*
 - \[noun\], locative, singular, neuter
 - “best; excellent; better; choice; optimum; maximal.”
 ------------------------------------------------------------------------
@@ -23,64 +23,64 @@ title = "Rig Veda 3.23.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *pṛthivyā* \< *pṛthivyāḥ* \< *pṛthivī*
+- *pṛthivyā* ← *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], genitive, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *iḍāyās* \< *iḍā*
+- *iḍāyās* ← *iḍā*
 - \[noun\], genitive, singular, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
 ------------------------------------------------------------------------
-- *pade* \< *pada*
+- *pade* ← *pada*
 - \[noun\], locative, singular, neuter
 - “word; location; foot; footprint; pada \[word\]; verse; footstep;
     metrical foot; situation; dwelling; state; step; mark; position;
     trace; construction; animal foot; way; moment; social station;
     topographic point; path; residence; site; topic.”
 ------------------------------------------------------------------------
-- *sudinatve* \< *su*
+- *sudinatve* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudinatve* \< *dina*
+- *sudinatve* ← *dina*
 - \[noun\], neuter
 - “day; day; day of the week; one.”
 ------------------------------------------------------------------------
-- *sudinatve* \< *tve* \< *tva*
+- *sudinatve* ← *tve* ← *tva*
 - \[noun\], locative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *ahnām* \< *ahar*
+- *ahnām* ← *ahar*
 - \[noun\], genitive, plural, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *dṛṣadvatyām* \< *dṛṣadvatī*
+- *dṛṣadvatyām* ← *dṛṣadvatī*
 - \[noun\], locative, singular, feminine
 - “Durga; Dṛṣadvatī; Dṛṣadvatī.”
 ------------------------------------------------------------------------
-- *mānuṣa* \< *mānuṣe* \< *mānuṣa*
+- *mānuṣa* ← *mānuṣe* ← *mānuṣa*
 - \[noun\], locative, singular, neuter
 - “Mānuṣa.”
 ------------------------------------------------------------------------
-- *āpayāyāṃ* \< *āpayāyām* \< *āpayā*
+- *āpayāyāṃ* ← *āpayāyām* ← *āpayā*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
-- *sarasvatyāṃ* \< *sarasvatyām* \< *sarasvatī*
+- *sarasvatyāṃ* ← *sarasvatyām* ← *sarasvatī*
 - \[noun\], locative, singular, feminine
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
 ------------------------------------------------------------------------
-- *revad* \< *revat*
+- *revad* ← *revat*
 - \[noun\], accusative, singular, neuter
 - “abundant; rich; affluent; brilliant; brilliant.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *didīhi* \< *dīdī*
+- *didīhi* ← *dīdī*
 - \[verb\], singular, Present imperative
 - “shine; glitter.”
 ------------------------------------------------------------------------

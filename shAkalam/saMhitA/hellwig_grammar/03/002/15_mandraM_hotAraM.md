@@ -2,39 +2,39 @@
 title = "Rig Veda 3.2.15"
 
 +++
--   *mandraṃ* \< *mandram* \< *mandra*
+-   *mandraṃ* ← *mandram* ← *mandra*
 - \[noun\], accusative, singular, masculine
 - “pleasant; eloquent; dulcet.”
 ------------------------------------------------------------------------
-- *hotāraṃ* \< *hotāram* \< *hotṛ*
+- *hotāraṃ* ← *hotāram* ← *hotṛ*
 - \[noun\], accusative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *śucim* \< *śuci*
+- *śucim* ← *śuci*
 - \[noun\], accusative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *advayāvinaṃ* \< *a*
+- *advayāvinaṃ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *advayāvinaṃ* \< *dvayāvinam* \< *dvayāvin*
+- *advayāvinaṃ* ← *dvayāvinam* ← *dvayāvin*
 - \[noun\], accusative, singular, masculine
 - “dishonest.”
 ------------------------------------------------------------------------
-- *damūnasam* \< *damūnas*
+- *damūnasam* ← *damūnas*
 - \[noun\], accusative, singular, masculine
 - “master.”
 ------------------------------------------------------------------------
-- *ukthyaṃ* \< *ukthyam* \< *ukthya*
+- *ukthyaṃ* ← *ukthyam* ← *ukthya*
 - \[noun\], accusative, singular, masculine
 - “applaudable.”
 ------------------------------------------------------------------------
-- *viśvacarṣaṇim* \< *viśvacarṣaṇi*
+- *viśvacarṣaṇim* ← *viśvacarṣaṇi*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *rathaṃ* \< *ratham* \< *ratha*
+- *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -42,24 +42,24 @@ title = "Rig Veda 3.2.15"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *citraṃ* \< *citram* \< *citra*
+- *citraṃ* ← *citram* ← *citra*
 - \[noun\], accusative, singular, masculine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *vapuṣāya* \< *vapuṣa*
+- *vapuṣāya* ← *vapuṣa*
 - \[noun\], dative, singular, neuter
 ------------------------------------------------------------------------
-- *darśatam* \< *darśata*
+- *darśatam* ← *darśata*
 - \[noun\], accusative, singular, masculine
 - “beautiful; visible; beautiful.”
 ------------------------------------------------------------------------
-- *manurhitaṃ* \< *manuḥ* \< *manus*
+- *manurhitaṃ* ← *manuḥ* ← *manus*
 - \[noun\], masculine
 - “Manu; man.”
 ------------------------------------------------------------------------
-- *manurhitaṃ* \< *hitam* \< *hita*
+- *manurhitaṃ* ← *hitam* ← *hita*
 - \[noun\], accusative, singular, masculine
 - “beneficial; wholesome; good; suitable; good; appropriate; pleasant;
     Aṣṭādhyāyī 5.1.5; friendly; agreeable.”
@@ -72,11 +72,11 @@ title = "Rig Veda 3.2.15"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *rāya* \< *rāye* \< *rai*
+- *rāya* ← *rāye* ← *rai*
 - \[noun\], dative, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *īmahe* \< *ī* \< *√i*
+- *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------

@@ -2,38 +2,38 @@
 title = "Rig Veda 9.97.16"
 
 +++
--   *juṣṭvī* \< *juṣ*
+-   *juṣṭvī* ← *juṣ*
 - \[verb noun\]
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *indo* \< *indu*
+- *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *supathā* \< *supatha*
+- *supathā* ← *supatha*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *sugāny* \< *sugāni* \< *suga*
+- *sugāny* ← *sugāni* ← *suga*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *urau* \< *uru*
+- *urau* ← *uru*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *pavasva* \< *pū*
+- *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *varivāṃsi* \< *varivas*
+- *varivāṃsi* ← *varivas*
 - \[noun\], accusative, plural, neuter
 - “room; varivas \[word\]; space; escape.”
 ------------------------------------------------------------------------
-- *kṛṇvan* \< *kṛ*
+- *kṛṇvan* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -44,24 +44,24 @@ title = "Rig Veda 9.97.16"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *ghaneva* \< *ghanā* \< *ghana*
+- *ghaneva* ← *ghanā* ← *ghana*
 - \[noun\], instrumental, singular, neuter
 - “abhra; cloud; hammer; ghana; hammer; rainy season; tin; iron; ghana
     \[word\]; ghana; nutgrass; ball; phlegm.”
 ------------------------------------------------------------------------
-- *ghaneva* \< *iva*
+- *ghaneva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *viṣvag* \< *viṣvak* \< *viṣvañc*
+- *viṣvag* ← *viṣvak* ← *viṣvañc*
 - \[noun\], accusative, singular, neuter
 - “dispersed; viṣvañc \[word\].”
 ------------------------------------------------------------------------
-- *duritāni* \< *durita*
+- *duritāni* ← *durita*
 - \[noun\], accusative, plural, neuter
 - “danger; sin; difficulty; difficulty; evil.”
 ------------------------------------------------------------------------
-- *vighnann* \< *vighnan* \< *vihan* \< *√han*
+- *vighnann* ← *vighnan* ← *vihan* ← *√han*
 - \[verb noun\], nominative, singular
 - “obstruct; cancel out; restrict.”
 ------------------------------------------------------------------------
@@ -69,18 +69,18 @@ title = "Rig Veda 9.97.16"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *ṣṇunā* \< *snunā* \< *snu*
+- *ṣṇunā* ← *snunā* ← *snu*
 - \[noun\], instrumental, singular, masculine
 - “back.”
 ------------------------------------------------------------------------
-- *dhanva* \< *dhanv*
+- *dhanva* ← *dhanv*
 - \[verb\], singular, Present imperative
 - “run.”
 ------------------------------------------------------------------------
-- *sāno* \< *sānu*
+- *sāno* ← *sānu*
 - \[noun\], locative, singular, masculine
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------
-- *avye* \< *avya*
+- *avye* ← *avya*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------

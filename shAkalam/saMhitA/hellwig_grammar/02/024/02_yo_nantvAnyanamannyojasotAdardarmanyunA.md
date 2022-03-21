@@ -2,52 +2,52 @@
 title = "Rig Veda 2.24.2"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *nantvāny* \< *nantvāni* \< *nantva*
+- *nantvāny* ← *nantvāni* ← *nantva*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *anaman* \< *anamat* \< *nam*
+- *anaman* ← *anamat* ← *nam*
 - \[verb\], singular, Imperfect
 - “bow; bend; condescend; worship; bend; lower.”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ojasotādardar* \< *ojasā* \< *ojas*
+- *ojasotādardar* ← *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *ojasotādardar* \< *uta*
+- *ojasotādardar* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *ojasotādardar* \< *adardar* \< *dardar* \< *√dṛ*
+- *ojasotādardar* ← *adardar* ← *dardar* ← *√dṛ*
 - \[verb\], singular, Imperfect
 - “cleave.”
 ------------------------------------------------------------------------
-- *manyunā* \< *manyu*
+- *manyunā* ← *manyu*
 - \[noun\], instrumental, singular, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------
-- *śambarāṇi* \< *śambara*
+- *śambarāṇi* ← *śambara*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *prācyāvayad* \< *prācyāvayat* \< *praccyāvay* \< *√cyu*
+- *prācyāvayad* ← *prācyāvayat* ← *praccyāvay* ← *√cyu*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *acyutā* \< *acyuta*
+- *acyutā* ← *acyuta*
 - \[noun\], accusative, plural, neuter
 - “firm; regular; permanent; immovable; unchanging.”
 ------------------------------------------------------------------------
-- *brahmaṇaspatir* \< *brahmaṇaspatiḥ* \< *brahmaṇaspati*
+- *brahmaṇaspatir* ← *brahmaṇaspatiḥ* ← *brahmaṇaspati*
 - \[noun\], nominative, singular, masculine
 - “Brahmaṇaspati.”
 ------------------------------------------------------------------------
@@ -55,15 +55,15 @@ title = "Rig Veda 2.24.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *cāviśad* \< *ca*
+- *cāviśad* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cāviśad* \< *aviśat* \< *viś*
+- *cāviśad* ← *aviśat* ← *viś*
 - \[verb\], singular, Imperfect
 - “enter; penetrate; settle; settle.”
 ------------------------------------------------------------------------
-- *vasumantaṃ* \< *vasumantam* \< *vasumat*
+- *vasumantaṃ* ← *vasumantam* ← *vasumat*
 - \[noun\], accusative, singular, masculine
 - “deluxe; affluent; rich.”
 ------------------------------------------------------------------------
@@ -71,7 +71,7 @@ title = "Rig Veda 2.24.2"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *parvatam* \< *parvata*
+- *parvatam* ← *parvata*
 - \[noun\], accusative, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”

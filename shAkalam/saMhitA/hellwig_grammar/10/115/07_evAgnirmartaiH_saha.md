@@ -2,18 +2,18 @@
 title = "Rig Veda 10.115.7"
 
 +++
--   *evāgnir* \< *evā* \< *eva*
+-   *evāgnir* ← *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *evāgnir* \< *agniḥ* \< *agni*
+- *evāgnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *martaiḥ* \< *marta*
+- *martaiḥ* ← *marta*
 - \[noun\], instrumental, plural, masculine
 - “man.”
 ------------------------------------------------------------------------
@@ -21,7 +21,7 @@ title = "Rig Veda 10.115.7"
 - \[adverb\]
 - “together; together; with; jointly; together; saha \[word\]; along.”
 ------------------------------------------------------------------------
-- *sūribhir* \< *sūribhiḥ* \< *sūri*
+- *sūribhir* ← *sūribhiḥ* ← *sūri*
 - \[noun\], instrumental, plural, masculine
 - “priest.”
 ------------------------------------------------------------------------
@@ -29,23 +29,23 @@ title = "Rig Veda 10.115.7"
 - \[noun\], accusative, singular, neuter
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *ṣṭave* \< *\_* \< *√\_*
+- *ṣṭave* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *sahasaḥ* \< *\_* \< *√\_*
+- *sahasaḥ* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *sūnaro* \< *sūnaraḥ* \< *sūnara*
+- *sūnaro* ← *sūnaraḥ* ← *sūnara*
 - \[noun\], nominative, singular, masculine
 - “noble.”
 ------------------------------------------------------------------------
-- *nṛbhiḥ* \< *nṛ*
+- *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *mitrāso* \< *mitrāsaḥ* \< *mitra*
+- *mitrāso* ← *mitrāsaḥ* ← *mitra*
 - \[noun\], nominative, plural, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
@@ -53,18 +53,18 @@ title = "Rig Veda 10.115.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sudhitā* \< *sudhitāḥ* \< *sudhita*
+- *sudhitā* ← *sudhitāḥ* ← *sudhita*
 - \[noun\], nominative, plural, masculine
 - “sudhita \[word\].”
 ------------------------------------------------------------------------
-- *ṛtāyavo* \< *ṛtāyavaḥ* \< *ṛtāyu*
+- *ṛtāyavo* ← *ṛtāyavaḥ* ← *ṛtāyu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *dyāvo* \< *\_* \< *√\_*
+- *dyāvo* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
@@ -72,7 +72,7 @@ title = "Rig Veda 10.115.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dyumnair* \< *dyumnaiḥ* \< *dyumna*
+- *dyumnair* ← *dyumnaiḥ* ← *dyumna*
 - \[noun\], instrumental, plural, neuter
 - “magnificence.”
 ------------------------------------------------------------------------
@@ -80,12 +80,12 @@ title = "Rig Veda 10.115.7"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *santi* \< *as*
+- *santi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *mānuṣān* \< *mānuṣa*
+- *mānuṣān* ← *mānuṣa*
 - \[noun\], accusative, plural, masculine
 - “man; man.”
 ------------------------------------------------------------------------

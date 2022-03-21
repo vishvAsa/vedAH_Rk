@@ -2,17 +2,17 @@
 title = "Rig Veda 8.53.6"
 
 +++
--   *ājituraṃ* \< *ājituram* \< *ājitur*
+-   *ājituraṃ* ← *ājituram* ← *ājitur*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *satpatiṃ* \< *satpatim* \< *satpati*
+- *satpatiṃ* ← *satpatim* ← *satpati*
 - \[noun\], accusative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *viśvacarṣaṇiṃ* \< *viśvacarṣaṇim* \< *viśvacarṣaṇi*
+- *viśvacarṣaṇiṃ* ← *viśvacarṣaṇim* ← *viśvacarṣaṇi*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *kṛdhi* \< *kṛ*
+- *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -23,12 +23,12 @@ title = "Rig Veda 8.53.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *prajāsv* \< *prajāsu* \< *prajā*
+- *prajāsv* ← *prajāsu* ← *prajā*
 - \[noun\], locative, plural, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”
 ------------------------------------------------------------------------
-- *ābhagam* \< *ābhaga*
+- *ābhagam* ← *ābhaga*
 - \[noun\], accusative, singular, masculine
 - “partaker.”
 ------------------------------------------------------------------------
@@ -36,36 +36,36 @@ title = "Rig Veda 8.53.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *sū* \< *su*
+- *sū* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *tirā* \< *tira* \< *tṛ*
+- *tirā* ← *tira* ← *tṛ*
 - \[verb\], singular, Present imperative
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *śacībhir* \< *śacībhiḥ* \< *śacī*
+- *śacībhir* ← *śacībhiḥ* ← *śacī*
 - \[noun\], instrumental, plural, feminine
 - “Śacī; power; dexterity; ability; aid.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ukthinaḥ* \< *ukthin*
+- *ukthinaḥ* ← *ukthin*
 - \[noun\], nominative, plural, masculine
 - “laudatory.”
 ------------------------------------------------------------------------
-- *kratum* \< *kratu*
+- *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *punata* \< *punate* \< *pū*
+- *punata* ← *punate* ← *pū*
 - \[verb\], plural, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------

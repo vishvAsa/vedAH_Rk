@@ -2,11 +2,11 @@
 title = "Rig Veda 10.147.2"
 
 +++
--   *tvam* \< *tvad*
+-   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *māyābhir* \< *māyābhiḥ* \< *māyā*
+- *māyābhir* ← *māyābhiḥ* ← *māyā*
 - \[noun\], instrumental, plural, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
@@ -15,60 +15,60 @@ title = "Rig Veda 10.147.2"
 - \[noun\], vocative, singular, masculine
 - “blameless; faultless.”
 ------------------------------------------------------------------------
-- *māyinaṃ* \< *māyinam* \< *māyin*
+- *māyinaṃ* ← *māyinam* ← *māyin*
 - \[noun\], accusative, singular, masculine
 - “artful; charming; crafty; deceptive.”
 ------------------------------------------------------------------------
-- *śravasyatā* \< *śravasy*
+- *śravasyatā* ← *śravasy*
 - \[verb noun\], instrumental, singular
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *vṛtram* \< *vṛtra*
+- *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *ardayaḥ* \< *arday* \< *√ṛd*
+- *ardayaḥ* ← *arday* ← *√ṛd*
 - \[verb\], singular, Present injunctive
 - “afflict; afflict; affect; distress; torment; impel; grind; suffer.”
 ------------------------------------------------------------------------
-- *tvām* \< *tvad*
+- *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *in* \< *id*
+- *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *naro* \< *naraḥ* \< *nṛ*
+- *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *vṛṇate* \< *vṛ*
+- *vṛṇate* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *gaviṣṭiṣu* \< *gaviṣṭi*
+- *gaviṣṭiṣu* ← *gaviṣṭi*
 - \[noun\], locative, plural, feminine
 - “foray.”
 ------------------------------------------------------------------------
-- *tvāṃ* \< *tvām* \< *tvad*
+- *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *viśvāsu* \< *viśva*
+- *viśvāsu* ← *viśva*
 - \[noun\], locative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *havyāsv* \< *havyāsu* \< *hu*
+- *havyāsv* ← *havyāsu* ← *hu*
 - \[verb noun\], locative, plural
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
-- *iṣṭiṣu* \< *iṣṭi*
+- *iṣṭiṣu* ← *iṣṭi*
 - \[noun\], locative, plural, feminine
 - “yajña; offering; brick.”
 ------------------------------------------------------------------------

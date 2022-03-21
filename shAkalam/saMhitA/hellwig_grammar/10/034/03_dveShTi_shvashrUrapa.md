@@ -2,11 +2,11 @@
 title = "Rig Veda 10.34.3"
 
 +++
--   *dveṣṭi* \< *dviṣ*
+-   *dveṣṭi* ← *dviṣ*
 - \[verb\], singular, Present indikative
 - “hate; dislike.”
 ------------------------------------------------------------------------
-- *śvaśrūr* \< *śvaśrūḥ* \< *śvaśrū*
+- *śvaśrūr* ← *śvaśrūḥ* ← *śvaśrū*
 - \[noun\], nominative, singular, feminine
 - “mother-in-law; śvaśrū.”
 ------------------------------------------------------------------------
@@ -18,7 +18,7 @@ title = "Rig Veda 10.34.3"
 - \[noun\], nominative, singular, feminine
 - “wife; jāyā \[word\].”
 ------------------------------------------------------------------------
-- *ruṇaddhi* \< *rudh*
+- *ruṇaddhi* ← *rudh*
 - \[verb\], singular, Present indikative
 - “fill into; close; insert; put; enclose; obstruct; seal; besiege;
     cover; blockade; stop; lock in; plug; withhold; extinguish;
@@ -28,50 +28,50 @@ title = "Rig Veda 10.34.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāthito* \< *nāthitaḥ* \< *nāth*
+- *nāthito* ← *nāthitaḥ* ← *nāth*
 - \[verb noun\], nominative, singular
 - “distress.”
 ------------------------------------------------------------------------
-- *vindate* \< *vid*
+- *vindate* ← *vid*
 - \[verb\], singular, Present indikative
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *marḍitāram* \< *marḍitṛ*
+- *marḍitāram* ← *marḍitṛ*
 - \[noun\], accusative, singular, masculine
 - “sympathizer.”
 ------------------------------------------------------------------------
-- *aśvasyeva* \< *aśvasya* \< *aśva*
+- *aśvasyeva* ← *aśvasya* ← *aśva*
 - \[noun\], genitive, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *aśvasyeva* \< *iva*
+- *aśvasyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *jarato* \< *jarataḥ* \< *jṛ*
+- *jarato* ← *jarataḥ* ← *jṛ*
 - \[verb noun\], genitive, singular
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
 ------------------------------------------------------------------------
-- *vasnyasya* \< *vasnya*
+- *vasnyasya* ← *vasnya*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *nāhaṃ* \< *na*
+- *nāhaṃ* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāhaṃ* \< *aham* \< *mad*
+- *nāhaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vindāmi* \< *vid*
+- *vindāmi* ← *vid*
 - \[verb\], singular, Present indikative
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *kitavasya* \< *kitava*
+- *kitavasya* ← *kitava*
 - \[noun\], genitive, singular, masculine
 - “gambler; deceiver; thorn apple; kitava \[word\].”
 ------------------------------------------------------------------------
-- *bhogam* \< *bhoga*
+- *bhogam* ← *bhoga*
 - \[noun\], accusative, singular, masculine
 - “enjoyment; use; bhoga \[word\]; property; sexual intercourse;
     possession.”

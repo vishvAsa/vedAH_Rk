@@ -2,34 +2,34 @@
 title = "Rig Veda 9.72.5"
 
 +++
--   *nṛbāhubhyāṃ* \< *nṛ*
+-   *nṛbāhubhyāṃ* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nṛbāhubhyāṃ* \< *bāhubhyām* \< *bāhu*
+- *nṛbāhubhyāṃ* ← *bāhubhyām* ← *bāhu*
 - \[noun\], instrumental, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
-- *codito* \< *coditaḥ* \< *coday* \< *√cud*
+- *codito* ← *coditaḥ* ← *coday* ← *√cud*
 - \[verb noun\], nominative, singular
 - “impel; drive; incite; command; drive; arouse; propel.”
 ------------------------------------------------------------------------
-- *dhārayā* \< *dhārā*
+- *dhārayā* ← *dhārā*
 - \[noun\], instrumental, singular, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *suto* \< *sutaḥ* \< *su*
+- *suto* ← *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *'nuṣvadham* \< *anuṣvadham*
+- *'nuṣvadham* ← *anuṣvadham*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *pavate* \< *pū*
+- *pavate* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *soma* \< *somaḥ* \< *soma*
+- *soma* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -38,14 +38,14 @@ title = "Rig Veda 9.72.5"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *āprāḥ* \< *āprā* \< *√prā*
+- *āprāḥ* ← *āprā* ← *√prā*
 - \[verb\], singular, Root aorist (Ind.)
 ------------------------------------------------------------------------
-- *kratūn* \< *kratu*
+- *kratūn* ← *kratu*
 - \[noun\], accusative, plural, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
@@ -54,21 +54,21 @@ title = "Rig Veda 9.72.5"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *ajair* \< *ajaiḥ* \< *ji*
+- *ajair* ← *ajaiḥ* ← *ji*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *adhvare* \< *adhvara*
+- *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *matīr* \< *matīḥ* \< *mati*
+- *matīr* ← *matīḥ* ← *mati*
 - \[noun\], accusative, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *ver* \< *veḥ* \< *vi*
+- *ver* ← *veḥ* ← *vi*
 - \[noun\], genitive, singular, masculine
 - “vi; bird; vi.”
 ------------------------------------------------------------------------
@@ -76,18 +76,18 @@ title = "Rig Veda 9.72.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *druṣac* \< *druṣad*
+- *druṣac* ← *druṣad*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *camvor* \< *camvoḥ* \< *camū*
+- *camvor* ← *camvoḥ* ← *camū*
 - \[noun\], locative, dual, feminine
 - “army; camū; Camū.”
 ------------------------------------------------------------------------
-- *āsadaddhariḥ* \< *āsadat* \< *āsad* \< *√sad*
+- *āsadaddhariḥ* ← *āsadat* ← *āsad* ← *√sad*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “approach; attack; sit down; approach; find; arrive.”
 ------------------------------------------------------------------------
-- *āsadaddhariḥ* \< *hariḥ* \< *hari*
+- *āsadaddhariḥ* ← *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------

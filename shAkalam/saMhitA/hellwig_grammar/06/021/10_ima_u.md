@@ -2,7 +2,7 @@
 title = "Rig Veda 6.21.10"
 
 +++
--   *ima* \< *ime* \< *idam*
+-   *ima* ← *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -10,43 +10,43 @@ title = "Rig Veda 6.21.10"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *puruśāka* \< *puru*
+- *puruśāka* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *puruśāka* \< *śāka*
+- *puruśāka* ← *śāka*
 - \[noun\], vocative, singular, masculine
 - “power.”
 ------------------------------------------------------------------------
-- *prayajyo* \< *prayajyu*
+- *prayajyo* ← *prayajyu*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *jaritāro* \< *jaritāraḥ* \< *jaritṛ*
+- *jaritāro* ← *jaritāraḥ* ← *jaritṛ*
 - \[noun\], nominative, plural, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *abhy* \< *abhī* \< *abhi*
+- *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *arcanty* \< *arcanti* \< *arc*
+- *arcanty* ← *arcanti* ← *arc*
 - \[verb\], plural, Present indikative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *arkaiḥ* \< *arka*
+- *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *śrudhī* \< *śru*
+- *śrudhī* ← *śru*
 - \[verb\], singular, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *havam* \< *hava*
+- *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
@@ -54,11 +54,11 @@ title = "Rig Veda 6.21.10"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *huvato* \< *huvataḥ* \< *hvā*
+- *huvato* ← *huvataḥ* ← *hvā*
 - \[verb noun\], genitive, singular
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *huvāno* \< *huvānaḥ* \< *hvā*
+- *huvāno* ← *huvānaḥ* ← *hvā*
 - \[verb noun\], nominative, singular
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
@@ -66,10 +66,10 @@ title = "Rig Veda 6.21.10"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tvāvāṃ* \< *tvāvat*
+- *tvāvāṃ* ← *tvāvat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *anyo* \< *anyaḥ* \< *anya*
+- *anyo* ← *anyaḥ* ← *anya*
 - \[noun\], nominative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
@@ -78,11 +78,11 @@ title = "Rig Veda 6.21.10"
 - \[noun\], vocative, singular, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *tvad* \< *tvat* \< *tvad*
+- *tvad* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *asti* \< *as*
+- *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

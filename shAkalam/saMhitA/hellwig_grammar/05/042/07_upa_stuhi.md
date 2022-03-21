@@ -6,63 +6,63 @@ title = "Rig Veda 5.42.7"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *stuhi* \< *stu*
+- *stuhi* ← *stu*
 - \[verb\], singular, Present imperative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *prathamaṃ* \< *prathamam* \< *prathama*
+- *prathamaṃ* ← *prathamam* ← *prathama*
 - \[noun\], accusative, singular, neuter
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
 ------------------------------------------------------------------------
-- *ratnadheyam* \< *ratna*
+- *ratnadheyam* ← *ratna*
 - \[noun\], neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
 ------------------------------------------------------------------------
-- *ratnadheyam* \< *dheyam* \< *dheya*
+- *ratnadheyam* ← *dheyam* ← *dheya*
 - \[noun\], accusative, singular, neuter
 - “giving; distribution.”
 ------------------------------------------------------------------------
-- *bṛhaspatiṃ* \< *bṛhaspatim* \< *bṛhaspati*
+- *bṛhaspatiṃ* ← *bṛhaspatim* ← *bṛhaspati*
 - \[noun\], accusative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *sanitāraṃ* \< *sanitāram* \< *sanitṛ*
+- *sanitāraṃ* ← *sanitāram* ← *sanitṛ*
 - \[noun\], accusative, singular, masculine
 - “bestowing; victorious.”
 ------------------------------------------------------------------------
-- *dhanānām* \< *dhana*
+- *dhanānām* ← *dhana*
 - \[noun\], genitive, plural, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *śaṃsate* \< *śaṃs*
+- *śaṃsate* ← *śaṃs*
 - \[verb noun\], dative, singular
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
 ------------------------------------------------------------------------
-- *stuvate* \< *stu*
+- *stuvate* ← *stu*
 - \[verb noun\], dative, singular
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *śambhaviṣṭhaḥ* \< *śambhaviṣṭha*
+- *śambhaviṣṭhaḥ* ← *śambhaviṣṭha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *purūvasur* \< *purūvasuḥ* \< *purūvasu*
+- *purūvasur* ← *purūvasuḥ* ← *purūvasu*
 - \[noun\], nominative, singular, masculine
 - “rich.”
 ------------------------------------------------------------------------
-- *āgamaj* \< *āgamat* \< *āgam* \< *√gam*
+- *āgamaj* ← *āgamat* ← *āgam* ← *√gam*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “come; arrive; return; enter (a state); approach; travel; enter;
     inherit; hand down; achieve; reach; appear; happen.”
 ------------------------------------------------------------------------
-- *johuvānam* \< *johav* \< *√hvā*
+- *johuvānam* ← *johav* ← *√hvā*
 - \[verb noun\], accusative, singular
 - “appeal.”
 ------------------------------------------------------------------------

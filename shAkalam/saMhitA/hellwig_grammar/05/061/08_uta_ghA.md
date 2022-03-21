@@ -6,22 +6,22 @@ title = "Rig Veda 5.61.8"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *ghā* \< *gha*
+- *ghā* ← *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *nemo* \< *nemaḥ* \< *nema*
+- *nemo* ← *nemaḥ* ← *nema*
 - \[noun\], nominative, singular, masculine
 - “one.”
 ------------------------------------------------------------------------
-- *astutaḥ* \< *a*
+- *astutaḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *astutaḥ* \< *stutaḥ* \< *stu*
+- *astutaḥ* ← *stutaḥ* ← *stu*
 - \[verb noun\], nominative, singular
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *pumāṃ* \< *pumān* \< *puṃs*
+- *pumāṃ* ← *pumān* ← *puṃs*
 - \[noun\], nominative, singular, masculine
 - “man; masculine; man; puṃvajra; puruṣa; son; puṃs \[word\].”
 ------------------------------------------------------------------------
@@ -29,34 +29,34 @@ title = "Rig Veda 5.61.8"
 - \[adverb\]
 - “thus; so; iti \[word\].”
 ------------------------------------------------------------------------
-- *bruve* \< *brū*
+- *bruve* ← *brū*
 - \[verb\], singular, Present indikative
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
 ------------------------------------------------------------------------
-- *paṇiḥ* \< *paṇi*
+- *paṇiḥ* ← *paṇi*
 - \[noun\], nominative, singular, masculine
 - “niggard; paṇ.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vairadeya* \< *vaira*
+- *vairadeya* ← *vaira*
 - \[noun\], neuter
 - “hostility; vaira \[word\]; hostility; hostility; hostility.”
 ------------------------------------------------------------------------
-- *vairadeya* \< *deye* \< *deya*
+- *vairadeya* ← *deye* ← *deya*
 - \[noun\], locative, singular, neuter
 - “giving; gift.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *samaḥ* \< *sama*
+- *samaḥ* ← *sama*
 - \[noun\], nominative, singular, masculine
 - “like; like; alike(p); level; symmetrical; balanced; average; same;
     regular; impartial; imperturbable; even; sama \[word\]; every(a);

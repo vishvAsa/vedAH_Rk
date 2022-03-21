@@ -2,21 +2,21 @@
 title = "Rig Veda 1.66.6"
 
 +++
--   *citro* \< *citraḥ* \< *citra*
+-   *citro* ← *citraḥ* ← *citra*
 - \[noun\], nominative, singular, masculine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *abhrāṭ* \< *bhrāj*
+- *abhrāṭ* ← *bhrāj*
 - \[verb\], singular, Root aorist (Ind.)
 - “shine; glitter; look.”
 ------------------------------------------------------------------------
-- *chveto* \< *chvetaḥ* \< *śveta*
+- *chveto* ← *chvetaḥ* ← *śveta*
 - \[noun\], nominative, singular, masculine
 - “white; bright; śveta \[word\]; bright.”
 ------------------------------------------------------------------------
@@ -24,11 +24,11 @@ title = "Rig Veda 1.66.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vikṣu* \< *viś*
+- *vikṣu* ← *viś*
 - \[noun\], locative, plural
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *ratho* \< *rathaḥ* \< *ratha*
+- *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -36,14 +36,14 @@ title = "Rig Veda 1.66.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *rukmī* \< *rukmin*
+- *rukmī* ← *rukmin*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *tveṣaḥ* \< *tveṣa*
+- *tveṣaḥ* ← *tveṣa*
 - \[noun\], nominative, singular, masculine
 - “awful; brilliant; aglitter(p); bright.”
 ------------------------------------------------------------------------
-- *samatsu* \< *samad*
+- *samatsu* ← *samad*
 - \[noun\], locative, plural, feminine
 - “conflict; strife.”
 ------------------------------------------------------------------------

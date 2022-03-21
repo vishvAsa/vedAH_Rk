@@ -2,7 +2,7 @@
 title = "Rig Veda 10.86.10"
 
 +++
--   *saṃhotraṃ* \< *saṃhotram* \< *saṃhotra*
+-   *saṃhotraṃ* ← *saṃhotram* ← *saṃhotra*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
 - *sma*
@@ -16,7 +16,7 @@ title = "Rig Veda 10.86.10"
 - \[noun\], nominative, singular, feminine
 - “woman; wife; female.”
 ------------------------------------------------------------------------
-- *samanaṃ* \< *samanam* \< *samana*
+- *samanaṃ* ← *samanam* ← *samana*
 - \[noun\], accusative, singular, neuter
 - “marriage; conflict.”
 ------------------------------------------------------------------------
@@ -24,48 +24,48 @@ title = "Rig Veda 10.86.10"
 - \[adverb\]
 - “vāva \[word\]; entirely.”
 ------------------------------------------------------------------------
-- *gacchati* \< *gam*
+- *gacchati* ← *gam*
 - \[verb\], singular, Present indikative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *vedhā* \< *vedhāḥ* \< *vedhas*
+- *vedhā* ← *vedhāḥ* ← *vedhas*
 - \[noun\], nominative, singular, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *vīriṇīndrapatnī* \< *vīriṇī*
+- *vīriṇīndrapatnī* ← *vīriṇī*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *vīriṇīndrapatnī* \< *indra*
+- *vīriṇīndrapatnī* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vīriṇīndrapatnī* \< *patnī*
+- *vīriṇīndrapatnī* ← *patnī*
 - \[noun\], nominative, singular, feminine
 - “wife; mistress; queen.”
 ------------------------------------------------------------------------
-- *mahīyate* \< *mahīy*
+- *mahīyate* ← *mahīy*
 - \[verb\], singular, Present indikative
 - “rejoice; revel.”
 ------------------------------------------------------------------------
-- *viśvasmād* \< *viśvasmāt* \< *viśva*
+- *viśvasmād* ← *viśvasmāt* ← *viśva*
 - \[noun\], ablative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *indra* \< *indraḥ* \< *indra*
+- *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *uttaraḥ* \< *uttara*
+- *uttaraḥ* ← *uttara*
 - \[noun\], nominative, singular, masculine
 - “northern; following; upper; additional; better; more(a); last;
     concluding; superior; later(a); uttara \[word\]; prevailing; future;

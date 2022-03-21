@@ -2,38 +2,38 @@
 title = "Rig Veda 8.8.12"
 
 +++
--   *purumandrā* \< *puru*
+-   *purumandrā* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purumandrā* \< *mandrā* \< *mandra*
+- *purumandrā* ← *mandrā* ← *mandra*
 - \[noun\], nominative, dual, masculine
 - “pleasant; eloquent; dulcet.”
 ------------------------------------------------------------------------
-- *purūvasū* \< *purūvasu*
+- *purūvasū* ← *purūvasu*
 - \[noun\], nominative, dual, masculine
 - “rich.”
 ------------------------------------------------------------------------
-- *manotarā* \< *manotṛ*
+- *manotarā* ← *manotṛ*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *rayīṇām* \< *rayi*
+- *rayīṇām* ← *rayi*
 - \[noun\], genitive, plural, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *stomam* \< *stoma*
+- *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *aśvināv* \< *aśvinau* \< *aśvin*
+- *aśvināv* ← *aśvinau* ← *aśvin*
 - \[noun\], nominative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *imam* \< *idam*
+- *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -41,13 +41,13 @@ title = "Rig Veda 8.8.12"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *vahnī* \< *vahni*
+- *vahnī* ← *vahni*
 - \[noun\], nominative, dual, masculine
 - “fire; digestion; Plumbago zeylanica; Agni; vahni; draft horse;
     three; sacrificial fire; Vahni; gold; southeast; citron; charioteer;
     leader.”
 ------------------------------------------------------------------------
-- *anūṣātām* \< *nū*
+- *anūṣātām* ← *nū*
 - \[verb\], dual, Athematic s aor. (Ind.)
 - “praise; shout.”
 ------------------------------------------------------------------------

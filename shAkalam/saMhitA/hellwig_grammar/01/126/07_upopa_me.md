@@ -2,15 +2,15 @@
 title = "Rig Veda 1.126.7"
 
 +++
--   *upopa* \< *upa*
+-   *upopa* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *upopa* \< *upa*
+- *upopa* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -18,7 +18,7 @@ title = "Rig Veda 1.126.7"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *mṛśa* \< *mṛś*
+- *mṛśa* ← *mṛś*
 - \[verb\], singular, Present imperative
 - “touch.”
 ------------------------------------------------------------------------
@@ -26,47 +26,47 @@ title = "Rig Veda 1.126.7"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dabhrāṇi* \< *dabhra*
+- *dabhrāṇi* ← *dabhra*
 - \[noun\], accusative, plural, neuter
 - “few; little(a); deficient.”
 ------------------------------------------------------------------------
-- *manyathāḥ* \< *man*
+- *manyathāḥ* ← *man*
 - \[verb\], singular, Present injunctive
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
 ------------------------------------------------------------------------
-- *sarvāham* \< *sarvā* \< *sarva*
+- *sarvāham* ← *sarvā* ← *sarva*
 - \[noun\], nominative, singular, feminine
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
 ------------------------------------------------------------------------
-- *sarvāham* \< *aham* \< *mad*
+- *sarvāham* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asmi* \< *as*
+- *asmi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *romaśā* \< *romaśa*
+- *romaśā* ← *romaśa*
 - \[noun\], nominative, singular, feminine
 - “hairy; green.”
 ------------------------------------------------------------------------
-- *gandhārīṇām* \< *gandhāri*
+- *gandhārīṇām* ← *gandhāri*
 - \[noun\], genitive, plural, masculine
 ------------------------------------------------------------------------
-- *ivāvikā* \< *iva*
+- *ivāvikā* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ivāvikā* \< *avikā*
+- *ivāvikā* ← *avikā*
 - \[noun\], nominative, singular, feminine
 - “ewe.”
 ------------------------------------------------------------------------

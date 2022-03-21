@@ -2,42 +2,42 @@
 title = "Rig Veda 9.69.6"
 
 +++
--   *sūryasyeva* \< *sūryasya* \< *sūrya*
+-   *sūryasyeva* ← *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *sūryasyeva* \< *iva*
+- *sūryasyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *raśmayo* \< *raśmayaḥ* \< *raśmi*
+- *raśmayo* ← *raśmayaḥ* ← *raśmi*
 - \[noun\], nominative, plural, masculine
 - “beam; rein; sunbeam; shininess; cord.”
 ------------------------------------------------------------------------
-- *drāvayitnavo* \< *drāvayitnavaḥ* \< *drāvayitnu*
+- *drāvayitnavo* ← *drāvayitnavaḥ* ← *drāvayitnu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *matsarāsaḥ* \< *matsara*
+- *matsarāsaḥ* ← *matsara*
 - \[noun\], nominative, plural, masculine
 - “intoxicant; invigorating; hostile.”
 ------------------------------------------------------------------------
-- *prasupaḥ* \< *prasup*
+- *prasupaḥ* ← *prasup*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
 - *sākam*
 - \[adverb\]
 - “together; jointly; simultaneously.”
 ------------------------------------------------------------------------
-- *īrate* \< *īr*
+- *īrate* ← *īr*
 - \[verb\], plural, Present indikative
 - “go.”
 ------------------------------------------------------------------------
-- *tantuṃ* \< *tantum* \< *tantu*
+- *tantuṃ* ← *tantum* ← *tantu*
 - \[noun\], accusative, singular, masculine
 - “thread; fiber; lineage; cobweb; fibril; stalk.”
 ------------------------------------------------------------------------
-- *tatam* \< *tan*
+- *tatam* ← *tan*
 - \[verb noun\], accusative, singular
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
@@ -46,19 +46,19 @@ title = "Rig Veda 9.69.6"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *sargāsa* \< *sargāsaḥ* \< *sarga*
+- *sargāsa* ← *sargāsaḥ* ← *sarga*
 - \[noun\], nominative, plural, masculine
 - “Creation; metempsychosis; discharge; torrent; birth; undertaking.”
 ------------------------------------------------------------------------
-- *āśavo* \< *āśavaḥ* \< *āśu*
+- *āśavo* ← *āśavaḥ* ← *āśu*
 - \[noun\], nominative, plural, masculine
 - “quick; fast; immediate; agile.”
 ------------------------------------------------------------------------
-- *nendrād* \< *na*
+- *nendrād* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nendrād* \< *indrāt* \< *indra*
+- *nendrād* ← *indrāt* ← *indra*
 - \[noun\], ablative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -67,16 +67,16 @@ title = "Rig Veda 9.69.6"
 - \[adverb\]
 - “without; ṛte \[word\].”
 ------------------------------------------------------------------------
-- *pavate* \< *pū*
+- *pavate* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *dhāma* \< *dhāman*
+- *dhāma* ← *dhāman*
 - \[noun\], nominative, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
 ------------------------------------------------------------------------
-- *kiṃcana* \< *kaścana*
+- *kiṃcana* ← *kaścana*
 - \[noun\], nominative, singular, neuter
 - “some(a); any(a); some(a); any(a).”
 ------------------------------------------------------------------------

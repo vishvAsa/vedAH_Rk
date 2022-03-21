@@ -6,11 +6,11 @@ title = "Rig Veda 10.18.8"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *īrṣva* \< *īr*
+- *īrṣva* ← *īr*
 - \[verb\], singular, Present imperative
 - “go.”
 ------------------------------------------------------------------------
-- *nāry* \< *nāri* \< *nārī*
+- *nāry* ← *nāri* ← *nārī*
 - \[noun\], vocative, singular, feminine
 - “woman; wife; female.”
 ------------------------------------------------------------------------
@@ -18,20 +18,20 @@ title = "Rig Veda 10.18.8"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *jīvalokaṃ* \< *jīva*
+- *jīvalokaṃ* ← *jīva*
 - \[noun\]
 - “live; alive(p); amṛta.”
 ------------------------------------------------------------------------
-- *jīvalokaṃ* \< *lokam* \< *loka*
+- *jīvalokaṃ* ← *lokam* ← *loka*
 - \[noun\], accusative, singular, masculine
 - “Loka; Earth; world; vernacular; people; room; world; Earth; loka
     \[word\]; space; Loka; topographic point; region; common sense.”
 ------------------------------------------------------------------------
-- *gatāsum* \< *gatāsu*
+- *gatāsum* ← *gatāsu*
 - \[noun\], accusative, singular, masculine
 - “dead; doomed.”
 ------------------------------------------------------------------------
-- *etam* \< *etad*
+- *etam* ← *etad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
@@ -39,43 +39,43 @@ title = "Rig Veda 10.18.8"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *śeṣa* \< *śeṣe* \< *śī*
+- *śeṣa* ← *śeṣe* ← *śī*
 - \[verb\], singular, Present indikative
 - “lie; sleep.”
 ------------------------------------------------------------------------
-- *ehi* \< *e* \< *√i*
+- *ehi* ← *e* ← *√i*
 - \[verb\], singular, Present imperative
 - “come; travel.”
 ------------------------------------------------------------------------
-- *hastagrābhasya* \< *hasta*
+- *hastagrābhasya* ← *hasta*
 - \[noun\], masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------
-- *hastagrābhasya* \< *grābhasya* \< *grābha*
+- *hastagrābhasya* ← *grābhasya* ← *grābha*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *didhiṣos* \< *didhiṣoḥ* \< *didhiṣu*
+- *didhiṣos* ← *didhiṣoḥ* ← *didhiṣu*
 - \[noun\], genitive, singular, masculine
 - “husband.”
 ------------------------------------------------------------------------
-- *tavedam* \< *tava* \< *tvad*
+- *tavedam* ← *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tavedam* \< *idam*
+- *tavedam* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *patyur* \< *patyuḥ* \< *pati*
+- *patyur* ← *patyuḥ* ← *pati*
 - \[noun\], genitive, singular
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *janitvam* \< *jani*
+- *janitvam* ← *jani*
 - \[noun\], feminine
 - “wife; jan; woman; jani \[word\]; birth.”
 ------------------------------------------------------------------------
-- *janitvam* \< *tvam* \< *tva*
+- *janitvam* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
@@ -87,7 +87,7 @@ title = "Rig Veda 10.18.8"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *babhūtha* \< *bhū*
+- *babhūtha* ← *bhū*
 - \[verb\], singular, Perfect indicative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;

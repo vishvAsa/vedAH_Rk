@@ -9,15 +9,15 @@ title = "Rig Veda 8.72.11"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *adrayo* \< *adrayaḥ* \< *adri*
+- *adrayo* ← *adrayaḥ* ← *adri*
 - \[noun\], nominative, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *niṣiktam* \< *niṣic* \< *√sic*
+- *niṣiktam* ← *niṣic* ← *√sic*
 - \[verb noun\], nominative, singular
 - “submerge; sprinkle; pour; immerse; water.”
 ------------------------------------------------------------------------
-- *puṣkare* \< *puṣkara*
+- *puṣkare* ← *puṣkara*
 - \[noun\], locative, singular, neuter
 - “lotus; Puṣkara; sky; puṣkara; pericarp; puṣkara \[word\]; Vishnu.”
 ------------------------------------------------------------------------
@@ -25,11 +25,11 @@ title = "Rig Veda 8.72.11"
 - \[noun\], nominative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *avatasya* \< *avata*
+- *avatasya* ← *avata*
 - \[noun\], genitive, singular, masculine
 - “well.”
 ------------------------------------------------------------------------
-- *visarjane* \< *visarjana*
+- *visarjane* ← *visarjana*
 - \[noun\], locative, singular, neuter
 - “gift.”
 ------------------------------------------------------------------------

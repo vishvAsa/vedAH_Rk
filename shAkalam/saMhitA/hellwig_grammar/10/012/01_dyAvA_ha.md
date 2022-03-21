@@ -2,7 +2,7 @@
 title = "Rig Veda 10.12.1"
 
 +++
--   *dyāvā* \< *div*
+-   *dyāvā* ← *div*
 - \[noun\], nominative, dual, feminine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -10,58 +10,58 @@ title = "Rig Veda 10.12.1"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *kṣāmā* \< *kṣam*
+- *kṣāmā* ← *kṣam*
 - \[noun\], nominative, dual, feminine
 - “Earth; heaven and earth.”
 ------------------------------------------------------------------------
-- *prathame* \< *prathama*
+- *prathame* ← *prathama*
 - \[noun\], nominative, dual, feminine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
 ------------------------------------------------------------------------
-- *ṛtenābhiśrāve* \< *ṛtena* \< *ṛta*
+- *ṛtenābhiśrāve* ← *ṛtena* ← *ṛta*
 - \[noun\], instrumental, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *ṛtenābhiśrāve* \< *abhiśrāve* \< *abhiśrāva*
+- *ṛtenābhiśrāve* ← *abhiśrāve* ← *abhiśrāva*
 - \[noun\], locative, singular, masculine
 - “listening.”
 ------------------------------------------------------------------------
-- *bhavataḥ* \< *bhū*
+- *bhavataḥ* ← *bhū*
 - \[verb\], dual, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *satyavācā* \< *satya*
+- *satyavācā* ← *satya*
 - \[noun\]
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *satyavācā* \< *vācā* \< *vāc*
+- *satyavācā* ← *vācā* ← *vāc*
 - \[noun\], nominative, dual, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
 ------------------------------------------------------------------------
-- *devo* \< *devaḥ* \< *deva*
+- *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *yan* \< *yat*
+- *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *martān* \< *marta*
+- *martān* ← *marta*
 - \[noun\], accusative, plural, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *yajathāya* \< *yajatha*
+- *yajathāya* ← *yajatha*
 - \[noun\], dative, singular, masculine
 - “yajña.”
 ------------------------------------------------------------------------
-- *kṛṇvan* \< *kṛ*
+- *kṛṇvan* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -72,29 +72,29 @@ title = "Rig Veda 10.12.1"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *sīdaddhotā* \< *sīdat* \< *sad*
+- *sīdaddhotā* ← *sīdat* ← *sad*
 - \[verb\], singular, Present injunctive
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *sīdaddhotā* \< *hotā* \< *hotṛ*
+- *sīdaddhotā* ← *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *pratyaṅ* \< *pratyañc*
+- *pratyaṅ* ← *pratyañc*
 - \[noun\], nominative, singular, masculine
 - “western; facing; westbound; backward; pratyañc \[word\]; inverted.”
 ------------------------------------------------------------------------
-- *svam* \< *sva*
+- *svam* ← *sva*
 - \[noun\], accusative, singular, masculine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *asuṃ* \< *asum* \< *asu*
+- *asuṃ* ← *asum* ← *asu*
 - \[noun\], accusative, singular, masculine
 - “life.”
 ------------------------------------------------------------------------
-- *yan* \< *i*
+- *yan* ← *i*
 - \[verb noun\], nominative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------

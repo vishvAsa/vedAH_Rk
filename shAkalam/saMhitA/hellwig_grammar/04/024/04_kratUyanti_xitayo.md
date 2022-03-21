@@ -2,16 +2,16 @@
 title = "Rig Veda 4.24.4"
 
 +++
--   *kratūyanti* \< *kratūy*
+-   *kratūyanti* ← *kratūy*
 - \[verb\], plural, Present indikative
 - “intend.”
 ------------------------------------------------------------------------
-- *kṣitayo* \< *kṣitayaḥ* \< *kṣiti*
+- *kṣitayo* ← *kṣitayaḥ* ← *kṣiti*
 - \[noun\], nominative, plural, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
 ------------------------------------------------------------------------
-- *yoga* \< *yoge* \< *yoga*
+- *yoga* ← *yoge* ← *yoga*
 - \[noun\], locative, singular, masculine
 - “method; application; yoga; remedy; mix; treatment; mixture;
     procedure; contact; use; yogin; connection; application; union;
@@ -20,64 +20,64 @@ title = "Rig Veda 4.24.4"
     yoke; yoga \[word\]; art; combination; assortment; confluence;
     constellation; relationship; connection; agent; means.”
 ------------------------------------------------------------------------
-- *ugrāśuṣāṇāso* \< *ugra*
+- *ugrāśuṣāṇāso* ← *ugra*
 - \[noun\], vocative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *ugrāśuṣāṇāso* \< *āśuṣāṇāsaḥ* \< *āśuṣ* \< *√śuṣ*
+- *ugrāśuṣāṇāso* ← *āśuṣāṇāsaḥ* ← *āśuṣ* ← *√śuṣ*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *mitho* \< *mithas*
+- *mitho* ← *mithas*
 - \[adverb\]
 - “together; mutually; alternately.”
 ------------------------------------------------------------------------
-- *arṇasātau* \< *arṇa*
+- *arṇasātau* ← *arṇa*
 - \[noun\], masculine
 - “wave; flood.”
 ------------------------------------------------------------------------
-- *arṇasātau* \< *sātau* \< *sāti*
+- *arṇasātau* ← *sātau* ← *sāti*
 - \[noun\], locative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *viśo* \< *viśaḥ* \< *viś*
+- *viśo* ← *viśaḥ* ← *viś*
 - \[noun\], nominative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *'vavṛtranta* \< *avavṛtranta* \< *vṛt*
+- *'vavṛtranta* ← *avavṛtranta* ← *vṛt*
 - \[verb\], plural, Plusquamperfect
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
 ------------------------------------------------------------------------
-- *yudhmā* \< *yudhmāḥ* \< *yudhma*
+- *yudhmā* ← *yudhmāḥ* ← *yudhma*
 - \[noun\], nominative, plural, masculine
 - “warrior.”
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *in* \< *id*
+- *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *nema* \< *neme* \< *nema*
+- *nema* ← *neme* ← *nema*
 - \[noun\], nominative, plural, masculine
 - “one.”
 ------------------------------------------------------------------------
-- *indrayante* \< *indray*
+- *indrayante* ← *indray*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *abhīke* \< *abhīka*
+- *abhīke* ← *abhīka*
 - \[noun\], locative, singular, neuter
 - “battle; meeting.”
 ------------------------------------------------------------------------

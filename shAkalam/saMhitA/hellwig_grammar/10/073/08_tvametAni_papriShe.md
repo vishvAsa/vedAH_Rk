@@ -2,15 +2,15 @@
 title = "Rig Veda 10.73.8"
 
 +++
--   *tvam* \< *tvad*
+-   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *etāni* \< *etad*
+- *etāni* ← *etad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *papriṣe* \< *prā*
+- *papriṣe* ← *prā*
 - \[verb\], singular, Perfect indicative
 - “fill; satisfy.”
 ------------------------------------------------------------------------
@@ -18,12 +18,12 @@ title = "Rig Veda 10.73.8"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *nāmeśāna* \< *nāmā* \< *nāman*
+- *nāmeśāna* ← *nāmā* ← *nāman*
 - \[noun\], accusative, plural, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
 ------------------------------------------------------------------------
-- *nāmeśāna* \< *īśāna*
+- *nāmeśāna* ← *īśāna*
 - \[noun\], vocative, singular, masculine
 - “Shiva; Īśāna; ruler; Vishnu; īśvara; overlord.”
 ------------------------------------------------------------------------
@@ -32,12 +32,12 @@ title = "Rig Veda 10.73.8"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dadhiṣe* \< *dhā*
+- *dadhiṣe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *gabhastau* \< *gabhasti*
+- *gabhastau* ← *gabhasti*
 - \[noun\], locative, singular, masculine
 - “beam; hand; sun.”
 ------------------------------------------------------------------------
@@ -45,31 +45,31 @@ title = "Rig Veda 10.73.8"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *devāḥ* \< *deva*
+- *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *śavasā* \< *śavas*
+- *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *madanty* \< *madanti* \< *mad*
+- *madanty* ← *madanti* ← *mad*
 - \[verb\], plural, Present indikative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *uparibudhnān* \< *uparibudhna*
+- *uparibudhnān* ← *uparibudhna*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *vaninaś* \< *vaninaḥ* \< *vanin*
+- *vaninaś* ← *vaninaḥ* ← *vanin*
 - \[noun\], accusative, plural, masculine
 - “tree.”
 ------------------------------------------------------------------------
-- *cakartha* \< *kṛ*
+- *cakartha* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

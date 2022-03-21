@@ -6,16 +6,16 @@ title = "Rig Veda 9.6.4"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *drapsāsa* \< *drapsāsaḥ* \< *drapsa*
+- *drapsāsa* ← *drapsāsaḥ* ← *drapsa*
 - \[noun\], nominative, plural, masculine
 - “drop; banner.”
 ------------------------------------------------------------------------
-- *indava* \< *indavaḥ* \< *indu*
+- *indava* ← *indavaḥ* ← *indu*
 - \[noun\], nominative, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *āpo* \< *āpaḥ* \< *ap*
+- *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -23,24 +23,24 @@ title = "Rig Veda 9.6.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pravatāsaran* \< *pravatā* \< *pravat*
+- *pravatāsaran* ← *pravatā* ← *pravat*
 - \[noun\], instrumental, singular, feminine
 - “slope; river.”
 ------------------------------------------------------------------------
-- *pravatāsaran* \< *asaran* \< *sṛ*
+- *pravatāsaran* ← *asaran* ← *sṛ*
 - \[verb\], plural, Thematic aorist (Ind.)
 - “sṛ; liquefy; run; spread; stretch out.”
 ------------------------------------------------------------------------
-- *punānā* \< *punānāḥ* \< *pū*
+- *punānā* ← *punānāḥ* ← *pū*
 - \[verb noun\], nominative, plural
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *āśata* \< *aś*
+- *āśata* ← *aś*
 - \[verb\], plural, Root aorist (Ind.)
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------

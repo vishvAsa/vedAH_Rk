@@ -2,7 +2,7 @@
 title = "Rig Veda 8.33.10"
 
 +++
--   *satyam* \< *satya*
+-   *satyam* ← *satya*
 - \[noun\], nominative, singular, neuter
 - “truth; oath; satya \[word\]; promise.”
 ------------------------------------------------------------------------
@@ -10,46 +10,46 @@ title = "Rig Veda 8.33.10"
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *vṛṣed* \< *vṛṣā* \< *vṛṣan*
+- *vṛṣed* ← *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *vṛṣed* \< *id*
+- *vṛṣed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *asi* \< *as*
+- *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *vṛṣajūtir* \< *vṛṣa*
+- *vṛṣajūtir* ← *vṛṣa*
 - \[noun\], masculine
 - “bull; vṛṣa \[word\]; vṛṣ; Justicia gendarussa Burm.F.; bull;
     Taurus; bull.”
 ------------------------------------------------------------------------
-- *vṛṣajūtir* \< *jūtiḥ* \< *jūti*
+- *vṛṣajūtir* ← *jūtiḥ* ← *jūti*
 - \[noun\], nominative, singular, masculine
 - “jūti \[word\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *'vṛtaḥ* \< *a*
+- *'vṛtaḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *'vṛtaḥ* \< *vṛtaḥ* \< *vṛ*
+- *'vṛtaḥ* ← *vṛtaḥ* ← *vṛ*
 - \[verb noun\], nominative, singular
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣan*
+- *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *hy* \< *hi*
+- *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
@@ -58,23 +58,23 @@ title = "Rig Veda 8.33.10"
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *śṛṇviṣe* \< *śru*
+- *śṛṇviṣe* ← *śru*
 - \[verb\], singular, Present indikative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *parāvati* \< *parāvat*
+- *parāvati* ← *parāvat*
 - \[noun\], locative, singular, feminine
 - “distance; distance; distance.”
 ------------------------------------------------------------------------
-- *vṛṣo* \< *vṛṣaḥ* \< *vṛṣa*
+- *vṛṣo* ← *vṛṣaḥ* ← *vṛṣa*
 - \[noun\], nominative, singular, masculine
 - “bull; vṛṣa \[word\]; vṛṣ; Justicia gendarussa Burm.F.; bull;
     Taurus; bull.”
 ------------------------------------------------------------------------
-- *arvāvati* \< *arvāvat*
+- *arvāvati* ← *arvāvat*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
-- *śrutaḥ* \< *śru*
+- *śrutaḥ* ← *śru*
 - \[verb noun\], nominative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------

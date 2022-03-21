@@ -2,7 +2,7 @@
 title = "Rig Veda 10.83.4"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -10,52 +10,52 @@ title = "Rig Veda 10.83.4"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *manyo* \< *manyu*
+- *manyo* ← *manyu*
 - \[noun\], vocative, singular, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------
-- *abhibhūtyojāḥ* \< *abhibhūti*
+- *abhibhūtyojāḥ* ← *abhibhūti*
 - \[noun\]
 - “superior; overpowering.”
 ------------------------------------------------------------------------
-- *abhibhūtyojāḥ* \< *ojāḥ* \< *ojas*
+- *abhibhūtyojāḥ* ← *ojāḥ* ← *ojas*
 - \[noun\], nominative, singular, masculine
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *svayaṃbhūr* \< *svayaṃbhūḥ* \< *svayaṃbhū*
+- *svayaṃbhūr* ← *svayaṃbhūḥ* ← *svayaṃbhū*
 - \[noun\], nominative, singular, masculine
 - “spontaneous.”
 ------------------------------------------------------------------------
-- *bhāmo* \< *bhāmaḥ* \< *bhāma*
+- *bhāmo* ← *bhāmaḥ* ← *bhāma*
 - \[noun\], nominative, singular, masculine
 - “wrath; anger.”
 ------------------------------------------------------------------------
-- *abhimātiṣāhaḥ* \< *abhimātiṣāha*
+- *abhimātiṣāhaḥ* ← *abhimātiṣāha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *viśvacarṣaṇiḥ* \< *viśvacarṣaṇi*
+- *viśvacarṣaṇiḥ* ← *viśvacarṣaṇi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *sahuriḥ* \< *sahuri*
+- *sahuriḥ* ← *sahuri*
 - \[noun\], nominative, singular, masculine
 - “victorious; mighty; strong.”
 ------------------------------------------------------------------------
-- *sahāvān* \< *sahāva*
+- *sahāvān* ← *sahāva*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *asmāsv* \< *asmāsu* \< *mad*
+- *asmāsv* ← *asmāsu* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ojaḥ* \< *ojas*
+- *ojaḥ* ← *ojas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *pṛtanāsu* \< *pṛtanā*
+- *pṛtanāsu* ← *pṛtanā*
 - \[noun\], locative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
 ------------------------------------------------------------------------
-- *dhehi* \< *dhā*
+- *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

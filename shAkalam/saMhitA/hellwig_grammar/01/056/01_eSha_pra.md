@@ -2,7 +2,7 @@
 title = "Rig Veda 1.56.1"
 
 +++
--   *eṣa* \< *etad*
+-   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
@@ -10,7 +10,7 @@ title = "Rig Veda 1.56.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *pūrvīr* \< *pūrvīḥ* \< *pūrva*
+- *pūrvīr* ← *pūrvīḥ* ← *pūrva*
 - \[noun\], accusative, plural, feminine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
@@ -20,16 +20,16 @@ title = "Rig Veda 1.56.1"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *tasya* \< *tad*
+- *tasya* ← *tad*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *camriṣo* \< *camriṣaḥ* \< *camriṣ*
+- *camriṣo* ← *camriṣaḥ* ← *camriṣ*
 - \[noun\], genitive, singular, feminine
 ------------------------------------------------------------------------
-- *'tyo* \< *atyaḥ* \< *atya*
+- *'tyo* ← *atyaḥ* ← *atya*
 - \[noun\], nominative, singular, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------
@@ -37,7 +37,7 @@ title = "Rig Veda 1.56.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yoṣām* \< *yoṣā*
+- *yoṣām* ← *yoṣā*
 - \[noun\], accusative, singular, feminine
 - “woman; puppet; daughter.”
 ------------------------------------------------------------------------
@@ -45,43 +45,43 @@ title = "Rig Veda 1.56.1"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *ayaṃsta* \< *yam*
+- *ayaṃsta* ← *yam*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *bhurvaṇiḥ* \< *bhurvaṇi*
+- *bhurvaṇiḥ* ← *bhurvaṇi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *dakṣam* \< *dakṣa*
+- *dakṣam* ← *dakṣa*
 - \[noun\], accusative, singular, masculine
 - “deft; right; intelligent; expert.”
 ------------------------------------------------------------------------
-- *mahe* \< *mah*
+- *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *pāyayate* \< *pāyay* \< *√pā*
+- *pāyayate* ← *pāyay* ← *√pā*
 - \[verb\], singular, Present indikative
 - “make to drink; temper; suckle.”
 ------------------------------------------------------------------------
-- *hiraṇyayaṃ* \< *hiraṇyayam* \< *hiraṇyaya*
+- *hiraṇyayaṃ* ← *hiraṇyayam* ← *hiraṇyaya*
 - \[noun\], accusative, singular, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
 ------------------------------------------------------------------------
-- *ratham* \< *ratha*
+- *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *āvṛtyā* \< *āvṛt* \< *√vṛt*
+- *āvṛtyā* ← *āvṛt* ← *√vṛt*
 - \[verb noun\]
 - “melt; return; melt; to be reborn; turn; turn; revolve; roll.”
 ------------------------------------------------------------------------
-- *hariyogam* \< *hari*
+- *hariyogam* ← *hari*
 - \[noun\], masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *hariyogam* \< *yogam* \< *yoga*
+- *hariyogam* ← *yogam* ← *yoga*
 - \[noun\], accusative, singular, masculine
 - “method; application; yoga; remedy; mix; treatment; mixture;
     procedure; contact; use; yogin; connection; application; union;
@@ -90,6 +90,6 @@ title = "Rig Veda 1.56.1"
     yoke; yoga \[word\]; art; combination; assortment; confluence;
     constellation; relationship; connection; agent; means.”
 ------------------------------------------------------------------------
-- *ṛbhvasam* \< *ṛbhvas*
+- *ṛbhvasam* ← *ṛbhvas*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------

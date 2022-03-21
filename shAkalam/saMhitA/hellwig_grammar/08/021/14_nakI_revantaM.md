@@ -2,38 +2,38 @@
 title = "Rig Veda 8.21.14"
 
 +++
--   *nakī* \< *nakir*
+-   *nakī* ← *nakir*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *revantaṃ* \< *revantam* \< *revat*
+- *revantaṃ* ← *revantam* ← *revat*
 - \[noun\], accusative, singular, masculine
 - “abundant; rich; affluent; brilliant; brilliant.”
 ------------------------------------------------------------------------
-- *sakhyāya* \< *sakhya*
+- *sakhyāya* ← *sakhya*
 - \[noun\], dative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *vindase* \< *vid*
+- *vindase* ← *vid*
 - \[verb\], singular, Present indikative
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *pīyanti* \< *pī*
+- *pīyanti* ← *pī*
 - \[verb\], plural, Present indikative
 - “tease.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *surāśvaḥ* \< *surāśū*
+- *surāśvaḥ* ← *surāśū*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *yadā*
 - \[adverb\]
 - “once \[when\]; if.”
 ------------------------------------------------------------------------
-- *kṛṇoṣi* \< *kṛ*
+- *kṛṇoṣi* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -44,34 +44,34 @@ title = "Rig Veda 8.21.14"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *nadanuṃ* \< *nadanum* \< *nadanu*
+- *nadanuṃ* ← *nadanum* ← *nadanu*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *ūhasy* \< *ūhasi* \< *ūh*
+- *ūhasy* ← *ūhasi* ← *ūh*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *piteva* \< *pitā* \< *pitṛ*
+- *piteva* ← *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *piteva* \< *iva*
+- *piteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *hūyase* \< *hvā*
+- *hūyase* ← *hvā*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------

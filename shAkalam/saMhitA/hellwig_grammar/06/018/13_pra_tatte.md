@@ -6,28 +6,28 @@ title = "Rig Veda 6.18.13"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *tat* \< *tad*
+- *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *adyā* \< *adya*
+- *adyā* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *karaṇaṃ* \< *karaṇam* \< *karaṇa*
+- *karaṇaṃ* ← *karaṇam* ← *karaṇa*
 - \[noun\], nominative, singular, neuter
 - “instrument; production; sense organ; cause; performance; karaṇa;
     creation; tool; action; position; means; causing; transformation;
     sensing; procedure; instrumental; elimination; applicability;
     devising.”
 ------------------------------------------------------------------------
-- *kṛtam* \< *kṛ*
+- *kṛtam* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -38,36 +38,36 @@ title = "Rig Veda 6.18.13"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *bhūt* \< *bhū*
+- *bhūt* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *kutsaṃ* \< *kutsam* \< *kutsa*
+- *kutsaṃ* ← *kutsam* ← *kutsa*
 - \[noun\], accusative, singular, masculine
 - “Kutsa; kutsa \[word\].”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *āyum* \< *āyu*
+- *āyum* ← *āyu*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *atithigvam* \< *atithigva*
+- *atithigvam* ← *atithigva*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *asmai* \< *idam*
+- *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *purū* \< *puru*
+- *purū* ← *puru*
 - \[noun\], accusative, plural, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *sahasrā* \< *sahasra*
+- *sahasrā* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
@@ -75,7 +75,7 @@ title = "Rig Veda 6.18.13"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *śiśā* \< *śiśāḥ* \< *śā*
+- *śiśā* ← *śiśāḥ* ← *śā*
 - \[verb\], singular, Present injunctive
 - “sharpen; whet; strengthen.”
 ------------------------------------------------------------------------
@@ -83,22 +83,22 @@ title = "Rig Veda 6.18.13"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *kṣām* \< *kṣā*
+- *kṣām* ← *kṣā*
 - \[noun\], accusative, singular, feminine
 - “Earth; Earth.”
 ------------------------------------------------------------------------
-- *ut* \< *ud*
+- *ut* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *tūrvayāṇaṃ* \< *tūrvayāṇam* \< *tūrvayāṇa*
+- *tūrvayāṇaṃ* ← *tūrvayāṇam* ← *tūrvayāṇa*
 - \[noun\], accusative, singular, masculine
 - “Tūrvayāṇa.”
 ------------------------------------------------------------------------
-- *dhṛṣatā* \< *dhṛṣat*
+- *dhṛṣatā* ← *dhṛṣat*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
-- *ninetha* \< *nī*
+- *ninetha* ← *nī*
 - \[verb\], singular, Perfect indicative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”

@@ -6,35 +6,35 @@ title = "Rig Veda 5.2.9"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *jyotiṣā* \< *jyotis*
+- *jyotiṣā* ← *jyotis*
 - \[noun\], instrumental, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
 ------------------------------------------------------------------------
-- *bṛhatā* \< *bṛhant*
+- *bṛhatā* ← *bṛhant*
 - \[noun\], instrumental, singular, neuter
 - “Bṛhant.”
 ------------------------------------------------------------------------
-- *bhāty* \< *bhāti* \< *bhā*
+- *bhāty* ← *bhāti* ← *bhā*
 - \[verb\], singular, Present indikative
 - “look; shine; show; look like; glitter; reflect.”
 ------------------------------------------------------------------------
-- *agnir* \< *agniḥ* \< *agni*
+- *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *āvir* \< *āvis*
+- *āvir* ← *āvis*
 - \[adverb\]
 - “openly; obviously.”
 ------------------------------------------------------------------------
-- *viśvāni* \< *viśva*
+- *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *kṛṇute* \< *kṛ*
+- *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -45,43 +45,43 @@ title = "Rig Veda 5.2.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *mahitvā* \< *mahitva*
+- *mahitvā* ← *mahitva*
 - \[noun\], accusative, plural, neuter
 - “greatness.”
 ------------------------------------------------------------------------
-- *prādevīr* \< *pra*
+- *prādevīr* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prādevīr* \< *adevīḥ* \< *adeva*
+- *prādevīr* ← *adevīḥ* ← *adeva*
 - \[noun\], accusative, plural, feminine
 - “godless.”
 ------------------------------------------------------------------------
-- *māyāḥ* \< *māyā*
+- *māyāḥ* ← *māyā*
 - \[noun\], accusative, plural, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
 ------------------------------------------------------------------------
-- *sahate* \< *sah*
+- *sahate* ← *sah*
 - \[verb\], singular, Present indikative
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------
-- *durevāḥ* \< *dureva*
+- *durevāḥ* ← *dureva*
 - \[noun\], accusative, plural, feminine
 - “malevolent; bad; crabbed.”
 ------------------------------------------------------------------------
-- *śiśīte* \< *śā*
+- *śiśīte* ← *śā*
 - \[verb\], singular, Present indikative
 - “sharpen; whet; strengthen.”
 ------------------------------------------------------------------------
-- *śṛṅge* \< *śṛṅga*
+- *śṛṅge* ← *śṛṅga*
 - \[noun\], accusative, dual, neuter
 - “peak; horn; tusk; śṛṅga \[word\].”
 ------------------------------------------------------------------------
-- *rakṣase* \< *rakṣas*
+- *rakṣase* ← *rakṣas*
 - \[noun\], dative, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
 ------------------------------------------------------------------------
-- *vinikṣe* \< *vinikṣ* \< *√nikṣ*
+- *vinikṣe* ← *vinikṣ* ← *√nikṣ*
 - \[verb noun\]
 ------------------------------------------------------------------------

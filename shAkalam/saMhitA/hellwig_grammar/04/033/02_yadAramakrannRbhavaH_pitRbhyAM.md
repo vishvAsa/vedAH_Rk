@@ -2,14 +2,14 @@
 title = "Rig Veda 4.33.2"
 
 +++
--   *yadāram* \< *yadā*
+-   *yadāram* ← *yadā*
 - \[adverb\]
 - “once \[when\]; if.”
 ------------------------------------------------------------------------
-- *yadāram* \< *aram*
+- *yadāram* ← *aram*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *akrann* \< *akran* \< *kṛ*
+- *akrann* ← *akran* ← *kṛ*
 - \[verb\], plural, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -20,26 +20,26 @@ title = "Rig Veda 4.33.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *ṛbhavaḥ* \< *ṛbhu*
+- *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], nominative, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
-- *pitṛbhyām* \< *pitṛ*
+- *pitṛbhyām* ← *pitṛ*
 - \[noun\], dative, dual, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *pariviṣṭī* \< *pariviṣṭi*
+- *pariviṣṭī* ← *pariviṣṭi*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
 - *veṣaṇā*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *daṃsanābhiḥ* \< *daṃsanā*
+- *daṃsanābhiḥ* ← *daṃsanā*
 - \[noun\], instrumental, plural, feminine
 - “wonder; power.”
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
@@ -47,7 +47,7 @@ title = "Rig Veda 4.33.2"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *devānām* \< *deva*
+- *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -56,29 +56,29 @@ title = "Rig Veda 4.33.2"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *sakhyam* \< *sakhya*
+- *sakhyam* ← *sakhya*
 - \[noun\], accusative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *āyan* \< *i*
+- *āyan* ← *i*
 - \[verb\], plural, Imperfect
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *dhīrāsaḥ* \< *dhīra*
+- *dhīrāsaḥ* ← *dhīra*
 - \[noun\], nominative, plural, masculine
 - “expert; wise; intelligent; versed; adept.”
 ------------------------------------------------------------------------
-- *puṣṭim* \< *puṣṭi*
+- *puṣṭim* ← *puṣṭi*
 - \[noun\], accusative, singular, feminine
 - “prosperity; growth; increase; puṣṭi; luxury; wealth; comfort;
     increase; corpulence.”
 ------------------------------------------------------------------------
-- *avahan* \< *vah*
+- *avahan* ← *vah*
 - \[verb\], plural, Root aorist (Ind.)
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *manāyai* \< *manā*
+- *manāyai* ← *manā*
 - \[noun\], dative, singular, feminine
 - “jewelry.”
 ------------------------------------------------------------------------

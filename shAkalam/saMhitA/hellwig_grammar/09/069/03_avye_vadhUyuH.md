@@ -2,13 +2,13 @@
 title = "Rig Veda 9.69.3"
 
 +++
--   *avye* \< *avya*
+-   *avye* ← *avya*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *vadhūyuḥ* \< *vadhūyu*
+- *vadhūyuḥ* ← *vadhūyu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *pavate* \< *pū*
+- *pavate* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
@@ -16,60 +16,60 @@ title = "Rig Veda 9.69.3"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *tvaci* \< *tvac*
+- *tvaci* ← *tvac*
 - \[noun\], locative, singular, feminine
 - “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
 ------------------------------------------------------------------------
-- *śrathnīte* \< *śrath*
+- *śrathnīte* ← *śrath*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *naptīr* \< *naptīḥ* \< *naptī*
+- *naptīr* ← *naptīḥ* ← *naptī*
 - \[noun\], nominative, singular, feminine
 - “daughter; granddaughter.”
 ------------------------------------------------------------------------
-- *aditer* \< *aditeḥ* \< *aditi*
+- *aditer* ← *aditeḥ* ← *aditi*
 - \[noun\], genitive, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *ṛtaṃ* \< *ṛtam* \< *ṛta*
+- *ṛtaṃ* ← *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *yate* \< *i*
+- *yate* ← *i*
 - \[verb noun\], dative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *harir* \< *hariḥ* \< *hari*
+- *harir* ← *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
-- *akrān* \< *krand*
+- *akrān* ← *krand*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “roar; neigh; cry; howl; shout.”
 ------------------------------------------------------------------------
-- *yajataḥ* \< *yajata*
+- *yajataḥ* ← *yajata*
 - \[noun\], nominative, singular, masculine
 - “holy; august; sacrificial.”
 ------------------------------------------------------------------------
-- *saṃyato* \< *saṃyataḥ* \< *saṃyam* \< *√yam*
+- *saṃyato* ← *saṃyataḥ* ← *saṃyam* ← *√yam*
 - \[verb noun\], nominative, singular
 - “control; curb; close; tie down; bottle up.”
 ------------------------------------------------------------------------
-- *mado* \< *madaḥ* \< *mada*
+- *mado* ← *madaḥ* ← *mada*
 - \[noun\], nominative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *nṛmṇā* \< *nṛmṇa*
+- *nṛmṇā* ← *nṛmṇa*
 - \[noun\], accusative, plural, neuter
 - “manhood; power.”
 ------------------------------------------------------------------------
-- *śiśāno* \< *śiśānaḥ* \< *śā*
+- *śiśāno* ← *śiśānaḥ* ← *śā*
 - \[verb noun\], nominative, singular
 - “sharpen; whet; strengthen.”
 ------------------------------------------------------------------------
-- *mahiṣo* \< *mahiṣaḥ* \< *mahiṣa*
+- *mahiṣo* ← *mahiṣaḥ* ← *mahiṣa*
 - \[noun\], nominative, singular, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
 ------------------------------------------------------------------------
@@ -77,7 +77,7 @@ title = "Rig Veda 9.69.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śobhate* \< *śubh*
+- *śobhate* ← *śubh*
 - \[verb\], singular, Present indikative
 - “look; shine; beautify.”
 ------------------------------------------------------------------------

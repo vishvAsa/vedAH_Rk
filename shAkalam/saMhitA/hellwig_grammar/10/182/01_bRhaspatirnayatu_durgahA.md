@@ -2,20 +2,20 @@
 title = "Rig Veda 10.182.1"
 
 +++
--   *bṛhaspatir* \< *bṛhaspatiḥ* \< *bṛhaspati*
+-   *bṛhaspatir* ← *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *nayatu* \< *nī*
+- *nayatu* ← *nī*
 - \[verb\], singular, Present imperative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *durgahā* \< *durgaha*
+- *durgahā* ← *durgaha*
 - \[noun\], accusative, plural, neuter
 - “danger; abyss; wilderness.”
 ------------------------------------------------------------------------
-- *tiraḥ* \< *tiras*
+- *tiraḥ* ← *tiras*
 - \[adverb\]
 - “tiras \[word\]; away; secretly.”
 ------------------------------------------------------------------------
@@ -24,29 +24,29 @@ title = "Rig Veda 10.182.1"
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
 ------------------------------------------------------------------------
-- *neṣad* \< *neṣat* \< *nī*
+- *neṣad* ← *neṣat* ← *nī*
 - \[verb\], singular, Aorist conj./subj.
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *aghaśaṃsāya* \< *agha*
+- *aghaśaṃsāya* ← *agha*
 - \[noun\], neuter
 - “sin; evil; impurity; agha \[word\].”
 ------------------------------------------------------------------------
-- *aghaśaṃsāya* \< *śaṃsāya* \< *śaṃsa*
+- *aghaśaṃsāya* ← *śaṃsāya* ← *śaṃsa*
 - \[noun\], dative, singular, masculine
 - “speaking.”
 ------------------------------------------------------------------------
-- *manma* \< *manman*
+- *manma* ← *manman*
 - \[noun\], accusative, singular, neuter
 - “hymn; idea; purpose.”
 ------------------------------------------------------------------------
-- *kṣipad* \< *kṣipat* \< *kṣip*
+- *kṣipad* ← *kṣipat* ← *kṣip*
 - \[verb\], singular, Present injunctive
 - “fill into; add; put; throw; insert; submerge; pour; mix; ignite;
     shoot; hurl; vilify; reject; join; put on; stow; stack; throw.”
 ------------------------------------------------------------------------
-- *aśastim* \< *aśasti*
+- *aśastim* ← *aśasti*
 - \[noun\], accusative, singular, feminine
 - “hex.”
 ------------------------------------------------------------------------
@@ -54,21 +54,21 @@ title = "Rig Veda 10.182.1"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *durmatiṃ* \< *durmatim* \< *durmati*
+- *durmatiṃ* ← *durmatim* ← *durmati*
 - \[noun\], accusative, singular, feminine
 - “hate; envy.”
 ------------------------------------------------------------------------
-- *hann* \< *han*
+- *hann* ← *han*
 - \[verb\], singular, Present injunctive
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *athā* \< *atha*
+- *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *karad* \< *karat* \< *kṛ*
+- *karad* ← *karat* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -79,15 +79,15 @@ title = "Rig Veda 10.182.1"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *yajamānāya* \< *yajamāna*
+- *yajamānāya* ← *yajamāna*
 - \[noun\], dative, singular, masculine
 - “Yajamāna.”
 ------------------------------------------------------------------------
-- *śaṃ* \< *śam*
+- *śaṃ* ← *śam*
 - \[noun\], accusative, singular, neuter
 - “luck; well-being; fortune.”
 ------------------------------------------------------------------------
-- *yoḥ* \< *yos*
+- *yoḥ* ← *yos*
 - \[noun\], accusative, singular
 - “fortune.”
 ------------------------------------------------------------------------

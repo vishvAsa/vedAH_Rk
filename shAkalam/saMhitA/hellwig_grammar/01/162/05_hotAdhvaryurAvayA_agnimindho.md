@@ -2,66 +2,66 @@
 title = "Rig Veda 1.162.5"
 
 +++
--   *hotādhvaryur* \< *hotā* \< *hotṛ*
+-   *hotādhvaryur* ← *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *hotādhvaryur* \< *adhvaryuḥ* \< *adhvaryu*
+- *hotādhvaryur* ← *adhvaryuḥ* ← *adhvaryu*
 - \[noun\], nominative, singular, masculine
 - “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
 ------------------------------------------------------------------------
-- *āvayā* \< *āvayāḥ* \< *āvayas*
+- *āvayā* ← *āvayāḥ* ← *āvayas*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *agnimindho* \< *agnimindhaḥ* \< *agnimindha*
+- *agnimindho* ← *agnimindhaḥ* ← *agnimindha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *grāvagrābha* \< *grāvagrābhaḥ* \< *grāvagrābha*
+- *grāvagrābha* ← *grāvagrābhaḥ* ← *grāvagrābha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *śaṃstā* \< *śaṃstṛ*
+- *śaṃstā* ← *śaṃstṛ*
 - \[noun\], nominative, singular, masculine
 - “śaṃstṛ \[word\].”
 ------------------------------------------------------------------------
-- *suvipraḥ* \< *su*
+- *suvipraḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvipraḥ* \< *vipraḥ* \< *vipra*
+- *suvipraḥ* ← *vipraḥ* ← *vipra*
 - \[noun\], nominative, singular, masculine
 - “eloquent; stimulated; divine.”
 ------------------------------------------------------------------------
-- *tena* \< *tad*
+- *tena* ← *tad*
 - \[noun\], instrumental, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *yajñena* \< *yajña*
+- *yajñena* ← *yajña*
 - \[noun\], instrumental, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *svaraṃkṛtena* \< *su*
+- *svaraṃkṛtena* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svaraṃkṛtena* \< *araṃkṛtena* \< *alaṃkṛ* \< *√kṛ*
+- *svaraṃkṛtena* ← *araṃkṛtena* ← *alaṃkṛ* ← *√kṛ*
 - \[verb noun\], instrumental, singular
 - “decorate; prepare.”
 ------------------------------------------------------------------------
-- *sviṣṭena* \< *su*
+- *sviṣṭena* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sviṣṭena* \< *iṣṭena* \< *yaj*
+- *sviṣṭena* ← *iṣṭena* ← *yaj*
 - \[verb noun\], instrumental, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *vakṣaṇā* \< *vakṣaṇāḥ* \< *vakṣaṇā*
+- *vakṣaṇā* ← *vakṣaṇāḥ* ← *vakṣaṇā*
 - \[noun\], accusative, plural, feminine
 - “abdomen; udder; inside.”
 ------------------------------------------------------------------------
@@ -69,7 +69,7 @@ title = "Rig Veda 1.162.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *pṛṇadhvam* \< *pṛṇ*
+- *pṛṇadhvam* ← *pṛṇ*
 - \[verb\], plural, Present imperative
 - “satisfy.”
 ------------------------------------------------------------------------

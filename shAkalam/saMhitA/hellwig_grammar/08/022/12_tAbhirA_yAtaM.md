@@ -2,7 +2,7 @@
 title = "Rig Veda 8.22.12"
 
 +++
--   *tābhir* \< *tābhiḥ* \< *tad*
+-   *tābhir* ← *tābhiḥ* ← *tad*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -12,71 +12,71 @@ title = "Rig Veda 8.22.12"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yātaṃ* \< *yātam* \< *yā*
+- *yātaṃ* ← *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *vṛṣaṇopa* \< *vṛṣaṇā* \< *vṛṣan*
+- *vṛṣaṇopa* ← *vṛṣaṇā* ← *vṛṣan*
 - \[noun\], vocative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *vṛṣaṇopa* \< *upa*
+- *vṛṣaṇopa* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *havaṃ* \< *havam* \< *hava*
+- *havaṃ* ← *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *viśvapsuṃ* \< *viśvapsum* \< *viśvapsu*
+- *viśvapsuṃ* ← *viśvapsum* ← *viśvapsu*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *viśvavāryam* \< *viśva*
+- *viśvavāryam* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvavāryam* \< *vāryam* \< *vṛ*
+- *viśvavāryam* ← *vāryam* ← *vṛ*
 - \[verb noun\], accusative, singular
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *iṣā* \< *iṣ*
+- *iṣā* ← *iṣ*
 - \[noun\], instrumental, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *maṃhiṣṭhā* \< *maṃhiṣṭha*
+- *maṃhiṣṭhā* ← *maṃhiṣṭha*
 - \[noun\], nominative, dual, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *purubhūtamā* \< *puru*
+- *purubhūtamā* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purubhūtamā* \< *bhūtamā* \< *bhūtama*
+- *purubhūtamā* ← *bhūtamā* ← *bhūtama*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *narā* \< *nṛ*
+- *narā* ← *nṛ*
 - \[noun\], nominative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *yābhiḥ* \< *yad*
+- *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *kriviṃ* \< *krivim* \< *krivi*
+- *kriviṃ* ← *krivim* ← *krivi*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *vāvṛdhus* \< *vāvṛdhuḥ* \< *vṛdh*
+- *vāvṛdhus* ← *vāvṛdhuḥ* ← *vṛdh*
 - \[verb\], plural, Perfect indicative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *tābhir* \< *tābhiḥ* \< *tad*
+- *tābhir* ← *tābhiḥ* ← *tad*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -86,7 +86,7 @@ title = "Rig Veda 8.22.12"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gatam* \< *gam*
+- *gatam* ← *gam*
 - \[verb\], dual, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

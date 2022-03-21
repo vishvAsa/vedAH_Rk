@@ -2,14 +2,14 @@
 title = "Rig Veda 4.22.8"
 
 +++
--   *pipīﾱe* \< *pipīḍe* \< *pīḍ*
+-   *pipīﾱe* ← *pipīḍe* ← *pīḍ*
 - \[verb\], singular, Perfect indicative
 ------------------------------------------------------------------------
-- *aṃśur* \< *aṃśuḥ* \< *aṃśu*
+- *aṃśur* ← *aṃśuḥ* ← *aṃśu*
 - \[noun\], nominative, singular, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
 ------------------------------------------------------------------------
-- *madyo* \< *madyaḥ* \< *mad*
+- *madyo* ← *madyaḥ* ← *mad*
 - \[verb noun\], nominative, singular
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
@@ -17,7 +17,7 @@ title = "Rig Veda 4.22.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sindhur* \< *sindhuḥ* \< *sindhu*
+- *sindhur* ← *sindhuḥ* ← *sindhu*
 - \[noun\], nominative, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
@@ -25,7 +25,7 @@ title = "Rig Veda 4.22.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -34,27 +34,27 @@ title = "Rig Veda 4.22.8"
 - “Prosopis spicigera Linn.; śamī \[word\]; Acacia sundra; attempt;
     labor.”
 ------------------------------------------------------------------------
-- *śaśamānasya* \< *śam*
+- *śaśamānasya* ← *śam*
 - \[verb noun\], genitive, singular
 - “calm; go out; end; die; pacify; heal; labor; make peace; rest.”
 ------------------------------------------------------------------------
-- *śaktiḥ* \< *śakti*
+- *śaktiḥ* ← *śakti*
 - \[noun\], nominative, singular, feminine
 - “spear; ability; Shakti; potency; power; capacity; śakti \[word\];
     potency; capability; reproduction.”
 ------------------------------------------------------------------------
-- *asmadryak* \< *asmadryañc*
+- *asmadryak* ← *asmadryañc*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *chuśucānasya* \< *śuśucānasya* \< *śuc*
+- *chuśucānasya* ← *śuśucānasya* ← *śuc*
 - \[verb noun\], genitive, singular
 - “mourn; grieve; flame; glow; burn; repent.”
 ------------------------------------------------------------------------
-- *yamyā* \< *yamyāḥ* \< *yam*
+- *yamyā* ← *yamyāḥ* ← *yam*
 - \[verb\], singular, Prekativ
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *āśur* \< *āśuḥ* \< *āśu*
+- *āśur* ← *āśuḥ* ← *āśu*
 - \[noun\], nominative, singular, feminine
 - “quick; fast; immediate; agile.”
 ------------------------------------------------------------------------
@@ -62,19 +62,19 @@ title = "Rig Veda 4.22.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *raśmiṃ* \< *raśmim* \< *raśmi*
+- *raśmiṃ* ← *raśmim* ← *raśmi*
 - \[noun\], accusative, singular, feminine
 - “beam; rein; sunbeam; shininess; cord.”
 ------------------------------------------------------------------------
-- *tuvyojasaṃ* \< *tuvi*
+- *tuvyojasaṃ* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
 ------------------------------------------------------------------------
-- *tuvyojasaṃ* \< *ojasam* \< *ojas*
+- *tuvyojasaṃ* ← *ojasam* ← *ojas*
 - \[noun\], accusative, singular, masculine
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *goḥ* \< *go*
+- *goḥ* ← *go*
 - \[noun\], genitive, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”

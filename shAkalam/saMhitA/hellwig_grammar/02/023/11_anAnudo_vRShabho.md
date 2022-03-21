@@ -2,37 +2,37 @@
 title = "Rig Veda 2.23.11"
 
 +++
--   *anānudo* \< *anānudaḥ* \< *anānuda*
+-   *anānudo* ← *anānudaḥ* ← *anānuda*
 - \[noun\], nominative, singular, masculine
 - “firm.”
 ------------------------------------------------------------------------
-- *vṛṣabho* \< *vṛṣabhaḥ* \< *vṛṣabha*
+- *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *jagmir* \< *jagmiḥ* \< *jagmi*
+- *jagmir* ← *jagmiḥ* ← *jagmi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *āhavaṃ* \< *āhavam* \< *āhava*
+- *āhavaṃ* ← *āhavam* ← *āhava*
 - \[noun\], accusative, singular, masculine
 - “battle; fight; challenge; war.”
 ------------------------------------------------------------------------
-- *niṣṭaptā* \< *niṣṭap* \< *√tap*
+- *niṣṭaptā* ← *niṣṭap* ← *√tap*
 - \[verb\], singular, periphrast. future
 ------------------------------------------------------------------------
-- *śatrum* \< *śatru*
+- *śatrum* ← *śatru*
 - \[noun\], accusative, singular, masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------
-- *pṛtanāsu* \< *pṛtanā*
+- *pṛtanāsu* ← *pṛtanā*
 - \[noun\], locative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
 ------------------------------------------------------------------------
-- *sāsahiḥ* \< *sāsahi*
+- *sāsahiḥ* ← *sāsahi*
 - \[noun\], nominative, singular, masculine
 - “victorious.”
 ------------------------------------------------------------------------
-- *asi* \< *as*
+- *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -41,30 +41,30 @@ title = "Rig Veda 2.23.11"
 - \[noun\], vocative, singular, masculine
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *ṛṇayā* \< *ṛṇayāḥ* \< *ṛṇayā*
+- *ṛṇayā* ← *ṛṇayāḥ* ← *ṛṇayā*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *brahmaṇaspata* \< *brahmaṇaspate* \< *brahmaṇaspati*
+- *brahmaṇaspata* ← *brahmaṇaspate* ← *brahmaṇaspati*
 - \[noun\], vocative, singular, masculine
 - “Brahmaṇaspati.”
 ------------------------------------------------------------------------
-- *ugrasya* \< *ugra*
+- *ugrasya* ← *ugra*
 - \[noun\], genitive, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *damitā* \< *dam*
+- *damitā* ← *dam*
 - \[verb\], singular, periphrast. future
 - “calm; mortify; tame.”
 ------------------------------------------------------------------------
-- *vīḍuharṣiṇaḥ* \< *vīḍu*
+- *vīḍuharṣiṇaḥ* ← *vīḍu*
 - \[noun\]
 - “hard; firm.”
 ------------------------------------------------------------------------
-- *vīḍuharṣiṇaḥ* \< *harṣiṇaḥ* \< *harṣin*
+- *vīḍuharṣiṇaḥ* ← *harṣiṇaḥ* ← *harṣin*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------

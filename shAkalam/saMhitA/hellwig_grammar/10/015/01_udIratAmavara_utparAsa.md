@@ -6,87 +6,87 @@ title = "Rig Veda 10.15.1"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *īratām* \< *īr*
+- *īratām* ← *īr*
 - \[verb\], plural, Present imperative
 - “go.”
 ------------------------------------------------------------------------
-- *avara* \< *avare* \< *avara*
+- *avara* ← *avare* ← *avara*
 - \[noun\], nominative, plural, masculine
 - “worst; avara \[word\]; lower; nearer; base; short; low; abject;
     later(a); worse; antecedent.”
 ------------------------------------------------------------------------
-- *ut* \< *ud*
+- *ut* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *parāsa* \< *parāsaḥ* \< *para*
+- *parāsa* ← *parāsaḥ* ← *para*
 - \[noun\], nominative, plural, masculine
 - “best; other; following; devoted(p); extreme; highest; otherwordly;
     better; hostile; maximal; distant; another(a); para \[word\]; upper;
     concluding; foreign; earlier; worse; longer; finest; excessive.”
 ------------------------------------------------------------------------
-- *un* \< *ud*
+- *un* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *madhyamāḥ* \< *madhyama*
+- *madhyamāḥ* ← *madhyama*
 - \[noun\], nominative, plural, masculine
 - “intermediate; middle; average; second; average; adult; central;
     moderate; mean; center(a).”
 ------------------------------------------------------------------------
-- *pitaraḥ* \< *pitṛ*
+- *pitaraḥ* ← *pitṛ*
 - \[noun\], nominative, plural
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *somyāsaḥ* \< *somya*
+- *somyāsaḥ* ← *somya*
 - \[noun\], nominative, plural, masculine
 - “saumya.”
 ------------------------------------------------------------------------
-- *asuṃ* \< *asum* \< *asu*
+- *asuṃ* ← *asum* ← *asu*
 - \[noun\], accusative, singular, masculine
 - “life.”
 ------------------------------------------------------------------------
-- *ya* \< *ye* \< *yad*
+- *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *īyur* \< *īyuḥ* \< *i*
+- *īyur* ← *īyuḥ* ← *i*
 - \[verb\], plural, Perfect indicative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *avṛkā* \< *avṛkāḥ* \< *avṛka*
+- *avṛkā* ← *avṛkāḥ* ← *avṛka*
 - \[noun\], nominative, plural, masculine
 - “protective; safe.”
 ------------------------------------------------------------------------
-- *ṛtajñās* \< *ṛta*
+- *ṛtajñās* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *ṛtajñās* \< *jñāḥ* \< *jña*
+- *ṛtajñās* ← *jñāḥ* ← *jña*
 - \[noun\], nominative, plural, masculine
 - “conversant(p); aware(p); wise.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *'vantu* \< *avantu* \< *av*
+- *'vantu* ← *avantu* ← *av*
 - \[verb\], plural, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *pitaro* \< *pitaraḥ* \< *pitṛ*
+- *pitaro* ← *pitaraḥ* ← *pitṛ*
 - \[noun\], nominative, plural
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *haveṣu* \< *hava*
+- *haveṣu* ← *hava*
 - \[noun\], locative, plural, masculine
 - “invocation.”
 ------------------------------------------------------------------------

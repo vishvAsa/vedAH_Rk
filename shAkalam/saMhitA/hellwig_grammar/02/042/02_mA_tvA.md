@@ -6,11 +6,11 @@ title = "Rig Veda 2.42.2"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śyena* \< *śyenaḥ* \< *śyena*
+- *śyena* ← *śyenaḥ* ← *śyena*
 - \[noun\], nominative, singular, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
 ------------------------------------------------------------------------
@@ -18,7 +18,7 @@ title = "Rig Veda 2.42.2"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *vadhīn* \< *vadhīt* \< *vadh*
+- *vadhīn* ← *vadhīt* ← *vadh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “kill; assail; kick; māray; destroy; beat.”
 ------------------------------------------------------------------------
@@ -26,7 +26,7 @@ title = "Rig Veda 2.42.2"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *suparṇo* \< *suparṇaḥ* \< *suparṇa*
+- *suparṇo* ← *suparṇaḥ* ← *suparṇa*
 - \[noun\], nominative, singular, masculine
 - “Garuda; Suparṇa; bird of prey; Suparṇa; suparṇa; Suparṇa; eagle.”
 ------------------------------------------------------------------------
@@ -34,27 +34,27 @@ title = "Rig Veda 2.42.2"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vidad* \< *vidat* \< *vid*
+- *vidad* ← *vidat* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *iṣumān* \< *iṣumat*
+- *iṣumān* ← *iṣumat*
 - \[noun\], nominative, singular, masculine
 - “armed with an arrow.”
 ------------------------------------------------------------------------
-- *vīro* \< *vīraḥ* \< *vīra*
+- *vīro* ← *vīraḥ* ← *vīra*
 - \[noun\], nominative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *astā* \< *astṛ*
+- *astā* ← *astṛ*
 - \[noun\], nominative, singular, masculine
 - “archer; shot.”
 ------------------------------------------------------------------------
-- *pitryām* \< *pitrya*
+- *pitryām* ← *pitrya*
 - \[noun\], accusative, singular, feminine
 - “ancestral; paternal.”
 ------------------------------------------------------------------------
@@ -62,37 +62,37 @@ title = "Rig Veda 2.42.2"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *pradiśaṃ* \< *pradiśam* \< *pradiś*
+- *pradiśaṃ* ← *pradiśam* ← *pradiś*
 - \[noun\], accusative, singular, feminine
 - “quarter; direction; command; region; indication.”
 ------------------------------------------------------------------------
-- *kanikradat* \< *kanikrad* \< *√krand*
+- *kanikradat* ← *kanikrad* ← *√krand*
 - \[verb noun\], nominative, singular
 - “roar; neigh.”
 ------------------------------------------------------------------------
-- *sumaṅgalo* \< *su*
+- *sumaṅgalo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sumaṅgalo* \< *maṅgalaḥ* \< *maṅgala*
+- *sumaṅgalo* ← *maṅgalaḥ* ← *maṅgala*
 - \[noun\], nominative, singular, masculine
 - “auspicious.”
 ------------------------------------------------------------------------
-- *bhadravādī* \< *bhadra*
+- *bhadravādī* ← *bhadra*
 - \[noun\]
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *bhadravādī* \< *vādī* \< *vādin*
+- *bhadravādī* ← *vādī* ← *vādin*
 - \[noun\], nominative, singular, masculine
 - “speaking; discussing; chatty; crying.”
 ------------------------------------------------------------------------
-- *vadeha* \< *vada* \< *vad*
+- *vadeha* ← *vada* ← *vad*
 - \[verb\], singular, Present imperative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
 ------------------------------------------------------------------------
-- *vadeha* \< *iha*
+- *vadeha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------

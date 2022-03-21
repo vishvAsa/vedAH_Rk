@@ -6,36 +6,36 @@ title = "Rig Veda 1.14.4"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *bhriyanta* \< *bhriyante* \< *bhṛ*
+- *bhriyanta* ← *bhriyante* ← *bhṛ*
 - \[verb\], plural, Indikativ Pr￤s. Passiv
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *indavo* \< *indavaḥ* \< *indu*
+- *indavo* ← *indavaḥ* ← *indu*
 - \[noun\], nominative, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *matsarā* \< *matsarāḥ* \< *matsara*
+- *matsarā* ← *matsarāḥ* ← *matsara*
 - \[noun\], nominative, plural, masculine
 - “intoxicant; invigorating; hostile.”
 ------------------------------------------------------------------------
-- *mādayiṣṇavaḥ* \< *mādayiṣṇu*
+- *mādayiṣṇavaḥ* ← *mādayiṣṇu*
 - \[noun\], nominative, plural, masculine
 - “intoxicant.”
 ------------------------------------------------------------------------
-- *drapsā* \< *drapsāḥ* \< *drapsa*
+- *drapsā* ← *drapsāḥ* ← *drapsa*
 - \[noun\], nominative, plural, masculine
 - “drop; banner.”
 ------------------------------------------------------------------------
-- *madhvaś* \< *madhvaḥ* \< *madhu*
+- *madhvaś* ← *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *camūṣadaḥ* \< *camūṣad*
+- *camūṣadaḥ* ← *camūṣad*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------

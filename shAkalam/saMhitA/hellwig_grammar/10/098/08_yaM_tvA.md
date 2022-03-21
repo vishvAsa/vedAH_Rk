@@ -2,51 +2,51 @@
 title = "Rig Veda 10.98.8"
 
 +++
--   *yaṃ* \< *yam* \< *yad*
+-   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *devāpiḥ* \< *devāpi*
+- *devāpiḥ* ← *devāpi*
 - \[noun\], nominative, singular, masculine
 - “Devāpi.”
 ------------------------------------------------------------------------
-- *śuśucāno* \< *śuśucānaḥ* \< *śuc*
+- *śuśucāno* ← *śuśucānaḥ* ← *śuc*
 - \[verb noun\], nominative, singular
 - “mourn; grieve; flame; glow; burn; repent.”
 ------------------------------------------------------------------------
-- *agna* \< *agne* \< *agni*
+- *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *ārṣṭiṣeṇo* \< *ārṣṭiṣeṇaḥ* \< *ārṣṭiṣeṇa*
+- *ārṣṭiṣeṇo* ← *ārṣṭiṣeṇaḥ* ← *ārṣṭiṣeṇa*
 - \[noun\], nominative, singular, masculine
 - “Devāpi.”
 ------------------------------------------------------------------------
-- *manuṣyaḥ* \< *manuṣya*
+- *manuṣyaḥ* ← *manuṣya*
 - \[noun\], nominative, singular, masculine
 - “man; people; man; manuṣya \[word\].”
 ------------------------------------------------------------------------
-- *samīdhe* \< *samindh* \< *√indh*
+- *samīdhe* ← *samindh* ← *√indh*
 - \[verb\], singular, Perfect indicative
 - “kindle; blaze.”
 ------------------------------------------------------------------------
-- *viśvebhir* \< *viśvebhiḥ* \< *viśva*
+- *viśvebhir* ← *viśvebhiḥ* ← *viśva*
 - \[noun\], instrumental, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *devair* \< *devaiḥ* \< *deva*
+- *devair* ← *devaiḥ* ← *deva*
 - \[noun\], instrumental, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *anumadyamānaḥ* \< *anumad* \< *√mad*
+- *anumadyamānaḥ* ← *anumad* ← *√mad*
 - \[verb noun\], nominative, singular
 - “praise; cheer; applaud.”
 ------------------------------------------------------------------------
@@ -54,16 +54,16 @@ title = "Rig Veda 10.98.8"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *parjanyam* \< *parjanya*
+- *parjanyam* ← *parjanya*
 - \[noun\], accusative, singular, masculine
 - “cloud; Parjanya; Indra; nimbus.”
 ------------------------------------------------------------------------
-- *īrayā* \< *īraya* \< *īray* \< *√īr*
+- *īrayā* ← *īraya* ← *īray* ← *√īr*
 - \[verb\], singular, Present imperative
 - “name; describe; propel; shoot; state; call; raise; expel; tell;
     enumerate.”
 ------------------------------------------------------------------------
-- *vṛṣṭimantam* \< *vṛṣṭimat*
+- *vṛṣṭimantam* ← *vṛṣṭimat*
 - \[noun\], accusative, singular, masculine
 - “rain; raining; rainy.”
 ------------------------------------------------------------------------

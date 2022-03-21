@@ -2,10 +2,10 @@
 title = "Rig Veda 1.62.13"
 
 +++
--   *sanāyate* \< *sanāy*
+-   *sanāyate* ← *sanāy*
 - \[verb noun\], dative, singular
 ------------------------------------------------------------------------
-- *gotama* \< *gotamaḥ* \< *gotama*
+- *gotama* ← *gotamaḥ* ← *gotama*
 - \[noun\], nominative, singular, masculine
 - “Gotama; gotama \[word\].”
 ------------------------------------------------------------------------
@@ -14,30 +14,30 @@ title = "Rig Veda 1.62.13"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *navyam* \< *navya*
+- *navyam* ← *navya*
 - \[noun\], accusative, singular, neuter
 - “new; fresh.”
 ------------------------------------------------------------------------
-- *atakṣad* \< *atakṣat* \< *takṣ*
+- *atakṣad* ← *atakṣat* ← *takṣ*
 - \[verb\], singular, Imperfect
 - “produce; shape; fashion; chisel; invent.”
 ------------------------------------------------------------------------
-- *brahma* \< *brahman*
+- *brahma* ← *brahman*
 - \[noun\], accusative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *hariyojanāya* \< *hariyojana*
+- *hariyojanāya* ← *hariyojana*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *sunīthāya* \< *su*
+- *sunīthāya* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sunīthāya* \< *nīthāya* \< *nītha*
+- *sunīthāya* ← *nīthāya* ← *nītha*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -45,7 +45,7 @@ title = "Rig Veda 1.62.13"
 - \[noun\], vocative, singular, masculine
 - “strong.”
 ------------------------------------------------------------------------
-- *nodhāḥ* \< *nodhas*
+- *nodhāḥ* ← *nodhas*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *prātar*
@@ -56,11 +56,11 @@ title = "Rig Veda 1.62.13"
 - \[adverb\]
 - “promptly; soon; quickly.”
 ------------------------------------------------------------------------
-- *dhiyāvasur* \< *dhiyāvasuḥ* \< *dhiyāvasu*
+- *dhiyāvasur* ← *dhiyāvasuḥ* ← *dhiyāvasu*
 - \[noun\], nominative, singular, masculine
 - “wise.”
 ------------------------------------------------------------------------
-- *jagamyāt* \< *gam*
+- *jagamyāt* ← *gam*
 - \[verb\], singular, Perfect optative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

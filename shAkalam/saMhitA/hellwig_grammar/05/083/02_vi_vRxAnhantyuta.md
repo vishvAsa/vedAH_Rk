@@ -6,11 +6,11 @@ title = "Rig Veda 5.83.2"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vṛkṣān* \< *vṛkṣa*
+- *vṛkṣān* ← *vṛkṣa*
 - \[noun\], accusative, plural, masculine
 - “tree; fruit tree.”
 ------------------------------------------------------------------------
-- *hanty* \< *hanti* \< *han*
+- *hanty* ← *hanti* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
@@ -20,52 +20,52 @@ title = "Rig Veda 5.83.2"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *hanti* \< *han*
+- *hanti* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *rakṣaso* \< *rakṣasaḥ* \< *rakṣas*
+- *rakṣaso* ← *rakṣasaḥ* ← *rakṣas*
 - \[noun\], accusative, plural, masculine
 - “Rākṣasa.”
 ------------------------------------------------------------------------
-- *viśvam* \< *viśva*
+- *viśvam* ← *viśva*
 - \[noun\], nominative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *bibhāya* \< *bhī*
+- *bibhāya* ← *bhī*
 - \[verb\], singular, Perfect indicative
 - “fear; fear.”
 ------------------------------------------------------------------------
-- *bhuvanam* \< *bhuvana*
+- *bhuvanam* ← *bhuvana*
 - \[noun\], nominative, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *mahāvadhāt* \< *mahā* \< *mahat*
+- *mahāvadhāt* ← *mahā* ← *mahat*
 - \[noun\]
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
 ------------------------------------------------------------------------
-- *mahāvadhāt* \< *vadhāt* \< *vadha*
+- *mahāvadhāt* ← *vadhāt* ← *vadha*
 - \[noun\], ablative, singular, masculine
 - “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
     dysfunction; punishment; kick.”
 ------------------------------------------------------------------------
-- *utānāgā* \< *uta*
+- *utānāgā* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *utānāgā* \< *anāgāḥ* \< *anāgas*
+- *utānāgā* ← *anāgāḥ* ← *anāgas*
 - \[noun\], nominative, singular, masculine
 - “blameless; impeccant.”
 ------------------------------------------------------------------------
-- *īṣate* \< *īṣ*
+- *īṣate* ← *īṣ*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *vṛṣṇyāvato* \< *vṛṣṇyāvataḥ* \< *vṛṣṇyāvat*
+- *vṛṣṇyāvato* ← *vṛṣṇyāvataḥ* ← *vṛṣṇyāvat*
 - \[noun\], ablative, singular, masculine
 - “bullocky; manly; vigorous.”
 ------------------------------------------------------------------------
@@ -77,17 +77,17 @@ title = "Rig Veda 5.83.2"
 - \[noun\], nominative, singular, masculine
 - “cloud; Parjanya; Indra; nimbus.”
 ------------------------------------------------------------------------
-- *stanayan* \< *stanay* \< *√stan*
+- *stanayan* ← *stanay* ← *√stan*
 - \[verb noun\], nominative, singular
 - “thunder; thunder.”
 ------------------------------------------------------------------------
-- *hanti* \< *han*
+- *hanti* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *duṣkṛtaḥ* \< *duṣkṛt*
+- *duṣkṛtaḥ* ← *duṣkṛt*
 - \[noun\], accusative, plural, masculine
 - “wicked.”
 ------------------------------------------------------------------------

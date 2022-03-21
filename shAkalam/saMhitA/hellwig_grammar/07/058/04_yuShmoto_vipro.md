@@ -2,39 +2,39 @@
 title = "Rig Veda 7.58.4"
 
 +++
--   *yuṣmoto* \< *yuṣmotaḥ* \< *yuṣmota*
+-   *yuṣmoto* ← *yuṣmotaḥ* ← *yuṣmota*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vipro* \< *vipraḥ* \< *vipra*
+- *vipro* ← *vipraḥ* ← *vipra*
 - \[noun\], nominative, singular, masculine
 - “eloquent; stimulated; divine.”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *śatasvī* \< *śatasvin*
+- *śatasvī* ← *śatasvin*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *yuṣmoto* \< *yuṣmotaḥ* \< *yuṣmota*
+- *yuṣmoto* ← *yuṣmotaḥ* ← *yuṣmota*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *arvā* \< *arvan*
+- *arvā* ← *arvan*
 - \[noun\], nominative, singular, masculine
 - “horse; arvan \[word\]; racehorse.”
 ------------------------------------------------------------------------
-- *sahuriḥ* \< *sahuri*
+- *sahuriḥ* ← *sahuri*
 - \[noun\], nominative, singular, masculine
 - “victorious; mighty; strong.”
 ------------------------------------------------------------------------
-- *sahasrī* \< *sahasrin*
+- *sahasrī* ← *sahasrin*
 - \[noun\], nominative, singular, masculine
 - “thousandfold.”
 ------------------------------------------------------------------------
-- *yuṣmotaḥ* \< *yuṣmota*
+- *yuṣmotaḥ* ← *yuṣmota*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *samrāﾱ* \< *samrāj*
+- *samrāﾱ* ← *samrāj*
 - \[noun\], nominative, singular, masculine
 - “sovereign; ruler.”
 ------------------------------------------------------------------------
@@ -42,13 +42,13 @@ title = "Rig Veda 7.58.4"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *hanti* \< *han*
+- *hanti* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *vṛtram* \< *vṛtra*
+- *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, neuter
 - “enemy.”
 ------------------------------------------------------------------------
@@ -56,26 +56,26 @@ title = "Rig Veda 7.58.4"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *dhūtayo* \< *dhūtayaḥ* \< *dhūti*
+- *dhūtayo* ← *dhūtayaḥ* ← *dhūti*
 - \[noun\], vocative, plural, masculine
 - “Marut.”
 ------------------------------------------------------------------------
-- *deṣṇam* \< *deṣṇa*
+- *deṣṇam* ← *deṣṇa*
 - \[noun\], nominative, singular, neuter
 - “gift; giving.”
 ------------------------------------------------------------------------

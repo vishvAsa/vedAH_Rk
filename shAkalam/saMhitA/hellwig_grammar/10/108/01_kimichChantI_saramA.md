@@ -2,11 +2,11 @@
 title = "Rig Veda 10.108.1"
 
 +++
--   *kim* \< *ka*
+-   *kim* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *icchantī* \< *iṣ*
+- *icchantī* ← *iṣ*
 - \[verb noun\], nominative, singular
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
@@ -15,69 +15,69 @@ title = "Rig Veda 10.108.1"
 - \[noun\], nominative, singular, feminine
 - “Saramā.”
 ------------------------------------------------------------------------
-- *predam* \< *pra*
+- *predam* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *predam* \< *idam*
+- *predam* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ānaḍ* \< *ānaṭ* \< *naś*
+- *ānaḍ* ← *ānaṭ* ← *naś*
 - \[verb\], singular, Root aorist (Ind.)
 - “reach; achieve; enter (a state); reach.”
 ------------------------------------------------------------------------
-- *dūre* \< *dūra*
+- *dūre* ← *dūra*
 - \[noun\], locative, singular, neuter
 - “distance; distance; farness.”
 ------------------------------------------------------------------------
-- *hy* \< *hi*
+- *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *adhvā* \< *adhvan*
+- *adhvā* ← *adhvan*
 - \[noun\], nominative, singular, masculine
 - “way; journey; adhvan \[word\]; time; path; method; road; time;
     distance.”
 ------------------------------------------------------------------------
-- *jaguriḥ* \< *jaguri*
+- *jaguriḥ* ← *jaguri*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *parācaiḥ* \< *parācais*
+- *parācaiḥ* ← *parācais*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *kāsmehitiḥ* \< *kā* \< *ka*
+- *kāsmehitiḥ* ← *kā* ← *ka*
 - \[noun\], nominative, singular, feminine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *kāsmehitiḥ* \< *asmehitiḥ* \< *asmehiti*
+- *kāsmehitiḥ* ← *asmehitiḥ* ← *asmehiti*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *kā* \< *ka*
+- *kā* ← *ka*
 - \[noun\], nominative, singular, feminine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *paritakmyāsīt* \< *paritakmyā*
+- *paritakmyāsīt* ← *paritakmyā*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *paritakmyāsīt* \< *āsīt* \< *as*
+- *paritakmyāsīt* ← *āsīt* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *kathaṃ* \< *katham*
+- *kathaṃ* ← *katham*
 - \[adverb\]
 - “how.”
 ------------------------------------------------------------------------
-- *rasāyā* \< *rasāyāḥ* \< *rasā*
+- *rasāyā* ← *rasāyāḥ* ← *rasā*
 - \[noun\], genitive, singular, feminine
 - “Rasā; Earth; Earth.”
 ------------------------------------------------------------------------
-- *ataraḥ* \< *tṛ*
+- *ataraḥ* ← *tṛ*
 - \[verb\], singular, Imperfect
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *payāṃsi* \< *payas*
+- *payāṃsi* ← *payas*
 - \[noun\], accusative, plural, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------

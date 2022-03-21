@@ -2,17 +2,17 @@
 title = "Rig Veda 1.142.9"
 
 +++
--   *śucir* \< *śuciḥ* \< *śuci*
+-   *śucir* ← *śuciḥ* ← *śuci*
 - \[noun\], nominative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *deveṣv* \< *deveṣu* \< *deva*
+- *deveṣv* ← *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *arpitā* \< *arpay*
+- *arpitā* ← *arpay*
 - \[verb noun\], nominative, singular
 - “shoot; give; direct; hide; put; insert.”
 ------------------------------------------------------------------------
@@ -20,7 +20,7 @@ title = "Rig Veda 1.142.9"
 - \[noun\], nominative, singular, feminine
 - “hotrā \[word\]; Hautra.”
 ------------------------------------------------------------------------
-- *marutsu* \< *marut*
+- *marutsu* ← *marut*
 - \[noun\], locative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
@@ -29,7 +29,7 @@ title = "Rig Veda 1.142.9"
 - “statement; language; voice; bhāratī; Sarasvatī; voice; speech;
     word; voice.”
 ------------------------------------------------------------------------
-- *iﾱā* \< *iḍā*
+- *iﾱā* ← *iḍā*
 - \[noun\], nominative, singular, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
 ------------------------------------------------------------------------
@@ -38,20 +38,20 @@ title = "Rig Veda 1.142.9"
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
 ------------------------------------------------------------------------
-- *mahī* \< *mah*
+- *mahī* ← *mah*
 - \[noun\], nominative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *barhiḥ* \< *barhis*
+- *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *sīdantu* \< *sad*
+- *sīdantu* ← *sad*
 - \[verb\], plural, Present imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *yajñiyāḥ* \< *yajñiya*
+- *yajñiyāḥ* ← *yajñiya*
 - \[noun\], nominative, plural, feminine
 - “sacrificial; divine; devoted.”
 ------------------------------------------------------------------------

@@ -7,7 +7,7 @@ title = "Rig Veda 8.82.6"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *śrudhi* \< *śru*
+- *śrudhi* ← *śru*
 - \[verb\], singular, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
@@ -15,23 +15,23 @@ title = "Rig Veda 8.82.6"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *havam* \< *hava*
+- *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sutasya* \< *su*
+- *sutasya* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *gomataḥ* \< *gomat*
+- *gomataḥ* ← *gomat*
 - \[noun\], genitive, singular, masculine
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------
@@ -39,15 +39,15 @@ title = "Rig Veda 8.82.6"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *pītiṃ* \< *pītim* \< *pīti*
+- *pītiṃ* ← *pītim* ← *pīti*
 - \[noun\], accusative, singular, feminine
 - “drinking; haritāla.”
 ------------------------------------------------------------------------
-- *tṛptim* \< *tṛpti*
+- *tṛptim* ← *tṛpti*
 - \[noun\], accusative, singular, feminine
 - “repletion; gratification; disgust.”
 ------------------------------------------------------------------------
-- *aśnuhi* \< *aś*
+- *aśnuhi* ← *aś*
 - \[verb\], singular, Present imperative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------

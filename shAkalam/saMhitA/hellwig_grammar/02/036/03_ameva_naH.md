@@ -2,23 +2,23 @@
 title = "Rig Veda 2.36.3"
 
 +++
--   *ameva* \< *amā*
+-   *ameva* ← *amā*
 - \[adverb\]
 - “at home.”
 ------------------------------------------------------------------------
-- *ameva* \< *iva*
+- *ameva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *suhavā* \< *su*
+- *suhavā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suhavā* \< *havāḥ* \< *hava*
+- *suhavā* ← *havāḥ* ← *hava*
 - \[noun\], vocative, plural, masculine
 - “invocation.”
 ------------------------------------------------------------------------
@@ -30,7 +30,7 @@ title = "Rig Veda 2.36.3"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *gantana* \< *gam*
+- *gantana* ← *gam*
 - \[verb\], plural, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
@@ -41,49 +41,49 @@ title = "Rig Veda 2.36.3"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *barhiṣi* \< *barhis*
+- *barhiṣi* ← *barhis*
 - \[noun\], locative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *sadatanā* \< *sad*
+- *sadatanā* ← *sad*
 - \[verb\], plural, Aorist imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *raṇiṣṭana* \< *ran*
+- *raṇiṣṭana* ← *ran*
 - \[verb\], plural, Aorist inj. (proh.)
 - “rejoice.”
 ------------------------------------------------------------------------
-- *athā* \< *atha*
+- *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *mandasva* \< *mand*
+- *mandasva* ← *mand*
 - \[verb\], singular, Present imperative
 - “rejoice; exhilarate.”
 ------------------------------------------------------------------------
-- *jujuṣāṇo* \< *jujuṣāṇaḥ* \< *juṣ*
+- *jujuṣāṇo* ← *jujuṣāṇaḥ* ← *juṣ*
 - \[verb noun\], nominative, singular
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *andhasas* \< *andhasaḥ* \< *andhas*
+- *andhasas* ← *andhasaḥ* ← *andhas*
 - \[noun\], genitive, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
-- *tvaṣṭar* \< *tvaṣṭṛ*
+- *tvaṣṭar* ← *tvaṣṭṛ*
 - \[noun\], vocative, singular, masculine
 - “Tvaṣṭṛ; Viśvakarman; sun.”
 ------------------------------------------------------------------------
-- *devebhir* \< *devebhiḥ* \< *deva*
+- *devebhir* ← *devebhiḥ* ← *deva*
 - \[noun\], instrumental, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *janibhiḥ* \< *jani*
+- *janibhiḥ* ← *jani*
 - \[noun\], instrumental, plural, feminine
 - “wife; jan; woman; jani \[word\]; birth.”
 ------------------------------------------------------------------------
-- *sumadgaṇaḥ* \< *sumadgaṇa*
+- *sumadgaṇaḥ* ← *sumadgaṇa*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

@@ -2,16 +2,16 @@
 title = "Rig Veda 10.105.7"
 
 +++
--   *vajraṃ* \< *vajram* \< *vajra*
+-   *vajraṃ* ← *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *yaś* \< *yaḥ* \< *yad*
+- *yaś* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *cakre* \< *kṛ*
+- *cakre* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -22,37 +22,37 @@ title = "Rig Veda 10.105.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *suhanāya* \< *su*
+- *suhanāya* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suhanāya* \< *hanāya* \< *hana*
+- *suhanāya* ← *hanāya* ← *hana*
 - \[noun\], dative, singular, masculine
 - “han.”
 ------------------------------------------------------------------------
-- *dasyave* \< *dasyu*
+- *dasyave* ← *dasyu*
 - \[noun\], dative, singular, masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
-- *hirīmaśo* \< *hirīmaśaḥ* \< *hirīmaśa*
+- *hirīmaśo* ← *hirīmaśaḥ* ← *hirīmaśa*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *hirīmān* \< *hirīmat*
+- *hirīmān* ← *hirīmat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *arutahanur* \< *a*
+- *arutahanur* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *arutahanur* \< *ruta* \< *ru*
+- *arutahanur* ← *ruta* ← *ru*
 - \[verb noun\]
 - “break; hurt.”
 ------------------------------------------------------------------------
-- *arutahanur* \< *hanuḥ* \< *hanu*
+- *arutahanur* ← *hanuḥ* ← *hanu*
 - \[noun\], nominative, singular, masculine
 - “jaw.”
 ------------------------------------------------------------------------
-- *adbhutaṃ* \< *adbhutam* \< *adbhuta*
+- *adbhutaṃ* ← *adbhutam* ← *adbhuta*
 - \[noun\], nominative, singular, neuter
 - “extraordinary; amazing; supernatural.”
 ------------------------------------------------------------------------
@@ -60,7 +60,7 @@ title = "Rig Veda 10.105.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *rajaḥ* \< *rajas*
+- *rajaḥ* ← *rajas*
 - \[noun\], nominative, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”

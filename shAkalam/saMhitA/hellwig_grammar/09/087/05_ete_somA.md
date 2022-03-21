@@ -2,11 +2,11 @@
 title = "Rig Veda 9.87.5"
 
 +++
--   *ete* \< *etad*
+-   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *somā* \< *somāḥ* \< *soma*
+- *somā* ← *somāḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -14,45 +14,45 @@ title = "Rig Veda 9.87.5"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *gavyā* \< *gavya*
+- *gavyā* ← *gavya*
 - \[noun\], accusative, plural, neuter
 - “bovine.”
 ------------------------------------------------------------------------
-- *sahasrā* \< *sahasra*
+- *sahasrā* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *mahe* \< *mah*
+- *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *vājāyāmṛtāya* \< *vājāya* \< *vāja*
+- *vājāyāmṛtāya* ← *vājāya* ← *vāja*
 - \[noun\], dative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vājāyāmṛtāya* \< *amṛtāya* \< *amṛta*
+- *vājāyāmṛtāya* ← *amṛtāya* ← *amṛta*
 - \[noun\], dative, singular, neuter
 - “amṛta; immortality; vatsanābha; ambrosia; mercury; medicine;
     vighasa; calcium hydroxide.”
 ------------------------------------------------------------------------
-- *śravāṃsi* \< *śravas*
+- *śravāṃsi* ← *śravas*
 - \[noun\], accusative, plural, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *pavitrebhiḥ* \< *pavitra*
+- *pavitrebhiḥ* ← *pavitra*
 - \[noun\], instrumental, plural, neuter
 - “strainer.”
 ------------------------------------------------------------------------
-- *pavamānā* \< *pavamānāḥ* \< *pū*
+- *pavamānā* ← *pavamānāḥ* ← *pū*
 - \[verb noun\], nominative, plural
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *asṛgrañchravasyavo* \< *asṛgran* \< *sṛj*
+- *asṛgrañchravasyavo* ← *asṛgran* ← *sṛj*
 - \[verb\], plural, Root aorist (Ind.)
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *asṛgrañchravasyavo* \< *śravasyavaḥ* \< *śravasyu*
+- *asṛgrañchravasyavo* ← *śravasyavaḥ* ← *śravasyu*
 - \[noun\], nominative, plural, masculine
 - “celebrated.”
 ------------------------------------------------------------------------
@@ -60,10 +60,10 @@ title = "Rig Veda 9.87.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pṛtanājo* \< *pṛtanājaḥ* \< *pṛtanāj*
+- *pṛtanājo* ← *pṛtanājaḥ* ← *pṛtanāj*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *atyāḥ* \< *atya*
+- *atyāḥ* ← *atya*
 - \[noun\], nominative, plural, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------

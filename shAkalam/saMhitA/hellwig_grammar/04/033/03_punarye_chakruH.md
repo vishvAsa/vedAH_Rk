@@ -7,11 +7,11 @@ title = "Rig Veda 4.33.3"
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *cakruḥ* \< *kṛ*
+- *cakruḥ* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -22,72 +22,72 @@ title = "Rig Veda 4.33.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *pitarā* \< *pitṛ*
+- *pitarā* ← *pitṛ*
 - \[noun\], accusative, dual, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *yuvānā* \< *yuvan*
+- *yuvānā* ← *yuvan*
 - \[noun\], accusative, dual, masculine
 - “young; youthful.”
 ------------------------------------------------------------------------
-- *sanā* \< *sana*
+- *sanā* ← *sana*
 - \[noun\], accusative, dual, masculine
 - “age-old; ancient.”
 ------------------------------------------------------------------------
-- *yūpeva* \< *yūpā* \< *yūpa*
+- *yūpeva* ← *yūpā* ← *yūpa*
 - \[noun\], accusative, dual, masculine
 - “column; stake.”
 ------------------------------------------------------------------------
-- *yūpeva* \< *iva*
+- *yūpeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *jaraṇā* \< *jaraṇa*
+- *jaraṇā* ← *jaraṇa*
 - \[noun\], accusative, dual, masculine
 - “digestive; old.”
 ------------------------------------------------------------------------
-- *śayānā* \< *śī*
+- *śayānā* ← *śī*
 - \[verb noun\], accusative, dual
 - “lie; sleep.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vājo* \< *vājaḥ* \< *vāja*
+- *vājo* ← *vājaḥ* ← *vāja*
 - \[noun\], nominative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vibhvāṃ* \< *vibhvan*
+- *vibhvāṃ* ← *vibhvan*
 - \[noun\], nominative, singular, masculine
 - “Vibhvan.”
 ------------------------------------------------------------------------
-- *ṛbhur* \< *ṛbhuḥ* \< *ṛbhu*
+- *ṛbhur* ← *ṛbhuḥ* ← *ṛbhu*
 - \[noun\], nominative, singular, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
-- *indravanto* \< *indravantaḥ* \< *indravat*
+- *indravanto* ← *indravantaḥ* ← *indravat*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *madhupsaraso* \< *madhu*
+- *madhupsaraso* ← *madhu*
 - \[noun\], neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *madhupsaraso* \< *psarasaḥ* \< *psaras*
+- *madhupsaraso* ← *psarasaḥ* ← *psaras*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *'vantu* \< *avantu* \< *av*
+- *'vantu* ← *avantu* ← *av*
 - \[verb\], plural, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------

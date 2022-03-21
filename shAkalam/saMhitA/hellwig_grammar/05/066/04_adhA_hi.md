@@ -2,7 +2,7 @@
 title = "Rig Veda 5.66.4"
 
 +++
--   *adhā* \< *adha*
+-   *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
@@ -10,23 +10,23 @@ title = "Rig Veda 5.66.4"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *kāvyā* \< *kāvya*
+- *kāvyā* ← *kāvya*
 - \[noun\], accusative, plural, neuter
 - “Uśanas; poem; Kāvya; wisdom.”
 ------------------------------------------------------------------------
-- *yuvaṃ* \< *yuvam* \< *tvad*
+- *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *dakṣasya* \< *dakṣa*
+- *dakṣasya* ← *dakṣa*
 - \[noun\], genitive, singular, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
 ------------------------------------------------------------------------
-- *pūrbhir* \< *pūrbhiḥ* \< *pur*
+- *pūrbhir* ← *pūrbhiḥ* ← *pur*
 - \[noun\], instrumental, plural
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
-- *adbhutā* \< *adbhuta*
+- *adbhutā* ← *adbhuta*
 - \[noun\], vocative, dual, masculine
 - “extraordinary; amazing; supernatural.”
 ------------------------------------------------------------------------
@@ -34,25 +34,25 @@ title = "Rig Veda 5.66.4"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ketunā* \< *ketu*
+- *ketunā* ← *ketu*
 - \[noun\], instrumental, singular, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
 ------------------------------------------------------------------------
-- *janānāṃ* \< *janānām* \< *jana*
+- *janānāṃ* ← *janānām* ← *jana*
 - \[noun\], genitive, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *cikethe* \< *ci*
+- *cikethe* ← *ci*
 - \[verb\], dual, Perfect indicative
 - “observe; detect; notice; heed; mind.”
 ------------------------------------------------------------------------
-- *pūtadakṣasā* \< *pūta* \< *pū*
+- *pūtadakṣasā* ← *pūta* ← *pū*
 - \[verb noun\]
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *pūtadakṣasā* \< *dakṣasā* \< *dakṣas*
+- *pūtadakṣasā* ← *dakṣasā* ← *dakṣas*
 - \[noun\], nominative, dual, masculine
 - “intelligent.”
 ------------------------------------------------------------------------

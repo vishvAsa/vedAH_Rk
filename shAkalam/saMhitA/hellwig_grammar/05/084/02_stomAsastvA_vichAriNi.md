@@ -2,15 +2,15 @@
 title = "Rig Veda 5.84.2"
 
 +++
--   *stomāsas* \< *stomāsaḥ* \< *stoma*
+-   *stomāsas* ← *stomāsaḥ* ← *stoma*
 - \[noun\], nominative, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vicāriṇi* \< *vicārin*
+- *vicāriṇi* ← *vicārin*
 - \[noun\], vocative, singular, feminine
 - “mutable.”
 ------------------------------------------------------------------------
@@ -18,10 +18,10 @@ title = "Rig Veda 5.84.2"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *ṣṭobhanty* \< *stobhanti* \< *stubh*
+- *ṣṭobhanty* ← *stobhanti* ← *stubh*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *aktubhiḥ* \< *aktu*
+- *aktubhiḥ* ← *aktu*
 - \[noun\], instrumental, plural, masculine
 - “night; dark; beam.”
 ------------------------------------------------------------------------
@@ -29,11 +29,11 @@ title = "Rig Veda 5.84.2"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vājaṃ* \< *vājam* \< *vāja*
+- *vājaṃ* ← *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
@@ -41,18 +41,18 @@ title = "Rig Veda 5.84.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *heṣantam* \< *heṣ*
+- *heṣantam* ← *heṣ*
 - \[verb noun\], accusative, singular
 - “neigh.”
 ------------------------------------------------------------------------
-- *perum* \< *peru*
+- *perum* ← *peru*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *asyasy* \< *asyasi* \< *as*
+- *asyasy* ← *asyasi* ← *as*
 - \[verb\], singular, Present indikative
 - “shoot; remove.”
 ------------------------------------------------------------------------
-- *arjuni* \< *arjunī*
+- *arjuni* ← *arjunī*
 - \[noun\], vocative, singular, feminine
 - “cow; Arjunī.”
 ------------------------------------------------------------------------

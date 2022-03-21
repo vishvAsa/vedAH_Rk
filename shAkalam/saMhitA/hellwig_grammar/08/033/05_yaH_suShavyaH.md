@@ -2,67 +2,67 @@
 title = "Rig Veda 8.33.5"
 
 +++
--   *yaḥ* \< *yad*
+-   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *suṣavyaḥ* \< *suṣavya*
+- *suṣavyaḥ* ← *suṣavya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *sudakṣiṇa* \< *su*
+- *sudakṣiṇa* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudakṣiṇa* \< *dakṣiṇaḥ* \< *dakṣiṇa*
+- *sudakṣiṇa* ← *dakṣiṇaḥ* ← *dakṣiṇa*
 - \[noun\], nominative, singular, masculine
 - “southern; right; south; southerly; dakṣiṇa \[word\]; sincere;
     clockwise; deft.”
 ------------------------------------------------------------------------
-- *ino* \< *inaḥ* \< *ina*
+- *ino* ← *inaḥ* ← *ina*
 - \[noun\], nominative, singular, masculine
 - “mighty; powerful.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sukratur* \< *su*
+- *sukratur* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukratur* \< *kratuḥ* \< *kratu*
+- *sukratur* ← *kratuḥ* ← *kratu*
 - \[noun\], nominative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *gṛṇe* \< *gṛ*
+- *gṛṇe* ← *gṛ*
 - \[verb\], singular, Present indikative
 - “praise.”
 ------------------------------------------------------------------------
-- *ya* \< *yaḥ* \< *yad*
+- *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ākaraḥ* \< *ākṛ* \< *√kṛ*
+- *ākaraḥ* ← *ākṛ* ← *√kṛ*
 - \[verb\], singular, Thematic aorist (Ind.)
 ------------------------------------------------------------------------
-- *sahasrā* \< *sahasra*
+- *sahasrā* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *śatāmagha* \< *śatāmaghaḥ* \< *śatāmagha*
+- *śatāmagha* ← *śatāmaghaḥ* ← *śatāmagha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -70,7 +70,7 @@ title = "Rig Veda 8.33.5"
 - \[noun\], nominative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *āritaḥ* \< *ār*
+- *āritaḥ* ← *ār*
 - \[verb noun\], nominative, singular
 - “praise.”
 ------------------------------------------------------------------------

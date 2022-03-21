@@ -2,32 +2,32 @@
 title = "Rig Veda 1.54.2"
 
 +++
--   *arcā* \< *arc*
+-   *arcā* ← *arc*
 - \[verb\], singular, Present imperative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *śakrāya* \< *śakra*
+- *śakrāya* ← *śakra*
 - \[noun\], dative, singular, masculine
 - “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
 ------------------------------------------------------------------------
-- *śākine* \< *śākina*
+- *śākine* ← *śākina*
 - \[noun\], locative, singular, masculine
 - “mighty; strong.”
 ------------------------------------------------------------------------
-- *śacīvate* \< *śacīvat*
+- *śacīvate* ← *śacīvat*
 - \[noun\], dative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *śṛṇvantam* \< *śru*
+- *śṛṇvantam* ← *śru*
 - \[verb noun\], accusative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *mahayann* \< *mahayan* \< *mahay* \< *√mah*
+- *mahayann* ← *mahayan* ← *mahay* ← *√mah*
 - \[verb noun\], nominative, singular
 - “glorify.”
 ------------------------------------------------------------------------
@@ -35,47 +35,47 @@ title = "Rig Veda 1.54.2"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *ṣṭuhi* \< *stu*
+- *ṣṭuhi* ← *stu*
 - \[verb\], singular, Present imperative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dhṛṣṇunā* \< *dhṛṣṇu*
+- *dhṛṣṇunā* ← *dhṛṣṇu*
 - \[noun\], instrumental, singular, neuter
 - “brave; ferocious; strong.”
 ------------------------------------------------------------------------
-- *śavasā* \< *śavas*
+- *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *ubhe* \< *ubh*
+- *ubhe* ← *ubh*
 - \[noun\], accusative, dual, neuter
 - “both(a).”
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣan*
+- *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *vṛṣatvā* \< *vṛṣa* \< *vṛṣan*
+- *vṛṣatvā* ← *vṛṣa* ← *vṛṣan*
 - \[noun\]
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
 ------------------------------------------------------------------------
-- *vṛṣatvā* \< *tvā* \< *tva*
+- *vṛṣatvā* ← *tvā* ← *tva*
 - \[noun\], instrumental, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *vṛṣabho* \< *vṛṣabhaḥ* \< *vṛṣabha*
+- *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *nyṛñjate* \< *nyṛj* \< *√ṛj*
+- *nyṛñjate* ← *nyṛj* ← *√ṛj*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------

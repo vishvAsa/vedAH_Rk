@@ -2,18 +2,18 @@
 title = "Rig Veda 10.38.5"
 
 +++
--   *svavṛjaṃ* \< *svavṛjam* \< *svavṛj*
+-   *svavṛjaṃ* ← *svavṛjam* ← *svavṛj*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *tvām* \< *tvad*
+- *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *aham* \< *mad*
+- *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -22,11 +22,11 @@ title = "Rig Veda 10.38.5"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *śuśravānānudaṃ* \< *śuśrava* \< *śru*
+- *śuśravānānudaṃ* ← *śuśrava* ← *śru*
 - \[verb\], singular, Perfect indicative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *śuśravānānudaṃ* \< *anānudam* \< *anānuda*
+- *śuśravānānudaṃ* ← *anānudam* ← *anānuda*
 - \[noun\], accusative, singular, masculine
 - “firm.”
 ------------------------------------------------------------------------
@@ -34,18 +34,18 @@ title = "Rig Veda 10.38.5"
 - \[noun\], vocative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *radhracodanam* \< *radhra*
+- *radhracodanam* ← *radhra*
 - \[noun\]
 - “obedient; powerless; weak.”
 ------------------------------------------------------------------------
-- *radhracodanam* \< *codanam* \< *codana*
+- *radhracodanam* ← *codanam* ← *codana*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *muñcasva* \< *muc*
+- *muñcasva* ← *muc*
 - \[verb\], singular, Present imperative
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
     fill into; shoot; spill; lose; ejaculate; exclude; free; remove;
@@ -57,19 +57,19 @@ title = "Rig Veda 10.38.5"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *kutsād* \< *kutsāt* \< *kutsa*
+- *kutsād* ← *kutsāt* ← *kutsa*
 - \[noun\], ablative, singular, masculine
 - “Kutsa; kutsa \[word\].”
 ------------------------------------------------------------------------
-- *ihā* \< *iha*
+- *ihā* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *ihā* \< *ā*
+- *ihā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gahi* \< *gam*
+- *gahi* ← *gam*
 - \[verb\], singular, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
@@ -84,14 +84,14 @@ title = "Rig Veda 10.38.5"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tvāvān* \< *tvāvat*
+- *tvāvān* ← *tvāvat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *muṣkayor* \< *muṣkayoḥ* \< *muṣka*
+- *muṣkayor* ← *muṣkayoḥ* ← *muṣka*
 - \[noun\], locative, dual, masculine
 - “scrotum; testis; Schrebera swietenioides Roxb.; muṣka \[word\].”
 ------------------------------------------------------------------------
-- *baddha* \< *baddhaḥ* \< *bandh*
+- *baddha* ← *baddhaḥ* ← *bandh*
 - \[verb noun\], nominative, singular
 - “bandh; tie; envelop; close; dress; wrap; bind; constipate; fixate;
     shape; paralyze; construct; bandage; compress; beset; oblige; strap;
@@ -99,7 +99,7 @@ title = "Rig Veda 10.38.5"
     obstruct; write; restrain; bind; persecute; enclose; ligature; fill
     into; fasten.”
 ------------------------------------------------------------------------
-- *āsate* \< *ās*
+- *āsate* ← *ās*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “sit; stay; sit down; dwell; lie; lie; exist.”
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 1.121.12"
 
 +++
--   *tvam* \< *tvad*
+-   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -11,88 +11,88 @@ title = "Rig Veda 1.121.12"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *naryo* \< *naryaḥ* \< *narya*
+- *naryo* ← *naryaḥ* ← *narya*
 - \[noun\], nominative, singular, masculine
 - “manly; heroic; powerful; male; human.”
 ------------------------------------------------------------------------
-- *yāṃ* \< *yad*
+- *yāṃ* ← *yad*
 - \[noun\], accusative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *avo* \< *avaḥ* \< *avas*
+- *avo* ← *avaḥ* ← *avas*
 - \[noun\], accusative, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *nṝn* \< *nṛ*
+- *nṝn* ← *nṛ*
 - \[noun\], accusative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *tiṣṭhā* \< *tiṣṭhāḥ* \< *sthā*
+- *tiṣṭhā* ← *tiṣṭhāḥ* ← *sthā*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *vātasya* \< *vāta*
+- *vātasya* ← *vāta*
 - \[noun\], genitive, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *suyujo* \< *su*
+- *suyujo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suyujo* \< *yujaḥ* \< *yuj*
+- *suyujo* ← *yujaḥ* ← *yuj*
 - \[noun\], accusative, plural, masculine
 - “ally; friend; pair; two; companion.”
 ------------------------------------------------------------------------
-- *vahiṣṭhān* \< *vahiṣṭha*
+- *vahiṣṭhān* ← *vahiṣṭha*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *kāvya* \< *kāvyaḥ* \< *kāvya*
+- *kāvya* ← *kāvyaḥ* ← *kāvya*
 - \[noun\], nominative, singular, masculine
 - “Uśanas; poem; Kāvya; wisdom.”
 ------------------------------------------------------------------------
-- *uśanā* \< *uśanāḥ* \< *uśanas*
+- *uśanā* ← *uśanāḥ* ← *uśanas*
 - \[noun\], nominative, singular, masculine
 - “Uśanas; Uśanas; uśanas \[word\]; Uśanas; Venus.”
 ------------------------------------------------------------------------
-- *mandinaṃ* \< *mandinam* \< *mandin*
+- *mandinaṃ* ← *mandinam* ← *mandin*
 - \[noun\], accusative, singular, masculine
 - “intoxicant; exhilarating.”
 ------------------------------------------------------------------------
-- *dād* \< *dāt* \< *dā*
+- *dād* ← *dāt* ← *dā*
 - \[verb\], singular, Aorist conj./subj.
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *vṛtrahaṇam* \< *vṛtra*
+- *vṛtrahaṇam* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *vṛtrahaṇam* \< *haṇam* \< *han*
+- *vṛtrahaṇam* ← *haṇam* ← *han*
 - \[noun\], accusative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
-- *pāryaṃ* \< *pāryam* \< *pārya*
+- *pāryaṃ* ← *pāryam* ← *pārya*
 - \[noun\], accusative, singular, masculine
 - “critical; decisive.”
 ------------------------------------------------------------------------
-- *tatakṣa* \< *takṣ*
+- *tatakṣa* ← *takṣ*
 - \[verb\], singular, Perfect indicative
 - “produce; shape; fashion; chisel; invent.”
 ------------------------------------------------------------------------
-- *vajram* \< *vajra*
+- *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”

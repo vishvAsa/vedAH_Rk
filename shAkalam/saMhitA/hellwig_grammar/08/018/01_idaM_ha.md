@@ -2,7 +2,7 @@
 title = "Rig Veda 8.18.1"
 
 +++
--   *idaṃ* \< *idam*
+-   *idaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -14,31 +14,31 @@ title = "Rig Veda 8.18.1"
 - \[adverb\]
 - “now; surely; immediately; just.”
 ------------------------------------------------------------------------
-- *eṣāṃ* \< *eṣām* \< *idam*
+- *eṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *sumnam* \< *sumna*
+- *sumnam* ← *sumna*
 - \[noun\], accusative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
-- *bhikṣeta* \< *bhikṣ* \< *√bhaj*
+- *bhikṣeta* ← *bhikṣ* ← *√bhaj*
 - \[verb\], singular, Present optative
 - “beg; beg.”
 ------------------------------------------------------------------------
-- *martyaḥ* \< *martya*
+- *martyaḥ* ← *martya*
 - \[noun\], nominative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------
-- *ādityānām* \< *āditya*
+- *ādityānām* ← *āditya*
 - \[noun\], genitive, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
-- *apūrvyaṃ* \< *apūrvyam* \< *apūrvya*
+- *apūrvyaṃ* ← *apūrvyam* ← *apūrvya*
 - \[noun\], accusative, singular, neuter
 - “incomparable.”
 ------------------------------------------------------------------------
-- *savīmani* \< *savīman*
+- *savīmani* ← *savīman*
 - \[noun\], locative, singular, neuter
 - “impulse.”
 ------------------------------------------------------------------------

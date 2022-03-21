@@ -2,18 +2,18 @@
 title = "Rig Veda 1.133.5"
 
 +++
--   *piśaṅgabhṛṣṭim* \< *piśaṅga*
+-   *piśaṅgabhṛṣṭim* ← *piśaṅga*
 - \[noun\]
 - “tawny; red; brown.”
 ------------------------------------------------------------------------
-- *piśaṅgabhṛṣṭim* \< *bhṛṣṭim* \< *bhṛṣṭi*
+- *piśaṅgabhṛṣṭim* ← *bhṛṣṭim* ← *bhṛṣṭi*
 - \[noun\], accusative, singular, masculine
 - “spike.”
 ------------------------------------------------------------------------
-- *ambhṛṇam* \< *ambhṛṇa*
+- *ambhṛṇam* ← *ambhṛṇa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *piśācim* \< *piśāci*
+- *piśācim* ← *piśāci*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *indra*
@@ -25,17 +25,17 @@ title = "Rig Veda 1.133.5"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *mṛṇa* \< *mṛṇ*
+- *mṛṇa* ← *mṛṇ*
 - \[verb\], singular, Present imperative
 - “kill; crush.”
 ------------------------------------------------------------------------
-- *sarvaṃ* \< *sarvam* \< *sarva*
+- *sarvaṃ* ← *sarvam* ← *sarva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
 ------------------------------------------------------------------------
-- *rakṣo* \< *rakṣaḥ* \< *rakṣas*
+- *rakṣo* ← *rakṣaḥ* ← *rakṣas*
 - \[noun\], accusative, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
 ------------------------------------------------------------------------
@@ -43,6 +43,6 @@ title = "Rig Veda 1.133.5"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *barhaya* \< *barhay* \< *√bṛṃh*
+- *barhaya* ← *barhay* ← *√bṛṃh*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------

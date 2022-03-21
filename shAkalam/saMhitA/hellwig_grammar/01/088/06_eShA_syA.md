@@ -2,33 +2,33 @@
 title = "Rig Veda 1.88.6"
 
 +++
--   *eṣā* \< *etad*
+-   *eṣā* ← *etad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *syā* \< *tya*
+- *syā* ← *tya*
 - \[noun\], nominative, singular, feminine
 - “that.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *'nubhartrī* \< *anubhartrī* \< *anubhartṛ*
+- *'nubhartrī* ← *anubhartrī* ← *anubhartṛ*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *ṣṭobhati* \< *stubh*
+- *ṣṭobhati* ← *stubh*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *vāghato* \< *vāghataḥ* \< *vāghant*
+- *vāghato* ← *vāghataḥ* ← *vāghant*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
 - *na*
@@ -39,14 +39,14 @@ title = "Rig Veda 1.88.6"
 - \[noun\], nominative, singular, feminine
 - “voice; Sarasvati; words; language.”
 ------------------------------------------------------------------------
-- *astobhayad* \< *astobhayat* \< *stobhay* \< *√stubh*
+- *astobhayad* ← *astobhayat* ← *stobhay* ← *√stubh*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *vṛthāsām* \< *vṛthā*
+- *vṛthāsām* ← *vṛthā*
 - \[adverb\]
 - “vainly; incorrectly; unnecessarily; at will.”
 ------------------------------------------------------------------------
-- *vṛthāsām* \< *āsām* \< *idam*
+- *vṛthāsām* ← *āsām* ← *idam*
 - \[noun\], genitive, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -54,12 +54,12 @@ title = "Rig Veda 1.88.6"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *svadhāṃ* \< *svadhām* \< *svadhā*
+- *svadhāṃ* ← *svadhām* ← *svadhā*
 - \[noun\], accusative, singular, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
 ------------------------------------------------------------------------
-- *gabhastyoḥ* \< *gabhasti*
+- *gabhastyoḥ* ← *gabhasti*
 - \[noun\], genitive, dual, masculine
 - “beam; hand; sun.”
 ------------------------------------------------------------------------

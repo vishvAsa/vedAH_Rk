@@ -2,15 +2,15 @@
 title = "Rig Veda 1.92.3"
 
 +++
--   *arcanti* \< *arc*
+-   *arcanti* ← *arc*
 - \[verb\], plural, Present indikative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *nārīr* \< *nārīḥ* \< *nārī*
+- *nārīr* ← *nārīḥ* ← *nārī*
 - \[noun\], nominative, plural, feminine
 - “woman; wife; female.”
 ------------------------------------------------------------------------
-- *apaso* \< *apasaḥ* \< *apas*
+- *apaso* ← *apasaḥ* ← *apas*
 - \[noun\], nominative, plural, feminine
 - “busy; effective; hardworking.”
 ------------------------------------------------------------------------
@@ -18,67 +18,67 @@ title = "Rig Veda 1.92.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *viṣṭibhiḥ* \< *viṣṭi*
+- *viṣṭibhiḥ* ← *viṣṭi*
 - \[noun\], instrumental, plural, feminine
 - “labor.”
 ------------------------------------------------------------------------
-- *samānena* \< *samāna*
+- *samānena* ← *samāna*
 - \[noun\], instrumental, singular, neuter
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
 ------------------------------------------------------------------------
-- *yojanenā* \< *yojanena* \< *yojana*
+- *yojanenā* ← *yojanena* ← *yojana*
 - \[noun\], instrumental, singular, neuter
 - “yojana; use; yojana \[word\]; team.”
 ------------------------------------------------------------------------
-- *yojanenā* \< *ā*
+- *yojanenā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *parāvataḥ* \< *parāvat*
+- *parāvataḥ* ← *parāvat*
 - \[noun\], ablative, singular, feminine
 - “distance; distance; distance.”
 ------------------------------------------------------------------------
-- *iṣaṃ* \< *iṣam* \< *iṣ*
+- *iṣaṃ* ← *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *vahantīḥ* \< *vah*
+- *vahantīḥ* ← *vah*
 - \[verb noun\], nominative, plural
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *sukṛte* \< *su*
+- *sukṛte* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukṛte* \< *kṛte* \< *kṛt*
+- *sukṛte* ← *kṛte* ← *kṛt*
 - \[noun\], dative, singular, masculine
 - “causing; making; performing; promotive; producing; doing; acting;
     writing; transforming; effecting.”
 ------------------------------------------------------------------------
-- *sudānave* \< *sudānu*
+- *sudānave* ← *sudānu*
 - \[noun\], dative, singular, masculine
 - “big; lavish.”
 ------------------------------------------------------------------------
-- *viśved* \< *viśvā* \< *viśva*
+- *viśved* ← *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśved* \< *id*
+- *viśved* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *aha* \< *ahar*
+- *aha* ← *ahar*
 - \[noun\], accusative, plural, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *yajamānāya* \< *yaj*
+- *yajamānāya* ← *yaj*
 - \[verb noun\], dative, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *sunvate* \< *su*
+- *sunvate* ← *su*
 - \[verb noun\], dative, singular
 - “press out; su.”
 ------------------------------------------------------------------------

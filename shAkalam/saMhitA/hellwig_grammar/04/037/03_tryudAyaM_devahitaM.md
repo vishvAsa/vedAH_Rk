@@ -2,19 +2,19 @@
 title = "Rig Veda 4.37.3"
 
 +++
--   *tryudāyaṃ* \< *tri*
+-   *tryudāyaṃ* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *tryudāyaṃ* \< *udāyam* \< *udāya*
+- *tryudāyaṃ* ← *udāyam* ← *udāya*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *devahitaṃ* \< *deva*
+- *devahitaṃ* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devahitaṃ* \< *hitam* \< *dhā*
+- *devahitaṃ* ← *hitam* ← *dhā*
 - \[verb noun\], nominative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
@@ -23,49 +23,49 @@ title = "Rig Veda 4.37.3"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *stomo* \< *stomaḥ* \< *stoma*
+- *stomo* ← *stomaḥ* ← *stoma*
 - \[noun\], nominative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *vājā* \< *vājāḥ* \< *vāja*
+- *vājā* ← *vājāḥ* ← *vāja*
 - \[noun\], vocative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *ṛbhukṣaṇo* \< *ṛbhukṣaṇaḥ* \< *ṛbhukṣan*
+- *ṛbhukṣaṇo* ← *ṛbhukṣaṇaḥ* ← *ṛbhukṣan*
 - \[noun\], vocative, plural, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *dade* \< *dā*
+- *dade* ← *dā*
 - \[verb\], singular, Perfect indicative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *juhve* \< *hu*
+- *juhve* ← *hu*
 - \[verb\], singular, Present indikative
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
-- *manuṣvad* \< *manuṣvat*
+- *manuṣvad* ← *manuṣvat*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *uparāsu* \< *upara*
+- *uparāsu* ← *upara*
 - \[noun\], locative, plural, feminine
 - “later(a); future(a); nether.”
 ------------------------------------------------------------------------
-- *vikṣu* \< *viś*
+- *vikṣu* ← *viś*
 - \[noun\], locative, plural
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *yuṣme* \< *tvad*
+- *yuṣme* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
@@ -73,16 +73,16 @@ title = "Rig Veda 4.37.3"
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *bṛhaddiveṣu* \< *bṛhat*
+- *bṛhaddiveṣu* ← *bṛhat*
 - \[noun\]
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *bṛhaddiveṣu* \< *diveṣu* \< *diva*
+- *bṛhaddiveṣu* ← *diveṣu* ← *diva*
 - \[noun\], locative, plural, masculine
 - “day; sky; Svarga.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------

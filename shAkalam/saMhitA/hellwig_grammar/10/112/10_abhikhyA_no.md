@@ -2,11 +2,11 @@
 title = "Rig Veda 10.112.10"
 
 +++
--   *abhikhyā* \< *\_* \< *√\_*
+-   *abhikhyā* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -14,33 +14,33 @@ title = "Rig Veda 10.112.10"
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *nādhamānān* \< *nādh*
+- *nādhamānān* ← *nādh*
 - \[verb noun\], accusative, plural
 - “suffer.”
 ------------------------------------------------------------------------
-- *sakhe* \< *sakhi*
+- *sakhe* ← *sakhi*
 - \[noun\], vocative, singular
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *bodhi* \< *bhū*
+- *bodhi* ← *bhū*
 - \[verb\], singular, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *vasupate* \< *vasupati*
+- *vasupate* ← *vasupati*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *sakhīnām* \< *sakhi*
+- *sakhīnām* ← *sakhi*
 - \[noun\], genitive, plural
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *raṇaṃ* \< *raṇam* \< *raṇa*
+- *raṇaṃ* ← *raṇam* ← *raṇa*
 - \[noun\], accusative, singular, masculine
 - “battle; fight; pleasure; joy; war; combat.”
 ------------------------------------------------------------------------
-- *kṛdhi* \< *kṛ*
+- *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -51,32 +51,32 @@ title = "Rig Veda 10.112.10"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *raṇakṛt* \< *raṇa*
+- *raṇakṛt* ← *raṇa*
 - \[noun\], masculine
 - “battle; fight; pleasure; joy; war; combat.”
 ------------------------------------------------------------------------
-- *raṇakṛt* \< *kṛt*
+- *raṇakṛt* ← *kṛt*
 - \[noun\], nominative, singular, masculine
 - “causing; making; performing; promotive; producing; doing; acting;
     writing; transforming; effecting.”
 ------------------------------------------------------------------------
-- *satyaśuṣmābhakte* \< *satya*
+- *satyaśuṣmābhakte* ← *satya*
 - \[noun\]
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *satyaśuṣmābhakte* \< *śuṣma*
+- *satyaśuṣmābhakte* ← *śuṣma*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *satyaśuṣmābhakte* \< *a*
+- *satyaśuṣmābhakte* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *satyaśuṣmābhakte* \< *bhakte* \< *bhaj*
+- *satyaśuṣmābhakte* ← *bhakte* ← *bhaj*
 - \[verb noun\], locative, singular
 - “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
     one's share; partake; share; get; approach; love; use.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -84,16 +84,16 @@ title = "Rig Veda 10.112.10"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *bhajā* \< *bhaja* \< *bhaj*
+- *bhajā* ← *bhaja* ← *bhaj*
 - \[verb\], singular, Present imperative
 - “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
     one's share; partake; share; get; approach; love; use.”
 ------------------------------------------------------------------------
-- *rāye* \< *rai*
+- *rāye* ← *rai*
 - \[noun\], dative, singular
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *asmān* \< *mad*
+- *asmān* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

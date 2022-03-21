@@ -2,15 +2,15 @@
 title = "Rig Veda 2.14.7"
 
 +++
--   *adhvaryavo* \< *adhvaryavaḥ* \< *adhvaryu*
+-   *adhvaryavo* ← *adhvaryavaḥ* ← *adhvaryu*
 - \[noun\], vocative, plural, masculine
 - “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *śatam* \< *śata*
+- *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
@@ -18,62 +18,62 @@ title = "Rig Veda 2.14.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sahasram* \< *sahasra*
+- *sahasram* ← *sahasra*
 - \[noun\], accusative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *bhūmyā* \< *bhūmyāḥ* \< *bhūmi*
+- *bhūmyā* ← *bhūmyāḥ* ← *bhūmi*
 - \[noun\], genitive, singular, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
     Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
     distance; country; space; land; territory; topographic point.”
 ------------------------------------------------------------------------
-- *upasthe* \< *upastha*
+- *upasthe* ← *upastha*
 - \[noun\], locative, singular, masculine
 - “genitalia; lap; sexual desire; anus.”
 ------------------------------------------------------------------------
-- *'vapaj* \< *avapat* \< *vap*
+- *'vapaj* ← *avapat* ← *vap*
 - \[verb\], singular, Imperfect
 - “sow; bestrew; strew; scatter.”
 ------------------------------------------------------------------------
-- *jaghanvān* \< *han*
+- *jaghanvān* ← *han*
 - \[verb noun\], nominative, singular
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *kutsasyāyor* \< *kutsasya* \< *kutsa*
+- *kutsasyāyor* ← *kutsasya* ← *kutsa*
 - \[noun\], genitive, singular, masculine
 - “Kutsa; kutsa \[word\].”
 ------------------------------------------------------------------------
-- *kutsasyāyor* \< *āyoḥ* \< *āyu*
+- *kutsasyāyor* ← *āyoḥ* ← *āyu*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *atithigvasya* \< *atithigva*
+- *atithigvasya* ← *atithigva*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *vīrān* \< *vīra*
+- *vīrān* ← *vīra*
 - \[noun\], accusative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *āvṛṇag* \< *āvṛṇak* \< *āvṛj* \< *√vṛj*
+- *āvṛṇag* ← *āvṛṇak* ← *āvṛj* ← *√vṛj*
 - \[verb\], singular, Imperfect
 - “appropriate; accord.”
 ------------------------------------------------------------------------
-- *bharatā* \< *bhṛ*
+- *bharatā* ← *bhṛ*
 - \[verb\], plural, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *asmai* \< *idam*
+- *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------

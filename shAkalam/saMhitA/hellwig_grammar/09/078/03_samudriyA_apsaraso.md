@@ -2,19 +2,19 @@
 title = "Rig Veda 9.78.3"
 
 +++
--   *samudriyā* \< *samudriyāḥ* \< *samudriya*
+-   *samudriyā* ← *samudriyāḥ* ← *samudriya*
 - \[noun\], nominative, plural, feminine
 - “oceanic; oceanic.”
 ------------------------------------------------------------------------
-- *apsaraso* \< *apsarasaḥ* \< *apsaras*
+- *apsaraso* ← *apsarasaḥ* ← *apsaras*
 - \[noun\], nominative, plural, feminine
 - “Apsaras.”
 ------------------------------------------------------------------------
-- *manīṣiṇam* \< *manīṣin*
+- *manīṣiṇam* ← *manīṣin*
 - \[noun\], accusative, singular, masculine
 - “sage; expert; devout.”
 ------------------------------------------------------------------------
-- *āsīnā* \< *āsīnāḥ* \< *ās*
+- *āsīnā* ← *āsīnāḥ* ← *ās*
 - \[verb noun\], nominative, plural
 - “sit; stay; sit down; dwell; lie; lie; exist.”
 ------------------------------------------------------------------------
@@ -26,47 +26,47 @@ title = "Rig Veda 9.78.3"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *akṣaran* \< *kṣar*
+- *akṣaran* ← *kṣar*
 - \[verb\], plural, Root aorist (Ind.)
 - “run; melt.”
 ------------------------------------------------------------------------
-- *tā* \< *tāḥ* \< *tad*
+- *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *īṃ* \< *īm* \< *īṃ*
+- *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *hinvanti* \< *hi*
+- *hinvanti* ← *hi*
 - \[verb\], plural, Present indikative
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
-- *harmyasya* \< *harmya*
+- *harmyasya* ← *harmya*
 - \[noun\], genitive, singular, neuter
 - “mansion; house; palace.”
 ------------------------------------------------------------------------
-- *sakṣaṇiṃ* \< *sakṣaṇim* \< *sakṣaṇi*
+- *sakṣaṇiṃ* ← *sakṣaṇim* ← *sakṣaṇi*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *yācante* \< *yāc*
+- *yācante* ← *yāc*
 - \[verb\], plural, Present indikative
 - “beg; ask; offer; ask.”
 ------------------------------------------------------------------------
-- *sumnam* \< *sumna*
+- *sumnam* ← *sumna*
 - \[noun\], accusative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
-- *pavamānam* \< *pū*
+- *pavamānam* ← *pū*
 - \[verb noun\], accusative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *akṣitam* \< *akṣita*
+- *akṣitam* ← *akṣita*
 - \[noun\], accusative, singular, neuter
 - “undecaying; uninjured.”
 ------------------------------------------------------------------------

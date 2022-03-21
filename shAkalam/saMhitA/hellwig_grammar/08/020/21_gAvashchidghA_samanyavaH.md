@@ -2,47 +2,47 @@
 title = "Rig Veda 8.20.21"
 
 +++
--   *gāvaś* \< *gāvaḥ* \< *go*
+-   *gāvaś* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ghā* \< *gha*
+- *ghā* ← *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *samanyavaḥ* \< *samanyu*
+- *samanyavaḥ* ← *samanyu*
 - \[noun\], nominative, plural, masculine
 - “consentaneous.”
 ------------------------------------------------------------------------
-- *sajātyena* \< *sajātya*
+- *sajātyena* ← *sajātya*
 - \[noun\], instrumental, singular, neuter
 - “relatedness.”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *sabandhavaḥ* \< *sa*
+- *sabandhavaḥ* ← *sa*
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *sabandhavaḥ* \< *bandhavaḥ* \< *bandhu*
+- *sabandhavaḥ* ← *bandhavaḥ* ← *bandhu*
 - \[noun\], nominative, plural, masculine
 - “relative; bandhu \[word\]; association; friend; kin.”
 ------------------------------------------------------------------------
-- *rihate* \< *rih*
+- *rihate* ← *rih*
 - \[verb\], plural, Present indikative
 - “lick.”
 ------------------------------------------------------------------------
-- *kakubho* \< *kakubhaḥ* \< *kakubh*
+- *kakubho* ← *kakubhaḥ* ← *kakubh*
 - \[noun\], accusative, plural, feminine
 - “Kakubh; peak; bulge.”
 ------------------------------------------------------------------------
-- *mithaḥ* \< *mithas*
+- *mithaḥ* ← *mithas*
 - \[adverb\]
 - “together; mutually; alternately.”
 ------------------------------------------------------------------------

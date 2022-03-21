@@ -6,15 +6,15 @@ title = "Rig Veda 8.6.34"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *kaṇvā* \< *kaṇvāḥ* \< *kaṇva*
+- *kaṇvā* ← *kaṇvāḥ* ← *kaṇva*
 - \[noun\], nominative, plural, masculine
 - “Kaṇva; Kaṇva; kaṇva \[word\].”
 ------------------------------------------------------------------------
-- *anūṣatāpo* \< *anūṣata* \< *nū*
+- *anūṣatāpo* ← *anūṣata* ← *nū*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “praise; shout.”
 ------------------------------------------------------------------------
-- *anūṣatāpo* \< *āpaḥ* \< *ap*
+- *anūṣatāpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -22,23 +22,23 @@ title = "Rig Veda 8.6.34"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pravatā* \< *pravat*
+- *pravatā* ← *pravat*
 - \[noun\], instrumental, singular, feminine
 - “slope; river.”
 ------------------------------------------------------------------------
-- *yatīḥ* \< *i*
+- *yatīḥ* ← *i*
 - \[verb noun\], nominative, plural
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vananvatī* \< *vananvat*
+- *vananvatī* ← *vananvat*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *matiḥ* \< *mati*
+- *matiḥ* ← *mati*
 - \[noun\], nominative, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”

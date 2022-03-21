@@ -6,73 +6,73 @@ title = "Rig Veda 6.49.15"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rayiṃ* \< *rayim* \< *rayi*
+- *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *rathyaṃ* \< *rathyam* \< *rathya*
+- *rathyaṃ* ← *rathyam* ← *rathya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *carṣaṇiprām* \< *carṣaṇi*
+- *carṣaṇiprām* ← *carṣaṇi*
 - \[noun\], feminine
 - “people.”
 ------------------------------------------------------------------------
-- *carṣaṇiprām* \< *prām* \< *prā*
+- *carṣaṇiprām* ← *prām* ← *prā*
 - \[noun\], accusative, singular, masculine
 - “appreciated.”
 ------------------------------------------------------------------------
-- *puruvīram* \< *puru*
+- *puruvīram* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *puruvīram* \< *vīram* \< *vīra*
+- *puruvīram* ← *vīram* ← *vīra*
 - \[noun\], accusative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *maha* \< *mahaḥ* \< *mah*
+- *maha* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *gopām* \< *gopā*
+- *gopām* ← *gopā*
 - \[noun\], accusative, singular, masculine
 - “herder; defender.”
 ------------------------------------------------------------------------
-- *kṣayaṃ* \< *kṣayam* \< *kṣaya*
+- *kṣayaṃ* ← *kṣayam* ← *kṣaya*
 - \[noun\], accusative, singular, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
 ------------------------------------------------------------------------
-- *dātājaraṃ* \< *dāta* \< *dā*
+- *dātājaraṃ* ← *dāta* ← *dā*
 - \[verb\], plural, Aorist imperative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *dātājaraṃ* \< *ajaram* \< *ajara*
+- *dātājaraṃ* ← *ajaram* ← *ajara*
 - \[noun\], accusative, singular, masculine
 - “undecaying; ageless.”
 ------------------------------------------------------------------------
-- *yena* \< *yad*
+- *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *janān* \< *jana*
+- *janān* ← *jana*
 - \[noun\], accusative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *spṛdho* \< *spṛdhaḥ* \< *spṛdh*
+- *spṛdho* ← *spṛdhaḥ* ← *spṛdh*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *adevīr* \< *adevīḥ* \< *adeva*
+- *adevīr* ← *adevīḥ* ← *adeva*
 - \[noun\], accusative, plural, feminine
 - “godless.”
 ------------------------------------------------------------------------
@@ -84,22 +84,22 @@ title = "Rig Veda 6.49.15"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *kramāma* \< *kram*
+- *kramāma* ← *kram*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “kram; step; go; continue; proceed; traverse; heat.”
 ------------------------------------------------------------------------
-- *viśa* \< *viśaḥ* \< *viś*
+- *viśa* ← *viśaḥ* ← *viś*
 - \[noun\], accusative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *ādevīr* \< *ādevīḥ* \< *ādeva*
+- *ādevīr* ← *ādevīḥ* ← *ādeva*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *abhy* \< *abhī* \< *abhi*
+- *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *aśnavāma* \< *aś*
+- *aśnavāma* ← *aś*
 - \[verb\], plural, Present imperative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------

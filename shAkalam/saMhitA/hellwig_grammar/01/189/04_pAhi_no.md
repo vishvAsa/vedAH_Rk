@@ -2,25 +2,25 @@
 title = "Rig Veda 1.189.4"
 
 +++
--   *pāhi* \< *pā*
+-   *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *pāyubhir* \< *pāyubhiḥ* \< *pāyu*
+- *pāyubhir* ← *pāyubhiḥ* ← *pāyu*
 - \[noun\], instrumental, plural, masculine
 - “guard; pāyu \[word\]; Pāyu.”
 ------------------------------------------------------------------------
-- *ajasrair* \< *ajasraiḥ* \< *ajasra*
+- *ajasrair* ← *ajasraiḥ* ← *ajasra*
 - \[noun\], instrumental, plural, masculine
 - “ceaseless; ageless; incessant.”
 ------------------------------------------------------------------------
@@ -28,12 +28,12 @@ title = "Rig Veda 1.189.4"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *priye* \< *priya*
+- *priye* ← *priya*
 - \[noun\], locative, singular, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *sadana* \< *sadane* \< *sadana*
+- *sadana* ← *sadane* ← *sadana*
 - \[noun\], locative, singular, neuter
 - “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
     residence; seat; inanition; location.”
@@ -42,7 +42,7 @@ title = "Rig Veda 1.189.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *śuśukvān* \< *śuc*
+- *śuśukvān* ← *śuc*
 - \[verb noun\], nominative, singular
 - “mourn; grieve; flame; glow; burn; repent.”
 ------------------------------------------------------------------------
@@ -50,16 +50,16 @@ title = "Rig Veda 1.189.4"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *bhayaṃ* \< *bhayam* \< *bhaya*
+- *bhayaṃ* ← *bhayam* ← *bhaya*
 - \[noun\], nominative, singular, neuter
 - “fear; danger; danger; bhaya \[word\]; distress; apprehension;
     alarm; apprehension.”
 ------------------------------------------------------------------------
-- *jaritāraṃ* \< *jaritāram* \< *jaritṛ*
+- *jaritāraṃ* ← *jaritāram* ← *jaritṛ*
 - \[noun\], accusative, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------
@@ -67,24 +67,24 @@ title = "Rig Veda 1.189.4"
 - \[noun\], vocative, singular, masculine
 - “youngest.”
 ------------------------------------------------------------------------
-- *nūnaṃ* \< *nūnam*
+- *nūnaṃ* ← *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
 ------------------------------------------------------------------------
-- *vidan* \< *vidat* \< *vid*
+- *vidan* ← *vidat* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *māparaṃ* \< *mā*
+- *māparaṃ* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *māparaṃ* \< *aparam* \< *apara*
+- *māparaṃ* ← *aparam* ← *apara*
 - \[noun\], accusative, singular, neuter
 - “other; another(a); following; western; future; apara \[word\];
     elder; remaining; some(a); later(a); back(a).”
 ------------------------------------------------------------------------
-- *sahasvaḥ* \< *sahasvas* \< *sahasvat*
+- *sahasvaḥ* ← *sahasvas* ← *sahasvat*
 - \[noun\], vocative, singular, masculine
 - “mighty; powerful.”
 ------------------------------------------------------------------------

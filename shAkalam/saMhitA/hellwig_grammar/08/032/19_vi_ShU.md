@@ -6,17 +6,17 @@ title = "Rig Veda 8.32.19"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ṣū* \< *su*
+- *ṣū* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *cara* \< *car*
+- *cara* ← *car*
 - \[verb\], singular, Present imperative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *svadhā* \< *svadhāḥ* \< *svadhā*
+- *svadhā* ← *svadhāḥ* ← *svadhā*
 - \[noun\], accusative, plural, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
@@ -25,15 +25,15 @@ title = "Rig Veda 8.32.19"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *kṛṣṭīnām* \< *kṛṣṭi*
+- *kṛṣṭīnām* ← *kṛṣṭi*
 - \[noun\], genitive, plural, feminine
 - “people; citizenry.”
 ------------------------------------------------------------------------
-- *anv* \< *anu*
+- *anv* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *āhuvaḥ* \< *āhū*
+- *āhuvaḥ* ← *āhū*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
 - *indra*
@@ -41,11 +41,11 @@ title = "Rig Veda 8.32.19"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *piba* \< *pā*
+- *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *sutānām* \< *suta*
+- *sutānām* ← *suta*
 - \[noun\], genitive, plural, masculine
 - “Soma.”
 ------------------------------------------------------------------------

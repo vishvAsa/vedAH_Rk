@@ -2,34 +2,34 @@
 title = "Rig Veda 1.74.2"
 
 +++
--   *yaḥ* \< *yad*
+-   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *snīhitīṣu* \< *snīhiti*
+- *snīhitīṣu* ← *snīhiti*
 - \[noun\], locative, plural, feminine
 ------------------------------------------------------------------------
-- *pūrvyaḥ* \< *pūrvya*
+- *pūrvyaḥ* ← *pūrvya*
 - \[noun\], nominative, singular, masculine
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------
-- *saṃjagmānāsu* \< *saṃgam* \< *√gam*
+- *saṃjagmānāsu* ← *saṃgam* ← *√gam*
 - \[verb noun\], locative, plural
 - “meet; unite; love; connect; exist; land; justify.”
 ------------------------------------------------------------------------
-- *kṛṣṭiṣu* \< *kṛṣṭi*
+- *kṛṣṭiṣu* ← *kṛṣṭi*
 - \[noun\], locative, plural, feminine
 - “people; citizenry.”
 ------------------------------------------------------------------------
-- *arakṣad* \< *arakṣat* \< *rakṣ*
+- *arakṣad* ← *arakṣat* ← *rakṣ*
 - \[verb\], singular, Imperfect
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *gayam* \< *gaya*
+- *gayam* ← *gaya*
 - \[noun\], accusative, singular, masculine
 - “house; Gaya; family; Gaya; property; Gaya; wealth; livestock.”
 ------------------------------------------------------------------------

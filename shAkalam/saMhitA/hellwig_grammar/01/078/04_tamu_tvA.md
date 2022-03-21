@@ -2,7 +2,7 @@
 title = "Rig Veda 1.78.4"
 
 +++
--   *tam* \< *tad*
+-   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -12,31 +12,31 @@ title = "Rig Veda 1.78.4"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vṛtrahantamaṃ* \< *vṛtra*
+- *vṛtrahantamaṃ* ← *vṛtra*
 - \[noun\], masculine
 - “enemy.”
 ------------------------------------------------------------------------
-- *vṛtrahantamaṃ* \< *hantamam* \< *hantama*
+- *vṛtrahantamaṃ* ← *hantamam* ← *hantama*
 - \[noun\], accusative, singular, masculine
 - “killing.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dasyūṃr* \< *dasyu*
+- *dasyūṃr* ← *dasyu*
 - \[noun\], accusative, plural, masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
-- *avadhūnuṣe* \< *avadhū* \< *√dhū*
+- *avadhūnuṣe* ← *avadhū* ← *√dhū*
 - \[verb\], singular, Present indikative
 - “shake.”
 ------------------------------------------------------------------------
-- *dyumnair* \< *dyumnaiḥ* \< *dyumna*
+- *dyumnair* ← *dyumnaiḥ* ← *dyumna*
 - \[noun\], instrumental, plural, neuter
 - “magnificence.”
 ------------------------------------------------------------------------
@@ -48,7 +48,7 @@ title = "Rig Veda 1.78.4"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ṇonumaḥ* \< *nonāv* \< *√nū*
+- *ṇonumaḥ* ← *nonāv* ← *√nū*
 - \[verb\], plural, Present indikative
 - “bellow.”
 ------------------------------------------------------------------------

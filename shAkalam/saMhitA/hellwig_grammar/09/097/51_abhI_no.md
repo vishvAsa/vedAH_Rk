@@ -2,24 +2,24 @@
 title = "Rig Veda 9.97.51"
 
 +++
--   *abhī* \< *abhi*
+-   *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *arṣa* \< *ṛṣ*
+- *arṣa* ← *ṛṣ*
 - \[verb\], singular, Present imperative
 - “run.”
 ------------------------------------------------------------------------
-- *divyā* \< *divya*
+- *divyā* ← *divya*
 - \[noun\], accusative, plural, neuter
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
 ------------------------------------------------------------------------
-- *vasūny* \< *vasūni* \< *vasu*
+- *vasūny* ← *vasūni* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
@@ -27,16 +27,16 @@ title = "Rig Veda 9.97.51"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *pārthivā* \< *pārthiva*
+- *pārthivā* ← *pārthiva*
 - \[noun\], accusative, plural, neuter
 - “earthly; earthen; mundane; royal; tellurian; sublunar.”
 ------------------------------------------------------------------------
-- *pūyamānaḥ* \< *pū*
+- *pūyamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
@@ -44,34 +44,34 @@ title = "Rig Veda 9.97.51"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *yena* \< *yad*
+- *yena* ← *yad*
 - \[noun\], instrumental, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *draviṇam* \< *draviṇa*
+- *draviṇam* ← *draviṇa*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; money; jewel.”
 ------------------------------------------------------------------------
-- *aśnavāmābhy* \< *aśnavāma* \< *aś*
+- *aśnavāmābhy* ← *aśnavāma* ← *aś*
 - \[verb\], plural, Present imperative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *aśnavāmābhy* \< *abhi*
+- *aśnavāmābhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *ārṣeyaṃ* \< *ārṣeyam* \< *ārṣeya*
+- *ārṣeyaṃ* ← *ārṣeyam* ← *ārṣeya*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *jamadagnivan* \< *jamadagni*
+- *jamadagnivan* ← *jamadagni*
 - \[noun\], masculine
 - “Jamadagni.”
 ------------------------------------------------------------------------
-- *jamadagnivan* \< *vat*
+- *jamadagnivan* ← *vat*
 - \[adverb\]
 - “equally; like.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
