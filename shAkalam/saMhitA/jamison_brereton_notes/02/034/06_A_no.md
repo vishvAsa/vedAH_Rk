@@ -6,7 +6,7 @@ In pāda a the grammatical problem is svàr (to be read as a monosyllable, [almo
 
 the accented asyá (which identifies asyá as an adjectival demon., not a pronoun) and the placement of ca (áśvasyā́tra jánimāsyá ca svàḥ, invite, indeed almost impose, a genitive interpr. Geldner achieves this by pronouncing svàr indeclinable (n. 6a). However, it is possible to see it as an archaic genitive with zero-grade ending *-s, as in Aves.
 
-xuuə̄ṇg < *sh2uuen̯ -s, but with the -r of the nom./acc. leveled into the oblique. See Klein DGRV I.96, Witzel Gotō.
+xuuə̄ṇg ← *sh2uuen̯ -s, but with the -r of the nom./acc. leveled into the oblique. See Klein DGRV I.96, Witzel Gotō.
 
 The identity of the two entities born must also be sorted out. It is possible that the horse is just a horse, since origin in the water is an equine characteristic (see, e.g., I.163.1 adduced by Geldner). But it seems likely that the carefully balanced áśvasya … asyá ca svàḥ refers to two contrasted entities, quite likely the fire (Agni) and the sun (Sūrya). The obvious way to get that is for the horse to represent fire/Agni and “this sun” the sun, but I wonder if there isn’t a clever reversal: the “horse” is the sun and “this sun here” is Agni.
 

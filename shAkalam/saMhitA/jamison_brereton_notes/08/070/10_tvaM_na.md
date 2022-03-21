@@ -2,7 +2,7 @@
 title = "10"
 
 +++
-The lexeme ní √tṛp occurs only here (in all of Sanskrit, as far as I can tell). I interpret the ní as reversing the meaning of the root verb, as sometimes elsewhere (see Jamison 1983: 86 for some other examples) - hence ‘be unsatisfied’ < √tṛp ‘be satisfied’. Scarlatta also seems to interpret the verb in this fashion (“… bist du unzufrieden”), but does not comment on why. Grassmann ‘verzehren’ (consume), Oldenberg ‘sich sättigen’. Since tṛmpáti is ordinarily construed with a genitive, I take tvānídaḥ as a gen. sg., not acc. pl., as Grassmann and Geldner take it. Scarlatta allows either possibility, and Oldenberg favors the gen. My interpretation is thus rather distinct from Geldner’s “du hast deine Schmäher satt” (have your fill of), though his also conveys a negative sense.
+The lexeme ní √tṛp occurs only here (in all of Sanskrit, as far as I can tell). I interpret the ní as reversing the meaning of the root verb, as sometimes elsewhere (see Jamison 1983: 86 for some other examples) - hence ‘be unsatisfied’ ← √tṛp ‘be satisfied’. Scarlatta also seems to interpret the verb in this fashion (“… bist du unzufrieden”), but does not comment on why. Grassmann ‘verzehren’ (consume), Oldenberg ‘sich sättigen’. Since tṛmpáti is ordinarily construed with a genitive, I take tvānídaḥ as a gen. sg., not acc. pl., as Grassmann and Geldner take it. Scarlatta allows either possibility, and Oldenberg favors the gen. My interpretation is thus rather distinct from Geldner’s “du hast deine Schmäher satt” (have your fill of), though his also conveys a negative sense.
 
 The girding motif of c must indicate some kind of preparation for battle, but what exactly the equipment and procedure were is not clear.
 

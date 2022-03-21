@@ -8,5 +8,5 @@ Geldner takes bráhma as an abstract “Hohepriesterschaften,” standing for th
 
 Both bhuvan and dāḥ are subjunctives, or at least have subjunctive function.
 
-Contra Hoffmann (246), I am inclined to take dāḥ as a real subjunctive (<*dā-a-s), though without metrical distraction, not an injunctive, while both of us take bhuvan as subj. here.
+Contra Hoffmann (246), I am inclined to take dāḥ as a real subjunctive (←*dā-a-s), though without metrical distraction, not an injunctive, while both of us take bhuvan as subj. here.
 

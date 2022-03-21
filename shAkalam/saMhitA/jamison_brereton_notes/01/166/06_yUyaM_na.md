@@ -4,7 +4,7 @@ title = "06"
 +++
 áriṣṭagrāmāḥ is a bahuvrīhi, but the tr. ‘having an invulnerable band’ seemed too heavy.
 
-On krívis- see comm. to I.30.1, where I suggest a relationship with kravís- ‘raw, bloody flesh’ as a re-formed -i-stem to the underlying root krū < *kruH. A number of other interpr. have been made.
+On krívis- see comm. to I.30.1, where I suggest a relationship with kravís- ‘raw, bloody flesh’ as a re-formed -i-stem to the underlying root krū ← *kruH. A number of other interpr. have been made.
 
 I supply “(a path)” as obj. of rádati because words for ‘path, way’ are frequently obj. of this verb (e.g., VII.87.1 rádat patháḥ; also II.30.2, V.10.1, V.80.3, VI.30.3, VII.47.4, VII.60.4, X.75.2).
 
