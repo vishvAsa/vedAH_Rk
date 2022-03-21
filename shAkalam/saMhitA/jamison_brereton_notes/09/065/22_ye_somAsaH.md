@@ -8,4 +8,10 @@ The location in c is taken by Geldner/Renou as a place name, “in Śaryaṇāva
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/22-24.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/22-24.md">
+<details open><summary><h2>22-24 ...{Loading}...</h2></summary>
+
+As noted in the published introduction, this tṛca is thematically unified by a listing of the many place in which soma can be pressed in 22-23; all these clauses share a single verb sunviré in 22b. The two vss. are followed by a summary vs. (24) expressing the hope that all these diverse soma types will bring good things to us. The tṛca also shows signs of formal cohesion that are rare in these Gāyatrī assemblages: vss. 22-23 consist of six pāda-length rel. cl., all introduced by yé, with disjunctive vā found in both c pādas, while 24 begins with the resumptive and summarizing correlative té.
+
+</details>
+</div>

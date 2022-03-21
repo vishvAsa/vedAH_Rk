@@ -6,4 +6,10 @@ This vs. is structured as a series of paradoxes, one per pāda. The least clear 
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/007/06-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/007/06-07.md">
+<details open><summary><h2>06-07 ...{Loading}...</h2></summary>
+
+Though vs. 6 belongs metrically and syntactically with what precedes -- it is in Anuṣṭubh like vss. 2-5 and the accusative descriptive phrases hang off vs. 5 -- it belongs thematically with vs. 7, as noted in the published introduction. Both vss. treat the mystery of the ritual fire, and being at the center of the hymn, they form a sort of omphalos.
+
+</details>
+</div>

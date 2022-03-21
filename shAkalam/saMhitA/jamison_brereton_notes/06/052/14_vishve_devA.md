@@ -6,4 +6,8 @@ This vs. is metrically problematic. The Anukr. (also Holland & van Nooten Rig Ve
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/13-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/13-15.md">
+<details open><summary><h2>13-15 ...{Loading}...</h2></summary>
+
+I consider these three vss. as a tṛca. They are thematically unified, by their focus on the gods in general and (esp. vss. 13 and 15) by their classification of the gods into groups based on their location and type. On the supposed Jagatī meter of vs. 14, which would not match its tṛca partners, see ad loc. </details>
+</div>

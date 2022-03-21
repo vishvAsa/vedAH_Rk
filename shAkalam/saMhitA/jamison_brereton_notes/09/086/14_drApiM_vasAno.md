@@ -10,4 +10,10 @@ The identify of the “age-old father” isn’t clear, and various candidates h
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/13-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/13-15.md">
+<details open><summary><h2>13-15 ...{Loading}...</h2></summary>
+
+This tṛca is characterized by increasingly larger claims for Soma’s cosmic reach. It has fewer connections to previous tṛcas, save for the echo in 15b dhā́ma prathamám vyānaśe of 5a and c, on which see comm. there.
+
+</details>
+</div>

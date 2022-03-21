@@ -9,4 +9,10 @@ I take prá … cetayate as a reflexive trans./caus. ‘makes oneself perceived�
 As is generally recognized, nárā ca śáṃsam shows a species of tmesis, from the cmpd nárāśáṃsa-.
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/40-42.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/40-42.md">
+<details open><summary><h2>40-42 ...{Loading}...</h2></summary>
+
+The focus on our welfare found in the last tṛca is found here in vs. 41 but is otherwise muted.
+
+</details>
+</div>

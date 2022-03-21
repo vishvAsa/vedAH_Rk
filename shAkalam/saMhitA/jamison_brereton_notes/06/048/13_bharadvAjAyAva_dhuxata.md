@@ -9,4 +9,10 @@ Renou opts for this latter analysis -- the cow milking herself. Although I am al
 Note the direct object in balanced coordination, NOUN ca ADJ / NOUN ca ADJ, with both ca-s properly positioned (unlike 10cd above) and with each bahuvrīhi epithet having the shape viśvá-CoCasam.
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/11-13.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/11-13.md">
+<details open><summary><h2>11-13 ...{Loading}...</h2></summary>
+
+On these three vss., see published introduction.
+
+</details>
+</div>

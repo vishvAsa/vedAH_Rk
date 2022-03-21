@@ -6,4 +6,10 @@ With Geldner I supply daha in b, with the preverb práti, since práti is not ot
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/044/10-11.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/044/10-11.md">
+<details open><summary><h2>10-11 ...{Loading}...</h2></summary>
+
+The contents of the imploring mentioned in 10c seems to be given in direct speech in 11.
+
+</details>
+</div>

@@ -16,4 +16,10 @@ Because of the connections between the preceding hymn VII.42 and this one, I fav
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/043/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/043/01-02.md">
+<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+
+The 1st two vss. of this hymn begin with prá, recalling the insistent prá in the 1st vs. of the preceding hymn (VII.42.1) and presumably fulfilling the same function: to express the energetic initiation of the ritual. However, both prá √ṛc (1a) and prá √i (2a) are standard lexemes, unlike those in 42.1.
+
+</details>
+</div>

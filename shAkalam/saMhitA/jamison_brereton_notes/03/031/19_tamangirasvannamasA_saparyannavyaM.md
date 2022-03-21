@@ -7,4 +7,10 @@ Pāda b, návyaṃ kṛṇomi … purājā́m “I make new (the hymn) born of o
 On the √dhā + inf. construction, see vs. 13 above.
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/031/19-20.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/031/19-20.md">
+<details open><summary><h2>19-20 ...{Loading}...</h2></summary>
+
+Note the echo of 19d #s ú vaś ca naḥ in 20b s u vastí naḥ.
+
+</details>
+</div>

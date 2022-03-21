@@ -19,4 +19,10 @@ mid. pres.). Grassmann takes it as a 1st sg. pf., as does Geldner (“Den im Him
 that has no other place in the context, where the 1st pl. reigns.
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/10-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/10-12.md">
+<details open><summary><h2>10-12 ...{Loading}...</h2></summary>
+
+It is difficult to discern any particular unity in this tṛca.
+
+</details>
+</div>

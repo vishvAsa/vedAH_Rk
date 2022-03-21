@@ -8,4 +8,10 @@ Although Mayrhofer explicitly rejects this suggestion (KEWA, s.v. sūkará-; EWA
 
 My interpretation of pāda d essentially follows Scarlatta (301, 516); see also EWA, s.v. ARD.
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/077/10-11.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/077/10-11.md">
+<details open><summary><h2>10-11 ...{Loading}...</h2></summary>
+
+On these verses as possible explanatory additions to the Emuṣa version given earlier in the hymn, see published introduction.
+
+</details>
+</div>

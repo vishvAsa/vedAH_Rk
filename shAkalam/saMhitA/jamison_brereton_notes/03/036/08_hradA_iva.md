@@ -8,4 +8,10 @@ As Geldner also comments, the chronological sequence of pāda d seems reversed, 
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/036/06-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/036/06-08.md">
+<details open><summary><h2>06-08 ...{Loading}...</h2></summary>
+
+The next three vss. ring changes on the theme of large bodies of water and large containers of soma.
+
+</details>
+</div>

@@ -6,4 +6,10 @@ The distribution of ca’s in pāda a is somewhat puzzling or, perhaps, syncopat
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/035/10-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/035/10-12.md">
+<details open><summary><h2>10-12 ...{Loading}...</h2></summary>
+
+The first hemistichs of the three verses in this tṛca are excessively provided with ca’s, as well as 2nd du. act. impvs in -tam. Cf., e.g., 10ab píbataṃ ca tṛpṇutáṃ cā́ca gachatam, prajā́ṃ ca dhattám dráviṇaṃ ca dhattam.
+
+</details>
+</div>

@@ -6,4 +6,10 @@ vanvántu ‘let them combat’ and vanúṣām ‘rapacious ones’ are presuma
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/021/08-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/021/08-09.md">
+<details open><summary><h2>08-09 ...{Loading}...</h2></summary>
+
+Final varūtā́of 8d is matched by final tarutra in 9b.
+
+</details>
+</div>

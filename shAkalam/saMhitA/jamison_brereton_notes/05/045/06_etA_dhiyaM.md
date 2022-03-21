@@ -18,4 +18,9 @@ Even more so the “wandering merchant” (vaṇíg vaṅkúḥ) of d. On vaṅk
 interpr. were persuasive, it doesn’t explain what the material is doing in this hymn at this point.
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/045/05-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/045/05-06.md">
+<details open><summary><h2>05-06 ...{Loading}...</h2></summary>
+
+As noted in the published introduction, these two vss. form an omphalos and are structurally parallel, with the poet addressing his priest-poet colleagues with hortatory subjunctives. The immediacy of the vss. and the sacrificial context of the hymn make this a more likely scenario than Sāyaṇa.’s suggestion that the Aṅgirases are speaking these vss. For strenuous arguments against Sāyaṇa.’s interpr., see Lüders p. 327.
+</details>
+</div>

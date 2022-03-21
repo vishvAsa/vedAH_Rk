@@ -6,4 +6,10 @@ The first vs. of the new hymn matches the final vs. (5) of the previous one: 6ab
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/100/06-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/100/06-09.md">
+<details open><summary><h2>06-09 ...{Loading}...</h2></summary>
+
+As noted in the published introduction, these vss., constituting a separate hymn, echo and vary the 1st hymn, vss. 1-5.
+
+</details>
+</div>

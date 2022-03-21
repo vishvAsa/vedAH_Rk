@@ -15,4 +15,10 @@ Since pāda c lacks a main verb, it could belong either with ab or with d. Geldn
 On the basis of VI.25.6c with contrastive locatives of the stake, one of which is vṛtré (see comm. immed. above), I am now inclined to reassign it to d, with vṛtréṣu (c) and góṣu (d) the stakes. The revised tr. would be “… secured; to you … when obstacles (are at stake), to you when cows (are at stake) does the fistfighter look as he fights.”
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/026/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/026/01-02.md">
+<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+
+As noted in the published introduction, the 1st two vss. play on the word vā́ja-, presumably as a reference to the Bharadvāja bardic line: 1b, 2b mahó vā́jasya, 2a vājī́ … vājineyáḥ.
+
+</details>
+</div>

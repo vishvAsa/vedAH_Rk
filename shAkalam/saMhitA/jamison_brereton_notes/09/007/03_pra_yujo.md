@@ -6,4 +6,10 @@ The phrase satyó adhvaráḥ, which I take as a separate nominal cl., but which
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/007/02-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/007/02-03.md">
+<details open><summary><h2>02-03 ...{Loading}...</h2></summary>
+
+A verb of motion needs to be supplied with prá in the initial pādas of both vss.
+
+</details>
+</div>

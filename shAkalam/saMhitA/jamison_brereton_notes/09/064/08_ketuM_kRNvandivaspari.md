@@ -8,4 +8,10 @@ Geldner renders b as “… rinnst du ... alle Farben annehmend”; similar Lüd
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/07-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/07-09.md">
+<details open><summary><h2>07-09 ...{Loading}...</h2></summary>
+
+As just noted, pávamānasya in 7a chains with forms to the same stem in vss. 5 and 6. 7b prá … asṛkṣata also echoes ásṛkṣata prá, which opens the previous tṛca (4a). The tṛca is unified by the similes comparing Soma to the Sun in vss. 7 and 9, possibly found also in the beacon (ketú-) of vs. 8.
+
+</details>
+</div>

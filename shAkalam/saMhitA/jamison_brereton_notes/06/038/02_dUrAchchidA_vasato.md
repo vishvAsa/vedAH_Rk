@@ -9,6 +9,18 @@ interpr. of ghóṣāt, the gen. is dependent on that noun, but without that sup
 As for the subject of ghóṣāt and tanyati, I think it anticipates the deváhūti- of c. This of course creates a problem of its own, in that bruvāṇáḥ should be fem. if deváhūti- is the referent. But given the poet’s general evasiveness about referents, I think in b we’re dealing with an as-yet-unidentified verbal product, which is then specified as deváhūti- (the same índra-hūti- of 1b) in c.
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/038/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/038/01-02.md">
+<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/038/02-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+As noted in the published introduction, I think vs. 2 functions as complementary to 1: in the first vs. the índra-hūti- is conveyed up to Indra (presumably in heaven); in 2 he
+
+-- and his ears -- are brought down here to the devá-hūti- performed at the sacrifice.
+
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/038/02-04.md">
+<details open><summary><h2>02-04 ...{Loading}...</h2></summary>
+
+After the absence of overt referents in vs. 1, starting with 2b we have a form of índra- in every hemistich through vs. 4 (2b índrasya, 2d índram, 3b índram, 3d índre, 4a índram, 4d índram). His name is again absent in the final vs. of the hymn, vs. 5, suggesting that this pattern is deliberate and a species of ring composition, marked by absence not presence. The next hymn (VI.39) also shows this structure, with the three middle verses (2-4) united by the shared initial deictic ayám and the first and last (1, 5) standing out against this pattern.
+</details>
+</div>

@@ -19,4 +19,10 @@ yatáḥ to contrast with act. transitive yámati. But in 144.3, because of the 
 Note that Oldenberg in SBE follows the syntactic division at pāda boundary in our 3cd, but in the Noten explicitly changes his view, taking asmád ā́with what follows as I do. I cannot follow his interpr. thereof, however: “Agni lenkt die Fahrt zu uns hin.”
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/144/03-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/144/03-04.md">
+<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+
+The pair sávayasā ‘of the same vigor’ in these two verses have been variously identified: Sāyaṇa, Oldenberg (SBE, by implication), Hotar and Adhvaryu; Geldner, Renou, the two arms of the fire churner. I think it rather to be the two kindling sticks. As noted above, the dual participle in vitáritratā 3b here reminds us of the dual verb tarete in I.140.3, whose subj. is, by consensus, the two kindling sticks. In that same passage they are described as sakṣítā ‘sharing the same abode’, which matches samāné yónā … sámokasā “in the same womb … sharing the same dwelling” in our 4b.
+
+</details>
+</div>

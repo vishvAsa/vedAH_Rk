@@ -14,4 +14,10 @@ assumes that virā́jam represents not only the acc. sg. of the rt. noun cmpd. v
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/17-18.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/17-18.md">
+<details open><summary><h2>17-18 ...{Loading}...</h2></summary>
+
+These two vss. outfit Soma with the lexicon of poetry, with 17c concentrating on kaví- and 18a on ṛ́ṣi-, though with kaví- returning in pāda b
+
+</details>
+</div>

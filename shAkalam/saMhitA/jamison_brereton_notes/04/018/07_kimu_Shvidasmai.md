@@ -18,6 +18,17 @@ Alternatively Geldner (n. 7d) suggests that it might be a metathesis of *su-da�
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/06-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/06-09.md">
+<details open><summary><h2>06-09 ...{Loading}...</h2></summary>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/06-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+For my interpr. of the speakers in these vss. and the role of the waters in the myth, see published introduction. Most tr. take the vss. as all spoken by Indra’s mother (Geldner [/Witzel Gotō], Doniger), whereas I distribute them to a variety of voices: 6 Indra, 7 Indra’s mother, 8 waters, 9 Indra’s mother. As I see it, in 6 Indra prompts his mother to ask the waters questions; in 7 she rather sarcastically and belittlingly asks questions about them, whom she seems to accuse of trying to lay claim to her son. They respond directly to him in 8, reminding him of his mother’s dereliction of maternal duty and suggesting that they are better at mothering him than she is. So that she rather defiantly points out in 9 that subsequent negative things that happened to him were not her fault.
+
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/06-07.md">
+<details open><summary><h2>06-07 ...{Loading}...</h2></summary>
+
+The responsive phrases kím … bhananti (6c) and kím … bhananta (7a) provide a textbook case of -anta replacement. See my 1979 IIJ 21 article, pace Gotō’s (1st Kl., 222) characterization of bhananta as “reziprok.”
+
+</details>
+</div>

@@ -10,4 +10,10 @@ This argument leads indirectly to an issue that all comm. (Geldner, Oldenberg, R
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/108/03-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/108/03-04.md">
+<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+
+As noted in the published introduction, vs. 3 attributes Indra’s characteristic deed (Vṛtra-smashing) to both gods, while vs. 4 attributes Agni’s characteristic ritual behavior to both.
+
+</details>
+</div>

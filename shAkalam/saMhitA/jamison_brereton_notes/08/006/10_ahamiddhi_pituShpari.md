@@ -8,4 +8,10 @@ instead of 1st ps.), but although obviously there is no 1st sg. passive aorist, 
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/006/10-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/006/10-12.md">
+<details open><summary><h2>10-12 ...{Loading}...</h2></summary>
+
+This tṛca is characterized by emphatic pronominals: initial ahám 10a, 10c, 11a; tvā́m 12a; máma 12c.
+
+</details>
+</div>

@@ -10,4 +10,10 @@ The second hemistich does continue the ritual and cosmic focus of the rest of th
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/047/04-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/047/04-05.md">
+<details open><summary><h2>04-05 ...{Loading}...</h2></summary>
+
+Note the parallel openings of 4a catvā́ra īm bibhrati … and 5c dvé yád īm bibhṛtáḥ … But this parallelism gains complexity from the fact that √bhṛ is used in two different senses: in 4 it means ‘carry’, but in 6 it refers to the bearing of children.
+
+</details>
+</div>

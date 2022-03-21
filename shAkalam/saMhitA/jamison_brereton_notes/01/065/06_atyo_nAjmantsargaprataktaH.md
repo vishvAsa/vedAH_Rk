@@ -6,4 +6,10 @@ The construction of síndhur ná kṣódaḥ is clarified by its occurrences in 
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/065/06-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/065/06-07.md">
+<details open><summary><h2>06-07 ...{Loading}...</h2></summary>
+
+The similes continue in these verses, but with less strict parallelism in structure.
+
+</details>
+</div>

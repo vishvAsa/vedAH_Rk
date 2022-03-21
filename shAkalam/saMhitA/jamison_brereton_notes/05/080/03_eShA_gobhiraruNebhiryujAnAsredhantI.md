@@ -15,4 +15,10 @@ There are two ways I can see to do this -- 1) take sá étaśaḥ as a parenthet
 That Savitar is identified with Etaśa in one of his aspects may be supported by the explicit identifications with other figures in the next two vss.: mitró bhavasi (4d), pūṣā́bhavasi (5b).
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/080/02-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/080/02-03.md">
+<details open><summary><h2>02-03 ...{Loading}...</h2></summary>
+
+Just as Savitar follows the lead (prayā́ṇam) of Dawn in 2d, the other gods follow his lead (also prayā́ṇam) in 3a. The masc. rel. prn. yásya beginning 3 makes it clear that the referent has changed -- which is not clear from the English.
+
+</details>
+</div>

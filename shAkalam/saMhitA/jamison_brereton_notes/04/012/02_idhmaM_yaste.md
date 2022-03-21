@@ -8,4 +8,10 @@ The overlapping identities of Agni and his worshiper are indirectly signaled in 
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/012/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/012/01-02.md">
+<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+
+On the parallel pres. and pf. subjunctives in these vss. see comm. ad
+
+</details>
+</div>

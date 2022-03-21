@@ -21,4 +21,10 @@ The second hemistich contains two sets of polarized terms: putrá- / pitár- ‘
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/009/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/009/01-02.md">
+<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+
+Note the echo of the last word of vs. 1, támāṃsi, in the last word of the 1st hemistich of b, ’tamānāḥ. The latter form is the pres. part. to the 1st class pres. of √at ‘wander’, with apharesis of the initial vowel after samaré. This abhinihita sandhi, relatively rare in the RV, is metrically guaranteed, and it may have been applied in order to bring the participle more into phonological line with támāṃsi.
+
+</details>
+</div>

@@ -8,4 +8,9 @@ The Pp. reads ubhayāhastí with short -í, which is assigned to an -i-stem by G
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/039/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/039/01-03.md">
+<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+
+In the refrain (1-3cd) the pl. ‘bulls’ (vṛ́ṣabhiḥ) accompanying Indra were identified with the Maruts already by Sāyaṇa. Since this section culminates in the Midday Pressing (4d), this identification makes sense, since that pressing is shared by Indra and the Maruts.
+</details>
+</div>

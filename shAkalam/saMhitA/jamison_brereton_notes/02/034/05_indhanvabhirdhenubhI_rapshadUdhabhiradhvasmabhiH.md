@@ -10,4 +10,10 @@ A more acute problem in this vs. is kṛ̥́tā (in sandhi before vowel; Pp kṛ
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/02-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/02-05.md">
+<details open><summary><h2>02-05 ...{Loading}...</h2></summary>
+
+Note the concentration of pṛSIB forms: 2d pṛ́śni yāḥ, 3d prk̥ ṣám … pṛ́ṣatībhiḥ, 4a prk̥ ṣé, 4c pṛ́ṣadaśva (and scrambled -śiprā in 3c, rapśa- in 5a).
+
+</details>
+</div>

@@ -6,4 +6,10 @@ I adopt Brugmann’s suggestion (presented and generally endorsed by Oldenberg, 
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/038/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/038/01-03.md">
+<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+
+The referent of tásya in the refrain pāda is not specified. It must fall into the cultic sphere, but could be ‘sacrifice’ or ‘hymn’ or, perhaps best, since it’s explicit in a nearby hymn by the same poet, ‘call’: VIII.35.4 bódhataṃ hávasya me.
+
+</details>
+</div>

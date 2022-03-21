@@ -10,4 +10,10 @@ Oldenberg, Geldner, and Renou all take vṛjinā́ni as a nominalized adjective 
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/01-02.md">
+<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+
+It is unfortunately impossible to capture in Engl. the play between ánu √man ‘concede’ (1a) and áti √man ‘disdain’ (2a), with the further echo of áti in atiyā́já- (1d).
+
+</details>
+</div>

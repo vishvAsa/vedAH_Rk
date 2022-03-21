@@ -11,4 +11,10 @@ in conjunction with each other. For Renou this means rejecting the existence of 
 The 2nd hemistich matches that of 19. In 19 the poet complains about his afflictions and then invites Soma to pass beyond the barriers. In this vs. the escape presumably effected by Soma in 19 provides the model for the one made by “us.” Just as Soma was to go “beyond the barriers” (paridhī́ṃr áti) so did we fly (paptima) “beyond the sun” (áti sū́ryam)—far beyond it (párah). The sun scorching with its heat, described in c, corresponds to the many things that got me down in 19c, and in both d pādas these troubles are overcome, passed beyond. Soma’s presumably successful journey beyond the barriers—barriers that are probably ritually related (see above)—makes it possible for us to overcome our own difficulties with triumphant flight.
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/19-20.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/19-20.md">
+<details open><summary><h2>19-20 ...{Loading}...</h2></summary>
+
+This is the first and only place in the hymn in which the 1st person is found. The speaker’s eagerness for fellowship with Soma, who is addressed directly, and his admission of his troubles give an intimate and almost confessional tone. Both vss. have the 1st sg. prn. ahám, a form of sakhyá-, a form of dív- ‘day’, and the voc. to babhrú- ‘brown one’ and are tightly connected, also structurally (see disc. ad 20).
+
+</details>
+</div>

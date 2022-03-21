@@ -18,4 +18,10 @@ The hapax stauná- is, as Renou says, “ininterprétable” (which does not sto
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/065/04-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/065/04-05.md">
+<details open><summary><h2>04-05 ...{Loading}...</h2></summary>
+
+For the repeated opening idā́(4a, 4b, 4c, 5a) see published introduction. The two outer exx. are both idā́hí; the two inner ones are followed by phonologically similar them. datives: 4b idā vīrā́ya / 4c idá víprāya.
+
+</details>
+</div>

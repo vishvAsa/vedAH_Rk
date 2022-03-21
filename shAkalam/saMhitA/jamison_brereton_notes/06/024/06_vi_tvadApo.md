@@ -18,4 +18,10 @@ Putting all this together, I offer the revised translation: “He is master of t
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/024/06-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/024/06-08.md">
+<details open><summary><h2>06-08 ...{Loading}...</h2></summary>
+
+Each of these vss. contains at least one derivative of nṛ́- ‘(superior) man’: 6a nṛmṇám, 6c nṛváti, 7c nṛ́tamāsaḥ, 8d nṛṣáhye.
+
+</details>
+</div>

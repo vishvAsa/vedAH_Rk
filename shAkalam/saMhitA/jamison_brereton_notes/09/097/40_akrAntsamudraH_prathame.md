@@ -8,4 +8,10 @@ Geldner’s tr. of pāda a, “Der Ocean hat gebrüllt bei seiner ersten Ausbrei
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/40-42.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/40-42.md">
+<details open><summary><h2>40-42 ...{Loading}...</h2></summary>
+
+No particular unity detectable in the tṛca, though the 2nd two vss. do focus on Soma’s role in strengthening and exhilarating the gods.
+
+</details>
+</div>

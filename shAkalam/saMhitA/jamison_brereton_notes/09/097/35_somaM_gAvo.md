@@ -6,4 +6,10 @@ The first two pādas of this vs. are variants of the last two of the previous vs
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/34-36.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/34-36.md">
+<details open><summary><h2>34-36 ...{Loading}...</h2></summary>
+
+All three vss. concentrate on ritual speech and on the noisy approach of both cows and poets to Soma. This theme takes up 32d, where Soma impels his own speech in concert with the productions of the poets. The final vs., 36, begins with hymn-summarizing evā́.
+
+</details>
+</div>

@@ -6,4 +6,10 @@ On pari √stubh see nearby IX.62.24. It is not entirely clear to me how the k�
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/28-30.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/28-30.md">
+<details open><summary><h2>28-30 ...{Loading}...</h2></summary>
+
+The contrast between the two types of soma drinks, pure and mixed with milk, are highlighted in this tṛca, at least in my view: 28c sómāḥ śukrā́gávāśiraḥ describes them straightforwardly, while 30ab ṛdhák … saṃjagmānáḥ “separately (and) uniting (with milk)” is more cryptic.
+
+</details>
+</div>

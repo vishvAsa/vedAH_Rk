@@ -8,4 +8,10 @@ Pāda b contains one of the few occurrences of √vṛj ‘twist, wring’ witho
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/026/03-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/026/03-06.md">
+<details open><summary><h2>03-06 ...{Loading}...</h2></summary>
+
+These vss. are tr. and discussed by Hoffman (Injunk., 183-84).
+
+</details>
+</div>

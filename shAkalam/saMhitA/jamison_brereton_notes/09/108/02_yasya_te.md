@@ -11,4 +11,10 @@ The gerund pītvā́in a is echoed by the i-stem loc. pītā́in b.
 On the unexpected accent of supráketa-, as opposed to supraketá- (4x), see Oldenberg, who has no good explanation (nor do I).
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/01-02.md">
+<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+
+There is syntactic dependence between the two vss., at least by my reading: 2ab depends on vs. 1, while 2cd consists of a new cl., with a change of person. The Anukr. attributes the two vss. to Gaurivīti Śāktya; there is some support for this, in that V.29 (one of the three other hymns attributed to him [also X.73-74]) has an allusion to the myth involving Etaśa, the sun’s horse (V.29.5), who appears in our 2d.
+
+</details>
+</div>

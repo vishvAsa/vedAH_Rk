@@ -6,4 +6,10 @@ In addition to the chaining with the previous vs. (on which see immediately abov
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/060/03-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/060/03-04.md">
+<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+
+Here the chaining involves only the first word índrasya.
+
+</details>
+</div>

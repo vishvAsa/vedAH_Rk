@@ -7,4 +7,10 @@ In pāda a the word víśve was omitted in the published translation, which shou
 3, to I.5 ll. 30-31.
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/06-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/06-07.md">
+<details open><summary><h2>06-07 ...{Loading}...</h2></summary>
+
+I take the idiom found in 6d and 7b, LOC. ACC. adhithāḥ, as meaning ‘put s.o. in the path/way of s.th. The middle voice of adhithāḥ signals that the entity in the loc. belongs to the subject, namely Indra -- in the first case his generosity (just celebrated in 5d), in the second his power of attack. Although Geldner recognizes the similarity of these constructions, with identical subjects and objects (see his n. 6d), he renders them quite differently. For áme √dhā in 7b, see also I.63.1, 67.3.
+
+</details>
+</div>

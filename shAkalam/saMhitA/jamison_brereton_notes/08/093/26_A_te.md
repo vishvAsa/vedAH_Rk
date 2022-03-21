@@ -12,4 +12,10 @@ Geldner insists (n. to 26c) that stotṛ́bhyaḥ must be read with pāda b, par
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/25-27.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/25-27.md">
+<details open><summary><h2>25-27 ...{Loading}...</h2></summary>
+
+The c pādas of all three verses in this tṛca have the same structure: dat. pl. stotṛ́bhyaḥ, a form of índra- (acc. 25-26, voc. 27), 2nd ps. imperative.
+
+</details>
+</div>

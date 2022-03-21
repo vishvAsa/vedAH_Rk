@@ -6,4 +6,10 @@ Geldner also (n. 8c) claims (fld. by Renou) that this vs. is entirely Varuṇa�
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/068/09-11.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/068/09-11.md">
+<details open><summary><h2>09-11 ...{Loading}...</h2></summary>
+
+On the annunciatory forms of ayám in these three vss., see published introduction.
+
+</details>
+</div>

@@ -21,4 +21,10 @@ My interpr. of the final pāda differs from the standard, which takes deváḥ s
 In the frame, the first reading is the filter: Soma uncovers the fleece - that is, the juice passes beyond it; “desirable thing” is the reading in the simile, and in fact a 2nd reading in the frame. The tr. should be slightly emended to “He uncovers the fleece (/desirable thing) as the god Savitar uncovers a desirable thing.”
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/04-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/04-06.md">
+<details open><summary><h2>04-06 ...{Loading}...</h2></summary>
+
+A very challenging tṛca, esp. the last two vss.
+
+</details>
+</div>

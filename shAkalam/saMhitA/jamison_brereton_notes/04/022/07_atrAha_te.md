@@ -8,4 +8,10 @@ I don’t understand the double ánu (pādas c and d), though my surmise is that
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/022/06-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/022/06-07.md">
+<details open><summary><h2>06-07 ...{Loading}...</h2></summary>
+
+Another responsion: 6c ádhā ha / 7a átrā́ha. Later in the pāda 7a tā́u recalls the openings of 5a and 6a tā́tū́.
+
+</details>
+</div>

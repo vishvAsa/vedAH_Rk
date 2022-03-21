@@ -22,4 +22,9 @@ is used a number of times of the Maruts (5.41.13, 55.3, 59.3, 87.3), including o
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/065/03-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/065/03-04.md">
+<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+
+There is lexical chaining between 3d and 4a with the identical phrase vidhaté rátnam in the same metrical position.
+</details>
+</div>

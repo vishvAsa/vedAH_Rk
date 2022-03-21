@@ -12,4 +12,9 @@ The syntactically clearer forms of act. várdha- in the next vs. can be viewed a
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/038/02-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/038/02-04.md">
+<details open><summary><h2>02-04 ...{Loading}...</h2></summary>
+
+After the absence of overt referents in vs. 1, starting with 2b we have a form of índra- in every hemistich through vs. 4 (2b índrasya, 2d índram, 3b índram, 3d índre, 4a índram, 4d índram). His name is again absent in the final vs. of the hymn, vs. 5, suggesting that this pattern is deliberate and a species of ring composition, marked by absence not presence. The next hymn (VI.39) also shows this structure, with the three middle verses (2-4) united by the shared initial deictic ayám and the first and last (1, 5) standing out against this pattern.
+</details>
+</div>

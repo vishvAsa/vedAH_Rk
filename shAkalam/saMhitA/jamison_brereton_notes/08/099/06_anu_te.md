@@ -15,4 +15,10 @@ The phrase itá ūtī́(also, as itá ūtī́ḥ I.119.8, I.130.5) cannot be sep
 Here in this Anhangslied it is likely that ūtí- ‘help’ has captured the de-compounded phrase, but that the phrase is still associated with the notion of constancy, hence my compromise “with enduring help.” Geldner tr. “zu eurem unmittelbaren (immediate) Beistand,” but in n. allows “den durch Fortdauer (oder Verjüngung) Alterlosen.”
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/099/05-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/099/05-06.md">
+<details open><summary><h2>05-06 ...{Loading}...</h2></summary>
+
+This pragātha is tightly bound lexically. Note first víśvāḥ spṛ́dhaḥ in both 5a and 6c. But more striking are the six occurrences of the root √tari : prátūrtiṣu (5a), (viśva-)tū́r (5c), tūrya taruṣyataḥ (5d), turáyantam (6a), tūrvasi (6d). In this group not a single stem is repeated: there are two different nominal stems and four different verbal stems. (See also átūrtam in 7d, to yet another stem.) On the formulaic use of this root and its Indo-European background, see Watkins, Dragon 344-46.
+
+</details>
+</div>

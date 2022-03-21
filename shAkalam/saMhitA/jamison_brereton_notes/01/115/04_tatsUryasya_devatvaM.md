@@ -14,4 +14,12 @@ In my view Night’s stretching her garment for him is in part a gesture of subm
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/115/04-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/115/04-05.md">
+<details open><summary><h2>04-05 ...{Loading}...</h2></summary>
+
+As indicated in the published introduction, although at the time I was not certain what these verses depict, I was (and remain) skeptical of the notion that the two hemistichs refer to the so-called day-sun and night-sun respectively, as Geldner (/Witzel Gotō in part) and Renou take it. Among other things, I find it unlikely that the unequivocal proclamation of the Sun’s supremacy that begins this verse (tát sū́ryasya devatváṃ tán mahitvám “This is the Sun's divinity, this his greatness”) would pertain to what these scholars see in 4d: the rather ignominious bundling up of the Sun in Night’s garment to sneak him back across the sky to rise again the next day. I now feel I have a much clearer understanding of what is going on in these verses -- I think I have cracked their code
+
+-- and it all refers to the rising sun. I will lay it out below.
+
+</details>
+</div>

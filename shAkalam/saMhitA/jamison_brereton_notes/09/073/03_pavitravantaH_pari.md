@@ -13,6 +13,16 @@ tr. if they were tr. with identical renderings of ā́√rabh, rather than “to
 requires that ā́√rabh can take a loc. of what is grasped, in addition to the more common acc. (as in 1c). For a passage with such a loc. see I.168.3 and comm. thereto. By contrast Geldner takes the dharúṇa- not as parts of soma but as instruments in which to seize him, namely the soma cups (n. 3d; apparently fld. by Lüders [268]). The use of the stem dharúṇa- in the sg. to refer to soma makes his interpr. difficult to sustain.
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/02-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/02-04.md">
+<details open><summary><h2>02-04 ...{Loading}...</h2></summary>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/02-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+Geldner considers these vss. “doppelsinnig,” with ref. both to the priest-poets and the soma juices. This seems quite reasomable, and his individual notes are worth the attention.
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/02-03.md">
+<details open><summary><h2>02-03 ...{Loading}...</h2></summary>
+
+The three even-numbered pādas 2d, 3b, 3d all end with an augmented 3rd pl. redupl. aorist: apīparan, avīvipan, and avīvṛdhan respectively.
+
+</details>
+</div>

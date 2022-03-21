@@ -6,4 +6,14 @@ The VP √vid āródhanaṃ diváḥ (a variant of our vidúṣṭaro divá ār�
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/007/07-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/007/07-08.md">
+<details open><summary><h2>07-08 ...{Loading}...</h2></summary>
+
+On 3rd sg. veḥ (√vī) in 7d, see comm. ad II.5.3. Here the form serves as a pivot, veḥ in 8a having the more morphologically orthodox 2nd ps. reference. The near identity of the two adjacent phrases, 7d #vér adhvarā́ya and 8a #vér adhvarásya (dūtyā̀ni), requires us to consider them together. The first is clearly 3rd sg. (with nom. agníḥ in the preceding pāda, nom. ṛtā́vā in the same pāda). The 2nd ps. ref. of the second only emerges in pāda 8c, with 2nd sg. verb īyase. The poet seems to want first to enforce the 3rd ps. reference of the verb (even in 8ab the nom. pf. participles vidvā́n and cikitvā́n appear to continue the 3rd ps.) and then require us to construct a paradigm: 2nd sg. vés [sandhi vér], 3rd sg. vés [sandhi vér], like 2nd sg. (ā́)var, 3rd sg.
+
+(ā́)var, which I invoked ad II.5.3 to explain the anomalous 3rd sg. vés. We can see this sequence as a variant on poetic repair.
+
+The near repetition of the VP in 8a also clarifies the construction of the verb in 7d, with gapped object. I take dat. adhvarā́ya (7d) and gen. adhvarásya (8a) as filling essentially the same functional role.
+
+</details>
+</div>

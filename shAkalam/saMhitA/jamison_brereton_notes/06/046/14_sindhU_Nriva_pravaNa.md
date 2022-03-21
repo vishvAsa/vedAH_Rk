@@ -20,4 +20,10 @@ passive (or rather, intransitive) aor., and we need to supply a subject. Oldenbe
 
 A few other loose ends in pāda b: I interpr. yádi as *yád ī “when it,” with shortening of ī before the cluster kl. A condition ‘if’ doesn’t make sense. As for that cluster, klóśa- is the only -l-form to √kruś ‘cry out’. Is this racetrack slang? Pāda c compares the steeds circling the race course to birds (of prey) circling over the raw flesh of a dead animal (a striking image). Geldner considers the loc. gávi to be the correspondent of ā́miṣi in the simile: the cow is the prize over which the horses circle (“die wie die Vögel um das Aas, so um die Kuh(herde) kreisen”). The published translation by contrast takes gávi as a piece of horse tack, the reins or something else made of leather, and construes it with gṛbhītā́ḥ. I now favor Geldner’s interpr., which is more striking and which also conforms to the loc. of the stake found several times in this hymn. I would amend the tr. to “who, like birds over raw flesh, keep circling (the race course) over the bovine (prize), being held firm in your two arms …”
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/13-14.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/13-14.md">
+<details open><summary><h2>13-14 ...{Loading}...</h2></summary>
+
+As was noted in the published introduction, this last pragātha stands somewhat apart from the rest of the hymn, though it does show connections with the beginning of the hymn. The near repetition found between the last two pragāthas (9-10 / 11-12; see disc. above) gave the sense that the hymn was coming to an end. As often, RVic poets seem to enjoy shaking up our structural expectations. The lack of a main clause in the whole of this two-vs. complex is especially striking and ends the hymn on an unsettled and somewhat frenzied note.
+
+</details>
+</div>

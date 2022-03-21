@@ -8,4 +8,10 @@ The last phrase of 14, the afterthought nominal rel. cl. utá yé yajñíyāsa�
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/035/14-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/035/14-15.md">
+<details open><summary><h2>14-15 ...{Loading}...</h2></summary>
+
+These last two vss. stand apart from the 13 monotonous vss. that precede them, though they hardly have more content.
+
+</details>
+</div>

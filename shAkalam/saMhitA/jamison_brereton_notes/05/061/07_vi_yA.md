@@ -10,4 +10,10 @@ have a tendency to attenuate the third term -- e.g., Klein (DGRV I.432) “the o
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/06-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/06-08.md">
+<details open><summary><h2>06-08 ...{Loading}...</h2></summary>
+
+As indicated in the published translation, I consider these vss. a digression reflecting on the character of women in general, motivated by the introduction of the winning woman in vs. 5.
+
+</details>
+</div>

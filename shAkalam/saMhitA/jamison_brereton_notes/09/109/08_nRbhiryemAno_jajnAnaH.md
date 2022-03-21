@@ -6,4 +6,10 @@ It is not certain how to construe víśvāni with kṣarat, and how this is deci
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/07-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/07-09.md">
+<details open><summary><h2>07-09 ...{Loading}...</h2></summary>
+
+Unlike the previous tṛca with repeated pavasva, each vs. of this tṛca has a different form or √pū: 7 pávasva, 8 pūtaḥ, 9 punānáḥ. The person switches from the 2nd sg. that has prevailed throughout the hymn to 3rd ps. in vs. 8.
+
+</details>
+</div>

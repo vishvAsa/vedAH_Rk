@@ -8,4 +8,10 @@ In pāda b the lexeme prá kṛṇute with its middle voice in my opinion encode
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/09-10.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/09-10.md">
+<details open><summary><h2>09-10 ...{Loading}...</h2></summary>
+
+This sequence of vss. is marked by initial ayám ‘this one here’ (9a, 9c, 10a, 10b; cf. also asyá 9d). This near-deictic pronoun may indicate that Indra is currently present at the sacrifice. These vss. are also marked by present tense verbs describing Indra’s characteristic and habitual activities -- in contrast to vs. 11, which opens with an imperfect (sám … ajayat).
+
+</details>
+</div>

@@ -6,4 +6,14 @@ On 3rd sg. ajais and its AV replacements, see Narten (Sig.Aor. 119-20).
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/072/04-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/072/04-05.md">
+<details open><summary><h2>04-05 ...{Loading}...</h2></summary>
+
+These two vss., in the center of the hymn, are constructed in parallel. To begin with, the post-caesura portion of 4d and 5b are identical: pavate sóma indra te.
+
+Both vss. also begin with a sequence of AGENT/INSTR. + past part. expressions: 4a has the cmpds nṛ́-dhūto ádri-sutaḥ, while 5a has the analytic expressions nṛ́bāhubhyāṃ coditó dhā́rayā sutáḥ, with the 1st member of the 1st phrase (nṛ́-) and the 2nd ppl.
+
+(sutá-) repeated. The last of the phrases contains a non-agentive instr. dhā́rayā ‘in a stream’ that nonetheless fits the morphological template. The two vss. diverge otherwise, though the beginnings of 4c and 5c, púraṃ(dhivān) and ā́prāḥ respectively have an etymological connection that would no doubt be clear to the audience. As noted in the published introduction, no particular message seems to be conveyed by this omphalos-like structure, unless it is to put the abruptly addressed Indra in the center of the action. It is also the case that this is the first instance of √pū ‘purify’ in the hymn, and the quintessential IXth Maṇḍala med. verb pávate ‘purifies himself’ appears in these two matching phrases and in vss. 7-9 (7d pavate, 8a pavasva, 9d pavamāna).
+
+</details>
+</div>

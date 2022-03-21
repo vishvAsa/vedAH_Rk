@@ -8,4 +8,10 @@ The verb dadhre is taken by Oldenberg as most likely a 1st sg.; Geldner allows t
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/017/12-13.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/017/12-13.md">
+<details open><summary><h2>12-13 ...{Loading}...</h2></summary>
+
+Contains a number of PNs, whose exact identity eludes us. See Geldner’s nn., Mayrhofer PN s.vv.
+
+</details>
+</div>
