@@ -42,34 +42,34 @@ title = "Rig Veda 5.21.4"
 - \[noun\], vocative, singular, masculine
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *dīdihy* ← *dīdihi* \< *dīdī*
+- *dīdihy* ← *dīdihi* ← *dīdī*
 - \[verb\], singular, Present imperative
 - “shine; glitter.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *yonim* \< *yoni*
+- *yonim* ← *yoni*
 - \[noun\], accusative, singular, feminine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
 ------------------------------------------------------------------------
-- *āsadaḥ* \< *āsad* \< *√sad*
+- *āsadaḥ* ← *āsad* ← *√sad*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “approach; attack; sit down; approach; find; arrive.”
 ------------------------------------------------------------------------
-- *sasasya* \< *sasa*
+- *sasasya* ← *sasa*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *yonim* \< *yoni*
+- *yonim* ← *yoni*
 - \[noun\], accusative, singular, feminine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
 ------------------------------------------------------------------------
-- *āsadaḥ* \< *āsad* \< *√sad*
+- *āsadaḥ* ← *āsad* ← *√sad*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “approach; attack; sit down; approach; find; arrive.”
 ------------------------------------------------------------------------

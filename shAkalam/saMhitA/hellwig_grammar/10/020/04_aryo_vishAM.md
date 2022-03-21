@@ -50,7 +50,7 @@ title = "Rig Veda 10.20.4"
 - “abhra; cloud; sky; abhra \[word\]; cumulonimbus; mica; air;
     cloudiness.”
 ------------------------------------------------------------------------
-- *dīdyānaḥ* \< *dīdī*
+- *dīdyānaḥ* ← *dīdī*
 - \[verb noun\], nominative, singular
 - “shine; glitter.”
 ------------------------------------------------------------------------

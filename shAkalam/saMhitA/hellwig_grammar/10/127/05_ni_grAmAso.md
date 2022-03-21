@@ -27,7 +27,7 @@ title = "Rig Veda 10.127.5"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *pakṣiṇaḥ* \< *pakṣin*
+- *pakṣiṇaḥ* ← *pakṣin*
 - \[noun\], nominative, plural, masculine
 - “winged.”
 ------------------------------------------------------------------------
@@ -35,15 +35,15 @@ title = "Rig Veda 10.127.5"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *śyenāsaś* \< *śyenāsaḥ* \< *śyena*
+- *śyenāsaś* ← *śyenāsaḥ* ← *śyena*
 - \[noun\], nominative, plural, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *arthinaḥ* \< *arthin*
+- *arthinaḥ* ← *arthin*
 - \[noun\], nominative, plural, masculine
 - “desirous; active; suppliant; busy.”
 ------------------------------------------------------------------------

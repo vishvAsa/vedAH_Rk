@@ -65,25 +65,25 @@ title = "Rig Veda 10.123.2"
 - \[noun\], nominative, singular, feminine
 - “light.”
 ------------------------------------------------------------------------
-- *samānaṃ* ← *samānam* \< *samāna*
+- *samānaṃ* ← *samānam* ← *samāna*
 - \[noun\], accusative, singular, masculine
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
 ------------------------------------------------------------------------
-- *yonim* \< *yoni*
+- *yonim* ← *yoni*
 - \[noun\], accusative, singular, masculine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
 ------------------------------------------------------------------------
-- *abhy* \< *abhī* \< *abhi*
+- *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *anūṣata* \< *nū*
+- *anūṣata* ← *nū*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “praise; shout.”
 ------------------------------------------------------------------------
-- *vrāḥ* \< *vrā*
+- *vrāḥ* ← *vrā*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------

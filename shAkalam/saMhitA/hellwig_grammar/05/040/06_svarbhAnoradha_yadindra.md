@@ -46,34 +46,34 @@ title = "Rig Veda 5.40.6"
 - \[verb noun\], accusative, singular
 - “hide; cover; conceal; shroud; obscure.”
 ------------------------------------------------------------------------
-- *sūryaṃ* \< *sūryam* \< *sūrya*
+- *sūryaṃ* ← *sūryam* ← *sūrya*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *tamasāpavratena* \< *tamasā* \< *tamas*
+- *tamasāpavratena* ← *tamasā* ← *tamas*
 - \[noun\], instrumental, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
 ------------------------------------------------------------------------
-- *tamasāpavratena* \< *apavratena* \< *apavrata*
+- *tamasāpavratena* ← *apavratena* ← *apavrata*
 - \[noun\], instrumental, singular, neuter
 - “lawless; faithless.”
 ------------------------------------------------------------------------
-- *turīyeṇa* \< *turīya*
+- *turīyeṇa* ← *turīya*
 - \[noun\], instrumental, singular, neuter
 - “fourth.”
 ------------------------------------------------------------------------
-- *brahmaṇāvindad* \< *brahmaṇā* \< *brahman*
+- *brahmaṇāvindad* ← *brahmaṇā* ← *brahman*
 - \[noun\], instrumental, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *brahmaṇāvindad* \< *avindat* \< *vid*
+- *brahmaṇāvindad* ← *avindat* ← *vid*
 - \[verb\], singular, Imperfect
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *atriḥ* \< *atri*
+- *atriḥ* ← *atri*
 - \[noun\], nominative, singular, masculine
 - “Atri; Atri; atri \[word\].”
 ------------------------------------------------------------------------

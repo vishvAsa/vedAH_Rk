@@ -12,15 +12,15 @@ title = "Rig Veda 10.21.8"
 - \[noun\], instrumental, singular, neuter
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *śociṣoru* ← *śociṣā* \< *śocis*
+- *śociṣoru* ← *śociṣā* ← *śocis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------
-- *śociṣoru* \< *uru*
+- *śociṣoru* ← *uru*
 - \[noun\], accusative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *prathayase* \< *prathay* \< *√prath*
+- *prathayase* ← *prathay* ← *√prath*
 - \[verb\], singular, Present indikative
 - “spread; proclaim.”
 ------------------------------------------------------------------------
@@ -29,41 +29,41 @@ title = "Rig Veda 10.21.8"
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *abhikrandan* \< *abhikrand* \< *√krand*
+- *abhikrandan* ← *abhikrand* ← *√krand*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *vṛṣāyase* \< *vṛṣāy*
+- *vṛṣāyase* ← *vṛṣāy*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *made* \< *mada*
+- *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *garbhaṃ* \< *garbham* \< *garbha*
+- *garbhaṃ* ← *garbham* ← *garbha*
 - \[noun\], accusative, singular, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
 ------------------------------------------------------------------------
-- *dadhāsi* \< *dhā*
+- *dadhāsi* ← *dhā*
 - \[verb\], singular, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *jāmiṣu* \< *jāmi*
+- *jāmiṣu* ← *jāmi*
 - \[noun\], locative, plural, feminine
 - “related; ancestral; customary; usual.”
 ------------------------------------------------------------------------
-- *vivakṣase* \< *vivakṣ* \< *√vac*
+- *vivakṣase* ← *vivakṣ* ← *√vac*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------

@@ -2,32 +2,32 @@
 title = "Rig Veda 10.142.7"
 
 +++
--   *apām* \< *ap*
+-   *apām* ← *ap*
 - \[noun\], genitive, plural, neuter
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *idaṃ* \< *idam*
+- *idaṃ* ← *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *nyayanaṃ* \< *nyayanam* \< *nyayana*
+- *nyayanaṃ* ← *nyayanam* ← *nyayana*
 - \[noun\], nominative, singular, neuter
 - “entrance.”
 ------------------------------------------------------------------------
-- *samudrasya* \< *samudra*
+- *samudrasya* ← *samudra*
 - \[noun\], genitive, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *niveśanam* \< *niveśana*
+- *niveśanam* ← *niveśana*
 - \[noun\], nominative, singular, neuter
 - “mansion; house; camp; city planning.”
 ------------------------------------------------------------------------
-- *anyaṃ* \< *anyam* \< *anya*
+- *anyaṃ* ← *anyam* ← *anya*
 - \[noun\], accusative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *kṛṇuṣvetaḥ* \< *kṛṇuṣva* \< *kṛ*
+- *kṛṇuṣvetaḥ* ← *kṛṇuṣva* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -38,26 +38,26 @@ title = "Rig Veda 10.142.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *kṛṇuṣvetaḥ* \< *itas*
+- *kṛṇuṣvetaḥ* ← *itas*
 - \[adverb\]
 - “from here; therefore.”
 ------------------------------------------------------------------------
-- *panthāṃ* \< *panthām* \< *pathin*
+- *panthāṃ* ← *panthām* ← *pathin*
 - \[noun\], accusative, singular
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *tena* \< *tad*
+- *tena* ← *tad*
 - \[noun\], instrumental, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *yāhi* \< *yā*
+- *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *vaśāṃ* \< *vaśa*
+- *vaśāṃ* ← *vaśa*
 - \[noun\], accusative, plural, masculine
 - “control; dominion; influence; power; Vaśa; vaśa \[word\]; will;
     authority; control; wish; supervision.”

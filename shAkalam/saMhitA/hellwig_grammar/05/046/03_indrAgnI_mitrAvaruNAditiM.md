@@ -58,11 +58,11 @@ title = "Rig Veda 5.46.3"
 - \[noun\], accusative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *brahmaṇaspatim* \< *brahmaṇaspati*
+- *brahmaṇaspatim* ← *brahmaṇaspati*
 - \[noun\], accusative, singular, masculine
 - “Brahmaṇaspati.”
 ------------------------------------------------------------------------
-- *bhagaṃ* \< *bhagam* \< *bhaga*
+- *bhagaṃ* ← *bhagam* ← *bhaga*
 - \[noun\], accusative, singular, masculine
 - “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
     well-being; happiness; overlord.”
@@ -71,15 +71,15 @@ title = "Rig Veda 5.46.3"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *śaṃsaṃ* \< *śaṃsam* \< *śaṃsa*
+- *śaṃsaṃ* ← *śaṃsam* ← *śaṃsa*
 - \[noun\], accusative, singular, masculine
 - “praise; śaṃs; recitation.”
 ------------------------------------------------------------------------
-- *savitāram* \< *savitṛ*
+- *savitāram* ← *savitṛ*
 - \[noun\], accusative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *ūtaye* \< *ūti*
+- *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------

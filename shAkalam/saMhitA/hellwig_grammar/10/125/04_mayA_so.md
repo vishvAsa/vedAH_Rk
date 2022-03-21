@@ -16,53 +16,53 @@ title = "Rig Veda 10.125.4"
 - \[noun\], accusative, singular, neuter
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
 ------------------------------------------------------------------------
-- *atti* \< *ad*
+- *atti* ← *ad*
 - \[verb\], singular, Present indikative
 - “eat; devour.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vipaśyati* \< *vipaś* \< *√paś*
+- *vipaśyati* ← *vipaś* ← *√paś*
 - \[verb\], singular, Present indikative
 - “look around.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *prāṇiti* \< *prāṇ* \< *√an*
+- *prāṇiti* ← *prāṇ* ← *√an*
 - \[verb\], singular, Present indikative
 - “breathe; exist.”
 ------------------------------------------------------------------------
-- *ya* \< *yaḥ* \< *yad*
+- *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *īṃ* \< *īm* \< *īṃ*
+- *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *śṛṇoty* \< *śṛṇoti* \< *śru*
+- *śṛṇoty* ← *śṛṇoti* ← *śru*
 - \[verb\], singular, Present indikative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *uktam* \< *vac*
+- *uktam* ← *vac*
 - \[verb noun\], accusative, singular
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
 ------------------------------------------------------------------------
-- *amantavo* \< *amantavaḥ* \< *amantu*
+- *amantavo* ← *amantavaḥ* ← *amantu*
 - \[noun\], nominative, plural, masculine
 - “ignorant.”
 ------------------------------------------------------------------------
-- *māṃ* \< *mām* \< *mad*
+- *māṃ* ← *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tad*
+- *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -72,11 +72,11 @@ title = "Rig Veda 10.125.4"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *kṣiyanti* \< *kṣi*
+- *kṣiyanti* ← *kṣi*
 - \[verb\], plural, Present indikative
 - “govern; inhabit; dwell; stay; predominate; bide; own.”
 ------------------------------------------------------------------------
-- *śrudhi* \< *śru*
+- *śrudhi* ← *śru*
 - \[verb\], singular, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
@@ -84,15 +84,15 @@ title = "Rig Veda 10.125.4"
 - \[noun\], vocative, singular, masculine
 - “celebrated; śruta \[word\].”
 ------------------------------------------------------------------------
-- *śraddhivaṃ* \< *śraddhivam* \< *śraddhiva*
+- *śraddhivaṃ* ← *śraddhivam* ← *śraddhiva*
 - \[noun\], accusative, singular, neuter
 - “credible.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vadāmi* \< *vad*
+- *vadāmi* ← *vad*
 - \[verb\], singular, Present indikative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”

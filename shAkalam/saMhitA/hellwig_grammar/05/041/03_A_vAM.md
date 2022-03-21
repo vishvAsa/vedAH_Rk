@@ -58,23 +58,23 @@ title = "Rig Veda 5.41.3"
 - \[noun\], accusative, singular, neuter
 - “hymn; idea; purpose.”
 ------------------------------------------------------------------------
-- *prāndhāṃsīva* \< *pra*
+- *prāndhāṃsīva* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prāndhāṃsīva* \< *andhāṃsi* \< *andhas*
+- *prāndhāṃsīva* ← *andhāṃsi* ← *andhas*
 - \[noun\], accusative, plural, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
-- *prāndhāṃsīva* \< *iva*
+- *prāndhāṃsīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *yajyave* \< *yajyu*
+- *yajyave* ← *yajyu*
 - \[noun\], dative, singular, masculine
 - “worshiping.”
 ------------------------------------------------------------------------
-- *bharadhvam* \< *bhṛ*
+- *bharadhvam* ← *bhṛ*
 - \[verb\], plural, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”

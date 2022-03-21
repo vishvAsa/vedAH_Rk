@@ -2,37 +2,37 @@
 title = "Rig Veda 10.143.4"
 
 +++
--   *cite* \< *cit*
+-   *cite* ← *cit*
 - \[noun\], dative, singular, feminine
 - “supreme spirit; cit \[word\]; soul.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *surādhasā* \< *su*
+- *surādhasā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *surādhasā* \< *rādhasā* \< *rādhas*
+- *surādhasā* ← *rādhasā* ← *rādhas*
 - \[noun\], vocative, dual, masculine
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *rātiḥ* \< *rāti*
+- *rātiḥ* ← *rāti*
 - \[noun\], nominative, singular, feminine
 - “gift; bounty; favor.”
 ------------------------------------------------------------------------
-- *sumatir* \< *sumatiḥ* \< *sumati*
+- *sumatir* ← *sumatiḥ* ← *sumati*
 - \[noun\], nominative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
@@ -40,32 +40,32 @@ title = "Rig Veda 10.143.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yan* \< *yat*
+- *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sadane* \< *sadana*
+- *sadane* ← *sadana*
 - \[noun\], locative, singular, neuter
 - “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
     residence; seat; inanition; location.”
 ------------------------------------------------------------------------
-- *pṛthau* \< *pṛthu*
+- *pṛthau* ← *pṛthu*
 - \[noun\], locative, singular, neuter
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
 ------------------------------------------------------------------------
-- *samane* \< *samana*
+- *samane* ← *samana*
 - \[noun\], locative, singular, neuter
 - “marriage; conflict.”
 ------------------------------------------------------------------------
-- *parṣatho* \< *parṣathaḥ* \< *pṛ*
+- *parṣatho* ← *parṣathaḥ* ← *pṛ*
 - \[verb\], dual, Aorist conj./subj.
 - “protect; promote; rescue; help.”
 ------------------------------------------------------------------------
-- *narā* \< *nara*
+- *narā* ← *nara*
 - \[noun\], vocative, dual, masculine
 - “man; man; Nara; person; people; Nara; Puruṣa; nara \[word\];
     servant; hero.”

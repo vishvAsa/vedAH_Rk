@@ -15,23 +15,23 @@ title = "Rig Veda 9.31.5"
 - \[noun\], accusative, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *payo* \< *payaḥ* \< *payas*
+- *payo* ← *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
-- *babhro* \< *babhru*
+- *babhro* ← *babhru*
 - \[noun\], vocative, singular, masculine
 - “tawny; brown.”
 ------------------------------------------------------------------------
-- *duduhre* \< *duh*
+- *duduhre* ← *duh*
 - \[verb\], plural, Perfect indicative
 - “milk.”
 ------------------------------------------------------------------------
-- *akṣitam* \< *akṣita*
+- *akṣitam* ← *akṣita*
 - \[noun\], accusative, singular, neuter
 - “undecaying; uninjured.”
 ------------------------------------------------------------------------
-- *varṣiṣṭhe* \< *varṣiṣṭha*
+- *varṣiṣṭhe* ← *varṣiṣṭha*
 - \[noun\], locative, singular, masculine
 - “highest.”
 ------------------------------------------------------------------------
@@ -39,7 +39,7 @@ title = "Rig Veda 9.31.5"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *sānavi* \< *sānu*
+- *sānavi* ← *sānu*
 - \[noun\], locative, singular, masculine
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------

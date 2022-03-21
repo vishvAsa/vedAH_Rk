@@ -70,17 +70,17 @@ title = "Rig Veda 10.104.2"
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *madam* \< *mada*
+- *madam* ← *mada*
 - \[noun\], accusative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *ukthavāhaḥ* \< *uktha*
+- *ukthavāhaḥ* ← *uktha*
 - \[noun\], neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *ukthavāhaḥ* \< *vāhaḥ* \< *vāhas*
+- *ukthavāhaḥ* ← *vāhaḥ* ← *vāhas*
 - \[noun\], vocative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------

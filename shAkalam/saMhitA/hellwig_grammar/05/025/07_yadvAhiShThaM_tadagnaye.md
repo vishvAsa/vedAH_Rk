@@ -34,28 +34,28 @@ title = "Rig Veda 5.25.7"
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sun; Surya.”
 ------------------------------------------------------------------------
-- *mahiṣīva* \< *mahiṣī*
+- *mahiṣīva* ← *mahiṣī*
 - \[noun\], nominative, singular, feminine
 - “female buffalo; Mahiṣī; queen; mahiṣī \[word\]; mahiṣī; Old World
     buffalo.”
 ------------------------------------------------------------------------
-- *mahiṣīva* \< *iva*
+- *mahiṣīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *tvad* \< *tvat* \< *tvad*
+- *tvad* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *rayis* \< *rayiḥ* \< *rayi*
+- *rayis* ← *rayiḥ* ← *rayi*
 - \[noun\], nominative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *tvad* \< *tvat* \< *tvad*
+- *tvad* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vājā* \< *vājāḥ* \< *vāja*
+- *vājā* ← *vājāḥ* ← *vāja*
 - \[noun\], nominative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
@@ -63,7 +63,7 @@ title = "Rig Veda 5.25.7"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *īrate* \< *īr*
+- *īrate* ← *īr*
 - \[verb\], plural, Present indikative
 - “go.”
 ------------------------------------------------------------------------

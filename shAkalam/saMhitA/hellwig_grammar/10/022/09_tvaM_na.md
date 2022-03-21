@@ -52,11 +52,11 @@ title = "Rig Veda 10.22.9"
 - \[noun\], nominative, plural, feminine
 - “fullness.”
 ------------------------------------------------------------------------
-- *navanta* \< *nū*
+- *navanta* ← *nū*
 - \[verb\], plural, Present indikative
 - “praise; shout.”
 ------------------------------------------------------------------------
-- *kṣoṇayo* \< *kṣoṇayaḥ* \< *kṣoṇī*
+- *kṣoṇayo* ← *kṣoṇayaḥ* ← *kṣoṇī*
 - \[noun\], nominative, plural, feminine
 - “Earth.”
 ------------------------------------------------------------------------

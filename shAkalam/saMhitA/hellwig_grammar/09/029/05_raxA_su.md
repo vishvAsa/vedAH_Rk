@@ -18,22 +18,22 @@ title = "Rig Veda 9.29.5"
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *araruṣaḥ* \< *raruṣaḥ* \< *rā*
+- *araruṣaḥ* ← *raruṣaḥ* ← *rā*
 - \[verb noun\], genitive, singular
 - “give; impart.”
 ------------------------------------------------------------------------
-- *svanāt* \< *svana*
+- *svanāt* ← *svana*
 - \[noun\], ablative, singular, masculine
 - “noise; sound; svan.”
 ------------------------------------------------------------------------
-- *samasya* \< *sama*
+- *samasya* ← *sama*
 - \[noun\], genitive, singular, masculine
 - “like; like; alike(p); level; symmetrical; balanced; average; same;
     regular; impartial; imperturbable; even; sama \[word\]; every(a);
     accurate; identical; fair; equal; synonymous; changeless; whole;
     exact; calm; straight; even; wide.”
 ------------------------------------------------------------------------
-- *kasya* \< *ka*
+- *kasya* ← *ka*
 - \[noun\], genitive, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -41,7 +41,7 @@ title = "Rig Veda 9.29.5"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *nido* \< *nidaḥ* \< *nid*
+- *nido* ← *nidaḥ* ← *nid*
 - \[noun\], ablative, singular, feminine
 - “derision; scoffer; contempt.”
 ------------------------------------------------------------------------
@@ -49,7 +49,7 @@ title = "Rig Veda 9.29.5"
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *mumucmahe* \< *muc*
+- *mumucmahe* ← *muc*
 - \[verb\], plural, Perfect indicative
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
     fill into; shoot; spill; lose; ejaculate; exclude; free; remove;

@@ -11,10 +11,10 @@ title = "Rig Veda 9.29.4"
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *saṃjayan* ← *saṃji* \< *√ji*
+- *saṃjayan* ← *saṃji* ← *√ji*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *pavasva* \< *pū*
+- *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
@@ -22,18 +22,18 @@ title = "Rig Veda 9.29.4"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *dhārayā* \< *dhārā*
+- *dhārayā* ← *dhārā*
 - \[noun\], instrumental, singular, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *inu* \< *\_* \< *√\_*
+- *inu* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *dveṣāṃsi* \< *dveṣas*
+- *dveṣāṃsi* ← *dveṣas*
 - \[noun\], accusative, plural, neuter
 - “hostility; enemy.”
 ------------------------------------------------------------------------
-- *sadhryak* \< *sadhryañc*
+- *sadhryak* ← *sadhryañc*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------

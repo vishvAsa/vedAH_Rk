@@ -47,17 +47,17 @@ title = "Rig Veda 9.100.1"
 - \[noun\], locative, singular, neuter
 - “life; life; age.”
 ------------------------------------------------------------------------
-- *jātaṃ* \< *jātam* \< *jan*
+- *jātaṃ* ← *jātam* ← *jan*
 - \[verb noun\], accusative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *rihanti* \< *rih*
+- *rihanti* ← *rih*
 - \[verb\], plural, Present indikative
 - “lick.”
 ------------------------------------------------------------------------
-- *mātaraḥ* \< *mātṛ*
+- *mātaraḥ* ← *mātṛ*
 - \[noun\], nominative, plural, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”

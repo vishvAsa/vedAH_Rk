@@ -34,19 +34,19 @@ title = "Rig Veda 7.1.23"
 - \[noun\], locative, singular, masculine
 - “immortal.”
 ------------------------------------------------------------------------
-- *ya* \< *yaḥ* \< *yad*
+- *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ājuhoti* \< *āhu* \< *√hu*
+- *ājuhoti* ← *āhu* ← *√hu*
 - \[verb\], singular, Present indikative
 - “sacrifice; sprinkle.”
 ------------------------------------------------------------------------
-- *havyam* \< *havya*
+- *havyam* ← *havya*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -56,35 +56,35 @@ title = "Rig Veda 7.1.23"
 - \[noun\], instrumental, singular, feminine
 - “Hindu deity; Deva; deity; idol; devatā \[word\]; divinity; temple.”
 ------------------------------------------------------------------------
-- *vasuvaniṃ* \< *vasu*
+- *vasuvaniṃ* ← *vasu*
 - \[noun\], masculine
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
 ------------------------------------------------------------------------
-- *vasuvaniṃ* \< *vanim* \< *vani*
+- *vasuvaniṃ* ← *vanim* ← *vani*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *dadhāti* \< *dhā*
+- *dadhāti* ← *dhā*
 - \[verb\], singular, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sūrir* \< *sūriḥ* \< *sūri*
+- *sūrir* ← *sūriḥ* ← *sūri*
 - \[noun\], nominative, singular, masculine
 - “patron.”
 ------------------------------------------------------------------------
-- *arthī* \< *arthin*
+- *arthī* ← *arthin*
 - \[noun\], nominative, singular, masculine
 - “desirous; active; suppliant; busy.”
 ------------------------------------------------------------------------
-- *pṛcchamāna* \< *pṛcchamānaḥ* \< *pracch*
+- *pṛcchamāna* ← *pṛcchamānaḥ* ← *pracch*
 - \[verb noun\], nominative, singular
 - “ask; ask; ask; consult; interrogate.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------

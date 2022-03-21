@@ -74,7 +74,7 @@ title = "Rig Veda 10.99.5"
 - *abhītyārodayan* ← *arodayat* ← *roday* ← *√rud*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *muṣāyan* \< *muṣāy* \< *√muṣ*
+- *muṣāyan* ← *muṣāy* ← *√muṣ*
 - \[verb noun\], nominative, singular
 - “steal; rob.”
 ------------------------------------------------------------------------

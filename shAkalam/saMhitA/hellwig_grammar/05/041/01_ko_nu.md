@@ -56,27 +56,27 @@ title = "Rig Veda 5.41.1"
 - \[noun\], locative, singular, neuter
 - “mansion; assembly; seat; seat.”
 ------------------------------------------------------------------------
-- *trāsīthāṃ* \< *trāsīthām* \< *trā*
+- *trāsīthāṃ* ← *trāsīthām* ← *trā*
 - \[verb\], dual, Aorist optative
 - “protect; help.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *yajñāyate* \< *yajñāy*
+- *yajñāyate* ← *yajñāy*
 - \[verb noun\], dative, singular
 ------------------------------------------------------------------------
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *paśuṣo* \< *paśu*
+- *paśuṣo* ← *paśu*
 - \[noun\], masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
 ------------------------------------------------------------------------
-- *paśuṣo* \< *ṣaḥ* \< *sā*
+- *paśuṣo* ← *ṣaḥ* ← *sā*
 - \[noun\], genitive, singular, masculine
 - “winning.”
 ------------------------------------------------------------------------
@@ -84,7 +84,7 @@ title = "Rig Veda 5.41.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vājān* \< *vāja*
+- *vājān* ← *vāja*
 - \[noun\], accusative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------

@@ -36,36 +36,36 @@ title = "Rig Veda 10.22.11"
 - *vajrivaḥ* ← *vajrivas* ← *vajrivat*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *yaddha* \< *yat*
+- *yaddha* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yaddha* \< *ha*
+- *yaddha* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *śuṣṇasya* \< *śuṣṇa*
+- *śuṣṇasya* ← *śuṣṇa*
 - \[noun\], genitive, singular, masculine
 - “Śuṣṇa.”
 ------------------------------------------------------------------------
-- *dambhayo* \< *dambhayaḥ* \< *dambhay* \< *√dabh*
+- *dambhayo* ← *dambhayaḥ* ← *dambhay* ← *√dabh*
 - \[verb\], singular, Present injunctive
 - “subjugate; destroy.”
 ------------------------------------------------------------------------
-- *jātaṃ* \< *jātam* \< *jāta*
+- *jātaṃ* ← *jātam* ← *jāta*
 - \[noun\], accusative, singular, neuter
 - “kind; object; descendant; kin; being; reincarnation.”
 ------------------------------------------------------------------------
-- *viśvaṃ* \< *viśvam* \< *viśva*
+- *viśvaṃ* ← *viśvam* ← *viśva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *sayāvabhiḥ* \< *sa*
+- *sayāvabhiḥ* ← *sa*
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *sayāvabhiḥ* \< *yāvabhiḥ* \< *yāvan*
+- *sayāvabhiḥ* ← *yāvabhiḥ* ← *yāvan*
 - \[noun\], instrumental, plural, masculine
 - “traveler.”
 ------------------------------------------------------------------------

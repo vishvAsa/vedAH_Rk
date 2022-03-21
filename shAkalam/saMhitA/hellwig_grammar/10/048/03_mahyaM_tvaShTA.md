@@ -32,7 +32,7 @@ title = "Rig Veda 10.48.3"
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *'vṛjann* \< *avṛjan* \< *vṛj*
+- *'vṛjann* ← *avṛjan* ← *vṛj*
 - \[verb\], plural, Root aorist (Ind.)
 ------------------------------------------------------------------------
 - *api*
@@ -40,41 +40,41 @@ title = "Rig Veda 10.48.3"
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
 ------------------------------------------------------------------------
-- *kratum* \< *kratu*
+- *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *mamānīkaṃ* \< *mama* \< *mad*
+- *mamānīkaṃ* ← *mama* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mamānīkaṃ* \< *anīkam* \< *anīka*
+- *mamānīkaṃ* ← *anīkam* ← *anīka*
 - \[noun\], nominative, singular, neuter
 - “army; face; battalion; battlefront; point; appearance.”
 ------------------------------------------------------------------------
-- *sūryasyeva* \< *sūryasya* \< *sūrya*
+- *sūryasyeva* ← *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *sūryasyeva* \< *iva*
+- *sūryasyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *duṣṭaram* \< *duṣṭara*
+- *duṣṭaram* ← *duṣṭara*
 - \[noun\], nominative, singular, neuter
 - “incomparable; irresistible; unbearable; unconquerable.”
 ------------------------------------------------------------------------
-- *mām* \< *mad*
+- *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *āryanti* \< *ār*
+- *āryanti* ← *ār*
 - \[verb\], plural, Present indikative
 - “praise.”
 ------------------------------------------------------------------------
-- *kṛtena* \< *kṛ*
+- *kṛtena* ← *kṛ*
 - \[verb noun\], instrumental, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -85,7 +85,7 @@ title = "Rig Veda 10.48.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *kartvena* \< *kṛ*
+- *kartvena* ← *kṛ*
 - \[verb noun\], instrumental, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

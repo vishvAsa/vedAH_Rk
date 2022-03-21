@@ -2,10 +2,10 @@
 title = "Rig Veda 3.29.15"
 
 +++
--   *amitrāyudho* \< *amitrāyudhaḥ* \< *amitrāyudh*
+-   *amitrāyudho* ← *amitrāyudhaḥ* ← *amitrāyudh*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *marutām* \< *marut*
+- *marutām* ← *marut*
 - \[noun\], genitive, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
@@ -13,25 +13,25 @@ title = "Rig Veda 3.29.15"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *prayāḥ* \< *prayā*
+- *prayāḥ* ← *prayā*
 - \[noun\], nominative, plural, feminine
 - “onset; motion.”
 ------------------------------------------------------------------------
-- *prathamajā* \< *prathama*
+- *prathamajā* ← *prathama*
 - \[noun\]
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
 ------------------------------------------------------------------------
-- *prathamajā* \< *jāḥ* \< *jā*
+- *prathamajā* ← *jāḥ* ← *jā*
 - \[noun\], nominative, plural, masculine
 - “born.”
 ------------------------------------------------------------------------
-- *brahmaṇo* \< *brahmaṇaḥ* \< *brahman*
+- *brahmaṇo* ← *brahmaṇaḥ* ← *brahman*
 - \[noun\], genitive, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *viśvam* \< *viśva*
+- *viśvam* ← *viśva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
@@ -40,43 +40,43 @@ title = "Rig Veda 3.29.15"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *viduḥ* \< *vid*
+- *viduḥ* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *dyumnavad* \< *dyumnavat*
+- *dyumnavad* ← *dyumnavat*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *brahma* \< *brahman*
+- *brahma* ← *brahman*
 - \[noun\], accusative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *kuśikāsa* \< *kuśikāsaḥ* \< *kuśika*
+- *kuśikāsa* ← *kuśikāsaḥ* ← *kuśika*
 - \[noun\], nominative, plural, masculine
 - “Kuśika; Vatica robusta.”
 ------------------------------------------------------------------------
-- *erira* \< *erire* \< *er* \< *√īr*
+- *erira* ← *erire* ← *er* ← *√īr*
 - \[verb\], plural, Perfect indicative
 ------------------------------------------------------------------------
-- *eka* \< *ekaḥ* \< *eka*
+- *eka* ← *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *eko* \< *ekaḥ* \< *eka*
+- *eko* ← *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *dame* \< *dama*
+- *dame* ← *dama*
 - \[noun\], locative, singular, masculine
 - “dwelling; home.”
 ------------------------------------------------------------------------
-- *agniṃ* \< *agnim* \< *agni*
+- *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -86,7 +86,7 @@ title = "Rig Veda 3.29.15"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *īdhire* \< *indh*
+- *īdhire* ← *indh*
 - \[verb\], plural, Perfect indicative
 - “kindle; ignite; set ablaze.”
 ------------------------------------------------------------------------

@@ -32,36 +32,36 @@ title = "Rig Veda 5.25.6"
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yudhā* \< *yudh*
+- *yudhā* ← *yudh*
 - \[noun\], instrumental, singular, feminine
 - “battle; fight; war; combat.”
 ------------------------------------------------------------------------
-- *nṛbhiḥ* \< *nṛ*
+- *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *agnir* \< *agniḥ* \< *agni*
+- *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *atyaṃ* \< *atyam* \< *atya*
+- *atyaṃ* ← *atyam* ← *atya*
 - \[noun\], accusative, singular, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------
-- *raghuṣyadaṃ* \< *raghuṣyadam* \< *raghuṣyad*
+- *raghuṣyadaṃ* ← *raghuṣyadam* ← *raghuṣyad*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *jetāram* \< *jetṛ*
+- *jetāram* ← *jetṛ*
 - \[noun\], accusative, singular, masculine
 - “curative; victorious.”
 ------------------------------------------------------------------------
-- *aparājitam* \< *a*
+- *aparājitam* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *aparājitam* \< *parājitam* \< *parāji* \< *√ji*
+- *aparājitam* ← *parājitam* ← *parāji* ← *√ji*
 - \[verb noun\], accusative, singular
 - “overcome; overpower.”
 ------------------------------------------------------------------------

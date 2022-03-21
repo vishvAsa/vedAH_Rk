@@ -69,30 +69,30 @@ title = "Rig Veda 10.45.2"
 - \[adverb\]
 - “secretly.”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vidmā* \< *vidma* \< *vid*
+- *vidmā* ← *vidma* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *utsaṃ* \< *utsam* \< *utsa*
+- *utsaṃ* ← *utsam* ← *utsa*
 - \[noun\], accusative, singular, masculine
 - “spring; fountain; utsa \[word\]; well.”
 ------------------------------------------------------------------------
-- *yata* \< *yatas*
+- *yata* ← *yatas*
 - \[adverb\]
 - “from which; whence; wherein.”
 ------------------------------------------------------------------------
-- *ājagantha* \< *āgam* \< *√gam*
+- *ājagantha* ← *āgam* ← *√gam*
 - \[verb\], singular, Perfect indicative
 - “come; arrive; return; enter (a state); approach; travel; enter;
     inherit; hand down; achieve; reach; appear; happen.”

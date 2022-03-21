@@ -88,7 +88,7 @@ title = "Rig Veda 7.1.21"
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *naryo* ← *naryaḥ* \< *narya*
+- *naryo* ← *naryaḥ* ← *narya*
 - \[noun\], nominative, singular, masculine
 - “manly; heroic; powerful; male; human.”
 ------------------------------------------------------------------------
@@ -96,6 +96,6 @@ title = "Rig Veda 7.1.21"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *dāsīt* \< *das*
+- *dāsīt* ← *das*
 - \[verb\], singular, Present injunctive
 ------------------------------------------------------------------------

@@ -63,15 +63,15 @@ title = "Rig Veda 10.73.6"
 - \[adverb\]
 - “together; jointly; simultaneously.”
 ------------------------------------------------------------------------
-- *pratiṣṭhā* ← *pratiṣṭhāḥ* \< *pratiṣṭhā*
+- *pratiṣṭhā* ← *pratiṣṭhāḥ* ← *pratiṣṭhā*
 - \[noun\], accusative, plural, feminine
 - “foundation; base; fame; consecration; location.”
 ------------------------------------------------------------------------
-- *hṛdyā* \< *hṛdyāḥ* \< *hṛdya*
+- *hṛdyā* ← *hṛdyāḥ* ← *hṛdya*
 - \[noun\], accusative, plural, feminine
 - “good for the heart; dainty; pleasant.”
 ------------------------------------------------------------------------
-- *jaghantha* \< *han*
+- *jaghantha* ← *han*
 - \[verb\], singular, Perfect indicative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;

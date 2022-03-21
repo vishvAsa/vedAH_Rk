@@ -24,11 +24,11 @@ title = "Rig Veda 10.75.3"
 - \[adverb\]
 - “above; up; additionally; upari \[word\]; subsequently.”
 ------------------------------------------------------------------------
-- *anantaṃ* \< *anantam* \< *ananta*
+- *anantaṃ* ← *anantam* ← *ananta*
 - \[noun\], accusative, singular, masculine
 - “infinite; ananta \[word\]; countless; permanent; boundless.”
 ------------------------------------------------------------------------
-- *śuṣmam* \< *śuṣma*
+- *śuṣmam* ← *śuṣma*
 - \[noun\], accusative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
@@ -36,17 +36,17 @@ title = "Rig Veda 10.75.3"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *iyarti* \< *ṛch*
+- *iyarti* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *bhānunā* \< *bhānu*
+- *bhānunā* ← *bhānu*
 - \[noun\], instrumental, singular, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
 ------------------------------------------------------------------------
-- *abhrād* \< *abhrāt* \< *abhra*
+- *abhrād* ← *abhrāt* ← *abhra*
 - \[noun\], ablative, singular, neuter
 - “abhra; cloud; sky; abhra \[word\]; cumulonimbus; mica; air;
     cloudiness.”
@@ -59,27 +59,27 @@ title = "Rig Veda 10.75.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *stanayanti* \< *stanay* \< *√stan*
+- *stanayanti* ← *stanay* ← *√stan*
 - \[verb\], plural, Present indikative
 - “thunder; thunder.”
 ------------------------------------------------------------------------
-- *vṛṣṭayaḥ* \< *vṛṣṭi*
+- *vṛṣṭayaḥ* ← *vṛṣṭi*
 - \[noun\], nominative, plural, feminine
 - “rain; shower; rainy season.”
 ------------------------------------------------------------------------
-- *sindhur* \< *sindhuḥ* \< *sindhu*
+- *sindhur* ← *sindhuḥ* ← *sindhu*
 - \[noun\], nominative, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *vṛṣabho* \< *vṛṣabhaḥ* \< *vṛṣabha*
+- *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
@@ -87,7 +87,7 @@ title = "Rig Veda 10.75.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *roruvat* \< *roro* \< *√ru*
+- *roruvat* ← *roro* ← *√ru*
 - \[verb noun\], nominative, singular
 - “bellow.”
 ------------------------------------------------------------------------

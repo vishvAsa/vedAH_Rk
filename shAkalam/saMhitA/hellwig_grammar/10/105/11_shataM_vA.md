@@ -10,7 +10,7 @@ title = "Rig Veda 10.105.11"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -22,82 +22,82 @@ title = "Rig Veda 10.105.11"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sumitra* \< *sumitraḥ* \< *sumitra*
+- *sumitra* ← *sumitraḥ* ← *sumitra*
 - \[noun\], nominative, singular, masculine
 - “Sumitra; Sumitra.”
 ------------------------------------------------------------------------
-- *itthāstaud* \< *itthā*
+- *itthāstaud* ← *itthā*
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *itthāstaud* \< *astaut* \< *stu*
+- *itthāstaud* ← *astaut* ← *stu*
 - \[verb\], singular, Imperfect
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *durmitra* \< *durmitraḥ* \< *durmitra*
+- *durmitra* ← *durmitraḥ* ← *durmitra*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *itthāstaut* \< *itthā*
+- *itthāstaut* ← *itthā*
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *itthāstaut* \< *astaut* \< *stu*
+- *itthāstaut* ← *astaut* ← *stu*
 - \[verb\], singular, Imperfect
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *āvo* \< *āvaḥ* \< *av*
+- *āvo* ← *āvaḥ* ← *av*
 - \[verb\], singular, Imperfect
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *dasyuhatye* \< *dasyu*
+- *dasyuhatye* ← *dasyu*
 - \[noun\], masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
-- *dasyuhatye* \< *hatye* \< *hatya*
+- *dasyuhatye* ← *hatye* ← *hatya*
 - \[noun\], locative, singular, neuter
 - “killing.”
 ------------------------------------------------------------------------
-- *kutsaputram* \< *kutsa*
+- *kutsaputram* ← *kutsa*
 - \[noun\], masculine
 - “Kutsa; kutsa \[word\].”
 ------------------------------------------------------------------------
-- *kutsaputram* \< *putram* \< *putra*
+- *kutsaputram* ← *putram* ← *putra*
 - \[noun\], accusative, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
-- *prāvo* \< *pra*
+- *prāvo* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prāvo* \< *āvaḥ* \< *av*
+- *prāvo* ← *āvaḥ* ← *av*
 - \[verb\], singular, Imperfect
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *dasyuhatye* \< *dasyu*
+- *dasyuhatye* ← *dasyu*
 - \[noun\], masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
-- *dasyuhatye* \< *hatye* \< *hatya*
+- *dasyuhatye* ← *hatye* ← *hatya*
 - \[noun\], locative, singular, neuter
 - “killing.”
 ------------------------------------------------------------------------
-- *kutsavatsam* \< *kutsa*
+- *kutsavatsam* ← *kutsa*
 - \[noun\], masculine
 - “Kutsa; kutsa \[word\].”
 ------------------------------------------------------------------------
-- *kutsavatsam* \< *vatsam* \< *vatsa*
+- *kutsavatsam* ← *vatsam* ← *vatsa*
 - \[noun\], accusative, singular, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”

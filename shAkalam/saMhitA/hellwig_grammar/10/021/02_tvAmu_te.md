@@ -24,23 +24,23 @@ title = "Rig Veda 10.21.2"
 - \[noun\], nominative, plural, masculine
 - “assistant.”
 ------------------------------------------------------------------------
-- *śumbhanty* \< *śumbhanti* \< *śubh*
+- *śumbhanty* ← *śumbhanti* ← *śubh*
 - \[verb\], plural, Present indikative
 - “look; shine; beautify.”
 ------------------------------------------------------------------------
-- *aśvarādhasaḥ* \< *aśva*
+- *aśvarādhasaḥ* ← *aśva*
 - \[noun\], masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *aśvarādhasaḥ* \< *rādhasaḥ* \< *rādhas*
+- *aśvarādhasaḥ* ← *rādhasaḥ* ← *rādhas*
 - \[noun\], nominative, plural, masculine
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *veti* \< *vī*
+- *veti* ← *vī*
 - \[verb\], singular, Present indikative
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *tvām* \< *tvad*
+- *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -51,30 +51,30 @@ title = "Rig Veda 10.21.2"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *mada* \< *made* \< *mada*
+- *mada* ← *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *ṛjītir* \< *ṛjītiḥ* \< *ṛjīti*
+- *ṛjītir* ← *ṛjītiḥ* ← *ṛjīti*
 - \[noun\], nominative, singular, feminine
 - “straight.”
 ------------------------------------------------------------------------
-- *agna* \< *agne* \< *agni*
+- *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *āhutir* \< *āhutiḥ* \< *āhuti*
+- *āhutir* ← *āhutiḥ* ← *āhuti*
 - \[noun\], nominative, singular, feminine
 - “āhuti; offering.”
 ------------------------------------------------------------------------
-- *vivakṣase* \< *vivakṣ* \< *√vac*
+- *vivakṣase* ← *vivakṣ* ← *√vac*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------

@@ -19,23 +19,23 @@ title = "Rig Veda 9.29.3"
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *punānāya* \< *pū*
+- *punānāya* ← *pū*
 - \[verb noun\], dative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *prabhūvaso* \< *prabhūvasu*
+- *prabhūvaso* ← *prabhūvasu*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *vardhā* \< *vardha* \< *vṛdh*
+- *vardhā* ← *vardha* ← *vṛdh*
 - \[verb\], singular, Present imperative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *samudram* \< *samudra*
+- *samudram* ← *samudra*
 - \[noun\], accusative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *ukthyam* \< *ukthya*
+- *ukthyam* ← *ukthya*
 - \[noun\], accusative, singular, masculine
 - “applaudable.”
 ------------------------------------------------------------------------

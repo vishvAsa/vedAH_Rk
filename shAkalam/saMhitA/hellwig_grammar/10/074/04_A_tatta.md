@@ -61,23 +61,23 @@ title = "Rig Veda 10.74.4"
 - \[noun\], accusative, singular, feminine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
-- *mahīṃ* ← *mahīm* \< *mah*
+- *mahīṃ* ← *mahīm* ← *mah*
 - \[noun\], accusative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *sahasradhārām* \< *sahasra*
+- *sahasradhārām* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasradhārām* \< *dhārām* \< *dhārā*
+- *sahasradhārām* ← *dhārām* ← *dhārā*
 - \[noun\], accusative, singular, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *bṛhatīṃ* \< *bṛhatīm* \< *bṛhat*
+- *bṛhatīṃ* ← *bṛhatīm* ← *bṛhat*
 - \[noun\], accusative, singular, feminine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *dudukṣan* \< *dudukṣ* \< *√duh*
+- *dudukṣan* ← *dudukṣ* ← *√duh*
 - \[verb\], plural, Present injunctive
 ------------------------------------------------------------------------

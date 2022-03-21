@@ -2,57 +2,57 @@
 title = "Rig Veda 5.27.1"
 
 +++
--   *anasvantā* \< *anasvat*
+-   *anasvantā* ← *anasvat*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------
-- *satpatir* \< *sat*
+- *satpatir* ← *sat*
 - \[noun\]
 - “good; good; real; existent; virtuous; sat \[prefix\]; real.”
 ------------------------------------------------------------------------
-- *satpatir* \< *patiḥ* \< *pati*
+- *satpatir* ← *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *māmahe* \< *mah*
+- *māmahe* ← *mah*
 - \[verb\], singular, Perfect indicative
 - “give; accord.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *gāvā* \< *go*
+- *gāvā* ← *go*
 - \[noun\], accusative, dual, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *cetiṣṭho* \< *cetiṣṭhaḥ* \< *cetiṣṭha*
+- *cetiṣṭho* ← *cetiṣṭhaḥ* ← *cetiṣṭha*
 - \[noun\], nominative, singular, masculine
 - “attentive.”
 ------------------------------------------------------------------------
-- *asuro* \< *asuraḥ* \< *asura*
+- *asuro* ← *asuraḥ* ← *asura*
 - \[noun\], nominative, singular, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
 ------------------------------------------------------------------------
-- *maghonaḥ* \< *maghavan*
+- *maghonaḥ* ← *maghavan*
 - \[noun\], ablative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *traivṛṣṇo* \< *traivṛṣṇaḥ* \< *traivṛṣṇa*
+- *traivṛṣṇo* ← *traivṛṣṇaḥ* ← *traivṛṣṇa*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *daśabhiḥ* \< *daśan*
+- *daśabhiḥ* ← *daśan*
 - \[noun\], instrumental, plural, neuter
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *sahasrair* \< *sahasraiḥ* \< *sahasra*
+- *sahasrair* ← *sahasraiḥ* ← *sahasra*
 - \[noun\], instrumental, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
@@ -60,10 +60,10 @@ title = "Rig Veda 5.27.1"
 - \[noun\], vocative, singular, masculine
 - “Agni; fire; Vaiśvānara; Vaiśvānara; sacrificial fire; sun.”
 ------------------------------------------------------------------------
-- *tryaruṇaś* \< *tryaruṇaḥ* \< *tryaruṇa*
+- *tryaruṇaś* ← *tryaruṇaḥ* ← *tryaruṇa*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *ciketa* \< *cit*
+- *ciketa* ← *cit*
 - \[verb\], singular, Perfect indicative
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------

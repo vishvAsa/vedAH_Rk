@@ -69,16 +69,16 @@ title = "Rig Veda 5.43.17"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *viśvāny* ← *viśvāni* \< *viśva*
+- *viśvāny* ← *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *amṛtā* \< *amṛta*
+- *amṛtā* ← *amṛta*
 - \[noun\], vocative, dual, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *saubhagāni* \< *saubhaga*
+- *saubhagāni* ← *saubhaga*
 - \[noun\], accusative, plural, neuter
 - “well-being.”
 ------------------------------------------------------------------------

@@ -22,23 +22,23 @@ title = "Rig Veda 9.20.6"
 - \[noun\], nominative, singular, masculine
 - “incomparable; irresistible; unbearable; unconquerable.”
 ------------------------------------------------------------------------
-- *mṛjyamāno* ← *mṛjyamānaḥ* \< *mṛj*
+- *mṛjyamāno* ← *mṛjyamānaḥ* ← *mṛj*
 - \[verb noun\], nominative, singular
 - “purify; polish; rub; remove.”
 ------------------------------------------------------------------------
-- *gabhastyoḥ* \< *gabhasti*
+- *gabhastyoḥ* ← *gabhasti*
 - \[noun\], locative, dual, masculine
 - “beam; hand; sun.”
 ------------------------------------------------------------------------
-- *somaś* \< *somaḥ* \< *soma*
+- *somaś* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *camūṣu* \< *camū*
+- *camūṣu* ← *camū*
 - \[noun\], locative, plural, feminine
 - “army; camū; Camū.”
 ------------------------------------------------------------------------
-- *sīdati* \< *sad*
+- *sīdati* ← *sad*
 - \[verb\], singular, Present indikative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”

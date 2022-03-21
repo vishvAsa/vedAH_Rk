@@ -17,7 +17,7 @@ title = "Rig Veda 10.48.8"
 - \[verb\], singular, Root aorist (Ind.)
 - “prepare.”
 ------------------------------------------------------------------------
-- *iṣaṃ* \< *iṣam* \< *iṣ*
+- *iṣaṃ* ← *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
@@ -25,19 +25,19 @@ title = "Rig Veda 10.48.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vṛtraturaṃ* \< *vṛtra*
+- *vṛtraturaṃ* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *vṛtraturaṃ* \< *turam* \< *tura*
+- *vṛtraturaṃ* ← *turam* ← *tura*
 - \[noun\], accusative, singular, masculine
 - “powerful; noble; noble.”
 ------------------------------------------------------------------------
-- *vikṣu* \< *viś*
+- *vikṣu* ← *viś*
 - \[noun\], locative, plural
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *dhārayam* \< *\_* \< *√\_*
+- *dhārayam* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
@@ -45,10 +45,10 @@ title = "Rig Veda 10.48.8"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *parṇayaghna* \< *parṇaya*
+- *parṇayaghna* ← *parṇaya*
 - \[noun\], masculine
 ------------------------------------------------------------------------
-- *parṇayaghna* \< *ghne* \< *ghna*
+- *parṇayaghna* ← *ghne* ← *ghna*
 - \[noun\], locative, singular, neuter
 - “fight; killing.”
 ------------------------------------------------------------------------
@@ -60,34 +60,34 @@ title = "Rig Veda 10.48.8"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *karañjahe* \< *karañja*
+- *karañjahe* ← *karañja*
 - \[noun\], masculine
 - “Indian beech; Karañja.”
 ------------------------------------------------------------------------
-- *karañjahe* \< *he* \< *ha*
+- *karañjahe* ← *he* ← *ha*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *prāham* \< *pra*
+- *prāham* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prāham* \< *aham* \< *mad*
+- *prāham* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mahe* \< *maha*
+- *mahe* ← *maha*
 - \[noun\], locative, singular, neuter
 - “great; abundant.”
 ------------------------------------------------------------------------
-- *vṛtrahatye* \< *vṛtra*
+- *vṛtrahatye* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *vṛtrahatye* \< *hatye* \< *hatya*
+- *vṛtrahatye* ← *hatye* ← *hatya*
 - \[noun\], locative, singular, neuter
 - “killing.”
 ------------------------------------------------------------------------
-- *aśuśravi* \< *śru*
+- *aśuśravi* ← *śru*
 - \[verb\], singular, Plusquamperfect
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------

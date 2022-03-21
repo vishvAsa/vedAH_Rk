@@ -34,11 +34,11 @@ title = "Rig Veda 10.127.8"
 - \[verb\], singular, Present imperative
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *duhitar* \< *duhitṛ*
+- *duhitar* ← *duhitṛ*
 - \[noun\], vocative, singular, feminine
 - “daughter; duhitṛ \[word\].”
 ------------------------------------------------------------------------
-- *divaḥ* \< *div*
+- *divaḥ* ← *div*
 - \[noun\], ablative, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -46,7 +46,7 @@ title = "Rig Veda 10.127.8"
 - \[noun\], vocative, singular, feminine
 - “night; night; rātri \[word\]; turmeric; Rātri; day; night.”
 ------------------------------------------------------------------------
-- *stomaṃ* \< *stomam* \< *stoma*
+- *stomaṃ* ← *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
@@ -54,7 +54,7 @@ title = "Rig Veda 10.127.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *jigyuṣe* \< *ji*
+- *jigyuṣe* ← *ji*
 - \[verb noun\], dative, singular
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”

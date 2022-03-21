@@ -82,7 +82,7 @@ title = "Rig Veda 10.148.4"
 - \[verb\], singular, Present imperative
 - “protect; help.”
 ------------------------------------------------------------------------
-- *gṛṇata* ← *gṛṇataḥ* \< *gṛ*
+- *gṛṇata* ← *gṛṇataḥ* ← *gṛ*
 - \[verb noun\], accusative, plural
 - “praise.”
 ------------------------------------------------------------------------
@@ -90,6 +90,6 @@ title = "Rig Veda 10.148.4"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *stīn* \< *sti*
+- *stīn* ← *sti*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------

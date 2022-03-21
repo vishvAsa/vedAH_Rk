@@ -98,7 +98,7 @@ title = "Rig Veda 10.44.5"
 - “vessel; pātra \[word\]; authority; receptacle; pātra; vessel; cup;
     bowl; basket.”
 ------------------------------------------------------------------------
-- *dharmaṇā* \< *dharman*
+- *dharmaṇā* ← *dharman*
 - \[noun\], instrumental, singular, neuter
 - “regulation; Dharma; law; property.”
 ------------------------------------------------------------------------

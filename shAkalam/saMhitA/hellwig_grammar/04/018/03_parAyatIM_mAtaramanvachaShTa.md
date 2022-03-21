@@ -75,15 +75,15 @@ title = "Rig Veda 4.18.3"
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *śatadhanyaṃ* ← *dhanyam* \< *dhanya*
+- *śatadhanyaṃ* ← *dhanyam* ← *dhanya*
 - \[noun\], accusative, singular, masculine
 - “fortunate; auspicious; affluent.”
 ------------------------------------------------------------------------
-- *camvoḥ* \< *camū*
+- *camvoḥ* ← *camū*
 - \[noun\], locative, dual, feminine
 - “army; camū; Camū.”
 ------------------------------------------------------------------------
-- *sutasya* \< *su*
+- *sutasya* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
 ------------------------------------------------------------------------

@@ -16,25 +16,25 @@ title = "Rig Veda 6.16.25"
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *saṃdṛṣṭir* \< *saṃdṛṣṭiḥ* \< *saṃdṛṣṭi*
+- *saṃdṛṣṭir* ← *saṃdṛṣṭiḥ* ← *saṃdṛṣṭi*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *iṣayate* \< *iṣay* \< *√iṣ*
+- *iṣayate* ← *iṣay* ← *√iṣ*
 - \[verb noun\], dative, singular
 ------------------------------------------------------------------------
-- *martyāya* \< *martya*
+- *martyāya* ← *martya*
 - \[noun\], dative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------
-- *ūrjo* \< *ūrjaḥ* \< *ūrj*
+- *ūrjo* ← *ūrjaḥ* ← *ūrj*
 - \[noun\], genitive, singular, feminine
 - “strength; refreshment; vigor; food; strengthening.”
 ------------------------------------------------------------------------
-- *napād* \< *napāt*
+- *napād* ← *napāt*
 - \[noun\], vocative, singular, masculine
 - “grandson; nephew; napāt \[word\].”
 ------------------------------------------------------------------------
-- *amṛtasya* \< *amṛta*
+- *amṛtasya* ← *amṛta*
 - \[noun\], genitive, singular, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------

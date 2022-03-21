@@ -36,22 +36,22 @@ title = "Rig Veda 5.18.4"
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *stīrṇam* \< *stṛ*
+- *stīrṇam* ← *stṛ*
 - \[verb noun\], nominative, singular
 - “spread; kill; lay; cover.”
 ------------------------------------------------------------------------
-- *barhiḥ* \< *barhis*
+- *barhiḥ* ← *barhis*
 - \[noun\], nominative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *svarṇare* \< *svarṇara*
+- *svarṇare* ← *svarṇara*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *śravāṃsi* \< *śravas*
+- *śravāṃsi* ← *śravas*
 - \[noun\], accusative, plural, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *dadhire* \< *dhā*
+- *dadhire* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

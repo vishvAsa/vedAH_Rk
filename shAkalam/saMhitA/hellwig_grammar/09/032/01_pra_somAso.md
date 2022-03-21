@@ -6,35 +6,35 @@ title = "Rig Veda 9.32.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *somāso* ← *somāsaḥ* \< *soma*
+- *somāso* ← *somāsaḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *madacyutaḥ* \< *madacyut*
+- *madacyutaḥ* ← *madacyut*
 - \[noun\], nominative, plural, masculine
 - “proud.”
 ------------------------------------------------------------------------
-- *śravase* \< *śravas*
+- *śravase* ← *śravas*
 - \[noun\], dative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *maghonaḥ* \< *maghavan*
+- *maghonaḥ* ← *maghavan*
 - \[noun\], genitive, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *sutā* \< *sutāḥ* \< *su*
+- *sutā* ← *sutāḥ* ← *su*
 - \[verb noun\], nominative, plural
 - “press out; su.”
 ------------------------------------------------------------------------
-- *vidathe* \< *vidatha*
+- *vidathe* ← *vidatha*
 - \[noun\], locative, singular, neuter
 - “meeting; wisdom; council.”
 ------------------------------------------------------------------------
-- *akramuḥ* \< *kram*
+- *akramuḥ* ← *kram*
 - \[verb\], plural, Root aorist (Ind.)
 - “kram; step; go; continue; proceed; traverse; heat.”
 ------------------------------------------------------------------------

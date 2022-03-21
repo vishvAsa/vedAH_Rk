@@ -68,29 +68,29 @@ title = "Rig Veda 10.44.6"
 - \[verb noun\]
 - “board; hop on; climb; ascend; descend; ride; copulate; grow.”
 ------------------------------------------------------------------------
-- *īrmaiva* \< *īrma*
+- *īrmaiva* ← *īrma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *īrmaiva* \< *eva*
+- *īrmaiva* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *aviśanta* \< *viś*
+- *aviśanta* ← *viś*
 - \[verb\], plural, Imperfect
 - “enter; penetrate; settle; settle.”
 ------------------------------------------------------------------------
-- *kepayaḥ* \< *kepi*
+- *kepayaḥ* ← *kepi*
 - \[noun\], nominative, plural, masculine
 - “quaking.”
 ------------------------------------------------------------------------

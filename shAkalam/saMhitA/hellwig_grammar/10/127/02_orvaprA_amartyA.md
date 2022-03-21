@@ -18,28 +18,28 @@ title = "Rig Veda 10.127.2"
 - \[noun\], nominative, singular, feminine
 - “immortal.”
 ------------------------------------------------------------------------
-- *nivato* ← *nivataḥ* \< *nivat*
+- *nivato* ← *nivataḥ* ← *nivat*
 - \[noun\], accusative, plural, feminine
 - “depth.”
 ------------------------------------------------------------------------
-- *devy* \< *devī*
+- *devy* ← *devī*
 - \[noun\], nominative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *udvataḥ* \< *udvat*
+- *udvataḥ* ← *udvat*
 - \[noun\], accusative, plural, feminine
 - “altitude.”
 ------------------------------------------------------------------------
-- *jyotiṣā* \< *jyotis*
+- *jyotiṣā* ← *jyotis*
 - \[noun\], instrumental, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
 ------------------------------------------------------------------------
-- *bādhate* \< *bādh*
+- *bādhate* ← *bādh*
 - \[verb\], singular, Present indikative
 - “afflict; annoy; chase away; tease; grieve; irritate.”
 ------------------------------------------------------------------------
-- *tamaḥ* \< *tamas*
+- *tamaḥ* ← *tamas*
 - \[noun\], accusative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”

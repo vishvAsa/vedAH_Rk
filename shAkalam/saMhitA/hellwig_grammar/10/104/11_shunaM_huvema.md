@@ -61,10 +61,10 @@ title = "Rig Veda 10.104.11"
 - \[noun\], accusative, plural, neuter
 - “enemy.”
 ------------------------------------------------------------------------
-- *saṃjitaṃ* \< *saṃjitam* \< *saṃjit*
+- *saṃjitaṃ* ← *saṃjitam* ← *saṃjit*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *dhanānām* \< *dhana*
+- *dhanānām* ← *dhana*
 - \[noun\], genitive, plural, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”

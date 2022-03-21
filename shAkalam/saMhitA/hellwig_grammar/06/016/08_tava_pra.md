@@ -36,12 +36,12 @@ title = "Rig Veda 6.16.8"
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *juṣanta* \< *juṣ*
+- *juṣanta* ← *juṣ*
 - \[verb\], plural, Present injunctive
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *kāminaḥ* \< *kāmin*
+- *kāminaḥ* ← *kāmin*
 - \[noun\], nominative, plural, masculine
 - “desirous; aroused; loving.”
 ------------------------------------------------------------------------

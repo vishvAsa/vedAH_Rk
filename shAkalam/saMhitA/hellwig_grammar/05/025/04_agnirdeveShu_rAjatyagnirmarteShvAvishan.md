@@ -23,45 +23,45 @@ title = "Rig Veda 5.25.4"
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *marteṣv* \< *marteṣu* \< *marta*
+- *marteṣv* ← *marteṣu* ← *marta*
 - \[noun\], locative, plural, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *āviśan* \< *āviś* \< *√viś*
+- *āviśan* ← *āviś* ← *√viś*
 - \[verb noun\], nominative, singular
 - “enter; overwhelm; possess; approach; afflict; enter (a state);
     reach; wear.”
 ------------------------------------------------------------------------
-- *agnir* \< *agniḥ* \< *agni*
+- *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *havyavāhano* \< *havya*
+- *havyavāhano* ← *havya*
 - \[noun\], neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *havyavāhano* \< *vāhanaḥ* \< *vāhana*
+- *havyavāhano* ← *vāhanaḥ* ← *vāhana*
 - \[noun\], nominative, singular, masculine
 - “bringing; carrying.”
 ------------------------------------------------------------------------
-- *'gniṃ* \< *agnim* \< *agni*
+- *'gniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *dhībhiḥ* \< *dhī*
+- *dhībhiḥ* ← *dhī*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *saparyata* \< *sapary*
+- *saparyata* ← *sapary*
 - \[verb\], plural, Present imperative
 - “worship.”
 ------------------------------------------------------------------------

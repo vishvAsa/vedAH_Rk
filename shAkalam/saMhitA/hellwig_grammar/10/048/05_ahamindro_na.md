@@ -63,19 +63,19 @@ title = "Rig Veda 10.48.5"
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *in* \< *id*
+- *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sunvanto* \< *sunvantaḥ* \< *su*
+- *sunvanto* ← *sunvantaḥ* ← *su*
 - \[verb noun\], nominative, plural
 - “press out; su.”
 ------------------------------------------------------------------------
-- *yācatā* \< *yāc*
+- *yācatā* ← *yāc*
 - \[verb\], plural, Present imperative
 - “beg; ask; offer; ask.”
 ------------------------------------------------------------------------
@@ -87,19 +87,19 @@ title = "Rig Veda 10.48.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pūravaḥ* \< *pūru*
+- *pūravaḥ* ← *pūru*
 - \[noun\], vocative, plural, masculine
 - “Pūru; Pūru.”
 ------------------------------------------------------------------------
-- *sakhye* \< *sakhya*
+- *sakhye* ← *sakhya*
 - \[noun\], locative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *riṣāthana* \< *riṣ*
+- *riṣāthana* ← *riṣ*
 - \[verb\], plural, Aorist conj./subj.
 - “suffer; harm.”
 ------------------------------------------------------------------------

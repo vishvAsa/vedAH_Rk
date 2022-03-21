@@ -48,11 +48,11 @@ title = "Rig Veda 10.104.10"
 - \[verb\], singular, Imperfect
 - “afflict; afflict; affect; distress; torment; impel; grind; suffer.”
 ------------------------------------------------------------------------
-- *vṛtram* \< *vṛtra*
+- *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *akṛṇod* \< *akṛṇot* \< *kṛ*
+- *akṛṇod* ← *akṛṇot* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -67,23 +67,23 @@ title = "Rig Veda 10.104.10"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *lokaṃ* \< *lokam* \< *loka*
+- *lokaṃ* ← *lokam* ← *loka*
 - \[noun\], accusative, singular, masculine
 - “Loka; Earth; world; vernacular; people; room; world; Earth; loka
     \[word\]; space; Loka; topographic point; region; common sense.”
 ------------------------------------------------------------------------
-- *sasāhe* \< *sah*
+- *sasāhe* ← *sah*
 - \[verb\], singular, Perfect indicative
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------
-- *śakraḥ* \< *śakra*
+- *śakraḥ* ← *śakra*
 - \[noun\], nominative, singular, masculine
 - “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
 ------------------------------------------------------------------------
-- *pṛtanā* \< *pṛtanāḥ* \< *pṛtanā*
+- *pṛtanā* ← *pṛtanāḥ* ← *pṛtanā*
 - \[noun\], accusative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
 ------------------------------------------------------------------------
-- *abhiṣṭiḥ* \< *abhiṣṭi*
+- *abhiṣṭiḥ* ← *abhiṣṭi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

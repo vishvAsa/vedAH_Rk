@@ -22,23 +22,23 @@ title = "Rig Veda 10.48.7"
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *asmi* \< *as*
+- *asmi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *niṣṣāḍ* \< *niṣṣāh*
+- *niṣṣāḍ* ← *niṣṣāh*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *abhī* \< *abhi*
+- *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *dvā* \< *dvi*
+- *dvā* ← *dvi*
 - \[noun\], accusative, dual, masculine
 - “two; dvi \[word\]; second.”
 ------------------------------------------------------------------------
-- *kim* \< *ka*
+- *kim* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -46,11 +46,11 @@ title = "Rig Veda 10.48.7"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *trayaḥ* \< *tri*
+- *trayaḥ* ← *tri*
 - \[noun\], nominative, plural, masculine
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *karanti* \< *kṛ*
+- *karanti* ← *kṛ*
 - \[verb\], plural, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -61,7 +61,7 @@ title = "Rig Veda 10.48.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *khale* \< *khala*
+- *khale* ← *khala*
 - \[noun\], locative, singular, masculine
 - “troublemaker; khala \[word\]; rogue; granary; earth.”
 ------------------------------------------------------------------------
@@ -69,7 +69,7 @@ title = "Rig Veda 10.48.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *parṣān* \< *parṣa*
+- *parṣān* ← *parṣa*
 - \[noun\], accusative, plural, masculine
 - “bundle.”
 ------------------------------------------------------------------------
@@ -77,7 +77,7 @@ title = "Rig Veda 10.48.7"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *hanmi* \< *han*
+- *hanmi* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
@@ -91,23 +91,23 @@ title = "Rig Veda 10.48.7"
 - \[adverb\]
 - “why; ka \[pronoun\]; if; how.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *nindanti* \< *nind*
+- *nindanti* ← *nind*
 - \[verb\], plural, Present indikative
 - “blame; disapprove; condemn; reprehend; reprimand.”
 ------------------------------------------------------------------------
-- *śatravo* \< *śatravaḥ* \< *śatru*
+- *śatravo* ← *śatravaḥ* ← *śatru*
 - \[noun\], nominative, plural, masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------
-- *'nindrāḥ* \< *an*
+- *'nindrāḥ* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *'nindrāḥ* \< *indrāḥ* \< *indra*
+- *'nindrāḥ* ← *indrāḥ* ← *indra*
 - \[noun\], nominative, plural, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”

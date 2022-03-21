@@ -88,11 +88,11 @@ title = "Rig Veda 10.28.1"
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
 ------------------------------------------------------------------------
-- *astaṃ* ← *astam* \< *asta*
+- *astaṃ* ← *astam* ← *asta*
 - \[noun\], accusative, singular, neuter
 - “home.”
 ------------------------------------------------------------------------
-- *jagāyāt* \< *gā*
+- *jagāyāt* ← *gā*
 - \[verb\], singular, Perfect optative
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------

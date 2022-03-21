@@ -24,23 +24,23 @@ title = "Rig Veda 10.48.10"
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *gopā* ← *gopāḥ* \< *gopā*
+- *gopā* ← *gopāḥ* ← *gopā*
 - \[noun\], nominative, singular, masculine
 - “herder; defender.”
 ------------------------------------------------------------------------
-- *nemam* \< *nema*
+- *nemam* ← *nema*
 - \[noun\], accusative, singular, masculine
 - “one.”
 ------------------------------------------------------------------------
-- *āvir* \< *āvis*
+- *āvir* ← *āvis*
 - \[adverb\]
 - “openly; obviously.”
 ------------------------------------------------------------------------
-- *asthā* \< *\_* \< *√\_*
+- *asthā* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *kṛṇoti* \< *kṛ*
+- *kṛṇoti* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -51,43 +51,43 @@ title = "Rig Veda 10.48.10"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tigmaśṛṅgaṃ* \< *tigma*
+- *tigmaśṛṅgaṃ* ← *tigma*
 - \[noun\]
 - “sharp; pointed; fiery.”
 ------------------------------------------------------------------------
-- *tigmaśṛṅgaṃ* \< *śṛṅgam* \< *śṛṅga*
+- *tigmaśṛṅgaṃ* ← *śṛṅgam* ← *śṛṅga*
 - \[noun\], accusative, singular, masculine
 - “peak; horn; tusk; śṛṅga \[word\].”
 ------------------------------------------------------------------------
-- *vṛṣabhaṃ* \< *vṛṣabham* \< *vṛṣabha*
+- *vṛṣabhaṃ* ← *vṛṣabham* ← *vṛṣabha*
 - \[noun\], accusative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *yuyutsan* \< *yuyuts* \< *√yudh*
+- *yuyutsan* ← *yuyuts* ← *√yudh*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *druhas* \< *druhaḥ* \< *druh*
+- *druhas* ← *druhaḥ* ← *druh*
 - \[noun\], genitive, singular, feminine
 - “deception; druh; misrepresentation; fraudulence; offense; injury.”
 ------------------------------------------------------------------------
-- *tasthau* \< *sthā*
+- *tasthau* ← *sthā*
 - \[verb\], singular, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *bahule* \< *bahula*
+- *bahule* ← *bahula*
 - \[noun\], locative, singular, neuter
 - “frequent; endowed; much(a); many; abounding in(p); abundant; bahula
     \[word\]; accompanied; prevailing.”
 ------------------------------------------------------------------------
-- *baddho* \< *baddhaḥ* \< *bandh*
+- *baddho* ← *baddhaḥ* ← *bandh*
 - \[verb noun\], nominative, singular
 - “bandh; tie; envelop; close; dress; wrap; bind; constipate; fixate;
     shape; paralyze; construct; bandage; compress; beset; oblige; strap;
@@ -95,7 +95,7 @@ title = "Rig Veda 10.48.10"
     obstruct; write; restrain; bind; persecute; enclose; ligature; fill
     into; fasten.”
 ------------------------------------------------------------------------
-- *antaḥ* \< *antar*
+- *antaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------

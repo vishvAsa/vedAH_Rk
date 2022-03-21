@@ -50,11 +50,11 @@ title = "Rig Veda 7.2.6"
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *puruhūte* \< *hūte* \< *hvā*
+- *puruhūte* ← *hūte* ← *hvā*
 - \[verb noun\], nominative, dual
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *maghonī* \< *maghavan*
+- *maghonī* ← *maghavan*
 - \[noun\], nominative, dual, feminine
 - “big.”
 ------------------------------------------------------------------------
@@ -62,15 +62,15 @@ title = "Rig Veda 7.2.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yajñiye* \< *yajñiya*
+- *yajñiye* ← *yajñiya*
 - \[noun\], nominative, dual, feminine
 - “sacrificial; divine; devoted.”
 ------------------------------------------------------------------------
-- *suvitāya* \< *suvita*
+- *suvitāya* ← *suvita*
 - \[noun\], dative, singular, neuter
 - “prosperity; well-being.”
 ------------------------------------------------------------------------
-- *śrayetām* \< *śri*
+- *śrayetām* ← *śri*
 - \[verb\], dual, Present optative
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 ------------------------------------------------------------------------

@@ -58,10 +58,10 @@ title = "Rig Veda 7.1.10"
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *panayanta* \< *panay* \< *√pan*
+- *panayanta* ← *panay* ← *√pan*
 - \[verb\], plural, Present injunctive
 ------------------------------------------------------------------------
-- *praśastām* \< *praśaṃs* \< *√śaṃs*
+- *praśastām* ← *praśaṃs* ← *√śaṃs*
 - \[verb noun\], accusative, singular
 - “recommend; approve; praise; laud; favor; proclaim.”
 ------------------------------------------------------------------------

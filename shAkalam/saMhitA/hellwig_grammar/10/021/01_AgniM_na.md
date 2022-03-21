@@ -16,30 +16,30 @@ title = "Rig Veda 10.21.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *svavṛktibhir* \< *svavṛktibhiḥ* \< *svavṛkti*
+- *svavṛktibhir* ← *svavṛktibhiḥ* ← *svavṛkti*
 - \[noun\], instrumental, plural, feminine
 ------------------------------------------------------------------------
-- *hotāraṃ* \< *hotāram* \< *hotṛ*
+- *hotāraṃ* ← *hotāram* ← *hotṛ*
 - \[noun\], accusative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vṛṇīmahe* \< *vṛ*
+- *vṛṇīmahe* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *yajñāya* \< *yajña*
+- *yajñāya* ← *yajña*
 - \[noun\], dative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *stīrṇabarhiṣe* \< *stīrṇa* \< *stṛ*
+- *stīrṇabarhiṣe* ← *stīrṇa* ← *stṛ*
 - \[verb noun\]
 - “spread; kill; lay; cover.”
 ------------------------------------------------------------------------
-- *stīrṇabarhiṣe* \< *barhiṣe* \< *barhis*
+- *stīrṇabarhiṣe* ← *barhiṣe* ← *barhis*
 - \[noun\], dative, singular, masculine
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
@@ -47,28 +47,28 @@ title = "Rig Veda 10.21.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *made* \< *mada*
+- *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *śīram* \< *śīra*
+- *śīram* ← *śīra*
 - \[noun\], accusative, singular, masculine
 - “sharp; acerb.”
 ------------------------------------------------------------------------
-- *pāvakaśociṣaṃ* \< *pāvaka*
+- *pāvakaśociṣaṃ* ← *pāvaka*
 - \[noun\]
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
 ------------------------------------------------------------------------
-- *pāvakaśociṣaṃ* \< *śociṣam* \< *śocis*
+- *pāvakaśociṣaṃ* ← *śociṣam* ← *śocis*
 - \[noun\], accusative, singular, masculine
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------
-- *vivakṣase* \< *vivakṣ* \< *√vac*
+- *vivakṣase* ← *vivakṣ* ← *√vac*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------

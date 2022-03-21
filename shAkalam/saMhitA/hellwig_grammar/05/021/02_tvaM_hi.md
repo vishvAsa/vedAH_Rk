@@ -37,15 +37,15 @@ title = "Rig Veda 5.21.2"
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “kindle; ignite; set ablaze.”
 ------------------------------------------------------------------------
-- *srucas* ← *srucaḥ* \< *sruc*
+- *srucas* ← *srucaḥ* ← *sruc*
 - \[noun\], nominative, plural, feminine
 - “Sruc.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *yanty* \< *yanti* \< *i*
+- *yanty* ← *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
@@ -53,21 +53,21 @@ title = "Rig Veda 5.21.2"
 - \[adverb\]
 - “correctly; in sequence; punctually.”
 ------------------------------------------------------------------------
-- *sujāta* \< *su*
+- *sujāta* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sujāta* \< *jāta* \< *jan*
+- *sujāta* ← *jāta* ← *jan*
 - \[verb noun\], vocative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *sarpirāsute* \< *sarpiḥ* \< *sarpis*
+- *sarpirāsute* ← *sarpiḥ* ← *sarpis*
 - \[noun\], neuter
 - “ghee; clarified butter; sarpiḥprameha.”
 ------------------------------------------------------------------------
-- *sarpirāsute* \< *āsute* \< *āsuti*
+- *sarpirāsute* ← *āsute* ← *āsuti*
 - \[noun\], vocative, singular, masculine
 - “āsuti \[word\].”
 ------------------------------------------------------------------------

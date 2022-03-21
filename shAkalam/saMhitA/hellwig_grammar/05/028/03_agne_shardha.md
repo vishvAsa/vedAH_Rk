@@ -2,56 +2,56 @@
 title = "Rig Veda 5.28.3"
 
 +++
--   *agne* \< *agni*
+-   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *śardha* \< *śṛdh*
+- *śardha* ← *śṛdh*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------
-- *mahate* \< *mahat*
+- *mahate* ← *mahat*
 - \[noun\], dative, singular, neuter
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
 ------------------------------------------------------------------------
-- *saubhagāya* \< *saubhaga*
+- *saubhagāya* ← *saubhaga*
 - \[noun\], dative, singular, neuter
 - “well-being.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dyumnāny* \< *dyumnāni* \< *dyumna*
+- *dyumnāny* ← *dyumnāni* ← *dyumna*
 - \[noun\], nominative, plural, neuter
 - “magnificence.”
 ------------------------------------------------------------------------
-- *uttamāni* \< *uttama*
+- *uttamāni* ← *uttama*
 - \[noun\], nominative, plural, neuter
 - “best; excellent; highest; better; extreme; last; first; topmost;
     chief(a); higher; highest; maximal; uttama \[word\]; prevailing;
     finest.”
 ------------------------------------------------------------------------
-- *santu* \< *as*
+- *santu* ← *as*
 - \[verb\], plural, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *jāspatyaṃ* \< *jāspatyam* \< *jāspatya*
+- *jāspatyaṃ* ← *jāspatyam* ← *jāspatya*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *suyamam* \< *su*
+- *suyamam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suyamam* \< *yamam* \< *yama*
+- *suyamam* ← *yamam* ← *yama*
 - \[noun\], accusative, singular, neuter
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
 ------------------------------------------------------------------------
@@ -59,7 +59,7 @@ title = "Rig Veda 5.28.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *kṛṇuṣva* \< *kṛ*
+- *kṛṇuṣva* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -70,20 +70,20 @@ title = "Rig Veda 5.28.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *śatrūyatām* \< *śatrūy*
+- *śatrūyatām* ← *śatrūy*
 - \[verb noun\], genitive, plural
 ------------------------------------------------------------------------
 - *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *tiṣṭhā* \< *sthā*
+- *tiṣṭhā* ← *sthā*
 - \[verb\], singular, Present imperative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *mahāṃsi* \< *mahas*
+- *mahāṃsi* ← *mahas*
 - \[noun\], accusative, plural, neuter
 - “greatness; festival; glory; reward; gladness.”
 ------------------------------------------------------------------------

@@ -16,25 +16,25 @@ title = "Rig Veda 9.20.1"
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devavītaye* \< *vītaye* \< *vīti*
+- *devavītaye* ← *vītaye* ← *vīti*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------
-- *'vyo* \< *avyaḥ* \< *avya*
+- *'vyo* ← *avyaḥ* ← *avya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vārebhir* \< *vārebhiḥ* \< *vāra*
+- *vārebhir* ← *vārebhiḥ* ← *vāra*
 - \[noun\], instrumental, plural, masculine
 - “strainer.”
 ------------------------------------------------------------------------
-- *arṣati* \< *ṛṣ*
+- *arṣati* ← *ṛṣ*
 - \[verb\], singular, Present indikative
 - “run.”
 ------------------------------------------------------------------------
-- *sāhvān* \< *sah*
+- *sāhvān* ← *sah*
 - \[verb noun\], nominative, singular
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśvāḥ* \< *viśva*
+- *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
@@ -43,7 +43,7 @@ title = "Rig Veda 9.20.1"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *spṛdhaḥ* \< *spṛdh*
+- *spṛdhaḥ* ← *spṛdh*
 - \[noun\], accusative, plural, feminine
 - “adversary; enemy; rival.”
 ------------------------------------------------------------------------

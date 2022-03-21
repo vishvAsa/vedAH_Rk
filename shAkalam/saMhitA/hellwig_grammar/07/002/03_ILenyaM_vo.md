@@ -38,27 +38,27 @@ title = "Rig Veda 7.2.3"
 - \[noun\]
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *satyavācam* ← *vācam* \< *vāc*
+- *satyavācam* ← *vācam* ← *vāc*
 - \[noun\], accusative, singular, masculine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
 ------------------------------------------------------------------------
-- *manuṣvad* \< *manuṣvat*
+- *manuṣvad* ← *manuṣvat*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *agnim* \< *agni*
+- *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *manunā* \< *manu*
+- *manunā* ← *manu*
 - \[noun\], instrumental, singular, masculine
 - “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
     incantation; sacred text.”
 ------------------------------------------------------------------------
-- *samiddhaṃ* \< *samiddham* \< *samindh* \< *√indh*
+- *samiddhaṃ* ← *samiddham* ← *samindh* ← *√indh*
 - \[verb noun\], accusative, singular
 - “kindle; blaze.”
 ------------------------------------------------------------------------
@@ -66,7 +66,7 @@ title = "Rig Veda 7.2.3"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *adhvarāya* \< *adhvara*
+- *adhvarāya* ← *adhvara*
 - \[noun\], dative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
@@ -74,11 +74,11 @@ title = "Rig Veda 7.2.3"
 - \[adverb\]
 - “always.”
 ------------------------------------------------------------------------
-- *in* \< *id*
+- *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *mahema* \< *mah*
+- *mahema* ← *mah*
 - \[verb\], plural, Present optative
 - “give; accord.”
 ------------------------------------------------------------------------

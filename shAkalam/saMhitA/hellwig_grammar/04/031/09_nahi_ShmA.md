@@ -25,26 +25,26 @@ title = "Rig Veda 4.31.9"
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *rādho* ← *rādhaḥ* \< *rādhas*
+- *rādho* ← *rādhaḥ* ← *rādhas*
 - \[noun\], accusative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *varanta* \< *varante* \< *vṛ*
+- *varanta* ← *varante* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *āmuraḥ* \< *āmur*
+- *āmuraḥ* ← *āmur*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *cyautnāni* \< *cyautna*
+- *cyautnāni* ← *cyautna*
 - \[noun\], nominative, plural, neuter
 ------------------------------------------------------------------------
-- *kariṣyataḥ* \< *kṛ*
+- *kariṣyataḥ* ← *kṛ*
 - \[verb noun\], genitive, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

@@ -32,47 +32,47 @@ title = "Rig Veda 3.28.5"
 - \[noun\], genitive, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *sūnav* ← *sūno* \< *sūnu*
+- *sūnav* ← *sūno* ← *sūnu*
 - \[noun\], vocative, singular, masculine
 - “son; offspring.”
 ------------------------------------------------------------------------
-- *āhutam* \< *āhu* \< *√hu*
+- *āhutam* ← *āhu* ← *√hu*
 - \[verb noun\], accusative, singular
 - “sacrifice; sprinkle.”
 ------------------------------------------------------------------------
-- *athā* \< *atha*
+- *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *athā* \< *ā*
+- *athā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *deveṣv* \< *deveṣu* \< *deva*
+- *deveṣv* ← *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *adhvaraṃ* \< *adhvaram* \< *adhvara*
+- *adhvaraṃ* ← *adhvaram* ← *adhvara*
 - \[noun\], accusative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
 - *vipanyayā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *dhā* \< *dhāḥ* \< *dhā*
+- *dhā* ← *dhāḥ* ← *dhā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *ratnavantam* \< *ratnavat*
+- *ratnavantam* ← *ratnavat*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *amṛteṣu* \< *amṛta*
+- *amṛteṣu* ← *amṛta*
 - \[noun\], locative, plural, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *jāgṛvim* \< *jāgṛvi*
+- *jāgṛvim* ← *jāgṛvi*
 - \[noun\], accusative, singular, masculine
 - “attentive; argus-eyed; light.”
 ------------------------------------------------------------------------

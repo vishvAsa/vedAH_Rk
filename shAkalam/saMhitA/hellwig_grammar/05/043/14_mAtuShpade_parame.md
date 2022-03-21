@@ -51,30 +51,30 @@ title = "Rig Veda 5.43.14"
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *rātahavyāḥ* \< *rāta* \< *rā*
+- *rātahavyāḥ* ← *rāta* ← *rā*
 - \[verb noun\]
 - “give; impart.”
 ------------------------------------------------------------------------
-- *rātahavyāḥ* \< *havyāḥ* \< *havya*
+- *rātahavyāḥ* ← *havyāḥ* ← *havya*
 - \[noun\], nominative, plural, masculine
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *śiśum* \< *śiśu*
+- *śiśum* ← *śiśu*
 - \[noun\], accusative, singular, masculine
 - “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
 ------------------------------------------------------------------------
-- *mṛjanty* \< *mṛjanti* \< *mṛj*
+- *mṛjanty* ← *mṛjanti* ← *mṛj*
 - \[verb\], plural, Present indikative
 - “purify; polish; rub; remove.”
 ------------------------------------------------------------------------
-- *āyavo* \< *āyavaḥ* \< *āyu*
+- *āyavo* ← *āyavaḥ* ← *āyu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vāse* \< *vāsa*
+- *vāse* ← *vāsa*
 - \[noun\], locative, singular, masculine
 - “stay; dwelling; vāsa; residency; vāsa \[word\]; camp; bedroom.”
 ------------------------------------------------------------------------

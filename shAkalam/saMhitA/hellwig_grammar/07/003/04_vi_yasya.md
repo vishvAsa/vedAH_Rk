@@ -34,43 +34,43 @@ title = "Rig Veda 7.3.4"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *annā* \< *anna*
+- *annā* ← *anna*
 - \[noun\], accusative, plural, neuter
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
 ------------------------------------------------------------------------
-- *samavṛkta* \< *saṃvṛj* \< *√vṛj*
+- *samavṛkta* ← *saṃvṛj* ← *√vṛj*
 - \[verb\], singular, Root aorist (Ind.)
 ------------------------------------------------------------------------
-- *jambhaiḥ* \< *jambha*
+- *jambhaiḥ* ← *jambha*
 - \[noun\], instrumental, plural, masculine
 - “Jambha; citron; jaw; tooth; molar; back tooth.”
 ------------------------------------------------------------------------
-- *seneva* \< *senā*
+- *seneva* ← *senā*
 - \[noun\], nominative, singular, feminine
 - “army; senā \[word\]; armament.”
 ------------------------------------------------------------------------
-- *seneva* \< *iva*
+- *seneva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sṛṣṭā* \< *sṛj*
+- *sṛṣṭā* ← *sṛj*
 - \[verb noun\], nominative, singular
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *prasitiṣ* \< *prasitiḥ* \< *prasiti*
+- *prasitiṣ* ← *prasitiḥ* ← *prasiti*
 - \[noun\], nominative, singular, feminine
 - “attack.”
 ------------------------------------------------------------------------
-- *ṭa* \< *te* \< *tvad*
+- *ṭa* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *yavaṃ* \< *yavam* \< *yava*
+- *yavaṃ* ← *yavam* ← *yava*
 - \[noun\], accusative, singular, masculine
 - “barley; yava; barleycorn; yava \[word\]; yava; yavakṣāra; grain.”
 ------------------------------------------------------------------------
@@ -82,11 +82,11 @@ title = "Rig Veda 7.3.4"
 - \[noun\], vocative, singular, masculine
 - “overlord.”
 ------------------------------------------------------------------------
-- *juhvā* \< *juhū*
+- *juhvā* ← *juhū*
 - \[noun\], instrumental, singular, feminine
 - “tongue; fire; ladle.”
 ------------------------------------------------------------------------
-- *vivekṣi* \< *viṣ*
+- *vivekṣi* ← *viṣ*
 - \[verb\], singular, Present indikative
 - “labor; act; perform.”
 ------------------------------------------------------------------------

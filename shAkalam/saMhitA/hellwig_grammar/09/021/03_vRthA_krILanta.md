@@ -33,19 +33,19 @@ title = "Rig Veda 9.21.3"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *sindhor* ← *sindhoḥ* \< *sindhu*
+- *sindhor* ← *sindhoḥ* ← *sindhu*
 - \[noun\], genitive, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *ūrmā* \< *ūrmi*
+- *ūrmā* ← *ūrmi*
 - \[noun\], locative, singular, feminine
 - “wave; billow.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *akṣaran* \< *kṣar*
+- *akṣaran* ← *kṣar*
 - \[verb\], plural, Root aorist (Ind.)
 - “run; melt.”
 ------------------------------------------------------------------------

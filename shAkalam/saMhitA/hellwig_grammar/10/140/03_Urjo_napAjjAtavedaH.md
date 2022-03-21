@@ -30,50 +30,50 @@ title = "Rig Veda 10.140.3"
 - \[noun\], instrumental, plural, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------
-- *hitaḥ* \< *hi*
+- *hitaḥ* ← *hi*
 - \[verb noun\], nominative, singular
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
-- *tve* \< *tvad*
+- *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *iṣaḥ* \< *iṣ*
+- *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *dadhur* \< *dadhuḥ* \< *dhā*
+- *dadhur* ← *dadhuḥ* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *bhūrivarpasaś* \< *bhūri*
+- *bhūrivarpasaś* ← *bhūri*
 - \[noun\]
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *bhūrivarpasaś* \< *varpasaḥ* \< *varpas*
+- *bhūrivarpasaś* ← *varpasaḥ* ← *varpas*
 - \[noun\], nominative, plural, masculine
 - “form; look; disguise.”
 ------------------------------------------------------------------------
-- *citrotayo* \< *citra*
+- *citrotayo* ← *citra*
 - \[noun\]
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *citrotayo* \< *ūtayaḥ* \< *ūti*
+- *citrotayo* ← *ūtayaḥ* ← *ūti*
 - \[noun\], nominative, plural, masculine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *vāmajātāḥ* \< *vāma*
+- *vāmajātāḥ* ← *vāma*
 - \[noun\]
 - “agreeable; vāma \[word\]; beautiful.”
 ------------------------------------------------------------------------
-- *vāmajātāḥ* \< *jātāḥ* \< *jan*
+- *vāmajātāḥ* ← *jātāḥ* ← *jan*
 - \[verb noun\], nominative, plural
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;

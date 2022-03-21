@@ -11,20 +11,20 @@ title = "Rig Veda 4.17.20"
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *indro* ← *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *maghavā* \< *maghavan*
+- *maghavā* ← *maghavan*
 - \[noun\], nominative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *virapśī* \< *virapśin*
+- *virapśī* ← *virapśin*
 - \[noun\], nominative, singular, masculine
 - “exuberant; copious; ample.”
 ------------------------------------------------------------------------
-- *karat* \< *kṛ*
+- *karat* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -35,39 +35,39 @@ title = "Rig Veda 4.17.20"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *satyā* \< *satya*
+- *satyā* ← *satya*
 - \[noun\], accusative, plural, neuter
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *carṣaṇīdhṛd* \< *carṣaṇī*
+- *carṣaṇīdhṛd* ← *carṣaṇī*
 - \[noun\], feminine
 ------------------------------------------------------------------------
-- *carṣaṇīdhṛd* \< *dhṛt*
+- *carṣaṇīdhṛd* ← *dhṛt*
 - \[noun\], nominative, singular, masculine
 - “maintaining.”
 ------------------------------------------------------------------------
-- *anarvā* \< *anarvan*
+- *anarvā* ← *anarvan*
 - \[noun\], nominative, singular, masculine
 - “unchallenged; unrivaled.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *rājā* \< *rājan*
+- *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *januṣāṃ* \< *januṣām* \< *janus*
+- *januṣāṃ* ← *januṣām* ← *janus*
 - \[noun\], genitive, plural, masculine
 - “birth.”
 ------------------------------------------------------------------------
-- *dhehy* \< *dhehi* \< *dhā*
+- *dhehy* ← *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -75,19 +75,19 @@ title = "Rig Veda 4.17.20"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *śravo* \< *śravaḥ* \< *śravas*
+- *śravo* ← *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *māhinaṃ* \< *māhinam* \< *māhina*
+- *māhinaṃ* ← *māhinam* ← *māhina*
 - \[noun\], accusative, singular, neuter
 - “mighty; large.”
 ------------------------------------------------------------------------
-- *yaj* \< *yat* \< *yad*
+- *yaj* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *jaritre* \< *jaritṛ*
+- *jaritre* ← *jaritṛ*
 - \[noun\], dative, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------

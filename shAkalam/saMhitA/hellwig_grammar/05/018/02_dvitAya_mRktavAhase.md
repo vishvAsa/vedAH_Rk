@@ -14,25 +14,25 @@ title = "Rig Veda 5.18.2"
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *dakṣasya* \< *dakṣa*
+- *dakṣasya* ← *dakṣa*
 - \[noun\], genitive, singular, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
 ------------------------------------------------------------------------
 - *maṃhanā*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *induṃ* \< *indum* \< *indu*
+- *induṃ* ← *indum* ← *indu*
 - \[noun\], accusative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *dhatta* \< *dhatte* \< *dhā*
+- *dhatta* ← *dhatte* ← *dhā*
 - \[verb\], singular, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
@@ -41,7 +41,7 @@ title = "Rig Veda 5.18.2"
 - \[adverb\]
 - “correctly; in sequence; punctually.”
 ------------------------------------------------------------------------
-- *stotā* \< *stotṛ*
+- *stotā* ← *stotṛ*
 - \[noun\], nominative, singular, masculine
 - “laudatory; worshiping.”
 ------------------------------------------------------------------------
@@ -49,7 +49,7 @@ title = "Rig Veda 5.18.2"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------

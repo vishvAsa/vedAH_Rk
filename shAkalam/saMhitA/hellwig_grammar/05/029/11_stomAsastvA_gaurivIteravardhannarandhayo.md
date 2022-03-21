@@ -10,22 +10,22 @@ title = "Rig Veda 5.29.11"
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *gaurivīter* ← *gaurivīteḥ* \< *gaurivīti*
+- *gaurivīter* ← *gaurivīteḥ* ← *gaurivīti*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *avardhann* \< *avardhan* \< *vṛdh*
+- *avardhann* ← *avardhan* ← *vṛdh*
 - \[verb\], plural, Imperfect
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *arandhayo* \< *arandhayaḥ* \< *randhay* \< *√radh*
+- *arandhayo* ← *arandhayaḥ* ← *randhay* ← *√radh*
 - \[verb\], singular, Imperfect
 - “subjugate; hand over.”
 ------------------------------------------------------------------------
-- *vaidathināya* \< *vaidathina*
+- *vaidathināya* ← *vaidathina*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *piprum* \< *pipru*
+- *piprum* ← *pipru*
 - \[noun\], accusative, singular, masculine
 - “Pipru.”
 ------------------------------------------------------------------------
@@ -33,19 +33,19 @@ title = "Rig Veda 5.29.11"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tvām* \< *tvad*
+- *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ṛjiśvā* \< *ṛjiśvan*
+- *ṛjiśvā* ← *ṛjiśvan*
 - \[noun\], nominative, singular, masculine
 - “Ṛjiśvan.”
 ------------------------------------------------------------------------
-- *sakhyāya* \< *sakhya*
+- *sakhyāya* ← *sakhya*
 - \[noun\], dative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *cakre* \< *kṛ*
+- *cakre* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -56,24 +56,24 @@ title = "Rig Veda 5.29.11"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *pacan* \< *pac*
+- *pacan* ← *pac*
 - \[verb noun\], nominative, singular
 - “heat; cook; digest; boil; ripen; fester; burn; boil; cauterize;
     fry; cook; suppurate; inflame.”
 ------------------------------------------------------------------------
-- *paktīr* \< *paktīḥ* \< *pakti*
+- *paktīr* ← *paktīḥ* ← *pakti*
 - \[noun\], accusative, plural, feminine
 - “digestion; food.”
 ------------------------------------------------------------------------
-- *apibaḥ* \< *pā*
+- *apibaḥ* ← *pā*
 - \[verb\], singular, Imperfect
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------

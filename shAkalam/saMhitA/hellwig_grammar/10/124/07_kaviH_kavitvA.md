@@ -27,41 +27,41 @@ title = "Rig Veda 10.124.7"
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
 ------------------------------------------------------------------------
-- *āsajad* ← *āsajat* \< *āsañj* \< *√sañj*
+- *āsajad* ← *āsajat* ← *āsañj* ← *√sañj*
 - \[verb\], singular, Imperfect
 - “adhere; give; hang; mix; attach; addict.”
 ------------------------------------------------------------------------
-- *aprabhūtī* \< *a*
+- *aprabhūtī* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *aprabhūtī* \< *prabhūtīḥ* \< *prabhūti*
+- *aprabhūtī* ← *prabhūtīḥ* ← *prabhūti*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *varuṇo* \< *varuṇaḥ* \< *varuṇa*
+- *varuṇo* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *nir* \< *niḥ*
+- *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *apaḥ* \< *ap*
+- *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *sṛjat* \< *sṛj*
+- *sṛjat* ← *sṛj*
 - \[verb\], singular, Present injunctive
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *kṣemaṃ* \< *kṣemam* \< *kṣema*
+- *kṣemaṃ* ← *kṣemam* ← *kṣema*
 - \[noun\], accusative, singular, neuter
 - “ease; happiness; peace; tranquillity; kṣema \[word\]; respite;
     rest.”
 ------------------------------------------------------------------------
-- *kṛṇvānā* \< *kṛṇvānāḥ* \< *kṛ*
+- *kṛṇvānā* ← *kṛṇvānāḥ* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -72,7 +72,7 @@ title = "Rig Veda 10.124.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *janayo* \< *janayaḥ* \< *jani*
+- *janayo* ← *janayaḥ* ← *jani*
 - \[noun\], nominative, plural, feminine
 - “wife; jan; woman; jani \[word\]; birth.”
 ------------------------------------------------------------------------
@@ -80,30 +80,30 @@ title = "Rig Veda 10.124.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sindhavas* \< *sindhavaḥ* \< *sindhu*
+- *sindhavas* ← *sindhavaḥ* ← *sindhu*
 - \[noun\], nominative, plural, feminine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *tā* \< *tāḥ* \< *tad*
+- *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *varṇaṃ* \< *varṇam* \< *varṇa*
+- *varṇaṃ* ← *varṇam* ← *varṇa*
 - \[noun\], accusative, singular, masculine
 - “color; caste; complexion; vowel; varṇa \[word\]; vowel; syllable;
     appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
 ------------------------------------------------------------------------
-- *śucayo* \< *śucayaḥ* \< *śuci*
+- *śucayo* ← *śucayaḥ* ← *śuci*
 - \[noun\], nominative, plural, feminine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *bharibhrati* \< *bharibhṛ* \< *√bhṛ*
+- *bharibhrati* ← *bharibhṛ* ← *√bhṛ*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------

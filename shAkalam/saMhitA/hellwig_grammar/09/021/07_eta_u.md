@@ -41,11 +41,11 @@ title = "Rig Veda 9.21.7"
 - \[adverb\]
 - “evenly.”
 ------------------------------------------------------------------------
-- *prāsāviṣur* ← *prāsāviṣuḥ* \< *prasū* \< *√sū*
+- *prāsāviṣur* ← *prāsāviṣuḥ* ← *prasū* ← *√sū*
 - \[verb\], plural, Athematic is aor. (Ind.)
 - “give birth; be born; originate; impel; propel; grow.”
 ------------------------------------------------------------------------
-- *matim* \< *mati*
+- *matim* ← *mati*
 - \[noun\], accusative, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”

@@ -47,23 +47,23 @@ title = "Rig Veda 10.149.5"
 - \[verb noun\], nominative, singular
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *avase* \< *av*
+- *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *vandamānaḥ* \< *vand*
+- *vandamānaḥ* ← *vand*
 - \[verb noun\], nominative, singular
 - “worship; laud.”
 ------------------------------------------------------------------------
-- *somasyevāṃśum* \< *somasya* \< *soma*
+- *somasyevāṃśum* ← *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somasyevāṃśum* \< *iva*
+- *somasyevāṃśum* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *somasyevāṃśum* \< *aṃśum* \< *aṃśu*
+- *somasyevāṃśum* ← *aṃśum* ← *aṃśu*
 - \[noun\], accusative, singular, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
 ------------------------------------------------------------------------
@@ -71,11 +71,11 @@ title = "Rig Veda 10.149.5"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *jāgarāham* \< *jāgara* \< *jāgṛ*
+- *jāgarāham* ← *jāgara* ← *jāgṛ*
 - \[verb\], singular, Perfect indicative
 - “wake; watch; awaken; wake up; oversee.”
 ------------------------------------------------------------------------
-- *jāgarāham* \< *aham* \< *mad*
+- *jāgarāham* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------

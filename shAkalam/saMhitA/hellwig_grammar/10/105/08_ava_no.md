@@ -26,30 +26,30 @@ title = "Rig Veda 10.105.8"
 - \[verb\], plural, Present optative
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *vanemānṛcaḥ* \< *anṛcaḥ* \< *anṛc*
+- *vanemānṛcaḥ* ← *anṛcaḥ* ← *anṛc*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *nābrahmā* \< *na*
+- *nābrahmā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nābrahmā* \< *abrahmā* \< *abrahman*
+- *nābrahmā* ← *abrahmā* ← *abrahman*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *yajña* \< *yajñaḥ* \< *yajña*
+- *yajña* ← *yajñaḥ* ← *yajña*
 - \[noun\], nominative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *ṛdhag* \< *ṛdhak*
+- *ṛdhag* ← *ṛdhak*
 - \[adverb\]
 - “away; apart.”
 ------------------------------------------------------------------------
-- *joṣati* \< *juṣ*
+- *joṣati* ← *juṣ*
 - \[verb\], singular, Aorist conj./subj.
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *tve* \< *tvad*
+- *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
 ------------------------------------------------------------------------

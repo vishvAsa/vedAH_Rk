@@ -24,16 +24,16 @@ title = "Rig Veda 4.14.1"
 - \[verb\], singular, Thematic aorist (Ind.)
 - “name; describe; call; enumerate; watch; know.”
 ------------------------------------------------------------------------
-- *devo* \< *devaḥ* \< *deva*
+- *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *rocamānā* \< *rocamānāḥ* \< *ruc*
+- *rocamānā* ← *rocamānāḥ* ← *ruc*
 - \[verb noun\], accusative, plural
 - “please; shine.”
 ------------------------------------------------------------------------
-- *mahobhiḥ* \< *mahas*
+- *mahobhiḥ* ← *mahas*
 - \[noun\], instrumental, plural, neuter
 - “greatness; festival; glory; reward; gladness.”
 ------------------------------------------------------------------------
@@ -41,26 +41,26 @@ title = "Rig Veda 4.14.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *nāsatyorugāyā* \< *nāsatyā* \< *nāsatya*
+- *nāsatyorugāyā* ← *nāsatyā* ← *nāsatya*
 - \[noun\], vocative, dual, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *nāsatyorugāyā* \< *uru*
+- *nāsatyorugāyā* ← *uru*
 - \[noun\], accusative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *nāsatyorugāyā* \< *gāyā* \< *gāya*
+- *nāsatyorugāyā* ← *gāyā* ← *gāya*
 - \[noun\], vocative, dual, masculine
 ------------------------------------------------------------------------
-- *rathenemaṃ* \< *rathena* \< *ratha*
+- *rathenemaṃ* ← *rathena* ← *ratha*
 - \[noun\], instrumental, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *rathenemaṃ* \< *imam* \< *idam*
+- *rathenemaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
@@ -68,16 +68,16 @@ title = "Rig Veda 4.14.1"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *yātam* \< *yā*
+- *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *accha* \< *acchā*
+- *accha* ← *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------

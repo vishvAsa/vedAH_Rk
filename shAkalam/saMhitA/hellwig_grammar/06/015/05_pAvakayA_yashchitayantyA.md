@@ -69,7 +69,7 @@ title = "Rig Veda 6.15.5"
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ghṛṇe* \< *ghṛṇa*
+- *ghṛṇe* ← *ghṛṇa*
 - \[noun\], locative, singular, masculine
 - “sunlight; heat; hotness.”
 ------------------------------------------------------------------------
@@ -77,11 +77,11 @@ title = "Rig Veda 6.15.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tatṛṣāṇo* \< *tatṛṣāṇaḥ* \< *tṛṣ*
+- *tatṛṣāṇo* ← *tatṛṣāṇaḥ* ← *tṛṣ*
 - \[verb noun\], nominative, singular
 - “thirst.”
 ------------------------------------------------------------------------
-- *ajaraḥ* \< *ajara*
+- *ajaraḥ* ← *ajara*
 - \[noun\], nominative, singular, masculine
 - “undecaying; ageless.”
 ------------------------------------------------------------------------

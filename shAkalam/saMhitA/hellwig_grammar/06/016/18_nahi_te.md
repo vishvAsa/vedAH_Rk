@@ -35,11 +35,11 @@ title = "Rig Veda 6.16.18"
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *duvo* \< *duvaḥ* \< *duvas*
+- *duvo* ← *duvaḥ* ← *duvas*
 - \[noun\], accusative, singular, neuter
 - “worship.”
 ------------------------------------------------------------------------
-- *vanavase* \< *van*
+- *vanavase* ← *van*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------

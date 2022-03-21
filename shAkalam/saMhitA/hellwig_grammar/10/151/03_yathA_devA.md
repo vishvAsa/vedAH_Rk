@@ -39,23 +39,23 @@ title = "Rig Veda 10.151.3"
 - \[adverb\]
 - “thus; so; evam \[word\]; therefore.”
 ------------------------------------------------------------------------
-- *bhojeṣu* \< *bhoja*
+- *bhojeṣu* ← *bhoja*
 - \[noun\], locative, plural, masculine
 - “big; hospitable.”
 ------------------------------------------------------------------------
-- *yajvasv* \< *yajvasu* \< *yajvan*
+- *yajvasv* ← *yajvasu* ← *yajvan*
 - \[noun\], locative, plural, masculine
 ------------------------------------------------------------------------
-- *asmākam* \< *mad*
+- *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *uditaṃ* \< *uditam* \< *vad*
+- *uditaṃ* ← *uditam* ← *vad*
 - \[verb noun\], accusative, singular
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
 ------------------------------------------------------------------------
-- *kṛdhi* \< *kṛ*
+- *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

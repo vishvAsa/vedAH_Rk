@@ -49,12 +49,12 @@ title = "Rig Veda 3.26.4"
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *viśvavedasaḥ* \< *viśva*
+- *viśvavedasaḥ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvavedasaḥ* \< *vedasaḥ* \< *vedas*
+- *viśvavedasaḥ* ← *vedasaḥ* ← *vedas*
 - \[noun\], nominative, plural, masculine
 - “knowledge.”
 ------------------------------------------------------------------------
@@ -62,15 +62,15 @@ title = "Rig Veda 3.26.4"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vepayanti* \< *vepay* \< *√vip*
+- *vepayanti* ← *vepay* ← *√vip*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *parvatāṃ* \< *parvata*
+- *parvatāṃ* ← *parvata*
 - \[noun\], accusative, plural, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
 ------------------------------------------------------------------------
-- *adābhyāḥ* \< *adābhya*
+- *adābhyāḥ* ← *adābhya*
 - \[noun\], nominative, plural, masculine
 - “trustworthy; disabused(p).”
 ------------------------------------------------------------------------

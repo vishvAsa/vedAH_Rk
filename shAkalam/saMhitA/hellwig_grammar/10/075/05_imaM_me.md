@@ -35,7 +35,7 @@ title = "Rig Veda 10.75.5"
 - \[verb\], plural, Present imperative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *paruṣṇy* \< *paruṣṇi* \< *paruṣṇī*
+- *paruṣṇy* ← *paruṣṇi* ← *paruṣṇī*
 - \[noun\], vocative, singular, feminine
 - “Paruṣṇī.”
 ------------------------------------------------------------------------
@@ -43,22 +43,22 @@ title = "Rig Veda 10.75.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *asiknyā* \< *asiknī*
+- *asiknyā* ← *asiknī*
 - \[noun\], instrumental, singular, feminine
 - “Asiknī; Vairiṇī; night.”
 ------------------------------------------------------------------------
-- *marudvṛdhe* \< *marudvṛdhā*
+- *marudvṛdhe* ← *marudvṛdhā*
 - \[noun\], vocative, singular, feminine
 ------------------------------------------------------------------------
-- *vitastayārjīkīye* \< *vitastayā* \< *vitastā*
+- *vitastayārjīkīye* ← *vitastayā* ← *vitastā*
 - \[noun\], instrumental, singular, feminine
 - “Vitastā.”
 ------------------------------------------------------------------------
-- *vitastayārjīkīye* \< *ārjīkīye* \< *ārjīkīyā*
+- *vitastayārjīkīye* ← *ārjīkīye* ← *ārjīkīyā*
 - \[noun\], vocative, singular, feminine
 - “Ārjīkīyā.”
 ------------------------------------------------------------------------
-- *śṛṇuhy* \< *śṛṇuhi* \< *śru*
+- *śṛṇuhy* ← *śṛṇuhi* ← *śru*
 - \[verb\], singular, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
@@ -66,7 +66,7 @@ title = "Rig Veda 10.75.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *suṣomayā* \< *suṣomā*
+- *suṣomayā* ← *suṣomā*
 - \[noun\], instrumental, singular, feminine
 - “Suṣomā.”
 ------------------------------------------------------------------------

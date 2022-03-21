@@ -2,28 +2,28 @@
 title = "Rig Veda 3.29.1"
 
 +++
--   *astīdam* \< *asti* \< *as*
+-   *astīdam* ← *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *astīdam* \< *idam*
+- *astīdam* ← *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *adhimanthanam* \< *adhimanthana*
+- *adhimanthanam* ← *adhimanthana*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *asti* \< *as*
+- *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *prajananaṃ* \< *prajananam* \< *prajanana*
+- *prajananaṃ* ← *prajananam* ← *prajanana*
 - \[noun\], nominative, singular, neuter
 - “parturition; genitalia.”
 ------------------------------------------------------------------------
-- *kṛtam* \< *kṛ*
+- *kṛtam* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -34,29 +34,29 @@ title = "Rig Veda 3.29.1"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *etāṃ* \< *etām* \< *etad*
+- *etāṃ* ← *etām* ← *etad*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *viśpatnīm* \< *viśpatnī*
+- *viśpatnīm* ← *viśpatnī*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *bharāgnim* \< *bhara* \< *bhṛ*
+- *bharāgnim* ← *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *bharāgnim* \< *agnim* \< *agni*
+- *bharāgnim* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *manthāma* \< *math*
+- *manthāma* ← *math*
 - \[verb\], plural, Imperfect
 - “churn; knead; trample; full; stir; crush.”
 ------------------------------------------------------------------------

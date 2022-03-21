@@ -6,22 +6,22 @@ title = "Rig Veda 5.43.9"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *tavyaso* ← *tavyasaḥ* \< *tavyas*
+- *tavyaso* ← *tavyasaḥ* ← *tavyas*
 - \[noun\], genitive, singular, masculine
 - “stronger; rich.”
 ------------------------------------------------------------------------
-- *namauktiṃ* \< *namauktim* \< *namaukti*
+- *namauktiṃ* ← *namauktim* ← *namaukti*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *turasyāham* \< *turasya* \< *tura*
+- *turasyāham* ← *turasya* ← *tura*
 - \[noun\], genitive, singular, masculine
 - “powerful; noble; noble.”
 ------------------------------------------------------------------------
-- *turasyāham* \< *aham* \< *mad*
+- *turasyāham* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pūṣṇa* \< *pūṣṇaḥ* \< *pūṣan*
+- *pūṣṇa* ← *pūṣṇaḥ* ← *pūṣan*
 - \[noun\], genitive, singular
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
@@ -29,44 +29,44 @@ title = "Rig Veda 5.43.9"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *vāyor* \< *vāyoḥ* \< *vāyu*
+- *vāyor* ← *vāyoḥ* ← *vāyu*
 - \[noun\], genitive, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
 ------------------------------------------------------------------------
-- *adikṣi* \< *diś*
+- *adikṣi* ← *diś*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “describe; give; give; teach.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, dual, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *rādhasā* \< *rādhas*
+- *rādhasā* ← *rādhas*
 - \[noun\], instrumental, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *coditārā* \< *coditṛ*
+- *coditārā* ← *coditṛ*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *matīnāṃ* \< *matīnām* \< *mati*
+- *matīnāṃ* ← *matīnām* ← *mati*
 - \[noun\], genitive, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, dual, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vājasya* \< *vāja*
+- *vājasya* ← *vāja*
 - \[noun\], genitive, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *draviṇodā* \< *draviṇaḥ* \< *draviṇas*
+- *draviṇodā* ← *draviṇaḥ* ← *draviṇas*
 - \[noun\], neuter
 - “property.”
 ------------------------------------------------------------------------
-- *draviṇodā* \< *dā*
+- *draviṇodā* ← *dā*
 - \[noun\], nominative, dual, masculine
 - “giving.”
 ------------------------------------------------------------------------

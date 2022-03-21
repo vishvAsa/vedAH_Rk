@@ -20,23 +20,23 @@ title = "Rig Veda 5.29.4"
 - *ṣkabhāyat* ← *skabhāy* ← *√skambh*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *saṃvivyānaś* \< *saṃvivyānaḥ* \< *saṃvye* \< *√vye*
+- *saṃvivyānaś* ← *saṃvivyānaḥ* ← *saṃvye* ← *√vye*
 - \[verb noun\], nominative, singular
 - “envelop; disguise; wrap; cover.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *bhiyase* \< *bhiyas*
+- *bhiyase* ← *bhiyas*
 - \[noun\], dative, singular, masculine
 - “fear.”
 ------------------------------------------------------------------------
-- *mṛgaṃ* \< *mṛgam* \< *mṛga*
+- *mṛgaṃ* ← *mṛgam* ← *mṛga*
 - \[noun\], accusative, singular, masculine
 - “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
 ------------------------------------------------------------------------
-- *kaḥ* \< *kṛ*
+- *kaḥ* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -47,22 +47,22 @@ title = "Rig Veda 5.29.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *jigartim* \< *jigarti*
+- *jigartim* ← *jigarti*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *apajargurāṇaḥ* \< *apajargur* \< *√gṛ*
+- *apajargurāṇaḥ* ← *apajargur* ← *√gṛ*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
 - *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *śvasantam* \< *śvas*
+- *śvasantam* ← *śvas*
 - \[verb noun\], accusative, singular
 - “hiss; pant; sigh; breathe; blow.”
 ------------------------------------------------------------------------
@@ -70,7 +70,7 @@ title = "Rig Veda 5.29.4"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *dānavaṃ* \< *dānavam* \< *dānava*
+- *dānavaṃ* ← *dānavam* ← *dānava*
 - \[noun\], accusative, singular, masculine
 - “Dānava.”
 ------------------------------------------------------------------------

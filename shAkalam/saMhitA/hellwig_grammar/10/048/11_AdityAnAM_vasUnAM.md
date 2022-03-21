@@ -19,7 +19,7 @@ title = "Rig Veda 10.48.11"
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devānāṃ* \< *devānām* \< *deva*
+- *devānāṃ* ← *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -28,47 +28,47 @@ title = "Rig Veda 10.48.11"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *mināmi* \< *mī*
+- *mināmi* ← *mī*
 - \[verb\], singular, Present indikative
 - “transgress; damage.”
 ------------------------------------------------------------------------
-- *dhāma* \< *dhāman*
+- *dhāma* ← *dhāman*
 - \[noun\], accusative, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *bhadrāya* \< *bhadra*
+- *bhadrāya* ← *bhadra*
 - \[noun\], dative, singular, neuter
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *śavase* \< *śavas*
+- *śavase* ← *śavas*
 - \[noun\], dative, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *tatakṣur* \< *tatakṣuḥ* \< *takṣ*
+- *tatakṣur* ← *tatakṣuḥ* ← *takṣ*
 - \[verb\], plural, Perfect indicative
 - “produce; shape; fashion; chisel; invent.”
 ------------------------------------------------------------------------
-- *aparājitam* \< *aparājita*
+- *aparājitam* ← *aparājita*
 - \[noun\], accusative, singular, masculine
 - “unbeaten; unexcelled.”
 ------------------------------------------------------------------------
-- *astṛtam* \< *astṛta*
+- *astṛtam* ← *astṛta*
 - \[noun\], accusative, singular, masculine
 - “durable; invincible.”
 ------------------------------------------------------------------------
-- *aṣāḍham* \< *aṣāḍha*
+- *aṣāḍham* ← *aṣāḍha*
 - \[noun\], accusative, singular, masculine
 - “invincible.”
 ------------------------------------------------------------------------

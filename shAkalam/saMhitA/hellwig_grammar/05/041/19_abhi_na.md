@@ -27,7 +27,7 @@ title = "Rig Veda 5.41.19"
 - \[adverb\]
 - “simultaneously; jointly.”
 ------------------------------------------------------------------------
-- *nadībhir* \< *nadībhiḥ* \< *nadī*
+- *nadībhir* ← *nadībhiḥ* ← *nadī*
 - \[noun\], instrumental, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
 ------------------------------------------------------------------------
@@ -39,7 +39,7 @@ title = "Rig Veda 5.41.19"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *gṛṇātu* \< *gṛ*
+- *gṛṇātu* ← *gṛ*
 - \[verb\], singular, Present imperative
 - “praise.”
 ------------------------------------------------------------------------
@@ -51,26 +51,26 @@ title = "Rig Veda 5.41.19"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *bṛhaddivā* \< *bṛhat*
+- *bṛhaddivā* ← *bṛhat*
 - \[noun\]
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *bṛhaddivā* \< *divā* \< *diva*
+- *bṛhaddivā* ← *divā* ← *diva*
 - \[noun\], nominative, singular, feminine
 - “day; sky; Svarga.”
 ------------------------------------------------------------------------
-- *gṛṇānābhyūrṇvānā* \< *gṛṇānā* \< *gṛ*
+- *gṛṇānābhyūrṇvānā* ← *gṛṇānā* ← *gṛ*
 - \[verb noun\], nominative, singular
 - “praise.”
 ------------------------------------------------------------------------
-- *gṛṇānābhyūrṇvānā* \< *abhyūrṇvānā* \< *abhivṛ* \< *√vṛ*
+- *gṛṇānābhyūrṇvānā* ← *abhyūrṇvānā* ← *abhivṛ* ← *√vṛ*
 - \[verb noun\], nominative, singular
 - “cover.”
 ------------------------------------------------------------------------
-- *prabhṛthasyāyoḥ* \< *prabhṛthasya* \< *prabhṛtha*
+- *prabhṛthasyāyoḥ* ← *prabhṛthasya* ← *prabhṛtha*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *prabhṛthasyāyoḥ* \< *āyoḥ* \< *āyu*
+- *prabhṛthasyāyoḥ* ← *āyoḥ* ← *āyu*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------

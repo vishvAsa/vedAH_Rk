@@ -57,44 +57,44 @@ title = "Rig Veda 10.124.4"
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *somo* \< *somaḥ* \< *soma*
+- *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *varuṇas* \< *varuṇaḥ* \< *varuṇa*
+- *varuṇas* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *cyavante* \< *cyu*
+- *cyavante* ← *cyu*
 - \[verb\], plural, Present indikative
 - “fall down; issue; shoot; ejaculate; deviate; banish; drop;
     dislodge; miss; deprive.”
 ------------------------------------------------------------------------
-- *paryāvard* \< \< *paryāvṛt* \< *√vṛt*
+- *paryāvard* ← ← *paryāvṛt* ← *√vṛt*
 - \[verb\], singular, Root aorist (Ind.)
 ------------------------------------------------------------------------
-- *rāṣṭraṃ* \< *rāṣṭram* \< *rāṣṭra*
+- *rāṣṭraṃ* ← *rāṣṭram* ← *rāṣṭra*
 - \[noun\], nominative, singular, neuter
 - “kingdom; kingdom; kingship; rāṣṭra \[word\]; citizenry.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *avāmy* \< *avāmi* \< *av*
+- *avāmy* ← *avāmi* ← *av*
 - \[verb\], singular, Present indikative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *āyan* \< *e* \< *√i*
+- *āyan* ← *e* ← *√i*
 - \[verb noun\], nominative, singular
 - “come; travel.”
 ------------------------------------------------------------------------

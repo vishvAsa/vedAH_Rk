@@ -64,18 +64,18 @@ title = "Rig Veda 10.45.11"
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”
 ------------------------------------------------------------------------
-- *gomantam* \< *gomat*
+- *gomantam* ← *gomat*
 - \[noun\], accusative, singular, masculine
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------
-- *uśijo* \< *uśijaḥ* \< *uśija*
+- *uśijo* ← *uśijaḥ* ← *uśija*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vavruḥ* \< *vṛ*
+- *vavruḥ* ← *vṛ*
 - \[verb\], plural, Perfect indicative
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”

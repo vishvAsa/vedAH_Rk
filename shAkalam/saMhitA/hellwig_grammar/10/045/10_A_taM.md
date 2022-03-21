@@ -63,41 +63,41 @@ title = "Rig Veda 10.45.10"
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *agnā* \< *agni*
+- *agnā* ← *agni*
 - \[noun\], locative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *bhavāty* \< *bhavāti* \< *bhū*
+- *bhavāty* ← *bhavāti* ← *bhū*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *uj* \< *ud*
+- *uj* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *jātena* \< *jan*
+- *jātena* ← *jan*
 - \[verb noun\], instrumental, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *bhinadad* \< *bhinadat* \< *bhid*
+- *bhinadad* ← *bhinadat* ← *bhid*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;
     transgress; break open; scratch; penetrate; sever; bribe; grind;
     betray; fester; strike.”
 ------------------------------------------------------------------------
-- *uj* \< *ud*
+- *uj* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *janitvaiḥ* \< *jan*
+- *janitvaiḥ* ← *jan*
 - \[verb noun\], instrumental, plural
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;

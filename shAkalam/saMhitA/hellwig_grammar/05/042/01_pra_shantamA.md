@@ -78,10 +78,10 @@ title = "Rig Veda 5.42.1"
 - \[noun\], nominative, singular, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *asuro* ← *asuraḥ* \< *asura*
+- *asuro* ← *asuraḥ* ← *asura*
 - \[noun\], nominative, singular, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
 ------------------------------------------------------------------------
-- *mayobhuḥ* \< *mayobhu*
+- *mayobhuḥ* ← *mayobhu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

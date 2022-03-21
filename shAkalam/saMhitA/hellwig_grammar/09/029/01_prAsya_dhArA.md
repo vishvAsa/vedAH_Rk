@@ -14,23 +14,23 @@ title = "Rig Veda 9.29.1"
 - \[noun\], nominative, plural, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *akṣaran* \< *kṣar*
+- *akṣaran* ← *kṣar*
 - \[verb\], plural, Imperfect
 - “run; melt.”
 ------------------------------------------------------------------------
-- *vṛṣṇaḥ* \< *vṛṣan*
+- *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *sutasyaujasā* \< *sutasya* \< *su*
+- *sutasyaujasā* ← *sutasya* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *sutasyaujasā* \< *ojasā* \< *ojas*
+- *sutasyaujasā* ← *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *devāṃ* \< *deva*
+- *devāṃ* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -39,6 +39,6 @@ title = "Rig Veda 9.29.1"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *prabhūṣataḥ* \< *prabhūṣ* \< *√bhūṣ*
+- *prabhūṣataḥ* ← *prabhūṣ* ← *√bhūṣ*
 - \[verb noun\], genitive, singular
 ------------------------------------------------------------------------

@@ -19,24 +19,24 @@ title = "Rig Veda 9.20.4"
 - \[noun\], accusative, singular, neuter
 - “fame; Yaśas.”
 ------------------------------------------------------------------------
-- *maghavadbhyo* \< *maghavadbhyaḥ* \< *maghavan*
+- *maghavadbhyo* ← *maghavadbhyaḥ* ← *maghavan*
 - \[noun\], dative, plural, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *dhruvaṃ* \< *dhruvam* \< *dhruva*
+- *dhruvaṃ* ← *dhruvam* ← *dhruva*
 - \[noun\], accusative, singular, masculine
 - “certain; fixed; permanent; changeless; firm; safe; resident;
     immovable; fixed; fixed; vital; faithful.”
 ------------------------------------------------------------------------
-- *rayim* \< *rayi*
+- *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *iṣaṃ* \< *iṣam* \< *iṣ*
+- *iṣaṃ* ← *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *stotṛbhya* \< *stotṛbhyaḥ* \< *stotṛ*
+- *stotṛbhya* ← *stotṛbhyaḥ* ← *stotṛ*
 - \[noun\], dative, plural, masculine
 - “laudatory; worshiping.”
 ------------------------------------------------------------------------
@@ -44,7 +44,7 @@ title = "Rig Veda 9.20.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *bhara* \< *bhṛ*
+- *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”

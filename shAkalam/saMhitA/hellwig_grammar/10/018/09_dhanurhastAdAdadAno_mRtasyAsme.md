@@ -83,7 +83,7 @@ title = "Rig Veda 10.18.9"
 - \[noun\], accusative, plural, feminine
 - “aggression; hostility.”
 ------------------------------------------------------------------------
-- *jayema* \< *ji*
+- *jayema* ← *ji*
 - \[verb\], plural, Present optative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”

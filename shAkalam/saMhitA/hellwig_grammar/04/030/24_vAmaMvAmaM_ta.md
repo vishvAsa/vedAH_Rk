@@ -51,15 +51,15 @@ title = "Rig Veda 4.30.24"
 - “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
     well-being; happiness; overlord.”
 ------------------------------------------------------------------------
-- *vāmaṃ* \< *vāmam* \< *vāma*
+- *vāmaṃ* ← *vāmam* ← *vāma*
 - \[noun\], accusative, singular, neuter
 - “agreeable; vāma \[word\]; beautiful.”
 ------------------------------------------------------------------------
-- *devaḥ* \< *deva*
+- *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *karūﾱatī* \< *karūḍatī* \< *karūḍatin*
+- *karūﾱatī* ← *karūḍatī* ← *karūḍatin*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

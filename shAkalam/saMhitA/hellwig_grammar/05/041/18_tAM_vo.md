@@ -33,33 +33,33 @@ title = "Rig Veda 5.41.18"
 - \[verb\], plural, Aorist optative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *vasavaḥ* \< *vasu*
+- *vasavaḥ* ← *vasu*
 - \[noun\], vocative, plural, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
 - *śasā*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *goḥ* \< *go*
+- *goḥ* ← *go*
 - \[noun\], genitive, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *sā* \< *tad*
+- *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sudānur* \< *sudānuḥ* \< *sudānu*
+- *sudānur* ← *sudānuḥ* ← *sudānu*
 - \[noun\], nominative, singular, feminine
 - “big; lavish.”
 ------------------------------------------------------------------------
-- *mṛﾱayantī* \< *mṛḍay* \< *√mṛḍ*
+- *mṛﾱayantī* ← *mṛḍay* ← *√mṛḍ*
 - \[verb noun\], nominative, singular
 - “pardon.”
 ------------------------------------------------------------------------
@@ -71,16 +71,16 @@ title = "Rig Veda 5.41.18"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *dravantī* \< *dru*
+- *dravantī* ← *dru*
 - \[verb noun\], nominative, singular
 - “liquefy; melt; melt; flee; run; run; vanish; run; rush; dissolve;
     dissolve.”
 ------------------------------------------------------------------------
-- *suvitāya* \< *suvita*
+- *suvitāya* ← *suvita*
 - \[noun\], dative, singular, neuter
 - “prosperity; well-being.”
 ------------------------------------------------------------------------
-- *gamyāḥ* \< *gam*
+- *gamyāḥ* ← *gam*
 - \[verb\], singular, Aorist optative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

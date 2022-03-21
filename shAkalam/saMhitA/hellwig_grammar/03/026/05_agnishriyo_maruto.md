@@ -42,32 +42,32 @@ title = "Rig Veda 3.26.5"
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *vayam* \< *mad*
+- *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *svānino* \< *svāninaḥ* \< *svānin*
+- *svānino* ← *svāninaḥ* ← *svānin*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *rudriyā* \< *rudriyāḥ* \< *rudriya*
+- *rudriyā* ← *rudriyāḥ* ← *rudriya*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *varṣanirṇijaḥ* \< *varṣa*
+- *varṣanirṇijaḥ* ← *varṣa*
 - \[noun\], masculine
 - “year; rain; year; shower; varṣa; monsoon; varṣa \[word\]; age;
     cloud; India.”
 ------------------------------------------------------------------------
-- *varṣanirṇijaḥ* \< *nirṇijaḥ* \< *nirṇij*
+- *varṣanirṇijaḥ* ← *nirṇijaḥ* ← *nirṇij*
 - \[noun\], nominative, plural, masculine
 - “attire; garment.”
 ------------------------------------------------------------------------
-- *siṃhā* \< *siṃhāḥ* \< *siṃha*
+- *siṃhā* ← *siṃhāḥ* ← *siṃha*
 - \[noun\], nominative, plural, masculine
 - “lion; hero; best; leader; siṃha \[word\].”
 ------------------------------------------------------------------------
@@ -75,15 +75,15 @@ title = "Rig Veda 3.26.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *heṣakratavaḥ* \< *heṣa*
+- *heṣakratavaḥ* ← *heṣa*
 - \[noun\]
 ------------------------------------------------------------------------
-- *heṣakratavaḥ* \< *kratavaḥ* \< *kratu*
+- *heṣakratavaḥ* ← *kratavaḥ* ← *kratu*
 - \[noun\], nominative, plural, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *sudānavaḥ* \< *sudānu*
+- *sudānavaḥ* ← *sudānu*
 - \[noun\], nominative, plural, masculine
 - “big; lavish.”
 ------------------------------------------------------------------------

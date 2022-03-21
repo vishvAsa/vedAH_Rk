@@ -16,17 +16,17 @@ title = "Rig Veda 10.30.9"
 - \[noun\], accusative, singular, masculine
 - “intoxicant; invigorating; hostile.”
 ------------------------------------------------------------------------
-- *indrapānam* \< *indra*
+- *indrapānam* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrapānam* \< *pānam* \< *pāna*
+- *indrapānam* ← *pānam* ← *pāna*
 - \[noun\], accusative, singular, neuter
 - “beverage; drinking; alcohol; drink; draft; drinking vessel; pāna
     \[word\]; vagina; well; cup; inhalation.”
 ------------------------------------------------------------------------
-- *ūrmim* \< *ūrmi*
+- *ūrmim* ← *ūrmi*
 - \[noun\], accusative, singular, masculine
 - “wave; billow.”
 ------------------------------------------------------------------------
@@ -34,41 +34,41 @@ title = "Rig Veda 10.30.9"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *heta* \< *hi*
+- *heta* ← *hi*
 - \[verb\], plural, Aorist imperative
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
-- *ya* \< *yaḥ* \< *yad*
+- *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ubhe* \< *ubh*
+- *ubhe* ← *ubh*
 - \[noun\], accusative, dual, neuter
 - “both(a).”
 ------------------------------------------------------------------------
-- *iyarti* \< *ṛch*
+- *iyarti* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *madacyutam* \< *mada*
+- *madacyutam* ← *mada*
 - \[noun\], masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *madacyutam* \< *cyutam* \< *cyut*
+- *madacyutam* ← *cyutam* ← *cyut*
 - \[noun\], accusative, singular, masculine
 - “shaking; dropping.”
 ------------------------------------------------------------------------
-- *auśānaṃ* \< *auśānam* \< *auśāna*
+- *auśānaṃ* ← *auśānam* ← *auśāna*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *nabhojām* \< *nabhaḥ* \< *nabhas*
+- *nabhojām* ← *nabhaḥ* ← *nabhas*
 - \[noun\], neuter
 - “sky; cloud; ākāśa; air; abhra.”
 ------------------------------------------------------------------------
-- *nabhojām* \< *jām* \< *jā*
+- *nabhojām* ← *jām* ← *jā*
 - \[noun\], accusative, singular, masculine
 - “born.”
 ------------------------------------------------------------------------
@@ -76,19 +76,19 @@ title = "Rig Veda 10.30.9"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *tritantuṃ* \< *tri*
+- *tritantuṃ* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *tritantuṃ* \< *tantum* \< *tantu*
+- *tritantuṃ* ← *tantum* ← *tantu*
 - \[noun\], accusative, singular, masculine
 - “thread; fiber; lineage; cobweb; fibril; stalk.”
 ------------------------------------------------------------------------
-- *vicarantam* \< *vicar* \< *√car*
+- *vicarantam* ← *vicar* ← *√car*
 - \[verb noun\], accusative, singular
 - “wander; travel; vraj; be active.”
 ------------------------------------------------------------------------
-- *utsam* \< *utsa*
+- *utsam* ← *utsa*
 - \[noun\], accusative, singular, masculine
 - “spring; fountain; utsa \[word\]; well.”
 ------------------------------------------------------------------------

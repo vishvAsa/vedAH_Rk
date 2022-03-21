@@ -34,17 +34,17 @@ title = "Rig Veda 6.16.39"
 - \[noun\], nominative, singular, masculine
 - “bull.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *puro* \< *puraḥ* \< *pur*
+- *puro* ← *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
-- *rurojitha* \< *ruj*
+- *rurojitha* ← *ruj*
 - \[verb\], singular, Perfect indicative
 - “break; bend.”
 ------------------------------------------------------------------------

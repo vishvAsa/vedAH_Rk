@@ -43,26 +43,26 @@ title = "Rig Veda 5.20.1"
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *gīrbhiḥ* \< *gir*
+- *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *śravāyyaṃ* \< *śravāyyam* \< *śravāyya*
+- *śravāyyaṃ* ← *śravāyyam* ← *śravāyya*
 - \[noun\], accusative, singular, masculine
 - “celebrated.”
 ------------------------------------------------------------------------
 - *devatrā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *panayā* \< *panay* \< *√pan*
+- *panayā* ← *panay* ← *√pan*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------
-- *yujam* \< *yuj*
+- *yujam* ← *yuj*
 - \[noun\], accusative, singular, masculine
 - “amalgamated; harnessed.”
 ------------------------------------------------------------------------

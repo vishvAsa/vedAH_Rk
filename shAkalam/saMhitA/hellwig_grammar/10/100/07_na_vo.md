@@ -69,7 +69,7 @@ title = "Rig Veda 10.100.7"
 - \[noun\], genitive, singular, neuter
 - “falsehood; lying; lie; cheat.”
 ------------------------------------------------------------------------
-- *varpasa* ← *varpasaḥ* \< *varpas*
+- *varpasa* ← *varpasaḥ* ← *varpas*
 - \[noun\], genitive, singular, neuter
 - “form; look; disguise.”
 ------------------------------------------------------------------------
@@ -77,15 +77,15 @@ title = "Rig Veda 10.100.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sarvatātim* \< *sarvatāti*
+- *sarvatātim* ← *sarvatāti*
 - \[noun\], accusative, singular, feminine
 - “completeness; prosperity; sum.”
 ------------------------------------------------------------------------
-- *aditiṃ* \< *aditim* \< *aditi*
+- *aditiṃ* ← *aditim* ← *aditi*
 - \[noun\], accusative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *vṛṇīmahe* \< *vṛ*
+- *vṛṇīmahe* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “choose; ask.”
 ------------------------------------------------------------------------

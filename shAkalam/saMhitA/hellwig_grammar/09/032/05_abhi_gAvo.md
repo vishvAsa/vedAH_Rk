@@ -6,12 +6,12 @@ title = "Rig Veda 9.32.5"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *gāvo* ← *gāvaḥ* \< *go*
+- *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *anūṣata* \< *nū*
+- *anūṣata* ← *nū*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “praise; shout.”
 ------------------------------------------------------------------------
@@ -19,7 +19,7 @@ title = "Rig Veda 9.32.5"
 - \[noun\], nominative, singular, feminine
 - “woman; puppet; daughter.”
 ------------------------------------------------------------------------
-- *jāram* \< *jāra*
+- *jāram* ← *jāra*
 - \[noun\], accusative, singular, masculine
 - “fancy man.”
 ------------------------------------------------------------------------
@@ -27,19 +27,19 @@ title = "Rig Veda 9.32.5"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *priyam* \< *priya*
+- *priyam* ← *priya*
 - \[noun\], accusative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *agann* \< *agan* \< *gam*
+- *agann* ← *agan* ← *gam*
 - \[verb\], singular, Root aorist (Ind.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *ājiṃ* \< *ājim* \< *āji*
+- *ājiṃ* ← *ājim* ← *āji*
 - \[noun\], accusative, singular, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
 ------------------------------------------------------------------------
@@ -47,7 +47,7 @@ title = "Rig Veda 9.32.5"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *hitam* \< *hi*
+- *hitam* ← *hi*
 - \[verb noun\], accusative, singular
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------

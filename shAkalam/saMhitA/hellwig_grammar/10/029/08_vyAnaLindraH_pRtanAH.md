@@ -62,30 +62,30 @@ title = "Rig Veda 10.29.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pṛtanāsu* \< *pṛtanā*
+- *pṛtanāsu* ← *pṛtanā*
 - \[noun\], locative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
 ------------------------------------------------------------------------
-- *tiṣṭha* \< *sthā*
+- *tiṣṭha* ← *sthā*
 - \[verb\], singular, Present imperative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *yam* \< *yad*
+- *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *bhadrayā* \< *bhadra*
+- *bhadrayā* ← *bhadra*
 - \[noun\], instrumental, singular, feminine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *sumatyā* \< *sumati*
+- *sumatyā* ← *sumati*
 - \[noun\], instrumental, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *codayāse* \< *coday* \< *√cud*
+- *codayāse* ← *coday* ← *√cud*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “impel; drive; incite; command; drive; arouse; propel.”
 ------------------------------------------------------------------------

@@ -27,20 +27,20 @@ title = "Rig Veda 9.21.6"
 - \[noun\], accusative, singular, masculine
 - “wish; will; purpose; expectation; house.”
 ------------------------------------------------------------------------
-- *ādiśe* \< *ādiś* \< *√diś*
+- *ādiśe* ← *ādiś* ← *√diś*
 - \[verb noun\]
 - “diagnose; order; call; deem; prescribe; enumerate; name; threaten;
     give; produce; designate; indicate; predict.”
 ------------------------------------------------------------------------
-- *śukrāḥ* \< *śukra*
+- *śukrāḥ* ← *śukra*
 - \[noun\], nominative, plural, masculine
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *pavadhvam* \< *pū*
+- *pavadhvam* ← *pū*
 - \[verb\], plural, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *arṇasā* \< *arṇas*
+- *arṇasā* ← *arṇas*
 - \[noun\], instrumental, singular, neuter
 - “body of water; water.”
 ------------------------------------------------------------------------

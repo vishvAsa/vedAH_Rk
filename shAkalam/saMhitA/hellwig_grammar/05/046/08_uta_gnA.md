@@ -61,15 +61,15 @@ title = "Rig Veda 5.46.8"
 - \[noun\], nominative, plural, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *ya* ← *yaḥ* \< *yad*
+- *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ṛtur* \< *ṛtuḥ* \< *ṛtu*
+- *ṛtur* ← *ṛtuḥ* ← *ṛtu*
 - \[noun\], nominative, singular, masculine
 - “season; turn; menstruation; ṛtu \[word\]; time period; order; six.”
 ------------------------------------------------------------------------
-- *janīnām* \< *jani*
+- *janīnām* ← *jani*
 - \[noun\], genitive, plural, feminine
 - “wife; jan; woman; jani \[word\]; birth.”
 ------------------------------------------------------------------------

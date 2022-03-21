@@ -22,35 +22,35 @@ title = "Rig Veda 5.43.4"
 - \[noun\], nominative, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
-- *adriṃ* ← *adrim* \< *adri*
+- *adriṃ* ← *adrim* ← *adri*
 - \[noun\], accusative, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *somasya* \< *soma*
+- *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, dual, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *śamitārā* \< *śamitṛ*
+- *śamitārā* ← *śamitṛ*
 - \[noun\], nominative, dual, masculine
 - “śamitṛ \[word\]; butcher.”
 ------------------------------------------------------------------------
-- *suhastā* \< *su*
+- *suhastā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suhastā* \< *hastā* \< *hasta*
+- *suhastā* ← *hastā* ← *hasta*
 - \[noun\], nominative, dual, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------
-- *madhvo* \< *madhvaḥ* \< *madhu*
+- *madhvo* ← *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *rasaṃ* \< *rasam* \< *rasa*
+- *rasaṃ* ← *rasam* ← *rasa*
 - \[noun\], accusative, singular, masculine
 - “mercury; juice; medicine; rasa; alchemy; liquid; Rasa; mahārasa;
     taste; broth; elixir; resin; rasa; essence; six; water; soup; liquid
@@ -58,30 +58,30 @@ title = "Rig Veda 5.43.4"
     purpose; delight; solution; milk; beverage; alcohol; sap; nectar;
     Rasātala.”
 ------------------------------------------------------------------------
-- *sugabhastir* \< *su*
+- *sugabhastir* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sugabhastir* \< *gabhastiḥ* \< *gabhasti*
+- *sugabhastir* ← *gabhastiḥ* ← *gabhasti*
 - \[noun\], nominative, singular, masculine
 - “beam; hand; sun.”
 ------------------------------------------------------------------------
-- *giriṣṭhāṃ* \< *giriṣṭhām* \< *giriṣṭhā*
+- *giriṣṭhāṃ* ← *giriṣṭhām* ← *giriṣṭhā*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *caniścadad* \< *\_* \< *√\_*
+- *caniścadad* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *duduhe* \< *duh*
+- *duduhe* ← *duh*
 - \[verb\], singular, Perfect indicative
 - “milk.”
 ------------------------------------------------------------------------
-- *śukram* \< *śukra*
+- *śukram* ← *śukra*
 - \[noun\], accusative, singular, neuter
 - “semen; sperm; śukra; śukraprameha; liquid; ejaculation.”
 ------------------------------------------------------------------------
-- *aṃśuḥ* \< *aṃśu*
+- *aṃśuḥ* ← *aṃśu*
 - \[noun\], nominative, singular, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
 ------------------------------------------------------------------------

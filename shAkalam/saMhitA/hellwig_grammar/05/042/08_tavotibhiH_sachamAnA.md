@@ -42,7 +42,7 @@ title = "Rig Veda 5.42.8"
 - \[noun\], masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *aśvadā* ← *dāḥ* \< *dā*
+- *aśvadā* ← *dāḥ* ← *dā*
 - \[noun\], nominative, plural, masculine
 - “giving.”
 ------------------------------------------------------------------------
@@ -54,44 +54,44 @@ title = "Rig Veda 5.42.8"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *santi* \< *as*
+- *santi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *godā* \< *go*
+- *godā* ← *go*
 - \[noun\], masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *godā* \< *dāḥ* \< *dā*
+- *godā* ← *dāḥ* ← *dā*
 - \[noun\], nominative, plural, masculine
 - “giving.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vastradāḥ* \< *vastra*
+- *vastradāḥ* ← *vastra*
 - \[noun\], neuter
 - “fabric; clothing; dress; vastra \[word\].”
 ------------------------------------------------------------------------
-- *vastradāḥ* \< *dāḥ* \< *dā*
+- *vastradāḥ* ← *dāḥ* ← *dā*
 - \[noun\], nominative, plural, masculine
 - “giving.”
 ------------------------------------------------------------------------
-- *subhagās* \< *subhagāḥ* \< *subhaga*
+- *subhagās* ← *subhagāḥ* ← *subhaga*
 - \[noun\], nominative, plural, masculine
 - “beautiful; auspicious; beloved; fine-looking; fortunate; subhaga
     \[word\]; charming; pleasing; lucky.”
 ------------------------------------------------------------------------
-- *teṣu* \< *tad*
+- *teṣu* ← *tad*
 - \[noun\], locative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *rāyaḥ* \< *rai*
+- *rāyaḥ* ← *rai*
 - \[noun\], nominative, plural, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------

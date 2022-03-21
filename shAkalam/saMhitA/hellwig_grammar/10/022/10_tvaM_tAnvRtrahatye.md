@@ -20,15 +20,15 @@ title = "Rig Veda 10.22.10"
 - \[noun\], locative, singular, neuter
 - “killing.”
 ------------------------------------------------------------------------
-- *codayo* \< *codayaḥ* \< *coday* \< *√cud*
+- *codayo* ← *codayaḥ* ← *coday* ← *√cud*
 - \[verb\], singular, Aorist inj. (proh.)
 - “impel; drive; incite; command; drive; arouse; propel.”
 ------------------------------------------------------------------------
-- *nṝn* \< *nṛ*
+- *nṝn* ← *nṛ*
 - \[noun\], accusative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *kārpāṇe* \< *kārpāṇa*
+- *kārpāṇe* ← *kārpāṇa*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
 - *śūra*
@@ -36,23 +36,23 @@ title = "Rig Veda 10.22.10"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *vajrivaḥ* \< *vajrivas* \< *vajrivat*
+- *vajrivaḥ* ← *vajrivas* ← *vajrivat*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
 - *guhā*
 - \[adverb\]
 - “secretly.”
 ------------------------------------------------------------------------
-- *yadī* \< *yadi*
+- *yadī* ← *yadi*
 - \[adverb\]
 - “if; in case.”
 ------------------------------------------------------------------------
-- *kavīnāṃ* \< *kavīnām* \< *kavi*
+- *kavīnāṃ* ← *kavīnām* ← *kavi*
 - \[noun\], genitive, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *viśāṃ* \< *viśām* \< *viś*
+- *viśāṃ* ← *viśām* ← *viś*
 - \[noun\], genitive, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
@@ -60,11 +60,11 @@ title = "Rig Veda 10.22.10"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *kṣatraśavasām* \< *kṣatra*
+- *kṣatraśavasām* ← *kṣatra*
 - \[noun\], neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
 ------------------------------------------------------------------------
-- *kṣatraśavasām* \< *śavasām* \< *śavas*
+- *kṣatraśavasām* ← *śavasām* ← *śavas*
 - \[noun\], genitive, plural, masculine
 - “strength; power; superiority.”
 ------------------------------------------------------------------------

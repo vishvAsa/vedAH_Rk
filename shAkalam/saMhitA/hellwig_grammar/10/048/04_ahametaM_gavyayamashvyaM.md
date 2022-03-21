@@ -18,27 +18,27 @@ title = "Rig Veda 10.48.4"
 - \[noun\], accusative, singular, masculine
 - “equine.”
 ------------------------------------------------------------------------
-- *paśum* \< *paśu*
+- *paśum* ← *paśu*
 - \[noun\], accusative, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
 ------------------------------------------------------------------------
-- *purīṣiṇaṃ* \< *purīṣiṇam* \< *purīṣin*
+- *purīṣiṇaṃ* ← *purīṣiṇam* ← *purīṣin*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *sāyakenā* \< *sāyakena* \< *sāyaka*
+- *sāyakenā* ← *sāyakena* ← *sāyaka*
 - \[noun\], instrumental, singular, masculine
 - “arrow; munj.”
 ------------------------------------------------------------------------
-- *hiraṇyayam* \< *hiraṇyaya*
+- *hiraṇyayam* ← *hiraṇyaya*
 - \[noun\], accusative, singular, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
 ------------------------------------------------------------------------
-- *purū* \< *puru*
+- *purū* ← *puru*
 - \[noun\], accusative, plural, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *sahasrā* \< *sahasra*
+- *sahasrā* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
@@ -46,31 +46,31 @@ title = "Rig Veda 10.48.4"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *śiśāmi* \< *śā*
+- *śiśāmi* ← *śā*
 - \[verb\], singular, Present indikative
 - “sharpen; whet; strengthen.”
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *yan* \< *yat*
+- *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *somāsa* \< *somāsaḥ* \< *soma*
+- *somāsa* ← *somāsaḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *ukthino* \< *ukthinaḥ* \< *ukthin*
+- *ukthino* ← *ukthinaḥ* ← *ukthin*
 - \[noun\], nominative, plural, masculine
 - “laudatory.”
 ------------------------------------------------------------------------
-- *amandiṣuḥ* \< *mad*
+- *amandiṣuḥ* ← *mad*
 - \[verb\], plural, Athematic is aor. (Ind.)
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------

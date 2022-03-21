@@ -44,16 +44,16 @@ title = "Rig Veda 10.124.1"
 - \[noun\]
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *saptatantum* \< *tantum* \< *tantu*
+- *saptatantum* ← *tantum* ← *tantu*
 - \[noun\], accusative, singular, masculine
 - “thread; fiber; lineage; cobweb; fibril; stalk.”
 ------------------------------------------------------------------------
-- *aso* \< *asaḥ* \< *as*
+- *aso* ← *asaḥ* ← *as*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *havyavāḍ* \< *havyavāṭ* \< *havyavah*
+- *havyavāḍ* ← *havyavāṭ* ← *havyavah*
 - \[noun\], nominative, singular
 - “Agni; fire.”
 ------------------------------------------------------------------------
@@ -61,15 +61,15 @@ title = "Rig Veda 10.124.1"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *purogā* \< *purogāḥ* \< *purogā*
+- *purogā* ← *purogāḥ* ← *purogā*
 - \[noun\], nominative, singular, masculine
 - “leader.”
 ------------------------------------------------------------------------
-- *jyog* \< *jyok*
+- *jyog* ← *jyok*
 - \[adverb\]
 - “long.”
 ------------------------------------------------------------------------
@@ -78,16 +78,16 @@ title = "Rig Veda 10.124.1"
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *dīrghaṃ* \< *dīrgham* \< *dīrgha*
+- *dīrghaṃ* ← *dīrgham* ← *dīrgha*
 - \[noun\], accusative, singular, neuter
 - “long; long; long; large; far; deep; dīrgha \[word\].”
 ------------------------------------------------------------------------
-- *tama* \< *tamaḥ* \< *tamas*
+- *tama* ← *tamaḥ* ← *tamas*
 - \[noun\], accusative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
 ------------------------------------------------------------------------
-- *āśayiṣṭhāḥ* \< *āśī* \< *√śī*
+- *āśayiṣṭhāḥ* ← *āśī* ← *√śī*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “lie; stay.”
 ------------------------------------------------------------------------

@@ -22,7 +22,7 @@ title = "Rig Veda 10.100.8"
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *varīya* ← *varīyaḥ* \< *varīyas*
+- *varīya* ← *varīyaḥ* ← *varīyas*
 - \[noun\], accusative, singular, neuter
 - “broad; further.”
 ------------------------------------------------------------------------
@@ -34,15 +34,15 @@ title = "Rig Veda 10.100.8"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *sedhantv* \< *sedhantu* \< *sidh*
+- *sedhantv* ← *sedhantu* ← *sidh*
 - \[verb\], plural, Present imperative
 - “chase away; repel.”
 ------------------------------------------------------------------------
-- *adrayaḥ* \< *adri*
+- *adrayaḥ* ← *adri*
 - \[noun\], nominative, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *grāvā* \< *grāvan*
+- *grāvā* ← *grāvan*
 - \[noun\], nominative, singular, masculine
 - “stone; millstone; grindstone; mountain.”
 ------------------------------------------------------------------------
@@ -50,17 +50,17 @@ title = "Rig Veda 10.100.8"
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *madhuṣud* \< *madhuṣut*
+- *madhuṣud* ← *madhuṣut*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *ucyate* \< *vac*
+- *ucyate* ← *vac*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
 ------------------------------------------------------------------------
-- *bṛhad* \< *bṛhat*
+- *bṛhad* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
@@ -69,15 +69,15 @@ title = "Rig Veda 10.100.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sarvatātim* \< *sarvatāti*
+- *sarvatātim* ← *sarvatāti*
 - \[noun\], accusative, singular, feminine
 - “completeness; prosperity; sum.”
 ------------------------------------------------------------------------
-- *aditiṃ* \< *aditim* \< *aditi*
+- *aditiṃ* ← *aditim* ← *aditi*
 - \[noun\], accusative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *vṛṇīmahe* \< *vṛ*
+- *vṛṇīmahe* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “choose; ask.”
 ------------------------------------------------------------------------

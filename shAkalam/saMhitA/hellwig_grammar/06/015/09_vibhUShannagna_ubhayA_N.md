@@ -81,16 +81,16 @@ title = "Rig Veda 6.15.9"
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *trivarūthaḥ* \< *varūthaḥ* \< *varūtha*
+- *trivarūthaḥ* ← *varūthaḥ* ← *varūtha*
 - \[noun\], nominative, singular, masculine
 - “defense; protective covering.”
 ------------------------------------------------------------------------
-- *śivo* \< *śivaḥ* \< *śiva*
+- *śivo* ← *śivaḥ* ← *śiva*
 - \[noun\], nominative, singular, masculine
 - “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
     holy; nice.”
 ------------------------------------------------------------------------
-- *bhava* \< *bhū*
+- *bhava* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;

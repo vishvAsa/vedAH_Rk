@@ -16,11 +16,11 @@ title = "Rig Veda 8.102.20"
 - \[noun\], accusative, plural, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *kāni* \< *ka*
+- *kāni* ← *ka*
 - \[noun\], accusative, plural, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -28,26 +28,26 @@ title = "Rig Veda 8.102.20"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dārūṇi* \< *dāru*
+- *dārūṇi* ← *dāru*
 - \[noun\], accusative, plural, neuter
 - “wood; log; lumber.”
 ------------------------------------------------------------------------
-- *dadhmasi* \< *dhā*
+- *dadhmasi* ← *dhā*
 - \[verb\], plural, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *tā* \< *tad*
+- *tā* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *juṣasva* \< *juṣ*
+- *juṣasva* ← *juṣ*
 - \[verb\], singular, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”

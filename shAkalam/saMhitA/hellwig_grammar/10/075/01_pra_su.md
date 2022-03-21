@@ -39,12 +39,12 @@ title = "Rig Veda 10.75.1"
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
 ------------------------------------------------------------------------
-- *sadane* \< *sadana*
+- *sadane* ← *sadana*
 - \[noun\], locative, singular, neuter
 - “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
     residence; seat; inanition; location.”
 ------------------------------------------------------------------------
-- *vivasvataḥ* \< *vivasvant*
+- *vivasvataḥ* ← *vivasvant*
 - \[noun\], genitive, singular, masculine
 - “Surya; sun; Vivasvant; Vivasvant.”
 ------------------------------------------------------------------------
@@ -52,11 +52,11 @@ title = "Rig Veda 10.75.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], nominative, singular, neuter
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], nominative, singular, neuter
 - “seven; seventh.”
 ------------------------------------------------------------------------
@@ -68,7 +68,7 @@ title = "Rig Veda 10.75.1"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *cakramuḥ* \< *kram*
+- *cakramuḥ* ← *kram*
 - \[verb\], plural, Perfect indicative
 - “kram; step; go; continue; proceed; traverse; heat.”
 ------------------------------------------------------------------------
@@ -76,7 +76,7 @@ title = "Rig Veda 10.75.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *sṛtvarīṇām* \< *sṛtvara*
+- *sṛtvarīṇām* ← *sṛtvara*
 - \[noun\], genitive, plural, feminine
 - “flowing.”
 ------------------------------------------------------------------------
@@ -84,11 +84,11 @@ title = "Rig Veda 10.75.1"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *sindhur* \< *sindhuḥ* \< *sindhu*
+- *sindhur* ← *sindhuḥ* ← *sindhu*
 - \[noun\], nominative, singular, feminine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *ojasā* \< *ojas*
+- *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------

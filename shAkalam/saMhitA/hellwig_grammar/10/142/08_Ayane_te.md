@@ -6,28 +6,28 @@ title = "Rig Veda 10.142.8"
 - \[noun\], locative, singular, neuter
 - “arrival.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *parāyaṇe* \< *parāyaṇa*
+- *parāyaṇe* ← *parāyaṇa*
 - \[noun\], locative, singular, neuter
 - “devotion; aim; engagement; commitment; departure; refuge;
     fondness.”
 ------------------------------------------------------------------------
-- *dūrvā* \< *dūrvāḥ* \< *dūrvā*
+- *dūrvā* ← *dūrvāḥ* ← *dūrvā*
 - \[noun\], nominative, plural, feminine
 - “Bermuda grass.”
 ------------------------------------------------------------------------
-- *rohantu* \< *ruh*
+- *rohantu* ← *ruh*
 - \[verb\], plural, Present imperative
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
 ------------------------------------------------------------------------
-- *puṣpiṇīḥ* \< *puṣpin*
+- *puṣpiṇīḥ* ← *puṣpin*
 - \[noun\], nominative, plural, feminine
 - “flowering.”
 ------------------------------------------------------------------------
-- *hradāś* \< *hradāḥ* \< *hrada*
+- *hradāś* ← *hradāḥ* ← *hrada*
 - \[noun\], nominative, plural, masculine
 - “lake; pool; hrada \[word\]; body of water; pool.”
 ------------------------------------------------------------------------
@@ -35,19 +35,19 @@ title = "Rig Veda 10.142.8"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *puṇḍarīkāṇi* \< *puṇḍarīka*
+- *puṇḍarīkāṇi* ← *puṇḍarīka*
 - \[noun\], nominative, plural, neuter
 - “lotus.”
 ------------------------------------------------------------------------
-- *samudrasya* \< *samudra*
+- *samudrasya* ← *samudra*
 - \[noun\], genitive, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *gṛhā* \< *gṛhāḥ* \< *gṛha*
+- *gṛhā* ← *gṛhāḥ* ← *gṛha*
 - \[noun\], nominative, plural, masculine
 - “house; palace; temple; home; place; family; family; stable.”
 ------------------------------------------------------------------------
-- *ime* \< *idam*
+- *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------

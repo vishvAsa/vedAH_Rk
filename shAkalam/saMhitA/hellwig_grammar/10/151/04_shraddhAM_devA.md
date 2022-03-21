@@ -11,40 +11,40 @@ title = "Rig Veda 10.151.4"
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *yajamānā* ← *yajamānāḥ* \< *yaj*
+- *yajamānā* ← *yajamānāḥ* ← *yaj*
 - \[verb noun\], nominative, plural
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *vāyugopā* \< *vāyu*
+- *vāyugopā* ← *vāyu*
 - \[noun\], masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
 ------------------------------------------------------------------------
-- *vāyugopā* \< *gopāḥ* \< *gopā*
+- *vāyugopā* ← *gopāḥ* ← *gopā*
 - \[noun\], nominative, plural, masculine
 - “herder; defender.”
 ------------------------------------------------------------------------
-- *upāsate* \< *upās* \< *√ās*
+- *upāsate* ← *upās* ← *√ās*
 - \[verb\], singular, Present indikative
 - “worship; attend; serve; get; approach; obtain; perform; expect.”
 ------------------------------------------------------------------------
-- *śraddhāṃ* \< *śraddhām* \< *śraddhā*
+- *śraddhāṃ* ← *śraddhām* ← *śraddhā*
 - \[noun\], accusative, singular, feminine
 - “faith; wish; śraddhā \[word\]; śraddhā; confidence; appetite.”
 ------------------------------------------------------------------------
-- *hṛdayyayākūtyā* \< *hṛdayyayā* \< *hṛdayya*
+- *hṛdayyayākūtyā* ← *hṛdayyayā* ← *hṛdayya*
 - \[noun\], instrumental, singular, feminine
 - “coronary; heart-whole.”
 ------------------------------------------------------------------------
-- *hṛdayyayākūtyā* \< *ākūtyā* \< *ākūti*
+- *hṛdayyayākūtyā* ← *ākūtyā* ← *ākūti*
 - \[noun\], instrumental, singular, feminine
 - “purpose; Ākūti.”
 ------------------------------------------------------------------------
-- *śraddhayā* \< *śraddhā*
+- *śraddhayā* ← *śraddhā*
 - \[noun\], instrumental, singular, feminine
 - “faith; wish; śraddhā \[word\]; śraddhā; confidence; appetite.”
 ------------------------------------------------------------------------
-- *vindate* \< *vid*
+- *vindate* ← *vid*
 - \[verb\], singular, Present indikative
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------

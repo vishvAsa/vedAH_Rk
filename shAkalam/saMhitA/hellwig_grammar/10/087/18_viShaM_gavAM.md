@@ -16,7 +16,7 @@ title = "Rig Veda 10.87.18"
 - \[noun\], nominative, plural, masculine
 - “sorcerer; Rākṣasa; Yātudhāna; rākṣasavaktravant.”
 ------------------------------------------------------------------------
-- *pibantv* ← *pibantu* \< *pā*
+- *pibantv* ← *pibantu* ← *pā*
 - \[verb\], plural, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
@@ -24,36 +24,36 @@ title = "Rig Veda 10.87.18"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vṛścyantām* \< *\_* \< *√\_*
+- *vṛścyantām* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *aditaye* \< *aditi*
+- *aditaye* ← *aditi*
 - \[noun\], dative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *durevāḥ* \< *dureva*
+- *durevāḥ* ← *dureva*
 - \[noun\], nominative, plural, masculine
 - “malevolent; bad; crabbed.”
 ------------------------------------------------------------------------
-- *parainān* \< *parā*
+- *parainān* ← *parā*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *parainān* \< *enān* \< *enad*
+- *parainān* ← *enān* ← *enad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
-- *devaḥ* \< *deva*
+- *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *savitā* \< *savitṛ*
+- *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *dadātu* \< *dā*
+- *dadātu* ← *dā*
 - \[verb\], singular, Present imperative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
@@ -64,17 +64,17 @@ title = "Rig Veda 10.87.18"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *bhāgam* \< *bhāga*
+- *bhāgam* ← *bhāga*
 - \[noun\], accusative, singular, masculine
 - “part; part; part; parcel; quarter; body part; location; region;
     allotment; part; numerator; division; application; function;
     outside; bhāga \[word\]; volume; helping.”
 ------------------------------------------------------------------------
-- *oṣadhīnāṃ* \< *oṣadhīnām* \< *oṣadhi*
+- *oṣadhīnāṃ* ← *oṣadhīnām* ← *oṣadhi*
 - \[noun\], genitive, plural, feminine
 - “herb; plant; drug; simple; oṣadhi \[word\]; remedy.”
 ------------------------------------------------------------------------
-- *jayantām* \< *ji*
+- *jayantām* ← *ji*
 - \[verb\], plural, Present imperative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”

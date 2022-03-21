@@ -54,10 +54,10 @@ title = "Rig Veda 10.149.1"
 - \[noun\], accusative, singular, neuter
 - “sky; atmosphere; air; abhra.”
 ------------------------------------------------------------------------
-- *atūrte* \< *atūrta*
+- *atūrte* ← *atūrta*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *baddhaṃ* \< *baddham* \< *bandh*
+- *baddhaṃ* ← *baddham* ← *bandh*
 - \[verb noun\], accusative, singular
 - “bandh; tie; envelop; close; dress; wrap; bind; constipate; fixate;
     shape; paralyze; construct; bandage; compress; beset; oblige; strap;
@@ -65,11 +65,11 @@ title = "Rig Veda 10.149.1"
     obstruct; write; restrain; bind; persecute; enclose; ligature; fill
     into; fasten.”
 ------------------------------------------------------------------------
-- *savitā* \< *savitṛ*
+- *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *samudram* \< *samudra*
+- *samudram* ← *samudra*
 - \[noun\], accusative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------

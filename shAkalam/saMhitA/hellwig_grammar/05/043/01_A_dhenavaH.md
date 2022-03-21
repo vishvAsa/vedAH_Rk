@@ -62,22 +62,22 @@ title = "Rig Veda 5.43.1"
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], accusative, singular, neuter
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *vipro* \< *vipraḥ* \< *vipra*
+- *vipro* ← *vipraḥ* ← *vipra*
 - \[noun\], nominative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *mayobhuvo* \< *mayobhuvaḥ* \< *mayobhu*
+- *mayobhuvo* ← *mayobhuvaḥ* ← *mayobhu*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *jaritā* \< *jaritṛ*
+- *jaritā* ← *jaritṛ*
 - \[noun\], nominative, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *johavīti* \< *johav* \< *√hvā*
+- *johavīti* ← *johav* ← *√hvā*
 - \[verb\], singular, Present indikative
 - “appeal.”
 ------------------------------------------------------------------------

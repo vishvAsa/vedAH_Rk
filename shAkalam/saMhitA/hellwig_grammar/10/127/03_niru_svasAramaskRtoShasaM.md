@@ -14,7 +14,7 @@ title = "Rig Veda 10.127.3"
 - \[noun\], accusative, singular
 - “sister; svasṛ \[word\].”
 ------------------------------------------------------------------------
-- *askṛtoṣasaṃ* ← *askṛta* \< *kṛ*
+- *askṛtoṣasaṃ* ← *askṛta* ← *kṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -25,23 +25,23 @@ title = "Rig Veda 10.127.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *askṛtoṣasaṃ* \< *uṣasam* \< *uṣas*
+- *askṛtoṣasaṃ* ← *uṣasam* ← *uṣas*
 - \[noun\], accusative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *devy* \< *devī*
+- *devy* ← *devī*
 - \[noun\], nominative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *āyatī* \< *e* \< *√i*
+- *āyatī* ← *e* ← *√i*
 - \[verb noun\], nominative, singular
 - “come; travel.”
 ------------------------------------------------------------------------
-- *aped* \< *apa*
+- *aped* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *aped* \< *id*
+- *aped* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -49,14 +49,14 @@ title = "Rig Veda 10.127.3"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *hāsate* \< *hā*
+- *hāsate* ← *hā*
 - \[verb\], singular, Aorist conj./subj.
 - “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
     lose; avoid; remove; leave; abandon; neglect; leave; discard;
     apostatize; discontinue; weaken; abandon; assail; subtract;
     foreswear; pour away; withdraw; depart; reduce.”
 ------------------------------------------------------------------------
-- *tamaḥ* \< *tamas*
+- *tamaḥ* ← *tamas*
 - \[noun\], nominative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”

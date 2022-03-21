@@ -51,16 +51,16 @@ title = "Rig Veda 10.124.8"
 - \[verb noun\], accusative, plural
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *tā* \< *tāḥ* \< *tad*
+- *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *īṃ* \< *īm* \< *īṃ*
+- *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *viśo* \< *viśaḥ* \< *viś*
+- *viśo* ← *viśaḥ* ← *viś*
 - \[noun\], nominative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
@@ -68,15 +68,15 @@ title = "Rig Veda 10.124.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *rājānaṃ* \< *rājānam* \< *rājan*
+- *rājānaṃ* ← *rājānam* ← *rājan*
 - \[noun\], accusative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *vṛṇānā* \< *vṛṇānāḥ* \< *vṛ*
+- *vṛṇānā* ← *vṛṇānāḥ* ← *vṛ*
 - \[verb noun\], nominative, plural
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *bībhatsuvo* \< *bībhatsuvaḥ* \< *bībhatsu*
+- *bībhatsuvo* ← *bībhatsuvaḥ* ← *bībhatsu*
 - \[noun\], nominative, plural, feminine
 - “coy; reserved.”
 ------------------------------------------------------------------------
@@ -84,11 +84,11 @@ title = "Rig Veda 10.124.8"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *vṛtrād* \< *vṛtrāt* \< *vṛtra*
+- *vṛtrād* ← *vṛtrāt* ← *vṛtra*
 - \[noun\], ablative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *atiṣṭhan* \< *sthā*
+- *atiṣṭhan* ← *sthā*
 - \[verb\], plural, Imperfect
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;

@@ -59,26 +59,26 @@ title = "Rig Veda 7.1.24"
 - \[noun\], vocative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *mademāvikṣitāsa* \< *madema* \< *mad*
+- *mademāvikṣitāsa* ← *madema* ← *mad*
 - \[verb\], plural, Present optative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *mademāvikṣitāsa* \< *a*
+- *mademāvikṣitāsa* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *mademāvikṣitāsa* \< *vikṣitāsaḥ* \< *vikṣi* \< *√kṣi*
+- *mademāvikṣitāsa* ← *vikṣitāsaḥ* ← *vikṣi* ← *√kṣi*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *āyuṣā* \< *āyus*
+- *āyuṣā* ← *āyus*
 - \[noun\], instrumental, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------
-- *suvīrāḥ* \< *su*
+- *suvīrāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvīrāḥ* \< *vīrāḥ* \< *vīra*
+- *suvīrāḥ* ← *vīrāḥ* ← *vīra*
 - \[noun\], nominative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------

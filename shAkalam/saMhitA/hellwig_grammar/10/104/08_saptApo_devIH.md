@@ -59,21 +59,21 @@ title = "Rig Veda 10.104.8"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *sravantīr* ← *sravantīḥ* \< *sru*
+- *sravantīr* ← *sravantīḥ* ← *sru*
 - \[verb noun\], accusative, plural
 - “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
     disappear; leak; fester.”
 ------------------------------------------------------------------------
-- *devebhyo* \< *devebhyaḥ* \< *deva*
+- *devebhyo* ← *devebhyaḥ* ← *deva*
 - \[noun\], dative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *gātum* \< *gātu*
+- *gātum* ← *gātu*
 - \[noun\], accusative, singular, masculine
 - “path; way.”
 ------------------------------------------------------------------------
-- *manuṣe* \< *manus*
+- *manuṣe* ← *manus*
 - \[noun\], dative, singular, masculine
 - “Manu; man.”
 ------------------------------------------------------------------------
@@ -81,7 +81,7 @@ title = "Rig Veda 10.104.8"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *vindaḥ* \< *vid*
+- *vindaḥ* ← *vid*
 - \[verb\], singular, Present injunctive
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------

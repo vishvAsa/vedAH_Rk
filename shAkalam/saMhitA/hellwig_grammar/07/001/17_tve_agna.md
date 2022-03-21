@@ -37,11 +37,11 @@ title = "Rig Veda 7.1.17"
     permanent; obligatory; continuing; indispensable; native; addicted;
     connatural; necessary; durable; ageless; invariable; biological.”
 ------------------------------------------------------------------------
-- *ubhā* \< *ubh*
+- *ubhā* ← *ubh*
 - \[noun\], accusative, dual, masculine
 - “both(a).”
 ------------------------------------------------------------------------
-- *kṛṇvanto* \< *kṛṇvantaḥ* \< *kṛ*
+- *kṛṇvanto* ← *kṛṇvantaḥ* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -52,10 +52,10 @@ title = "Rig Veda 7.1.17"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *vahatū* \< *vahatu*
+- *vahatū* ← *vahatu*
 - \[noun\], accusative, dual, masculine
 - “marriage.”
 ------------------------------------------------------------------------
-- *miyedhe* \< *miyedha*
+- *miyedhe* ← *miyedha*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------

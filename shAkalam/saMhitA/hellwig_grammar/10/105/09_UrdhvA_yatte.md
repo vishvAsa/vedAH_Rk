@@ -2,7 +2,7 @@
 title = "Rig Veda 10.105.9"
 
 +++
--   *ūrdhvā* \< *ūrdhva*
+-   *ūrdhvā* ← *ūrdhva*
 - \[noun\], nominative, singular, feminine
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
@@ -11,25 +11,25 @@ title = "Rig Veda 10.105.9"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
 - *tretinī*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *bhūd* \< *bhūt* \< *bhū*
+- *bhūd* ← *bhūt* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *yajñasya* \< *yajña*
+- *yajñasya* ← *yajña*
 - \[noun\], genitive, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *dhūrṣu* \< *dhur*
+- *dhūrṣu* ← *dhur*
 - \[noun\], locative, plural
 - “yoke; dhur \[word\].”
 ------------------------------------------------------------------------
@@ -37,27 +37,27 @@ title = "Rig Veda 10.105.9"
 - \[noun\], locative, singular, neuter
 - “seat; house; stable; dwelling.”
 ------------------------------------------------------------------------
-- *sajūr* \< *sajūs*
+- *sajūr* ← *sajūs*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *nāvaṃ* \< *nāvam* \< *nau*
+- *nāvaṃ* ← *nāvam* ← *nau*
 - \[noun\], accusative, singular
 - “ship; boat; nau \[word\].”
 ------------------------------------------------------------------------
-- *svayaśasaṃ* \< *sva*
+- *svayaśasaṃ* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svayaśasaṃ* \< *yaśasam* \< *yaśas*
+- *svayaśasaṃ* ← *yaśasam* ← *yaśas*
 - \[noun\], accusative, singular, feminine
 - “fame; Yaśas.”
 ------------------------------------------------------------------------
-- *sacāyoḥ* \< *sacā*
+- *sacāyoḥ* ← *sacā*
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *sacāyoḥ* \< *ayoḥ* \< *idam*
+- *sacāyoḥ* ← *ayoḥ* ← *idam*
 - \[noun\], genitive, dual, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------

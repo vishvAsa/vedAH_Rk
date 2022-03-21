@@ -57,7 +57,7 @@ title = "Rig Veda 4.14.2"
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
 ------------------------------------------------------------------------
-- *antarikṣaṃ* \< *antarikṣam* \< *antarikṣa*
+- *antarikṣaṃ* ← *antarikṣam* ← *antarikṣa*
 - \[noun\], accusative, singular, neuter
 - “sky; atmosphere; air; abhra.”
 ------------------------------------------------------------------------
@@ -65,16 +65,16 @@ title = "Rig Veda 4.14.2"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *sūryo* \< *sūryaḥ* \< *sūrya*
+- *sūryo* ← *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *raśmibhiś* \< *raśmibhiḥ* \< *raśmi*
+- *raśmibhiś* ← *raśmibhiḥ* ← *raśmi*
 - \[noun\], instrumental, plural, masculine
 - “beam; rein; sunbeam; shininess; cord.”
 ------------------------------------------------------------------------
-- *cekitānaḥ* \< *cekit* \< *√cit*
+- *cekitānaḥ* ← *cekit* ← *√cit*
 - \[verb noun\], nominative, singular
 - “chew over.”
 ------------------------------------------------------------------------

@@ -63,15 +63,15 @@ title = "Rig Veda 10.74.5"
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vajraṃ* ← *vajram* \< *vajra*
+- *vajraṃ* ← *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *naryam* \< *narya*
+- *naryam* ← *narya*
 - \[noun\], accusative, singular, masculine
 - “manly; heroic; powerful; male; human.”
 ------------------------------------------------------------------------
-- *purukṣuḥ* \< *purukṣu*
+- *purukṣuḥ* ← *purukṣu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

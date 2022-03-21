@@ -11,39 +11,39 @@ title = "Rig Veda 10.105.2"
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *suyujā* \< *su*
+- *suyujā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suyujā* \< *yujā* \< *yuj*
+- *suyujā* ← *yujā* ← *yuj*
 - \[noun\], nominative, dual, masculine
 - “amalgamated; harnessed.”
 ------------------------------------------------------------------------
-- *vivratā* \< *vivrata*
+- *vivratā* ← *vivrata*
 - \[noun\], nominative, dual, masculine
 - “refractory; loath.”
 ------------------------------------------------------------------------
-- *ver* \< *veḥ* \< *vi*
+- *ver* ← *veḥ* ← *vi*
 - \[noun\], genitive, singular, masculine
 - “vi; bird; vi.”
 ------------------------------------------------------------------------
-- *arvantānu* \< *arvantā* \< *arvat*
+- *arvantānu* ← *arvantā* ← *arvat*
 - \[noun\], nominative, dual, masculine
 - “running.”
 ------------------------------------------------------------------------
-- *arvantānu* \< *anu*
+- *arvantānu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *śepā* \< *śepa*
+- *śepā* ← *śepa*
 - \[noun\], accusative, dual, masculine
 - “penis.”
 ------------------------------------------------------------------------
-- *ubhā* \< *ubh*
+- *ubhā* ← *ubh*
 - \[noun\], nominative, dual, masculine
 - “both(a).”
 ------------------------------------------------------------------------
-- *rajī* \< *raji*
+- *rajī* ← *raji*
 - \[noun\], nominative, dual, masculine
 - “Raji.”
 ------------------------------------------------------------------------
@@ -51,16 +51,16 @@ title = "Rig Veda 10.105.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *keśinā* \< *keśin*
+- *keśinā* ← *keśin*
 - \[noun\], nominative, dual, masculine
 - “haired.”
 ------------------------------------------------------------------------
-- *patir* \< *patiḥ* \< *pati*
+- *patir* ← *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *dan* \< *\_* \< *√\_*
+- *dan* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------

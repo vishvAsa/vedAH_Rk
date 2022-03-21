@@ -73,7 +73,7 @@ title = "Rig Veda 10.29.3"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -86,23 +86,23 @@ title = "Rig Veda 10.29.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śakyām* \< *śak*
+- *śakyām* ← *śak*
 - \[verb\], singular, Aorist optative
 - “can; invigorate.”
 ------------------------------------------------------------------------
-- *upamaṃ* \< *upamam* \< *upama*
+- *upamaṃ* ← *upamam* ← *upama*
 - \[noun\], accusative, singular, neuter
 - “best; topmost.”
 ------------------------------------------------------------------------
-- *rādho* \< *rādhaḥ* \< *rādhas*
+- *rādho* ← *rādhaḥ* ← *rādhas*
 - \[noun\], accusative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *annaiḥ* \< *anna*
+- *annaiḥ* ← *anna*
 - \[noun\], instrumental, plural, neuter
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
 ------------------------------------------------------------------------

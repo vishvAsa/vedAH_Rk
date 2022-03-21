@@ -30,31 +30,31 @@ title = "Rig Veda 10.22.13"
 - \[noun\], nominative, plural, neuter
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *satyāhiṃsantīr* \< *a*
+- *satyāhiṃsantīr* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *satyāhiṃsantīr* \< *hiṃsantīḥ* \< *hiṃs*
+- *satyāhiṃsantīr* ← *hiṃsantīḥ* ← *hiṃs*
 - \[verb noun\], nominative, plural
 - “injure; kill; remove; harm; cure; damage.”
 ------------------------------------------------------------------------
-- *upaspṛśaḥ* \< *upaspṛś*
+- *upaspṛśaḥ* ← *upaspṛś*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *vidyāma* \< *vid*
+- *vidyāma* ← *vid*
 - \[verb\], plural, Present optative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *yāsām* \< *yad*
+- *yāsām* ← *yad*
 - \[noun\], genitive, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *bhujo* \< *bhujaḥ* \< *bhuj*
+- *bhujo* ← *bhujaḥ* ← *bhuj*
 - \[noun\], accusative, plural, feminine
 - “use; advantage; enjoyment.”
 ------------------------------------------------------------------------
-- *dhenūnāṃ* \< *dhenūnām* \< *dhenu*
+- *dhenūnāṃ* ← *dhenūnām* ← *dhenu*
 - \[noun\], genitive, plural, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
@@ -62,6 +62,6 @@ title = "Rig Veda 10.22.13"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vajrivaḥ* \< *vajrivas* \< *vajrivat*
+- *vajrivaḥ* ← *vajrivas* ← *vajrivat*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------

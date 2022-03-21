@@ -43,40 +43,40 @@ title = "Rig Veda 5.43.13"
 - \[verb noun\], nominative, singular
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *gnā* ← *gnāḥ* \< *gnā*
+- *gnā* ← *gnāḥ* ← *gnā*
 - \[noun\], accusative, plural, feminine
 - “goddess.”
 ------------------------------------------------------------------------
-- *vasāna* \< *vasānaḥ* \< *vas*
+- *vasāna* ← *vasānaḥ* ← *vas*
 - \[verb noun\], nominative, singular
 - “wear.”
 ------------------------------------------------------------------------
-- *oṣadhīr* \< *oṣadhīḥ* \< *oṣadhi*
+- *oṣadhīr* ← *oṣadhīḥ* ← *oṣadhi*
 - \[noun\], accusative, plural, feminine
 - “herb; plant; drug; simple; oṣadhi \[word\]; remedy.”
 ------------------------------------------------------------------------
-- *amṛdhras* \< *amṛdhraḥ* \< *amṛdhra*
+- *amṛdhras* ← *amṛdhraḥ* ← *amṛdhra*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *tridhātuśṛṅgo* \< *tri*
+- *tridhātuśṛṅgo* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *tridhātuśṛṅgo* \< *dhātu*
+- *tridhātuśṛṅgo* ← *dhātu*
 - \[noun\], masculine
 - “mineral; dhātu; saptadhātu; Sanskrit verbal root; etymon; aṣṭaloha;
     mahābhūta; gairika; component; navadhātu; svarṇamākṣika; doṣa;
     inorganic compound.”
 ------------------------------------------------------------------------
-- *tridhātuśṛṅgo* \< *śṛṅgaḥ* \< *śṛṅga*
+- *tridhātuśṛṅgo* ← *śṛṅgaḥ* ← *śṛṅga*
 - \[noun\], nominative, singular, masculine
 - “peak; horn; tusk; śṛṅga \[word\].”
 ------------------------------------------------------------------------
-- *vṛṣabho* \< *vṛṣabhaḥ* \< *vṛṣabha*
+- *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *vayodhāḥ* \< *vayodhas*
+- *vayodhāḥ* ← *vayodhas*
 - \[noun\], nominative, singular, masculine
 - “fortifying.”
 ------------------------------------------------------------------------

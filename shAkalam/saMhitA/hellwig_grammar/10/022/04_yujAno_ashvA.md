@@ -36,28 +36,28 @@ title = "Rig Veda 10.22.4"
 - *vajrivaḥ* ← *vajrivas* ← *vajrivat*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *syantā* \< *syand*
+- *syantā* ← *syand*
 - \[verb\], singular, periphrast. future
 - “run.”
 ------------------------------------------------------------------------
-- *pathā* \< *pathin*
+- *pathā* ← *pathin*
 - \[noun\], instrumental, singular, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *virukmatā* \< *virukmat*
+- *virukmatā* ← *virukmat*
 - \[noun\], instrumental, singular, masculine
 - “bright; glistening.”
 ------------------------------------------------------------------------
-- *sṛjāna* \< *sṛj*
+- *sṛjāna* ← *sṛj*
 - \[verb noun\], nominative, singular
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *stoṣy* \< *stoṣi* \< *stu*
+- *stoṣy* ← *stoṣi* ← *stu*
 - \[verb\], singular, Present indikative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *adhvanaḥ* \< *adhvan*
+- *adhvanaḥ* ← *adhvan*
 - \[noun\], accusative, plural, masculine
 - “way; journey; adhvan \[word\]; time; path; method; road; time;
     distance.”

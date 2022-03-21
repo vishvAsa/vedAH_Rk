@@ -71,7 +71,7 @@ title = "Rig Veda 5.42.9"
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *yāvayasva* \< *yāvay* \< *√yu*
+- *yāvayasva* ← *yāvay* ← *√yu*
 - \[verb\], singular, Present imperative
 - “keep away.”
 ------------------------------------------------------------------------

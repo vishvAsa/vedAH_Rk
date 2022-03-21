@@ -52,18 +52,18 @@ title = "Rig Veda 4.30.8"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *durhaṇāyuvaṃ* ← *durhaṇāyuvam* \< *durhaṇāyu*
+- *durhaṇāyuvaṃ* ← *durhaṇāyuvam* ← *durhaṇāyu*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *vadhīr* \< *vadhīḥ* \< *vadh*
+- *vadhīr* ← *vadhīḥ* ← *vadh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “kill; assail; kick; māray; destroy; beat.”
 ------------------------------------------------------------------------
-- *duhitaraṃ* \< *duhitaram* \< *duhitṛ*
+- *duhitaraṃ* ← *duhitaram* ← *duhitṛ*
 - \[noun\], accusative, singular, feminine
 - “daughter; duhitṛ \[word\].”
 ------------------------------------------------------------------------
-- *divaḥ* \< *div*
+- *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------

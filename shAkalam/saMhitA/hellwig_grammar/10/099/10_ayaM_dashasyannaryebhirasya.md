@@ -66,11 +66,11 @@ title = "Rig Veda 10.99.10"
 - *amimītāraruṃ* ← *ararum* ← *araru*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *yaś* \< *yaḥ* \< *yad*
+- *yaś* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *catuṣpāt* \< *catuṣpād*
+- *catuṣpāt* ← *catuṣpād*
 - \[noun\], nominative, singular, masculine
 - “quadruped.”
 ------------------------------------------------------------------------

@@ -6,39 +6,39 @@ title = "Rig Veda 10.127.6"
 - \[verb\], singular, Present imperative
 - “keep away.”
 ------------------------------------------------------------------------
-- *vṛkyaṃ* ← *vṛkyam* \< *vṛkī*
+- *vṛkyaṃ* ← *vṛkyam* ← *vṛkī*
 - \[noun\], accusative, singular, feminine
 - “wolf.”
 ------------------------------------------------------------------------
-- *vṛkaṃ* \< *vṛkam* \< *vṛka*
+- *vṛkaṃ* ← *vṛkam* ← *vṛka*
 - \[noun\], accusative, singular, masculine
 - “wolf; Vṛka; vṛka \[word\]; Vṛka.”
 ------------------------------------------------------------------------
-- *yavaya* \< *yavay* \< *√yu*
+- *yavaya* ← *yavay* ← *√yu*
 - \[verb\], singular, Present imperative
 - “keep away; ward off.”
 ------------------------------------------------------------------------
-- *stenam* \< *stena*
+- *stenam* ← *stena*
 - \[noun\], accusative, singular, masculine
 - “thief; stena \[word\].”
 ------------------------------------------------------------------------
-- *ūrmye* \< *ūrmyā*
+- *ūrmye* ← *ūrmyā*
 - \[noun\], vocative, singular, feminine
 - “night.”
 ------------------------------------------------------------------------
-- *athā* \< *atha*
+- *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sutarā* \< *sutara*
+- *sutarā* ← *sutara*
 - \[noun\], nominative, singular, feminine
 - “passable.”
 ------------------------------------------------------------------------
-- *bhava* \< *bhū*
+- *bhava* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;

@@ -19,27 +19,27 @@ title = "Rig Veda 5.43.12"
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
 ------------------------------------------------------------------------
-- *bṛhantam* \< *bṛhat*
+- *bṛhantam* ← *bṛhat*
 - \[noun\], accusative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *bṛhaspatiṃ* \< *bṛhaspatim* \< *bṛhaspati*
+- *bṛhaspatiṃ* ← *bṛhaspatim* ← *bṛhaspati*
 - \[noun\], accusative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *sadane* \< *sadana*
+- *sadane* ← *sadana*
 - \[noun\], locative, singular, neuter
 - “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
     residence; seat; inanition; location.”
 ------------------------------------------------------------------------
-- *sādayadhvam* \< *sāday* \< *√sad*
+- *sādayadhvam* ← *sāday* ← *√sad*
 - \[verb\], plural, Present imperative
 ------------------------------------------------------------------------
-- *sādadyoniṃ* \< *sādadyonim* \< *sādadyoni*
+- *sādadyoniṃ* ← *sādadyonim* ← *sādadyoni*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *dama* \< *dame* \< *dama*
+- *dama* ← *dame* ← *dama*
 - \[noun\], locative, singular, masculine
 - “dwelling; home.”
 ------------------------------------------------------------------------
@@ -47,23 +47,23 @@ title = "Rig Veda 5.43.12"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dīdivāṃsaṃ* \< *dīdivāṃsam* \< *dīdī*
+- *dīdivāṃsaṃ* ← *dīdivāṃsam* ← *dīdī*
 - \[verb noun\], accusative, singular
 - “shine; glitter.”
 ------------------------------------------------------------------------
-- *hiraṇyavarṇam* \< *hiraṇya*
+- *hiraṇyavarṇam* ← *hiraṇya*
 - \[noun\]
 - “aureate; gold.”
 ------------------------------------------------------------------------
-- *hiraṇyavarṇam* \< *varṇam* \< *varṇa*
+- *hiraṇyavarṇam* ← *varṇam* ← *varṇa*
 - \[noun\], accusative, singular, masculine
 - “color; caste; complexion; vowel; varṇa \[word\]; vowel; syllable;
     appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
 ------------------------------------------------------------------------
-- *aruṣaṃ* \< *aruṣam* \< *aruṣa*
+- *aruṣaṃ* ← *aruṣam* ← *aruṣa*
 - \[noun\], accusative, singular, masculine
 - “red; red.”
 ------------------------------------------------------------------------
-- *sapema* \< *sap*
+- *sapema* ← *sap*
 - \[verb\], plural, Present optative
 ------------------------------------------------------------------------

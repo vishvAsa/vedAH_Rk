@@ -9,33 +9,33 @@ title = "Rig Veda 9.101.1"
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *andhasaḥ* \< *andhas*
+- *andhasaḥ* ← *andhas*
 - \[noun\], genitive, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
-- *sutāya* \< *su*
+- *sutāya* ← *su*
 - \[verb noun\], dative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *mādayitnave* \< *mādayitnu*
+- *mādayitnave* ← *mādayitnu*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
 - *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *śvānaṃ* \< *śvānam* \< *śvan*
+- *śvānaṃ* ← *śvānam* ← *śvan*
 - \[noun\], accusative, singular, masculine
 - “dog; śvan \[word\].”
 ------------------------------------------------------------------------
-- *śnathiṣṭana* \< *śnath*
+- *śnathiṣṭana* ← *śnath*
 - \[verb\], plural, Aorist imperative
 - “pierce; kill.”
 ------------------------------------------------------------------------
-- *sakhāyo* \< *sakhāyaḥ* \< *sakhi*
+- *sakhāyo* ← *sakhāyaḥ* ← *sakhi*
 - \[noun\], vocative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *dīrghajihvyam* \< *dīrghajihvya*
+- *dīrghajihvyam* ← *dīrghajihvya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------

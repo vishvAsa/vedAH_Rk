@@ -52,7 +52,7 @@ title = "Rig Veda 5.21.1"
 - \[verb noun\], dative, singular
 - “solicit.”
 ------------------------------------------------------------------------
-- *yaja* \< *yaj*
+- *yaja* ← *yaj*
 - \[verb\], singular, Present imperative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------

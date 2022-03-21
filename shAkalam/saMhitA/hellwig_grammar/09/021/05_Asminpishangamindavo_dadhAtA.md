@@ -14,34 +14,34 @@ title = "Rig Veda 9.21.5"
 - \[noun\], accusative, singular, masculine
 - “tawny; red; brown.”
 ------------------------------------------------------------------------
-- *indavo* \< *indavaḥ* \< *indu*
+- *indavo* ← *indavaḥ* ← *indu*
 - \[noun\], vocative, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *dadhātā* \< *dadhāta* \< *dhā*
+- *dadhātā* ← *dadhāta* ← *dhā*
 - \[verb\], plural, Aorist imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *venam* \< *vena*
+- *venam* ← *vena*
 - \[noun\], accusative, singular, masculine
 - “Vena.”
 ------------------------------------------------------------------------
-- *ādiśe* \< *ādiś* \< *√diś*
+- *ādiśe* ← *ādiś* ← *√diś*
 - \[verb noun\]
 - “diagnose; order; call; deem; prescribe; enumerate; name; threaten;
     give; produce; designate; indicate; predict.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *asmabhyam* \< *mad*
+- *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *arāvā* \< *arāvan*
+- *arāvā* ← *arāvan*
 - \[noun\], nominative, singular, masculine
 - “begrudging; hostile; stingy.”
 ------------------------------------------------------------------------

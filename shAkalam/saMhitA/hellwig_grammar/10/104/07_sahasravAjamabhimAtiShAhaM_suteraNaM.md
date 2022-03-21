@@ -41,18 +41,18 @@ title = "Rig Veda 10.104.7"
 - \[noun\], accusative, singular, masculine
 - “irresistible.”
 ------------------------------------------------------------------------
-- *indraṃ* ← *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *namasyā* \< *namasyāḥ* \< *namasyā*
+- *namasyā* ← *namasyāḥ* ← *namasyā*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *jarituḥ* \< *jaritṛ*
+- *jarituḥ* ← *jaritṛ*
 - \[noun\], genitive, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *pananta* \< *pan*
+- *pananta* ← *pan*
 - \[verb\], plural, Present injunctive
 ------------------------------------------------------------------------

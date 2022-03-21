@@ -65,15 +65,15 @@ title = "Rig Veda 10.124.5"
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rāṣṭrasyādhipatyam* \< *rāṣṭrasya* \< *rāṣṭra*
+- *rāṣṭrasyādhipatyam* ← *rāṣṭrasya* ← *rāṣṭra*
 - \[noun\], genitive, singular, neuter
 - “kingdom; kingdom; kingship; rāṣṭra \[word\]; citizenry.”
 ------------------------------------------------------------------------
-- *rāṣṭrasyādhipatyam* \< *ādhipatyam* \< *ādhipatya*
+- *rāṣṭrasyādhipatyam* ← *ādhipatyam* ← *ādhipatya*
 - \[noun\], accusative, singular, neuter
 - “reign; command.”
 ------------------------------------------------------------------------
-- *ehi* \< *e* \< *√i*
+- *ehi* ← *e* ← *√i*
 - \[verb\], singular, Present imperative
 - “come; travel.”
 ------------------------------------------------------------------------

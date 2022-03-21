@@ -46,7 +46,7 @@ title = "Rig Veda 9.99.3"
 - \[noun\], instrumental, plural, neuter
 - “mouth.”
 ------------------------------------------------------------------------
-- *dadhuḥ* \< *dhā*
+- *dadhuḥ* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
@@ -55,7 +55,7 @@ title = "Rig Veda 9.99.3"
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
 ------------------------------------------------------------------------
-- *nūnaṃ* \< *nūnam*
+- *nūnaṃ* ← *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
 ------------------------------------------------------------------------
@@ -63,7 +63,7 @@ title = "Rig Veda 9.99.3"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *sūrayaḥ* \< *sūri*
+- *sūrayaḥ* ← *sūri*
 - \[noun\], nominative, plural, masculine
 - “patron.”
 ------------------------------------------------------------------------

@@ -59,11 +59,11 @@ title = "Rig Veda 4.18.6"
 - \[noun\], accusative, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *paridhiṃ* \< *paridhim* \< *paridhi*
+- *paridhiṃ* ← *paridhim* ← *paridhi*
 - \[noun\], accusative, singular, masculine
 - “covering; circumference; Paridhi; halo; fence.”
 ------------------------------------------------------------------------
-- *rujanti* \< *ruj*
+- *rujanti* ← *ruj*
 - \[verb\], plural, Present indikative
 - “break; bend.”
 ------------------------------------------------------------------------

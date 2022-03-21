@@ -23,7 +23,7 @@ title = "Rig Veda 5.43.2"
 - \[noun\], nominative, dual, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *vājāya* \< *vāja*
+- *vājāya* ← *vāja*
 - \[noun\], dative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
@@ -31,52 +31,52 @@ title = "Rig Veda 5.43.2"
 - \[noun\], nominative, dual, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *amṛdhre* \< *amṛdhra*
+- *amṛdhre* ← *amṛdhra*
 - \[noun\], nominative, dual, feminine
 ------------------------------------------------------------------------
-- *pitā* \< *pitṛ*
+- *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *mātā* \< *mātṛ*
+- *mātā* ← *mātṛ*
 - \[noun\], nominative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *madhuvacāḥ* \< *madhu*
+- *madhuvacāḥ* ← *madhu*
 - \[noun\]
 - “sweet; deft.”
 ------------------------------------------------------------------------
-- *madhuvacāḥ* \< *vacāḥ* \< *vacas*
+- *madhuvacāḥ* ← *vacāḥ* ← *vacas*
 - \[noun\], nominative, singular, feminine
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------
-- *suhastā* \< *su*
+- *suhastā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suhastā* \< *hastā* \< *hasta*
+- *suhastā* ← *hastā* ← *hasta*
 - \[noun\], nominative, singular, feminine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------
-- *bhare* \< *bhara*
+- *bhare* ← *bhara*
 - \[noun\], locative, singular, masculine
 - “battle; weight; foray; bhṛ; load.”
 ------------------------------------------------------------------------
-- *bhare* \< *bhara*
+- *bhare* ← *bhara*
 - \[noun\], locative, singular, masculine
 - “battle; weight; foray; bhṛ; load.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *yaśasāv* \< *yaśasau* \< *yaśas*
+- *yaśasāv* ← *yaśasau* ← *yaśas*
 - \[noun\], nominative, dual, masculine
 - “esteemed; celebrated; glorious; honorable.”
 ------------------------------------------------------------------------
-- *aviṣṭām* \< *av*
+- *aviṣṭām* ← *av*
 - \[verb\], dual, Aorist imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------

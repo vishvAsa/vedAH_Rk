@@ -32,18 +32,18 @@ title = "Rig Veda 10.22.15"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *riṣaṇyo* ← *riṣaṇyaḥ* ← *riṣaṇy* \< *√riṣ*
+- *riṣaṇyo* ← *riṣaṇyaḥ* ← *riṣaṇy* ← *√riṣ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “riṣaṇy \[verb\].”
 ------------------------------------------------------------------------
 - *vasavāna*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *vasuḥ* \< *vasu*
+- *vasuḥ* ← *vasu*
 - \[noun\], nominative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *san* \< *as*
+- *san* ← *as*
 - \[verb noun\], nominative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -52,19 +52,19 @@ title = "Rig Veda 10.22.15"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *trāyasva* \< *trā*
+- *trāyasva* ← *trā*
 - \[verb\], singular, Present imperative
 - “protect; help.”
 ------------------------------------------------------------------------
-- *gṛṇato* \< *gṛṇataḥ* \< *gṛ*
+- *gṛṇato* ← *gṛṇataḥ* ← *gṛ*
 - \[verb noun\], accusative, plural
 - “praise.”
 ------------------------------------------------------------------------
-- *maghono* \< *maghonaḥ* \< *maghavan*
+- *maghono* ← *maghonaḥ* ← *maghavan*
 - \[noun\], accusative, plural, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *mahaś* \< *mahaḥ* \< *mah*
+- *mahaś* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
@@ -72,15 +72,15 @@ title = "Rig Veda 10.22.15"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *rāyo* \< *rāyaḥ* \< *rai*
+- *rāyo* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *revatas* \< *revataḥ* \< *revat*
+- *revatas* ← *revataḥ* ← *revat*
 - \[noun\], accusative, plural, masculine
 - “abundant; rich; affluent; brilliant; brilliant.”
 ------------------------------------------------------------------------
-- *kṛdhī* \< *kṛ*
+- *kṛdhī* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -91,7 +91,7 @@ title = "Rig Veda 10.22.15"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

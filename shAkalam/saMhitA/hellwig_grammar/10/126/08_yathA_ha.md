@@ -93,15 +93,15 @@ title = "Rig Veda 10.126.8"
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *prataraṃ* ← *prataram* \< *pratara*
+- *prataraṃ* ← *prataram* ← *pratara*
 - \[noun\], accusative, singular, masculine
 - “pratara.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *āyuḥ* \< *āyus*
+- *āyuḥ* ← *āyus*
 - \[noun\], nominative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------

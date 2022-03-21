@@ -14,61 +14,61 @@ title = "Rig Veda 6.16.46"
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *marto* ← *martaḥ* \< *marta*
+- *marto* ← *martaḥ* ← *marta*
 - \[noun\], nominative, singular, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *duvasyed* \< *duvasyet* \< *duvasy*
+- *duvasyed* ← *duvasyet* ← *duvasy*
 - \[verb\], singular, Present optative
 - “worship.”
 ------------------------------------------------------------------------
-- *agnim* \< *agni*
+- *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *īﾱītādhvare* \< *īḍīta* \< *īḍ*
+- *īﾱītādhvare* ← *īḍīta* ← *īḍ*
 - \[verb\], singular, Present optative
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
-- *īﾱītādhvare* \< *adhvare* \< *adhvara*
+- *īﾱītādhvare* ← *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *haviṣmān* \< *haviṣmat*
+- *haviṣmān* ← *haviṣmat*
 - \[noun\], nominative, singular, masculine
 - “sacrificing.”
 ------------------------------------------------------------------------
-- *hotāraṃ* \< *hotāram* \< *hotṛ*
+- *hotāraṃ* ← *hotāram* ← *hotṛ*
 - \[noun\], accusative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *satyayajaṃ* \< *satya*
+- *satyayajaṃ* ← *satya*
 - \[noun\]
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *satyayajaṃ* \< *yajam* \< *yaj*
+- *satyayajaṃ* ← *yajam* ← *yaj*
 - \[noun\], accusative, singular, masculine
 - “sacrificing.”
 ------------------------------------------------------------------------
-- *rodasyor* \< *rodasyoḥ* \< *rodasī*
+- *rodasyor* ← *rodasyoḥ* ← *rodasī*
 - \[noun\], genitive, dual, feminine
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *uttānahasto* \< *uttāna*
+- *uttānahasto* ← *uttāna*
 - \[noun\]
 - “supine; upward; upright; skin-deep; raised; shallow.”
 ------------------------------------------------------------------------
-- *uttānahasto* \< *hastaḥ* \< *hasta*
+- *uttānahasto* ← *hastaḥ* ← *hasta*
 - \[noun\], nominative, singular, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------
-- *namasā* \< *namas*
+- *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *vivāset* \< *vivās* \< *√van*
+- *vivāset* ← *vivās* ← *√van*
 - \[verb\], singular, Present optative
 - “invite; endeavor; try for.”
 ------------------------------------------------------------------------

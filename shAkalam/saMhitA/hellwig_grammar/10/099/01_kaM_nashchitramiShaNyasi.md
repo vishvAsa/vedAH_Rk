@@ -68,10 +68,10 @@ title = "Rig Veda 10.99.1"
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *vṛtraturam* ← *turam* \< *tur*
+- *vṛtraturam* ← *turam* ← *tur*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *apinvat* \< *pinv*
+- *apinvat* ← *pinv*
 - \[verb\], singular, Imperfect
 - “swell; swell; overflow; abound.”
 ------------------------------------------------------------------------

@@ -2,49 +2,49 @@
 title = "Rig Veda 5.45.1"
 
 +++
--   *vidā* ← *vidāḥ* \< *vid*
+-   *vidā* ← *vidāḥ* ← *vid*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *viṣyann* \< *viṣyan* \< *viṣ*
+- *viṣyann* ← *viṣyan* ← *viṣ*
 - \[verb noun\], nominative, singular
 - “labor; act; perform.”
 ------------------------------------------------------------------------
-- *adrim* \< *adri*
+- *adrim* ← *adri*
 - \[noun\], accusative, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *ukthair* \< *ukthaiḥ* \< *uktha*
+- *ukthair* ← *ukthaiḥ* ← *uktha*
 - \[noun\], instrumental, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *āyatyā* \< *āyatyāḥ* \< *e* \< *√i*
+- *āyatyā* ← *āyatyāḥ* ← *e* ← *√i*
 - \[verb noun\], genitive, singular
 - “come; travel.”
 ------------------------------------------------------------------------
-- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], genitive, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *arcino* \< *arcinaḥ* \< *arcin*
+- *arcino* ← *arcinaḥ* ← *arcin*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *guḥ* \< *gā*
+- *guḥ* ← *gā*
 - \[verb\], plural, Root aorist (Ind.)
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------
-- *apāvṛta* \< *apavṛ* \< *√vṛ*
+- *apāvṛta* ← *apavṛ* ← *√vṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “open.”
 ------------------------------------------------------------------------
-- *vrajinīr* \< *vrajinīḥ* \< *vrajin*
+- *vrajinīr* ← *vrajinīḥ* ← *vrajin*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *ut* \< *ud*
+- *ut* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
@@ -52,7 +52,7 @@ title = "Rig Veda 5.45.1"
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *gād* \< *gāt* \< *gā*
+- *gād* ← *gāt* ← *gā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------
@@ -60,20 +60,20 @@ title = "Rig Veda 5.45.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *duro* \< *duraḥ* \< *dvār*
+- *duro* ← *duraḥ* ← *dvār*
 - \[noun\], accusative, plural, feminine
 - “door; means.”
 ------------------------------------------------------------------------
-- *mānuṣīr* \< *mānuṣīḥ* \< *mānuṣa*
+- *mānuṣīr* ← *mānuṣīḥ* ← *mānuṣa*
 - \[noun\], accusative, plural, feminine
 - “human.”
 ------------------------------------------------------------------------
-- *deva* \< *devaḥ* \< *deva*
+- *deva* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *āvaḥ* \< *vṛ*
+- *āvaḥ* ← *vṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”

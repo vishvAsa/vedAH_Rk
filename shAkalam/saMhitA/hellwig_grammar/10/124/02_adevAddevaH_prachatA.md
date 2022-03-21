@@ -21,23 +21,23 @@ title = "Rig Veda 10.124.2"
 - \[verb noun\], nominative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *prapaśyamāno* ← *prapaśyamānaḥ* ← *prapaś* \< *√paś*
+- *prapaśyamāno* ← *prapaśyamānaḥ* ← *prapaś* ← *√paś*
 - \[verb noun\], nominative, singular
 - “see.”
 ------------------------------------------------------------------------
-- *amṛtatvam* \< *amṛta*
+- *amṛtatvam* ← *amṛta*
 - \[noun\]
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *amṛtatvam* \< *tvam* \< *tva*
+- *amṛtatvam* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *emi* \< *i*
+- *emi* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *śivaṃ* \< *śivam* \< *śiva*
+- *śivaṃ* ← *śivam* ← *śiva*
 - \[noun\], accusative, singular, masculine
 - “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
     holy; nice.”
@@ -46,41 +46,41 @@ title = "Rig Veda 10.124.2"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *santam* \< *as*
+- *santam* ← *as*
 - \[verb noun\], accusative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *aśivo* \< *aśivaḥ* \< *aśiva*
+- *aśivo* ← *aśivaḥ* ← *aśiva*
 - \[noun\], nominative, singular, masculine
 - “inauspicious; unkind; unfriendly; cruel; dangerous.”
 ------------------------------------------------------------------------
-- *jahāmi* \< *hā*
+- *jahāmi* ← *hā*
 - \[verb\], singular, Present indikative
 - “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
     lose; avoid; remove; leave; abandon; neglect; leave; discard;
     apostatize; discontinue; weaken; abandon; assail; subtract;
     foreswear; pour away; withdraw; depart; reduce.”
 ------------------------------------------------------------------------
-- *svāt* \< *sva*
+- *svāt* ← *sva*
 - \[noun\], ablative, singular, neuter
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *sakhyād* \< *sakhyāt* \< *sakhya*
+- *sakhyād* ← *sakhyāt* ← *sakhya*
 - \[noun\], ablative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *araṇīṃ* \< *araṇīm* \< *araṇa*
+- *araṇīṃ* ← *araṇīm* ← *araṇa*
 - \[noun\], accusative, singular, feminine
 - “foreign; unrelated.”
 ------------------------------------------------------------------------
-- *nābhim* \< *nābhi*
+- *nābhim* ← *nābhi*
 - \[noun\], accusative, singular, feminine
 - “navel; hub; kinship; beginning; origin; umbilical cord; nābhi
     \[word\]; friendship; center.”
 ------------------------------------------------------------------------
-- *emi* \< *i*
+- *emi* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------

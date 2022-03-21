@@ -88,11 +88,11 @@ title = "Rig Veda 5.45.2"
 - \[verb noun\], nominative, singular
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
 ------------------------------------------------------------------------
-- *dṛṃhata* \< *dṛh*
+- *dṛṃhata* ← *dṛh*
 - \[verb\], singular, Present injunctive
 - “fixate; strengthen.”
 ------------------------------------------------------------------------
-- *dyauḥ* \< *div*
+- *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------

@@ -81,11 +81,11 @@ title = "Rig Veda 4.18.12"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *prākṣiṇāḥ* ← *prakṣi* \< *√kṣi*
+- *prākṣiṇāḥ* ← *prakṣi* ← *√kṣi*
 - \[verb\], singular, Imperfect
 - “run down; emaciate; exhaust.”
 ------------------------------------------------------------------------
-- *pitaram* \< *pitṛ*
+- *pitaram* ← *pitṛ*
 - \[noun\], accusative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”

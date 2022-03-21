@@ -39,7 +39,7 @@ title = "Rig Veda 9.20.5"
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *vahne* \< *vahni*
+- *vahne* ← *vahni*
 - \[noun\], vocative, singular, masculine
 - “fire; digestion; Plumbago zeylanica; Agni; vahni; draft horse;
     three; sacrificial fire; Vahni; gold; southeast; citron; charioteer;

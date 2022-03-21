@@ -16,15 +16,15 @@ title = "Rig Veda 10.140.4"
 - \[verb\], singular, Present imperative
 - “spread; proclaim.”
 ------------------------------------------------------------------------
-- *jantubhir* ← *jantubhiḥ* \< *jantu*
+- *jantubhir* ← *jantubhiḥ* ← *jantu*
 - \[noun\], instrumental, plural, masculine
 - “man; worm; being; child; Jantu; offspring; insect; vermin; animal.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rāyo* \< *rāyaḥ* \< *rai*
+- *rāyo* ← *rāyaḥ* ← *rai*
 - \[noun\], nominative, plural
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
@@ -32,17 +32,17 @@ title = "Rig Veda 10.140.4"
 - \[noun\], vocative, singular, masculine
 - “immortal.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *darśatasya* \< *darśata*
+- *darśatasya* ← *darśata*
 - \[noun\], genitive, singular, neuter
 - “beautiful; visible; beautiful.”
 ------------------------------------------------------------------------
-- *vapuṣo* \< *vapuṣaḥ* \< *vapus*
+- *vapuṣo* ← *vapuṣaḥ* ← *vapus*
 - \[noun\], genitive, singular, neuter
 - “body; form; miracle; human body; beauty; look; spectacle; figure;
     embodiment.”
@@ -51,19 +51,19 @@ title = "Rig Veda 10.140.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *rājasi* \< *rāj*
+- *rājasi* ← *rāj*
 - \[verb\], singular, Present indikative
 - “govern; shine; glitter; direct.”
 ------------------------------------------------------------------------
-- *pṛṇakṣi* \< *pṛc*
+- *pṛṇakṣi* ← *pṛc*
 - \[verb\], singular, Present indikative
 - “mix; unite.”
 ------------------------------------------------------------------------
-- *sānasiṃ* \< *sānasim* \< *sānasi*
+- *sānasiṃ* ← *sānasim* ← *sānasi*
 - \[noun\], accusative, singular, masculine
 - “victorious.”
 ------------------------------------------------------------------------
-- *kratum* \< *kratu*
+- *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”

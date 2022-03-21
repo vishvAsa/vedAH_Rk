@@ -25,14 +25,14 @@ title = "Rig Veda 3.28.1"
 - \[noun\], accusative, singular, masculine
 - “puroḍāśa.”
 ------------------------------------------------------------------------
-- *jātavedaḥ* \< *jātavedas*
+- *jātavedaḥ* ← *jātavedas*
 - \[noun\], vocative, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------
-- *prātaḥsāve* \< *prātaḥsāva*
+- *prātaḥsāve* ← *prātaḥsāva*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *dhiyāvaso* \< *dhiyāvasu*
+- *dhiyāvaso* ← *dhiyāvasu*
 - \[noun\], vocative, singular, masculine
 - “wise.”
 ------------------------------------------------------------------------

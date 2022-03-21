@@ -10,7 +10,7 @@ title = "Rig Veda 5.43.7"
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *prathayanto* \< *prathayantaḥ* \< *prathay* \< *√prath*
+- *prathayanto* ← *prathayantaḥ* ← *prathay* ← *√prath*
 - \[verb noun\], nominative, plural
 - “spread; proclaim.”
 ------------------------------------------------------------------------
@@ -18,28 +18,28 @@ title = "Rig Veda 5.43.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *viprā* \< *viprāḥ* \< *vipra*
+- *viprā* ← *viprāḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *vapāvantaṃ* \< *vapāvantam* \< *vapāvat*
+- *vapāvantaṃ* ← *vapāvantam* ← *vapāvat*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *nāgninā* \< *na*
+- *nāgninā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāgninā* \< *agninā* \< *agni*
+- *nāgninā* ← *agninā* ← *agni*
 - \[noun\], instrumental, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *tapantaḥ* \< *tap*
+- *tapantaḥ* ← *tap*
 - \[verb noun\], nominative, plural
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
 ------------------------------------------------------------------------
-- *pitur* \< *pituḥ* \< *pitṛ*
+- *pitur* ← *pituḥ* ← *pitṛ*
 - \[noun\], genitive, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
@@ -48,15 +48,15 @@ title = "Rig Veda 5.43.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *putra* \< *putraḥ* \< *putra*
+- *putra* ← *putraḥ* ← *putra*
 - \[noun\], nominative, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
-- *upasi* \< *upas*
+- *upasi* ← *upas*
 - \[noun\], locative, singular, neuter
 - “lap.”
 ------------------------------------------------------------------------
-- *preṣṭha* \< *preṣṭhaḥ* \< *preṣṭha*
+- *preṣṭha* ← *preṣṭhaḥ* ← *preṣṭha*
 - \[noun\], nominative, singular, masculine
 - “dearest.”
 ------------------------------------------------------------------------
@@ -64,21 +64,21 @@ title = "Rig Veda 5.43.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gharmo* \< *gharmaḥ* \< *gharma*
+- *gharmo* ← *gharmaḥ* ← *gharma*
 - \[noun\], nominative, singular, masculine
 - “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
     caldron.”
 ------------------------------------------------------------------------
-- *agnim* \< *agni*
+- *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *ṛtayann* \< *ṛtayan* \< *ṛtay*
+- *ṛtayann* ← *ṛtayan* ← *ṛtay*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *asādi* \< *sad*
+- *asādi* ← *sad*
 - \[verb\], singular, Aorist passive
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”

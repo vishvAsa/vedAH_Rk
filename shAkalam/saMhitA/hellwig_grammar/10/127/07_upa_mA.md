@@ -37,15 +37,15 @@ title = "Rig Veda 10.127.7"
 - \[noun\], vocative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *ṛṇeva* \< *ṛṇā* \< *ṛṇa*
+- *ṛṇeva* ← *ṛṇā* ← *ṛṇa*
 - \[noun\], accusative, plural, neuter
 - “debt; debt; ṛṇa \[word\].”
 ------------------------------------------------------------------------
-- *ṛṇeva* \< *iva*
+- *ṛṇeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *yātaya* \< *yātay* \< *√yat*
+- *yātaya* ← *yātay* ← *√yat*
 - \[verb\], singular, Present imperative
 - “endeavor; settle.”
 ------------------------------------------------------------------------

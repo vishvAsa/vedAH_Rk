@@ -38,65 +38,65 @@ title = "Rig Veda 10.75.4"
 - \[verb\], plural, Present indikative
 - “run.”
 ------------------------------------------------------------------------
-- *payaseva* ← *payasā* \< *payas*
+- *payaseva* ← *payasā* ← *payas*
 - \[noun\], instrumental, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
-- *payaseva* \< *iva*
+- *payaseva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *dhenavaḥ* \< *dhenu*
+- *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *rājeva* \< *rājā* \< *rājan*
+- *rājeva* ← *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *rājeva* \< *iva*
+- *rājeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *yudhvā* \< *yudhvan*
+- *yudhvā* ← *yudhvan*
 - \[noun\], nominative, singular, masculine
 - “warlike; soldierly.”
 ------------------------------------------------------------------------
-- *nayasi* \< *nī*
+- *nayasi* ← *nī*
 - \[verb\], singular, Present indikative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *sicau* \< *sic*
+- *sicau* ← *sic*
 - \[noun\], accusative, dual, feminine
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *āsām* \< *idam*
+- *āsām* ← *idam*
 - \[noun\], genitive, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *agram* \< *agra*
+- *agram* ← *agra*
 - \[noun\], accusative, singular, neuter
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
 ------------------------------------------------------------------------
-- *pravatām* \< *pravat*
+- *pravatām* ← *pravat*
 - \[noun\], genitive, plural, feminine
 - “slope; river.”
 ------------------------------------------------------------------------
-- *inakṣasi* \< *inakṣ* \< *√naś*
+- *inakṣasi* ← *inakṣ* ← *√naś*
 - \[verb\], singular, Present indikative
 - “wish.”
 ------------------------------------------------------------------------

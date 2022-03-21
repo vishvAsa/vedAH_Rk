@@ -74,7 +74,7 @@ title = "Rig Veda 10.99.4"
 - \[noun\], accusative, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *vāḥ* \< *vār*
+- *vāḥ* ← *vār*
 - \[noun\], accusative, singular, neuter
 - “water; juice; jala.”
 ------------------------------------------------------------------------

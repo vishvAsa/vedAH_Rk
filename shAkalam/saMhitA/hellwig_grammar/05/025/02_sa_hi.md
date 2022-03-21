@@ -67,10 +67,10 @@ title = "Rig Veda 5.25.2"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudītibhir* ← *dītibhiḥ* \< *dīti*
+- *sudītibhir* ← *dītibhiḥ* ← *dīti*
 - \[noun\], instrumental, plural, feminine
 ------------------------------------------------------------------------
-- *vibhāvasum* \< *vibhāvasu*
+- *vibhāvasum* ← *vibhāvasu*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sun; Surya.”
 ------------------------------------------------------------------------

@@ -77,11 +77,11 @@ title = "Rig Veda 10.74.1"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśruto* ← *śrutaḥ* \< *śrut*
+- *suśruto* ← *śrutaḥ* ← *śrut*
 - \[noun\], nominative, plural, masculine
 - “listening.”
 ------------------------------------------------------------------------
-- *dhuḥ* \< *dhā*
+- *dhuḥ* ← *dhā*
 - \[verb\], plural, Aorist inj. (proh.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

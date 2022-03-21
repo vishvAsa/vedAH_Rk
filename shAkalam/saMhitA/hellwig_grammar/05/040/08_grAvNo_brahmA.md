@@ -61,7 +61,7 @@ title = "Rig Veda 5.40.8"
 - \[verb\], singular, Root aorist (Ind.)
 - “put; conceive; ignite; keep; effect; fuel; lend; cover; direct.”
 ------------------------------------------------------------------------
-- *svarbhānor* ← *svarbhānoḥ* \< *svarbhānu*
+- *svarbhānor* ← *svarbhānoḥ* ← *svarbhānu*
 - \[noun\], genitive, singular, masculine
 - “Rahu.”
 ------------------------------------------------------------------------
@@ -69,12 +69,12 @@ title = "Rig Veda 5.40.8"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *māyā* \< *māyāḥ* \< *māyā*
+- *māyā* ← *māyāḥ* ← *māyā*
 - \[noun\], accusative, plural, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
 ------------------------------------------------------------------------
-- *aghukṣat* \< *guh*
+- *aghukṣat* ← *guh*
 - \[verb\], singular, sa aorist (Ind.)
 - “hide; cover; conceal; shroud; obscure.”
 ------------------------------------------------------------------------

@@ -23,34 +23,34 @@ title = "Rig Veda 10.87.15"
 - \[verb\], plural, Present imperative
 - “fall off; break; disintegrate; crush; break; fracture.”
 ------------------------------------------------------------------------
-- *pratyag* \< *pratyak* \< *pratyañc*
+- *pratyag* ← *pratyak* ← *pratyañc*
 - \[noun\], accusative, singular, neuter
 - “western; facing; westbound; backward; pratyañc \[word\]; inverted.”
 ------------------------------------------------------------------------
-- *enaṃ* \< *enam* \< *enad*
+- *enaṃ* ← *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
-- *śapathā* \< *śapathāḥ* \< *śapatha*
+- *śapathā* ← *śapathāḥ* ← *śapatha*
 - \[noun\], nominative, plural, masculine
 - “imprecation; oath; ordeal; hex.”
 ------------------------------------------------------------------------
-- *yantu* \< *i*
+- *yantu* ← *i*
 - \[verb\], plural, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *tṛṣṭāḥ* \< *tṛṣṭa*
+- *tṛṣṭāḥ* ← *tṛṣṭa*
 - \[noun\], nominative, plural, masculine
 - “harsh; harsh.”
 ------------------------------------------------------------------------
-- *vācāstenaṃ* \< *vācāstenam* \< *vācāstena*
+- *vācāstenaṃ* ← *vācāstenam* ← *vācāstena*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *śarava* \< *śaravaḥ* \< *śaru*
+- *śarava* ← *śaravaḥ* ← *śaru*
 - \[noun\], nominative, plural, masculine
 - “arrow.”
 ------------------------------------------------------------------------
-- *ṛcchantu* \< *ṛch*
+- *ṛcchantu* ← *ṛch*
 - \[verb\], plural, Present imperative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
@@ -59,20 +59,20 @@ title = "Rig Veda 10.87.15"
 - \[noun\], locative, singular, neuter
 - “marman; secret; secret; mystery; vulnerability.”
 ------------------------------------------------------------------------
-- *viśvasyaitu* \< *viśvasya* \< *viśva*
+- *viśvasyaitu* ← *viśvasya* ← *viśva*
 - \[noun\], genitive, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvasyaitu* \< *aitu* \< *e* \< *√i*
+- *viśvasyaitu* ← *aitu* ← *e* ← *√i*
 - \[verb\], singular, Present imperative
 - “come; travel.”
 ------------------------------------------------------------------------
-- *prasitiṃ* \< *prasitim* \< *prasiti*
+- *prasitiṃ* ← *prasitim* ← *prasiti*
 - \[noun\], accusative, singular, feminine
 - “binding.”
 ------------------------------------------------------------------------
-- *yātudhānaḥ* \< *yātudhāna*
+- *yātudhānaḥ* ← *yātudhāna*
 - \[noun\], nominative, singular, masculine
 - “sorcerer; Rākṣasa; Yātudhāna; rākṣasavaktravant.”
 ------------------------------------------------------------------------

@@ -2,23 +2,23 @@
 title = "Rig Veda 10.21.7"
 
 +++
--   *tvāṃ* \< *tvām* \< *tvad*
+-   *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *yajñeṣv* \< *yajñeṣu* \< *yajña*
+- *yajñeṣv* ← *yajñeṣu* ← *yajña*
 - \[noun\], locative, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *ṛtvijaṃ* \< *ṛtvijam* \< *ṛtvij*
+- *ṛtvijaṃ* ← *ṛtvijam* ← *ṛtvij*
 - \[noun\], accusative, singular, masculine
 - “ṛtvij; ṛtvij \[word\].”
 ------------------------------------------------------------------------
-- *cārum* \< *cāru*
+- *cārum* ← *cāru*
 - \[noun\], accusative, singular, masculine
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -28,20 +28,20 @@ title = "Rig Veda 10.21.7"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ṣedire* \< *sad*
+- *ṣedire* ← *sad*
 - \[verb\], plural, Perfect indicative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *ghṛtapratīkam* \< *ghṛta*
+- *ghṛtapratīkam* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *ghṛtapratīkam* \< *pratīkam* \< *pratīka*
+- *ghṛtapratīkam* ← *pratīkam* ← *pratīka*
 - \[noun\], accusative, singular, masculine
 - “face; surface.”
 ------------------------------------------------------------------------
-- *manuṣo* \< *manuṣaḥ* \< *manus*
+- *manuṣo* ← *manuṣaḥ* ← *manus*
 - \[noun\], nominative, plural, masculine
 - “Manu; man.”
 ------------------------------------------------------------------------
@@ -49,28 +49,28 @@ title = "Rig Veda 10.21.7"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *made* \< *mada*
+- *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *śukraṃ* \< *śukram* \< *śukra*
+- *śukraṃ* ← *śukram* ← *śukra*
 - \[noun\], accusative, singular, masculine
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *cetiṣṭham* \< *cetiṣṭha*
+- *cetiṣṭham* ← *cetiṣṭha*
 - \[noun\], accusative, singular, masculine
 - “attentive.”
 ------------------------------------------------------------------------
-- *akṣabhir* \< *akṣabhiḥ* \< *akṣa*
+- *akṣabhir* ← *akṣabhiḥ* ← *akṣa*
 - \[noun\], instrumental, plural, neuter
 - “eye; akṣa \[word\]; hole.”
 ------------------------------------------------------------------------
-- *vivakṣase* \< *vivakṣ* \< *√vac*
+- *vivakṣase* ← *vivakṣ* ← *√vac*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------

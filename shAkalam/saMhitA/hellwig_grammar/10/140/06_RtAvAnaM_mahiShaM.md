@@ -47,30 +47,30 @@ title = "Rig Veda 10.140.6"
 - \[noun\]
 - “listening.”
 ------------------------------------------------------------------------
-- *śrutkarṇaṃ* \< *karṇam* \< *karṇa*
+- *śrutkarṇaṃ* ← *karṇam* ← *karṇa*
 - \[noun\], accusative, singular, masculine
 - “ear; Karṇa; karṇa \[word\]; auricle; fluke; diameter; lobule.”
 ------------------------------------------------------------------------
-- *saprathastamaṃ* \< *saprathastamam* \< *saprathastama*
+- *saprathastamaṃ* ← *saprathastamam* ← *saprathastama*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
 ------------------------------------------------------------------------
-- *girā* \< *giri*
+- *girā* ← *giri*
 - \[noun\], locative, singular, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
 ------------------------------------------------------------------------
-- *daivyam* \< *daivya*
+- *daivyam* ← *daivya*
 - \[noun\], accusative, singular, masculine
 - “divine; divine; celestial.”
 ------------------------------------------------------------------------
-- *mānuṣā* \< *mānuṣāḥ* \< *mānuṣa*
+- *mānuṣā* ← *mānuṣāḥ* ← *mānuṣa*
 - \[noun\], nominative, plural, masculine
 - “man; man.”
 ------------------------------------------------------------------------
-- *yugā* \< *yuga*
+- *yugā* ← *yuga*
 - \[noun\], instrumental, singular, neuter
 - “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
     \[word\]; Yuga; race.”

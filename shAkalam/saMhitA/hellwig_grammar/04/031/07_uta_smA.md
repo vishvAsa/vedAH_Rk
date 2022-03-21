@@ -26,18 +26,18 @@ title = "Rig Veda 4.31.7"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *maghavānaṃ* ← *maghavānam* \< *maghavan*
+- *maghavānaṃ* ← *maghavānam* ← *maghavan*
 - \[noun\], accusative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *śacīpate* \< *śacīpati*
+- *śacīpate* ← *śacīpati*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *dātāram* \< *dātṛ*
+- *dātāram* ← *dātṛ*
 - \[noun\], accusative, singular, masculine
 - “giving; big.”
 ------------------------------------------------------------------------
-- *avidīdhayum* \< *avidīdhayu*
+- *avidīdhayum* ← *avidīdhayu*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------

@@ -67,17 +67,17 @@ title = "Rig Veda 5.19.5"
 - \[noun\], nominative, plural, feminine
 - “sharp; pointed; fiery.”
 ------------------------------------------------------------------------
-- *susaṃśitā* \< *su*
+- *susaṃśitā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *susaṃśitā* \< *saṃśitāḥ* \< *saṃśā* \< *√śā*
+- *susaṃśitā* ← *saṃśitāḥ* ← *saṃśā* ← *√śā*
 - \[verb noun\], nominative, plural
 - “sharpen.”
 ------------------------------------------------------------------------
-- *vakṣyo* \< *vakṣyaḥ* \< *vakṣi*
+- *vakṣyo* ← *vakṣyaḥ* ← *vakṣi*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *vakṣaṇesthāḥ* \< *vakṣaṇesthā*
+- *vakṣaṇesthāḥ* ← *vakṣaṇesthā*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------

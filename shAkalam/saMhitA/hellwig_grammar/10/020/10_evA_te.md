@@ -60,33 +60,33 @@ title = "Rig Veda 10.20.10"
 - \[noun\], accusative, plural, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *iyāna* ← *iyānaḥ* \< *i*
+- *iyāna* ← *iyānaḥ* ← *i*
 - \[verb noun\], nominative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *iṣam* \< *iṣ*
+- *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *ūrjaṃ* \< *ūrjam* \< *ūrj*
+- *ūrjaṃ* ← *ūrjam* ← *ūrj*
 - \[noun\], accusative, singular, feminine
 - “strength; refreshment; vigor; food; strengthening.”
 ------------------------------------------------------------------------
-- *sukṣitiṃ* \< *su*
+- *sukṣitiṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukṣitiṃ* \< *kṣitim* \< *kṣiti*
+- *sukṣitiṃ* ← *kṣitim* ← *kṣiti*
 - \[noun\], accusative, singular, masculine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
 ------------------------------------------------------------------------
-- *viśvam* \< *viśva*
+- *viśvam* ← *viśva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *ābhāḥ* \< *ābhṛ* \< *√bhṛ*
+- *ābhāḥ* ← *ābhṛ* ← *√bhṛ*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “bring.”
 ------------------------------------------------------------------------

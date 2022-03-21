@@ -76,18 +76,18 @@ title = "Rig Veda 10.29.1"
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *nṛṇāṃ* ← *nṛṇām* \< *nṛ*
+- *nṛṇāṃ* ← *nṛṇām* ← *nṛ*
 - \[noun\], genitive, plural
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *naryo* \< *naryaḥ* \< *narya*
+- *naryo* ← *naryaḥ* ← *narya*
 - \[noun\], nominative, singular, masculine
 - “manly; heroic; powerful; male; human.”
 ------------------------------------------------------------------------
-- *nṛtamaḥ* \< *nṛtama*
+- *nṛtamaḥ* ← *nṛtama*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *kṣapāvān* \< *kṣapāvant*
+- *kṣapāvān* ← *kṣapāvant*
 - \[noun\], nominative, singular, masculine
 - “ruler.”
 ------------------------------------------------------------------------

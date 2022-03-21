@@ -12,74 +12,74 @@ title = "Rig Veda 10.49.6"
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *yo* ← *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *navavāstvam* \< *navavāstva*
+- *navavāstvam* ← *navavāstva*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *bṛhadrathaṃ* \< *bṛhadratham* \< *bṛhadratha*
+- *bṛhadrathaṃ* ← *bṛhadratham* ← *bṛhadratha*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *vṛtreva* \< *vṛtrā* \< *vṛtra*
+- *vṛtreva* ← *vṛtrā* ← *vṛtra*
 - \[noun\], accusative, plural, neuter
 - “enemy.”
 ------------------------------------------------------------------------
-- *vṛtreva* \< *iva*
+- *vṛtreva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *dāsaṃ* \< *dāsam* \< *dāsa*
+- *dāsaṃ* ← *dāsam* ← *dāsa*
 - \[noun\], accusative, singular, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
 ------------------------------------------------------------------------
-- *vṛtrahārujam* \< *vṛtrahā* \< *vṛtrahan*
+- *vṛtrahārujam* ← *vṛtrahā* ← *vṛtrahan*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *vṛtrahārujam* \< *arujam* \< *ruj*
+- *vṛtrahārujam* ← *arujam* ← *ruj*
 - \[verb\], singular, Imperfect
 - “break; bend.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vardhayantam* \< *vardhay* \< *√vṛdh*
+- *vardhayantam* ← *vardhay* ← *√vṛdh*
 - \[verb noun\], accusative, singular
 - “increase; strengthen; promote; rear; add; greet; laud.”
 ------------------------------------------------------------------------
-- *prathayantam* \< *prathay* \< *√prath*
+- *prathayantam* ← *prathay* ← *√prath*
 - \[verb noun\], accusative, singular
 - “spread; proclaim.”
 ------------------------------------------------------------------------
-- *ānuṣag* \< *ānuṣak*
+- *ānuṣag* ← *ānuṣak*
 - \[adverb\]
 - “correctly; in sequence; punctually.”
 ------------------------------------------------------------------------
-- *dūre* \< *dūra*
+- *dūre* ← *dūra*
 - \[noun\], locative, singular, neuter
 - “distant; long; dūra \[word\]; deep; far.”
 ------------------------------------------------------------------------
-- *pāre* \< *pāra*
+- *pāre* ← *pāra*
 - \[noun\], locative, singular, neuter
 - “shore; pāra \[word\]; end; excellence.”
 ------------------------------------------------------------------------
-- *rajaso* \< *rajasaḥ* \< *rajas*
+- *rajaso* ← *rajasaḥ* ← *rajas*
 - \[noun\], genitive, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 ------------------------------------------------------------------------
-- *rocanākaram* \< *rocanā* \< *rocana*
+- *rocanākaram* ← *rocanā* ← *rocana*
 - \[noun\], accusative, plural, neuter
 - “light; celestial sphere.”
 ------------------------------------------------------------------------
-- *rocanākaram* \< *akaram* \< *kṛ*
+- *rocanākaram* ← *akaram* ← *kṛ*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

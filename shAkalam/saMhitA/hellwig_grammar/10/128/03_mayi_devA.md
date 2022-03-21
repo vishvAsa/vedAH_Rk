@@ -6,12 +6,12 @@ title = "Rig Veda 10.128.3"
 - \[noun\], locative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *draviṇam* \< *draviṇa*
+- *draviṇam* ← *draviṇa*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; money; jewel.”
 ------------------------------------------------------------------------
@@ -19,71 +19,71 @@ title = "Rig Veda 10.128.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yajantām* \< *yaj*
+- *yajantām* ← *yaj*
 - \[verb\], plural, Present imperative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *mayy* \< *mayi* \< *mad*
+- *mayy* ← *mayi* ← *mad*
 - \[noun\], locative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *āśīr* \< *āśīḥ* \< *āśī*
+- *āśīr* ← *āśīḥ* ← *āśī*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *mayi* \< *mad*
+- *mayi* ← *mad*
 - \[noun\], locative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *devahūtiḥ* \< *deva*
+- *devahūtiḥ* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devahūtiḥ* \< *hūtiḥ* \< *hūti*
+- *devahūtiḥ* ← *hūtiḥ* ← *hūti*
 - \[noun\], nominative, singular, feminine
 - “invocation.”
 ------------------------------------------------------------------------
-- *daivyā* \< *daivyāḥ* \< *daivya*
+- *daivyā* ← *daivyāḥ* ← *daivya*
 - \[noun\], nominative, plural, masculine
 - “divine; divine; celestial.”
 ------------------------------------------------------------------------
-- *hotāro* \< *hotāraḥ* \< *hotṛ*
+- *hotāro* ← *hotāraḥ* ← *hotṛ*
 - \[noun\], nominative, plural, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *vanuṣanta* \< *\_* \< *√\_*
+- *vanuṣanta* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *pūrve* \< *pūrva*
+- *pūrve* ← *pūrva*
 - \[noun\], nominative, plural, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *'riṣṭāḥ* \< *ariṣṭāḥ* \< *ariṣṭa*
+- *'riṣṭāḥ* ← *ariṣṭāḥ* ← *ariṣṭa*
 - \[noun\], nominative, plural, masculine
 - “safe; unharmed.”
 ------------------------------------------------------------------------
-- *syāma* \< *as*
+- *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *tanvā* \< *tanū*
+- *tanvā* ← *tanū*
 - \[noun\], instrumental, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *suvīrāḥ* \< *su*
+- *suvīrāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvīrāḥ* \< *vīrāḥ* \< *vīra*
+- *suvīrāḥ* ← *vīrāḥ* ← *vīra*
 - \[noun\], nominative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------

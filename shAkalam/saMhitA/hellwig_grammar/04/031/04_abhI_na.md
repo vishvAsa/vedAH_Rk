@@ -39,11 +39,11 @@ title = "Rig Veda 4.31.4"
 - \[noun\], accusative, plural, masculine
 - “horse.”
 ------------------------------------------------------------------------
-- *niyudbhiś* \< *niyudbhiḥ* \< *niyut*
+- *niyudbhiś* ← *niyudbhiḥ* ← *niyut*
 - \[noun\], instrumental, plural
 - “gift; team.”
 ------------------------------------------------------------------------
-- *carṣaṇīnām* \< *carṣaṇi*
+- *carṣaṇīnām* ← *carṣaṇi*
 - \[noun\], genitive, plural, feminine
 - “people.”
 ------------------------------------------------------------------------

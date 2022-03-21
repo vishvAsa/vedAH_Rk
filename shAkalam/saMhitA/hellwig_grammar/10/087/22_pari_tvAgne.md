@@ -53,10 +53,10 @@ title = "Rig Veda 10.87.22"
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
 ------------------------------------------------------------------------
-- *hantāram* \< *hantṛ*
+- *hantāram* ← *hantṛ*
 - \[noun\], accusative, singular, masculine
 - “killer; curative; killing; removing; destroyer.”
 ------------------------------------------------------------------------
-- *bhaṅgurāvatām* \< *bhaṅgurāvat*
+- *bhaṅgurāvatām* ← *bhaṅgurāvat*
 - \[noun\], genitive, plural, masculine
 ------------------------------------------------------------------------

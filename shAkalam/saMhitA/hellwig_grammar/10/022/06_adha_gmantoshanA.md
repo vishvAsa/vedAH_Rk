@@ -27,7 +27,7 @@ title = "Rig Veda 10.22.6"
 - *kadarthā* ← *kadarthāḥ* ← *kadartha*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -35,7 +35,7 @@ title = "Rig Veda 10.22.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gṛham* \< *gṛha*
+- *gṛham* ← *gṛha*
 - \[noun\], accusative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
 ------------------------------------------------------------------------
@@ -43,17 +43,17 @@ title = "Rig Veda 10.22.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *jagmathuḥ* \< *gam*
+- *jagmathuḥ* ← *gam*
 - \[verb\], dual, Perfect indicative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *parākād* \< *parākāt* \< *parāka*
+- *parākād* ← *parākāt* ← *parāka*
 - \[noun\], ablative, singular, masculine
 ------------------------------------------------------------------------
-- *divaś* \< *divaḥ* \< *div*
+- *divaś* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -61,7 +61,7 @@ title = "Rig Veda 10.22.6"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *gmaś* \< *gmaḥ* \< *gam*
+- *gmaś* ← *gmaḥ* ← *gam*
 - \[noun\], ablative, singular, feminine
 - “gam.”
 ------------------------------------------------------------------------
@@ -69,7 +69,7 @@ title = "Rig Veda 10.22.6"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *martyam* \< *martya*
+- *martyam* ← *martya*
 - \[noun\], accusative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------

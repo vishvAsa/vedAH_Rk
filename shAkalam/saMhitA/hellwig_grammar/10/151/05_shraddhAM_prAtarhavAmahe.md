@@ -2,7 +2,7 @@
 title = "Rig Veda 10.151.5"
 
 +++
--   *śraddhām* \< *śraddhā*
+-   *śraddhām* ← *śraddhā*
 - \[noun\], accusative, singular, feminine
 - “faith; wish; śraddhā \[word\]; śraddhā; confidence; appetite.”
 ------------------------------------------------------------------------
@@ -10,15 +10,15 @@ title = "Rig Veda 10.151.5"
 - \[adverb\]
 - “at dawn; early.”
 ------------------------------------------------------------------------
-- *havāmahe* \< *hvā*
+- *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *śraddhām* \< *śraddhā*
+- *śraddhām* ← *śraddhā*
 - \[noun\], accusative, singular, feminine
 - “faith; wish; śraddhā \[word\]; śraddhā; confidence; appetite.”
 ------------------------------------------------------------------------
-- *madhyandinam* \< *madhyaṃdina*
+- *madhyandinam* ← *madhyaṃdina*
 - \[noun\], accusative, singular, masculine
 - “noon; Pentapetes phoenicea Linn..”
 ------------------------------------------------------------------------
@@ -26,34 +26,34 @@ title = "Rig Veda 10.151.5"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *śraddhāṃ* \< *śraddhām* \< *śraddhā*
+- *śraddhāṃ* ← *śraddhām* ← *śraddhā*
 - \[noun\], accusative, singular, feminine
 - “faith; wish; śraddhā \[word\]; śraddhā; confidence; appetite.”
 ------------------------------------------------------------------------
-- *sūryasya* \< *sūrya*
+- *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *nimruci* \< *nimruc*
+- *nimruci* ← *nimruc*
 - \[noun\], locative, singular, feminine
 - “sunset.”
 ------------------------------------------------------------------------
-- *śraddhe* \< *śraddhā*
+- *śraddhe* ← *śraddhā*
 - \[noun\], vocative, singular, feminine
 - “faith; wish; śraddhā \[word\]; śraddhā; confidence; appetite.”
 ------------------------------------------------------------------------
-- *śrad* \< *śrath*
+- *śrad* ← *śrath*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *dhāpayeha* \< *dhāpaya* \< *dhāpay* \< *√dhā*
+- *dhāpayeha* ← *dhāpaya* ← *dhāpay* ← *√dhā*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------
-- *dhāpayeha* \< *iha*
+- *dhāpayeha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

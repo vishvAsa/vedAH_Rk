@@ -35,14 +35,14 @@ title = "Rig Veda 10.105.1"
 - \[noun\], accusative, singular
 - “water; juice; jala.”
 ------------------------------------------------------------------------
-- *dīrghaṃ* ← *dīrgham* \< *dīrgha*
+- *dīrghaṃ* ← *dīrgham* ← *dīrgha*
 - \[noun\], accusative, singular, neuter
 - “long; long; long; large; far; deep; dīrgha \[word\].”
 ------------------------------------------------------------------------
-- *sutaṃ* \< *sutam* \< *su*
+- *sutaṃ* ← *sutam* ← *su*
 - \[verb noun\], accusative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *vātāpyāya* \< *vātāpya*
+- *vātāpyāya* ← *vātāpya*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------

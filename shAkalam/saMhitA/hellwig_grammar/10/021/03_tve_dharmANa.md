@@ -17,7 +17,7 @@ title = "Rig Veda 10.21.3"
 - \[noun\], instrumental, plural, feminine
 - “tongue; fire; ladle.”
 ------------------------------------------------------------------------
-- *siñcatīr* ← *siñcatīḥ* \< *sic*
+- *siñcatīr* ← *siñcatīḥ* ← *sic*
 - \[verb noun\], nominative, plural
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 ------------------------------------------------------------------------
@@ -25,18 +25,18 @@ title = "Rig Veda 10.21.3"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *kṛṣṇā* \< *kṛṣṇa*
+- *kṛṣṇā* ← *kṛṣṇa*
 - \[noun\], accusative, plural, neuter
 - “black; dark; dark; blue; black.”
 ------------------------------------------------------------------------
-- *rūpāṇy* \< *rūpāṇi* \< *rūpa*
+- *rūpāṇy* ← *rūpāṇi* ← *rūpa*
 - \[noun\], accusative, plural, neuter
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
 ------------------------------------------------------------------------
-- *arjunā* \< *arjuna*
+- *arjunā* ← *arjuna*
 - \[noun\], accusative, plural, neuter
 - “white; clean; light.”
 ------------------------------------------------------------------------
@@ -44,17 +44,17 @@ title = "Rig Veda 10.21.3"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *made* \< *mada*
+- *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśvāḥ* \< *viśva*
+- *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
@@ -63,17 +63,17 @@ title = "Rig Veda 10.21.3"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *śriyo* \< *śriyaḥ* \< *śrī*
+- *śriyo* ← *śriyaḥ* ← *śrī*
 - \[noun\], accusative, plural, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
 ------------------------------------------------------------------------
-- *dhiṣe* \< *dhā*
+- *dhiṣe* ← *dhā*
 - \[verb\], singular, Root aorist (Ind.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *vivakṣase* \< *vivakṣ* \< *√vac*
+- *vivakṣase* ← *vivakṣ* ← *√vac*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------

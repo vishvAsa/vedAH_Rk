@@ -15,7 +15,7 @@ title = "Rig Veda 7.2.1"
 - \[noun\], accusative, singular, feminine
 - “firewood; kindling; fuel; fire.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -25,25 +25,25 @@ title = "Rig Veda 7.2.1"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *śocā* \< *śoca* \< *śuc*
+- *śocā* ← *śoca* ← *śuc*
 - \[verb\], singular, Present imperative
 - “mourn; grieve; flame; glow; burn; repent.”
 ------------------------------------------------------------------------
-- *bṛhad* \< *bṛhat*
+- *bṛhad* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *yajataṃ* \< *yajatam* \< *yajata*
+- *yajataṃ* ← *yajatam* ← *yajata*
 - \[noun\], accusative, singular, masculine
 - “holy; august; sacrificial.”
 ------------------------------------------------------------------------
-- *dhūmam* \< *dhūma*
+- *dhūmam* ← *dhūma*
 - \[noun\], accusative, singular, masculine
 - “smoke; dhūmavedha; carbon black; dhūmana; mist; vapor;
     vaporization; dhūma \[word\]; incense.”
 ------------------------------------------------------------------------
-- *ṛṇvan* \< *ṛch*
+- *ṛṇvan* ← *ṛch*
 - \[verb noun\], nominative, singular
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
@@ -52,11 +52,11 @@ title = "Rig Veda 7.2.1"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *spṛśa* \< *spṛś*
+- *spṛśa* ← *spṛś*
 - \[verb\], singular, Present imperative
 - “touch; enter (a state); reach; touch.”
 ------------------------------------------------------------------------
-- *divyaṃ* \< *divyam* \< *divya*
+- *divyaṃ* ← *divyam* ← *divya*
 - \[noun\], accusative, singular, neuter
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
@@ -65,23 +65,23 @@ title = "Rig Veda 7.2.1"
 - \[noun\], accusative, singular, neuter
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------
-- *stūpaiḥ* \< *stūpa*
+- *stūpaiḥ* ← *stūpa*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *raśmibhis* \< *raśmibhiḥ* \< *raśmi*
+- *raśmibhis* ← *raśmibhiḥ* ← *raśmi*
 - \[noun\], instrumental, plural, masculine
 - “beam; rein; sunbeam; shininess; cord.”
 ------------------------------------------------------------------------
-- *tatanaḥ* \< *tan*
+- *tatanaḥ* ← *tan*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
 ------------------------------------------------------------------------
-- *sūryasya* \< *sūrya*
+- *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”

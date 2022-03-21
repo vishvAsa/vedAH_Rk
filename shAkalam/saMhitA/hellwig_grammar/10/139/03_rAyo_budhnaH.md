@@ -77,11 +77,11 @@ title = "Rig Veda 10.139.3"
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *samare* \< *samara*
+- *samare* ← *samara*
 - \[noun\], locative, singular, neuter
 - “battle; fight; Samara; war; Samara.”
 ------------------------------------------------------------------------
-- *dhanānām* \< *dhana*
+- *dhanānām* ← *dhana*
 - \[noun\], genitive, plural, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”

@@ -34,13 +34,13 @@ title = "Rig Veda 10.87.5"
 - \[noun\], instrumental, singular, neuter
 - “fire; fury; grip; capture.”
 ------------------------------------------------------------------------
-- *hantv* ← *hantu* \< *han*
+- *hantv* ← *hantu* ← *han*
 - \[verb\], singular, Present imperative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *enam* \< *enad*
+- *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
@@ -48,34 +48,34 @@ title = "Rig Veda 10.87.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *parvāṇi* \< *parvan*
+- *parvāṇi* ← *parvan*
 - \[noun\], accusative, plural, neuter
 - “joint; knot; festival; day; articulation; knot.”
 ------------------------------------------------------------------------
-- *jātavedaḥ* \< *jātavedas*
+- *jātavedaḥ* ← *jātavedas*
 - \[noun\], vocative, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------
-- *śṛṇīhi* \< *śṛ*
+- *śṛṇīhi* ← *śṛ*
 - \[verb\], singular, Present imperative
 - “fall off; break; disintegrate; crush; break; fracture.”
 ------------------------------------------------------------------------
-- *kravyāt* \< *kravyād*
+- *kravyāt* ← *kravyād*
 - \[noun\], nominative, singular, masculine
 - “carnivore.”
 ------------------------------------------------------------------------
-- *kraviṣṇur* \< *kraviṣṇuḥ* \< *kraviṣṇu*
+- *kraviṣṇur* ← *kraviṣṇuḥ* ← *kraviṣṇu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *cinotu* \< *ci*
+- *cinotu* ← *ci*
 - \[verb\], singular, Present imperative
 - “cover; accumulate; pile up; pick; cover.”
 ------------------------------------------------------------------------
-- *vṛkṇam* \< *vraśc*
+- *vṛkṇam* ← *vraśc*
 - \[verb noun\], accusative, singular
 - “cleave; fell; cut off; hew.”
 ------------------------------------------------------------------------

@@ -22,7 +22,7 @@ title = "Rig Veda 7.1.6"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudakṣaṃ* \< *dakṣam* \< *dakṣa*
+- *sudakṣaṃ* ← *dakṣam* ← *dakṣa*
 - \[noun\], accusative, singular, masculine
 - “deft; right; intelligent; expert.”
 ------------------------------------------------------------------------
@@ -30,11 +30,11 @@ title = "Rig Veda 7.1.6"
 - \[adverb\]
 - “in the evening.”
 ------------------------------------------------------------------------
-- *vastor* \< *vastoḥ* \< *vastu*
+- *vastor* ← *vastoḥ* ← *vastu*
 - \[noun\], genitive, singular, feminine
 - “dawn.”
 ------------------------------------------------------------------------
-- *haviṣmatī* \< *haviṣmat*
+- *haviṣmatī* ← *haviṣmat*
 - \[noun\], nominative, singular, feminine
 - “sacrificing.”
 ------------------------------------------------------------------------
@@ -46,18 +46,18 @@ title = "Rig Veda 7.1.6"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *svainam* \< *svā* \< *sva*
+- *svainam* ← *svā* ← *sva*
 - \[noun\], nominative, singular, feminine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svainam* \< *enam* \< *enad*
+- *svainam* ← *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
-- *aramatir* \< *aramatiḥ* \< *aramati*
+- *aramatir* ← *aramatiḥ* ← *aramati*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *vasūyuḥ* \< *vasūyu*
+- *vasūyuḥ* ← *vasūyu*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------

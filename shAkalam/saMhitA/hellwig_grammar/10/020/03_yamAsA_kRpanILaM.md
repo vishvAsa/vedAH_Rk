@@ -21,14 +21,14 @@ title = "Rig Veda 10.20.3"
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
 ------------------------------------------------------------------------
-- *vardhayanti* ← *vardhay* \< *√vṛdh*
+- *vardhayanti* ← *vardhay* ← *√vṛdh*
 - \[verb\], plural, Present indikative
 - “increase; strengthen; promote; rear; add; greet; laud.”
 ------------------------------------------------------------------------
-- *bhrājate* \< *bhrāj*
+- *bhrājate* ← *bhrāj*
 - \[verb\], singular, Present indikative
 - “shine; glitter; look.”
 ------------------------------------------------------------------------
-- *śreṇidan* \< *śreṇidat*
+- *śreṇidan* ← *śreṇidat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

@@ -16,45 +16,45 @@ title = "Rig Veda 5.18.1"
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purupriyo* ← *priyaḥ* \< *priya*
+- *purupriyo* ← *priyaḥ* ← *priya*
 - \[noun\], nominative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *viśa* \< *viś*
+- *viśa* ← *viś*
 - \[noun\], genitive, singular, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *stavetātithiḥ* \< *staveta* \< *stu*
+- *stavetātithiḥ* ← *staveta* ← *stu*
 - \[verb\], singular, Present optative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *stavetātithiḥ* \< *atithiḥ* \< *atithi*
+- *stavetātithiḥ* ← *atithiḥ* ← *atithi*
 - \[noun\], nominative, singular, masculine
 - “guest; atithi \[word\]; Atithi.”
 ------------------------------------------------------------------------
-- *viśvāni* \< *viśva*
+- *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *amartyo* \< *amartyaḥ* \< *amartya*
+- *amartyo* ← *amartyaḥ* ← *amartya*
 - \[noun\], nominative, singular, masculine
 - “immortal.”
 ------------------------------------------------------------------------
-- *havyā* \< *havya*
+- *havyā* ← *havya*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *marteṣu* \< *marta*
+- *marteṣu* ← *marta*
 - \[noun\], locative, plural, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *raṇyati* \< *raṇ*
+- *raṇyati* ← *raṇ*
 - \[verb\], singular, Present indikative
 - “rejoice.”
 ------------------------------------------------------------------------

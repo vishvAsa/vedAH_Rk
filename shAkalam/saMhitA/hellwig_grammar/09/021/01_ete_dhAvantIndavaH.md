@@ -15,28 +15,28 @@ title = "Rig Veda 9.21.1"
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *somā* ← *somāḥ* \< *soma*
+- *somā* ← *somāḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *ghṛṣvayaḥ* \< *ghṛṣvi*
+- *ghṛṣvayaḥ* ← *ghṛṣvi*
 - \[noun\], nominative, plural, masculine
 - “anticipated; electrifying.”
 ------------------------------------------------------------------------
-- *matsarāsaḥ* \< *matsara*
+- *matsarāsaḥ* ← *matsara*
 - \[noun\], nominative, plural, masculine
 - “intoxicant; invigorating; hostile.”
 ------------------------------------------------------------------------
-- *svarvidaḥ* \< *svar*
+- *svarvidaḥ* ← *svar*
 - \[noun\], neuter
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *svarvidaḥ* \< *vidaḥ* \< *vid*
+- *svarvidaḥ* ← *vidaḥ* ← *vid*
 - \[noun\], nominative, plural, masculine
 - “finding.”
 ------------------------------------------------------------------------

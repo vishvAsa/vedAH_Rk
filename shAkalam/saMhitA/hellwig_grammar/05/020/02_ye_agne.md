@@ -51,21 +51,21 @@ title = "Rig Veda 5.20.2"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *hvaro* ← *hvaraḥ* \< *hvaras*
+- *hvaro* ← *hvaraḥ* ← *hvaras*
 - \[noun\], accusative, singular, neuter
 - “intrigue.”
 ------------------------------------------------------------------------
-- *'nyavratasya* \< *anya*
+- *'nyavratasya* ← *anya*
 - \[noun\]
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *'nyavratasya* \< *vratasya* \< *vrata*
+- *'nyavratasya* ← *vratasya* ← *vrata*
 - \[noun\], genitive, singular, masculine
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *saścire* \< *sac*
+- *saścire* ← *sac*
 - \[verb\], plural, Perfect indicative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------

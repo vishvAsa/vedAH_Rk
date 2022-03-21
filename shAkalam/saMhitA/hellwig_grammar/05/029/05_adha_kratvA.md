@@ -19,7 +19,7 @@ title = "Rig Veda 5.29.5"
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *devā* ← *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -28,23 +28,23 @@ title = "Rig Veda 5.29.5"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *viśve* \< *viśva*
+- *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *adaduḥ* \< *dā*
+- *adaduḥ* ← *dā*
 - \[verb\], plural, Imperfect
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *somapeyam* \< *soma*
+- *somapeyam* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somapeyam* \< *peyam* \< *peya*
+- *somapeyam* ← *peyam* ← *peya*
 - \[noun\], accusative, singular, neuter
 - “beverage.”
 ------------------------------------------------------------------------
@@ -52,38 +52,38 @@ title = "Rig Veda 5.29.5"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *sūryasya* \< *sūrya*
+- *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *haritaḥ* \< *harit*
+- *haritaḥ* ← *harit*
 - \[noun\], accusative, plural, feminine
 - “mare; quarter.”
 ------------------------------------------------------------------------
-- *patantīḥ* \< *pat*
+- *patantīḥ* ← *pat*
 - \[verb noun\], accusative, plural
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
 ------------------------------------------------------------------------
-- *puraḥ* \< *puras*
+- *puraḥ* ← *puras*
 - \[adverb\]
 - “ahead; puras \[word\]; easterly; eastward; east; earlier.”
 ------------------------------------------------------------------------
-- *satīr* \< *satīḥ* \< *as*
+- *satīr* ← *satīḥ* ← *as*
 - \[verb noun\], accusative, plural
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *uparā* \< *uparāḥ* \< *upara*
+- *uparā* ← *uparāḥ* ← *upara*
 - \[noun\], accusative, plural, feminine
 - “later(a); future(a); nether.”
 ------------------------------------------------------------------------
-- *etaśe* \< *etaśa*
+- *etaśe* ← *etaśa*
 - \[noun\], locative, singular, masculine
 - “Etaśa; horse.”
 ------------------------------------------------------------------------
-- *kaḥ* \< *kṛ*
+- *kaḥ* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

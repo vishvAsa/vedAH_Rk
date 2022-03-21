@@ -41,16 +41,16 @@ title = "Rig Veda 10.104.5"
 - \[noun\], accusative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *vitire* ← *\_* \< *√\_*
+- *vitire* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *dadhānā* \< *dhā*
+- *dadhānā* ← *dhā*
 - \[verb noun\], nominative, plural
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *stotāra* \< *stotāraḥ* \< *stotṛ*
+- *stotāra* ← *stotāraḥ* ← *stotṛ*
 - \[noun\], nominative, plural, masculine
 - “laudatory; worshiping.”
 ------------------------------------------------------------------------
@@ -59,11 +59,11 @@ title = "Rig Veda 10.104.5"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sūnṛtābhiḥ* \< *sūnṛtā*
+- *sūnṛtābhiḥ* ← *sūnṛtā*
 - \[noun\], instrumental, plural, feminine
 - “liberality.”
 ------------------------------------------------------------------------

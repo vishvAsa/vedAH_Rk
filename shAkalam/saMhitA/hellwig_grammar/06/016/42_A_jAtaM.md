@@ -21,22 +21,22 @@ title = "Rig Veda 6.16.42"
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *śiśītātithim* \< *śiśīta* \< *śā*
+- *śiśītātithim* ← *śiśīta* ← *śā*
 - \[verb\], plural, Present imperative
 - “sharpen; whet; strengthen.”
 ------------------------------------------------------------------------
-- *śiśītātithim* \< *atithim* \< *atithi*
+- *śiśītātithim* ← *atithim* ← *atithi*
 - \[noun\], accusative, singular, masculine
 - “guest; atithi \[word\]; Atithi.”
 ------------------------------------------------------------------------
-- *syona* \< *syone* \< *syona*
+- *syona* ← *syone* ← *syona*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gṛhapatim* \< *gṛhapati*
+- *gṛhapatim* ← *gṛhapati*
 - \[noun\], accusative, singular, masculine
 - “gṛhapati \[word\]; Gṛhastha.”
 ------------------------------------------------------------------------

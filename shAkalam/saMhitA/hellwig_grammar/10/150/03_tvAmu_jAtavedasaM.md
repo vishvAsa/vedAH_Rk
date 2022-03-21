@@ -61,21 +61,21 @@ title = "Rig Veda 10.150.3"
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *priyavratān* ← *vratān* \< *vrata*
+- *priyavratān* ← *vratān* ← *vrata*
 - \[noun\], accusative, plural, masculine
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *mṛḍīkāya* \< *mṛḍīka*
+- *mṛḍīkāya* ← *mṛḍīka*
 - \[noun\], dative, singular, neuter
 - “compassion; favor.”
 ------------------------------------------------------------------------
-- *priyavratān* \< *priya*
+- *priyavratān* ← *priya*
 - \[noun\]
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *priyavratān* \< *vratān* \< *vrata*
+- *priyavratān* ← *vratān* ← *vrata*
 - \[noun\], accusative, plural, masculine
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”

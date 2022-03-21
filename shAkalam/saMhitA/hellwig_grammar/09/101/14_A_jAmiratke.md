@@ -6,19 +6,19 @@ title = "Rig Veda 9.101.14"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *jāmir* ← *jāmiḥ* \< *jāmi*
+- *jāmir* ← *jāmiḥ* ← *jāmi*
 - \[noun\], nominative, singular, masculine
 - “related; ancestral; customary; usual.”
 ------------------------------------------------------------------------
-- *atke* \< *atka*
+- *atke* ← *atka*
 - \[noun\], locative, singular, masculine
 - “garment.”
 ------------------------------------------------------------------------
-- *avyata* \< *vye*
+- *avyata* ← *vye*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “cover.”
 ------------------------------------------------------------------------
-- *bhuje* \< *bhuj*
+- *bhuje* ← *bhuj*
 - \[verb noun\]
 - “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
 ------------------------------------------------------------------------
@@ -26,19 +26,19 @@ title = "Rig Veda 9.101.14"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *putra* \< *putraḥ* \< *putra*
+- *putra* ← *putraḥ* ← *putra*
 - \[noun\], nominative, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
-- *oṇyoḥ* \< *oṇi*
+- *oṇyoḥ* ← *oṇi*
 - \[noun\], locative, dual, masculine
 - “arm.”
 ------------------------------------------------------------------------
-- *saraj* \< *sarat* \< *sṛ*
+- *saraj* ← *sarat* ← *sṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “sṛ; liquefy; run; spread; stretch out.”
 ------------------------------------------------------------------------
-- *jāro* \< *jāraḥ* \< *jāra*
+- *jāro* ← *jāraḥ* ← *jāra*
 - \[noun\], nominative, singular, masculine
 - “fancy man.”
 ------------------------------------------------------------------------
@@ -46,11 +46,11 @@ title = "Rig Veda 9.101.14"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yoṣaṇāṃ* \< *yoṣaṇām* \< *yoṣaṇā*
+- *yoṣaṇāṃ* ← *yoṣaṇām* ← *yoṣaṇā*
 - \[noun\], accusative, singular, feminine
 - “girl; wife.”
 ------------------------------------------------------------------------
-- *varo* \< *varaḥ* \< *vara*
+- *varo* ← *varaḥ* ← *vara*
 - \[noun\], nominative, singular, masculine
 - “suitor; groom; husband; Vara; lover.”
 ------------------------------------------------------------------------
@@ -58,13 +58,13 @@ title = "Rig Veda 9.101.14"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yonim* \< *yoni*
+- *yonim* ← *yoni*
 - \[noun\], accusative, singular, feminine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
 ------------------------------------------------------------------------
-- *āsadam* \< *āsad* \< *√sad*
+- *āsadam* ← *āsad* ← *√sad*
 - \[verb noun\]
 - “approach; attack; sit down; approach; find; arrive.”
 ------------------------------------------------------------------------

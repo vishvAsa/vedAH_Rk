@@ -73,11 +73,11 @@ title = "Rig Veda 10.87.20"
 - \[noun\], accusative, singular, masculine
 - “speaking.”
 ------------------------------------------------------------------------
-- *śośucato* ← *śośucataḥ* ← *śośuc* \< *√śuc*
+- *śośucato* ← *śośucataḥ* ← *śośuc* ← *√śuc*
 - \[verb noun\], nominative, plural
 - “blaze.”
 ------------------------------------------------------------------------
-- *dahantu* \< *dah*
+- *dahantu* ← *dah*
 - \[verb\], plural, Present imperative
 - “burn; cauterize; heat; burn; burn; burn; roast; blaze; burn;
     distress; destroy.”

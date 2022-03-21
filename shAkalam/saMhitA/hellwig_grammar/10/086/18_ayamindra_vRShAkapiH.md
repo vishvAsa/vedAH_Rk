@@ -53,21 +53,21 @@ title = "Rig Veda 10.86.18"
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *ācitaṃ* ← *ācitam* ← *āci* \< *√ci*
+- *ācitaṃ* ← *ācitam* ← *āci* ← *√ci*
 - \[verb noun\], accusative, singular
 - “cover; fill; accumulate.”
 ------------------------------------------------------------------------
-- *viśvasmād* \< *viśvasmāt* \< *viśva*
+- *viśvasmād* ← *viśvasmāt* ← *viśva*
 - \[noun\], ablative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *indra* \< *indraḥ* \< *indra*
+- *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *uttaraḥ* \< *uttara*
+- *uttaraḥ* ← *uttara*
 - \[noun\], nominative, singular, masculine
 - “northern; following; upper; additional; better; more(a); last;
     concluding; superior; later(a); uttara \[word\]; prevailing; future;

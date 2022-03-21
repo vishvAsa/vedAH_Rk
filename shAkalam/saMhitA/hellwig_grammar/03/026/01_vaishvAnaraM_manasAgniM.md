@@ -27,43 +27,43 @@ title = "Rig Veda 3.26.1"
 - *anuṣatyaṃ* ← *anuṣatyam* ← *anuṣatya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *svarvidam* \< *svar*
+- *svarvidam* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *svarvidam* \< *vidam* \< *vid*
+- *svarvidam* ← *vidam* ← *vid*
 - \[noun\], accusative, singular, masculine
 - “finding.”
 ------------------------------------------------------------------------
-- *sudānuṃ* \< *sudānum* \< *sudānu*
+- *sudānuṃ* ← *sudānum* ← *sudānu*
 - \[noun\], accusative, singular, masculine
 - “big; lavish.”
 ------------------------------------------------------------------------
-- *devaṃ* \< *devam* \< *deva*
+- *devaṃ* ← *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *rathiraṃ* \< *rathiram* \< *rathira*
+- *rathiraṃ* ← *rathiram* ← *rathira*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *vasūyavo* \< *vasūyavaḥ* \< *vasūyu*
+- *vasūyavo* ← *vasūyavaḥ* ← *vasūyu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *gīrbhī* \< *gīrbhiḥ* \< *gir*
+- *gīrbhī* ← *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *raṇvaṃ* \< *raṇvam* \< *raṇva*
+- *raṇvaṃ* ← *raṇvam* ← *raṇva*
 - \[noun\], accusative, singular, masculine
 - “agreeable; happy; delightful; gay.”
 ------------------------------------------------------------------------
-- *kuśikāso* \< *kuśikāsaḥ* \< *kuśika*
+- *kuśikāso* ← *kuśikāsaḥ* ← *kuśika*
 - \[noun\], nominative, plural, masculine
 - “Kuśika; Vatica robusta.”
 ------------------------------------------------------------------------
-- *havāmahe* \< *hvā*
+- *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------

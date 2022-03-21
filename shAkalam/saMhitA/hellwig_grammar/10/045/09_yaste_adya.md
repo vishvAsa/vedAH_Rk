@@ -57,43 +57,43 @@ title = "Rig Veda 10.45.9"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *taṃ* ← *tam* \< *tad*
+- *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *naya* \< *nī*
+- *naya* ← *nī*
 - \[verb\], singular, Present imperative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *prataraṃ* \< *prataram*
+- *prataraṃ* ← *prataram*
 - \[adverb\]
 - “farther.”
 ------------------------------------------------------------------------
-- *vasyo* \< *vasyaḥ* \< *vasyas*
+- *vasyo* ← *vasyaḥ* ← *vasyas*
 - \[noun\], accusative, singular, neuter
 - “good fortune; well-being.”
 ------------------------------------------------------------------------
-- *acchābhi* \< *accha* \< *acchā*
+- *acchābhi* ← *accha* ← *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *acchābhi* \< *abhi*
+- *acchābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *sumnaṃ* \< *sumnam* \< *sumna*
+- *sumnaṃ* ← *sumnam* ← *sumna*
 - \[noun\], accusative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
-- *devabhaktaṃ* \< *deva*
+- *devabhaktaṃ* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devabhaktaṃ* \< *bhaktam* \< *bhaj*
+- *devabhaktaṃ* ← *bhaktam* ← *bhaj*
 - \[verb noun\], accusative, singular
 - “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
     one's share; partake; share; get; approach; love; use.”

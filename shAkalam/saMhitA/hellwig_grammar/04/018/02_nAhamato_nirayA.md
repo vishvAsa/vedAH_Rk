@@ -100,7 +100,7 @@ title = "Rig Veda 4.18.2"
 - \[noun\], instrumental, singular, masculine
 - “many a(a); one.”
 ------------------------------------------------------------------------
-- *pṛcchai* \< *pracch*
+- *pṛcchai* ← *pracch*
 - \[verb\], singular, Present imperative
 - “ask; ask; ask; consult; interrogate.”
 ------------------------------------------------------------------------

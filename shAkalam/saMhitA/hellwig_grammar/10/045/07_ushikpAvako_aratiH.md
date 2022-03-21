@@ -17,17 +17,17 @@ title = "Rig Veda 10.45.7"
 - \[noun\], nominative, singular, masculine
 - “wise.”
 ------------------------------------------------------------------------
-- *marteṣv* ← *marteṣu* \< *marta*
+- *marteṣv* ← *marteṣu* ← *marta*
 - \[noun\], locative, plural, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *agnir* \< *agniḥ* \< *agni*
+- *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *amṛto* \< *amṛtaḥ* \< *amṛta*
+- *amṛto* ← *amṛtaḥ* ← *amṛta*
 - \[noun\], nominative, singular, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
@@ -35,45 +35,45 @@ title = "Rig Veda 10.45.7"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *dhāyi* \< *dhā*
+- *dhāyi* ← *dhā*
 - \[verb\], singular, Aorist passive
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *iyarti* \< *ṛch*
+- *iyarti* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *dhūmam* \< *dhūma*
+- *dhūmam* ← *dhūma*
 - \[noun\], accusative, singular, masculine
 - “smoke; dhūmavedha; carbon black; dhūmana; mist; vapor;
     vaporization; dhūma \[word\]; incense.”
 ------------------------------------------------------------------------
-- *aruṣam* \< *aruṣa*
+- *aruṣam* ← *aruṣa*
 - \[noun\], accusative, singular, masculine
 - “red; red.”
 ------------------------------------------------------------------------
-- *bharibhrad* \< *bharibhrat* \< *bharibhṛ* \< *√bhṛ*
+- *bharibhrad* ← *bharibhrat* ← *bharibhṛ* ← *√bhṛ*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *uc* \< *ud*
+- *uc* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *chukreṇa* \< *śukreṇa* \< *śukra*
+- *chukreṇa* ← *śukreṇa* ← *śukra*
 - \[noun\], instrumental, singular, neuter
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *śociṣā* \< *śocis*
+- *śociṣā* ← *śocis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------
-- *dyām* \< *div*
+- *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *inakṣan* \< *inakṣ* \< *√naś*
+- *inakṣan* ← *inakṣ* ← *√naś*
 - \[verb noun\], nominative, singular
 - “wish.”
 ------------------------------------------------------------------------

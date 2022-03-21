@@ -45,22 +45,22 @@ title = "Rig Veda 5.45.9"
 - \[noun\]
 - “long; long; long; large; far; deep; dīrgha \[word\].”
 ------------------------------------------------------------------------
-- *dīrghayāthe* ← *yāthe* \< *yātha*
+- *dīrghayāthe* ← *yāthe* ← *yātha*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *raghuḥ* \< *raghu*
+- *raghuḥ* ← *raghu*
 - \[noun\], nominative, singular, masculine
 - “low; fast.”
 ------------------------------------------------------------------------
-- *śyenaḥ* \< *śyena*
+- *śyenaḥ* ← *śyena*
 - \[noun\], nominative, singular, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
 ------------------------------------------------------------------------
-- *patayad* \< *patayat* \< *patay* \< *√pat*
+- *patayad* ← *patayat* ← *patay* ← *√pat*
 - \[verb\], singular, Present injunctive
 - “fly.”
 ------------------------------------------------------------------------
-- *andho* \< *andhaḥ* \< *andhas*
+- *andho* ← *andhaḥ* ← *andhas*
 - \[noun\], accusative, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
@@ -68,25 +68,25 @@ title = "Rig Veda 5.45.9"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *yuvā* \< *yuvan*
+- *yuvā* ← *yuvan*
 - \[noun\], nominative, singular, masculine
 - “young; youthful.”
 ------------------------------------------------------------------------
-- *kavir* \< *kaviḥ* \< *kavi*
+- *kavir* ← *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *dīdayad* \< *dīdayat* \< *dīdī*
+- *dīdayad* ← *dīdayat* ← *dīdī*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “shine; glitter.”
 ------------------------------------------------------------------------
-- *goṣu* \< *go*
+- *goṣu* ← *go*
 - \[noun\], locative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *gacchan* \< *gam*
+- *gacchan* ← *gam*
 - \[verb noun\], nominative, singular
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

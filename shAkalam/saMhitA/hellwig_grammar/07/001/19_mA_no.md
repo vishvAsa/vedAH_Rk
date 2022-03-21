@@ -86,11 +86,11 @@ title = "Rig Veda 7.1.19"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* ← *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dame* \< *dama*
+- *dame* ← *dama*
 - \[noun\], locative, singular, masculine
 - “dwelling; home.”
 ------------------------------------------------------------------------
@@ -98,7 +98,7 @@ title = "Rig Veda 7.1.19"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *vana* \< *vane* \< *vana*
+- *vana* ← *vane* ← *vana*
 - \[noun\], locative, singular, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
@@ -106,6 +106,6 @@ title = "Rig Veda 7.1.19"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *juhūrthāḥ* \< *hvṛ*
+- *juhūrthāḥ* ← *hvṛ*
 - \[verb\], singular, Present injunctive
 ------------------------------------------------------------------------

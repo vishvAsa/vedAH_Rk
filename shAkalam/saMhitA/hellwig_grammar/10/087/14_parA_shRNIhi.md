@@ -37,37 +37,37 @@ title = "Rig Veda 10.87.14"
 - \[noun\], instrumental, singular, neuter
 - “fire; fury; grip; capture.”
 ------------------------------------------------------------------------
-- *śṛṇīhi* \< *śṛ*
+- *śṛṇīhi* ← *śṛ*
 - \[verb\], singular, Present imperative
 - “fall off; break; disintegrate; crush; break; fracture.”
 ------------------------------------------------------------------------
-- *parārciṣā* \< *parā*
+- *parārciṣā* ← *parā*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *parārciṣā* \< *arciṣā* \< *arcis*
+- *parārciṣā* ← *arciṣā* ← *arcis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; light; beam; gleam; shininess.”
 ------------------------------------------------------------------------
-- *mūradevāñchṛṇīhi* \< *mūradevān* \< *mūradeva*
+- *mūradevāñchṛṇīhi* ← *mūradevān* ← *mūradeva*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *mūradevāñchṛṇīhi* \< *śṛṇīhi* \< *śṛ*
+- *mūradevāñchṛṇīhi* ← *śṛṇīhi* ← *śṛ*
 - \[verb\], singular, Present imperative
 - “fall off; break; disintegrate; crush; break; fracture.”
 ------------------------------------------------------------------------
-- *parāsutṛpo* \< *parā*
+- *parāsutṛpo* ← *parā*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *parāsutṛpo* \< *asutṛpaḥ* \< *asutṛp*
+- *parāsutṛpo* ← *asutṛpaḥ* ← *asutṛp*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
 - *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *śośucānaḥ* \< *śośuc* \< *√śuc*
+- *śośucānaḥ* ← *śośuc* ← *√śuc*
 - \[verb noun\], nominative, singular
 - “blaze.”
 ------------------------------------------------------------------------

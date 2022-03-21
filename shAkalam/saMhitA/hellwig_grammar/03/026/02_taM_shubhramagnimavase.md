@@ -42,26 +42,26 @@ title = "Rig Veda 3.26.2"
 - \[noun\], accusative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *manuṣo* \< *manuṣaḥ* \< *manus*
+- *manuṣo* ← *manuṣaḥ* ← *manus*
 - \[noun\], genitive, singular, masculine
 - “Manu; man.”
 ------------------------------------------------------------------------
-- *devatātaye* \< *devatāti*
+- *devatātaye* ← *devatāti*
 - \[noun\], dative, singular, feminine
 - “deity; Deva.”
 ------------------------------------------------------------------------
-- *vipraṃ* \< *vipram* \< *vipra*
+- *vipraṃ* ← *vipram* ← *vipra*
 - \[noun\], accusative, singular, masculine
 - “eloquent; stimulated; divine.”
 ------------------------------------------------------------------------
-- *śrotāram* \< *śrotṛ*
+- *śrotāram* ← *śrotṛ*
 - \[noun\], accusative, singular, masculine
 - “hearer.”
 ------------------------------------------------------------------------
-- *atithiṃ* \< *atithim* \< *atithi*
+- *atithiṃ* ← *atithim* ← *atithi*
 - \[noun\], accusative, singular, masculine
 - “guest; atithi \[word\]; Atithi.”
 ------------------------------------------------------------------------
-- *raghuṣyadam* \< *raghuṣyad*
+- *raghuṣyadam* ← *raghuṣyad*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------

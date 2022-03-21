@@ -33,11 +33,11 @@ title = "Rig Veda 5.41.8"
 - \[verb noun\], nominative, singular
 - “give; impart.”
 ------------------------------------------------------------------------
-- *dhanyā* \< *dhanya*
+- *dhanyā* ← *dhanya*
 - \[noun\], nominative, singular, feminine
 - “fortunate; auspicious; affluent.”
 ------------------------------------------------------------------------
-- *sajoṣā* \< *sajoṣāḥ* \< *sajoṣas*
+- *sajoṣā* ← *sajoṣāḥ* ← *sajoṣas*
 - \[noun\], nominative, singular, feminine
 - “consentaneous; combined; associated; united.”
 ------------------------------------------------------------------------
@@ -45,23 +45,23 @@ title = "Rig Veda 5.41.8"
 - \[noun\], nominative, singular, feminine
 - “heaven and earth.”
 ------------------------------------------------------------------------
-- *namobhir* \< *namobhiḥ* \< *namas*
+- *namobhir* ← *namobhiḥ* ← *namas*
 - \[noun\], instrumental, plural, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *vanaspatīṃr* \< *vanaspati*
+- *vanaspatīṃr* ← *vanaspati*
 - \[noun\], accusative, plural, masculine
 - “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
 ------------------------------------------------------------------------
-- *oṣadhī* \< *oṣadhīḥ* \< *oṣadhi*
+- *oṣadhī* ← *oṣadhīḥ* ← *oṣadhi*
 - \[noun\], accusative, plural, feminine
 - “herb; plant; drug; simple; oṣadhi \[word\]; remedy.”
 ------------------------------------------------------------------------
-- *rāya* \< *rāyaḥ* \< *rai*
+- *rāya* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *eṣe* \< *eṣa*
+- *eṣe* ← *eṣa*
 - \[noun\], locative, singular, masculine
 - “quest.”
 ------------------------------------------------------------------------

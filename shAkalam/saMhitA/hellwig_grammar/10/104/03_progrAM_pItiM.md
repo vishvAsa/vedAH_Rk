@@ -76,7 +76,7 @@ title = "Rig Veda 10.104.3"
 - \[noun\], instrumental, singular, feminine
 - “Śacī; power; dexterity; ability; aid.”
 ------------------------------------------------------------------------
-- *gṛṇānaḥ* \< *gṛ*
+- *gṛṇānaḥ* ← *gṛ*
 - \[verb noun\], nominative, singular
 - “praise.”
 ------------------------------------------------------------------------

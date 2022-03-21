@@ -12,39 +12,39 @@ title = "Rig Veda 7.1.1"
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *dīdhitibhir* ← *dīdhitibhiḥ* \< *dīdhiti*
+- *dīdhitibhir* ← *dīdhitibhiḥ* ← *dīdhiti*
 - \[noun\], instrumental, plural, feminine
 - “beam.”
 ------------------------------------------------------------------------
-- *araṇyor* \< *araṇyoḥ* \< *araṇi*
+- *araṇyor* ← *araṇyoḥ* ← *araṇi*
 - \[noun\], locative, dual, feminine
 - “Araṇi.”
 ------------------------------------------------------------------------
-- *hastacyutī* \< *hasta*
+- *hastacyutī* ← *hasta*
 - \[noun\], masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------
-- *hastacyutī* \< *cyutī* \< *cyuti*
+- *hastacyutī* ← *cyutī* ← *cyuti*
 - \[noun\], instrumental, singular, feminine
 - “deviation; degeneracy; loss.”
 ------------------------------------------------------------------------
-- *janayanta* \< *janay* \< *√jan*
+- *janayanta* ← *janay* ← *√jan*
 - \[verb\], plural, Present injunctive
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
 ------------------------------------------------------------------------
-- *praśastam* \< *praśaṃs* \< *√śaṃs*
+- *praśastam* ← *praśaṃs* ← *√śaṃs*
 - \[verb noun\], accusative, singular
 - “recommend; approve; praise; laud; favor; proclaim.”
 ------------------------------------------------------------------------
-- *dūredṛśaṃ* \< *dūredṛśam* \< *dūredṛś*
+- *dūredṛśaṃ* ← *dūredṛśam* ← *dūredṛś*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *gṛhapatim* \< *gṛhapati*
+- *gṛhapatim* ← *gṛhapati*
 - \[noun\], accusative, singular, masculine
 - “gṛhapati \[word\]; Gṛhastha.”
 ------------------------------------------------------------------------
-- *atharyum* \< *atharyu*
+- *atharyum* ← *atharyu*
 - \[noun\], accusative, singular, masculine
 - “blazing.”
 ------------------------------------------------------------------------

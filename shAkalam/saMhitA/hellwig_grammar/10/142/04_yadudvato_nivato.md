@@ -6,36 +6,36 @@ title = "Rig Veda 10.142.4"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *udvato* \< *udvataḥ* \< *udvat*
+- *udvato* ← *udvataḥ* ← *udvat*
 - \[noun\], accusative, plural, feminine
 - “altitude.”
 ------------------------------------------------------------------------
-- *nivato* \< *nivataḥ* \< *nivat*
+- *nivato* ← *nivataḥ* ← *nivat*
 - \[noun\], accusative, plural, feminine
 - “depth.”
 ------------------------------------------------------------------------
-- *yāsi* \< *yā*
+- *yāsi* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *bapsat* \< *bhas*
+- *bapsat* ← *bhas*
 - \[verb noun\], nominative, singular
 - “chew; snatch.”
 ------------------------------------------------------------------------
-- *pṛthag* \< *pṛthak*
+- *pṛthag* ← *pṛthak*
 - \[adverb\]
 - “individually; apart; each; by the piece; independently; pṛthak
     \[word\].”
 ------------------------------------------------------------------------
-- *eṣi* \< *i*
+- *eṣi* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *pragardhinīva* \< *pragardhinī* \< *pragardhin*
+- *pragardhinīva* ← *pragardhinī* ← *pragardhin*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *pragardhinīva* \< *iva*
+- *pragardhinīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
@@ -47,26 +47,26 @@ title = "Rig Veda 10.142.4"
 - \[adverb\]
 - “once \[when\]; if.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vāto* \< *vātaḥ* \< *vāta*
+- *vāto* ← *vātaḥ* ← *vāta*
 - \[noun\], nominative, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *anuvāti* \< *anuvā* \< *√vā*
+- *anuvāti* ← *anuvā* ← *√vā*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *śocir* \< *śociḥ* \< *śocis*
+- *śocir* ← *śociḥ* ← *śocis*
 - \[noun\], accusative, singular, neuter
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------
-- *vapteva* \< *vaptā* \< *vaptṛ*
+- *vapteva* ← *vaptā* ← *vaptṛ*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vapteva* \< *iva*
+- *vapteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
@@ -74,7 +74,7 @@ title = "Rig Veda 10.142.4"
 - \[noun\], accusative, singular, neuter
 - “beard.”
 ------------------------------------------------------------------------
-- *vapasi* \< *vap*
+- *vapasi* ← *vap*
 - \[verb\], singular, Present indikative
 - “sow; bestrew; strew; scatter.”
 ------------------------------------------------------------------------
@@ -82,7 +82,7 @@ title = "Rig Veda 10.142.4"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *bhūma* \< *bhūman*
+- *bhūma* ← *bhūman*
 - \[noun\], accusative, singular, neuter
 - “Earth; floor.”
 ------------------------------------------------------------------------

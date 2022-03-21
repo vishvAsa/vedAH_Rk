@@ -69,12 +69,12 @@ title = "Rig Veda 10.149.2"
 - “originate; get up; arise; rise; utthā; rise; be active; come forth;
     cause; happen; grow.”
 ------------------------------------------------------------------------
-- *rajo* ← *rajaḥ* \< *rajas*
+- *rajo* ← *rajaḥ* ← *rajas*
 - \[noun\], nominative, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 ------------------------------------------------------------------------
-- *'to* \< *atas*
+- *'to* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
@@ -83,7 +83,7 @@ title = "Rig Veda 10.149.2"
 - \[noun\], nominative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
 ------------------------------------------------------------------------
-- *aprathetām* \< *prath*
+- *aprathetām* ← *prath*
 - \[verb\], dual, Imperfect
 - “be known; expand; expand; boom.”
 ------------------------------------------------------------------------

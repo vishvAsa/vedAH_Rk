@@ -74,17 +74,17 @@ title = "Rig Veda 10.29.5"
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
 ------------------------------------------------------------------------
-- *tuvijāta* ← *jāta* \< *jan*
+- *tuvijāta* ← *jāta* ← *jan*
 - \[verb noun\], vocative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *pūrvīr* \< *pūrvīḥ* \< *puru*
+- *pūrvīr* ← *pūrvīḥ* ← *puru*
 - \[noun\], accusative, plural, feminine
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *nara* \< *naraḥ* \< *nṛ*
+- *nara* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
@@ -93,10 +93,10 @@ title = "Rig Veda 10.29.5"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pratiśikṣanty* \< *pratiśikṣanti* \< *pratiśikṣ* \< *√śikṣ*
+- *pratiśikṣanty* ← *pratiśikṣanti* ← *pratiśikṣ* ← *√śikṣ*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *annaiḥ* \< *anna*
+- *annaiḥ* ← *anna*
 - \[noun\], instrumental, plural, neuter
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
 ------------------------------------------------------------------------

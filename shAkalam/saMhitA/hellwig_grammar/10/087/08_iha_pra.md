@@ -68,11 +68,11 @@ title = "Rig Veda 10.87.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *rabhasva* \< *rabh*
+- *rabhasva* ← *rabh*
 - \[verb\], singular, Present imperative
 - “clasp.”
 ------------------------------------------------------------------------
-- *samidhā* \< *samidh*
+- *samidhā* ← *samidh*
 - \[noun\], instrumental, singular, feminine
 - “firewood; kindling; fuel; fire.”
 ------------------------------------------------------------------------
@@ -80,23 +80,23 @@ title = "Rig Veda 10.87.8"
 - \[noun\], vocative, singular, masculine
 - “youngest.”
 ------------------------------------------------------------------------
-- *nṛcakṣasaś* \< *nṛ*
+- *nṛcakṣasaś* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nṛcakṣasaś* \< *cakṣasaḥ* \< *cakṣas*
+- *nṛcakṣasaś* ← *cakṣasaḥ* ← *cakṣas*
 - \[noun\], genitive, singular, masculine
 - “eye; look; radiance.”
 ------------------------------------------------------------------------
-- *cakṣuṣe* \< *cakṣus*
+- *cakṣuṣe* ← *cakṣus*
 - \[noun\], dative, singular, neuter
 - “eye; look; visual perception; cakṣus \[word\]; sight.”
 ------------------------------------------------------------------------
-- *randhayainam* \< *randhaya* \< *randhay* \< *√radh*
+- *randhayainam* ← *randhaya* ← *randhay* ← *√radh*
 - \[verb\], singular, Present imperative
 - “subjugate; hand over.”
 ------------------------------------------------------------------------
-- *randhayainam* \< *enam* \< *enad*
+- *randhayainam* ← *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------

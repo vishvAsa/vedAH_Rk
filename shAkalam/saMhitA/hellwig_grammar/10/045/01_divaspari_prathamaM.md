@@ -44,30 +44,30 @@ title = "Rig Veda 10.45.1"
 - *tṛtīyam*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *apsu* \< *ap*
+- *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *nṛmaṇā* \< *nṛmaṇāḥ* \< *nṛmaṇas*
+- *nṛmaṇā* ← *nṛmaṇāḥ* ← *nṛmaṇas*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *ajasram*
 - \[adverb\]
 - “constantly; always.”
 ------------------------------------------------------------------------
-- *indhāna* \< *indhānaḥ* \< *indh*
+- *indhāna* ← *indhānaḥ* ← *indh*
 - \[verb noun\], nominative, singular
 - “kindle; ignite; set ablaze.”
 ------------------------------------------------------------------------
-- *enaṃ* \< *enam* \< *enad*
+- *enaṃ* ← *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
-- *jarate* \< *jṛ*
+- *jarate* ← *jṛ*
 - \[verb\], singular, Present indikative
 - “sing.”
 ------------------------------------------------------------------------
-- *svādhīḥ* \< *svādhī*
+- *svādhīḥ* ← *svādhī*
 - \[noun\], nominative, singular, masculine
 - “devout; heedful; prudent.”
 ------------------------------------------------------------------------

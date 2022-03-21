@@ -27,58 +27,58 @@ title = "Rig Veda 10.87.12"
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *rebhe* \< *rebha*
+- *rebhe* ← *rebha*
 - \[noun\], locative, singular, masculine
 - “bard; eulogist.”
 ------------------------------------------------------------------------
-- *śaphārujaṃ* \< *śaphārujam* \< *śaphāruj*
+- *śaphārujaṃ* ← *śaphārujam* ← *śaphāruj*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *yena* \< *yad*
+- *yena* ← *yad*
 - \[noun\], instrumental, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *paśyasi* \< *paś*
+- *paśyasi* ← *paś*
 - \[verb\], singular, Present indikative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *yātudhānam* \< *yātudhāna*
+- *yātudhānam* ← *yātudhāna*
 - \[noun\], accusative, singular, masculine
 - “sorcerer; Rākṣasa; Yātudhāna; rākṣasavaktravant.”
 ------------------------------------------------------------------------
-- *atharvavaj* \< *atharva* \< *atharvan*
+- *atharvavaj* ← *atharva* ← *atharvan*
 - \[noun\], masculine
 - “Atharvan; Atharvavedin.”
 ------------------------------------------------------------------------
-- *atharvavaj* \< *vat*
+- *atharvavaj* ← *vat*
 - \[adverb\]
 - “equally; like.”
 ------------------------------------------------------------------------
-- *jyotiṣā* \< *jyotis*
+- *jyotiṣā* ← *jyotis*
 - \[noun\], instrumental, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
 ------------------------------------------------------------------------
-- *daivyena* \< *daivya*
+- *daivyena* ← *daivya*
 - \[noun\], instrumental, singular, neuter
 - “divine; divine; celestial.”
 ------------------------------------------------------------------------
-- *satyaṃ* \< *satyam* \< *satya*
+- *satyaṃ* ← *satyam* ← *satya*
 - \[noun\], accusative, singular, neuter
 - “truth; oath; satya \[word\]; promise.”
 ------------------------------------------------------------------------
-- *dhūrvantam* \< *dhūrvat*
+- *dhūrvantam* ← *dhūrvat*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *acitaṃ* \< *acitam* \< *acit*
+- *acitaṃ* ← *acitam* ← *acit*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *oṣa* \< *uṣ*
+- *oṣa* ← *uṣ*
 - \[verb\], singular, Present imperative
 - “burn; punish.”
 ------------------------------------------------------------------------

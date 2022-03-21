@@ -17,47 +17,47 @@ title = "Rig Veda 10.100.12"
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
 ------------------------------------------------------------------------
-- *kratuprā* \< *kratu*
+- *kratuprā* ← *kratu*
 - \[noun\], masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *kratuprā* \< *prāḥ* \< *prā*
+- *kratuprā* ← *prāḥ* ← *prā*
 - \[noun\], nominative, singular, feminine
 - “appreciated.”
 ------------------------------------------------------------------------
-- *abhiṣṭiḥ* \< *abhiṣṭi*
+- *abhiṣṭiḥ* ← *abhiṣṭi*
 - \[noun\], nominative, singular, feminine
 - “prevalence; protection.”
 ------------------------------------------------------------------------
-- *santi* \< *as*
+- *santi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *spṛdho* \< *spṛdhaḥ* \< *spṛdh*
+- *spṛdho* ← *spṛdhaḥ* ← *spṛdh*
 - \[noun\], nominative, plural, masculine
 - “rival; enemy.”
 ------------------------------------------------------------------------
-- *jaraṇiprā* \< *jaraṇi*
+- *jaraṇiprā* ← *jaraṇi*
 - \[noun\], feminine
 ------------------------------------------------------------------------
-- *jaraṇiprā* \< *prāḥ* \< *prā*
+- *jaraṇiprā* ← *prāḥ* ← *prā*
 - \[noun\], nominative, plural, masculine
 - “appreciated.”
 ------------------------------------------------------------------------
-- *adhṛṣṭāḥ* \< *adhṛṣṭa*
+- *adhṛṣṭāḥ* ← *adhṛṣṭa*
 - \[noun\], nominative, plural, masculine
 - “modest; invincible.”
 ------------------------------------------------------------------------
-- *rajiṣṭhayā* \< *rajiṣṭha*
+- *rajiṣṭhayā* ← *rajiṣṭha*
 - \[noun\], instrumental, singular, feminine
 - “honest.”
 ------------------------------------------------------------------------
-- *rajyā* \< *raji*
+- *rajyā* ← *raji*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *paśva* \< *paśve* \< *paśu*
+- *paśva* ← *paśve* ← *paśu*
 - \[noun\], genitive, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
@@ -66,24 +66,24 @@ title = "Rig Veda 10.100.12"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gos* \< *goḥ* \< *go*
+- *gos* ← *goḥ* ← *go*
 - \[noun\], genitive, singular
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *tūtūrṣati* \< *tūtūrṣ* \< *√tṛ*
+- *tūtūrṣati* ← *tūtūrṣ* ← *√tṛ*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *pary* \< *pari*
+- *pary* ← *pari*
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *agraṃ* \< *agram* \< *agra*
+- *agraṃ* ← *agram* ← *agra*
 - \[noun\], accusative, singular, neuter
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
 ------------------------------------------------------------------------
-- *duvasyuḥ* \< *duvasyu*
+- *duvasyuḥ* ← *duvasyu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
