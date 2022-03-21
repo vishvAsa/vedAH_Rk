@@ -11,5 +11,6 @@ The reassignment of Agni epithets continues in this verse: śocíṣkeśa- ‘fl
 
 I assume that the seven mares of vs. 8 are the same as the sleek daughters (śundhyúvaḥ … naptyàḥ) (or granddaughters) of the chariot, but I do not know why the rare word naptī́- is used of them. Thieme (KlSch: 220), on the basis of śundhyúvaḥ, thinks they are wild geese (“…hat sich sieben Wildgänse als Tochter des Wagens angeschirrt”), but this seems to introduce an unnecessary complication since śundhyú- can be taken in its literal meaning.
 
+
 </details>
 </div>
