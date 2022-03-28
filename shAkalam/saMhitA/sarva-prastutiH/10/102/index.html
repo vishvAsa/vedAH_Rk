@@ -54,7 +54,6 @@ This famous and famously enigmatic hymn presents an intriguing scenario: a char 
       
     
 
-    <script src="/vedAH_Rk/webpack_dist/dirTree-bundle.js"></script>
     <script type="text/javascript">
     
     let baseURL = "https:\/\/vishvAsa.github.io\/vedAH_Rk\/";
@@ -83,12 +82,7 @@ This famous and famously enigmatic hymn presents an intriguing scenario: a char 
 </script>
 
 
-    <script src="/vedAH_Rk/webpack_dist/main-bundle.js"></script>
-<script src="/vedAH_Rk/webpack_dist/transliteration-bundle.js"></script>
-<script src="/vedAH_Rk/webpack_dist/uiLib-bundle.js"></script>
-<script src="/vedAH_Rk/webpack_dist/search-bundle.js"></script>
-<script src="/vedAH_Rk/webpack_dist/utils-bundle.js"></script>
-<script src="/vedAH_Rk/webpack_dist/transliteration-bundle.js"></script>
+    <script src="/vedAH_Rk/webpack_dist/uiLib-bundle.js"></script>
 
 
 
@@ -170,7 +164,7 @@ This famous and famously enigmatic hymn presents an intriguing scenario: a char 
         </div>
         <div id="div_top_bar_right" class="col-md-auto d-flex justify-content-center">
           ✍
-          <select id="transliterationDropdown" size="1" onchange="module_transliteration.updateTransliteration()">
+          <select id="transliterationDropdown" size="1" onchange="module_uiLib.default.content.updateTransliteration()">
             <optgroup label="🌍">
               <option value="iso">āISO</option>
               <option value="cyrillic">пу</option>
@@ -203,15 +197,15 @@ This famous and famously enigmatic hymn presents an intriguing scenario: a char 
             </optgroup>
           </select>
           🗨:
-          <select id="commentStyleDropdown" size="1" onchange="module_main.default.updateCommentStyleFromDropdown()">
+          <select id="commentStyleDropdown" size="1" onchange="module_uiLib.default.content.updateCommentStyleFromDropdown()">
             <option value="on">✔</option>
             <option value="hidden">✗</option>
           </select>
-          <div><a id="expandAllButton" class="btn btn-secondary" onclick="module_main.default.query.setParamAndGo('expandAll', 'true')">↕️️</a></div>
-          <div><a id="printButton" class="btn btn-secondary" onclick="module_main.default.query.setParamAndGo('printLayout', 'on')">🖨️️</a></div>
+          <div><a id="expandAllButton" class="btn btn-secondary" onclick="module_uiLib.default.query.setParamAndGo('expandAll', 'true')">↕️️</a></div>
+          <div><a id="printButton" class="btn btn-secondary" onclick="module_uiLib.default.query.setParamAndGo('printLayout', 'on')">🖨️️</a></div>
         </div>
         <div class="row col  d-flex justify-content-center">
-          <div><a id="speakerButton" class="btn btn-secondary" onclick="module_main.default.handleSpeakToggle()">🎧️</a></div>
+          <div><a id="speakerButton" class="btn btn-secondary" onclick="module_uiLib.default.content.handleSpeakToggle()">🎧️</a></div>
           <button id="speakerPauseButton" class="btn btn-secondary">⏸</button>
         </div>
         <div class="row col  d-flex justify-content-center">
@@ -249,10 +243,10 @@ This famous and famously enigmatic hymn presents an intriguing scenario: a char 
       <aside class="col-md-3 card border noPrint " id="sidebar">
           <div id="fastSearch">
               <datalist id="pageDataList"></datalist>
-              <input id="searchInput" placeholder="शीर्षिकान्विष्यताम्" list="pageDataList" onchange="module_search.pageLoader()">
+              <input id="searchInput" placeholder="शीर्षिकान्विष्यताम्" list="pageDataList" onchange="module_uiLib.default.navigation.pageLoader()">
           </div>
           <details open  class="bg-light-gray" >
-              <summary id="sidebarToggleLink" onclick="module_main.default.sidebarToggleHandler()">
+              <summary id="sidebarToggleLink" onclick="module_uiLib.default.navigation.sidebarToggleHandler()">
             Menu
               </summary>
               <ul id="sidebarBody" class="list pl2 p-0 bg-yellow">
@@ -2651,7 +2645,7 @@ A Bull who drivest with thy bull, wilt win the race together with thy weakling f
     <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
     <div class="btn small border">
       
-      <a href="https://github.com/vishvAsa/vedAH_Rk/actions/workflows/build.yml"><img src="https://github.com/vishvAsa/vedAH_Rk/actions/workflows/build.yml/badge.svg"> Built </a> on 2022 Mar 28 06:36:28 UTC. (<a href="http://google.com/search?q=06%3a36%3a28%20UTC to IST">IST</a>)
+      <a href="https://github.com/vishvAsa/vedAH_Rk/actions/workflows/build.yml"><img src="https://github.com/vishvAsa/vedAH_Rk/actions/workflows/build.yml/badge.svg"> Built </a> on 2022 Mar 28 12:55:32 UTC. (<a href="http://google.com/search?q=12%3a55%3a32%20UTC to IST">IST</a>)
     </div>
   <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
   </ul>
@@ -2663,7 +2657,7 @@ A Bull who drivest with thy bull, wilt win the race together with thy weakling f
     
     
     
-    module_main.default.onDocumentReadyTasks();
+    module_uiLib.onDocumentReadyTasks();
   </script>
   
 </html>
