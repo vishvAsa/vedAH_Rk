@@ -4,7 +4,7 @@ title = "०१२ स जनास! इन्द्रः"
 +++
 ## परिचयः
 - इन्द्रः। गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः। त्रिष्टुप्।
-- इन्द्रशत्रुपरिचयो [ऽत्र](/devaH/hindukaH/indraH/) खसूचनादिसहितः। तत्रैव गवाम् अपाञ्च मोकस्य विचारः।
+- इन्द्रशत्रुपरिचयो [ऽत्र](/devaH/AryaH/hindukaH/indraH/) खसूचनादिसहितः। तत्रैव गवाम् अपाञ्च मोकस्य विचारः।
 
 ## महत्त्वम्
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/012/01_yo_jAta.md">
