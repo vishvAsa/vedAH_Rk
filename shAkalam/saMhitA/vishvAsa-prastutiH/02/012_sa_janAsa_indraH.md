@@ -149,7 +149,7 @@ title = "०१२ स जनास! इन्द्रः"
 {{< figure src="../../../../../jyotiSham/history/images/zodiac_history/bce-2300_naxatra-chakra.png" title="" class="thumbnail">}}
 
 
-+++(खचक्रे ज्येष्ठाविरुद्धं रोहिणीनक्षत्रम् इति ध्येयम्। वृषाकपिसूक्तं स्मारयति। खरेखास् स्यू रश्मयः, आरण्यकोक्ताः पर्जन्या वा, [जैमिनीयोपनिषद्ब्राह्मणे](/vedAH/sAma/jaiminIyam/brAhmaNam/jaiminiya-upaniShad-brAhmaNam/01/09) वोक्ता वाङ्-मनश्-चक्षुश्-श्रोत्र-प्राणास्वन्नाः ७सु दिक्षु स्थिता नानादेवतारूपेण।)+++  
++++(खचक्रे ज्येष्ठाविरुद्धं रोहिणीनक्षत्रम् इति ध्येयम्। वृषाकपिसूक्तं स्मारयति। खरेखास् स्यू रश्मयः, आरण्यकोक्ताः पर्जन्या वा, [जैमिनीयोपनिषद्ब्राह्मणे](/vedAH_sAma/jaiminIyam/brAhmaNam/jaiminiya-upaniShad-brAhmaNam/01/09) वोक्ता वाङ्-मनश्-चक्षुश्-श्रोत्र-प्राणास्वन्नाः ७सु दिक्षु स्थिता नानादेवतारूपेण।)+++  
 <div class="js_include" includetitle="false" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/02/012/12_yaH_saptarashmirvRShabhastuviShmAnavAsRjatsartave.md">
 <details open><summary><h2>१२ यः सप्तरश्मिर्वृषभस्तुविष्मानवासृजत्सर्तवे ...{Loading}...</h2></summary>
 
