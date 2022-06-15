@@ -1,0 +1,173 @@
++++
+title = "009"
+devataa = "इन्द्रः"
+RShiH = "भरद्वाजो बार्हस्पत्यः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+आ꣡ ते शु꣡ष्मो वृषभ꣡ एतु पश्चा꣡द्  
+आ꣡ उत्तरा꣡द् अधरा꣡द् आ꣡ पुर꣡स्तात्  
+आ꣡ विश्व꣡तो अभि꣡ स꣡म् एतु अर्वा꣡ङ्  
+इ꣡न्द्र द्युम्नं꣡ सु꣡वर्वद् धेहि अस्मे꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal on metrical evidence alone
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ । ते॒ । शुष्मः॑ । वृ॒ष॒भः । ए॒तु॒ । प॒श्चात् । आ । उ॒त्त॒रात् । अ॒ध॒रात् । आ । पु॒रस्ता॑त् ।  
+आ । वि॒श्वतः॑ । अ॒भि । सम् । ए॒तु॒ । अ॒र्वाङ् । इन्द्र॑ । द्यु॒म्नम् । स्वः॑ऽवत् । धे॒हि॒ । अ॒स्मे इति॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *te* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *śuṣmo* ← *śuṣmaḥ* ← *śuṣma*
+- \[noun\], nominative, singular, masculine
+- “vigor; energy; fire; hiss; courage.”
+------------------------------------------------------------------------
+- *vṛṣabha* ← *vṛṣabhaḥ* ← *vṛṣabha*
+- \[noun\], nominative, singular, masculine
+- “bull; Vṛṣabha; Vṛṣabha; best.”
+------------------------------------------------------------------------
+- *etu* ← *i*
+- \[verb\], singular, Present imperative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *paścād* ← *paścāt*
+- \[adverb\]
+- “subsequently; westward; paścāt \[word\]; after; back.”
+------------------------------------------------------------------------
+- *ottarād* ← *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *ottarād* ← *uttarāt* ← *uttara*
+- \[noun\], ablative, singular, masculine
+- “northern; following; upper; additional; better; more(a); last;
+    concluding; superior; later(a); uttara \[word\]; prevailing; future;
+    left; northerly; northerly; higher; second; dominant; excellent;
+    chief(a).”
+------------------------------------------------------------------------
+- *adharād* ← *adharāt* ← *adhara*
+- \[noun\], ablative, singular, masculine
+- “lower; adhara \[word\]; worse.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *purastāt*
+- \[adverb\]
+- “ahead; eastward; earlier; above; above.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *viśvato* ← *viśvatas*
+- \[adverb\]
+- “everywhere; around; about.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *etv* ← *etu* ← *i*
+- \[verb\], singular, Present imperative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *arvāṅ* ← *arvāñc*
+- \[noun\], nominative, singular, masculine
+- “approaching; facing; less.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *dyumnaṃ* ← *dyumnam* ← *dyumna*
+- \[noun\], accusative, singular, neuter
+- “magnificence.”
+------------------------------------------------------------------------
+- *svarvad* ← *svarvat*
+- \[noun\], accusative, singular, neuter
+- “bright; bright.”
+------------------------------------------------------------------------
+- *dhehy* ← *dhehi* ← *dhā*
+- \[verb\], singular, Present imperative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *asme* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे इन्द्र **वृषभः** वर्षिता **ते** त्वदीयं **शुष्मः** बलम् **अर्वाङ्** अस्मदभिमुखः सन् **पश्चात्** पश्चिमभागात् **आ** **एतु** आगच्छतु । **उत्तरात्** उत्तरभागात् **आ** गच्छतु । अधरात् दक्षिणभागाच्चैतु। **पुरस्तात्** पूर्वभागाच्च **आ** गच्छतु । **विश्वतः** सर्वस्माद्दिग्भागात् **अभि** अस्मानभिलक्ष्य **आ** **समेतु** सम्यगागच्छतु । हे **इन्द्र** त्वं **स्वर्वत्** सुखयुक्तं **द्युम्नं** धनम् **अस्मे** अस्मभ्यं **धेहि** प्रयच्छ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“May your invigorating srength come from the west, from the north, from the south, from the east; may it come to us from every quarter; grant us riches combined with felicity.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Let your unbridled force, a bull, come here from behind, here from  above and below, here from in front.  
+Let it come altogether toward us from all sides. Indra, grant to us  
+sun-like brilliance.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Let thine heroic strength come from behind us, before us, from above us or below us.  
+     From every side may it approach us, Indra. Give us the glory of the realm of splendour.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Dieser dein Mut komme wie ein Stier von hinten, von oben, von unten, von vorne, von allen Seiten soll er herkommen. O Indra, verleih uns sonnenhaften Glanz!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Her komme deine Heldenkraft von oben, von unten her, von vorne und von hinten, Von allen Seiten komme nah herbei sie, o Indra, schenk uns glanzbegabten Reichthum.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Да придет твой пыл, (подобный) быку, сзади,  
+Сверху, снизу, спереди,  
+Да придет он к нам со всех сторон!  
+О Индра, надели нас небесным блеском!
+</details>

@@ -1,0 +1,172 @@
++++
+title = "001"
+devataa = "पवमानः सोमः"
+RShiH = "कश्यपः"
+ChandaH = "पङ्क्तिः"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+शर्यणा꣡वति सो꣡मम्  
+इ꣡न्द्रः पिबतु वृत्रहा꣡  
+ब꣡लं द꣡धान आत्म꣡नि  
+करिष्य꣡न् वीरि꣡यम् मह꣡द्  
+इ꣡न्द्रायेन्दो प꣡रि स्रव
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525);; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+श॒र्य॒णाऽव॑ति । सोम॑म् । इन्द्रः॑ । पि॒ब॒तु॒ । वृ॒त्र॒ऽहा ।  
+बल॑म् । दधा॑नः । आ॒त्मनि॑ । क॒रि॒ष्यन् । वी॒र्य॑म् । म॒हत् । इन्द्रा॑य । इ॒न्दो॒ इति॑ । परि॑ । स्र॒व॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *śaryaṇāvati* ← *śaryaṇāvant*
+- \[noun\], locative, singular, masculine
+------------------------------------------------------------------------
+- *somam* ← *soma*
+- \[noun\], accusative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *indraḥ* ← *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *pibatu* ← *pā*
+- \[verb\], singular, Present imperative
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------
+- *vṛtrahā* ← *vṛtra*
+- \[noun\], masculine
+- “Vṛtra; vṛtra \[word\].”
+------------------------------------------------------------------------
+- *vṛtrahā* ← *hā* ← *han*
+- \[noun\], nominative, singular, masculine
+- “killing; curative; destroying; removing; māraka; stabbing.”
+------------------------------------------------------------------------
+- *balaṃ* ← *balam* ← *bala*
+- \[noun\], accusative, singular, neuter
+- “strength; army; power; force; potency; vigor; Balarama; bala;
+    violence; might; Shiva; bala \[word\]; myrrh; semen; reflex; bronze;
+    influence; erection; potency; intensity.”
+------------------------------------------------------------------------
+- *dadhāna* ← *dadhānaḥ* ← *dhā*
+- \[verb noun\], nominative, singular
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *ātmani* ← *ātman*
+- \[noun\], locative, singular, masculine
+- “self; nature; Ātman; mind; soul; self; body; character; ātman
+    \[word\]; person; life; peculiarity.”
+------------------------------------------------------------------------
+- *kariṣyan* ← *kṛ*
+- \[verb noun\], nominative, singular
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *vīryam* ← *vīrya*
+- \[noun\], accusative, singular, neuter
+- “potency; vīrya; heroism; potency; strength; semen; power; deed;
+    active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
+    virility; manfulness; jewel; force.”
+------------------------------------------------------------------------
+- *mahad* ← *mahat*
+- \[noun\], accusative, singular, neuter
+- “large; eminent; great; loud; dangerous; strong; long; high;
+    much(a); mahant \[word\]; ample; very; great; adult; important;
+    dark; high; abundant; violent; remarkable; mighty; big; long.”
+------------------------------------------------------------------------
+- *indrāyendo* ← *indrāya* ← *indra*
+- \[noun\], dative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *indrāyendo* ← *indo* ← *indu*
+- \[noun\], vocative, singular, masculine
+- “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
+    juice.”
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *srava* ← *sru*
+- \[verb\], singular, Present imperative
+- “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
+    disappear; leak; fester.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**शर्यणावति** । शर्यणावन्नाम कुरुक्षेत्रस्य जघनार्धे सरः । तत्र स्थितं सोमं **वृत्रहा** **इन्द्रः** **पिबतु** । कीदृशः । **आत्मनि** **बलं** दधानः बलं निदधानः अत एव **महत्** **वीर्यं** करिष्यन् शत्रून् प्रति । तस्मात् **इन्द्रायेन्दो** **परि** स्रव ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Let **Indra**, the slayer of **Vṛtra**, quaff the **Soma** on the Śaryaṇāvat, infusing strength into himself, about to show great prowess; flow, **Indu**, for Indra.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Śaraṇyāvat: a lake in the **Kurukṣetra** region
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Let Indra, Vr̥tra-smasher, drink the soma in the reed-filled (place), placing strength in himself as he is about to perform a great heroic deed. – O drop, flow around for Indra.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+Pāda a lacks a syllable - no obvious fix. Distraction to *śari yaṇā́vati would produce three light syllables at the beginning of the pāda, which would be highly unusual, and the stem is not otherwise found distracted. On the word see comm. ad VIII.6.39.
+</details>
+
+<details><summary>+Griffith</summary>
+
+LET Vrtra-slaying Indra drink Soma by Saryanavan's side,  
+     Storing up vigour in his heart, prepared to do heroic deeds. Flow, Indu, flow for Indra's sake.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Den Soma in Saryanavat soll Indra, der Vritratöter, trinken, sich Kraft zulegend, wenn er eine große Heldentat vollbringen will. Fließe für Indra ringsum ab, o Saft!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Es trinke Soma aus dem Fass der Feindetödter Indra jetzt, Sich schaffend Kraft zum grossen Werk, das er nun auszuführen strebt; dem Indra ström', o Indu, zu.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Пусть выпьет Индра, убийца Вритры,  
+Сому в Шарьянавате,  
+Вбирая в себя силу,  
+Собираясь совершить великий подвиг.  
+Для Индры, о капля, растекайся вокруг!
+</details>

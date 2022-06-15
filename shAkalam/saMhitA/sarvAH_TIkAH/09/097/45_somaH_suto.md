@@ -1,0 +1,179 @@
++++
+title = "045"
+devataa = "पवमानः सोमः"
+RShiH = "कुत्सः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+सो꣡मः सुतो꣡ धा꣡रया꣡त्यो न꣡ हि꣡त्वा  
+सि꣡न्धुर् न꣡ निम्न꣡म् अभि꣡ वाजी꣡ अक्षाः  
+आ꣡ यो꣡निं व꣡न्यम् असदत् पुनानः꣡  
+स꣡म् इ꣡न्दुर् गो꣡भिर् असरत् स꣡म् अद्भिः꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सोमः॑ । सु॒तः । धार॑या । अत्यः॑ । न । हित्वा॑ । सिन्धुः॑ । न । नि॒म्नम् । अ॒भि । वा॒जी । अ॒क्षा॒रिति॑ ।  
+आ । योनि॑म् । वन्य॑म् । अ॒स॒द॒त् । पु॒ना॒नः । सम् । इन्दुः॑ । गोभिः॑ । अ॒स॒र॒त् । सम् । अ॒त्ऽभिः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *somaḥ* ← *soma*
+- \[noun\], nominative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *suto* ← *sutaḥ* ← *su*
+- \[verb noun\], nominative, singular
+- “press out; su.”
+------------------------------------------------------------------------
+- *dhārayātyo* ← *dhārayā* ← *dhārā*
+- \[noun\], instrumental, singular, feminine
+- “flush; flow; current; spring; fountain.”
+------------------------------------------------------------------------
+- *dhārayātyo* ← *atyaḥ* ← *atya*
+- \[noun\], nominative, singular, masculine
+- “horse; steed.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *hitvā* ← *hā*
+- \[verb noun\]
+- “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
+    lose; avoid; remove; leave; abandon; neglect; leave; discard;
+    apostatize; discontinue; weaken; abandon; assail; subtract;
+    foreswear; pour away; withdraw; depart; reduce.”
+------------------------------------------------------------------------
+- *sindhur* ← *sindhuḥ* ← *sindhu*
+- \[noun\], nominative, singular, masculine
+- “river; Indus; sindhu \[word\].”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *nimnam* ← *nimna*
+- \[noun\], accusative, singular, neuter
+- “depression; depth.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *vājy* ← *vājī* ← *vājin*
+- \[noun\], nominative, singular, masculine
+- “victorious; triumphant; strong; gainful.”
+------------------------------------------------------------------------
+- *akṣāḥ* ← *akṣār* ← *kṣar*
+- \[verb\], singular, Athematic s aor. (Ind.)
+- “run; melt.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *yoniṃ* ← *yonim* ← *yoni*
+- \[noun\], accusative, singular, masculine
+- “vagina; vulva; uterus; beginning; origin; reincarnation;
+    birthplace; family; production; cause; race; grain; raw material;
+    birth; kind; caste; kinship; bed.”
+------------------------------------------------------------------------
+- *vanyam* ← *vanya*
+- \[noun\], accusative, singular, masculine
+- “sylvan.”
+------------------------------------------------------------------------
+- *asadat* ← *sad*
+- \[verb\], singular, Thematic aorist (Ind.)
+- “sit down; break down; slow; sink; crumble; fracture; perish; ride;
+    stop; besiege; tire.”
+------------------------------------------------------------------------
+- *punānaḥ* ← *pū*
+- \[verb noun\], nominative, singular
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *indur* ← *induḥ* ← *indu*
+- \[noun\], nominative, singular, masculine
+- “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
+    juice.”
+------------------------------------------------------------------------
+- *gobhir* ← *gobhiḥ* ← *go*
+- \[noun\], instrumental, plural, feminine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *asarat* ← *sṛ*
+- \[verb\], singular, Thematic aorist (Ind.)
+- “sṛ; liquefy; run; spread; stretch out.”
+------------------------------------------------------------------------
+- *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *adbhiḥ* ← *ap*
+- \[noun\], instrumental, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+सुतोभिषुतः सोमोधारयास्वीयया अत्योनअतनशीलोश्वइव हित्वागत्वा हिनोतेः क्वनि- पिरूपम् । किञ्च वाजी बलवान् सोमः सिन्धुर्न यथासिन्धुः स्यन्दमाना नदी निम्नं प्रदेश- मभिगच्छति तद्वत् निम्नमधरभाविनं कलशमभ्यक्षाः अभिक्षरति । ततः पुनानः पूयमानः सोमः वन्यं वृक्षभवं योनिं योनिस्थानं कलशं आसदत् आसीदति । सोयमिन्दुः सोमः गीर्भिर्गोविकारैः क्षीरादिभिः श्रयणैः सं असरत् संसरति तथा अद्भिर्वसतीवरोभिश्च सङ्ग- च्छते ॥ ४५ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The **Soma** effused in a stream, going like a horse flows powerful like a river down a descent; purified he alights on the wooden abode; **Indu** mixes with the milk and curds, (mixes) with the water.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Soma, pressed in a stream, driving like a steed, has streamed like a river  to the deep, as prizewinner.  
+He has sat in the wooden womb while being purified. The drop has  flowed together with the cows, with the waters.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Strong Soma, pressed, like an impetuous courser, hath flowed in stream as a flood speeding downward.  
+     Cleansed, he hath settled in his wooden dwelling: Indu hath flowed with milk and with the waters.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Der in Strömen ausgepreßte Soma ist wie ein angesporntes Rennpferd, wie ein Strom abwärts geflossen, den Preis gewinnend. Er hat sich in den hölzernen Schoß gesetzt, sich läuternd. Der Saft ist mit den Kühen, mit dem Wasser zusammengeflossen.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Gepresst hat Soma sich im Strom ergossen gleich schnellem Renner, wie ins Thal der Fluss rinnt, Gereinigt setzt er in den Sitz von Holz sich, mit Milch und Wasser hat geströmt der Indu.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Сома, выжатый, потек потоком, бросившись,  
+Как скакун, как река в низину, (этот) конь-победитель.  
+Очищаясь, он уселся на деревянное лоно.  
+Сок (сомы) потек вместе с коровьим молоком, вместе с водами.
+</details>

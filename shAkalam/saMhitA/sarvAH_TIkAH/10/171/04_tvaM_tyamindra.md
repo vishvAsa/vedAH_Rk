@@ -1,0 +1,136 @@
++++
+title = "004"
+devataa = "इन्द्रः"
+RShiH = "इटो भार्गवः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+तुवं꣡ त्य꣡म् इन्द्र सू꣡रियम्  
+पश्चा꣡ स꣡न्तम् पुर꣡स् कृधि  
+देवा꣡नां चित् तिरो꣡ व꣡शम्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वम् । त्यम् । इ॒न्द्र॒ । सूर्य॑म् । प॒श्चा । सन्त॑म् । पु॒रः । कृ॒धि॒ ।  
+दे॒वाना॑म् । चि॒त् । ति॒रः । वश॑म् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *tvaṃ* ← *tvam* ← *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *tyam* ← *tya*
+- \[noun\], accusative, singular, masculine
+- “that.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *sūryam* ← *sūrya*
+- \[noun\], accusative, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+------------------------------------------------------------------------
+- *paścā*
+- \[adverb\]
+- “west; behind; paścā \[word\]; on all fours; subsequently.”
+------------------------------------------------------------------------
+- *santam* ← *as*
+- \[verb noun\], accusative, singular
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *puras*
+- \[adverb\]
+- “ahead; puras \[word\]; easterly; eastward; east; earlier.”
+------------------------------------------------------------------------
+- *kṛdhi* ← *kṛ*
+- \[verb\], singular, Aorist imperative
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *devānāṃ* ← *devānām* ← *deva*
+- \[noun\], genitive, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *tiro* ← *tiras*
+- \[adverb\]
+- “tiras \[word\]; away; secretly.”
+------------------------------------------------------------------------
+- *vaśam* ← *vaśa*
+- \[noun\], accusative, singular, masculine
+- “control; dominion; influence; power; Vaśa; vaśa \[word\]; will;
+    authority; control; wish; supervision.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे इन्द्र त्वं त्यं सूर्यं सायंसमये पश्चा पश्चात् सन्तं भवन्तं **पुरः** परेद्युः प्रातःकाले पुरस्तात् कृधि करोषि। लकारव्यत्ययः । कीदृशम् । **देवानां** चित् देवानामपि **तिरः** तिरोहितं तैरपि क्व गत इति दुर्विज्ञातं **वशं** कान्तम् ॥ ॥ २९ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Bring forward that **Sūrya**, **Indra**, who is lingering behind, the beloved of the gods, (awhile) concealedfrom them.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+You, Indra—set this sun in front, though it is behind,  
+even athwart the will of the gods.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Bring, Indra, to the east again that Sun who now is in the west,  
+     Even against the will of Gods.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Bring du; Indra, diese Sonne, die hinten ist, nach vorn, selbst wider der Götter willen!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Die Sonne, die im Westen ist, schaff', Indra, du nach Osten hin, Auch wenn's nicht Wunsch der Götter ist.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Ты, о Индра, того самого Сурью,  
+Находящегося позади, поставь впереди  
+Даже вопреки воле богов!
+</details>

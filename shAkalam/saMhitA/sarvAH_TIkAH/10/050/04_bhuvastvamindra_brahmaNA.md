@@ -1,0 +1,168 @@
++++
+title = "004"
+devataa = "इन्द्रो वैकुंठः"
+RShiH = "इन्द्रो वैकुंठः"
+ChandaH = "अभिसारिणी"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+भु꣡वस् तुव꣡म् इन्दर+ ब्र꣡ह्मणा महा꣡न्  
+भु꣡वो वि꣡श्वेषु स꣡वनेषु यज्ञि꣡यः  
+भु꣡वो नॄँ꣡श् च्यौतनो꣡ वि꣡श्वस्मिन् भ꣡रे  
+ज्य꣡यिष्ठश्+ च · म꣡न्त्रो विश्वचर्षणे
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+भुवः॑ । त्वम् । इ॒न्द्र॒ । ब्रह्म॑णा । म॒हान् । भुवः॑ । विश्वे॑षु । सव॑नेषु । य॒ज्ञियः॑ ।  
+भुवः॑ । नॄन् । च्यौ॒त्नः । विश्व॑स्मिन् । भरे॑ । ज्येष्ठः॑ । च॒ । मन्त्रः॑ । वि॒श्व॒ऽच॒र्ष॒णे॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *bhuvas* ← *bhuvaḥ* ← *bhū*
+- \[verb\], singular, Aorist inj. (proh.)
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+------------------------------------------------------------------------
+- *tvam* ← *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *brahmaṇā* ← *brahman*
+- \[noun\], instrumental, singular, neuter
+- “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
+    emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
+------------------------------------------------------------------------
+- *mahān* ← *mahat*
+- \[noun\], nominative, singular, masculine
+- “large; eminent; great; loud; dangerous; strong; long; high;
+    much(a); mahant \[word\]; ample; very; great; adult; important;
+    dark; high; abundant; violent; remarkable; mighty; big; long.”
+------------------------------------------------------------------------
+- *bhuvo* ← *bhuvaḥ* ← *bhū*
+- \[verb\], singular, Aorist inj. (proh.)
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+------------------------------------------------------------------------
+- *viśveṣu* ← *viśva*
+- \[noun\], locative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *savaneṣu* ← *savana*
+- \[noun\], locative, plural, neuter
+- “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
+------------------------------------------------------------------------
+- *yajñiyaḥ* ← *yajñiya*
+- \[noun\], nominative, singular, masculine
+- “sacrificial; divine; devoted.”
+------------------------------------------------------------------------
+- *bhuvo* ← *bhuvaḥ* ← *bhū*
+- \[verb\], singular, Aorist inj. (proh.)
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+------------------------------------------------------------------------
+- *nṝṃś* ← *nṝn* ← *nṛ*
+- \[noun\], accusative, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *cyautno* ← *cyautnaḥ* ← *cyautna*
+- \[noun\], nominative, singular, masculine
+- “animating.”
+------------------------------------------------------------------------
+- *viśvasmin* ← *viśva*
+- \[noun\], locative, singular, masculine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *bhare* ← *bhara*
+- \[noun\], locative, singular, masculine
+- “battle; weight; foray; bhṛ; load.”
+------------------------------------------------------------------------
+- *jyeṣṭhaś* ← *jyeṣṭhaḥ* ← *jyeṣṭha*
+- \[noun\], nominative, singular, masculine
+- “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *mantro* ← *mantraḥ* ← *mantra*
+- \[noun\], nominative, singular, masculine
+- “mantra; Mantra; consultation; advice; consultation; mantra
+    \[word\]; speech; plan.”
+------------------------------------------------------------------------
+- *viśvacarṣaṇe* ← *viśvacarṣaṇi*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **इन्द्र** **त्वं** **ब्रह्मणा** अस्मत्कृतेन परिवृढेन स्तोत्रेण **महान्** **भुवः** अभवः। भवतेर्लेटि  ‘ भूसुवोस्तिङि ' इति गुणप्रतिषेध उवङादेशः । तथा **विश्वेषु** सर्वेषु **सवनेषु** **यज्ञियः** यष्टव्यः **भुवः** अभवः । तथा **विश्वस्मिन्** सर्वस्मिन् **भरे** संग्रामे **नॄन्** नेतॄणां शत्रूणां **च्यौत्नः** च्यावयिता भुवः । हे **विश्वचर्षणे** सर्वस्य द्रष्टरिन्द्र **मन्त्रः** मन्त्रयितव्यस्त्वं **ज्येष्ठश्च** अभवः सर्वेषां मध्ये ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Indra**, you have become mighty through our praise; you have have become adorable at all sacrifices,in every combat you are the caster down of the leaders (of hosts); beholder of all, you are the best, mostexcellent.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+You will become great through our sacred formulation, Indra.  
+You will become the worthy recipient of the sacrifice at all the  
+soma-pressings.  
+You will become the stirring of men in every contest and the supreme  mantra, o you who are common to all domains.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Thou, Indra, through the holy prayer art mighty, worthy of sacrifice at all libations.  
+     In every fight thou castest heroes on the ground: thou art the noblest song, O Lord of all the folk.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Du, Indra, wardst groß durch die erbauliche Rede, du wardst bei allen Trankopfern der Opferwürdige. Du wardst der Aufrüttler der Männer in jedem Kampf und der beste Rat, du Allbekannter.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Du mögest, Indra, mächtig sein durch das Gebet, bei allen Mahlen sollst du hochverehrt uns sein, In jedem Kampfe rege du die Männer an, als herrlichster Berather, allbeliebter du.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Ты стал великим, о Индра, благодаря священному слову,  
+Ты стал достойным жертв на всех выжиманиях (сомы).  
+Ты был вдохновителем мужей в каждой битве  
+И лучшим советчиком, о принадлежащий всем народам.
+</details>

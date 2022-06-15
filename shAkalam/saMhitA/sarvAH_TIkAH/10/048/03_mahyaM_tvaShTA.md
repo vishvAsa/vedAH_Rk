@@ -1,0 +1,183 @@
++++
+title = "003"
+devataa = "इन्द्रो वैकुंठः"
+RShiH = "इन्द्रो वैकुंठः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+म꣡ह्यं त्व꣡ष्टा व꣡ज्रम् अतक्षद् आयस꣡म्  
+म꣡यि देवा꣡सो अवृजन्न् अ꣡पि क्र꣡तुम्  
+म꣡मा꣡नीकं सू꣡रियस्येव दुष्ट꣡रम्  
+मा꣡म् आ꣡र्यन्ति कृते꣡न क꣡र्तुवेन च
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मह्य॑म् । त्वष्टा॑ । वज्र॑म् । अ॒त॒क्ष॒त् । आ॒य॒सम् । मयि॑ । दे॒वासः॑ । अ॒वृ॒ज॒न् । अपि॑ । क्रतु॑म् ।  
+मम॑ । अनी॑कम् । सूर्य॑स्यऽइव । दु॒स्तर॑म् । माम् । आर्य॑न्ति । कृ॒तेन॑ । कर्त्वे॑न । च॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *mahyaṃ* ← *mahyam* ← *mad*
+- \[noun\], dative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *tvaṣṭā* ← *tvaṣṭṛ*
+- \[noun\], nominative, singular, masculine
+- “Tvaṣṭṛ; Viśvakarman; sun.”
+------------------------------------------------------------------------
+- *vajram* ← *vajra*
+- \[noun\], accusative, singular, masculine
+- “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
+    vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
+------------------------------------------------------------------------
+- *atakṣad* ← *atakṣat* ← *takṣ*
+- \[verb\], singular, Imperfect
+- “produce; shape; fashion; chisel; invent.”
+------------------------------------------------------------------------
+- *āyasam* ← *āyasa*
+- \[noun\], accusative, singular, masculine
+- “iron; metallic.”
+------------------------------------------------------------------------
+- *mayi* ← *mad*
+- \[noun\], locative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *devāso* ← *devāsaḥ* ← *deva*
+- \[noun\], nominative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *'vṛjann* ← *avṛjan* ← *vṛj*
+- \[verb\], plural, Root aorist (Ind.)
+------------------------------------------------------------------------
+- *api*
+- \[adverb\]
+- “besides; even; surely; though; furthermore; among; contrastingly;
+    assuredly.”
+------------------------------------------------------------------------
+- *kratum* ← *kratu*
+- \[noun\], accusative, singular, masculine
+- “yajña; decision; plan; deliberation; intelligence; Kratu; will;
+    kratu \[word\]; desire; resoluteness; ritual.”
+------------------------------------------------------------------------
+- *mamānīkaṃ* ← *mama* ← *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *mamānīkaṃ* ← *anīkam* ← *anīka*
+- \[noun\], nominative, singular, neuter
+- “army; face; battalion; battlefront; point; appearance.”
+------------------------------------------------------------------------
+- *sūryasyeva* ← *sūryasya* ← *sūrya*
+- \[noun\], genitive, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+------------------------------------------------------------------------
+- *sūryasyeva* ← *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *duṣṭaram* ← *duṣṭara*
+- \[noun\], nominative, singular, neuter
+- “incomparable; irresistible; unbearable; unconquerable.”
+------------------------------------------------------------------------
+- *mām* ← *mad*
+- \[noun\], accusative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *āryanti* ← *ār*
+- \[verb\], plural, Present indikative
+- “praise.”
+------------------------------------------------------------------------
+- *kṛtena* ← *kṛ*
+- \[verb noun\], instrumental, singular
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *kartvena* ← *kṛ*
+- \[verb noun\], instrumental, singular
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**मह्यं** मदर्थं **त्वष्टा** देवः **आयसम्** अयोमयं **वज्रम्** आयुधम् **अतक्षत** संपादितवान्। देवाः **मयि** विषये **क्रतुं** स्वविरोधिहननरूपं कर्म **अपि** **अवृजन्** समपादयन् । **मम** **अनीकं** सेनासमूहं सूर्यानीकमिव **दुष्टरम्** अन्येन तरीतुमशक्यम्। **माम्** एव **कृतेन** कर्मणा **कर्त्वेन** इतः परं कर्तव्येन वृत्रवधादिरूपेण **आर्यन्ति** गच्छन्ति । आर्यतिर्गतिकर्म। यद्वा । अर्यमीश्वरं कुर्वन्ति ।
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“For me **Tvaṣṭā** fabricated the metal thunderbolt; in me the gods have concentrated pious acts; mylustre is insurmountable, like that of the Sun; men acknowledge me as lord in consequence of what I have done,and of what I shall do.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+My lustre is the Sun: my army is hard to overcome, like the sun's lustre;
+
+**Anīka** = liṭ,face
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+For me Tvaṣṭar fashioned the metal mace. To me have the gods bent  their will.  
+My face, like that of the sun, is difficult to surpass. They recognize me  by what has been done and is to be done.
+</details>
+
+<details><summary>+Griffith</summary>
+
+For me hath Tvastar forged the iron thunderbolt: in me the Gods have centred intellectual power.  
+     My sheen is like the Sun's insufferably bright: men honour me as Lord for past and future deeds.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Für mich hat Tvastri die eherne Keule geschmiedet; nach mir haben die Götter ihren Willen gerichtet. Mein Anblick ist so schwer auszuhalten wie der der Sonne; mich erkennen sie an ob dem getanen und künftigen Werk.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Es machte Tvaschtar mir den Blitz, den ehernen, die Götter flössten hohe Geisteskraft mir ein; Unwiderstehlich wie der Sonne ist mein Glanz; was ich gethan und was ich thun will, rühmt man hoch.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Мне Тваштар выковал железную дубину,  
+Ко мне боги обратили (свою) волю.  
+Мой вид ослепительней, чем у солнца.  
+Меня уважают за то, что сделано и что будет сделано.
+</details>

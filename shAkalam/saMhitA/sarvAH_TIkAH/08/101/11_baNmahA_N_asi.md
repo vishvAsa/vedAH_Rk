@@ -1,0 +1,155 @@
++++
+title = "011"
+devataa = "सूर्यः"
+RShiH = "जमदग्निर्भार्गवः"
+ChandaH = "बृहती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+ब꣡ण् महाँ꣡ असि सूरिय  
+ब꣡ऌ आदित्य महाँ꣡ असि  
+मह꣡स् ते सतो꣡ महिमा꣡ पनस्यते  
+अद्धा꣡ देव महाँ꣡ असि
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+बट् । म॒हान् । अ॒सि॒ । सू॒र्य॒ । बट् । आ॒दि॒त्य॒ । म॒हान् । अ॒सि॒ ।  
+म॒हः । ते॒ । स॒तः । म॒हि॒मा । प॒न॒स्य॒ते॒ । अ॒द्धा । दे॒व॒ । म॒हान् । अ॒सि॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *baṇ* ← *baṭ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *mahāṃ* ← *mahat*
+- \[noun\], nominative, singular, masculine
+- “large; eminent; great; loud; dangerous; strong; long; high;
+    much(a); mahant \[word\]; ample; very; great; adult; important;
+    dark; high; abundant; violent; remarkable; mighty; big; long.”
+------------------------------------------------------------------------
+- *asi* ← *as*
+- \[verb\], singular, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *sūrya*
+- \[noun\], vocative, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+------------------------------------------------------------------------
+- *baﾱ* ← *baṭ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *āditya*
+- \[noun\], vocative, singular, masculine
+- “sun; Aditya; Surya; āditya \[word\].”
+------------------------------------------------------------------------
+- *mahāṃ* ← *mahat*
+- \[noun\], nominative, singular, masculine
+- “large; eminent; great; loud; dangerous; strong; long; high;
+    much(a); mahant \[word\]; ample; very; great; adult; important;
+    dark; high; abundant; violent; remarkable; mighty; big; long.”
+------------------------------------------------------------------------
+- *asi* ← *as*
+- \[verb\], singular, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *mahas* ← *mahaḥ* ← *mah*
+- \[noun\], genitive, singular, masculine
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *te* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *sato* ← *sataḥ* ← *as*
+- \[verb noun\], genitive, singular
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *mahimā* ← *mahiman*
+- \[noun\], nominative, singular, masculine
+- “greatness; power; mahiman.”
+------------------------------------------------------------------------
+- *panasyate* ← *panasy*
+- \[verb\], singular, Present indikative
+------------------------------------------------------------------------
+- *'ddhā* ← *addhā*
+- \[adverb\]
+- “in truth.”
+------------------------------------------------------------------------
+- *deva*
+- \[noun\], vocative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *mahāṃ* ← *mahat*
+- \[noun\], nominative, singular, masculine
+- “large; eminent; great; loud; dangerous; strong; long; high;
+    much(a); mahant \[word\]; ample; very; great; adult; important;
+    dark; high; abundant; violent; remarkable; mighty; big; long.”
+------------------------------------------------------------------------
+- *asi* ← *as*
+- \[verb\], singular, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **सूर्य** त्वं **महान्** तेजसाधिकः **असि** । **बट्** सत्यम्। नैतन्मिथ्येत्यर्थः। हे **आदित्य** अदितेः पुत्र त्वं **महान्** बलेनाप्यधिकः **असि** । **बट्** सत्यम् । **महः** महतः **सतः** भवतः **ते** **महिमा** महत्त्वं **पनस्यते** स्तोतृभिः स्तूयते । हे **देव** द्योतनादिगुणयुक्त सूर्य त्वं **महान्** वीर्येणाप्यधिकः **असि** भवसि । **अद्धा** सत्यमेव । अत्र न संशय इत्यर्थः । ‘ बट् सत्रा अद्धा ' इति सत्यनामसु पाठात् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Verily you are great, O Sun; verily, **Āditya**, you are great; the greatness of you, the greatone,ispraised; verily you are great, O god.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Yes indeed! you are great, Sūrya; yes indeed! Āditya, you are great. The greatness of you who are great attracts admiration. Certainly, god,  you are great.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Verily, Surya, thou art great; truly, Aditya, thou art great.  
+     As thou art great indeed, thy greatness is admired: yea, verily, thou, God, art great.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Wahrhaftig, du bist der Große, Surya; wahrhaftig, du bist der Große, Aditya. Deine, des Großen, Größe verdient Preis; wirklich bist du, Gott, der Große.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Ja, gross bist du, o Sonnengott, ja, o Aditja, gross bist du; deine, des grossen, Grösse wird fürwahr gepriesen, o Gott, du bist gross.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+В самом деле, ты велик, о Сурья.  
+В самом деле, ты велик, о Адитья.  
+Величие у тебя, великого,удивительно.  
+Ты, действительно, велик, о бог.
+</details>

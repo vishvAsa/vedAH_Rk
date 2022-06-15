@@ -1,0 +1,178 @@
++++
+title = "007"
+devataa = "अग्निः"
+RShiH = "त्रित आप्त्यः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+ब्र꣡ह्म च ते जातवेदो न꣡मश् च  
+इयं꣡ च गीः꣡ स꣡दम् इ꣡द् व꣡र्धनी भूत्  
+र꣡क्षा णो अग्ने त꣡नयानि तोका꣡  
+र꣡क्षोत꣡ नस् तनु꣡वो अ꣡प्रयुछन्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ब्रह्म॑ । च॒ । ते॒ । जा॒त॒ऽवे॒दः॒ । नमः॑ । च॒ । इ॒यम् । च॒ । गीः । सद॑म् । इत् । वर्ध॑नी । भू॒त् ।  
+रक्ष॑ । नः॒ । अ॒ग्ने॒ । तन॑यानि । तो॒का । रक्ष॑ । उ॒त । नः॒ । त॒न्वः॑ । अप्र॑ऽयुच्छन् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *brahma* ← *brahman*
+- \[noun\], nominative, singular, neuter
+- “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
+    emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *te* ← *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *jātavedo* ← *jātavedaḥ* ← *jātavedas*
+- \[noun\], vocative, singular, masculine
+- “Agni; fire.”
+------------------------------------------------------------------------
+- *namaś* ← *namaḥ* ← *namas*
+- \[noun\], nominative, singular, neuter
+- “adoration; court; namas \[word\]; bow; salute.”
+------------------------------------------------------------------------
+- *ceyaṃ* ← *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *ceyaṃ* ← *iyam* ← *idam*
+- \[noun\], nominative, singular, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *gīḥ* ← *gir*
+- \[noun\], nominative, singular
+- “hymn; praise; voice; words; invocation; command; statement; cry;
+    language.”
+------------------------------------------------------------------------
+- *sadam*
+- \[adverb\]
+- “always.”
+------------------------------------------------------------------------
+- *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *vardhanī* ← *vardhana*
+- \[noun\], nominative, singular, feminine
+- “increasing; fortifying; promotive; prolonging.”
+------------------------------------------------------------------------
+- *bhūt* ← *bhū*
+- \[verb\], singular, Aorist inj. (proh.)
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+------------------------------------------------------------------------
+- *rakṣā* ← *rakṣ*
+- \[verb\], singular, Present imperative
+- “protect; guard; keep; stow; govern; guard; spare; accumulate.”
+------------------------------------------------------------------------
+- *ṇo* ← *ṇaḥ* ← *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *tanayāni* ← *tanaya*
+- \[noun\], accusative, plural, neuter
+- “biological.”
+------------------------------------------------------------------------
+- *tokā* ← *toka*
+- \[noun\], accusative, plural, neuter
+- “offspring.”
+------------------------------------------------------------------------
+- *rakṣota* ← *rakṣa* ← *rakṣ*
+- \[verb\], singular, Present imperative
+- “protect; guard; keep; stow; govern; guard; spare; accumulate.”
+------------------------------------------------------------------------
+- *rakṣota* ← *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *nas* ← *naḥ* ← *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *tanvo* ← *tanvaḥ* ← *tanu*
+- \[noun\], accusative, plural, feminine
+- “body; embodiment; life; life; root; body; form.”
+------------------------------------------------------------------------
+- *aprayucchan* ← *aprayucchat*
+- \[noun\], nominative, singular, masculine
+- “ceaseless; attentive.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **जातवेदः** जातप्रज्ञाग्ने **ते** त्वदर्थं **ब्रह्म** अस्माभिर्दीयमानं हवीरूपमन्नं **वर्धनी** वर्धनं **भूत्** भवतु । तथा **नमः** नमस्कारश्च । किंच **इयम्** इदानीं क्रियमाणैषा स्तुतिः सदमित् सदैव **वर्धनी** वर्धयित्री **भूत्** भवतु । तस्माद्धे **अग्ने** **नः** अस्माकं **तनयानि** पुत्रान् **तोका** पौत्रांश्च **रक्ष** पालय । **उत** अपि च **अप्रयुछन्** अप्रमाद्यंस्त्वं नः अस्माकं तन्वः अङ्गानि **रक्ष** ॥ ॥ ३२ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“May this oblation, **Jātavedas**, this reverence, this praise, ever magnify you. Protect, **Agni**, our sons,our grandsons, and diligently defend our person ns.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Sacred formulation and homage and this song here shall always be  strengthening for you, o Jātavedas.  
+Guard our progeny and posterity, o Agni, and guard our own bodies  unremittingly.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Homage and prayer are thine, O Jatavedas, and this my song shall evermore exalt thee.  
+     Agni, protect our children and descendants, and guard with ever-watcliful care our bodies.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Beschwörung und Verbeugung und diese Lobrede sollen dir, Jatavedas, immerdar als Stärkung dienen. Schütze, o Agni, unseren leiblichen Nachwuchs, schütze auch unsere Person ohne Unterlaß!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Dir, Wesenkenner, sei Gebet und Andacht und dieses Lied zu jeder Zeit erlabend, Beschütze, Agni, Kinder uns und Enkel und unsre eignen Leiber unablässig.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Священное слово, о Джатаведас, и поклонение,  
+И эта хвалебная песнь пусть всегда будут тебе подкреплениями!  
+Защищай, о Агни, нашу плоть от плоти.  
+Защищай также без устали нас самих!
+</details>

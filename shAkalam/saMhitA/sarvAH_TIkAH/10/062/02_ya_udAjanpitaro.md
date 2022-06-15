@@ -1,0 +1,169 @@
++++
+title = "002"
+devataa = "विश्वेदेवाः आङ्गिरसो वा"
+RShiH = "नाभानेदिष्ठो मानवः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+य꣡ उदा꣡जन् पित꣡रो गोम꣡यं व꣡सु  
+ऋते꣡ना꣡भिन्दन् परिवत्सरे꣡ वल꣡म्  
+दीर्घायुत्व꣡म् अङ्गिरसो वो अस्तु  
+प्र꣡ति गृभ्णीत मानवं꣡ सुमेधसः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ये । उ॒त्ऽआज॑न् । पि॒तरः॑ । गो॒ऽमय॑म् । वसु॑ । ऋ॒तेन॑ । अभि॑न्दन् । प॒रि॒व॒त्स॒रे । व॒लम् ।  
+दी॒र्घा॒यु॒ऽत्वम् । अ॒ङ्गि॒र॒सः॒ । वः॒ । अ॒स्तु॒ । प्रति॑ । गृ॒भ्णी॒त॒ । मा॒न॒वम् । सु॒ऽमे॒ध॒सः॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *ya* ← *ye* ← *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *udājan* ← *udaj* ← *√aj*
+- \[verb\], plural, Imperfect
+------------------------------------------------------------------------
+- *pitaro* ← *pitaraḥ* ← *pitṛ*
+- \[noun\], nominative, plural
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+------------------------------------------------------------------------
+- *gomayaṃ* ← *go*
+- \[noun\]
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *gomayaṃ* ← *mayam* ← *maya*
+- \[noun\], accusative, singular, neuter
+- “consisting of; endowed.”
+------------------------------------------------------------------------
+- *vasv* ← *vasu*
+- \[noun\], accusative, singular, neuter
+- “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
+------------------------------------------------------------------------
+- *ṛtenābhindan* ← *ṛtena* ← *ṛta*
+- \[noun\], instrumental, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *ṛtenābhindan* ← *abhindan* ← *bhid*
+- \[verb\], plural, Imperfect
+- “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
+    lance; break; distinguish; disclose; pierce; tear; separate;
+    transgress; break open; scratch; penetrate; sever; bribe; grind;
+    betray; fester; strike.”
+------------------------------------------------------------------------
+- *parivatsare* ← *parivatsara*
+- \[noun\], locative, singular, neuter
+- “year.”
+------------------------------------------------------------------------
+- *valam* ← *vala*
+- \[noun\], accusative, singular, masculine
+- “Vala; vala; cave.”
+------------------------------------------------------------------------
+- *dīrghāyutvam* ← *dīrgha*
+- \[noun\]
+- “long; long; long; large; far; deep; dīrgha \[word\].”
+------------------------------------------------------------------------
+- *dīrghāyutvam* ← *āyu*
+- \[noun\], neuter
+- “life; life; age.”
+------------------------------------------------------------------------
+- *dīrghāyutvam* ← *tvam* ← *tva*
+- \[noun\], nominative, singular, neuter
+- “state; quality; cause; reason.”
+------------------------------------------------------------------------
+- *aṅgiraso* ← *aṅgirasaḥ* ← *aṅgiras*
+- \[noun\], vocative, plural, masculine
+- “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
+    Aṅgiras.”
+------------------------------------------------------------------------
+- *vo* ← *vaḥ* ← *tvad*
+- \[noun\], dative, plural
+- “you.”
+------------------------------------------------------------------------
+- *astu* ← *as*
+- \[verb\], singular, Present imperative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *prati*
+- \[adverb\]
+- “towards; per; regarding; respectively; according to; until.”
+------------------------------------------------------------------------
+- *gṛbhṇīta* ← *grah*
+- \[verb\], plural, Present imperative
+- “take; grasp; take out; extract; perceive; pick; assume; include;
+    accept; understand; use; learn; possess; keep; choose; accept;
+    afflict; suck; paralyze; mention; mistake; eat; wear; embrace; fill
+    into; capture; eclipse; get; collect; hand down; marry; heed;
+    touch.”
+------------------------------------------------------------------------
+- *mānavaṃ* ← *mānavam* ← *mānava*
+- \[noun\], accusative, singular, masculine
+- “man; man; national; mānava \[word\].”
+------------------------------------------------------------------------
+- *sumedhasaḥ* ← *sumedhas*
+- \[noun\], vocative, plural, masculine
+- “wise.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **अङ्गिरसः** **पितरः** अस्माकं पूर्वजत्वेन पितृभूताः **ये** यूयं **गोमयं** गवात्मकं पणिभिरपहृतं **वसु** धनम् **उदाजन्** तैरधिष्ठितात्पर्वतादुदगमयन् । किंच **ऋतेन** सत्यभूतेन यज्ञेन **परिवत्सरे** पर्यागते वत्सरे संपूर्णे । सत्रान्त इत्यर्थः । तत्र **वलं** वलनामानं गवामपहर्तारमसुरम् **अभिन्दन्** व्यनाशयन् तेभ्यः **वः** युष्मभ्यं **दीर्घायुत्वं** प्रभूतजीवनम् **अस्तु** । शेषं पूर्ववत् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“May length of life be yours, **Aṅgirasas**, our progenitors, who drove forth the wealth of cattle, and bymeans of your sacrifice when the year was ended, demolished (the **asura**) **Bala**; welcome, sages, the son ofManu.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+The fathers who drove up the goods consisting of cows and with truth  split the Vala cave at the turning of the year,  
+let there be long life for you, o Aṅgirases. – Accept the descendant of  Manu, o you of good wisdom.
+</details>
+
+<details><summary>+Griffith</summary>
+
+The Fathers, who drave forth the wealth in cattle, have in the year's courses cleft Vala by Eternal Law:  
+     A lengthened life be yours, O ye Angirases. Welcome the son of Manu, ye who are most wise.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Die Väter, die den Rinderschatz heraustrieben, in Jahresfrist durch rechtes Werk die Höhle sprengten, euch, Angiras`, soll langes Leben werden! - Nehmet mich, den Manusproß auf, ihr Weisen!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Euch Vätern, die der Rinder Heerde ausgeführt, im Jahr die Höhle aufgethan durch frommes Werk, O Angiras, euch werde langer Lebenslauf, o nehmt, ihr weisen, freundlich auf den Menschensohn.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+(Вы,) отцы, что выгнали наружу богатство, состоящее из коров,  
+Праведным трудом за год раскололи (пещеру) Вала,  
+Да будет вам долголетие, о Ангирасы!  
+Примите (меня,) сына Ману, о мудрые!
+</details>
