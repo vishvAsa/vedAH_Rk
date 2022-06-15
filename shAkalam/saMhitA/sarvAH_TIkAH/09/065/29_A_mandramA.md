@@ -1,0 +1,118 @@
++++
+title = "029"
+devataa = "पवमानः सोमः"
+RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+आ꣡ मन्द्र꣡म् आ꣡ व꣡रेणियम्  
+आ꣡ वि꣡प्रम् आ꣡ मनीषि꣡णम्  
+पा᳐꣡न्तम् आ꣡ पुरुस्पृ꣡हम्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ । म॒न्द्रम् । आ । वरे॑ण्यम् । आ । विप्र॑म् । आ । म॒नी॒षिण॑म् ।  
+पान्त॑म् । आ । पु॒रु॒ऽस्पृह॑म् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *mandram* ← *mandra*
+- \[noun\], accusative, singular, masculine
+- “pleasant; eloquent; dulcet.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *vareṇyam* ← *vareṇya*
+- \[noun\], accusative, singular, masculine
+- “excellent; desirable.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *vipram* ← *vipra*
+- \[noun\], accusative, singular, masculine
+- “eloquent; stimulated; divine.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *manīṣiṇam* ← *manīṣin*
+- \[noun\], accusative, singular, masculine
+- “sage; expert; devout.”
+------------------------------------------------------------------------
+- *pāntam* ← *pānta*
+- \[noun\], accusative, singular, masculine
+- “drink; beverage.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *puruspṛham* ← *puruspṛh*
+- \[noun\], accusative, singular, masculine
+- “coveted; desirous.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे सोम **मन्द्रं** मदकरं स्तुत्यं वा त्वाम् **आ** वृणीमहे । **वरेण्यं** सर्वैर्वरणीयं संभजनीयं च । किंच **विप्रं** मेधाविनं त्वाम् । तथा **मनीषिणम्** । मनस ईषा मनीषा। तद्वन्तं स्तुतिमन्तं वा त्वाम् **आ** वृणीमहे । प्रत्येकविशेषणापेक्षया आ इत्युपसर्गः कृतः । किंच **पान्तं** सर्वेषां रक्षकं **पुरुस्पृहं** बहुभिः स्पृहणीयं च त्वां संभजामहे ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The exhilarating, the desirable, the wise, the intelligent, the defender (of all), the desired of many.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Here the gladdening (drink), here the one worthy to be chosen, here the  inspired poet, here the inspirited one,  
+here the much coveted drink,
+</details>
+
+<details><summary>+Griffith</summary>
+
+The Excellent, the Gladdener, the Sage with heart that understands,  
+     The Guardian, the desire of all;
+</details>
+
+<details><summary>+Geldner</summary>
+
+Den erfreuenden, begehrenswerten, den beredten, gedankenreichen, den vielbegehrten Trank,
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Die Freude schafft, die herrliche, begeisterte, verständige, Die vielbegehrte, schützende,
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

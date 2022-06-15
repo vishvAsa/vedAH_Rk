@@ -1,0 +1,177 @@
++++
+title = "009"
+devataa = "रक्षोहाग्निः"
+RShiH = "वामदेवो गौतमः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+इह꣡ त्वा भू꣡रि आ꣡ चरेद् उ꣡प त्म꣡न्  
+दो꣡षावस्तर् दीदिवां꣡सम् अ꣡नु द्यू꣡न्  
+क्री꣡ळन्तस् त्वा सुम꣡नसः सपेम  
+अभि꣡ द्युम्ना꣡ तस्थिवां꣡सो ज꣡नानाम्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒ह । त्वा॒ । भूरि॑ । आ । च॒रे॒त् । उप॑ । त्मन् । दोषा॑ऽवस्तः । दी॒दि॒ऽवांस॑म् । अनु॑ । द्यून् ।  
+क्रीळ॑न्तः । त्वा॒ । सु॒ऽमन॑सः । स॒पे॒म॒ । अ॒भि । द्यु॒म्ना । त॒स्थि॒ऽवांसः॑ । जना॑नाम् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *iha*
+- \[adverb\]
+- “here; now; in this world; now; below; there; here; just.”
+------------------------------------------------------------------------
+- *tvā* ← *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *bhūry* ← *bhūri*
+- \[noun\], accusative, singular, neuter
+- “much; many; much(a); abundant; rich; mighty; distinguished.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *cared* ← *caret* ← *car*
+- \[verb\], singular, Present optative
+- “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
+    observe; enter (a state); observe; cause; crop; behave; practice;
+    heed; process; administer.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *tman*
+- \[noun\], locative, singular, masculine
+- “self.”
+------------------------------------------------------------------------
+- *doṣāvastar* ← *doṣā*
+- \[noun\], feminine
+- “night.”
+------------------------------------------------------------------------
+- *doṣāvastar* ← *vastar* ← *vastṛ*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------
+- *dīdivāṃsam* ← *dīdī*
+- \[verb noun\], accusative, singular
+- “shine; glitter.”
+------------------------------------------------------------------------
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *dyūn* ← *div*
+- \[noun\], accusative, plural, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *krīﾱantas* ← *krīﾱantaḥ* ← *krīḍ*
+- \[verb noun\], nominative, plural
+- “frolic; love; play; amuse.”
+------------------------------------------------------------------------
+- *tvā* ← *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *sumanasaḥ* ← *sumanas*
+- \[noun\], nominative, plural, masculine
+- “benevolent; cheerful; happy; satisfied.”
+------------------------------------------------------------------------
+- *sapemābhi* ← *sapema* ← *sap*
+- \[verb\], plural, Present optative
+------------------------------------------------------------------------
+- *sapemābhi* ← *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *dyumnā* ← *dyumna*
+- \[noun\], accusative, plural, neuter
+- “magnificence.”
+------------------------------------------------------------------------
+- *tasthivāṃso* ← *tasthivāṃsaḥ* ← *sthā*
+- \[verb noun\], nominative, plural
+- “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
+    stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
+    last; dwell; lie; stand; stop.”
+------------------------------------------------------------------------
+- *janānām* ← *jana*
+- \[noun\], genitive, plural, masculine
+- “people; national; man; relative; jan; Janaloka; person; jana
+    \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे अग्ने **इह** रक्षोहननाख्ये कर्मणि यद्वा अस्मिन् लोके यः पुरुषः **दोषावस्तः** रात्रावहनि च **दीदिवांसं** दीप्यमानं **त्वा** त्वाम् **अनु** **द्यून्** अन्वहं **त्मन्** आत्मना स्वयमेव **उप** समीपे **भूरि** भूयिष्ठं यथा भवति तथा “ आ **चरेत्** परिचरति । तस्माद्वयमपि **जनानां** शत्रूणां **द्युम्ना** द्युम्नानि धनानि **अभि** **तस्थिवांसः** त्वत्प्रसादादात्मसात्कुर्वन्तोऽत एव **क्रीळन्तः** स्वे स्वे गृहे पुत्रपौत्रादिभिः सह संक्रीडमानास्तथा **सुमनसः** शोभनमनस्काः सन्तस्त्वां **सपेम** परिचरेम । यद्वा । दोषावस्तरिति संबुद्धिः । दोषाया रात्रिकृतस्य तमसो वस्तराच्छादयितर्निवारयितः ॥ त्मन् । आत्मन्शब्दस्य तृतीयायाः ‘सुपां सुलुक्'  इति लुक् । मन्त्रेष्वाङ्यादेरात्मनः' इत्याकारलोपः । दोषावस्तः । द्वन्द्वपक्षे  ‘ कार्तकौजपादयश्च ' इति पूर्वपदप्रकृतिस्वरः । संबुद्धिपक्षे आमन्त्रितस्य पादादित्वात् षाष्टिकमाद्युदात्तत्वम् । सपेम । ‘षप समवाये । लिङि रूपम् । निघातः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“May every one of his own accord diligently worship you, shining in the (hall) morning and evening, every day; thus, sporting in our dwellings, (enjoying) the wealth (of hostile) man, may we with happy hearts worship you.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Here should (a man) attend on you much in person—you illuminator of  the evening, shining through the days.  
+Playful and well disposed, we would serve you, we who have  
+surmounted the brilliant things of (other) men.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+sumánas- here recalls the two occurrences of sumatí- in 6a and 8a (see disc.
+
+there); this word two may have dual value: both ‘benevolent, well-disposed’ and ‘having a good mind’, that is, one capable of producing good thoughts in the form of hymns.
+
+The dyumnā́ni of the arí- “the brilliant things of the stranger” that Agni opened up for us in 6d we seem to have thoroughly taken possession of here. The gen. jánānām here corresponds to aryáḥ in 6d.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Here of free choice let each one serve thee richly, resplendent day by day at eve and morning.  
+     So may we honour thee, content and joyous, passing beyond the glories of the people.
+</details>
+
+<details><summary>+Oldenberg</summary>
+
+May (the worshipper) here frequently of his own accord approach thee, O (god) who shinest in darkness 1, resplendent day by day. Let us worship thee sporting and joyous, surpassing the splendour of (other) people.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Hier soll er selbst dir fleißig aufwarten, alle Tage, wenn du Dunkelerheller erstrahlst. Unter Spielen und Frohsinn wollen wir dich pflegen, indem wir die Herrlichkeiten anderer Leute übertreffen.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Es soll dir vieles hier zum Dienst bereit stehn, der du erglänzest täglich morgens, abends; Wir wollen froh und wohlgesinnt dich ehren, nachdem der Menschen Güter wir errungen.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Пусть он сам за тобою здесь много ухаживает,  
+Когда ты горишь все дни, о осветитель ночей!  
+Счастливые духом, мы хотим заботиться о тебе, играя,  
+Затмевая великолепие (других) людей.
+</details>

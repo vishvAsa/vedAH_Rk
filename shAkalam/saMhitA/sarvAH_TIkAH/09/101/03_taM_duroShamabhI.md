@@ -1,0 +1,117 @@
++++
+title = "003"
+devataa = "पवमानः सोमः"
+RShiH = "अन्धीगुः श्यावाश्विः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+तं꣡ दुरो꣡षम् अभी꣡ न꣡रः  
+सो꣡मं विश्वा꣡चिया धिया꣡  
+यज्ञं꣡ हिन्वन्ति अ꣡द्रिभिः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तम् । दु॒रोष॑म् । अ॒भि । नरः॑ । सोम॑म् । वि॒श्वाच्या॑ । धि॒या ।  
+य॒ज्ञम् । हि॒न्व॒न्ति॒ । अद्रि॑ऽभिः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *taṃ* ← *tam* ← *tad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *duroṣam* ← *duroṣa*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *abhī* ← *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *naraḥ* ← *nṛ*
+- \[noun\], nominative, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *somaṃ* ← *somam* ← *soma*
+- \[noun\], accusative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *viśvācyā* ← *viśvāñc*
+- \[noun\], instrumental, singular, feminine
+------------------------------------------------------------------------
+- *dhiyā* ← *dhī*
+- \[noun\], instrumental, singular, feminine
+- “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
+    knowledge.”
+------------------------------------------------------------------------
+- *yajñaṃ* ← *yajñam* ← *yajña*
+- \[noun\], accusative, singular, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *hinvanty* ← *hinvanti* ← *hi*
+- \[verb\], plural, Present indikative
+- “impel; send; spur; stimulate; urge.”
+------------------------------------------------------------------------
+- *adribhiḥ* ← *adri*
+- \[noun\], instrumental, plural, masculine
+- “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**नरः** कर्मनेतार ऋत्विजः **दुरोषम्** । रोषतेर्हिंसार्थस्य रेफलोपे दीर्घाभाव ओषतेर्दाहार्थस्य वा खलि रूपमिति संदेहादनवग्रहः । **तं** दुर्दहं दुर्वधं वा **यज्ञं** यष्टव्यं तं **सोमं** **विश्वाच्या** सर्वान् कामानञ्चित्र्या **धिया** बुद्ध्या **अद्रिभिः** ग्रावभिः **अभि** **हिन्वन्ति** अभिप्रेरयन्ति । अभिषुण्वन्तीति यावत् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Him, the **Soma** unassailable, adorable, the priests, with all comprehending intelligence, express with the stones.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+That one, the soma, poor at burning [?], do the superior men, with their  insight aimed toward all,  
+impel to the sacrifice with stones.
+</details>
+
+<details><summary>+Griffith</summary>
+
+The men with all-pervading song send unassailable Soma forth,  
+     By pressing-stones, to sacrifice.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Diesen ..... Soma treiben die Männer mit allseitigem Bedacht durch die Steine als Opfer.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Ihn spornt, den unverletzlichen, achtsamen Sinns der Männer Schar Zum Opfer Soma durchs Gestein.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Этому сому, трудновозбудимого,  
+Мужи (поторапливают) всесторонней поэтической мыслью,  
+Жертву поторапливают давильными камнями.
+</details>

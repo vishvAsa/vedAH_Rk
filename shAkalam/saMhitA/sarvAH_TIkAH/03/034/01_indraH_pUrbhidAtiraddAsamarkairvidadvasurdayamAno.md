@@ -1,0 +1,161 @@
++++
+title = "001"
+devataa = "इन्द्रः"
+RShiH = "गाथिनो विश्वामित्रः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+इ꣡न्द्रः पूर्भि꣡द् आ꣡तिरद् दा꣡सम् अर्कइ꣡र्  
+विद꣡द्वसुर् द꣡यमानो वि꣡ श꣡त्रून्  
+ब्र꣡ह्मजूतस् तनु꣡वा वावृधानो꣡  
+भू꣡रिदात्र आ꣡पृणद् रो꣡दसी उभे꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic on metrical evidence alone
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इन्द्रः॑ । पूः॒ऽभित् । आ । अ॒ति॒र॒त् । दास॑म् । अ॒र्कैः । वि॒दत्ऽव॑सुः । दय॑मानः । वि । शत्रू॑न् ।  
+ब्रह्म॑ऽजूतः । त॒न्वा॑ । व॒वृ॒धा॒नः । भूरि॑ऽदात्रः । आ । अ॒पृ॒ण॒त् । रोद॑सी॒ इति॑ । उ॒भे इति॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *indraḥ* ← *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *pūrbhid*
+- \[noun\], nominative, singular, masculine
+- “Indra.”
+------------------------------------------------------------------------
+- *ātirad* ← *ātirat* ← *ātṛ* ← *√tṛ*
+- \[verb\], singular, Imperfect
+------------------------------------------------------------------------
+- *dāsam* ← *dāsa*
+- \[noun\], accusative, singular, masculine
+- “slave; Dāsa; servant; savage; Shudra.”
+------------------------------------------------------------------------
+- *arkair* ← *arkaiḥ* ← *arka*
+- \[noun\], instrumental, plural, masculine
+- “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
+    beam.”
+------------------------------------------------------------------------
+- *vidadvasur* ← *vidadvasuḥ* ← *vidadvasu*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *dayamāno* ← *dayamānaḥ* ← *day*
+- \[verb noun\], nominative, singular
+- “share.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *śatrūn* ← *śatru*
+- \[noun\], accusative, plural, masculine
+- “enemy; foe; enemy; Asura.”
+------------------------------------------------------------------------
+- *brahmajūtas* ← *brahma* ← *brahman*
+- \[noun\], neuter
+- “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
+    emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
+------------------------------------------------------------------------
+- *brahmajūtas* ← *jūtaḥ* ← *jū*
+- \[verb noun\], nominative, singular
+- “animate; encourage; impel; inspire.”
+------------------------------------------------------------------------
+- *tanvā* ← *tanū*
+- \[noun\], instrumental, singular, feminine
+- “body; self; own(a); person; form.”
+------------------------------------------------------------------------
+- *vāvṛdhāno* ← *vāvṛdhānaḥ* ← *vṛdh*
+- \[verb noun\], nominative, singular
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+------------------------------------------------------------------------
+- *bhūridātra* ← *bhūri*
+- \[noun\]
+- “much; many; much(a); abundant; rich; mighty; distinguished.”
+------------------------------------------------------------------------
+- *bhūridātra* ← *dātraḥ* ← *dātra*
+- \[noun\], nominative, singular, masculine
+- “sickle; gift; scythe.”
+------------------------------------------------------------------------
+- *āpṛṇad* ← *āpṛṇat* ← *āpṛṇ* ← *√pṛṇ*
+- \[verb\], singular, Imperfect
+------------------------------------------------------------------------
+- *rodasī* ← *rodas*
+- \[noun\], accusative, dual, neuter
+- “heaven and earth; Earth.”
+------------------------------------------------------------------------
+- *ubhe* ← *ubh*
+- \[noun\], accusative, dual, neuter
+- “both(a).”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+विश्वामित्रः स्तौति । पूर्र्भिदसुरपुरां भेत्ता अत एव विदद्वसुर्वेदयद्भिः स्वमहिमप्रख्यापकैर्वसुभिर्युक्तः शत्रूनसुरान्वि दयमानो विशेषेण हिम्सन् । तथा च यास्कः । विदद्वसुर्दयमानो वि शत्रूनिति हिम्साकर्मा । नि. ४-१७ । इति । तादृश इन्द्रो दासं दस्यतेऽनेन तम इति दासो वासरः । तमर्कैरर्चनीयैः स्वतेजोभिरातिरत् । समन्ताव्दवर्धयत् इन्द्रस्य सूर्यात्मकत्वात् । तथा च स्मृतिः । चैत्रमासे तपेदिन्द्र इति । इक्ञ्च । ब्रह्मजूतो ब्रह्मणा स्तोत्रेणाकृष्टः । यद्वा ब्रह्मणा जगत्स्रष्ट्रा प्रेरितस्तन्वा स्वशरीरेण वावैधानो वर्धमानो भूरिदात्रः । दायते लूयतेऽनेन शत्रुशिर इति दात्रमायुधम् । बहुविधायुधोपेतः । तादृश इन्द्र उभे रोदसी द्यावापृथिव्यापपृणत् । सर्वतोऽतर्पयत् । पूर्भित् । भिदिर् विदारणे । क्विप् । अतिरत् तरतेर्व्यत्ययेन शः । ऋत इद्धातोरितित्वम् । निघातः । दासम् । करणे घञ् । ञित्स्वरः । विदद्वसुः । विदेरन्तर्भावितण्यर्थस्य शतर्यदादित्वाच्छपो लुकि सति प्रत्ययस्वरेण शतुरुदात्तत्वम् । बहुव्रीहौ पूर्वपदस्वरः । दयमानः । दय दानगति रक्षण हिंसाग्रहणेषु । आत्मनेपदी । लटः शानच् । न लोकाव्ययेति षष्ठी पतिषेधः । ववृधानः । वृधु वर्धने । कानचि रूपम् । सम्हितायामभ्यासस्य तुजादित्वाद्दीर्घः । भुरिदात्रः । दाप् लवने । करणे दाम्नीत्यादिना ष्ट्प्र्न्प्रत्ययः । बहुव्रीहौ पूर्वपद प्रकृतिस्वरः । अपृणत् । पृण प्रीण न इत्यस्य लङि तुदादित्वाच्छः । निघातः । रोदसी । रुदेरसुनि रूपम् । नित्स्वरः ॥ १ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Indra**, the destroyer of cities, possessed of wealth manifesting (his greatness), merciless to his enemies has overspread the day with his radiance; attracted by prayer, increasing in bulk, and armed with many weapons, he has delighted both heaven and earth.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Rmed with many pweapons: bhūridātra: **dātra** from do, to cut, is explained as a weapon
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Indra, stronghold-splitter, overcame the Dāsa with his chants, finding  goods, fragmenting his rivals.  
+Spurred on by the sacred formulation, grown strong in his body, he of  abundant gifts filled both world-halves.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+Gotō (1st class, 173-74) posits a separate root √di ‘destroy’ to account for 5 occurrences of dáyate ordinarily taken to mean ‘divide’ with the other occurrences of dáyate. (The forms in question are found in III.34.1, IV.7.10, VI.6.5, 22.9, and X.80.2.) He is followed by Lubotsky and (at least in this passage and IV.7.10) Witzel Gotō. I see no reason to split the present into two and posit a second root; ví dayate ‘divide into pieces, fragment’ is simply another of the vivid images of destruction that RVic poets gloried in.
+</details>
+
+<details><summary>+Griffith</summary>
+
+FORT-RENDER, Lord of Wealth, dispelling foemen, Indra with lightnings hath o'ercome the Dasa.  
+     Impelled by prayer and waxen great in body, he hath filled earth and heaven, the Bounteous Giver.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Indra, der Burgenbrecher hat den Dasa mit Zaubergesängen überwunden, der Finder des Gutes, der die Feinde aufteilt. Durch das Kraftwort angefeuert, am Leibe erstarkt, erfüllte der Gabenreiche beide Welthälften.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Den Dämon schlug mit Blitz der Burgzerstörer, den Feind zerstreuend, Gut erbeutend, Indra, Erregt durch Andacht und am Leibe, wachsend erfüllte er mit Gaben beide Welten.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Индра-проламыватель крепостей победил дасу песнопениями,  
+(Он,) находящий блага, рассеивающий врагов.  
+Вдохновленный молитвой, возросший телом  
+(Бог,) дающий много, заполнил оба мира.
+</details>

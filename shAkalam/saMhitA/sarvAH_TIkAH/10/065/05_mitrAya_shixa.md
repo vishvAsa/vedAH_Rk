@@ -1,0 +1,163 @@
++++
+title = "005"
+devataa = "विश्वेदेवाः"
+RShiH = "वसुकर्णो वासुक्रः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+मित्रा꣡य शिक्ष व꣡रुणाय दाशु꣡षे  
+या꣡ सम्रा꣡जा म꣡नसा न꣡ प्रयु꣡छतः  
+य꣡योर् धा꣡म ध꣡र्मणा रो꣡चते बृह꣡द्  
+य꣡योर् उभे꣡ रो꣡दसी ना꣡धसी वृ꣡तौ
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मि॒त्राय॑ । शि॒क्ष॒ । वरु॑णाय । दा॒शुषे॑ । या । स॒म्ऽराजा॑ । मन॑सा । न । प्र॒ऽयुच्छ॑तः ।  
+ययोः॑ । धाम॑ । धर्म॑णा । रोच॑ते । बृ॒हत् । ययोः॑ । उ॒भे इति॑ । रोद॑सी॒ इति॑ । नाध॑सी॒ इति॑ । वृतौ॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *mitrāya* ← *mitra*
+- \[noun\], dative, singular, masculine
+- “friend; Mitra; mitra \[word\]; sun; ally.”
+------------------------------------------------------------------------
+- *śikṣa* ← *śikṣ*
+- \[verb\], singular, Present imperative
+- “help; give.”
+------------------------------------------------------------------------
+- *varuṇāya* ← *varuṇa*
+- \[noun\], dative, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *dāśuṣe* ← *dāś*
+- \[verb noun\], dative, singular
+- “sacrifice; give.”
+------------------------------------------------------------------------
+- *yā* ← *yad*
+- \[noun\], nominative, dual, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *samrājā* ← *samrāj*
+- \[noun\], nominative, dual, masculine
+- “sovereign; ruler.”
+------------------------------------------------------------------------
+- *manasā* ← *manas*
+- \[noun\], instrumental, singular, neuter
+- “mind; Manas; purpose; idea; attention; heart; decision; manas
+    \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *yucchataḥ* ← *yu*
+- \[verb\], dual, Present indikative
+- “keep away; separate; ward off.”
+------------------------------------------------------------------------
+- *yayor* ← *yayoḥ* ← *yad*
+- \[noun\], genitive, dual, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *dhāma* ← *dhāman*
+- \[noun\], nominative, singular, neuter
+- “domain; dwelling; law; appearance; light; race; agreement; color;
+    location.”
+------------------------------------------------------------------------
+- *dharmaṇā* ← *dharman*
+- \[noun\], instrumental, singular, neuter
+- “regulation; Dharma; law; property.”
+------------------------------------------------------------------------
+- *rocate* ← *ruc*
+- \[verb\], singular, Present indikative
+- “please; shine.”
+------------------------------------------------------------------------
+- *bṛhad* ← *bṛhat*
+- \[noun\], nominative, singular, neuter
+- “large; great; loud; high; much(a); exalted; abundant; intensive;
+    strong; huge.”
+------------------------------------------------------------------------
+- *yayor* ← *yayoḥ* ← *yad*
+- \[noun\], genitive, dual, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *ubhe* ← *ubh*
+- \[noun\], nominative, dual, feminine
+- “both(a).”
+------------------------------------------------------------------------
+- *rodasī*
+- \[noun\], nominative, dual, feminine
+- “heaven and earth; Earth.”
+------------------------------------------------------------------------
+- *nādhasī* ← *nādhas*
+- \[noun\], nominative, dual, neuter
+------------------------------------------------------------------------
+- *vṛtau* ← *vṛ*
+- \[verb noun\], nominative, dual
+- “choose; ask.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**दाशुषे** धनानि स्तोतृभ्यः प्रयच्छते **मित्राय** **वरुणाय** च **शिक्ष** हवींषि प्रयच्छ । शिक्षतिर्दानकर्मा । **सम्राजा** सम्राजौ सर्वस्य **या** यौ मित्रावरुणौ **मनसा** अन्तःकरणेनापि **न** **प्रयुच्छतः** न प्रमाद्यतः किमुत बाह्येन व्यापारेण ।  ‘ युच्छ प्रमादे '। भौवादिकः । **ययोः** मित्रावरुणयोः **बृहत्** महत् **धाम** शरीरं **धर्मणा** आत्मीयेन लोकप्रकाशनादिलक्षणेन कर्मणा **रोचते** सम्यग्दीप्यते । **ययोः** च नाधसी । णाधृ याच्ञोपतापैश्वर्याशीःषु '। याचमाने **उभे** **रोदसी** द्यावापृथिव्यौ **वृतौ** वर्तमाने भवतः । यद्वा । नाधसी देवमनुष्यैः समृद्धे द्यावापृथिव्यौ तयोर्वृतौ वर्तमाने भवतः । तदधीने भवत इत्यर्थः ॥ ॥ ९ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Worship the liberal **Mitra** and **Varuṇa**, the two royal deities who are never negligent in their thoughts,whose vast body is resplendent through their functions, upon whom the two solicitous worlds (heaven and earth)remain (dependent).”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Their functions: of illuminating the world; two solicitous worlds: nādhasi = solicitous; or,abounding in gods and men
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Try your utmost for Mitra and for Varuṇa who does ritual service, the  two sovereign kings who do not stay distant in their thought,  
+whose lofty domain shines by reason of their ordinance, for whom the  two world-halves are two opposing troops in need of help.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Bring gifts to Mitra and to Varuna who, Lords of all, in spirit never fail the worshipper,  
+     Whose statute shines on high through everlasting Law, whose places of sure refuge are the heavens and earth.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Mache es Mitra und Varuna recht, den beiden Allkönigen, die gegen den Spender im Geiste nie gleichgültig werden, deren hohe Schöpfung nach ihrer Bestimmung strahlt, denen die beiden Welten Schutztruppe und Gefolge sind.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Dem Mitra spende und dem treuen Varuna, den Herrschern, die mit ihrem Geist nicht ferne sind, Sie, deren Stätte durch Gerechtigkeit erglänzt, und denen Erd' und Himmel Hülfe flehend nahn.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

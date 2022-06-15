@@ -1,0 +1,119 @@
++++
+title = "009"
+devataa = "इन्द्रः"
+RShiH = "कुरुसुतिः काण्वः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+पि꣡बे꣡द् इन्द्र मरु꣡त्सखा  
+सुतं꣡ सो꣡मं दि꣡विष्टिषु  
+व꣡ज्रं शि꣡शान ओ꣡जसा
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पिब॑ । इत् । इ॒न्द्र॒ । म॒रुत्ऽस॑खा । सु॒तम् । सोम॑म् । दिवि॑ष्टिषु ।  
+वज्र॑म् । शिशा॑नः । ओज॑सा ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *pibed* ← *pibet* ← *pā*
+- \[verb\], singular, Present optative
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *marutsakhā* ← *marut*
+- \[noun\], masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *marutsakhā* ← *sakhā* ← *sakhi*
+- \[noun\], nominative, singular, masculine
+- “friend; companion; sakhi \[word\].”
+------------------------------------------------------------------------
+- *sutaṃ* ← *sutam* ← *su*
+- \[verb noun\], accusative, singular
+- “press out; su.”
+------------------------------------------------------------------------
+- *somaṃ* ← *somam* ← *soma*
+- \[noun\], accusative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *diviṣṭiṣu* ← *diviṣṭi*
+- \[noun\], locative, plural, feminine
+------------------------------------------------------------------------
+- *vajraṃ* ← *vajram* ← *vajra*
+- \[noun\], accusative, singular, masculine
+- “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
+    vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
+------------------------------------------------------------------------
+- *śiśāna* ← *śiśānaḥ* ← *śā*
+- \[verb noun\], nominative, singular
+- “sharpen; whet; strengthen.”
+------------------------------------------------------------------------
+- *ojasā* ← *ojas*
+- \[noun\], instrumental, singular, neuter
+- “strength; power; ojas; ojas \[word\]; potency; might.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **इन्द्र** **मरुत्सखा** त्वं **सुतम्** अभिषुतं **सोमं** **पिब** । किमर्थम् । दिविष्टिषु अस्माकमह्नामभिगमनेषु **दिवः** स्वर्गस्य वैषणेषु निमित्तेषु । पीत्वा च **ओजसा** बलेन सोमपानजनितेन **वज्रं** **शिशानः** तीक्ष्णीकुर्वन् । शत्रूञ्जहीति भावः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Drink, **Indra**, with your friends the **Maruts**, this **Soma** effused on the recurring sacred days, and sharpenyour thunderbolt with (renewed) vigour.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+(RV 1.86.4): diviṣṭiṣu = in these solemnities which are means to obtainheaven; cf. RV 8.4.19
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Just drink, o Indra, with the Maruts as comrades, the pressed soma at  the rituals of the day,  
+sharpening your mace with might.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Drink, Indra, with thy Marut Friends, pressed Soma at the morning rites,  
+     Whetting thy thunderbolt with strength.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Trink doch, Indra mit den Marut als Kameraden bei den heutigen Opfern den ausgepreßten Soma, indem du deine Keule mit Kraft schärfst!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Trink, Indra, mit der Marutschar den Somasäft beim Opferfest, Mit Kraft dir schärfend deinen Blitz.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

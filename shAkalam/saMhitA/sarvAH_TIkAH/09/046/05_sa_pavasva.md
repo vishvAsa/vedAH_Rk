@@ -1,0 +1,113 @@
++++
+title = "005"
+devataa = "पवमानः सोमः"
+RShiH = "अयास्यः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+स꣡ पवस्व धनंजय  
+प्रयन्ता꣡ रा꣡धसो महः꣡  
+अस्म꣡भ्यं सोम गातुवि꣡त्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सः । प॒व॒स्व॒ । ध॒न॒म्ऽज॒य॒ । प्र॒ऽय॒न्ता । राध॑सः । म॒हः ।  
+अ॒स्मभ्य॑म् । सो॒म॒ । गा॒तु॒ऽवित् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *pavasva* ← *pū*
+- \[verb\], singular, Present imperative
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *dhanañjaya* ← *dhanaṃjaya*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------
+- *prayantā* ← *prayantṛ*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *rādhaso* ← *rādhasaḥ* ← *rādhas*
+- \[noun\], genitive, singular, neuter
+- “gift; munificence; liberality; bounty.”
+------------------------------------------------------------------------
+- *mahaḥ* ← *mah*
+- \[noun\], genitive, singular, neuter
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *asmabhyaṃ* ← *asmabhyam* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *gātuvit* ← *gātu*
+- \[noun\], masculine
+- “path; way.”
+------------------------------------------------------------------------
+- *gātuvit* ← *vid*
+- \[noun\], nominative, singular, masculine
+- “finding.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **धनंजय** शत्रुसंबन्धिनां जनानां जेतः **सोम** **गातुवित्** अभीष्टमार्गस्य लम्भकः **अस्मभ्यं** **महः** महतः **राधसः** धनस्य **प्रयन्ता** प्रदाता च यः **सः** त्वं **पवस्व** क्षर ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Soma**, conqueror of wealth, who know the way (to fulfil my desires), flow forth the bestower of vast wealth upon us.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Purify yourself, you winner of stakes, as provider of great bounty and as pathfinder for us, o Soma.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Thus, Soma, Conqueror of wealth! flow, finding furtherance for us,  
+     Giver oF ample opulence.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Läutere dich, du Schätzegewinner, als Spender großer Ehrengabe, als Pfadfinder für uns, o Soma!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+O riesle hell, erbeutender, Darreicher grosser Gaben du, Und schaff uns, Soma, freie Bahn.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

@@ -1,0 +1,150 @@
++++
+title = "014"
+devataa = "आपः अपान्नपाद्वा"
+RShiH = "कवष ऐलूषः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+ए꣡मा꣡ अग्मन् रेव꣡तीर् जीव꣡धन्या  
+अ꣡ध्वर्यवः साद꣡यता सखायः  
+नि꣡ बर्हि꣡षि धत्तन सोमियासो  
+अपां꣡ न꣡प्त्रा संविदाना꣡स एनाः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ । इ॒माः । अ॒ग्म॒न् । रे॒वतीः॑ । जी॒वऽध॑न्याः । अध्व॑र्यवः । सा॒दय॑त । स॒खा॒यः॒ ।  
+नि । ब॒र्हिषि॑ । ध॒त्त॒न॒ । सो॒म्या॒सः॒ । अ॒पाम् । नप्त्रा॑ । स॒म्ऽवि॒दा॒नासः॑ । ए॒नाः॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *emā* ← *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *emā* ← *imāḥ* ← *idam*
+- \[noun\], nominative, plural, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *agman* ← *gam*
+- \[verb\], plural, Root aorist (Ind.)
+- “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
+    leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
+    get; come; die; drain; spread; transform; happen; discharge; ride;
+    to be located; run; detect; refer; go; shall; drive.”
+------------------------------------------------------------------------
+- *revatīr* ← *revatīḥ* ← *revat*
+- \[noun\], nominative, plural, feminine
+- “abundant; rich; affluent; brilliant; brilliant.”
+------------------------------------------------------------------------
+- *jīvadhanyā* ← *jīva*
+- \[noun\]
+- “live; alive(p); amṛta.”
+------------------------------------------------------------------------
+- *jīvadhanyā* ← *dhanyāḥ* ← *dhanya*
+- \[noun\], nominative, plural, feminine
+- “fortunate; auspicious; affluent.”
+------------------------------------------------------------------------
+- *adhvaryavaḥ* ← *adhvaryu*
+- \[noun\], vocative, plural, masculine
+- “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
+------------------------------------------------------------------------
+- *sādayatā* ← *sāday* ← *√sad*
+- \[verb\], plural, Present imperative
+------------------------------------------------------------------------
+- *sakhāyaḥ* ← *sakhi*
+- \[noun\], nominative, plural, masculine
+- “friend; companion; sakhi \[word\].”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *barhiṣi* ← *barhis*
+- \[noun\], locative, singular, neuter
+- “Barhis; barhis \[word\].”
+------------------------------------------------------------------------
+- *dhattana* ← *dhā*
+- \[verb\], plural, Present imperative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *somyāso* ← *somyāsaḥ* ← *somya*
+- \[noun\], nominative, plural, masculine
+- “saumya.”
+------------------------------------------------------------------------
+- *'pāṃ* ← *apām* ← *ap*
+- \[noun\], genitive, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *naptrā* ← *naptṛ*
+- \[noun\], instrumental, singular, masculine
+- “grandson; nephew; naptṛ \[word\].”
+------------------------------------------------------------------------
+- *saṃvidānāsa* ← *saṃvidānāsaḥ* ← *saṃvid* ← *√vid*
+- \[verb noun\], nominative, plural
+- “agree; know; match; recognize.”
+------------------------------------------------------------------------
+- *enāḥ* ← *enad*
+- \[noun\], accusative, plural, feminine
+- “this; he,she,it (pers. pron.).”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**रेवतीः** रेवत्यः धनवत्यः **जीवधन्याः** जीवानां पालयित्र्यः प्रीणयित्र्यो वा **इमाः** ईदृग्भूता आपः **आ** **अग्मन्** अस्मद्यज्ञं प्रत्यागच्छन् । एतज्ज्ञात्वा हे **सखायः** सखिभूता हे **अध्वर्यवः** यूयम् **अपां** **नप्त्रा** वृष्टिकर्मस्वधिकृतेन देवेन सह  **संविदानाः** संमन्त्रयमाणाः **एनाः** एता अपः। **सादयत** स्थापयत । कुत्र सादयाम इति उच्यते । **सोम्यासः** सोमसंपादिनोऽध्वर्यवः यूयं **बर्हिषि** वेद्यामास्तीर्णे कुशमये **नि** **धत्तन** नियमेन स्थापयत ।
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“These opulent and life-sustaining (waters) have come (to my sacrifice); friendly priests, make them sitdown; plural ce them on the sacred grass, you offerers of the **Soma**, conversing with the grandson of the waters.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+They have now arrived here, rich and bringing spoils for the living. O  Adhvaryus, comrades, make them take their seats;  
+set these down on the ritual grass, you (comrades) in soma, these who  are allied with the Child of the Waters.1424 X.31
+</details>
+
+<details><summary>+Griffith</summary>
+
+Rich, they are come with wealth for living beings, O friends, Adhvaryus, seat them in their places.  
+     Seat them on holy grass, ye Soma-bringers in harmony with the Offspring of the Waters.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Diese reichen Wasser, die den Lebenden Glück bringen, sind jetzt angekommen. Setzet sie hin, Adhvaryu´s, ihr Genossen; stellet sie auf das Barhis, ihr Somawürdigen, im Einvernehmen mit Apam Napat!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Sie sind genaht, die reichen, lebenskräft'gen; Gehülfen, Freunde! lasst sie hier sich setzen; Ihr Somapriester, setzet auf die Streu sie, sie in Gemeinschaft mit dem Sohn der Wasser.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Прибыли эти богатые (воды), дающие счастье живым.  
+О адхварью, усаживайте (их), друзья!  
+Устраивайте на жертвенной соломе, о достойные сомы,  
+Этих единодушных с Апам Напатом.
+</details>

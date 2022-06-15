@@ -1,0 +1,139 @@
++++
+title = "002"
+devataa = "अग्निः"
+RShiH = "भरद्वाजो बार्हस्पत्यः"
+ChandaH = "अनुष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+तुवां꣡ हि꣡ ष्मा चर्षण꣡यो  
+यज्ञे꣡भिर् गीर्भि꣡र् ई꣡ळते  
+त्वां꣡ वाजी꣡ याति अवृको꣡  
+रजस्तू꣡र् विश्व꣡चर्षणिः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वाम् । हि । स्म॒ । च॒र्ष॒णयः॑ । य॒ज्ञेभिः॑ । गीः॒ऽभिः । ईळ॑ते ।  
+त्वाम् । वा॒जी । या॒ति॒ । अ॒वृ॒कः । र॒जः॒ऽतूः । वि॒श्वऽच॑र्षणिः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *tvāṃ* ← *tvām* ← *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *ṣmā* ← *sma*
+- \[adverb\]
+------------------------------------------------------------------------
+- *carṣaṇayo* ← *carṣaṇayaḥ* ← *carṣaṇi*
+- \[noun\], nominative, plural, feminine
+- “people.”
+------------------------------------------------------------------------
+- *yajñebhir* ← *yajñebhiḥ* ← *yajña*
+- \[noun\], instrumental, plural, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *gīrbhir* ← *gīrbhiḥ* ← *gir*
+- \[noun\], instrumental, plural, feminine
+- “hymn; praise; voice; words; invocation; command; statement; cry;
+    language.”
+------------------------------------------------------------------------
+- *īﾱate* ← *īḍ*
+- \[verb\], plural, Present indikative
+- “praise; invite; raise.”
+------------------------------------------------------------------------
+- *tvāṃ* ← *tvām* ← *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *vājī* ← *vājin*
+- \[noun\], nominative, singular, masculine
+- “horse; bird; seven; hero; achiever; aphrodisiac.”
+------------------------------------------------------------------------
+- *yāty* ← *yāti* ← *yā*
+- \[verb\], singular, Present indikative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *avṛko* ← *avṛkaḥ* ← *avṛka*
+- \[noun\], nominative, singular, masculine
+- “protective; safe.”
+------------------------------------------------------------------------
+- *rajastūr* ← *rajastur*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *viśvacarṣaṇiḥ* ← *viśvacarṣaṇi*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे अग्ने **त्वां** हि **स्म** त्वामेव खलु **चर्षणयः** मनुष्याः **यज्ञेभिः** यज्ञसाधनैर्हविभिः **गीर्भिः** स्तुतिभिः **ईळते** स्तुवन्ति । अपि च **वाजी** । वाजो गमनम् । तद्वान् सूर्यः **त्वां** **याति** गच्छति । प्रविशतीत्यर्थः । तथा च श्रूयते – 'अग्निं वावादित्यः सायं प्रविशति तस्मादग्निर्दूरान्नक्तं ददृशे ' (तै. ब्रा. २.१.२.९ ) इति । वाजिशब्दश्च सूर्यवाचकत्वेन क्वचित् श्रूयते - अग्निर्वायुः सूर्यस्ते वै वाजिनः' (तै.. ब्रा. १. ६. ३. ९) इति ‘वायुः सप्तिरादित्यो वाजी' ( तै. ब्रा, १.३.६ ) इति च । कीदृशो वाजी । **अवृकः** हिंसकरहितः **रजस्तूः** । उदकमत्र रज उच्यते । तस्य वृष्टिलक्षणस्य प्रेरयिता । यद्वा । रजसां लोकानां तरिता गन्ता **विश्वचर्षणिः** सर्वस्य द्रष्टा ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Men verily worship you with sacrifice and with praises; the inoffensive sun, the sender of rain, the beholder of the universe, proceeds to you.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+It is said that the sun, at the evening enters into fire, therefore the latter is visible throughout the night; the term for sun in the text is, **vājin**, he who goes swiftly; this is an appellative also of fire and wind: Agnirvāyuḥ **sūryas** te vai **vājinaḥ**, fire, wind, the sun, they verily are **vājins** (**Taittirīya** **Brāhmaṇa** 1.6.3.9)
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+It is you then that the boundaried domains reverently invoke, with  sacrifices and with hymns;  
+to you drives the prizewinning (horse), avoiding the wolf, crossing (the  mid)space, the one common to all the boundaried domains.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+I doubt that the vājín- of the 2nd hemistich is just any horse. It could be a mythical horse: Dadhikrā is called vājín- viśvákṛṣṭi- “a prize-winner belonging to all communities” in IV.38.2. Or a god, perhaps Soma, Indra, or the Sun.
+</details>
+
+<details><summary>+Griffith</summary>
+
+For, verily, men pray to thee with sacrifices and with songs.  
+     To thee the Friendly Courser, seen of all, comes speeding through the air.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Denn dich rufen die Leute mit Opfergebeten und Lobreden an, zu dir kommt das Siegesroß, das dem Wolf entgeht und weite Strecken zurücklegt, das in allen Landen bekannt ist.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Denn dich ja ehrt der Menschen Schar mit Liedern und mit Opfern hoch; Zu dir geht hin das Segensross, die, Luft durchdringend, allen hold.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Ведь это тебя народы  
+Призывают жертвами и песнями.  
+К тебе несется конь, завоевывающий награды, надежный,  
+Пересекающий пространство, принадлежащий всем народам.
+</details>

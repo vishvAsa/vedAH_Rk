@@ -1,0 +1,193 @@
++++
+title = "004"
+devataa = "इन्द्रः"
+RShiH = "गाथिनो विश्वामित्रः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+जाये꣡द् अ꣡स्तम् मघवन् से꣡द् उ यो꣡निस्  
+त꣡द् इ꣡त् त्वा युक्ता꣡ ह꣡रयो वहन्तु  
+यदा꣡ कदा꣡ च सुन꣡वाम सो꣡मम्  
+अग्नि꣡ष् ट्वा दूतो꣡ धनुवाति अ꣡छ
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+जा॒या । इत् । अस्त॑म् । म॒घ॒ऽव॒न् । सा । इत् । ऊं॒ इति॑ । योनिः॑ । तत् । इत् । त्वा॒ । यु॒क्ताः । हर॑यः । व॒ह॒न्तु॒ ।  
+य॒दा । क॒दा । च॒ । सु॒नवा॑म । सोम॑म् । अ॒ग्निः । त्वा॒ । दू॒तः । ध॒न्वा॒ति॒ । अच्छ॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *jāyed* ← *jāyā*
+- \[noun\], nominative, singular, feminine
+- “wife; jāyā \[word\].”
+------------------------------------------------------------------------
+- *jāyed* ← *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *astam* ← *asta*
+- \[noun\], nominative, singular, neuter
+- “home.”
+------------------------------------------------------------------------
+- *maghavan*
+- \[noun\], vocative, singular, masculine
+- “Indra; maghavan \[word\].”
+------------------------------------------------------------------------
+- *sed* ← *sā* ← *tad*
+- \[noun\], nominative, singular, feminine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *sed* ← *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *yonis* ← *yoniḥ* ← *yoni*
+- \[noun\], nominative, singular, feminine
+- “vagina; vulva; uterus; beginning; origin; reincarnation;
+    birthplace; family; production; cause; race; grain; raw material;
+    birth; kind; caste; kinship; bed.”
+------------------------------------------------------------------------
+- *tad* ← *tat* ← *tad*
+- \[noun\], accusative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *it* ← *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *tvā* ← *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *yuktā* ← *yuktāḥ* ← *yuj*
+- \[verb noun\], nominative, plural
+- “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
+    administer; compound; affect; add; concentrate; unite; join;
+    prosecute; combine; supply; compound; attach to; appoint; fill;
+    process; mobilize; mount; complement; eat; join; treat; coincide;
+    affect; challenge.”
+------------------------------------------------------------------------
+- *harayo* ← *harayaḥ* ← *hari*
+- \[noun\], nominative, plural, masculine
+- “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
+    haritāla; Hari; snake; frog.”
+------------------------------------------------------------------------
+- *vahantu* ← *vah*
+- \[verb\], plural, Present imperative
+- “transport; bring; marry; run; drive; vāhay; drive; run; pull;
+    nirvāpay; blow; transport; discharge; assume; remove.”
+------------------------------------------------------------------------
+- *yadā*
+- \[adverb\]
+- “once \[when\]; if.”
+------------------------------------------------------------------------
+- *kadā*
+- \[adverb\]
+- “when; kadā \[word\].”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *sunavāma* ← *su*
+- \[verb\], plural, Present imperative
+- “press out; su.”
+------------------------------------------------------------------------
+- *somam* ← *soma*
+- \[noun\], accusative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *agniṣ* ← *agniḥ* ← *agni*
+- \[noun\], nominative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *ṭvā* ← *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *dūto* ← *dūtaḥ* ← *dūta*
+- \[noun\], nominative, singular, masculine
+- “messenger; emissary; dūta \[word\].”
+------------------------------------------------------------------------
+- *dhanvāty* ← *dhanvāti* ← *dhanv*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “run.”
+------------------------------------------------------------------------
+- *accha* ← *acchā*
+- \[adverb\]
+- “towards; accha \[prefix\].”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **मघवन्** धनवन्निन्द्र **अस्तम्** । अस्यन्ते क्षिप्यन्ते पदार्था अत्रेत्यस्तं गृहम् । **जायेत्** जायैव गृहं भवति । न गृहं गृहमित्याहुर्गृहिणी गृहमुच्यते' इति स्मृतेः । तथा **सेत्** सा जायैव **योनिः** पुरुषस्य मिश्रणस्थानम्। **उ** प्रसिद्ध्यर्थः। तस्मात् **तदित्** तत्र गृहे एव **युक्ताः** रथे योजिताः **हरयः** अश्वाः **त्वा** त्वां **वहन्तु** । वयं तु **यदा** **कदा** **च** त्वदर्थं **सोमं** **सुनवाम** अभिषुतं करवाम तदास्माभिः प्रहितः **दूतः** **अग्निः** **त्वा** त्वाम् **अच्छ** आभिमुख्येन **धन्वाति** गच्छेत् ॥ अस्तम् । असु क्षेपणे'।' असिहसिमृग्रिण्वामि°' इत्यादिना तन्प्रत्ययः । नित्वात् आद्युदात्तः । सुनवाम । षुञ् अभिषवे' इत्यस्य लोटि रूपम् । यद्वृत्तयोगादनिघातः । त्वा । ‘युष्मत्तत्ततक्षुष्वन्तःपादम्' इति संहितायां षत्वम् । धन्वाति । धवि गत्यर्थः । लेट्याडागमे रूपम् । निघातः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“A man's wife, **Maghavan**, is hiw dwelling; verily she is his plural ce of birth; thither let your horses, harnessed (to your car), convey you; we prepare the **Soma** at the fit season; may **Agni** come as our messenger befor eyou.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+His plural ce of birth: **jāyā** id astam sedu **yoniḥ**: astam = gṛham (gṛhiṇī gṛham ucyate iti smṛteḥ; na gṛham gṛhamisyāhurgṛhi.ṇo gṛhamucyate)
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Just the wife is the home; she is the womb. Let your yoked fallow bays  convey you to it.  
+Whenever we will press soma, Agni the messenger will run to you.
+</details>
+
+<details><summary>+Griffith</summary>
+
+A wife, O Maghavan is home and dwelling: so let thy Bay Steeds yoked convey thee hither.  
+     Whenever we press out for thee the Soma, let Agni as our Herald speed to call thee.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Die Frau ist das Heim, o Gabenreicher, sie ist der Schoß; dahin sollen dich die angeschirrten Falben fahren. So oft wir Soma pressen werden, soll Agni als Bote zu dir eilen.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Die Frau ist Heimat, sie der Schooss, o Indra; drum mögen dich geschirrt die Füchse fahren; Zu welcher Zeit wir beid' auch Soma pressen, so läuft als Bote immer zu dir Agni.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Ведь жена – это дом, о щедрый, и она лоно.  
+Туда пусть и привезут тебя запряженные буланые кони!  
+Когда бы мы ни выжимали сому,  
+Пусть Агни помчится к тебе вестником!
+</details>

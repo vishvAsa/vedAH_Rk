@@ -1,0 +1,154 @@
++++
+title = "025"
+devataa = "इन्द्रः"
+RShiH = "वसिष्ठः"
+ChandaH = "बृहती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+प꣡रा णुदस्व मघवन्न् अमि꣡त्रान्  
+सुवे꣡दा नो व꣡सू कृधि  
+अस्मा꣡कम् बोधि अविता꣡ महाधने꣡  
+भ꣡वा वृधः꣡ स꣡खीना᳐म्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M;; repeated line  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+परा॑ । नु॒द॒स्व॒ । म॒घ॒ऽव॒न् । अ॒मित्रा॑न् । सु॒ऽवेदा॑ । नः॒ । वसु॑ । कृ॒धि॒ ।  
+अ॒स्माक॑म् । बो॒धि॒ । अ॒वि॒ता । म॒हा॒ऽध॒ने । भव॑ । वृ॒धः । सखी॑नाम् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *parā*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *ṇudasva* ← *nudasva* ← *nud*
+- \[verb\], singular, Present imperative
+- “push; propel; expel; push; move.”
+------------------------------------------------------------------------
+- *maghavann* ← *maghavan*
+- \[noun\], vocative, singular, masculine
+- “Indra; maghavan \[word\].”
+------------------------------------------------------------------------
+- *amitrān* ← *amitra*
+- \[noun\], accusative, plural, masculine
+- “enemy; foe.”
+------------------------------------------------------------------------
+- *suvedā* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suvedā* ← *vedā* ← *veda*
+- \[noun\], accusative, plural, neuter
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *vasū* ← *vasu*
+- \[noun\], accusative, plural, neuter
+- “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
+------------------------------------------------------------------------
+- *kṛdhi* ← *kṛ*
+- \[verb\], singular, Aorist imperative
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *asmākam* ← *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *bodhy* ← *bodhi* ← *bhū*
+- \[verb\], singular, Aorist imperative
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+------------------------------------------------------------------------
+- *avitā* ← *av*
+- \[verb\], singular, periphrast. future
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *mahādhane* ← *mahādhana*
+- \[noun\], locative, singular, neuter
+------------------------------------------------------------------------
+- *bhavā* ← *bhava* ← *bhū*
+- \[verb\], singular, Present imperative
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+------------------------------------------------------------------------
+- *vṛdhaḥ* ← *vṛdha*
+- \[noun\], nominative, singular, masculine
+- “increasing; promotive.”
+------------------------------------------------------------------------
+- *sakhīnām* ← *sakhi*
+- \[noun\], genitive, plural, masculine
+- “friend; companion; sakhi \[word\].”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **मघवन्** **परा** पराचीनान् **अमित्रान्** शत्रून् **नुदस्व** प्रेरय । **नः** अस्मभ्यं **वसु** वसूनि **सुवेदा** सुलभानि **कृधि** कुरु । **महाधने** संग्रामे। ‘वाजसातौ महाधने' इति संग्रामनामसु पाठात् । **सखीनां** स्तोतॄणाम् **अस्माकं** वसिष्ठानाम् **अविता** रक्षिता **बोधि** भव । **वृधः** वर्धयिता च भव ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Drive away, **Maghavan**, our enemies; render riches easy of acquisition; be our preserver in war; be theaugmenter of (the prosperity) of (your) friends.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Thrust away the foes, bounteous one; make goods easy for us to find. Become a helper for us in (the contest for) great stakes; become a  
+strengthener of our comrades.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Drive thou away our enemies, O Maghavan: make riches easy to be won.  
+     Be thou our good Protector in the strife for spoil: Cherisher of our friends be thou.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Vertreibe, o Gabenreicher, die Feinde, mach die Schätze für uns leicht zu erlangen; sei unser Helfer in dem großen Kampfe, sei der Förderer der Genossen!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+O stosse fort der Feinde Schar, o mächtiger, macht leicht erreichbar uns das Gut; Sei uns ein Helfer in dem grossen Kampfgewühl, sei deiner Freunde Förderer.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Прочь оттолкни недругов, о щедрый!  
+Сделай для нас блага легкодоступными!  
+Нашим помощником будь, когда ставка велика!  
+Будь подкрепителем товарищей (наших)!
+</details>

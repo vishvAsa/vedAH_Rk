@@ -1,0 +1,176 @@
++++
+title = "002"
+devataa = "पवमानः सोमः"
+RShiH = "आकृष्टा माषाः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+प्र꣡ ते म꣡दासो मदिरा꣡स आश꣡वो  
+अ꣡सृक्षत र꣡थियासो य꣡था पृ꣡थक्  
+धेनु꣡र् न꣡ वत्स꣡म् प꣡यसाभि꣡ वज्रि꣡णम्  
+इ꣡न्द्रम् इ꣡न्दवो म꣡धुमन्त ऊर्म꣡यः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र । ते॒ । मदा॑सः । म॒दि॒रासः॑ । आ॒शवः॑ । असृ॑क्षत । रथ्या॑सः । यथा॑ । पृथ॑क् ।  
+धे॒नुः । न । व॒त्सम् । पय॑सा । अ॒भि । व॒ज्रिण॑म् । इन्द्र॑म् । इन्द॑वः । मधु॑ऽमन्तः । ऊ॒र्मयः॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *te* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *madāso* ← *madāsaḥ* ← *mada*
+- \[noun\], nominative, plural, masculine
+- “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
+    musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
+    vivification.”
+------------------------------------------------------------------------
+- *madirāsa* ← *madirāsaḥ* ← *madira*
+- \[noun\], nominative, plural, masculine
+- “intoxicant.”
+------------------------------------------------------------------------
+- *āśavo* ← *āśavaḥ* ← *āśu*
+- \[noun\], nominative, plural, masculine
+- “quick; fast; immediate; agile.”
+------------------------------------------------------------------------
+- *'sṛkṣata* ← *asṛkṣata* ← *sṛj*
+- \[verb\], plural, Athematic s aor. (Ind.)
+- “create; shoot; discharge; free; cause; throw; emit; send; produce;
+    use; be born; make.”
+------------------------------------------------------------------------
+- *rathyāso* ← *rathyāsaḥ* ← *rathya*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *yathā*
+- \[adverb\]
+- “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
+------------------------------------------------------------------------
+- *pṛthak*
+- \[adverb\]
+- “individually; apart; each; by the piece; independently; pṛthak
+    \[word\].”
+------------------------------------------------------------------------
+- *dhenur* ← *dhenuḥ* ← *dhenu*
+- \[noun\], nominative, singular, feminine
+- “cow; dhenu \[word\]; milk.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *vatsam* ← *vatsa*
+- \[noun\], accusative, singular, masculine
+- “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
+    son; male child.”
+------------------------------------------------------------------------
+- *payasābhi* ← *payasā* ← *payas*
+- \[noun\], instrumental, singular, neuter
+- “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
+------------------------------------------------------------------------
+- *payasābhi* ← *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *vajriṇam* ← *vajrin*
+- \[noun\], accusative, singular, masculine
+- “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
+------------------------------------------------------------------------
+- *indram* ← *indra*
+- \[noun\], accusative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *indavo* ← *indavaḥ* ← *indu*
+- \[noun\], nominative, plural, masculine
+- “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
+    juice.”
+------------------------------------------------------------------------
+- *madhumanta* ← *madhumantaḥ* ← *madhumat*
+- \[noun\], nominative, plural, masculine
+- “sweet; honeyed; sweet; pleasant.”
+------------------------------------------------------------------------
+- *ūrmayaḥ* ← *ūrmi*
+- \[noun\], nominative, plural, masculine
+- “wave; billow.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**प्र** **असृक्षत** प्रसृज्यन्ते **ते** तव **मदिरासः** मदकराः **आशवः** व्याप्ताः **मदासः** मदा रसाः । क इव । **रथ्यासः** रथ्या अश्वाः ते **यथा** तथा **पृथक्** प्रसृज्यन्ते । ते **मधुमन्तः** माधुर्योपेताः **ऊर्मयः** प्रवृद्धरसाः **इन्दवः** सोमाः **धेनुः** **पयसा** **वत्सम्** इव स्वरसेन **वज्रिणमिन्द्रम्** **अभि** गच्छन्ति ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Your exhilarating, all-pervading juices are let loose separately like chariot-horses; the sweet-flavoured (**Soma**) waves (go) to **Indra** the wilder of the thunderbolt as a cow with her milk to the calf.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Forth have your swift, exhilarating, invigorating drinks surged, like  chariot-horses, each separately.  
+As a milk-cow (goes) to her calf with milk, the drops, the honeyed  
+waves (go) to Indra, possessor of the mace.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+It seems a little odd to say that chariot horses go “each separately,” since one would think that the horses would be attached to the same chariot and efficient movement would require them to pull together. But almost the same phrase occurs in X.91.7 … rathyò yáthā pṛ́thak, though there referring to charioteers, and so the words must belong together. Perhaps it refers to separate chariots, each with its own set of horses—or that each horse in a chariot team has its own place in harness and each individually contributes to the speed of the whole?
+
+
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/01-03.md">
+<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+
+The first two vss. of this tṛca begin identically (prá te), and all three vss.
+
+concern the swift journey of the soma drinks, which is compared to that of swift animals. Vss. 1 and 3 share the same verb (√ṛṣ: 1b arṣanti, 3a arṣa; ásṛkṣata in 2b is semantically similar) and the same goal, the kóśa- or ‘cask’, while vss. 1 and 2 both contain āś́vaḥ ‘swift’. Of course none of these features is unusual in the soma corpus, so they are not strong evidence for tṛca unity.
+
+</details>
+</div>
+</details>
+
+<details><summary>+Griffith</summary>
+
+As rapid chariot-steeds, so turned in several ways have thine exhilarating juices darted forth,  
+     Soma-drops rich in meath, waves, to the Thunder-armed, to Indra, like milch-kine who seek their calf with milk.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Deine berauschenden raschen Rauschtränke haben sich einzeln in Lauf gesetzt wie Wagenrosse. Wie die Kuh mit der Milch zum Kalbe kommen die Säfte, die süßen Wogen zum Keulenträger Indra.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Ergossen haben deine raschen Säfte sich, die lustigen wie Wagenrosse weit und breit, Des Indutrankes honigsüsse Wellen hin zum Blitzer Indra, wie zum Kalb mit Milch die Kuh.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

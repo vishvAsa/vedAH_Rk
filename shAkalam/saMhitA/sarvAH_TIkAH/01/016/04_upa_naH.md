@@ -1,0 +1,128 @@
++++
+title = "004"
+devataa = "इन्द्रः"
+RShiH = "मेधातिथिः काण्वः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+उ꣡प नः सुत꣡म् आ꣡ गहि  
+ह꣡रिभिर् इन्द्र केशि꣡भिः  
+सुते꣡ हि꣡ त्वा ह꣡वामहे
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उप॑ । नः॒ । सु॒तम् । आ । ग॒हि॒ । हरि॑ऽभिः । इ॒न्द्र॒ । के॒शिऽभिः॑ ।  
+सु॒ते । हि । त्वा॒ । हवा॑महे ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *naḥ* ← *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *sutam* ← *suta*
+- \[noun\], accusative, singular, masculine
+- “Soma.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *gahi* ← *gam*
+- \[verb\], singular, Aorist imperative
+- “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
+    leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
+    get; come; die; drain; spread; transform; happen; discharge; ride;
+    to be located; run; detect; refer; go; shall; drive.”
+------------------------------------------------------------------------
+- *haribhir* ← *haribhiḥ* ← *hari*
+- \[noun\], instrumental, plural, masculine
+- “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
+    haritāla; Hari; snake; frog.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *keśibhiḥ* ← *keśin*
+- \[noun\], instrumental, plural, masculine
+- “haired.”
+------------------------------------------------------------------------
+- *sute* ← *suta*
+- \[noun\], locative, singular, masculine
+- “Soma.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *tvā* ← *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *havāmahe* ← *hvā*
+- \[verb\], plural, Present indikative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **इन्द्र** **केशिभिः** केसरयुक्तैः **हरिभिः** अश्वैस्त्वं **नः** अस्मदीयं सुतम् अभिषुतं सोमं प्रति **उप** समीपे **आ** **गहि** आगच्छ । **सुते** अभिषुते सोमे निमित्तभूते सति यस्मात् कारणात् **त्वा** **हवामहे** त्वामाह्वयामः तस्मादागच्छेति पूर्वत्रान्वयः ॥ गहि । गमेर्लोटः सेर्हिः। शपः' इत्यनुवृत्तौ ‘बहुलं छन्दसि ' इति शपो लुक् । ' इषुगमियमां छः ' ( पा. सू. ७. ३. ७७ ) इति छत्वं न भवति; ‘न लुमताङ्गस्य' इति प्रतिषेधात् ।' अनुदात्तोपदेश° ' ( पा. सू. ६. ४. ३७ ) इत्यादिना अनुनासिकलोपः । तस्य असिद्धवदत्रा भात् ' ( पा. सू. ६. ४. २२ ) इत्यसिद्धत्वात्  ‘ अतो हेः' इति हेर्लुक् न भवति । केशिभिः ।  ‘ क्लिशेरन लो लोपश्च ' ( उ. सू. ५, ७११ ) इति अन् । मत्वर्थीय इनिः । प्रत्ययस्वरः । हवामहे । 'ह्वः' इत्यनुवृत्तौ ‘बहुलं छन्दसि' इति संप्रसारणम् । शपः पित्त्वादनुदात्तत्वम् । तिङश्च लसार्वधातुकस्वरेण धातुस्वर एव ।  ‘ तिङ्ङतिङः' इति न निघात; • हि च । इति प्रतिषेधात् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Come, **Indra**, to our libation with our long-maned steeds; the libation being poured out, we invoke you.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Come up here to our pressed soma, Indra, with your shaggy fallow bays, for when it is pressed we invoke you.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Come hither, with thy long-maned Steeds, O Indra, to the draught we pour  
+     We call thee when the juice is shed.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Komm, Indra, her zu unserem Preßtrank mit den mähnigen Falben, denn wir laden dich zum Preßtrank.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Komm, Indra, her zu unserm Trank mit dem bemähnten Füchsepaar; Dich rufen wir beim Somasaft.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Примчись же к нашему выжатому (соме),  
+О Индра, на пышногривых буланых конях –  
+Ведь мы приглашаем тебя к выжатому (соме)!
+</details>

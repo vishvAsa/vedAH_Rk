@@ -1,0 +1,130 @@
++++
+title = "006"
+devataa = "पवमानः सोमः"
+RShiH = "असितः काश्यपो देवलो वा"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+प्र꣡ वा꣡चम् इ꣡न्दुर् इष्यति  
+समुद्र꣡स्या꣡धि विष्ट꣡पि  
+जि꣡न्वन् को꣡शम् मधुश्चु꣡तम्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र । वाच॑म् । इन्दुः॑ । इ॒ष्य॒ति॒ । स॒मु॒द्रस्य॑ । अधि॑ । वि॒ष्टपि॑ ।  
+जिन्व॑न् । कोश॑म् । म॒धु॒ऽश्चुत॑म् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *vācam* ← *vāc*
+- \[noun\], accusative, singular, feminine
+- “speech; statement; voice; voice; speech; language; vāc \[word\];
+    word; literary composition; conversation; sound; Sarasvati; cry;
+    assurance; spell.”
+------------------------------------------------------------------------
+- *indur* ← *induḥ* ← *indu*
+- \[noun\], nominative, singular, masculine
+- “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
+    juice.”
+------------------------------------------------------------------------
+- *iṣyati* ← *iṣ*
+- \[verb\], singular, Present indikative
+- “desire; recommend; approve; seek; call; search; try; prefer; love;
+    commend; assent; permit; choose.”
+------------------------------------------------------------------------
+- *samudrasyādhi* ← *samudrasya* ← *samudra*
+- \[noun\], genitive, singular, masculine
+- “ocean; Samudra; sea; samudra \[word\]; four.”
+------------------------------------------------------------------------
+- *samudrasyādhi* ← *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+------------------------------------------------------------------------
+- *viṣṭapi* ← *viṣṭap*
+- \[noun\], locative, singular, feminine
+------------------------------------------------------------------------
+- *jinvan* ← *jinv*
+- \[verb noun\], nominative, singular
+- “enliven; animate.”
+------------------------------------------------------------------------
+- *kośam* ← *kośa*
+- \[noun\], accusative, singular, masculine
+- “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
+    treasure; calyx; container; bucket; box.”
+------------------------------------------------------------------------
+- *madhuścutam* ← *madhuścut*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**इन्दुः** सोमः **मधुश्चुतं** मधुनश्च्यावकं **कोशं** मेघम् । असुरः कोशः' इति मेघनामसु पाठात् । **जिन्वन्** प्रीणयन् **समुद्रस्य** अन्तरिक्षस्य **अधि** **विष्टपि** विष्टब्धे स्थाने **वाचं** **प्र** **इष्यति** प्रेरयति । पवित्रे पूयमानः शब्दं करोतीत्यर्थः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Indu** emits a sound, abiding in the firmament of the sky, and delighting the nectar-shedding cloud.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+**Samudra** and **kośa** = the water into which the **Soma** drops and the droṇakalaśa vessel
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+The drop sends forth his speech upon the surface of the sea,  
+quickening the cask dripping with honey.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+The índu- here “sends forth his speech” (prá vā́cam … iṣyati), which supports an animate reading of índu- in the previous vs. Needless to say, Lüders has a heavenly interpr.: índu is the heavenly soma, the sea is the heavenly sea, and the kóśa- is the “Urquell im Himmel.” In the published introduction. I interpr. the sea as the soma in the vessel or the mixing water.
+
+And the speech is presumably the speech of the ritual participants, prompted by the action of pressing the soma.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Indu sends forth a voice on high to regions of the sea of air,  
+     Shaking the vase that drops with meath.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Der Saft entsendet seine Stimme auf der Höhe des Meeres, indem er die von Süßem überfließende Kufe belebt;
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Und auf des Meeres Fläche hin, lässt Indu schallen seinen Sang, Erregt den methgefüllten Trog.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Сок (сомы) подает голос,  
+(Достигающий) поверхности океана,  
+Оживляя сосуд, сочащийся сладостью.
+</details>

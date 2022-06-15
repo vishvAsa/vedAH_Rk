@@ -1,0 +1,130 @@
++++
+title = "007"
+devataa = "पवमानः सोमः"
+RShiH = "असितः काश्यपो देवलो वा"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अभि꣡ क्षि꣡पः स꣡म् अग्मत  
+मर्ज꣡यन्तीर् इष꣡स् प꣡तिम्  
+पृष्ठा꣡ गृभ्णत वाजि꣡नः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒भि । क्षिपः॑ । सम् । अ॒ग्म॒त॒ । म॒र्जय॑न्तीः । इ॒षः । पति॑म् ।  
+पृ॒ष्ठा । गृ॒भ्ण॒त॒ । वा॒जिनः॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *kṣipaḥ* ← *kṣip*
+- \[noun\], nominative, plural, feminine
+- “finger.”
+------------------------------------------------------------------------
+- *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *agmata* ← *gam*
+- \[verb\], plural, Root aorist (Ind.)
+- “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
+    leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
+    get; come; die; drain; spread; transform; happen; discharge; ride;
+    to be located; run; detect; refer; go; shall; drive.”
+------------------------------------------------------------------------
+- *marjayantīr* ← *marjayantīḥ* ← *marjay* ← *√mṛj*
+- \[verb noun\], nominative, plural
+------------------------------------------------------------------------
+- *iṣas* ← *iṣaḥ* ← *iṣ*
+- \[noun\], genitive, singular, feminine
+- “refreshment; enjoyment; stores.”
+------------------------------------------------------------------------
+- *patim* ← *pati*
+- \[noun\], accusative, singular, masculine
+- “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
+    commanding officer; leader; owner; mayor; lord.”
+------------------------------------------------------------------------
+- *pṛṣṭhā* ← *pṛṣṭha*
+- \[noun\], accusative, plural, neuter
+- “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
+    \[word\]; back; roof.”
+------------------------------------------------------------------------
+- *gṛbhṇata* ← *grah*
+- \[verb\], plural, Present injunctive
+- “take; grasp; take out; extract; perceive; pick; assume; include;
+    accept; understand; use; learn; possess; keep; choose; accept;
+    afflict; suck; paralyze; mention; mistake; eat; wear; embrace; fill
+    into; capture; eclipse; get; collect; hand down; marry; heed;
+    touch.”
+------------------------------------------------------------------------
+- *vājinaḥ* ← *vājin*
+- \[noun\], genitive, singular, masculine
+- “horse; bird; seven; hero; achiever; aphrodisiac.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**क्षिपः** अङ्गुलयः **मर्जयन्तीः** अभिमृशन्त्यः **इषस्पतिम्** अन्नानां स्वामिनं सोमम् **अभि** **समग्मत** अभिसंगच्छन्ते । संगत्य च **वाजिनः** बलवतः सोमस्य **पृष्ठा** पृष्ठानि **गृभ्णत** गृह्णन्त्यभिषवाङगुलयः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The fingers combine expressing the lord of food (i.e., **Soma**), and they grasp the back of the vigorous (Soma).”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+The fingers have come together to him, grooming the lord of  
+refreshment.  
+They have grasped the back of the prizewinning horse.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+Here the fingers (kṣípaḥ) are named directly, after the metaphors of 2ab and 5a; the verb √mṛj ‘groom’ recurs from 5b.
+</details>
+
+<details><summary>+Griffith</summary>
+
+The nimble fingers have approached, adorning him the Lord of Strength:  
+     They grasp the vigorous Courser's back.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Die Finger vereinigten sich, die den Herrn der Labe putzen; sie fassen des Preisrenners Rücken.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Es nahten sich die Finger ihm, den Herrn des Trankes reinigend, Des Rosses Rücken fassten sie.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Соединились пальцы (жреца),  
+Начищающие господина услад.  
+Они хватают за спины завоевателя наград.
+</details>

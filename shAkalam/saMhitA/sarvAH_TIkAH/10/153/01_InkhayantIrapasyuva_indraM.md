@@ -1,0 +1,113 @@
++++
+title = "001"
+devataa = "इन्द्रः"
+RShiH = "इन्द्रमातरो देवजामयः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+ईङ्ख꣡यन्तीर् अपस्यु꣡व  
+इ꣡न्द्रं जात꣡म् उ꣡पासते  
+भेजाना꣡सः सुवी꣡रियम्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+popular  
+popular  
+popular
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ई॒ङ्खय॑न्तीः । अ॒प॒स्युवः॑ । इन्द्र॑म् । जा॒तम् । उप॑ । आ॒स॒ते॒ ।  
+भे॒जा॒नासः॑ । सु॒ऽवीर्य॑म् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *īṅkhayantīr* ← *īṅkhayantīḥ* ← *īṅkhay* ← *√īṅkh*
+- \[verb noun\], nominative, plural
+------------------------------------------------------------------------
+- *apasyuva* ← *apasyuvaḥ* ← *apasyu*
+- \[noun\], nominative, plural, feminine
+- “active.”
+------------------------------------------------------------------------
+- *indraṃ* ← *indram* ← *indra*
+- \[noun\], accusative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *jātam* ← *jan*
+- \[verb noun\], accusative, singular
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+------------------------------------------------------------------------
+- *upāsate* ← *upās* ← *√ās*
+- \[verb\], singular, Present indikative
+- “worship; attend; serve; get; approach; obtain; perform; expect.”
+------------------------------------------------------------------------
+- *bhejānāsaḥ* ← *bhaj*
+- \[verb noun\], nominative, plural
+- “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
+    one's share; partake; share; get; approach; love; use.”
+------------------------------------------------------------------------
+- *suvīryam* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suvīryam* ← *vīryam* ← *vīrya*
+- \[noun\], accusative, singular, masculine
+- “potency; vīrya; heroism; potency; strength; semen; power; deed;
+    active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
+    virility; manfulness; jewel; force.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**ईङ्खयन्तीः** गच्छन्त्यः स्तुत्यादिभिरिन्द्रं प्राप्नुवत्यः **अपस्युवः** अपः कर्म आत्मन इच्छन्त्य इन्द्रमातरोऽस्य सूक्तस्य द्रष्ट्र्यः **जातं** प्रादुर्भूतम् **इन्द्रम्** **उपासते** परिचरन्ति । **सुवीर्यं** शोभनवीर्योपेतं धनं च **भेजानासः** । तस्मादिन्द्रात् संभक्तवत्यो भवन्ति ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Desirous of fulfilling their functions (the mothers of **Indra**) approaching, worship him as soon as born,and enjoy (affluence) together with **male** progeny.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Rocking (him), the busy women attend upon the new-born Indra,  
+receiving (him) as their share of the abundance of heroes.
+</details>
+
+<details><summary>+Griffith</summary>
+
+SWAYING about, the Active Ones came nigh to Indra at his birth,  
+     And shared his great heroic might.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Wiegend warten die geschäftigen Frauen den neu geborenen Indra, da sie die Pflege seiner Heldenkraft übernommen haben.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Um Indra sass, als er erzeugt, die schaukelnde, werkthät'ge Schar Nachdem sie grosse Kraft erlangt.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Деятельные (женщины,) покачивая  
+Новорожденного Индру, ухаживают (за ним),  
+Став причастными к (его) мужеству.
+</details>

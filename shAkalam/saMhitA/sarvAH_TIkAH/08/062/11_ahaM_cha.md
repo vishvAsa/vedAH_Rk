@@ -1,0 +1,173 @@
++++
+title = "011"
+devataa = "इन्द्रः"
+RShiH = "प्रगाथः काण्वः"
+ChandaH = "पङ्क्तिः"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अहं꣡ च त्वं꣡ च वृत्रहन्  
+सं꣡ युज्याव सनि꣡भ्य आ꣡  
+अरातीवा꣡ चिद् अद्रिवो  
+अ꣡नु नौ शूर मंसते  
+भद्रा꣡ इ꣡न्द्रस्य रात꣡यः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M  
+genre M;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒हम् । च॒ । त्वम् । च॒ । वृ॒त्र॒ऽह॒न् । सम् । यु॒ज्या॒व॒ । स॒निऽभ्यः॑ । आ ।  
+अ॒रा॒ति॒ऽवा । चि॒त् । अ॒द्रि॒ऽवः॒ । अनु॑ । नौ॒ । शू॒र॒ । मं॒स॒ते॒ । भ॒द्राः । इन्द्र॑स्य । रा॒तयः॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *ahaṃ* ← *aham* ← *mad*
+- \[noun\], nominative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *tvaṃ* ← *tvam* ← *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *vṛtrahan*
+- \[noun\], vocative, singular, masculine
+- “Indra.”
+------------------------------------------------------------------------
+- *saṃ* ← *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *yujyāva* ← *yuj*
+- \[verb\], dual, Aorist optative
+- “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
+    administer; compound; affect; add; concentrate; unite; join;
+    prosecute; combine; supply; compound; attach to; appoint; fill;
+    process; mobilize; mount; complement; eat; join; treat; coincide;
+    affect; challenge.”
+------------------------------------------------------------------------
+- *sanibhya* ← *sanibhyaḥ* ← *sani*
+- \[noun\], dative, plural, masculine
+- “gain.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *arātīvā* ← *arātīvan*
+- \[noun\], nominative, singular, masculine
+- “hostile.”
+------------------------------------------------------------------------
+- *cid* ← *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *adrivo* ← *adrivas* ← *adrivat*
+- \[noun\], vocative, singular, masculine
+- “rocky; petrous.”
+------------------------------------------------------------------------
+- *'nu* ← *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *nau* ← *mad*
+- \[noun\], accusative, dual
+- “I; mine.”
+------------------------------------------------------------------------
+- *śūra*
+- \[noun\], vocative, singular, masculine
+- “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
+    warrior; hero; attacker; lentil; wild boar; lion; dog.”
+------------------------------------------------------------------------
+- *maṃsate* ← *man*
+- \[verb\], singular, Aorist conj./subj.
+- “think of; name; believe; teach; honor; deem; recommend; approve;
+    think; define; call; respect; believe; enumerate; understand; see;
+    describe.”
+------------------------------------------------------------------------
+- *bhadrā* ← *bhadrāḥ* ← *bhadra*
+- \[noun\], nominative, plural, feminine
+- “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
+    fine-looking; beautiful.”
+------------------------------------------------------------------------
+- *indrasya* ← *indra*
+- \[noun\], genitive, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *rātayaḥ* ← *rāti*
+- \[noun\], nominative, plural, feminine
+- “gift; bounty; favor.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे वृत्रहन् इन्द्र **त्वं** च **अहं** **च** **सं** **युज्याव** संगतौ भवाव । कियदवधीति उच्यते । **सनिभ्य** **आ** यावता कालेन धनानि लभ्यन्ते तावत्कालम् । **नौ** संगतयोश्चावयोर्हे **अद्रिवः** वज्रवन् इन्द्र **अरातीवा** अदानोऽपि जनस्त्वद्दत्तधनस्य **अनु** **मंसते** अनुमतिं करोति ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“May I and you, slayer of **Vṛtra**, be close to you united until wealth is obtained; hero, wielding thethunderbolt, even the niggard concedes (that our union gives wealth); **Indra**'s gifts are worthy of praise.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+I and you, o Vr̥tra-smasher—let us two yoke ourselves together for  winnings.  
+Even a hostile man, o master of the stones, will yield to the two of us, o  champion.  
+– Auspicious are the gifts of Indra.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+The full specification of the subject of the 1st dual verb sáṃ yujyāva as aháṃ ca tváṃ ca is noteworthy, since generally the subject is reduced by gapping, as in VII.88.3 ā́yád ruhā́va váruṇaś ca nā́vam “When we two, (I) and Varuṇa, mounted the boat …” VIII.34.16 índraś ca dádvahe “We two, (I) and Indra, took …,”
+</details>
+
+<details><summary>+Griffith</summary>
+
+O Vrtra-slayer, thou and I will both combine for winning spoil.  
+     Even malignity will consent, O Bolt-armed Hero, unto us.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Ich und du, Vritratöter, wir wollen uns verbünden zum Gewinn. Auch der Mißgünstige soll uns beiden gewogen sein, o Held, Herr des Preßsteins. - Glückbringend sind Indra´s Gaben.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Wir wollen, Vritratödter, uns zum Sieg verbünden, ich und du; Dann wird, o Held, o Schleuderer, uns weichen jeder Bösewicht; des Indra Gaben bringen Heil.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Я и ты, о убийца Вритры,  
+Хотим обьединиться вдвоем – для достижений.  
+Даже недоброжелатель, о хозяин давильных камней,  
+Будем уступать нам двоим, о герой.  
+Дары Индры несут счастье.
+</details>

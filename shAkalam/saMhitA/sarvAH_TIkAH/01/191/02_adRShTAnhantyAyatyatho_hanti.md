@@ -1,0 +1,144 @@
++++
+title = "002"
+devataa = "अप्तृणसूर्याः"
+RShiH = "अगस्त्यो मैत्रावरुणिः"
+ChandaH = "अनुष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अदृ꣡ष्टान् हन्ति आयती꣡  
+अ꣡थो हन्ति परायती꣡  
+अ꣡थो अवघ्नती꣡ हन्ति  
+अ꣡थो पिनष्टि पिंषती꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)  
+popular;; epic anuṣṭubh (525)
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒दृष्टा॑न् । ह॒न्ति॒ । आ॒ऽय॒ती । अथो॒ इति॑ । ह॒न्ति॒ । प॒रा॒ऽय॒ती ।  
+अथो॒ इति॑ । अ॒व॒ऽघ्न॒ती । ह॒न्ति॒ । अथो॒ इति॑ । पि॒न॒ष्टि॒ । पिं॒ष॒ती ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *adṛṣṭān* ← *adṛṣṭa*
+- \[noun\], accusative, plural, masculine
+- “unobserved; invisible; unseen; unanticipated; unknown.”
+------------------------------------------------------------------------
+- *hanty* ← *hanti* ← *han*
+- \[verb\], singular, Present indikative
+- “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
+    paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
+    affect; strike; hammer; love; obstruct; shoot.”
+------------------------------------------------------------------------
+- *āyaty* ← *āyatī* ← *e* ← *√i*
+- \[verb noun\], nominative, singular
+- “come; travel.”
+------------------------------------------------------------------------
+- *atho*
+- \[adverb\]
+- “now; but; furthermore.”
+------------------------------------------------------------------------
+- *hanti* ← *han*
+- \[verb\], singular, Present indikative
+- “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
+    paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
+    affect; strike; hammer; love; obstruct; shoot.”
+------------------------------------------------------------------------
+- *parāyatī* ← *pare* ← *√i*
+- \[verb noun\], nominative, singular
+- “travel; depart; go; die.”
+------------------------------------------------------------------------
+- *atho*
+- \[adverb\]
+- “now; but; furthermore.”
+------------------------------------------------------------------------
+- *avaghnatī* ← *avahan* ← *√han*
+- \[verb noun\], nominative, singular
+- “thrash; strike.”
+------------------------------------------------------------------------
+- *hanty* ← *hanti* ← *han*
+- \[verb\], singular, Present indikative
+- “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
+    paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
+    affect; strike; hammer; love; obstruct; shoot.”
+------------------------------------------------------------------------
+- *atho*
+- \[adverb\]
+- “now; but; furthermore.”
+------------------------------------------------------------------------
+- *pinaṣṭi* ← *piṣ*
+- \[verb\], singular, Present indikative
+- “grind; knead; paste; crush; press out.”
+------------------------------------------------------------------------
+- *piṃṣatī* ← *piṣ*
+- \[verb noun\], nominative, singular
+- “grind; knead; paste; crush; press out.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+अनेन विषघ्न्योषधिः स्तूयते । **आयती** विषदष्टस्य सकाशमागच्छन्ती विषनिर्हरणसाधनौषधिः **अदृष्टान्** अदृश्यमानान्विषधरान् **हन्ति** हिनस्ति । **अथो** अपि च **परायती** परागच्छन्ती संमार्जनसमये अर्वाक्प्रवृत्ता **हन्ति** नाशयति जलचरविषधरान् । अथो अपि च अवघ्नती । कर्मणि
+कर्तृप्रत्ययः ॥ अवहन्यमानौषधिः स्वगन्धेन हन्ति बहुविषान् । यद्वा । काचिदोषधिर्दंशकान्मारयत्येव । **अथो** अपि च **पिंषती** पेषणकर्त्री दृषत्पिष्यमाणा वौषधिः **पिनष्टि** चूर्णीकरोत्यल्पविषान् । अथवा सर्वेषु वाक्येष्वविशेषेण सर्वविषकारिणां नाश उक्तः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“(the antidote), coming (to the bitten person n), destroys the unseen (venomous creatures); departing (it destroys them); deprived (of substance), it destroys them (by its odour); being ground, it pulverises them.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Deprives of substance: avaghnatī = avahanyamānaauṣadhiḥ, a drug or antidote being destroyed; losing its substance, and reduced to its odour; or it may mean that a certain drug,understood, is destructive of poisonous creatures
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+As she comes, she smashes the no-see-ums, and as she goes away, she  smashes them.  
+Smashing them down, she smashes them, and crushing, she  
+crushes them.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+The feminine nemesis is not identified. As Geldner notes (n. 2), Sāyaṇa. suggests it’s the healing plant, Henry both the plant and dawn.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Coming, it kills the unobserved; it kills them as it goes away,  
+     It kills them as it drives them off, and bruising bruises them to death.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Kommend tötet sie die Unsichtbaren und gehend tötet sie, und sie tötet zerstoßend und sie zermahlt zermalmend.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Die herankommende tödtet das unbemerkte Gewürm und[461] ebenso die fortgehende, die dreschende zerdrischt es, die zermalmende zermalmt es.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Невидимых она убивает приходя,  
+И также убивает уходя,  
+И также низвергаясь убивает,  
+И также давит давя.
+</details>

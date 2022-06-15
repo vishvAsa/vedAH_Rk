@@ -1,0 +1,109 @@
++++
+title = "025"
+devataa = "पवमानः सोमः"
+RShiH = "निध्रुविः काश्यपः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+प꣡वमाना असृक्षत  
+सो꣡माः शुक्रा꣡स इ꣡न्दवः  
+अभि꣡ वि꣡श्वानि का꣡विया
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पव॑मानाः । अ॒सृ॒क्ष॒त॒ । सोमाः॑ । शु॒क्रासः॑ । इन्द॑वः ।  
+अ॒भि । विश्वा॑नि । काव्या॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *pavamānā* ← *pavamānāḥ* ← *pū*
+- \[verb noun\], nominative, plural
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *asṛkṣata* ← *sṛj*
+- \[verb\], plural, Athematic s aor. (Ind.)
+- “create; shoot; discharge; free; cause; throw; emit; send; produce;
+    use; be born; make.”
+------------------------------------------------------------------------
+- *somāḥ* ← *soma*
+- \[noun\], nominative, plural, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *śukrāsa* ← *śukrāsaḥ* ← *śukra*
+- \[noun\], nominative, plural, masculine
+- “bright; clear; white; light; pure.”
+------------------------------------------------------------------------
+- *indavaḥ* ← *indu*
+- \[noun\], nominative, plural, masculine
+- “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
+    juice.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *viśvāni* ← *viśva*
+- \[noun\], accusative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *kāvyā* ← *kāvya*
+- \[noun\], accusative, plural, neuter
+- “Uśanas; poem; Kāvya; wisdom.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**शुक्रासः** उज्ज्वलाः **इन्दवः** दीप्ताः **पवमानाः** क्षरन्तः **सोमाः** **विश्वानि** **काव्या** काव्यानि स्तोत्राणि **अभि** असृक्षत सृज्यन्त ऋत्विग्भिः ॥ ॥ ३४ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The brilliant purified **Soma**-juices are let fall amidst all praises.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+The self-purifying soma juices, the clear drops have surged  
+toward all products of poetic skill.
+</details>
+
+<details><summary>+Griffith</summary>
+
+The Pavamanas have been poured, the brilliant drops of Soma juice,  
+     For holy lore of every kind.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Die sich läuternden Soma´s, die klaren Säfte haben sich ergossen, alle Feinde vertreibend.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Die Soma's haben, hell entflammt, als lichte Tropfen ausgeströmt Die Sehergaben allesammt.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

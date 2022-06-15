@@ -1,0 +1,131 @@
++++
+title = "007"
+devataa = "पवमानः सोमः"
+RShiH = "शतं वैखानसाः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+प्र꣡ सोम याहि धा꣡रया  
+सुत꣡ इ꣡न्द्राय मत्सरः꣡  
+द꣡धानो अ꣡क्षिति श्र꣡वः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र । सो॒म॒ । या॒हि॒ । धार॑या । सु॒तः । इन्द्रा॑य । म॒त्स॒रः ।  
+दधा॑नः । अक्षि॑ति । श्रवः॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *yāhi* ← *yā*
+- \[verb\], singular, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *dhārayā* ← *dhārā*
+- \[noun\], instrumental, singular, feminine
+- “flush; flow; current; spring; fountain.”
+------------------------------------------------------------------------
+- *suta* ← *sutaḥ* ← *su*
+- \[verb noun\], nominative, singular
+- “press out; su.”
+------------------------------------------------------------------------
+- *indrāya* ← *indra*
+- \[noun\], dative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *matsaraḥ* ← *matsara*
+- \[noun\], nominative, singular, masculine
+- “intoxicant; invigorating; hostile.”
+------------------------------------------------------------------------
+- *dadhāno* ← *dadhānaḥ* ← *dhā*
+- \[verb noun\], nominative, singular
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *akṣiti*
+- \[noun\], accusative, singular, neuter
+- “imperishable.”
+------------------------------------------------------------------------
+- *śravaḥ* ← *śravas*
+- \[noun\], accusative, singular, neuter
+- “fame; glory; ear.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **सोम** अभिषूयमाण देव **मत्सरः** इन्द्रस्य मदकरस्वं **सुतः** अस्माभिरभिषुतः सन् **इन्द्राय** इन्द्रार्थं दशापवित्रान्निर्गतया संततया त्वदीयया **धारया** द्रोणकलशं **प्र** **याहि** प्रकर्षेण प्राप्नुहि । यद्वा । हे सोम सुतोऽभिषुतस्त्वमिन्द्राय मत्सरो मादयितृतमः सन् धारयाग्नौ स्वाहाकारेण पात्रात् पतन्त्या धारया सह त्वमिन्द्रमुपयाहि । कीदृशः । **अक्षिति** अक्षीणं **श्रवः**। श्रव इत्यन्ननाम । **दधानः** अस्मभ्यं प्रयच्छन् प्र याहीति ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Proceed, **Soma**, in a stream when effused, giving exhilaration to **Indra**, bestowing (upon us) inexhaustible food.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Drive forth, Soma, in a stream, pressed as exhilarating for Indra, establishing for yourself imperishable fame.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+This vs. contains the famous phrase ákṣiti śrávaḥ (or a minor variant of it) “imperishable fame,” interestingly acquired not by a human, but by Soma himself.
+
+
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/07-09.md">
+<details open><summary><h2>07-09 ...{Loading}...</h2></summary>
+
+No particular sign of cohesion either internal or external.
+
+</details>
+</div>
+</details>
+
+<details><summary>+Griffith</summary>
+
+Flow onward, Soma in a stream, effused to gladden Indra's heart,  
+     Bringing imperishable fame.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Komm hervor mit deinem Strome, o Soma, für Indra ausgepreßt, berauschend, unvergänglichen Ruhm erwerbend!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+O Soma, schreite vor im Strom, zum Rausch für Indra ausgepresst, Erlangend Ruhm, der nie vergeht.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

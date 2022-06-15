@@ -1,0 +1,120 @@
++++
+title = "006"
+devataa = "इन्द्रः"
+RShiH = "सुकक्षः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+ये꣡ सो꣡मासः पराव꣡ति  
+ये꣡ अर्वाव꣡ति सुन्विरे꣡  
+स꣡र्वांस् ताँ꣡ इन्द्र गछसि
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ये । सोमा॑सः । प॒रा॒ऽवति॑ । ये । अ॒र्वा॒ऽवति॑ । सु॒न्वि॒रे ।  
+सर्वा॑न् । तान् । इ॒न्द्र॒ । ग॒च्छ॒सि॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *ye* ← *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *somāsaḥ* ← *soma*
+- \[noun\], nominative, plural, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *parāvati* ← *parāvat*
+- \[noun\], locative, singular, feminine
+- “distance; distance; distance.”
+------------------------------------------------------------------------
+- *ye* ← *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *arvāvati* ← *arvāvat*
+- \[noun\], locative, singular, feminine
+------------------------------------------------------------------------
+- *sunvire* ← *su*
+- \[verb\], plural, Present indikative
+- “press out; su.”
+------------------------------------------------------------------------
+- *sarvāṃs* ← *sarvān* ← *sarva*
+- \[noun\], accusative, plural, masculine
+- “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
+    entire; sāṃnipātika; manifold; complete; all the(a); different;
+    overall.”
+------------------------------------------------------------------------
+- *tāṃ* ← *tad*
+- \[noun\], accusative, plural, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *gacchasi* ← *gam*
+- \[verb\], singular, Present indikative
+- “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
+    leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
+    get; come; die; drain; spread; transform; happen; discharge; ride;
+    to be located; run; detect; refer; go; shall; drive.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **इन्द्र** **ये** **सोमासः** सोमाः **परावति** विप्रकृष्टेऽतिदूरदेशे **ये** सोमाः **अर्वावति** अन्तिकतमे देशे च **सुन्विरे** । छन्दसि द्विर्वचनस्य विकल्पितत्वादत्र द्विर्वचनाभावः। ये सोमा ऋत्विग्भिरभिषूयन्ते **सर्वान्** दूरे समीपे चाभिषूयमाणान् **तान्** सोमान् **गच्छसि** तत्पानार्थं युगपत्प्राप्नोषि । अनेनेन्द्रस्य सर्वगतत्वं सूचितम् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“You go at once, **Indra**, to all those **Soma**-libations which are effused afar or effused near.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+The soma drinks which have been pressed in the distance, which nearby, to all those do you go, Indra.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Thou, Indra, goest unto all Soma libations shed for thee,  
+     Both far away and near at hand.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Die Somatränke, die in der Ferne, die in der Nähe ausgepreßt werden, zu allen diesen kommst du, Indra.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+O Indra, welche Tränke dir bereitet werden fern und nah, Zu denen allen gehst du hin.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

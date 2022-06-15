@@ -1,0 +1,176 @@
++++
+title = "006"
+devataa = "इन्द्रः"
+RShiH = "कुत्स आङ्गिरसः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+गोजि꣡ता बाहू꣡ अ꣡मितक्रतुः सिमः꣡  
+क꣡र्मन्-कर्मञ् छत꣡मूतिः खजंकरः꣡  
+अकल्प꣡ इ꣡न्द्रः प्रतिमा꣡नम् ओ꣡जसा  
+अ꣡था ज꣡ना वि꣡ ह्वयन्ते सिषास꣡वः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+## Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+गो॒ऽजिता॑ । बा॒हू इति॑ । अमि॑तऽक्रतुः । सि॒मः । कर्म॑न्ऽकर्मन् । श॒तम्ऽऊ॑तिः । ख॒ज॒म्ऽक॒रः ।  
+अ॒क॒ल्पः । इन्द्रः॑ । प्र॒ति॒ऽमान॑म् । ओज॑सा । अथ॑ । जनाः॑ । वि । ह्व॒य॒न्ते॒ । सि॒सा॒सवः॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *gojitā* ← *go*
+- \[noun\], masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *gojitā* ← *jitā* ← *jit*
+- \[noun\], nominative, dual, masculine
+- “curative; removing; victorious; winning.”
+------------------------------------------------------------------------
+- *bāhū* ← *bāhu*
+- \[noun\], nominative, dual, masculine
+- “arm; bāhu \[word\]; elbow; forefoot.”
+------------------------------------------------------------------------
+- *amitakratuḥ* ← *amita*
+- \[noun\]
+- “infinite; illimitable; countless.”
+------------------------------------------------------------------------
+- *amitakratuḥ* ← *kratuḥ* ← *kratu*
+- \[noun\], nominative, singular, masculine
+- “yajña; decision; plan; deliberation; intelligence; Kratu; will;
+    kratu \[word\]; desire; resoluteness; ritual.”
+------------------------------------------------------------------------
+- *simaḥ* ← *sima*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *karman*
+- \[noun\], locative, singular, neuter
+- “action; saṃskāra; ritual; procedure; karman; treatment; object;
+    function; production; job; operation; karman \[word\]; act; job;
+    passive voice; activity; consequence; function; yajña; pañcakarman;
+    cooking; occupation; profession; construction; duty; method; natural
+    process; duty; therapy.”
+------------------------------------------------------------------------
+- *karmañchatamūtiḥ* ← *karman*
+- \[noun\], locative, singular, neuter
+- “action; saṃskāra; ritual; procedure; karman; treatment; object;
+    function; production; job; operation; karman \[word\]; act; job;
+    passive voice; activity; consequence; function; yajña; pañcakarman;
+    cooking; occupation; profession; construction; duty; method; natural
+    process; duty; therapy.”
+------------------------------------------------------------------------
+- *karmañchatamūtiḥ* ← *śatamūtiḥ* ← *śatamūti*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *khajaṅkaraḥ* ← *khajaṃkara*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *akalpa* ← *akalpaḥ* ← *akalpa*
+- \[noun\], nominative, singular, masculine
+- “inappropriate.”
+------------------------------------------------------------------------
+- *indraḥ* ← *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *pratimānam* ← *pratimāna*
+- \[noun\], accusative, singular, neuter
+- “weight.”
+------------------------------------------------------------------------
+- *ojasāthā* ← *ojasā* ← *ojas*
+- \[noun\], instrumental, singular, neuter
+- “strength; power; ojas; ojas \[word\]; potency; might.”
+------------------------------------------------------------------------
+- *ojasāthā* ← *athā* ← *atha*
+- \[adverb\]
+- “now; then; furthermore; now; then.”
+------------------------------------------------------------------------
+- *janā* ← *janāḥ* ← *jana*
+- \[noun\], nominative, plural, masculine
+- “people; national; man; relative; jan; Janaloka; person; jana
+    \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *hvayante* ← *hvā*
+- \[verb\], plural, Present indikative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *siṣāsavaḥ* ← *siṣāsu*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे इन्द्र तव **बाहू** हस्तौ **गोजिता** जयेन गवां लम्भयितारौ । त्वं च **अमितक्रतुः** अपरिच्छिन्नज्ञानः **सिमः** श्रेष्ठः । तथा च शाट्यायनकं- सिम इति वै श्रेष्ठमाचक्षते ' इति । यद्वा । सिमः शत्रूणां बन्धकः । कर्मन्कर्मन् स्तोतॄणां कर्मणिकर्मण्युपस्थिते **शतमूतिः** बहुविधरक्षणोपेतः **खजंकरः** । खजति मथ्नाति पुरुषानिति खजः संग्रामः । तस्य कर्ता । **अकल्पः** कल्पेनान्येन रहितः । स्वतन्त्र इत्यर्थः । **ओजसा** सर्वेषां प्राणिनां यदोजो बलमस्ति तेन सर्वेण **प्रतिमानं** प्रतिनिधित्वेन मीयमानः । यस्मादेवंगुणविशिष्टः **इन्द्रः** **अथ** अतः कारणात् **सिषासवः** धनं लब्धुकामाः **जनाः** **वि** **ह्वयन्ते** विविधमाह्वयन्ति ॥ गोजिता । गा जयतः इति गोजितौ। ‘सुपां सुलुक् ' इति विभक्तेः आकारः । सिमः । ‘ षिञ् बन्धने । अस्मादौणादिको मक् । खजंकरः । ‘ खज मन्थे । पचाद्यच् । ‘क्षेमप्रियमद्रेऽण् च ' ( पा. सू. ३. २. ४४ ) इति चशब्दस्यानुक्तसमुच्चयार्थत्वात् खजशब्दोपपदादपि करोतेः खच् ।' अरुर्द्विषदजन्तस्य° ' इति मुम् । कृदुत्तरपदप्रकृतिस्वरत्वम् । अकल्पः । ‘ नञ्सुभ्याम् इत्युत्तरपदान्तोदात्तत्वम् । सिषासवः । वन षण संभक्तौ । सनि ‘सनीवन्तर्ध° ' इति विकल्पनात् इडभावः । ‘ जनसनखनां सञ्झलोः' इति आत्वम् । द्विर्वचनादि । ‘सनाशंसभिक्ष उः' (पा. सू. ३. २. १६८ ) इति उप्रत्ययः । सति शिष्टत्वात् तस्यैव स्वरः शिष्यते ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+## English translation:
+
+“Your arms are the winners of cattle, your wisdom is unbounded, you are most excellent, the granter of a hundred aids in every rite; the author of war, **Indra** is uncontrolled; the type of strength; wherefore men, who are desirous of wealth, invoke him in various ways.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Cow-conquering are his two arms—he himself is of unmatched resolve,  providing a hundred forms of help in every action, creating tumult.  
+In the disorder (of battle) Indra is a match (for all) in his strength. So  the peoples vie in invoking him when they wish to win.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+I tr. amita- as ‘matchless’ rather than ‘immeasurable’ because of its etym.
+
+connection with pratimā́na- ‘match’ (6c, 8a), amātrá- ‘matchless’ (7c).
+
+The Pp. reads akalpáḥ in c, and following this reading has led to very “free” (so Oldenberg) tr. of the word and interpr. of the syntax (e.g., Geldner “Durch seine Stärke macht Indra ein Gegengewicht unmöglich”; Renou is even freer), where “(macht) unmöglich” for akalpá- seems distinctly odd and the syntactic relation between it and pratimā́nam is loose at best. The difficulties disappear if we instead read loc. akalpé.
+
+As Oldenberg points out, by accent the word should be a bahuvrīhi. The one example of kálpa- in the RV seems to refer to arrangements, ritual or martial (IX.9.7: ávā kálpeṣu naḥ pumas, támāṃsi soma yódhyā “help us in our arrangements, o male; the shades of darkness must be fought”), and a bahuvrīhi “without arrangement/order” modifying an underlying ‘battle’-word (perhaps khaja- ‘tumult’ extracted from immediately preceding khajaṃkaráḥ) makes perfect sense in context.
+
+This leaves an equational sentence índraḥ … pratimā́nam ójasā “by his strength Indra is the match,” and we need only supply the specification of what he is the match for. I sc. ‘all’ on the basis of II.12.9c, also describing Indra: yó víśvasya pratimā́nam babhūva. However, esp. in conjunction with 8ab, it might instead be the earth, or heaven and earth. Cf. I.52.13 (also of Indra) tvám bhuvaḥ pratimā́nam pṛthivyā́ḥ (also 12); X.111.5 índro diváḥ pratimā́nam pṛthivyā́ḥ.
+</details>
+
+<details><summary>+Griffith</summary>
+
+His arms win kine, his power is boundless in each act best, with a hundred helps waker of battle's din  
+     Is Indra: none may rival him in mighty strength. Hence, eager for the spoil the people call on him.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Deine Arme erbeuten Rinder, er selbst ist von unermeßlicher Umsicht, bei jeder Unternehmung hundertfache Hilfe bringend, streitbar. Durch seine Stärke macht Indra ein Gegengewicht unmöglich. Darum rufen ihn die gewinnbegierigen Leute um die Wette an.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Mit Armen siegreich, ganz voll unermessner Macht, voll Kampfbegier, mit hundert Hülfen stets zur Hand, Ist Indra unvergleichlich an gewalt'ger Kraft, drum rufen ihn die beutegier'gen hier und dort.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+(Его) руки завоевывают коров, сам он отличается безграничной силой духа,  
+Принося сотню поддержек в каждом деле, вызывая круговерть (битвы).  
+По силе Индра не может иметь противовеса,  
+И люди зовут его, состязаясь (друг с другом), те, кто хотят добыть.
+</details>

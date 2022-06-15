@@ -1,0 +1,172 @@
++++
+title = "007"
+devataa = "इन्द्रः"
+RShiH = "कृष्णः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+आरा꣡च् छ꣡त्रुम् अ꣡प बाधस्व दूर꣡म्  
+उग्रो꣡ यः꣡ श꣡म्बः पुरुहूत ते꣡न  
+अस्मे꣡ धेहि य꣡वमद् गो꣡मद् इन्द्र  
+कृधी꣡ धि꣡यं जरित्रे꣡ वा꣡जरत्नाम्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ॒रात् । शत्रु॑म् । अप॑ । बा॒ध॒स्व॒ । दू॒रम् । उ॒ग्रः । यः । शम्बः॑ । पु॒रु॒ऽहू॒त॒ । तेन॑ ।  
+अ॒स्मे इति॑ । धे॒हि॒ । यव॑ऽमत् । गोऽम॑त् । इ॒न्द्र॒ । कृ॒धि । धिय॑म् । ज॒रि॒त्रे । वाज॑ऽरत्नाम् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *ārāc* ← *ārāt*
+- \[adverb\]
+- “far; ārāt \[word\].”
+------------------------------------------------------------------------
+- *chatrum* ← *śatrum* ← *śatru*
+- \[noun\], accusative, singular, masculine
+- “enemy; foe; enemy; Asura.”
+------------------------------------------------------------------------
+- *apa*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *bādhasva* ← *bādh*
+- \[verb\], singular, Present imperative
+- “afflict; annoy; chase away; tease; grieve; irritate.”
+------------------------------------------------------------------------
+- *dūram*
+- \[adverb\]
+- “far.”
+------------------------------------------------------------------------
+- *ugro* ← *ugraḥ* ← *ugra*
+- \[noun\], nominative, singular, masculine
+- “powerful; awful; dangerous; intense; mighty; potent; colicky;
+    atrocious.”
+------------------------------------------------------------------------
+- *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *śambaḥ* ← *śamba*
+- \[noun\], nominative, singular, masculine
+- “śamba \[word\].”
+------------------------------------------------------------------------
+- *puruhūta*
+- \[noun\], vocative, singular, masculine
+- “Indra; Vishnu.”
+------------------------------------------------------------------------
+- *tena* ← *tad*
+- \[noun\], instrumental, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *asme* ← *mad*
+- \[noun\], locative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *dhehi* ← *dhā*
+- \[verb\], singular, Present imperative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *yavamad* ← *yavamat*
+- \[noun\], accusative, singular, neuter
+------------------------------------------------------------------------
+- *gomad* ← *gomat*
+- \[noun\], accusative, singular, neuter
+- “rich in cattle; bovine.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *kṛdhī* ← *kṛdhi* ← *kṛ*
+- \[verb\], singular, Aorist imperative
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *dhiyaṃ* ← *dhiyam* ← *dhī*
+- \[noun\], accusative, singular, feminine
+- “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
+    knowledge.”
+------------------------------------------------------------------------
+- *jaritre* ← *jaritṛ*
+- \[noun\], dative, singular, masculine
+- “singer.”
+------------------------------------------------------------------------
+- *vājaratnām* ← *vāja*
+- \[noun\], masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *vājaratnām* ← *ratnām* ← *ratna*
+- \[noun\], accusative, singular, feminine
+- “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
+    jewelry.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **पुरुहूत** बहुभिराहूत **इन्द्र** तव **यः** **उग्रः** उद्गूर्णः **शम्बः** वज्रः। तथा च यास्कः--  ‘ शम्ब इति वज्रनाम शमयतेर्वा शातयतेर्वा' (निरु. ५, २४ ) इति । **तेन** वज्रेण **शत्रुम्** अस्मदरिम् **आरात्** अस्मत्समीपात् **दूरम्** **अप** **बाधस्व** त्वमपगमय। किंच **अस्मे** अस्मासु **यवमत** यवयुक्तं **गोमत्** गोयुक्तं च धनं **धेहि** निधेहि। किंच **जरित्रे** स्तोत्रे मह्यं **वाजरत्नां** रमणीयान्नं **धियं** कर्म **कृधि** कुरु ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Invoked of many, (**Indra**) drive far away the enemy with that fierce thunderbolt of yours; grant to us,Indra, wealth of barley and cattle; render to the worshipper his sacrifice productive of plural asant food.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Thrust the rival far away into the distance with that mighty śamba-pole  of yours, o you who are much invoked.  
+Set (a mass of) barley and cattle on us, Indra. For the singer, make his  insight possessed of prizes as its ornaments.
+</details>
+
+<details><summary>+Griffith</summary>
+
+With thy fierce bolt, O God invoked of many, drive to a distance from afar the foeman.  
+     O Indra, give us wealth in corn and cattle, and make thy singer's prayer gain strength and riches.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Treib den Feind von ferne weit weg mit deiner gewaltigen Samba-Keule, o Vielgerufener! Bring uns Besitz von Korn und Rindern, Indra; mache dem Sänger das Gedicht reich belohnt!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Auch aus der Ferne stosse fort die Feinde mit deiner starken Waffe, vielgerufner; Gib Fülle uns an Korn und Rindern, Indra, belohn des Sängers Lied mit reichen Gaben.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Издали прогони врага далеко прочь  
+Той грозной палицей, о многопризываемый!  
+Нам дай богатства из зерна, из коров, о Индра!  
+Сделай поэтическую мысль для певца одаренной сокровищами наград!
+</details>

@@ -1,0 +1,111 @@
++++
+title = "011"
+devataa = "पवमानः सोमः"
+RShiH = "शतं वैखानसाः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अ꣡छा को꣡शम् मधुश्चु꣡तम्  
+अ꣡सृग्रं वा꣡रे अव्य꣡ये  
+अ꣡वावशन्त धीत꣡यः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अच्छ॑ । कोश॑म् । म॒धु॒ऽश्चुत॑म् । असृ॑ग्रम् । वारे॑ । अ॒व्यये॑ ।  
+अवा॑वशन्त । धी॒तयः॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *acchā*
+- \[adverb\]
+- “towards; accha \[prefix\].”
+------------------------------------------------------------------------
+- *kośam* ← *kośa*
+- \[noun\], accusative, singular, masculine
+- “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
+    treasure; calyx; container; bucket; box.”
+------------------------------------------------------------------------
+- *madhuścutam* ← *madhuścut*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *asṛgraṃ* ← *asṛgram* ← *sṛj*
+- \[verb\], plural, Root aorist (Ind.)
+- “create; shoot; discharge; free; cause; throw; emit; send; produce;
+    use; be born; make.”
+------------------------------------------------------------------------
+- *vāre* ← *vāra*
+- \[noun\], locative, singular, masculine
+- “strainer.”
+------------------------------------------------------------------------
+- *avyaye* ← *avyaya*
+- \[noun\], locative, singular, masculine
+- “sheep.”
+------------------------------------------------------------------------
+- *avāvaśanta* ← *vāś*
+- \[verb\], plural, Plusquamperfect
+- “bellow; howl; sing; moo; shout.”
+------------------------------------------------------------------------
+- *dhītayaḥ* ← *dhīti*
+- \[noun\], nominative, plural, feminine
+- “thinking; prayer; understanding.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+धारानिर्गमनप्रसङ्गादभिधीयते । **मधुश्चुतं** मधुररसस्य च्यावयितारं क्षारयितारं **कोशं** द्रोणकलशम् **अच्छ** अभिलक्ष्य **अव्यये** अविमये अविस्वभूते वा **वारे** वाले दशापवित्रे **असृग्रं** सोमा ऋत्विग्भिः सृज्यन्ते । सृजेः कर्मणि तिङां तिङो भवन्ति' इति झो रमादेशः। किंच **धीतयः** । अङ्गुलिनामैतत् । धयन्ति पिबन्त्याभिरिति । अस्मदीया अङ्गुलयः **अवावशन्त** तान् सोमान् पुनःपुनर्मार्जनार्थं कामयन्ते ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“They are let loose in the woollen filter (to go) towards the honey-dropping vessel; our fingers have desired them.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+I.e., our fingers desire the **Soma** juices in order to cleanse them again and again
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Toward the cask dripping with honey they have surged onto the sheep’s  fleece.  
+The insightful thoughts have bellowed.
+</details>
+
+<details><summary>+Griffith</summary>
+
+They have been poured upon the fleece towards the meath-distilling vat:  
+     The holy songs have sounded forth.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Nach der von Süßigkeit überfließenden Kufe sind sie auf das Schafhaar losgelassen. Laut haben die Gebete geschrieen.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Ergossen durch des Widders Haar zur honigreichen Kufe hin, Und die Gebete schollen laut.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

@@ -1,0 +1,168 @@
++++
+title = "003"
+devataa = "इन्द्राग्नी"
+RShiH = "वसिष्ठः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+उ꣡पो ह य꣡द् विद꣡थं वाजि꣡नो गु꣡र्  
+धीभि꣡र् वि꣡प्राः प्र꣡मतिम् इछ꣡मानाः  
+अ꣡र्वन्तो न꣡ का꣡ष्ठां᳐ न꣡क्षमाणा  
+इन्द्रअग्नी꣡ जो꣡हुवतो न꣡रस् ते꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उपो॒ इति॑ । ह॒ । यत् । वि॒दथ॑म् । वा॒जिनः॑ । गुः । धी॒भिः । विप्राः॑ । प्रऽम॑तिम् । इ॒च्छमा॑नाः ।  
+अर्व॑न्तः । न । काष्ठा॑म् । नक्ष॑माणाः । इ॒न्द्रा॒ग्नी इति॑ । जोहु॑वतः । नरः॑ । ते ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *upo* ← *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *upo* ← *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *ha*
+- \[adverb\]
+- “indeed; ha \[word\].”
+------------------------------------------------------------------------
+- *yad* ← *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *vidathaṃ* ← *vidatham* ← *vidatha*
+- \[noun\], accusative, singular, neuter
+- “meeting; wisdom; council.”
+------------------------------------------------------------------------
+- *vājino* ← *vājinaḥ* ← *vājin*
+- \[noun\], nominative, plural, masculine
+- “horse; bird; seven; hero; achiever; aphrodisiac.”
+------------------------------------------------------------------------
+- *gur* ← *guḥ* ← *gā*
+- \[verb\], plural, Aorist inj. (proh.)
+- “go; enter (a state); arrive.”
+------------------------------------------------------------------------
+- *dhībhir* ← *dhībhiḥ* ← *dhī*
+- \[noun\], instrumental, plural, feminine
+- “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
+    knowledge.”
+------------------------------------------------------------------------
+- *viprāḥ* ← *vipra*
+- \[noun\], nominative, plural, masculine
+- “eloquent; stimulated; divine.”
+------------------------------------------------------------------------
+- *pramatim* ← *pramati*
+- \[noun\], accusative, singular, feminine
+- “care; solicitude; caution; providence.”
+------------------------------------------------------------------------
+- *icchamānāḥ* ← *iṣ*
+- \[verb noun\], nominative, plural
+- “desire; recommend; approve; seek; call; search; try; prefer; love;
+    commend; assent; permit; choose.”
+------------------------------------------------------------------------
+- *arvanto* ← *arvantaḥ* ← *arvant*
+- \[noun\], nominative, plural, masculine
+- “horse.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *kāṣṭhāṃ* ← *kāṣṭhām* ← *kāṣṭhā*
+- \[noun\], accusative, singular, feminine
+- “kāṣṭhā; quarter; body of water.”
+------------------------------------------------------------------------
+- *nakṣamāṇā* ← *nakṣamāṇāḥ* ← *nakṣ*
+- \[verb noun\], nominative, plural
+- “reach; approach.”
+------------------------------------------------------------------------
+- *indrāgnī* ← *indra*
+- \[noun\], masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *indrāgnī* ← *agnī* ← *agni*
+- \[noun\], accusative, dual, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *johuvato* ← *johuvataḥ* ← *johav* ← *√hvā*
+- \[verb noun\], nominative, plural
+- “appeal.”
+------------------------------------------------------------------------
+- *naras* ← *naraḥ* ← *nara*
+- \[noun\], nominative, singular, masculine
+- “man; man; Nara; person; people; Nara; Puruṣa; nara \[word\];
+    servant; hero.”
+------------------------------------------------------------------------
+- *te* ← *tad*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**वाजिनः** हविष्मन्तः **विप्राः** मेधाविनः **प्रमतिं** प्रकृष्टां मतिमिन्द्राग्न्योरनुग्रहबुद्धिम् **इच्छमानाः** आत्मन इच्छन्तः **यत्** ये यजमानाः **विदथम्** । विदन्ति जानन्ति देवानत्र यष्टव्यत्वेनेति विदथो यज्ञः । तं **धीभिः** कर्मभिर्बुद्धिभिर्वा **उपो** **गुः** उपगच्छन्ति । उ इति पूरकः । **ते** **नरः** कर्मणां नेतारो जनाः **अर्वन्तो** **न** **काष्ठां** यथाश्वाः शीघ्रं युद्धभूमिं व्याप्नुवन्ति तथा **नक्षमाणाः** ऐन्द्राग्नानि कर्माणि व्याप्नुवन्तः **इन्द्राग्नी** इन्द्रमग्निं च **जोहुवतः** पुनःपुनराह्वयन्तो भवन्ति ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Those sage offerers of oblations, who, desiring your favour, celebrate the sacrifice with holy rites,hasten to worship you, like horse to battle, repeatedly invoking **Indra** and **Agni**.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+When the prize-seekers have come to the rite of distribution, the inspired  poets with their visionary thoughts seeking your solicitude,  
+like steeds reaching the finish line, the men ever calling on Indra  
+and Agni—
+</details>
+
+<details><summary>+Griffith</summary>
+
+Yea when the strong have entered our assembly, and singers seeking with their hymns your favour,  
+     They are like steeds who come into the race-course, those men who call aloud on Indra-Agni.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Wenn die Preiskämpfer zum Opfer schreiten, die redekundigen, mit ihren Gedanken eure Fürsorge sich wünschend, wie Rennpferde, die in die Schranken kommen, diese Herren, die Indra und Agni anrufen,-
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Wenn opferreich zum Feste gehn die Sänger, mit frommen Bitten eure Huld erflehend; Wie Rosse, die des Rennens Preis erstreben, sind dann die Männer, Indra-Agni rufend.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+А когда (мужи,) стремящиеся к награде, подошли к жертвенной раздаче,  
+Поэты со (своими) видениями, ища (вашей) заботы,  
+Словно скаковые кони, берущие (решающий) барьер,  
+Эти мужи, громко зовущие Индру-Агни:
+</details>

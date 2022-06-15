@@ -1,0 +1,186 @@
++++
+title = "004"
+devataa = "वरुणः"
+RShiH = "वसिष्ठः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+व꣡सिष्ठं ह व꣡रुणो नावि꣡ आ꣡धाद्  
+ऋ꣡षिं चकार सुअ꣡पा म꣡होभिः  
+स्तोता꣡रं वि꣡प्रः सुदिनत्वे꣡ अ꣡ह्नां  
+या꣡न् नु꣡ द्या꣡वस् तत꣡नन् या꣡द् उषा꣡सः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वसि॑ष्ठम् । ह॒ । वरु॑णः । ना॒वि । आ । अ॒धा॒त् । ऋषि॑म् । च॒का॒र॒ । सु॒ऽअपाः॑ । महः॑ऽभिः ।  
+स्तो॒तार॑म् । विप्रः॑ । सु॒दि॒न॒ऽत्वे । अह्ना॑म् । यात् । नु । द्यावः॑ । त॒तन॑न् । यात् । उ॒षसः॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *vasiṣṭhaṃ* ← *vasiṣṭham* ← *vasiṣṭha*
+- \[noun\], accusative, singular, masculine
+- “Vasiṣṭha; vasiṣṭha \[word\].”
+------------------------------------------------------------------------
+- *ha*
+- \[adverb\]
+- “indeed; ha \[word\].”
+------------------------------------------------------------------------
+- *varuṇo* ← *varuṇaḥ* ← *varuṇa*
+- \[noun\], nominative, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *nāvy* ← *nāvi* ← *nau*
+- \[noun\], locative, singular, feminine
+- “ship; boat; nau \[word\].”
+------------------------------------------------------------------------
+- *ādhād* ← *ādhāt* ← *ādhā* ← *√dhā*
+- \[verb\], singular, Root aorist (Ind.)
+- “put; conceive; ignite; keep; effect; fuel; lend; cover; direct.”
+------------------------------------------------------------------------
+- *ṛṣiṃ* ← *ṛṣim* ← *ṛṣi*
+- \[noun\], accusative, singular, masculine
+- “Ṛṣi; spiritual teacher; ascetic; Mantra.”
+------------------------------------------------------------------------
+- *cakāra* ← *kṛ*
+- \[verb\], singular, Perfect indicative
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *svapā* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *svapā* ← *apāḥ* ← *apas*
+- \[noun\], nominative, singular, masculine
+- “work; deed.”
+------------------------------------------------------------------------
+- *mahobhiḥ* ← *mahas*
+- \[noun\], instrumental, plural, neuter
+- “greatness; festival; glory; reward; gladness.”
+------------------------------------------------------------------------
+- *stotāraṃ* ← *stotāram* ← *stotṛ*
+- \[noun\], accusative, singular, masculine
+- “laudatory; worshiping.”
+------------------------------------------------------------------------
+- *vipraḥ* ← *vipra*
+- \[noun\], nominative, singular, masculine
+- “Brahmin; poet; singer; priest; guru; Vipra.”
+------------------------------------------------------------------------
+- *sudinatve* ← *sudina*
+- \[noun\], neuter
+------------------------------------------------------------------------
+- *sudinatve* ← *tve* ← *tva*
+- \[noun\], locative, singular, neuter
+- “state; quality; cause; reason.”
+------------------------------------------------------------------------
+- *ahnāṃ* ← *ahnām* ← *ahar*
+- \[noun\], genitive, plural, neuter
+- “day; day; ahar \[word\]; day; day.”
+------------------------------------------------------------------------
+- *yān* ← *yāt*
+- \[adverb\]
+- “wherein.”
+------------------------------------------------------------------------
+- *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *dyāvas* ← *dyāvaḥ* ← *div*
+- \[noun\], nominative, plural, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *tatanan* ← *tan*
+- \[verb\], plural, Perfect conjunctive (subj.)
+- “expand; perform; cause; increase; write; spread; produce; spread;
+    speak; propagate.”
+------------------------------------------------------------------------
+- *yād* ← *yāt*
+- \[adverb\]
+- “wherein.”
+------------------------------------------------------------------------
+- *uṣāsaḥ* ← *uṣas*
+- \[noun\], nominative, plural, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+एवं वसिष्ठेनात्मनोक्ते यद्वरुणेन कृतं तद्दर्शयति । **वसिष्ठं** **ह** वसिष्ठं खलु **वरुणः** **नावि** स्वकीयायाम् **आधात्** आरोहयत् । तथा तम् **ऋषिम्** **अवोभिः** रक्षणैः **स्वपां** स्वपसं-शोभनकर्माणं **चकार** वरुणः कृतवान् । अपि च **विप्रः** मेधावी वरुणः **अह्नां** दिवसानां मध्ये **सुदिनत्वे** यत्फलत्वेन शोभनदिनत्वं तत्र **स्तोतारम्** अस्थापयदि ति शेषः । किं कुर्वन् । **यात्** यातो गच्छतः **द्यावः** दिवसान् **यात्** यातीः **उषासः** उषसोपलक्षिता रात्रीश्च **नु** क्षिप्रं **ततनन्** सूर्यात्मना विस्तारयन् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“So **Varuṇa** plural ced **Vasiṣṭha** in the ship, and by his mighty protection made the ṛṣi a doer of goodworks; the wise Varuṇa plural ced his worshipper in a fortunate day of days, he extended the passing days, thepassing nights.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+In a fortunate day: sudinatve: state or property of a lucky day by its being fruitful, phalatvena;
+
+Heextended: yān nu dyāvas tatanan yāduṣāsaḥ: varuṇa = the sun;
+
+Uṣāsaḥ = **rātriḥ**, nights;
+
+Yat = yatahgacchataḥ
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Varuṇa placed Vasiṣṭha on the boat. Skillful in his work, he made him a  seer through his great powers.  
+The inspired poet (made him) a praise singer on that brightest day of  days for so far as the heavens, for so long as the dawns will extend.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Varuna placed Vasistha in the vessel, and deftly with his niight made him a Rsi.  
+     When days shone bright the Sage made him a singer, while the heavens broadened and the Dawns were lengthened.
+</details>
+
+<details><summary>+Macdonell</summary>
+
+Varuna has placed Vasiṣṭha in the vessel; The sage benignant by his mighty power His praiser in prosperity has settled, As long as days endure, as long as mornings.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Varuna hat den Vasistha ins Schiff gesetzt, er, der Meister, machte ihn durch seine Herrlichkeiten zum Rishi, zum Sänger, er der Redekundige, an dem Glückstag unter den Tagen, so lange noch die Himmel, so lange die Morgen dauern werden.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Varuna liess aufs Schiff Vasischtha steigen und machte ihn mit Wunderkraft zum Dichter, Der Gott den Sänger an dem Tag des Heiles, so lang' die Tage und die Morgen dauern.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+В самом деле, Васиштху Варуна посадил на корабль,  
+(Он,) мастер, сделал (его) риши (своими чудесными силами),  
+Певцом, (он,) вдохновенный, в счастливейший из дней,  
+Пока продляться небеса, пока – зори.
+</details>

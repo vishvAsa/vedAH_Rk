@@ -1,0 +1,153 @@
++++
+title = "004"
+devataa = "अग्निः"
+RShiH = "त्रित आप्त्यः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अस्य꣡ या꣡मासो बृहतो꣡ न꣡ वग्नू꣡न्  
+इ꣡न्धाना अग्नेः꣡ स꣡खियुः शिव꣡स्य  
+ई꣡ड्यस्य वृ꣡ष्णो बृहतः꣡ सुआ꣡सो  
+भा꣡मासो या꣡मन् अक्त꣡वश् चिकित्रे
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒स्य । यामा॑सः । बृ॒ह॒तः । न । व॒ग्नून् । इन्धा॑नाः । अ॒ग्नेः । सख्युः॑ । शि॒वस्य॑ ।  
+ईड्य॑स्य । वृष्णः॑ । बृ॒ह॒तः । सु॒ऽआसः॑ । भामा॑सः । याम॑न् । अ॒क्तवः॑ । चि॒कि॒त्रे॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *asya* ← *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *yāmāso* ← *yāmāsaḥ* ← *yāma*
+- \[noun\], nominative, plural, masculine
+- “prahara; watch; travel; path.”
+------------------------------------------------------------------------
+- *bṛhato* ← *bṛhataḥ* ← *bṛhat*
+- \[noun\], accusative, plural, masculine
+- “large; great; loud; high; much(a); exalted; abundant; intensive;
+    strong; huge.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *vagnūn* ← *vagnu*
+- \[noun\], accusative, plural, masculine
+- “cry.”
+------------------------------------------------------------------------
+- *indhānā* ← *indhānāḥ* ← *indh*
+- \[verb noun\], nominative, plural
+- “kindle; ignite; set ablaze.”
+------------------------------------------------------------------------
+- *agneḥ* ← *agni*
+- \[noun\], genitive, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *sakhyuḥ* ← *sakhi*
+- \[noun\], genitive, singular
+- “friend; companion; sakhi \[word\].”
+------------------------------------------------------------------------
+- *śivasya* ← *śiva*
+- \[noun\], genitive, singular, masculine
+- “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
+    holy; nice.”
+------------------------------------------------------------------------
+- *īḍyasya* ← *īḍ*
+- \[verb noun\], genitive, singular
+- “praise; invite; raise.”
+------------------------------------------------------------------------
+- *vṛṣṇo* ← *vṛṣṇaḥ* ← *vṛṣan*
+- \[noun\], genitive, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *bṛhataḥ* ← *bṛhat*
+- \[noun\], genitive, singular, masculine
+- “large; great; loud; high; much(a); exalted; abundant; intensive;
+    strong; huge.”
+------------------------------------------------------------------------
+- *svāso* ← *svāsaḥ* ← *sva*
+- \[noun\], nominative, plural, masculine
+- “own(a); respective(a); akin(p); sva \[word\]; individual;
+    present(a); independent.”
+------------------------------------------------------------------------
+- *bhāmāso* ← *bhāmāsaḥ* ← *bhāma*
+- \[noun\], nominative, plural, masculine
+- “beam.”
+------------------------------------------------------------------------
+- *yāmann* ← *yāman*
+- \[noun\], locative, singular, neuter
+- “expedition; path; expedition; arrival.”
+------------------------------------------------------------------------
+- *aktavaś* ← *aktavaḥ* ← *aktu*
+- \[noun\], nominative, plural, masculine
+- “night; dark; beam.”
+------------------------------------------------------------------------
+- *cikitre* ← *cit*
+- \[verb\], plural, Perfect indicative
+- “notice; observe; attend to; intend.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**बृहतः** महतः अस्य **अग्नेः** संबन्धिनः **इन्धानाः** दीप्यमानाः **यामासः** । यान्ति गच्छन्तीति यामा रश्मयः। **वग्नून्** स्तुतिकारिणो जनान् **न** बाधन्ते। किंच **सख्युः** स्तुत्यस्तोतृत्वयष्टृयष्टव्यत्वलक्षणेन सख्येन सखिभूतस्य **शिवस्य** कल्याणस्य भक्तानां सुखकरस्य **ईड्यस्य** स्तोतव्यस्य **वृष्णः** कामानां वर्षितुः **बृहतः** महतः स्वासः शोभनास्यस्य अस्याग्नेः स्वभूताः **अक्तवः**। तमांस्यञ्जन्तोऽपगमयन्त आहुतिभिः संगता वा **भामासः** । * भाम क्रोधे। तीक्ष्णा अप्रसह्या रश्मयः यामन् । याति देवान् प्रति तर्पणाय यान्ति वा देवा एते प्रत्यङ्गभावायेति यामा यज्ञः। तस्मिन् चिकित्रे सर्वतो जज्ञिरे । प्रथिता अभूवन् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The blazing flames of that mighty **Agni** do not (deter) his adorers; the fierce flames of the friendlyauspicious adorable (Agni), the showerer of (benefits), the vast, the strong-mouthed, are visible in the sacrifice.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Of this one here—of Agni, our kindly companion—his journeys are, as  it were, kindling the calls of the lofty one [=pressing stone?];  
+on the journey of the lofty bull worthy to be invoked, the nights appear  as his own beams.
+</details>
+
+<details><summary>+Griffith</summary>
+
+His goings-forth kindle as 'twere high voices the goings of the auspicious Friend of Agni.  
+     The rays, the bright beams of the strong-jawed, mighty, adorable Steer are visible as he cometh.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Seine Fahrten, die gleichsam laute Rufe des guten Freundes Agni entflammen, des anzurufenden, großen Bullen mit schönem Munde - seine Strahlen sind bei Ankunft der Nacht als Dunkel erschienen.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Die Flammenbahnen laut Getön entflammend des Agni, ihres freundlichen Genossen, Des preisenswerthen hohen Stieres Strahlen, des schönen Lichter glänzten auf dem Gange.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Его походы, словно воспламеняющие мощные кличи  
+У этого милого друга Агни,  
+Быка, достойного призывов, могучего, с прекрасной пастью –  
+(Его) лучи проявляются в походе, как вспышка света.
+</details>

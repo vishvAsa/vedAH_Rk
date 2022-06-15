@@ -1,0 +1,166 @@
++++
+title = "006"
+devataa = "इन्द्रः"
+RShiH = "गाथिनो विश्वामित्रः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+इ꣡न्द्रो म꣡धु स꣡म्भृतम् उस्रि꣡यायाम्  
+पद्व꣡द् विवेद शफ꣡वन् न꣡मे गोः꣡  
+गु꣡हा हितं꣡ गु꣡हियं गूऌह꣡म् अप्सु꣡  
+ह꣡स्ते दधे द꣡क्षिणे द꣡क्षिणावान्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic on metrical evidence alone
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इन्द्रः॑ । मधु॑ । सम्ऽभृ॑तम् । उ॒स्रिया॑याम् । प॒त्ऽवत् । वि॒वे॒द॒ । श॒फऽव॑त् । नमे॑ । गोः ।  
+गुहा॑ । हि॒तम् । गुह्य॑म् । गू॒ळ्हम् । अ॒प्ऽसु । हस्ते॑ । द॒धे॒ । दक्षि॑णे । दक्षि॑णऽवान् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *indro* ← *indraḥ* ← *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *madhu*
+- \[noun\], accusative, singular, neuter
+- “honey; alcohol; sweet; nectar; madhu \[word\].”
+------------------------------------------------------------------------
+- *saṃbhṛtam* ← *sambhṛ* ← *√bhṛ*
+- \[verb noun\], accusative, singular
+- “gather; collect; fill; mix; fill into; produce.”
+------------------------------------------------------------------------
+- *usriyāyām* ← *usriyā*
+- \[noun\], locative, singular, feminine
+- “cow; dairy product.”
+------------------------------------------------------------------------
+- *padvad* ← *padvat*
+- \[noun\], accusative, singular, neuter
+- “footed.”
+------------------------------------------------------------------------
+- *viveda* ← *vid*
+- \[verb\], singular, Perfect indicative
+- “find; detect; marry; get; think.”
+------------------------------------------------------------------------
+- *śaphavan* ← *śaphavat*
+- \[noun\], accusative, singular, neuter
+- “ungulate.”
+------------------------------------------------------------------------
+- *name* ← *nama*
+- \[noun\], locative, singular, masculine
+- “nam.”
+------------------------------------------------------------------------
+- *goḥ* ← *go*
+- \[noun\], genitive, singular, masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *guhā*
+- \[adverb\]
+- “secretly.”
+------------------------------------------------------------------------
+- *hitaṃ* ← *hitam* ← *dhā*
+- \[verb noun\], accusative, singular
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *guhyaṃ* ← *guhyam* ← *guh*
+- \[verb noun\], accusative, singular
+- “hide; cover; conceal; shroud; obscure.”
+------------------------------------------------------------------------
+- *gūḍham* ← *guh*
+- \[verb noun\], accusative, singular
+- “hide; cover; conceal; shroud; obscure.”
+------------------------------------------------------------------------
+- *apsu* ← *ap*
+- \[noun\], locative, plural, masculine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *haste* ← *hasta*
+- \[noun\], locative, singular, masculine
+- “hand; hand; proboscis; hasta \[word\]; autograph.”
+------------------------------------------------------------------------
+- *dadhe* ← *dhā*
+- \[verb\], singular, Perfect indicative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *dakṣiṇe* ← *dakṣiṇa*
+- \[noun\], locative, singular, masculine
+- “southern; right; south; southerly; dakṣiṇa \[word\]; sincere;
+    clockwise; deft.”
+------------------------------------------------------------------------
+- *dakṣiṇāvān* ← *dakṣiṇāvat*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**इन्द्रः** **उस्रियायां** क्षीरदध्यादिक्रमेणोत्स्राविण्यां भोगवत्यां गवि **संभृतं** संपादितं **मधु** क्षीरादि **विवेद** अज्ञासीत् । ततस्तदर्थं **पद्वत्** पादयुक्तं **शफवत्** खुरोपेतं गोधनं विवेद लेभे । कथं लब्धवानिति तदुच्यते । **नमे** **गोः** । गोरिति द्वितीयार्थे षष्ठी । पणिनामकैरसुरैरपहृतां गां नमे आनीतामकरोत् । तथा **दक्षिणावान्** औदार्यवान् समर्थः स इन्द्रः **गुहा** गुहायां **हितं** **गुह्यं** प्रच्छन्नम् अत एव **अप्सु** अन्तरिक्षे 'गूळ्हं गूढचारिणं मायिनमसुरं **दक्षिणे** **हस्ते** **दधे** दधार अग्रहीत् इत्यर्थः । द्वितीयाष्टके ‘श्रुधी हवम् ' इस्यस्मिन् वर्गे  गुहा हितम्' इत्येतत् सम्यगभ्यधायि (ऋ. सं. २. ११. ५ ) ॥ उस्रियायाम् । प्रक्रिया सम्यक् पूर्वमेवावादि । विवेद । • विद ज्ञाने' ‘ विद्लृ लाभे' । एतयोर्लिटि रूपम् । शफवत् । शफोऽस्यास्तीति मतुप् । ‘ ह्रस्वनुड्भ्यां मतुप्' इति मतुप उदात्तत्वम् । नमे । ' णमु प्रह्वत्वे ' इत्यस्य लिटि रूपम् । द्विर्वचनस्य छन्दसि विकल्पितत्वादत्र द्विर्वचनाभावः । वाक्यभेदादनिघातः । गुह्यम् । ‘गुहू संवरणे' इत्यस्मात् ‘ शंसिगुहिदुहिभ्यो वेति वक्तव्यम्' इति क्यप् । कित्त्वादगुणः। प्रत्ययस्य पित्त्वादनुदात्तत्वे धातुस्वरः। दधे । दधातेर्लिटि रूपम् । दक्षिणावान् । ' दक्ष वृद्धौ '। 'द्रुदक्षिभ्यामिनन्' इति इनन्प्रत्ययः । तदस्यास्तीति मतुप् । संहितायाम् अन्येषामपि दृश्यते' इति पूर्वपदस्य दीर्घः । नित्स्वरः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Indra** discovered the sweet milk secreted in the cow, and thereupon, brought forth (from their concealment) the herd (of cattle) having feet and having hoofs; munificent (in gifts), he held in his right **hand** that which had been hidden in the cavern, which was concealed in the waters.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+He held in his right hand: i.e. he delivered the rains from their imprisonments in the clouds of the firmament
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Indra found the concentrated honey in the ruddy one, found the footed  and the hooved in the “bend of the cow.”  
+What was placed in hiding, fit to be hidden, hidden in the waters he took  in his right hand—he of right generous gifts.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+The 2nd hemistich has intensely alliterative (partially) etymological figures: gúhā hitáṃ gúhyaṃ gūḷhám apsú, háste dadhe dákṣiṇe dákṣiṇāvān. The first half is more restrained but note the morphological pair padvát … śaphávat and the repetition of viveda from 5d.
+
+The phrase náme goḥ is puzzling; Geldner refuses to tr. náme. Oldenberg suggests ‘Sichneigen’, which is essentially literal and not very helpful; Renou ‘domaine’, which makes sense but is not clearly related to its supposed etymon; Witzel Gotō “beim Zuteilen der Kuh,” also without accounting for the semantic development (or assuming a derivation from the separate PIE root *nem, as in Greek νέμω ‘distribute’?). Like Oldenberg I also take it literally, as the loc. sg. of a thematic noun to √nam ‘bend, bow’, but suggest that “the bend of the cow” is some sort of homely spatial metaphor drawn from knowledge of cow anatomy indicating a hidden or protected place. English ‘oxbow’ for a U-shaped configuration of a river is a similar application of pasturage terminology to physical space. Cf. also ukṣṇó rándhram (VIII.7.26) “the loins of the ox,” which I also think is a way of referring to the Vala cave. See comm. ad loc.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Indra found meath collected in the milch-cow, by foot and hoof, in the cow's place of pasture.  
+     That which lay secret, hidden in the waters, he held in his right hand, the rich rewarder.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Indra hat den in der Kuh aufgespeicherten Honig, alles was Füße und Klauen hat, in ... der Kuh gefunden. Den im Versteck Befindlichen, Versteckten, im Wasser Verborgenen nahm er in die rechte Hand, er der recht Belohnende.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Das in der Kuh gehäufte Süss fand Indra, mit Fuss und Huf begabte Heerd' auf Triften; Was heimlich, was verhüllt in Flut geborgen, das nahm er in die rechte Hand, der starke.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Индра нашел мед, сосредоточенный в корове – утренней заре,  
+По четверти, по восьмой – во владении (?) коровы.  
+Что было спрятано, что должно быть спрятано, упрятано в водах,  
+Он взял в правую руку, (этот бог) со щедрой правой (рукой).
+</details>

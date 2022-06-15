@@ -1,0 +1,167 @@
++++
+title = "011"
+devataa = "स्वाहाकृतयः"
+RShiH = "वसिष्ठः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+आ꣡ याहि अग्ने समिधानो꣡ अर्वा꣡ङ्  
+इ꣡न्द्रेण देवइः꣡ सर꣡थं तुरे꣡भिः  
+बर्हि꣡र् न आस्ताम् अ꣡दितिः सुपुत्रा꣡  
+स्वा꣡हा देवा꣡ अमृ꣡ता मादयन्ताम्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; repeated line  
+genre M;; repeated line  
+genre M;; repeated line  
+genre M;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ । या॒हि॒ । अ॒ग्ने॒ । स॒म्ऽइ॒धा॒नः । अ॒र्वाङ् । इन्द्रे॑ण । दे॒वैः । स॒ऽरथ॑म् । तु॒रेभिः॑ ।  
+ब॒र्हिः । नः॒ । आ॒स्ता॒म्् । अदि॑तिः । सु॒ऽपु॒त्रा । स्वाहा॑ । दे॒वाः । अ॒मृताः॑ । मा॒द॒य॒न्ता॒म् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *yāhy* ← *yāhi* ← *yā*
+- \[verb\], singular, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *samidhāno* ← *samidhānaḥ* ← *samindh* ← *√indh*
+- \[verb noun\], nominative, singular
+- “kindle; blaze.”
+------------------------------------------------------------------------
+- *arvāṅ* ← *arvāñc*
+- \[noun\], nominative, singular, masculine
+- “approaching; facing; less.”
+------------------------------------------------------------------------
+- *indreṇa* ← *indra*
+- \[noun\], instrumental, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *devaiḥ* ← *deva*
+- \[noun\], instrumental, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *sarathaṃ* ← *sa*
+- \[adverb\]
+- “with; little; together.”
+------------------------------------------------------------------------
+- *sarathaṃ* ← *ratham* ← *ratha*
+- \[noun\], accusative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *turebhiḥ* ← *tura*
+- \[noun\], instrumental, plural, masculine
+- “powerful; noble; noble.”
+------------------------------------------------------------------------
+- *barhir* ← *barhiḥ* ← *barhis*
+- \[noun\], accusative, singular, neuter
+- “Barhis; barhis \[word\].”
+------------------------------------------------------------------------
+- *na* ← *naḥ* ← *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *āstām* ← *ās*
+- \[verb\], singular, Present imperative
+- “sit; stay; sit down; dwell; lie; lie; exist.”
+------------------------------------------------------------------------
+- *aditiḥ* ← *aditi*
+- \[noun\], nominative, singular, feminine
+- “Aditi; aditi \[word\].”
+------------------------------------------------------------------------
+- *suputrā* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suputrā* ← *putrā* ← *putra*
+- \[noun\], nominative, singular, feminine
+- “son; putra \[word\]; male child; Putra; Bodhisattva.”
+------------------------------------------------------------------------
+- *svāhā*
+- \[adverb\]
+- “hail.”
+------------------------------------------------------------------------
+- *devā* ← *devāḥ* ← *deva*
+- \[noun\], nominative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *amṛtā* ← *amṛtāḥ* ← *amṛta*
+- \[noun\], nominative, plural, masculine
+- “immortal; amṛta; imperishable.”
+------------------------------------------------------------------------
+- *mādayantām* ← *māday* ← *√mad*
+- \[verb\], plural, Present imperative
+- “delight; enjoy; intoxicate.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **अग्ने** **समिधानः** **अर्वाक्** अस्मदभिमुखस्त्वम् **इन्द्रेण** **तुरेभिः** त्वरितैः **देवैः** च **सरथं** समानरथं यथा भवति तथा **आ** **याहि** आगच्छ । **नः** अस्माकं **बर्हिः** अधि **आस्ताम्** **अदितिः** च **सुपुत्रा** कल्याणपुत्रा । **स्वाहा** **देवाः** च सर्वे **अमृताः** सन्तः **मादयन्ताम्** इति ॥ ॥ ३ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Agni**, kindled (into flame), come to our presence in the same chariot with **Indra**, and with the swiftmoving gods; may **Aditi**, the mother of excellent sons, sit down on the sacred grass, and may the immortal godsbe satisfied with the reverentially-offered oblation.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Journey near here, o Agni, as you are kindled, on the same chariot with  Indra and the swift gods.  
+Let Aditi of good sons sit on our ritual grass. Svāhā! Let the immortal  gods rejoice!
+</details>
+
+<details><summary>+Griffith</summary>
+
+Come thou to us, O Agni, duly kindled, together with the potent Gods and Indra.  
+     On this our grass sit Aditi, happy Mother, and let our Hail! delight the Gods Immortal.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Komm entflammt näher, o Agni, mit Indra und den höheren Göttern auf gleichem Wagen! Auf unser Barhis soll sich Aditi, die Mutter guter Söhne setzen. Unter Svaharuf sollen sich die unsterblichen Götter ergötzen!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Entzündet komme noch herbei, o Agni, vereint mit Indra und den starken Göttern; Auf unsrer Streu sitz' Aditi, die Mutter, die Götter mögen sich zum Heil berauschen.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Зажженный, о Агни, приезжай к нам сюда  
+Вместе с Индрой, с могучими богами на одной колеснице!  
+Да усядется на нашей жертвенной соломе Адити, благословенная сыновьями!  
+(С возгласом:)  
+Свага!  
+пусть опьяняются бессмертные боги!
+</details>

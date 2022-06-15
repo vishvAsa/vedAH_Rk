@@ -1,0 +1,167 @@
++++
+title = "004"
+devataa = "अग्निः"
+RShiH = "त्रिशिरास्त्वाष्ट्रः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+उष꣡-उषो हि꣡ वसो अ꣡ग्रम् ए꣡षि  
+तुवं꣡ यम꣡योर् अभवो विभा꣡वा  
+ऋता꣡य सप्त꣡ दधिषे पदा꣡नि  
+जन꣡यन् मित्रं꣡ तनु꣡वे सुआ꣡यै
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒षःऽउ॑षः । हि । व॒सो॒ इति॑ । अग्र॑म् । एषि॑ । त्वम् । य॒मयोः॑ । अ॒भ॒वः॒ । वि॒भाऽवा॑ ।  
+ऋ॒ताय॑ । स॒प्त । द॒धि॒षे॒ । प॒दानि॑ । ज॒नय॑न् । मि॒त्रम् । त॒न्वे॑ । स्वायै॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *uṣa* ← *uṣaḥ* ← *uṣas*
+- \[noun\], vocative, singular
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *uṣo* ← *uṣaḥ* ← *uṣas*
+- \[noun\], vocative, singular
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *vaso* ← *vasu*
+- \[noun\], vocative, singular, masculine
+- “good; good; benign; vasu \[word\].”
+------------------------------------------------------------------------
+- *agram* ← *agra*
+- \[noun\], accusative, singular, neuter
+- “tip; beginning; peak; end; front; top; beginning; battlefront; agra
+    \[word\]; acme; fingertip; top; best; optimum; climax; matter;
+    glans.”
+------------------------------------------------------------------------
+- *eṣi* ← *i*
+- \[verb\], singular, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *tvaṃ* ← *tvam* ← *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *yamayor* ← *yamayoḥ* ← *yama*
+- \[noun\], genitive, dual, masculine
+- “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
+------------------------------------------------------------------------
+- *abhavo* ← *abhavaḥ* ← *bhū*
+- \[verb\], singular, Imperfect
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+------------------------------------------------------------------------
+- *vibhāvā* ← *vibhāvan*
+- \[noun\], nominative, singular, masculine
+- “illuminating; shining.”
+------------------------------------------------------------------------
+- *ṛtāya* ← *ṛta*
+- \[noun\], dative, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *sapta* ← *saptan*
+- \[noun\], accusative, singular, neuter
+- “seven; seventh.”
+------------------------------------------------------------------------
+- *dadhiṣe* ← *dhā*
+- \[verb\], singular, Perfect indicative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *padāni* ← *pada*
+- \[noun\], accusative, plural, neuter
+- “word; location; foot; footprint; pada \[word\]; verse; footstep;
+    metrical foot; situation; dwelling; state; step; mark; position;
+    trace; construction; animal foot; way; moment; social station;
+    topographic point; path; residence; site; topic.”
+------------------------------------------------------------------------
+- *janayan* ← *janay* ← *√jan*
+- \[verb noun\], nominative, singular
+- “cause; give birth; produce; beget; generate; originate; create;
+    create; make.”
+------------------------------------------------------------------------
+- *mitraṃ* ← *mitram* ← *mitra*
+- \[noun\], accusative, singular, masculine
+- “friend; Mitra; mitra \[word\]; sun; ally.”
+------------------------------------------------------------------------
+- *tanve* ← *tanū*
+- \[noun\], dative, singular, feminine
+- “body; self; own(a); person; form.”
+------------------------------------------------------------------------
+- *svāyai* ← *sva*
+- \[noun\], dative, singular, feminine
+- “own(a); respective(a); akin(p); sva \[word\]; individual;
+    present(a); independent.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **वसो** स्वेन तेजसा सर्वस्याच्छादयितर्वसुमन् वा प्रशस्य वा अग्ने **त्वम्** **उषउषः** सर्वस्या एवोषसः **अग्रं** पूर्वम् **एषि** प्राप्नोषि । अपि च **यमयोः** युग्मयोः परस्परमवियुक्तयोरहोरात्रयोः **विभावा** दीप्तिमान् **अभवः** भवसि । **तन्वे** **स्वायै** आत्मीयाच्छरीरात् **मित्रम्** आदित्यं **जनयन्** उत्पादयन् **सप्त** **पदानि** सप्तसंख्याकानि धिष्ण्यादिस्थानानि **ऋताय** यज्ञार्थं **दधिषे** धारयसि ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Opulent **Agni**, you precede dawn after dawn. You are the illuminator of the twin (day and night);engendering **Mitra** from your own person n, you retain seven plural ces for sacrifice.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Mitra: the sun; seven plural ces: theseven altars for the fire: dhisṇyā etc.
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Because you go at the forefront of every dawn, o good one, you have  become the far-radiant one at (the time of) the twins [=Night and  
+Dawn?].  
+For truth you have set your seven steps, begetting an alliance [/Mitra] for  the sake of your own body.
+</details>
+
+<details><summary>+Griffith</summary>
+
+For, Vasu thou precedest every Morning, and still hast been the Twins' illuminator.  
+     For sacrifice, seven places thou retainest while for thine own self thou engenderest Mitra.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Denn du gehst jeder Usas voraus, du Guter; du wardst der Erheller der beiden Zwillinge. Dem Gesetz hast du die sieben Schritte getan, dir selbst in ihm einen Freund schaffend.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Denn du, o guter, führst die Morgenröthen, du hast erhellt die Schwestern, Nacht und Morgen, Du hast gesetzt des Opfers sieben Stätten, den Freund erzeugend deinem eignen Leibe.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Ведь ты идешь впереди каждой утренней зари, о благой.  
+Ты был (тем, кто) освещает обоих близнецов.  
+Ради закона ты сделал семь шагов,  
+Создавая для себя самого дружеский союз.
+</details>

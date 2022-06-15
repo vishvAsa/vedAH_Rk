@@ -1,0 +1,144 @@
++++
+title = "002"
+devataa = "अग्निः"
+RShiH = "पराशरः शाक्त्यः"
+ChandaH = "द्विपदा विराट्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+सजो꣡षा धी꣡राः पदइ꣡र् अ꣡नु ग्मन्न्  
+उ꣡प त्वा सीदन् वि꣡श्वे य꣡जत्राः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
+genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒ऽजोषाः॑ । धीराः॑ । प॒दैः । अनु॑ । ग्म॒न् । उप॑ । त्वा॒ । सी॒द॒न् । विश्वे॑ । यज॑त्राः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *sajoṣā* ← *sa*
+- \[adverb\]
+- “with; little; together.”
+------------------------------------------------------------------------
+- *sajoṣā* ← *joṣāḥ* ← *joṣa*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *dhīrāḥ* ← *dhīra*
+- \[noun\], nominative, plural, masculine
+- “expert; wise; intelligent; versed; adept.”
+------------------------------------------------------------------------
+- *padair* ← *padaiḥ* ← *pada*
+- \[noun\], instrumental, plural, neuter
+- “word; location; foot; footprint; pada \[word\]; verse; footstep;
+    metrical foot; situation; dwelling; state; step; mark; position;
+    trace; construction; animal foot; way; moment; social station;
+    topographic point; path; residence; site; topic.”
+------------------------------------------------------------------------
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *gmann* ← *gman* ← *gam*
+- \[verb\], plural, Aorist inj. (proh.)
+- “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
+    leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
+    get; come; die; drain; spread; transform; happen; discharge; ride;
+    to be located; run; detect; refer; go; shall; drive.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *tvā* ← *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *sīdan* ← *sad*
+- \[verb\], plural, Present injunctive
+- “sit down; break down; slow; sink; crumble; fracture; perish; ride;
+    stop; besiege; tire.”
+------------------------------------------------------------------------
+- *viśve* ← *viśva*
+- \[noun\], nominative, plural, masculine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *yajatrāḥ* ← *yajatra*
+- \[noun\], nominative, plural, masculine
+- “adorable.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**धीराः** मेधाविनो देवाः **सजोषाः** समानप्रीतयः सन्तो हे अग्ने त्वां **पदैः** मार्गे पादकृतैर्लाञ्छनैः **अनु** **ग्मन्** अन्वगमन् । कीदृशम् । **पश्वा** अपहृतेन पशुना सह वर्तमानं **तायुं** **न** । तायुरिति स्तेननाम । यथा स्तेनः परकीयं पश्वादिधनमपहृत्य दुष्प्रवेशे गिरिगह्वरे वर्तते तद्वत् । **गुहा** **चतन्तं** अब्रूपायां गुहायां गच्छन्तं वर्तमानम् । चततिर्गतिकर्मा । तथा च तैत्तिरीयैरग्नेरप्सु प्रवेशः समाम्नायते-- ’ स निलायत सोऽपः प्राविशत् ' (तै. सं. २. ६. ६. १ ) इति । यद्वा । अश्वत्थगुहायां वर्तमानम्। श्रूयते च -– अग्निर्देवेभ्यो निलायत । अश्वो रूपं कृत्वा सोऽश्वत्थे संवत्सरमतिष्ठत् ' ( तै. ब्रा. १. १. ३. ९ ) इति । तथा **नमो** **युजानं** हविर्लक्षणमन्नमात्मना संयुजानं **नमो** **वहन्तं** देवेभ्यः प्रत्तं हविर्वहन्तम् । **यजत्राः** यजनीयाः **विश्वे** सर्वे देवा हे अग्ने **त्वा** त्वाम् **उप** **सीदन्** समीपं प्राप्नुवन्  ददृशुरित्यर्थः । पश्वा । तृतीयैकवचनस्य ' जसादिषु च्छन्दसि वावचनम् ' इति नाभावाभावः । ‘उदात्तयण: ' इति विभक्तेरुदात्तत्वम् । गुहा । भिदादिषु पाठात् अङ्गप्रत्ययान्तः । वृषादिषु पाठादाद्युदात्तत्वम् ।' सुपा सुलुक्' इति सप्तम्या लुक् । युजानम् । शानचि ‘बहुलं छन्दसि ' इति विकरणस्य लुक् । सजोषाः । ‘ जुषी प्रीतिसेवनयोः'। समानं जुषन्त इति सजोषसः । ‘ समानस्य च्छन्दसि° ' इति सभावः । कृदुत्तरपदप्रकृतिस्वरत्वम् । ‘सुपां सुलुक्' इति जसः सुः । ग्मन् । गमेर्लुङि ‘ मन्त्रे घस ' इति च्लेर्लुक् ।' गमहन° ' इत्यादिना उपधालोपः । ‘ बहुलं छन्दस्यमाङ्योगेऽपि ' इति अडभावः । यजत्राः ।“ अमिनक्षि' इत्यादिना अत्रन्प्रत्ययः । नित्त्वादाद्युदात्तत्वम् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+(You) did the clever, of one accord, follow along your tracks;  
+all those worthy of the sacrifice reverently approached you.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+something else is enclosing Agni, configured as a calf (vátsaṃ), using pári √as.
+
+(I wonder if the somewhat pleonastic+++(=redundant)+++ presence of bhúvat in our passage is meant to resonate with those pári √bhū passages.) Thus, though in our passage Agni is clearly the object of enclosure in the myth of his hiding in the waters, he himself can take the role of encloser in this tight-knit collection - allowing for the possibility that he might here be supplied as subjective genitive with páriṣṭiḥ, save for the mythological context.
+
+All in all, I.65.3cd packs a lot into its ten syllables and five words, as witnessed by the many more words (more than ten times as many) in this entry required to describe its syntactic and semantic tricks.
+
+
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/065/02-03.md">
+<details open><summary><h2>02-03 ...{Loading}...</h2></summary>
+
+These verses contain 3rd pl. act. root aorists ánu gman (2b) and ánu … guḥ (3b) to the associated roots √gam and √gā respectively, with no apparent difference in semantics. Here one might almost invoke the much over-used explanation of metrical convenience: both of these 3rd plurals are always (gman) or almost always (guḥ) pāda-final, with the first “making position” with a preceding light syllable (often ánu) and the latter not.
+
+</details>
+</div>
+</details>
+
+<details><summary>+Griffith</summary>
+
+The Gods approached the ways of holy Law; there was a gathering vast as heaven itself.  
+     The waters feed with praise the growing Babe, born nobly in the womb, the seat of Law.
+</details>
+
+<details><summary>+Oldenberg</summary>
+
+The wise unanimously followed by thy foot-marks 1. All (gods) deserving worship (reverentially) sat down near thee.
+</details>
+
+<details><summary>+Geldner</summary>
+
+ihm gingen die Weisen einträchtig auf seinen Spuren nach. Dir nahten alle Opferwürdigen.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Dir nahten einig, – die weisen schreitend, wie einem Viehdieb, – der sich versteckt hält, Die hehren alle, – um dich sich setzend, Der Andacht anschirrt – und Andacht fähret.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

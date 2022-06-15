@@ -1,0 +1,164 @@
++++
+title = "020"
+devataa = "इन्द्रः"
+RShiH = "शंयुर्बार्हस्पत्यः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+आ꣡ ते वृषन् वृ꣡षणो द्रो꣡णम् अस्थुर्  
+घृतप्रु꣡षो न꣡ ऊर्म꣡यो म꣡दन्तः  
+इ꣡न्द्र प्र꣡ तु꣡भ्यं वृ꣡षभिः सुता꣡नां  
+वृ꣡ष्णे भरन्ति वृषभा꣡य सो꣡मम्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ । ते॒ । वृ॒ष॒न् । वृष॑णः । द्रोण॑म् । अ॒स्थुः॒ । घृ॒त॒ऽप्रुषः॑ । न । ऊ॒र्मयः॑ । मद॑न्तः ।  
+इन्द्र॑ । प्र । तुभ्य॑म् । वृष॑ऽभिः । सु॒ताना॑म् । वृष्णे॑ । भ॒र॒न्ति॒ । वृ॒ष॒भाय॑ । सोम॑म् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *te* ← *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *vṛṣan*
+- \[noun\], vocative, singular, masculine
+- “bullocky; potent; powerful; strong; manly; aroused; potent;
+    much(a); male; large.”
+------------------------------------------------------------------------
+- *vṛṣaṇo* ← *vṛṣaṇaḥ* ← *vṛṣan*
+- \[noun\], nominative, plural, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *droṇam* ← *droṇa*
+- \[noun\], accusative, singular, masculine
+- “Droṇa; Droṇa; Droṇa; droṇa \[word\]; raven.”
+------------------------------------------------------------------------
+- *asthur* ← *asthuḥ* ← *sthā*
+- \[verb\], plural, Root aorist (Ind.)
+- “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
+    stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
+    last; dwell; lie; stand; stop.”
+------------------------------------------------------------------------
+- *ghṛtapruṣo* ← *ghṛta*
+- \[noun\], neuter
+- “ghee; fat.”
+------------------------------------------------------------------------
+- *ghṛtapruṣo* ← *pruṣaḥ* ← *pruṣ*
+- \[noun\], nominative, plural, masculine
+- “dropping.”
+------------------------------------------------------------------------
+- *normayo* ← *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *normayo* ← *ūrmayaḥ* ← *ūrmi*
+- \[noun\], nominative, plural, masculine
+- “wave; billow.”
+------------------------------------------------------------------------
+- *madantaḥ* ← *mad*
+- \[verb noun\], nominative, plural
+- “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *tubhyaṃ* ← *tubhyam* ← *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *vṛṣabhiḥ* ← *vṛṣan*
+- \[noun\], instrumental, plural, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *sutānāṃ* ← *sutānām* ← *su*
+- \[verb noun\], genitive, plural
+- “press out; su.”
+------------------------------------------------------------------------
+- *vṛṣṇe* ← *vṛṣan*
+- \[noun\], dative, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *bharanti* ← *bhṛ*
+- \[verb\], plural, Present indikative
+- “bring; hold; fill; support; wear; possess; carry; nourish; keep;
+    hire; have; satiate; follow; bear.”
+------------------------------------------------------------------------
+- *vṛṣabhāya* ← *vṛṣabha*
+- \[noun\], dative, singular, masculine
+- “bull; Vṛṣabha; Vṛṣabha; best.”
+------------------------------------------------------------------------
+- *somam* ← *soma*
+- \[noun\], accusative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **वृषन्** कामानां वर्षितरिन्द्र **वृषणः** सेक्तारो युवानस्त्वदीया अश्वाः **घृतप्रुषः** **नोर्मयः** घृतमुदकं सिञ्चन्तः सामुद्रास्तरङ्गा इव **मदन्तः** हृष्यन्तो मत्ताः सन्तः **ते** त्वदीयं **द्रोणं** द्रुममयं रथम् **आ** **अस्थुः** आतिष्ठन्त । अतस्त्वमागच्छेति भावः । कुत इत्यत आह । हे **इन्द्र** **वृष्णे** यूने नित्यतरुणाय **वृषभाय** कामानां वर्षयित्रे **तुभ्यं** **वृषभिः** कामाभिवर्षकैर्ग्रावभिः **सुतानाम्** अभिषुतानां सोमानां मध्ये त्वद्भागरूपं **सोमं** यस्मादध्वर्यवः **प्र** **भरन्ति** प्रहरन्ति होमार्थं प्रणयन्ति तस्मादागच्छेत्यर्थः ॥ ॥ १९ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Showerer (of benefits), your vigorous water-shedding steeds, like the waves (of the sea), exulting, are harnessed to your car; for they, (the priests), offer to you, the showerer (of benefits), ever youthful, the libation of the **Soma** expressed by the stones.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+The bulls have mounted the wooden cup for you, o bull, like waves  spraying ghee as they bring exhilaration.  
+Indra, to you, the bullish bull, they present soma from out of the  (drops) pressed by bulls.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Beside the vat, Strong God! stand thy strong Horses, shining with holy oil, like waves exulting.  
+     Indra, they bring to thee, the Strong and Mighty, Soma of juices shed by mighty press-stones.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Für dich, du Riesiger, sind die riesigen Tränke in die Holzkufe gestiegen, schmalzspritzend rauschend wie die Wellen. Indra, dir setzen sie den von Riesenstarken gepreßten Säften, dir dem riesigen Bullen den Soma vor.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+O Stier, zur Kufe eilten deine Stiere, wie fettbenetzte Wellen munter hüpfend; O Indra, dir, dem starken Stiere, brachte man Soma dar, den Saft, den Stiere pressten.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Для тебя, о бык, быки вошли в деревянный сосуд,  
+Брызгая жиром, бурные, как волны.  
+О Индра, тебе, могучему быку, подносят  
+Сому из соков, выжатых быками.
+</details>

@@ -1,0 +1,161 @@
++++
+title = "013"
+devataa = "मरुतः"
+RShiH = "श्यावाश्व आत्रेयः"
+ChandaH = "सतो बृहती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+ये꣡न तोका꣡य त꣡नयाय धानि꣡यम्  
+बी꣡जं व꣡हध्वे अ꣡क्षितम्  
+अस्म꣡भ्यं त꣡द् धत्तन य꣡द् व ई꣡महे  
+रा꣡धो विश्वा꣡यु सउ꣡भगम्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+येन॑ । तो॒काय॑ । तन॑याय । धा॒न्य॑म् । बीज॑म् । वह॑ध्वे । अक्षि॑तम् ।  
+अ॒स्मभ्य॑म् । तत् । ध॒त्त॒न॒ । यत् । वः॒ । ईम॑हे । राधः॑ । वि॒श्वऽआ॑यु । सौभ॑गम् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *yena* ← *yad*
+- \[noun\], instrumental, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *tokāya* ← *toka*
+- \[noun\], dative, singular, neuter
+- “offspring.”
+------------------------------------------------------------------------
+- *tanayāya* ← *tanaya*
+- \[noun\], dative, singular, neuter
+- “biological.”
+------------------------------------------------------------------------
+- *dhānyam* ← *dhānya*
+- \[noun\], accusative, singular, neuter
+- “grain; Coriander; corn; food; plant.”
+------------------------------------------------------------------------
+- *bījaṃ* ← *bījam* ← *bīja*
+- \[noun\], accusative, singular, neuter
+- “bīja; seed; semen; bīja; beginning; menorrhea; bīja \[word\];
+    footing; cause; origin; method; bead.”
+------------------------------------------------------------------------
+- *vahadhve* ← *vah*
+- \[verb\], plural, Present indikative
+- “transport; bring; marry; run; drive; vāhay; drive; run; pull;
+    nirvāpay; blow; transport; discharge; assume; remove.”
+------------------------------------------------------------------------
+- *akṣitam* ← *akṣita*
+- \[noun\], accusative, singular, neuter
+- “undecaying; uninjured.”
+------------------------------------------------------------------------
+- *asmabhyaṃ* ← *asmabhyam* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *tad* ← *tat* ← *tad*
+- \[noun\], accusative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *dhattana* ← *dhā*
+- \[verb\], plural, Present imperative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *yad* ← *yat* ← *yad*
+- \[noun\], accusative, singular, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *va* ← *vaḥ* ← *tvad*
+- \[noun\], accusative, plural
+- “you.”
+------------------------------------------------------------------------
+- *īmahe* ← *ī* ← *√i*
+- \[verb\], plural, Present indikative
+- “beg; solicit.”
+------------------------------------------------------------------------
+- *rādho* ← *rādhaḥ* ← *rādhas*
+- \[noun\], accusative, singular, neuter
+- “gift; munificence; liberality; bounty.”
+------------------------------------------------------------------------
+- *viśvāyu*
+- \[noun\], accusative, singular, neuter
+- “lifelong.”
+------------------------------------------------------------------------
+- *saubhagam* ← *saubhaga*
+- \[noun\], accusative, singular, neuter
+- “well-being.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे मरुतः **येन** सदयेन मनसा **तोकाय** पुत्राय **तनयाय** तहपुत्राय धनाय वा **धान्यं** **बीजम्** **अक्षितम्** अक्षीणं **वहध्वे** धारयध्वे तेन चित्तेन **अस्मभ्यं** **तत्** धान्यं बीजं **धत्तन** । **यत्** च **वः** युष्मान् **ईमहे** याचामहे **राधः** धनं **विश्वायु** सर्वान्नोपेतं कृत्स्नायुष्योपेतं वा **सौभगं** सौभाग्यं च तद्धत्तनेति समन्वयः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“With the same (goodwill) that you bestow imperishable grain-seed upon a son or grandson, bestow it upon us, for we ask of you life-sustaining and auspicious wealth.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Imperishable grain-seed: dhānyam bījam akṣitam: unperishing grain-seed
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+—Along which (course) you convey the imperishable granular seed to  offspring and descendants.  
+Establish for us what we implore you for: generosity through our whole  lifetime and good fortune.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+With the standard tr. I take yéna in pāda as referring to enā́yā́mena in the previous vs. (12c).
+
+I tr. dhānyà- lit., ‘related to grain (dhānā́), as ‘granular’, because I think it refers both to the raindrops, shaped like grain, and the actual grain that results from the rain.
+
+I.57.1 rā́dho víśvā́yu suggests that viśvā́yu belongs to what precedes, rather than to saúbhagam as Geldner and Renou take it.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Vouchsafe to us the bounty, that which we implore, through which, for child and progeny,  
+     Ye give the seed of corn that wasteth not away, and bliss that reacheth to all life.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Mit der ihr für leiblichen Nachwuchs das unversiegliche Saatkorn bringt? Gewähret uns die Gabe, um die wir euch bitten, um Glück für das ganze Leben!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Den Schatz gewährt uns, den, um welchen wir euch flehn, durch den für Kind und Enkel ihr Getreidesamen bringet, unvergänglichen, das Glück, das alles Leben schafft.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+По которому для (наших) детей, (нашего) потомства  
+Вы привозите урожай – нерушимое зерно?  
+Дайте нам тот дар, о котором мы вас просим –  
+Счастье, длящееся весь век!
+</details>

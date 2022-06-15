@@ -1,0 +1,176 @@
++++
+title = "005"
+devataa = "इन्द्राग्नी"
+RShiH = "कुत्स आङ्गिरसः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+या꣡नीन्द्राग्नी चक्र꣡थुर् वीरि꣡याणि  
+या꣡नि रूपा꣡णि उत꣡ वृ꣡ष्णियानि  
+या꣡ वाम् प्रत्ना꣡नि सखिया꣡ शिवा꣡नि  
+ते꣡भिः सो꣡मस्य पिबतं सुत꣡स्य
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यानि॑ । इ॒न्द्रा॒ग्नी॒ इति॑ । च॒क्रथुः॑ । वी॒र्या॑णि । यानि॑ । रू॒पाणि॑ । उ॒त । वृष्ण्या॑नि ।  
+या । वा॒म् । प्र॒त्नानि॑ । स॒ख्या । शि॒वानि॑ । तेभिः॑ । सोम॑स्य । पि॒ब॒त॒म् । सु॒तस्य॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *yānīndrāgnī* ← *yāni* ← *yad*
+- \[noun\], accusative, plural, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *yānīndrāgnī* ← *indra*
+- \[noun\], masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *yānīndrāgnī* ← *agnī* ← *agni*
+- \[noun\], vocative, dual, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *cakrathur* ← *cakrathuḥ* ← *kṛ*
+- \[verb\], dual, Perfect indicative
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *vīryāṇi* ← *vīrya*
+- \[noun\], accusative, plural, neuter
+- “potency; vīrya; heroism; potency; strength; semen; power; deed;
+    active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
+    virility; manfulness; jewel; force.”
+------------------------------------------------------------------------
+- *yāni* ← *yad*
+- \[noun\], accusative, plural, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *rūpāṇy* ← *rūpāṇi* ← *rūpa*
+- \[noun\], accusative, plural, neuter
+- “form; appearance; beauty; look; shape; shape; symptom; feature;
+    nature; guise; rūpa \[word\]; one; appearance; likeness; color;
+    kind; vowel; type; disguise; aspect; form; derivative; omen;
+    vision.”
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *vṛṣṇyāni* ← *vṛṣṇya*
+- \[noun\], accusative, plural, neuter
+- “manfulness; virility.”
+------------------------------------------------------------------------
+- *yā* ← *yad*
+- \[noun\], nominative, plural, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *vām* ← *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *pratnāni* ← *pratna*
+- \[noun\], nominative, plural, neuter
+- “age-old; pratna \[word\].”
+------------------------------------------------------------------------
+- *sakhyā* ← *sakhya*
+- \[noun\], nominative, plural, neuter
+- “friendship; aid; company.”
+------------------------------------------------------------------------
+- *śivāni* ← *śiva*
+- \[noun\], nominative, plural, neuter
+- “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
+    holy; nice.”
+------------------------------------------------------------------------
+- *tebhiḥ* ← *tad*
+- \[noun\], instrumental, plural, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *somasya* ← *soma*
+- \[noun\], genitive, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *pibataṃ* ← *pibatam* ← *pā*
+- \[verb\], dual, Present imperative
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------
+- *sutasya* ← *su*
+- \[verb noun\], genitive, singular
+- “press out; su.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **इन्द्राग्नी** **यानि** **वीर्याणि** वृत्रवधादिरूपाणि **चक्रथुः** कृतवन्तौ युवां **यानि** च **रूपाणि** निरूप्यमाणानि गवाश्वादीनि भूतजातानि कृतवन्तौ । इन्द्राग्निभ्यां हि सर्वं जगत् सृज्यते । इन्द्रः सूर्यात्मना वृष्टिं सृजत्यग्निश्चाहुतिद्वारा वृष्टयुत्पादकः। वृष्टेः सकाशात् सर्वे प्राणिन उत्पद्यन्ते । **उत** अवि च यानि **वृष्ण्यानि** वृष्णि भवानि वृष्टिप्रदानादिरूपाणि कर्माणि कृतवन्तौ । तथा **वां** युवयोः संबन्धीनि **प्रत्नानि** चिरंतनानि **शिवानि** शोभनानि **या** यानि **सख्या** सखित्वानि सन्ति । **तेभिः** तैः सर्वैः सहितौ युवां **सुतस्य** **सोमस्य** अभिषुतं सोमं **पिबतम्** ॥ सख्या । सख्युर्भावः सख्यम् ।  ‘ सख्युर्यः' इति यप्रत्ययः ।  ‘ शेश्छन्दसि बहुलम्' इति शेर्लोपः । तेभिः ।  ‘ बहुलं छन्दसि' इति भिस ऐसभावः ।  ‘ सावेकाचः' इति प्राप्तस्य विभक्त्युदात्तत्वस्य  ‘ न गोश्वन्साववर्ण ' इति प्रतिषेधः ॥ ॥ २६ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Whatever heroic exploits you ahve achieved whatever forms (you have created), whatever benefits (you have poured down), whatever ancient and fortunate friendships (you have contracted, come with them all), and drink of the effused **Soma**.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+O Indra and Agni, which manly deeds you two have done; which forms  and bullish powers you have made your own;  
+which age-old propitious partnerships are yours—with these, drink of  the pressed soma.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+I read cakrathuḥ of a also with b, though in a different sense. Ideally for this sense (‘assumed, made your own’) the verb of b would have been med. cakrāthe.
+
+The referents of tébhiḥ in d are syntactically the neut. yā́(ni) phrases in abc, but it doesn’t make much sense to “drink with” those particular referents. It would be possible to tr. tébhiḥ more heavily as “because of these” or the like, but I think the answer is simpler: rhetorical patterning trumps semantics. The poet is leading up to the loosely attached refrain of vss. 6-12, whose last pāda is identical to 5d but with áthā rather than tébhiḥ; the tébhiḥ here serves as a transition between the earlier verses, where the d pāda is integrated into the verse and the refrain-marked verses to come. It is grammatically connected to but semantically estranged from the first three pādas of 5.
+</details>
+
+<details><summary>+Griffith</summary>
+
+The brave deeds ye have done, Indra and Agni, the forms ye have displayed and mighty exploits,  
+     The ancient and auspicious bonds of friendship,--for sake of these drink of the flowing Soma.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Welche Heldentaten ihr getan habt, welche Gestalten und Kräfte ihr angenommen habt, Indra und Agni, was eure alte liebe Freundschaft ist, mit all diesen trinket vom gepreßten Soma!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+O Indra-Agni, welche Heldenthaten, gewalt'ge, schöne Werke ihr vollbracht habt, Welch alte, hehre Freunde euch geleiten, mit denen trinkt vom ausgepressten Soma.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+(Те) героические подвиги, о Индра и Агни, что вы совершили,  
+Облики, что (вы принимали), а также силы мужества,  
+Те прежние ваши милые проявления дружбы –  
+С ними пейте выжатого сому!
+</details>

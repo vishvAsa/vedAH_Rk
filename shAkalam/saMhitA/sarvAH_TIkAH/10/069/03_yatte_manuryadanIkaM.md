@@ -1,0 +1,189 @@
++++
+title = "003"
+devataa = "अग्निः"
+RShiH = "सुमित्रो वाध्र्यश्वः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+य꣡त् ते म꣡नुर् य꣡द् अ꣡नीकं सुमित्रः꣡  
+समीधे꣡ अग्ने त꣡द् इदं꣡ न꣡वीयः  
+स꣡ रेव꣡च् छोच स꣡ गि꣡रो जुषस्व  
+स꣡ वा꣡जं दर्षि स꣡ इह꣡ श्र꣡वो धाः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । ते॒ । मनुः॑ । यत् । अनी॑कम् । सु॒ऽमि॒त्रः । स॒म्ऽई॒धे । अ॒ग्ने॒ । तत् । इ॒दम् । नवी॑यः ।  
+सः । रे॒वत् । शो॒च॒ । सः । गिरः॑ । जु॒ष॒स्व॒ । सः । वाज॑म् । द॒र्षि॒ । सः । इ॒ह । श्रवः॑ । धाः॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *yat* ← *yad*
+- \[noun\], accusative, singular, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *te* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *manur* ← *manuḥ* ← *manu*
+- \[noun\], nominative, singular, masculine
+- “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
+    incantation; sacred text.”
+------------------------------------------------------------------------
+- *yad* ← *yat* ← *yad*
+- \[noun\], accusative, singular, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *anīkaṃ* ← *anīkam* ← *anīka*
+- \[noun\], accusative, singular, neuter
+- “army; face; battalion; battlefront; point; appearance.”
+------------------------------------------------------------------------
+- *sumitraḥ* ← *sumitra*
+- \[noun\], nominative, singular, masculine
+- “Sumitra; Sumitra.”
+------------------------------------------------------------------------
+- *samīdhe* ← *samindh* ← *√indh*
+- \[verb\], singular, Perfect indicative
+- “kindle; blaze.”
+------------------------------------------------------------------------
+- *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *tad* ← *tat* ← *tad*
+- \[noun\], nominative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *idaṃ* ← *idam*
+- \[noun\], nominative, singular, neuter
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *navīyaḥ* ← *navīyas*
+- \[noun\], nominative, singular, neuter
+- “new; fresh; up-to-the-minute.”
+------------------------------------------------------------------------
+- *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *revacchoca* ← *revat*
+- \[noun\], accusative, singular, neuter
+- “abundant; rich; affluent; brilliant; brilliant.”
+------------------------------------------------------------------------
+- *revacchoca* ← *śoca* ← *śuc*
+- \[verb\], singular, Present imperative
+- “mourn; grieve; flame; glow; burn; repent.”
+------------------------------------------------------------------------
+- *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *giro* ← *giraḥ* ← *gir*
+- \[noun\], accusative, plural, feminine
+- “hymn; praise; voice; words; invocation; command; statement; cry;
+    language.”
+------------------------------------------------------------------------
+- *juṣasva* ← *juṣ*
+- \[verb\], singular, Present imperative
+- “enjoy; endow; possess; frequent; accompany; induce; consume;
+    approve; affect; attend; befit; blend; contract.”
+------------------------------------------------------------------------
+- *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *vājaṃ* ← *vājam* ← *vāja*
+- \[noun\], accusative, singular, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *darṣi* ← *dṛ*
+- \[verb\], singular, Present indikative
+- “burst; burst.”
+------------------------------------------------------------------------
+- *sa* ← *saḥ* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *iha*
+- \[adverb\]
+- “here; now; in this world; now; below; there; here; just.”
+------------------------------------------------------------------------
+- *śravo* ← *śravaḥ* ← *śravas*
+- \[noun\], accusative, singular, neuter
+- “fame; glory; ear.”
+------------------------------------------------------------------------
+- *dhāḥ* ← *dhā*
+- \[verb\], singular, Aorist inj. (proh.)
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **अग्ने** **ते** त्वदीयं **यत्** **अनीकं** रश्मिसंघं **मनुः** एतन्नामकः यथा **समीधे** हविर्भिः सम्यग्दीपयति **सुमित्रः** एतन्नामकोऽहं समीधे सम्यग्दीपयामि। ‘ ञिइन्धी दीप्तौ'। लिटि ‘ इन्धिभवतिभ्यां च' इति कित्त्वान्नलोपः । **तदिदं** सोऽयं रश्मिसंधः **नवीयः** नवतरो भवतु । **सः** त्वं **रेवत्** धनयुक्तं यथा भवति तथा **शोच** प्रज्वल । **सः** एव त्वं **गिरः** अस्मदीयाः स्तुतीः **जुषस्व** सेवस्व । **सः** त्वं **वाजं** शत्रुबलं **दर्षि** विदारय । तथा **इह** मयि **श्रवः** अन्नं **धाः** धेहि ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“May that your army of flame, **Agni**, which **Manu**, which **Sumitra** has kindled, be the newest; do youshine wealthily; do you graciously accept our praises; do you destroy the might (of our foes), do you grant usabundance.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Which face of yours Manu kindled, which (did) the good ally, o Agni,  that is this one here anew.  
+Blaze richly; take pleasure in the songs. Break out the prize; confer  
+fame here.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Still newest is this face of thine, O Agni, which Manu and Sumitra have enkindled.  
+     So richly shine, accept our songs with favour, so give us strengthening food, so send us glory.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Dein Antlitz, das Manu, das Sumitra entflammt hat, o Agni, dies ist auch das allerneueste. Flamme prangend, hab an der Lobrede Gefallen, schlag Lohn heraus, bringe Ruhm ein!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Die Glanzgestalt, die Manu, die Sumitra dir hat entflammt, die strahlt, o Agni, neu hier; So leuchte hell, nimm freundlich an die Lieder, erschliesse Gut, und schenk uns reiche Schätze.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

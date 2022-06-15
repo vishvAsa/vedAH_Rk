@@ -1,0 +1,161 @@
++++
+title = "002"
+devataa = "इन्द्रः"
+RShiH = "रेणुः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+स꣡ सू꣡रियः प꣡रि उरू꣡ व꣡रांसि  
+ए꣡न्द्रो ववृत्याद् र꣡थियेव चक्रा꣡  
+अ꣡तिष्ठन्तम् अपसि꣡यं न꣡ स꣡र्गं  
+कृष्णा꣡ त꣡मांसि त्वि꣡षिया जघान
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सः । सूर्यः॑ । परि॑ । उ॒रु । वरां॑सि । आ । इन्द्रः॑ । व॒वृ॒त्या॒त् । रथ्या॑ऽइव । च॒क्रा ।  
+अति॑ष्ठन्तम् । अ॒प॒स्य॑म् । न । सर्ग॑म् । कृ॒ष्णा । तमां॑सि । त्विष्या॑ । ज॒घा॒न॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *sūryaḥ* ← *sūrya*
+- \[noun\], nominative, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+------------------------------------------------------------------------
+- *pary* ← *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *urū* ← *uru*
+- \[noun\], accusative, plural, neuter
+- “wide; broad; great; uru \[word\]; much(a); excellent.”
+------------------------------------------------------------------------
+- *varāṃsy* ← *varāṃsi* ← *varas*
+- \[noun\], accusative, plural, neuter
+------------------------------------------------------------------------
+- *endro* ← *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *endro* ← *indraḥ* ← *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *vavṛtyād* ← *vavṛtyāt* ← *vṛt*
+- \[verb\], singular, Perfect optative
+- “behave; happen; exist; return; dwell; die; roll; continue; act;
+    exist; feed on; issue; move; travel; proceed; turn; situate; drive;
+    account for; begin; do; inhere; revolve.”
+------------------------------------------------------------------------
+- *rathyeva* ← *rathyā* ← *rathya*
+- \[noun\], accusative, plural, neuter
+------------------------------------------------------------------------
+- *rathyeva* ← *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *cakrā* ← *cakra*
+- \[noun\], accusative, plural, neuter
+- “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
+    group.”
+------------------------------------------------------------------------
+- *atiṣṭhantam* ← *atiṣṭhat*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *apasyaṃ* ← *apasyam* ← *apasya*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *sargaṃ* ← *sargam* ← *sarga*
+- \[noun\], accusative, singular, masculine
+- “Creation; metempsychosis; discharge; torrent; birth; undertaking.”
+------------------------------------------------------------------------
+- *kṛṣṇā* ← *kṛṣṇa*
+- \[noun\], accusative, plural, neuter
+- “black; dark; dark; blue; black.”
+------------------------------------------------------------------------
+- *tamāṃsi* ← *tamas*
+- \[noun\], accusative, plural, neuter
+- “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
+    ignorance.”
+------------------------------------------------------------------------
+- *tviṣyā* ← *tviṣi*
+- \[noun\], instrumental, singular, feminine
+------------------------------------------------------------------------
+- *jaghāna* ← *han*
+- \[verb\], singular, Perfect indicative
+- “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
+    paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
+    affect; strike; hammer; love; obstruct; shoot.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**सूर्यः** सुवीर्यः **सः** प्रसिद्धः **इन्द्रः** **उरु** बहूनि **वरांसि** तेजांसि **परि** **आ** **ववृत्यात्** पर्यावर्तयति । तत्र दृष्टान्तः । **रथ्येव** यथा सारथी रथसंबन्धीनि **चक्रा** चक्राणि आवर्तयति तद्वदित्यर्थः। किंच सोऽयम् **अतिष्ठन्तं** शीघ्रं गच्छन्तम् **अपस्यं** **न** कर्मण्यमिव **सर्गम्** । सृज्यत इति सर्गोऽश्वः । तं **कृष्णा** कृष्णानि **तमांसि** **त्विष्या** दीप्त्या **जघान** हन्ति ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The heroic **Indra** causes numerous rays of light revolve as a charioteer (effects the rotation of) thewheels of the chariot; he destroys by his radiance the black darkness like a restless active horse.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+(As) the sun (turns) around the wide expanses, Indra should cause to  turn here, like chariot wheels,  
+the one [=the sun?] that like a busy surge never stands still. He has  
+smashed the black shades of darkness with his flaring.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Surya is he: throughout the wide expanses shall Indra turn him, swift as car-wheels, hither,  
+     Like a stream resting not but ever active he hath destroyed, with light, the blackhued darkness.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Dieser Surya umkreist die weiten Räume. Indra möge wie die Wagenräder ihn herdrehen, der wie ein emsiger Strom nie stillsteht. Er zerstörte das schwarze Dunkel durch seinen Strahlenglanz.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Er liess die Sonne durch die weiten Räume hinrollen, Indra, wie des Wagens Räder; Wie einen Strom, der nimmer rastend wirket, das schwarze Dunkel schlug mit ihrem Licht er.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Этот Сурья (охватил) кругом широкие просторы.  
+Пусть Индра поворачивает его, как колеса колесницы,  
+(Этого) неостанавливающегося, словно деятельный поток.  
+Черный мрак он убил (своим) блеском.
+</details>

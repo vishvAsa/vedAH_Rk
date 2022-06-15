@@ -1,0 +1,161 @@
++++
+title = "003"
+devataa = "इन्द्रः"
+RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+स꣡ मा꣡हिन इ꣡न्दरो+ अ꣡र्णो अपा꣡म्  
+प्र꣡ ऐरयद् अहिहा꣡छा समुद्र꣡म्  
+अ꣡जनयत् सू꣡रियं विद꣡द् गा꣡  
+अक्तु꣡ना अ꣡ह्नां वयु꣡नानि साधत्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सः । माहि॑नः । इन्द्रः॑ । अर्णः॑ । अ॒पाम् । प्र । ऐ॒र॒य॒त् । अ॒हि॒ऽहा । अच्छ॑ । स॒मु॒द्रम् ।  
+अज॑नयत् । सूर्य॑म् । वि॒दत् । गाः । अ॒क्तुना॑ । अह्ना॑म् । व॒युना॑नि । सा॒ध॒त् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *māhina* ← *māhinaḥ* ← *māhina*
+- \[noun\], nominative, singular, masculine
+- “mighty; large.”
+------------------------------------------------------------------------
+- *indro* ← *indraḥ* ← *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *arṇo* ← *arṇaḥ* ← *arṇas*
+- \[noun\], accusative, singular, neuter
+- “body of water; water.”
+------------------------------------------------------------------------
+- *apām* ← *ap*
+- \[noun\], genitive, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *prairayad* ← *prairayat* ← *preray* ← *√īr*
+- \[verb\], singular, Imperfect
+- “propel; throw.”
+------------------------------------------------------------------------
+- *ahihācchā* ← *ahi*
+- \[noun\], masculine
+- “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
+------------------------------------------------------------------------
+- *ahihācchā* ← *hā* ← *han*
+- \[noun\], nominative, singular, masculine
+- “killing; curative; destroying; removing; māraka; stabbing.”
+------------------------------------------------------------------------
+- *ahihācchā* ← *acchā*
+- \[adverb\]
+- “towards; accha \[prefix\].”
+------------------------------------------------------------------------
+- *samudram* ← *samudra*
+- \[noun\], accusative, singular, masculine
+- “ocean; Samudra; sea; samudra \[word\]; four.”
+------------------------------------------------------------------------
+- *ajanayat* ← *janay* ← *√jan*
+- \[verb\], singular, Imperfect
+- “cause; give birth; produce; beget; generate; originate; create;
+    create; make.”
+------------------------------------------------------------------------
+- *sūryaṃ* ← *sūryam* ← *sūrya*
+- \[noun\], accusative, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+------------------------------------------------------------------------
+- *vidad* ← *vidat* ← *vid*
+- \[verb\], singular, Aorist inj. (proh.)
+- “find; detect; marry; get; think.”
+------------------------------------------------------------------------
+- *gā* ← *gāḥ* ← *go*
+- \[noun\], accusative, plural, masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *aktunāhnāṃ* ← *aktunā* ← *aktu*
+- \[noun\], instrumental, singular, masculine
+- “night; dark; beam.”
+------------------------------------------------------------------------
+- *aktunāhnāṃ* ← *ahnām* ← *ahar*
+- \[noun\], genitive, plural, neuter
+- “day; day; ahar \[word\]; day; day.”
+------------------------------------------------------------------------
+- *vayunāni* ← *vayuna*
+- \[noun\], accusative, plural, neuter
+- “convention; custom; means.”
+------------------------------------------------------------------------
+- *sādhat* ← *sādh*
+- \[verb\], singular, Present injunctive
+- “promote; succeed.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+माहिनोमहनीयः पूजनीयः यद्वा महिमोपेतः अहिहाअहिम्मेघंहतवानिन्द्रःब्रह्मश्रूणवृत्रेषुक्विप् बहु- लञ्छन्दसीतिभूतकालेक्विप् सइन्द्रःअपामर्णःऋगतौ स्रोतोलक्षणम्प्रवाहंसमुद्रमच्छाभिलक्ष्यप्रैरयत् किञ्च सइन्द्रः अङ्गिरसाम्बिलान्तर्वर्तिनीनामावृतानाङ्गवांलाभायसूर्यमजनयत् ततःगाः पणिभिरप- हृतागाः विददलभत विदिर् लाभे लुङिइरितोवेतिच्लेरङादेशः वाक्यभदादनिघातः तथाक्तुनाते- जसाअह्नान्दिवसानांवयुनानिप्रज्ञानानिप्रकाशान् साधत् असाधयत् ॥ ३ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The adorable **Indra**, the slayer of Ahi, sent the current of the waters towards the ocean; he genitive rated the sun; he discovered the cattle; he effected the manifestation of the days by light.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Aktunā ahnām vayunāni sādhat = tejasā prakāśān divasānām asādhayat, effected hte manifestation of the days by light
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+That great Indra, smasher of the serpent, roused the flood of waters  forth toward the sea.  
+He gave birth to the sun and found the cattle. He perfected the patterns  of the days through the night.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Indra, this Mighty One, the Dragon's slayer, sent forth the flood of waters to the ocean.  
+     He gave the Sun his life, he found the cattle, and with the night the works of days completed.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Der mächtige Indra, der Drachentöter, trieb die Flut der Gewässer hin zum Meere. Er erzeugte die Sonne, fand die Kühe; er regelte die Reihenfolge der Tage durch die Nacht.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Die Flut der Wasser liess der mächt'ge Indra, der Schlangentödter zu dem Meere rinnen; Er zeugte Sonnenglanz und fand die Kühe und wirkte Helle durch der Tage Leuchten.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Этот могучий Индра, убийца змея,  
+Токи вод погнал к морю.  
+Он породил солнце, нашел коров,  
+С помощью ночи он привел в порядок границы дней.
+</details>

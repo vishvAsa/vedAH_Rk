@@ -1,0 +1,130 @@
++++
+title = "003"
+devataa = "पवमानः सोमः"
+RShiH = "अयास्यः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+उत꣡ त्वा꣡म् अरुणं꣡ वयं꣡  
+गो꣡भिर् अञ्ज्मो म꣡दाय क꣡म्  
+वि꣡ नो राये꣡ दु꣡रो वृधि
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒त । त्वाम् । अ॒रु॒णम् । व॒यम् । गोभिः॑ । अ॒ञ्ज्मः॒ । मदा॑य । कम् ।  
+वि । नः॒ । रा॒ये । दुरः॑ । वृ॒धि॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *tvām* ← *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *aruṇaṃ* ← *aruṇam* ← *aruṇa*
+- \[noun\], accusative, singular, neuter
+- “red; tawny; dusty; gray.”
+------------------------------------------------------------------------
+- *vayaṃ* ← *vayam* ← *mad*
+- \[noun\], nominative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *gobhir* ← *gobhiḥ* ← *go*
+- \[noun\], instrumental, plural, masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *añjmo* ← *añjmaḥ* ← *añj*
+- \[verb\], plural, Present indikative
+- “smear; anoint; mix; color.”
+------------------------------------------------------------------------
+- *madāya* ← *mada*
+- \[noun\], dative, singular, masculine
+- “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
+    musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
+    vivification.”
+------------------------------------------------------------------------
+- *kam* ← *kaṃ*
+- \[adverb\]
+- “kaṃ \[word\].”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *rāye* ← *rai*
+- \[noun\], dative, singular, masculine
+- “wealth; possession; rai \[word\]; gold.”
+------------------------------------------------------------------------
+- *duro* ← *duraḥ* ← *dvār*
+- \[noun\], accusative, plural, feminine
+- “door; means.”
+------------------------------------------------------------------------
+- *vṛdhi* ← *vṛ*
+- \[verb\], singular, Aorist imperative
+- “surround; accompany; cover; cover; obstruct; check; spread;
+    envelop.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**उत** अपि च हे सोम यम् **अरुणम्** अरुणवर्णं **त्वां** **मदाय** मदार्थं **वयम्** अङ्गिरसायास्याः **गोभिः** गोविकारैः पयोभिः **अञ्ज्मः** वासयामः संस्कुर्मः। **कम्** इति पूरणम् । स त्वं **नः** अस्माकं **राये** धनाय **दुरः** द्वाराणि **वि** **वृधि** विवृतानि कुरु ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“And we adorn you, the purple-tinted with milk and curd for the purpose of exhilaration open the doors for our riches.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+And we anoint you, the ruddy one, with cows for exhilaration.  
+Open up the doors for wealth for us.
+</details>
+
+<details><summary>+Griffith</summary>
+
+We balm thee, red of hue, with milk to fit thee for the rapturous joy:  
+     Unbar for us the doors of wealth.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Und dich, den Rötlichen, salben wir mit Milch zum Rauschtrank. Öffne uns die Tore zum Reichtum!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Und dich, den rothen, salben wir mit Milch zum Rausche, schliesse du Die Thore uns zum Reichthum auf.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

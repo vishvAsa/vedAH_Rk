@@ -1,0 +1,162 @@
++++
+title = "014"
+devataa = "विश्वेदेवाः"
+RShiH = "स्वस्त्यात्रेयः"
+ChandaH = "अनुष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+सुअस्ति꣡ मित्रावरुणा  
+सुअस्ति꣡ पथ्ये रेवति  
+स्वस्ति꣡ न इ꣡न्द्रश् चाग्नि꣡श् च  
+स्वस्ति꣡ नो अदिते कृधि
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+genre M;; epic anuṣṭubh (424)  
+genre M;; epic anuṣṭubh (424)  
+genre M;; epic anuṣṭubh (424)  
+genre M;; epic anuṣṭubh (424)
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स्व॒स्ति । मि॒त्रा॒व॒रु॒णा॒ । स्व॒स्ति । प॒थ्ये॒ । रे॒व॒ति॒ ।  
+स्व॒स्ति । नः॒ । इन्द्रः॑ । च॒ । अ॒ग्निः । च॒ । स्व॒स्ति । नः॒ । अ॒दि॒ते॒ । कृ॒धि॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *svasti*
+- \[noun\], nominative, singular, neuter
+- “prosperity; well-being; fortune; benediction; svasti \[word\];
+    well; luck.”
+------------------------------------------------------------------------
+- *mitrāvaruṇā* ← *mitrāvaruṇa*
+- \[noun\], vocative, dual, masculine
+- “Varuna; Mitra.”
+------------------------------------------------------------------------
+- *svasti*
+- \[noun\], nominative, singular, neuter
+- “prosperity; well-being; fortune; benediction; svasti \[word\];
+    well; luck.”
+------------------------------------------------------------------------
+- *pathye* ← *pathyā*
+- \[noun\], vocative, singular, feminine
+- “Terminalia chebula Retz.; path; Pathyā; way.”
+------------------------------------------------------------------------
+- *revati* ← *revat*
+- \[noun\], vocative, singular, feminine
+- “abundant; rich; affluent; brilliant; brilliant.”
+------------------------------------------------------------------------
+- *svasti*
+- \[noun\], accusative, singular, neuter
+- “prosperity; well-being; fortune; benediction; svasti \[word\];
+    well; luck.”
+------------------------------------------------------------------------
+- *na* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *indraś* ← *indraḥ* ← *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *cāgniś* ← *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *cāgniś* ← *agniḥ* ← *agni*
+- \[noun\], nominative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *svasti*
+- \[noun\], accusative, singular, neuter
+- “prosperity; well-being; fortune; benediction; svasti \[word\];
+    well; luck.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *adite* ← *aditi*
+- \[noun\], vocative, singular, feminine
+- “Aditi; aditi \[word\].”
+------------------------------------------------------------------------
+- *kṛdhi* ← *kṛ*
+- \[verb\], singular, Aorist imperative
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **मित्रावरुणा** अहोरात्राभिमानिदेवौ **स्वस्ति** कुरुतम् । हे **पथ्ये**। पन्थाः अन्तरिक्षमार्गः । तत्र हिता मार्गाभिमानिनी देवी । हे तादृशि **रेवति** धनवति देवि **स्वस्ति** कृधि । **इन्द्रश्चाग्निश्च** प्रत्येकं **नः** अस्मभ्यं **स्वस्ति** कृधि । हे **अदिते** देवि **नः** **स्वस्ति** **कृधि** कुरु ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Mitra** and **Varuṇa**, grant us prosperity; path (of the firmament), and goddess of riches, (grant us) prosperity; may **Indra** and **Agni** (grant us) prosperity; **Aditi**, bestow prosperity upon us.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Path of the firmament: pathye, **revati** are two proper names;
+
+Pathye = goddess presiding over the **antarikṣa**;
+
+Revati = goddess presiding over riches
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Well-being, o Mitra and Varuṇa, well-being, o rich Path.  
+Well-being for us (let) Indra and Agni—well-being, o Aditi, make  
+for us.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Prosper us, Mitra, Varuna. O wealthy Pathya, prosper us.  
+     Indra and Agni, prosper us; prosper us thou, O Aditi.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Glück sei uns, o Mitra und Varuna, Glück, du reiche Pathya; Glück soll uns Indra und Agni bringen, Glück schaff uns, o Aditi!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Schafft Heil uns, Mitra, Varuna und Heil, o reicher Himmelsraum, Und Indra uns und Agni Heil, und schaff uns Heil, o Aditi.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+На благо – о Митра-Варуна!  
+На благо – о Патхья богатая!  
+Благо (пусть принесут нам) Индра и Агни!  
+Благо, Адити, нам создай!
+</details>

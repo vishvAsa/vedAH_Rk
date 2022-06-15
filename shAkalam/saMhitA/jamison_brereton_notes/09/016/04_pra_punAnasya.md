@@ -1,5 +1,0 @@
-+++
-title = "04"
-
-+++
-In the published translation I construe punānásya with pavítre, not with adjacent cétasā, as Geldner and Renou do. I would now emend my tr. to the standard: “with the attention of the one being purified [that is, himself].” Geldner comments (n. 4a), “Er weiss von selbst, was er zu tun hat,” and although I’m not entirely sure that this is what the phrase means, my published translation doesn’t make much sense either and overlooks the fact that pāda b, which contains the noun, pavítre, on which I hang the gen. punānásya, is found identically in the next hymn (17.3), as well as in IX.37.1, both times without a gen. 

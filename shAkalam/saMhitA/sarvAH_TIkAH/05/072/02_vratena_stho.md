@@ -1,0 +1,130 @@
++++
+title = "002"
+devataa = "मित्रावरुणौ"
+RShiH = "बाहुवृक्त आत्रेयः"
+ChandaH = "उष्णिक्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+व्रते꣡न स्थो ध्रुव꣡क्षेमा  
+ध꣡र्मणा यातय꣡ज्जना  
+नि꣡ बर्हि꣡षि सदतं सो꣡मपीतये
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+व्र॒तेन॑ । स्थः॒ । ध्रु॒वऽक्षे॑मा । धर्म॑णा । या॒त॒यत्ऽज॑ना ।  
+नि । ब॒र्हिषि॑ । स॒द॒त॒म् । सोम॑ऽपीतये ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *vratena* ← *vrata*
+- \[noun\], instrumental, singular, neuter
+- “vrata (vote); commandment; law; oath; command; rule; custom; vrata
+    \[word\]; rule; behavior.”
+------------------------------------------------------------------------
+- *stho* ← *sthaḥ* ← *as*
+- \[verb\], dual, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *dhruvakṣemā* ← *dhruva*
+- \[noun\]
+- “certain; fixed; permanent; changeless; firm; safe; resident;
+    immovable; fixed; fixed; vital; faithful.”
+------------------------------------------------------------------------
+- *dhruvakṣemā* ← *kṣemā* ← *kṣema*
+- \[noun\], nominative, dual, masculine
+- “ease; happiness; peace; tranquillity; kṣema \[word\]; respite;
+    rest.”
+------------------------------------------------------------------------
+- *dharmaṇā* ← *dharman*
+- \[noun\], instrumental, singular, neuter
+- “regulation; Dharma; law; property.”
+------------------------------------------------------------------------
+- *yātayajjanā* ← *yātayat* ← *yātay* ← *√yat*
+- \[verb noun\]
+- “endeavor; settle.”
+------------------------------------------------------------------------
+- *yātayajjanā* ← *janā* ← *jana*
+- \[noun\], nominative, dual, masculine
+- “people; national; man; relative; jan; Janaloka; person; jana
+    \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *barhiṣi* ← *barhis*
+- \[noun\], locative, singular, neuter
+- “Barhis; barhis \[word\].”
+------------------------------------------------------------------------
+- *sadataṃ* ← *sadatam* ← *sad*
+- \[verb\], dual, Aorist imperative
+- “sit down; break down; slow; sink; crumble; fracture; perish; ride;
+    stop; besiege; tire.”
+------------------------------------------------------------------------
+- *somapītaye* ← *soma*
+- \[noun\], masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *somapītaye* ← *pītaye* ← *pīti*
+- \[noun\], dative, singular, feminine
+- “drinking; haritāla.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे मित्रावरुणौ युवां **धर्मणा** जगद्धारकेण **व्रतेन** कर्मणा योगेन **ध्रुवक्षेमा** **स्थः** अविचलितस्थानौ भवथः । **यातयज्जना** । यातयन्तः कर्मसु प्रवर्तयन्तो जना ऋत्विजो ययोस्तौ यातयज्जनौ । अथवा यातयन्तः शत्रून् हिंसन्तो जना भृत्या ययोस्तौ । शिष्टं गतम् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Steady are you in your functions, whom men animate by (their) devotion; come and sit down upon the sacred grass to drink the **Soma** libation.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+By your commandment, you are those two who give peaceful dwellings  that endure, who arrange the peoples according to your foundation.  
+– Sit down upon the ritual grass to drink the soma.
+</details>
+
+<details><summary>+Griffith</summary>
+
+By Ordinance and Law ye dwell in peace secure, bestirring men.  
+     Sit on the sacred grass to drink the Soma juice.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Durch euer Gebot seid ihr Friedenserhalter, von Rechts wegen einet ihr die Völker. Setzet euch beide auf das Barhis zum Somatrank!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Eur Thron ist fest durch das Gesetz; durch Recht vereint die Menschen ihr; Setzt nieder euch zum Somatrunke auf die Streu.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Благодаря завету (богов) вы даете (людям) прочный мир,  
+Благодаря установлению (людей) вы объединяете народы.  
+Пусть сядете вы двое на жертвенную солому для питья сомы!
+</details>

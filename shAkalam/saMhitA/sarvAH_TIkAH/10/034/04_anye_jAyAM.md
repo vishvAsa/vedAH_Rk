@@ -1,0 +1,180 @@
++++
+title = "004"
+devataa = "अक्षकितवनिन्दा"
+RShiH = "कवष ऐलूषो अक्षो वा मौजवान्"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अन्ये꣡ जाया꣡म् प꣡रि मृशन्ति अस्य  
+य꣡स्या꣡गृधद् वे꣡दने वाजी꣡ अक्षः꣡  
+पिता꣡ माता꣡ भ्रा꣡तर एनम् आहुर्  
+न꣡ जानीमो न꣡यता बद्ध꣡म् एत꣡म्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+popular  
+popular  
+popular  
+popular
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒न्ये । जा॒याम् । परि॑ । मृ॒श॒न्ति॒ । अ॒स्य॒ । यस्य॑ । अगृ॑धत् । वेद॑ने । वा॒जी । अ॒क्षः ।  
+पि॒ता । मा॒ता । भ्रात॑रः । ए॒न॒म् । आ॒हुः॒ । न । जा॒नी॒मः॒ । नय॑त । ब॒द्धम् । ए॒तम् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *anye* ← *anya*
+- \[noun\], nominative, plural, masculine
+- “other; another(a); remaining; different; anya \[word\]; other than;
+    more(a); fresh; any(a).”
+------------------------------------------------------------------------
+- *jāyām* ← *jāyā*
+- \[noun\], accusative, singular, feminine
+- “wife; jāyā \[word\].”
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *mṛśanty* ← *mṛśanti* ← *mṛś*
+- \[verb\], plural, Present indikative
+- “touch.”
+------------------------------------------------------------------------
+- *asya* ← *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *yasyāgṛdhad* ← *yasya* ← *yad*
+- \[noun\], genitive, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *yasyāgṛdhad* ← *agṛdhat* ← *gṛdh*
+- \[verb\], singular, Thematic aorist (Ind.)
+- “desire; covet.”
+------------------------------------------------------------------------
+- *vedane* ← *vedana*
+- \[noun\], locative, singular, neuter
+- “property; marriage; obtainment.”
+------------------------------------------------------------------------
+- *vājy* ← *vājī* ← *vājin*
+- \[noun\], nominative, singular, masculine
+- “victorious; triumphant; strong; gainful.”
+------------------------------------------------------------------------
+- *akṣaḥ* ← *akṣa*
+- \[noun\], nominative, singular, masculine
+- “belleric myrobalan; dice; gambling; karṣa; akṣa; akṣa \[word\];
+    berry.”
+------------------------------------------------------------------------
+- *pitā* ← *pitṛ*
+- \[noun\], nominative, singular, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+------------------------------------------------------------------------
+- *mātā* ← *mātṛ*
+- \[noun\], nominative, singular, feminine
+- “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
+    Citrullus colocynthis Schrad.; cow.”
+------------------------------------------------------------------------
+- *bhrātara* ← *bhrātaraḥ* ← *bhrātṛ*
+- \[noun\], nominative, plural, masculine
+- “brother; bhrātṛ; relative.”
+------------------------------------------------------------------------
+- *enam* ← *enad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.).”
+------------------------------------------------------------------------
+- *āhur* ← *āhuḥ* ← *ah*
+- \[verb\], plural, Perfect indicative
+- “describe; state; say; enumerate; call; name; teach; tell; deem;
+    explain; say; define.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *jānīmo* ← *jānīmaḥ* ← *jñā*
+- \[verb\], plural, Present indikative
+- “know; diagnose; perceive; know; come to know; notice; determine;
+    think of; find; learn; perceive; identify; recognize; understand;
+    know; learn; ascertain; detect; deem.”
+------------------------------------------------------------------------
+- *nayatā* ← *nayata* ← *nī*
+- \[verb\], plural, Present imperative
+- “bring; lead; spend; decant; enter (a state); remove; take out; take
+    away; enforce; marry; carry; fill into; bring; learn; go out; add.”
+------------------------------------------------------------------------
+- *baddham* ← *bandh*
+- \[verb noun\], accusative, singular
+- “bandh; tie; envelop; close; dress; wrap; bind; constipate; fixate;
+    shape; paralyze; construct; bandage; compress; beset; oblige; strap;
+    restrain; bind; gesticulate; wear; bar; bandh; connect; stud; mix;
+    obstruct; write; restrain; bind; persecute; enclose; ligature; fill
+    into; fasten.”
+------------------------------------------------------------------------
+- *etam* ← *etad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); etad \[word\].”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**यस्य** कितवस्य **वेदने** धने **वाजी** बलवान् **अक्ष:** देवः **अगृधत्** अभिकाङ्क्षां करोति तस्य **अस्य** कितवस्य **जायां** भार्याम् **अन्ये** प्रतिकितवाः **परि** **मृशन्ति** वस्त्रकेशाद्याकर्षणेन संस्पृशन्ति । किंच **पिता** जननी च **भ्रातरः** सहोदरश्च **एनं** कितवम् **आहुः** वदन्ति । **न** वयमस्मदीयमेनं **जानीमः** । रज्ज्वा **बद्धमेतं** कितवं हे कितवाः यूयं **नयत** यथेष्टदेशं प्रापयतेति ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Others touch the wife of him whose wealth the potent dice covet; his mother, father, brothers say, "weknow him not, take him away bound (where you will)".”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Touch the wife: parimṛśanti: they drag her by her clothesor her hair
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Others fondle the wife of a man whose possessions the die with eyes on  the prize has hungered for.  
+Father, mother, brothers say about him, “We do not know him; lead  him away bound.”
+</details>
+
+<details><summary>+Griffith</summary>
+
+Others embrace the wife of him whose riches the victorious dice have coveted:  
+     Father and mother and brothers say about him [to the landlord's men]: "We know him not: tie him up and take him away."
+</details>
+
+<details><summary>+Macdonell</summary>
+
+Others embrace the wife of him whose chattels The eager dice have striven hard to capture; And father, mother, brothers say about him: "We know him not; lead him away a captive."
+</details>
+
+<details><summary>+Geldner</summary>
+
+Andere vergreifen sich an dessen Weibe, nach wessen Habe der beutemachende Würfel Begehren trägt. Vater, Mutter und Brüder sagen von ihm: Wir kennen ihn nicht, führet ihn gefesselt fort!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Von andern wird umarmt des Spielers Gattin, nach dessen Gut der rasche Würfel trachtet; Und Vater, Mutter und die Brüder sagen: Wir kennen nicht ihn, führt ihn fort gebunden.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Другие ласкают жену того,  
+На чье имущество накинулась стремительная игральная кость.  
+Отец, мать, братья говорят о нем:  
+Мы не знаем (его!) Уведите его связанным!
+</details>

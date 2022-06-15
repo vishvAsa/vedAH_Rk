@@ -1,0 +1,171 @@
++++
+title = "004"
+devataa = "अश्विनौ"
+RShiH = "दीर्घतमा औचथ्यः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+आ꣡ न ऊ꣡र्जं वहतम् अश्विना युव꣡म्  
+म꣡धुमत्या नः क꣡शया मिमिक्षतम्  
+प्रा꣡युस् ता꣡रिष्टं नी꣡ र꣡पांसि मृक्षतं  
+से꣡धतं द्वे꣡षो भ꣡वतं सचाभु꣡वा
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M;; repeated line  
+genre M  
+genre M;; repeated line  
+genre M;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ । नः॒ । ऊर्ज॑म् । व॒ह॒त॒म् । अ॒श्वि॒ना॒ । यु॒वम् । मधु॑ऽमत्या । नः॒ । कश॑या । मि॒मि॒क्ष॒त॒म् ।  
+प्र । आयुः॑ । तारि॑ष्टम् । निः । रपां॑सि । मृ॒क्ष॒त॒म् । सेध॑तम् । द्वेषः॑ । भव॑तम् । स॒चा॒ऽभुवा॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *na* ← *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *ūrjaṃ* ← *ūrjam* ← *ūrj*
+- \[noun\], accusative, singular, feminine
+- “strength; refreshment; vigor; food; strengthening.”
+------------------------------------------------------------------------
+- *vahatam* ← *vah*
+- \[verb\], dual, Present imperative
+- “transport; bring; marry; run; drive; vāhay; drive; run; pull;
+    nirvāpay; blow; transport; discharge; assume; remove.”
+------------------------------------------------------------------------
+- *aśvinā* ← *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *yuvam* ← *tvad*
+- \[noun\], nominative, dual
+- “you.”
+------------------------------------------------------------------------
+- *madhumatyā* ← *madhumat*
+- \[noun\], instrumental, singular, feminine
+- “sweet; honeyed; sweet; pleasant.”
+------------------------------------------------------------------------
+- *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *kaśayā* ← *kaśā*
+- \[noun\], instrumental, singular, feminine
+- “whip.”
+------------------------------------------------------------------------
+- *mimikṣatam* ← *mikṣ*
+- \[verb\], dual, Perfect imperative
+- “season.”
+------------------------------------------------------------------------
+- *prāyus* ← *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *prāyus* ← *āyuḥ* ← *āyus*
+- \[noun\], accusative, singular, neuter
+- “life; longevity; āyus; life; āyus \[word\]; Āyus.”
+------------------------------------------------------------------------
+- *tāriṣṭaṃ* ← *tāriṣṭam* ← *tṛ*
+- \[verb\], dual, Aorist inj. (proh.)
+- “traverse; overcome; float; rescue; reach; satisfy.”
+------------------------------------------------------------------------
+- *nī* ← *niḥ*
+- \[adverb\]
+- “niḥ; away; out; without.”
+------------------------------------------------------------------------
+- *rapāṃsi* ← *rapas*
+- \[noun\], accusative, plural, neuter
+- “injury; disease; infirmity; damage.”
+------------------------------------------------------------------------
+- *mṛkṣataṃ* ← *mṛkṣatam* ← *mṛj*
+- \[verb\], dual, Aorist imperative
+- “purify; polish; rub; remove.”
+------------------------------------------------------------------------
+- *sedhataṃ* ← *sedhatam* ← *sidh*
+- \[verb\], dual, Present imperative
+- “chase away; repel.”
+------------------------------------------------------------------------
+- *dveṣo* ← *dveṣaḥ* ← *dveṣas*
+- \[noun\], accusative, singular, neuter
+- “hostility; enemy.”
+------------------------------------------------------------------------
+- *bhavataṃ* ← *bhavatam* ← *bhū*
+- \[verb\], dual, Present imperative
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+------------------------------------------------------------------------
+- *sacābhuvā* ← *sacābhū*
+- \[noun\], nominative, dual, masculine
+- “ally.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **अश्विना** अश्विनौ **युवं** युवां **नः** अस्माकम् **ऊर्जं** बलं प्राणनसमर्थमन्नं वा **आ** **वहतं** प्रापयतम् । किंच **नः** अस्मान् **मधुमत्या** माधुर्योपेतया **कशया** वाचा इष्टप्रदानरूपया **मिमिक्षतं** सिञ्चतं प्रीणयतम् । कशा इति वाङ्नाम, कशा धिषणा ' (नि. १.११.४३) इति तन्नामसूक्तत्वात। यद्वा । मधुमत्या मधुरवृष्टिमत्या माधुर्योपेतया कशया अश्वताडन्या नोऽस्मान् मिमिक्षतम् । मधु इति उदकनाम, ‘मधु पुरीषम् ' (नि. १. १२. ११ ) इति तन्नामसूक्तत्वात् । कशया अश्वताडनेन शीघ्रमागत्य वृष्टिरूपं फलं दास्यतः इति कशाया मधुमत्त्वम् । किंच **आयुः** आयुष्यं **प्र** **तारिष्टं** प्रवर्धयतम् ॥ प्रपूर्वस्तिरतिर्वर्धनार्थः ॥ तथा **रपांसि** **मृक्षतं** पापानि निःशेषेण शोधयतम् । ‘रपो रिप्रमिति पापनामनी भवतः ' (निरु. ४.२१) इति यास्कः । किंच द्वेषः द्वेष्यममित्रादिकं **सेधतं** नाशयतम् । इदं च भाव्यम् । **सचाभुवा** सहभुवौ अस्मत्कार्येषु सहभवनवन्तौ **भवतं** भवन्तौ ऐकमत्यं भजत इत्यर्थः॥ वाक्यभेदादिनिघातः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Bring us, **Aśvins**, vigour; animate us with your honied speech; prolong our existence; wipe away our sins; destroy our foes; be ever our associates.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+With your honied speech: madhumatyā naḥ kaśayā mimikṣatam = liṭ, mix us with your honied whip;
+
+**Kaṣa** = vāk, speech;
+
+Mimikṣatam = pṛṇayatam
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Carry nourishment to us, Aśvins, and mix us with your honeyed whip. Extend our lifetime, wipe away our diseases, repel hatred, and be  
+companions to us.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Bring hither nourishment for us, ye Asvins Twain; sprinkle us with your whip that drops with honey-dew.  
+     Prolong our days of life, wipe out our trespasses; destroy our foes, be our companions and our Friends.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Bringet uns, ihr Asvin, Stärkung, berührt uns mit der honighaltigen Peitsche, verlängert das Leben, streifet die Leibesschäden ab, wehret der Feindschaft, seid uns Beisteher!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Ihr Ritter beide, fahret Nahrung uns herbei, besprengt uns mit der Peitsche, die von Honig trieft; Dehnt aus das Leben, und die Schäden wischet ab; vertilgt den Feind und seid mit eurer Huld uns nah.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+О Ашвины, привезите вы нам подкрепляющую силу,  
+Окропите нас медовым кнутом,  
+Продлите срок жизни, сотрите телесные повреждения,  
+Отвратите враждебность, будьте (нашими) товарищами!
+</details>

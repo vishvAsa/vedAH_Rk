@@ -1,0 +1,156 @@
++++
+title = "002"
+devataa = "विश्वेदेवाः"
+RShiH = "प्रतिरथ आत्रेयः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अजिरा꣡सस् त꣡दप ई꣡यमाना  
+आतस्थिवां꣡सो अमृ꣡तस्य ना꣡भिम्  
+अनन्ता꣡स उर꣡वो विश्व꣡तः सीम्  
+प꣡रि द्या꣡वापृथिवी꣡ यन्ति प꣡न्थाः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒जि॒रासः॑ । तत्ऽअ॑पः । ईय॑मानाः । आ॒त॒स्थि॒ऽवांसः॑ । अ॒मृत॑स्य । नाभि॑म् ।  
+अ॒न॒न्तासः॑ । उ॒रवः॑ । वि॒श्वतः॑ । सी॒म् । परि॑ । द्यावा॑पृथि॒वी इति॑ । य॒न्ति॒ । पन्थाः॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *ajirāsas* ← *ajirāsaḥ* ← *ajira*
+- \[noun\], nominative, plural, masculine
+- “fast; agile; ajira \[word\].”
+------------------------------------------------------------------------
+- *tadapa* ← *tad*
+- \[noun\]
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *tadapa* ← *apaḥ* ← *apas*
+- \[noun\], accusative, singular, neuter
+- “work; deed.”
+------------------------------------------------------------------------
+- *īyamānā* ← *īyamānāḥ* ← *i*
+- \[verb noun\], nominative, plural
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *ātasthivāṃso* ← *ātasthivāṃsaḥ* ← *āsthā* ← *√sthā*
+- \[verb noun\], nominative, plural
+- “practice; stand; assume; reach; board; perform; face; stand; stay;
+    hop on; climb; travel; seize; follow.”
+------------------------------------------------------------------------
+- *amṛtasya* ← *amṛta*
+- \[noun\], genitive, singular, neuter
+- “amṛta; immortality; vatsanābha; ambrosia; mercury; medicine;
+    vighasa; calcium hydroxide.”
+------------------------------------------------------------------------
+- *nābhim* ← *nābhi*
+- \[noun\], accusative, singular, feminine
+- “navel; hub; kinship; beginning; origin; umbilical cord; nābhi
+    \[word\]; friendship; center.”
+------------------------------------------------------------------------
+- *anantāsa* ← *anantāsaḥ* ← *ananta*
+- \[noun\], nominative, plural, masculine
+- “infinite; ananta \[word\]; countless; permanent; boundless.”
+------------------------------------------------------------------------
+- *uravo* ← *uravaḥ* ← *uru*
+- \[noun\], nominative, plural, masculine
+- “wide; broad; great; uru \[word\]; much(a); excellent.”
+------------------------------------------------------------------------
+- *viśvataḥ* ← *viśvatas*
+- \[adverb\]
+- “everywhere; around; about.”
+------------------------------------------------------------------------
+- *sīm*
+- \[adverb\]
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *dyāvāpṛthivī*
+- \[noun\], accusative, dual, feminine
+- “heaven and earth; dyāvāpṛthivī \[word\].”
+------------------------------------------------------------------------
+- *yanti* ← *i*
+- \[verb\], plural, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *panthāḥ* ← *pathin*
+- \[noun\], nominative, plural, masculine
+- “way; road; path \[word\]; journey; method.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**अजिरासः** गमनशीलाः । अजिः इस्च्प्रत्ययान्तः ‘अजिरशिशिर' (उ. सू. १. ५३) इत्यादिना निपातितः ॥ **तदपः** तदेव प्रकाशनरूपं कर्म यस्य तत्तादृशमहः **ईयमानाः** गच्छन्तः **अमृतस्य** सूर्यस्य **नाभिं** संनाहकं मण्डलम् अमृतस्योदकस्य वा नाभिमन्तरिक्षम् **आतस्थिवांसः** आतिष्ठन्तः **अनान्तासः[१]** अपरिमिताः **उरवः** व्याप्ताः **पन्थाः** पतनशीला रश्मयः **द्यावापृथिवी** **परि** दिवं च पृथिवीं चान्तरिक्षं च **विश्वतः** परितः **यन्ति** गच्छन्ति । **सीम्** इति पूरणः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The rays (of light) extending round, fulfilling, their duty (of bringing on the day), abiding in contact with the orb of the immortal (sun), unlimited and diffusive, spread everywhere through heaven and earth.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+The nimble ones, hastening at their work, having mounted the nave of  the immortal one,  
+the endless, broad ones encircle heaven and earth on all sides—(they are)  the Paths.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+Again I take the vs. as having one referent, while Geldner, Renou, and Witzel Gotō split it into two sentences with two different subjects. In my view, the intent is again to mislead -- that is, in this riddle hymn, to suggest one referent to the audience and then spring a different one on them towards the end of the verse, in this case the very last word pánthāḥ ‘paths’. These are presumably the paths that connect heaven and earth and enable the gods to come to the sacrifice and the sacrificial offerings to make their way to heaven. Although paths are not ordinarily credited with much agency -- and the descriptions in the first hemistich attribute bustling activity to their referents -- the lively traffic between heaven and earth can spill over onto the paths that bear this traffic.
+
+tádapaḥ is most likely adverbial here (so already Grassmann), though Geldner suggests it is nom. pl. “mit Abfall der Endung,” for which there is no motivation.
+
+The “nave of the immortal one” (amṛ́tasya nā́bhim) can refer both to the ritual ground and to the height of heaven, again suggesting the connection between those places that is established by the paths.
+
+For anantá- see disc. ad vs. 4.
+
+For the formula viśvátaḥ sīm pári and the unusual placement of sīm, see my “Rigvedic viśvátaḥ sīṃ, Or, Why Syntax Needs Poetics” (1998, Fs. Watkins).
+</details>
+
+<details><summary>+Griffith</summary>
+
+Swift in their motion, hasting to their duty, reaching the central point of life immortal,  
+     On every side about the earth and heaven go forth the spacious paths without a limit.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Die flinken Rosse, deren Geschäft dies ist, haben eilend den Nabel der Unsterblichkeit bestiegen. Endlose weite Wege gehen allenthalben um Himmel und Erde.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Die raschen Rosse, nach Gewohnheit eilend, sind aufgestiegen zu des Himmels Nabel; Die unbegrenzten weiten Wege gehen all überall um Himmel rings und Erde.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Стремительные кони, спеша, как обычно,  
+Взобрались на пуп бессмертия.  
+Бесконечные, широкие, со всех сторон  
+Идут по пути вокруг неба и земли.
+</details>

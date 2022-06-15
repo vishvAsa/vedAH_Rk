@@ -1,0 +1,182 @@
++++
+title = "008"
+devataa = "अग्निः"
+RShiH = "पराशरः शाक्त्यः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+आ꣡ य꣡द् इषे꣡ नृप꣡तिं ते꣡ज आ꣡नट्  
+छु꣡चि रे꣡तो नि꣡षिक्तं द्यउ꣡र् अभी꣡के  
+अग्निः꣡ श꣡र्धम् अनवद्यं꣡ यु꣡वानं  
+सुआधि꣡यं जनयत् सूद꣡यच् च
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ । यत् । इ॒षे । नृ॒ऽपति॑म् । तेजः॑ । आन॑ट् । शुचि॑ । रेतः॑ । निऽसि॑क्तम् । द्यौः । अ॒भीके॑ ।  
+अ॒ग्निः । शर्ध॑म् । अ॒न॒व॒द्यम् । युवा॑नम् । सु॒ऽआ॒ध्य॑म् । ज॒न॒य॒त् । सू॒दय॑त् । च॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *yad* ← *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *iṣe* ← *iṣ*
+- \[noun\], dative, singular, feminine
+- “refreshment; enjoyment; stores.”
+------------------------------------------------------------------------
+- *nṛpatiṃ* ← *nṛpatim* ← *nṛpati*
+- \[noun\], accusative, singular, masculine
+- “king.”
+------------------------------------------------------------------------
+- *teja* ← *tejaḥ* ← *tejas*
+- \[noun\], nominative, singular, neuter
+- “magnificence; luminosity; glory; fire; semen; fire; heat; light;
+    quintessence; brilliance; glare; dignity; beauty; tejas; potency;
+    ferocity; power; edge; efficacy; ardor; authority.”
+------------------------------------------------------------------------
+- *ānaṭ* ← *naś*
+- \[verb\], singular, Root aorist (Ind.)
+- “reach; achieve; enter (a state); reach.”
+------------------------------------------------------------------------
+- *chuci* ← *śuci*
+- \[noun\], accusative, singular, neuter
+- “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
+    impeccant.”
+------------------------------------------------------------------------
+- *reto* ← *retaḥ* ← *retas*
+- \[noun\], accusative, singular, neuter
+- “semen; sperm.”
+------------------------------------------------------------------------
+- *niṣiktaṃ* ← *niṣiktam* ← *niṣic* ← *√sic*
+- \[verb noun\], accusative, singular
+- “submerge; sprinkle; pour; immerse; water.”
+------------------------------------------------------------------------
+- *dyaur* ← *dyauḥ* ← *div*
+- \[noun\], nominative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *abhīke* ← *abhīka*
+- \[noun\], locative, singular, neuter
+- “battle; meeting.”
+------------------------------------------------------------------------
+- *agniḥ* ← *agni*
+- \[noun\], nominative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *śardham* ← *śardha*
+- \[noun\], accusative, singular, masculine
+- “troop.”
+------------------------------------------------------------------------
+- *anavadyaṃ* ← *anavadyam* ← *anavadya*
+- \[noun\], accusative, singular, masculine
+- “blameless; faultless.”
+------------------------------------------------------------------------
+- *yuvānaṃ* ← *yuvānam* ← *yuvan*
+- \[noun\], accusative, singular, masculine
+- “young; youthful.”
+------------------------------------------------------------------------
+- *svādhyaṃ* ← *svādhyam* ← *svādhī*
+- \[noun\], accusative, singular, masculine
+- “devout; heedful; prudent.”
+------------------------------------------------------------------------
+- *janayat* ← *janay* ← *√jan*
+- \[verb\], singular, Present injunctive
+- “cause; give birth; produce; beget; generate; originate; create;
+    create; make.”
+------------------------------------------------------------------------
+- *sūdayac* ← *sūdayat* ← *sūday* ← *√sūd*
+- \[verb\], singular, Present injunctive
+- “kill; promote.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+अग्नेः **यत्** **तेजः** **नृपतिं** नृणामृत्विजां पालकं यजमानम् **आनट्** जाठररूपेण **आ** समन्तात् व्याप्नोत् । किमर्थम् । **इषे** अन्नाय । कीदृशम् । **शुचि** शुद्धं **द्यौः** दीप्तम् । तेन तेजसा परिपक्वमन्नं रसरूपं **रेतः** वीर्यम् **अभीके** अभ्यक्तेऽभिगतेऽभिप्राप्ते गर्भस्थाने **निषिक्तं** नितरां सिक्तम् **अग्निः**
+वक्ष्यमाणगुणविशिष्टपुत्ररूपेण **जनयत्** जनयतु । **शर्धं** बलवन्तम् **अनवद्यम्** अवद्यरहितं **युवानं** तरुणं जरारहितमित्यर्थः । **स्वाध्यं** शोभनकर्माणं शोभनप्रज्ञं वोत्पन्नं पुत्रं **सूदयच्च** योगादिकर्मसु प्रेरयतु च। यद्वा । रेत इत्युदकनाम। निषिक्तं मेघेन वृष्टमुदकम् इषेऽन्नाय सस्यादिनिष्पत्तयेऽग्नेर्यत्तेज आनट् व्याप्नोत् वृष्ट्युदकेन भौमाग्नेः संयोगे सति हि सस्यान्युत्पद्यन्ते । कीदृशं तेजः । नृपतिं नृणां रक्षकं शुचि दीप्तम्। तादृशेन तेजसा युक्तो द्यौर्दीप्तोऽग्निरभीके आसन्नकाले एव शर्धादिगुणविशिष्टं पुत्रं जनयतु तं च प्रेरयतु यज्ञादौ । इषे । 'सावेकाचः ' इति विभक्तेरुदात्तत्वम् । नृपतिम् । ‘परादिश्छन्दसि बहुलम् इत्युत्तरपदाद्युदात्तत्वम् । आनट् । ‘ अशू व्याप्तौ । लङि व्यत्ययेन परस्मैपदश्नमौ। आडागमः । व्र्श्चादिषत्वे ष्टुत्वम् । निषिक्तम् । ‘ षिचिर् क्षरणे ' । कर्मणि निष्ठा । ‘ गतिरनन्तरः' इति गतेः प्रकृतिस्वरत्वम् । ' उपसर्गात्सुनोति' इति षत्वम् । अभीके । अभिपूर्वादञ्चतेः पचाद्यचि पृषोदरादित्वात् रूपसिद्धिः । यद्वा । इण् गतौ ' इत्यस्मात् औणादिकः कक्प्रत्ययः । उभयथापि दासीभारादित्वात् पूर्वपदप्रकृतिस्वरत्वम् । स्वाध्यम् । एरनेकाचः० ' इति यणादेशः । ‘ उदात्तस्वरितयोर्यणः० इति स्वरितत्वम् । जनयत् । जनेर्ण्यन्तात् लेट अडागमः । सूदयत् । ‘ षूद क्षरणे' । पूर्ववत् लेटि अडागमः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“May that (digestive) faculty (of **Agni**) with regards food, be imparted to the devout and illustrious protector of priests, as the source of virile vigour; and may Agni be born as (his) robust, irreproachable, youthful and intelligent son, and instrumental gate him (to acts of worship).”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+**Retas** = water; hence, 'may fire and water, or heat and moister, be spread through the earth for the genitive ration of corn' is an alternative rendering
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+When the (missile’s) sharp point reached the lord of men [=Agni] (for  him) to release it, Heaven, at the moment of contact, (released) the  
+blazing semen poured out.  
+Agni engendered the faultless young troop of good intention  
+[=Aṅgirases] and sweetened it.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+The incest myth treated in vs. 5 returns here with no more clarity. The various alternative treatments are too numerous to discuss here, so I will present only my own version, some of whose details I have adopted from others. The first hemistich describes again Agni as the avenger, loosing his weapon at Heaven in the midst of the latter’s sexual encounter with his daughter. In pāda a the téjaḥ, the sharp point of the arrow, reaches the lord of men (=Agni, in my view), so that he can shoot it. I do not understand why his preparation for shooting should be described thus, and in a phrase ā́naṭ + ACC we might expect the acc. to express the target of the arrow.
+
+Nonetheless, Heaven is not otherwise called nṛpáti-, and it would be odd to give him this positive epithet in this situation. For Agni as an archer whose arrow has a téjassee VI.3.5 sá íd ásteva práti dhād asiṣyáñ, chíśīta téjò 'yasā ná dhā́rām “He, just like an archer, has aimed (his arrow), about to shoot. He has whetted its point like a blade of copper.” I take iṣé in this pāda as an infinitive to √iṣ ‘impel, send’ (others interpret it as ‘to enjoy’); I then supply a form of this same verb in the next pāda, which otherwise lacks one.
+
+Note that the product of this incest, the young troop (śárdham … yúvānam), is characterized as both ‘faultless’ (anavadyám) and ‘well-intentioned’ (svādhyàm), asserting their goodness despite the circumstances of their birth.
+</details>
+
+<details><summary>+Griffith</summary>
+
+When light hath filled the Lord of men for increase, straight from the heaven descends the limpid moisture.  
+     Agni hath brought to light and filled with spirit the youthful host blameless and well providing.
+</details>
+
+<details><summary>+Oldenberg</summary>
+
+1 When the sharp splendour 2 reached the lord of men to incite him 3, the bright sperm poured down from Heaven (or, from the god Dyaus)4, Agni produced 5 and furthered the blameless, young, well-wishing host 6.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Als dem Männerherrn die Brunst ankam zum Genusse, da hat der Himmel den bei der Liebesbegegnung vergossenen reinen Samen zurückgelassen. Agni brachte die tadellose jugendliche Schar, die wohlgesinnte, zur Geburt und machte sie zu Meistern.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Wenn ihn, den Herrn, zur Labung Glanz erfüllt hat, dann strömt vom Himmel nieder reiner Same; Die tadellose junge Schar hat Agni, die sorgende, erzeugt und gross gezogen.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Когда страсть к наслаждению охватила господина людей,  
+(Отец-) небо при (любовном) соитии (испустил) чистое семя, которое разлилось.  
+Агни породил безупречную юную благосклонную  
+Толпу (Ангирасов) и сделал (их) прекрасными.
+</details>

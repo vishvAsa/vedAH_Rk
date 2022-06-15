@@ -1,0 +1,132 @@
++++
+title = "001"
+devataa = "इन्द्रः"
+RShiH = "कुरुसुतिः काण्वः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+जज्ञानो꣡ नु꣡ शत꣡क्रतुर्  
+वि꣡ पृछद् इ꣡ति मात꣡रम्  
+क꣡ उग्राः꣡ के꣡ ह शृण्विरे
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ज॒ज्ञा॒नः । नु । श॒तऽक्र॑तुः । वि । पृ॒च्छ॒त् । इति॑ । मा॒तर॑म् ।  
+के । उ॒ग्राः । के । ह॒ । शृ॒ण्वि॒रे॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *jajñāno* ← *jajñānaḥ* ← *jan*
+- \[verb noun\], nominative, singular
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+------------------------------------------------------------------------
+- *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *śatakratur* ← *śatakratuḥ* ← *śatakratu*
+- \[noun\], nominative, singular, masculine
+- “Indra.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *pṛcchad* ← *pṛcchat* ← *pracch*
+- \[verb\], singular, Present injunctive
+- “ask; ask; ask; consult; interrogate.”
+------------------------------------------------------------------------
+- *iti*
+- \[adverb\]
+- “thus; so; iti \[word\].”
+------------------------------------------------------------------------
+- *mātaram* ← *mātṛ*
+- \[noun\], accusative, singular, feminine
+- “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
+    Citrullus colocynthis Schrad.; cow.”
+------------------------------------------------------------------------
+- *ka* ← *ke* ← *ka*
+- \[noun\], nominative, plural, masculine
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *ugrāḥ* ← *ugra*
+- \[noun\], nominative, plural, masculine
+- “powerful; awful; dangerous; intense; mighty; potent; colicky;
+    atrocious.”
+------------------------------------------------------------------------
+- *ke* ← *ka*
+- \[noun\], nominative, plural, masculine
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *ha*
+- \[adverb\]
+- “indeed; ha \[word\].”
+------------------------------------------------------------------------
+- *śṛṇvire* ← *śru*
+- \[verb\], plural, Present indikative
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+अयमिन्द्रः **जज्ञानो** **नु** जायमान एव **शतक्रतुः** बहुकर्मा **इति** इत्थं **मातरं** स्वजननीं विपृच्छति । किमिति । **क** **उग्राः** उद्गूर्णबला लोके । **के** **ह** **श्रृण्विरे** श्रूयन्ते गुणैः । के विश्रुता इत्यर्थः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“As soon as he was born **Śatakratu** asked his mother, who are the mgihty, who are renowned?”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Cf. RV8.45.4
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Just born, the one of a hundred resolves asked his mother,  
+“Which ones are powerful; which ones are famed?”
+</details>
+
+<details><summary>+Griffith</summary>
+
+SCARCELY was Satakratu, born when of his Mother he inquired,  
+     Who are the mighty? Who are famed?
+</details>
+
+<details><summary>+Geldner</summary>
+
+Eben geboren fragte der Ratreiche also die Mutter aus: "Wer sind die Gewaltigen? Wie heißen sie?
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Als er geboren, fragte so die Mutter der vielwirkende: »Wer ist gewaltig, wer berühmt?«
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Едва родившись, стоумный  
+Стал так расспрашивать мать:  
+Кто (эти) грозные? Кем слывут?
+</details>

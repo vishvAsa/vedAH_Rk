@@ -1,0 +1,156 @@
++++
+title = "007"
+devataa = "इन्द्रावरुणौ"
+RShiH = "वसिष्ठः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+द꣡श रा꣡जानः स꣡मिता अ꣡यज्यवः  
+सुदा꣡सम् इन्द्रावरुणा न꣡ युयुधुः  
+सत्या꣡ नॄणा꣡म्+ अद्मस꣡दाम् उ꣡पस्तुतिर्  
+देवा꣡ एषाम् अभवन् देव꣡हूतिषु
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दश॑ । राजा॑नः । सम्ऽइ॑ताः । अय॑ज्यवः । सु॒ऽदास॑म् । इ॒न्द्रा॒व॒रु॒णा॒ । न । यु॒यु॒धुः॒ ।  
+स॒त्या । नृ॒णाम् । अ॒द्म॒ऽसदा॑म् । उप॑ऽस्तुतिः । दे॒वाः । ए॒षा॒म् । अ॒भ॒व॒न् । दे॒वऽहू॑तिषु ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *daśa* ← *daśan*
+- \[noun\], nominative, singular, neuter
+- “ten; tenth; daśan \[word\].”
+------------------------------------------------------------------------
+- *rājānaḥ* ← *rājan*
+- \[noun\], nominative, plural, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+------------------------------------------------------------------------
+- *samitā* ← *samitāḥ* ← *sami* ← *√i*
+- \[verb noun\], nominative, plural
+- “meet.”
+------------------------------------------------------------------------
+- *ayajyavaḥ* ← *ayajyu*
+- \[noun\], nominative, plural, masculine
+- “irreligious.”
+------------------------------------------------------------------------
+- *sudāsam* ← *sudās*
+- \[noun\], accusative, singular, masculine
+- “Sudās.”
+------------------------------------------------------------------------
+- *indrāvaruṇā* ← *indrāvaruṇa*
+- \[noun\], vocative, dual, masculine
+- “Varuna; Indra.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *yuyudhuḥ* ← *yudh*
+- \[verb\], plural, Perfect indicative
+- “fight; overcome.”
+------------------------------------------------------------------------
+- *satyā* ← *satya*
+- \[noun\], nominative, singular, feminine
+- “true; real; real; faithful; good.”
+------------------------------------------------------------------------
+- *nṛṇām* ← *nṛ*
+- \[noun\], genitive, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *admasadām* ← *admasad*
+- \[noun\], genitive, plural, masculine
+------------------------------------------------------------------------
+- *upastutir* ← *upastutiḥ* ← *upastuti*
+- \[noun\], nominative, singular, feminine
+- “praise; applause.”
+------------------------------------------------------------------------
+- *devā* ← *devāḥ* ← *deva*
+- \[noun\], nominative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *eṣām* ← *idam*
+- \[noun\], genitive, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *abhavan* ← *bhū*
+- \[verb\], plural, Imperfect
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+------------------------------------------------------------------------
+- *devahūtiṣu* ← *deva*
+- \[noun\], masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *devahūtiṣu* ← *hūtiṣu* ← *hūti*
+- \[noun\], locative, plural, feminine
+- “invocation.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे इन्द्रावरुणौ दशसंख्याकाः **राजानः** सुदासः शत्रवः **समिताः** संगताः परस्परं समवेताः **अयज्यवः** अयजमाना एवंभूतास्ते **सुदासम्** एतत्संज्ञमेकमपि राजानं **न** **युयुधुः** न संप्रजह्रुः । युवाभ्यामनुगृहीतं तं प्रहर्तुं न शेकुः । तदानीम् **अद्मसदाम्** । अद्मन्यन्ने हविषि सीदन्तीत्यद्मसद ऋत्विजः । हविर्भिर्युक्तानां **नृणां** यज्ञस्य नेतॄणामृत्विजाम् **उपस्तुतिः** स्तोत्रं **सत्या** सफलाभूत् । अपि च **एषां** **देवहूतिषु** । देवा हूयन्त एष्विति देवहूतयो यज्ञाः । तेषु सर्वे च **देवाः** **अभवन्** युष्मदनुग्रहात् प्रादुर्भवन्ति ।
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The ten confederated irreligious **rājās** did not prevail, **Indra** and **Varuṇa**, against **Sudāsa**; the praiseof the leaders (of rites), the offerers of sacrificial food, was fruitful; the gods were present at their sacrifices.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Gathered together but without a zeal to sacrifice, the ten kings gave no  fight to Sudās, o Indra and Varuṇa.  
+The invitatory praise of the superior men [=priests] sitting down to the  [sacrificial] meal came true: at the call of these to the gods, the gods  became present.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Ten Kings who worshipped not, O Indra-Varuna, confederate, in war prevailed not o'er Sudas.  
+     True was the boast of heroes sitting at the feast: so at their invocations Gods were on their side.
+</details>
+
+<details><summary>+Macdonell</summary>
+
+Ten kings allied, who worshipped not, did not prevail Against Sudās in war, O Indra-Varuna; The lauds of heroes sitting at the feast came true: The gods were at their invocations on their side.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Zehn verbündete opferlose Könige konnten gegen Sudas nicht ankämpfen, Indra und Varuna. Es bewährte sich der Lobpreis der Herren, die bei dem Opfermahl saßen; die Götter erschienen auf ihre Götteranrufungen.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Die zehn verschwornen, opferlosen Könige bezwangen nicht den Sudas, Indra-Varuna, Erfolgreich war der Tischgenossen Bitte da, die Götter wohnten ihren Gottesdiensten bei.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Десять обьединившихся царей, не приносящих жертв,  
+Не побороли Судаса, о Индра-Варуна.  
+Истинной (оказалась) хвала мужей, сидевших за (жертвенной) трапезой.  
+Боги были на их призывах богов.
+</details>

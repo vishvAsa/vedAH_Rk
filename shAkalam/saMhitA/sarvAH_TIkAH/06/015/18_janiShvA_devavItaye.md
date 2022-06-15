@@ -1,0 +1,141 @@
++++
+title = "018"
+devataa = "अग्निः"
+RShiH = "भरद्वाजो बार्हस्पत्यो वीतहव्यो वा"
+ChandaH = "बृहती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+ज꣡निष्वा देव꣡वीतये  
+सर्व꣡ताता सुअस्त꣡ये  
+आ꣡ देवा꣡न् वक्षि अमृ꣡ताँ ऋतावृ꣡धो  
+यज्ञं꣡ देवे꣡षु पिस्पृशः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+जनि॑ष्व । दे॒वऽवी॑तये । स॒र्वऽता॑ता । स्व॒स्तये॑ ।  
+आ । दे॒वान् । व॒क्षि॒ । अ॒मृता॑न् । ऋ॒त॒ऽवृधः॑ । य॒ज्ञम् । दे॒वेषु॑ । पि॒स्पृ॒शः॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *janiṣvā* ← *janiṣva* ← *jan*
+- \[verb\], singular, Aorist imperative
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+------------------------------------------------------------------------
+- *devavītaye* ← *deva*
+- \[noun\], masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *devavītaye* ← *vītaye* ← *vīti*
+- \[noun\], dative, singular, feminine
+------------------------------------------------------------------------
+- *sarvatātā* ← *sarvatāti*
+- \[noun\], locative, singular, feminine
+- “completeness; prosperity; sum.”
+------------------------------------------------------------------------
+- *svastaye* ← *svasti*
+- \[noun\], dative, singular, feminine
+- “prosperity; well-being; fortune; benediction; svasti \[word\];
+    well; luck.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *devān* ← *deva*
+- \[noun\], accusative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *vakṣy* ← *vakṣi* ← *vah*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “transport; bring; marry; run; drive; vāhay; drive; run; pull;
+    nirvāpay; blow; transport; discharge; assume; remove.”
+------------------------------------------------------------------------
+- *amṛtāṃ* ← *amṛta*
+- \[noun\], accusative, plural, masculine
+- “immortal; amṛta; imperishable.”
+------------------------------------------------------------------------
+- *ṛtāvṛdho* ← *ṛtāvṛdhaḥ* ← *ṛtāvṛdh*
+- \[noun\], accusative, plural, masculine
+- “sincere.”
+------------------------------------------------------------------------
+- *yajñaṃ* ← *yajñam* ← *yajña*
+- \[noun\], accusative, singular, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *deveṣu* ← *deva*
+- \[noun\], locative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *pispṛśaḥ* ← *spṛś*
+- \[verb\], singular, Perfect injunctive
+- “touch; enter (a state); reach; touch.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे अग्ने **सर्वताता** सर्वैस्तायमाने यज्ञे मथ्यमानस्त्वं **जनिष्व** प्रादुर्भव । किमर्थम् । **देववीतये** देवकामाय यजमानाय । षष्ठ्यर्थे चतुर्थ्येषा । ईदृशस्य यजमानस्य **स्वस्तये** अविनाशार्थम् । जनित्वा च **अमृतान्** मरणरहितान् **ऋतावृधः** यज्ञस्य वर्धयितॄन् **देवान्** **आ** **वक्षि** आवह । तदनन्तरं तेषु **देवेषु** अस्मदीयं **यज्ञं** **पिस्पृशः** स्पर्शय । प्रापयेत्यर्थः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Be born, **Agni**, at the sacrifice, for the welfare of the offerer (of oblation) to the gods; bring hither the immortal deities, the augmenters of the (sacred) rite present our sacrifice to the gods.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Be born, to pursue the gods in their entirety, for well-being. Convey the gods hither, the immortals growing strong through truth.  You cause the sacrifice to touch the gods.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+On jániṣvā as belonging to the -iṣ-aorist, see Narten (Sig.-Aor, 68).
+</details>
+
+<details><summary>+Griffith</summary>
+
+For the Gods' banquet be thou born, for full perfection and for weal.  
+     Bring the Immortal Gods who strengthen holy Law: so let our sacrifice reach the Gods.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Werde geboren, um die Götter herzubitten in Vollzähligkeit zum Heile! Fahre die unsterblichen Götter her, die Mehrer der Wahrheit, laß das Opfer die Götter erreichen!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Geboren sei zum Göttermahl, zum Heile mit der ganzen Schar; fahre her die unsterblichen Götter, die heiligen, und lass die Götter das Opfer berühren.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Рождайся для приглашения богов,  
+Для полного благополучия!  
+Привози бессмертных богов, усиленных законом!  
+Сделай, чтобы жертва коснулась богов!
+</details>

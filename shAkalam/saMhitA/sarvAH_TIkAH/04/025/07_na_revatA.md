@@ -1,0 +1,179 @@
++++
+title = "007"
+devataa = "इन्द्रः"
+RShiH = "वामदेवो गौतमः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+न꣡ रेव꣡ता पणि꣡ना सख्य꣡म् इ꣡न्द्रो  
+अ꣡सुन्वता सुतपाः꣡ सं꣡ गृणीते  
+आ꣡स्य वे꣡दः खिद꣡ति ह꣡न्ति नग्नं꣡  
+वि꣡ सु꣡ष्वये पक्त꣡ये के꣡वलो भूत्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+न । रे॒वता॑ । प॒णिना॑ । स॒ख्यम् । इन्द्रः॑ । असु॑न्वता । सु॒त॒ऽपाः । सम् । गृ॒णी॒ते॒ ।  
+आ । अ॒स्य॒ । वेदः॑ । खि॒दति॑ । हन्ति॑ । न॒ग्नम् । वि । सुस्व॑ये । प॒क्तये॑ । केव॑लः । भू॒त् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *revatā* ← *revat*
+- \[noun\], instrumental, singular, masculine
+- “abundant; rich; affluent; brilliant; brilliant.”
+------------------------------------------------------------------------
+- *paṇinā* ← *paṇi*
+- \[noun\], instrumental, singular, masculine
+- “niggard; paṇ.”
+------------------------------------------------------------------------
+- *sakhyam* ← *sakhī*
+- \[noun\], accusative, singular, feminine
+- “confidante; sakhī \[word\]; friend.”
+------------------------------------------------------------------------
+- *indro* ← *indraḥ* ← *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *'sunvatā* ← *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *'sunvatā* ← *sunvatā* ← *su*
+- \[verb noun\], instrumental, singular
+- “press out; su.”
+------------------------------------------------------------------------
+- *sutapāḥ* ← *suta*
+- \[noun\], masculine
+- “Soma.”
+------------------------------------------------------------------------
+- *sutapāḥ* ← *pāḥ* ← *pā*
+- \[noun\], nominative, singular, masculine
+- “drinking.”
+------------------------------------------------------------------------
+- *saṃ* ← *sam*
+- \[noun\], nominative, singular, masculine
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *gṛṇīte* ← *gṛ*
+- \[verb\], singular, Present indikative
+- “praise.”
+------------------------------------------------------------------------
+- *āsya* ← *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *āsya* ← *asya* ← *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *vedaḥ* ← *vedas*
+- \[noun\], accusative, singular, neuter
+- “property.”
+------------------------------------------------------------------------
+- *khidati* ← *khid*
+- \[verb\], singular, Present indikative
+- “tire; depress; press down.”
+------------------------------------------------------------------------
+- *hanti* ← *han*
+- \[verb\], singular, Present indikative
+- “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
+    paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
+    affect; strike; hammer; love; obstruct; shoot.”
+------------------------------------------------------------------------
+- *nagnaṃ* ← *nagnam* ← *nagna*
+- \[noun\], accusative, singular, masculine
+- “bare; nagna \[word\].”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *suṣvaye* ← *suṣvi*
+- \[noun\], dative, singular, masculine
+------------------------------------------------------------------------
+- *paktaye* ← *pakti*
+- \[noun\], dative, singular, feminine
+- “digestion; food.”
+------------------------------------------------------------------------
+- *kevalo* ← *kevalaḥ* ← *kevala*
+- \[noun\], nominative, singular, masculine
+- “pure; alone(p); whole; all(a); pure; entire; kevala \[word\];
+    alone(p); single(a); white; absolute.”
+------------------------------------------------------------------------
+- *bhūt* ← *bhū*
+- \[verb\], singular, Aorist inj. (proh.)
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**सुतपाः** अभिषुतं सोमं पिबन् **इन्द्रः** **रेवता** धनवता **पणिना** वणिजा लुब्धेन **असुन्वता** सोमाभिषवमकुर्वता अयजमानेन सह **सख्यं** सखित्वं **न** **सं** **गृणीते** न संस्तौति । नानुमन्यत इत्यर्थः । किंच **अस्य** अयजमानस्य **नग्नं** निरर्थकं **वेदः** धनं ज्ञानं वा **आ** **खिदति** उद्धरति । **हन्ति** हिनस्ति च । अपि च **सुष्वये** सोमं सुन्वते **पक्तये** हवींषि पचते यजमानाय **केवलः** असाधारणः सन् **वि** **भूत्** विभवति ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“(**Indra**), the drinker of the effused **Soma**, contract no friendship with the wealthy trader who offers not any libation; he takes away his wealth; destroys him when destitute; but he is a special (friend) to him who presents the libation and oblation.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Indra does not agree to comradeship with a rich miser, nor does he, the  drinker of pressed soma, (agree to it) with one who does not press.  
+He rips away his possessions and smites him naked. He becomes  
+manifest exclusively to the presser, for his cooked food.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+On sakhyám sám √gṝ see IX.86.16.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Not with the wealthy churl who pours no Soma doth Indra, Soma-drinker, bind alliance.  
+     He draws away his wealth and slays him naked, own Friend to him who offers, for oblation.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Indra schließt keine Freundschaft mit dem reichen Knauser, der keinen Soma auspreßt, er der Somatrinker. Er zwackt ihm die Habe ab, erschlägt ihn splitternackt. Einzig für den Somapressenden, für den Kochenden ist er zu haben.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Nicht mit dem reichen, kargen, somalosen verbündet Indra sich, der Somatrinker, Er nimmt sein Gut und tödtet den entblössten; nur dem gehört er, welcher kocht und keltert.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+С богатым скупцом, не выжимающим (сомы),  
+Индра, пьющий выжатый (сок), не одобряет дружбы.  
+Он вырывает его имущество, убивает (его), бессмысленного.  
+Он должен быть единственным для выжимающего (сок), варящего (жертву).
+</details>

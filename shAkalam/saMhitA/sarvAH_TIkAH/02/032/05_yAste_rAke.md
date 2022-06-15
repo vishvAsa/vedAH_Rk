@@ -1,0 +1,158 @@
++++
+title = "005"
+devataa = "राका"
+RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+या꣡स् ते राके सुमत꣡यः सुपे꣡शसो  
+या꣡भिर् द꣡दासि दाशु꣡षे व꣡सूनि  
+ता꣡भिर् नो अद्य꣡ सुम꣡ना उपा꣡गहि  
+सहस्रपोषं꣡ सुभगे र꣡राणा
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for non-linguistic reasons
+
+### Pāda-label
+genre D  
+genre D  
+genre D  
+genre D
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+याः । ते॒ । रा॒के॒ । सु॒ऽम॒तयः॑ । सु॒ऽपेश॑सः । याभिः॑ । ददा॑सि । दा॒शुषे॑ । वसू॑नि ।  
+ताभिः॑ । नः॒ । अ॒द्य । सु॒ऽमनाः॑ । उ॒प॒ऽआग॑हि । स॒ह॒स्र॒ऽपो॒षम् । सु॒ऽभ॒गे॒ । ररा॑णा ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *yās* ← *yāḥ* ← *yad*
+- \[noun\], nominative, plural, feminine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *te* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *rāke* ← *rākā*
+- \[noun\], vocative, singular, feminine
+- “Rākā; rākā; full moon.”
+------------------------------------------------------------------------
+- *sumatayaḥ* ← *sumati*
+- \[noun\], nominative, plural, feminine
+- “benevolence; favor; Sumati.”
+------------------------------------------------------------------------
+- *supeśaso* ← *supeśasaḥ* ← *supeśas*
+- \[noun\], nominative, plural, feminine
+- “beautiful; fine-looking.”
+------------------------------------------------------------------------
+- *yābhir* ← *yābhiḥ* ← *yad*
+- \[noun\], instrumental, plural, feminine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *dadāsi* ← *dā*
+- \[verb\], singular, Present indikative
+- “give; add; perform; put; administer; fill into; give; ignite; put
+    on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
+    drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
+    splint; poultice; create.”
+------------------------------------------------------------------------
+- *dāśuṣe* ← *dāś*
+- \[verb noun\], dative, singular
+- “sacrifice; give.”
+------------------------------------------------------------------------
+- *vasūni* ← *vasu*
+- \[noun\], accusative, plural, neuter
+- “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
+------------------------------------------------------------------------
+- *tābhir* ← *tābhiḥ* ← *tad*
+- \[noun\], instrumental, plural, feminine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+------------------------------------------------------------------------
+- *sumanā* ← *sumanāḥ* ← *sumanas*
+- \[noun\], nominative, singular, feminine
+- “benevolent; cheerful; happy; satisfied.”
+------------------------------------------------------------------------
+- *upāgahi* ← *upāgam* ← *√gam*
+- \[verb\], singular, Aorist imperative
+- “enter (a state); come; approach; arrive; result.”
+------------------------------------------------------------------------
+- *sahasrapoṣaṃ* ← *sahasra*
+- \[noun\], neuter
+- “thousand; one-thousandth; sahasra \[word\].”
+------------------------------------------------------------------------
+- *sahasrapoṣaṃ* ← *poṣam* ← *poṣa*
+- \[noun\], accusative, singular, masculine
+- “prosperity; poṣa \[word\].”
+------------------------------------------------------------------------
+- *subhage* ← *subhaga*
+- \[noun\], vocative, singular, feminine
+- “beautiful; auspicious; beloved; fine-looking; fortunate; subhaga
+    \[word\]; charming; pleasing; lucky.”
+------------------------------------------------------------------------
+- *rarāṇā* ← *rā*
+- \[verb noun\], nominative, singular
+- “give; impart.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हेराकेदेवि सुपेशसः शोभनरूपास्तेतवयाःसुमतयः शोभनबुद्धयः याभिर्मतिभिः दाशुषेहवि- र्दत्तवतेयजमानायसूनिधनानिददासि प्रयच्छसि अद्येदानीन्ताभिर्मतिभिः सहितात्वंसुमनाः शोभनमनाभूत्वानोस्मान् उपागहि उपागच्छ गमेश्छान्दसः शपोलुक् अनुदात्तोपदेशेत्यादि- नानुनासिकलोपः असिद्धवदत्राभादित्यस्यासिद्धत्वाद्धेर्लुगभावः किङ्कुर्वती हेसुभगेसोभनधने सहस्रपोषंसहस्रसङ्ख्याकस्यधनस्यपुष्टिंरराणाददती रादाने व्यत्ययेनशानच् छान्दसः शपः श्लुः अभ्यस्तानामादिरित्याद्युदात्तत्वम् ॥ ५ ॥ सिनीवाल्यायागेसिनीवालीत्यादिकेद्वेयाज्यानुवाक्ये सूत्रम्पूर्वमुदाहृतम्
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Rākā**, with those your kind and gracious intentions, wherewith you grant riches to the donor (of oblations), approach us today; you who are auspicious of good fortune, favourably inclined, and bestowing a thousand blessings.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+O Rākā, your benevolent thoughts, well-ornamented, with which you  give goods to the pious one—  
+with those approach us today, benevolently, granting thousandfold  
+thriving, you of good portion.
+</details>
+
+<details><summary>+Griffith</summary>
+
+All thy kind thoughts, O Raka, lovely in their form, wherewith thou grantest wealth to him who offers gifts-  
+     With these come thou to us this day benevolent, O Blessed One, bestowing food of thousand sorts.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Deine ausgezeichneten Gnaden, o Raka, mit denen du dem Opferspendenden Schätze schenkst, mit diesem komm heute wohlwollend zu uns, indem du, Holde, Wohlstand für Tausend spendest!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Mit reichen Gaben, die dir, Rākā, eigen sind, durch die du Güter dem Verehrenden verleihst, Mit denen komme heut' uns wohlgesinnt herbei, o reiche du, uns schenkend tausendfaches Gut.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Твои прекрасные милости, о Рака,  
+С помощью которых ты даешь блага почитающему (тебя), -  
+С ними приди ты к нам сегодня благосклонная,  
+Давая процветание тысячам, о любимая!
+</details>

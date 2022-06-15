@@ -1,0 +1,189 @@
++++
+title = "005"
+devataa = "वैश्वानरोग्निः"
+RShiH = "भरद्वाजो बार्हस्पत्यः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+वइ꣡श्वानर त꣡व ता꣡नि व्रता꣡नि  
+महा꣡नि अग्ने न꣡किर् आ꣡ दधर्ष  
+य꣡ज् जा꣡यमानः पितरो꣡र्+ उप꣡स्थे  
+अ꣡विन्दः केतुं꣡ वयु꣡नेषु अ꣡ह्नाम्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वैश्वा॑नर । तव॑ । तानि॑ । व्र॒तानि॑ । म॒हानि॑ । अ॒ग्ने॒ । नकिः॑ । आ । द॒ध॒र्ष॒ ।  
+यत् । जाय॑मानः । पि॒त्रोः । उ॒पऽस्थे॑ । अवि॑न्दः । के॒तुम् । व॒युने॑षु । अह्ना॑म् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *vaiśvānara*
+- \[noun\], vocative, singular, masculine
+- “Agni; fire; Vaiśvānara; Vaiśvānara; sacrificial fire; sun.”
+------------------------------------------------------------------------
+- *tava* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *tāni* ← *tad*
+- \[noun\], accusative, plural, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *vratāni* ← *vrata*
+- \[noun\], accusative, plural, neuter
+- “vrata (vote); commandment; law; oath; command; rule; custom; vrata
+    \[word\]; rule; behavior.”
+------------------------------------------------------------------------
+- *mahāny* ← *mahāni* ← *maha*
+- \[noun\], accusative, plural, neuter
+- “great; abundant.”
+------------------------------------------------------------------------
+- *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *nakir*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *dadharṣa* ← *dhṛṣ*
+- \[verb\], singular, Perfect indicative
+- “dare; attack.”
+------------------------------------------------------------------------
+- *yaj* ← *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *jāyamānaḥ* ← *jan*
+- \[verb noun\], nominative, singular
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+------------------------------------------------------------------------
+- *pitror* ← *pitroḥ* ← *pitṛ*
+- \[noun\], genitive, dual, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+------------------------------------------------------------------------
+- *upasthe* ← *upastha*
+- \[noun\], locative, singular, neuter
+- “genitalia; lap; sexual desire; anus.”
+------------------------------------------------------------------------
+- *'vindaḥ* ← *avindaḥ* ← *vid*
+- \[verb\], singular, Imperfect
+- “find; detect; marry; get; think.”
+------------------------------------------------------------------------
+- *ketuṃ* ← *ketum* ← *ketu*
+- \[noun\], accusative, singular, masculine
+- “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
+    signal; signal; luminosity.”
+------------------------------------------------------------------------
+- *vayuneṣv* ← *vayuneṣu* ← *vayuna*
+- \[noun\], locative, plural, neuter
+- “convention; custom; means.”
+------------------------------------------------------------------------
+- *ahnām* ← *ahar*
+- \[noun\], genitive, plural, neuter
+- “day; day; ahar \[word\]; day; day.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **वैश्वानर** विश्वेषां नराणां संबन्धिन् **अग्ने** **तव** त्वदीयानि **तानि** प्रसिद्धानि **व्रतानि** कर्माणि **महानि** महान्ति **नकिरा** **दधर्ष** न कश्चनान्यो धर्षयति बाधते । **यत्** यदा त्वं **पित्रोः** द्यावापृथिव्योः **उपस्थे** उपस्थानेऽन्तरिक्ष **वयुनेषु** गन्तव्येषु मार्गेषु **जायमानः** सन् **अह्नां** **केतुं** प्रज्ञापकं सूर्यं स्वर्भानुनावृतम् **अविन्दः** अलम्भयः । तमोरूपमसुरं स्वतेजसा निवारयन्नस्थापय इत्यर्थः । तदा तानि व्रतानीति पूर्वत्रान्वयः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Agni**, **vaiśvānara**, these your mighty deeds no one can resist; when born on the lap of your parents, you have stationed the banner of the days on the paths of the firmament.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Lap of your parents: i.e., antarkṣa, or firmament
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Vaiśvānara Agni, these great commandments of yours no one dares  venture against,  
+since, while (just) being born in the lap of your parents, you found the  beacon of the days in the (ritual) patterns.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+The disjunction between pf. dadharṣa in the main clause of b and impf.
+
+ávindaḥ in the subord. cl. of d is likewise a bit disturbing. Flg. Kümmel (266), the published translation
+
+renders the perfect presentially as “ventures against,” but I might be tempted to change that now to “has ventured against” (cf. Geldner’s “… hat noch keiner angetastet”).
+
+The question is what is the relationship between the two clauses. I think that Agni’s vratás are those that he established after he discovered (ávindaḥ) the phenomenon in d.
+
+This in turn raises the question of what that phenomenon is and, more precisely, to which noun (ketúm or vayúneṣu) the gen. áhnām belongs. Most (Geldner, Renou, Oldenberg) take it with vayúneṣu; cf., e.g., Renou “quand … tu eus découvert le signallumineux pour les jalonnements des jours.” Oldenberg, who should know better, even cites word order as support of this interpr. And certainly áhnām does (once) occur with vayúna-: II.19.3 aktúnā́hnāṇ vayúnāni sādhat “He perfected the patterns of the days through the night.” But far more often áhnām limits ketú-, several times in a Vaiśvānara context: VII.5.5 vaiśvānarám uṣásāṃ ketúm áhnām “V., the beacon of the dawns and of the days”; X.88.12 vaiśvānaráṃ ketúm áhnām akṛnvan “they made V.
+
+the beacon of the days.” Cf. also III.34.4 ketúm áhnām, X.85.19 áhnāṃ ketúr uṣásām, and VI.39.3 imáṃ ketúm adadhur nū́ cid áhnāṃ, this last with separation between the noun and its gen. as in our passage. In my interpr. of this pāda the vayúna- are the ritual patterns, the regularly repeated sequence of events in the ritual, including the kindling of the fire. The “beacon of the days” is the sun, which rises at that kindling.
+
+(clarified in the next vs.), in contrast to the “beacon of the sacrifice” in 2d, which is Agni. Note that Agni, addressed as Vaiśvānara, is here distinct from the sun, which he finds. (See further ad vs. 6.). Finding the beacon of the days in the (ritual) patterns means recognizing and replicating the regular rising of the sun that coincides with the kindling of the ritual fire. As usual in Rigvedic discourse the correct performance of ritual governs the rhythms of the natural world.
+
+To return to the question of the relationship between the two hemistichs, I suggest that the “great vratás” of Agni that no one has/does venture against are the ritual patterns, esp. the dawn kindling, which in turn control the repeated return of the “beacon of the days.”
+
+
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/007/03-05.md">
+<details open><summary><h2>03-05 ...{Loading}...</h2></summary>
+
+The middle of the hymn is characterized by initial (or modified initial) forms of the 2nd sg. prn.: 3a tvát, 3b tvát, 3c VOC tvám, 4a tvā́m, 4c táva, 5a VOC táva.
+
+</details>
+</div>
+</details>
+
+<details><summary>+Griffith</summary>
+
+Agni Vaisvanara, no one hath ever resisted these thy mighty ordinances,  
+     When thou, arising from thy Parents' bosom, foundest the light for days' appointed courses.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Vaisvanara! Diese deine hohen Anordnungen hat noch keiner angetastet, o Agni, da du im Schoße der beiden Eltern geboren das Wahrzeichen in der Reihenfolge der beiden Tage fandest.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+O Männerhort, an diese deine Werke, die grossen, Agni, wagt heran sich keiner; Als du, geboren in dem Schooss der Aeltern, das Licht auffandest in dem Lauf der Tage.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+О Вайшванара, на те твои великие  
+Заветы, о Агни, никто не покушался,  
+Что, рождаясь в лоне родителей,  
+Ты нашел знак, чтобы отмечать дни вехами.
+</details>

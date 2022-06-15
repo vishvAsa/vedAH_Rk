@@ -1,0 +1,138 @@
++++
+title = "006"
+devataa = "पवमानः सोमः"
+RShiH = "अंबरीष ऋजिश्वा च"
+ChandaH = "अनुष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+द्वि꣡र् य꣡म् प꣡ञ्च स्व꣡यशसं  
+स्व꣡सारो अ꣡द्रिसंहतम्  
+प्रिय꣡म् इ꣡न्द्रस्य का꣡मियम्  
+प्रस्नाप꣡यन्ति ऊर्मि꣡णम्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M;; repeated line  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+द्विः । यम् । पञ्च॑ । स्वऽय॑शसम् । स्वसा॑रः । अद्रि॑ऽसंहतम् ।  
+प्रि॒यम् । इन्द्र॑स्य । काम्य॑म् । प्र॒ऽस्ना॒पय॑न्ति । ऊ॒र्मिण॑म् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *dvir* ← *dvis*
+- \[adverb\]
+- “twice; dvis \[word\].”
+------------------------------------------------------------------------
+- *yam* ← *yad*
+- \[noun\], accusative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *pañca* ← *pañcan*
+- \[noun\], nominative, plural, feminine
+- “five; fifth; pañcan \[word\].”
+------------------------------------------------------------------------
+- *svayaśasaṃ* ← *sva*
+- \[noun\]
+- “own(a); respective(a); akin(p); sva \[word\]; individual;
+    present(a); independent.”
+------------------------------------------------------------------------
+- *svayaśasaṃ* ← *yaśasam* ← *yaśas*
+- \[noun\], accusative, singular, masculine
+- “fame; Yaśas.”
+------------------------------------------------------------------------
+- *svasāro* ← *svasāraḥ* ← *svasṛ*
+- \[noun\], nominative, plural, feminine
+- “sister; svasṛ \[word\].”
+------------------------------------------------------------------------
+- *adrisaṃhatam* ← *adri*
+- \[noun\], masculine
+- “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
+------------------------------------------------------------------------
+- *adrisaṃhatam* ← *saṃhatam* ← *saṃhan* ← *√han*
+- \[verb noun\], accusative, singular
+- “compress; consolidate; join; compose; kill.”
+------------------------------------------------------------------------
+- *priyam* ← *priya*
+- \[noun\], accusative, singular, masculine
+- “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
+    good; liked; suitable; proper.”
+------------------------------------------------------------------------
+- *indrasya* ← *indra*
+- \[noun\], genitive, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *kāmyam* ← *kāmya*
+- \[noun\], accusative, singular, masculine
+- “desirable; optional; beautiful.”
+------------------------------------------------------------------------
+- *prasnāpayanty* ← *prasnāpayanti* ← *prasnāpay* ← *√snā*
+- \[verb\], plural, Present indikative
+- “bathe.”
+------------------------------------------------------------------------
+- *ūrmiṇam* ← *ūrmin*
+- \[noun\], accusative, singular, masculine
+- “wavy.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**द्विः** **पञ्च** दशसंख्याकाः **स्वसारः** कर्मकरणार्थमितस्ततो गच्छन्त्योऽङ्गुलयः **स्वयशसं** स्वभूतयशस्कम् **अद्रिसंहतं** ग्रावभिरभिषुतम् **इन्द्रस्य** **प्रियं** **काम्यं** सर्वैः काम्यमानम् **ऊर्मिण** धाराभिस्तद्वन्तं **यं** सोमं **प्रस्नापयन्ति** वसतीवरीभिः प्रकर्षेण सेचयन्ति यजमानाः तं पुनन्तीत्युत्तरत्र संबन्धः ॥ ॥ २३ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Whom, celebrated, expressed by the stones, dear to **Indra**, beloved (by all) moving in streams, the twice fiver sister (fingers) bathe (in the sacred waters).”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+The self-glorious one, smashed by stones, whom the twice five sisters bathe—the one dear and desirable to Indra, full of waves,
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+This vs. is entirely a rel. cl., which is resumed by vs. 7, where tyám (7a) picks up yám (6a).
+</details>
+
+<details><summary>+Griffith</summary>
+
+Whom, bright with native splendour, crushed between the pair of pressingstones-  
+     The wavy Friend whom Indra loves-the twice-five sisters dip and bathe,
+</details>
+
+<details><summary>+Geldner</summary>
+
+Welchen Selbstherrlichen, die zweimal fünf Schwestern, wenn er von den Steinen zerstoßen ist, baden, des Indra liebwerten Freund, den Wellenschlagenden.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Den steingeschlagnen, wogenden, den lieben, selbsterstrahlenden, Nach dem sich Indra sehnt, und den der Schwestern waschen zweimal fünf,
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+(Того,) кто обладает собственным блеском,  
+Выбит давильными камнями,  
+Приятен, желанен для Индры,  
+(Тот) волнообразный, (кого) купают дважды пять сестер:
+</details>

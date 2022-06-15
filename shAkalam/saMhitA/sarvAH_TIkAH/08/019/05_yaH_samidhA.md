@@ -1,0 +1,134 @@
++++
+title = "005"
+devataa = "अग्निः"
+RShiH = "सोभरिः काण्वः"
+ChandaH = "ककुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+यः꣡ समि꣡धा य꣡ आ꣡हुती  
+यो꣡ वे꣡देन ददा꣡श म꣡र्तो अग्न꣡ये  
+यो꣡ न꣡मसा सुअध्वरः꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । स॒म्ऽइधा॑ । यः । आऽहु॑ती । यः । वेदे॑न । द॒दाश॑ । मर्तः॑ । अ॒ग्नये॑ ।  
+यः । नम॑सा । सु॒ऽअ॒ध्व॒रः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *samidhā* ← *samidh*
+- \[noun\], instrumental, singular, feminine
+- “firewood; kindling; fuel; fire.”
+------------------------------------------------------------------------
+- *ya* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *āhutī* ← *āhuti*
+- \[noun\], instrumental, singular, feminine
+- “āhuti; offering.”
+------------------------------------------------------------------------
+- *yo* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *vedena* ← *veda*
+- \[noun\], instrumental, singular, masculine
+- “Veda; four; Veda; one-fourth; knowledge.”
+------------------------------------------------------------------------
+- *dadāśa* ← *dāś*
+- \[verb\], singular, Perfect indicative
+- “sacrifice; give.”
+------------------------------------------------------------------------
+- *marto* ← *martaḥ* ← *marta*
+- \[noun\], nominative, singular, masculine
+- “man.”
+------------------------------------------------------------------------
+- *agnaye* ← *agni*
+- \[noun\], dative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *yo* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *namasā* ← *namas*
+- \[noun\], instrumental, singular, neuter
+- “adoration; court; namas \[word\]; bow; salute.”
+------------------------------------------------------------------------
+- *svadhvaraḥ* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *svadhvaraḥ* ← *adhvaraḥ* ← *adhvara*
+- \[noun\], nominative, singular, masculine
+- “yajña; ceremony; adhvara \[word\].”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+इयं पाकयज्ञप्रशंसापरेति भगवताश्वलायनेन ब्राह्मणान्तरप्रदर्शनेन व्याख्याता (आश्व. गृ. १. १.४-५ )। **यः** **मर्तः** मनुष्यः **समिधा** पालाशादिनेध्मेन **अग्नये** अग्न्यर्थं **ददाश** परिचरति । **यः** च **आहुती** आहुत्या आज्यादिसाध्यया परिचरति । **यः** च **वेदेन** वेदाध्ययनेन ब्रह्मयज्ञेन परिचरति । **यः** च **स्वध्वरः** शोभनेनाध्वरेण ज्योतिष्टोमादिना युक्तः सन् **नमसा** अन्नेन चरुपुरोडाशादिनाग्नये ददाश अग्न्यर्थं परिचरति । तस्येदर्वन्त इत्युत्तरत्र संबन्धः ॥ ॥ २९ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The man who has presented (worship) to **Agni** with fuel, with burnt offerings, with the **Veda**, with(sacrificial) food, and is diligent in pious rites.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+With the Veda: vedena = vedādhyayanena, by studying the Veda;or, it may mean, a bundle of grass
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+The mortal who by kindling, who by pouring, who by knowledge  performs pious service to Agni, and  
+who conducts good ceremonies with reverence,
+</details>
+
+<details><summary>+Griffith</summary>
+
+The mortal who hath ministered to Agni with oblation, fuel, ritual lore,  
+     And reverence, skilled in sacrifice.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Welcher Sterbliche mit Brennholz, wer mit Spende, wer mit Wissen dem Agni aufgewartet hat, wer unter Verbeugung das Opfer gut vollzieht,
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Welch Sterblicher mit Opferguss, mit Feuerflammen einsichtsvoll dem Agni dient, Mit Ehrerbietung Opfer weiht,
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+(Тот) смертный, который – дровами, который – возлиянием,  
+Который священным знанием почтил Агни,  
+Который – поклонением, устроив прекрасный обряд,
+</details>

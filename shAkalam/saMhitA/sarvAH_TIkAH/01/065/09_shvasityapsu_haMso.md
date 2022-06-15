@@ -1,0 +1,125 @@
++++
+title = "009"
+devataa = "अग्निः"
+RShiH = "पराशरः शाक्त्यः"
+ChandaH = "द्विपदा विराट्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+श्व꣡सिति अप्सु꣡ हंसो꣡ न꣡ सी꣡दन्  
+क्र꣡त्वा चे꣡तिष्ठो विशा꣡म् उषर्भु꣡त्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
+genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+श्वसि॑ति । अ॒प्ऽसु । हं॒सः । न । सीद॑न् । क्रत्वा॑ । चेति॑ष्ठः । वि॒शाम् । उ॒षः॒ऽभुत् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *śvasity* ← *śvasiti* ← *śvas*
+- \[verb\], singular, Present indikative
+- “hiss; pant; sigh; breathe; blow.”
+------------------------------------------------------------------------
+- *apsu* ← *ap*
+- \[noun\], locative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *haṃso* ← *haṃsaḥ* ← *haṃsa*
+- \[noun\], nominative, singular, masculine
+- “goose; Vishnu; sun.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *sīdan* ← *sad*
+- \[verb noun\], nominative, singular
+- “sit down; break down; slow; sink; crumble; fracture; perish; ride;
+    stop; besiege; tire.”
+------------------------------------------------------------------------
+- *kratvā* ← *kratu*
+- \[noun\], instrumental, singular, masculine
+- “yajña; decision; plan; deliberation; intelligence; Kratu; will;
+    kratu \[word\]; desire; resoluteness; ritual.”
+------------------------------------------------------------------------
+- *cetiṣṭho* ← *cetiṣṭhaḥ* ← *cetiṣṭha*
+- \[noun\], nominative, singular, masculine
+- “attentive.”
+------------------------------------------------------------------------
+- *viśām* ← *viś*
+- \[noun\], genitive, plural, feminine
+- “people; tribe; Vaisya; national; viś; real property; Vaisya.”
+------------------------------------------------------------------------
+- *uṣarbhut* ← *uṣarbudh*
+- \[noun\], nominative, singular, masculine
+- “early rising.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+Sayana bhashya empty
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“\[9-10\] He breathes amidst the waters like a sitting swan; awakened at the dawn, he restores by his operations consciousness to men; he is a creator, like **Soma**; born from the waters (where he lurked) like an animal with coiled-up limbs, he became enlarged and his light (spread) afar.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Creator like Soma: soma na **vedhaḥ**; just as soma creates or causes 'plural nts' to grow, so **Agni** creates or extracts from them their nutritive faculty. etāvad vā idam **annam** annādaśca soma eva annam agnir **annādaḥ**: inasmuch as there is food and feeder, so soma is the food, and the feeder is agni (Vājasneyi **Yajuṣ**)
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+He hisses like a wild goose sitting in the waters;  
+awakening at dawn, he is the most conspicuous to the clans by his  
+intention.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+Strictly speaking, given the position of ná, the apsú should go with the frame, not the simile: “he hisses in the waters, like …” This is presumably a reference both to the myth of Agni’s hiding in the waters treated earlier in the hymn and to his identification with Apām Napāt, but the haṃsá- is surely sitting in the waters, too - though the primary point of comparison is the hissing noise both make.
+
+How to construe gen. viśā́m is not clear. I take it loosely as a datival gen. with the cétiṣṭhaḥ, while Renou considers it dependent on a “virtual” viśpáti- (“le plus remarquable … de (ceux qui président aux) tribus”), and Geldner and Witzel Gotō, in slightly different ways, take it as dependent on uṣarbhúd (Geldner “der Frühwache der Ansiedelungen”; Witzel Gotō “der von Niederlassungen am Morgen wach wird”). Proferes’s rendering is quite awkward, but closest to my own in intent: “the clans' brightest as concerns strategems.”
+</details>
+
+<details><summary>+Griffith</summary>
+
+श्वसि॑त्य॒प्सु हं॒सो न सीद॒न्क्रत्वा॒ चेति॑ष्ठो वि॒शामु॑ष॒र्भुत् ॥
+</details>
+
+<details><summary>+Oldenberg</summary>
+
+Sitting in the waters he hisses like a swan. (He is) most famous by his power of mind, he who belongs to the clans, awakening at dawn.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Er zischt dasitzend wie der Schwan im Wasser, durch Einsicht ausgezeichnet, der Frühwache der Ansiedelungen
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Gleich einem Schwane – im Wasser zischt er, sehr klug an Einsicht – früh wach bei Menschen, Wie Soma waltend, – nach Brauch entsprossen, wie junges Füllen, – weitleuchtend, kräftig.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

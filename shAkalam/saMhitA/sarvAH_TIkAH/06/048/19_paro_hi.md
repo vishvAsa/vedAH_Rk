@@ -1,0 +1,159 @@
++++
+title = "019"
+devataa = "पूषा"
+RShiH = "शंयुर्बार्हस्पत्यः (तृणपाणिः)"
+ChandaH = "बृहती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+परो꣡ हि꣡ म꣡र्तियैर् अ꣡सि  
+समो꣡ देवइ꣡र् उत꣡ श्रिया꣡  
+अभि꣡ ख्यः पूषन् पृ꣡तनासु नस् तुव꣡म्  
+अ꣡वा नूनं꣡ य꣡था पुरा꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प॒रः । हि । मर्त्यैः॑ । असि॑ । स॒मः । दे॒वैः । उ॒त । श्रि॒या ।  
+अ॒भि । ख्यः॒ । पू॒ष॒न् । पृत॑नासु । नः॒ । त्वम् । अव॑ । नू॒नम् । यथा॑ । पु॒रा ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *paro* ← *paraḥ* ← *para*
+- \[noun\], nominative, singular, masculine
+- “best; other; following; devoted(p); extreme; highest; otherwordly;
+    better; hostile; maximal; distant; another(a); para \[word\]; upper;
+    concluding; foreign; earlier; worse; longer; finest; excessive.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *martyair* ← *martyaiḥ* ← *martya*
+- \[noun\], instrumental, plural, masculine
+- “mortal.”
+------------------------------------------------------------------------
+- *asi* ← *as*
+- \[verb\], singular, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *samo* ← *samaḥ* ← *sama*
+- \[noun\], nominative, singular, masculine
+- “like; like; alike(p); level; symmetrical; balanced; average; same;
+    regular; impartial; imperturbable; even; sama \[word\]; every(a);
+    accurate; identical; fair; equal; synonymous; changeless; whole;
+    exact; calm; straight; even; wide.”
+------------------------------------------------------------------------
+- *devair* ← *devaiḥ* ← *deva*
+- \[noun\], instrumental, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *śriyā* ← *śrī*
+- \[noun\], instrumental, singular, feminine
+- “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
+    glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
+    \[word\]; śrī; prosperity; auspiciousness.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *khyaḥ* ← *khyā*
+- \[verb\], singular, Aorist inj. (proh.)
+- “name; describe; call; enumerate; watch; know.”
+------------------------------------------------------------------------
+- *pūṣan*
+- \[noun\], vocative, singular, masculine
+- “Pushan; pūṣan \[word\]; sun.”
+------------------------------------------------------------------------
+- *pṛtanāsu* ← *pṛtanā*
+- \[noun\], locative, plural, feminine
+- “army; battle; pṛtanā \[word\]; pṛtanā.”
+------------------------------------------------------------------------
+- *nas* ← *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *tvam* ← *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *avā* ← *ava* ← *av*
+- \[verb\], singular, Present imperative
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *nūnaṃ* ← *nūnam*
+- \[adverb\]
+- “now; surely; immediately; just.”
+------------------------------------------------------------------------
+- *yathā*
+- \[adverb\]
+- “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
+------------------------------------------------------------------------
+- *purā*
+- \[adverb\]
+- “once; earlier; first; purā \[indecl.\].”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **पूषन्** **मर्त्यैः** मर्त्येभ्यो मनुष्येभ्यः **परः** परस्तात् स्थितः **असि** । **श्रिया** संपदा **देवैरुत** सर्वैर्देवैश्च **समः** समानोऽसि । अतः **त्वं** **पृतनासु** संग्रामेषु **नः** अस्मान् **अभि** **ख्यः** अभिपश्य अनुग्रहदृष्ट्या विलोकय । **यथा** **पुरा** येन प्रकारेण पूर्वकालीनान् पुरुषान् ररक्षिथ एवं **नूनम्** अद्येदानीम् **अव** अस्मान् रक्ष ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Supreme are you above mortals; equal in glory are you to the gods; therefore, **Pūṣan**, regard us (favourably) in battles; defend us at present as (you have defended) those of old.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+For you are beyond mortals and equal with the gods in your splendor. Keep an eye on us in our battles, Pūsan. Help us now, just as before.
+</details>
+
+<details><summary>+Griffith</summary>
+
+For thou art high above mankind, in glory equal to the Gods.  
+     Therefore, O Pusan, look upon us in the fight: now help us as in days of old.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Denn du bist höher als die Sterblichen und den Göttern gleich an Herrlichkeit. Hab auf uns acht, o Pusan, in den Kämpfen; steh du uns jetzt wie vormals bei!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Denn hoch ragst über Menschen du, den Göttern gleich bist du an Pracht; O Puschan habe in den Kämpfen Acht auf uns; o hilf uns jetzt wie früher auch.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Ты ведь выше смертных  
+И равен богам по великолепию.  
+Наблюдай ты за нами, о Пушан, в сражениях!  
+Помогай сейчас, как раньше!
+</details>

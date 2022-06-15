@@ -1,0 +1,150 @@
++++
+title = "004"
+devataa = "अग्निः"
+RShiH = "त्रित आप्त्यः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+ऋत꣡स्य हि꣡ वर्तन꣡यः सु꣡जातम्  
+इ꣡षो वा꣡जाय प्रदि꣡वः स꣡चन्ते  
+अधीवासं꣡ रो꣡दसी वावसाने꣡  
+घृतइ꣡र् अ꣡न्नैर् वावृधाते म꣡धूनाम्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऋ॒तस्य॑ । हि । व॒र्त॒नयः॑ । सुऽजा॑तम् । इषः॑ । वाजा॑य । प्र॒ऽदिवः॑ । सच॑न्ते ।  
+अ॒धी॒वा॒सम् । रोद॑सी॒ इति॑ । व॒व॒सा॒ने इति॑ । घृ॒तैः । अन्नैः॑ । व॒वृ॒धा॒ते॒ इति॑ । मधू॑नाम् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *ṛtasya* ← *ṛta*
+- \[noun\], genitive, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *vartanayaḥ* ← *vartani*
+- \[noun\], nominative, plural, feminine
+- “path; East; way.”
+------------------------------------------------------------------------
+- *sujātam* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sujātam* ← *jātam* ← *jan*
+- \[verb noun\], accusative, singular
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+------------------------------------------------------------------------
+- *iṣo* ← *iṣaḥ* ← *iṣ*
+- \[noun\], nominative, plural, feminine
+- “refreshment; enjoyment; stores.”
+------------------------------------------------------------------------
+- *vājāya* ← *vāja*
+- \[noun\], dative, singular, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *pradivaḥ* ← *pradiv*
+- \[noun\], ablative, singular, masculine
+- “age-old; long.”
+------------------------------------------------------------------------
+- *sacante* ← *sac*
+- \[verb\], plural, Present indikative
+- “accompany; follow; company; obey; participate; enter.”
+------------------------------------------------------------------------
+- *adhīvāsaṃ* ← *adhīvāsam* ← *adhīvāsa*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *rodasī* ← *rodas*
+- \[noun\], nominative, dual, neuter
+- “heaven and earth; Earth.”
+------------------------------------------------------------------------
+- *vāvasāne* ← *vas*
+- \[verb noun\], nominative, dual
+- “wear.”
+------------------------------------------------------------------------
+- *ghṛtair* ← *ghṛtaiḥ* ← *ghṛta*
+- \[noun\], instrumental, plural, neuter
+- “ghee; fat.”
+------------------------------------------------------------------------
+- *annair* ← *annaiḥ* ← *anna*
+- \[noun\], instrumental, plural, neuter
+- “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
+------------------------------------------------------------------------
+- *vāvṛdhāte* ← *vṛdh*
+- \[verb\], dual, Perfect indicative
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+------------------------------------------------------------------------
+- *madhūnām* ← *madhu*
+- \[noun\], genitive, plural, neuter
+- “honey; alcohol; sweet; nectar; madhu \[word\].”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**ऋतस्य** यज्ञस्य **वर्तनयः** प्रवर्तकाः **इषः** अभिलषितानीच्छन्तः **प्रदिवः** पुरातना ऋविग्यजमानाः **सुजातम्** आधानकाले सुष्ठूत्पन्नमग्निं **वाजाय** बलार्थमन्नार्थं वा **सचन्ते** **हि** सेवन्ते खलु । अपि च **वावसाने** सर्वस्य जगत आच्छादयित्र्यौ **रोदसी** द्यावापृथिव्यौ **अधीवासम्** ओषधिनक्षत्राद्यात्मना निवसन्तम् । यद्वा । अधिरुपर्यर्थे । त्रयाणां लोकानामुपर्यग्निविद्युदादित्यात्मना निवसन्तम् । अग्निं **मधूनाम्** उदकानां जन्यत्वेन संबन्धिभिः **घृतैरन्नैः** पुरोडाशादिभिश्च **वावृधाते** वर्धयां चक्रतुः । वर्धयतः । तस्माद्वयमपि तमग्निमभिष्टुम इत्यभिप्रायः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The ancient celebrators of the rite desiring (boons) wait on (**Agni**), rightly born, for the sake of food;the all-comprising heaven and earth cherish him, who abodes above the heavens, with the sacrificial butter andfood (produced) from the water.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Desiring boons: iṣaḥ = an epithet of the ṛtvigyajamānāḥ, meaning:abhilaṣitānīccantaḥ, desiring boons; it may mean 'feed', linked with sacante: vājāya = for the sake ofstrength
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+For the trails of truth (follow) the well-born one, and refreshments follow  (him) from of old for the prize.  
+The two world-halves, having cloaked themselves in their over-cloak,  have strengthened (their own child) with ghee-drops and foods  
+of honey.
+</details>
+
+<details><summary>+Griffith</summary>
+
+For tracks of Order and refreshing viands attend from ancient times the goodly Infant.  
+     Wearing him as a mantle, Earth and Heaven grow strong by food of pleasant drink and fatness.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Denn die Wege der Wahrheit führen zu dem Edelgeborenen, die Speisegenüsse folgen ihm von jeher zur Belohnung. Himmel und Erde, sich in ihr Obergewand kleidend, stärkten sich an Fett, Speisen, Süßigkeiten.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Des Opfers Pfade und die Tränke folgen von jeher labend, ihm, dem schöngebornen, Und Erd' und Himmel, in der Tränke Mantel gehüllt, erstarken durch die fetten Speisen.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Ведь пути истины (ведут) к прекраснорожденному.  
+Жертвенные услады искони следуют за ним для награды.  
+Две половины вселенной, закутавшись в покрывало,  
+Подкреплялись жиром, медовыми яствами.
+</details>

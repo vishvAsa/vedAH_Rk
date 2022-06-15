@@ -1,6 +1,0 @@
-+++
-title = "03"
-
-+++
-Both Geldner and Renou take great pains to avoid indentifying Indra in c with bráhmaṇas pátim in b and the elaboration on this phrase in d, but as discussed in the published introduction. and extensively by HPS, the identification is the point.
-

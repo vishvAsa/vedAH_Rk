@@ -1,0 +1,188 @@
++++
+title = "011"
+devataa = "विश्वेदेवाः"
+RShiH = "भरद्वाजो बार्हस्पत्यः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+नू꣡ म आ꣡ वा꣡चम् उ꣡प याहि विद्वा꣡न्  
+वि꣡श्वेभिः सूनो सहसो य꣡जत्रैः  
+ये꣡ अग्निजिह्वा꣡ ऋतसा꣡प आसु꣡र्  
+ये꣡ म꣡नुं चक्रु꣡र् उ꣡परं द꣡साय
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नु । मे॒ । आ । वाच॑म् । उप॑ । या॒हि॒ । वि॒द्वान् । विश्वे॑भिः । सू॒नो॒ इति॑ । स॒ह॒सः॒ । यज॑त्रैः ।  
+ये । अ॒ग्नि॒ऽजि॒ह्वाः । ऋ॒त॒ऽसापः॑ । आ॒सुः । ये । मनु॑म् । च॒क्रुः । उप॑रम् । दसा॑य ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *nū* ← *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *ma* ← *me* ← *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *vācam* ← *vāc*
+- \[noun\], accusative, singular, feminine
+- “speech; statement; voice; voice; speech; language; vāc \[word\];
+    word; literary composition; conversation; sound; Sarasvati; cry;
+    assurance; spell.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *yāhi* ← *yā*
+- \[verb\], singular, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *vidvān* ← *vid*
+- \[verb noun\], nominative, singular
+- “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
+    specify; watch; recognize; detect; call.”
+------------------------------------------------------------------------
+- *viśvebhiḥ* ← *viśva*
+- \[noun\], instrumental, plural, masculine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *sūno* ← *sūnu*
+- \[noun\], vocative, singular, masculine
+- “son; offspring.”
+------------------------------------------------------------------------
+- *sahaso* ← *sahasaḥ* ← *sahas*
+- \[noun\], genitive, singular, neuter
+- “force; strength; might; sahas \[word\]; conquest.”
+------------------------------------------------------------------------
+- *yajatraiḥ* ← *yajatra*
+- \[noun\], instrumental, plural, masculine
+- “adorable.”
+------------------------------------------------------------------------
+- *ye* ← *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *agnijihvā* ← *agni*
+- \[noun\], masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *agnijihvā* ← *jihvāḥ* ← *jihvā*
+- \[noun\], nominative, plural, masculine
+- “tongue; tongue; jihvā \[word\]; fire.”
+------------------------------------------------------------------------
+- *ṛtasāpa* ← *ṛtasāpaḥ* ← *ṛtasāp*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *āsur* ← *āsuḥ* ← *as*
+- \[verb\], plural, Perfect indicative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *ye* ← *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *manuṃ* ← *manum* ← *manu*
+- \[noun\], accusative, singular, masculine
+- “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
+    incantation; sacred text.”
+------------------------------------------------------------------------
+- *cakrur* ← *cakruḥ* ← *kṛ*
+- \[verb\], plural, Perfect indicative
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *uparaṃ* ← *uparam* ← *upara*
+- \[noun\], accusative, singular, masculine
+- “later(a); future(a); nether.”
+------------------------------------------------------------------------
+- *dasāya* ← *dasa*
+- \[noun\], dative, singular, masculine
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+इयं च वैश्वदेवीत्युक्तम् । हे **सहसः** **सूनो** बलस्य पुत्रेन्द्र **विद्वान्** सर्वज्ञस्त्वं **यजत्रैः** यजनीयैः **विश्वेभिः** सर्वैर्देवैः सह **नु** क्षिप्रं **मे** मदीया वाचः स्तुतिरूपाणि वचांसि **उप** अभि **आ** **याहि** आगच्छ । एवंभूतमिन्द्रं प्रार्थयत ऐन्द्रत्वात् सूक्तस्य । **ये** देवाः **अग्निजिह्वाः** । अग्निर्जिह्वास्थानीयो येषां ते । **ऋतसापः** ऋतं यज्ञं स्पृशन्तः **आसुः** भवन्ति **ये** च देवाः **दसाय** शत्रूणामुपक्षपणाय **मनुं** राजर्षिम् **उपरं** दस्यूनामुपरिभवं **चक्रुः** कृतवन्तः तैः सहागच्छेति पूर्वेण संबन्धः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Come quickly, son of strength, you who know (all things), upon my prayer; together with all the adorable (divinities); they who, with the tongue of **Agni**, are partakers of the sacrifice, who rendered **Manu** (victorious) over his adversaries.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Ye manum cakrur uparam dusāya śatrūṇām or dasyūnām uparibhavam = who made Manu the **rājarṣi**, manum rājarṣim, over or the overcomer of enemies, or the **Dasyus**
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Now drive here, right up to my speech, since you know, o son of  strength, together with all those worthy of the sacrifice,  
+who had Agni as their tongue and served the truth, who put Manu very  close to Dasa.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+In c Geldner tr. āsúḥ as if it were a present: “die Agni zur Zunge haben und die Wahrheit pflegen.” Although this is contextually tempting, the pf. of √as is never presential. Cf. Kümmel (111): “Es ist stets (zumindest auch) vergangenheits bezogen gebraucht.” At best we could render it “who have (always) had Agni as their tongue …”; this might in fact be better.
+
+In any case the pf. āsúḥ in c matches cakrúḥ in d, and this latter action appears to be one in the distant past -- even though it’s not entirely clear what action it refers to. Interpr. is not helped by the fact that dása- is a hapax, though it is reasonable, with Geldner (n. 11d), to take it as “der mythische Stammvater der Dāsa’s oder Dasyu’s,” or indeed referentially identical with the well-attested stem dā́sa- referring to some variety of enemy to the Ārya (see Oldenberg, etc.). But what the relationship between Manu and Dasa is in this passage and what the gods were attempting to bring about are both unclear -- an unclarity also facilitated by the ambiguity of úpara-, which can mean, inter alia, ‘lower’, ‘closer’, or ‘later’. The published translation “… put Manu very close to Dasa” is opaque; in fact I do not now know what I meant by it. Geldner takes úpara- as ‘later’ and assumes that the gods made Manu Dasa’s successor (Nachfolger). I am now inclined towards Oldenberg’s solution, however: that the gods put Manu below (the ‘lower’ sense of úpara-) in the earthly region “for Dasa,” with the dative of malefit, not benefit: they set Manu to do to Dasa whatever he deserved. Michael Weiss comments “Wouldn't this most sense if it meant 'they made Manus superior to Dasa’? Could the original meaning of *upara- as preserved in Avestan, be kept here? For the sentiment cf. VI.19.13 śátroḥ-śatror úttara ít syāma.” this would be a neat solution, though I wonder whether a reading that requires the opposite sense (‘above’) of one of the senses of this stem (‘lower’) would be available.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Now to my words come quickly thou who knowest, O Son of Strength, with all who claim our worship,  
+     Who visit sacred rites, whose tongue is Agni, Gods who made Manu stronger than the Dasyu.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Nun komme her, auf meine Rede, sie verstehend, du Sohn der Stärke, die den Manu dem Dasa zum Nachfolger gemacht haben!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Nun komme kundig her zu meinem Liede, o Sohn der Kraft mit allen opferwerthen, Die stets aus Agni tranken, Opfer hegten, den Menschen setzten über die Dämonen.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Приди сейчас на мою речь как знаток  
+Со всеми, достойными жертвы, о сын силы,  
+(С теми,) у кого Агни (служит) языком, кто был почитателем закона,  
+Кто Ману сделал образцом для дасы.
+</details>

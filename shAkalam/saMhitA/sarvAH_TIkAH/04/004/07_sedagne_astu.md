@@ -1,0 +1,197 @@
++++
+title = "007"
+devataa = "रक्षोहाग्निः"
+RShiH = "वामदेवो गौतमः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+से꣡द् अग्ने अस्तु सुभ꣡गः सुदा꣡नुर्  
+य꣡स् त्वा नि꣡त्येन हवि꣡षा य꣡ उक्थइः꣡  
+पि꣡प्रीषति स्व꣡ आ꣡युषि दुरोणे꣡  
+वि꣡श्वे꣡द् अस्मै सुदि꣡ना सा꣡सद् इष्टिः꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सः । इत् । अ॒ग्ने॒ । अ॒स्तु॒ । सु॒ऽभगः॑ । सु॒ऽदानुः॑ । यः । त्वा॒ । नित्ये॑न । ह॒विषा॑ । यः । उ॒क्थैः ।  
+पिप्री॑षति । स्वे । आयु॑षि । दु॒रो॒णे । विश्वा॑ । इत् । अ॒स्मै॒ । सु॒ऽदिना॑ । सा । अ॒स॒त् । इ॒ष्टिः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *sed* ← *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *sed* ← *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *astu* ← *as*
+- \[verb\], singular, Present imperative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *subhagaḥ* ← *subhaga*
+- \[noun\], nominative, singular, masculine
+- “beautiful; auspicious; beloved; fine-looking; fortunate; subhaga
+    \[word\]; charming; pleasing; lucky.”
+------------------------------------------------------------------------
+- *sudānur* ← *sudānuḥ* ← *sudānu*
+- \[noun\], nominative, singular, masculine
+- “big; lavish.”
+------------------------------------------------------------------------
+- *yas* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *tvā* ← *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *nityena* ← *nitya*
+- \[noun\], instrumental, singular, neuter
+- “continuous; own(a); changeless; everlasting; continual; devoted(p);
+    permanent; obligatory; continuing; indispensable; native; addicted;
+    connatural; necessary; durable; ageless; invariable; biological.”
+------------------------------------------------------------------------
+- *haviṣā* ← *havis*
+- \[noun\], instrumental, singular, neuter
+- “Havya; offering; ghee; havis \[word\].”
+------------------------------------------------------------------------
+- *ya* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *ukthaiḥ* ← *uktha*
+- \[noun\], instrumental, plural, neuter
+- “hymn; praise; uktha \[word\]; encomium.”
+------------------------------------------------------------------------
+- *piprīṣati* ← *piprīṣ* ← *√prī*
+- \[verb\], singular, Present indikative
+------------------------------------------------------------------------
+- *sva* ← *sve* ← *sva*
+- \[noun\], locative, singular, neuter
+- “own(a); respective(a); akin(p); sva \[word\]; individual;
+    present(a); independent.”
+------------------------------------------------------------------------
+- *āyuṣi* ← *āyus*
+- \[noun\], locative, singular, neuter
+- “life; longevity; āyus; life; āyus \[word\]; Āyus.”
+------------------------------------------------------------------------
+- *duroṇe* ← *duroṇa*
+- \[noun\], locative, singular, neuter
+- “home; dwelling.”
+------------------------------------------------------------------------
+- *viśved* ← *viśvā* ← *viśva*
+- \[noun\], nominative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *viśved* ← *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *asmai* ← *idam*
+- \[noun\], dative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *sudinā* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sudinā* ← *dinā* ← *dina*
+- \[noun\], nominative, plural, neuter
+- “day; day; day of the week; one.”
+------------------------------------------------------------------------
+- *sāsad* ← *sā* ← *tad*
+- \[noun\], nominative, singular, feminine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *sāsad* ← *asat* ← *as*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *iṣṭiḥ* ← *iṣṭi*
+- \[noun\], nominative, singular, feminine
+- “seeking.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे अग्ने **यः** पुमान् **नित्येन** यावज्जीवं संकल्पितेनाग्निहोत्रादिसाधनभूतेन **हविषा** **त्वा** त्वां पिप्रीषति प्रीणयितुमिच्छति, **यः** च **उक्थैः** शस्त्रैः  प्रीणयितुमिच्छति **सेत्** स एव पुमान् **सुभगः** शोभनधनः सौभाग्यवान् वा 'सुदानुः शोभनदानोपेतश्च **अस्तु** । किंच **दुरोणे** दुरवने कृच्छूलभ्ये **स्वे** स्वकीये **आयुषि** शतवर्षांख्ये जीवने तिष्ठतु। **अस्मै** यजमानाय **विश्वा** सर्वाणि **सुदिना** शोभनानि दिनानि भवन्तु । अस्य **सा** **इष्टिः** स यज्ञः **असत्** फलसाधनसमर्थो भवतु ॥ पिप्रीषति । ‘प्रीञ् तर्पणे '।' धातोः कर्मण:°' (पा. सू. ३. १. ७ ) इति सन् । असत् । अस्तेर्लेट्यडागमः । इष्टिः ।  ‘ मन्त्रे वृष° ' इत्यादिना क्तिन्नुदात्तः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“May the liberal man ever be prosperous who propitiate you with constant oblations and praises; may all the days in his arduous life be prosperous, and may this (his) sacrifice be (productive of reward).”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Agni, let just him be rich in portions, rich in gifts, who with regular  oblation, who with solemn words  
+seeks to please you during his own lifetime, in his own dwelling. All  (days) (will be) day-bright for him. This desire (of his) will come true.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+It is not clear whether nítya- in this context has already developed its later technical sense of regular, obligatory ritual offering, as opposed to those performed irregularly for special purposes. Or whether it simply means, as Renou takes the phrase nítyena havíṣā, “une offrande personnelle.” I have pushed the last phrase sā́sad iṣṭíḥ to “this desire will be” -- that is, “will come true” -- rather than simply “this will be his desire” (so Geldner [Witzel Gotō]), since I otherwise find it difficult to interpr. the subjunctive.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Blest, Agni, be the man, the liberal giver, who with his lauds and regular oblation  
+     Is fain to please thee for his life and dwelling. May all his days be bright: be this his longing.
+</details>
+
+<details><summary>+Oldenberg</summary>
+
+Let him, O Agni, be fortunate and blessed with good rain, who longs to gladden thee with constant offerings and hymns through his life in his house. May such longing ever bring auspicious days to him.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Der soll glücklich, reich an Gaben sein, o Agni, der dich mit ständiger Opferspende und mit Liedern während seines Lebens in seinem Hause zu befriedigen wünscht. Lauter schöne Tage sollen ihm werden: Das sei der Wunsch.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Nur der sei glücklich, reich an Gut, o Agni, der dich mit stetem Opferguss und Sprüchen Zu letzen strebt im Haus, so lang' er lebet, dem werde alles Glück, das sei die Bitte.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Да будет, о Агни, счастливым, богатым прекрасными дарами  
+Тот, кто постоянным жертвенным возлиянием, кто гимнами  
+Старается радовать тебя в своем доме (весь) век.  
+(Да будут) ему все дни прекрасны – таково будет пожелание!
+</details>

@@ -1,0 +1,117 @@
++++
+title = "016"
+devataa = "पवमानः सोमः"
+RShiH = "कश्यपः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+प्र꣡ हिन्वाना꣡स इ꣡न्दवो  
+अ꣡छा समुद्र꣡म् आश꣡वः  
+धिया꣡ जूता꣡ असृक्षत
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र । हि॒न्वा॒नासः॑ । इन्द॑वः । अच्छ॑ । स॒मु॒द्रम् । आ॒शवः॑ ।  
+धि॒या । जू॒ताः । अ॒सृ॒क्ष॒त॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *hinvānāsa* ← *hinvānāsaḥ* ← *hi*
+- \[verb noun\], nominative, plural
+- “impel; send; spur; stimulate; urge.”
+------------------------------------------------------------------------
+- *indavo* ← *indavaḥ* ← *indu*
+- \[noun\], nominative, plural, masculine
+- “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
+    juice.”
+------------------------------------------------------------------------
+- *'cchā* ← *acchā*
+- \[adverb\]
+- “towards; accha \[prefix\].”
+------------------------------------------------------------------------
+- *samudram* ← *samudra*
+- \[noun\], accusative, singular, masculine
+- “ocean; Samudra; sea; samudra \[word\]; four.”
+------------------------------------------------------------------------
+- *āśavaḥ* ← *āśu*
+- \[noun\], nominative, plural, masculine
+- “quick; fast; immediate; agile.”
+------------------------------------------------------------------------
+- *dhiyā* ← *dhī*
+- \[noun\], instrumental, singular, feminine
+- “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
+    knowledge.”
+------------------------------------------------------------------------
+- *jūtā* ← *jūtāḥ* ← *jū*
+- \[verb noun\], nominative, plural
+- “animate; encourage; impel; inspire.”
+------------------------------------------------------------------------
+- *asṛkṣata* ← *sṛj*
+- \[verb\], plural, Athematic s aor. (Ind.)
+- “create; shoot; discharge; free; cause; throw; emit; send; produce;
+    use; be born; make.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**आशवः** वेगवन्तः **इन्दवः** सोमाः **समुद्रम्** अन्तरिक्षम् **अच्छ** प्रति **हिन्वानासः** हिन्वानाः प्रेर्यमाणाः **धिया** अङ्गुल्या **जूताः** कृष्टाश्च **प्र** **असृक्षत** सृज्यन्ते ।
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The rapid **Soma**-juices being sent towards the firmament, are poured forth expressed by the fingers.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+The firmament: **samudram** may mean the vasatīvarī waters
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Being impelled forth, the swift drops,  
+sped by insightful thought, have surged to the sea.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Accelerated by the hymn, the rapid drops of Soma juice  
+     Have flowed, urged onward, to the lake.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Die Somasäfte, die Renner, wurden, zur Eile getrieben, zum Meere losgelassen, durch die Kunst beschleunigt.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Die schnellen Rosse, angespornt, sind zu dem Meere vorgeströmt, Die Indu's, durch Gebet beeilt.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

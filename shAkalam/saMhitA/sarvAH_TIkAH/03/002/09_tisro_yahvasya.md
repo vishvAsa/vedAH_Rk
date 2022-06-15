@@ -1,0 +1,175 @@
++++
+title = "009"
+devataa = "वैश्वानरोग्निः"
+RShiH = "गाथिनो विश्वामित्रः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+तिस्रो꣡ यह्व꣡स्य समि꣡धः प꣡रिज्मनो  
+अग्ने꣡र् अपुनन्न् उशि꣡जो अ꣡मृत्यवः  
+ता꣡साम् ए꣡काम् अ꣡दधुर् म꣡र्तिये भु꣡जम्  
+उलोक꣡म्† उ द्वे꣡ उ꣡प जामि꣡म् ईयतुः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ति॒स्रः । य॒ह्वस्य॑ । स॒म्ऽइधः॑ । परि॑ऽज्मनः । अ॒ग्नेः । अ॒पु॒न॒न् । उ॒शिजः॑ । अमृ॑त्यवः ।  
+तासा॑म् । एका॑म् । अद॑धुः । मर्त्ये॑ । भुज॑म् । ऊं॒ इति॑ । लो॒कम् । ऊं॒ इति॑ । द्वे इति॑ । उप॑ । जा॒मिम् । ई॒य॒तुः॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *tisro* ← *tisraḥ* ← *tri*
+- \[noun\], accusative, plural, feminine
+- “three; tri/tisṛ \[word\].”
+------------------------------------------------------------------------
+- *yahvasya* ← *yahva*
+- \[noun\], genitive, singular, masculine
+- “youngest; youthful; active.”
+------------------------------------------------------------------------
+- *samidhaḥ* ← *samidh*
+- \[noun\], accusative, plural, feminine
+- “firewood; kindling; fuel; fire.”
+------------------------------------------------------------------------
+- *parijmano* ← *parijmanaḥ* ← *parijman*
+- \[noun\], genitive, singular, masculine
+- “encompassing(a).”
+------------------------------------------------------------------------
+- *'gner* ← *agneḥ* ← *agni*
+- \[noun\], genitive, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *apunann* ← *apunan* ← *pū*
+- \[verb\], plural, Imperfect
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *uśijo* ← *uśijaḥ* ← *uśij*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *amṛtyavaḥ* ← *amṛtyu*
+- \[noun\], nominative, plural, masculine
+- “ageless; immortal.”
+------------------------------------------------------------------------
+- *tāsām* ← *tad*
+- \[noun\], genitive, plural, feminine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *ekām* ← *eka*
+- \[noun\], accusative, singular, feminine
+- “one; single(a); alone(p); some(a); single(a); eka \[word\];
+    alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
+    consistent; any(a); undifferentiated; disjunct.”
+------------------------------------------------------------------------
+- *adadhur* ← *adadhuḥ* ← *dhā*
+- \[verb\], plural, Imperfect
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *martye* ← *martya*
+- \[noun\], locative, singular, masculine
+- “man; people; martya \[word\]; Earth.”
+------------------------------------------------------------------------
+- *bhujam* ← *bhuj*
+- \[noun\], accusative, singular, feminine
+- “use; advantage; enjoyment.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *lokam* ← *loka*
+- \[noun\], accusative, singular, masculine
+- “Loka; Earth; world; vernacular; people; room; world; Earth; loka
+    \[word\]; space; Loka; topographic point; region; common sense.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *dve* ← *dvi*
+- \[noun\], nominative, dual, feminine
+- “two; dvi \[word\]; second.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *jāmim* ← *jāmi*
+- \[noun\], accusative, singular, masculine
+- “related; ancestral; customary; usual.”
+------------------------------------------------------------------------
+- *īyatuḥ* ← *i*
+- \[verb\], dual, Perfect indicative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+उशिजः कामयमानाः अमृत्यवोमृत्युरहिताः येदेवाः यह्वस्यमहतः अग्नेः परिज्मनः परि तोगन्तुः समिधः समिन्धिकाः प्रकाशिकास्तिस्रः पार्थिववैद्युतसूर्यरूपास्तिस्रस्तनूः अपुनन् अशो धयन् तेदेवाः भुजंसर्वेषाम्पालयित्रीं तासान्तनूनाम्मध्ये एकाम्पार्थिवीन्तनुं मर्त्येमर्त्यलोके अदधुः न्यदधुः उइतिपादपूरणः इतरेद्वेतनू जामिंलोकं आसन्नमन्तरिक्षं उपेयतुः गच्छतः अथवातिस्रः समिधः आधारसमिधौद्वेअनूयाजसमिच्चैकेति तासांसमिधांएकां अनूयाजसमिधं मर्त्येइहलोके भोगहेतुमनूयाजपर्यन्तमदधुः धारयन्ति प्रजावाअनूयाजइति प्रजात्वेनानूयाजानांस्रष्टृत्वात् तदा श्रयत्वाच्चानूयाजसमिधः इतरेद्वेसमिधौ अन्तरिक्षेदिव्यभोगहेतू उपेयतुः उपगच्छतः त्रीन् परिधीं स्तिस्रः समिधइतिहिनिगमः ॥ ९ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The immortals, desirous (of his presence), sanctified the three radiances of the great circumambient **Agni**; one of them they have plural ced in the world of mortals as the nourisher (of all); the other two have gone to the neighbouring sphere.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+The three radiances: **tisraḥ** **samidhaḥ** = liṭ, the three fuels, (**pārthiva** **vaidyuta** **sūrya** rūpādi stisra stanūḥ); here, interpreted as three forms or conditions of fire; as, earthy fire, that of the firmament or lightning, and that of heaven, the sun;or, three **Vedi** cforms, two termed aghara, and one anuyāja; the celebration of the latter is rewarded by enjoyment in this world, that of the two former by enjoyment in the firmament and heaven
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+The deathless fire-priests purified three kindling sticks for the youthful,  earth-encircling Agni.  
+While they placed one of these as a benefit for the mortal, two also  went up to the wide world (of heaven) kindred (to the earth).
+</details>
+
+<details><summary>+Griffith</summary>
+
+They who are free from death, fain for him, purified three splendours of the mighty Agni, circling all.  
+     To man, for his enjoyment, one of these they gave: the other two have passed into the sister sphere.
+</details>
+
+<details><summary>+Oldenberg</summary>
+
+The immortal Usigs have purified three logs for the vigorous 1 Agni 2 who wanders round the earth 3: of these they have placed one among the mortals for their enjoyment; two have passed into the sister world 4.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Die unsterblichen Usij weihten drei Brennhölzer für den umwandelnden jüngsten Agni. Während sie das eine von diesen zum Nutz für den Sterblichen bestimmten, gelangten die zwei anderen in die verschwisterte Welt.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Drei Flammen Agni's, des geschäft'gen Wanderers, entzündeten verlangend die Unsterblichen, Von diesen gaben eine sie dem Sterblichen zum Brauch, die andern gingen zu der Götter Ort.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Для юного Агни, совершающего круговой обход,  
+Бессмертные Ушиджи очистили три полена.  
+В то время как одно из них они установили для наслаждения смертного,  
+Два (других) приблизились к родственному миру.
+</details>

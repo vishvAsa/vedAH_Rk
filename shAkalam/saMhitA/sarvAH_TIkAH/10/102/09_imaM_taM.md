@@ -1,0 +1,145 @@
++++
+title = "009"
+devataa = "द्रुघण इन्द्रो वा"
+RShiH = "मुद्गलो भार्म्यश्वः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+इमं꣡ त꣡म् पश्य वृषभ꣡स्य यु꣡ञ्जं  
+का꣡ष्ठाया म꣡ध्ये द्रुघणं꣡ श꣡यानम्  
+ये꣡न जिगा꣡य शत꣡वत् सह꣡स्रं  
+ग꣡वाम् मु꣡द्गलः पृतना꣡जियेषु
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+popular  
+popular  
+popular  
+popular
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒मम् । तम् । प॒श्य॒ । वृ॒ष॒भस्य॑ । युञ्ज॑म् । काष्ठा॑याः । मध्ये॑ । द्रु॒ऽघ॒नम् । शया॑नम् ।  
+येन॑ । जि॒गाय॑ । श॒तऽव॑त् । स॒हस्र॑म् । गवा॑म् । मुद्ग॑लः । पृ॒त॒नाज्ये॑षु ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *imaṃ* ← *imam* ← *idam*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *tam* ← *tad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *paśya* ← *paś*
+- \[verb\], singular, Present imperative
+- “see; view; watch; meet; observe; think of; look; examine; behold;
+    visit; understand.”
+------------------------------------------------------------------------
+- *vṛṣabhasya* ← *vṛṣabha*
+- \[noun\], genitive, singular, masculine
+- “bull; Vṛṣabha; Vṛṣabha; best.”
+------------------------------------------------------------------------
+- *yuñjaṃ* ← *\_* ← *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *kāṣṭhāyā* ← *kāṣṭhāyāḥ* ← *kāṣṭhā*
+- \[noun\], genitive, singular, feminine
+- “kāṣṭhā; quarter; body of water.”
+------------------------------------------------------------------------
+- *madhye* ← *madhya*
+- \[noun\], locative, singular, neuter
+- “midst; center; cavity; inside; middle; center; waist; group; pulp;
+    torso; time interval; area; series; madhya \[word\]; Madhya; noon;
+    middle; middle age; span; belly.”
+------------------------------------------------------------------------
+- *drughaṇaṃ* ← *drughaṇam* ← *drughaṇa*
+- \[noun\], accusative, singular, masculine
+- “Brahma.”
+------------------------------------------------------------------------
+- *śayānam* ← *śī*
+- \[verb noun\], accusative, singular
+- “lie; sleep.”
+------------------------------------------------------------------------
+- *yena* ← *yad*
+- \[noun\], instrumental, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *jigāya* ← *ji*
+- \[verb\], singular, Perfect indicative
+- “overcome; cure; win; conquer; control; win; succeed; remove; beat;
+    govern; surpass; suppress.”
+------------------------------------------------------------------------
+- *śatavat*
+- \[noun\], accusative, singular, neuter
+------------------------------------------------------------------------
+- *sahasraṃ* ← *sahasram* ← *sahasra*
+- \[noun\], accusative, singular, neuter
+- “thousand; one-thousandth; sahasra \[word\].”
+------------------------------------------------------------------------
+- *gavām* ← *go*
+- \[noun\], genitive, plural
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *mudgalaḥ* ← *mudgala*
+- \[noun\], nominative, singular, masculine
+- “Mudgala; Mudgala.”
+------------------------------------------------------------------------
+- *pṛtanājyeṣu* ← *pṛtanājya*
+- \[noun\], locative, plural, neuter
+- “fight; combat.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+कंचन सखायं सेनादिसहायाभावेन जयविषय उपहासं कुर्वाणं प्रति ब्रवीति । राजा द्रुघणेन वृषभेण चाजिं  जिगायेत्युक्तवान् । पूर्वं वृषभो वर्णितः । अत्र द्रुघणो वर्ण्यते । हे सखे **तम्** **इमं** **द्रुघणं** **पश्य** । कीदृशमिममिति उच्यते । ‘ युजेरसमासे' ( पा.  सू. ७. १. ७१ ) इति नुम् । **युञ्जम्** । युज्यत इति युक् सखा । **वृषभस्य** सखिभूतम् । वृषभो यावन्तमर्थं साधयति तावन्तमेव साधयन्तमित्यर्थः । पुनः कीदृशम् । **काष्ठाया** **मध्ये** । ‘ आज्यन्तोऽपि काष्ठोच्यते' (निरु. २.१५) इति निरुक्तम् । आज्यन्तस्य मध्ये। संग्राम इत्यर्थः । तत्र **शयानं** हन्तव्यान् सर्वान् हत्वा सुखेन स्वपन्तं निर्व्यापारत्वेन वर्तमानम् । ईदृशं द्रुमसयं घनं पश्येत्यर्थः । **येन** द्रुघणेन **शतवत्** शतोपेतं **गवां** **सहस्रं** **पृतनाज्येषु** संग्रामेषु **जिगाय** अहमजैषं तमिमं पश्येति समन्वयः। जयतेर्लिट् । ‘ सन्लिटोर्जेः' इत्यभ्यासादुत्तरस्य कुत्वम् । मिपो णल् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+“Look at it here, the yokemate of the bull, the wooden club lying in the  middle of the race course,  
+with which Mudgala won a thousand plus a hundred cattle in the  
+battle-drives.”
+</details>
+
+<details><summary>+Griffith</summary>
+
+Here look upon this mace, this bull's companion, now lying midway on the field of battle.  
+     Therewith hath Mudgala in ordered contest won for cattle for himself, a hundred thousand.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Sieh da den Jochgenossen des Stiers, die Holzkeule mitten in der Rennbahn liegen, mit der Mudgala in den Wettkämpfen ein Tausend Kühe nebst Hundert gewonnen hat.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Sieh diese hier, die mit dem Stiere wirkte, die Keule, liegen mitten in der Rennbahn, Mit welcher hunderttausende der Rinder erbeutete Mugdala in der Feldschlacht.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

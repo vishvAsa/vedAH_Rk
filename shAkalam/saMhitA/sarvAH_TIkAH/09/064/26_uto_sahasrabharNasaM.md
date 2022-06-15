@@ -1,0 +1,116 @@
++++
+title = "026"
+devataa = "पवमानः सोमः"
+RShiH = "कश्यपः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+उतो꣡ सह꣡स्रभर्णसं  
+वा꣡चं सोम मखस्यु꣡वम्  
+पुनान꣡ इन्दव् आ꣡ भर
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒तो इति॑ । स॒हस्र॑ऽभर्णसम् । वाच॑म् । सो॒म॒ । म॒ख॒स्युव॑म् ।  
+पु॒ना॒नः । इ॒न्दो॒ इति॑ । आ । भ॒र॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *uto* ← *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *uto* ← *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *sahasrabharṇasaṃ* ← *sahasrabharṇasam* ← *sahasrabharṇas*
+- \[noun\], accusative, singular, feminine
+------------------------------------------------------------------------
+- *vācaṃ* ← *vācam* ← *vāc*
+- \[noun\], accusative, singular, feminine
+- “speech; statement; voice; voice; speech; language; vāc \[word\];
+    word; literary composition; conversation; sound; Sarasvati; cry;
+    assurance; spell.”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *makhasyuvam* ← *makhasyu*
+- \[noun\], accusative, singular, feminine
+------------------------------------------------------------------------
+- *punāna* ← *punānaḥ* ← *pū*
+- \[verb noun\], nominative, singular
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *indav* ← *indo* ← *indu*
+- \[noun\], vocative, singular, masculine
+- “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
+    juice.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *bhara* ← *bhṛ*
+- \[verb\], singular, Present imperative
+- “bring; hold; fill; support; wear; possess; carry; nourish; keep;
+    hire; have; satiate; follow; bear.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**उतो** अपि च हे **इन्दो** दीप्त **सोम** **पुनानः** पूयमानस्त्वं **सहस्रभर्णसं** सहस्रभरणां **मखस्युवं** धनकामां **वाचम्** अस्मभ्यम् **आ** **भर** आहर ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Brilliant **Soma**, when purified bring (us) a voice, feeding thousands and desiring wealth.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+And speech bringing a thousand presents, ready for combat [/bounty],  o Soma—  
+becoming purified, o drop, bring that hither.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Yea, Soma, Indu, while thou art purified do thou bring to us  
+     Speech thousandfold that longs for war.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Und bring uns die Tausend aufwiegende Rede, o Soma, die Belohnung erwartende, wenn du dich läuterst, Soma!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Das Lied, was tausend Gaben beut, o Soma, den Triumphgesang, Bring', Indu, her, gereinigter!
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

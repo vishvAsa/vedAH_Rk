@@ -1,0 +1,115 @@
++++
+title = "010"
+devataa = "इन्द्रः"
+RShiH = "कुरुसुतिः काण्वः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+उत्ति꣡ष्ठन्न् ओ꣡जसा सह꣡  
+पीत्वी꣡ शि꣡प्रे अवेपयः  
+सो꣡मम् इन्द्र चमू꣡ सुत꣡म्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒त्ऽतिष्ठ॑न् । ओज॑सा । स॒ह । पी॒त्वी । शिप्रे॒ इति॑ । अ॒वे॒प॒यः॒ ।  
+सोम॑म् । इ॒न्द्र॒ । च॒मू इति॑ । सु॒तम् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *uttiṣṭhann* ← *uttiṣṭhan* ← *utthā* ← *√sthā*
+- \[verb noun\], nominative, singular
+- “originate; get up; arise; rise; utthā; rise; be active; come forth;
+    cause; happen; grow.”
+------------------------------------------------------------------------
+- *ojasā* ← *ojas*
+- \[noun\], instrumental, singular, neuter
+- “strength; power; ojas; ojas \[word\]; potency; might.”
+------------------------------------------------------------------------
+- *saha*
+- \[adverb\]
+- “together; together; with; jointly; together; saha \[word\]; along.”
+------------------------------------------------------------------------
+- *pītvī* ← *pā*
+- \[verb noun\]
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------
+- *śipre* ← *śiprā*
+- \[noun\], accusative, dual, feminine
+- “lip; śiprā.”
+------------------------------------------------------------------------
+- *avepayaḥ* ← *vepay* ← *√vip*
+- \[verb\], singular, Imperfect
+------------------------------------------------------------------------
+- *somam* ← *soma*
+- \[noun\], accusative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *camū*
+- \[noun\], locative, singular, feminine
+- “army; camū; Camū.”
+------------------------------------------------------------------------
+- *sutam* ← *su*
+- \[verb noun\], accusative, singular
+- “press out; su.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **इन्द्र** त्वं **पीत्वी** पीत्वा **ओजसा** बलेन **सह** **उत्तिष्ठन्** **शिप्रे** हनू **अवेपयः** अकम्पयः । मदावेशादिति भावः । किं पीत्वा । **चमू** चम्वोरधिषवणफलकयोः **सुतं** सोमम् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Rising up in your strength, **Indra**, you did shake your jaws, when you had quaffed the **Soma** pressedbetween the two boards.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Standing up with your might, you made your two lips shake after you  had drunk  
+the pressed soma in the cup, Indra.1174 VIII.77
+</details>
+
+<details><summary>+Griffith</summary>
+
+Arising in thy might, thy jaws thou shookest, Indra, having quaffed  
+     The Soma which the mortar pressed.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Mit deiner Kraft aufstehend hast du, Indra, die Lippen geschüttelt, nachdem du den in dem Camugefäß ausgequetschten Soma getrunken hast.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Du schütteltest die Lippen dir, erhebend Indra dich mit Kraft, Nach des gepressten Soma Trunk.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

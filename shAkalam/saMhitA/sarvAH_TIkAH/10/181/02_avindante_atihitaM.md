@@ -1,0 +1,178 @@
++++
+title = "002"
+devataa = "विश्वेदेवाः"
+RShiH = "सप्रथो भारद्वाजः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अ꣡विन्दन् ते꣡ अ꣡तिहितं य꣡द् आ꣡सीद्  
+यज्ञ꣡स्य धा꣡म परमं꣡ गु꣡हा य꣡त्  
+धातु꣡र् द्यु꣡तानात् सवितु꣡श् च वि꣡ष्णोर्  
+भर꣡द्वाजो बृह꣡द् आ꣡ चक्रे अग्नेः꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+popular  
+popular  
+popular;; repeated line  
+popular
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अवि॑न्दन् । ते । अति॑ऽहितम् । यत् । आसी॑त् । य॒ज्ञस्य॑ । धाम॑ । प॒र॒मम् । गुहा॑ । यत् ।  
+धा॒तुः । द्युता॑नात् । स॒वि॒तुः । च॒ । विष्णोः॑ । भ॒रत्ऽवा॑जः । बृ॒हत् । आ । च॒क्रे॒ । अ॒ग्नेः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *avindan* ← *vid*
+- \[verb\], plural, Imperfect
+- “find; detect; marry; get; think.”
+------------------------------------------------------------------------
+- *te* ← *tad*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *atihitaṃ* ← *atihitam* ← *atidhā* ← *√dhā*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------
+- *yad* ← *yat* ← *yad*
+- \[noun\], nominative, singular, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *āsīd* ← *āsīt* ← *as*
+- \[verb\], singular, Imperfect
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *yajñasya* ← *yajña*
+- \[noun\], genitive, singular, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *dhāma* ← *dhāman*
+- \[noun\], nominative, singular, neuter
+- “domain; dwelling; law; appearance; light; race; agreement; color;
+    location.”
+------------------------------------------------------------------------
+- *paramaṃ* ← *paramam* ← *parama*
+- \[noun\], nominative, singular, neuter
+- “extreme; best; excellent; highest; highest; devoted(p); maximal;
+    distant; parama \[word\]; very; farthermost.”
+------------------------------------------------------------------------
+- *guhā*
+- \[adverb\]
+- “secretly.”
+------------------------------------------------------------------------
+- *yat* ← *yad*
+- \[noun\], nominative, singular, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *dhātur* ← *dhātuḥ* ← *dhātṛ*
+- \[noun\], ablative, singular, masculine
+- “Brahma; Dhātṛ; creator; Dhātṛ.”
+------------------------------------------------------------------------
+- *dyutānāt* ← *dyutāna*
+- \[noun\], ablative, singular, masculine
+- “shining.”
+------------------------------------------------------------------------
+- *savituś* ← *savituḥ* ← *savitṛ*
+- \[noun\], ablative, singular, masculine
+- “Savitar; sun; Surya; Savitṛ.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *viṣṇor* ← *viṣṇoḥ* ← *viṣṇu*
+- \[noun\], ablative, singular, masculine
+- “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
+------------------------------------------------------------------------
+- *bharadvājo* ← *bharadvājaḥ* ← *bharadvāja*
+- \[noun\], nominative, singular, masculine
+- “Bharadvāja; Droṇa; Bharadvāja; skylark.”
+------------------------------------------------------------------------
+- *bṛhad* ← *bṛhat* ← *bṛhant*
+- \[noun\], accusative, singular, neuter
+- “Bṛhant.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *cakre* ← *kṛ*
+- \[verb\], singular, Perfect indicative
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *agneḥ* ← *agni*
+- \[noun\], ablative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**ते** धात्रादयः तत् **अविन्दन्** अलभन्त **यत्** बृहत्सामाख्यं घर्मस्य हविषः संस्कारकम् **अतिहितं** तिरोहितम् **आसीत्** । **यत्** च बृहत्साम **यज्ञस्य** ज्योतिष्टोमादेः **परमम्** उत्कृष्टं **धाम** धारकं शरीरभूतं वा **गुहा** गुहायामस्मदादिविषये निहितमासीत् तत्ते धात्रादयोऽलभन्त । तेभ्यः **अग्नेः** **च** सकाशात्तत् **बृहत्** साम **भरद्वाजः** ऋषिः **आ** **चक्रे** आभिमुख्येन कृतवान् । आहृतवानित्यर्थः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“They discovered (the **Bṛhat**) which has been put away, the most excellent substance of the sacrificewhich was hidden; **Bharadvāja** took the Bṛhat from **Dhātā**, the radiant **Savitā**, **Viṣṇu**, and **Agni**.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+They: i.e.,Dhātā, Savitā etc.;
+
+Bṛhat: bṛhat is also a portion of the **Sāmaveda**
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+They found what was placed beyond, what was the highest hidden  domain of the sacrifice:  
+from the flashing Founder and from Savitar and Viṣṇu, from Agni, has  Bharadvāja brought here the Br̥hat.
+</details>
+
+<details><summary>+Griffith</summary>
+
+These sages found what lay remote and hidden, the sacrifice's loftiest secret essence.  
+     From radiant Dhatar, Savitar, and Visnu, from Agni, Bharadvaja brought the Brhat.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Die fanden es, das entrückt war, was die höchste Geheimform des Opfers ist: vom glänzenden Schöpfer und von Savitri und Vishnu, von Agni, hat Bharadvaja das Brihat geholt.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Es fanden diese das, was verborgen war, die höchste Stätte des Opfers, die ins Versteck gelegt war; und das bṙhát-Lied hat sich Bharadvādscha herbeigeschafft vom glänzenden Dhātar, vom Savitar und Vischnu.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Они нашли (то,) что было спрятано,  
+Высшую форму жертвы, которая сокрыта.  
+От сверкающего Дхатара и от Савитара, от Вишну  
+Бхарадваджа получил себе брихат, (а также) от Агни.
+</details>

@@ -1,0 +1,163 @@
++++
+title = "007"
+devataa = "विश्वेदेवाः"
+RShiH = "गयः प्लातः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+प्र꣡ वो वायुं꣡ रथयु꣡जम् पु꣡रंधिं  
+स्तो꣡मैः कृणुध्वं सखिया꣡य पूष꣡णम्  
+ते꣡ हि꣡ देव꣡स्य सवितुः꣡ स꣡वीमनि  
+क्र꣡तुं स꣡चन्ते सचि꣡तः स꣡चेतसः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र । वः॒ । वा॒युम् । र॒थ॒ऽयुज॑म् । पुर॑म्ऽधिम् । स्तोमैः॑ । कृ॒णु॒ध्व॒म् । स॒ख्याय॑ । पू॒षण॑म् ।  
+ते । हि । दे॒वस्य॑ । स॒वि॒तुः । सवी॑मनि । क्रतु॑म् । सच॑न्ते । स॒ऽचितः॑ । सऽचे॑तसः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *vo* ← *vaḥ* ← *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *vāyuṃ* ← *vāyum* ← *vāyu*
+- \[noun\], accusative, singular, masculine
+- “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
+    draft; vāyu \[word\]; Vāyu; Marut.”
+------------------------------------------------------------------------
+- *rathayujam* ← *ratha*
+- \[noun\], masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *rathayujam* ← *yujam* ← *yuj*
+- \[noun\], accusative, singular, masculine
+- “amalgamated; harnessed.”
+------------------------------------------------------------------------
+- *purandhiṃ* ← *purandhim* ← *purandhi*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *stomaiḥ* ← *stoma*
+- \[noun\], instrumental, plural, masculine
+- “hymn; Stoma; stoma \[word\].”
+------------------------------------------------------------------------
+- *kṛṇudhvaṃ* ← *kṛṇudhvam* ← *kṛ*
+- \[verb\], plural, Present imperative
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *sakhyāya* ← *sakhya*
+- \[noun\], dative, singular, neuter
+- “friendship; aid; company.”
+------------------------------------------------------------------------
+- *pūṣaṇam* ← *pūṣan*
+- \[noun\], accusative, singular, masculine
+- “Pushan; pūṣan \[word\]; sun.”
+------------------------------------------------------------------------
+- *te* ← *tad*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *devasya* ← *deva*
+- \[noun\], genitive, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *savituḥ* ← *savitṛ*
+- \[noun\], genitive, singular, masculine
+- “Savitar; sun; Surya; Savitṛ.”
+------------------------------------------------------------------------
+- *savīmani* ← *savīman*
+- \[noun\], locative, singular, neuter
+- “impulse.”
+------------------------------------------------------------------------
+- *kratuṃ* ← *kratum* ← *kratu*
+- \[noun\], accusative, singular, masculine
+- “yajña; decision; plan; deliberation; intelligence; Kratu; will;
+    kratu \[word\]; desire; resoluteness; ritual.”
+------------------------------------------------------------------------
+- *sacante* ← *sac*
+- \[verb\], plural, Present indikative
+- “accompany; follow; company; obey; participate; enter.”
+------------------------------------------------------------------------
+- *sacitaḥ* ← *sacit*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *sacetasaḥ* ← *sacetas*
+- \[noun\], nominative, plural, masculine
+- “consentaneous.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे स्तोतारः वो यूयं वायुं रथयुजं रथस्य योक्तारं पुरन्धिं बहुकर्माणमिन्द्रं पूशणमेतन्नामानं च स्तोमैस्त्रिवृत्पञ्चदशादिलक्षणैः सख्याय सखि कर्मणे प्र कृणुध्वम्। प्रकुरुध्वम्। यथा तेऽस्माकं धनादिप्रदानेन सखायो भवन्ति तथा कुरुत। हि यस्मात्सचितो ज्ञानयुक्तास्ते देवाः सचेतसः परस्परं समानबुद्धयः सन्तः सवितुः सर्वप्रेरकस्य देवस्यादित्यस्य सवीमनि प्रसवेऽह्नि क्रतुं यज्ञं सचन्ते सेवन्ते तस्मात्प्रकुरुध्वम्॥८॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Importune, (worshippers), with praises, **Vāyu**, harnessing his chariot, and Purandhi and **Pūṣan** fortheir friendship, for these considerate and consentient deities, attend the sacrifice upon the birth of **Savitā**.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Set in front with your praises Vāyu, who hitches up the chariot,  
+Plenitude, and Pūṣan, for comradeship,  
+for at the impulsion of god Savitar they follow his will—those of one  mind (follow the will) of him who is of one mind (with them).
+</details>
+
+<details><summary>+Griffith</summary>
+
+Bring ye Purandbi, bring Vayu who yokes his steeds, for friendship bring ye Pusan with your songs of praise:  
+     They with one mind, one thought attend the sacrifice, urged by the favouring aid of Savitar the God.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Gebet mit euren Lobpreisungen dem wagenschirrenden Vayu, der Purandhi, dem Pusan zur Freundschaft den Vorzug, denn diese folgen auf Gott Savitri´s Geheiß seinem Willen, gleichdenkend, gleichgesinnt!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Den Wagenschirrer Vaju und Purandhi schafft durch Loblied und zur Freundschaft Puschan euch herbei; An Einsicht und an Weisheit gleich erlangen sie auf Savitars, des Gottes, Antrieb neue Kraft.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

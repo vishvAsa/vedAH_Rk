@@ -1,0 +1,132 @@
++++
+title = "006"
+devataa = "पवमानः सोमः"
+RShiH = "त्रितः"
+ChandaH = "उष्णिक्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+य꣡म् ई ग꣡र्भम् ऋतावृ꣡धो  
+दृशे꣡ चा꣡रुम् अ꣡जीजनन्  
+कवि꣡म् मं꣡हिष्ठम् अध्वरे꣡ पुरुस्पृ꣡हम्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M;; line affected by realignment  
+genre M;; line affected by realignment
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यम् । ई॒मिति॑ । गर्भ॑म् । ऋ॒त॒ऽवृधः॑ । दृ॒शे । चारु॑म् । अजी॑जनन् ।  
+क॒विम् । मंहि॑ष्ठम् । अ॒ध्व॒रे । पु॒रु॒ऽस्पृह॑म् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *yam* ← *yad*
+- \[noun\], accusative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *ī*
+- \[adverb\]
+- “īkāra.”
+------------------------------------------------------------------------
+- *garbham* ← *garbha*
+- \[noun\], accusative, singular, masculine
+- “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
+    garbhadruti; filling; pregnancy; room; abdomen; fertilization;
+    inside; hole; baby; calyx; midst.”
+------------------------------------------------------------------------
+- *ṛtāvṛdho* ← *ṛtāvṛdhaḥ* ← *ṛtāvṛdh*
+- \[noun\], nominative, plural, masculine
+- “sincere.”
+------------------------------------------------------------------------
+- *dṛśe* ← *dṛś*
+- \[verb noun\]
+- “see; observe; view; visit; look; learn; meet; read; teach; examine;
+    watch; see; notice; perceive; diagnose; travel to; show; detect;
+    know; know; understand; understand; follow.”
+------------------------------------------------------------------------
+- *cārum* ← *cāru*
+- \[noun\], accusative, singular, masculine
+- “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
+------------------------------------------------------------------------
+- *ajījanan* ← *jan*
+- \[verb\], plural, Redupl. Aorist (Ind.)
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+------------------------------------------------------------------------
+- *kavim* ← *kavi*
+- \[noun\], accusative, singular, masculine
+- “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
+    guru; Brahma.”
+------------------------------------------------------------------------
+- *maṃhiṣṭham* ← *maṃhiṣṭha*
+- \[noun\], accusative, singular, masculine
+- “big.”
+------------------------------------------------------------------------
+- *adhvare* ← *adhvara*
+- \[noun\], locative, singular, masculine
+- “yajña; ceremony; adhvara \[word\].”
+------------------------------------------------------------------------
+- *puruspṛham* ← *puruspṛh*
+- \[noun\], accusative, singular, masculine
+- “coveted; desirous.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**ऋतावृधः** यज्ञस्य वर्धयित्र्यो वसतीवर्याख्या आपः **गर्भं** गर्भस्थानीयम् **ईम्** एनं **यं** सोमम् **अध्वरे** यज्ञे **दृशे** दर्शनाय **अजीजनन्** उदपादयन् । कीदृशम् । **चारुं** सर्वेषां कल्याणरूपं **कविं** क्रान्तप्रज्ञं **मंहिष्ठं** पूज्यतमं दातृतमं वा अत एव **पुरुस्पृहं** बहुभिः स्पृहणीयं सोमं देवाः सेवन्त इति पूर्वेण समन्वयः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The germ which the augmenters of the rite brought forth at the sacrifice lovely to look upon intelligent, most adorable, desired by many.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+The embryo that those strong through truth have begotten as lovely to see, the poet, most liberal at the ceremony, sought by many—
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+This vs. consists of a rel. cl., which is implicitly picked up by the following vs. The extra four-syllable pāda here consists of a single acc. adj., which is entirely integrated into the rest of the vs., in contrast to the slight syntactic distance the metrical boundary creates in other vss. in this hymn.
+</details>
+
+<details><summary>+Griffith</summary>
+
+The Babe whom they who strengthen Law have generated fair to see,  
+     Much longed for at the sacrifice, most liberal Sage,-
+</details>
+
+<details><summary>+Geldner</summary>
+
+Den die Wahrheitsmehrer als Leibesfrucht, schön zu sehen, erzeugt haben, den freigebigsten Seher bei dem Opfer, den Vielbegehrten;
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Der schön von Ansehn jetzt als Spross erzeugt ist von den Heiligen, Ein Seher spendend reich beim Fest – und vielbegehrt,
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Кого породили (эти) возросшие от закона  
+Как зародыша, приятного на вид,  
+Поэта, самого щедрого, многожеланного на обряде:
+</details>

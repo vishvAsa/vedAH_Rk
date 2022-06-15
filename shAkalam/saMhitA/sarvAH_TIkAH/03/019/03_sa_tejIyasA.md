@@ -1,0 +1,159 @@
++++
+title = "003"
+devataa = "अग्निः"
+RShiH = "गाथी कौशिकः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+स꣡ ते꣡जीयसा म꣡नसा तुवो꣡त  
+उत꣡ शिक्ष सुअपत्य꣡स्य शिक्षोः꣡  
+अ꣡ग्ने रायो꣡ नृ꣡तमस्य प्र꣡भूतौ  
+भूया꣡म ते सुष्टुत꣡यश् च व꣡स्वः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सः । तेजी॑यसा । मन॑सा । त्वाऽऊ॑तः । उ॒त । शि॒क्ष॒ । सु॒ऽअ॒प॒त्यस्य॑ । शि॒क्षोः ।  
+अग्ने॑ । रा॒यः । नृऽत॑मस्य । प्रऽभू॑तौ । भू॒याम॑ । ते॒ । सु॒ऽस्तु॒तयः॑ । च॒ । वस्वः॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *tejīyasā* ← *tejīyas*
+- \[noun\], instrumental, singular, neuter
+------------------------------------------------------------------------
+- *manasā* ← *manas*
+- \[noun\], instrumental, singular, neuter
+- “mind; Manas; purpose; idea; attention; heart; decision; manas
+    \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
+------------------------------------------------------------------------
+- *tvota* ← *tvotaḥ* ← *tvota*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *śikṣa* ← *śikṣ*
+- \[verb\], singular, Present imperative
+- “help; give.”
+------------------------------------------------------------------------
+- *svapatyasya* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *svapatyasya* ← *apatyasya* ← *apatya*
+- \[noun\], genitive, singular, masculine
+- “child; offspring; patronymic; descendant.”
+------------------------------------------------------------------------
+- *śikṣoḥ* ← *śikṣu*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *rāyo* ← *rāyaḥ* ← *rai*
+- \[noun\], genitive, singular, masculine
+- “wealth; possession; rai \[word\]; gold.”
+------------------------------------------------------------------------
+- *nṛtamasya* ← *nṛtama*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *prabhūtau* ← *prabhūti*
+- \[noun\], locative, singular, feminine
+------------------------------------------------------------------------
+- *bhūyāma* ← *bhū*
+- \[verb\], plural, Aorist optative
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+------------------------------------------------------------------------
+- *te* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *suṣṭutayaś* ← *suṣṭutayaḥ* ← *suṣṭuti*
+- \[noun\], nominative, plural, feminine
+- “hymn; praise.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *vasvaḥ* ← *vasu*
+- \[noun\], genitive, singular, masculine
+- “good; good; benign; vasu \[word\].”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे अग्ने **त्वोतः** यः त्वया रक्ष्यमाणः **स** **तेजीयसा** अतिशयेन तीक्ष्णेन सत्कर्मविषयतीक्ष्णबुद्धियुक्तेन **मनसा** अन्तःकरणेन युक्तो भवति । **उत** अपि च तस्मै **स्वपत्यस्य** । द्वितीयार्थे षष्ठी । शोभनापत्योपेतं धनं **शिक्ष** प्रयच्छ । शिक्षतिर्दानकर्मा दात्यादिषु दानकर्मसु पठितत्वात् । हे **अग्ने** **शिक्षोः** अभिमतफलप्रदाने शकितुमिच्छोः **रायो** नृतमस्य धनस्यातिशयेन नेतुर्दातुः **ते** तव **प्रभूतौ** प्रभावे महिम्नि वयं स्याम । किंच **सुष्टुतयः** त्वद्विषयशोभनस्तुतिमन्तो वयं **वस्वः** वसुनो भाजनं **भूयाम** भूयास्म ॥ तेजीयसा । तेजितृशब्दादतिशायने ईयसुन् । ' तुरिष्ठेमेयःसु ' इति तृचो लोपः । नित्स्वरः । त्वोतः । अव रक्षणादिषु । निष्ठायां ‘ ज्वरत्वरस्रिव्यविमवामुपधायाः । इत्यूठ्' । पूर्वलोपः । त्वया ऊतः । ‘ तृतीया' इति योगविभागात्समासः । टेर्लोपश्छान्दसः । ‘ तृतीया कर्मणि ' इति पूर्वपदप्रकृतिस्वरः । शिक्ष । ‘ शिक्ष विद्योपादाने ' इत्ययमत्र दानार्थः । अस्माल्लोटि व्यत्ययेन परस्मैपदम् । शिक्षोः । ‘ शक्लृ शक्तौ ' इत्यस्य सनि “ एकाच उपदेशे ' इति इट्प्रतिषेधः । ‘ सनि मीमाघुरभलभशकपतपदामच इस्' इति धातोरच इसादेशः । ‘ अत्र लोपोऽभ्यासस्य ' इत्यभ्यासलोपः । ‘ सनाशंसभिक्ष उः' इत्युप्रत्ययः । प्रत्ययस्वरः । प्रभूतौ । ‘ भू सत्तायाम्' इत्यस्य भावे क्तिन् । ‘तादौ च निति कृत्यतौ' इति गतेः प्रकृतिस्वरत्वम् । भूयाम । ‘भू सत्तायाम्' इत्यस्याशीर्लिङि किदाशिषि ' इति यासुट् । छन्दस्युभयथा ' इति तस्य सार्वधातुकत्वात्सलोपः। आगमस्वरः । यद्वा तस्मात्प्रार्थनायां लिङि यासुट् । ‘बहुलं छन्दसि ' इति शपो लुक् । अनदन्तत्वादियादेशो न भवति । सुष्टुतयः । नञ्सुभ्याम् ' इत्युत्तरपदान्तोदात्तत्वम् । वस्वः । आगमानुशासनस्यानित्यत्वात् नुमभावः । संज्ञापूर्वकस्य विधेरनित्यत्वाद्गुणाभावः । यणादेशः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“He who isprotected, **Agni**, by you, becomes endowed with a most luminous mind; bestow upon him excellent progeny; may we ever be under the power of you who is the willing dispenser of riches; glorifying you (may we be) the receptacles of wealth.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+He (provides it) with very sharp thought when helped by you, and so  strive for good descendants for him who strives.  
+Agni, may we and our good praises be in an excess of wealth filled with  the best of men, (an excess) of the good.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Of keenest spirit is the man thou aidest give us good offspring, thou who givest freely.  
+     In power of wealth most rich in men. O Agni, of thee, the Good, may we sing forth fair praises.
+</details>
+
+<details><summary>+Oldenberg</summary>
+
+Whoever is favoured by thee, is blessed with the sharpest spirit. Favour him with good offspring, O god rich in favours 1! Agni, may we, (dwelling) in the copiousness of manliest wealth, be rich in perfect praise of thee, the Vasu.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Der tut es mit schärferem Geist, der von dir unterstützt wird. Bemühe auch du dich für den, der sich bemüht um Reichtum an guten Kindern! Agni! Wir möchten in der Fülle des männertüchtigsten Schatzes und als deine Lobsänger in der Fülle des Guts sein.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Wen du begünstigst, der wird schärfern Geistes, und du, o Spender, spend' ihm Kinderreichthum; Wir seien im Besitz des reichsten Schatzes, von dir, o Agni, anerkannt, dem guten.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Острее мыслью тот, кто поддержан тобой.  
+Порадей также (о богатстве) из прекрасного потомства для радеющего (о тебе).  
+О Агни, да будем мы среди изобилия самого мужественного богатства  
+Прекрасными восхвалителями твоего добра!
+</details>

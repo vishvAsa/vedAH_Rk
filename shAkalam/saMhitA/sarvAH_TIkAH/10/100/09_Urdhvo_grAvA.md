@@ -1,0 +1,157 @@
++++
+title = "009"
+devataa = "विश्वेदेवाः"
+RShiH = "दुवस्युर्वान्दनः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+ऊर्ध्वो꣡ ग्रा꣡वा वसवो अस्तु सोत꣡रि  
+वि꣡श्वा द्वे꣡षांसि सनुत꣡र् युयोत  
+स꣡ नो देवः꣡ सविता꣡ पायु꣡र् ई꣡डिय  
+आ꣡ सर्व꣡तातिम् अ꣡दितिं वृणीमहे
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऊ॒र्ध्वः । ग्रावा॑ । व॒स॒वः॒ । अ॒स्तु॒ । सो॒तरि॑ । विश्वा॑ । द्वेषां॑सि । स॒नु॒तः । यु॒यो॒त॒ ।  
+सः । नः॒ । दे॒वः । स॒वि॒ता । पा॒युः । ईड्यः॑ । आ । स॒र्वऽता॑तिम् । अदि॑तिम् । वृ॒णी॒म॒हे॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *ūrdhvo* ← *ūrdhvaḥ* ← *ūrdhva*
+- \[noun\], nominative, singular, masculine
+- “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
+    \[word\]; acclivitous; overturned; loud; eminent; high.”
+------------------------------------------------------------------------
+- *grāvā* ← *grāvan*
+- \[noun\], nominative, singular, masculine
+- “stone; millstone; grindstone; mountain.”
+------------------------------------------------------------------------
+- *vasavo* ← *vasavaḥ* ← *vasu*
+- \[noun\], vocative, plural, masculine
+- “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
+------------------------------------------------------------------------
+- *'stu* ← *astu* ← *as*
+- \[verb\], singular, Present imperative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *sotari* ← *sotṛ*
+- \[noun\], locative, singular, masculine
+------------------------------------------------------------------------
+- *viśvā* ← *viśva*
+- \[noun\], accusative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *dveṣāṃsi* ← *dveṣas*
+- \[noun\], accusative, plural, neuter
+- “hostility; enemy.”
+------------------------------------------------------------------------
+- *sanutar*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *yuyota* ← *yu*
+- \[verb\], plural, Present imperative
+- “keep away; separate; ward off.”
+------------------------------------------------------------------------
+- *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *devaḥ* ← *deva*
+- \[noun\], nominative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *savitā* ← *savitṛ*
+- \[noun\], nominative, singular, masculine
+- “Savitar; sun; Surya; Savitṛ.”
+------------------------------------------------------------------------
+- *pāyur* ← *pāyuḥ* ← *pāyu*
+- \[noun\], nominative, singular, masculine
+- “guard; pāyu \[word\]; Pāyu.”
+------------------------------------------------------------------------
+- *īḍya* ← *īḍyaḥ* ← *īḍ*
+- \[verb noun\], nominative, singular
+- “praise; invite; raise.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *sarvatātim* ← *sarvatāti*
+- \[noun\], accusative, singular, feminine
+- “completeness; prosperity; sum.”
+------------------------------------------------------------------------
+- *aditiṃ* ← *aditim* ← *aditi*
+- \[noun\], accusative, singular, feminine
+- “Aditi; aditi \[word\].”
+------------------------------------------------------------------------
+- *vṛṇīmahe* ← *vṛ*
+- \[verb\], plural, Present indikative
+- “choose; ask.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **वसवः** देवाः **सोतरि** सोमाभिषवकर्तरि मयि **ग्रावा** **ऊर्ध्वः** उन्नतः **अस्तु** । तेनोच्छ्रितेन **विश्वा** द्वेषांसि सर्वानपि द्वेष्टॄन् **सनुतः** निगूढान् **युयोत** पृथक्कुरुत । **सः** **सविता** **देवः** **नः** अस्माकं **पायुः** पालयिता। 'कृवापाजि°' इत्यादिनोण् । प्रत्ययस्वरः । सः **ईड्यः** स्तोतव्यश्च ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“May the stone be uplifted, gods, when I make the libation; disperse all my secret adversaries; the godSavitā is our adorable protector. We long for the universal **Aditi**.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Let the pressing stone be upright when the soma-presser is there, o good  ones; keep all hatreds away at a distance.  
+God Savitar is to be reverently invoked as our protector. – We choose  wholeness and innocence.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Ye Vasus, let the stone, the presser stand erect: avert all enmities and keep them far remote.  
+     Our guard to be adored is Savitar this God. We ask for freedom and complete felicity.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Der pressende Stein soll sich aufrichten, ihr Guten! Haltet alle Anfeindungen abseits! Der Gott Savitri ist als unser Schützer anzurufen. - Wir erbitten Vollkommenheit von der Aditi.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Es heb', o gute, bei dem Presser sich der Stein; verjaget alle unsre Feinde weit hinweg; Gott Savitar, der preisenswerthe, schütze uns für uns erflehn wir unvergänglich Wohlergehn.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

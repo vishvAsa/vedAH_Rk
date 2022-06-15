@@ -1,0 +1,123 @@
++++
+title = "004"
+devataa = "इन्द्रः"
+RShiH = "वसिष्ठः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+वय꣡म् इन्द्र तुवाय꣡वो  
+अभि꣡ प्र꣡ णोनुमो वृषन्  
+विद्धी꣡ तु꣡ अस्य꣡ नो वसो
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+व॒यम् । इ॒न्द्र॒ । त्वा॒ऽयवः॑ । अ॒भि । प्र । नो॒नु॒मः॒ । वृ॒ष॒न् ।  
+वि॒द्धि । तु । अ॒स्य । नः॒ । व॒सो॒ इति॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *vayam* ← *mad*
+- \[noun\], nominative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *tvāyavo* ← *tvāyavaḥ* ← *tvāyu*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *'bhi* ← *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *ṇonumo* ← *nonumaḥ* ← *nonāv* ← *√nū*
+- \[verb\], plural, Present indikative
+- “bellow.”
+------------------------------------------------------------------------
+- *vṛṣan*
+- \[noun\], vocative, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *viddhī* ← *viddhi* ← *vid*
+- \[verb\], singular, Present imperative
+- “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
+    specify; watch; recognize; detect; call.”
+------------------------------------------------------------------------
+- *tv* ← *tu*
+- \[adverb\]
+- “now; then; but; and; now; however; then; then; surely.”
+------------------------------------------------------------------------
+- *asya* ← *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *vaso* ← *vasu*
+- \[noun\], vocative, singular, masculine
+- “good; good; benign; vasu \[word\].”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **वृषन्** कामानां वर्षितः **इन्द्र** **त्वायवः** त्वत्कामाः **वयं** वसिष्ठास्त्वाम् **अभि** **प्र** **णोनुमः** प्रकर्षेण स्तुमः । हे **वसो** वासयितरिन्द्र **अस्य** इदमस्मदीयं स्तोत्रं **तु** क्षिप्रं **विद्धि** अवधारय ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Devoted to you, showerer (of benefits), we glorify you; be cognizant, giver of dwellings, of this ourpraise.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+We are seeking you, o Indra; we keep bellowing out to you, o bull. Know this (cry?) of ours, o good one.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Faithful to thee we loudly sing, heroic Indra, songs to thee: Mark, O Good Lord, this act of ours.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Wir schreien nach dir, du Bulle Indra, verlangend; beachte doch diesen Schrei von uns, du Gütiger!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Die, Indra, wir die deinen sind, o starker, wir besingen dich; O guter, achte du darauf.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Мы, о Индра, стремясь к тебе,  
+Громко приветствуем (тебя) криками, о бык.  
+Узнай же этот наш (крик), о благой!
+</details>

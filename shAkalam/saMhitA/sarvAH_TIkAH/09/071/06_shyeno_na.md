@@ -1,0 +1,185 @@
++++
+title = "006"
+devataa = "पवमानः सोमः"
+RShiH = "ऋषभो वैश्वामित्रः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+श्येनो꣡ न꣡ यो꣡निं स꣡दनं धिया꣡ कृतं꣡  
+हिरण्य꣡यम् आस꣡दं देव꣡ ए꣡षति  
+आ꣡ ई रिणन्ति बर्हि꣡षि प्रियं꣡ गिरा꣡  
+अ꣡श्वो न꣡ देवाँ꣡ अ꣡पि एति यज्ञि꣡यः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+श्ये॒नः । न । योनि॑म् । सद॑नम् । धि॒या । कृ॒तम् । हि॒र॒ण्यय॑म् । आ॒ऽसद॑म् । दे॒वः । आ । ई॒ष॒ति॒ ।  
+आ । ई॒मिति॑ । रि॒ण॒न्ति॒ । ब॒र्हिषि॑ । प्रि॒यम् । गि॒रा । अश्वः॑ । न । दे॒वान् । अपि॑ । ए॒ति॒ । य॒ज्ञियः॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *śyeno* ← *śyenaḥ* ← *śyena*
+- \[noun\], nominative, singular, masculine
+- “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *yoniṃ* ← *yonim* ← *yoni*
+- \[noun\], accusative, singular, masculine
+- “vagina; vulva; uterus; beginning; origin; reincarnation;
+    birthplace; family; production; cause; race; grain; raw material;
+    birth; kind; caste; kinship; bed.”
+------------------------------------------------------------------------
+- *sadanaṃ* ← *sadanam* ← *sadana*
+- \[noun\], accusative, singular, neuter
+- “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
+    residence; seat; inanition; location.”
+------------------------------------------------------------------------
+- *dhiyā* ← *dhī*
+- \[noun\], instrumental, singular, feminine
+- “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
+    knowledge.”
+------------------------------------------------------------------------
+- *kṛtaṃ* ← *kṛtam* ← *kṛ*
+- \[verb noun\], accusative, singular
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *hiraṇyayam* ← *hiraṇyaya*
+- \[noun\], accusative, singular, neuter
+- “gold; aureate; hiraṇyaya \[word\].”
+------------------------------------------------------------------------
+- *āsadaṃ* ← *āsadam* ← *āsad* ← *√sad*
+- \[verb noun\]
+- “approach; attack; sit down; approach; find; arrive.”
+------------------------------------------------------------------------
+- *deva* ← *devaḥ* ← *deva*
+- \[noun\], nominative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *eṣati* ← *īṣ*
+- \[verb\], singular, Present indikative
+------------------------------------------------------------------------
+- *e* ← *\_* ← *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *riṇanti* ← *ri*
+- \[verb\], plural, Present indikative
+- “free; liberate; run; let go of.”
+------------------------------------------------------------------------
+- *barhiṣi* ← *barhis*
+- \[noun\], locative, singular, masculine
+- “Barhis; barhis \[word\].”
+------------------------------------------------------------------------
+- *priyaṃ* ← *priyam* ← *priya*
+- \[noun\], accusative, singular, masculine
+- “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
+    good; liked; suitable; proper.”
+------------------------------------------------------------------------
+- *girāśvo* ← *girā* ← *gir*
+- \[noun\], instrumental, singular, feminine
+- “hymn; praise; voice; words; invocation; command; statement; cry;
+    language.”
+------------------------------------------------------------------------
+- *girāśvo* ← *aśvaḥ* ← *aśva*
+- \[noun\], nominative, singular, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *devāṃ* ← *deva*
+- \[noun\], accusative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *apy* ← *api*
+- \[adverb\]
+- “besides; even; surely; though; furthermore; among; contrastingly;
+    assuredly.”
+------------------------------------------------------------------------
+- *eti* ← *i*
+- \[verb\], singular, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *yajñiyaḥ* ← *yajñiya*
+- \[noun\], nominative, singular, masculine
+- “sacrificial; divine; devoted.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**देवः** द्योतमानः पवमानः **धिया** स्वकर्मणा **कृतं** संपादितं **हिरण्ययं** हिरण्मयम् **आसदम्** आसन्द्यभिधानम् **एषति** अभिमुखं गच्छति । ईषतेर्गत्यर्थस्य व्यत्ययेन परस्मैपदम् । तत्र दृष्टान्तः । **श्येनो** **न** **योनिम्** । कुलायं यथा श्येनः पक्षी प्रविशति तद्वत् । ततः **ईम्** एनं **प्रियं** प्रीणयितारं सोमं **गिरा** स्तुत्या **बर्हिषि** यज्ञे **आ** **रिणन्ति** स्तोतारोऽभिमुखं प्रेरयन्ति । स्तुवन्तीत्यर्थः । अनन्तरं **यज्ञियः** यज्ञार्हः यष्टव्योऽयं सोमः **अश्वो** **न** अश्व इव त्वरया **देवान्** **अप्येति** अभिगच्छति ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The shining (**Soma**) approaches the golden seat the station constructed by his holy rites, as a falcon (approaches) his nest; (the worshippers) send the well-beloved by their praise to the sacred grass; the adorable Soma proceeds to the gods like a horse.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Like a falcon to its womb [=nest], the god hastens to sit upon the golden  seat made by insight.  
+They let the dear one spill onto the ritual grass with a song. Like a horse  (its stall), the one worthy of the sacrifice approaches the gods.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+Act. trans. (ā́) riṇanti, with priests vel sim. as subj. and soma as obj., contrasts with medial (ní) riṇīte in 2, with soma as subj. and a self-involved, reflexive-type meaning.
+
+I supply ‘stall’ as the goal in the simile on the basis of passages containing ápi √i with pā́thaḥ as goal (I.162.2, II.3.9, III.8.9, VII.47.3). It is not necessary, however.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Like as a falcon to his home, so speeds the God to his own golden wisely-tashioned place to rest.  
+     With song they urge the darling to the sacred grass: the Holy One goes like a courser to the Gods.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Der Gott strebt nach seinem goldigen, mit Kunst bereiteten Sitz, um sich hinzusetzen wie ein Falke in sein Nest. Sie lassen den Beliebten auf dem Barhis unter Lobrede laufen; wie ein Roß geht der Opferwürdige zu den Göttern.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Es eilt der Gott zu setzen sich auf goldnen Sitz, den Andacht ihm errichtet, wie aufs Nest der Aar; Sie senden ihn mit Liedern hin zur lieben Streu, der hehre eilet wie ein Ross den Göttern zu.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Как орел в свое гнездо, спешит бог, чтобы сесть  
+На сиденье, созданное молитвой, золотое.  
+Милого пускают течь на жертвенную солому с помощью песни.  
+Словно конь, (сома,) достойный жертв, приобщается к богам.
+</details>

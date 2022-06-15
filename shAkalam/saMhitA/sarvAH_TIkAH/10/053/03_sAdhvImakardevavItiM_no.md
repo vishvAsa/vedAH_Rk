@@ -1,0 +1,187 @@
++++
+title = "003"
+devataa = "अग्निः सौचीकः"
+RShiH = "देवाः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+साध्वी꣡म् अकर् देव꣡वीतिं नो अद्य꣡  
+यज्ञ꣡स्य जिह्वा꣡म् अविदाम गु꣡ह्याम्  
+स꣡ आ꣡युर् आ꣡गात् सुरभि꣡र् व꣡सानो  
+भद्रा꣡म् अकर् देव꣡हूतिं नो अद्य꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+popular  
+popular  
+popular  
+popular
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सा॒ध्वीम् । अ॒कः॒ । दे॒वऽवी॑तिम् । नः॒ । अ॒द्य । य॒ज्ञस्य॑ । जि॒ह्वाम् । अ॒वि॒दा॒म॒ । गुह्या॑म् ।  
+सः । आयुः॑ । आ । अ॒गा॒त् । सु॒र॒भिः । वसा॑नः । भ॒द्राम् । अ॒कः॒ । दे॒वऽहू॑तिम् । नः॒ । अ॒द्य ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *sādhvīm* ← *sādhu*
+- \[noun\], accusative, singular, feminine
+- “good; good; correct; correct; sādhu \[word\]; excellent;
+    efficient.”
+------------------------------------------------------------------------
+- *akar* ← *akaḥ* ← *kṛ*
+- \[verb\], singular, Root aorist (Ind.)
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *devavītiṃ* ← *deva*
+- \[noun\], masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *devavītiṃ* ← *vītim* ← *vīti*
+- \[noun\], accusative, singular, feminine
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+------------------------------------------------------------------------
+- *yajñasya* ← *yajña*
+- \[noun\], genitive, singular, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *jihvām* ← *jihvā*
+- \[noun\], accusative, singular, feminine
+- “tongue; tongue; jihvā \[word\]; fire.”
+------------------------------------------------------------------------
+- *avidāma* ← *vid*
+- \[verb\], plural, Thematic aorist (Ind.)
+- “find; detect; marry; get; think.”
+------------------------------------------------------------------------
+- *guhyām* ← *guhya*
+- \[noun\], accusative, singular, feminine
+- “secret; concealed.”
+------------------------------------------------------------------------
+- *sa* ← *saḥ* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *āyur* ← *āyuḥ* ← *āyus*
+- \[noun\], accusative, singular, neuter
+- “life; longevity; āyus; life; āyus \[word\]; Āyus.”
+------------------------------------------------------------------------
+- *āgāt* ← *āgā* ← *√gā*
+- \[verb\], singular, Root aorist (Ind.)
+- “come; arrive.”
+------------------------------------------------------------------------
+- *surabhir* ← *surabhiḥ* ← *surabhi*
+- \[noun\], nominative, singular, masculine
+- “fragrant; perfumed; surabhi \[word\].”
+------------------------------------------------------------------------
+- *vasāno* ← *vasānaḥ* ← *vas*
+- \[verb noun\], nominative, singular
+- “wear.”
+------------------------------------------------------------------------
+- *bhadrām* ← *bhadra*
+- \[noun\], accusative, singular, feminine
+- “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
+    fine-looking; beautiful.”
+------------------------------------------------------------------------
+- *akar* ← *akaḥ* ← *kṛ*
+- \[verb\], singular, Root aorist (Ind.)
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *devahūtiṃ* ← *deva*
+- \[noun\], masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *devahūtiṃ* ← *hūtim* ← *hūti*
+- \[noun\], accusative, singular, feminine
+- “invocation.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+अयमग्निः सुष्टु अद्य **नः** अस्माकं **देववीतिं** देवानामागमनवन्तं देवानां हविर्भक्षणोपेतं वा यज्ञं **साध्वीमकः** साधुमकरोत् । वयं च **यज्ञस्य** **गुह्यां** गूढतरां **जिह्वामविदाम** लब्धवन्तः स्म । अग्निर्हि यज्ञस्य जिह्वा तेन देवानां पानाज्जिह्वात्वेनोपचारः । **सः** तादृशोऽग्निः **सुरभिः** सुगन्धः **आयुः** देवैः दत्तमायुष्यं **वसानः** आच्छादयन् **आगात्** आगच्छति । आगत्य च **नः** अस्मदर्थं **देवहूतिं** देवानामाह्वानवन्तं यज्ञं **भद्रात्मकः** कल्याणं कृतवान् **अद्य** इदानीम् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“He has today made our banquet to the gods efficacious; we have obtained the mysterious tongue ofsacrifice; he has come, fragrant, clothed with life; he makes our oblation to the gods today auspicious.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Themysterious tongue: **Agni** is the tongue of the gods, by means of him they drink the oblations
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+He has made our pursuit of the gods successful today. We found the  tongue of the sacrifice in hiding.  
+He has come here, sweet smelling, clothing himself in life. He has made  our invocation of the gods fortunate today.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Now hath he made the feast of Gods effective: now have we found the secret tongue of worship.  
+     Now hath he come, sweet, robed in vital vigour, and made our calling on the Gods effective.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Er hat unsere Götterladung heute erfolgreich gemacht; wir haben des Opfers geheime Zunge gefunden. Duftend ist er gekommen, sich in Lebenskraft kleidend; er hat heute unsere Götteranrufung gesegnet gemacht.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Ein heilsam Göttermahl vollbracht er heut uns, wir fanden nun des Opfers Wunder-Zunge, Er nahte duftig, sich in Jugend kleidend, hat heut gesegnet unsern Götteranruf.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Он сделал удачным для нас приглашение богов сегодня.  
+Мы нашли тайный язык жертвы.  
+Он пришел благоухающий, рядясь в силу жизни,  
+Он сделал счастливым для нас призыв богов сегодня.  
+Агни:
+</details>

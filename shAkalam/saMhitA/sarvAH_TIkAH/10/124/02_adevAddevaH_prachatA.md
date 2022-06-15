@@ -1,0 +1,165 @@
++++
+title = "002"
+devataa = "अग्निः"
+RShiH = "अग्निः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अ꣡देवाद् देवः꣡ प्रच꣡ता गु꣡हा य꣡न्  
+प्रप꣡श्यमानो अमृतत्व꣡म् एमि  
+शिवं꣡ य꣡त् स꣡न्तम् अ꣡शिवो ज꣡हामि  
+सुवा꣡त् सख्या꣡द् अ꣡रणीं ना꣡भिम् एमि
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+popular  
+popular  
+popular  
+popular
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अदे॑वात् । दे॒वः । प्र॒ऽचता॑ । गुहा॑ । यन् । प्र॒ऽपश्य॑मानः । अ॒मृ॒त॒ऽत्वम् । ए॒मि॒ ।  
+शि॒वम् । यत् । सन्त॑म् । अशि॑वः । जहा॑मि । स्वात् । स॒ख्यात् । अर॑णीम् । नाभि॑म् । ए॒मि॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *adevād* ← *adevāt* ← *adeva*
+- \[noun\], ablative, singular, masculine
+------------------------------------------------------------------------
+- *devaḥ* ← *deva*
+- \[noun\], nominative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *pracatā*
+- \[adverb\]
+------------------------------------------------------------------------
+- *guhā*
+- \[adverb\]
+- “secretly.”
+------------------------------------------------------------------------
+- *yan* ← *i*
+- \[verb noun\], nominative, singular
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *prapaśyamāno* ← *prapaśyamānaḥ* ← *prapaś* ← *√paś*
+- \[verb noun\], nominative, singular
+- “see.”
+------------------------------------------------------------------------
+- *amṛtatvam* ← *amṛta*
+- \[noun\]
+- “immortal; amṛta; imperishable.”
+------------------------------------------------------------------------
+- *amṛtatvam* ← *tvam* ← *tva*
+- \[noun\], accusative, singular, neuter
+- “state; quality; cause; reason.”
+------------------------------------------------------------------------
+- *emi* ← *i*
+- \[verb\], singular, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *śivaṃ* ← *śivam* ← *śiva*
+- \[noun\], accusative, singular, masculine
+- “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
+    holy; nice.”
+------------------------------------------------------------------------
+- *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *santam* ← *as*
+- \[verb noun\], accusative, singular
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *aśivo* ← *aśivaḥ* ← *aśiva*
+- \[noun\], nominative, singular, masculine
+- “inauspicious; unkind; unfriendly; cruel; dangerous.”
+------------------------------------------------------------------------
+- *jahāmi* ← *hā*
+- \[verb\], singular, Present indikative
+- “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
+    lose; avoid; remove; leave; abandon; neglect; leave; discard;
+    apostatize; discontinue; weaken; abandon; assail; subtract;
+    foreswear; pour away; withdraw; depart; reduce.”
+------------------------------------------------------------------------
+- *svāt* ← *sva*
+- \[noun\], ablative, singular, neuter
+- “own(a); respective(a); akin(p); sva \[word\]; individual;
+    present(a); independent.”
+------------------------------------------------------------------------
+- *sakhyād* ← *sakhyāt* ← *sakhya*
+- \[noun\], ablative, singular, neuter
+- “friendship; aid; company.”
+------------------------------------------------------------------------
+- *araṇīṃ* ← *araṇīm* ← *araṇa*
+- \[noun\], accusative, singular, feminine
+- “foreign; unrelated.”
+------------------------------------------------------------------------
+- *nābhim* ← *nābhi*
+- \[noun\], accusative, singular, feminine
+- “navel; hub; kinship; beginning; origin; umbilical cord; nābhi
+    \[word\]; friendship; center.”
+------------------------------------------------------------------------
+- *emi* ← *i*
+- \[verb\], singular, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**अदेवात्** अदेवनशीलात् **गुहा** गुहायां वर्तमानात् ॥ ‘सुपां सुलुक्°' इति सप्तम्या लुक् । **प्रचता** देवानां प्रयाचनेन हेतुना **यन्** निर्गच्छन् **देवः** देवनशीलोऽहं **प्रपश्यमानः** देवैर्मदर्थं कल्पितं प्रयाजानुयाजादिलक्षणं हविर्भागं प्रपश्यमानो निरीक्षमाणः सन् **अमृतत्वमेमि**। मरणधर्मराहित्यं देवत्वं प्राप्नोमि ॥ दृशेर्व्यत्ययेनात्मनेपदम् ॥ हविर्वहनाद्भीतः पलायितोऽबादिषु स्थानेषु निगूढः पुनर्देवैर्हविर्वहनाय प्रार्थ्यमानस्तैर्दत्तेन हविषा अहं देवत्वं प्राप्तवानस्मीत्यर्थः । यद्यप्यहं गुहातो निर्गत्य प्रकाशमानः सन् शोभनं यज्ञं निवर्तयामि तथापि **शिवं** शोभनं **सन्तं** भवन्तं यज्ञम् **अशिवः** अशोभनरूपोऽप्रकाशमानः सन् **यत्** यस्मिन् समाप्तिकाले **जहामि** परित्यजामि तदानीं **नाभिं** नहनशीलां बन्धनशीलाम् **अरणीम्** अश्वथमेव **स्वात्सख्यात्** आत्मीयात सखित्वाञ्चिरकालमश्वरूपोऽहं तत्र न्यवात्समिति स्नेहवशात् **एमि** प्राप्नोमि ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“(**Agni** speaks). From being no divinity I issue a divninty from the cave at the solicitation (of the gods),and being manifest I attain immortality; when being inauspicious I abandon the sacrifice as it becomesauspicious, through my (old) friendship I come to the binding touch-wood.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Being inauspicious: i.e., not beingbeautiful, not being radiant; binding touchwood: nābhim: from ṇaḥ, nahana śīlām **bandhana** śīlām; or, afamily of strangers
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+[Agni:] Going in concealment and hiding, I go, as a god, from the  non-god, foreseeing immortality for myself.  
+When I unkindly leave (him), though he is kindly disposed, from my own  fellowship I go to an alien lineage.
+</details>
+
+<details><summary>+Griffith</summary>
+
+I come a God foreseeing from the godless to immortality by secret pathways,  
+     While I, ungracious one, desert the gracious, leave mine own friends and seek the kin of strangers.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Heimlich mich davon machend gehe ich, der Gott, von dem Ungott, die Unsterblichkeit vor mir sehend. Wenn ich ihn, der freundlich war, unfreundlich verlasse, so gehe ich von der eigenen Freundschaft zu der fremden Sippe.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+»Als Gott vom Nichtgott tief verborgen wandernd komm jetzt ich nach Unsterblichkeit verlangend; Wenn unhold ich den holden nun verlasse, geh von der eignen ich zur fremden Freundschaft.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Бог, от не-бога скрытно, тайно уходящий,  
+Иду я, видя перед собой бессмертие.  
+Из-за того, что я, неприветливый, покидаю того, кто был приветлив,  
+Из своего круга я ухожу к чужой родне.
+</details>

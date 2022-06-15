@@ -1,8 +1,0 @@
-+++
-title = "03"
-
-+++
-Acdg. to Kümmel (471), the medial part. of the pf. of √vṛdh is always presential, though both Geldner and Renou tr. as preterital. My “ever-increasing” makes it sound like an inten., but of course the heavy redupl. vā- simply belongs to the pf. of this root.
-
-Note the v-alliteration in ab: vāvṛdhānā́ya tū́rvaye pávante vā́jasātaye.
-

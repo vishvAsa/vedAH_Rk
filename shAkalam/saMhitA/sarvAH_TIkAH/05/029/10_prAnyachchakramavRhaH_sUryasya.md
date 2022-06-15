@@ -1,0 +1,183 @@
++++
+title = "010"
+devataa = "इन्द्रः"
+RShiH = "गौरवीतिः शाक्त्यः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+प्रा꣡न्य꣡च् चक्र꣡म् अवृहः सू꣡रियस्य  
+कु꣡त्सायान्य꣡द् व꣡रिवो या꣡तवे ऽकः  
+अना꣡सो द꣡स्यूँर् अमृणो वधे꣡न  
+नि꣡ दुर्योण꣡ आवृणङ् मृध्र꣡वाचः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र । अ॒न्यत् । च॒क्रम् । अ॒वृ॒हः॒ । सूर्य॑स्य । कुत्सा॑य । अ॒न्यत् । वरि॑वः । यात॑वे । अ॒क॒रित्य॑कः ।  
+अ॒नासः॑ । दस्यू॑न् । अ॒मृ॒णः॒ । व॒धेन॑ । नि । दु॒र्यो॒णे । अ॒वृ॒ण॒क् । मृ॒ध्रऽवा॑चः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *prānyac* ← *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *prānyac* ← *anyat* ← *anya*
+- \[noun\], accusative, singular, neuter
+- “other; another(a); remaining; different; anya \[word\]; other than;
+    more(a); fresh; any(a).”
+------------------------------------------------------------------------
+- *cakram* ← *cakra*
+- \[noun\], accusative, singular, neuter
+- “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
+    group.”
+------------------------------------------------------------------------
+- *avṛhaḥ* ← *vṛh*
+- \[verb\], singular, Imperfect
+- “extract.”
+------------------------------------------------------------------------
+- *sūryasya* ← *sūrya*
+- \[noun\], genitive, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+------------------------------------------------------------------------
+- *kutsāyānyad* ← *kutsāya* ← *kutsa*
+- \[noun\], dative, singular, masculine
+- “Kutsa; kutsa \[word\].”
+------------------------------------------------------------------------
+- *kutsāyānyad* ← *anyat* ← *anya*
+- \[noun\], accusative, singular, neuter
+- “other; another(a); remaining; different; anya \[word\]; other than;
+    more(a); fresh; any(a).”
+------------------------------------------------------------------------
+- *varivo* ← *varivaḥ* ← *varivas*
+- \[noun\], accusative, singular, neuter
+- “room; varivas \[word\]; space; escape.”
+------------------------------------------------------------------------
+- *yātave* ← *yā*
+- \[verb noun\]
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *'kaḥ* ← *akaḥ* ← *kṛ*
+- \[verb\], singular, Root aorist (Ind.)
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *anāso* ← *an*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *anāso* ← *āsaḥ* ← *ās*
+- \[noun\], accusative, plural, masculine
+- “mouth.”
+------------------------------------------------------------------------
+- *dasyūṃr* ← *dasyu*
+- \[noun\], accusative, plural, masculine
+- “savage; outcast; mugger.”
+------------------------------------------------------------------------
+- *amṛṇo* ← *amṛṇaḥ* ← *mṛṇ*
+- \[verb\], singular, Imperfect
+- “kill; crush.”
+------------------------------------------------------------------------
+- *vadhena* ← *vadha*
+- \[noun\], instrumental, singular, masculine
+- “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
+    dysfunction; punishment; kick.”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *duryoṇa* ← *duryoṇe* ← *duryoṇa*
+- \[noun\], locative, singular, neuter
+------------------------------------------------------------------------
+- *āvṛṇaṅ* ← *āvṛṇak* ← *āvṛj* ← *√vṛj*
+- \[verb\], singular, Imperfect
+- “appropriate; accord.”
+------------------------------------------------------------------------
+- *mṛdhravācaḥ* ← *mṛdhra*
+- \[noun\], neuter
+------------------------------------------------------------------------
+- *mṛdhravācaḥ* ← *vācaḥ* ← *vāc*
+- \[noun\], accusative, plural, masculine
+- “speech; statement; voice; voice; speech; language; vāc \[word\];
+    word; literary composition; conversation; sound; Sarasvati; cry;
+    assurance; spell.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हेइन्द्र पूर्वं द्विचक्रस्यसूर्यस्य अन्यदेकञ्चकक्रं प्रावृहः पृथक् चकर्थ अन्यदेकञ्चक्रं कुत्साय कुत्सस्यवरिवोधनं यातवे प्राप्तुं अकः अकार्षीः किञ्च अनासः आस्यरहितान् आस्यशब्देनशब्दोलक्ष्यते अशब्दान् मूकान् दस्यान् असुरान् वधेनायुधेनवज्रेण अमृणः अहिंसीः दुर्योणे सङ्ग्रामे मृध्रवाचः हिंसितवागिन्द्रियानसुरान् न्यवृणक् नितराञ्छिन्नवानसि अमृणोन्यवृणगितिद्विरुक्तिरादरार्था ॥ १० ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“You have formerly detached one wheel (of the car) of **Sūrya**; another you have given to **Kutsa** wherewith to acquire wealth; with the thunderbolt you have confounded the voiceless **Dasyus**, you have destroyed in battle the speech-bereft (foes).”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Confounded with voiceless dasyus: anāso dasyūn amṛṇaḥ: **anāsa** = asyarahitān, devoid or deprived of words, **asya**, face or mouth, being put by metonymy for **śabda**, the sound that comes from the mouth, articulate speech; Dasyus are also called amṛdhravācas = hiṃsita vāgindriyan = having defective organs of speech
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+You tore off the one wheel of the Sun for Kutsa; the other you made  into wide space for driving.  
+You crushed the Dasyus mouthless with your murderous weapon; you  wrenched those of slighting speech down into a woeful womb.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+In the published translation I take kútsāya primarily with pāda a, though syntactically and metrically it should go with b. I would now emend the tr. to “the other you made into wide space for Kutsa to drive” or “… for Kutsa for driving.” I’m not sure how a wheel can become a wide space -- what sounds like a kind of highway -- but the addition of Kutsa doesn’t make it any less comprehensible.
+
+I take anā́saḥ ‘mouthless’ as proleptic, describing the state of the Dasyus after Indra has finished crushing them (sim. to I.32.6 *anā́ḥ pipiṣe), while Geldner [/Witzel Gotō] take it as a standing characteristic of the Dasyus (“mouthless Dasyus”). There is no way to tell.
+</details>
+
+<details><summary>+Griffith</summary>
+
+One car-wheel of the Sun thou rolledst forward, and one thou settest free to move for Kutsa.  
+     Thou slewest noseless Dasyus with thy weapon, and in their home o'erthrewest hostile speakers.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Das eine Rad der Sonne rissest du ab, für Kutsa ließest du das andere heil davonkommen. Du zerschmettertest die mundlosen Dasyu´s mit der Waffe, du warfst die Mißredenden ins Grab.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Du rolltest vor das eine Rad der Sonne, und triebst das andre an zum Heil des Kutsa, Erschlugst mit Blitz die hässlichen Dämonen, und strecktest hin in ihrem Haus die Schmäher.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Ты сорвал одно колесо солнца.  
+Ради Кутсы ты предоставил свободный путь для движения другого (колеса).  
+Безротых дасью ты разбил смертным оружием.  
+В другое место ты сбросил злоречивых.
+</details>

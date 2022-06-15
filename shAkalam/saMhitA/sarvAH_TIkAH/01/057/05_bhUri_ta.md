@@ -1,0 +1,184 @@
++++
+title = "005"
+devataa = "इन्द्रः"
+RShiH = "सव्य आङ्गिरसः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+भू꣡रि त इन्द्र वीरि꣡यं त꣡व स्मसि  
+अस्य꣡ स्तोतु꣡र् मघवन् का꣡मम् आ꣡ पृण  
+अ꣡नु ते द्यउ꣡र् बृहती꣡ वीरि꣡यम् मम  
+इयं꣡ च ते पृथिवी꣡ नेम ओ꣡जसे
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+भूरि॑ । ते॒ । इ॒न्द्र॒ । वी॒र्य॑म् । तव॑ । स्म॒सि॒ । अ॒स्य । स्तो॒तुः । म॒घ॒ऽव॒न् । काम॑म् । आ । पृ॒ण॒ ।  
+अनु॑ । ते॒ । द्यौः । बृ॒ह॒ती । वी॒र्य॑म् । म॒मे॒ । इ॒यम् । च॒ । ते॒ । पृ॒थि॒वी । ने॒मे॒ । ओज॑से ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *bhūri*
+- \[noun\], nominative, singular, neuter
+- “much; many; much(a); abundant; rich; mighty; distinguished.”
+------------------------------------------------------------------------
+- *ta* ← *te* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *vīryaṃ* ← *vīryam* ← *vīrya*
+- \[noun\], nominative, singular, neuter
+- “potency; vīrya; heroism; potency; strength; semen; power; deed;
+    active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
+    virility; manfulness; jewel; force.”
+------------------------------------------------------------------------
+- *tava* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *smasy* ← *smasi* ← *as*
+- \[verb\], plural, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *asya* ← *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *stotur* ← *stotuḥ* ← *stotṛ*
+- \[noun\], genitive, singular, masculine
+- “laudatory; worshiping.”
+------------------------------------------------------------------------
+- *maghavan*
+- \[noun\], vocative, singular, masculine
+- “Indra; maghavan \[word\].”
+------------------------------------------------------------------------
+- *kāmam* ← *kāma*
+- \[noun\], accusative, singular, masculine
+- “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
+    love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
+    kāma \[word\]; sexual intercourse; thorn apple; wish.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *pṛṇa* ← *pṛṇ*
+- \[verb\], singular, Present imperative
+- “satisfy.”
+------------------------------------------------------------------------
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *te* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *dyaur* ← *dyauḥ* ← *div*
+- \[noun\], nominative, singular, feminine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *bṛhatī* ← *bṛhat*
+- \[noun\], nominative, singular, feminine
+- “large; great; loud; high; much(a); exalted; abundant; intensive;
+    strong; huge.”
+------------------------------------------------------------------------
+- *vīryam* ← *vīrya*
+- \[noun\], accusative, singular, neuter
+- “potency; vīrya; heroism; potency; strength; semen; power; deed;
+    active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
+    virility; manfulness; jewel; force.”
+------------------------------------------------------------------------
+- *mama* ← *mame* ← *mā*
+- \[verb\], singular, Perfect indicative
+- “weigh; measure; total; last; weigh; measure; give away; transform.”
+------------------------------------------------------------------------
+- *iyaṃ* ← *iyam* ← *idam*
+- \[noun\], nominative, singular, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *te* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *pṛthivī*
+- \[noun\], nominative, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+------------------------------------------------------------------------
+- *nema* ← *neme* ← *nam*
+- \[verb\], singular, Perfect indicative
+- “bow; bend; condescend; worship; bend; lower.”
+------------------------------------------------------------------------
+- *ojase* ← *ojas*
+- \[noun\], dative, singular, neuter
+- “strength; power; ojas; ojas \[word\]; potency; might.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **इन्द्र** **ते** तव **वीर्यं** सामर्थ्यं **भूरि** बहु । न केनाप्यवच्छेत्तुं शक्यते । तादृशस्य **तव** वयं **स्मसि** स्वभूता  भवामः । हे **मघवन्** **अस्य** **स्तोतुः** त्वां स्तुवतो यजमानस्य **कामम्** अभिलाषम् **आ** **पृण** आपूरय । **बृहती** **द्यौः** महान् द्युलोकोऽपि **ते** तव **वीर्यम्** **अनु** **ममे** अन्वमंस्त । इन्द्रेण सहावस्थानात् **इयं** **च** इयमपि **पृथिवी** **ते** तव **ओजसे** बलाय **नेमे** प्रह्वीबभूव । त्वद्बलाद्भीता सती अध एव वर्तते इति भावः ॥ स्मसि। अस भुवि । लटि ‘असोरल्लोपः' इति अकारलोपः । इदन्तो मसिः । पृण ।  ‘ पृण प्रीणने ' । अत्र प्रीतिहेतुतया पूरणं लक्ष्यते । तुदादित्वात् शप्रत्ययः । तस्य ङित्त्वाद्गुणाभावः । ममे । 'माङ् माने शब्दे च'। ङित्त्वात् आत्मनेपदम् । लिटि  ‘ आतो लोप इटि च ' इति आकारलोपः । नेमे । ' णमु प्रह्वत्वे '। लिटि ‘अत एकहल्मध्ये ' इति एत्वाभ्यासलोपौ । तिङ्ङतिङः' इति निघातः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Great is your prowess, **Indra**; we are yours; satisfy **Maghavan**, the desires of this your worshipper, the vast heaven has acknowledged your might; this earth has been bowed down through your vigour.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Abundant is your heroism, o Indra. We are yours: fulfill the desire of this  singer, o bounteous one.  
+Lofty heaven measures itself against your heroism, and this earth bends  to your power.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Great is thy power, O Indra, we are thine. Fulfil, O Maghavan, the wish of this thy worshipper.  
+     After thee lofty heaven hath measured out its strength: to thee and to thy power this earth hath bowed itself.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Groß ist deine Heldenkraft, o Indra; dein sind wir, erfülle dieses Sängers Wunsch, du Gabenreicher! Der hohe Himmel traute dir die Heldenstärke zu, und diese Erde hat sich deiner Kraft gebeugt.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Dein Heldenwerk ist gross, und dein sind wir, erfülle, starker Indra, dieses Sängers Wunsch; Der grosse Himmel ist das Abbild deiner Macht, und diese Erde beuget deiner Stärke sich.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Велико твое мужество, о Индра. Мы – твои.  
+Исполни желание этого восхвалителя, о щедрый!  
+Высокое небо уступает тебе в мужестве,  
+И земля склонилась перед твоей силой.
+</details>

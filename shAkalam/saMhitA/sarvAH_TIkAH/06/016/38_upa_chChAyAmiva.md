@@ -1,0 +1,125 @@
++++
+title = "038"
+devataa = "अग्निः"
+RShiH = "भरद्वाजो बार्हस्पत्यः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+उ꣡प छाया꣡म् इव घृ꣡णेर्  
+अ꣡गन्म श꣡र्म ते वय꣡म्  
+अ꣡ग्ने हि꣡रण्यसंदृशः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उप॑ । छा॒याम्ऽइ॑व । घृणेः॑ । अग॑न्म । शर्म॑ । ते॒ । व॒यम् ।  
+अग्ने॑ । हिर॑ण्यऽसन्दृशः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *cchāyām* ← *chāyām* ← *chāyā*
+- \[noun\], accusative, singular, feminine
+- “color; shadow; chāyā \[word\]; complexion; reflection; shade.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *ghṛṇer* ← *ghṛṇeḥ* ← *ghṛṇi*
+- \[noun\], ablative, singular, masculine
+- “sunbeam.”
+------------------------------------------------------------------------
+- *aganma* ← *gam*
+- \[verb\], plural, Root aorist (Ind.)
+- “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
+    leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
+    get; come; die; drain; spread; transform; happen; discharge; ride;
+    to be located; run; detect; refer; go; shall; drive.”
+------------------------------------------------------------------------
+- *śarma* ← *śarman*
+- \[noun\], accusative, singular, neuter
+- “protection; protective covering; refuge; joy.”
+------------------------------------------------------------------------
+- *te* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *vayam* ← *mad*
+- \[noun\], nominative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *hiraṇyasaṃdṛśaḥ* ← *hiraṇya*
+- \[noun\], neuter
+- “gold; jewelry; hiraṇya \[word\]; gold.”
+------------------------------------------------------------------------
+- *hiraṇyasaṃdṛśaḥ* ← *saṃdṛśaḥ* ← *saṃdṛśa*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **अग्ने** **हिरण्यसंदृशः** हितरमणीयतेजसो हिरण्यवद्रोचमानतेजसो वा **घृणेः** दीप्तस्य **ते** तव **शर्म** शरणमाश्रयणम् **उप** **अगन्म** उपगच्छाम । तत्र दृष्टान्तः । **छायामिव** । यथा घर्मार्ताः संतप्ताश्छायामुपगच्छन्ति तद्वत् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“We have recourse, **Agni**, to the shelter of you, the lustrous, the golden-feathered, as to the shade (of a tree).”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Toward your shelter we have come, as if into shadow from the  
+(sun’s) heat,  
+o Agni of golden appearance—794 VI.17
+</details>
+
+<details><summary>+Griffith</summary>
+
+To thee for shelter are we come, as to the shade from fervent heat  
+     Agni, who glitterest like gold.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Wie aus der Sonneglut in den Schatten, so haben wir uns in deinen Schutz begeben, o Agni, der du wie Gold anzuschauen;
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Wir kamen, wie vor Sonnenglut in Schatten, unter deinen Schirm, O Agni, der wie Gold du strahlst.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Как в тень от солнечного зноя,  
+Пришли мы под твою защиту,  
+О Агни с золотистым обликом.
+</details>

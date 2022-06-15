@@ -1,0 +1,198 @@
++++
+title = "002"
+devataa = "द्रविणोदाः"
+RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+य꣡म् उ पू꣡र्वम् अ꣡हुवे त꣡म् इदं꣡ हुवे  
+से꣡द् उ ह꣡व्यो ददि꣡र् यो꣡ ना꣡म प꣡त्यते  
+अध्वर्यु꣡भिः प्र꣡स्थितं सोमिय꣡म् म꣡धु  
+पोत्रा꣡त् सो꣡मं द्रविणोदः पि꣡ब र्तु꣡भिः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यम् । ऊं॒ इति॑ । पूर्व॑म् । अहु॑वे । तम् । इ॒दम् । हु॒वे॒ । सः । इत् । ऊं॒ इति॑ । हव्यः॑ । द॒दिः । यः । नाम॑ । पत्य॑ते ।  
+अ॒ध्व॒र्युऽभिः॑ । प्रऽस्थि॑तम् । सो॒म्यम् । मधु॑ । पो॒त्रात् । सोम॑म् । द्र॒वि॒णः॒ऽदः॒ । पिब॑ । ऋ॒तुऽभिः॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *yam* ← *yad*
+- \[noun\], accusative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *pūrvam*
+- \[adverb\]
+- “earlier; first; once; previously; ahead.”
+------------------------------------------------------------------------
+- *ahuve* ← *hvā*
+- \[verb\], singular, Imperfect
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *tam* ← *tad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *idaṃ* ← *idam*
+- \[noun\], accusative, singular, neuter
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *huve* ← *hvā*
+- \[verb\], singular, Present indikative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *sed* ← *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *sed* ← *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *havyo* ← *havyaḥ* ← *hvā*
+- \[verb noun\], nominative, singular
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *dadir* ← *dadiḥ* ← *dadi*
+- \[noun\], nominative, singular, masculine
+- “giving; big.”
+------------------------------------------------------------------------
+- *yo* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *nāma* ← *nāman*
+- \[noun\], accusative, singular, neuter
+- “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
+    word.”
+------------------------------------------------------------------------
+- *patyate* ← *paty*
+- \[verb\], singular, Present indikative
+- “own; have; master.”
+------------------------------------------------------------------------
+- *adhvaryubhiḥ* ← *adhvaryu*
+- \[noun\], instrumental, plural, masculine
+- “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
+------------------------------------------------------------------------
+- *prasthitaṃ* ← *prasthitam* ← *prasthā* ← *√sthā*
+- \[verb noun\], nominative, singular
+- “depart; give; depart; go; stay; proceed.”
+------------------------------------------------------------------------
+- *somyam* ← *somya*
+- \[noun\], nominative, singular, neuter
+- “saumya.”
+------------------------------------------------------------------------
+- *madhu*
+- \[noun\], nominative, singular, neuter
+- “honey; alcohol; sweet; nectar; madhu \[word\].”
+------------------------------------------------------------------------
+- *potrāt* ← *potra*
+- \[noun\], ablative, singular, neuter
+------------------------------------------------------------------------
+- *somaṃ* ← *somam* ← *soma*
+- \[noun\], accusative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *draviṇodaḥ* ← *draviṇaḥ* ← *draviṇas*
+- \[noun\], neuter
+- “property.”
+------------------------------------------------------------------------
+- *draviṇodaḥ* ← *daḥ* ← *dā*
+- \[noun\], vocative, singular, masculine
+- “giving.”
+------------------------------------------------------------------------
+- *piba* ← *pā*
+- \[verb\], singular, Present imperative
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------
+- *ṛtubhiḥ* ← *ṛtu*
+- \[noun\], instrumental, plural, masculine
+- “season; turn; menstruation; ṛtu \[word\]; time period; order; six.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हेद्रविणोदः यमु यन्त्वामेवपूर्वंहोतृकर्तृकेसोमयागेहुवे आहुतवानस्मि इदंसम्प्रति तं तमेव पोतृ कर्तृकेसोमयागेहुवे आह्वयामि सेत् सएवद्रविणोदाः हव्यः ह्वातव्यः उइतिपूरणे ददिरभीष्ट फलस्यदातायोनाम यः खलुपत्यते देवतात्वेनेष्टे तस्मैद्रविणोदसे सोम्यंसोमात्मकं मधुअध्वर्युभिः प्रस्थितम्प्रणीतमासीत् हेद्रविणोदः पोत्रात् पोतुर्यागात् ऋतुभिः ऊर्जसञ्ज्ञकैः सहसोमम्पिब ॥ २ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“He, whom I formerly invoked and whom I now invoke, is verily worthy of invocation, for he is renowned as a benefactor; the **Soma** libation has been brought by the priests; drink, Draviṇodās, along with the Ṛtus, the Soma, the offering of the **Potā**.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+The one I invoked previously, him I invoke right now. Just he is to be  invoked, who owns the name “Giver.”  
+The somian honey has been set forth by the Adhvaryus. The soma from  the Potar’s cup, o Wealth-Giver—drink it at your turns.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+The nom. dadíḥ must be part of the rel. cl., specifying acc. nā́ma. dadíḥ is nominative because it is a quotation of the name.
+
+
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/037/01-03.md">
+<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+
+The d pādas of the first three vss. have a rigid structure: PRIEST’S CUP sómaṃ draviṇodaḥ píbartúbhiḥ. Noteworthy is only that píba is accented in all three vss., though there is no obvious reason for this, and the last three vss. (4-6), which also contain imperatives to √pā, though of different form (4d pibatu, 5d pibatam, 6d pāyayā), in syntactically variant constructions, lack such accent. I have no explanation (and it seems not to have attracted any attention) beyond the suggestion that píbartúbhiḥ is treated as a detachable refrain, even though what precedes it in the pāda must be construed with it. See now also remarks ad III.32.1.
+
+</details>
+</div>
+</details>
+
+<details><summary>+Griffith</summary>
+
+He whom of old I called on, him I call on now. He is to be invoked; his name is He who Gives,  
+     Here brought by priests is Soma meath. Granter of Wealth, drink Soma with the Rtus from the Potar's cup.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Ich rufe jetzt den, den ich früher rief. Er ist anzurufen, der den Namen Geber besitzt. Die somische Süßigkeit ist von den Adhvaryu´s vorgesetzt; trinke, o Dravinodas, den Soma aus dem Becher des Potri zu den Zeiten!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Ihn, den ich sonst auch angerufen, ruf' ich jetzt, er ist zu rufen, der des Gebers Namen führt; Das Somasüss ist hingestellt, so trink es denn Schatzgeber aus des Läutrers Napf zur Opferzeit.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Я зову сейчас того, кого я и раньше звал.  
+Только тот достоин призывов, кто имеет имя "даритель".  
+Сладость сомы предложена (жрецами-) адхварью.  
+О Дравинодас, пей сому из кубка потара в (свое) время!
+</details>

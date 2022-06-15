@@ -1,0 +1,153 @@
++++
+title = "005"
+devataa = "अग्निः"
+RShiH = "चित्रमहा वासिष्ठः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+तुवं꣡ दूतः꣡ · प्रथमो꣡ व꣡रेण्यः  
+स꣡ हूय꣡मानो अमृ꣡ताय मत्स्व  
+त्वा꣡म् मर्जयन् मरु꣡तो दाशु꣡षो गृहे꣡  
+तुवां꣡ स्तो꣡मेभिर् भृ꣡गवो वि꣡ रुरुचुः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वम् । दू॒तः । प्र॒थ॒मः । वरे॑ण्यः । सः । हू॒यमा॑नः । अ॒मृता॑य । म॒त्स्व॒ ।  
+त्वाम् । म॒र्ज॒य॒न् । म॒रुतः॑ । दा॒शुषः॑ । गृ॒हे । त्वाम् । स्तोमे॑भिः । भृग॑वः । वि । रु॒रु॒चुः॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *tvaṃ* ← *tvam* ← *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *dūtaḥ* ← *dūta*
+- \[noun\], nominative, singular, masculine
+- “messenger; emissary; dūta \[word\].”
+------------------------------------------------------------------------
+- *prathamo* ← *prathamaḥ* ← *prathama*
+- \[noun\], nominative, singular, masculine
+- “first; prathama \[word\]; third; young; chief(a); best;
+    antecedent.”
+------------------------------------------------------------------------
+- *vareṇyaḥ* ← *vareṇya*
+- \[noun\], nominative, singular, masculine
+- “excellent; desirable.”
+------------------------------------------------------------------------
+- *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *hūyamāno* ← *hūyamānaḥ* ← *hu*
+- \[verb noun\], nominative, singular
+- “sacrifice; offer; pour; worship.”
+------------------------------------------------------------------------
+- *amṛtāya* ← *amṛta*
+- \[noun\], dative, singular, masculine
+- “immortal; amṛta; imperishable.”
+------------------------------------------------------------------------
+- *matsva* ← *mad*
+- \[verb\], singular, Aorist imperative
+- “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
+------------------------------------------------------------------------
+- *tvām* ← *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *marjayan* ← *marjay* ← *√mṛj*
+- \[verb\], plural, Imperfect
+------------------------------------------------------------------------
+- *maruto* ← *marutaḥ* ← *marut*
+- \[noun\], nominative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *dāśuṣo* ← *dāśuṣaḥ* ← *dāś*
+- \[verb noun\], genitive, singular
+- “sacrifice; give.”
+------------------------------------------------------------------------
+- *gṛhe* ← *gṛha*
+- \[noun\], locative, singular, neuter
+- “house; palace; temple; home; place; family; family; stable.”
+------------------------------------------------------------------------
+- *tvāṃ* ← *tvām* ← *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *stomebhir* ← *stomebhiḥ* ← *stoma*
+- \[noun\], instrumental, plural, masculine
+- “hymn; Stoma; stoma \[word\].”
+------------------------------------------------------------------------
+- *bhṛgavo* ← *bhṛgavaḥ* ← *bhṛgu*
+- \[noun\], nominative, plural, masculine
+- “Bhṛgu; precipice; Bhṛgu; Bhṛgu; Venus; bhṛgu \[word\].”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *rurucuḥ* ← *ruc*
+- \[verb\], plural, Perfect indicative
+- “please; shine.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे अग्ने **त्वं** **दूतः** देवानां दूतकर्मणि नियुक्तः **प्रथमः** मुख्यः प्रथितः प्रख्यातो वा **वरेण्यः** संभजनीयश्चासि । **सः** त्वम् **अमृताय** अमरणाय तदर्थं नोऽस्माभिः **हूयमानः** हविषा तर्प्यमाणो वा सन् **मत्स्व** तृप्यस्व ॥ ‘मदी हर्षे' । छान्दसो विकरणस्य लुक् ॥ अपि च **त्वां** मध्यमस्थाने वैद्यतरूपेण वर्तमानं **मरुतः** तत्रत्या देवगणाः **मर्जयन्** मार्जयन्ति अलंकुर्वन्ति । तथा **दाशुषः** हवींषि दत्तवतो यजमानस्य **गृहे** **स्तोमेभिः** स्तोमैः स्तोत्रैः **भृगवः** भृगुगोत्रा ऋषयस्त्वां वि **रुरुचुः** विशेषेण दीपयन्ति ॥ भृगुशब्दादुत्तरस्य तद्धितस्य ‘अत्रिभृगुकुत्स°' (पा. सू. २.४.६५) इत्यादिना बहुषु लुक् । रुरुचुः । ‘ रुच दीप्तौ' । अस्माच्छान्दसो लिट् ॥ ॥ ५ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“You are the chief and most excellent messenger; do you, invoked by us to partake of the ambrosia,become exhilarated; the **Maruts** decorated you in the dwelling of the donor of the oblation; the **Bhṛgus** haveglorified you with hymns.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+You are the foremost messenger, worthy to be chosen. Being summoned  for immortal (soma?), become exhilarated (on it).  
+You did the Maruts groom in the house of the pious; you did the Bhr̥gus  illuminate with praises.
+</details>
+
+<details><summary>+Griffith</summary>
+
+First messenger art thou, meet for election: drink thou thy fill invited to the Anirta,  
+     The Maruts in the votary's house adorned thee; with lauds the Bhrgus gave thee light and glory.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Du wardst der erste wählbare Bote. Ergötze dich, wann du für den Unsterblichen gerufen wirst! Dich putzen die Marut im Hause des Opferers, dich haben die Bhrigu´s durch ihre Lobgesänge erleuchtet.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Der erste Bote bist du, den man gern erwählt, berausche dich gerufen zu dem Göttertrank; Dich schmückten aus die Maruts in des Frommen Haus, dich zündeten die Bhrigu's an mit Lobgesang.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Ты вестник, первый, желанный.  
+Радуйся, когда (тебя) зовут для мира бессмертных!  
+Тебя начищают Маруты в доме почитателя (твоего).  
+Тебя Бхригу восхвалениями заставили ярко засверкать.
+</details>

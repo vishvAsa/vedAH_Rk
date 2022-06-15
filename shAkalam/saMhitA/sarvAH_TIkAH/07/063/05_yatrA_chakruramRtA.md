@@ -1,0 +1,165 @@
++++
+title = "005"
+devataa = "सूर्यः;मित्रावरुणौ"
+RShiH = "वसिष्ठः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+य꣡त्रा चक्रु꣡र् अमृ꣡ता गातु꣡म् अस्मै  
+श्येनो꣡ न꣡ दी꣡यन्न् अ꣡नु एति पा꣡थः  
+प्र꣡ति वां सू꣡र उ꣡दिते विधेम  
+न꣡मोभिर् मित्रावरुणोत꣡ हव्यइः꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत्र॑ । च॒क्रुः । अ॒मृताः॑ । गा॒तुम् । अ॒स्मै॒ । श्ये॒नः । न । दीय॑न् । अनु॑ । ए॒ति॒ । पाथः॑ ।  
+प्रति॑ । वा॒म् । सूरे॑ । उत्ऽइ॑ते । वि॒धे॒म॒ । नमः॑ऽभिः । मि॒त्रा॒व॒रु॒णा॒ । उ॒त । ह॒व्यैः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *yatrā* ← *yatra*
+- \[adverb\]
+- “wherein; once \[when\].”
+------------------------------------------------------------------------
+- *cakrur* ← *cakruḥ* ← *kṛ*
+- \[verb\], plural, Perfect indicative
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *amṛtā* ← *amṛtāḥ* ← *amṛta*
+- \[noun\], nominative, plural, masculine
+- “immortal; amṛta; imperishable.”
+------------------------------------------------------------------------
+- *gātum* ← *gā*
+- \[verb noun\]
+- “sing; praise; jap; recite; describe.”
+------------------------------------------------------------------------
+- *asmai* ← *idam*
+- \[noun\], dative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *śyeno* ← *śyenaḥ* ← *śyena*
+- \[noun\], nominative, singular, masculine
+- “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *dīyann* ← *dīyan* ← *dī*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------
+- *anv* ← *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *eti* ← *i*
+- \[verb\], singular, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *pāthaḥ* ← *pāthas*
+- \[noun\], accusative, singular, neuter
+- “pāthas \[word\]; water; place.”
+------------------------------------------------------------------------
+- *prati*
+- \[adverb\]
+- “towards; per; regarding; respectively; according to; until.”
+------------------------------------------------------------------------
+- *vāṃ* ← *vām* ← *tvad*
+- \[noun\], dative, dual
+- “you.”
+------------------------------------------------------------------------
+- *sūra* ← *sūre* ← *sūra*
+- \[noun\], locative, singular, masculine
+- “sun.”
+------------------------------------------------------------------------
+- *udite* ← *udi* ← *√i*
+- \[verb noun\], locative, singular
+- “rise; originate; rise; increase.”
+------------------------------------------------------------------------
+- *vidhema* ← *vidh*
+- \[verb\], plural, Present optative
+- “worship; offer.”
+------------------------------------------------------------------------
+- *namobhir* ← *namobhiḥ* ← *namas*
+- \[noun\], instrumental, plural, neuter
+- “adoration; court; namas \[word\]; bow; salute.”
+------------------------------------------------------------------------
+- *mitrāvaruṇota* ← *mitrāvaruṇā* ← *mitrāvaruṇa*
+- \[noun\], vocative, dual, masculine
+- “Varuna; Mitra.”
+------------------------------------------------------------------------
+- *mitrāvaruṇota* ← *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *havyaiḥ* ← *havya*
+- \[noun\], instrumental, plural, neuter
+- “Havya; offering; havya \[word\].”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**यत्र** यस्मिन्नन्तरिक्षे **अमृताः** अमरणधर्माणः पूर्वे देवाः **अस्मै** सूर्याय **गातुं** मार्गं **चक्रुः** अकुर्वन् तत् **पाथः** अन्तरिक्षम् **अन्वेति** अनुगच्छति । क इव। **दीयन्** गच्छन् **श्येनो** **न** शंसनीयगमनो गृध्र इव। अयमर्धर्चः सौर्य इत्युक्तम् । हे **मित्रावरुणा** मित्रावरुणौ **वां** युवां **सूरे** सूर्ये **उदिते** सति प्रातःसवने **नमोभिः** नमस्कारैः स्तुतिभिः **उत** अपि च **हव्यैः** हविर्भिश्व **प्रति** **विधेम** परिचरेम ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“He travels the path which the immortals have prepared for his course, darting along like a hawk; weworship you, **Mitra** and **Varuṇa**, when the sun has risen, with praises and oblations.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Where the immortals have made a way for him, he follows after the herd  [=the gods?], flying like a falcon.  
+When the sun has risen, we would worship you two with our acts of  reverence and with our oblations, o Mitra and Varuṇa.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Where the irrunortals have prepared his pathway he flieth through the region like a falcon.  
+     With homage and oblations will we serve you, O Mitra-Varuna, when the Sun hath risen.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Dort wo ihm die Unsterblichen den Weg bereitet haben, begeht er wie ein Falke fliegend sein Gehege. Wir wollen bei Sonnenaufgang immer wieder euch beiden, Mitra und Varuna, mit Verbeugungen und Opfern dienen.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Wo die Unsterblichen die Bahn ihm schufen, durchfliegt er wie ein Adler seinen Luftpfad; Bei seinem Aufgang huld'gen wir euch beiden, mit Liedern, Mitra-Varuna, und Opfern.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Где бессмертные проложили для него путь,  
+Он следует по (своему) владению, словно сокол летящий.  
+Мы хотим служить вам двоим на восходе солнца  
+Поклонениями, о Митра-Варуна, и возлияниями.
+</details>

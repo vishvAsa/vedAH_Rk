@@ -1,0 +1,132 @@
++++
+title = "005"
+devataa = "अग्निः"
+RShiH = "सोमाहुतिर्भार्गवः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+तुवं꣡ नो असि भारत  
+अ꣡ग्ने वशा꣡भिर् उक्ष꣡भिः  
+अष्टा꣡पदीभिर् आ꣡हुतः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वम् । नः॒ । अ॒सि॒ । भा॒र॒त॒ । अग्ने॑ । व॒शाभिः॑ । उ॒क्षऽभिः॑ ।  
+अ॒ष्टाऽप॑दीभिः । आऽहु॑तः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *tvaṃ* ← *tvam* ← *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *asi* ← *as*
+- \[verb\], singular, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *bhāratāgne* ← *bhārata*
+- \[noun\], vocative, singular, masculine
+- “Bhārata; bhārata \[word\]; fire.”
+------------------------------------------------------------------------
+- *bhāratāgne* ← *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *vaśābhir* ← *vaśābhiḥ* ← *vaśā*
+- \[noun\], instrumental, plural, feminine
+- “cow; female elephant.”
+------------------------------------------------------------------------
+- *ukṣabhiḥ* ← *ukṣan*
+- \[noun\], instrumental, plural, masculine
+- “bull; ukṣan \[word\].”
+------------------------------------------------------------------------
+- *aṣṭāpadībhir* ← *aṣṭāpadībhiḥ* ← *aṣṭāpada*
+- \[noun\], instrumental, plural, feminine
+------------------------------------------------------------------------
+- *āhutaḥ* ← *āhu* ← *√hu*
+- \[verb noun\], nominative, singular
+- “sacrifice; sprinkle.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हेभारत ऋत्विजाम्पुत्रस्थानीयाग्नेनोस्मदीयः त्वंवशाभिः वन्ध्याभिः गोभिः उक्षभिः सेक्तृर्बलीव- र्दैः अष्टापदीभिर्गार्भिणीभिश्चाहुतः अराधितोसि ॥ ५ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Agni**, descendantof **Bharatā**, you are entirely ours, when sacrificed to with pregnant kine, with barren cows, or bulls.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+When sacrificed to with: vaśābhir ukṣabhiḥ aṣṭāpadībhirāhutaḥ, offered or sacrificed to with barren cows, **vaśā**; will bulls, **ukṣa**, and with eight-footed animals, i.e. a cow with calf; it is remarkable that these animals should be sprung of a burnt-offering
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+You, o Agni belonging to the Bharatas, are “bepoured” [=offered to]  with our mated cows, with bulls,  
+with eight-footed [=pregnant] (cows).
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+On the vaśā́cow, see my Hyenas (258-60), building on H. Falk, “Zur Tiersucht im alten Indien” (IIJ 24: 169-80). Although often tr. “barren cow,” a vaśā́ is one that has been mated but has not yet calved -- so possibly barren, possibly not.
+
+My tr. here, “mated cows,” is not fully accurate but far less awkward than accuracy would require.
+
+Witzel Gotō supply “verses” with aṣṭā́padībhiḥ, though they allow the possibility of a cow in their n. Although this pun is probably lurking here -- eight-footed verses would of course be pādas with eight syllables -- the primary reading must be some sort of bovine, given the words with which it is parallel. See Oldenberg’s comment on this vs. (SBE).
+</details>
+
+<details><summary>+Griffith</summary>
+
+Ours art thou, Agni, Bharata, honoured by us with barren cows,  
+     With bullocks and with kine in calf
+</details>
+
+<details><summary>+Oldenberg</summary>
+
+Thou, O Bhârata 1, Agni! hast been worshipped by us with offerings of heifers, of bulls, of eight-footed (cows) 2.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Dir werden von uns, o Bharatide Agni, Geltkühe, Stiere, trächtige (Tiere) geopfert.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Du bist, o Agni Bharata, beschenkt von uns mit Kuh und Rind, Und mit achtsilbgen Versen auch,
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Тебя полили у нас, о потомок Бхараты,  
+О Агни, (жертвами) от яловых коров,  
+От быков, от стельных (коров).
+</details>

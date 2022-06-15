@@ -1,0 +1,181 @@
++++
+title = "007"
+devataa = "विश्वेदेवाः"
+RShiH = "लुशो धानाकः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+श्रे꣡ष्ठं नो अद्य꣡ सवितर् व꣡रेणियम्  
+भाग꣡म् आ꣡ सुव स꣡ हि꣡ रत्नधा꣡ अ꣡सि  
+रायो꣡ ज꣡नित्रीं धिष꣡णाम् उ꣡प ब्रुवे  
+सुअस्ति꣡ अग्निं꣡ समिधान꣡म् ईमहे
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+श्रेष्ठ॑म् । नः॒ । अ॒द्य । स॒वि॒तः॒ । वरे॑ण्यम् । भा॒गम् । आ । सु॒व॒ । सः । हि । र॒त्न॒ऽधाः । असि॑ ।  
+रा॒यः । जनि॑त्रीन् । धि॒षणा॑म् । उप॑ । ब्रु॒वे॒ । स्व॒स्ति । अ॒ग्निम् । स॒म्ऽइ॒धा॒नम् । ई॒म॒हे॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *śreṣṭhaṃ* ← *śreṣṭham* ← *śreṣṭha*
+- \[noun\], accusative, singular, masculine
+- “best; better; chief(a); beautiful.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+------------------------------------------------------------------------
+- *savitar* ← *savitṛ*
+- \[noun\], vocative, singular, masculine
+- “Savitar; sun; Surya; Savitṛ.”
+------------------------------------------------------------------------
+- *vareṇyam* ← *vareṇya*
+- \[noun\], accusative, singular, masculine
+- “excellent; desirable.”
+------------------------------------------------------------------------
+- *bhāgam* ← *bhāga*
+- \[noun\], accusative, singular, masculine
+- “part; part; part; parcel; quarter; body part; location; region;
+    allotment; part; numerator; division; application; function;
+    outside; bhāga \[word\]; volume; helping.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *suva* ← *sū*
+- \[verb\], singular, Present imperative
+- “give birth; urge; bestow; cause.”
+------------------------------------------------------------------------
+- *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *ratnadhā* ← *ratna*
+- \[noun\], neuter
+- “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
+    jewelry.”
+------------------------------------------------------------------------
+- *ratnadhā* ← *dhāḥ* ← *dhā*
+- \[noun\], nominative, singular, masculine
+- “giving.”
+------------------------------------------------------------------------
+- *asi* ← *as*
+- \[verb\], singular, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *rāyo* ← *rāyaḥ* ← *rai*
+- \[noun\], genitive, singular
+- “wealth; possession; rai \[word\]; gold.”
+------------------------------------------------------------------------
+- *janitrīṃ* ← *janitrīm* ← *janitrī*
+- \[noun\], accusative, singular, feminine
+- “mother.”
+------------------------------------------------------------------------
+- *dhiṣaṇām* ← *dhiṣaṇā*
+- \[noun\], accusative, singular, feminine
+- “heaven and earth.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *bruve* ← *brū*
+- \[verb\], singular, Present indikative
+- “say; tell; describe; speak; state; answer; call; explain; address;
+    proclaim; talk; talk; choose.”
+------------------------------------------------------------------------
+- *svasty* ← *svasti*
+- \[noun\], accusative, singular, neuter
+- “prosperity; well-being; fortune; benediction; svasti \[word\];
+    well; luck.”
+------------------------------------------------------------------------
+- *agniṃ* ← *agnim* ← *agni*
+- \[noun\], accusative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *idhānam* ← *indh*
+- \[verb noun\], accusative, singular
+- “kindle; ignite; set ablaze.”
+------------------------------------------------------------------------
+- *īmahe* ← *ī* ← *√i*
+- \[verb\], plural, Present indikative
+- “beg; solicit.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **सवितः** त्वम् **अद्य** अस्मिन्नहनि **नः** अस्मभ्यं **वरेण्यं** वरणीयं **श्रेष्ठं** प्रशस्यतमं **भागं** भजनीयं धनम् **आ** **सुव** प्रेरय । देहीत्यर्थः । **हि** यस्मात् **सः** प्रार्थितस्त्वं **रत्नधाः** श्रेष्ठानां धनानां संविभक्ता **असि** भवसि । तथा च निगमान्तरं-- ‘ विभक्तारं हवामहे वसोश्चित्रस्य राधसः सवितारं नृचक्षसम् ' (ऋ. सं. १.२२.७) इति । **रायः** धनस्य **जनित्रीं** **धिषणां** सर्वदेवस्तुतिरूपां वाचम् **उप** **ब्रुवे** अहमुपब्रवीमि । यद्वा । धिषणां देवीमुप ब्रुवे उपस्तौमीत्यर्थः । सिद्धमन्यत् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Savitā**, this day bestow upon us excellent and eligible portion, for you verily are the dispenser ofwealth; I recite the praise (of the gods) which is the progenitress of riches; we solicit the kindled fire for ourwelfare.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+The best portion, worthy to be chosen, impel to us today, o Savitar, for  you are a conferrer of treasure.  
+I call on her, the begetter of wealth, on the Holy Place. – We beseech  Agni, when he is kindled, for well-being.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Send us to-day a portion choice and excellent, O Savitar, for thou art he who dealeth wealth.  
+     I cry to Dhisana, Mother of opulence. We pray to kindled Agni for felicity.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Das beste vorzüglichste Teil weise uns heute zu, Savitri, denn du bist der Belohner! Der Dhisana rede ich als Erzeugerin des Reichtums zu. - Um Heil bitten wir den entflammten Agni.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Schaff heut uns her, o Savitar, das schönste Theil, das wonnige, denn Schatzvertheiler bist du ja; Die Götterschale ruf' ich an, die Güter zeugt; um Segen flehn wir den entflammten Agni an.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Самую лучшую избранную долю, о Савитар,  
+Пробуди для нас сегодня – ты ведь даритель сокровищ!  
+Я уговариваю Дхишану, родительницу богатства.  
+К Агни зажженному мы обращаемся за благом.
+</details>

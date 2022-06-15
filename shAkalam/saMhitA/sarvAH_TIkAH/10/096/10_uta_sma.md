@@ -1,0 +1,172 @@
++++
+title = "010"
+devataa = "हरिस्तुतिः"
+RShiH = "बरुः सर्वहरिर्वैन्द्रः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+उत꣡ स्म स꣡द्म हर्यत꣡स्य पस्ति꣡योर्  
+अ꣡त्यो न꣡ वा꣡जं ह꣡रिवाँ अचिक्रदत्  
+मही꣡ चिद् धि꣡ धिष꣡णा꣡हर्यद् ओ꣡जसा  
+बृह꣡द् व꣡यो दधिषे हर्यत꣡श् चिद् आ꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒त । स्म॒ । सद्म॑ । ह॒र्य॒तस्य॑ । प॒स्त्योः॑ । अत्यः॑ । न । वाज॑म् । हरि॑ऽवान् । अ॒चि॒क्र॒द॒त् ।  
+म॒ही । चि॒त् । हि । धि॒षणा॑ । अह॑र्यत् । ओज॑सा । बृ॒हत् । वयः॑ । द॒धि॒षे॒ । ह॒र्य॒तः । चि॒त् । आ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *sma*
+- \[adverb\]
+------------------------------------------------------------------------
+- *sadma* ← *sadman*
+- \[noun\], nominative, singular, neuter
+- “seat; house; stable; dwelling.”
+------------------------------------------------------------------------
+- *haryatasya* ← *haryata*
+- \[noun\], genitive, singular, masculine
+- “desirable; delightful.”
+------------------------------------------------------------------------
+- *pastyor* ← *pastyoḥ* ← *pastya*
+- \[noun\], locative, dual
+------------------------------------------------------------------------
+- *atyo* ← *atyaḥ* ← *atya*
+- \[noun\], nominative, singular, masculine
+- “horse; steed.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *vājaṃ* ← *vājam* ← *vāja*
+- \[noun\], accusative, singular, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *harivāṃ* ← *harivat*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *acikradat* ← *krand*
+- \[verb\], singular, Redupl. Aorist (Ind.)
+- “roar; neigh; cry; howl; shout.”
+------------------------------------------------------------------------
+- *mahī* ← *mah*
+- \[noun\], nominative, singular, feminine
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *ciddhi* ← *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *ciddhi* ← *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *dhiṣaṇāharyad* ← *dhiṣaṇā*
+- \[noun\], nominative, singular, feminine
+- “heaven and earth.”
+------------------------------------------------------------------------
+- *dhiṣaṇāharyad* ← *aharyat* ← *hary*
+- \[verb\], singular, Imperfect
+- “delight.”
+------------------------------------------------------------------------
+- *ojasā* ← *ojas*
+- \[noun\], instrumental, singular, neuter
+- “strength; power; ojas; ojas \[word\]; potency; might.”
+------------------------------------------------------------------------
+- *bṛhad* ← *bṛhat* ← *bṛhant*
+- \[noun\], accusative, singular, neuter
+- “Bṛhant.”
+------------------------------------------------------------------------
+- *vayo* ← *vayaḥ* ← *vayas*
+- \[noun\], accusative, singular, neuter
+- “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
+    food.”
+------------------------------------------------------------------------
+- *dadhiṣe* ← *dhā*
+- \[verb\], singular, Perfect indicative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *haryataś* ← *haryataḥ* ← *haryata*
+- \[noun\], nominative, singular, masculine
+- “desirable; delightful.”
+------------------------------------------------------------------------
+- *cid* ← *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+उतापि च हर्यतस्य कमनीयस्येन्द्रस्य सद्म सदनं पस्त्यॊर्द्यावापृथिव्योः सम्बन्धि। सोऽयमत्यो नाश्व इव वाजं सङ्ग्रामं हरिवानश्ववानचिक्रात्। गच्छति। तथा हि यस्माद्धे इन्द्र त्वां मही महती धिषणा स्तुतिरोजसा बलेन युक्तमिन्द्र महर्यत् कामयते। चिदिति पूरणः। अतो वाजमचिक्रदत्। तथा सति हर्यतः कामयमानस्य यजमानस्य ब्रुहन्महद्वयोऽन्नमा दधिषे। धारयसि। आप्रयच्छसि। चिदिति पूरणः॥१०॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The dwelling of the gracious (**Indra**) is in heaven and earth; exhilarated by the **Soma** he rushesimpetuously as a charger to battle. The earnest prayer desires (Indra endowed) with might; you bestow amplefood on the devout (worshipper).”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+As a charger: he neighed after the food like a horse;
+
+Harivān = possessinghorses
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+And the seat of the gladdening (soma) is in both dwelling places. The  possessor of golden (horses/soma) has roared toward the prize like a  racehorse.  
+Because even the great (Earth), the Holy Place, was gladdened by your  might, you took on lofty vigor—yourself also gladdening.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Yea, to the Dear One's seat in homes of heaven and earth the Bay Steeds' Lord hath whinnied like a horse for food.  
+     Then the great wish hath seized upon him mightily, and the Beloved One hath gained high power of life,
+</details>
+
+<details><summary>+Geldner</summary>
+
+Und der Sitz des Beliebten ist in beiden Wohnungen. Wie ein Rennpferd nach dem Siegerpreis wiehert, hat der Falbenlenker nach dem Siegestrunk geschrieen; denn auch die große Dhisana trug gewaltig Verlangen. Du hast dir große Kraft zugelegt, selbst gar beliebt.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Der Herr der goldnen wiehert, wie ein Ross den Trog, den Sitz des Soma an, dem beide Welten hold; Denn kräftig stimmt der Welten Schalen er zur Huld, es nimmt der holde viele Nahrung in sich auf.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+А сидение желанного (находится) в двух местах обитания.  
+Как конь скаковой (ржет) навстречу награде, взревел хозяин буланых коней!  
+Ведь великая Дхишана тоже сильно возжелала.  
+Даже очень желанный. Ты приложил большую силу.
+</details>

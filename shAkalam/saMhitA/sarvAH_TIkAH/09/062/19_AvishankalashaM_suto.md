@@ -1,0 +1,130 @@
++++
+title = "019"
+devataa = "पवमानः सोमः"
+RShiH = "जमदग्निः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+आविश꣡न् कल꣡शं सुतो꣡  
+वि꣡श्वा अ꣡र्षन्न् अभि꣡ श्रि꣡यः  
+शू꣡रो न꣡ गो꣡षु तिष्ठति
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ॒ऽवि॒शन् । क॒लश॑म् । सु॒तः । विश्वा॑ । अर्ष॑न् । अ॒भि । श्रियः॑ ।  
+शूरः॑ । न । गोषु॑ । ति॒ष्ठ॒ति॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *āviśan* ← *āviś* ← *√viś*
+- \[verb noun\], nominative, singular
+- “enter; overwhelm; possess; approach; afflict; enter (a state);
+    reach; wear.”
+------------------------------------------------------------------------
+- *kalaśaṃ* ← *kalaśam* ← *kalaśa*
+- \[noun\], accusative, singular, neuter
+- “jar.”
+------------------------------------------------------------------------
+- *suto* ← *sutaḥ* ← *su*
+- \[verb noun\], nominative, singular
+- “press out; su.”
+------------------------------------------------------------------------
+- *viśvā* ← *viśvāḥ* ← *viśva*
+- \[noun\], accusative, plural, feminine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *arṣann* ← *arṣan* ← *ṛṣ*
+- \[verb noun\], nominative, singular
+- “run.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *śriyaḥ* ← *śrī*
+- \[noun\], accusative, plural, feminine
+- “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
+    glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
+    \[word\]; śrī; prosperity; auspiciousness.”
+------------------------------------------------------------------------
+- *śūro* ← *śūraḥ* ← *śūra*
+- \[noun\], nominative, singular, masculine
+- “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
+    warrior; hero; attacker; lentil; wild boar; lion; dog.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *goṣu* ← *go*
+- \[noun\], locative, plural, masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *tiṣṭhati* ← *sthā*
+- \[verb\], singular, Present indikative
+- “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
+    stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
+    last; dwell; lie; stand; stop.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**सुतः** अभिषुतः सोमः **कलशं** द्रोणम् **आविशन्** **विश्वाः** सर्वाः **श्रियः** संपदः **अभि** **अर्षन्** अस्मानभिगमयन् **गोषु** शत्रूणां पशुषु **शूरो** **न** यथा शूरो निःशङ्कः **तिष्ठति** तद्वद्यज्ञेषु निःशङ्कस्तिष्ठति ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Entering when effused into the pitcher bringing us all success like a hero, he stands among the cattle.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+I.e. as a hero resolutely stands among the enemy's cattle, so the **Soma** resolutely stands among the sacrifices
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Pressed, entering the tub, rushing to all that is glorious,  
+he stands among the cows like a champion.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Pouring all glories hither, he, effused and entering the jar,  
+     Stands like a hero mid the kine.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Ausgepreßt in den Krug einziehend, auf alle Herrlichkeiten zufließend hält er stand wie der Tapfere im Kampf um die Kühe.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Der Saft, der in den Becher dringt, der alle Schätze uns ergiesst, Steht unter Kühen wie ein Held.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

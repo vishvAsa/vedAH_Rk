@@ -1,0 +1,136 @@
++++
+title = "005"
+devataa = "पवमानः सोमः"
+RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+आ꣡ पवस्व सुवी꣡रियम्  
+म꣡न्दमानः सुआयुध  
+इहो꣡ षु꣡ इन्दव् आ꣡ गहि
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ । प॒व॒स्व॒ । सु॒ऽवीर्य॑म् । मन्द॑मानः । सु॒ऽआ॒यु॒ध॒ ।  
+इ॒हो इति॑ । सु । इ॒न्दो॒ इति॑ । आ । ग॒हि॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *pavasva* ← *pū*
+- \[verb\], singular, Present imperative
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *suvīryam* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suvīryam* ← *vīryam* ← *vīrya*
+- \[noun\], accusative, singular, neuter
+- “potency; vīrya; heroism; potency; strength; semen; power; deed;
+    active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
+    virility; manfulness; jewel; force.”
+------------------------------------------------------------------------
+- *mandamānaḥ* ← *mad*
+- \[verb noun\], nominative, singular
+- “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
+------------------------------------------------------------------------
+- *svāyudha* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *svāyudha* ← *āyudha*
+- \[noun\], vocative, singular, masculine
+- “weapon; āyudha \[word\].”
+------------------------------------------------------------------------
+- *iho* ← *iha*
+- \[adverb\]
+- “here; now; in this world; now; below; there; here; just.”
+------------------------------------------------------------------------
+- *iho* ← *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *ṣv* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *indav* ← *indo* ← *indu*
+- \[noun\], vocative, singular, masculine
+- “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
+    juice.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *gahi* ← *gam*
+- \[verb\], singular, Aorist imperative
+- “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
+    leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
+    get; come; die; drain; spread; transform; happen; discharge; ride;
+    to be located; run; detect; refer; go; shall; drive.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **स्वायुध** । यज्ञे स्फ्यकपालादीनि दशायुधानीत्यभिधीयन्ते । शोभनानि तानि यस्य स तथोक्तः। यद्वा । धनुरादीन्यायुधानि यस्य सः । तादृश हे सोम त्वं **मन्दमानः** मोदमानः सन् । यद्वा। अन्तर्णीतण्यर्थः । देवान् स्वयं मादयन् । **सुवीर्यं** शोभनवीर्योपेतं पुत्रादिकमस्माकम् **आ** **पवस्व** । पवतिर्गत्यर्थः । आप्रापय । किंच हे **इन्दो** ग्रहेषु चमसेषु च क्षरणशील सोम **इहो** । इह उ पदद्वयम् । उ इत्यवधारणे । इहैवास्मदीये यज्ञ एव सुष्ठु **आ** **गहि** आगच्छ ॥ ॥ १ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Well-armed (**Soma**) who does exhilarate (the gods) pour forth for us **male** offspring; come, **Indu**, favourably to our sacrifice.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Well-armed: or, having fine sacrificial implements, such as sphya, **kapāla**
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+By purifying yourself bring here an abundance of heroes, you yourself  becoming exhilarated, o you of good weapons.  
+Come just here, o drop.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Do thou, rejoicing, nobly-armed! pour upon us heroic strength:  
+     O Indu, come thou bitherward.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Läutere uns die Meisterschaft zu, dich berauschend, du Wohlbewaffneter! Komme doch fein, o Saft, hier her!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+O riesle Heldenkraft herbei, erfreut, o schön bewaffneter, O Indu, komme schnell hieher.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

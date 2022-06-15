@@ -1,0 +1,163 @@
++++
+title = "010"
+devataa = "इन्द्रः"
+RShiH = "वामदेवो गौतमः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+प्र꣡ ते पू꣡र्वाणि क꣡रणानि विप्र  
+आ꣡विद्वाँ꣡ आह विदु꣡षे क꣡रांसि  
+य꣡था-यथा वृ꣡ष्णियानि स्व꣡गूर्ता  
+अ꣡पांसि राजन् न꣡रिया꣡विवेषीः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र । ते॒ । पूर्वा॑णि । कर॑णानि । वि॒प्र॒ । आ॒ऽवि॒द्वान् । आ॒ह॒ । वि॒दुषे॑ । करां॑सि ।  
+यथा॑ऽयथा । वृष्ण्या॑नि । स्वऽगू॒र्ता । अपां॑सि । रा॒ज॒न् । नर्या॑ । अवि॑वेषीः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *te* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *pūrvāṇi* ← *pūrva*
+- \[noun\], accusative, plural, neuter
+- “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
+    pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
+    firstborn; easterly; instrumental.”
+------------------------------------------------------------------------
+- *karaṇāni* ← *karaṇa*
+- \[noun\], accusative, plural, neuter
+- “instrument; production; sense organ; cause; performance; karaṇa;
+    creation; tool; action; position; means; causing; transformation;
+    sensing; procedure; instrumental; elimination; applicability;
+    devising.”
+------------------------------------------------------------------------
+- *viprāvidvāṃ* ← *vipra*
+- \[noun\], vocative, singular, masculine
+- “eloquent; stimulated; divine.”
+------------------------------------------------------------------------
+- *viprāvidvāṃ* ← *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *viprāvidvāṃ* ← *vidvān* ← *vid*
+- \[verb noun\], nominative, singular
+- “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
+    specify; watch; recognize; detect; call.”
+------------------------------------------------------------------------
+- *āha* ← *ah*
+- \[verb\], singular, Perfect indicative
+- “describe; state; say; enumerate; call; name; teach; tell; deem;
+    explain; say; define.”
+------------------------------------------------------------------------
+- *viduṣe* ← *vid*
+- \[verb noun\], dative, singular
+- “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
+    specify; watch; recognize; detect; call.”
+------------------------------------------------------------------------
+- *karāṃsi* ← *karas*
+- \[noun\], accusative, plural, neuter
+- “deed.”
+------------------------------------------------------------------------
+- *yathā*
+- \[adverb\]
+- “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
+------------------------------------------------------------------------
+- *yathā*
+- \[adverb\]
+- “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
+------------------------------------------------------------------------
+- *vṛṣṇyāni* ← *vṛṣṇya*
+- \[noun\], accusative, plural, neuter
+- “manfulness; virility.”
+------------------------------------------------------------------------
+- *svagūrtāpāṃsi* ← *sva*
+- \[noun\]
+- “own(a); respective(a); akin(p); sva \[word\]; individual;
+    present(a); independent.”
+------------------------------------------------------------------------
+- *svagūrtāpāṃsi* ← *gūrtā* ← *gur*
+- \[verb noun\], accusative, plural
+------------------------------------------------------------------------
+- *svagūrtāpāṃsi* ← *apāṃsi* ← *apas*
+- \[noun\], accusative, plural, neuter
+- “work; deed.”
+------------------------------------------------------------------------
+- *rājan*
+- \[noun\], vocative, singular, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+------------------------------------------------------------------------
+- *naryāviveṣīḥ* ← *naryā* ← *narya*
+- \[noun\], accusative, plural, neuter
+- “manly; heroic; powerful; male; human.”
+------------------------------------------------------------------------
+- *naryāviveṣīḥ* ← *aviveṣīḥ* ← *viṣ*
+- \[verb\], singular, Plusquamperfect
+- “labor; act; perform.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **राजन्** राजमानेन्द्र **वृष्ण्यानि** वर्षणयोग्यानि **स्वगूर्ता** स्वगूर्तानि स्वयमुद्गीर्णानि **नर्या** नर्याणि मनुष्यहितानि **अपांसि** त्वत्संबन्धीनि कर्माणि **यथायथा** **अविवेषीः** व्याप्नोः । अकार्षीरिति यावत् । तथातथा हे **विप्र** प्राज्ञेन्द्र **विदुषे** विदुषः सर्वं जानतः **ते** त्वत्संबन्धीनि **पूर्वाणि** पुरातनानि **करणानि** कर्माणि **आविद्वान्** आ समन्ताज्जानन् वामदेवः **करांसि** त्वदीयानि कर्माणि **प्र** प्रकर्षेण **आह** ब्रवीति ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The sage, (**Vāmadeva**), knowing, royal **Indra**, the ancient deeds of you who are all wise, has proclaimed the actions, such as you ahve performed them, genitive rative of rain, self-evolved, and beneficial to man.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Knowing them, I speak forth your ancient deeds, o inspired one, to  (you) who know the deeds,  
+in just the way that you accomplished them, o king—the bullish and  manly labors welcomed for themselves.
+</details>
+
+<details><summary>+Griffith</summary>
+
+To the wise man, O Sage and Sovran Ruler, the man who knoweth all thine ancient exploits.  
+     Hath told these deeds of might as thou hast wrought them, great acts, spontaneous, and to man's advantage.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Deine früheren Taten hat ein genauer Kenner der Tatsachen dem Eingeweihten verkündet, du Redekundiger, genau so wie du die sich selbst lobenden Krafttaten, die mannhaften Werke vollbracht hast, o König.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+So hab', o Weiser, deine alten Thaten, die Werke kennend, ich gerühmt dem Kund'gen, So wie du, König, jede selbstwillkomm'ne und heldenstarke Mannesthat vollbracht hast.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Твои прежние деяния сведущий вдохновенный  
+Провозгласил знающему толк в подвигах  
+Так, как ты совершил, о царь, (эти)  
+Мужественные, сами себя прославившие, героические дела.
+</details>

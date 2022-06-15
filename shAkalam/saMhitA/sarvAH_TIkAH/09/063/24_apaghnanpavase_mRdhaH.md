@@ -1,0 +1,115 @@
++++
+title = "024"
+devataa = "पवमानः सोमः"
+RShiH = "निध्रुविः काश्यपः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अपघ्न꣡न् पवसे मृ꣡धः  
+क्रतुवि꣡त् सोम मत्सरः꣡  
+नुद꣡स्वा꣡देवयुं ज꣡नम्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒प॒ऽघ्नन् । प॒व॒से॒ । मृधः॑ । क्र॒तु॒ऽवित् । सो॒म॒ । म॒त्स॒रः ।  
+नु॒दस्व॑ । अदे॑वऽयुम् । जन॑म् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *apaghnan* ← *apahan* ← *√han*
+- \[verb noun\], nominative, singular
+- “remove; cure; ward off; repel.”
+------------------------------------------------------------------------
+- *pavase* ← *pū*
+- \[verb\], singular, Present indikative
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *mṛdhaḥ* ← *mṛdh*
+- \[noun\], accusative, plural, feminine
+- “enemy; adversary.”
+------------------------------------------------------------------------
+- *kratuvit* ← *kratu*
+- \[noun\], masculine
+- “yajña; decision; plan; deliberation; intelligence; Kratu; will;
+    kratu \[word\]; desire; resoluteness; ritual.”
+------------------------------------------------------------------------
+- *kratuvit* ← *vid*
+- \[noun\], nominative, singular, masculine
+- “conversant(p); aware(p); enlightened; understanding.”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *matsaraḥ* ← *matsara*
+- \[noun\], nominative, singular, masculine
+- “intoxicant; invigorating; hostile.”
+------------------------------------------------------------------------
+- *nudasvādevayuṃ* ← *nudasva* ← *nud*
+- \[verb\], singular, Present imperative
+- “push; propel; expel; push; move.”
+------------------------------------------------------------------------
+- *nudasvādevayuṃ* ← *adevayum* ← *adevayu*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *janam* ← *jana*
+- \[noun\], accusative, singular, masculine
+- “people; national; man; relative; jan; Janaloka; person; jana
+    \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **सोम** **मत्सरः** मदकरो यस्त्वं **मृधः** हिंसकान् शत्रून् **अपघ्नन्** मारयन् **क्रतुवित्** अस्मभ्यं प्रज्ञां प्रयच्छन् **पवसे** क्षरसि स त्वम् **अदेवयुम्** अदेवकामं **जनं** राक्षसवर्गं **नुदस्व** प्रेरय ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Soma**, you who are exhilarating flow defeating the enemies, bestowing knowledge (on us); drive off the people who love not the gods.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Smashing away the scorners, you purify yourself, finding the resolve,  exhilarating, o Soma.  
+Thrust from yourself the people who do not seek the gods.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Soma thou flowest chasing foes and bringing wisdom and delight:  
+     Drive off the folk who love not Gods.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Du läuterst dich, die Verächter vertreibend, Rat schaffend, o Soma, berauschend. Jage das gottlose Volk fort!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Den Feind verjagend rieselst du, berauschend, Soma, kräftigend, Verstoss die gottvergessne Schar.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

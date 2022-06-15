@@ -1,0 +1,186 @@
++++
+title = "007"
+devataa = "मरुतः"
+RShiH = "अगस्त्यो मैत्रावरुणिः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+प्र꣡ तं꣡ विवक्मि व꣡क्मियो य꣡ एषाम्  
+मरु꣡ताम् · महिमा꣡ सत्यो꣡ अ꣡स्ति  
+स꣡चा य꣡द् ईं वृ꣡षमणा अहंयु꣡  
+स्थिरा꣡ चिज् ज꣡नीर् व꣡हते सुभागाः꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र । तम् । वि॒व॒क्मि॒ । वक्म्यः॑ । यः । ए॒षा॒म् । म॒रुता॑म् । म॒हि॒मा । स॒त्यः । अस्ति॑ ।  
+सचा॑ । यत् । ई॒म् । वृष॑ऽमनाः । अ॒ह॒म्ऽयुः । स्थि॒रा । चि॒त् । जनीः॑ । वह॑ते । सु॒ऽभा॒गाः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *taṃ* ← *tam* ← *tad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *vivakmi* ← *vac*
+- \[verb\], singular, Present indikative
+- “say; describe; name; tell; address; enumerate; call; state; teach;
+    explain; say; declare; speak; define; declare; order; address;
+    recommend; answer; deem; recite; approve; proclaim; indicate;
+    determine; mention; designate.”
+------------------------------------------------------------------------
+- *vakmyo* ← *vakmyaḥ* ← *vakmya*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *ya* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *eṣām* ← *idam*
+- \[noun\], genitive, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *marutām* ← *marut*
+- \[noun\], genitive, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *mahimā* ← *mahiman*
+- \[noun\], nominative, singular, masculine
+- “greatness; power; mahiman.”
+------------------------------------------------------------------------
+- *satyo* ← *satyaḥ* ← *satya*
+- \[noun\], nominative, singular, masculine
+- “true; real; real; faithful; good.”
+------------------------------------------------------------------------
+- *asti* ← *as*
+- \[verb\], singular, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *sacā*
+- \[adverb\]
+- “jointly.”
+------------------------------------------------------------------------
+- *yad* ← *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *īṃ* ← *īm* ← *īṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *vṛṣamaṇā* ← *vṛṣamaṇāḥ* ← *vṛṣamaṇas*
+- \[noun\], nominative, singular, feminine
+------------------------------------------------------------------------
+- *ahaṃyu*
+- \[noun\], accusative, singular, neuter
+------------------------------------------------------------------------
+- *sthirā* ← *sthira*
+- \[noun\], nominative, singular, feminine
+- “firm; hard; lasting; calm; stable; immovable; firm; strong; sthira
+    \[word\]; vegetable; potent; steadfast; durable; firm; trustworthy;
+    trustworthy; diligent.”
+------------------------------------------------------------------------
+- *cij* ← *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *janīr* ← *janīḥ* ← *janī*
+- \[noun\], accusative, plural, feminine
+- “woman.”
+------------------------------------------------------------------------
+- *vahate* ← *vah*
+- \[verb\], singular, Present indikative
+- “transport; bring; marry; run; drive; vāhay; drive; run; pull;
+    nirvāpay; blow; transport; discharge; assume; remove.”
+------------------------------------------------------------------------
+- *subhāgāḥ* ← *subhāga*
+- \[noun\], accusative, plural, feminine
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**एषां** **मरुतां** **यः** **महिमा** महत्त्वातिशयः **वक्म्यः** सर्वैः स्तुत्यः **सत्यः** अबाध्योऽमोघः **अस्ति** **तं** **प्र** **विवक्मि** प्रवच्मि वर्णयामि । कथमेषां महिमा प्राप्त इति उच्यते । **यत्** यस्मात् **ईम्** एतेषां संबन्धिनी रोदसी **वृषमणाः** वृष्ट्यादिवर्षणमनस्का **अहंयुः** अहंकारवती । जगदुपकारकर्त्री न कदाचिदस्तीत्यहंकारः । **स्थिरा** **चित्** । चिदिति पूजायाम् । अत्यन्तमविनश्वरा ईदृशी देवी **सुभागाः** शोभनभाग्योपेताः **जनीः** जननशीला: प्रजाः वृष्ट्युत्पत्तीर्वा **वहते** धारयति । वृष्टौ सत्यां सर्वे प्राणिन उत्पद्यन्ते । यस्मादेवं तस्मात् महिमास्ति । तं महिमानं स्तौमीत्यर्थः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“I celebrate that greatness of the **Maruts**, which is true, and worthy of celebration, inasmuch as their high-minded,haughty, and ever-enduring (bride), supports a flourishing progeny.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+High-minded, haughty: The epithets, vṛṣamaṇā, ahaṃyuḥ, **sthirā** are feminine nine; the reference is to **Rodasī**, the wife of the Maruts, who, by contributing to the rain, assists in the sustenance of mankind
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+I proclaim what of theirs is worthy of proclamation, that the greatness  of the Maruts is truly present,  
+when in company with them, her mind set on the bulls, she, self-reliant  and firm, brings with her the well-portioned Wives (of the Gods).
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+For my tr. of vṛ́ṣamaṇas- see disc. of nṛmáṇas- in 5b.
+
+Geldner suggests that the greatness of the Maruts (pāda b) is demonstrated by the fact that Rodasī happily brings along their other lovers without jealousy. This seems like an interpretational male fantasy to me (though I realize that our poet is also male and therefore likely prone to the same fantasy). I have a much soberer and less entertaining interpr. based in ritual. In the plural, jánī- is regularly used of the wives of the gods, esp. in regard to their attendance at certain rituals. They are ordinarily brought by Tvaṣṭar, but here Rodasī, one of their own, as it were, seems to stand in as their chaperon and cicerone. In the Ṛtugraha offerings (the “sequential cups”), in which a fixed order of gods receives oblations, the offering to the Maruts is followed immediately by one to Tvaṣṭar along with the wives of the gods; see I.15.2-3, II.36.2-3 (II.36.3d tváṣṭar devébhir jánibhiḥ sumádgaṇaḥ). Thus, given the temporal proximity of the oblations made to them at this ritual, one might expect to find both the Maruts and the wives of the gods together on the ritual ground.
+
+I do not understand the force of cid in d, and in fact I think it’s been automatically imported from the passages containing sthirā́cid where the adj. is a neut. pl. and the point is that our hero (whoever it happens to be) has destroyed various items “even though they are firm/hard” (I.127.4, IV.7.10, VIII.20.1). In other words, I do not think it has a function here.
+
+
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/167/03-07.md">
+<details open><summary><h2>03-07 ...{Loading}...</h2></summary>
+
+Hoffmann (Injunk., 194-97) translates and comments on these verses.
+
+</details>
+</div>
+</details>
+
+<details><summary>+Griffith</summary>
+
+I will declare the greatness of these Maruts, their real greatness, worthy to be lauded,  
+     How, with them, she though firm, strong-minded, haughty, travels to women happy in their fortune.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Ich tue kund, was dieser Marut kündenswerte wahre Größe ist, daß die männlichgesinnte, selbstbewußte Rodasi, die so feste andere begünstigte Frauen auf der Fahrt mitnimmt.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Ich preise den, der Preis verdient, und welcher der wahrhaft grosse Herr ist dieser Maruts, Wenn auch die stolze, die den Helden hold ist, die starke, selbst die Götterfrauen herfährt.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Я провозглашаю то, что есть истинное величие  
+Этих Марутов (и) достойно провозглашения:  
+Что (Родаси,) мужественная мыслью, гордая,  
+Стойкая, увозит с (собой других) благословенных жен.
+</details>

@@ -1,0 +1,160 @@
++++
+title = "020"
+devataa = "विश्वेदेवाः"
+RShiH = "नाभानेदिष्ठो मानवः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अ꣡धासु मन्द्रो꣡ अरति꣡र् विभा꣡वा  
+अ꣡व स्यति द्विवर्तनि꣡र् वनेषा꣡ट्  
+ऊर्धुवा꣡ य꣡च् छ्र꣡यणिर् न꣡ शि꣡शुर् द꣡न्  
+मक्षू꣡ स्थिरं꣡ शेवृधं꣡ सूत माता꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अध॑ । आ॒सु॒ । म॒न्द्रः । अ॒र॒तिः । वि॒भाऽवा॑ । अव॑ । स्य॒ति॒ । द्वि॒ऽव॒र्त॒निः । व॒ने॒षाट् ।  
+ऊ॒र्ध्वा । यत् । श्रेणिः॑ । न । शिशुः॑ । दन् । म॒क्षु । स्थि॒रम् । शे॒ऽवृ॒धम् । सू॒त॒ । मा॒ता ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *adhāsu* ← *\_* ← *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *mandro* ← *mandraḥ* ← *mandra*
+- \[noun\], nominative, singular, masculine
+- “pleasant; eloquent; dulcet.”
+------------------------------------------------------------------------
+- *aratir* ← *aratiḥ* ← *arati*
+- \[noun\], nominative, singular, masculine
+- “charioteer.”
+------------------------------------------------------------------------
+- *vibhāvāva* ← *vibhāvā* ← *vibhāvan*
+- \[noun\], nominative, singular, masculine
+- “illuminating; shining.”
+------------------------------------------------------------------------
+- *vibhāvāva* ← *ava*
+- \[adverb\]
+- “down.”
+------------------------------------------------------------------------
+- *syati* ← *sā*
+- \[verb\], singular, Present indikative
+- “tie.”
+------------------------------------------------------------------------
+- *dvivartanir* ← *dvi*
+- \[noun\]
+- “two; dvi \[word\]; second.”
+------------------------------------------------------------------------
+- *dvivartanir* ← *vartaniḥ* ← *vartani*
+- \[noun\], nominative, singular, masculine
+- “path; East; way.”
+------------------------------------------------------------------------
+- *vaneṣāṭ* ← *vaneṣāh* ← *vaneṣah*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *ūrdhvā* ← *ūrdhva*
+- \[noun\], nominative, singular, feminine
+- “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
+    \[word\]; acclivitous; overturned; loud; eminent; high.”
+------------------------------------------------------------------------
+- *yacchreṇir* ← *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *yacchreṇir* ← *śreṇiḥ* ← *śreṇi*
+- \[noun\], nominative, singular, feminine
+- “club; line.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *śiśur* ← *śiśuḥ* ← *śiśu*
+- \[noun\], nominative, singular, masculine
+- “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
+------------------------------------------------------------------------
+- *dan* ← *\_* ← *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *makṣū*
+- \[adverb\]
+- “promptly; soon; quickly.”
+------------------------------------------------------------------------
+- *sthiraṃ* ← *sthiram* ← *sthira*
+- \[noun\], accusative, singular, masculine
+- “firm; hard; lasting; calm; stable; immovable; firm; strong; sthira
+    \[word\]; vegetable; potent; steadfast; durable; firm; trustworthy;
+    trustworthy; diligent.”
+------------------------------------------------------------------------
+- *śevṛdhaṃ* ← *śevṛdham* ← *śevṛdha*
+- \[noun\], accusative, singular, masculine
+- “precious.”
+------------------------------------------------------------------------
+- *sūta* ← *sū*
+- \[verb\], singular, Present injunctive
+- “give birth; urge; bestow; cause.”
+------------------------------------------------------------------------
+- *mātā* ← *mātṛ*
+- \[noun\], nominative, singular, feminine
+- “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
+    Citrullus colocynthis Schrad.; cow.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**अध** अथ **आसु** चतसृषु दिक्षु **मन्द्रः** मोदमानः **अरतिः** गन्ता **विभावा** दीप्तिमान् **द्विवर्तनिः** द्वयोः लोकयोः गन्ता **वनेषाट्** वने काष्ठानामभिभविताग्निः **अत्र** **स्यति** अवसन्नो भवति यागार्थम् । **यत्** च योऽग्निः **ऊर्ध्वा** उन्मुखा **श्रेणिर्न** **शिशुः** शंसनीयः सेनेव **मक्षु** शीघ्रं **दन्** शत्रून् दमयति तमिमं **स्थिरं** निश्चलं **शेवृधं** सुखस्य वर्धकं **माता** अरणिः **सूत** यज्ञे जनयामास ॥ ॥ २९ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Now among these (clans) the gladdening, far-radiant spoked wheel  [=Agni] unhitches, the one having a double track, victorious within  
+the wood.  
+When the child of the house is like an upright line, right away the  
+mother gives birth to the sturdy one, who grows strong with  
+kindness.
+</details>
+
+<details><summary>+Griffith</summary>
+
+So mid these tribes he rests, the friendly envoy, borne on two paths, refulgent Lord of fuel.  
+     When, like a line, the Babe springs up erectly, his Mother straight hath borne him strong to bless us.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Nun kehret bei diesen Clanen der beliebte Rosselenker, der Erglänzende, im Holz Siegreiche ein, der zwei Wege fährt. Wann das Hauskind wie eine aufrechte Linie ist, so gebiert alsbald die Mutter den starken Liebling.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Dann ruht bei diesen Weibern der erfreuende strahlenreiche, rastlos thätige [Agni], der auf zwei Bahnen wandert und im Holze waltet; wenn der Spross [Agni] wie eine senkrechte[475] Linie sich emporrichtet, dann sogleich gebiert ihn die Mutter als den starken Heil mehrenden.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

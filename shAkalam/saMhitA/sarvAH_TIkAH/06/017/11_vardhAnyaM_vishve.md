@@ -1,0 +1,179 @@
++++
+title = "011"
+devataa = "इन्द्रः"
+RShiH = "भरद्वाजो बार्हस्पत्यः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+व꣡र्धान् यं꣡ वि꣡श्वे मरु꣡तः सजो꣡षाः  
+प꣡चच् छत꣡म् महिषाँ꣡ इन्द्र तु꣡भ्यम्  
+पूषा꣡ वि꣡ष्णुस् त्री꣡णि स꣡रांसि धावन्  
+वृत्रह꣡णम् मदिर꣡म् अंशु꣡म् अस्मै
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वर्धा॑न् । यम् । विश्वे॑ । म॒रुतः॑ । स॒ऽजोषाः॑ । पच॑त् । श॒तम् । म॒हि॒षान् । इ॒न्द्र॒ । तुभ्य॑म् ।  
+पू॒षा । विष्णुः॑ । त्रीणि॑ । सरां॑सि । धा॒व॒न् । वृ॒त्र॒ऽहन॑म् । म॒दि॒रम् । अं॒शुम् । अ॒स्मै॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *vardhān* ← *vṛdh*
+- \[verb\], plural, Present conjunctive (subjunctive)
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+------------------------------------------------------------------------
+- *yaṃ* ← *yam* ← *yad*
+- \[noun\], accusative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *viśve* ← *viśva*
+- \[noun\], nominative, plural, masculine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *marutaḥ* ← *marut*
+- \[noun\], nominative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *sajoṣāḥ* ← *sajoṣas*
+- \[noun\], nominative, plural, masculine
+- “consentaneous; combined; associated; united.”
+------------------------------------------------------------------------
+- *pacacchatam* ← *pacat* ← *pac*
+- \[verb\], singular, Present injunctive
+- “heat; cook; digest; boil; ripen; fester; burn; boil; cauterize;
+    fry; cook; suppurate; inflame.”
+------------------------------------------------------------------------
+- *pacacchatam* ← *śatam* ← *śata*
+- \[noun\], accusative, singular, neuter
+- “hundred; one-hundredth; śata \[word\].”
+------------------------------------------------------------------------
+- *mahiṣāṃ* ← *mahiṣa*
+- \[noun\], accusative, plural, masculine
+- “Old World buffalo; Mahiṣa; Mahiṣa.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *tubhyam* ← *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *pūṣā* ← *pūṣan*
+- \[noun\], nominative, singular, masculine
+- “Pushan; pūṣan \[word\]; sun.”
+------------------------------------------------------------------------
+- *viṣṇus* ← *viṣṇuḥ* ← *viṣṇu*
+- \[noun\], nominative, singular, masculine
+- “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
+------------------------------------------------------------------------
+- *trīṇi* ← *tri*
+- \[noun\], accusative, plural, neuter
+- “three; tri/tisṛ \[word\].”
+------------------------------------------------------------------------
+- *sarāṃsi* ← *saras*
+- \[noun\], accusative, plural, neuter
+- “lake; saras \[word\]; pond.”
+------------------------------------------------------------------------
+- *dhāvan* ← *dhāv*
+- \[verb\], plural, Present injunctive
+- “run; run; wash.”
+------------------------------------------------------------------------
+- *vṛtrahaṇam* ← *vṛtra*
+- \[noun\], masculine
+- “Vṛtra; vṛtra \[word\].”
+------------------------------------------------------------------------
+- *vṛtrahaṇam* ← *haṇam* ← *han*
+- \[noun\], accusative, singular, masculine
+- “killing; curative; destroying; removing; māraka; stabbing.”
+------------------------------------------------------------------------
+- *madiram* ← *madira*
+- \[noun\], accusative, singular, masculine
+- “intoxicant.”
+------------------------------------------------------------------------
+- *aṃśum* ← *aṃśu*
+- \[noun\], accusative, singular, masculine
+- “sunbeam; beam; aṃśu \[word\]; thread.”
+------------------------------------------------------------------------
+- *asmai* ← *idam*
+- \[noun\], dative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**सजोषाः** सह प्रीयमाणाः **विश्वे** **मरुतः** सर्वे देवा हे **इन्द्र** **यं** त्वां **वर्धान्** स्तोत्रैर्वर्धयन्ति हे इन्द्र तस्मै **तुभ्यं** **पूषा** एतन्नामको देवः **विष्णुः** एतन्नामकश्च **शतं** शतसंख्याकान् **महिषान्** पुंपशून् **पचत्** पचेत् । अपि च **अस्मै** तुभ्यं **सरांसि** द्रोणकलशपूतभृदाधवनीयाख्यानि **त्रीणि** पात्राणि **अंशुं** सोमं **धावन्** अगच्छन् । सोमैः पात्राणि पूर्यन्त इत्यर्थः । कीदृशं सोमम् । **मदिरं** मदकरं **वृत्रहणं** वृत्राणां शत्रूणां हन्तारम् । अत्र वृत्रहञ्छब्देन सोमोऽभिधीयते । पीते हि सति सोमे वृत्राणि हन्तुमिन्द्रः समर्थो भवतीति यावत् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“For you, **Indra**, whom all the **Maruts**, alike plural ased, exalt, may **Pūṣan** and **Viṣṇu** dress for you a hundred buffaloes, and to him may the three streams flow with the inebriating, foe-destroying **Soma**.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Dress for you a hundred buffaloes: pacat śatam mahiṣān tubyam, may he cook for you a hundred **male** animals; pum-paśūn pacet; three streams: triṇi sarāṃsi = three cups or vessels called āhavanis, holding the soma which has been purified or filtered into the pitcher, the droṇakalaśa
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+(You) whom all the Maruts in concert will strengthen, for you, Indra,  he [=Agni] cooks a hundred buffaloes.  
+Pūṣan, Viṣṇu (and the others) rinse the exhilarating Vr̥tra-smashing  
+plant, three lakes (full), for him.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+For Agni as the subj. of pácat and cooker of the buffaloes, see V.29.7-8 adduced by Geldner and Oldenberg, ZDMG 55.321.
+
+In the 2nd hemistich we have only two expressed subjects, Pūṣan and Viṣṇu, but a plural verb dhāvan. The obvious solution, as seen by all, is to assume that other gods participated in this action.
+
+The question is -- what action? The verb is generally assigned to √dhāv ‘run’.
+
+Grassmann gives a transitive-causative value to this stem in this passage and this passage alone (Grassmann “jemandem [D.] etwas [A.] zuströmen”); Geldner follows this trans. interpr.: “… liessen für ihn den … (Soma)stengel … strömen,” and indeed interprets another passage as having this value (IX.54.2). However, since all other acc. with √dhāv are goals to an intrans. verb of motion, this contextual adjustment is unacceptable. Gotō (1st Klasse, 183 and n. 325) disputes both of Geldner’s trans. interpretations and fixes this passage by dividing the two pādas into two clauses. The first has an acc. goal sárāṃsi (“…eilen zu den drei [Soma]seen”), which seems reasonable (indeed cf. IX.54.2 ayáṃ sárāṃsi dhāvati), but he must supply a verb (‘gave’) out of thin air to make pāda d to work: “[sie geben] ihm den Vrtrat ̥ ötenden, berauschenden Somastengel.” The problem can be solved by assigning the verb to the other root √dhāv ‘rinse’, part of the standard vocabulary of soma preparation. VIII.2.25 (ā́dhāvata … sómaṃ vīrā́ya) presents an exactly parallel construction with soma as acc. obj. and the recipient, Indra, in the dat. Moreover, ‘rinse’ would add a complementary foodpreparation term to √pac ‘cook’ in pāda b, with both solid and liquid nourishment thus covered, whereas ‘run’ is a bit of a non sequitur. The only thing that gives me pause is X.113.2 tám asya víṣṇur mahimā́nam ójasā, aṃśúṃ dadhanvā́n …, where we have Viṣṇu, the aṃśú, and an undoubted 'run’ (to the separate root √dhan[v]). But this late passage does not seem to me sufficient to outweigh the fact that a ‘rinse’ interpr. here allows the hemistich to be a single syntactic unit and forestalls the need to supply a verb for d out of nowhere.
+</details>
+
+<details><summary>+Griffith</summary>
+
+He dressed a hundred buffaloes, O Indra, for thee whom all accordant Maruts strengthen.  
+     He, Pusan Visnu, poured forth three great vessels to him, the juice that cheers, that slaughters Vrtra.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Den alle Marut einmütig stärken wollten, Agni kochte dir, Indra, hundert Büffel. Pusan, Vishnu ließen für ihn den vritratötenden begeisternden Somastengel, drei Seen voll, strömen.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Dir, den vereint die Maruts alle stärken, dir briet, o Indra, Puschan hundert Büffel; Sie all und Vischnu strömten drei der Seen ihm zu, den Saft, der Rausch gibt, Feinde tödtet.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+(Ты,) кого все Маруты единодушные хотели усилить -  
+Тебе, о Индра, сварил (Агни) сотню буйволов.  
+Пушан (и) Вишну налили три озера:  
+Сому, убивающего Вритру, пьянящего – для него.
+</details>

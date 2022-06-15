@@ -1,0 +1,168 @@
++++
+title = "001"
+devataa = "अग्निः"
+RShiH = "दीर्घतमा औचथ्यः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+म꣡थीद् य꣡द् ईं · विष्टो꣡ मातरि꣡श्वा  
+हो꣡तारं विश्वा᳐꣡प्सुं विश्व꣡देव्यम्  
+नि꣡ यं꣡ दधु꣡र् मनुषि꣡यासु विक्षु꣡  
+सु꣡वर् ण꣡ चित्रं꣡ व꣡पुषे विभा꣡वम्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic on metrical evidence alone
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मथी॑त् । यत् । ई॒म् । वि॒ष्टः । मा॒त॒रिश्वा॑ । होता॑रम् । वि॒श्वऽअ॑प्सुम् । वि॒श्वऽदे॑व्यम् ।  
+नि । यम् । द॒धुः । म॒नु॒ष्या॑सु । वि॒क्षु । स्वः॑ । न । चि॒त्रम् । वपु॑षे । वि॒भाऽव॑म् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *mathīd* ← *mathīt* ← *math*
+- \[verb\], singular, Athematic is aor. (Ind.)
+- “churn; knead; trample; full; stir; crush.”
+------------------------------------------------------------------------
+- *yad* ← *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *īṃ* ← *īm* ← *īṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *viṣṭo* ← *viṣṭaḥ* ← *viṣ*
+- \[verb noun\], nominative, singular
+- “labor; act; perform.”
+------------------------------------------------------------------------
+- *mātariśvā* ← *mātariśvan*
+- \[noun\], nominative, singular, masculine
+- “wind; Mātariśvan; Vayu; vāta.”
+------------------------------------------------------------------------
+- *hotāraṃ* ← *hotāram* ← *hotṛ*
+- \[noun\], accusative, singular, masculine
+- “Hotṛ.”
+------------------------------------------------------------------------
+- *viśvāpsuṃ* ← *viśvāpsum* ← *viśvāpsu*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *viśvadevyam* ← *viśvadevya*
+- \[noun\], accusative, singular, masculine
+- “viśvadevya \[word\].”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *yaṃ* ← *yam* ← *yad*
+- \[noun\], accusative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *dadhur* ← *dadhuḥ* ← *dhā*
+- \[verb\], plural, Perfect indicative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *manuṣyāsu* ← *manuṣya*
+- \[noun\], locative, plural, feminine
+- “human.”
+------------------------------------------------------------------------
+- *vikṣu* ← *viś*
+- \[noun\], locative, plural
+- “people; tribe; Vaisya; national; viś; real property; Vaisya.”
+------------------------------------------------------------------------
+- *svar*
+- \[adverb\]
+- “sun; sky; sunlight.”
+------------------------------------------------------------------------
+- *ṇa* ← *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *citraṃ* ← *citram* ← *citra*
+- \[noun\], accusative, singular, masculine
+- “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
+    bright; bright; outstanding; agitated; aglitter(p); brilliant;
+    painted; obvious; patched; bizarre.”
+------------------------------------------------------------------------
+- *vapuṣe* ← *vapus*
+- \[noun\], dative, singular, neuter
+- “body; form; miracle; human body; beauty; look; spectacle; figure;
+    embodiment.”
+------------------------------------------------------------------------
+- *vibhāvam* ← *vibhāva*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**होतारं** देवानामाह्वातारं **विश्वाप्सुम्** । अप्स्विति रूपनाम । नानारूपं पार्थिववैद्युतजाठरादिभेदेन अहवनीयादिभेदेन वा । यद्वा । कालीकराल्यादिरूपेण ज्वालानां वैरूप्याद्विश्वरूपत्वम् । **विश्वदेव्यं** सर्वदेवयोग्यक्रियासाधुं **यदीं** यम् एनमग्निं **मातरिश्वा** वृष्ट्यादिनिर्मात्रन्तरिक्षश्वसनो वायुः **विष्टः** काष्ठेष्वन्तःप्रविष्टः सन् **मथीत्** अमथ्नात् प्रवर्धयदित्यर्थः । ‘ मथे विलोडने'। ‘ हृयन्तक्षण° ' इति वृद्धिप्रतिषेधः ॥ पुनः स एव विशेष्यते । **यम्** अग्निं **मनुष्यासु** मत्वा कर्म कुर्वतीषु **विक्षु** ऋत्विग्रूपासु प्रजासु पूर्वं **वपुषे** यज्ञशरीरसिद्धये **नि** **दधुः** धारयन्ति यजमानाः । मनुष्यशब्दो निरुक्ते बहुधा निरुक्तः-’ मनुष्याः कस्मान्मत्वा कर्माणि सीव्यन्ति मनस्यमानेन सृष्टा मनोरपस्यं मनुषो वा ' (निरु. ३. ७ ) इति । यद्वा । पूर्वं देवा मनुष्यासु मनोरपत्यभूतासु विक्षु प्रजासु प्राणिषु वपुषे स्वरूपाय यागादिस्वरूपप्रकाशाय शरीरधारणाय वा जाठराग्निरूपेण नि दधुः स्थापितवन्तः । तत्र दृष्टान्तः । **स्वर्णं** स्वरणं स्वीरणं वा। आदित्यमिव **चित्रं** चायनीयं **विभावं** विविधप्रकाशवन्तं यथा प्रकाशादिसाधनाय धारयन्ति तद्वत् । स्वशब्दं यास्कः एवं निरुवाच-  ' स्वरादित्यो भवति सु अरणः सु ईरणः स्वृतो रसान्त्स्वृतो भासं ज्योतिषां स्वृतो भासेति वा '  ( निरु. २. १४) इति । ईदृशं यं नि दधुस्तं मथीदिति पूर्वत्रान्वयः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The wind, penetrating (amidst the fuel), has excited (**Agni**), the invoker (of the gods), the multiform, the minister of all the deities, whom they have established amongst mortal worshippers for the accomplishment of sacrifice, like the wonderful and variously radiant sun.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Vapuṣe = yajñasiddhaye, for the fulfilment of the sacrifice, or of its object
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Since with effort Mātariśvan stole him, the Hotar bringing all goods,  belonging to all the gods,  
+whom they installed for wonder among the clans of the sons of Manu,  dazzling like the sun, far-radiant,
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+As in I.141.3 the homonymous roots √math ‘steal’ and ‘churn’ probably both contribute to this passage, with the former in mythological, the latter in ritual context.
+
+The identity of the second member of the hapax cmpd. viśvā́psu- here and in the apparently related viśvápsu- (3x) is disputed. The explanation now current (accepted by Mayrhofer, EWA s.v. psu- and reflected in Witzel Gotō’s tr.) is Thieme’s derivation (Gram.Kat. 539) from √bhas ‘breathe’, hence ‘ganz aus Atemhauch bestehend’. However, this sense does not fit the passages very well, and for these compounds I therefore prefer Renou’s derivation from vásu- (EVP 3.29, 12.107-8), despite Thieme’s criticisms and the phonological difficulties. Dīrghatamas seems to play with this word: note the scrambling in pāda d vápuṣe, and in his I.162.22 viśvápúṣam ‘all prospering’ seems another variant. Somewhat more tenuous, note that the companion qualifier here, viśvádevyam twice elsewhere appears with pūṣán-, once also in I.162., vs. 3 (also X..92.13).
+</details>
+
+<details><summary>+Griffith</summary>
+
+WHAT Matarisvan, piercing, formed by friction, Herald of all the Gods. in varied figure,  
+     Is he whom they have set mid human houses, gay-hued as light and shining forth for beauty.
+</details>
+
+<details><summary>+Oldenberg</summary>
+
+When Mâtarisvan … 1 had produced by attrition the Hotri, the … 2 who belongs to all gods, whom they have established among the human clans, shining like the sun, resplendent that (he might show his beautiful) shape.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Da ihn Matarisvan angestrengt ausgerieben hatte, den allfarbigen Hotri für alle Götter bestimmt, den sie unter die menschlichen Stämme eingesetzt haben, prächtig wie die Sonne zur Schönheit erstrahlend:
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Entfesselt rieb hervor ihn Matariçvan, den allgestalt'gen Priester aller Götter, Ihn, den sie setzten in der Menschen Häuser, der prächtig leuchtet, wie die helle Sonne.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Когда деятельный Матаришван похитил этого  
+Хотара всех цветов, принадлежащего всем богам,  
+Они поместили его среди людских племен,  
+Яркого, как солнце, сверкающего для красоты.
+</details>

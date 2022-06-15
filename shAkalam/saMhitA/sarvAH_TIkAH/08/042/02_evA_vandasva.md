@@ -1,0 +1,165 @@
++++
+title = "002"
+devataa = "वरुणः"
+RShiH = "नाभाकः काण्वः अर्चनाना वा"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+एवा꣡ वन्दस्व व꣡रुणम् बृह꣡न्तं  
+नमस्या꣡ धी꣡रम् अमृ꣡तस्य गोपा꣡म्  
+स꣡ नः श꣡र्म त्रिव꣡रूथं वि꣡ यंसत्  
+पातं꣡ नो द्यावापृथिवी उप꣡स्थे
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒व । व॒न्द॒स्व॒ । वरु॑णम् । बृ॒हन्त॑म् । न॒म॒स्य । धीर॑म् । अ॒मृत॑स्य । गो॒पाम् ।  
+सः । नः॒ । शर्म॑ । त्रि॒ऽवरू॑थम् । वि । यं॒स॒त् । पा॒तम् । नः॒ । द्या॒वा॒पृ॒थि॒वी॒ इति॑ । उ॒पऽस्थे॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *evā* ← *eva*
+- \[adverb\]
+- “indeed; merely; thus; even; surely; same; eva \[word\];
+    successively; immediately; in truth.”
+------------------------------------------------------------------------
+- *vandasva* ← *vand*
+- \[verb\], singular, Present imperative
+- “worship; laud.”
+------------------------------------------------------------------------
+- *varuṇam* ← *varuṇa*
+- \[noun\], accusative, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *bṛhantaṃ* ← *bṛhantam* ← *bṛhat*
+- \[noun\], accusative, singular, masculine
+- “large; great; loud; high; much(a); exalted; abundant; intensive;
+    strong; huge.”
+------------------------------------------------------------------------
+- *namasyā* ← *namasya* ← *namasy*
+- \[verb\], singular, Present imperative
+- “worship; respect.”
+------------------------------------------------------------------------
+- *dhīram* ← *dhīra*
+- \[noun\], accusative, singular, masculine
+- “expert; wise; intelligent; versed; adept.”
+------------------------------------------------------------------------
+- *amṛtasya* ← *amṛta*
+- \[noun\], genitive, singular, neuter
+- “amṛta; immortality; vatsanābha; ambrosia; mercury; medicine;
+    vighasa; calcium hydroxide.”
+------------------------------------------------------------------------
+- *gopām* ← *gopā*
+- \[noun\], accusative, singular, masculine
+- “herder; defender.”
+------------------------------------------------------------------------
+- *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *śarma* ← *śarman*
+- \[noun\], accusative, singular, neuter
+- “protection; protective covering; refuge; joy.”
+------------------------------------------------------------------------
+- *trivarūthaṃ* ← *tri*
+- \[noun\]
+- “three; tri/tisṛ \[word\].”
+------------------------------------------------------------------------
+- *trivarūthaṃ* ← *varūtham* ← *varūtha*
+- \[noun\], accusative, singular, neuter
+- “defense; protective covering.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *yaṃsat* ← *yam*
+- \[verb\], singular, Aorist conj./subj.
+- “concentrate; grant; restrain; cause; control; offer; cover; raise.”
+------------------------------------------------------------------------
+- *pātaṃ* ← *pātam* ← *pā*
+- \[verb\], dual, Present imperative
+- “protect; govern.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *dyāvāpṛthivī*
+- \[noun\], vocative, dual, feminine
+- “heaven and earth; dyāvāpṛthivī \[word\].”
+------------------------------------------------------------------------
+- *upasthe* ← *upastha*
+- \[noun\], locative, singular, neuter
+- “genitalia; lap; sexual desire; anus.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे स्तोतः **बृहन्तं** महान्तं **वरुणम्** **एव** एवं **वन्दस्व** स्तुहि । **अमृतस्य** **गोपां** गोपायितारं **धीरं** प्राज्ञं वरुणं **नमस्य** नमस्कुरु च । **सः** वरुणः **नः** अस्मभ्यं त्रिवरूथं त्रिस्थानं **शर्म** गृहं **वि** **यंसत्** प्रयच्छतु । **उपस्थे** उपस्थाने वर्तमानान् **नः** अस्मान् **द्यावापृथिवी** द्यावापृथिव्यौ **पातं** रक्षतम् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Glorify then the mighty **Varuṇa**; reverence the wise guardian of the ambrosia; may he bestow upon usa thrice sheltering habitation; may heaven and earth preserve us abiding in their proximity.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Thrice-shelteringhabitation: trivarūtha (RV. 6.46.9) = sheltering from cold, heat and rain; here, tristhānam
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Extol lofty Varuṇa thus: offer reverence to the insightful herdsman of the  immortal.  
+He will extend to us shelter providing threefold defense. Protect us in  your lap, o Heaven and Earth.
+</details>
+
+<details><summary>+Griffith</summary>
+
+So humbly worship Varuna the Mighty revere the wise Guard of World Immortal.  
+     May he vouchsafe us triply-barred protection. O Earth and Heaven, within your lap preserve us.
+</details>
+
+<details><summary>+Geldner</summary>
+
+So lobpreiset denn den hohen Varuna, mache dem weisen Hüter der Unsterblichkeit eine Verbeugung! Er breite über uns seinen dreifach schützenden Schirm aus. Behütet uns, Himmel und Erde, in eurem Schoße!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+So preise hoch nun Varuna, den grossen, bet' an den weisen Hort des Götterreiches, Er reiche Schutz, der dreifach uns beschirmet; o Erd' und Himmel hegt in eurem Schooss uns.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Прославляй так Варуну могучего,  
+Поклоняйся мудрому пастырю бессмертия!  
+Пусть дарует он нам защиту с тройным укрытием!  
+Сохраните нас, о Небо и Земля, в (своем) лоне!
+</details>

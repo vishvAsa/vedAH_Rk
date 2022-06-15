@@ -1,0 +1,156 @@
++++
+title = "005"
+devataa = "राजयक्ष्मघ्नं"
+RShiH = "यक्ष्मनाशनः प्राजापत्यः"
+ChandaH = "अनुष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+आ꣡हार्षं त्वा꣡विदं तुवा  
+पु꣡नर् आ꣡गाः पुनर्नव  
+स꣡र्वाङ्ग स꣡र्वं ते च꣡क्षुः  
+स꣡र्वम् आ꣡युश् च ते ऽविदम्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ । अ॒हा॒र्ष॒म् । त्वा॒ । अवि॑दम् । त्वा॒ । पुनः॑ । आ । अ॒गाः॒ । पु॒नः॒ऽन॒व॒ ।  
+सर्व॑ऽअङ्ग । सर्व॑म् । ते॒ । चक्षुः॑ । सर्व॑म् । आयुः॑ । च॒ । ते॒ । अ॒वि॒द॒म् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *āhārṣaṃ* ← *āhārṣam* ← *āhṛ* ← *√hṛ*
+- \[verb\], singular, Athematic s aor. (Ind.)
+- “extract; take; bring; take out; pick; sacrifice; collect; marry;
+    take; fell; eat; contract; wear.”
+------------------------------------------------------------------------
+- *tvāvidaṃ* ← *tvā* ← *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *tvāvidaṃ* ← *avidam* ← *vid*
+- \[verb\], singular, Thematic aorist (Ind.)
+- “find; detect; marry; get; think.”
+------------------------------------------------------------------------
+- *tvā* ← *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *punar*
+- \[adverb\]
+- “again; further; now; over and over; subsequently; repeatedly;
+    however; besides.”
+------------------------------------------------------------------------
+- *āgāḥ* ← *āgā* ← *√gā*
+- \[verb\], singular, Root aorist (Ind.)
+- “come; arrive.”
+------------------------------------------------------------------------
+- *punarnava*
+- \[noun\], vocative, singular, masculine
+- “renewed.”
+------------------------------------------------------------------------
+- *sarvāṅga* ← *sarva*
+- \[noun\]
+- “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
+    entire; sāṃnipātika; manifold; complete; all the(a); different;
+    overall.”
+------------------------------------------------------------------------
+- *sarvāṅga* ← *aṅga*
+- \[noun\], vocative, singular, masculine
+- “body part; body; part; limb; extremity; Vedāṅga; section; root;
+    army unit; aṅga \[word\]; subsection; aṅgamantra; part; body;
+    ingredient.”
+------------------------------------------------------------------------
+- *sarvaṃ* ← *sarvam* ← *sarva*
+- \[noun\], accusative, singular, neuter
+- “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
+    entire; sāṃnipātika; manifold; complete; all the(a); different;
+    overall.”
+------------------------------------------------------------------------
+- *te* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *cakṣuḥ* ← *cakṣus*
+- \[noun\], accusative, singular, neuter
+- “eye; look; visual perception; cakṣus \[word\]; sight.”
+------------------------------------------------------------------------
+- *sarvam* ← *sarva*
+- \[noun\], accusative, singular, neuter
+- “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
+    entire; sāṃnipātika; manifold; complete; all the(a); different;
+    overall.”
+------------------------------------------------------------------------
+- *āyuś* ← *āyuḥ* ← *āyus*
+- \[noun\], accusative, singular, neuter
+- “life; longevity; āyus; life; āyus \[word\]; Āyus.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *te* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *'vidam* ← *avidam* ← *vid*
+- \[verb\], singular, Thematic aorist (Ind.)
+- “find; detect; marry; get; think.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे व्याधिगृहीत **त्वा** त्वाम् **आहार्षं** मृत्योः सकाशादाहृतवानस्मि । अत एव **त्वा** त्वाम् **अविदम्** अलप्सि । है **पुनर्नव** पुनरभिनव **पुनरागाः** पुनरस्मत्समीपमागच्छ । हे **सर्वाङ्ग** सर्वैरविकलैरङैरुपेत **ते** तव **सर्वं** **चक्षुः** । उपलक्षणमेतत् । इन्द्रियवर्गं सकलम् **अविदं** लब्धवानस्मि । **ते** तव **आयुः** जीवनं **च** **सर्वं** संपूर्णमविदम् ॥ ॥ १९ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+I have brought you here; I have found you. You have come here again, o  you who are new again.  
+O you with hale limbs, I have found your eye hale and your  
+lifetime whole.
+</details>
+
+<details><summary>+Griffith</summary>
+
+So have I found and rescued thee thou hast returned with youth renewed.  
+     Whole in thy members! I have found thy sight and all thy life for thee.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Ich habe dich geholt, ich habe dich gefunden; du bist wiedergekommen, du Neugeborener. Heilen Körpers du, dein Auge habe ich heil und dein Leben habe ich heil gefunden.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Gewonnen bist du und erlöst, zurückgekommen frisch erneut; Gesund ist Auge dir und Leib, gefunden volles Alter dir.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Я забрал тебя, я нашел тебя!  
+Ты снова вернулся, о обновленный!  
+С невредимыми членами, невредимо твое зрение,  
+Невредимым я нашел и твой срок жизни!
+</details>

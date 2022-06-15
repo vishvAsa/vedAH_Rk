@@ -1,0 +1,160 @@
++++
+title = "011"
+devataa = "अग्नी रक्षोहा"
+RShiH = "पायुः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+त्रि꣡र् यातुधा꣡नः प्र꣡सितिं त एतु  
+ऋतं꣡ यो꣡ अग्ने अ꣡नृतेन ह꣡न्ति  
+त꣡म् अर्चि꣡षा स्फूर्ज꣡यञ् जातवेदः  
+समक्ष꣡म् एनं गृणते꣡ नि꣡ वृङ्धि
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+popular  
+popular  
+popular  
+popular
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्रिः । या॒तु॒ऽधानः॑ । प्रऽसि॑तिम् । ते॒ । ए॒तु॒ । ऋ॒तम् । यः । अ॒ग्ने॒ । अनृ॑तेन । हन्ति॑ ।  
+तम् । अ॒र्चिषा॑ । स्फू॒र्जय॑न् । जा॒त॒ऽवे॒दः॒ । स॒म्ऽअ॒क्षम् । ए॒न॒म् । गृ॒ण॒ते । नि । वृ॒ङ्धि॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *trir* ← *tris*
+- \[adverb\]
+- “thrice; tris \[word\].”
+------------------------------------------------------------------------
+- *yātudhānaḥ* ← *yātudhāna*
+- \[noun\], nominative, singular, masculine
+- “sorcerer; Rākṣasa; Yātudhāna; rākṣasavaktravant.”
+------------------------------------------------------------------------
+- *prasitiṃ* ← *prasitim* ← *prasiti*
+- \[noun\], accusative, singular, feminine
+- “binding.”
+------------------------------------------------------------------------
+- *ta* ← *te* ← *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *etv* ← *etu* ← *i*
+- \[verb\], singular, Present imperative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *ṛtaṃ* ← *ṛtam* ← *ṛta*
+- \[noun\], accusative, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *yo* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *anṛtena* ← *anṛta*
+- \[noun\], instrumental, singular, neuter
+- “falsehood; lying; lie; cheat.”
+------------------------------------------------------------------------
+- *hanti* ← *han*
+- \[verb\], singular, Present indikative
+- “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
+    paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
+    affect; strike; hammer; love; obstruct; shoot.”
+------------------------------------------------------------------------
+- *tam* ← *tad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *arciṣā* ← *arcis*
+- \[noun\], instrumental, singular, neuter
+- “fire; flare; light; beam; gleam; shininess.”
+------------------------------------------------------------------------
+- *sphūrjayañjātavedaḥ* ← *sphūrjayan* ← *sphūrjay* ← *√sphūrj*
+- \[verb noun\], nominative, singular
+- “roar.”
+------------------------------------------------------------------------
+- *sphūrjayañjātavedaḥ* ← *jātavedaḥ* ← *jātavedas*
+- \[noun\], vocative, singular, masculine
+- “Agni; fire.”
+------------------------------------------------------------------------
+- *samakṣam* ← *samakṣa*
+- \[noun\], accusative, singular, masculine
+- “present.”
+------------------------------------------------------------------------
+- *enaṃ* ← *enam* ← *enad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.).”
+------------------------------------------------------------------------
+- *gṛṇate* ← *gṛ*
+- \[verb noun\], dative, singular
+- “praise.”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *vṛṅdhi* ← *vṛj*
+- \[verb\], singular, Present imperative
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **जातवेदः** जातप्रज्ञ **अग्ने** **ते** त्वदीयं **प्रसितिं** ज्वालाप्रबन्धनं **यातुधानः** राक्षसः **त्रिः** त्रीन्वारान् **एतु** गच्छतु । त्रिर्बद्धं यत्तत्सुबद्धं भवति हि। किंच **यः** यातुधान: राक्षसः **ऋतं** सत्यम् **अनृतेन** असत्येन **हन्ति** हिनस्ति **तं** यातुधानम् **अर्चिषा** स्वकीयेन तेजसा **स्फूर्जयन्** निष्पिषन् । स्फूर्जतिरत्र निष्पेषणकर्मा। **एनं** यातुधानं **गृणते** स्तोत्रं कुर्वते मह्यं **समक्षं** प्रत्यक्षं **नि** **वृङ्धि**। निगृह्य वर्जय वृकेण ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Agni** **Jātavedas**, let the **Yātudhāna**, who defeats your truth with falsehood, come thrice into the”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Three times let the sorcerer who smites truth with untruth meet your  onslaught, o Agni.  
+Sizzling him with your flame, o Jātavedas, wrench him down for the  singer before his very eyes.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Thrice, Agni, let thy noose surround the demon who with his falsehood injures Holy Order.  
+     Loud roaring with thy flame, O Jatavedas, crush him and cast him down before the singer.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Dreimal soll der Zauberer dir ins Garn gehen, der der Wahrheit mit der Lüge ins Gesicht schlägt, o Agni! Strecke ihn, o Jatavedas, knatternd mit deiner Flamme nieder für den Sänger vor dessen Augen!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Den Zaubrer bringe dreimal in dein Fangnetz, der den Gerechten schlägt durch Unrecht, Agni; Den schmettre nieder vor des Sängers Augen, o Wesenkenner, mit der Flamme prasselnd.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Пусть колдун трижды попадет к тебе в ловушку,  
+Тот, кто побивает закон беззаконием, о Агни!  
+Треща пламенем, о Джатаведас, повергни  
+Его ниц пред взорами воспевателя!
+</details>

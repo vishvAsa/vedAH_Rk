@@ -1,0 +1,182 @@
++++
+title = "006"
+devataa = "उषाः"
+RShiH = "वामदेवो गौतमः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+कु꣡व स्विद् आसां कतमा꣡ पुराणी꣡  
+य꣡या विधा꣡ना विदधु꣡र् ऋभूणा꣡म्  
+शु꣡भं य꣡च् छुभ्रा꣡ उष꣡सश् च꣡रन्ति  
+न꣡ वि꣡ ज्ञायन्ते सदृ꣡शीर् अजुर्याः꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+क्व॑ । स्वित् । आ॒सा॒म् । क॒त॒मा । पु॒रा॒णी । यया॑ । वि॒ऽधाना॑ । वि॒ऽद॒धुः । ऋ॒भू॒णाम् ।  
+शुभ॑म् । यत् । शु॒भ्राः । उ॒षसः॑ । चर॑न्ति । न । वि । ज्ञा॒य॒न्ते॒ । स॒ऽदृशीः॑ । अ॒जु॒र्याः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *kva*
+- \[adverb\]
+- “wherein; how; kva \[word\].”
+------------------------------------------------------------------------
+- *svid*
+- \[adverb\]
+- “svid \[word\].”
+------------------------------------------------------------------------
+- *āsāṃ* ← *āsām* ← *idam*
+- \[noun\], genitive, plural, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *katamā* ← *katama*
+- \[noun\], nominative, singular, feminine
+- “katama \[word\]; who.”
+------------------------------------------------------------------------
+- *purāṇī* ← *purāṇa*
+- \[noun\], nominative, singular, feminine
+- “age-old; stale; old; old; traditional; aged.”
+------------------------------------------------------------------------
+- *yayā* ← *yad*
+- \[noun\], instrumental, singular, feminine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *vidhānā* ← *vidhāna*
+- \[noun\], accusative, plural, neuter
+- “method; treatment; preparation; ritual; rule; formulation; means;
+    manner; administration; performance; act.”
+------------------------------------------------------------------------
+- *vidadhur* ← *vidadhuḥ* ← *vidhā* ← *√dhā*
+- \[verb\], plural, Perfect indicative
+- “produce; perform; administer; cause; shape; use; make; dig;
+    describe; construct; teach; bore; fill into; prepare; ignite;
+    regulate; add; arrange; create; dress; inject; process; think of;
+    order; name; breed; raise; write; produce; grant; appoint; do; put
+    on.”
+------------------------------------------------------------------------
+- *ṛbhūṇām* ← *ṛbhu*
+- \[noun\], genitive, plural, masculine
+- “Ribhus.”
+------------------------------------------------------------------------
+- *śubhaṃ* ← *śubham* ← *śubha*
+- \[noun\], accusative, singular, neuter
+- “good; beautiful; auspicious; good; suitable; pleasant; righteous;
+    beautiful; wholesome; beneficial.”
+------------------------------------------------------------------------
+- *yacchubhrā* ← *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *yacchubhrā* ← *śubhrāḥ* ← *śubhra*
+- \[noun\], nominative, plural, feminine
+- “white; beautiful; attractive; śubhra \[word\]; light.”
+------------------------------------------------------------------------
+- *uṣasaś* ← *uṣasaḥ* ← *uṣas*
+- \[noun\], nominative, plural, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *caranti* ← *car*
+- \[verb\], plural, Present indikative
+- “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
+    observe; enter (a state); observe; cause; crop; behave; practice;
+    heed; process; administer.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *jñāyante* ← *jñā*
+- \[verb\], plural, Indikativ Pr￤s. Passiv
+- “know; diagnose; perceive; know; come to know; notice; determine;
+    think of; find; learn; perceive; identify; recognize; understand;
+    know; learn; ascertain; detect; deem.”
+------------------------------------------------------------------------
+- *sadṛśīr* ← *sadṛśīḥ* ← *sadṛśa*
+- \[noun\], nominative, plural, feminine
+- “like; alike(p); appropriate; sadṛśa \[word\]; comparable;
+    resembling.”
+------------------------------------------------------------------------
+- *ajuryāḥ* ← *ajurya*
+- \[noun\], nominative, plural, feminine
+- “ageless; amaranthine.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**आसाम्** उषसां मध्ये **क्व** **स्वित्** अभूदद्य **कतमा** **पुराणी** पुरातनी । **यया** **ऋभूणां** संबन्धीनि **विधाना** चमसादिनिर्माणानि **विदधुः** अकुर्वन् ऋभवः। **यत्** याश्च **उषसः** **शुभ्राः** दीप्ताः **शुभं** **चरन्ति** शोभां दीप्तिं कुर्वन्ति । ताः **अजुर्याः** अशीर्णा नित्यनूतनाः ”न **वि** **ज्ञायन्ते** । यतः **सदृशीः** सदृश्यः सर्वेष्वपि दिवसेष्वेकरूपा अतोऽद्यतन्य एता एताः पुराण्य इति न ज्ञायन्ते । उषासादृश्यं  सदृशीरद्य सदृशीरिदु श्वः' (ऋ. सं. १. १२३. ८) इत्यत्र प्रतिपादितम् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Where is that ancient one of those (Dawns), through whom the works of the **Ṛbhus** were accomplished? For as the bright Dawns happily proceed, they are not distinguished, being alike and undecaying.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Where is she, which one of them is she, the age-old one along  with whom they distributed the distributions of the  
+R̥bhus?  
+(I ask because) when the beautiful Dawns proceed in beauty, they  cannot be distinguished—the unaging ones having the same  
+appearance.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+katamā́‘which one?’ echoes purutámam ‘the latest of many’ in 1a. Note that again when a singular dawn is referred to, the word uṣás- is not used.
+
+I do not understand what the Ṛbhus are doing here, nor do I know the exact sense of ví √dhā in the etymological figure vidhā́nā vidadhúḥ. A similar etym. figure is found in nearby IV.55.2 vidhātā́ro ví … dadhuḥ, where I tr. ‘distribute’, which I’ve imported here. However, I am now inclined to think that this has to do with the creative division of an undifferentiated mass (such as the Ṛbhus performed in I.161.2-3 also cited by Geldner) and with the regulation of these divisions, possibly of divisions of time. Such “division” contrasts sharply with the lack of distinction among the dawns stated in cd. It is not surprising that a single (unnamed) dawn (pāda a) would be associated with division and distinction (pāda b), as opposed to the plural dawns in the rest of the hymn. For other interpr. of pāda b see the various tr. and comm. ### 07
+The opening tā́, esp. in its emphatic form tā́ghā tā́(ḥ) is echoed by the openings of 8 (tā́ā́…) and 9 (tā́(ḥ)).
+
+At the same time sadyáḥ makes an interior ring with 5b around the omphalos vs. What's striking about this little ring is that, though the sadyáḥ in 5 and 7 match verbally, the word is in a different temporal setting in the two vss: present in 5 and remote past in 7, and in 6 those two temporal settings are dissolved or confused (as also in a different way in 4).
+
+The cmpd. ṛtájātasatya- is unusual not only in having 3 members (quite rare in the RV) but also for containing both ṛtá- and satyá-. Renou suggests that -satyafunctions as a sort of “particule intensive.” Given how charged both words are in the RV, I think this unlikely, although the rendering in the published translation (“who were really born of truth”) is close to Renou’s intensive particle interpr; cf. his own tr.
+
+(“véritablement nées de l’Ordre”). I think the cmpd requires a more literal and weighty rendering -- “whose reality was born from truth” (which I would substitute for what is found in the published translation) -- meaning that the dawns we see and who come daily to our world and our sacrifice, who are really here, arose from the true cosmic patterns that govern the universe of time and space.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Which among these is eldest, and where is she through whom they fixed the Rbhus' regulations?  
+     What time the splendid Dawns go forth for splendour, they are not known aparto alike, unwasting.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Wo und die wievielte unter ihnen ist wohl jene vergangene, unter der sie die Aufträge für die Ribhu´s bestimmten? Wenn die prangenden Usas´ prunkend ausfahren, so sind sie nicht zu unterscheiden, die gleichaussehenden, alterlosen.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Wo, die wievielste ihrer ist die alte, durch die die Schar der Ribhu's sie vertheilten? Wenn schön zum Schmucke gehn die Morgenröthen, erscheinen gleich dem Blick die ewig jungen.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Где (и) которая из них (та) древняя,  
+Благодаря кому они установили установления для Рибху?  
+Так как блистательные зори шествуют с блеском,  
+Они не различаются, одинаково выглядящие, нестареющие.
+</details>

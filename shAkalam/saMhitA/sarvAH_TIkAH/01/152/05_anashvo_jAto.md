@@ -1,0 +1,177 @@
++++
+title = "005"
+devataa = "मित्रावरुणौ"
+RShiH = "दीर्घतमा औचथ्यः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अनश्वो꣡ जातो꣡ अनभीशु꣡र् अ꣡र्वा  
+क꣡निक्रदत् पतयद् ऊर्ध्व꣡सानुः  
+अचि꣡त्तम् ब्र꣡ह्म जुजुषुर् यु꣡वानः  
+प्र꣡ मित्रे꣡ धा꣡म व꣡रुणे गृण꣡न्तः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒न॒श्वः । जा॒तः । अ॒न॒भी॒शुः । अर्वा॑ । कनि॑क्रदत् । प॒त॒य॒त् । ऊ॒र्ध्वऽसा॑नुः ।  
+अ॒चित्त॑म् । ब्रह्म॑ । जु॒जु॒षुः॒ । युवा॑नः । प्र । मि॒त्रे । धाम॑ । वरु॑णे । गृ॒णन्तः॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *anaśvo* ← *an*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *anaśvo* ← *aśvaḥ* ← *aśva*
+- \[noun\], nominative, singular, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *jāto* ← *jātaḥ* ← *jan*
+- \[verb noun\], nominative, singular
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+------------------------------------------------------------------------
+- *anabhīśur* ← *an*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *anabhīśur* ← *abhīśuḥ* ← *abhīśu*
+- \[noun\], nominative, singular, masculine
+- “beam; rein.”
+------------------------------------------------------------------------
+- *arvā* ← *arvan*
+- \[noun\], nominative, singular, masculine
+- “horse; arvan \[word\]; racehorse.”
+------------------------------------------------------------------------
+- *kanikradat* ← *kanikrad* ← *√krand*
+- \[verb noun\], nominative, singular
+- “roar; neigh.”
+------------------------------------------------------------------------
+- *patayad* ← *patayat* ← *patay* ← *√pat*
+- \[verb\], singular, Present injunctive
+- “fly.”
+------------------------------------------------------------------------
+- *ūrdhvasānuḥ* ← *ūrdhva*
+- \[noun\]
+- “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
+    \[word\]; acclivitous; overturned; loud; eminent; high.”
+------------------------------------------------------------------------
+- *ūrdhvasānuḥ* ← *sānuḥ* ← *sānu*
+- \[noun\], nominative, singular, masculine
+- “tableland; ridge; peak; back; ridge; guru.”
+------------------------------------------------------------------------
+- *acittam* ← *acitta*
+- \[noun\], accusative, singular, neuter
+- “unexpected.”
+------------------------------------------------------------------------
+- *brahma* ← *brahman*
+- \[noun\], accusative, singular, neuter
+- “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
+    emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
+------------------------------------------------------------------------
+- *jujuṣur* ← *jujuṣuḥ* ← *juṣ*
+- \[verb\], plural, Perfect indicative
+- “enjoy; endow; possess; frequent; accompany; induce; consume;
+    approve; affect; attend; befit; blend; contract.”
+------------------------------------------------------------------------
+- *yuvānaḥ* ← *yuvan*
+- \[noun\], nominative, plural, masculine
+- “young; youthful.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *mitre* ← *mitra*
+- \[noun\], locative, singular, masculine
+- “friend; Mitra; mitra \[word\]; sun; ally.”
+------------------------------------------------------------------------
+- *dhāma* ← *dhāman*
+- \[noun\], accusative, singular, neuter
+- “domain; dwelling; law; appearance; light; race; agreement; color;
+    location.”
+------------------------------------------------------------------------
+- *varuṇe* ← *varuṇa*
+- \[noun\], locative, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *gṛṇantaḥ* ← *gṛ*
+- \[verb noun\], nominative, plural
+- “praise.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+स एवादित्यः **अनश्वः** यद्यपि शीघ्रगाम्यश्वरहितः तथा **अनभीशुः** आलम्बनाधारप्रग्रहस्थानीयरश्मिरहितः तथापि **अर्वा** **जातः** शीघ्रगमनवान् संपन्नः । तथाविधोऽयमादित्यः **कनिक्रदत्** अत्यर्थं क्रन्दयन् । क्रन्देर्यङ्लुगन्तात् शतरि दाधर्त्यादौ निपात्यते ॥ **ऊर्ध्वसानुः** उपर्युपरि समुच्छ्रयणः सन् **पतयत्** गच्छति । **अचित्तं** चित्ताविषयं **ब्रह्म** परिवृढम् उक्तरूपं कर्म **मित्रे** **वरुणे** च उभयोः **धाम** तेजःस्थानं **युवानः** मिश्रयन्तः तयोर्धाम्नि आरोपयन्तः तथा **प्र** **गृणन्तः** युवयोः तेजःप्रभवमिति प्रकर्षेण स्तुवन्तः **जुजुषुः** सेवन्ते । मनुष्याः सूर्यस्य निरालम्बान्तरिक्षसंचारात्मकं कर्म वरुणमित्रयोरधीनम् इति स्तुवन्तीत्यर्थः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Without steeds, without stay, (he is nevertheless) borne swift-moving and loud-sounding; he travels, ascending higher and higher, connecting the inconceivable mystery (of sacred rites) with the radiance (abiding) in **Mitra** and **Varuṇa**, (which men), eulogizing, glorify.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Connecting the inconceivable mystery: acittambrahma **yuvānaḥ**: acittam = **citta** aviṣayam,not an object of the mind or thought;
+
+**Brahma** = parivṛḍham uktarūpam **karma**, the act of which the nature is declared very great
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Born without a horse, a steed without a rein, ever whinnying he [=Sun]  flies with arched back.  
+(Though it cannot be) comprehended, the youths [=Maruts? Aṅgirases?  gods?] enjoy the formulation, as in (the presence of) Mitra and Varuṇa  they hymn their ordinance.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+The first hemistich is taken universally as a reference to the Sun, and my published translation follows this understanding. However, this identification may not be very strong: although, as Geldner says, the Sun is sometimes imagined as a horse, sometimes as a chariot, it can scarcely be thought to whinny (kánikradat) -- this detail must simply be attached because of the horse image -- and the ‘high’ or ‘arched’ back (ūrdhvásānu-) may be appropriate to the path of the sun across the sky but does not fit the round shape of the actual heavenly body. Nonetheless, I don’t have a better idea.
+
+In the published translation the rendering of acíttam in c should be “(Though it) cannot be comprehended …” not “(Though it cannot be) comprehended …,” since the negation is plainly there. This should be corrected also in the first line of the introduction. I do not understand the unusual accent (rather than expected *ácitta-). AiG II.1.226 cites a few other examples (e.g., amṛ́ta-) but gives no explanation.
+
+In the published translation “their ordinance” does not sufficiently make clear that it’s the ordinance of Mitra and Varuṇa (as in 4d mitrásya váruṇasya dhā́ma), not that of the youths.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Unbridled Courser, born but not of horses, neighing he flieth on with back uplifted.  
+     The youthful love mystery thought-surpassing, praising in Mitra-Varuna, its glory.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Ohne Roß geboren, ohne Zügel, selbst ein Renner fliegt er wiehernd mit aufgerichtetem Rücken. Die Jungen freuen sich über das unbegriffene Geheimwort, indem sie das Gebilde vor Mitra und Varuna loben.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Geboren ohne Ross und Zügel, wiehernd fliegt auf der Renner mit erhobnem Rücken; Das kaum verstandne Lied gefällt der Jugend, die Varuna's und Mitra's Satzung preiset.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Рожденный не как конь, без поводьев, (однако) стремительный,  
+С громким ржанием он летит спиною кверху.  
+Молодые обрадовались непонятому священному слову,  
+Воспевая перед Митрой и Варуной (их) установление.
+</details>

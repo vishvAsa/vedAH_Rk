@@ -1,0 +1,172 @@
++++
+title = "009"
+devataa = "इन्द्रावरुणौ"
+RShiH = "वामदेवो गौतमः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+इमा꣡ इ꣡न्द्रं व꣡रुणम् मे मनीषा꣡  
+अ꣡ग्मन्न् उ꣡प द्र꣡विणम् इछ꣡मानाः  
+उ꣡पेम् अस्थुर् जोष्टा꣡र इव व꣡स्वो  
+रघ्वी꣡र् इव श्र꣡वसो भि꣡क्षमाणाः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒माः । इन्द्र॑म् । वरु॑णम् । मे॒ । म॒नी॒षाः । अग्म॑न् । उप॑ । द्रवि॑णम् । इ॒च्छमा॑नाः ।  
+उप॑ । ई॒म् । अ॒स्थुः॒ । जो॒ष्टारः॑ऽइव । वस्वः॑ । र॒घ्वीःऽइ॑व । श्रव॑सः । भिक्ष॑माणाः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *imā* ← *imāḥ* ← *idam*
+- \[noun\], nominative, plural, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *indraṃ* ← *indram* ← *indra*
+- \[noun\], accusative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *varuṇam* ← *varuṇa*
+- \[noun\], accusative, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *me* ← *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *manīṣā* ← *manīṣāḥ* ← *manīṣā*
+- \[noun\], nominative, plural, feminine
+- “hymn; inspiration; idea; thinking; wish; consideration;
+    intelligence.”
+------------------------------------------------------------------------
+- *agmann* ← *agman* ← *gam*
+- \[verb\], plural, Root aorist (Ind.)
+- “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
+    leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
+    get; come; die; drain; spread; transform; happen; discharge; ride;
+    to be located; run; detect; refer; go; shall; drive.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *draviṇam* ← *draviṇa*
+- \[noun\], accusative, singular, neuter
+- “wealth; property; money; jewel.”
+------------------------------------------------------------------------
+- *icchamānāḥ* ← *iṣ*
+- \[verb noun\], nominative, plural
+- “desire; recommend; approve; seek; call; search; try; prefer; love;
+    commend; assent; permit; choose.”
+------------------------------------------------------------------------
+- *upem* ← *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *upem* ← *īm* ← *īṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *asthur* ← *asthuḥ* ← *sthā*
+- \[verb\], plural, Root aorist (Ind.)
+- “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
+    stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
+    last; dwell; lie; stand; stop.”
+------------------------------------------------------------------------
+- *joṣṭāra* ← *joṣṭāraḥ* ← *joṣṭṛ*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *vasvo* ← *vasvaḥ* ← *vasu*
+- \[noun\], genitive, singular, neuter
+- “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
+------------------------------------------------------------------------
+- *raghvīr* ← *raghvīḥ* ← *raghu*
+- \[noun\], nominative, plural, feminine
+- “low; fast.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *śravaso* ← *śravasaḥ* ← *śravas*
+- \[noun\], genitive, singular, neuter
+- “fame; glory; ear.”
+------------------------------------------------------------------------
+- *bhikṣamāṇāḥ* ← *bhikṣ* ← *√bhaj*
+- \[verb noun\], nominative, plural
+- “beg; beg.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**इन्द्रं** **वरुणं** च **मे** मम **मनीषाः** स्तुतयः" **द्रविणमिच्छमानाः** सत्यः **उप** **अग्मन्** उपगच्छन्ति । **जोष्टारः** सेवकाः **वस्वः** धनस्य लाभाय धनिकं स्वामिनम् ”इव। **रघ्वीरिव** लघ्व्य इव शीघ्रगामिन्य इव **श्रवसः** अन्नस्य अन्नं **भिक्षमाणाः** एनमिन्द्रं वरुणं च **उप** **अस्थुः** उपतिष्ठन्ते ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“These my earnest praises approach **Indra** and **Varuṇa**, desirous to obtain wealth, as dependants attend (upon an opulent man) for the sake of riches, like humble (feminine les) begging for food.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+As dependants attend upon an opulent man: joṣṭāra iva vasvo = sevakā dhanikam svāminam, as servants upon a rich master, or as derived from juṣ, to plural ase, joṣṭāraḥ = flatterers, parasites; like humble feminine les: raghvīr iva śravaso bhikṣāmāṇāḥ: raghvīr iva = laghvya iva, like light or trivial
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+These inspired thoughts of mine have come up to Indra and Varuṇa,  seeking material goods.  
+Like those who enjoy a good thing, they have approached them,  
+seeking a share of goods as fleet mares (seek a share) of fame.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+I read vásvaḥ twice, once as the complement of joṣṭā́raḥ in the simile (“those who enjoy a good thing”) and once in the frame with bhíkṣamāṇāḥ (“seeking a share of the goods”). Contra Witzel Gotō, I take śrávasaḥ only in the simile, since this part of the hymn seems all about our acquiring possessions, not fame.
+</details>
+
+<details><summary>+Griffith</summary>
+
+To Indra and to Varuna, desirous of gaining wealth have these my thoughts proceeded.  
+     They have come nigh to you as treasurelovers, like mares, fleet-footed, eager for the glory.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Diese meine Dichtungen sind zu Indra und Varuna, Reichtum begehrend, gekommen. Sie sind ihnen wie Freunde genaht, um Gut bittend wie die Rennstuten um Ruhm.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Zu Varuna und Indra gingen meine Gebete hier, nach reichem Schatz verlangend, Sie kamen zu euch, wie um Gut die Bettler, wie schnelle Stuten, schöne Nahrung heischend.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Эти мои поэтические порывы достигли  
+Индры и Варуны, (они) желающие богатства.  
+Они подошли к ним, как те, кто наслаждается добром,  
+Словно скаковые кобылицы, ищущие славы.
+</details>

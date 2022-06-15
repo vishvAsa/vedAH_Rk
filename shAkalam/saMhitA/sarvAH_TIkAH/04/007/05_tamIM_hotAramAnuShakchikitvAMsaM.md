@@ -1,0 +1,138 @@
++++
+title = "005"
+devataa = "अग्निः"
+RShiH = "वामदेवो गौतमः"
+ChandaH = "अनुष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+त꣡म् ईं हो꣡तारम् आनुष꣡क्  
+चिकित्वां꣡सं नि꣡ षेदिरे  
+रण्व꣡म् पवाक꣡शोचिषं+  
+य꣡जिष्ठं सप्त꣡ धा꣡मभिः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तम् । ई॒म् । होता॑रम् । आ॒नु॒षक् । चि॒कि॒त्वांस॑म् । नि । से॒दि॒रे॒ ।  
+र॒ण्वम् । पा॒व॒कऽशो॑चिषम् । यजि॑ष्ठम् । स॒प्त । धाम॑ऽभिः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *tam* ← *tad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *īṃ* ← *īm* ← *īṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *hotāram* ← *hotṛ*
+- \[noun\], accusative, singular, masculine
+- “Hotṛ.”
+------------------------------------------------------------------------
+- *ānuṣak*
+- \[adverb\]
+- “correctly; in sequence; punctually.”
+------------------------------------------------------------------------
+- *cikitvāṃsaṃ* ← *cikitvāṃsam* ← *cit*
+- \[verb noun\], accusative, singular
+- “notice; observe; attend to; intend.”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *ṣedire* ← *sad*
+- \[verb\], plural, Perfect indicative
+- “sit down; break down; slow; sink; crumble; fracture; perish; ride;
+    stop; besiege; tire.”
+------------------------------------------------------------------------
+- *raṇvam* ← *raṇva*
+- \[noun\], accusative, singular, masculine
+- “agreeable; happy; delightful; gay.”
+------------------------------------------------------------------------
+- *pāvakaśociṣaṃ* ← *pāvaka*
+- \[noun\]
+- “pure; purifying; pure; āgneya; clear; bright; bright.”
+------------------------------------------------------------------------
+- *pāvakaśociṣaṃ* ← *śociṣam* ← *śocis*
+- \[noun\], accusative, singular, masculine
+- “fire; flare; burn; radiance.”
+------------------------------------------------------------------------
+- *yajiṣṭhaṃ* ← *yajiṣṭham* ← *yajiṣṭha*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *sapta* ← *saptan*
+- \[noun\], nominative, singular, neuter
+- “seven; seventh.”
+------------------------------------------------------------------------
+- *dhāmabhiḥ* ← *dhāman*
+- \[noun\], instrumental, plural, neuter
+- “domain; dwelling; law; appearance; light; race; agreement; color;
+    location.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+ऋत्विगादयो मनुष्याः **आनुषक्** अनुपूर्व्येण **होतारं** देवानामाह्वातारं **चिकित्वांसं** जानन्तम् ॥  ‘कित ज्ञाने '। लिटः क्वसुः । द्विर्भावहलादिशेषचुत्वदीर्घाः। प्रत्ययस्वरः ॥ **तमीं** तमिममग्निं **नि** **षेदिरे** निषादयन्ति स्म । कीदृशम् । **रण्वं** रमणीयं पावकशोचिषं शोधकदीप्तिं **यजिष्ठं** यष्टृतमं **सप्त** सप्तभिः **धामभिः** तेजोभिर्युक्तम् ॥ ॥ ६ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“They (the worshippers) have seated him in his due order, the invoker (of the gods), the intelligent, the agreeable, the purifyingly-radiant, the performer of frequent sacrifice, (brilliant) with seven flames.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Him as observant Hotar did they set down in the regular order— gladdening, pure-flamed, best sacrificing, throughout his seven  
+domains—
+</details>
+
+<details><summary>+Griffith</summary>
+
+Him the intelligent have they placed duly as Invoking Priest,  
+     Welcome, with sanctifying flame, best worshipper, with sevenfold might;
+</details>
+
+<details><summary>+Oldenberg</summary>
+
+Him the knowing one they have set down in the right way as the Hotri, the gay one with his purifying flames, the best sacrificer with his seven (forms 1)—
+</details>
+
+<details><summary>+Geldner</summary>
+
+Ihn haben sie als den kundigen Hotri, wie sich's gebührt, eingesetzt, den erfreulichen, flammenreinen, der nach sieben Formen am besten opfert.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Ihn setzten fort und fort sie ein, als Priester ihn, der hell erglänzt, Den muntern, flammenstrahlenden, nach sieben Bräuchen opfernden.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Его, знающего, они усадили  
+Хотаром, как положено,  
+Радостного (бога) с очищающим пламенем,  
+Жертвующего лучше всех по семи установлениям,
+</details>

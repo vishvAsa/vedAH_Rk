@@ -1,0 +1,182 @@
++++
+title = "006"
+devataa = "इन्द्रः"
+RShiH = "वामदेवो गौतमः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+धिषा꣡ य꣡दि धिषण्य꣡न्तः सरण्या꣡न्  
+स꣡दन्तो अ꣡द्रिम् औशिज꣡स्य गो꣡हे  
+आ꣡ दुरो꣡षाः · पास्तिय꣡स्य हो꣡ता  
+यो꣡ नो महा꣡न् संव꣡रणेषु व꣡ह्निः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+धि॒षा । यदि॑ । धि॒ष॒ण्यन्तः॑ । स॒र॒ण्यान् । सद॑न्तः । अद्रि॑म् । औ॒शि॒जस्य॑ । गोहे॑ ।  
+आ । दु॒रोषाः॑ । पा॒स्त्यस्य॑ । होता॑ । यः । नः॒ । म॒हान् । स॒म्ऽवर॑णेषु । वह्निः॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *dhiṣā*
+- \[noun\], instrumental, singular, feminine
+------------------------------------------------------------------------
+- *yadi*
+- \[adverb\]
+- “if; in case.”
+------------------------------------------------------------------------
+- *dhiṣaṇyantaḥ* ← *dhiṣaṇy*
+- \[verb noun\], nominative, plural
+------------------------------------------------------------------------
+- *saraṇyān* ← *saraṇy*
+- \[verb\], plural, Present conjunctive (subjunctive)
+------------------------------------------------------------------------
+- *sadanto* ← *sadantaḥ* ← *sad*
+- \[verb noun\], nominative, plural
+- “sit down; break down; slow; sink; crumble; fracture; perish; ride;
+    stop; besiege; tire.”
+------------------------------------------------------------------------
+- *adrim* ← *adri*
+- \[noun\], accusative, singular, masculine
+- “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
+------------------------------------------------------------------------
+- *auśijasya* ← *auśija*
+- \[noun\], genitive, singular, masculine
+- “Kakṣīvant.”
+------------------------------------------------------------------------
+- *gohe* ← *goha*
+- \[noun\], locative, singular, masculine
+- “hole.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *duroṣāḥ* ← *duroṣas*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *pāstyasya* ← *pāstya*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *hotā* ← *hotṛ*
+- \[noun\], nominative, singular, masculine
+- “Hotṛ.”
+------------------------------------------------------------------------
+- *yo* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *mahān* ← *mahat*
+- \[noun\], nominative, singular, masculine
+- “large; eminent; great; loud; dangerous; strong; long; high;
+    much(a); mahant \[word\]; ample; very; great; adult; important;
+    dark; high; abundant; violent; remarkable; mighty; big; long.”
+------------------------------------------------------------------------
+- *saṃvaraṇeṣu* ← *saṃvaraṇa*
+- \[noun\], locative, plural, neuter
+- “concealment.”
+------------------------------------------------------------------------
+- *vahniḥ* ← *vahni*
+- \[noun\], nominative, singular, masculine
+- “fire; digestion; Plumbago zeylanica; Agni; vahni; draft horse;
+    three; sacrificial fire; Vahni; gold; southeast; citron; charioteer;
+    leader.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**धिषण्यन्तः** धिषणामिन्द्रविषयां स्तुतिमिच्छन्तः **औशिजस्य** । उशिजः कामयमाना ऋत्विजः। तेषां संबन्ध्यौशिजो यजमानः । तस्य **गोहे** गृहे **सदन्तः** निषीदन्तो जनाः **अद्रिम्** । आदृणाति शत्रून् इत्यद्रिरिन्द्रः । तमिन्द्रं **धिषा** स्तुत्या **यदि** यदा **सरण्यान्** उपागच्छेयुः तदा स इन्द्रः **आ** यातु । **नः** अस्माकं संवरणेषु शत्रुसंबन्धिषु निरोधेषु **वह्निः** वोढा पास्त्यस्य पस्त्ये गृहे वसता यजमानेन **होता** आह्वाता **दुरोषाः** दुस्तरक्रोधः **यः** इन्द्रः **महान्** प्रभूतो भवति । स आयात्विति ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“When the repeaters of (his) commendations, abiding in the dwelling of the worshipper, approach **Indra** with praise, may he who is our (great) sustainer in conflicts, whose wrath is difficult to be (appeased), becomes the ministering priest of the master of the house.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Of the worshipper: auśijasya, from uśij, a priest, one who employs priests;
+
+Indra: **adri** is the name in the text, a name, it is said, of Indra, from dri to divide, to tear, as foes
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+When they [=the gods/Aṅgirases?], seeking a holy place, will hasten to  the rock with holy fervor, taking their seats at the secret place of (the  company of) the fire-priests [=ritual ground/Vala cave?],  
+the Hotar [=Agni] of (the company) belonging to the household,  (though) he is hard to kindle, (comes into being) here—he who is the  great draft-horse for us in the (ritual) enclosures.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+As indicated in the introduction, I think vs. 6 simultaneously depicts the gods’ approach to the ritual ground and the Aṅgirases’ journey to the Vala cave. The rock (ádri-) to which they hasten is the pressing stone in the case of the gods and the Vala cave in the case of the Aṅgirases.
+
+In pāda a I interpret yádi as yád *ī, parallel to yád īm in 7a and 7c and yád(#)ī in 8d. For this phenomenon, see my 2002 "RVic sīm and īm.” With Geldner I take ádrim as the goal of saraṇyā́n rather than construing it with sádantaḥ, allowing the latter participle to be construed with the loc. góhe (a stem found only here, in the three vss.
+
+6-8).
+
+For dhiṣā́see comm. ad I.173.8 as well as I.3.2. The denom. dhiṣaṇyá- is found only here; I take it as ‘seeking a holy place’, derived from dhiṣáṇā ‘holy place’, on which see comm. ad I.3.2.
+
+Note the phonetic echoes in dhiṣā́ya(di) dhiṣaṇyán(taḥ) (sar)aṇyā́n.
+
+As indicated in the published introduction. I take auśijá-, the vṛddhi deriv. of uśíj- ‘priest, fire priest’, as referring to the collectivity of these priests (see also V.41.5). It seems to be parallel to / contrastive with the vṛddhi deriv. in the next pāda, pāstyá-, found only here, ‘belonging to the dwelling place’. In my interpr. the duróṣāḥ hótā is Agni, and pāstyá- refers to the collectivity that he belongs to or represents, that of the household.
+
+On the problematic duróṣāḥ (here apparently an -s-stem, as opposed to the thematic stem found in the two other occurrences), see comm. ad VIII.1.13.
+
+
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/021/06-08.md">
+<details open><summary><h2>06-08 ...{Loading}...</h2></summary>
+
+As discussed in the published introduction, the next few vss. are very challenging; they have received multiple interpretations, which can’t be discussed in detail here.
+
+The vss. form a unity based on their shared vocab. (e.g., góhe 6b, 7c, 8c; auśijásya 6b, 7c), their shared syntactic formulae (yád *ī 6a, yád īm 7a, 7c, and yád ī 8d), and their shared metrical irregularity.
+
+</details>
+</div>
+</details>
+
+<details><summary>+Griffith</summary>
+
+When sitting pondering in deep devotion in Ausija's abode they ply the press-stone,  
+     May he whose wrath is fierce, the mighty bearer, come as the house-lord's priest within our chambers.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Wenn sie tatenlustig aus Tatendrang zum Fels eilen werden, die im Versteck des Ausija sitzen, dann komme herbei der säumige Hotri des Pastya, der unser großer Wagenführer des Opfers in den Gehegen ist.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Wenn andachtsvoll die Andachtreichen eilen, den Stein umlagernd im Versteck des Eifrers, Der als des Hauses Priester unvertilgbar, der grosse, hinfährt durch die Opferstätten;
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Если сидящие в укрытии потомка Ушиджа  
+Из жажды действия поспешили к скале, жаждая действия,  
+То (должен был принять участие?) трудноодолимый хотар дома (?),  
+(Тот), кто наш великий возница (жертвы) в укрытых местах.
+</details>

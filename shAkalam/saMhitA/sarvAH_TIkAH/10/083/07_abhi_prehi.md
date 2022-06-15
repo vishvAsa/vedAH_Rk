@@ -1,0 +1,155 @@
++++
+title = "007"
+devataa = "मन्युः"
+RShiH = "मन्युस्तापसः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अभि꣡ प्रे꣡हि दक्षिणतो꣡ भवा मे  
+अ꣡धा वृत्रा꣡णि जङ्घनाव भू꣡रि  
+जुहो꣡मि ते धरु꣡णम् म꣡ध्वो अ꣡ग्रम्  
+उभा꣡ उपांशु꣡ प्रथमा꣡ पिबाव
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+popular  
+popular;; repeated line  
+popular  
+popular
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒भि । प्र । इ॒हि॒ । द॒क्षि॒ण॒तः । भ॒व॒ । मे॒ । अध॑ । वृ॒त्राणि॑ । ज॒ङ्घ॒ना॒व॒ । भूरि॑ ।  
+जु॒होमि॑ । ते॒ । ध॒रुण॑म् । मध्वः॑ । अग्र॑म् । उ॒भौ । उ॒प॒ऽअं॒शु । प्र॒थ॒मा । पि॒बा॒व॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *prehi* ← *pre* ← *√i*
+- \[verb\], singular, Present imperative
+- “die; proceed; advance; continue; begin; depart.”
+------------------------------------------------------------------------
+- *dakṣiṇato* ← *dakṣiṇatas*
+- \[adverb\]
+- “right; southward.”
+------------------------------------------------------------------------
+- *bhavā* ← *bhava* ← *bhū*
+- \[verb\], singular, Present imperative
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+------------------------------------------------------------------------
+- *me* ← *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *'dhā* ← *adha*
+- \[adverb\]
+- “then; and; therefore; now.”
+------------------------------------------------------------------------
+- *vṛtrāṇi* ← *vṛtra*
+- \[noun\], accusative, plural, neuter
+- “enemy.”
+------------------------------------------------------------------------
+- *jaṅghanāva* ← *jaṅghan* ← *√han*
+- \[verb\], dual, Present conjunctive (subjunctive)
+- “murder; kill.”
+------------------------------------------------------------------------
+- *bhūri*
+- \[noun\], accusative, singular, neuter
+- “much; many; much(a); abundant; rich; mighty; distinguished.”
+------------------------------------------------------------------------
+- *juhomi* ← *hu*
+- \[verb\], singular, Present indikative
+- “sacrifice; offer; pour; worship.”
+------------------------------------------------------------------------
+- *te* ← *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *dharuṇam* ← *dharuṇa*
+- \[noun\], accusative, singular, neuter
+- “prop; foundation.”
+------------------------------------------------------------------------
+- *madhvo* ← *madhvaḥ* ← *madhu*
+- \[noun\], genitive, singular, neuter
+- “honey; alcohol; sweet; nectar; madhu \[word\].”
+------------------------------------------------------------------------
+- *agram* ← *agra*
+- \[noun\], accusative, singular, neuter
+- “tip; beginning; peak; end; front; top; beginning; battlefront; agra
+    \[word\]; acme; fingertip; top; best; optimum; climax; matter;
+    glans.”
+------------------------------------------------------------------------
+- *ubhā* ← *ubhau* ← *ubh*
+- \[noun\], nominative, dual, masculine
+- “both(a).”
+------------------------------------------------------------------------
+- *upāṃśu*
+- \[adverb\]
+- “mutely.”
+------------------------------------------------------------------------
+- *prathamā* ← *prathama*
+- \[noun\], nominative, dual, masculine
+- “first; prathama \[word\]; third; young; chief(a); best;
+    antecedent.”
+------------------------------------------------------------------------
+- *pibāva* ← *pā*
+- \[verb\], dual, Present imperative
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे मन्यो **अभि** **प्रेहि** अभिगच्छ। मम युद्धं गत्वा च **मे** मम **दक्षिणतो** **भव** । **अध** अथ आवां **वृत्राणि** शत्रून् **भूरि** प्रभूतं **जङ्नाव** हनाव । **ते** तुभ्यम् **अग्रं** श्रेष्ठं **मध्वः** मधु सोमरसं **जुहोमि** । **उभौ** त्वं चाहं च **उपांशु** अप्रकाशं **प्रथमा** प्रथमौ सन्तौ **पिबाव** ॥ ॥१८॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Approach, be upon my right, let us slay a multitude of foes; I offer to you the best **Soma**, the sustainer;let us both drink it first in privacy.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Go forth on attack: be on my right side. Then we shall keep smiting  obstacles in abundance.  
+I offer to you the foundation and the top of the honey. We two shall  
+both first drink silently.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Approach, and on my right hand hold thy station: so shall we slay a multitude of foemen.  
+     The best of meath I offer to support thee: may we be first to drink thereof in quiet.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Geh drauf los, bleib zu meiner Rechten, dann wollen wir beide viele Feinde erschlagen. Ich opfere dir den Rest, die Blume des Somatrankes. Beide wollen wir schweigend zuerst trinken.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Komm her zu mir und steh zu meiner Rechten, dann werden viele Feinde wir erschlagen; Ich giess dir zu des Honigs Seim, der Kraft gibt, wir beide wollen leis' als erste trinken.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

@@ -1,0 +1,176 @@
++++
+title = "003"
+devataa = "इन्द्रः"
+RShiH = "कृष्णः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+कि꣡म् अङ्ग꣡ त्वा मघवन् भोज꣡म् आहुः  
+शिशीहि꣡ मा शिशयं꣡ त्वा शृणोमि  
+अ꣡प्नस्वती म꣡म धी꣡र् अस्तु शक्र  
+वसुवि꣡दम् भ꣡गम् इन्द्रा꣡ भरा नः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+किम् । अ॒ङ्ग । त्वा॒ । म॒घ॒ऽव॒न् । भो॒जम् । आ॒हुः॒ । शि॒शी॒हि । मा॒ । शि॒श॒यम् । त्वा॒ । शृ॒णो॒मि॒ ।  
+अप्न॑स्वती । मम॑ । धीः । अ॒स्तु॒ । श॒क्र॒ । व॒सु॒ऽविद॑म् । भग॑म् । इ॒न्द्र॒ । आ । भ॒र॒ । नः॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *kim*
+- \[adverb\]
+- “why; ka \[pronoun\]; if; how.”
+------------------------------------------------------------------------
+- *aṅga*
+- \[adverb\]
+- “in truth; aṅga \[word\]; entirely; merely.”
+------------------------------------------------------------------------
+- *tvā* ← *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *maghavan*
+- \[noun\], vocative, singular, masculine
+- “Indra; maghavan \[word\].”
+------------------------------------------------------------------------
+- *bhojam* ← *bhoja*
+- \[noun\], accusative, singular, masculine
+- “big; hospitable.”
+------------------------------------------------------------------------
+- *āhuḥ* ← *ah*
+- \[verb\], plural, Perfect indicative
+- “describe; state; say; enumerate; call; name; teach; tell; deem;
+    explain; say; define.”
+------------------------------------------------------------------------
+- *śiśīhi* ← *śā*
+- \[verb\], singular, Present imperative
+- “sharpen; whet; strengthen.”
+------------------------------------------------------------------------
+- *mā* ← *mad*
+- \[noun\], accusative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *śiśayaṃ* ← *śiśayam* ← *śiśaya*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *tvā* ← *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *śṛṇomi* ← *śru*
+- \[verb\], singular, Present indikative
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------
+- *apnasvatī* ← *apnasvat*
+- \[noun\], nominative, singular, feminine
+- “profitable; profitable.”
+------------------------------------------------------------------------
+- *mama* ← *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *dhīr* ← *dhīḥ* ← *dhī*
+- \[noun\], nominative, singular, feminine
+- “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
+    knowledge.”
+------------------------------------------------------------------------
+- *astu* ← *as*
+- \[verb\], singular, Present imperative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *śakra*
+- \[noun\], vocative, singular, masculine
+- “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
+------------------------------------------------------------------------
+- *vasuvidam* ← *vasu*
+- \[noun\], neuter
+- “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
+------------------------------------------------------------------------
+- *vasuvidam* ← *vidam* ← *vid*
+- \[noun\], accusative, singular, masculine
+- “finding.”
+------------------------------------------------------------------------
+- *bhagam* ← *bhaga*
+- \[noun\], accusative, singular, masculine
+- “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
+    well-being; happiness; overlord.”
+------------------------------------------------------------------------
+- *indrā* ← *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *indrā* ← *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *bharā* ← *bhara* ← *bhṛ*
+- \[verb\], singular, Present imperative
+- “bring; hold; fill; support; wear; possess; carry; nourish; keep;
+    hire; have; satiate; follow; bear.”
+------------------------------------------------------------------------
+- *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+अङ्गेति सामान्याह्वानम् । **अङ्ग** हे **मघवन्** धनवन् **शक्र** इन्द्र **त्वा** त्वां **किं** किमर्थं **भोजं** स्तोतॄणां भोजकमभीष्टम् **आहुः** सर्वे विद्वांसः । यदि न ददासीत्यध्याहारः । तस्माद्ददास्येव स्तोतृभ्यो धनानीत्यर्थः । तथा सति **मा** स्तोतारं **शिशीहि** धनदानेन तीक्ष्णीकुरु । **त्वा** त्वां **शिशयं** स्तोतॄणां संस्कर्तारं **शृणोमि** । किंच **मम** **धीः** बुद्धिः अप्नस्वती कर्मवती **अस्तु** भवतु । किंच **नः** अस्माकं वसुविदं धनस्य लम्भकं **भगं** भाग्यम् **आ** **भर** आहर ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Why, Maghavat, do (the wise) call you the nourisher (of worshippers)? Quicken me, (**Indra**), withwealth, (for) I hear that you are the quickener (of the worshipper); may my understanding, **Śakra**, be productiveof works; grant us, Indra, a **destiny** that brings wealth.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Do they not call you the benefactor, bounteous one? Sharpen me: I hear  that you are the sharpening.  
+Let my insight be profitable, able one. Bring Bhaga, the goods-finder,  here to us, Indra.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Why, Maghavan, do they call thee Bounteous; Giver? Quicken me: thou, I hear, art he who quickens.  
+     Sakra, let my intelligence be active, and bring us luck that finds great wealth, O Indra.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Warum nennen sie gerade dich den Gastfreien, du Gabenreicher? Sporne mich an; ich höre, daß du ausgiebig bist! Mein Gedicht soll Lohn einbringen, o Mächtiger! Bring uns den Schätze verschaffenden Bhaga her, o Indra!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Warum sonst nennt man, reicher, dich den Spender? so gib mir Gut, ein Geber bist du, hör' ich, Mit Schatz gesegnet sei mein Lied, o starker; den Reichen bring', der Güter schenkt, o Indra.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Разве не тебя, о щедрый, называют доставляющим наслаждение?  
+Вдохнови меня – я слышу, что ты задариватель!  
+Пусть будет моя поэтическая мысль, добывающая богатство, о могучий!  
+Принеси нам, о Индра, счастливую долю, создающую блага!
+</details>

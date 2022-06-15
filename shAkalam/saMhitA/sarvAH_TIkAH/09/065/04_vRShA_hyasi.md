@@ -1,0 +1,112 @@
++++
+title = "004"
+devataa = "पवमानः सोमः"
+RShiH = "भृगुर्वारुणिर्जमदग्निर्वा"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+वृ꣡षा हि꣡ अ꣡सि भानु꣡ना  
+द्युम꣡न्तं त्वा हवामहे  
+प꣡वमान सुआधि꣡यः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वृषा॑ । हि । असि॑ । भा॒नुना॑ । द्यु॒ऽमन्त॑म् । त्वा॒ । ह॒वा॒म॒हे॒ ।  
+पव॑मान । सु॒ऽआ॒ध्यः॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *vṛṣā* ← *vṛṣan*
+- \[noun\], nominative, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *hy* ← *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *asi* ← *as*
+- \[verb\], singular, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *bhānunā* ← *bhānu*
+- \[noun\], instrumental, singular, masculine
+- “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
+    copper; light; twelve; appearance; Bhānu; flare.”
+------------------------------------------------------------------------
+- *dyumantaṃ* ← *dyumantam* ← *dyumat*
+- \[noun\], accusative, singular, masculine
+- “bright; brilliant; brilliant; loud.”
+------------------------------------------------------------------------
+- *tvā* ← *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *havāmahe* ← *hvā*
+- \[verb\], plural, Present indikative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *pavamāna* ← *pū*
+- \[verb noun\], vocative, singular
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *svādhyaḥ* ← *svādhī*
+- \[noun\], nominative, plural, masculine
+- “devout; heedful; prudent.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे सोम त्वं **वृषा** अभिमतफलानां वर्षिता **असि** **हि** भवसि खलु । तस्मात् हे **पवमान** पूयमान पुनान वा सोम **स्वाध्यः** शोभनकर्माणः सुष्ठु ध्यानवन्तो वा वयं **भानुना** तेजसा **द्युमन्तं** दीप्तिमन्तम् । अतिशयेन तेजस्विनमित्यर्थः । स्तुतिमन्तं वा **त्वा** त्वां **हवामहे** यज्ञेष्वाह्वयामहे ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“We who perform good works praise you, purified **Soma**, brilliant with radiance, for you are the showerer (of benefits).”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Because you are a bull, we, very attentive, invoke you who are brilliant  with radiance,  
+o self-purifying one.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Thou art a Steer by lustre: we, O Pavamana, faithfully  
+     Call upon thee the Splendid One.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Denn du bist ein Bulle; dich, den im Glanze Strahlenden rufen wir wohlgesinnt an, o Pavamana.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Du bist an Strahlen ja ein Held, drum rufen wir dich glänzenden, O flammender, an Andacht reich.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

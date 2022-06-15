@@ -1,0 +1,189 @@
++++
+title = "012"
+devataa = "इन्द्रः"
+RShiH = "गाथिनो विश्वामित्रः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+दि꣡शः सू꣡र्यो न꣡ मिनाति प्र꣡दिष्टा  
+दिवे꣡-दिवे ह꣡रिअश्वप्रसूताः  
+सं꣡ य꣡द् आ꣡नऌ अ꣡ध्वन आ꣡द् इ꣡द् अ꣡श्वैर्  
+विमो꣡चनं कृणुते त꣡त् तु꣡ अस्य
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+दिशः॑ । सूर्यः॑ । न । मि॒ना॒ति॒ । प्रऽदि॑ष्टाः । दि॒वेऽदि॑वे । हर्य॑श्वऽप्रसूताः ।  
+सम् । यत् । आन॑ट् । अध्व॑नः । आत् । इत् । अश्वैः॑ । वि॒ऽमोच॑नम् । कृ॒णु॒ते॒ । तत् । तु । अ॒स्य॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *diśaḥ* ← *diś*
+- \[noun\], accusative, plural, feminine
+- “quarter; direction; region; diś \[word\]; Aṣṭādhyāyī, 5.3.27;
+    distant region; Diś; four; example; method; space.”
+------------------------------------------------------------------------
+- *sūryo* ← *sūryaḥ* ← *sūrya*
+- \[noun\], nominative, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *mināti* ← *mī*
+- \[verb\], singular, Present indikative
+- “transgress; damage.”
+------------------------------------------------------------------------
+- *pradiṣṭā* ← *pradiṣṭāḥ* ← *pradiś* ← *√diś*
+- \[verb noun\], accusative, plural
+- “describe; indicate; name; teach; diagnose.”
+------------------------------------------------------------------------
+- *dive* ← *diva*
+- \[noun\], locative, singular, neuter
+- “day; sky; Svarga.”
+------------------------------------------------------------------------
+- *dive* ← *diva*
+- \[noun\], locative, singular, neuter
+- “day; sky; Svarga.”
+------------------------------------------------------------------------
+- *haryaśvaprasūtāḥ* ← *haryaśva*
+- \[noun\], masculine
+- “Indra; Haryaśva.”
+------------------------------------------------------------------------
+- *haryaśvaprasūtāḥ* ← *prasūtāḥ* ← *prasū* ← *√sū*
+- \[verb noun\], accusative, plural
+- “give birth; be born; originate; impel; propel; grow.”
+------------------------------------------------------------------------
+- *saṃ* ← *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *yad* ← *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *ānaḍ* ← *ānaṭ* ← *naś*
+- \[verb\], singular, Root aorist (Ind.)
+- “reach; achieve; enter (a state); reach.”
+------------------------------------------------------------------------
+- *adhvana* ← *adhvanaḥ* ← *adhvan*
+- \[noun\], accusative, plural, masculine
+- “way; journey; adhvan \[word\]; time; path; method; road; time;
+    distance.”
+------------------------------------------------------------------------
+- *ād* ← *āt*
+- \[adverb\]
+- “then.”
+------------------------------------------------------------------------
+- *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *aśvair* ← *aśvaiḥ* ← *aśva*
+- \[noun\], instrumental, plural, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *vimocanaṃ* ← *vimocanam* ← *vimocana*
+- \[noun\], accusative, singular, neuter
+------------------------------------------------------------------------
+- *kṛṇute* ← *kṛ*
+- \[verb\], singular, Present indikative
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *tat* ← *tad*
+- \[noun\], nominative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *tv* ← *tu*
+- \[adverb\]
+- “now; then; but; and; now; however; then; then; surely.”
+------------------------------------------------------------------------
+- *asya* ← *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हर्यश्वप्रसूताः। हरी अश्वौ यस्यासाविति हर्यश्व इन्द्रः । तेन प्रेरिताः **दिशः** प्रागादयः **दिवेदिवे** प्रतिदिवसं **प्रदिष्टाः** सूर्यस्य गमनार्थं दत्ता या दिशो विद्यन्ते ताः **सूर्यो** **न** **मिनाति** न हिनस्ति । किंतु ताभिरेव व्रजति । **यत्** यदा सूर्यः **अध्वनः** गन्तव्यान् प्रदेशान् **अश्वैः** गमनसाधनभूतैः **सम्** आनट् सम्यगश्नुते । **आदित्** अनन्तरमेव **विमोचनं** **कृणुते** । अश्वानां विमोचनं कुरुते । **तत्** एतत्सर्वं कर्म **अस्य** तवैव खलु। **तु** प्रसिद्धौ ॥ सूर्यः। ‘षू प्रेरणे' इत्यस्मात् ‘सुसूधागृधिभ्यः क्रन्' इति क्रन्प्रत्ययः । सुवति प्रेरयतीति सूर आदित्यः । सूर एव सूर्यः । वस्वादित्वात् स्वार्थिको यत् ।' यतोऽनावः' इत्याद्युदात्तत्वम् । मिनाति । 'मीञ् हिंसायाम् ।  ‘मीनातेर्निगमे ' इति ह्रस्वः । हर्यश्वप्रसूताः । तृतीया कर्मणि' इति पूर्वपदप्रकृतिस्वरत्वम् । आनट् । ‘अशू व्याप्तौ ' इत्यस्य ‘बहुलं छन्दसि ' इति लङः श्लुः । अश्नोतेश्च ' इति नुडागमः । व्रश्चादिना पत्वम् । यद्योगादनिघातः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Sūrya** harms not the quarters (of the horizon), set open daily (for his journey), the progeny of **Haryaśva**; when he has traversed the roads (he is to travel), then he lets loose his horses, for such is his office.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Harms not the quarters: **diśaḥ** sūryo na mināti na hiṃsati = he does not injure;
+
+Haryaśva = **Indra**, or he with the tawny horses
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+The Sun does not confound the directions as they are directed, as they  are day after day propelled forth by him of the fallow bays.  
+When he has fully reached (the end) of the road, only after that does he  perform his unyoking of the horses. But that is his (way).
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+The grammar of ab is so straightforward that it is easy to overlook how odd the statement is. It is not surprising that the sun does not confound the quarters or directions (díśaḥ); after all, the layout of the cosmos is not likely to be altered by the sun as it passes through. But what does it mean that these same díśaḥ are prasūtā́ḥ every day by Indra? The ppl. can only belong either to √sū ‘propel’ or √sū ‘give birth’, far more likely the former (pace Witzel Gotō, who seem to take it to the latter): only the former is found with prá and in fact 9d contains an exactly parallel expression, tváyā … prásūtāḥ “propelled by you.” Geldner tr. “vom Falbenlenker bestimmten,” but ‘determined, fixed, set’ seems the exactly opposite of what prá √sū ordinarily means, including in nearby 9d. Such a meaning makes more sense of this vs. but at the expense of arbitrarily assigning a unique meaning to this rather common lexeme. If we take the idiom seriously, the hemistich seems to be saying that while the sun respects the placement of the parts of the cosmos, Indra pushes them around in some fashion, remaking or reconfiguring the cosmos daily. I simply do not understand this; I must be missing something. Perhaps Indra arranges the díśaḥ every day in a slightly new way for the sun’s road? The sun is presumably the subj. of ā́naṭ; so the standard tr.
+
+The cmpd háryaśvaprasūta- technically has three members -- that is a 2nd member ppl. (prásūta-) whose 1st member is itself a cmpd. This would be somewhat unusual for the RV, where cmpd size is quite limited. But the bv. háry-aśva- is so frozen as an epithet of Indra that it was probably not fully perceived as a cmpd. Cf. the exactly equivalent índra-prasūta- (1x). Geldner (/Witzel Gotō) seems to interpr. ádhvanaḥ as acc. pl. (“Wenn sie ihre Wege vollendet hat”). Because I am not at all certain that √naś can be used that way with an acc., I take ádhvanaḥ as gen. sg., with a supplied ‘end’; cf. V.54.10 ádhvanaḥ pārám aśnutha with the same root. So apparently also Renou
+
+áśvaiḥ is an instr. of separation with vimócanam.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Surya transgresses not the ordered limits set daily by the Lord of Tawny Coursers.  
+     When to the goal he comes, his journey ended, his Steeds he looses: this is Indra's doing.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Die Sonne verfehlt nicht die vorgezeichneten Richtungen, die Tag für Tag vom Falbenlenker bestimmten. Wenn sie ihre Wege vollendet hat, dann macht sie mit den Rossen Ausspann. Das aber ist sein Werk.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Die Sonne ändert nicht die festen Ziele, der Tag für Tag vom Rosseherrn gesetzt sind, Wenn sie die Bahn durchlaufen, dann erst lenkt sie zur Einkehr mit den Rossen, das ist sein Werk.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Солнце не меняет предписанных сторон света,  
+Порожденных день за днем обладателем буланых коней.  
+Только после того, как оно достигло конца (своих) путей,  
+Оно распрягает коней – такова его (работа).
+</details>

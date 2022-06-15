@@ -1,0 +1,153 @@
++++
+title = "001"
+devataa = "अग्निः"
+RShiH = "अरुणो वैतहव्यः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+सं꣡ जागृव꣡द्भिर् ज꣡रमाण इध्यते  
+द꣡मे द꣡मूना इष꣡यन्न् इळ꣡स् पदे꣡  
+वि꣡श्वस्य हो꣡ता हवि꣡षो व꣡रेणियो  
+विभु꣡र् विभा꣡वा सुष꣡खा सखीयते꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सम् । जा॒गृ॒वत्ऽभिः॑ । जर॑माणः । इ॒ध्य॒ते॒ । दमे॑ । दमू॑नाः । इ॒षय॑न् । इ॒ळः । प॒दे ।  
+विश्व॑स्य । होता॑ । ह॒विषः॑ । वरे॑ण्यः । वि॒ऽभुः । वि॒भाऽवा॑ । सु॒ऽसखा॑ । स॒खि॒ऽय॒ते ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *saṃ* ← *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *jāgṛvadbhir* ← *jāgṛvadbhiḥ* ← *jāgṛ*
+- \[verb noun\], instrumental, plural
+- “wake; watch; awaken; wake up; oversee.”
+------------------------------------------------------------------------
+- *jaramāṇa* ← *jaramāṇaḥ* ← *jṛ*
+- \[verb noun\], nominative, singular
+- “sing.”
+------------------------------------------------------------------------
+- *idhyate* ← *indh*
+- \[verb\], singular, Indikativ Pr￤s. Passiv
+- “kindle; ignite; set ablaze.”
+------------------------------------------------------------------------
+- *dame* ← *dama*
+- \[noun\], locative, singular, masculine
+- “dwelling; home.”
+------------------------------------------------------------------------
+- *damūnā* ← *damūnāḥ* ← *damūnas*
+- \[noun\], nominative, singular, masculine
+- “master.”
+------------------------------------------------------------------------
+- *iṣayann* ← *iṣayan* ← *iṣay* ← *√iṣ*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------
+- *iḍas* ← *iḍaḥ* ← *iḍ*
+- \[noun\], genitive, singular, feminine
+- “refreshment; libation.”
+------------------------------------------------------------------------
+- *pade* ← *pada*
+- \[noun\], locative, singular, neuter
+- “word; location; foot; footprint; pada \[word\]; verse; footstep;
+    metrical foot; situation; dwelling; state; step; mark; position;
+    trace; construction; animal foot; way; moment; social station;
+    topographic point; path; residence; site; topic.”
+------------------------------------------------------------------------
+- *viśvasya* ← *viśva*
+- \[noun\], genitive, singular, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *hotā* ← *hotṛ*
+- \[noun\], nominative, singular, masculine
+- “Hotṛ.”
+------------------------------------------------------------------------
+- *haviṣo* ← *haviṣaḥ* ← *havis*
+- \[noun\], genitive, singular, neuter
+- “Havya; offering; ghee; havis \[word\].”
+------------------------------------------------------------------------
+- *vareṇyo* ← *vareṇyaḥ* ← *vareṇya*
+- \[noun\], nominative, singular, masculine
+- “excellent; desirable.”
+------------------------------------------------------------------------
+- *vibhur* ← *vibhuḥ* ← *vibhu*
+- \[noun\], nominative, singular, masculine
+- “mighty; abundant; big.”
+------------------------------------------------------------------------
+- *vibhāvā* ← *vibhāvan*
+- \[noun\], nominative, singular, masculine
+- “illuminating; shining.”
+------------------------------------------------------------------------
+- *suṣakhā* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suṣakhā* ← *sakhā* ← *sakhi*
+- \[noun\], nominative, singular
+- “friend; companion; sakhi \[word\].”
+------------------------------------------------------------------------
+- *sakhīyate* ← *sakhīy*
+- \[verb noun\], dative, singular
+- “befriend.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे अग्ने **जागृवद्भिः** जागरणशीलैः स्तोतृभिः **जरमाणः** स्तूयमानः **दमूनाः** दममना दानमना दान्तमना वा **इळः** इळायाः **पदे** स्थाने उत्तरवेद्याम् **इषयन्** अन्नमिच्छन् **विश्वस्य** सर्वस्य **हविषः** **होता** **वरेण्यः** वरणीयः **विभुः** व्याप्तः **विभावा** दीप्तिमान् **सुषखा** शोभनसखा भवान् **सखीयते** सखित्वमिच्छते यजमानाय **सम्** **इध्यते** सम्यग्दीप्यते ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Awakening, he is kindled by the wakeful ones, the household master in  the house, becoming refreshed in the footprint of refreshment,  
+the Hotar of every oblation, worthy to be chosen, far-ranging,  
+far-radiant, a good comrade to one who acts as comrade.
+</details>
+
+<details><summary>+Griffith</summary>
+
+BRISK, at the place of Ila, hymned by men who wake, our own familiar Friend is kindled in the house;  
+     Hotar of all oblation, worthy of our choice, Lord, beaming, trusty friend to one who loveth him.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Von den Frühwachen wird der Erwachende gemeinsam entzündet im Hause der Hausgebieter an der Stätte der Id Labung, die Opferspende genießend, der zu erwählende Opferpriester jeglichen Opfers, machtvoll, erstrahlend, ein guter Freund dem, der wie ein guter Freund handelt.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Entzündet wird von wachenden der rauschende, im Haus der rege Hausfreund an der Andacht Ort Der Opferer jedweden Tranks, der liebliche, der kräftig strahlt, ein lieber Freund dem, der ihn liebt.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Пробуждаясь, он зажигается теми, кто (уже) пробудился,  
+Домашний (бог) в доме, набирающий сил на месте Иды,  
+Хотар каждой жертвы, которого надо выбирать,  
+Могучий, блистательный, добрый друг для дружелюбного.
+</details>

@@ -1,0 +1,175 @@
++++
+title = "004"
+devataa = "निऋतिः सोमश्च"
+RShiH = "बन्धुः श्रुतबन्धुर्विप्रबन्धुर्गौपायनाः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+मो꣡ षु꣡ णः सोम मृत्य꣡वे प꣡रा दाः  
+प꣡श्येम नु꣡ सू꣡रियम् उच्च꣡रन्तम्  
+द्यु꣡भिर् हितो꣡ जरिमा꣡ सू꣡ नो अस्तु  
+परातरं꣡ सु꣡ नि꣡रृतिर् जिहीताम्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+popular  
+popular;; repeated line  
+popular  
+popular;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मो इति॑ । सु । नः॒ । सो॒म॒ । मृ॒त्यवे॑ । परा॑ । दाः॒ । पश्ये॑म । नु । सूर्य॑म् । उ॒त्ऽचर॑न्तम् ।  
+द्युऽभिः॑ । हि॒तः । ज॒रि॒मा । सु । नः॒ । अ॒स्तु॒ । प॒रा॒ऽत॒रम् । सु । निःऽऋ॑तिः । जि॒ही॒ता॒म् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *mo* ← *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *mo* ← *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *ṣu* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *ṇaḥ* ← *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *mṛtyave* ← *mṛtyu*
+- \[noun\], dative, singular, masculine
+- “death; Yama; māraṇa; Mṛtyu.”
+------------------------------------------------------------------------
+- *parā*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *dāḥ* ← *dā*
+- \[verb\], singular, Aorist inj. (proh.)
+- “give; add; perform; put; administer; fill into; give; ignite; put
+    on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
+    drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
+    splint; poultice; create.”
+------------------------------------------------------------------------
+- *paśyema* ← *paś*
+- \[verb\], plural, Present optative
+- “see; view; watch; meet; observe; think of; look; examine; behold;
+    visit; understand.”
+------------------------------------------------------------------------
+- *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *sūryam* ← *sūrya*
+- \[noun\], accusative, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+------------------------------------------------------------------------
+- *uccarantam* ← *uccar* ← *√car*
+- \[verb noun\], accusative, singular
+- “rise.”
+------------------------------------------------------------------------
+- *dyubhir* ← *dyubhiḥ* ← *div*
+- \[noun\], instrumental, plural, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *hito* ← *hitaḥ* ← *dhā*
+- \[verb noun\], nominative, singular
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *jarimā* ← *jariman*
+- \[noun\], nominative, singular, masculine
+- “old age.”
+------------------------------------------------------------------------
+- *sū* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *astu* ← *as*
+- \[verb\], singular, Present imperative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *parātaraṃ* ← *parātaram*
+- \[adverb\]
+- “farther.”
+------------------------------------------------------------------------
+- *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *nirṛtir* ← *nirṛtiḥ* ← *nirṛti*
+- \[noun\], nominative, singular, feminine
+- “destruction; Nirṛti; adversity.”
+------------------------------------------------------------------------
+- *jihītām* ← *hā*
+- \[verb\], singular, Present imperative
+- “move over; yield; give way.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **सोम** **नः** अस्मान् **सु** सुष्ठु **मृत्यवे** **मो** **परा** **दाः** मैव परादानं कुरु । मृत्य्वधीनान् मा कार्षीः । किंतु **नु** इदानीम् **उच्चरन्तम्** ऊर्ध्वं गच्छन्तमुदयन्तं **सूर्यं** **पश्येम** । चिरकालं जीवेमेत्यर्थः । जीवाभावे सूर्यदर्शनासंभवादित्यभिप्रायः। किंच **द्युभिः**। अहर्नामैतत् । अहोभिः दिवसैः **हितः** प्रेरितः **जरिमा** जराभावः **नः** अस्माकं **सु** सुखकरः **अस्तु** । शिष्टमुक्तम् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Give us not up, **Soma**, to death; may we (long) behold the rising sun; may our old age brought on by(passing) days be happy; may **Nirṛti** depart far off.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Do not hand us over to death, Soma. May we now look upon the sun as  it rises.  
+Throughout the days let our old age be secured for us. – Let  
+Dissolution move herself farther away.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Give us not up as prey to death, O Sorna still let us look upon the Sun arising.  
+     Let our old age with passing days be kindly. Let Nirrti depart to distant places.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Gib uns ja nicht dem Tode preis, o Soma; wir möchten noch die Sonne aufgehen sehen! Das von den Himmlischen bestimmte Alter soll uns fein zuteil werden. - Die Nirriti soll sich recht weit weg heben!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Nicht gib, o Soma, uns dem Tod zur Beute, noch möchten sehn wir, wie die Sonne aufgeht, Viel Tage möge unser Alter dauern, die Todesgöttin möge fernhin weichen.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Пусть не выдашь ты нас смерти никогда, о сома!  
+Пусть увидим мы еще, как восходит солнце!  
+Пусть будет благополучной для нас старость с течением дней!  
+Как можно дальше пусть отступит Ниррити!
+</details>

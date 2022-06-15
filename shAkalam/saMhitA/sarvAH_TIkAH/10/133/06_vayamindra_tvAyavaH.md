@@ -1,0 +1,160 @@
++++
+title = "006"
+devataa = "इन्द्रः"
+RShiH = "सुदाः पैजवनः"
+ChandaH = "महापङ्क्तिः"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+वय꣡म् इन्द्र तुवाय꣡वः  
+सखित्व꣡म् आ꣡ रभामहे  
+ऋत꣡स्य नः पथा꣡ नय  
+अ꣡ति वि꣡श्वानि दुरिता꣡  
+न꣡भन्ताम् अन्यके꣡षां᳐  
+जियाका꣡ अ꣡धि ध꣡न्वसु
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M;; repeated line  
+genre M  
+genre M  
+genre M;; repeated line  
+genre M;; repeated line  
+genre M;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+व॒यम् । इ॒न्द्र॒ । त्वा॒ऽयवः॑ । स॒खि॒ऽत्वम् । आ । र॒भा॒म॒हे॒ ।  
+ऋ॒तस्य॑ । नः॒ । प॒था । न॒य॒ । अति॑ । विश्वा॑नि । दुः॒ऽइ॒ता । नभ॑न्ताम् । अ॒न्य॒केषा॑म् । ज्या॒काः । अधि॑ । धन्व॑ऽसु ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *vayam* ← *mad*
+- \[noun\], nominative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *tvāyavaḥ* ← *tvāyu*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *sakhitvam* ← *sakhitva*
+- \[noun\], accusative, singular, neuter
+- “friendship.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *rabhāmahe* ← *rabh*
+- \[verb\], plural, Present indikative
+- “clasp.”
+------------------------------------------------------------------------
+- *ṛtasya* ← *ṛta*
+- \[noun\], genitive, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *pathā* ← *pathin*
+- \[noun\], instrumental, singular
+- “way; road; path \[word\]; journey; method.”
+------------------------------------------------------------------------
+- *nayāti* ← *naya* ← *nī*
+- \[verb\], singular, Present imperative
+- “bring; lead; spend; decant; enter (a state); remove; take out; take
+    away; enforce; marry; carry; fill into; bring; learn; go out; add.”
+------------------------------------------------------------------------
+- *nayāti* ← *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+------------------------------------------------------------------------
+- *viśvāni* ← *viśva*
+- \[noun\], accusative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *duritā* ← *durita*
+- \[noun\], accusative, plural, neuter
+- “danger; sin; difficulty; difficulty; evil.”
+------------------------------------------------------------------------
+- *nabhantām* ← *nabh*
+- \[verb\], plural, Present imperative
+- “burst.”
+------------------------------------------------------------------------
+- *anyakeṣāṃ* ← *anyakeṣām* ← *anyaka*
+- \[noun\], genitive, plural, masculine
+- “other; another(a).”
+------------------------------------------------------------------------
+- *jyākā* ← *jyākāḥ* ← *jyākā*
+- \[noun\], nominative, plural, feminine
+- “bowstring.”
+------------------------------------------------------------------------
+- *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+------------------------------------------------------------------------
+- *dhanvasu* ← *dhanvan*
+- \[noun\], locative, plural, neuter
+- “bow; desert; steppe; barren.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **इन्द्र** **त्वायवः** त्वामात्मन इच्छन्तः **वयं** **सखित्वं** सखिकर्म यज्ञात्मकम्, **आ** **रभामहे** उपक्रमामहे। **ऋतस्य** सत्यस्य यज्ञस्य **पथा** मार्गेण । भस्य टेर्लोपः । उदात्तनिवृत्तिस्वरेण तृतीयाया उदात्तत्वम् । **विश्वानि** सर्वाणि **दुरिता** दुरितानि दुर्गमनानि पापानि तत्फलानि च **नः** अस्मान **अति** नय अतिपारय । गतमन्यत् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Devoted to you, **Indra**, we strive after your friendship; lea\\d us by the path of sacrifice beyond all evils;may the bowstrings on the bows of our enemies be destroyed.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+We, seeking you, seize hold of your companionship, Indra.  
+Lead us along the path of truth, across all difficult passages.  
+– Let the little bowstrings of the other squirts burst on their bows.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Close to thy friendship do we cling, O Indra, and depend, or, thee.  
+     Lead us beyond all pain and grief along the path of holy Law.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Als deine Anhänger. O Indra, klammern wir uns an deine Freundschaft. Führ uns auf rechtem Wege über alle Fährlichkeiten hinweg! - Die Sehnchen der anderen Schwächlinge sollen an dem Bogen entzwei gehen!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Wir, Indra, sind dir treu gesinnt, an deiner Freundschaft halten wir; Führ du uns auf des Rechtes Pfad durch alles Leid und Ungemach; Zerreissen soll den anderen die Sehne, die den Bogen spannt.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Преданные тебе, Индра,  
+Мы цепляемся за дружбу (с тобой).  
+Веди нас путем закона  
+Через все трудности!  
+Пусть лопнут у других людишек  
+(Их) жалкие тетивы на луках!
+</details>

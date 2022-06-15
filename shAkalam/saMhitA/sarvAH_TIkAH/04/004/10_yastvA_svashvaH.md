@@ -1,0 +1,179 @@
++++
+title = "010"
+devataa = "रक्षोहाग्निः"
+RShiH = "वामदेवो गौतमः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+य꣡स् त्वा सुअ꣡श्वः सुहिरण्यो꣡ अग्न  
+उपया꣡ति व꣡सुमता र꣡थेन  
+त꣡स्य त्राता꣡ भवसि त꣡स्य स꣡खा  
+य꣡स् त आतिथ्य꣡म् आनुष꣡ग् जु꣡जोषत्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । त्वा॒ । सु॒ऽअश्वः॑ । सु॒ऽहि॒र॒ण्यः । अ॒ग्ने॒ । उ॒प॒ऽयाति॑ । वसु॑ऽमता । रथे॑न ।  
+तस्य॑ । त्रा॒ता । भ॒व॒सि॒ । तस्य॑ । सखा॑ । यः । ते॒ । आ॒ति॒थ्यम् । आ॒नु॒षक् । जुजो॑षत् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *yas* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *tvā* ← *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *svaśvaḥ* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *svaśvaḥ* ← *aśvaḥ* ← *aśva*
+- \[noun\], nominative, singular, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *suhiraṇyo* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suhiraṇyo* ← *hiraṇyaḥ* ← *hiraṇya*
+- \[noun\], nominative, singular, masculine
+- “gold; jewelry; hiraṇya \[word\]; gold.”
+------------------------------------------------------------------------
+- *agna* ← *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *upayāti* ← *upayā* ← *√yā*
+- \[verb\], singular, Present indikative
+- “enter (a state); arrive; come; go.”
+------------------------------------------------------------------------
+- *vasumatā* ← *vasumat*
+- \[noun\], instrumental, singular, masculine
+- “deluxe; affluent; rich.”
+------------------------------------------------------------------------
+- *rathena* ← *ratha*
+- \[noun\], instrumental, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *tasya* ← *tad*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *trātā* ← *trā*
+- \[verb\], singular, periphrast. future
+- “protect; help.”
+------------------------------------------------------------------------
+- *bhavasi* ← *bhū*
+- \[verb\], singular, Present indikative
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+------------------------------------------------------------------------
+- *tasya* ← *tad*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *sakhā* ← *sakhi*
+- \[noun\], nominative, singular, masculine
+- “friend; companion; sakhi \[word\].”
+------------------------------------------------------------------------
+- *yas* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *ta* ← *te* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *ātithyam* ← *ātithya*
+- \[noun\], accusative, singular, neuter
+- “cordial reception.”
+------------------------------------------------------------------------
+- *ānuṣag* ← *ānuṣak*
+- \[adverb\]
+- “correctly; in sequence; punctually.”
+------------------------------------------------------------------------
+- *jujoṣat* ← *juṣ*
+- \[verb\], singular, Perfect conjunctive (subj.)
+- “enjoy; endow; possess; frequent; accompany; induce; consume;
+    approve; affect; attend; befit; blend; contract.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **अग्ने** **यः** पुमान् **स्वश्वः** शोभनाश्वोपेतः **सुहिरण्यः** यागयोग्यधनोपेतः **वसुमता** व्रीह्यादिधनयुक्तेन **रथेन** सहितः सन् **त्वा** त्वाम् **उपयाति** परिचरणार्थं तव समीपं गच्छति ॥ **तस्य** पुंसः **त्राता** सर्वदुरितेभ्यो रक्षकः **भवसि** । **यः** च पुमान् **ते** तव **आतिथ्यम्** अतिथियोग्यां पूजाम् **आनुषक्** अनुक्रमेण **जुजोषत्** प्रापयति **तस्य** पुंसः **सखा** तदुचितफलप्रदानेनोपकर्ता भवसि । उपयाति ।  ‘ सह सुपा ' इत्यत्र सहेति योगविभागात् समासः । तिपः पित्त्वादनुदात्तत्वे धातुस्वरः ।  ‘ तिङि चोदात्तवति' इति गतेर्निघातः । आतिथ्यम् । अतिथिशब्दात् तादर्थ्ये  ‘ अतिथेर्ञ्यः' इति ञ्यप्रत्ययः । प्रत्ययस्वरः । जुजोषत् । जोषयतेर्लङि ‘बहुलं छन्दसि' इति शपः श्लुः । अडागमः । 'छन्दस्युभयथा' इति तिप आर्धधातुकत्वात् णिलोपः। ‘अभ्यस्तानामादिः' इत्याद्युदात्त: ॥ ॥ २४ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“You **Agni**, are the protector of him who, possessed of good horses and a golden car, approaches you with a chariot laden with wealth; you are the friend of him who gratifies you be the due performance of hospitality to you.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Whoever, rich in horses and gold, drives up to you, Agni, with a chariot  full of goods,  
+his protector do you become and the (ritual) partner of him who will  regularly enjoy your guest-friendship.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+Unlike 8c, where I took sváśva- surátha- as proleptic with the priestly subject “we,” here the man who is sváśva- suhiraṇyá- appears to be already rich, with a chariot full of goods -- and therefore most likely the patron of the sacrifice, who (we hope) will redistribute this wealth to us performers via the sacrifice. This may be the purport of sákhā ‘partner’ here. Geldner suggests (n. 10ab) that the figure in question is a ruler returning from battle with booty.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Whoso with good steeds and fine gold, O Agni, comes nigh thee on a car laden with trcasure,  
+     His Friend art thou, yea, thou art his Protector whose joy it is to entertain thee duly.
+</details>
+
+<details><summary>+Oldenberg</summary>
+
+Whoever, rich in horses and rich in gold, approaches thee, O Agni, with his chariot full of wealth—thou art the protector and the friend of him who always delights in showing thee hospitality.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Der Besitzer schöner Rosse, schönen Goldes, der zu dir, Agni, auf schätzebeladenem Wagen kommt, dessen Schirmer wirst du, dessen Freund, und wer sich deiner Gastfreundschaft gebührlich erfreut.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Wer zu dir kommt an Rossen reich und Goldschmuck, o Agni, und mit schatzbeladnem Wagen, Dem bist du Schützer, liebender Genosse, wer fort und fort als lieben Gast dich aufnimmt.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Кто приближается к тебе, о Агни, имея прекрасных коней,  
+Прекрасное золото, на колеснице, полной добра, –  
+Ты бываешь защитником того, другом того,  
+Кто наслаждается твоим гостеприимством, как подобает.
+</details>

@@ -1,6 +1,0 @@
-+++
-title = "09"
-
-+++
-The standard tr. take the injunctive uchat as a modal (Geldner “soll … hinweg leuchten”), but since this verb is parallel to a presential perfect nānāma (so Kümmel 278- 79, pace Witzel Gotō “hat sich … gebeut”) and a pres. indic. kṛṇoti, I see no reason to ascribe modal value to uchat.
-

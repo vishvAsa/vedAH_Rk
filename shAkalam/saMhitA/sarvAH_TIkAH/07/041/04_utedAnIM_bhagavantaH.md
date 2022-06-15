@@ -1,0 +1,176 @@
++++
+title = "004"
+devataa = "भगः"
+RShiH = "वसिष्ठः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+उते꣡दा꣡नीम् भ꣡गवन्तः सियाम  
+उत꣡ प्रपित्व꣡ उत꣡ म꣡ध्ये अ꣡ह्नाम्  
+उतो꣡दिता मघवन् सू꣡रियस्य  
+वयं꣡ देवा꣡नां सुमतउ꣡ सियाम
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒त । इ॒दानी॑म् । भग॑ऽवन्तः । स्या॒म॒ । उ॒त । प्र॒ऽपि॒त्वे । उ॒त । मध्ये॑ । अह्ना॑म् ।  
+उ॒त । उत्ऽइ॑ता । म॒घ॒ऽव॒न् । सूर्य॑स्य । व॒यम् । दे॒वाना॑म् । सु॒ऽम॒तौ । स्या॒म॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *utedānīm* ← *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *utedānīm* ← *idānīm*
+- \[adverb\]
+- “now.”
+------------------------------------------------------------------------
+- *bhagavantaḥ* ← *bhagavat*
+- \[noun\], nominative, plural, masculine
+- “honorable; divine; fortunate; holy; adorable; happy; august;
+    favored.”
+------------------------------------------------------------------------
+- *syāmota* ← *syāma* ← *as*
+- \[verb\], plural, Present optative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *syāmota* ← *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *prapitva* ← *prapitve* ← *prapitva*
+- \[noun\], locative, singular, neuter
+- “beginning.”
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *madhye* ← *madhya*
+- \[noun\], locative, singular, neuter
+- “midst; center; cavity; inside; middle; center; waist; group; pulp;
+    torso; time interval; area; series; madhya \[word\]; Madhya; noon;
+    middle; middle age; span; belly.”
+------------------------------------------------------------------------
+- *ahnām* ← *ahar*
+- \[noun\], genitive, plural, neuter
+- “day; day; ahar \[word\]; day; day.”
+------------------------------------------------------------------------
+- *utoditā* ← *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *utoditā* ← *uditā* ← *uditi*
+- \[noun\], locative, singular, feminine
+- “rise.”
+------------------------------------------------------------------------
+- *maghavan*
+- \[noun\], vocative, singular, masculine
+- “big.”
+------------------------------------------------------------------------
+- *sūryasya* ← *sūrya*
+- \[noun\], genitive, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+------------------------------------------------------------------------
+- *vayaṃ* ← *vayam* ← *mad*
+- \[noun\], nominative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *devānāṃ* ← *devānām* ← *deva*
+- \[noun\], genitive, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *sumatau* ← *sumati*
+- \[noun\], locative, singular, feminine
+- “benevolence; favor; Sumati.”
+------------------------------------------------------------------------
+- *syāma* ← *as*
+- \[verb\], plural, Present optative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**उत** अपि च **इदानीं** वयं **भगवन्तः** **स्याम** । हे भग भगेन त्वया स्वामिना युक्ता भवेम । यद्वा । भगवन्तो धनवन्तः स्याम । **उत** अपि च **प्रपित्वे** अह्रां प्राप्ते पूर्वाह्ने भगवन्तः स्याम। **उत** अपि च **अह्नां** दिवसानां **मध्ये** मध्याह्ने भगवन्तः स्याम । **उत** अपि च हे **मघवन्** धनवन् भग देव **सूर्यस्य** सर्वस्य प्रेरकस्य देवस्य **उदिता** उदितौ उदये सति **वयं** त्वदनुग्रहात् **देवानाम्** इन्द्रादीनां **सुमतौ** अनुग्रहबुद्धौ **स्याम** भवेम ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“May we now have **Bhaga** (for our lord), whether in the forenoon or mid- day, or at sun-rise; may we,**Maghavan**, enjoy the favour of the gods.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Bhaga: utedanim bhagavantaḥ **syāma**, may we be now possessors ofBhaga; or, may we be possessors of wealth;
+
+Bhagavantaḥ = also, possessors of knowledge, jñānavantaḥ;
+
+Atsunrise: prapitve = purvāhne; alternative meaning: sūryasya prapatane, astomaye, sun-down, sunset
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+And just now might we be possessed of portion [/accompanied by  Bhaga], and at evening and at the middle of the days,  
+and at the rising of the sun, o bounteous one, might we be in the good  grace of the gods.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+On the structural relationship of the various utá-s here, see Klein DGRV I.355-56.
+
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/041/03-05.md">
+<details open><summary><h2>03-05 ...{Loading}...</h2></summary>
+
+The concatenation continues in the next vss. The ending of vs. 3, … nṛvántaḥ syāma, echoes in the following two vss. The 1st pl. opt. syāma is repeated at the end of 4a and d and 5b, while the -vant-stem adj. shifts from nṛvántaḥ (3d) to another punning bhágavantaḥ (both ‘possessing a portion’ and ‘accompanied by Bhaga’) in bhágavantaḥ syāma (4a, 5b; cf. bhágavān 5a). And bhágavān in 5a matches maghavan in the same metrical position in 4c.
+
+</details>
+</div>
+</details>
+
+<details><summary>+Griffith</summary>
+
+So may felicity be ours at present, and when the day approaches, and at noontide;  
+     And may we still, O Bounteous One, at sunset be happy in the Deities' loving-kindness.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Und zu dieser Stunde möchten wir glücklich sein und im Vorrücken der Sonne und in der Mitte der Tage und bei Aufgang der Sonne, o Gabenreicher, möchten wir in der Gunst der Götter stehen.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Auch jetzt versorge uns mit reichem Antheil beim Tages Anbruch und in Tages Mitte; Und, o gewalt'ger, bei der Sonne Heimgang lass du uns stehen in der Gunst der Götter.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+А также пусть будем мы сейчас счастливыми,  
+А также утром, а также в середине дней,  
+А также на восходе солнца, о щедрый!  
+Пусть будем мы в милости у богов!
+</details>

@@ -1,0 +1,170 @@
++++
+title = "002"
+devataa = "हरिस्तुतिः"
+RShiH = "बरुः सर्वहरिर्वैन्द्रः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+ह꣡रिं हि꣡ यो꣡निम् अभि꣡ ये꣡ सम꣡स्वरन्  
+हिन्व꣡न्तो ह꣡री दिवियं꣡ य꣡था स꣡दः  
+आ꣡ य꣡म् पृण꣡न्ति ह꣡रिभिर् न꣡ धेन꣡व  
+इ꣡न्द्राय शूषं꣡ ह꣡रिवन्तम् अर्चत
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+हरि॑म् । हि । योनि॑म् । अ॒भि । ये । स॒म्ऽअस्व॑रन् । हि॒न्वन्तः॑ । हरी॒ इति॑ । दि॒व्यम् । यथा॑ । सदः॑ ।  
+आ । यम् । पृ॒णन्ति॑ । हरि॑ऽभिः । न । धे॒नवः॑ । इन्द्रा॑य । शू॒षम् । हरि॑ऽवन्तम् । अ॒र्च॒त॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *hariṃ* ← *harim* ← *hari*
+- \[noun\], accusative, singular, feminine
+- “reddish brown; yellow; pale; yellow; aureate.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *yonim* ← *yoni*
+- \[noun\], accusative, singular, feminine
+- “vagina; vulva; uterus; beginning; origin; reincarnation;
+    birthplace; family; production; cause; race; grain; raw material;
+    birth; kind; caste; kinship; bed.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *ye* ← *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *samasvaran* ← *saṃsvar* ← *√svar*
+- \[verb\], plural, Imperfect
+------------------------------------------------------------------------
+- *hinvanto* ← *hinvantaḥ* ← *hi*
+- \[verb noun\], nominative, plural
+- “impel; send; spur; stimulate; urge.”
+------------------------------------------------------------------------
+- *harī* ← *hari*
+- \[noun\], accusative, dual, masculine
+- “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
+    haritāla; Hari; snake; frog.”
+------------------------------------------------------------------------
+- *divyaṃ* ← *divyam* ← *divya*
+- \[noun\], accusative, singular, neuter
+- “divine; celestial; divine; heavenly; divine; beautiful; rain;
+    agreeable.”
+------------------------------------------------------------------------
+- *yathā*
+- \[adverb\]
+- “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
+------------------------------------------------------------------------
+- *sadaḥ* ← *sadas*
+- \[noun\], accusative, singular, neuter
+- “mansion; assembly; seat; seat.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *yam* ← *yad*
+- \[noun\], accusative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *pṛṇanti* ← *pṛ*
+- \[verb\], plural, Present indikative
+- “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
+    mix; complete.”
+------------------------------------------------------------------------
+- *haribhir* ← *haribhiḥ* ← *hari*
+- \[noun\], instrumental, plural, masculine
+- “reddish brown; yellow; pale; yellow; aureate.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *dhenava* ← *dhenavaḥ* ← *dhenu*
+- \[noun\], nominative, plural, feminine
+- “cow; dhenu \[word\]; milk.”
+------------------------------------------------------------------------
+- *indrāya* ← *indra*
+- \[noun\], dative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *śūṣaṃ* ← *śūṣam* ← *śūṣa*
+- \[noun\], accusative, singular, masculine
+- “song; energy.”
+------------------------------------------------------------------------
+- *harivantam* ← *harivat*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *arcata* ← *arc*
+- \[verb\], plural, Present imperative
+- “sing; worship; honor; praise; welcome.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+ये पूर्वे स्तोतार ऋषयो योनिमिन्द्रस्य स्थानभूतं हरिमश्वमभिसमस्वरन्। स्वृ शब्दोपतापयोः। अभिसंस्तुवन्ति। किं कुर्वन्तः। दिव्यं देवसम्बन्धि सदो यागगृहं यथा प्रेरयन्तीन्द्रं तथा हरी अश्वौ हिन्वन्तः प्रेरयन्तः। सोमेऽभिषुते सति स्वयमेवेन्द्रो रथेऽश्वौ प्रेरयति अतः सोतॄणां हरिप्रेरणत्वम्। यद्वा। दिव्यं सद इन्द्रः प्राप्नुयाद्यथा तथा हरी स्तुतिभिर्हिन्वन्तः प्रेरयन्तः। यमिन्द्रं धेनवो नवप्रसुतिका गावो यथा पृणन्ति क्षीरादिभिः। अत्र पुरस्तादुपचारोऽपि नकार उपमार्थीयः। हरिभिर्हरितवर्णैः सोमैरापृणन्ति पुरयन्ति च। तथा यूयमपीन्द्रायेन्द्रस्य हरिवन्तं शूषं बलमर्चत। पूजयत हे स्तोतारः स्तुतिभिः॥२॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“You, who have praised the horse, the seat of **Indra**, urging the horses so that (Indra may reach) thedivine assembly, do you worship the horse- possessing might of Indra, whom men delight with the golden-tintedSoma as kine (with their milk).”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+For those who have cried out together toward the golden womb are  the ones spurring on the two golden (horses) toward it as toward a  
+heavenly seat.  
+(To him) whom they fill with golden (soma drops) as milk-cows do  
+with golden (drops of ghee)—to Indra chant a fortifying (hymn),  
+accompanied by golden (soma).
+</details>
+
+<details><summary>+Griffith</summary>
+
+Ye who in concert sing unto the goldhued place, like Bay Steeds driving onward to the heavenly seat,  
+     For Indra laud ye strength allied with Tawny Steeds, laud him whom cows content as 'twere with yellow drops.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Da sie ja im Chore den goldgelben Schoß besungen haben wie den himmlischen Sitz, indem sie das Falbenpaar zur Eile treiben, und sie ihn wie Milchkühe mit den goldgelben Tropfen anfüllen, so singet dem Indra ein stärkendes Lied, das vom goldgelben Soma begleitet ist!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Die im Verein hinrauschen zu dem goldnen Schooss, die goldnen Rosse spornend wie zum Himmelssitz; Dem Indra, den der Saft mit goldnen Tropfen füllt, ihm singt ein kräftig Lied vom goldnen Somatrunk.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Ведь (те,) что вместе воспели золотистое лоно,  
+Поторапливая пару буланых коней, словно на небесное сиденье,  
+Кого они наполняют, словно дойные коровы, (сому) золотистыми (струями) –  
+Пропойте для (этого) Индры торжественную песнь, сопровождаемую золотистым (сомой)!
+</details>

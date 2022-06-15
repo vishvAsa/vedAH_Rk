@@ -1,0 +1,172 @@
++++
+title = "001"
+devataa = "पवमानः सोमः"
+RShiH = "कविः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+धर्ता꣡ दिवः꣡ पवते कृ꣡त्वियो र꣡सो  
+द꣡क्षो देवा꣡नाम् अनुमा꣡दियो नृ꣡भिः  
+ह꣡रिः सृजानो꣡ अ꣡तियो न꣡ स꣡त्वभिर्  
+वृ꣡था पा꣡जांसि कृणुते नदी꣡षु आ꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ध॒र्ता । दि॒वः । प॒व॒ते॒ । कृत्व्यः॑ । रसः॑ । दक्षः॑ । दे॒वाना॑म् । अ॒नु॒ऽमाद्यः॑ । नृऽभिः॑ ।  
+हरिः॑ । सृ॒जा॒नः । अत्यः॑ । न । सत्व॑ऽभिः । वृथा॑ । पाजां॑सि । कृ॒णु॒ते॒ । न॒दीषु॑ । आ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *dhartā* ← *dhartṛ*
+- \[noun\], nominative, singular, masculine
+- “supporter.”
+------------------------------------------------------------------------
+- *divaḥ* ← *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *pavate* ← *pū*
+- \[verb\], singular, Present indikative
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *kṛtvyo* ← *kṛtvyaḥ* ← *kṛtvya*
+- \[noun\], nominative, singular, masculine
+- “confident.”
+------------------------------------------------------------------------
+- *raso* ← *rasaḥ* ← *rasa*
+- \[noun\], nominative, singular, masculine
+- “mercury; juice; medicine; rasa; alchemy; liquid; Rasa; mahārasa;
+    taste; broth; elixir; resin; rasa; essence; six; water; soup; liquid
+    body substance; rasa; formulation; myrrh; rasa \[word\]; amṛta;
+    purpose; delight; solution; milk; beverage; alcohol; sap; nectar;
+    Rasātala.”
+------------------------------------------------------------------------
+- *dakṣo* ← *dakṣaḥ* ← *dakṣa*
+- \[noun\], nominative, singular, masculine
+- “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
+------------------------------------------------------------------------
+- *devānām* ← *deva*
+- \[noun\], genitive, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *anumādyo* ← *anumādyaḥ* ← *anumad* ← *√mad*
+- \[verb noun\], nominative, singular
+- “praise; cheer; applaud.”
+------------------------------------------------------------------------
+- *nṛbhiḥ* ← *nṛ*
+- \[noun\], instrumental, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *hariḥ* ← *hari*
+- \[noun\], nominative, singular, masculine
+- “reddish brown; yellow; pale; yellow; aureate.”
+------------------------------------------------------------------------
+- *sṛjāno* ← *sṛjānaḥ* ← *sṛj*
+- \[verb noun\], nominative, singular
+- “create; shoot; discharge; free; cause; throw; emit; send; produce;
+    use; be born; make.”
+------------------------------------------------------------------------
+- *atyo* ← *atyaḥ* ← *atya*
+- \[noun\], nominative, singular, masculine
+- “horse; steed.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *satvabhir* ← *satvabhiḥ* ← *satvan*
+- \[noun\], instrumental, plural, masculine
+------------------------------------------------------------------------
+- *vṛthā*
+- \[adverb\]
+- “vainly; incorrectly; unnecessarily; at will.”
+------------------------------------------------------------------------
+- *pājāṃsi* ← *pājas*
+- \[noun\], accusative, plural, neuter
+- “luminosity; look.”
+------------------------------------------------------------------------
+- *kṛṇute* ← *kṛ*
+- \[verb\], singular, Present indikative
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *nadīṣv* ← *nadīṣu* ← *nadī*
+- \[noun\], locative, plural, feminine
+- “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**धर्ता** सर्वस्य धारकः सोमः **दिवः** अन्तरिक्षात् अन्तरिक्षस्थिताद्दशापवित्रात् **पवते** पूयते । कीदृशः सोमः । **कृत्व्यः** कर्तव्यः । शोध्य इत्यर्थः । **रसः** रसात्मको **देवानां** **दक्षः** बलप्रदः । यद्वा । दक्षः प्रवर्धनीयो देवानामर्थाय । तथा **नृभिः** नेतृभिर्ऋत्विग्भिः **अनुमाद्यः** अनुमदनीयः स्तुत्यो वा **हरिः** हरितवर्णः **सत्वभिः** प्राणिभिः सादिभिः **सृजानः** सृज्यमानः **अत्यो** **न** अश्व इव स यथा शिक्षितो **वृथा** अनायासेन गच्छति तद्वत् वृथा अप्रयत्नेन **पाजांसि** बलानि स्वीयान् वेगान् कृणुते कुरुते । **नदीषु** वस्तीवरीषु । ताभिरित्यर्थः । **आ** सिक्त इति शेषः । अयम् अभिषवसमयाभिप्रायः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“(**Soma**) the sustainer (of all) flows from the firmament, the purifiable juice, the invigorator of the gods, worthy tobe praised by the priests; green-tinted like a horse let loose by the charioteers he easily restores his vigour in the waters.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+The supporter of heaven purifies himself, the sap that gets results, the  skill of the gods to be celebrated by men.  
+The tawny one sent surging, like a charger by warriors, deploys his full  dimensions in the rivers at will.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+On pā́jas- see comm. ad I.58.3. For a god making or assuming his pā́jas-, see, with medial forms of √kṛ, IV.4.1 kṛṇuṣvá pā́jaḥ (of Agni) as well as IX.88.5 vṛ́thā pā́jāṃsi kṛṇute nadī́ṣu, identical to our passage except with a Triṣṭubh cadence, and, with ā́√dā, IX.68.3 pā́ja ā́dade. Presumably in our passage and 88.5 it depicts the swelling of the soma stalks in the waters.
+</details>
+
+<details><summary>+Griffith</summary>
+
+ON flows the potent juice, sustainer of the heavens, the strength of Gods, whom men must hail with shouts of joy.  
+     The Gold-hued, started like a courser by brave men, impetuously winneth splendour in the streams.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Der Träger des Himmels läutert sich, der den Sieg entscheidende Saft, die Kraft der Götter, von den Männern zu begrüßen. Der goldgelbe Falbe, der losgelassen wird wie ein Rennpferd von den Tapferen, nimmt in den Strömen nach Belieben seine Formen an.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Des Himmels Träger rieselt, der gewalt'ge Saft, der Götter Krafttrunk, von den Männern gern begrüsst, Gleich wie ein Ross gespornt von Streitern, zeigt mit Lust der goldne Renner in den Strömen seinen Glanz.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Поддерживатель неба очищается, действенный сок,  
+Сила действия богов, тот, кого должны приветствовать мужи.  
+Буланый, как скакун, выпущенный воинами,  
+По (своей) прихоти принимает формы в реках.
+</details>

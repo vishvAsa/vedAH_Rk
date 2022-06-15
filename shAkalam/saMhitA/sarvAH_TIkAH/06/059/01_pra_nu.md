@@ -1,0 +1,181 @@
++++
+title = "001"
+devataa = "इन्द्राग्नी"
+RShiH = "भरद्वाजो बार्हस्पत्यः"
+ChandaH = "बृहती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+प्र꣡ नु꣡ वोचा सुते꣡षु वां  
+वीरि꣡या या꣡नि चक्र꣡थुः  
+हता꣡सो वाम् पित꣡रो देव꣡शत्रव  
+इ꣡न्द्राग्नी जी꣡वथो युव꣡म्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र । नु । वो॒च॒ । सु॒तेषु॑ । वा॒म् । वी॒र्या॑ । यानि॑ । च॒क्रथुः॑ ।  
+ह॒तासः॑ । वा॒म् । पि॒तरः॑ । दे॒वऽश॑त्रवः । इन्द्रा॑ग्नी॒ इति॑ । जीव॑थः । यु॒वम् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *vocā* ← *vac*
+- \[verb\], singular, Aorist conj./subj.
+- “say; describe; name; tell; address; enumerate; call; state; teach;
+    explain; say; declare; speak; define; declare; order; address;
+    recommend; answer; deem; recite; approve; proclaim; indicate;
+    determine; mention; designate.”
+------------------------------------------------------------------------
+- *suteṣu* ← *suta*
+- \[noun\], locative, plural, masculine
+- “Soma.”
+------------------------------------------------------------------------
+- *vāṃ* ← *vām* ← *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *vīryā* ← *vīrya*
+- \[noun\], accusative, plural, neuter
+- “potency; vīrya; heroism; potency; strength; semen; power; deed;
+    active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
+    virility; manfulness; jewel; force.”
+------------------------------------------------------------------------
+- *yāni* ← *yad*
+- \[noun\], accusative, plural, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *cakrathuḥ* ← *kṛ*
+- \[verb\], dual, Perfect indicative
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *hatāso* ← *hatāsaḥ* ← *han*
+- \[verb noun\], nominative, plural
+- “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
+    paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
+    affect; strike; hammer; love; obstruct; shoot.”
+------------------------------------------------------------------------
+- *vām* ← *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *pitaro* ← *pitaraḥ* ← *pitṛ*
+- \[noun\], nominative, plural, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+------------------------------------------------------------------------
+- *devaśatrava* ← *deva*
+- \[noun\], masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *devaśatrava* ← *śatravaḥ* ← *śatru*
+- \[noun\], nominative, plural, masculine
+- “enemy; foe; enemy; Asura.”
+------------------------------------------------------------------------
+- *indrāgnī* ← *indra*
+- \[noun\], masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *indrāgnī* ← *agnī* ← *agni*
+- \[noun\], vocative, dual, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *jīvatho* ← *jīvathaḥ* ← *jīv*
+- \[verb\], dual, Present indikative
+- “survive; be; exist; live on; dwell.”
+------------------------------------------------------------------------
+- *yuvam* ← *tvad*
+- \[noun\], nominative, dual
+- “you.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे इन्द्राग्नी **यानि** **वीर्या** वीर्याणि वीरकर्माणि **चक्रथुः** कृतवन्तौ युवां **सुतेषु** अभिषुतेषु सोमेषु अस्मद्यज्ञे **वां** युवयोः तानि वीर्याणि **नु** क्षिप्रं **प्र** **वोच** प्रवोचं प्रब्रवीमि । तदेव वीर्यं दर्शयति । हे **इन्द्राग्नी** **देवशत्रवः** । देवाः शत्रवः शातयितारो येषां तादृशाः । असुराः **पितरः** हिंसकाः । पीयतिर्हिंसाकर्मा । तस्यैतद्रूपम् । ईदृशा असुराः **वां** युवाभ्यां **हतासः** हता: आसन् । **युवं** युवां तु **जीवथः** जीवनवन्तौ भवथः । असुरैर्न बाधिताविति यावत् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“When the libation is effused I celebrate, **Indra** and **Agni**, your heroic exploits; the Pitaras, the enemies of the gods, have been slain by you, and you survive.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+The Pitaras: **asuras**, as derived from the root pi, to injure, piyatir hiṃsākarme
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+I shall now proclaim, when (soma drinks) have been pressed for you, the  manly deeds that you two have done.  
+Slain are your fathers whose rivals were the gods, but, o Indra and Agni,  you are (still) alive.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+As noted in the published introduction, the clichéd́ introduction. “I shall proclaim (prá √vac) the manly deeds …” associated esp. with Indra hymns (esp. I.32) is here directed to both gods. The “real” subjunctive vocā is found only here in the RV, in contrast to the more common injunctive / functional subjunctive vocam.
+
+The enclitic vām is unusually stationed pāda-final, but in fact it occupies 2nd position in its small clause, the loc. absol. sutéṣu vām “on (the soma-drinks) having been pressed for you two.” Geldner takes vām with following vīryā̀(“euren Heldentaten”), but the pāda break that separates them makes that less likely. Renou ignores the vām in his tr. and attaches the loc. absol. to the rel. cl., which is syntactically unlikely. Pādafinal vām is in fact a tic of this hymn; see 2a, 4a, and 5a besides our 1a. Perhaps it echoes the 2nd syllable of yuvám ‘you two’, found at pāda end in 1d, 2c.
+
+The contents of the 2nd hemistich is quite dramatic. The standard view going back to Sāyaṇa. (see Geldner’s n. 1c) is that the slain Fathers are the Asuras and that this event is also reflected in the enigmatic X.124. However, see my 2016 treatment of X.124, “The Divine Revolution of Ṛgveda X.124: A New Interpretation. Beyond Asuras and Devas” (Ged. Staal), which rejects the view that that hymn concerns the Deva/Asura conflict. Here in our passage, certainly the easiest interpretation is that the rivals of the gods are the Asuras, but keep in mind that the Deva/Asura conflict so prominent in the Brāhmaṇas and later does not really surface until very late RV.
+
+Moreover, even in the old interpr. of X.124 neither Indra nor Agni appears to have been an Asura. I do not know what to make of our passage, but I doubt that the old interpr. holds.
+</details>
+
+<details><summary>+Griffith</summary>
+
+I WILL declare, while juices flow, the manly deeds that ye have done:  
+     Your Fathers, enemies of Gods, were smitten down, and, Indra-Agni, ye survive.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Nun will ich bei gepreßtem Soma eure Heldentaten verkünden, die ihr beide vollbracht habt. Eure Väter sind erschlagen, die die Götter zu Feinden hatten. Ihr beide, Indra und Agni, seid am Leben.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Bei Somatränken preis' ich nun die Thaten, die ihr habt vollbracht; Die Götterfeinde, eure Schmäher, sind erlegt; ihr aber, Indra-Agni, lebt.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Сейчас я хочу провозгласить у выжатых (соков сомы) ваши  
+Героические подвиги, которые вы оба совершили.  
+Убиты ваши предки, о те, кому боги враги –  
+О Индра-Агни, (а) вы двое живете.
+</details>

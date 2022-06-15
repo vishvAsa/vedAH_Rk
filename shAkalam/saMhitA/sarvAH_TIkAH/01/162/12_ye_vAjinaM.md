@@ -1,0 +1,185 @@
++++
+title = "012"
+devataa = "अश्वः"
+RShiH = "दीर्घतमा औचथ्यः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+ये꣡ वाजि꣡नम् परिप꣡श्यन्ति पक्वं꣡  
+य꣡ ईम् आहुः꣡ सुरभि꣡र् नि꣡र् हरे꣡ति  
+ये꣡ चा꣡र्वतो मांसभिक्षा꣡म् उपा꣡सत  
+उतो꣡ ते꣡षाम् अभि꣡गूर्तिर् न इन्वतु
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+popular  
+popular  
+popular  
+popular;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ये । वा॒जिन॑म् । प॒रि॒ऽपश्य॑न्ति । प॒क्वम् । ये । ई॒म् । आ॒हुः । सु॒र॒भिः । निः । ह॒र॒ । इति॑ ।  
+ये । च॒ । अर्व॑तः । मां॒स॒ऽभि॒क्षाम् । उ॒प॒ऽआस॑ते । उ॒तो इति॑ । तेषा॑म् । अ॒भिऽगू॑र्तिः । नः॒ । इ॒न्व॒तु॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *ye* ← *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *vājinam* ← *vājin*
+- \[noun\], accusative, singular, masculine
+- “horse; bird; seven; hero; achiever; aphrodisiac.”
+------------------------------------------------------------------------
+- *paripaśyanti* ← *paripaś* ← *√paś*
+- \[verb\], plural, Present indikative
+------------------------------------------------------------------------
+- *pakvaṃ* ← *pakvam* ← *pakva*
+- \[noun\], accusative, singular, masculine
+- “heated; pakva; ripe; cooked; festering; baked; developed; doomed;
+    digested; pakva \[word\]; suppurative; gray; fruiting; done.”
+------------------------------------------------------------------------
+- *ya* ← *ye* ← *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *īm* ← *īṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *āhuḥ* ← *ah*
+- \[verb\], plural, Perfect indicative
+- “describe; state; say; enumerate; call; name; teach; tell; deem;
+    explain; say; define.”
+------------------------------------------------------------------------
+- *surabhir* ← *surabhiḥ* ← *surabhi*
+- \[noun\], nominative, singular, masculine
+- “fragrant; perfumed; surabhi \[word\].”
+------------------------------------------------------------------------
+- *nir* ← *niḥ*
+- \[adverb\]
+- “niḥ; away; out; without.”
+------------------------------------------------------------------------
+- *hareti* ← *hara* ← *hṛ*
+- \[verb\], singular, Present imperative
+- “cure; remove; kidnap; rob; take away; get; destroy; take; extract;
+    collect; seize; clean; offer; drain; pick; take out; bring; accept;
+    sever; produce; conquer; steal; deprive; press out.”
+------------------------------------------------------------------------
+- *hareti* ← *iti*
+- \[adverb\]
+- “thus; so; iti \[word\].”
+------------------------------------------------------------------------
+- *ye* ← *yad*
+- \[noun\], nominative, dual, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *cārvato* ← *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *cārvato* ← *arvataḥ* ← *arvant*
+- \[noun\], genitive, singular, masculine
+- “horse.”
+------------------------------------------------------------------------
+- *māṃsabhikṣām* ← *māṃsa*
+- \[noun\], neuter
+- “meat; flesh; pulp; māṃsa \[word\].”
+------------------------------------------------------------------------
+- *māṃsabhikṣām* ← *bhikṣām* ← *bhikṣā*
+- \[noun\], accusative, singular, feminine
+- “alms; bhikṣā \[word\]; beggary; food.”
+------------------------------------------------------------------------
+- *upāsata* ← *upāsate* ← *upās* ← *√ās*
+- \[verb\], singular, Present indikative
+- “worship; attend; serve; get; approach; obtain; perform; expect.”
+------------------------------------------------------------------------
+- *uto* ← *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *uto* ← *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *teṣām* ← *tad*
+- \[noun\], genitive, plural, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *abhigūrtir* ← *abhigūrtiḥ* ← *abhigūrti*
+- \[noun\], nominative, singular, feminine
+------------------------------------------------------------------------
+- *na* ← *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *invatu* ← *inv*
+- \[verb\], singular, Present imperative
+- “bring; drive.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**ये** **पक्वं** **वाजिनम्** अश्वम् अश्वावयवं **परिपश्यन्ति** परितः पावनबुद्ध्या ईक्षन्ते । **य** **ईं** ये चैनं **सुरभिः** शोभनगन्धः अतः **निर्हर** किंचिदप्यस्मभ्यं देहि **इति** **आहुः** । यद्वा । निःशेषेण देवेभ्यो हरेत्याहुः । यतः सुरभिः अतो देवयोग्यमिति । किंच **ये** **चार्वतो** **मांसभिक्षामुपासते** ये नराः अस्य अर्वतः अश्वस्य हुतशिष्टमांसयाचनामुपासते कांक्षन्ते । **उतो** अपि च **तेषाम्** उक्तविधानाम् **अभिगूर्तिः** अभितः उद्यमनं **नः** अस्मान् **इन्वतु** व्याप्नोतु । यथा अस्माभिः अश्वे उपालब्धे एवं स्पृहयन्ति तथा यज्ञो निर्वाहयतु इत्यर्थः । यद्वा । मन्त्रः देवपरो व्याख्येयः । ये देवाः वाजिनं पक्वं परिपश्यन्ति कदा होष्यतीति विलम्बं दृष्ट्वा ये च सुरभिरीमेनं निर्हर निःशेषेणास्मभ्यं देहीत्याहुः ये चार्वतोऽश्वस्य मांसभिक्षामुपासते तेषामभिगूर्तिर्न इन्वतु तेषाम् उद्यमः सफलो भवत्वित्यर्थः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Let their exertions be for our good who watch the cooking of the horse; who say, it is fragrant; therefore give us some; who solicit the flesh of the horse as alms.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Therefore give us some: ya īm āhuḥ suribhir nirhareti = ye cainam **śobhana** gandho ataḥ kiñcid asmabhyam **dehi** = who say of it, it is fragrant, therefore, give us some; or, give to to the gods;
+
+Nirhara = take off, or give, having no government
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Those who inspect the prizewinner when cooked and who say about  him: “It smells good! Take it off (the fire)!”  
+and those who draw near in hopes of a share of the meat of the steed— let the applause also of those urge us on.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+I do not believe that bhikṣā́- has yet developed the later ubiquitous sense ‘alms’ and tr. it here with full desiderative sense, contra Geldner (/Witzel Gotō) “ein Fleischalmosen.”
+</details>
+
+<details><summary>+Griffith</summary>
+
+They who observing that the Horse is ready call out and say, the smell is good; remove it;  
+     And, craving meat, await the distribution,--may their approving help promote labour.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Die das Streitroß, wenn es gar ist, prüfen, die sagen: es duftet schön, nimm es weg! -und die auf ein Fleischalmosen von dem Rennpferd warten, auch deren Zustimmung soll uns fördern.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Welche das Ross gar gebraten sehen, welche, von ihm sagen: »Schönduftend ist es vom Feuer«, welche die Gabe vom Fleische des Rosses erwarten, auch deren Zustimmung fördere uns.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+(Те,) кто осматривает коня, когда он готов,  
+Кто говорит: Он пахнет хорошо. Снимай (его).  
+И кто ожидает угощения мясом скакового коня, –  
+Их воспевание пусть также нам благоприятствует!
+</details>

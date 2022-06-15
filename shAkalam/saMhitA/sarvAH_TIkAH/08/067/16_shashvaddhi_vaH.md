@@ -1,0 +1,116 @@
++++
+title = "016"
+devataa = "आदित्याः"
+RShiH = "मत्स्यः साम्मदो मान्यो वा मैत्रावरुणिर्बहवो वा मत्स्या जालनद्धाः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+श꣡श्वद् धि꣡ वः सुदानव  
+आ꣡दित्या ऊति꣡भिर् वय꣡म्  
+पुरा꣡ नून꣡म् बुभुज्म꣡हे
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शश्व॑त् । हि । वः॒ । सु॒ऽदा॒न॒वः॒ । आदि॑त्याः । ऊ॒तिऽभिः॑ । व॒यम् ।  
+पु॒रा । नू॒नम् । बु॒भु॒ज्महे॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *śaśvaddhi* ← *śaśvat*
+- \[adverb\]
+- “always; repeatedly; continually; wholly.”
+------------------------------------------------------------------------
+- *śaśvaddhi* ← *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *vaḥ* ← *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *sudānava* ← *sudānavaḥ* ← *sudānu*
+- \[noun\], vocative, plural, masculine
+- “big; lavish.”
+------------------------------------------------------------------------
+- *ādityā* ← *ādityāḥ* ← *āditya*
+- \[noun\], vocative, plural, masculine
+- “sun; Aditya; Surya; āditya \[word\].”
+------------------------------------------------------------------------
+- *ūtibhir* ← *ūtibhiḥ* ← *ūti*
+- \[noun\], instrumental, plural, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *vayam* ← *mad*
+- \[noun\], nominative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *purā*
+- \[adverb\]
+- “once; earlier; first; purā \[indecl.\].”
+------------------------------------------------------------------------
+- *nūnam*
+- \[adverb\]
+- “now; surely; immediately; just.”
+------------------------------------------------------------------------
+- *bubhujmahe* ← *bhuj*
+- \[verb\], plural, Perfect indicative
+- “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **सुदानवः** सुदाना हे **आदित्याः** **वः** युष्माकम् **ऊतिभिः** रक्षाभिः **वयं** **पुरा** **नूनम्** इदानीमपि **शश्वत्** सर्वदा **बुभुज्महे** । यद्वा । शश्वत् बहून् भोगान् भुञ्ज्महे ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Bounteous **Ādityas**, by your protections we have continually possessed enjoyments from of old.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Because, o Ādityas of good gifts, over and over,  
+previously and now, we have benefited by your help—
+</details>
+
+<details><summary>+Griffith</summary>
+
+Fori Bountiful Adityas, we have evermore enjoyed your help,  
+     Both now and in die days of old.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Denn immer wieder haben wir uns eurer Hilfen, ihr gütigen Aditya´s, einst und jetzt erfreut.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Denn stets, Aditja's, haben wir genossen eure Hülfen, jetzt Und früher, reichlich gebende.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Ведь все время, о очень щедрые  
+Адитьи, мы подкреплялись вашими  
+Поддержками – прежде (и) сейчас
+</details>

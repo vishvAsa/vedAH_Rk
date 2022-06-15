@@ -1,0 +1,154 @@
++++
+title = "005"
+devataa = "विश्वेदेवाः"
+RShiH = "नाभानेदिष्ठो मानवः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+प्र꣡थिष्ट य꣡स्य वीर꣡कर्मम् इष्ण꣡द्  
+अ꣡नुष्ठितं नु꣡ न꣡रियो अ꣡पौहत्  
+पु꣡नस् त꣡द् आ꣡ वृहति य꣡त् कना꣡या  
+दुहितु꣡र् आ꣡ अ꣡नुभृतम् अनर्वा꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रथि॑ष्ट । यस्य॑ । वी॒रऽक॑र्मम् । इ॒ष्णत् । अनु॑ऽस्थितम् । नु । नर्यः॑ । अप॑ । औ॒ह॒त् ।  
+पुन॒रिति॑ । तत् । आ । वृ॒ह॒ति॒ । यत् । क॒नायाः॑ । दु॒हि॒तुः । आः । अनु॑ऽभृतम् । अ॒न॒र्वा ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *prathiṣṭa* ← *prath*
+- \[verb\], singular, Aorist inj. (proh.)
+- “be known; expand; expand; boom.”
+------------------------------------------------------------------------
+- *yasya* ← *yad*
+- \[noun\], genitive, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *vīrakarmam* ← *vīrakarma*
+- \[noun\], nominative, singular, neuter
+- “penis.”
+------------------------------------------------------------------------
+- *iṣṇad* ← *iṣṇat* ← *iṣ*
+- \[verb noun\], nominative, singular
+- “send.”
+------------------------------------------------------------------------
+- *anuṣṭhitaṃ* ← *anuṣṭhitam* ← *anuṣṭhā* ← *√sthā*
+- \[verb noun\], accusative, singular
+- “follow; protect; treat.”
+------------------------------------------------------------------------
+- *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *naryo* ← *naryaḥ* ← *narya*
+- \[noun\], nominative, singular, masculine
+- “manly; heroic; powerful; male; human.”
+------------------------------------------------------------------------
+- *apauhat* ← *apoh* ← *√ūh*
+- \[verb\], singular, Imperfect
+- “remove; cure; get rid of; stop; overcome.”
+------------------------------------------------------------------------
+- *punas* ← *punar*
+- \[adverb\]
+- “again; further; now; over and over; subsequently; repeatedly;
+    however; besides.”
+------------------------------------------------------------------------
+- *tad* ← *tat* ← *tad*
+- \[noun\], accusative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *vṛhati* ← *vṛh*
+- \[verb\], singular, Present indikative
+- “extract.”
+------------------------------------------------------------------------
+- *yat* ← *yad*
+- \[noun\], nominative, singular, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *kanāyā* ← *kanāyāḥ* ← *kanā*
+- \[noun\], genitive, singular, feminine
+- “girl.”
+------------------------------------------------------------------------
+- *duhitur* ← *duhituḥ* ← *duhitṛ*
+- \[noun\], genitive, singular, feminine
+- “daughter; duhitṛ \[word\].”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *anubhṛtam* ← *anubhṛ* ← *√bhṛ*
+- \[verb noun\], accusative, singular
+------------------------------------------------------------------------
+- *anarvā* ← *anarvan*
+- \[noun\], nominative, singular, masculine
+- “unchallenged; unrivaled.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+यथा स्वांशेन भगवान् रुद्रः प्रजापतिर्वास्तोऽपतिं रुद्रमसृजत् तदेतदादिभिस्तिसृभिर्वदति । **यस्य** प्रजापतेः **इष्णत्** एषणवत् **वीरकर्मम्** । लिङ्गव्यत्ययः। वीरकर्म । रेत इत्यर्थः । येन रेतसोत्पन्ना वीरा भवन्ति तादृग्रेतः **प्रथिष्ट** प्रथितमासीत् तद्रेतः **अनुष्ठितं** प्रजापतिनापत्यार्थं निषिक्तं **नर्यः** नरेभ्यो हितो यद्वा नेतृभ्यो देवेभ्यो हितो रुद्रः **अपौहत्** अपोहति । तदेवाह । **पुनस्तत्** रेतः **आ** **वृहति** सर्वत उत्खिदति उद्गमयति पुरुषाकारेण स्वयमुत्पन्नः सन् । कीदृशं रेतः । **यत्** रेतः **कनायाः** कान्तायाः **दुहितुः** स्वपुत्र्याः तस्यामित्यर्थः । तत्र प्रजापतिना **अनुभृतम्** **आः** आसीत् । अस्तेः सिपि - - । कीदृशो रुद्रः । **अनर्वा** अन्यस्मिन्नप्रत्यृतः । ‘ प्रजापतिर्वै स्वां दुहितरमभ्यध्यायद्दिवमित्यन्य आहुरुषसमित्यन्ये ' (ऐ, ब्रा. ३. ३३ ) इति ब्राह्मणम् ॥ ॥ २६ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“(**Rudra**), the benefactor of man, whose eager, virile energy was developed, drew it back whendisseminated (for the genitive ration of offfspring); again the irresistible (Rudra) concentrates (the energy) which wascommunicated to his maiden daughter.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+This and the following two ṛcas seem to refer to the begetting of Rudraby **Prajāpati**; there is a mix-up with the legend of **Brahma**'s incestuous passion for his daughter. According to theAitareya **Brāhmaṇa** 3.33, she was the heaven or the dawn
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+He whose (penis,) which performs the virile work, stretched out,  discharging (the semen)—(that one,) the manly one, then pulled away  (his penis, which had been) “attending on” (her).  
+Again he tears out from the maiden, his daughter, what had been  “brought to bear” on her—he the unassailable.
+</details>
+
+<details><summary>+Griffith</summary>
+
+प्रथि॑ष्ट॒ यस्य॑ वी॒रक॑र्ममि॒ष्णदनु॑ष्ठितं॒ नु नर्यो॒ अपौ॑हत् ।  
+पुन॒स्तदा वृ॑हति॒ यत्क॒नाया॑ दुहि॒तुरा अनु॑भृतमन॒र्वा ॥
+</details>
+
+<details><summary>+Geldner</summary>
+
+Als sein Glied sich ausgedehnt hatte, nach der Mannesarbeit verlangend, da schob der Mannhafte alsbald das in Arbeit begriffene beiseite. Er reißt es von der jungfräulichen Tochter zurück, das hineingesteckt war, der Unbemeisterte.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Der mannhafte [etwa prajâpati], dessen männliches Glied sich vorstrebend ausgedehnt hatte, streifte es nun, nachdem es sein Werk ausgeführt hatte, wieder zurück; der schrankenlose zog das [Glied], was in seine jugendliche Tochter [etwa die Erde, vgl. Vers 7] hineingebracht war, wieder zurück.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

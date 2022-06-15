@@ -1,0 +1,167 @@
++++
+title = "002"
+devataa = "अग्निः"
+RShiH = "उपस्तुतो वार्ष्टिहव्यः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अग्नि꣡र् ह ना꣡म धायि द꣡न्न् अप꣡स्तमः  
+सं꣡ यो꣡ व꣡ना युव꣡ते भ꣡स्मना दता꣡  
+अभिप्रमु꣡रा जुहु꣡वा सुअध्वर꣡  
+इनो꣡ न꣡ प्रो꣡थमानो य꣡वसे वृ꣡षा
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निः । ह॒ । नाम॑ । धा॒यि॒ । दन् । अ॒पःऽत॑मः । सम् । यः । वना॑ । यु॒वते॑ । भस्म॑ना । द॒ता ।  
+अ॒भि॒ऽप्र॒मुरा॑ । जु॒ह्वा॑ । सु॒ऽअ॒ध्व॒रः । इ॒नः । न । प्रोथ॑मानः । यव॑से । वृषा॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *agnir* ← *agniḥ* ← *agni*
+- \[noun\], nominative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *ha*
+- \[adverb\]
+- “indeed; ha \[word\].”
+------------------------------------------------------------------------
+- *nāma*
+- \[adverb\]
+- “by name; indeed; however; indeed.”
+------------------------------------------------------------------------
+- *dhāyi* ← *dhā*
+- \[verb\], singular, Aorist passive
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *dann* ← *\_* ← *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *apastamaḥ* ← *apastama*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *saṃ* ← *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *yo* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *vanā* ← *vana*
+- \[noun\], accusative, plural, neuter
+- “forest; wood; tree; grove; vana \[word\]; forest; brush.”
+------------------------------------------------------------------------
+- *yuvate* ← *yu*
+- \[verb\], singular, Present indikative
+- “unite.”
+------------------------------------------------------------------------
+- *bhasmanā* ← *bhasman*
+- \[noun\], instrumental, singular, masculine
+- “blowy.”
+------------------------------------------------------------------------
+- *datā* ← *dat*
+- \[noun\], instrumental, singular, masculine
+- “tooth; dat \[word\].”
+------------------------------------------------------------------------
+- *abhipramurā* ← *abhipramur*
+- \[noun\], instrumental, singular, feminine
+------------------------------------------------------------------------
+- *juhvā* ← *juhū*
+- \[noun\], instrumental, singular, feminine
+- “tongue; fire; ladle.”
+------------------------------------------------------------------------
+- *svadhvara* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *svadhvara* ← *adhvaraḥ* ← *adhvara*
+- \[noun\], nominative, singular, masculine
+- “yajña; ceremony; adhvara \[word\].”
+------------------------------------------------------------------------
+- *ino* ← *inaḥ* ← *ina*
+- \[noun\], nominative, singular, masculine
+- “mighty; powerful.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *prothamāno* ← *prothamānaḥ* ← *pruth*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------
+- *yavase* ← *yavasa*
+- \[noun\], locative, singular, masculine
+- “eatage; pasture; fodder.”
+------------------------------------------------------------------------
+- *vṛṣā* ← *vṛṣan*
+- \[noun\], nominative, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**अपस्तमः** ॥ अपशब्दस्यान्तोदात्तत्वेन मत्वर्थो लुप्त इति ज्ञायते । अन्यथा  आपः कर्माख्यायाम्' इत्यसुनि कृत आद्युदात्तत्वमेव स्यात् ॥ अपस्वितमः कर्मवत्तमः **अग्निः** **नाम** ॥ तृतीयाया लुक् ॥ नाम्ना नमयितृणा हविषा स्तोत्रेण वा **धायि** यजमानैर्धार्यते खलु । यतः **दन्** यष्टॄणां धनदाता ॥ ‘ डुदाञ् दाने ' । हेतौ  छन्दस्युभयथा' इति शतुरार्धधातुकत्वेन आकारलोपः । अत एव शपोऽसंभवः ॥ **यः** अग्निः **भस्मना** भासकेन प्रकाशकेन तेजसा **दता** दन्तेन च **वना** वनान्यरण्यानि **सं** **युवते** संयुनक्ति । संदहतीति यावत् । ‘यु मिश्रणामिश्रणयोः'। व्यत्ययेन शः । आत्मनेपदं च । दता । दन्तशब्दस्य ‘पद्दन्' इत्यादिना दद्भावः । ‘ ऊडिदम्' इति विभक्तेराद्युदात्तत्वम् ॥ किंच **अभिप्रमुरा** ॥ ‘मूर्च्छा मोहसमुच्छ्राययोः । अस्मात् क्विपि ‘राल्लोपः' इति छकारलोपः। **मुर** संवेष्टने ' इत्यस्माद्वा क्विप् । कृदुत्तरपदप्रकृतिस्वरत्वम् ॥ अभितः समुच्छ्रितेनोद्यतेन यद्वा सर्वतो हविर्भिः संवेष्टितेन **जुह्वा** एतन्नामकेन पात्रविशेषेण **स्वध्वरः** शोभनयज्ञोऽग्निः अदनीये हविषि चरतीति शेषः । तत्र दृष्टान्तः । **इनः** समर्थः **प्रोथमानः** पर्याप्तः पुष्टाङ्गः **वृषा** **यवसे** **न** यथा वृषभो घासादिषु चरति ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The most active **Agni**, the giver of wealth, is nourished with ghī (by the worshippers), he who withflaming tooth devours the forests; devoutly worshipped with the uplifted goblet (he is, nourished) like a lordlywell-fed bull amidst (fresh) pasture.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Nourished with ghī: **nāma** dhāyi = is applied to him as name
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+He has been established in the house, as “Agni” by name, as the  best workman, who wrests together the (pieces of) wood with his  gnawing tooth,  
+with his grinding tongue—he of good ceremony, snorting like a powerful  bull in a pasture.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Then Agni was his name, most active to bestow, gathering up the trees with his consuming tooth;  
+     Skilled in fair sacrifice, armed with destroying tongue, impetuous as a bull that snorteth in the mead.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Unter dem Namen Agni ward er ins Haus gesetzt, der Tätigste, der die Hölzer mit schlampfendem Zahne zusammenrafft, mit zermahlender Zunge, den Gottesdienst gut versehend, wie ein starker Bulle auf der Weide schnaubend.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Denn Agni ist als thätigster ins Haus gesetzt, wenn mit dem Zahne kauend er das Holz, verzehrt, Schönopfernd es mit seiner Zunge ganz vertilgt, gleich starkem Stier, der auf der Weide schnaubend geht.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Под именем Агни он был устроен в доме как самый деятельный,  
+(Тот,) кто пожирает деревья перемалывающим клыком,  
+(Все)уничтожающим языком, (этот) исполняющий прекрасный обряд,  
+Пыхтящий, как мощный бык на пастбище.
+</details>

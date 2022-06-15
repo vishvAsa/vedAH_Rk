@@ -1,8 +1,0 @@
-+++
-title = "06"
-
-+++
-In b the point is presumably that an ally who is constantly solicited by everyone around is likely to change sides without warning.
-
-With Oldenberg, Renou, and Schmidt (Bṛhaspati und Indra) I supply ‘cows’ with ápīvṛtā(ḥ), while Geldner (/Witzel Gotō) opt for ‘doors’. Since they all take the Aṅgirases as the implied subject, both interpr. refer to the Vala myth.
-

@@ -1,0 +1,119 @@
++++
+title = "001"
+devataa = "पवमानः सोमः"
+RShiH = "निध्रुविः काश्यपः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+आ꣡ पवस्व सहस्रि꣡णं  
+रयिं꣡ सोम सुवी꣡रियम्  
+अस्मे꣡ श्र꣡वांसि धारय
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ । प॒व॒स्व॒ । स॒ह॒स्रिण॑म् । र॒यिम् । सो॒म॒ । सु॒ऽवीर्य॑म् ।  
+अ॒स्मे इति॑ । श्रवां॑सि । धा॒र॒य॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *pavasva* ← *pū*
+- \[verb\], singular, Present imperative
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *sahasriṇaṃ* ← *sahasriṇam* ← *sahasrin*
+- \[noun\], accusative, singular, masculine
+- “thousandfold.”
+------------------------------------------------------------------------
+- *rayiṃ* ← *rayim* ← *rayi*
+- \[noun\], accusative, singular, masculine
+- “wealth; property.”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *suvīryam* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suvīryam* ← *vīryam* ← *vīrya*
+- \[noun\], accusative, singular, neuter
+- “potency; vīrya; heroism; potency; strength; semen; power; deed;
+    active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
+    virility; manfulness; jewel; force.”
+------------------------------------------------------------------------
+- *asme* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *śravāṃsi* ← *śravas*
+- \[noun\], accusative, plural, neuter
+- “fame; glory; ear.”
+------------------------------------------------------------------------
+- *dhāraya* ← *dhāray* ← *√dhṛ*
+- \[verb\], singular, Present imperative
+- “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
+    preserve; remember; stow; stop; have; fill into; endure; support;
+    understand; fixate; govern; restrain.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **सोम** त्वं **सहस्रिणं** बहुसंख्याकं **सुवीर्यं** शोभनवीर्यं **रयिं** धनम् **आ** **पवस्व** आभिमुख्येन क्षर । अपि च **अस्मे** अस्मासु **श्रवांसि** अन्नानि **धारय** स्थापय ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Pour (upon us), **Soma**, thousand-fold wealth, with excellent **male** progeny, secure to us ample food.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+In purifying yourself, o Soma, bring wealth in thousands and an  
+abundance of good heroes;  
+secure our claims to fame for us.
+</details>
+
+<details><summary>+Griffith</summary>
+
+POUR hitherward, O Soma, wealth in thousands and heroic strength,  
+     And keep renown secure for us.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Läutere tausendfältigen Reichtum uns zu, o Soma, und die Meisterschaft; verleih uns Ruhm!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+O riesle tausendfaches Gut und Heldenkraft, o Soma, her, Uns reiche hohe Schätze dar.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

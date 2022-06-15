@@ -1,0 +1,185 @@
++++
+title = "016"
+devataa = "इन्द्रः"
+RShiH = "वामदेवो गौतमः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+त꣡म् इ꣡द् व इ꣡न्द्रं सुह꣡वं हुवेम  
+य꣡स् ता꣡ चका꣡र न꣡रिया पुरू꣡णि  
+यो꣡ मा꣡वते जरित्रे꣡ ग꣡धियं चिन्  
+मक्षू꣡ वा꣡जम् भ꣡रति स्पार्ह꣡राधाः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तम् । इत् । वः॒ । इन्द्र॑म् । सु॒ऽहव॑म् । हु॒वे॒म॒ । यः । ता । च॒कार॑ । नर्या॑ । पु॒रूणि॑ ।  
+यः । माऽव॑ते । ज॒रि॒त्रे । गध्य॑म् । चि॒त् । म॒क्षु । वाज॑म् । भर॑ति । स्पा॒र्हऽरा॑धाः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *tam* ← *tad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *va* ← *vaḥ* ← *tvad*
+- \[noun\], dative, plural
+- “you.”
+------------------------------------------------------------------------
+- *indraṃ* ← *indram* ← *indra*
+- \[noun\], accusative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *suhavaṃ* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suhavaṃ* ← *havam* ← *hava*
+- \[noun\], accusative, singular, masculine
+- “invocation.”
+------------------------------------------------------------------------
+- *huvema* ← *hvā*
+- \[verb\], plural, Present optative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *yas* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *tā* ← *tad*
+- \[noun\], accusative, plural, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *cakāra* ← *kṛ*
+- \[verb\], singular, Perfect indicative
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *naryā* ← *narya*
+- \[noun\], accusative, plural, neuter
+- “gift.”
+------------------------------------------------------------------------
+- *purūṇi* ← *puru*
+- \[noun\], accusative, plural, neuter
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *yo* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *māvate* ← *māvat*
+- \[noun\], dative, singular, masculine
+------------------------------------------------------------------------
+- *jaritre* ← *jaritṛ*
+- \[noun\], dative, singular, masculine
+- “singer.”
+------------------------------------------------------------------------
+- *gadhyaṃ* ← *gadhyam* ← *gadhya*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *cin* ← *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *makṣū*
+- \[adverb\]
+- “promptly; soon; quickly.”
+------------------------------------------------------------------------
+- *vājam* ← *vāja*
+- \[noun\], accusative, singular, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *bharati* ← *bhṛ*
+- \[verb\], singular, Present indikative
+- “bring; hold; fill; support; wear; possess; carry; nourish; keep;
+    hire; have; satiate; follow; bear.”
+------------------------------------------------------------------------
+- *spārharādhāḥ* ← *spārha*
+- \[noun\]
+- “desirable.”
+------------------------------------------------------------------------
+- *spārharādhāḥ* ← *rādhāḥ* ← *rādhas*
+- \[noun\], nominative, singular, masculine
+- “gift; munificence; liberality; bounty.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**यः** इन्द्रः **नर्या** नर्याणि मनुष्यहितानि **पुरूणि** बहूनि **ता** तानि प्रसिद्धानि कर्माणि **चकार** अकरोत् । किंच **स्पार्हराधाः** स्पृहणीयधनः **यः** इन्द्रः **मावते** मत्सदृशाय **जरित्रे** स्तोत्रे **गध्यं** चित् ग्राह्यं संयोजनीयमपि **वाजम्** अन्नं **मक्षु** शीघ्रं **भरति** आहरति । वयं स्तोतारो हे यजमानाः **वः** युष्मभ्यं **तमित्** तमेव **इन्द्रं** **सुहवं** शोभनमाह्वानं यथा भवति तथा **हुवेम** आह्वयामः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Let us invoke that gracious **Indra** who has made so many things good for man; who, bestowing enviable opulence, quickly brings acceptable food to a worshipper like me.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Just him, Indra easy to call, would we call upon for you—him who  performed the many manly (labors),  
+who quickly brings a prize worth securing even to a singer like me, him  whose largesse is eagerly sought.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+I take cid with the dat. mā́vate jaritré since I do not see how to construe it sensibly with gádhyam. I cannot explain its displacement to pāda end, however.
+
+On the gádhyaṃ vā́jam see 11c.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Call we for you that Indra, prompt to listen, him who hath done so much for men's advantage;  
+     Who, Lord of envied bounty, to a singer like me brings quickly booty worth the capture.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Diesen Indra, der sich gern rufen läßt, wollen wir für euch rufen, der diese vielen Mannestaten getan hat, der einem Sänger gleich mir alsbald sogar deckenhohen Gewinn einbringt, der beneidenswerte Belohnungen hat.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Lasst Indra rufen uns, der gern erhöret, der diese vielen Heldenthaten wirkte, Erwünschtes Gut besitzend, solchem Sänger, wie ich bin, eilend reiche Beute zuführt.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Мы хотим призвать для вас этого самого легкопризываемого Индру,  
+Кто совершил эти многочисленные мужественные деяния,  
+Кто певцу, подобному мне, быстро  
+Приносит добычу, которую надо схватить (?), (он,) обладающий завидными дарами.
+</details>

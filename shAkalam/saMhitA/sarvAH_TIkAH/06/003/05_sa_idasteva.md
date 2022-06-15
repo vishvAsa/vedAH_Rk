@@ -1,0 +1,197 @@
++++
+title = "005"
+devataa = "अग्निः"
+RShiH = "भरद्वाजो बार्हस्पत्यः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+स꣡ इ꣡द् अ꣡स्तेव प्र꣡ति धाद् असिष्य꣡ञ्  
+छि꣡शीत ते꣡जो अ꣡यसो न꣡ धा꣡राम्  
+चित्र꣡ध्रजतिर् अरति꣡र् यो꣡ अक्तो꣡र्  
+वे꣡र् न꣡ द्रुष꣡द्वा रघुप꣡त्मजंहाः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सः । इत् । अस्ता॑ऽइव । प्रति॑ । धा॒त् । अ॒सि॒ष्यन् । शिशी॑त । तेजः॑ । अय॑सः । न । धारा॑म् ।  
+चि॒त्रऽध्र॑जतिः । अ॒र॒तिः । यः । अ॒क्तोः । वेः । न । द्रु॒ऽसद्वा॑ । र॒घु॒पत्म॑ऽजंहाः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *sa* ← *saḥ* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *asteva* ← *astā* ← *astṛ*
+- \[noun\], nominative, singular, masculine
+- “archer; shot.”
+------------------------------------------------------------------------
+- *asteva* ← *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *prati*
+- \[adverb\]
+- “towards; per; regarding; respectively; according to; until.”
+------------------------------------------------------------------------
+- *dhād* ← *dhāt* ← *dhā*
+- \[verb\], singular, Aorist inj. (proh.)
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *asiṣyañ* ← *asiṣyan* ← *as*
+- \[verb noun\], nominative, singular
+- “shoot; remove.”
+------------------------------------------------------------------------
+- *chiśīta* ← *śiśīta* ← *śā*
+- \[verb\], plural, Present imperative
+- “sharpen; whet; strengthen.”
+------------------------------------------------------------------------
+- *tejo* ← *tejaḥ* ← *tejas*
+- \[noun\], accusative, singular, neuter
+- “magnificence; luminosity; glory; fire; semen; fire; heat; light;
+    quintessence; brilliance; glare; dignity; beauty; tejas; potency;
+    ferocity; power; edge; efficacy; ardor; authority.”
+------------------------------------------------------------------------
+- *'yaso* ← *ayasaḥ* ← *ayas*
+- \[noun\], genitive, singular, neuter
+- “iron; kāntaloha; ayas \[word\]; tīkṣṇaloha; metallic element;
+    weapon.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *dhārām* ← *dhārā*
+- \[noun\], accusative, singular, feminine
+- “blade; edge; acme; nostrils.”
+------------------------------------------------------------------------
+- *citradhrajatir* ← *citra*
+- \[noun\]
+- “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
+    bright; bright; outstanding; agitated; aglitter(p); brilliant;
+    painted; obvious; patched; bizarre.”
+------------------------------------------------------------------------
+- *citradhrajatir* ← *dhrajatiḥ* ← *dhrajati*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *aratir* ← *aratiḥ* ← *arati*
+- \[noun\], nominative, singular, masculine
+- “charioteer.”
+------------------------------------------------------------------------
+- *yo* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *aktor* ← *aktoḥ* ← *aktu*
+- \[noun\], genitive, singular, masculine
+- “night; dark; beam.”
+------------------------------------------------------------------------
+- *ver* ← *veḥ* ← *vi*
+- \[noun\], genitive, singular, masculine
+- “vi; bird; vi.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *druṣadvā* ← *druṣadvan*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *raghupatmajaṃhāḥ* ← *raghu*
+- \[noun\]
+- “low; fast.”
+------------------------------------------------------------------------
+- *raghupatmajaṃhāḥ* ← *patma* ← *patman*
+- \[noun\], neuter
+- “flight.”
+------------------------------------------------------------------------
+- *raghupatmajaṃhāḥ* ← *jaṃhāḥ* ← *jaṃhas*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**स** **इत्** स खल्वग्निः **अस्तेव** बाणादेः क्षेप्तेव **प्रति** **धात्** स्वकीयज्वालां प्रतिधत्ते । यथा धन्वी लक्ष्याभिमुख्येन बाणं संधत्ते तथा ज्वालां संधत्त इत्यर्थः । प्रतिधाय च **असिष्यन्** ज्वालां प्रक्षेप्स्यन् **तेजः** स्वकीयं **शिशीत** निश्यति तीक्ष्णीकरोति । तत्र दृष्टान्तः । **अयसो** **न** **धाराम्** । यथा अयोमयस्य परश्वादेर्धारां प्रक्षेप्तुकामस्तीक्ष्णीकरोति तद्वत् । तीक्ष्णीकृत्य च **चित्रध्रजतिः** विचित्रगतिः **अक्तोः** रात्रेः **अरतिः** अभिगन्ता **वेर्न** पक्षीव **द्रुषद्वा** वृक्षेषु सीदन् **रघुपत्मजंहाः** लघुपतनसमर्थपादः । एवंभूतः सन् **यः** अग्निर्वर्तते स इति पूर्वत्रान्वयः ॥ ॥ ३ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“He casts (afar his flames) as an archer (his arrows), and sharpens when about to dart his radiance, as (a warrior whets) the edge of his metal (weapons), he who, variously moving, passes through the night, like the light-falling foot of a bird perched upon a tree.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+The edge of his metal: ayaso na dhārām
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+He, just like an archer, has aimed (his arrow), about to shoot. He has  whetted its point like a blade of copper—  
+he, the spoked wheel (of the sacrifice), who is like a bird whose swooping  is brilliant by night, who sits in the woods [/on wood], whose plumage  is (fit for) rapid flight.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+This vs. is comparatively straightforward, esp. the first hemistich.
+
+I take téjaḥ in its literal etymological value: ‘sharpness’ à ‘point’, given tigmá- ‘sharp’ in 4a.
+
+In c note the phonetic play of (citrádh)rajatir aratír.
+
+Despite the pāda boundary, I take vér ná as the simile with both c and d, unlike most, who limit it to d. The root √dhraj ‘swoop, soar’ (found in the b.v. citrádhrajati-) is generally limited to birds (cf. I.165.2, IV.40.3) and the wind, and so comparison to a bird here would be apt. Note also that a form of √dhraj and an uncompounded form of pátman- are found together in 7c.
+
+Though most interpr. take aktóḥ as a gen. either with aratíḥ, imposing a forced reading on the latter (Geldner “der Lenker der Nacht,” Lüders [Philol.Ind. 783] “als Herr der Nacht”), or with a gapped “Agni” (Thieme [Unters.] “der (Agni) des Nachts”), I think it likely that it is adverbial, as it is two vss. earlier (3c) in the same metrical position. So also Renou
+
+Our druṣádvan-, a hapax, exists beside 2 occurrences of the simple root noun cmpd. druṣád- -- one of which is in an exactly parallel context: IX.72.5 #vér ná druṣád (like our #vér ná druṣádvā). I assume that the extension by the derivational suffix -van- simply serves metrical convenience, since the forms seem identical semantically. Several other -sád- cmpds have the same extension: nṛṣádvan- (1x), pariṣádvan- (1x), and admasádvan-, found once in the very next hymn (VI.4.4), and - van- extensions are not rare in root noun cmpds, esp. to roots ending in -ā, such as vājadā́van- ‘giving prizes’, sahasradā́van- ‘giving thousands’, etc.
+
+The final word of the vs., the b.v. raghu-pátma-jaṃhāḥ, is unusual for the RV in having three full members, as Renou notes. He discusses the cmpd at some length and considers it a “conglomérat” of a tatpuruṣa *raghu-pátman- (entirely parallel to raghu-pátvan-) and the attested bahuvrīhi kṛṣṇá-jaṃhas-, tr. “(dieu) au vol rapide, au plumage (noir)” (I.141.7). I see no reason to involve the latter cmpd., detach the (compounded) first member raghu-pátman- from the second, jáṃhas-, and insert a ‘black’ not found in the text to qualify the second member. The English designation “flight feathers” would have the same structure (save for the bahuvrīhi) as raghupátma-jaṃhas-, that is, “feathers suitable/specialized for flight.” Note that in this bahuvrīhi with a cmpd first member, “first member accent” actually falls on the second member of the first cmpd., matching that of the original tatpuruṣa (cf. just cited raghu-pátvan-) -- in other words, when the bahuvrīhi is formed, the internal structure of its first member is no longer visible to the process.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Archer-like, fain toshoot, he sets his arrow, and whets his splendour like the edge of iron:  
+     The messenger of night with brilliant pathway, like a tree-roosting bird of rapid pinion.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Wie ein Schütze, der schießen will, legt er den Pfeil auf; er schärft seine Flamme wie eine Klinge von Eisen. Da der Lenker der Nacht von wunderbarer Schnelligkeit ist, er ist wie ein Vogel, der auf dem Baum sitzt, seine Schwingen rasch bewegend.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Dem Schützen gleich, der schiessen will, legt an er, und schärft den Glanz, wie eines Eisens Schneide; Der hellen Fluges in der Nacht sich abmüht, auf Aesten sitzt gleich leichtbeschwingtem Vogel.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Он вкладывает стрелы, словно стрелок, собирающийся стрелять;  
+Он оттачивает пламя, словно клинок из железа.  
+Кто ночью – посланник (?) с замечательным порывом,  
+(Тот,) словно птица, сидящая на дереве, с крыльями, (способными) к быстрому полету.
+</details>

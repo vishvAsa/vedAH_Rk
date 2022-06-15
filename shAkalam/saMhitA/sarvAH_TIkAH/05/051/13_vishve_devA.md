@@ -1,0 +1,160 @@
++++
+title = "013"
+devataa = "विश्वेदेवाः"
+RShiH = "स्वस्त्यात्रेयः"
+ChandaH = "जगती त्रिष्टुब्वा"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+वि꣡श्वे देवा꣡ नो अद्या꣡ सुअस्त꣡ये  
+वैश्वानरो꣡ व꣡सुर् अग्निः꣡ सुअस्त꣡ये  
+देवा꣡ अवन्तु ऋभ꣡वः सुअस्त꣡ये  
+सुअस्ति꣡ नो रुदरः꣡+ पातु अं꣡हसः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M;; 11 = 4+7, ending HLX  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विश्वे॑ । दे॒वाः । नः॒ । अ॒द्य । स्व॒स्तये॑ । वै॒श्वा॒न॒रः । वसुः॑ । अ॒ग्निः । स्व॒स्तये॑ ।  
+दे॒वाः । अ॒व॒न्तु॒ । ऋ॒भवः॑ । स्व॒स्तये॑ । स्व॒स्ति । नः॒ । रु॒द्रः । पा॒तु॒ । अंह॑सः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *viśve* ← *viśva*
+- \[noun\], nominative, plural, masculine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *devā* ← *devāḥ* ← *deva*
+- \[noun\], nominative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *adyā* ← *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+------------------------------------------------------------------------
+- *svastaye* ← *svasti*
+- \[noun\], dative, singular, feminine
+- “prosperity; well-being; fortune; benediction; svasti \[word\];
+    well; luck.”
+------------------------------------------------------------------------
+- *vaiśvānaro* ← *vaiśvānaraḥ* ← *vaiśvānara*
+- \[noun\], nominative, singular, masculine
+- “Agni; fire; Vaiśvānara; Vaiśvānara; sacrificial fire; sun.”
+------------------------------------------------------------------------
+- *vasur* ← *vasuḥ* ← *vasu*
+- \[noun\], nominative, singular, masculine
+- “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
+------------------------------------------------------------------------
+- *agniḥ* ← *agni*
+- \[noun\], nominative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *svastaye* ← *svasti*
+- \[noun\], dative, singular, feminine
+- “prosperity; well-being; fortune; benediction; svasti \[word\];
+    well; luck.”
+------------------------------------------------------------------------
+- *devā* ← *devāḥ* ← *deva*
+- \[noun\], nominative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *avantv* ← *avantu* ← *av*
+- \[verb\], plural, Present imperative
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *ṛbhavaḥ* ← *ṛbhu*
+- \[noun\], nominative, plural, masculine
+- “Ribhus.”
+------------------------------------------------------------------------
+- *svastaye* ← *svasti*
+- \[noun\], dative, singular, feminine
+- “prosperity; well-being; fortune; benediction; svasti \[word\];
+    well; luck.”
+------------------------------------------------------------------------
+- *svasti*
+- \[noun\], accusative, singular, neuter
+- “prosperity; well-being; fortune; benediction; svasti \[word\];
+    well; luck.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *rudraḥ* ← *rudra*
+- \[noun\], nominative, singular, masculine
+- “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
+------------------------------------------------------------------------
+- *pātv* ← *pātu* ← *pā*
+- \[verb\], singular, Present imperative
+- “protect; govern.”
+------------------------------------------------------------------------
+- *aṃhasaḥ* ← *aṃhas*
+- \[noun\], ablative, singular, neuter
+- “trouble; sin.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**विश्वे** सर्वेऽपि **देवाः** **नः** अस्मान् **अद्य** अस्मिन् यागदिने **स्वस्तये** क्षेमाय अवन्तु । **वैश्वानरः** । विश्व एनं नरा नयन्तीति वैश्वानरः । **वसुः** सर्वस्य वासयिता **अग्निः** देवः ।  ‘ अयमेवाग्निर्वैश्वानर इति शाकपूणिः ' (निरु. ७, २३ ) इति यास्कः । सोऽपि **स्वस्तये** अवतु । **देवाः** **ऋभवः** अपि **स्वस्तये** **अवन्तु** । **रुद्रः** दुःखात् द्रावयिता देवोऽपि **अंहसः** पापात् **स्वस्ति** **पातु** **नः** अस्मान् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“May all the gods be with us today for our prosperity may **Agni**, the benefactor of all men, and giver of dwellings, (be with us) for (our) prosperity; may the divine **Ṛbhus** protect us for (our) prosperity; may **Rudra** preserve us from iniquity for (our) prosperity.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Let all the gods be there for us today, for well-being; let Vaiśvānara,  Vasu, Agni (be there) for well-being.  
+Let the gods, the R̥bhus give aid for (our) well-being. With well-being  let Rudra protect us from constraint.
+</details>
+
+<details><summary>+Griffith</summary>
+
+May all the Gods, may Agni the beneficent, God of all men, this day be with us for our weal.  
+     Help us the Rbhus, the Divine Ones, for our good. May Rudra bless and keep us from calamity.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Alle Götter sollen uns heute zum Glück sein, zum Glück Vaisvnara, der Gott Agni. Zum Glück sollen uns die göttlichen Ribhu´s behilflich sein, zum Glück soll uns Rudra vor Not bewahren.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Die Götter alle seien heute uns zum Heil, der Menschenhort, der gute Agni uns zum Heil; Die Götter Ribhu's mögen fördern uns zum Heil, zum Heil beschirme Rudra uns vor Ungemach.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Все боги (да будут) нам сегодня на благо!  
+Вайшванара, Васу, Агни – на благо!  
+Боги пусть помогут, Рибху – на благо!  
+На благо пусть хранит нас Рудра от узости!
+</details>
