@@ -1,0 +1,164 @@
++++
+title = "007"
+devataa = "विश्वकर्मा"
+RShiH = "विश्वकर्मा भौवनः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+वाच꣡स् प꣡तिं विश्व꣡कर्माणम् ऊत꣡ये  
+मनोजु꣡वं वा꣡जे अद्या꣡ हुवेम  
+स꣡ नो वि꣡श्वानि ह꣡वनानि जोषद्  
+विश्व꣡शम्भूर् अ꣡वसे साधु꣡कर्मा
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+popular  
+popular  
+popular  
+popular
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वा॒चः । पति॑म् । वि॒श्वऽक॑र्माणम् । ऊ॒तये॑ । म॒नः॒ऽजुव॑म् । वाजे॑ । अ॒द्य । हु॒वे॒म॒ ।  
+सः । नः॒ । विश्वा॑नि । हव॑नानि । जो॒ष॒त् । वि॒श्वऽश॑म्भूः । अव॑से । सा॒धुऽक॑र्मा ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *vācas* ← *vācaḥ* ← *vāc*
+- \[noun\], genitive, singular, feminine
+- “speech; statement; voice; voice; speech; language; vāc \[word\];
+    word; literary composition; conversation; sound; Sarasvati; cry;
+    assurance; spell.”
+------------------------------------------------------------------------
+- *patiṃ* ← *patim* ← *pati*
+- \[noun\], accusative, singular, masculine
+- “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
+    commanding officer; leader; owner; mayor; lord.”
+------------------------------------------------------------------------
+- *viśvakarmāṇam* ← *viśvakarman*
+- \[noun\], accusative, singular, masculine
+- “Viśvakarman; viśvakarman; Shiva; Maya; Vishnu.”
+------------------------------------------------------------------------
+- *ūtaye* ← *ūti*
+- \[noun\], dative, singular, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *manojuvaṃ* ← *\_* ← *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *vāje* ← *vāja*
+- \[noun\], locative, singular, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *adyā* ← *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+------------------------------------------------------------------------
+- *huvema* ← *hu*
+- \[verb\], plural, Aorist optative
+- “sacrifice; offer; pour; worship.”
+------------------------------------------------------------------------
+- *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *viśvāni* ← *viśva*
+- \[noun\], accusative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *havanāni* ← *havana*
+- \[noun\], accusative, plural, neuter
+- “invocation.”
+------------------------------------------------------------------------
+- *joṣad* ← *joṣat* ← *juṣ*
+- \[verb\], singular, Aorist conj./subj.
+- “enjoy; endow; possess; frequent; accompany; induce; consume;
+    approve; affect; attend; befit; blend; contract.”
+------------------------------------------------------------------------
+- *viśvaśambhūr* ← *\_* ← *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *avase* ← *av*
+- \[verb noun\]
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *sādhukarmā* ← *sādhu*
+- \[noun\]
+- “good; good; correct; correct; sādhu \[word\]; excellent;
+    efficient.”
+------------------------------------------------------------------------
+- *sādhukarmā* ← *karmā* ← *karman*
+- \[noun\], nominative, singular, masculine
+- “action; saṃskāra; ritual; procedure; karman; treatment; object;
+    function; production; job; operation; karman \[word\]; act; job;
+    passive voice; activity; consequence; function; yajña; pañcakarman;
+    cooking; occupation; profession; construction; duty; method; natural
+    process; duty; therapy.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**वाचस्पतिं** मन्त्रात्मकस्य वचसः स्वामिनं **विश्वकर्माणं** विश्वकर्तारं **मनोजुवं** मनोवेगगमनं देवं **वाजे** यज्ञे **अद्य** अस्मिन्दिने **ऊतये** तर्पणाय **हुवेम** आह्वयाम । **सः** देवः **नः** अस्माकं **विश्वानि** सर्वाणि **हवनानि** **जोषत्** सेवताम् । किमर्थम् । **अवसे** अस्माकं रक्षणाय । स विशेष्यते । **विश्वशंभूः** विश्वस्य सुखस्योत्पादकः **साधुकर्मा** च ॥ ॥ १६ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Let us this day invoke for our protection the lord of speech, the creator of all, who is swift as thought;may he, the bestower of all happiness, the doer of good works, be propitiated by all our oblations, (so as) togrant us his protection.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Lord of speech: all the epithets apply to **Indra**; **Yajus**. 8.45; 17.23
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+We would today summon the Lord of Speech, Viśvakarman, swift as  thought, for help in the contest.  
+He will take pleasure in every oblation of ours—he who is luck for  
+everyone, whose work succeeds—to give us help.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Let us invoke to-day, to aid our labour, the Lord of Speech, the thought-swift Visvakarman.  
+     May he hear kindly all our invocations who gives all bliss for aid, whose works are righteous.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Den Meister der Rede, den gedankenerweckenden Visvakarman, wollen wir heute bei dem Wettstreit zum Beistand rufen. Er möge an allen unseren Anrufungen Gefallen haben, der Allwohltätige, Guteswirkende zur Gnade.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Lasst uns den Herrn des Lieds, den Allvollbringer, den Mutherreger heut beim Kampfe rufen, Er höre freundlich alle unsre Lieder, allsegnend, uns zum Heile herrlich wirkend.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Повелителя речи, Вишвакармана, быстрого, как мысль,  
+Мы хотим призывать сегодня на помощь при состязании.  
+Пусть радуется он всем нашим призывам,  
+(Этот) приносящий всем благо, совершающий добрые дела (нам) в поддержку!
+</details>

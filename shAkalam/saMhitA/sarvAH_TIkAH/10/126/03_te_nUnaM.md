@@ -1,0 +1,154 @@
++++
+title = "003"
+devataa = "विश्वेदेवाः"
+RShiH = "कुल्मलबर्हिषः शैलूषिरंहोमुग्वा वामदेव्यः"
+ChandaH = "उपरिष्टाद्बृहती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+ते꣡ नूनं꣡ नो ऽय꣡म् ऊत꣡ये  
+व꣡रुणो मित्रो꣡ अर्यमा꣡  
+न꣡यिष्ठा उ नो नेष꣡णि  
+प꣡र्षिष्ठा उ नः पर्ष꣡णि अ꣡ति द्वि꣡षः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M;; repeated line  
+genre M  
+genre M;; line affected by realignment  
+genre M;; line affected by realignment;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ते । नू॒नम् । नः॒ । अ॒यम् । ऊ॒तये॑ । वरु॑णः । मि॒त्रः । अ॒र्य॒मा ।  
+नयि॑ष्ठाः । ऊं॒ इति॑ । नः॒ । ने॒षणि॑ । पर्षि॑ष्ठाः । ऊं॒ इति॑ । नः॒ । प॒र्षणि॑ । अति॑ । द्विषः॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *te* ← *tad*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *nūnaṃ* ← *nūnam*
+- \[adverb\]
+- “now; surely; immediately; just.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *'yam* ← *ayam* ← *idam*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *ūtaye* ← *ūti*
+- \[noun\], dative, singular, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *varuṇo* ← *varuṇaḥ* ← *varuṇa*
+- \[noun\], nominative, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *mitro* ← *mitraḥ* ← *mitra*
+- \[noun\], nominative, singular, masculine
+- “friend; Mitra; mitra \[word\]; sun; ally.”
+------------------------------------------------------------------------
+- *aryamā* ← *aryaman*
+- \[noun\], nominative, singular, masculine
+- “Aryaman; aryaman \[word\]; sun.”
+------------------------------------------------------------------------
+- *nayiṣṭhā* ← *nayiṣṭhāḥ* ← *nayiṣṭha*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *neṣaṇi* ← *nī*
+- \[verb noun\]
+- “bring; lead; spend; decant; enter (a state); remove; take out; take
+    away; enforce; marry; carry; fill into; bring; learn; go out; add.”
+------------------------------------------------------------------------
+- *parṣiṣṭhā* ← *parṣiṣṭhāḥ* ← *parṣiṣṭha*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *parṣaṇy* ← *parṣaṇi* ← *pṛ*
+- \[verb noun\]
+- “protect; promote; rescue; help.”
+------------------------------------------------------------------------
+- *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+------------------------------------------------------------------------
+- *dviṣaḥ* ← *dviṣ*
+- \[noun\], accusative, plural, feminine
+- “hate; dviṣ; hostility; hostility.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+अयं वरुणो मित्रश्चार्यमा च देवा नोऽस्माकमूतये रक्षणाय नूनमवश्यं भवन्तु। नेषणि नेतव्ये विषये हे वरुणादयः यूयं नोऽस्मान्नयिष्ठाः। नयत। वचनव्यत्ययः। यद्वा। प्रत्येकाभिप्रायेणैकवचनम्। छान्दसो लुङ्। उशब्दः समुच्चये पदपूरणार्थो वा। पर्षणिः पारयितव्ये विषये नोऽस्मान्द्विषोऽति पर्षिष्ठाः। अतिपारयथ। नयिष्था इति वत्प्रक्रिया॥३॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“May this **Varuṇa** and **Mitra** and **Aryaman** be our protection, may they lead us to the spot to which weshould be led, and make us cross over to the spot to which we should cross over beyond (the reach of) ourenemies.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+They are here to aid us now—Varuṇa, Mitra, Aryaman—  
+the best leaders in leading us and the best deliverers in delivering us— beyond hatreds.
+</details>
+
+<details><summary>+Griffith</summary>
+
+These are, each one, our present helps, Varuna, Mitra, Aryaman.  
+     Best leaders, best deliverers to lead us on and bear as safe beyond our foes.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Die sollen uns jetzt zu Hilfe kommen, dieser Varuna, Mitra, Aryaman, unsere besten Führer, wenn es zu führen gilt, unsere besten Retter, wenn es zu retten gilt - über alle Anfeindungen hinweg.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Sie mögen uns zum Schutze sein Varuna, Mitra, Arjaman, Als beste Führer führen uns, aufs beste fahrend fahren uns – durch jeden Feind.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+(Пусть) они сейчас здесь (придут) к нам на помощь:  
+Варуна, Митра, Арьяман,  
+Ведущие лучше всех, когда нас надо вести,  
+Переправляющие лучше всех, когда нас надо переправлять через проявления враждебности!
+</details>

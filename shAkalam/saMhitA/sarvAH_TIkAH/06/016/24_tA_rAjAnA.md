@@ -1,0 +1,126 @@
++++
+title = "024"
+devataa = "अग्निः"
+RShiH = "भरद्वाजो बार्हस्पत्यः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+ता꣡ रा꣡जाना शु꣡चिव्रता  
+आदित्या꣡न् मा꣡रुतं गण꣡म्  
+व꣡सो य꣡क्षीह꣡ रो꣡दसी
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ता । राजा॑ना । शुचि॑ऽव्रता । आ॒दि॒त्यान् । मारु॑तम् । ग॒णम् ।  
+वसो॒ इति॑ । यक्षि॑ । इ॒ह । रोद॑सी॒ इति॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *tā* ← *tad*
+- \[noun\], accusative, dual, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *rājānā* ← *rājan*
+- \[noun\], accusative, dual, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+------------------------------------------------------------------------
+- *śucivratādityān* ← *śuci*
+- \[noun\]
+- “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
+    impeccant.”
+------------------------------------------------------------------------
+- *śucivratādityān* ← *vratā* ← *vrata*
+- \[noun\], accusative, dual, masculine
+- “vrata (vote); commandment; law; oath; command; rule; custom; vrata
+    \[word\]; rule; behavior.”
+------------------------------------------------------------------------
+- *śucivratādityān* ← *ādityān* ← *āditya*
+- \[noun\], accusative, plural, masculine
+- “sun; Aditya; Surya; āditya \[word\].”
+------------------------------------------------------------------------
+- *mārutaṃ* ← *mārutam* ← *māruta*
+- \[noun\], accusative, singular, masculine
+- “Marut(a).”
+------------------------------------------------------------------------
+- *gaṇam* ← *gaṇa*
+- \[noun\], accusative, singular, masculine
+- “group; varga; troop; troop; battalion; flock; herd; gaṇa \[word\];
+    corporation; gaṇa; herd; sect; swarm; set; party; gaṇa; series;
+    Ganesa; flight.”
+------------------------------------------------------------------------
+- *vaso* ← *vasu*
+- \[noun\], vocative, singular, masculine
+- “good; good; benign; vasu \[word\].”
+------------------------------------------------------------------------
+- *yakṣīha* ← *yakṣi* ← *yaj*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “sacrifice; worship; worship.”
+------------------------------------------------------------------------
+- *yakṣīha* ← *iha*
+- \[adverb\]
+- “here; now; in this world; now; below; there; here; just.”
+------------------------------------------------------------------------
+- *rodasī* ← *rodas*
+- \[noun\], accusative, dual, neuter
+- “heaven and earth; Earth.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**ता** तौ प्रसिद्धौ **राजाना** राजमानौ **शुचित्रता** शुचिकर्माणौ मित्रावरुणौ **आदित्यान्** अदितेः पुत्रान् धात्रादीन् **मारुतं** **गणं** मरुतां संघं च **रोदसी** द्यावापृथिव्यौ च एतान् देवान् हे **वसो** वासकाग्ने **इह** अस्मिन् यज्ञे **यक्षि** यज ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Giver of dwellings, worship on this occasion, the two regal divinities, **Mitra** and **Varuṇa**, whose acts are holy, the **Ādityas**, the company of the **Maruts**, and heaven.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+To the two kings of blazing commandments [=Mitra and Varuṇa], the  Ādityas, the Marutian flock,  
+o good one, sacrifice here, and to the two world-halves.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Bring those Two Kings whose ways are pure, Adityas, and the Marut host,  
+     Excellent God! and Heaven and Earth.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Die beiden Könige, deren Walten lauter ist, die Aditya´s, die Marutschar, du Guter, verehre hier und die beiden Welten!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Das reingesinnte Königspaar, Aditja's und die Marutschar, Die Welten ehr, o Guter, hier.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Тем двум царям, чьи обеты светлы,  
+Адитьям, толпе Марутов,  
+О Васу, принеси здесь жертву, (а также) двум мирам!
+</details>

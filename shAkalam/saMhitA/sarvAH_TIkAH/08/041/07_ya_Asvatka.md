@@ -1,0 +1,183 @@
++++
+title = "007"
+devataa = "वरुणः"
+RShiH = "नाभाकः काण्वः"
+ChandaH = "महापङ्क्तिः"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+य꣡ आसु अ꣡त्क आश꣡ये  
+वि꣡श्वा जाता꣡नि एषा᳐म्  
+प꣡रि धा꣡मानि म꣡र्मृशद्  
+व꣡रुणस्य पुरो꣡ ग꣡ये  
+वि꣡श्वे देवा꣡ अ꣡नु व्रतं꣡  
+न꣡भन्ताम् अन्यके꣡ समे
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M  
+genre M  
+genre M;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । आ॒सु॒ । अत्कः॑ । आ॒ऽशये॑ । विश्वा॑ । जा॒तानि॑ । ए॒षा॒म् ।  
+परि॑ । धामा॑नि । मर्मृ॑शत् । वरु॑णस्य । पु॒रः । गये॑ । विश्वे॑ । दे॒वाः । अनु॑ । व्र॒तम् । नभ॑न्ताम् । अ॒न्य॒के । स॒मे॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *ya* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *āsv* ← *āsu* ← *idam*
+- \[noun\], locative, plural, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *atka* ← *atkaḥ* ← *atka*
+- \[noun\], nominative, singular, masculine
+- “garment.”
+------------------------------------------------------------------------
+- *āśaye* ← *āśī* ← *√śī*
+- \[verb\], singular, Present indikative
+- “lie; stay.”
+------------------------------------------------------------------------
+- *viśvā* ← *viśva*
+- \[noun\], accusative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *jātāny* ← *jātāni* ← *jāta*
+- \[noun\], accusative, plural, neuter
+- “kind; object; descendant; kin; being; reincarnation.”
+------------------------------------------------------------------------
+- *eṣām* ← *idam*
+- \[noun\], genitive, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *dhāmāni* ← *dhāman*
+- \[noun\], accusative, plural, neuter
+- “domain; dwelling; law; appearance; light; race; agreement; color;
+    location.”
+------------------------------------------------------------------------
+- *marmṛśad* ← *marmṛśat* ← *marmṛś* ← *√mṛś*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------
+- *varuṇasya* ← *varuṇa*
+- \[noun\], genitive, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *puro* ← *puras*
+- \[adverb\]
+- “ahead; puras \[word\]; easterly; eastward; east; earlier.”
+------------------------------------------------------------------------
+- *gaye* ← *gaya*
+- \[noun\], locative, singular, masculine
+- “house; Gaya; family; Gaya; property; Gaya; wealth; livestock.”
+------------------------------------------------------------------------
+- *viśve* ← *viśva*
+- \[noun\], nominative, plural, masculine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *devā* ← *devāḥ* ← *deva*
+- \[noun\], nominative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *vrataṃ* ← *vratam* ← *vrata*
+- \[noun\], accusative, singular, neuter
+- “vrata (vote); commandment; law; oath; command; rule; custom; vrata
+    \[word\]; rule; behavior.”
+------------------------------------------------------------------------
+- *nabhantām* ← *nabh*
+- \[verb\], plural, Present imperative
+- “burst.”
+------------------------------------------------------------------------
+- *anyake* ← *anyaka*
+- \[noun\], nominative, plural, masculine
+- “other; another(a).”
+------------------------------------------------------------------------
+- *same* ← *sama*
+- \[noun\], nominative, plural, masculine
+- “like; like; alike(p); level; symmetrical; balanced; average; same;
+    regular; impartial; imperturbable; even; sama \[word\]; every(a);
+    accurate; identical; fair; equal; synonymous; changeless; whole;
+    exact; calm; straight; even; wide.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+--- त्परिमृशतः **वरुणस्य** **पुरो** **गये** रथस्य पुरताद्भवति तस्य वरुणस्य पुरस्तात् **विश्वे** सर्वे **देवाः** **व्रतं** कर्म **अनु** गच्छन्तीत्यर्थः । सिद्धमन्यत् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“He who, passing amid those (regions of the firmament), given refuge to all their races, and all thedeities precede the chariot of **Varuṇa**, when manifesting his glories to perform his worship; may all ouradversaries perish.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+..who, going through these regions (of space) rests on all their tribes, surrounding allhomes-- all the gods are engaged in worship before Varuṇa's dwelling; may all our adversaries perish.
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Who lies on these [fem. =the waters?] (like) a cloak, while enveloping all  the created things of these [masc. =the gods?] and their domains—  
+in Varuṇa’s household, in front (of him), are all the gods, following his  commandment.  
+– Let all the other squirts burst!
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+The purport of this verse and the referents of the unidentified fem. pl. (āsu, pāda a) and masc./neut. pl. (eṣām, pāda b) are completely unclear to me, and multiple suggestions have been made about the identities of these entities and the ways they might fit together. I roughly follow Oldenberg’s interpr., but cannot carry it further.
+</details>
+
+<details><summary>+Griffith</summary>
+
+He wraps these regions as a robe; he contemplates the tribes of Gods and all the works of mortal men.  
+     Before the home of Varuna all the Gods follow his decree.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Der als Umhüllung auf diesen Flüssen liegt, deren Geschlechter alle, deren Formen umfassend, aller Götter, die unter Varuna´s Anführung dessen Geboten folgen. - All die anderen Schwächlinge sollen entzweigehen!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Die Götter folgen dem Gesetz dort vor dem Sitz des Varuna, Der wie ein Mantel deckt die Welt, der Götter Stämme allesammt und ihre Stätten fest umfängt. Zerstieben soll der Feinde Schwarm.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Кто на них лежит, (как) покров,  
+(Озирая) все рождения этих (богов),  
+Охватывая кругом все (их) установления, –  
+Перед (этим) Варуной в (его) обители  
+Все боги (следуют его) завету.  
+Пусть лопнут все ничтожные другие!
+</details>

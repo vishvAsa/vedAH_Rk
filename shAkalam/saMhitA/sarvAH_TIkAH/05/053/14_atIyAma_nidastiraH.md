@@ -1,0 +1,154 @@
++++
+title = "014"
+devataa = "मरुतः"
+RShiH = "श्यावाश्व आत्रेयः"
+ChandaH = "सतो बृहती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अ꣡तीयाम निद꣡स् तिरः꣡ सुअस्ति꣡भिर्  
+हित्वा꣡ अवद्य꣡म् अ꣡रातीः  
+वृष्टुवी꣡ शं꣡ यो꣡र् आ꣡प उस्रि꣡ भेषजं꣡  
+सिया꣡म मरुतः सह꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अति॑ । इ॒या॒म॒ । नि॒दः । ति॒रः । स्व॒स्तिऽभिः॑ । हि॒त्वा । अ॒व॒द्यम् । अरा॑तीः ।  
+वृ॒ष्ट्वी । सम् । योः । आपः॑ । उ॒स्रि । भे॒ष॒जम् । स्याम॑ । म॒रु॒तः॒ । स॒ह ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *atīyāma* ← *atī* ← *√i*
+- \[verb\], plural, Present optative
+- “elapse; overcome; transgress; die; fail; pierce.”
+------------------------------------------------------------------------
+- *nidas* ← *nidaḥ* ← *nid*
+- \[noun\], accusative, plural, feminine
+- “derision; scoffer; contempt.”
+------------------------------------------------------------------------
+- *tiraḥ* ← *tiras*
+- \[adverb\]
+- “tiras \[word\]; away; secretly.”
+------------------------------------------------------------------------
+- *svastibhir* ← *svastibhiḥ* ← *svasti*
+- \[noun\], instrumental, plural, feminine
+- “prosperity; well-being; fortune; benediction; svasti \[word\];
+    well; luck.”
+------------------------------------------------------------------------
+- *hitvāvadyam* ← *hitvā* ← *hā*
+- \[verb noun\]
+- “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
+    lose; avoid; remove; leave; abandon; neglect; leave; discard;
+    apostatize; discontinue; weaken; abandon; assail; subtract;
+    foreswear; pour away; withdraw; depart; reduce.”
+------------------------------------------------------------------------
+- *hitvāvadyam* ← *avadyam* ← *avadya*
+- \[noun\], accusative, singular, neuter
+- “shame; censure; blame.”
+------------------------------------------------------------------------
+- *arātīḥ* ← *arāti*
+- \[noun\], accusative, plural, feminine
+- “hostility; adversity; foe; envy; stinginess.”
+------------------------------------------------------------------------
+- *vṛṣṭvī* ← *vṛṣ*
+- \[verb noun\]
+- “shower; rain; effuse; shower; drench.”
+------------------------------------------------------------------------
+- *śaṃ* ← *śam*
+- \[noun\], nominative, singular, neuter
+- “luck; well-being; fortune.”
+------------------------------------------------------------------------
+- *yor* ← *yoḥ* ← *yos*
+- \[noun\], nominative, singular, neuter
+- “fortune.”
+------------------------------------------------------------------------
+- *āpa* ← *āpaḥ* ← *ap*
+- \[noun\], nominative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *usri* ← *usṛ*
+- \[noun\], locative, singular, feminine
+- “dawn.”
+------------------------------------------------------------------------
+- *bheṣajaṃ* ← *bheṣajam* ← *bheṣaja*
+- \[noun\], nominative, singular, neuter
+- “drug; medicine; herb; bheṣaja \[word\]; remedy; reagent.”
+------------------------------------------------------------------------
+- *syāma* ← *as*
+- \[verb\], plural, Present optative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *marutaḥ* ← *marut*
+- \[noun\], vocative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *saha*
+- \[adverb\]
+- “together; together; with; jointly; together; saha \[word\]; along.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे मरुतो वयं **स्वस्तिभिः** क्षेमैः **अवद्यं** पापं **हित्वा** परित्यज्य **निदः** निन्दकान् **अरातीः** शत्रून् **तिरः** प्राप्तान् । यद्वा तिरः अन्तर्हितम् । **अतीयाम** अतिक्रम्य गच्छेम तिरस्कुर्म इत्यर्थः । अनेनानिष्टपरिहारः प्रार्थित उत्तरेणेष्टप्राप्तिरुच्यते । **वृष्ट्वी** वृष्टिषु युष्मत्प्रेरितासु सतीषु **शं** सुखं **योः** पापानां यावनं च **आपः** उदकानि ॥ शसः स्थाने जस् ॥ **उस्रि** गोयुक्तं **भेषजम्** । यद्यप्येतदुदकनाम तथापि पृथगपामभिधानादत्र तद्धेतुकार्यमन्नमुच्यते । तत् सर्वं **सह** **स्याम** लभेमहि हे **मरुतः** वयम् । यद्वा । आपो युष्मत्प्रेरिता उक्तं सर्वं कुर्वन्तु । वयं सर्वे सहैव स्याम भवेम युष्मत्स्वभूताः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“May we overcomeour secret and reviling adversaries, having departed from iniquity by good deeds; may we possess, **Maruts**, through the rain (sent by you), unmixed happiness, water, cattle and herbs.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+May we cross over beyond scorners through your blessings, having left  behind imperfection and hostilities.  
+When it rains, the waters are luck and lifetime; at dawn they are  
+medicine. May we be together with (them/you), o Maruts.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+The standard tr. take usrí as having temporal domain over the whole of pāda c: “when it rains, the waters at dawn are luck, lifetime, and medicine.” I don’t see any way to tell, and in fact I don’t see why dawn should limit any of these predicates.
+</details>
+
+<details><summary>+Griffith</summary>
+
+May we in safety pass by those who slander us, leaving behind disgrace and hate.  
+     Maruts, may we be there when ye, at dawn, in rest and toil, rain waters down and balm.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Wir möchten glücklich über den Tadel hinwegkommen, Unehre und Mißgunst dahinten lassend. Wenn es geregnet hat, sollen die Wasser in der Morgenfrühe Glück und Arzenei sein. Wir möchten dabei sein, ihr Marut.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Lasst ungefährdet durch die Feinde dringen uns, vermeidend Schmach und Ungemach; Wenn morgens Heil und Arzenei das Wasser strömt, so sei'n, o Maruts, wir dabei.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Пусть пройдем мы благополучно через насмешки,  
+Оставив (позади) упреки (и) недоброжелательность!  
+Когда прошел дождь, да будут воды на заре на счастье (и) благо, (да будут они) целебными средством!  
+Да будет мы при этом, о Маруты!
+</details>

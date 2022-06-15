@@ -1,0 +1,127 @@
++++
+title = "013"
+devataa = "इन्द्रः"
+RShiH = "शंयुर्बार्हस्पत्यः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अ꣡भूर् उ वीर गिर्वणो  
+महाँ꣡ इन्द्र ध꣡ने हिते꣡  
+भ꣡रे वितन्तसा꣡यियः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अभूः॑ । ऊं॒ इति॑ । वी॒र॒ । गि॒र्व॒णः॒ । म॒हान् । इ॒न्द्र॒ । धने॑ । हि॒ते ।  
+भरे॑ । वि॒त॒न्त॒साय्यः॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *abhūr* ← *abhūḥ* ← *bhū*
+- \[verb\], singular, Root aorist (Ind.)
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *vīra*
+- \[noun\], vocative, singular, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+------------------------------------------------------------------------
+- *girvaṇo* ← *girvaṇaḥ* ← *girvaṇas*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------
+- *mahāṃ* ← *mahat*
+- \[noun\], nominative, singular, masculine
+- “large; eminent; great; loud; dangerous; strong; long; high;
+    much(a); mahant \[word\]; ample; very; great; adult; important;
+    dark; high; abundant; violent; remarkable; mighty; big; long.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *dhane* ← *dhana*
+- \[noun\], locative, singular, neuter
+- “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
+    dhan; capital; fight.”
+------------------------------------------------------------------------
+- *hite* ← *dhā*
+- \[verb noun\], locative, singular
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *bhare* ← *bhara*
+- \[noun\], locative, singular, masculine
+- “battle; weight; foray; bhṛ; load.”
+------------------------------------------------------------------------
+- *vitantasāyyaḥ* ← *vitantasāyya*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **वीर** विविधमीरयितः शत्रूणां हे **गिर्वणः** गीर्भिर्वननीय **इन्द्र** **हिते** शत्रुषु निहिते **धने** निमित्तभूते सति **महान्** प्रवृद्धस्त्वं **भरे** संग्रामे **वितन्तसाय्यः** शत्रूणां जेता **अभूः** ॥ तन्तस इति धातुर्जयार्थः कण्ड्वादौ पठ्यते । तस्मात् व्युपसृष्टादौणादिकः कर्तर्याय्यप्रत्ययः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Heroic and adorable **Indra**, verily you are mighty in battle, and victor of the wealth held (by the enemy).”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+You became great when the stake was set, o Indra, you hero who longs  for songs,  
+and the one worth tussling for at the raid.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+The new tṛca opens with yet another example of the ‘stake’ phrase, this time in opposite order (dháne hité). For further on the order in this phrase, see the above introduction. comm. to the hymn.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Thou, Indra, Lover of the Song, whom men must stir to help, hast been  
+     Great in the contest for the prize.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Du wardst bei ausgesetztem Siegespreis der Große, o lobbegehrender Held Indra; um dich reißt man sich im Streit um den Gewinn.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Du Indra, hochgepriesner Held, bist gross, wenn Kampfes Preis es gilt, Du, den im Streit man gern beeilt.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Ты был великим, о герой, жаждущий хвалебных песен,  
+О Индра, когда (была) установлена ставка:  
+При захвате добычи тебя рвут друг у друга.
+</details>

@@ -1,0 +1,171 @@
++++
+title = "006"
+devataa = "सूर्यः"
+RShiH = "कुत्स आङ्गिरसः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अद्या꣡ देवा उ꣡दिता सू꣡रियस्य  
+नि꣡र् अं꣡हसः पिपृता꣡ नि꣡र् अवद्या꣡त्  
+त꣡न् नो मित्रो꣡ व꣡रुणो मामहन्ताम्  
+अ꣡दितिः सि꣡न्धुः पृथिवी꣡ उत꣡ द्यउः꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre D  
+genre D  
+genre D;; repeated line  
+genre D;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒द्य । दे॒वाः॒ । उत्ऽइ॑ता । सूर्य॑स्य । निः । अंह॑सः । पि॒पृ॒त । निः । अ॒व॒द्यात् ।  
+तत् । नः॒ । मि॒त्रः । वरु॑णः । म॒म॒ह॒न्ता॒म् । अदि॑तिः । सिन्धुः॑ । पृ॒थि॒वी । उ॒त । द्यौः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *adyā* ← *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+------------------------------------------------------------------------
+- *devā* ← *devāḥ* ← *deva*
+- \[noun\], vocative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *uditā* ← *uditi*
+- \[noun\], locative, singular, feminine
+- “rise.”
+------------------------------------------------------------------------
+- *sūryasya* ← *sūrya*
+- \[noun\], genitive, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+------------------------------------------------------------------------
+- *nir* ← *niḥ*
+- \[adverb\]
+- “niḥ; away; out; without.”
+------------------------------------------------------------------------
+- *aṃhasaḥ* ← *aṃhas*
+- \[noun\], ablative, singular, neuter
+- “trouble; sin.”
+------------------------------------------------------------------------
+- *pipṛtā* ← *pipṛta* ← *pṛ*
+- \[verb\], plural, Present imperative
+- “protect; promote; rescue; help.”
+------------------------------------------------------------------------
+- *nir* ← *niḥ*
+- \[adverb\]
+- “niḥ; away; out; without.”
+------------------------------------------------------------------------
+- *avadyāt* ← *avadya*
+- \[noun\], ablative, singular, neuter
+- “shame; censure; blame.”
+------------------------------------------------------------------------
+- *tan* ← *tat* ← *tad*
+- \[noun\], nominative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *mitro* ← *mitraḥ* ← *mitra*
+- \[noun\], nominative, singular, masculine
+- “friend; Mitra; mitra \[word\]; sun; ally.”
+------------------------------------------------------------------------
+- *varuṇo* ← *varuṇaḥ* ← *varuṇa*
+- \[noun\], nominative, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *māmahantām* ← *mah*
+- \[verb\], plural, Perfect imperative
+- “give; accord.”
+------------------------------------------------------------------------
+- *aditiḥ* ← *aditi*
+- \[noun\], nominative, singular, feminine
+- “Aditi; aditi \[word\].”
+------------------------------------------------------------------------
+- *sindhuḥ* ← *sindhu*
+- \[noun\], nominative, singular, masculine
+- “river; Indus; sindhu \[word\].”
+------------------------------------------------------------------------
+- *pṛthivī*
+- \[noun\], nominative, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *dyauḥ* ← *div*
+- \[noun\], nominative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **देवाः** द्योतमानाः सूर्यरश्मयः **अद्य** अस्मिन्काले **सूर्यस्य** आदित्यस्य **उदिता** उदितौ उदये सति इतस्ततः प्रसरन्तो यूयम् अस्मान् **अंहसः** पापात् **निः** **पिपृत** निष्कृष्य पालयत । यदिदमस्माभिरुक्तं **नः** अस्मदीयं **तत्** मित्रादयः षड्देवता: ममहन्तां पूजयन्तु अनुमन्यन्ताम् । रक्षन्त्विति यावत् । **मित्रः** प्रमीतेस्त्रायकः अहरभिमानी देवः । **वरुणः** अनिष्टानां निवारयिता रात्र्यभिमानी । **अदितिः** अखण्डनीया अदीना वा देवमाता । **सिन्धुः** स्यन्दनशीलोदकाभिमानिनी देवता । **पृथिवी** भूलोकस्याधिष्ठात्री **द्यौः** द्युलोकस्य । उतशब्दः समुच्चये ॥ अद्य ।  ‘ निपातस्य च ' इति संहितायां दीर्घत्वम् । उदिता । उत्पूर्वात् एतेर्भावे क्तिन् । सुपां सुलुक्° ' इति डादेशः ।  ‘ तादौ च° ' इति गतेः प्रकृतिस्वरत्वम् । पिपृत।  ‘ पॄ पालनपूरणयोः पृ इत्येके'। लोटि जुहोत्यादित्वात् शपः श्लुः । द्विर्वचनोरदत्वहलादिशेषाः ।  ‘ अर्तिपिपर्त्योश्च ' इति अभ्यासस्य इत्वम् ।  ‘ सार्वधातुकमपित्' इति तशब्दस्य ङित्त्वे सति  ‘ ऋचि तुनुघ° ' इत्यादिना संहितायां दीर्घः ॥ ७ ॥ ॥ १६ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“This day, gods, with the rising of the sun, deliver us from heinous sin; and may **Mitra**, **Varuṇa**, **Aditi**--ocean, earth and heaven, be favourable to this (our prayer).”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Today, o gods, at the rising of the Sun, deliver us from distress and from  disgrace.  
+– This let Mitra and Varuıa grant to us, and Aditi, River, and Earth and  Heaven.  
+Kakṣīvant Dairghatamasa, the son of Dīrghatamas (poet of I.140–164), is the poet  of the next eleven hymns (116–126). As Geldner points out, however, Kakṣīvant  refers to himself as pajriyá (I.116.7, 117.6, 120.5) and to his family as the pajrā́ḥ (I.122.8, 126. 4, 5). According to I.121.13 the Pajras are Aṅgirases. Kakṣīvant also  
+
+calls himself the son of Uśij in I.119.9 and 122.4; Sāyaṇa identifies Uśij as a dāsī, a  servant woman.  
+Whatever his family affiliations Kakṣīvant has one of the most distinctive poetic  personalities in the R̥gveda. He is a very skillful, self-conscious, and tricky artist,  setting traps for his unwary hearers and twisting words and phrases into often  impenetrable knots, with an exuberance that we have to admire despite our fre  
+quent frustrations. He also has clear thematic preoccupations. Approximately half  of his oeuvre is devoted to the Aśvins (116–120), with important catalogues of their  deeds and services. (Much of what we know or surmise about the mythology of  the Aśvins comes from these hymns.) He is also particularly interested in women in  all their aspects: there are important and high-style treatments of the marriage of  Sūryā and the Aśvins’ wooing of her, as well as two lovely Dawn hymns (123–124)  sketching a range of female roles, but there is also a nearly obscene celebration of  a girl he received as a gift from his patron (126.6–7) that presses the boundaries of  R̥gvedic decorum.  
+Because so much of Kakṣīvant’s artistry is bound up with his manipulation of  the Sanskrit language even at the phonological level, the special flavor of his poetry  is particularly hard to convey in translation, unfortunately.
+</details>
+
+<details><summary>+Griffith</summary>
+
+This day, O Gods, while Surya is ascending, deliver us from trouble and dishonour.  
+     This prayer of ours may Varuna grant, and Mitra, and Aditi and Sindhu, Earth and Heaven.
+</details>
+
+<details><summary>+Macdonell</summary>
+
+To-day, O gods, do ye at Sūrya's rising Release us from distress and from dishonour: This boon may Varuṇa and Mitra grant us. And Aditi and Sindhu, Earth and Heaven.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Ihr Götter, helfet uns heute bei Aufgang der Sonne von Ungemach und Tadel! Das sollen uns Mitra, Varuna gewähren, Aditi, Sindhu, Erde und Himmel!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Befreiet heute bei der Sonne Aufgang, o Götter, uns von Schmach und von Bedrängniss; Das mög' uns Mitra, Varuna gewähren und Aditi, das Meer und Erd' und Himmel.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Сегодня, о боги, на восходе солнца,  
+Переправьте нас через узость, через бесчестье!  
+Пусть нам это щедро даруют Митра, Варуна,  
+Адити, Синдху, Земля и Небо!
+</details>

@@ -1,0 +1,192 @@
++++
+title = "003"
+devataa = "इन्द्रः"
+RShiH = "सुदाः पैजवनः"
+ChandaH = "शक्वरी"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+वि꣡ षु꣡ वि꣡श्वा अ꣡रातयो  
+अर्यो꣡ नशन्त नो धि꣡यः  
+अ꣡स्तासि श꣡त्रवे वधं꣡  
+यो꣡ न इन्द्र जि꣡घांसति  
+या꣡ ते राति꣡र् ददि꣡र् व꣡सु  
+न꣡भन्ताम् अन्यके꣡षां᳐  
+जियाका꣡ अ꣡धि ध꣡न्वसु
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M  
+genre M  
+genre M;; repeated line  
+genre M;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वि । सु । विश्वा॑ । अरा॑तयः । अ॒र्यः । न॒श॒न्त॒ । नः॒ । धियः॑ ।  
+अस्ता॑ । अ॒सि॒ । शत्र॑वे । व॒धम् । यः । नः॒ । इ॒न्द्र॒ । जिघां॑सति । या । ते॒ । रा॒तिः । द॒दिः । वसु॑ । नभ॑न्ताम् । अ॒न्य॒केषा॑म् । ज्या॒काः । अधि॑ । धन्व॑ऽसु ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *ṣu* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *viśvā* ← *viśvāḥ* ← *viśva*
+- \[noun\], nominative, plural, feminine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *arātayo* ← *arātayaḥ* ← *arāti*
+- \[noun\], nominative, plural, feminine
+- “hostility; adversity; foe; envy; stinginess.”
+------------------------------------------------------------------------
+- *'ryo* ← *aryaḥ* ← *ari*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *naśanta* ← *naś*
+- \[verb\], plural, Present injunctive
+- “reach; achieve; enter (a state); reach.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *dhiyaḥ* ← *dhī*
+- \[noun\], nominative, plural, feminine
+- “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
+    knowledge.”
+------------------------------------------------------------------------
+- *astāsi* ← *as*
+- \[verb\], singular, periphrast. future
+- “shoot; remove.”
+------------------------------------------------------------------------
+- *śatrave* ← *śatru*
+- \[noun\], dative, singular, masculine
+- “enemy; foe; enemy; Asura.”
+------------------------------------------------------------------------
+- *vadhaṃ* ← *vadham* ← *vadha*
+- \[noun\], accusative, singular, masculine
+- “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
+    dysfunction; punishment; kick.”
+------------------------------------------------------------------------
+- *yo* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *na* ← *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *jighāṃsati* ← *jighāṃs* ← *√han*
+- \[verb\], singular, Present indikative
+- “kill.”
+------------------------------------------------------------------------
+- *yā* ← *yad*
+- \[noun\], nominative, singular, feminine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *te* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *rātir* ← *rātiḥ* ← *rāti*
+- \[noun\], nominative, singular, feminine
+- “gift; bounty; favor.”
+------------------------------------------------------------------------
+- *dadir* ← *dadiḥ* ← *dadi*
+- \[noun\], nominative, singular, feminine
+- “giving; big.”
+------------------------------------------------------------------------
+- *vasu*
+- \[noun\], accusative, singular, neuter
+- “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
+------------------------------------------------------------------------
+- *nabhantām* ← *nabh*
+- \[verb\], plural, Present imperative
+- “burst.”
+------------------------------------------------------------------------
+- *anyakeṣāṃ* ← *anyakeṣām* ← *anyaka*
+- \[noun\], genitive, plural, masculine
+- “other; another(a).”
+------------------------------------------------------------------------
+- *jyākā* ← *jyākāḥ* ← *jyākā*
+- \[noun\], nominative, plural, feminine
+- “bowstring.”
+------------------------------------------------------------------------
+- *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+------------------------------------------------------------------------
+- *dhanvasu* ← *dhanvan*
+- \[noun\], locative, plural, neuter
+- “bow; desert; steppe; barren.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**विश्वाः** सर्वाः **अरातयः** अदात्र्यः **अर्यः** अभिगन्त्र्यः **नः** अस्माकं शत्रुभूताः प्रजाः **सु** सुष्ठु **वि** **नशन्त** विनश्यन्तु । हे इन्द्र त्वदर्थं **धियः** कर्माणि स्तुतयो वा प्रवर्तन्ताम् । हे **इन्द्र** **यः** **नः** अस्मान् **जिघांसति** हन्तुमिच्छति । हन्तेः सनि अज्झनगमां सनि' इति दीर्घः । अभ्यासाच्च' इति कुत्वम् । तस्मै **शत्रवे** **वधं** हननसाधनमायुधम् **अस्तासि** क्षेप्ता भवसि । असु क्षेपणे । ताच्छीलिकस्तृन् । **ते** तव **या** **रातिः** धनप्रदानहेतुर्हस्तः । रा दाने । करणे क्तिन् । ‘ मन्त्रे वृषेषपचमनविदभूवीरा  उदात्त: ' इति क्तिन उदात्तत्वम् । सा रातिः **वसु** धनं **ददिः** अस्मभ्यं दाता भवतु ।  ‘ आदृगमहन' इति ददातेः किप्रत्ययः ।  ‘ न लोकाव्यय°' इति वसुशब्दात् षष्ठ्यभावः । सिद्धमन्यत् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“May all our assailants, who make no offerings, quickly perish, may our praises (be successful); you,**Indra**, hurl the weapon at the foe who seeks to slay us, may that liberal (**hand**) of yours be the giver of wealth (tous); may the bowstrings on the bows of our enemies be destroyed.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+All the hostilities of the stranger will disappear, while our poetic insights  will reach beyond (those) of the stranger.  
+You are wont to shoot the murderous weapon at the rival who wishes to  smite us, Indra. Your generosity—(that is just) giving goods.  
+– Let the little bowstrings of the other squirts burst on their bows.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Destroyed be all malignities and all our enemy's designs.  
+     Thy bolt thou castest, at the foe, O Indra, who would srnite us dead: thy liberal bounty gives us wealth.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Alle Mißgunst der Nebenbuhler soll fein zu Schanden werden; unsere Gebete mögen die Nebenbuhler einholen. Du schießest deine Waffe auf den Feind, der uns töten will, Indra. Was deine Freigebigkeit ist, die schenkt Gut. - Die Sehnchen der anderen Schwächlinge sollen an dem Bogen entzwei gehen!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Bald schwinde hin der Bösen Schar und unsres Gegners Pläne all', Die Waffe wirfst du auf den Feind, der uns, o Indra, tödten will; Du schenkst uns Gut nach deiner Huld; zerreissen soll den anderen Die Sehne, die den Bogen spannt.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Пусть ис(чезнут) совсем все враждебные силы,  
+Пусть наши мысли настигнут (мысли) врага!  
+Ты стреляешь смертельным оружием во врага.  
+Который хочет нас убить, о Индра.  
+Дар, который у тебя, дает благо.  
+Пусть лопнут у других людишек  
+(Их) жалкие тетивы на луках!
+</details>

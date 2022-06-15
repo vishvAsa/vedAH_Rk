@@ -1,0 +1,203 @@
++++
+title = "008"
+devataa = "इन्द्रः"
+RShiH = "परुच्छेपो दैवोदासिः"
+ChandaH = "अत्यष्टिः"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+इ꣡न्द्रः सम꣡त्सु य꣡जमानम् आ꣡रियम्  
+प्रा꣡वद् वि꣡श्वेषु शत꣡मूतिर् आजि꣡षु  
+सु꣡वर्मीऌहेषु आजि꣡षु  
+म꣡नवे शा꣡सद् अव्रता꣡न्  
+त्व꣡चं कृष्णा꣡म् अरन्धयत्  
+द꣡क्षन् न꣡ वि꣡श्वं ततृषाण꣡म् ओषति  
+नि꣡ अर्शसान꣡म् ओषति
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic on metrical evidence alone
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इन्द्रः॑ । स॒मत्ऽसु॑ । यज॑मानम् । आर्य॑म् । प्र । आ॒व॒त् । विश्वे॑षु । श॒तम्ऽऊ॑तिः । आ॒जिषु॑ । स्वः॑ऽमीळ्हेषु । आ॒जिषु॑ ।  
+मन॑वे । शास॑त् । अ॒व्र॒तान् । त्वच॑म् । कृ॒ष्णाम् । अ॒र॒न्ध॒य॒त् ।  
+दक्ष॑म् । न । विश्व॑म् । त॒तृ॒षा॒णम् । ओ॒ष॒ति॒ । नि । अ॒र्श॒सा॒नम् । ओ॒ष॒ति॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *indraḥ* ← *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *samatsu* ← *samad*
+- \[noun\], locative, plural, masculine
+- “conflict; strife.”
+------------------------------------------------------------------------
+- *yajamānam* ← *yaj*
+- \[verb noun\], accusative, singular
+- “sacrifice; worship; worship.”
+------------------------------------------------------------------------
+- *āryam* ← *ārya*
+- \[noun\], accusative, singular, masculine
+- “noble; noble; Indo-European; ārya \[word\]; honorable; noble.”
+------------------------------------------------------------------------
+- *prāvad* ← *prāvat* ← *prāv* ← *√av*
+- \[verb\], singular, Imperfect
+- “help; promote.”
+------------------------------------------------------------------------
+- *viśveṣu* ← *viśva*
+- \[noun\], locative, plural, masculine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *śatamūtir* ← *śatamūtiḥ* ← *śatamūti*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *ājiṣu* ← *āji*
+- \[noun\], locative, plural, masculine
+- “battle; fight; contest; āji \[word\]; combat.”
+------------------------------------------------------------------------
+- *svarmīﾱheṣv* ← *svarmīﾱheṣu* ← *svarmīḍha*
+- \[noun\], locative, plural, neuter
+------------------------------------------------------------------------
+- *ājiṣu* ← *āji*
+- \[noun\], locative, plural, masculine
+- “battle; fight; contest; āji \[word\]; combat.”
+------------------------------------------------------------------------
+- *manave* ← *manu*
+- \[noun\], dative, singular, masculine
+- “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
+    incantation; sacred text.”
+------------------------------------------------------------------------
+- *śāsad* ← *śāsat* ← *śās*
+- \[verb noun\], nominative, singular
+- “teach; govern; command; order; control; tell; recommend; chastize;
+    instruct.”
+------------------------------------------------------------------------
+- *avratān* ← *avrata*
+- \[noun\], accusative, plural, masculine
+- “disobedient; evil.”
+------------------------------------------------------------------------
+- *tvacaṃ* ← *tvacam* ← *tvac*
+- \[noun\], accusative, singular, feminine
+- “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
+------------------------------------------------------------------------
+- *kṛṣṇām* ← *kṛṣṇa*
+- \[noun\], accusative, singular, feminine
+- “black; dark; dark; blue; black.”
+------------------------------------------------------------------------
+- *arandhayat* ← *randhay* ← *√radh*
+- \[verb\], singular, Imperfect
+- “subjugate; hand over.”
+------------------------------------------------------------------------
+- *dakṣan* ← *dah*
+- \[verb noun\], nominative, singular
+- “burn; cauterize; heat; burn; burn; burn; roast; blaze; burn;
+    distress; destroy.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *viśvaṃ* ← *viśvam* ← *viśva*
+- \[noun\], accusative, singular, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *tatṛṣāṇam* ← *tṛṣ*
+- \[verb noun\], accusative, singular
+- “thirst.”
+------------------------------------------------------------------------
+- *oṣati* ← *uṣ*
+- \[verb\], singular, Present indikative
+- “burn; punish.”
+------------------------------------------------------------------------
+- *ny* ← *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *arśasānam* ← *arśasāna*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *oṣati* ← *uṣ*
+- \[verb\], singular, Present indikative
+- “burn; punish.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+अयम् **इन्द्रः** **समत्सु** रणेषु प्रहारनिमित्तेषु **यजमानं** यष्टारम् **आर्यम्** अरणीयं सर्वैर्गन्तव्यं **प्रावत्** रक्षति । समत्सु इति संग्रामनाम ‘समत्सु समरणे' (नि. २.१७.२२ ) इति तन्नामसु पाठात् । किंच **शतमूतिः** स्वभक्तेष्वपरिमितरक्षणः इन्द्रः **विश्वेषु** । लिङ्गव्यत्ययः ॥ **आजिषु** सर्वेषु स्पर्धानिमित्तेषु संग्रामेषु यजमानं प्रावत्। तथा **स्वर्मीळ्हेषु** स्वर्गदेशेषु सुखस्य सेचयत्सु वा **आजिषु** महासंग्रामेषु प्रावत् स्वर्गप्रदानेन रक्षति । रणे आभिमुख्येन हतानां वीराणां स्वर्गः पराशरेण स्मर्यते-’ द्वाविमौ पुरुषौ लोके सूर्यमण्डलभेदिनौ । परिव्राड्योगयुक्तश्च रणे योऽभिमुखो हतः' (परा. ३. २५) इति । अत्रेतिहासमाचक्षते । अंशुमती नाम नदी । तस्यास्तीरे कृष्णनामा असुरः वर्णतश्च कृष्णः दशसहस्रैरनुचरैरुपेतः तद्देशवर्तिनः पीडयन्नास्ते । तत्रेन्द्रः बृहस्पतिना प्रेरितः सन् मरुद्भिः सहितः कृष्णां तदीयत्वचमुत्कृत्य सानुचरमवधीत् । अयमर्थः ' अव द्रप्सो अंशुमतीमतिष्ठत्' (ऋ. सं. ८.९६. १३) इत्यादिना उपरिष्टात् वक्ष्यते । तदत्रोच्यते । अयमिन्द्रः **मनवे** मनुष्याय ॥ विभक्तिव्यत्ययः ॥ मनुष्याणामर्थाय । **अव्रतान्** । व्रतमिति कर्मनाम् । तद्रहितान् यागविद्वेषिणः **शासत्** शिक्षितवान् हिंसितवान् ॥ शासेर्लेटि अडागमः ॥ तथा **कृष्णां** **त्वचं** कृष्णनाम्नोऽसुरस्य कृष्णवर्णां त्वचमुत्कृत्य **अरन्धयत्** हिंसितवान् । ‘ रध हिंसायाम्'। ‘रधिजभोरचि' इति नुम् ॥ केन प्रकारेणेति तदुच्यते । **धक्षत्** भस्मीकरोति ॥ लेट्यडागसः । ‘सिब्बहुलम्' इति सिप् ॥ तथा **विश्वं** **ततृषाणमोषति** । सर्वमपि हिंसकं तदनुचरसंघं दहति । यत्किंचिदवशिष्टमिति न इत्याह । **अर्शसानं** हिंसारुचिं हतावशिष्टं सर्वमपि **नि** **ओषति** निःशेषेण दहति ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Indra**, the manifold protector (of his worship) battles, defends his **Ārya** worshipper in all conflicts, in conflicts that confer heaven; he punished for (the benefit of) man the neglecters of religious rites; he tore off the black skin (of the aggressor); as if burning (with flame), he consumes the malignant; he utterly consumes him who delights in cruelty.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+The black skin: The legens is that an **asura**, named **Kṛṣṇa** the black, advanced with ten thousand followers to the banks of the **Aṃśumati** river, where he committed fearful devastation until Indra, with the **Maruts**, was sent against him by **Bṛhaspati**, when he was defeated by Indra, and stripped of his skin
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Indra aided the Ārya sacrificer in battles, affording a hundred forms of  help in all contests—in contests whose prize is the sun.  
+
+Chastising those who follow no commandment, he made the black skin  [=barbarians] subject to Manu.  
+As a burning (fire) scorches everything dried up, he scorches the  
+thirsty—scorches Arśaśāna down to the ground.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+Following Geldner, I read tatṛṣāṇám in both simile and frame. In the simile it is the dried material that feeds the fire; in the frame the thirsty or greedy.
+
+The PN arśasānám in g neatly matches tatṛṣāṇám in the same position in f.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Indra in battles help his Aryan worshipper, he who hath hundred helps at hand in every fray, in frays that win the light of heaven.  
+     Plaguing the lawless he gave up to Manu's seed the dusky skin;  
+     Blazing, 'twere, he burns each covetous man away, he burns, the tyrannous away.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Indra half dem opfernden Arier in den Fehden weiter, in allen Kämpfen hundert Hilfen bringend, in den Kämpfen um das Sonnenlicht. Die Unbotmäßigen züchtigend machte er dem Manu die schwarze Haut untertan. Wie brennendes Feuer alles Verdorrte versengt er den Gierigen, sengt er den Arsasana nieder.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+In Schlachten half dem Arier, der Opfer bringt, in allen Kämpfen Indra, schützend hundertfach, in Kämpfen um des Himmels Gut; Gottlose strafend gab er hin die schwarze Haut dem Manustamm; Wie Feuer brennt er jeden gierigen hinweg, den Schädiger brennt er hinweg.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Индра поддерживал в раздорах приносящего жертвы ария,  
+Он, имеющий сто поддержек, – во всех состязаниях,  
+В состязаниях, награда за которые – солнечный свет.  
+Карая для Ману тех, кто не имеет обетов,  
+Он подчинил (ему) черную кожу.  
+Как пылающий (огонь) – все (иссушенное) жаждущего (врага),  
+Сжигает он Аршасану.
+</details>

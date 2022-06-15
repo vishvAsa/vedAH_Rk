@@ -1,0 +1,123 @@
++++
+title = "019"
+devataa = "पवमानः सोमः"
+RShiH = "अमहीयुः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+य꣡स् ते म꣡दो व꣡रेणियस्  
+ते꣡ना पवस्व अ꣡न्धसा  
+देवावी꣡र् अघशंसहा꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । ते॒ । मदः॑ । वरे॑ण्यः । तेन॑ । प॒व॒स्व॒ । अन्ध॑सा ।  
+दे॒व॒ऽअ॒वीः । अ॒घ॒शं॒स॒ऽहा ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *yas* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *te* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *mado* ← *madaḥ* ← *mada*
+- \[noun\], nominative, singular, masculine
+- “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
+    musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
+    vivification.”
+------------------------------------------------------------------------
+- *vareṇyas* ← *vareṇyaḥ* ← *vareṇya*
+- \[noun\], nominative, singular, masculine
+- “excellent; desirable.”
+------------------------------------------------------------------------
+- *tenā* ← *tena* ← *tad*
+- \[noun\], instrumental, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *pavasvāndhasā* ← *pavasva* ← *pū*
+- \[verb\], singular, Present imperative
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *pavasvāndhasā* ← *andhasā* ← *andhas*
+- \[noun\], instrumental, singular, neuter
+- “Soma; drink; amṛta.”
+------------------------------------------------------------------------
+- *devāvīr* ← *devāvīḥ* ← *devāvī*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *aghaśaṃsahā* ← *agha*
+- \[noun\], neuter
+- “sin; evil; impurity; agha \[word\].”
+------------------------------------------------------------------------
+- *aghaśaṃsahā* ← *śaṃsa*
+- \[noun\]
+- “speaking.”
+------------------------------------------------------------------------
+- *aghaśaṃsahā* ← *hā* ← *han*
+- \[noun\], nominative, singular, masculine
+- “killing; curative; destroying; removing; māraka; stabbing.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे सोम **ते** तव **देवावीः** देवकामः **अघशंसहा** राक्षसानां हन्ता **वरेण्यः** सर्वैर्वरणीयः **मदः** मदकरः **यः** रसो विद्यते **तेन** रसेन **अन्धसा** अदनीयेन **पवस्व** क्षर ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Flow forth with that juice of yours which is exhilarating, the best gratifying the gods, the slayer of **rākṣasas**.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Your exhilarating drink that is worthy to be chosen, with that stalk  purify yourself,  
+pursuing the gods, smashing those who utter evil.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Flow onward with that juice of thine most excellent, that brings delight,  
+     Slaying the wicked, dear to Gods.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Was dein vorzüglicher Rauschtrank ist, mit solchem Tranke läutere dich, göttereinladend, die Übelredner erschlagend!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Welch Rauschtrank dir der schönste ist, mit solchem Safte riesle hell, Die Bösen schlagend, Göttern lieb.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Желанный пьянящий напиток, который (есть) у тебя, -  
+Очищайся с этим (твоим) соком,  
+Приглашающий богов, убивающий злоречивых.
+</details>

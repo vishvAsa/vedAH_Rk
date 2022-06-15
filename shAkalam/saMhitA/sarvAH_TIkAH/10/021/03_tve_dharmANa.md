@@ -1,0 +1,164 @@
++++
+title = "003"
+devataa = "अग्निः"
+RShiH = "विमद ऐन्द्रः प्राजापत्यो वा वसुकृद्वा वासुक्रः"
+ChandaH = "आस्तारपङ्क्तिः"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+तुवे꣡ धर्मा꣡ण आसते  
+जुहू꣡भिः सिञ्चती꣡र् इव  
+कृष्णा꣡ रूपा꣡णि अ꣡र्जुना  
+वि꣡ वो म꣡दे  
+वि꣡श्वा अ꣡धि श्रि꣡यो धिषे  
+वि꣡वक्षसे
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M;; repeated line  
+genre M  
+genre M;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वे इति॑ । ध॒र्माणः॑ । आ॒स॒ते॒ । जु॒हूभिः॑ । सि॒ञ्च॒तीःऽइ॑व ।  
+कृ॒ष्णा । रू॒पाणि॑ । अर्जु॑ना । वि । वः॒ । मदे॑ । विश्वाः॑ । अधि॑ । श्रियः॑ । धि॒षे॒ । विव॑क्षसे ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *tve* ← *tvad*
+- \[noun\], locative, singular, masculine
+- “you.”
+------------------------------------------------------------------------
+- *dharmāṇa* ← *dharmāṇaḥ* ← *dharman*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *āsate* ← *ās*
+- \[verb\], plural, Present indikative
+- “sit; stay; sit down; dwell; lie; lie; exist.”
+------------------------------------------------------------------------
+- *juhūbhiḥ* ← *juhū*
+- \[noun\], instrumental, plural, feminine
+- “tongue; fire; ladle.”
+------------------------------------------------------------------------
+- *siñcatīr* ← *siñcatīḥ* ← *sic*
+- \[verb noun\], nominative, plural
+- “submerge; sprinkle; pour; wet; decant; impregnate.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *kṛṣṇā* ← *kṛṣṇa*
+- \[noun\], accusative, plural, neuter
+- “black; dark; dark; blue; black.”
+------------------------------------------------------------------------
+- *rūpāṇy* ← *rūpāṇi* ← *rūpa*
+- \[noun\], accusative, plural, neuter
+- “form; appearance; beauty; look; shape; shape; symptom; feature;
+    nature; guise; rūpa \[word\]; one; appearance; likeness; color;
+    kind; vowel; type; disguise; aspect; form; derivative; omen;
+    vision.”
+------------------------------------------------------------------------
+- *arjunā* ← *arjuna*
+- \[noun\], accusative, plural, neuter
+- “white; clean; light.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *vo* ← *vaḥ* ← *tvad*
+- \[noun\], dative, plural
+- “you.”
+------------------------------------------------------------------------
+- *made* ← *mada*
+- \[noun\], locative, singular, masculine
+- “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
+    musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
+    vivification.”
+------------------------------------------------------------------------
+- *viśvā* ← *viśvāḥ* ← *viśva*
+- \[noun\], accusative, plural, feminine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+------------------------------------------------------------------------
+- *śriyo* ← *śriyaḥ* ← *śrī*
+- \[noun\], accusative, plural, feminine
+- “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
+    glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
+    \[word\]; śrī; prosperity; auspiciousness.”
+------------------------------------------------------------------------
+- *dhiṣe* ← *dhā*
+- \[verb\], singular, Root aorist (Ind.)
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *vivakṣase* ← *vivakṣ* ← *√vac*
+- \[verb\], singular, Present indikative
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**धर्माणः** यज्ञस्य धारयितार ऋत्विजः **जुहूभिः** संपूर्णाहुतिभिर्होमपात्रैः **त्वे** त्वामेव **आसते** उपासते सेवन्ते । तत्र दृष्टान्तः । **सिञ्चतीरिव** । वृष्टिलक्षणाः पृथिवीं सिञ्चन्त्य आपोऽग्निं यथा स्वपितृत्वेन सेवन्ते तद्वत् । अग्नेरापः' (तै. आ. ८.१ ) इति श्रुतेस्तस्यापां पितृत्वम् । यद्वा । जुहूभिः सिञ्चतीरिव सिच्यमाना आहुतय इव धर्माणस्त्वया धार्यमाणा रश्मयस्त्वे त्वय्यासते निवसन्ति । हे अग्ने त्वं **कृष्णा** कृष्णवर्णानि **अर्जुना** अर्जुनानि श्वेतवर्णानि ज्वालान्तर्गतरूपाणि च **विश्वाः** सर्वाः **श्रियः** शोभाः **अधि** **धिषे** अधिकं यथा भवति तथा धारयसि । किमर्थम् । **वः** युष्माकं सर्वेषां देवानां **विमदे** विविधसोमपानजन्यमदार्थम् । यत एवमतः **विवक्षसे** त्वं महान् भवसि ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The establishers (of the rite) worship you with their ladles (filled with the oblation), like (earth)sprinkling (showers); you sustain exceedingly black forms and white and all beauties for your exhilaration; youare mighty.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Like earth-sprinkling showers: i.e., showers worship **Agni** as their **pitṛ**; or, your rays dwell with youlike oblations spinkled with the ladles; for your exhilaration: vaḥ = **viśvedevāḥ**
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Those having (you) as their foundation [=flames] sit upon you, “pouring”  with their tongues like women pouring with their ladles.  
+Black and silver forms and all beauties do you put on.  
+– In my exhilaration I wish to acclaim you (gods).
+</details>
+
+<details><summary>+Griffith</summary>
+
+The holy statutes rest by thee, as 'twere with ladles that o'erflow.  
+     Black and white-gleaming colours,-at your glad carouse-all glories thou assurnest. Thou art waxing great.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Bei dir sitzen sie, den Satzungen getreu, mit den Löffeln wie die Wasser schöpfenden Frauen. Schwarze und weiße Farben, alle Herrlichkeiten hast du angelegt - in der Begeisterung will ich es euch verkünden.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Die Ordner sitzen um dich her mit Löffeln, Regenströmen gleich; Die schwarzen Farben nimmst du an, die weisse dir und alle Pracht.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Возле тебя сидят хранители закона  
+С жертвенными ложками, словно поливающие (потоки).  
+Черные краски, белые,  
+Все великолепие ты берешь себе –  
+В опьянении (сомой) я хочу вам (это) провозгласить.
+</details>

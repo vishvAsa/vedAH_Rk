@@ -1,0 +1,163 @@
++++
+title = "011"
+devataa = "पितरः"
+RShiH = "शङ्खो यामायनः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अ꣡ग्निष्वात्ताः पितर ए꣡ह꣡ गछत  
+स꣡दः-सदः सदत सुप्रणीतयः  
+अत्ता꣡ हवीं꣡षि प्र꣡यतानि बर्हि꣡षि  
+अ꣡था रयिं꣡ स꣡र्ववीरं दधातन
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+popular  
+popular  
+popular  
+popular
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अग्नि॑ऽस्वात्ताः । पि॒त॒रः॒ । आ । इ॒ह । ग॒च्छ॒त॒ । सदः॑ऽसदः । स॒द॒त॒ । सु॒ऽप्र॒नी॒त॒यः॒ ।  
+अ॒त्त । ह॒वींषि॑ । प्रऽय॑तानि । ब॒र्हिषि॑ । अथ॑ । र॒यिम् । सर्व॑ऽवीरम् । द॒धा॒त॒न॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *agniṣvāttāḥ* ← *agniṣvātta*
+- \[noun\], vocative, plural, masculine
+- “Agniṣvātta.”
+------------------------------------------------------------------------
+- *pitara* ← *pitaraḥ* ← *pitṛ*
+- \[noun\], vocative, plural, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+------------------------------------------------------------------------
+- *eha* ← *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *eha* ← *iha*
+- \[adverb\]
+- “here; now; in this world; now; below; there; here; just.”
+------------------------------------------------------------------------
+- *gacchata* ← *gam*
+- \[verb\], plural, Present imperative
+- “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
+    leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
+    get; come; die; drain; spread; transform; happen; discharge; ride;
+    to be located; run; detect; refer; go; shall; drive.”
+------------------------------------------------------------------------
+- *sadaḥ* ← *sadas*
+- \[noun\], accusative, singular, neuter
+- “mansion; assembly; seat; seat.”
+------------------------------------------------------------------------
+- *sadaḥ* ← *sadas*
+- \[noun\], accusative, singular, neuter
+- “mansion; assembly; seat; seat.”
+------------------------------------------------------------------------
+- *sadata* ← *sad*
+- \[verb\], plural, Aorist imperative
+- “sit down; break down; slow; sink; crumble; fracture; perish; ride;
+    stop; besiege; tire.”
+------------------------------------------------------------------------
+- *supraṇītayaḥ* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *supraṇītayaḥ* ← *praṇītayaḥ* ← *praṇīti*
+- \[noun\], vocative, plural, masculine
+- “guidance; guidance.”
+------------------------------------------------------------------------
+- *attā* ← *ad*
+- \[verb\], plural, Present imperative
+- “eat; devour.”
+------------------------------------------------------------------------
+- *havīṃṣi* ← *havis*
+- \[noun\], accusative, plural, neuter
+- “Havya; offering; ghee; havis \[word\].”
+------------------------------------------------------------------------
+- *prayatāni* ← *prayam* ← *√yam*
+- \[verb noun\], accusative, plural
+- “give; emit; send; transmit.”
+------------------------------------------------------------------------
+- *barhiṣy* ← *barhiṣi* ← *barhis*
+- \[noun\], locative, singular, neuter
+- “Barhis; barhis \[word\].”
+------------------------------------------------------------------------
+- *athā* ← *atha*
+- \[adverb\]
+- “now; then; furthermore; now; then.”
+------------------------------------------------------------------------
+- *rayiṃ* ← *rayim* ← *rayi*
+- \[noun\], accusative, singular, masculine
+- “wealth; property.”
+------------------------------------------------------------------------
+- *sarvavīraṃ* ← *sarva*
+- \[noun\]
+- “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
+    entire; sāṃnipātika; manifold; complete; all the(a); different;
+    overall.”
+------------------------------------------------------------------------
+- *sarvavīraṃ* ← *vīram* ← *vīra*
+- \[noun\], accusative, singular, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+------------------------------------------------------------------------
+- *dadhātana* ← *dhā*
+- \[verb\], plural, Present imperative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**अग्निष्वात्ताः** अग्निना स्वादिता एतन्नामकाः **पितरः** यूयम् **इह** अस्मिन् पितृकर्मणि **आ** **गच्छत** । आगत्य च हे सुप्रणीतयः अभिपूजितप्रणयनाः यूयं **सदःसदः** तत्तत्स्थानं **सदत** सीदत । तत्र तत्र स्थाने यथेष्टमुपविशतेत्यर्थः। उपविश्य च **बर्हिषि** आसादितानि **प्रयतानि** शुचीनि **हवींषि** **अत्त** भक्षयत । **अथ** अनन्तरं **सर्ववीरं** सर्वैर्वीरैः पुत्रपौत्रैरुपेतं **रयिं** धनं **दधातन** अस्मभ्यं दत्त ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Agniṣvātta** **Pitṛs**, come to this solemnity; sit down, directors in the right way, in your appropriateplaces; eat the oblations spread on the grass, and grant us riches and **male** posterity.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Sweetened by Agni, o forefathers, come here. Sit each on his own seat,  you of good guidance.  
+Eat the oblations set forth on the ritual grass. Then provide wealth in  hale heroes.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Fathers whom Agni's flames have tasted, come ye nigh: ye kindly leaders, take ye each your proper place.  
+     Eat sacrificial food presented on the grass: grant riches with a multitude of hero sons.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Ihr vom Feuer schmackhaft befundenen Väter, kommet hierher, setzet euch jeder an seinen Platz, ihr guten Führer! Esset die auf dem Barhis dargereichten Opferspenden und verleihet dann einen Schatz von lauter Söhnen!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Ihr einst verzehrt vom Feuer naht, o Väter, euch, die schön ihr leitet, setzet euch auf Sitz für Sitz; Geniesst die dargereichten Speisen auf der Streu und schenkt uns Gut, das alle Männer reichlich nährt.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+О отцы, пришедшиеся Агни по вкусу, идите сюда,  
+Сядьте каждый на свое место, о вы, кого правильно ведут!  
+Ешьте жертвенные возлияния, поданные на жертвенной соломе,  
+А также дайте богатство из здоровых мужей!
+</details>

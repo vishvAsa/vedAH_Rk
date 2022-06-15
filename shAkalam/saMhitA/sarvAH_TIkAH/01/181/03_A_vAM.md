@@ -1,0 +1,174 @@
++++
+title = "003"
+devataa = "अश्विनौ"
+RShiH = "अगस्त्यो मैत्रावरुणिः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+आ꣡ वां र꣡थो अव꣡निर् न꣡ प्रव꣡त्वान्  
+सृप्र꣡वन्धुरः सुविता꣡य गम्याः  
+वृ꣡ष्ण स्थातारा म꣡नसो ज꣡वीयान्  
+अहम्पूर्वो꣡ यजतो꣡ धिष्णिया यः꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ । वा॒म् । रथः॑ । अ॒वनिः॑ । न । प्र॒वत्वा॑न् । सृ॒प्रऽव॑न्धुरः । सु॒वि॒ताय॑ । ग॒म्याः॒ ।  
+वृष्णः॑ । स्था॒ता॒रा॒ । मन॑सः । जवी॑यान् । अ॒ह॒म्ऽपू॒र्वः । य॒ज॒तः । धि॒ष्ण्या॒ । यः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *vāṃ* ← *vām* ← *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *ratho* ← *rathaḥ* ← *ratha*
+- \[noun\], nominative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *'vanir* ← *avaniḥ* ← *avani*
+- \[noun\], nominative, singular, feminine
+- “river; earth; floor; path; bed; course.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *pravatvān* ← *pravatvat*
+- \[noun\], nominative, singular, masculine
+- “cragged.”
+------------------------------------------------------------------------
+- *sṛpravandhuraḥ* ← *sṛpra*
+- \[noun\]
+- “glossy; greasy.”
+------------------------------------------------------------------------
+- *sṛpravandhuraḥ* ← *vandhuraḥ* ← *vandhura*
+- \[noun\], nominative, singular, masculine
+- “seat; seat.”
+------------------------------------------------------------------------
+- *suvitāya* ← *suvita*
+- \[noun\], dative, singular, neuter
+- “prosperity; well-being.”
+------------------------------------------------------------------------
+- *gamyāḥ* ← *gam*
+- \[verb\], singular, Prekativ
+- “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
+    leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
+    get; come; die; drain; spread; transform; happen; discharge; ride;
+    to be located; run; detect; refer; go; shall; drive.”
+------------------------------------------------------------------------
+- *vṛṣṇa* ← *vṛṣṇaḥ* ← *vṛṣan*
+- \[noun\], genitive, singular, masculine
+- “bullocky; potent; powerful; strong; manly; aroused; potent;
+    much(a); male; large.”
+------------------------------------------------------------------------
+- *sthātārā* ← *sthātṛ*
+- \[noun\], vocative, dual, masculine
+------------------------------------------------------------------------
+- *manaso* ← *manasaḥ* ← *manas*
+- \[noun\], ablative, singular, neuter
+- “mind; Manas; purpose; idea; attention; heart; decision; manas
+    \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
+------------------------------------------------------------------------
+- *javīyān* ← *javīyas*
+- \[noun\], nominative, singular, masculine
+- “fast.”
+------------------------------------------------------------------------
+- *ahampūrvo* ← *ahampūrvaḥ* ← *ahampūrva*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *yajato* ← *yajataḥ* ← *yajata*
+- \[noun\], nominative, singular, masculine
+- “holy; august; sacrificial.”
+------------------------------------------------------------------------
+- *dhiṣṇyā* ← *dhiṣṇya*
+- \[noun\], vocative, dual, masculine
+- “wise; beneficent.”
+------------------------------------------------------------------------
+- *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+पूर्वमन्त्रेऽश्वव्याजेन अश्विनोरागमनमुक्तम् । अनेन रथव्याजेनोच्यते । हे **धिष्ण्या** उन्नतस्थानार्हौ **स्थातारा** स्वरथाधिष्ठानौ **वां** युवयोः **यः** **रथः** अस्ति सः **सुविताय** शोभनफलाय **आ** **गम्याः** अस्मद्यज्ञमागच्छतु ॥ पुरुषव्यत्ययः ॥ कीदृशो रथ इति स विशेष्यते । **अवनिर्न** **प्रवत्वान्** भूमिरिवात्यन्तविस्तारवान् **सृप्रवन्धुरः** विस्तीर्णपुरोभागः **वृष्णः** वर्षकस्याश्वस्य **मनसः** अपि **जवीयान्** मनोवेगवानित्यर्थः । **अहंपूर्वः** अहंकारपूर्वो मनस्वी वा अत्युदारः **यजतः** यष्टव्यः । ईदृशो रथ आगच्छतु ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Aśvins**, excellent and steady, may your chariot, vast as the earth, broad-fronted, rapid as the rain (fleet) as thought, cumulative and adorable, come hither for (our) good.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Emulative: ahampūrvaḥ, I first, is normally related to a warrior, one who would be first in battle; here, it is explained as intelligent, manasvin; or very genitive rous atyudāraḥ
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Your chariot with its glossy chariot-box should come here like a  
+forward-coursing stream, for good faring—  
+(the chariot) that is worthy of the sacrifice and swifter than mind,  
+(saying) “I am in front,” o you mounters of the bull [=chariot], you  
+holy ones.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+The adjectival descriptor of the chariot ahampūrváḥ is transparently derived from a nominal clause “I am in front / I’m ahead,” however unlikely this may be as the utterance of a chariot.
+
+The second hemistich consists entirely of a nominal relative clause referring to the chariot, with two vocatives, the phrasal vṛ́ṣṇa sthātārā “you mounters of the bull” in initial position and dhiṣṇi yā near the end. The latter is commonly used of the Aśvins (see, e.g., I.182.1c, 2a, in the next hymn). Here the voc. is followed by the rel.
+
+pronoun yáḥ, which ends the clause. This is a remarkably odd position for a rel.
+
+pronoun, and since this supposed rel. cl. consists of nominative qualifiers of the subject of the main clause, ráthaḥ, it need not have been a relative clause at all: the whole of the vs. could simply be a main clause. I think the yáḥ got stuck pleonastically+++(=redundant)+++ on the end of this pāda to provide a monosyllable to make a Triṣṭubh cadence. (Cf. VI.63.6, a Triṣṭubh that ends dhiṣṇi yā vām, likewise with a final monosyllable.) No harm is done by this last-ditch conversion of the string of epithets in cd into a nominal rel. clause, but it is a metrically driven afterthought in my opinion. It should certainly not be taken as a standard ex. of rel. cl. word order.
+
+The phrase mánaso jávīyān is an analytic version of manojū́- in 2c, there applied to the horses, not the chariot.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Your car is like a torrent rushing downward: may it come nigh, broad-seated, for our welfare,--  
+     Car holy, strong, that ever would be foremost, thought-swift, which ye, for whom we long, have mounted.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Euer Wagen, der wie ein Strom vorwärts eilt, der breitsitzige soll zu guter Fahrt kommen, der, schneller als der Gedanke, der erste sein will, der verehrungswürdige, ihr Lenker des bullenhaften Wagens, ihr .....
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Mit breitem Sitze komme euer Wagen zum Glück uns her gleichwie ein Strom am Abhang, Der stark sich vordrängt, schneller als Gedanken, den ihr besteigt, den heiligen, o Spender!
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Ваша колесница, мчащаяся вперед, словно поток,  
+С широким сиденьем, пусть приедет для (нашего) успеха!  
+О стоящие на мужественной (колеснице), (ведь она та,), что быстрее мысли,  
+Стремящаяся быть первой, достойная жертв, о (боги,), возбуждающие вдохновение!
+</details>

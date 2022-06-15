@@ -1,0 +1,128 @@
++++
+title = "012"
+devataa = "पवमानः सोमः"
+RShiH = "शतं वैखानसाः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अ꣡छा समुद्र꣡म् इ꣡न्दवो  
+अ꣡स्तं गा꣡वो न꣡ धेन꣡वः  
+अ꣡ग्मन्न् ऋत꣡स्य यो꣡निम् आ꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अच्छ॑ । स॒मु॒द्रम् । इन्द॑वः । अस्त॑म् । गावः॑ । न । धे॒नवः॑ ।  
+अग्म॑न् । ऋ॒तस्य॑ । योनि॑म् । आ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *acchā*
+- \[adverb\]
+- “towards; accha \[prefix\].”
+------------------------------------------------------------------------
+- *samudram* ← *samudra*
+- \[noun\], accusative, singular, masculine
+- “ocean; Samudra; sea; samudra \[word\]; four.”
+------------------------------------------------------------------------
+- *indavo* ← *indavaḥ* ← *indu*
+- \[noun\], nominative, plural, masculine
+- “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
+    juice.”
+------------------------------------------------------------------------
+- *'staṃ* ← *astam* ← *asta*
+- \[noun\], accusative, singular, masculine
+- “set; Asta.”
+------------------------------------------------------------------------
+- *gāvo* ← *gāvaḥ* ← *go*
+- \[noun\], nominative, plural, masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *dhenavaḥ* ← *dhenu*
+- \[noun\], nominative, plural, feminine
+- “cow; dhenu \[word\]; milk.”
+------------------------------------------------------------------------
+- *agmann* ← *agman* ← *gam*
+- \[verb\], plural, Root aorist (Ind.)
+- “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
+    leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
+    get; come; die; drain; spread; transform; happen; discharge; ride;
+    to be located; run; detect; refer; go; shall; drive.”
+------------------------------------------------------------------------
+- *ṛtasya* ← *ṛta*
+- \[noun\], genitive, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *yonim* ← *yoni*
+- \[noun\], accusative, singular, feminine
+- “vagina; vulva; uterus; beginning; origin; reincarnation;
+    birthplace; family; production; cause; race; grain; raw material;
+    birth; kind; caste; kinship; bed.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**इन्दवः** क्षरन्तः सोमाः **समुद्रं** सोमानामेकत्रैव संगमनस्थानं द्रोणकलशम् **अच्छ** अभि गच्छन्ति । तत्र दृष्टान्तः । **धेनवः** पयःप्रदानेन जनानां प्रीणयित्र्यो नवप्रसूतिकाः **गावः** **अस्तं** गृहं यथाभिगच्छन्ति तद्वत् । किंच ते सोमाः **ऋतस्य** सत्यभूतस्य यज्ञस्य **योनिं** स्थानम् **आ** **अग्मन्** आभिमुख्येन गच्छन्ति । गमेर्लुङि सिचो लुक्युपधालोपः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The **Soma**-juices go to the ocean, as kine to their stall; they go the plural ce of sacrifice.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+To the ocean: the wooden vessel in which the Soma is collected
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Toward the sea have the drops gone, like milk-cows toward home, to the womb of truth.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Like milch-kine coming home, the drops of Soma juice have reached the lake,  
+     Have reached the place of sacrifice.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Zum Meere sind die Säfte gekommen wie die Milchkühe nach Hause, zu ihrem ordnungsgemäßen Platz.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Die Indu's sind zum Meere hin wie Kühe heimwärts in den Stall, Gelaufen in des Opfers Schooss.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

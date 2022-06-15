@@ -1,0 +1,158 @@
++++
+title = "002"
+devataa = "पवमानः सोमः"
+RShiH = "कविः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+शू꣡रो न꣡ धत्त आ꣡युधा ग꣡भस्तियोः  
+सु꣡वः सि꣡षासन् रथिरो꣡ ग꣡विष्टिषु  
+इ꣡न्द्रस्य शु꣡ष्मम् ईर꣡यन्न् अपस्यु꣡भिर्  
+इ꣡न्दुर् हिन्वानो꣡ अज्यते मनीषि꣡भिः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शूरः॑ । न । ध॒त्ते॒ । आयु॑धा । गभ॑स्त्योः । स्व१॒॑रिति॑ स्वः॑ । सिसा॑सन् । र॒थि॒रः । गोऽइ॑ष्टिषु ।  
+इन्द्र॑स्य । शुष्म॑म् । ई॒रय॑न् । अ॒प॒स्युऽभिः॑ । इन्दुः॑ । हि॒न्वा॒नः । अ॒ज्य॒ते॒ । म॒नी॒षिऽभिः॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *śūro* ← *śūraḥ* ← *śūra*
+- \[noun\], nominative, singular, masculine
+- “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
+    warrior; hero; attacker; lentil; wild boar; lion; dog.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *dhatta* ← *dhatte* ← *dhā*
+- \[verb\], singular, Present indikative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *āyudhā* ← *āyudha*
+- \[noun\], accusative, plural, neuter
+- “weapon; āyudha \[word\].”
+------------------------------------------------------------------------
+- *gabhastyoḥ* ← *gabhasti*
+- \[noun\], locative, dual, masculine
+- “beam; hand; sun.”
+------------------------------------------------------------------------
+- *svaḥ* ← *svar*
+- \[adverb\]
+- “sun; sky; sunlight.”
+------------------------------------------------------------------------
+- *siṣāsan* ← *siṣās* ← *√san*
+- \[verb noun\], nominative, singular
+- “win; gain.”
+------------------------------------------------------------------------
+- *rathiro* ← *rathiraḥ* ← *rathira*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *gaviṣṭiṣu* ← *gaviṣṭi*
+- \[noun\], locative, plural, feminine
+- “foray.”
+------------------------------------------------------------------------
+- *indrasya* ← *indra*
+- \[noun\], genitive, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *śuṣmam* ← *śuṣma*
+- \[noun\], accusative, singular, masculine
+- “vigor; energy; fire; hiss; courage.”
+------------------------------------------------------------------------
+- *īrayann* ← *īrayan* ← *īray* ← *√īr*
+- \[verb noun\], nominative, singular
+- “name; describe; propel; shoot; state; call; raise; expel; tell;
+    enumerate.”
+------------------------------------------------------------------------
+- *apasyubhir* ← *apasyubhiḥ* ← *apasyu*
+- \[noun\], instrumental, plural, masculine
+- “active.”
+------------------------------------------------------------------------
+- *indur* ← *induḥ* ← *indu*
+- \[noun\], nominative, singular, masculine
+- “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
+    juice.”
+------------------------------------------------------------------------
+- *hinvāno* ← *hinvānaḥ* ← *hi*
+- \[verb noun\], nominative, singular
+- “impel; send; spur; stimulate; urge.”
+------------------------------------------------------------------------
+- *ajyate* ← *añj*
+- \[verb\], singular, Indikativ Pr￤s. Passiv
+- “smear; anoint; mix; color.”
+------------------------------------------------------------------------
+- *manīṣibhiḥ* ← *manīṣin*
+- \[noun\], instrumental, plural, masculine
+- “sage; expert; devout.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+अयं सोमः **गभस्त्योः** हस्तयोः **आयुधा** आयुधानि **शूरो** **न** शूर इव **धत्ते** धारयति । **स्वः** स्वर्गसुखसाधनं यज्ञं वा **सिषासन्** संभक्तुमिच्छन् **रथिरः** रथवान्। रथादिरच्प्रत्ययः । **गविष्टिषु** यजमानस्य गवामेषणेषु सत्सु । यजमानार्थं गोसंभजनाय रथवानित्यर्थः । **इन्द्रस्य** **शुष्मं** बलम् **ईरयन्** प्रेरयन् **इन्दुः** सोमो देवः **अपस्युभिः** कर्मेच्छुभिः **मनीषिभिः** मेधाविभिर्ऋत्विभिः **हिन्वानः** प्रेर्यमाणः **अज्यते** गोभिः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Like a hero he carries weapons in his **hands**, desirous of enjoying felicity, mounting his chariot in quest of the cattle (of the worshipper), animating the strength of **Indra**, **Indu**, urged by the wise performers of pious acts, is anointed (with the milk and curds).”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Like a champion, he takes his weapons in his hands, a chariot-rider  striving to win the sun in the cattle raids.  
+Rousing Indra’s tempestuous force, the drop propelled by the industrious  ones [=fingers] is anointed [/driven] by those of inspired thought.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+The participial phrase svàḥ síṣāsan “striving to win the sun” is a match for svàḥ yád … síṣāsati in nearby IX.74.1 “when he strives to win the sun” (also IX.7.4), where I suggest that the sun stands for the gleaming milk with which the Soma will unite at the end of his ritual journey. This association would be emphasized in our passage by gáviṣṭiṣu ‘in the cattle raids’, with cattle standing for milk, as usual. For further on sun=milk see comm. ad vs. 4.
+
+As Geldner points out (n. 2d, not reflected in his tr.), ajyate has a double sense, since it can be the passive both of √aj ‘drive’ and √añj ‘anoint’. Both are appropriate here.
+</details>
+
+<details><summary>+Griffith</summary>
+
+He takes his weapons, like a hero, in his hands, fain to win light, car-borne, in forays for the kine.  
+     Indu, while stimulating India's might, is urged forward and balmed by sages skilful in their task.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Wie ein Tapferer nimmt er die Waffen in die Hände, um die Sonne zu gewinnen, als Wagenfahrer auf der Suche nach Kühen. Den Mut des Indra erregend, von den Geschäftigen zur Eile getrieben, wird der Saft von den Nachsinnenden gesalbt.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Er nimmt die Waffen in die Arme wie ein Held, den Glanz erstrebend, Wagen lenkend in dem Kampf, Des Indra Kraft erregend durch die thätigen, empfängt, gespornt von Sängern, Indu seinen Schmuck.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Как герой, держит он оружие в руках,  
+Стремясь овладеть солнцем, (выезжая) на колеснице в поисках коров.  
+Возбуждающая храбрость Индры, поторапливаемая  
+Деятельными (пальцами) капля смазывается хранителями мудрости.
+</details>

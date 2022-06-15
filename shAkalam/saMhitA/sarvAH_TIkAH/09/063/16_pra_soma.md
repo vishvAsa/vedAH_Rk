@@ -1,0 +1,119 @@
++++
+title = "016"
+devataa = "पवमानः सोमः"
+RShiH = "निध्रुविः काश्यपः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+प्र꣡ सोम म꣡धुमत्तमो  
+राये꣡ अर्ष पवि꣡त्र आ꣡  
+म꣡दो यो꣡ देववी꣡तमः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र । सो॒म॒ । मधु॑मत्ऽतमः । रा॒ये । अ॒र्ष॒ । प॒वित्रे॑ । आ ।  
+मदः॑ । यः । दे॒व॒ऽवीत॑मः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *madhumattamo* ← *madhumattamaḥ* ← *madhumattama*
+- \[noun\], nominative, singular, masculine
+- “sweetest.”
+------------------------------------------------------------------------
+- *rāye* ← *rai*
+- \[noun\], dative, singular, masculine
+- “wealth; possession; rai \[word\]; gold.”
+------------------------------------------------------------------------
+- *arṣa* ← *ṛṣ*
+- \[verb\], singular, Present imperative
+- “run.”
+------------------------------------------------------------------------
+- *pavitra* ← *pavitre* ← *pavitra*
+- \[noun\], locative, singular, neuter
+- “strainer.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *mado* ← *madaḥ* ← *mada*
+- \[noun\], nominative, singular, masculine
+- “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
+    musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
+    vivification.”
+------------------------------------------------------------------------
+- *yo* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *devavītamaḥ* ← *deva*
+- \[noun\], masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *devavītamaḥ* ← *vītamaḥ* ← *vītama*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **सोम** ते तव **यः** **मदः** रसः **मधुमत्तमः** अत्यन्तं मधुमान् **देववीतमः** अतिशयेन देवकामश्च तं रसं **राये** अस्माकं धनार्थं **पवित्रे** **प्र** **आ** **अर्ष** धारया क्षर ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Soma**, pour into the filter to bring us wealth (your juice), which is most sweet-flavoured, exhilarating and most desired by the gods.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+O Soma, as the most honeyed, rush forth into the filter for wealth, as the exhilarating drink that best pursues the gods.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Soma, do thou most rich in sweets, a gladdening drink most dear to Gods,  
+     Flow to the sieve to bring us wealth.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Fließe weiter, o Soma, du der Süßeste, zu Reichtum auf die Seihe als der göttereinladendste Rauschtrank!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Zu Reichthum ströme in das Sieb, o Soma, als das süsseste Gebräu, das götterlabendste.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

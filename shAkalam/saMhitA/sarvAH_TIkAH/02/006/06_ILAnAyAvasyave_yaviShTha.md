@@ -1,0 +1,134 @@
++++
+title = "006"
+devataa = "अग्निः"
+RShiH = "सोमाहुतिर्भार्गवः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+ई꣡ळानाय अवस्य꣡वे  
+य꣡विष्ठ दूत नो गिरा꣡  
+य꣡जिष्ठ होतर् आ꣡ गहि
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
+genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.  
+genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1905) 165.
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ईळा॑नाय । अ॒व॒स्यवे॑ । यवि॑ष्ठ । दू॒त॒ । नः॒ । गि॒रा ।  
+यजि॑ष्ठ । हो॒तः॒ । आ । ग॒हि॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *īḍānāyāvasyave* ← *īḍānāya* ← *īḍ*
+- \[verb noun\], dative, singular
+- “praise; invite; raise.”
+------------------------------------------------------------------------
+- *īḍānāyāvasyave* ← *avasyave* ← *avasyu*
+- \[noun\], dative, singular, masculine
+- “seeking protection; helpless.”
+------------------------------------------------------------------------
+- *yaviṣṭha*
+- \[noun\], vocative, singular, masculine
+- “youngest.”
+------------------------------------------------------------------------
+- *dūta*
+- \[noun\], vocative, singular, masculine
+- “messenger; emissary; dūta \[word\].”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *girā* ← *giri*
+- \[noun\], locative, singular, masculine
+- “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
+------------------------------------------------------------------------
+- *yajiṣṭha*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------
+- *hotar* ← *hotṛ*
+- \[noun\], vocative, singular, masculine
+- “Hotṛ.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *gahi* ← *gam*
+- \[verb\], singular, Aorist imperative
+- “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
+    leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
+    get; come; die; drain; spread; transform; happen; discharge; ride;
+    to be located; run; detect; refer; go; shall; drive.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हेयविष्ठ युवतम दूत देवानांयज्ञादिसूचक यजिष्ठ अतिशयेनयष्टव्य होतः देवानामाह्वातरग्ने नो- गिराअस्मदीययास्तुत्याईळानाय पूजयित्रे अवस्यवेस्वरक्षणमिच्छतेमदर्थं आगहि आगच्छ ॥ ६ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Youngest (of the gods), their messenger, their invoker, most deserving of worship, come, upon our praise, to him who offers (you) adoration, and is desirous of (your) protection.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+To him who offers: iḷānāya = pūjayitre, to the worshipper;
+
+Avasyave = svarakṣaṇam icchate, to him who wishes his own preservation
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+To the one reverently invoking, to the one seeking help, o youngest  messenger,  
+o Hotar most deserving the sacrifice, come here at our song.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+With Geldner (/Witzel Gotō) girā́could be construed with ī́ḷānāya “reverently invoking with song.”
+</details>
+
+<details><summary>+Griffith</summary>
+
+To him who lauds thee, craving help, most youthful envoy! through our song,  
+     Most holy Herald! come thou nigh.
+</details>
+
+<details><summary>+Oldenberg</summary>
+
+To him who magnifies thee, who desires thy help, O youngest messenger, (invoked) by our word, best sacrificing Hotri, come near.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Zu dem, der als Schutzsuchender dich für uns mit Lobrede beruft, o jüngster Bote, bestopfernder Hotri, komm her!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Dem Preisenden, der Hülfe sucht, o jüngster Bote, nahe dich, O bester Priester, durch das Lied.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+К тому, кто призывает (тебя), ища поддержки,  
+О самый юный, о вестник, приди  
+На нашу песню, о лучше всех жертвующий хотар!
+</details>

@@ -1,0 +1,122 @@
++++
+title = "003"
+devataa = "पवमानः सोमः"
+RShiH = "अवत्सारः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+उत꣡ नो गोवि꣡द् अश्ववि꣡त्  
+प꣡वस्व सोम अ꣡न्धसा  
+मक्षू꣡तमेभिर् अ꣡हभिः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒त । नः॒ । गो॒ऽवित् । अ॒श्व॒ऽवित् । पव॑स्व । सो॒म॒ । अन्ध॑सा ।  
+म॒क्षुऽत॑मेभिः । अह॑ऽभिः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *govid* ← *go*
+- \[noun\], masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *govid* ← *vid*
+- \[noun\], nominative, singular, masculine
+- “finding.”
+------------------------------------------------------------------------
+- *aśvavit* ← *aśva*
+- \[noun\], masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *aśvavit* ← *vid*
+- \[noun\], nominative, singular, masculine
+- “finding.”
+------------------------------------------------------------------------
+- *pavasva* ← *pū*
+- \[verb\], singular, Present imperative
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *somāndhasā* ← *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *somāndhasā* ← *andhasā* ← *andhas*
+- \[noun\], instrumental, singular, neuter
+- “Soma; drink; amṛta.”
+------------------------------------------------------------------------
+- *makṣūtamebhir* ← *makṣūtamebhiḥ* ← *makṣūtama*
+- \[noun\], instrumental, plural, neuter
+- “following.”
+------------------------------------------------------------------------
+- *ahabhiḥ* ← *aha*
+- \[noun\], instrumental, plural, neuter
+- “day; aha \[word\]; day.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**उत** अपि च हे **सोम** **नः** अस्माकं **गोवित्** गोप्रदः **अश्ववित्** अश्वप्रदश्च त्वं **मक्षूतमेभिः** मक्षुतमैरतिशयेन शीघ्रैः **अहभिः** अहोभिर्हेतुभिः **अन्धसा** अन्नेन **पवस्व** धारया क्षर ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“And **Soma**, do you who are the giver of cattle, the giver of horses, flow to us in (a stream of) food as the days quickly pass.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+'by reason (or by means) of the days quickly passing'
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+And as cow-finder for us, horse-finder, purify yourself, Soma, with your stalk through the days soonest to come.
+</details>
+
+<details><summary>+Griffith</summary>
+
+And, finding for us kine and steeds, O Soma, with thy juice flow on  
+     Through days that fly most rapidly.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Und läutere dich, o Soma, mit deinem Tranke für uns als Rinderfinder, Rossefinder in den allernächsten Tagen!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Und riesle hell durch deinen Saft, o Soma, spendend Ross und Rind In allernächsten Tagen uns.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

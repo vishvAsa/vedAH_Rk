@@ -1,0 +1,127 @@
++++
+title = "001"
+devataa = "इन्द्रः"
+RShiH = "गाथिनो विश्वामित्रः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+इ꣡न्द्र त्वा वृषभं꣡ वयं꣡  
+सुते꣡ सो꣡मे हवामहे  
+स꣡ पाहि म꣡ध्वो अ꣡न्धसः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic on metrical evidence alone
+
+### Pāda-label
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इन्द्र॑ । त्वा॒ । वृ॒ष॒भम् । व॒यम् । सु॒ते । सोमे॑ । ह॒वा॒म॒हे॒ ।  
+सः । पा॒हि॒ । मध्वः॑ । अन्ध॑सः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *tvā* ← *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *vṛṣabhaṃ* ← *vṛṣabham* ← *vṛṣabha*
+- \[noun\], accusative, singular, masculine
+- “bull; Vṛṣabha; Vṛṣabha; best.”
+------------------------------------------------------------------------
+- *vayaṃ* ← *vayam* ← *mad*
+- \[noun\], nominative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *sute* ← *su*
+- \[verb noun\], locative, singular
+- “press out; su.”
+------------------------------------------------------------------------
+- *some* ← *soma*
+- \[noun\], locative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *havāmahe* ← *hvā*
+- \[verb\], plural, Present indikative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *pāhi* ← *pā*
+- \[verb\], singular, Aorist imperative
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------
+- *madhvo* ← *madhvaḥ* ← *madhu*
+- \[noun\], genitive, singular, neuter
+- “sweet; deft.”
+------------------------------------------------------------------------
+- *andhasaḥ* ← *andhas*
+- \[noun\], genitive, singular, neuter
+- “Soma; drink; amṛta.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+इन्दौ स्रवति सोमरसे रमते क्रीडतीति इन्द्रः । यद्वा इदं सर्वं जगत् साक्षाद्दर्शयतीतीन्द्रः । तस्य संबुद्धिः । हे **इन्द्र** **वृषभं** कामानां वर्षकं **त्वा** त्वां **सुते** ग्रावभिरभिषुते **सोमे** **वयं** **हवामहे** सोमपानार्थमाह्वयामः । **सः** त्वं **मध्वः** मदकरम् **अन्धसः** अन्नलक्षणं सोमं **पाहि** पिब । इन्द्रशब्दं यास्को बहुधा निर्विवेच-’ इन्द्र इरां दृणातीति वेरां ददातीति वेरां दधातीति वेरां दारयतीति वेरां धारयतीति वेन्दवे द्रवतीति वेन्दौ रमत इति वेन्द्धे भूतानीति वा । तद्यदेनं प्राणैः समैन्धंस्तदिन्द्रस्येन्द्रत्वम् ' ( निरु. १०. ८ ) इति । यत्र यत्र योऽर्थोऽनुगुणस्तत्र सोऽर्थः स्वीकार्यः । ‘ इदंदर्शनादित्यौपमन्यवः' (निरु. १०. ८ )। इदं ब्रह्म साक्षात्पश्यतीतीन्द्रः । तथा चारण्यके श्रूयते-- स एतमेव पुरुषं ब्रह्मततममपश्यदिदमदर्शमितीँ३ । तस्मादिदन्द्रो नामेदन्द्रो ह वै नाम तमिदन्द्रं सन्तमिन्द्र इत्याचक्षते परोक्षेण परोक्षप्रिया इव हि देवा:' ( ऐ. आ. २. ४. ३ ) इति ॥ इन्द्र । ' इदि परमैश्वर्ये' इति धातुः । स्वमायया जगद्रूपत्वं परमैश्वर्यम् । अनेनाभिप्रायेण श्रूयते-- ‘ इन्द्रो मायाभिः पुरुरूप ईयते' ( ऋ. सं. ६. ४७. १८) इति । इन्दुशब्दे उपपदे रमतेः ‘ अन्येभ्योऽपि दृश्यते ' इति डः । पूर्वपदस्योकारलोपः । ‘ इदि परमैश्वर्ये 'इत्यस्मात् “ ऋज्रेन्द्राग्र°  इत्यादिना रन्प्रत्ययान्तत्वेन निपातितः । एवमेतानि निर्वचनानि द्रष्टव्यानि । आमन्त्रिताद्युदात्तत्वम्। हवामहे । ह्वयतेः “ बहुलं छन्दसि ' इति संप्रसारणे लटि रूपम् । मध्वः । मधुशब्दः ‘फलिपाटि°! इत्यादिना उन्प्रत्ययान्तः। आगमानुशासनस्यानित्यवान्नुमभावः । संज्ञापूर्वकस्य विधेरनित्यत्वात् गुणाभावः । यणादेशः । अन्धसः । ‘ अदेर्नुम् धश्च ' इत्यसुन् । नित्स्वरः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“We invoke you, **Indra**, showerer (of benefits), to the effused libation; you drink of the exhilarating **Soma**.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Indra: a number of etymologies: from **Nirukta** and **Taittirīya** **Āraṇyaka**: he who sports (ramate), in the Soma (**indu**); or, he who shows this (idam) universe; or, he who divides (dṛṇāti), or gives (dadāti), or takes (dadhātī), or causes to worship (dārayati), or possesses (dhārayati) spiritous liquor (iram), or who runs or passes (dravadi), the Soma (indau); or kindles or animates (inddhe) living beings; or he who beholds the pure spirit, or **Brahmā**, which is this (idam) universe; the grammarians derive it from idi, to rule with the affix -ran
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Indra! We invoke you as bull when the soma is pressed.  
+Drink of the honey, of the stalk.
+</details>
+
+<details><summary>+Griffith</summary>
+
+THEE, Indra, we invoke, the Bull, what time the Soma is expressed.  
+     So drink thou of the savoury juice.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Indra! Dich, den Bullen, rufen wir zum ausgepreßten Soma, trink du vom süßen Trank!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Dich Indra rufen wir herbei, den Stier, wenn Soma wir gebraut; So trinke von dem süssen Kraut.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+О Индра, тебя, быка, мы  
+Зовем, (когда) выжат сома.  
+Испей сладкого напитка!
+</details>

@@ -1,0 +1,147 @@
++++
+title = "006"
+devataa = "इन्द्रः"
+RShiH = "बृहद्दिव आथर्वणः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+स्तुषे꣡यियम् पुरुव꣡र्पसम् ऋ꣡भ्वम्  
+इन꣡तमम् आप्तिय꣡म् आप्तिया꣡नाम्  
+आ꣡ दर्षते श꣡वसा सप्त꣡ दा꣡नून्  
+प्र꣡ साक्षते प्रतिमा꣡नानि भू꣡रि
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+popular  
+popular  
+popular  
+popular
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स्तु॒षेय्य॑म् । पु॒रु॒ऽवर्प॑सम् । ऋभ्व॑म् । इ॒नऽत॑मम् । आ॒प्त्यम् । आ॒प्त्याना॑म् ।  
+आ । द॒र्ष॒ते॒ । शव॑सा । स॒प्त । दानू॑न् । प्र । सा॒क्ष॒ते॒ । प्र॒ति॒ऽमाना॑नि । भूरि॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *stuṣeyyam* ← *stuṣeyya*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *puruvarpasam* ← *puru*
+- \[noun\]
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *puruvarpasam* ← *varpasam* ← *varpas*
+- \[noun\], accusative, singular, masculine
+- “form; look; disguise.”
+------------------------------------------------------------------------
+- *ṛbhvam* ← *ṛbhva*
+- \[noun\], accusative, singular, masculine
+- “adroit.”
+------------------------------------------------------------------------
+- *inatamam* ← *inatama*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *āptyam* ← *āptya*
+- \[noun\], accusative, singular, masculine
+- “Āptya; Trita.”
+------------------------------------------------------------------------
+- *āptyānām* ← *āptya*
+- \[noun\], genitive, plural, masculine
+- “Āptya; Trita.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *darṣate* ← *dṛ*
+- \[verb\], singular, Aorist conj./subj.
+- “burst; burst.”
+------------------------------------------------------------------------
+- *śavasā* ← *śavas*
+- \[noun\], instrumental, singular, neuter
+- “strength; power; superiority.”
+------------------------------------------------------------------------
+- *sapta* ← *saptan*
+- \[noun\], accusative, plural, masculine
+- “seven; seventh.”
+------------------------------------------------------------------------
+- *dānūn* ← *dānu*
+- \[noun\], accusative, plural, masculine
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *sākṣate* ← *sah*
+- \[verb\], singular, Aorist conj./subj.
+- “endure; overcome; habituate.”
+------------------------------------------------------------------------
+- *pratimānāni* ← *pratimāna*
+- \[noun\], accusative, plural, neuter
+- “weight.”
+------------------------------------------------------------------------
+- *bhūri*
+- \[noun\], accusative, singular, neuter
+- “much; many; much(a); abundant; rich; mighty; distinguished.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**स्तुषेय्यं** स्तोतव्यम् । स्तुवः क्सेय्यश्छन्दसि’ (उ. सू. ३. ९९ ) इत्यौणादिकः क्सेय्यप्रत्ययः । **पुरुवर्पसं** बहुरूपम् **ऋभ्वम्** उरु भासमानमुरुभूतं वा **इनतमम्** अतिशयेनेश्वरम् **आप्त्यानाम्** आप्तव्यानां मध्ये **आप्त्यम्** आप्तव्यमेवंभूतमिन्द्रं स्तौमीति शेषः । य इन्द्रः **शवसा** बलेन **सप्त** सप्तसंख्याकान् **दानून** दानवान् वृत्रनमुचिकुयवादीन् **आ** **दर्षते** आदृणाति हिनस्ति । दॄ विदारणे'। अस्माल्लेटि व्यत्ययेनात्मनेपदम् । ‘लेटोऽडाटौ' इत्यागमः । ‘सिब्बहुलम्' इति सिप् ॥ तथा **प्रतिमानानि** असुराणां प्रतिरूपाणि **भूरि** भूरीणि बहून्यसुरबलानि **प्र** **साक्षते** य इन्द्रः प्रसहते। यद्वा बहूनि प्रतिमानान्यसुराणां स्थानानि प्र साक्षते प्राप्नोति ।  ‘ साक्षतिराप्नोतिकर्मा' ( निरु. ११. २१) इति यास्कः ॥  ‘षह अभिभवे । लेट्यडागम: ।  ‘ सिब्बहुलम्” इति सिप् । ढत्वकत्वषत्वानि । छान्दसो दीर्घः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“I praise (**Indra**) who is worthy of praise, multiform vast, supreme, most accessible of the accessible; heassails with might the seven **Dānavas**, he overpowers many opposing hosts.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Most accessible: or, most worthyof the worthy;
+
+Āptya = āptavya
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+(I praise) him who is worthy of praise, the craftsman possessing many  forms, the strongest Āptya of Āptyas.  
+He will shatter the seven Dānus with his swelling strength; he will  
+overcome the many opposing forces.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Worthy of praises, many-shaped, most skilful, most energetic, Aptya of the Aptyas:  
+     He with his might destroys the seven Danus, subduing many who were deemed his equals.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Den preislichen, vielgestaltigen Meister, den gewaltigsten, den gewaltigsten Aptya unter den Aptya´s. - Er zersprenge mit Übermacht die sieben Danu´s und bezwinge die vielen Gegengewichte.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Den vielgestalt'gen, starken will ich preisen, ihn, den gewaltigsten der Stromgebieter; Mit seiner Kraft zerschmettert er die sieben Dämonen und bewältigt viele Gegner.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+(Я славлю) достойного хвалы, принимающего много образов, умелого,  
+Самого деятельного, Аптью из Аптьев.  
+Пусть взорвет он (своей) силой семерых Дану!  
+Пусть осилит он многих равноценных противников!
+</details>

@@ -1,0 +1,110 @@
++++
+title = "015"
+devataa = "पवमानः सोमः"
+RShiH = "निध्रुविः काश्यपः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+सुता꣡ इ꣡न्द्राय वज्रि꣡णे  
+सो꣡मासो द꣡धिआशिरः  
+पवि꣡त्रम् अ꣡ति अक्षरन्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सु॒ताः । इन्द्रा॑य । व॒ज्रिणे॑ । सोमा॑सः । दधि॑ऽआशिरः ।  
+प॒वित्र॑म् । अति॑ । अ॒क्ष॒र॒न् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *sutā* ← *sutāḥ* ← *su*
+- \[verb noun\], nominative, plural
+- “press out; su.”
+------------------------------------------------------------------------
+- *indrāya* ← *indra*
+- \[noun\], dative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *vajriṇe* ← *vajrin*
+- \[noun\], dative, singular, masculine
+- “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
+------------------------------------------------------------------------
+- *somāso* ← *somāsaḥ* ← *soma*
+- \[noun\], nominative, plural, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *dadhyāśiraḥ* ← *dadhi*
+- \[noun\], neuter
+- “sour milk; curd; dadhi \[word\].”
+------------------------------------------------------------------------
+- *dadhyāśiraḥ* ← *āśiraḥ* ← *āśir*
+- \[noun\], nominative, plural, masculine
+- “mixture.”
+------------------------------------------------------------------------
+- *pavitram* ← *pavitra*
+- \[noun\], accusative, singular, neuter
+- “strainer.”
+------------------------------------------------------------------------
+- *aty* ← *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+------------------------------------------------------------------------
+- *akṣaran* ← *kṣar*
+- \[verb\], plural, Imperfect
+- “run; melt.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**वज्रिणे** वज्रवते **इन्द्राय** इन्द्रार्थं **सुताः** अभिषुताः **दध्याशिरः** । दधि आशीराश्रयणद्रव्यं येषां ते दध्याशिरः । दधिसंस्कृताः **सोमासः** सोमाः **पवित्रमति** अतिक्रम्य **अक्षरन्** धारया क्षरन्ति ॥ ॥ ३२ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The **Soma**-juices mixed with curds effused for **Indra**, the wielder of the thunderbolt, flow through the filter.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Pressed for Indra the mace-bearer, the soma juices, mixed with curds, have streamed across the filter.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Over the cleansing sieve have flowed the Somas, blent with curdled milk,  
+     Effused for Indra Thunder-armed.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Die für den Keulenträger Indra ausgepreßten Somasäfte, die mit saurer Milch gemischten sind über die Seihe geflossen.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Dem Blitzer Indra ausgepresst, ergiessen durch die Seihe sich Die Somatränke milchgemischt.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

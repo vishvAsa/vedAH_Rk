@@ -1,0 +1,164 @@
++++
+title = "002"
+devataa = "इन्द्राग्नी"
+RShiH = "भरद्वाजो बार्हस्पत्यः"
+ChandaH = "बृहती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+ब꣡ऌ इत्था꣡ महिमा꣡ वा᳐म्  
+इ꣡न्द्रअग्नी प꣡निष्ठ आ꣡  
+समानो꣡ वां जनिता꣡ भ्रा꣡तरा युवं꣡  
+यमा꣡व् इहे꣡हमातरा
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+बट् । इ॒त्था । म॒हि॒मा । वा॒म् । इन्द्रा॑ग्नी॒ इति॑ । पनि॑ष्ठः । आ ।  
+स॒मा॒नः । वा॒म् । ज॒नि॒ता । भ्रात॑रा । यु॒वम् । य॒मौ । इ॒हेह॑ऽमातरा ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *baﾱ* ← *baṭ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *itthā*
+- \[adverb\]
+- “thus; here.”
+------------------------------------------------------------------------
+- *mahimā* ← *mahiman*
+- \[noun\], nominative, singular, masculine
+- “greatness; power; mahiman.”
+------------------------------------------------------------------------
+- *vām* ← *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *indrāgnī* ← *indra*
+- \[noun\], masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *indrāgnī* ← *agnī* ← *agni*
+- \[noun\], vocative, dual, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *paniṣṭha* ← *paniṣṭhaḥ* ← *paniṣṭha*
+- \[noun\], nominative, singular, masculine
+- “esteemed.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *samāno* ← *samānaḥ* ← *samāna*
+- \[noun\], nominative, singular, masculine
+- “like; identical; common; like; alike(p); same; samāna \[word\];
+    akin(p); comparable; identical; mutual; equal.”
+------------------------------------------------------------------------
+- *vāṃ* ← *vām* ← *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *janitā* ← *janitṛ*
+- \[noun\], nominative, singular, masculine
+- “father; janitṛ \[word\].”
+------------------------------------------------------------------------
+- *bhrātarā* ← *bhrātṛ*
+- \[noun\], nominative, dual, masculine
+- “brother; bhrātṛ; relative.”
+------------------------------------------------------------------------
+- *yuvaṃ* ← *yuvam* ← *tvad*
+- \[noun\], nominative, dual
+- “you.”
+------------------------------------------------------------------------
+- *yamāv* ← *yamau* ← *yama*
+- \[noun\], nominative, dual, masculine
+- “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
+------------------------------------------------------------------------
+- *ihehamātarā* ← *iha*
+- \[adverb\]
+- “here; now; in this world; now; below; there; here; just.”
+------------------------------------------------------------------------
+- *ihehamātarā* ← *iha*
+- \[adverb\]
+- “here; now; in this world; now; below; there; here; just.”
+------------------------------------------------------------------------
+- *ihehamātarā* ← *mātarā* ← *mātṛ*
+- \[noun\], nominative, dual, feminine
+- “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
+    Citrullus colocynthis Schrad.; cow.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **इन्द्राग्नी** **वां** युवयोः **महिमा** महत्त्वम् **इत्था** इत्थमनेन प्रकारेण **बट्** सत्यम् । युष्मद्विषयं यज्जन्ममहत्त्वं प्रतिपाद्यते तत्सर्वं यथार्थमित्यर्थः । **पनिष्ठ** **आ** पनिष्ठः स्तुत्यतमश्च प्रजापतिः **समानः** एक एव **वां** युवयोः **जनिता** जनयिता । अतः **युवं** युवां **भ्रातरा** भ्रातरौ स्थः । अपि च **यमौ** यमलौ सहोत्पन्नौ **इहेहमातरा** । इह चेह च सर्वत्र माता ययोस्तादृशौ स्थः । अदितिर्हि अनयोर्माता सैव विस्तीर्णा भूमिरिति इहेहमातराविति श्रूयते ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Your greatness, **Indra** and **Agni**, is after this fashion, and is most deserving of praise; the same is your progenitor; twin brethren are you, having a mother everywhere present.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Ihehamātarau, of whom the mother is here and there; **Aditi** is their mother, in common with all the gods, and she is here identified with he wide extended earth, **vistīrṇa** **bhūmiḥ**
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Yes indeed! It is just so: your greatness is most to be marveled at, Indra  and Agni.  
+Your begetter was the same: you two are brothers, twins (though) with  one mother here, one there.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+The pāda-final vām here is also in syntactic 2nd position (as it is in 1a), since báḷ itthā́is a extra-clausal exclamation, and the clause proper begins with mahimā́.
+
+For mahimán- with √pan, see nearby VI.75.6, as well as VIII.101.11, X.75.9, etc.
+
+I am puzzled by the pāda-final ā́. Grassmann (col. 171) classifies it as emphatic after numbers or grades, to show that the number or grade has been reached, but the phrases he lists there are quite heterogenous.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Thus, Indra-Agnip verily your greatness merits loftiest praise,  
+     Sprung from one common Father, brothers, twins are ye; your Mother is in every place.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Wahrhaftig, so ist es: Eure Größe, Indra und Agni, ist am meisten anerkannt. Ihr habt den gleichen Erzeuger, Brüder seid ihr, Zwillinge; eure Mütter sind hier und dort.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Sehr herrlich, Indra-Agni, ist doch eure Grösse in der That, Als Zwillingsbrüder stammt von gleichem Vater ihr, die Mutter habt ihr hier und dort.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Поистине, верно (это): величие ваше,  
+О Индра-Агни, самое удивительное.  
+У вас двоих общий родитель, братья вы,  
+Близнецы, а две матери (ваши) здесь и там.
+</details>

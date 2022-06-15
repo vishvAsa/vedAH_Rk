@@ -1,0 +1,130 @@
++++
+title = "002"
+devataa = "मित्रावरुणौ"
+RShiH = "यजत आत्रेयः"
+ChandaH = "अनुष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+आ꣡ य꣡द् यो꣡निं हिरण्य꣡यं  
+व꣡रुण मि꣡त्र स꣡दथः  
+धर्ता꣡रा चर्षणीनां᳐꣡  
+यन्तं꣡ सुम्नं꣡ रिशादसा
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M;; repeated line  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ । यत् । योनि॑म् । हि॒र॒ण्यय॑म् । वरु॑ण । मित्र॑ । सद॑थः ।  
+ध॒र्तारा॑ । च॒र्ष॒णी॒नाम् । य॒न्तम् । सु॒म्नम् । रि॒शा॒द॒सा॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *yad* ← *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *yoniṃ* ← *yonim* ← *yoni*
+- \[noun\], accusative, singular, masculine
+- “vagina; vulva; uterus; beginning; origin; reincarnation;
+    birthplace; family; production; cause; race; grain; raw material;
+    birth; kind; caste; kinship; bed.”
+------------------------------------------------------------------------
+- *hiraṇyayaṃ* ← *hiraṇyayam* ← *hiraṇyaya*
+- \[noun\], accusative, singular, masculine
+- “gold; aureate; hiraṇyaya \[word\].”
+------------------------------------------------------------------------
+- *varuṇa*
+- \[noun\], vocative, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *mitra*
+- \[noun\], vocative, singular, masculine
+- “friend; Mitra; mitra \[word\]; sun; ally.”
+------------------------------------------------------------------------
+- *sadathaḥ* ← *sad*
+- \[verb\], dual, Present indikative
+- “sit down; break down; slow; sink; crumble; fracture; perish; ride;
+    stop; besiege; tire.”
+------------------------------------------------------------------------
+- *dhartārā* ← *dhartṛ*
+- \[noun\], nominative, dual, masculine
+- “supporter.”
+------------------------------------------------------------------------
+- *carṣaṇīnāṃ* ← *carṣaṇīnām* ← *carṣaṇi*
+- \[noun\], genitive, plural, feminine
+- “people.”
+------------------------------------------------------------------------
+- *yantaṃ* ← *yantam* ← *yam*
+- \[verb\], dual, Aorist imperative
+- “concentrate; grant; restrain; cause; control; offer; cover; raise.”
+------------------------------------------------------------------------
+- *sumnaṃ* ← *sumnam* ← *sumna*
+- \[noun\], accusative, singular, neuter
+- “favor; benevolence; sumna \[word\]; entreaty; favor.”
+------------------------------------------------------------------------
+- *riśādasā* ← *riśādas*
+- \[noun\], vocative, dual, masculine
+- “superior; superior; proud.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**यत्** यस्मात् **हिरण्ययं** हितरमणीयं **योनिं** यज्ञभूमिं हे **वरुण** हे **मित्र** **आ** **सदथः** आगच्छथः तस्मात् **चर्षणीनां** मनुष्याणां **धर्तारा** धारकौ च हे **रिशादसा** हिंसकानां क्षेप्तारौ युवाम् अस्मभ्यं **सुम्नं** सुखं **यन्तं** कुरुतमित्यर्थः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“When you come, **Varuṇa** and **Mitra**, to the delightful plural ce of sacrifice, then, supporters of men, destroyers of foes, you bring felicity.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+O Varuṇa and Mitra, when you two take your seat upon the golden womb, as maintainers of the separate peoples, offer your favor, o you caring for  the stranger.
+</details>
+
+<details><summary>+Griffith</summary>
+
+When, Varuna and Mitra, ye sit in your golden dwelling-place,  
+     Ye Twain, supporters of mankind, foeslayers, give felicity.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Wenn ihr euch in den goldenen Schoß setzet, Varuna, Mitra, die Erhalter der Völker, so gewähret eure Gunst, ihr Überlegene!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Wenn ihr euch, Mitra, Varuna, hinsetzet auf den goldnen Schooss, Der Menschenstämme Hüter ihr, so reicht ihr Feindverzehrer Schutz.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Когда вы усаживаетесь на (ваше)  
+Золотое лоно, о Варуна, о Митра,  
+Как поддерживатели народов,  
+Протяните (к нам) благожелательную мысль, о каратели врагов (?)!
+</details>

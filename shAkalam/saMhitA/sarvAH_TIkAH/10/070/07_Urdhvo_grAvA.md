@@ -1,0 +1,154 @@
++++
+title = "007"
+devataa = "दैव्यौ होतारौ प्रचेतसौ"
+RShiH = "सुमित्रो वाध्र्यश्वः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+ऊर्ध्वो꣡ ग्रा꣡वा बृह꣡द् अग्निः꣡ स꣡मिद्धः  
+प्रिया꣡ धा꣡मानि अ꣡दितेर् उप꣡स्थे  
+पुरो꣡हिताव् ऋत्विजा यज्ञे꣡ अस्मि꣡न्  
+विदु꣡ष्टरा द्र꣡विणम् आ꣡ यजेथाम्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ऊ॒र्ध्वः । ग्रावा॑ । बृ॒हत् । अ॒ग्निः । सम्ऽइ॑द्धः । प्रि॒या । धामा॑नि । अदि॑तेः । उ॒पऽस्थे॑ ।  
+पु॒रःऽहि॑तौ । ऋ॒त्वि॒जा॒ । य॒ज्ञे । अ॒स्मिन् । वि॒दुःऽत॑रा । द्रवि॑णम् । आ । य॒जे॒था॒म् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *ūrdhvo* ← *ūrdhvaḥ* ← *ūrdhva*
+- \[noun\], nominative, singular, masculine
+- “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
+    \[word\]; acclivitous; overturned; loud; eminent; high.”
+------------------------------------------------------------------------
+- *grāvā* ← *grāvan*
+- \[noun\], nominative, singular, masculine
+- “stone; millstone; grindstone; mountain.”
+------------------------------------------------------------------------
+- *bṛhad* ← *bṛhat*
+- \[noun\], accusative, singular, neuter
+- “large; great; loud; high; much(a); exalted; abundant; intensive;
+    strong; huge.”
+------------------------------------------------------------------------
+- *agniḥ* ← *agni*
+- \[noun\], nominative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *samiddhaḥ* ← *samindh* ← *√indh*
+- \[verb noun\], nominative, singular
+- “kindle; blaze.”
+------------------------------------------------------------------------
+- *priyā* ← *priya*
+- \[noun\], nominative, plural, neuter
+- “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
+    good; liked; suitable; proper.”
+------------------------------------------------------------------------
+- *dhāmāny* ← *dhāmāni* ← *dhāman*
+- \[noun\], nominative, plural, neuter
+- “domain; dwelling; law; appearance; light; race; agreement; color;
+    location.”
+------------------------------------------------------------------------
+- *aditer* ← *aditeḥ* ← *aditi*
+- \[noun\], genitive, singular, feminine
+- “Aditi; aditi \[word\].”
+------------------------------------------------------------------------
+- *upasthe* ← *upastha*
+- \[noun\], locative, singular, neuter
+- “genitalia; lap; sexual desire; anus.”
+------------------------------------------------------------------------
+- *purohitāv* ← *purohitau* ← *purohita*
+- \[noun\], nominative, dual, masculine
+- “Purohita; purohita \[word\].”
+------------------------------------------------------------------------
+- *ṛtvijā* ← *ṛtvij*
+- \[noun\], nominative, dual, masculine
+- “ṛtvij; ṛtvij \[word\].”
+------------------------------------------------------------------------
+- *yajñe* ← *yajña*
+- \[noun\], locative, singular, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *asmin* ← *idam*
+- \[noun\], locative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *viduṣṭarā* ← *viduṣṭara*
+- \[noun\], nominative, dual, masculine
+------------------------------------------------------------------------
+- *draviṇam* ← *draviṇa*
+- \[noun\], accusative, singular, neuter
+- “wealth; property; money; jewel.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *yajethām* ← *yaj*
+- \[verb\], dual, Present imperative
+- “sacrifice; worship; worship.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**ग्रावा** सोमाभिषवाय यदा **ऊर्ध्वः** उन्नतो भवति यदा च **बृहत्** महान् **अग्निः** **समिद्धः** हविर्भिः सम्यग्दीप्तो भवति तथा प्रियाणि देवानां सोमादिहविष्प्रदानेन प्रीणयितॄणि  **धामानि** हविषां धारकाणि यज्ञपात्राणि **अदितेः** पृथिव्याः **उपस्थे** यज्ञसदने यदासादितानि भवन्ति तदानीं  हे ऋत्विजौ दैव्यौ **पुरोहितौ** होतारौ पुरतो निहितौ **विदुष्टरा**। छान्दसं संप्रसारणम् । विद्वत्तमौ  युवाम् **अस्मिन्** **यज्ञे** **द्रविणं** धनम् **आ** **यजेथाम्** । यजिर्दानार्थः । अस्मभ्यमाभिमुख्येन प्रयच्छतम् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“(When) the grinding-stone is uplifted, the mighty **Agni** kindled, the acceptable vessels (ready) on thelap of earth; (then), most learned priests, who take the foremost plural ce, bestow wealth upon us at this sacrifice.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+The pressing stone is upright; the fire has been loftily kindled: their own  dear domains are in the lap of Aditi [=ritual ground?].  
+You two priests—placed in front at this sacrifice, win material wealth by  sacrifice, as the two who know better.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Up stands the stone, high burns the fire enkindled: Aditi's lap contains the Friendly Natures  
+     Ye Two Chief Priests who serve at this our worship, may ye, more skilled, win for us rich possessions.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Der Preßstein ist aufgerichtet, Agni ist hoch entflammt, die lieben Sachen sind im Schoße der Aditi. Ihr beiden Opferpriester sollt als die Bevollmächtigten, Kundigeren bei diesem Opfer Reichtum erbitten!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Hoch schwebt der Pressstein, hell entflammt ist Agni, lieb sind im Schooss der Aditi die Sitze; Ihr Priester, beide opfernd hier zur Festzeit, ihr weisheitsreichen opfert her uns Schätze.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Высоко вверх (поднят) давильный камень, зажжен огонь.  
+Приятны установления в лоне Адити.  
+О два  
+жреца  
+, поставленные впереди на этом жертвоприношении,  
+Знающие больше других, добудьте богатство с помощью жертв.
+</details>

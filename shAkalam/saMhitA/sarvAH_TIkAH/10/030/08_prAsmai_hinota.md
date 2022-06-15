@@ -1,0 +1,164 @@
++++
+title = "008"
+devataa = "आपः अपान्नपाद्वा"
+RShiH = "कवष ऐलूषः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+प्रा꣡स्मै हिनोत म꣡धुमन्तम् ऊर्मिं꣡  
+ग꣡र्भो यो꣡ वः सिन्धवो म꣡ध्व उ꣡त्सः  
+घृत꣡पृष्ठम् ई꣡डियम् अध्वरे꣡षु  
+आ꣡पो रेवतीः शृणुता꣡ ह꣡वम् मे
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्र । अ॒स्मै॒ । हि॒नो॒त॒ । मधु॑ऽमन्तम् । ऊ॒र्मिम् । गर्भः॑ । यः । वः॒ । सि॒न्ध॒वः॒ । मध्वः॑ । उत्सः॑ ।  
+घृ॒तऽपृ॑ष्ठम् । ईड्य॑म् । अ॒ध्व॒रेषु॑ । आपः॑ । रे॒व॒तीः॒ । शृ॒णु॒त । हव॑म् । मे॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *prāsmai* ← *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *prāsmai* ← *asmai* ← *idam*
+- \[noun\], dative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *hinota* ← *hi*
+- \[verb\], plural, Present imperative
+- “impel; send; spur; stimulate; urge.”
+------------------------------------------------------------------------
+- *madhumantam* ← *madhumat*
+- \[noun\], accusative, singular, masculine
+- “sweet; honeyed; sweet; pleasant.”
+------------------------------------------------------------------------
+- *ūrmiṃ* ← *ūrmim* ← *ūrmi*
+- \[noun\], accusative, singular, masculine
+- “wave; billow.”
+------------------------------------------------------------------------
+- *garbho* ← *garbhaḥ* ← *garbha*
+- \[noun\], nominative, singular, masculine
+- “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
+    garbhadruti; filling; pregnancy; room; abdomen; fertilization;
+    inside; hole; baby; calyx; midst.”
+------------------------------------------------------------------------
+- *yo* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *vaḥ* ← *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *sindhavo* ← *sindhavaḥ* ← *sindhu*
+- \[noun\], vocative, plural, masculine
+- “river; Indus; sindhu \[word\].”
+------------------------------------------------------------------------
+- *madhva* ← *madhvaḥ* ← *madhu*
+- \[noun\], genitive, singular, neuter
+- “honey; alcohol; sweet; nectar; madhu \[word\].”
+------------------------------------------------------------------------
+- *utsaḥ* ← *utsa*
+- \[noun\], nominative, singular, masculine
+- “spring; fountain; utsa \[word\]; well.”
+------------------------------------------------------------------------
+- *ghṛtapṛṣṭham* ← *ghṛta*
+- \[noun\], neuter
+- “ghee; fat.”
+------------------------------------------------------------------------
+- *ghṛtapṛṣṭham* ← *pṛṣṭham* ← *pṛṣṭha*
+- \[noun\], accusative, singular, masculine
+- “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
+    \[word\]; back; roof.”
+------------------------------------------------------------------------
+- *īḍyam* ← *īḍ*
+- \[verb noun\], accusative, singular
+- “praise; invite; raise.”
+------------------------------------------------------------------------
+- *adhvareṣv* ← *adhvareṣu* ← *adhvara*
+- \[noun\], locative, plural, masculine
+- “yajña; ceremony; adhvara \[word\].”
+------------------------------------------------------------------------
+- *āpo* ← *āpaḥ* ← *ap*
+- \[noun\], vocative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *revatīḥ* ← *revat*
+- \[noun\], vocative, plural, feminine
+- “abundant; rich; affluent; brilliant; brilliant.”
+------------------------------------------------------------------------
+- *śṛṇutā* ← *śru*
+- \[verb\], plural, Present imperative
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------
+- *havam* ← *hava*
+- \[noun\], accusative, singular, masculine
+- “invocation.”
+------------------------------------------------------------------------
+- *me* ← *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+अत्र यच्छब्दसंबन्धाद्द्वितीयः पादः पूर्वं व्याख्येयः । हे **सिन्धवः** स्यन्दनशीला आपः **वः** युष्माकं **यः** **गर्भः** **मध्वः** मधुररसस्य **उत्सः** उत्स्यन्दनः प्रस्रवणः । यच्छब्दयोगात्तच्छब्दोऽध्याहार्यः । तं **मधुमन्तं** मधुररसोपेतम् **ऊर्मिम्** अप्संघातम् । सारमित्यर्थः । **अस्मै** अस्येन्द्रस्यार्थाय
+“प्र **हिनोत** प्रहिणुत । प्रगमयत । कीदृशम् । **अध्वरेषु** यज्ञेषु **घृतपृष्ठं** घृतमाज्यं पृष्ठे यस्य तम् । पश्चाद्घृतपातिनमित्यर्थः । **ईड्यं** स्तुत्यम्।  किंच हे **आपः** यूयं **रेवतीः** रेवत्यः अस्मभ्यं यानि धनानि दातव्यानि तैर्धनवत्यः **मे** मदीयं **हवम्** आह्वानं **शृणुत** ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Send forth, rivers, the sweet-flavoured beverage to him who is your germ, a well of the sweet (**Soma**),the Soma which is mixed with butter adorable at sacrifices; hear, opulent waters my invocation.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Propel to him the honeyed wave, which is your embryo, o rivers, and is a  fountain of honey—  
+(the wave) with ghee on its back, worthy of invocation at the  
+ceremonies. Rich waters, hear my call.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Send forth to him the meath-rich wave, O Rivers, which is your offspring and a well of sweetness,  
+     Oil-balmed, to be implored at sacrifices. Ye wealthy Waters, hear mine invocation.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Für ihn sendet die süße Welle, die Schmalz auf dem Rücken trägt, die bei den Opfern herzurufende. Ihr reichen Gewässer, erhöret meinen Ruf!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Ergiesset ihm die honigsüsse Welle, o Ströme, eure Frucht, des Methes Quelle, Die Butter trägt, bei Opfern hoch zu preisen; ihr reichen Wasser, höret auf mein Rufen.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Пригоните ему волну, богатую медом,  
+Которая зародыш ваш, о реки, источник меда,  
+Жирноспинную (волну), которую надо призывать на обрядах!  
+О воды богатые, слушайте мой зов!
+</details>

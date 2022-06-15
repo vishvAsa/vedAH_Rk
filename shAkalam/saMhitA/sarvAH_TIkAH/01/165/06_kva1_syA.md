@@ -1,0 +1,188 @@
++++
+title = "006"
+devataa = "मरुत्वानिन्द्रः"
+RShiH = "इन्द्रः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+कु꣡व स्या꣡ वो मरुतः स्वधा꣡ आसीद्  
+य꣡न् मा꣡म् ए꣡कं सम꣡धत्ताहिह꣡त्ये  
+अहं꣡ हि꣡ ऊग्र꣡स् तविष꣡स् तु꣡विष्मान्  
+वि꣡श्वस्य श꣡त्रोर् अ꣡नमं वधस्नइः꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic on metrical evidence alone
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+क्व॑ । स्या । वः॒ । म॒रु॒तः॒ । स्व॒धा । आ॒सी॒त् । यत् । माम् । एक॑म् । स॒म्ऽअध॑त्त । अ॒हि॒ऽहत्ये॑ ।  
+अ॒हम् । हि । उ॒ग्रः । त॒वि॒षः । तुवि॑ष्मान् । विश्व॑स्य । शत्रोः॑ । अन॑मम् । व॒ध॒ऽस्नैः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *kva*
+- \[adverb\]
+- “wherein; how; kva \[word\].”
+------------------------------------------------------------------------
+- *syā* ← *tya*
+- \[noun\], nominative, singular, feminine
+- “that.”
+------------------------------------------------------------------------
+- *vo* ← *vaḥ* ← *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *marutaḥ* ← *marut*
+- \[noun\], vocative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *svadhāsīd* ← *svadhā*
+- \[noun\], nominative, singular, feminine
+- “free will; offering; libation; nature; svadhā \[word\]; comfort;
+    power.”
+------------------------------------------------------------------------
+- *svadhāsīd* ← *āsīt* ← *as*
+- \[verb\], singular, Imperfect
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *yan* ← *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *mām* ← *mad*
+- \[noun\], accusative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *ekaṃ* ← *ekam* ← *eka*
+- \[noun\], accusative, singular, masculine
+- “one; single(a); alone(p); some(a); single(a); eka \[word\];
+    alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
+    consistent; any(a); undifferentiated; disjunct.”
+------------------------------------------------------------------------
+- *samadhattāhihatye* ← *samadhatta* ← *saṃdhā* ← *√dhā*
+- \[verb\], plural, Imperfect
+- “connect; refer; aim; grow together; compress; ally; unite; operate
+    on.”
+------------------------------------------------------------------------
+- *samadhattāhihatye* ← *ahi*
+- \[noun\], masculine
+- “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
+------------------------------------------------------------------------
+- *samadhattāhihatye* ← *hatye* ← *hatya*
+- \[noun\], locative, singular, neuter
+- “killing.”
+------------------------------------------------------------------------
+- *ahaṃ* ← *aham* ← *mad*
+- \[noun\], nominative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *hy* ← *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *ugras* ← *ugraḥ* ← *ugra*
+- \[noun\], nominative, singular, masculine
+- “powerful; awful; dangerous; intense; mighty; potent; colicky;
+    atrocious.”
+------------------------------------------------------------------------
+- *taviṣas* ← *taviṣaḥ* ← *taviṣa*
+- \[noun\], nominative, singular, masculine
+- “strong.”
+------------------------------------------------------------------------
+- *tuviṣmān* ← *tuviṣmat*
+- \[noun\], nominative, singular, masculine
+- “powerful.”
+------------------------------------------------------------------------
+- *viśvasya* ← *viśva*
+- \[noun\], genitive, singular, masculine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *śatror* ← *śatroḥ* ← *śatru*
+- \[noun\], genitive, singular, masculine
+- “enemy; foe; enemy; Asura.”
+------------------------------------------------------------------------
+- *anamaṃ* ← *anamam* ← *nam*
+- \[verb\], singular, Imperfect
+- “bow; bend; condescend; worship; bend; lower.”
+------------------------------------------------------------------------
+- *vadhasnaiḥ* ← *vadhasna*
+- \[noun\], instrumental, plural, masculine
+- “weapon.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**स्या** सा **स्वधा** तदुदकं बलं वा **वः** युष्माकं संबन्धि **क्व** आसीत् नैवासीदित्यर्थः । अस्माकमुदकं त्वमनुभवसीति ब्रूथ। **यत्** या स्वधा **एकम्** असहायं माम् **अहिहत्ये** वृष्टयर्थं मेघहननकर्मणि वृत्रवधे वा **समधत्त** सहितमभूत् । समासीदिति संबन्धः । असहायस्य कथमिति मतं सेत्स्यतीति अतः आह । **अहं** **हि** अहं खलु **उग्रः** उद्गूर्णबलः **तविषः** बलवान् **तुविष्मान्** महत्त्वोपेतोऽस्मि । यस्मात् अतिबलोऽहं तस्मात् **विश्वस्य** कृत्स्नस्य **शत्रोः** मेघस्य । शत्रुरेवायम् ॥ कर्मणि षष्ठी ॥ सर्वं शत्रुसंघं वधस्नैः वधरूपैः शोधनैः वधकौशलैरित्यर्थः । यद्वा । वध इति वज्रनाम । वधस्नैर्वज्रस्यासनैः क्षेपणप्रकारैः । अनमम् अनमयम् । अन्तर्भावितण्यर्थोयम् ॥ वशीकरोमीत्यर्थः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“(**Indra**): Where, **Maruts**, has that (sacrificial) food been assigned to you, which, for the destruction of Ahi was appropriated to me alone; for I indeed am fierce and strong, and mighty, and have bowed down all mine enemies with death-dealing shafts.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+[Indra:] Where was this independent will of yours, Maruts, when you  tasked me alone to smash the serpent?  
+For I, the powerful and mighty, possessed of might, humbled with my  weapons those of every rival.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+I do not understand the length in ūgrá- here and 10c. Lubotsky (2000 [“Vedic root vṛ …,” Indoarisch, Iranisch und die Indogermanistik]: 320 n. 16) attributes it to compensatory lengthening from *hí uHgrás, after laryngeal metathesis from *hi Hugrás, but I find the proposed metathesis counterintuitive (despite the other exx. he adduces); one would rather expect the laryngeal to remain where it is as a hiatus-filler. Moreover, assuming that this remained as a synchronic rule in the RV is quite hard to accept.
+
+Indra adroitly manipulates the wording here to contrast his own solitary state with the Maruts’ collectivity: … mā́m ékaṃ samádhatta “… me alone together you…”
+
+
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/165/05-06.md">
+<details open><summary><h2>05-06 ...{Loading}...</h2></summary>
+
+Indra seizes the Maruts’ assertion of independent power (svadhā́- 5d) by taxing them with the absence of (their exercise of) that power (6a) at a crucial moment. Another skirmish in the battle of the lexicon.
+
+</details>
+</div>
+</details>
+
+<details><summary>+Griffith</summary>
+
+Where was that nature then of yours, O Maruts, that ye charged me alone to slay the Dragon?  
+     For I in truth am fierce and strong and mighty. I bent away from every foeman's weapons.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Wo war denn diese eure Selbständigkeit, ihr Marut, als ihr mich im Drachenkampf allein ließet? Denn ich, der Gewaltige, Starke, Überlegene parierte jedes Feindes Waffen mit meinen Waffen.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+»Wo war, o Maruts, damals dies eur Wünschen, als ihr allein mich liesst im Drachenkampfe? Ich freilich, stark, gewaltig, vielvermögend schlug jeden Feind mit meinen Waffen nieder.«
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Где же была та ваша природа, о Маруты,  
+Когда вы оставили меня одного (в борьбе) со змеем?  
+Ведь это я, грозный, сильный, могучий,  
+Сгибал (смертельное оружие) любого врага (своим) смертельным оружием.  
+Маруты:
+</details>

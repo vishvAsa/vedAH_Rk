@@ -1,0 +1,152 @@
++++
+title = "008"
+devataa = "अग्निः"
+RShiH = "चित्रमहा वासिष्ठः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+नि꣡ त्वा व꣡सिष्ठा अहुवन्त वाजि꣡नं  
+गृण꣡न्तो अग्ने विद꣡थेषु वेध꣡सः  
+राय꣡स् पो꣡षं य꣡जमानेषु धारय  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+नि । त्वा॒ । वसि॑ष्ठाः । अ॒ह्व॒न्त॒ । वा॒जिन॑म् । गृ॒णन्तः॑ । अ॒ग्ने॒ । वि॒दथे॑षु । वे॒धसः॑ ।  
+रा॒यः । पोष॑म् । यज॑मानेषु । धा॒र॒य॒ । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *tvā* ← *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *vasiṣṭhā* ← *vasiṣṭhāḥ* ← *vasiṣṭha*
+- \[noun\], nominative, plural, masculine
+- “Vasiṣṭha; vasiṣṭha \[word\].”
+------------------------------------------------------------------------
+- *ahvanta* ← *hvā*
+- \[verb\], plural, Thematic aorist (Ind.)
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *vājinaṃ* ← *vājinam* ← *vājin*
+- \[noun\], accusative, singular, masculine
+- “horse; bird; seven; hero; achiever; aphrodisiac.”
+------------------------------------------------------------------------
+- *gṛṇanto* ← *gṛṇantaḥ* ← *gṛ*
+- \[verb noun\], nominative, plural
+- “praise.”
+------------------------------------------------------------------------
+- *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *vidatheṣu* ← *vidatha*
+- \[noun\], locative, plural, neuter
+- “meeting; wisdom; council.”
+------------------------------------------------------------------------
+- *vedhasaḥ* ← *vedhas*
+- \[noun\], nominative, plural, masculine
+- “Brahma; creator; believer \[worshipper\]; Vishnu.”
+------------------------------------------------------------------------
+- *rāyaspoṣaṃ* ← *rāyaspoṣam* ← *rāyaspoṣa*
+- \[noun\], accusative, singular, masculine
+- “affluence.”
+------------------------------------------------------------------------
+- *yajamāneṣu* ← *yajamāna*
+- \[noun\], locative, plural, masculine
+- “Yajamāna.”
+------------------------------------------------------------------------
+- *dhāraya* ← *dhāray* ← *√dhṛ*
+- \[verb\], singular, Present imperative
+- “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
+    preserve; remember; stow; stop; have; fill into; endure; support;
+    understand; fixate; govern; restrain.”
+------------------------------------------------------------------------
+- *yūyam* ← *tvad*
+- \[noun\], nominative, plural
+- “you.”
+------------------------------------------------------------------------
+- *pāta* ← *pā*
+- \[verb\], plural, Present imperative
+- “protect; govern.”
+------------------------------------------------------------------------
+- *svastibhiḥ* ← *svasti*
+- \[noun\], instrumental, plural, feminine
+- “prosperity; well-being; fortune; benediction; svasti \[word\];
+    well; luck.”
+------------------------------------------------------------------------
+- *sadā*
+- \[adverb\]
+- “always; continually; always; perpetually.”
+------------------------------------------------------------------------
+- *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **अग्ने** **विदथेषु** । विदन्त्यस्मिन् यष्टव्यान् देवानिति विदथो यज्ञः। तेषु **वेधसः** कर्मणां विधातारः **गृणन्तः** स्तुवन्तः **वसिष्ठाः** वसिष्ठपुत्रा ऋषयः **वाजिनम्** अन्नवन्तं बलवन्तं वात्वां **नि** **अह्वन्त** नितरामाह्वयन् । अस्ताविषुर्वा ॥ ह्वेञो लुङि • निसमुपविभ्यो ह्वः' (पा. सू. १.३. ३०) इत्यात्मनेपदम् । ‘ आत्मनेपदेष्वन्यतरस्याम् ' (पा. सू.३.१.५४ ) इति च्लेरङादेशः । वसिष्ठशब्दाद्विहितस्यापत्यार्थप्रत्ययस्य ' अत्रिभृगुकुत्स' (पा. सू. २. ४. ६५ ) इत्यादिना बहुषु लुक् ॥ स त्वं **यजमानेषु** अस्मासु **रायः** धनस्य **पोषं** पुष्टं **धारय** अवस्थापय ॥ ‘ ऊडिदम्' इत्यादिना रैशब्दात् षष्ठ्या उदात्तत्वम्। 'षष्ठ्याः पति पुत्र° (पा. सू. ८, ३. ५३ ) इति विसर्जनीयस्य सत्वम् ॥ गतमन्यत् । एकस्मिन्नप्यग्नौ पूजार्थं बहुवचनम् ॥ ॥ ६ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The pious **Vasiṣṭha** invoked you, **Agni**, at the sacrificial meetings, praising you, the mighty one;continue the sustenance of riches among the instrumental tutors of the rite, and do you (gods) ever cherish us withblessings.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+The Vasiṣṭhas have called you down, the prizewinner, as they hymn you,  o Agni—the ritual adepts at the rites.  
+Uphold among the sacrificers the thriving of wealth. – Do you protect us  always with your blessings.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Arrangers in our synods, Agni, while they sang Vasisistha s sons have called thee down, the Potent One.  
+     Maintain the growth of wealth with men who sacrifice. Ye Gods, preserve us with your blessings evermore.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Dich, den Lohnbringer, preisend haben die Vasitha´s, die Meister in weisen Reden, angerufen, o Agni. Sichere den Opferherren ihres Reichtums Zunahme! Behütet ihr uns immerdar mit eurem Segen!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Gerufen haben, Agni, die Vasischtha's dich, die Ordner preisend bei dem Fest, den kräftigen, Des Reichthums Mehrung schenke stets den Opferern, ihr Götter, schützt uns stets mit eurem Segen.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Тебя, приносящего награду, позвали Васиштхи,  
+Воспевающие (тебя), о Агни, устроители обряда на жертвенных раздачах.  
+Поддержи процветание богатства у жертвователей!  
+Защищайте вы нас всегда (своими) милостями!
+</details>

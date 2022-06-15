@@ -1,0 +1,167 @@
++++
+title = "005"
+devataa = "इन्द्रः"
+RShiH = "वामदेवो गौतमः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अभि꣡ प्र꣡ दद्रुर् ज꣡नयो न꣡ ग꣡र्भं  
+र꣡था इव प्र꣡ ययुः साक꣡म् अ꣡द्रयः  
+अ꣡तर्पयो विसृ꣡त उब्ज꣡ ऊर्मी꣡न्  
+तुवं꣡ वृताँ꣡ अरिणा इन्द्र सि꣡न्धून्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒भि । प्र । द॒द्रुः॒ । जन॑यः । न । गर्भ॑म् । रथाः॑ऽइव । प्र । य॒युः॒ । सा॒कम् । अद्र॑यः ।  
+अत॑र्पयः । वि॒ऽसृतः॑ । उ॒ब्जः । ऊ॒र्मीन् । त्वम् । वृ॒तान् । अ॒रि॒णाः॒ । इ॒न्द्र॒ । सिन्धू॑न् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *dadrur* ← *dadruḥ* ← *dṛ*
+- \[verb\], plural, Perfect indicative
+- “burst; burst.”
+------------------------------------------------------------------------
+- *janayo* ← *janayaḥ* ← *jani*
+- \[noun\], nominative, plural, feminine
+- “wife; jan; woman; jani \[word\]; birth.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *garbhaṃ* ← *garbham* ← *garbha*
+- \[noun\], accusative, singular, masculine
+- “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
+    garbhadruti; filling; pregnancy; room; abdomen; fertilization;
+    inside; hole; baby; calyx; midst.”
+------------------------------------------------------------------------
+- *rathā* ← *rathāḥ* ← *ratha*
+- \[noun\], nominative, plural, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *yayuḥ* ← *yā*
+- \[verb\], plural, Perfect indicative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *sākam*
+- \[adverb\]
+- “together; jointly; simultaneously.”
+------------------------------------------------------------------------
+- *adrayaḥ* ← *adri*
+- \[noun\], nominative, plural, masculine
+- “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
+------------------------------------------------------------------------
+- *atarpayo* ← *atarpayaḥ* ← *tarpay* ← *√tṛp*
+- \[verb\], singular, Imperfect
+- “nourish; offer; nutrify; satisfy; gladden; replenish; fill.”
+------------------------------------------------------------------------
+- *visṛta* ← *visṛtaḥ* ← *visṛt*
+- \[noun\], accusative, plural, feminine
+------------------------------------------------------------------------
+- *ubja* ← *ubjaḥ* ← *ubj*
+- \[verb\], singular, Present injunctive
+- “oppress.”
+------------------------------------------------------------------------
+- *ūrmīn* ← *ūrmi*
+- \[noun\], accusative, plural, masculine
+- “wave; billow.”
+------------------------------------------------------------------------
+- *tvaṃ* ← *tvam* ← *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *vṛtāṃ* ← *vṛ*
+- \[verb noun\], accusative, plural
+- “surround; accompany; cover; cover; obstruct; check; spread;
+    envelop.”
+------------------------------------------------------------------------
+- *ariṇā* ← *ariṇāḥ* ← *ri*
+- \[verb\], singular, Imperfect
+- “free; liberate; run; let go of.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *sindhūn* ← *sindhu*
+- \[noun\], accusative, plural, masculine
+- “river; Indus; sindhu \[word\].”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **इन्द्र** त्वाम् **अद्रयः** मरुतः **जनयः** जनन्यः **गर्भं** **न** पुत्रमिव **अभि** **प्र** **दद्रुः** अभिजग्मुः । किंच **रथाइव** रंहणशीला रथा यथा तथा वृत्रवधार्थं त्वया **साकं** **प्र** **ययुः** प्रकर्षेण अयासिषुः । हे इन्द्र त्वं **विसृतः** विसरणशीला नदीः **अतर्पयः** अद्भिरपूरयः । तथा **ऊर्मीन्** मेघान् **उब्जः** अवधीः । तथा **त्वं** वृतान् वृत्रेणावृतान् **सिन्धून्** अपः **अरिणाः** प्रैरयः ॥ ॥ १ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The **Maruts** have hastened to you like mother to their young; like chariots they have rushed in along (with you); you, **Indra**, have satisfied the following streams; you have shattered the clouds; you have set free the obstructed rivers.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+They burst, as women burst out their embryo. Like chariots the stones  went forth all at once.  
+You satisfied (the waters) flowing widely, and you subdued their waves.  You made the blocked rivers flow, Indra.
+</details>
+
+<details><summary>+Griffith</summary>
+
+They ran to thee as mothers to their offspring: the clouds, like chariots, hastened forth together.  
+     Thou didst refresh the streams and force the billows: thou, Indra, settest free obstructed rivers.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Wie Frauen taten sie ihren Leibesschoß auf, wie Wagen setzten sich die Felsen mit einem Male in Bewegung. Du befriedigtest die den Fels durchbrechenden Flüsse, dämmtest ihre Wogen ein; du ließest die eingeschlossenen Ströme laufen, Indra.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Sie eilten fort wie Mütter zu dem Kinde, die Steine rollten alle fort wie Wagen; Die Wasser letztest du, die Wogen fassend, ergossest, Indra, die gefangnen Ströme.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Словно женщины (в родах), они раскрыли (свою) утробу,  
+Словно колесницы, сразу двинулись скалы.  
+Ты утишил текущие сквозь (горы воды), удержал (их) волны.  
+Ты пустил течь, о Индра, замкнутые реки.
+</details>

@@ -1,0 +1,170 @@
++++
+title = "012"
+devataa = "आपः सोमो वा"
+RShiH = "देवश्रवा यामायनः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+य꣡स् ते द्रप्स꣡ स्क꣡न्दति य꣡स् ते अंशु꣡र्  
+बाहु꣡च्युतो धिष꣡णाया उप꣡स्थात्  
+अध्वर्यो꣡र् वा प꣡रि वा यः꣡ पवि꣡त्रात्  
+तं꣡ ते जुहोमि म꣡नसा व꣡षट्कृतम्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+popular  
+popular  
+popular  
+popular
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । ते॒ । द्र॒प्सः । स्कन्द॑ति । यः । ते॒ । अं॒शुः । बा॒हुऽच्यु॑तः । धि॒षणा॑याः । उ॒पऽस्था॑त् ।  
+अ॒ध्व॒र्योः । वा॒ । परि॑ । वा॒ । यः । प॒वित्रा॑त् । तम् । ते॒ । जु॒हो॒मि॒ । मन॑सा । वष॑ट्ऽकृतम् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *yas* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *te* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *drapsa*
+- \[noun\], nominative, singular, masculine
+- “drop; banner.”
+------------------------------------------------------------------------
+- *skandati* ← *skand*
+- \[verb\], singular, Present indikative
+- “clot; ejaculate; spill; ride.”
+------------------------------------------------------------------------
+- *yas* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *te* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *aṃśur* ← *aṃśuḥ* ← *aṃśu*
+- \[noun\], nominative, singular, masculine
+- “sunbeam; beam; aṃśu \[word\]; thread.”
+------------------------------------------------------------------------
+- *bāhucyuto* ← *bāhu*
+- \[noun\], masculine
+- “arm; bāhu \[word\]; elbow; forefoot.”
+------------------------------------------------------------------------
+- *bāhucyuto* ← *cyutaḥ* ← *cyu*
+- \[verb noun\], nominative, singular
+- “fall down; issue; shoot; ejaculate; deviate; banish; drop;
+    dislodge; miss; deprive.”
+------------------------------------------------------------------------
+- *dhiṣaṇāyā* ← *dhiṣaṇāyāḥ* ← *dhiṣaṇā*
+- \[noun\], genitive, singular, feminine
+- “heaven and earth.”
+------------------------------------------------------------------------
+- *upasthāt* ← *upastha*
+- \[noun\], ablative, singular, neuter
+- “genitalia; lap; sexual desire; anus.”
+------------------------------------------------------------------------
+- *adhvaryor* ← *adhvaryoḥ* ← *adhvaryu*
+- \[noun\], genitive, singular, masculine
+- “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *pavitrāt* ← *pavitra*
+- \[noun\], ablative, singular, neuter
+- “strainer.”
+------------------------------------------------------------------------
+- *taṃ* ← *tam* ← *tad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *te* ← *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *juhomi* ← *hu*
+- \[verb\], singular, Present indikative
+- “sacrifice; offer; pour; worship.”
+------------------------------------------------------------------------
+- *manasā* ← *manas*
+- \[noun\], instrumental, singular, neuter
+- “mind; Manas; purpose; idea; attention; heart; decision; manas
+    \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
+------------------------------------------------------------------------
+- *vaṣaṭkṛtam* ← *vaṣaṭkṛ* ← *√kṛ*
+- \[verb noun\], accusative, singular
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे सोम **ते** त्वदीयः **यः** **द्रप्सः** रसः **स्कन्दति** अधिषवणचर्मणोऽन्यत्र गच्छति । **यः** च **ते** त्वदीयः **अंशुः** रसादितरः सन् स्कन्दति। **बाहुच्युतः** अध्वर्योर्बाहुभ्यां प्रच्युतः सन् स्कन्दति । यद्वा । बाहुवत्साधनभूता ग्रावाणः । तैः प्रच्युतोऽभिषुतः सन् **धिषणायाः** । धिषणेत्यधिषवणफलकनाम । प्रत्येकविवक्षयैकवचनम्। अधिषवणफलकयोः **उपस्थात्** समीपस्थात् प्रदेशादन्यत्र गच्छति। तथा **अध्वर्योर्वा** अभिषुण्वतोऽध्वर्योर्हस्तात् स्कन्दति। **वा** अपि वा **पवित्रात्** दशापवित्रात् **परि** स्कन्दति । तं सर्वं द्रप्सं **ते** त्वदीयं रसं **मनसा** अन्तःकरणेन स्तोत्रेण वा सह **वषट्कृतं** वषट्कारेण स्वाहाकारेण कृतं **जुहोमि** अग्नौ प्रक्षिपामि ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Soma**, which escapes (from the hide), your filaments which let fall from the **hands** (of the priestescape) from the vicinity of the plural nks (of the press), or (from the **hand**) of the **Adhvaryu**, or from the filter; I offer itall with my mind (to **Agni**) with the word vaṣat.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Your drop that spurts and your plant that is set in motion by the arms,  from the lap of the Holy Place,  
+or from the Adhvaryu or from the filter, that one of yours I offer with  my mind when the vaṣaṭ-cry is made.
+</details>
+
+<details><summary>+Griffith</summary>
+
+The Drop that falls, thy stalk which arms have shaken, which from the bosom of the press hath fallen,  
+     Or from the Adhvaryu's purifying filter, I offer thee with heart and cry of Vasat!
+</details>
+
+<details><summary>+Geldner</summary>
+
+Welcher Tropfen von dir daneben fällt, welche Stengel den Armen entfallen, aus dem Schoße der Dhisana oder aus der Hand des Adhvaryu oder von der Seihe, den opfere ich dir im Geiste mit Vasatrufe gesegnet.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Dein Tropfen, welcher herabfällt, dein von den Armen in Bewegung gesetzter Saft, der aus dem Schoosse der Schale herabfällt, sei es von dem Opferpriester her oder aus der Seihe, den giesse ich mit Verstand aus, den Opferruf sprechend. [Das Versmass verlangt vaṣaṭkŕt statt váṣaṭkṙtam].
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Какая капля проливается у тебя, какой сок у тебя,  
+Приведенный в движение руками, (вылился) из лона Дхишаны,  
+Или же у адхварью, или из цедилки,  
+Его я мыслью приношу в жертву с возгласом: Вашат!
+</details>

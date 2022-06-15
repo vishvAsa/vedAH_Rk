@@ -1,0 +1,177 @@
++++
+title = "018"
+devataa = "मरुतः"
+RShiH = "वसिष्ठः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+वि꣡ तिष्ठध्वम् मरुतो विक्षु꣡ इछ꣡त  
+गृभाय꣡त रक्ष꣡सः स꣡म् पिनष्टन  
+व꣡यो ये꣡ भूत्वी꣡ पत꣡यन्ति नक्त꣡भिर्  
+ये꣡ वा रि꣡पो दधिरे꣡ देवे꣡ अध्वरे꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+popular  
+popular  
+popular  
+popular
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वि । ति॒ष्ठ॒ध्व॒म् । म॒रु॒तः॒ । वि॒क्षु । इ॒च्छत॑ । गृ॒भा॒यत॑ । र॒क्षसः॑ । सम् । पि॒न॒ष्ट॒न॒ ।  
+वयः॑ । ये । भू॒त्वी । प॒तय॑न्ति । न॒क्तऽभिः॑ । ये । वा॒ । रिपः॑ । द॒धि॒रे । दे॒वे । अ॒ध्व॒रे ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *tiṣṭhadhvam* ← *sthā*
+- \[verb\], plural, Present imperative
+- “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
+    stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
+    last; dwell; lie; stand; stop.”
+------------------------------------------------------------------------
+- *maruto* ← *marutaḥ* ← *marut*
+- \[noun\], vocative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *vikṣv* ← *vikṣu* ← *viś*
+- \[noun\], locative, plural
+- “people; tribe; Vaisya; national; viś; real property; Vaisya.”
+------------------------------------------------------------------------
+- *icchata* ← *iṣ*
+- \[verb\], plural, Present imperative
+- “desire; recommend; approve; seek; call; search; try; prefer; love;
+    commend; assent; permit; choose.”
+------------------------------------------------------------------------
+- *gṛbhāyata* ← *gṛbhāy* ← *√grah*
+- \[verb\], plural, Present imperative
+- “accept.”
+------------------------------------------------------------------------
+- *rakṣasaḥ* ← *rakṣas*
+- \[noun\], accusative, plural, masculine
+- “Rākṣasa.”
+------------------------------------------------------------------------
+- *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *pinaṣṭana* ← *piṣ*
+- \[verb\], plural, Present imperative
+- “grind; knead; paste; crush; press out.”
+------------------------------------------------------------------------
+- *vayo* ← *vayaḥ* ← *vi*
+- \[noun\], nominative, plural, masculine
+- “vi; bird; vi.”
+------------------------------------------------------------------------
+- *ye* ← *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *bhūtvī* ← *bhū*
+- \[verb noun\]
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+------------------------------------------------------------------------
+- *patayanti* ← *patay* ← *√pat*
+- \[verb\], plural, Present indikative
+- “fly.”
+------------------------------------------------------------------------
+- *naktabhir* ← *naktabhiḥ* ← *nakta*
+- \[noun\], instrumental, plural, neuter
+- “night; night.”
+------------------------------------------------------------------------
+- *ye* ← *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *ripo* ← *ripaḥ* ← *rip*
+- \[noun\], accusative, plural, feminine
+- “deceiver.”
+------------------------------------------------------------------------
+- *dadhire* ← *dhā*
+- \[verb\], plural, Perfect indicative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *deve* ← *deva*
+- \[noun\], locative, singular, masculine
+- “divine.”
+------------------------------------------------------------------------
+- *adhvare* ← *adhvara*
+- \[noun\], locative, singular, masculine
+- “yajña; ceremony; adhvara \[word\].”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **मरुतः** यूयं **विक्षु** प्रजासु **वि** **तिष्ठध्वं** विविधं तिष्ठत । तत्र गूढान् राक्षसान् हन्तुम् **इच्छत** अन्विच्छत । तदनन्तरं **रक्षसः** तान् राक्षसान् **गृभायत** गृभ्णीत गृह्णीत । गृहीत्वा च **सं** **पिनष्टन** चूर्णयत । **ये** राक्षसाः **वयः** पक्षिणः **भूत्वी** भूत्वा **नक्तभिः** रात्रिभी रात्रिषु **पतयन्ति** आगच्छन्ति । **ये** **वा** ये च **देवे** दीप्ते **अध्वरे** यागे **रिपः** हिंसाः **दधिरे** विदधिरे । तान् राक्षसान् सं पिनष्टनेत्यन्वयः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Stay, **Maruts**, among the people, desirous (of protecting them); seize the **rākṣasas**, grind them intopieces; whether you fly about like birds at night, or whether they have offered obstruction to the sacred sacrifice.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Desirous of protecting them: or, be plural ased (to destroy the rākṣasas)
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Spread out among the clans, Maruts. Seek, grab, crush together the  demons—  
+the ones who, having become birds, fly through the nights, or those who  have deployed their swindles at the divine ceremony.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+I am not entirely certain why it is the Maruts who are tasked with the destruction of these creatures, though it is probably because the demons in question have taken the form of birds and therefore are moving in the midspace, which is the Maruts’ domain. Renou also cites the well-known relationship between the Maruts and the víś- (see vikṣú here), and these animal demons may be associated with the “folk.” The root noun ríp- is otherwise used of cheats and swindles (cf. also ripú- ‘cheating, swindler’), and I am reluctant to allow a sense ‘defilements’ only here -- though it is the almost universal solution of other tr. (Wh, Brown, Klein [DGRV II.149: “impurities”], Lommel “Unsauberes,” but cf. Geldner’s “Unredlichkeit” [dishonesty], which has a moral nuance). Deception and cheating are also characteristic of the animal-demons in this section: see the khargálā who conceals her own body “with deceit” (druhā́) in 17b, the flying dog-sorcerers that want to deceive Indra in 20b, and the oblation-stealers in 21b -- so the standard sense of rípfits the larger context. However, I do have to acknowledge that the root √rip does mean ‘smear’, and so ‘defilement’ is not out of the question.
+
+It is difficult to avoid taking devé here as an adjective ‘divine’, modifying adhvaré ‘ceremony’, a temptation that all tr. (including me) have succumbed to and that is endorsed by Oldenberg
+</details>
+
+<details><summary>+Griffith</summary>
+
+Spread out, ye Maruts, search among the people: seize ye and grind the Raksasas to pieces,  
+     Who fly abroad, transformed to birds, at night-time, or sully and pollute our holy worship.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Verteilet euch, ihr Marut, in den Ansiedlungen, suchet, nehmet fest, zerquetschet die Dunkelmänner, die in Vögel verwandelt des Nachts fliegen, oder die, die bei dem göttlichen Opfer Unredlichkeiten verüben.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Vertheilet euch, o Maruts, in den Häusern; sucht auf, ergreift, zermalmt die bösen Geister, Die Vögeln gleich hinschwirren durch die Nächte, und die mit Schmuz bewerfen heil'ges Opfer.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Рассеивайтесь, о Маруты, по поселениям: ищите,  
+Хватайте, давите ракшасов,  
+Которые летают по ночам, превратившись в птиц,  
+Или же которые совершают осквернения божественного обряда!
+</details>

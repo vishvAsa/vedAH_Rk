@@ -1,0 +1,160 @@
++++
+title = "002"
+devataa = "विश्वेदेवाः"
+RShiH = "वसुकर्णो वासुक्रः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+इन्द्रअग्नी꣡ वृत्रह꣡त्येषु स꣡त्पती  
+मिथो꣡ हिन्वाना꣡ तनु꣡वा स꣡मोकसा  
+अन्त꣡रिक्षम् म꣡हि आ꣡ पप्रुर् ओ꣡जसा  
+सो꣡मो घृतश्री꣡र् महिमा꣡नम् ईर꣡यन्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒न्द्रा॒ग्नी इति॑ । वृ॒त्र॒ऽहत्ये॑षु । सत्प॑ती॒ इति॒ सत्ऽप॑ती । मि॒थः । हि॒न्वा॒ना । त॒न्वा॑ । सम्ऽओ॑कसा ।  
+अ॒न्तरि॑क्षम् । महि॑ । आ । प॒प्रुः॒ । ओज॑सा । सोमः॑ । घृ॒त॒ऽश्रीः । म॒हि॒मान॑म् । ई॒रय॑न् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *indrāgnī* ← *indra*
+- \[noun\], masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *indrāgnī* ← *agnī* ← *agni*
+- \[noun\], nominative, dual, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *vṛtrahatyeṣu* ← *vṛtra*
+- \[noun\], masculine
+- “Vṛtra; vṛtra \[word\].”
+------------------------------------------------------------------------
+- *vṛtrahatyeṣu* ← *hatyeṣu* ← *hatya*
+- \[noun\], locative, plural, neuter
+- “killing.”
+------------------------------------------------------------------------
+- *satpatī* ← *sat*
+- \[noun\]
+- “good; good; real; existent; virtuous; sat \[prefix\]; real.”
+------------------------------------------------------------------------
+- *satpatī* ← *patī* ← *pati*
+- \[noun\], nominative, dual, masculine
+- “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
+    commanding officer; leader; owner; mayor; lord.”
+------------------------------------------------------------------------
+- *mitho* ← *mithas*
+- \[adverb\]
+- “together; mutually; alternately.”
+------------------------------------------------------------------------
+- *hinvānā* ← *hi*
+- \[verb noun\], nominative, dual
+- “impel; send; spur; stimulate; urge.”
+------------------------------------------------------------------------
+- *tanvā* ← *tanū*
+- \[noun\], accusative, dual, feminine
+- “body; self; own(a); person; form.”
+------------------------------------------------------------------------
+- *samokasā* ← *samokas*
+- \[noun\], nominative, dual, masculine
+------------------------------------------------------------------------
+- *antarikṣam* ← *antarikṣa*
+- \[noun\], accusative, singular, neuter
+- “sky; atmosphere; air; abhra.”
+------------------------------------------------------------------------
+- *mahy* ← *mahi*
+- \[noun\], accusative, singular, neuter
+- “great; firm.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *paprur* ← *papruḥ* ← *prā*
+- \[verb\], plural, Perfect indicative
+- “fill; satisfy.”
+------------------------------------------------------------------------
+- *ojasā* ← *ojas*
+- \[noun\], instrumental, singular, neuter
+- “strength; power; ojas; ojas \[word\]; potency; might.”
+------------------------------------------------------------------------
+- *somo* ← *somaḥ* ← *soma*
+- \[noun\], nominative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *ghṛtaśrīr* ← *ghṛtaśrīḥ* ← *ghṛtaśrī*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *mahimānam* ← *mahiman*
+- \[noun\], accusative, singular, masculine
+- “greatness; power; mahiman.”
+------------------------------------------------------------------------
+- *īrayan* ← *īray* ← *√īr*
+- \[verb noun\], nominative, singular
+- “name; describe; propel; shoot; state; call; raise; expel; tell;
+    enumerate.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**वृत्रहत्येषु** वृत्रहननेषु युद्धेषु । यद्वा । कर्मणि छान्दसः क्यप् । वृत्राणि शत्रवो हन्यन्तेऽत्रेति वृत्रहत्या युद्धानि । तेषु **मिथः** परस्परं **तन्वा** शरीरेण तत्रस्थेन बलेन शत्रून् **हिन्वाना** प्रेरयन्तौ **सत्पती** सतां पती **समोकसा** समानस्थानौ **इन्द्राग्नी** **घृतश्रीः** उदकं वसतीवर्याख्यं श्रयमाणः **महिमानम्** आत्मीयम् **ईरयन** सर्वत्रोदीरयन्नुद्गमयन् **सोमः** च एते सर्वे च **महि** महत् **अन्तरिक्षम्** **ओजसा** स्वबलेन **आ** **पपुः** आपूरयन्ति । ‘प्रा पूरणे' ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Indra**, and **Agni**, the lords of the virtuous, standing in the same plural ce, mutually invigorating each otherwith might in the **Vṛtra**-slaying battles, and the ghī-glorified **Soma** putting forth his greatness have filled the vastfirmament with their strength.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Ghī-glorified: ghṛtaśrī = having recourse to the Vasatīvari water
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Indra and Agni, the two lords of the settlement, spurring each other on  mutually in the smashing of obstacles, sharing the same home—  
+they (all) filled the great midspace with their might, as did Soma,  
+glorious with ghee, rousing their greatness.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Indra and Agni, Hero-lords when Vrtra fell, dwelling together, speeding emulously on,  
+     And Soma blent with oil, putting his greatness forth, have with their power filled full the mighty firmament.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Indra und Agni, die rechten Herren, die in den Vritrakämpfen sich gegenseitig selbst anspornen, die Hausgenossen, sie alle haben mit ihrer Kraft den großen Luftraum erfüllt, und Soma, der Schmalzgemischte, der ihre Macht hervorbringt.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Die Helden Indra, Agni in der Vritraschlacht, einander fördernd, miteinander engvereint, Durchdrangen ganz die weite Luft mit ihrer Kraft; der fettgemischte Soma steigert ihre Macht.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

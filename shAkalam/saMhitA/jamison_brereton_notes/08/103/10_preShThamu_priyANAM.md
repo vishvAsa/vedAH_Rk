@@ -1,6 +1,0 @@
-+++
-title = "10"
-
-+++
-I follow Oldenberg, Geldner, and Renou in taking āsāva as the voc. of a (hapax) PN, though it could be simply ‘o presser’ (ā́√su) as Grassmann takes it (and perhaps implicitly Mayrhofer, since it does not appear in his PN book). There are no implications either way.
-

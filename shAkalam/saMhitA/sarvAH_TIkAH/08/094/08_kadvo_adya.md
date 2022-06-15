@@ -1,0 +1,124 @@
++++
+title = "008"
+devataa = "मरुतः"
+RShiH = "बिन्दुः पूतदक्षो वा"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+क꣡द् वो अद्य꣡ महा꣡नां᳐  
+देवा꣡ना᳐म् अ꣡वो वृणे  
+त्म꣡ना च दस्म꣡वर्चसाम्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+कत् । वः॒ । अ॒द्य । म॒हाना॑म् । दे॒वाना॑म् । अवः॑ । वृ॒णे॒ ।  
+त्मना॑ । च॒ । द॒स्मऽव॑र्चसाम् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *kad* ← *ka*
+- \[noun\], accusative, singular, neuter
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *vo* ← *vaḥ* ← *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+------------------------------------------------------------------------
+- *mahānāṃ* ← *mahānām* ← *maha*
+- \[noun\], genitive, plural, masculine
+- “great; abundant.”
+------------------------------------------------------------------------
+- *devānām* ← *deva*
+- \[noun\], genitive, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *avo* ← *avaḥ* ← *avas*
+- \[noun\], accusative, singular, neuter
+- “aid; favor; protection.”
+------------------------------------------------------------------------
+- *vṛṇe* ← *vṛ*
+- \[verb\], singular, Present indikative
+- “choose; ask.”
+------------------------------------------------------------------------
+- *tmanā* ← *tman*
+- \[noun\], instrumental, singular, masculine
+- “self.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *dasmavarcasām* ← *dasma*
+- \[noun\]
+- “fantastic; extraordinary.”
+------------------------------------------------------------------------
+- *dasmavarcasām* ← *varcasām* ← *varcas*
+- \[noun\], genitive, plural, masculine
+- “shininess; vigor; fecal matter; glare; magnificence; energy;
+    prestige; energy; glory; luster; light; varcas \[word\]; glory; body
+    waste; droppings; color.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे मरुतः **महानां** मंहनीयानां महतां वा **त्मना** **च** आत्मनैवालंकरणैर्विनापि **दस्मवर्चसां** दर्शनीयतेजस्कानामत एव **देवानां** द्योतमानानां **वः** युष्माकम् **अवः** पालनं **कत्** कदाहं **वृणे** संभजे । वृङ् संभक्तौ' । क्रैयादिकः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“O shall I today possess your protection, mighty deities, beautiful bright in yourselves (thoughunadorned)?”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Do I today choose the help of you gods, who are great  
+and by nature of wondrous luster?
+</details>
+
+<details><summary>+Griffith</summary>
+
+What favour do I claim this day of you  
+     great Deities, you who are  
+     Wondrously splendid in yourselves?
+</details>
+
+<details><summary>+Geldner</summary>
+
+Welche Gunst erbitte ich heute von den großen Göttern, und die selbst von vollkommenem Glanze sind?
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Wie find' ich heute eure Gunst, die ihr erhabene Götter seid, Und wunderherrlich selbst erstrahlt?
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Какую милость я выбираю себе сегодня  
+У вас, великих богов,  
+Чей блеск сам по себе удивителен?
+</details>

@@ -1,0 +1,128 @@
++++
+title = "004"
+devataa = "पवमानः सोमः"
+RShiH = "त्रितः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+तिस्रो꣡ वा꣡च उ꣡द् ईरते  
+गा꣡वो मिमन्ति धेन꣡वः  
+ह꣡रिर् एति क꣡निक्रदत्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ति॒स्रः । वाचः॑ । उत् । ई॒र॒ते॒ । गावः॑ । मि॒म॒न्ति॒ । धे॒नवः॑ ।  
+हरिः॑ । ए॒ति॒ । कनि॑क्रदत् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *tisro* ← *tisraḥ* ← *tri*
+- \[noun\], nominative, plural, feminine
+- “three; tri/tisṛ \[word\].”
+------------------------------------------------------------------------
+- *vāca* ← *vācaḥ* ← *vāc*
+- \[noun\], nominative, plural, feminine
+- “speech; statement; voice; voice; speech; language; vāc \[word\];
+    word; literary composition; conversation; sound; Sarasvati; cry;
+    assurance; spell.”
+------------------------------------------------------------------------
+- *ud*
+- \[adverb\]
+- “up.”
+------------------------------------------------------------------------
+- *īrate* ← *īr*
+- \[verb\], plural, Present indikative
+- “go.”
+------------------------------------------------------------------------
+- *gāvo* ← *gāvaḥ* ← *go*
+- \[noun\], nominative, plural, masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *mimanti* ← *mā*
+- \[verb\], plural, Present indikative
+- “moo; howl.”
+------------------------------------------------------------------------
+- *dhenavaḥ* ← *dhenu*
+- \[noun\], nominative, plural, feminine
+- “cow; dhenu \[word\]; milk.”
+------------------------------------------------------------------------
+- *harir* ← *hariḥ* ← *hari*
+- \[noun\], nominative, singular, masculine
+- “reddish brown; yellow; pale; yellow; aureate.”
+------------------------------------------------------------------------
+- *eti* ← *i*
+- \[verb\], singular, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *kanikradat* ← *kanikrad* ← *√krand*
+- \[verb noun\], nominative, singular
+- “roar; neigh.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**तिस्रो** वाचः । ऋगादिभेदेन त्रिविधा स्तुतिः । उदीरते प्रोद्गमयन्त्यृत्विजः । **धेनवः** आशिरेण प्रीणयित्र्यः **गावः** **मिमन्ति** शब्दयन्ति दोहार्थम् । **हरिः** हरितवर्णश्च सोमः **कनिक्रदत्** शब्दं कुर्वन् **एति** गच्छति कलशम् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The priests utter the three sacred texts, the kine low (on being milked),, the green-tinted **Soma** goes sounding (to the vessels).”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+The three sacred texts: the three **vedas**
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+The three voices rise up, the milk-cows bellow,  
+and the tawny one goes ever roaring.1264 IX.34
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+On the three voices, see published introduction.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Three several words are uttered: kine are ]owing, cows who give their milk:  
+     The Tawny-hued goes bellowing on.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Dreierlei Reden heben an, die Milchkühe brüllen, wiehernd geht der Falbe.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Drei Lieder werden angestimmt; die Kühe brüllen milchbegabt Und wiehernd geht das goldne Ross.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Возносятся три речи,  
+Мычат дойные коровы,  
+Движется золотистый, громко ревя.
+</details>

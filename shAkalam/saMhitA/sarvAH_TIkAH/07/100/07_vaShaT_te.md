@@ -1,0 +1,175 @@
++++
+title = "007"
+devataa = "विष्णुः"
+RShiH = "वसिष्ठः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+व꣡षट् ते विष्णव् आस꣡ आ꣡ कृणोमि  
+त꣡न् मे जुषस्व शिपिविष्ट हव्य꣡म्  
+व꣡र्धन्तु त्वा सुष्टुत꣡यो गि꣡रो मे  
+यूय꣡म् पात सुअस्ति꣡भिः स꣡दा नः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M;; repeated line  
+genre M;; repeated line  
+genre M;; repeated line  
+genre M;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वष॑ट् । ते॒ । वि॒ष्णो॒ इति॑ । आ॒सः । आ । कृ॒णो॒मि॒ । तत् । मे॒ । जु॒ष॒स्व॒ । शि॒पि॒ऽवि॒ष्ट॒ । ह॒व्यम् ।  
+वर्ध॑न्तु । त्वा॒ । सु॒ऽस्तु॒तयः॑ । गिरः॑ । मे॒ । यू॒यम् । पा॒त॒ । स्व॒स्तिऽभिः॑ । सदा॑ । नः॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *vaṣaṭ*
+- \[adverb\]
+- “vaṣaṭ!; vaṣat \[word\].”
+------------------------------------------------------------------------
+- *te* ← *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *viṣṇav* ← *viṣṇo* ← *viṣṇu*
+- \[noun\], vocative, singular, masculine
+- “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
+------------------------------------------------------------------------
+- *āsa* ← *āsaḥ* ← *ās*
+- \[noun\], ablative, singular, neuter
+- “mouth.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *kṛṇomi* ← *kṛ*
+- \[verb\], singular, Present indikative
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *tan* ← *tat* ← *tad*
+- \[noun\], accusative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *me* ← *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *juṣasva* ← *juṣ*
+- \[verb\], singular, Present imperative
+- “enjoy; endow; possess; frequent; accompany; induce; consume;
+    approve; affect; attend; befit; blend; contract.”
+------------------------------------------------------------------------
+- *śipiviṣṭa*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------
+- *havyam* ← *havya*
+- \[noun\], accusative, singular, neuter
+- “Havya; offering; havya \[word\].”
+------------------------------------------------------------------------
+- *vardhantu* ← *vṛdh*
+- \[verb\], plural, Present imperative
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+------------------------------------------------------------------------
+- *tvā* ← *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *suṣṭutayo* ← *suṣṭutayaḥ* ← *suṣṭuti*
+- \[noun\], nominative, plural, feminine
+- “hymn; praise.”
+------------------------------------------------------------------------
+- *giro* ← *giraḥ* ← *gir*
+- \[noun\], nominative, plural, feminine
+- “hymn; praise; voice; words; invocation; command; statement; cry;
+    language.”
+------------------------------------------------------------------------
+- *me* ← *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *yūyam* ← *tvad*
+- \[noun\], nominative, plural
+- “you.”
+------------------------------------------------------------------------
+- *pāta* ← *pā*
+- \[verb\], plural, Present imperative
+- “protect; govern.”
+------------------------------------------------------------------------
+- *svastibhiḥ* ← *svasti*
+- \[noun\], instrumental, plural, feminine
+- “prosperity; well-being; fortune; benediction; svasti \[word\];
+    well; luck.”
+------------------------------------------------------------------------
+- *sadā*
+- \[adverb\]
+- “always; continually; always; perpetually.”
+------------------------------------------------------------------------
+- *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+व्याख्यातेयम् अक्षरार्थस्तु हे विष्णो तुभ्यं आस्यात् आस्येन वषट्करोमि वषट्कृतं तन्मदीयं हविः हे शिपिविष्ट सेवस्व शोभनस्तुतिरूपा- मदीयावाचश्च त्वां वर्धयन्त्विति । शिष्टपादः सिद्धः ॥ ७ ॥वेदार्थस्यप्रकाशेन तमोहार्दन्निवारयन् । पुमर्थांश्चतुरोदेयाद्विद्यातीर्थमहेश्वरः ॥ १ ॥इतिश्रीमद्राजाधिराजपरमेश्वरवैदिकमार्गप्रवर्तकश्रीवीरबुक्कभूपालसाम्राज्यधुरन्धरेण सायणाचार्येणविरचितेमाधवीयेवेदार्थप्रकाशेऋक्संहिताभाष्येपञ्चमाष्टकेषष्ठोध्यायः ॥ ६ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“I offer, **Viṣṇu**, the oblation plural ced before you with the exclamation **Vaṣaṭ**; be plural ased, **Śipiviṣṭa**, withmy offering; may my laudatory hymns magnify you and do you (gods) ever cherish us with blessings.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+I make the vaṣaṭ-cry to you from my mouth, Viṣṇu. Enjoy this oblation  of mine, Śipiviṣṭa.  
+Let my lovely praises, my hymns strengthen you. – Do you protect us  always with your blessings.
+</details>
+
+<details><summary>+Griffith</summary>
+
+O Visnu, unto thee my lips cry Vasat! Let this mine offering, Sipivista, please thee.  
+     May these my songs of eulogy exalt thee. Preserve us evermore, ye Gods, with blessings.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Ich mache dir, Vishnu, aus meinem Munde das Vasat, laß dir dieses Opfer von mir munden, o Sipivista. Es sollen dich meine Preislieder, meine Lobesworte erbauen.-Behütet ihr uns immerdar mit eurem Segen!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Den Heilsruf bringe ich dir dar, o Vischnu, nimm gnädig an dies Opfer, Çipivischta; Dich mögen stärken meine Lobgesänge. Ihr Götter, schützt uns stets mit eurem Segen.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Вашат! – возглашаю я тебе устами, о Вишну,  
+Да понравится тебе эта моя жертва, Шипивишта!  
+Да усилят тебя мои прекрасные прославления, (мои) песни!  
+Защищайте вы нас всегда (своими) милостями!
+</details>

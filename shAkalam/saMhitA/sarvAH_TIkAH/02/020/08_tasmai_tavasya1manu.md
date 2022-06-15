@@ -1,0 +1,173 @@
++++
+title = "008"
+devataa = "इन्द्रः"
+RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+त꣡स्मै तवसि꣡यम् अ꣡नु दायि सत्रा꣡  
+इ꣡न्द्राय · देवे꣡भिर् अ꣡र्णसातौ  
+प्र꣡ति य꣡द् अस्य व꣡ज्रम् बाहुवो꣡र् धु꣡र्  
+हत्वी꣡ द꣡स्यून् पु꣡र आ꣡यसीर् नि꣡ तारीत्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तस्मै॑ । त॒व॒स्य॑म् । अनु॑ । दा॒यि॒ । स॒त्रा । इन्द्रा॑य । दे॒वेभिः॑ । अर्ण॑ऽसातौ ।  
+प्रति॑ । यत् । अ॒स्य॒ । वज्र॑म् । बा॒ह्वोः । धुः । ह॒त्वी । दस्यू॑न् । पुरः॑ । आय॑सीः । नि । ता॒री॒त् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *tasmai* ← *tad*
+- \[noun\], dative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *tavasyam* ← *tavasya*
+- \[noun\], nominative, singular, neuter
+------------------------------------------------------------------------
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *dāyi* ← *dā*
+- \[verb\], singular, Aorist passive
+- “give; add; perform; put; administer; fill into; give; ignite; put
+    on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
+    drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
+    splint; poultice; create.”
+------------------------------------------------------------------------
+- *satrendrāya* ← *satrā*
+- \[adverb\]
+------------------------------------------------------------------------
+- *satrendrāya* ← *indrāya* ← *indra*
+- \[noun\], dative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *devebhir* ← *devebhiḥ* ← *deva*
+- \[noun\], instrumental, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *arṇasātau* ← *arṇa*
+- \[noun\], masculine
+- “wave; flood.”
+------------------------------------------------------------------------
+- *arṇasātau* ← *sātau* ← *sāti*
+- \[noun\], locative, singular, feminine
+- “victory; acquisition; contest.”
+------------------------------------------------------------------------
+- *prati*
+- \[adverb\]
+- “towards; per; regarding; respectively; according to; until.”
+------------------------------------------------------------------------
+- *yad* ← *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *asya* ← *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *vajram* ← *vajra*
+- \[noun\], accusative, singular, masculine
+- “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
+    vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
+------------------------------------------------------------------------
+- *bāhvor* ← *bāhvoḥ* ← *bāhu*
+- \[noun\], locative, dual, masculine
+- “arm; bāhu \[word\]; elbow; forefoot.”
+------------------------------------------------------------------------
+- *dhur* ← *dhuḥ* ← *dhā*
+- \[verb\], plural, Aorist inj. (proh.)
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *hatvī* ← *han*
+- \[verb noun\]
+- “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
+    paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
+    affect; strike; hammer; love; obstruct; shoot.”
+------------------------------------------------------------------------
+- *dasyūn* ← *dasyu*
+- \[noun\], accusative, plural, masculine
+- “savage; outcast; mugger.”
+------------------------------------------------------------------------
+- *pura* ← *puraḥ* ← *pur*
+- \[noun\], accusative, plural, feminine
+- “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
+------------------------------------------------------------------------
+- *āyasīr* ← *āyasīḥ* ← *āyasa*
+- \[noun\], accusative, plural, feminine
+- “iron; metallic.”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *tārīt* ← *tṛ*
+- \[verb\], singular, Aorist inj. (proh.)
+- “traverse; overcome; float; rescue; reach; satisfy.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+देवेभिर्देवनशीलैः स्तोतृभिः अर्णसातौ उदकलाभेनिमित्ते तस्माइन्द्रायतवस्यन्तवसे बलायहितं बलवर्धनंहविः सत्रासन्तं सर्वेष्वहस्सुअनुअनुक्रमेणसवनत्रयेदायिअदायि यद्वा तवस्यंयद्बलं प्रवृद्धाय- दीयते तत्तवस्यं देवेभिर्देवैरुदकभजने अनुक्रमेणतद्बलन्तस्माइन्द्रायादायि तथामन्त्रः—अनुतेदायिमह इन्द्रियायेति । यद्यदाअस्येन्द्रस्यबाह्वोर्वज्रम्प्रतिधुः स्तोतारोसुरवधसूचकेनस्तोत्रेणप्रतिनिदधुः स्तूय मानोहीन्द्रोदस्युवधार्थं वज्रमादत्ते दधुः दधातेर्लुङि गातिस्थेतिसिचोलुक् आतइतिझेर्जुस् ततस्तेन वज्रेणदस्यूनसुरान् हत्वीहत्वा तन्दीयाआयसीरयोमयीः पुरोनितारीत् नितरामनाशयत् ॥ ८ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Vigour has been perpetually imparted to **Indra** by his worshippers (with oblations), for the sake of obtaining rain; for which purpose they have plural ced the thunderbolt in his **hands**, wherewith,having slain the **Dasyus**, he has destroyed their metal cities.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+In every way might was conceded by the gods to him, to Indra, at the  winning of the flood.  
+When they put his mace in his arms, after smashing the Dasyu he  
+trampled their metal fortresses.
+</details>
+
+<details><summary>+Griffith</summary>
+
+To him in might the Gods have ever yielded, to Indra in the tumult of thebattle.  
+     When in his arms they laid the bolt, he slaughtered the Dasyus and cast down their forts of iron.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Diesem Indra ward von den Göttern im Kampf um das Wasser ganz und gar die Überlegenheit zugestanden. Als sie ihm die Keule in die Arme legten, da erschlug er die Dasyu´s und warf die ehernen Burgen nieder.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Ihm standen nach an Heldenkraft die Götter, dem Indra alle bei dem Kampf um Fluten; Als sie den Blitz gelegt ihm in die Arme, erschlug die Feind' er, nahm die eh'rnen Burgen.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Этому Индре досталась от богов  
+Вся храбрость при завоевании вод.  
+Когда ему вложили в руки дубину грома,  
+Убив дасью, он низверг их железные крепости.
+</details>

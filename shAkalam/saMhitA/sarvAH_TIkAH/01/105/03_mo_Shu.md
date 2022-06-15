@@ -1,0 +1,176 @@
++++
+title = "003"
+devataa = "विश्वेदेवाः"
+RShiH = "आप्त्यस्त्रितः कुत्स आङ्गिरसो वा"
+ChandaH = "पङ्क्तिः"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+मो꣡ षु꣡ देवा अदः꣡ सु꣡वर्  
+अ꣡व पादि दिव꣡स् प꣡रि  
+मा꣡ सोमिय꣡स्य शम्भु꣡वः  
+शू꣡ने भूम क꣡दा चन꣡  
+वित्त꣡म् मे अस्य꣡ रोदसी
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+## Strata
+Cretic
+
+## Pāda-label
+genre M  
+genre M  
+genre M  
+genre M  
+genre M;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+मो इति॑ । सु । दे॒वाः॒ । अ॒दः । स्वः॑ । अव॑ । पा॒दि॒ । दि॒वः । परि॑ ।  
+मा । सो॒म्यस्य॑ । श॒म्ऽभुवः॑ । शूने॑ । भू॒म॒ । कदा॑ । च॒न । वि॒त्तम् । मे॒ । अ॒स्य । रो॒द॒सी॒ इति॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *mo* ← *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *mo* ← *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *ṣu* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *devā* ← *devāḥ* ← *deva*
+- \[noun\], vocative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *adaḥ* ← *adas*
+- \[noun\], nominative, singular, neuter
+- “that; John Doe; yonder; from here.”
+------------------------------------------------------------------------
+- *svar*
+- \[adverb\]
+- “sun; sky; sunlight.”
+------------------------------------------------------------------------
+- *ava*
+- \[adverb\]
+- “down.”
+------------------------------------------------------------------------
+- *pādi* ← *pad*
+- \[verb\], singular, Aorist passive
+- “fall.”
+------------------------------------------------------------------------
+- *divas* ← *div*
+- \[noun\], ablative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *somyasya* ← *somya*
+- \[noun\], genitive, singular, masculine
+- “saumya.”
+------------------------------------------------------------------------
+- *śambhuvaḥ* ← *śambhu*
+- \[noun\], genitive, singular, masculine
+- “kind; benevolent.”
+------------------------------------------------------------------------
+- *śūne* ← *śūna*
+- \[noun\], locative, singular, neuter
+- “lack; absence.”
+------------------------------------------------------------------------
+- *bhūma* ← *bhū*
+- \[verb\], plural, Aorist inj. (proh.)
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+------------------------------------------------------------------------
+- *kadācana*
+- \[adverb\]
+- “ever; sometimes.”
+------------------------------------------------------------------------
+- *vittam* ← *vid*
+- \[verb\], dual, Present imperative
+- “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
+    specify; watch; recognize; detect; call.”
+------------------------------------------------------------------------
+- *me* ← *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *asya* ← *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *rodasī* ← *rodas*
+- \[noun\], vocative, dual, neuter
+- “heaven and earth; Earth.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **देवाः** **स्वः** स्वर्गे वर्तमानम् **अदः** तदस्मदीयं पितृपितामहप्रपितामहात्मकं संतानं **दिवस्परि** दिवश्चोपरि वर्तमानं **मो** **षु** मैव **अव** **पादि** अवपन्नं विपन्नं प्रभ्रष्टं मा भूत् मम पुत्राभावात् । पुत्रेण लोकान् जयति ‘नापुत्रस्य लोकोऽस्ति ' ( ऐ.ब्रा. ७. १३ ) इति श्रुतेः । अतो वयं **सोम्यस्य** सोमपानार्हस्य पितृगणस्य **शंभुवः** सुखस्य भावयितुः पुत्रस्य **शूने** अपगमने **कदा** **चन** कदाचिदपि **मा** **भूम** । युष्मत्प्रसादात् मम पुत्रा जायन्ताम् । अतो मामस्माद्दुःखादुत्तारयतेत्यर्थः। हे द्यावापृथिव्यौ युवां च मदीयं विज्ञापनं जानीतम् ॥ मो। मा उ इति निपातद्वयसमुदायः मैवेत्यस्यार्थे । सु इत्येतदवधारणे । ‘ सुञः' इति षत्वम् । पादि ।' पद गतौ ।' चिण् ते पदः ' ( पा. सू. ३. १. ६० ) इति कर्तरि लुङि च्लेः चिणादेशः । दिवः । ‘ ऊडिदम्' इति विभक्तेरुदात्तत्वम् । ‘पञ्चम्याः परावध्यर्थे ' इति विसर्जनीयस्य सत्वम् । सोम्यस्य ।' सोममर्हति यः' ( पा. सू. ४. ४. १३७ ) इति यप्रत्ययः । शंभुवः । भवतेरन्तर्भावितण्यर्थात् क्विप् । शूने। ‘टुओश्वि गतिवृद्धयोः' । भावे निष्ठा। ‘ श्वीदितो निष्टायाम्' इति इट्प्रतिषेधः । ‘वचिस्वपि ' इत्यादिना संप्रसारणम् । ‘ओदितश्च' (पा. सू. ८. २. ४५) इति निष्ठानत्वम् । व्यत्ययेनाद्युदात्तत्वम् । वृषादिर्वा द्रष्टव्यः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+## English translation:
+
+“Never, Gods, may this (my ancestry), abiding above in heaven, be excluded (from it); never may we be in want (of a son), the cause of joy (to his progenitors), entitled to libations of the **Soma**. Heaven and earth, be conscious of this (my affliction).”
+
+## Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Be excluded from it: **Trita** anticipates for himself a failure of posterity: 'by a son a man conquers the worlds; there is no world (**loka**) for one who has no son' (nāputrasya lokosti) (**Aitareya** **Brāhmaṇa** 7.13)
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Let not, o gods, yonder sun fall down [/be miscarried] from heaven. Let us never be in want of the beneficial somian (sap).  
+– Take heed of this (speech) of mine, you two world-halves.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+The first half-verse expresses fears about cosmic order, the second about earthly order as maintained by the sacrifice. The verb in b, áva pādi, also picks up the sex/procreation theme of 2cd, in that áva √pad is an idiom specialized for miscarriage (Jamison, Hyenas, 203-4).
+</details>
+
+<details><summary>+Griffith</summary>
+
+O never may that light, ye Gods, fall from its station in the sky.  
+     Ne'er fail us one like Soma sweet, the spring of our felicity. Mark this my woe ye Earth and Heaven.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Möchte, ihr Götter, jene Sonne doch nicht vom Himmel fallen, möchten wir niemals des heilsamen somischen Tranks entbehren.- Seid in solcher Lage, meiner Eingedenk, Himmel und Erde!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Nie falle jene Sonne dort herab vom Himmel, Götter ihr, Und nimmer mangle uns der Saft des heilbegabten Somatranks. Bezeugt mir, Erd' und Himmel, das.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Да не упадет, о боги,  
+Вот то солнце вниз!  
+Да не лишимся мы никогда  
+Благословенной (влаги) сомы!  
+О Небо и Земля, узнайте обо мне (в таком положении)!
+</details>

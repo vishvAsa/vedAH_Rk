@@ -1,0 +1,134 @@
++++
+title = "007"
+devataa = "अश्विनौ"
+RShiH = "गोपवन आत्रेयः सप्तवध्रिर्वा"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अ꣡वन्तम् अ꣡त्रये गृहं꣡  
+कृणुतं꣡ युव꣡म् अश्विना  
+अ꣡न्ति षद् भूतु वाम् अ꣡वः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अव॑न्तम् । अत्र॑ये । गृ॒हम् । कृ॒णु॒तम् । यु॒वम् । अ॒श्वि॒ना॒ ।  
+अन्ति॑ । सत् । भू॒तु॒ । वा॒म् । अवः॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *avantam* ← *av*
+- \[verb noun\], accusative, singular
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *atraye* ← *atri*
+- \[noun\], dative, singular, masculine
+- “Atri; Atri; atri \[word\].”
+------------------------------------------------------------------------
+- *gṛhaṃ* ← *gṛham* ← *gṛha*
+- \[noun\], accusative, singular, masculine
+- “house; palace; temple; home; place; family; family; stable.”
+------------------------------------------------------------------------
+- *kṛṇutaṃ* ← *kṛṇutam* ← *kṛ*
+- \[verb\], dual, Present imperative
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *yuvam* ← *tvad*
+- \[noun\], nominative, dual
+- “you.”
+------------------------------------------------------------------------
+- *aśvinā* ← *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *anti*
+- \[adverb\]
+------------------------------------------------------------------------
+- *ṣad* ← *sat* ← *as*
+- \[verb noun\], nominative, singular
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *bhūtu* ← *bhū*
+- \[verb\], singular, Aorist imperative
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+------------------------------------------------------------------------
+- *vām* ← *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *avaḥ* ← *avas*
+- \[noun\], nominative, singular, neuter
+- “aid; favor; protection.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **अश्विना** **युवं** युवाम् **अत्रये** अग्न्यागारे दह्यमानाय **अवन्तं** रक्षन्तं **गृहं** **कृणुतं** कृतवन्तौ । तादृशयोः **वामवः** भवतु । अवन्तमिति व्यत्ययेन पुँल्लिङ्गता ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Aśvins**, you made a sheltering house for **Atri**; let your protection abide near me.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+A sheltering house:when being burned in the cell of the consecrated fire
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+You made a helpful house for Atri, o Aśvins.  
+– Let the help of you two become truly nearby.
+</details>
+
+<details><summary>+Griffith</summary>
+
+For Atri ye, O Asvins, made a dwellingplace to shield him well,  
+     Let your protecting help be near.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Ihr Asvin machtet dem Atri ein schützendes Haus. - Eure Gnade soll gegenwärtig sein!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Erquickend, Ritter, machtet ihr dem Atri seines Hauses Sitz; Es sei uns eure Hülfe nah.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Сделайте вы, о Ашвины,  
+Для Атрии защитный дом!  
+Пусть ваша помощь будет рядом!
+</details>

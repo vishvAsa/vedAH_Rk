@@ -1,0 +1,140 @@
++++
+title = "004"
+devataa = "इन्द्रः"
+RShiH = "त्रिशोकः काण्वः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+आ꣡ बुन्दं꣡ वृत्रहा꣡ ददे  
+जातः꣡ पृछद् वि꣡ मात꣡रम्  
+क꣡ उग्राः꣡ के꣡ ह शृण्विरे
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ । बु॒न्दम् । वृ॒त्र॒ऽहा । द॒दे॒ । जा॒तः । पृ॒च्छ॒त् । वि । मा॒तर॑म् ।  
+के । उ॒ग्राः । के । ह॒ । शृ॒ण्वि॒रे॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *bundaṃ* ← *bundam* ← *bunda*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *vṛtrahā* ← *vṛtrahan*
+- \[noun\], nominative, singular, masculine
+- “Indra.”
+------------------------------------------------------------------------
+- *dade* ← *dā*
+- \[verb\], singular, Perfect indicative
+- “give; add; perform; put; administer; fill into; give; ignite; put
+    on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
+    drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
+    splint; poultice; create.”
+------------------------------------------------------------------------
+- *jātaḥ* ← *jan*
+- \[verb noun\], nominative, singular
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+------------------------------------------------------------------------
+- *pṛcchad* ← *pṛcchat* ← *pracch*
+- \[verb\], singular, Present injunctive
+- “ask; ask; ask; consult; interrogate.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *mātaram* ← *mātṛ*
+- \[noun\], accusative, singular, feminine
+- “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
+    Citrullus colocynthis Schrad.; cow.”
+------------------------------------------------------------------------
+- *ka* ← *ke* ← *ka*
+- \[noun\], nominative, plural, masculine
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *ugrāḥ* ← *ugra*
+- \[noun\], nominative, plural, masculine
+- “powerful; awful; dangerous; intense; mighty; potent; colicky;
+    atrocious.”
+------------------------------------------------------------------------
+- *ke* ← *ka*
+- \[noun\], nominative, plural, masculine
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *ha*
+- \[adverb\]
+- “indeed; ha \[word\].”
+------------------------------------------------------------------------
+- *śṛṇvire* ← *śru*
+- \[verb\], plural, Present indikative
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**जातः** उत्पन्नः **वृत्रहा** इन्द्रः **बुन्दम्** इषुम् । तथा च यास्कः-- बुन्द इषुर्भवति' (निरु. ६. ३२) इति । **आ** **ददे** । आदाय च इषुम् **उग्राः** उद्गूर्णबलाः **के** **के** च **श्रृण्विरे** वीर्येण विश्रुता इति स्वमातरं **वि** **पृच्छत्** अप्राक्षीत् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The slayer of **Vṛtra**, as soon as he was born, seized his arrow, and asked his mother, "who are theterrible, who are renowned?"”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+The Vr̥tra-smiter took the Bunda-bow; just born, he asked his mother: “Which ones are powerful; which ones are famed?”
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+The bunda bow is the weapon Indra uses to kill the boar Emuṣa, in a rarely told myth. (See esp. VIII.77.1-2.) Its phonology sets a non-Indo-Aryan scene.
+
+Geldner renders ké ha śṛṇvire as “Wie heissen sie?” This is certainly possible, although I prefer my tr.
+</details>
+
+<details><summary>+Griffith</summary>
+
+The new-born Vrtra-slayer asked his Mother, as he seized his shaft,  
+     Who are the fierce? Who are renowned?
+</details>
+
+<details><summary>+Geldner</summary>
+
+Eben geboren griff der Vritratöter nach dem Bundabogen und fragte die Mutter aus: Wer sind die Gewaltigen, wie heißen sie?
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Der Vritratödter nahm den Pfeil, geboren fragt die Mutter er: Wer ist gewaltig, wer berühmt?
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Убийца Вритры взялся за стрелу,  
+Едва родившись, (и) стал расспрашивать мать:  
+Кто грозные, как они зовутся?
+</details>

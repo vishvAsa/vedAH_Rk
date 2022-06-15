@@ -1,0 +1,134 @@
++++
+title = "009"
+devataa = "अश्विनौ"
+RShiH = "विश्वमना वैयश्वः व्यश्वो वाङ्गिरसः"
+ChandaH = "उष्णिक्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+वयं꣡ हि꣡ वां ह꣡वामह  
+उक्षण्य꣡न्तो विअश्वव꣡त्  
+सुमति꣡भिर् उ꣡प विप्राव् इहा꣡ गतम्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+व॒यम् । हि । वा॒म् । हवा॑महे । उ॒क्ष॒ण्यन्तः॑ । व्य॒श्व॒ऽवत् ।  
+सु॒म॒तिऽभिः॑ । उप॑ । वि॒प्रौ॒ । इ॒ह । आ । ग॒त॒म् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *vayaṃ* ← *vayam* ← *mad*
+- \[noun\], nominative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *vāṃ* ← *vām* ← *tvad*
+- \[noun\], accusative, dual
+- “you.”
+------------------------------------------------------------------------
+- *havāmaha* ← *havāmahe* ← *hvā*
+- \[verb\], plural, Present indikative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *ukṣaṇyanto* ← *ukṣaṇyantaḥ* ← *ukṣaṇy*
+- \[verb noun\], nominative, plural
+------------------------------------------------------------------------
+- *vyaśvavat* ← *vyaśva*
+- \[noun\], masculine
+------------------------------------------------------------------------
+- *vyaśvavat* ← *vat*
+- \[adverb\]
+- “equally; like.”
+------------------------------------------------------------------------
+- *sumatibhir* ← *sumatibhiḥ* ← *sumati*
+- \[noun\], instrumental, plural, feminine
+- “benevolence; favor; Sumati.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *viprāv* ← *viprau* ← *vipra*
+- \[noun\], vocative, dual, masculine
+- “Brahmin; poet; singer; priest; guru; Vipra.”
+------------------------------------------------------------------------
+- *ihā* ← *iha*
+- \[adverb\]
+- “here; now; in this world; now; below; there; here; just.”
+------------------------------------------------------------------------
+- *ihā* ← *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *gatam* ← *gam*
+- \[verb\], dual, Aorist imperative
+- “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
+    leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
+    get; come; die; drain; spread; transform; happen; discharge; ride;
+    to be located; run; detect; refer; go; shall; drive.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**उक्षण्यन्तः** धनादिसेक्तारावात्मन इच्छन्तः **वयं** वां **हि** धनादीनां प्रत्तारौ युवामेव **हवामहे** तल्लाभार्थमाह्वयामः । तत्र दृष्टान्तः । **व्यश्ववत्** । यथास्माकं पिता युवामेव स्तुत्वा धनमलभत तद्वत् । हे **विप्रौ** मेधाविनावश्विनौ **सुमतिभिः** अस्माभिः क्रियमाणैः कल्याणैः स्तोत्रैः सह । यद्वा । सुमतिभिः शोभनाभिरनुग्रहबुद्धिभिः सह । **इह** अस्मिन् यागदिने उप **आ** **गतम्** उपागच्छतम् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Desirous of you who are bestowers of wealth, we invoke you, as did (your father) **Vyaśva**; come,sagacious **Aśvins**, here with favourable intentions.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Because we call upon you, (we) seeking bulls like Vyaśva seeking Ukṣan  (his patron),  
+come here with your favors, o inspired poets.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+vayám … ukṣaṇyánto vyaśvavát is a play on words. ukṣanyántaḥ is read doubly, in one sense in the frame (‘seeking bulls’) and another in the simile (‘seeking Ukṣan’). Unusually the simile is conveyed by -vát. On the poet Vyaśva seeking his patron Ukṣan, see VIII.23.16 vyàśvaḥ … ukṣaṇyúḥ, where ukṣanyúḥ can also be read as a pun.
+</details>
+
+<details><summary>+Griffith</summary>
+
+For we, like Vyasva, lifting up our voice like oxen, call on you:  
+     With all your loving kindness, Sages, come to us.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Denn wir rufen euch, nach einem Uksan verlangend gleich Vyasva. Kommet, ihr Redekundigen, hierher mit Wohlwollen!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Denn wie Viaçva rufen wir wie Stiere brüllend euch herbei, O kommt hierher, ihr weisen mit Gewogenheit.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Ведь мы зовем вас двоих,  
+Жаждя Укшана, подобно Вьяшве.  
+Приезжайте, о вдохновенные, с (вашими) милостями!
+</details>

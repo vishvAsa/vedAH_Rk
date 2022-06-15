@@ -1,0 +1,119 @@
++++
+title = "006"
+devataa = "अग्निः"
+RShiH = "विरूप आङ्गिरसः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+कृष्णा꣡ र꣡जांसि पत्सुतः꣡  
+प्रया꣡णे जात꣡वेदसः  
+अग्नि꣡र् य꣡द् रो꣡धति क्ष꣡मि
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal on metrical evidence alone
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+कृ॒ष्णा । रजां॑सि । प॒त्सु॒तः । प्र॒ऽयाने॑ । जा॒तऽवे॑दसः ।  
+अ॒ग्निः । यत् । रोध॑ति । क्षमि॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *kṛṣṇā* ← *kṛṣṇa*
+- \[noun\], nominative, plural, neuter
+- “black; dark; dark; blue; black.”
+------------------------------------------------------------------------
+- *rajāṃsi* ← *rajas*
+- \[noun\], nominative, plural, neuter
+- “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
+    rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
+------------------------------------------------------------------------
+- *patsutaḥ* ← *patsutas*
+- \[adverb\]
+------------------------------------------------------------------------
+- *prayāṇe* ← *prayāṇa*
+- \[noun\], locative, singular, neuter
+- “departure; death.”
+------------------------------------------------------------------------
+- *jātavedasaḥ* ← *jātavedas*
+- \[noun\], genitive, singular, masculine
+- “Agni; fire.”
+------------------------------------------------------------------------
+- *agnir* ← *agniḥ* ← *agni*
+- \[noun\], nominative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *yad* ← *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *rodhati* ← *rudh*
+- \[verb\], singular, Present indikative
+------------------------------------------------------------------------
+- *kṣami* ← *kṣam*
+- \[noun\], locative, singular, feminine
+- “Earth; heaven and earth.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**जातवेदसः** अग्नेः **प्रयाणे** **पत्सुतः** पत्तः **रजांसि** पांसवः कृष्णानि भवन्ति । कदेत्यत आह । **क्षमि** क्षमायां **यत्** यदा **अग्निः** **रोधति** शुष्कान् वनस्पतीन् निरुणद्धि ॥।
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Black dust is raised by the feet of **Jātavedas** when he moves, when **Agni** spreads on the earth.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Whenagni spread the earth: agnir yad rodhati kṣami = when agni heaps (the dry trees) on the ground;
+
+Rodhati = rush,whatever grows on the earth
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Black are the realms at the feet of Jātavedas on his advance,  
+when Agni grows on the earth.
+</details>
+
+<details><summary>+Griffith</summary>
+
+As Jatavedas speeds along, the dust is black beneath his feet,  
+     When Agni spreads upon the earth.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Schwarzer Dunst ist zu Füßen des Jatavedas auf seiner Bahn, wenn Agni auf der Erde reitet.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Zu Füssen liegt der dunkle Raum, wenn Agni aus dem Boden spriesst, Der Wesenkenner vorwärts dringt.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Черные места (возникают) у (его) ног  
+При продвижении Джатаведаса,  
+Когда Агни вырастает на земле.
+</details>

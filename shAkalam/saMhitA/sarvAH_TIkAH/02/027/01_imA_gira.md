@@ -1,0 +1,164 @@
++++
+title = "001"
+devataa = "आदित्याः"
+RShiH = "कूर्मो गार्त्समदो गृत्समदो वा"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+इमा꣡ गि꣡र आदित्ये꣡भ्यो घृत꣡स्नूः  
+सना꣡द् रा꣡जभ्यो जुहु꣡वा जुहोमि  
+शृणो꣡तु मित्रो꣡ अर्यमा꣡ भ꣡गो नस्  
+तुविजातो꣡ व꣡रुणो द꣡क्षो अं꣡शः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒माः । गिरः॑ । आ॒दि॒त्येभ्यः॑ । घृ॒तऽस्नूः॑ । स॒नात् । राज॑ऽभ्यः । जु॒ह्वा॑ । जु॒हो॒मि॒ ।  
+शृ॒णोतु॑ । मि॒त्रः । अ॒र्य॒मा । भगः॑ । नः॒ । तु॒वि॒ऽजा॒तः । वरु॑णः । दक्षः॑ । अंशः॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *imā* ← *imāḥ* ← *idam*
+- \[noun\], accusative, plural, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *gira* ← *giraḥ* ← *gir*
+- \[noun\], accusative, plural, feminine
+- “hymn; praise; voice; words; invocation; command; statement; cry;
+    language.”
+------------------------------------------------------------------------
+- *ādityebhyo* ← *ādityebhyaḥ* ← *āditya*
+- \[noun\], dative, plural, masculine
+- “sun; Aditya; Surya; āditya \[word\].”
+------------------------------------------------------------------------
+- *ghṛtasnūḥ* ← *ghṛtasnu*
+- \[noun\], accusative, plural, feminine
+------------------------------------------------------------------------
+- *sanād* ← *sanāt*
+- \[adverb\]
+------------------------------------------------------------------------
+- *rājabhyo* ← *rājabhyaḥ* ← *rājan*
+- \[noun\], dative, plural, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+------------------------------------------------------------------------
+- *juhvā* ← *juhū*
+- \[noun\], instrumental, singular, feminine
+- “tongue; fire; ladle.”
+------------------------------------------------------------------------
+- *juhomi* ← *hu*
+- \[verb\], singular, Present indikative
+- “sacrifice; offer; pour; worship.”
+------------------------------------------------------------------------
+- *śṛṇotu* ← *śru*
+- \[verb\], singular, Present imperative
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------
+- *mitro* ← *mitraḥ* ← *mitra*
+- \[noun\], nominative, singular, masculine
+- “friend; Mitra; mitra \[word\]; sun; ally.”
+------------------------------------------------------------------------
+- *aryamā* ← *aryaman*
+- \[noun\], nominative, singular, masculine
+- “Aryaman; aryaman \[word\]; sun.”
+------------------------------------------------------------------------
+- *bhago* ← *bhagaḥ* ← *bhaga*
+- \[noun\], nominative, singular, masculine
+- “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
+    well-being; happiness; overlord.”
+------------------------------------------------------------------------
+- *nas* ← *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *tuvijāto* ← *tuvi*
+- \[noun\]
+- “mighty; very; diverse; much(a); many.”
+------------------------------------------------------------------------
+- *tuvijāto* ← *jātaḥ* ← *jan*
+- \[verb noun\], nominative, singular
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+------------------------------------------------------------------------
+- *varuṇo* ← *varuṇaḥ* ← *varuṇa*
+- \[noun\], nominative, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *dakṣo* ← *dakṣaḥ* ← *dakṣa*
+- \[noun\], nominative, singular, masculine
+- “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
+------------------------------------------------------------------------
+- *aṃśaḥ* ← *aṃśa*
+- \[noun\], nominative, singular, masculine
+- “part; part; share; part; volume; parcel; part; Aṃśa; aṃśa \[word\];
+    fraction.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+आदित्येभ्यः अदितेःपुत्रेभ्यः राजभ्यःराजमानेभ्यः ईश्वरेभ्योवामित्रादिभ्यः घृतस्नूः घृतप्रस्रावि- णीः घृतङ्क्षरन्तीः इमागिरः स्तुतिलक्षणावाचः सनात् सर्वदाजुह्वा वाङ्गामैतत् वागिन्द्रियेण जुहो- मि प्रयच्छामि करोमीतियावत् यद्वा जुहूस्थानीयत्वेनघृतङ्क्षरन्ति वाग्रूपाणिहवींषिजुहोमि आदि- त्यानुद्दिश्यत्यजामि मन्त्रणाम्पयोघृतादिक्षरणेहेतुत्वञ्च यदृचोधीतेपयसः कुल्याअस्येत्यादिनातैत्ति- रीयेस्पष्टमाम्नातम् नोस्मदीयास्तागिरः मित्रादयः प्रत्येकंश्रृणोतु तेचतैत्तिरीयेअष्टौपुत्रासोअदितेरि- त्युपक्रम्यस्पष्टमनुक्रान्ताः मित्रश्चवरुणश्चधाताचार्यमाचअंशुश्चभगश्चइन्द्रश्चविवस्वांश्चेत्येतइति मित्रःप्रमीतेस्त्रायकः यद्वा सर्वेषांस्निग्धः अरीन् यच्छति नियच्छतीत्यर्यमाभगोभजनीयोदेवः तुविजातः तुवीतिबहुनाम बहुषुदेशेष्वनुग्रहार्थम्प्रादुर्भूतः वरुणविशेषणमेतत्पापस्यनिवारणाद्वरुणः दक्षःसमर्थः एतच्चांशस्यविशेषणम् ॥ १ ॥ पूर्वोक्तएवपशौ इमंस्तोममित्येषावपायागस्ययाज्या सूत्रितञ्च—इमंस्तोमंसक्रतवोमेअद्यतिस्रो- भूमीर्धारयन्त्रीँ रुतद्यूनिति ।
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“I present continually, with the ladle (of speech), these oblation-dropping hymns to the royal **Ādityas**; may **Mitra**, **Aryaman**, **Bhaga**, the multi-present **Varuṇa**, the powerful **Aṃśa**, hear us.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Ādityas, sons of **Aditi**: here only five are enumerated. **Taittirīya** adds: **dhātā**, **indra** and **vivasvat** to make the total eight; **aṃśu** (for aṃśa). **Purāṇas** enumerate twelve, adding to the eight of the Taittirīya: **viṣṇu**, **pūṣan**, **tvaṣṭā** and **savitā**).
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+These ghee-backed songs I pour out to the Ādityas, kings from of old,  with my tongue (as offering ladle).  
+Let each one hear us: Mitra, Aryaman, and Bhaga, mighty-born Varuṇa,  Dakṣa, and Aṃśa.
+</details>
+
+<details><summary>+Griffith</summary>
+
+THESE hymns that drop down fatness, with the ladle I ever offer to the Kings Adityas.  
+     May Mitra, Aryanian, and Bhaga hear us, the mighty Varuna Daksa, and Amsa.
+</details>
+
+<details><summary>+Macdonell</summary>
+
+These songs that drip with butter, with the ladle I ever to the kings, Ādityas, offer. May Mitra, Aryaman, and Bhaga hear us, Dakṣa, the mighty Varuṇa, and Aṃśa.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Diese salbungsvollen Lobreden opfere ich den Aditya´s mit der Zunge als Löffel, den Königen von alters her. Es sollen uns Mitra, Aryaman, Bhaga, Varuna von starker Art, Daksa, Amsa erhören.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Stets giess' ich diese butterreichen Lieder den Herrschern, den Aditja's zu im Löffel; Es hör' uns Mitra, Arjaman und Bhaga, der mächt'ge Varuna und Dakscha, Ança.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Эти песни, плавающие в жире, языком  
+Я приношу в жертву Адитьям, издревле царям.  
+Да услышит нас Митра, Арьяман, Бхага,  
+Рожденный силой Варуна, Дакша, Анша!
+</details>

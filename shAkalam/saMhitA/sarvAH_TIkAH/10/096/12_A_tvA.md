@@ -1,0 +1,157 @@
++++
+title = "012"
+devataa = "हरिस्तुतिः"
+RShiH = "बरुः सर्वहरिर्वैन्द्रः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+आ꣡ त्वा हर्य꣡न्तम् प्रयु꣡जो ज꣡नानां  
+र꣡थे वहन्तु ह꣡रिशिप्रम् इन्द्र  
+पि꣡बा य꣡था प्र꣡तिभृतस्य म꣡ध्वो  
+ह꣡र्यन् यज्ञं꣡ सधमा꣡दे द꣡शोणिम्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ । त्वा॒ । ह॒र्यन्त॑म् । प्र॒ऽयुजः॑ । जना॑नाम् । रथे॑ । व॒ह॒न्तु॒ । हरि॑ऽशिप्रम् । इ॒न्द्र॒ ।  
+पिब॑ । यथा॑ । प्रति॑ऽभृतस्य । मध्वः॑ । हर्य॑न् । य॒ज्ञम् । स॒ध॒ऽमादे॑ । दश॑ऽओणिम् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *tvā* ← *tvad*
+- \[noun\], instrumental, singular
+- “you.”
+------------------------------------------------------------------------
+- *haryantam* ← *hary*
+- \[verb noun\], accusative, singular
+- “delight.”
+------------------------------------------------------------------------
+- *prayujo* ← *prayujaḥ* ← *prayuj*
+- \[noun\], nominative, plural, feminine
+- “team.”
+------------------------------------------------------------------------
+- *janānāṃ* ← *janānām* ← *jana*
+- \[noun\], genitive, plural, masculine
+- “people; national; man; relative; jan; Janaloka; person; jana
+    \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
+------------------------------------------------------------------------
+- *rathe* ← *ratha*
+- \[noun\], locative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *vahantu* ← *vah*
+- \[verb\], plural, Present imperative
+- “transport; bring; marry; run; drive; vāhay; drive; run; pull;
+    nirvāpay; blow; transport; discharge; assume; remove.”
+------------------------------------------------------------------------
+- *hariśipram* ← *hari*
+- \[noun\]
+- “reddish brown; yellow; pale; yellow; aureate.”
+------------------------------------------------------------------------
+- *hariśipram* ← *śipram* ← *śiprā*
+- \[noun\], accusative, singular, masculine
+- “lip; śiprā.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *pibā* ← *pibāḥ* ← *pā*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “protect; govern.”
+------------------------------------------------------------------------
+- *yathā*
+- \[adverb\]
+- “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
+------------------------------------------------------------------------
+- *pratibhṛtasya* ← *pratibhṛ* ← *√bhṛ*
+- \[verb noun\], genitive, singular
+- “serve; serve.”
+------------------------------------------------------------------------
+- *madhvo* ← *madhvaḥ* ← *madhu*
+- \[noun\], genitive, singular, neuter
+- “honey; alcohol; sweet; nectar; madhu \[word\].”
+------------------------------------------------------------------------
+- *haryan* ← *hary*
+- \[verb noun\], nominative, singular
+- “delight.”
+------------------------------------------------------------------------
+- *yajñaṃ* ← *yajñam* ← *yajña*
+- \[noun\], accusative, singular, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *sadhamāde* ← *sadhamāda*
+- \[noun\], locative, singular, masculine
+- “banquet; party; drink.”
+------------------------------------------------------------------------
+- *daśoṇim* ← *daśa* ← *daśan*
+- \[noun\]
+- “ten; tenth; daśan \[word\].”
+------------------------------------------------------------------------
+- *daśoṇim* ← *ūṇim* ← *ūṇi*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे इन्द्र हरिशिप्रं हरितवर्णशिप्रं त्वा त्वां हर्यन्तं यज्ञं कामयमानं प्रयुजो रथे प्र्युक्ता अश्वा रथे स्थापयित्वा जनानामृत्विग्यजमानानामन्तिकं वहन्तु। प्रापयन्तु। प्रवहन्ति। यथा येन प्राकारेन प्रतिभृतस्य ग्रहादिषु सम्भृतं मध्वो मधु सोमरसं यज्ञं यागसाधनं दशोणिम् । ओणयोऽङुलयः। दशभिरङ्गुलिभिः सम्पादितं सोमं हर्यन् कामयमानः सन् पिब पिबसि सधमादे सङ्ग्रामे जयर्थं तथवहन्त्वित्यर्थः॥१२॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Let your horses yoked to the chariot bring you, **Indra**, the yellow- jawed, desiring (the sacrifice), to (thevicinity) of the worshippers; when you, desiring the sacrifice, prepared by the ten fingers, drink of the collectedsweet-flavoured **Soma**, (let them bring you) to the battle.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Let the advance teams of the peoples convey you here in your chariot— you, the golden-lipped, in your gladness, o Indra,  
+so that you will drink of the honey that is offered, finding gladness in  the ten-armed sacrifice at the joint revelry.
+</details>
+
+<details><summary>+Griffith</summary>
+
+O Indra, let the eager wishes of the folk bring thee, delightful, golden-visored, on thy car,  
+     That, pleased with sacrifice wherein ten fingers toil, thou mayest, at the feast, drink of our offered meath.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Dich, den Begehrenden, soll der Vorspann, die Veranstaltungen der Menschen, zu Wagen herfahren, dich Indra mit den goldenen Zähnen, auf daß du von dem angebotenen Süßtrank trinkest, das Opfer, das bei dem gemeinsamen Gelage von zehn Armen besorgt wird, begehrend.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Dich goldbehelmten, holden Indra möge im Wagen fahren das Gespann der Menschen; Damit du trinkst den dargereichten Soma, dem Opfer hold, das zehnfach labt beim Mahle.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Тебя желанного, златогубого, о Индра,  
+Пусть привезут на колеснице упряжки людей,  
+Чтобы ты испил предложенного меду,  
+Желающий жертву, приготовленного десятью руками на общем пиру.
+</details>

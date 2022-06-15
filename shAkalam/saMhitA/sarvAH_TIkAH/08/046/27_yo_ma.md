@@ -1,0 +1,164 @@
++++
+title = "027"
+devataa = "वायुः"
+RShiH = "वशोश्व्यः"
+ChandaH = "बृहती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+यो꣡ म इमं꣡ चिद् उ त्म꣡ना  
+अ꣡मन्दच् चित्रं꣡ दाव꣡ने  
+अरट्वे꣡ अ꣡क्षे न꣡हुषे सुकृ꣡त्वनि  
+सुकृ꣡त्तराय सुक्र꣡तुः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । मे॒ । इ॒मम् । चि॒त् । ऊं॒ इति॑ । त्मना॑ । अम॑न्दत् । चि॒त्रम् । दा॒वने॑ ।  
+अ॒र॒ट्वे । अक्षे॑ । नहु॑षे । सु॒ऽकृत्व॑नि । सु॒कृत्ऽत॑राय । सु॒ऽक्रतुः॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *yo* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *ma* ← *me* ← *mad*
+- \[noun\], dative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *imaṃ* ← *imam* ← *idam*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *cid* ← *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *tmanāmandac* ← *tmanā* ← *tman*
+- \[noun\], instrumental, singular, masculine
+- “self.”
+------------------------------------------------------------------------
+- *tmanāmandac* ← *amandat* ← *mad*
+- \[verb\], singular, Imperfect
+- “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
+------------------------------------------------------------------------
+- *citraṃ* ← *citram* ← *citra*
+- \[noun\], accusative, singular, neuter
+- “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
+    bright; bright; outstanding; agitated; aglitter(p); brilliant;
+    painted; obvious; patched; bizarre.”
+------------------------------------------------------------------------
+- *dāvane* ← *dā*
+- \[verb noun\]
+- “give; add; perform; put; administer; fill into; give; ignite; put
+    on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
+    drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
+    splint; poultice; create.”
+------------------------------------------------------------------------
+- *araṭve* ← *araṭva*
+- \[noun\], locative, singular, masculine
+------------------------------------------------------------------------
+- *akṣe* ← *akṣa*
+- \[noun\], locative, singular, masculine
+- “Akṣa.”
+------------------------------------------------------------------------
+- *nahuṣe* ← *nahuṣa*
+- \[noun\], locative, singular, masculine
+- “Nahuṣa; Nahuṣa; Vishnu.”
+------------------------------------------------------------------------
+- *sukṛtvani* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sukṛtvani* ← *kṛtvani* ← *kṛtvan*
+- \[noun\], locative, singular, masculine
+- “busy.”
+------------------------------------------------------------------------
+- *sukṛttarāya* ← *sukṛttara*
+- \[noun\], dative, singular, masculine
+------------------------------------------------------------------------
+- *sukratuḥ* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sukratuḥ* ← *kratuḥ* ← *kratu*
+- \[noun\], nominative, singular, masculine
+- “yajña; decision; plan; deliberation; intelligence; Kratu; will;
+    kratu \[word\]; desire; resoluteness; ritual.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**यः** पृथुश्रवाः **मे** मह्यम् **इमं** पुरतो वर्तमानं **चित्रं** चायनीयं गवाश्वादिकं **दावने** दानाय **त्मना** आत्मना स्वबुद्ध्यैव **अमन्दत्** अमन्दत अमाद्यत । स च **सुक्रतुः** शोभनकर्मा राजा **सुकृत्तराय** सुकृतकर्तृत्वाय **अरट्वे** **अक्षे** **नहुषे** सुकृत्वनि च । एते तस्य राज्ञोऽध्यक्षाः । तेष्वन्वशात् अस्मै गवादिकान् संयोजयतेति । यद्वा । अरट्वादयोऽन्ये राजानः । तेषु मध्ये सुकृत्तरायामन्ददिति ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“He who of his own will has been plural ased to give me this honoured gift, he, performer of good works,(has determined) on a pre-eminently good action, amid Aratva, **Nahuṣa** and Sukṛtvan.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Maybe, names of kingsor officers of **Pṛthuśravas**
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+The one of good resolve who by his breath invigorated just this man  here, to give something brilliant to me  
+in the axle made of araṭu wood, in the presence of Nahuṣa, who is a  good performer (of rituals) for (a god) who performs even better,
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+Another verse with unclear referents and no main clause. I take the subject to be the god Vāyu, who has inspired the human patron (imám in a) to give the poet a splendid dakṣiṇā. If Vāyu (deified wind) is the subject, tmánā lit. ‘by his breath’ is a nice touch.
+
+In c Geldner takes araṭvé ákṣe as a PN, and it is certainly tempting. But, although the second part of that pāda is a PN, interpreting all difficult phrases as names is a practice to be avoided, and Mayrhofer (EWA s.v. araṭvá-; also PN s.v.) rejects the name interpretation in favor of “aus dem Holz der araṭu-Baumes” (Wagenachse).
+
+There is no way to be certain.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Who hath inclined this glorious one, buunteous himself, to give me gifts.  
+     Borne on firm chariot with the prosperous Nahup, wise, to a man yet more devout.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Der sogar diesen in eigener Person begeisterte, mir Wunderbares zu schenken, bei Aratva Aksa, dem frommen Nahusa, der Weise dem am besten Opfernden;
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Der diesen Herrn begeisterte, um Herrliches zu schenken mir, Auf festem Wagen bei dem treuen Nahuscha, treu wirkend für den treueren.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Кто для меня даже этого сам  
+Вдохновил, чтобы тот подарил удивительное,  
+У Аратвы Акши, у благочестивого Нахуши,  
+(Мне,) еще более благочестивому, он с прекрасной силой Духа,
+</details>

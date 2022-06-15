@@ -1,0 +1,165 @@
++++
+title = "004"
+devataa = "इन्द्रः"
+RShiH = "भरद्वाजो बार्हस्पत्यः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+शू꣡रो वा शू꣡रं वनते श꣡रीरैस्  
+तनूरु꣡चा त꣡रुषि य꣡त् कृण्वइ꣡ते  
+तोके꣡ वा गो꣡षु त꣡नये य꣡द् अप्सु꣡  
+वि꣡ क्र꣡न्दसी उर्व꣡रासु ब्र꣡वैते
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शूरः॑ । वा॒ । शूर॑म् । व॒न॒ते॒ । शरी॑रैः । त॒नू॒ऽरुचा॑ । तरु॑षि । यत् । कृ॒ण्वैते॒ इति॑ ।  
+तो॒के । वा॒ । गोषु॑ । तन॑ये । यत् । अ॒प्ऽसु । वि । क्रन्द॑सी॒ इति॑ । उ॒र्वरा॑सु । ब्रवै॑ते॒ इति॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *śūro* ← *śūraḥ* ← *śūra*
+- \[noun\], nominative, singular, masculine
+- “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
+    warrior; hero; attacker; lentil; wild boar; lion; dog.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *śūraṃ* ← *śūram* ← *śūra*
+- \[noun\], accusative, singular, masculine
+- “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
+    warrior; hero; attacker; lentil; wild boar; lion; dog.”
+------------------------------------------------------------------------
+- *vanate* ← *van*
+- \[verb\], singular, Present indikative
+- “obtain; gain; desire; get; like; love; overcome.”
+------------------------------------------------------------------------
+- *śarīrais* ← *śarīraiḥ* ← *śarīra*
+- \[noun\], instrumental, plural, neuter
+- “body; human body; body part; body; body; strength.”
+------------------------------------------------------------------------
+- *tanūrucā* ← *tanūruc*
+- \[noun\], nominative, dual, masculine
+------------------------------------------------------------------------
+- *taruṣi* ← *tarus*
+- \[noun\], locative, singular, neuter
+------------------------------------------------------------------------
+- *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *kṛṇvaite* ← *kṛ*
+- \[verb\], plural, Present conjunctive (subjunctive)
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *toke* ← *toka*
+- \[noun\], locative, singular, neuter
+- “offspring.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *goṣu* ← *go*
+- \[noun\], locative, plural, masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *tanaye* ← *tanaya*
+- \[noun\], locative, singular, neuter
+- “biological.”
+------------------------------------------------------------------------
+- *yad* ← *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *apsu* ← *ap*
+- \[noun\], locative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *krandasī* ← *krandas*
+- \[noun\], nominative, dual, neuter
+- “army; war cry.”
+------------------------------------------------------------------------
+- *urvarāsu* ← *urvarā*
+- \[noun\], locative, plural, feminine
+- “field; Urvarā.”
+------------------------------------------------------------------------
+- *bravaite* ← *brū*
+- \[verb\], dual, Present conjunctive (subjunctive)
+- “say; tell; describe; speak; state; answer; call; explain; address;
+    proclaim; talk; talk; choose.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे इन्द्र **शूरः** त्वदनुगृहीतो वीरः **शरीरैः** अङ्गैः **शूरं** **वा** वीरमपि **वनते** हन्ति । वेत्ययमपीत्यस्यार्थे वर्तते । यद्वा । वेत्यनेन विकल्पाभिधायकेन अशूरो वा त्वदनुगृहीतः सन् शूरं वनते । कदा वनत इत्येतदाह । **तनूरुचा** शरीरेण शोभमानौ परस्परविरोधिनौ **तरुषि** युद्धे **यत्** यदा **कृण्वेते** संग्रामं कुर्वाते । **यत्** यदा च **तोके** **वा** पुत्रनिमित्ते वा **गोषु** निमित्तभूतासु वा **तनये** पौत्रे निमित्तभूते वा **अप्सु** उदकेषु निमित्तेषु वा **उर्वरासु** सर्वसस्याढ्यासु भूमिषु निमित्तासु **क्रन्दसी** क्रन्दमानावाक्रोशन्तौ **वि** **ब्रवैते** विवदेते । हे इन्द्र पुत्रादिलाभजयः त्वदनुगृहीतस्य भवतीत्यर्थः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The hero, (favoured by you), assuredly slays the (hostile) hero by his bodily prowess, when, both excelling in person nal strength, they strive together in conflict, or when, clamorous, they dispute for (the sake of) sons, of grandson, of cattle, of water, of land.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Now a champion may defeat (another) champion with his limbs when  the two, their bodies gleaming, will set upon each other in their  
+struggle to overcome,  
+or when, with offspring, cattle, lineage, waters, and fields at stake, their  two war-cries will dispute with each other.
+</details>
+
+<details><summary>+Griffith</summary>
+
+With strength of limb the hero slays the hero, when bright in arms they range them for the combat.  
+     When two opposing hosts contend in battle for seed and offspring, waters, kine, or corn-lands.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Ein Tapferer überwindet wohl den Tapferen durch seine Leibesstärke, wenn zwei am Körper Glänzende einen Handel haben um die Überlegenheit, oder wenn zwei Schlachthaufen sich um den Samen, oder um Kühe, um leibliche Nachkommenschaft, um Wasser, um Felder, streiten.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Mag einzeln Mann nun wider Mann sich stemmen in Rüstung glänzend, wenn im Kampf sie wirken, Und mögen beide Heere sich bekämpfen um Kinder, Enkel, Kühe, Wasser, Felder.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Ведь герой побеждает героя (своим) телом,  
+Когда оба они, сверкая телами, борются за превосходство,  
+Или когда за семя, за коров, за продолжение рода, за вбды,  
+За пашни спорят два отряда противников.
+</details>

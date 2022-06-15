@@ -1,0 +1,176 @@
++++
+title = "001"
+devataa = "विष्णुः"
+RShiH = "दीर्घतमा औचथ्यः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+वि꣡ष्णोर् नु꣡ कं वीरि꣡याणि प्र꣡ वोचं  
+यः꣡ पा꣡र्थिवानि विममे꣡ र꣡जांसि  
+यो꣡ अ꣡स्कभायद् उ꣡त्तरं सध꣡स्थं  
+विचक्रमाण꣡स् त्रे᳐धो꣡रुगायः꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+विष्णोः॑ । नु । क॒म् । वी॒र्या॑णि । प्र । वो॒च॒म् । यः । पार्थि॑वानि । वि॒ऽम॒मे । रजां॑सि ।  
+यः । अस्क॑भायत् । उत्ऽत॑रम् । स॒धऽस्थ॑म् । वि॒ऽच॒क्र॒मा॒णः । त्रे॒धा । उ॒रु॒ऽगा॒यः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *viṣṇor* ← *viṣṇoḥ* ← *viṣṇu*
+- \[noun\], genitive, singular, masculine
+- “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
+------------------------------------------------------------------------
+- *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *kaṃ* ← *kam* ← *kaṃ*
+- \[adverb\]
+- “kaṃ \[word\].”
+------------------------------------------------------------------------
+- *vīryāṇi* ← *vīrya*
+- \[noun\], accusative, plural, neuter
+- “potency; vīrya; heroism; potency; strength; semen; power; deed;
+    active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
+    virility; manfulness; jewel; force.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *vocaṃ* ← *vocam* ← *vac*
+- \[verb\], singular, Aorist inj. (proh.)
+- “say; describe; name; tell; address; enumerate; call; state; teach;
+    explain; say; declare; speak; define; declare; order; address;
+    recommend; answer; deem; recite; approve; proclaim; indicate;
+    determine; mention; designate.”
+------------------------------------------------------------------------
+- *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *pārthivāni* ← *pārthiva*
+- \[noun\], accusative, plural, neuter
+- “earthly; earthen; mundane; royal; tellurian; sublunar.”
+------------------------------------------------------------------------
+- *vimame* ← *vimā* ← *√mā*
+- \[verb\], singular, Perfect indicative
+- “arrange; distribute; barter; measure; fixate.”
+------------------------------------------------------------------------
+- *rajāṃsi* ← *rajas*
+- \[noun\], accusative, plural, neuter
+- “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
+    rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
+------------------------------------------------------------------------
+- *yo* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *askabhāyad* ← *askabhāyat* ← *skabhāy* ← *√skambh*
+- \[verb\], singular, Imperfect
+------------------------------------------------------------------------
+- *uttaraṃ* ← *uttaram* ← *uttara*
+- \[noun\], accusative, singular, neuter
+- “northern; following; upper; additional; better; more(a); last;
+    concluding; superior; later(a); uttara \[word\]; prevailing; future;
+    left; northerly; northerly; higher; second; dominant; excellent;
+    chief(a).”
+------------------------------------------------------------------------
+- *sadhasthaṃ* ← *sadhastham* ← *sadhastha*
+- \[noun\], accusative, singular, neuter
+- “dwelling; location; home.”
+------------------------------------------------------------------------
+- *vicakramāṇas* ← *vicakramāṇaḥ* ← *vikram* ← *√kram*
+- \[verb noun\], nominative, singular
+- “act heroicly; stride.”
+------------------------------------------------------------------------
+- *tredhorugāyaḥ* ← *tredhā*
+- \[adverb\]
+- “threefold.”
+------------------------------------------------------------------------
+- *tredhorugāyaḥ* ← *uru*
+- \[noun\]
+- “wide; broad; great; uru \[word\]; much(a); excellent.”
+------------------------------------------------------------------------
+- *tredhorugāyaḥ* ← *gāyaḥ* ← *gāya*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे नराः **विष्णोः** व्यापनशीलस्य देवस्य **वीर्याणि** वीरकर्माणि **नु** **कम्** अतिशीघ्रं **प्र** **वोचम्** प्रब्रवीमि । अत्र यद्यपि नु कम् इति पदद्वयं तथापि यास्केन ' नवोत्तराणि पदानि ' (नि. ३. १३ ) इत्युक्तत्वात् शाखान्तरे एकत्वेन पाठाच्च नु इत्येतस्मिन्नेवार्थे नु कम् इति पदद्वयम् । कानि तानीति तत्राह । **यः** विष्णुः **पार्थिवानि** पृथिवीसंबन्धीनि **रजांसि** रञ्जनात्मकानि क्षित्यादिलोकत्रयाभिमानीनि अग्निवाय्वादित्यरूपाणि रजांसि **विममे** विशेषेण निर्ममे । अत्र त्रयो लोका अपि पृथिवी शब्दवाच्याः । तथा च मन्त्रान्तरं -- यदिन्द्राग्नी अवमस्यां पृथिव्यां मध्यमस्यां परमस्यामुत स्थः ( ऋ. सं. १. १०८.९) इति। तैत्तिरीयेऽपि - योऽस्यां पृथिव्यामस्यायुषा' इत्युपक्रम्य ‘यो द्वितीयस्यां तृतीयस्यां पृथिव्याम्' (तै. सं. १. २. १२. १ ) इति । तस्मात् लोकत्रयस्य पृथिवीशब्दवाच्यत्वम् । किंच **यः** च विष्णुः **उत्तरम्** उद्गततरमतिविस्तीर्णं **सधस्थं** सहस्थानं लोकत्रयाश्रयभूतमन्तरिक्षम् **अस्कभायत्** तेषामाधारत्वेन स्तम्भितवान् निर्मितवानित्यर्थः । अनेन अन्तरिक्षाश्रितं लोकत्रयमपि सृष्टवानित्युक्तं भवति । यद्वा । यो विष्णुः पार्थिवानि पृथिवीसंबन्धीनि रजांसि पृथिव्या अधस्तनसप्तलोकान् विममे विविधं निर्मितवान् । रजःशब्दो लोकवाची,  ‘ लोका रजांस्युच्यन्ते । इति यास्केनोक्तत्वात् । किंच यश्चोत्तरम् उद्गततरम् उत्तरभाविनं सधस्थं सहस्थानं पुण्यकृतां सहनिवासयोग्यं भूरादिलोकसप्तकम् अस्कभायत् स्कम्भितवान् सृष्टवानित्यर्थः ॥ स्कम्भेः 'स्तम्भुस्तुम्भु  इति विहितस्य श्नः छन्दसि शायजपि' इति व्यत्ययेन शायजादेशः ॥ अथवा पार्थिवानि पृथिवीनिमित्तकानि रजांसि लोकान् विममे । भूरादिलोकत्रयमित्यर्थः । भूम्याम् उपार्जितकर्मभोगार्थत्वात् इतरलोकानां तत्कारणत्वम्। किंच यश्चोत्तरम् उत्कृष्टतरं सर्वेषां लोकानामुपरिभूतम् । अपुनरावृत्तेः तस्योत्कृष्टत्वम् । सधस्थम् उपासकानां सहस्थानं सत्यलोकमस्कभायत् स्कम्भितवान् ध्रुवं स्थापितवानित्यर्थः । किं कुर्वन् । **त्रेधा** **विचक्रमाणः** त्रिप्रकारं स्वसृष्टान् लोकान्विविधं क्रममाणः । विष्णोस्त्रेधा क्रमणम् इदं विष्णुर्वि चक्रमे ' ( ऋ. सं. १, २२, १७ ) इत्यादिश्रुतिषु प्रसिद्धम् । अत एव **उरुगायः** उरुभिः महद्भिः गीयमानः अतिप्रभूतं गीयमानो वा । य एवं कृतवान् तादृशस्य विष्णोर्वीर्याणि प्र वोचम् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Earnetly I glorify the exploits of **Viṣṇu**, who made the **three worlds**; who sustained the lofty aggregate site (of the spheres); thrice traversing (the whole); who is praised by the exalted.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Pārthivāni vimame rajāṃsi = lit. he made the earthly regions;
+
+**Pṛthivī** = three worlds: atra trayo lokā api pṛthivī śabdavācyā; **Indra** and **Agni** are said to abide in the lower, middle and upper pṛthivī or world-- yad indrāgnī avamasyām pṛthīvyām madhyamasyām paramasyam uta **stha** (RV. 1.108.9; **Taittirīya** **Saṃhitā** 1.2.12.1); seven lower lokās are also included in the word pṛthivī;or, the term is limited to the three regions addressed in prayer, bhūḥ **bhuvar** **svar**; who sustained the lofty: uttaram sadhastham askabhāyat: sadastha = the firmament, as the asylum of the three regions-- lokatrayāśrayabhūtam antarikṣam; or, the seven regions above the earth; or, the highest region of all, whence there is no return; or the above of the righteous, the **satya-loka**;
+
+Askabhāyat = nirmitavān, created; thrice traversing: vicakramāṇas tredhā (idam viṣṇurvi cakrame: RV. 1.22.17); traversing in various ways in own created worlds
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Now shall I proclaim the heroic deeds of Viṣṇu, who measured out the  earthly realms,  
+who propped up the higher seat, having stridden out three times, the  wide-ranging one.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+The hymn begins with an almost exact echo of the famous opening pāda of the Indra hymn I.32 índrasya nú vīryā̀ṇi prá vocam. In place of índrasya we have víṣṇoḥ and the missing syllable is made up by inserting the fairly functionless particle kam after nú.
+</details>
+
+<details><summary>+Griffith</summary>
+
+I WILL declare the mighty deeds of Visnu, of him who measured out the earthly regions,  
+     Who propped the highest place of congregation, thrice setting down his footstep, widely striding.
+</details>
+
+<details><summary>+Macdonell</summary>
+
+I will proclaim the mighty deeds of Viṣṇu, Of him who measured out the earthly spaces; Who, firmly propping up the higher station, Strode out in triple regions, widely pacing.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Des Vishnu Heldentaten will ich nun verkünden, der die irdischen Räume durchmessen hat, der die obere Wohnstätte stützte, nachdem er dreimal ausgeschritten war, der Weitschreiter.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Des Vischnu grosse Thaten will ich preisen, der weit durchmessen hat der Erde Räume, Befestigt hat den höchsten Sitz des Himmels, dreimal ausschreitend mit gewalt'gen Schritten.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Я хочу сейчас провозгласить героические деяния Вишну  
+Который измерил земные пространства,  
+Который укрепил верхнее общее жилище,  
+Трижды шагнув, (он,) далеко идущий.
+</details>

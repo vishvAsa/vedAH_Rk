@@ -1,0 +1,122 @@
++++
+title = "015"
+devataa = "पवमानः सोमः"
+RShiH = "अमहीयुः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अ꣡र्षा णः सोम शं꣡ ग꣡वे  
+धुक्ष꣡स्व पिप्यु꣡षीम् इ꣡षम्  
+व꣡र्धा समुद्र꣡म् उक्थि꣡यम्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अर्ष॑ । नः॒ । सो॒म॒ । शम् । गवे॑ । धु॒क्षस्व॑ । पि॒प्युषी॑म् । इष॑म् ।  
+वर्ध॑ । स॒मु॒द्रम् । उ॒क्थ्य॑म् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *arṣā* ← *arṣa* ← *ṛṣ*
+- \[verb\], singular, Present imperative
+- “run.”
+------------------------------------------------------------------------
+- *ṇaḥ* ← *naḥ* ← *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *śaṃ* ← *śam*
+- \[adverb\]
+- “śam \[word\].”
+------------------------------------------------------------------------
+- *gave* ← *go*
+- \[noun\], dative, singular, masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *dhukṣasva* ← *duh*
+- \[verb\], singular, Aorist imperative
+- “milk.”
+------------------------------------------------------------------------
+- *pipyuṣīm* ← *pyā*
+- \[verb noun\], accusative, singular
+- “swell; abound; swell.”
+------------------------------------------------------------------------
+- *iṣam* ← *iṣ*
+- \[noun\], accusative, singular, feminine
+- “refreshment; enjoyment; stores.”
+------------------------------------------------------------------------
+- *vardhā* ← *vardha* ← *vṛdh*
+- \[verb\], singular, Present imperative
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+------------------------------------------------------------------------
+- *samudram* ← *samudra*
+- \[noun\], accusative, singular, masculine
+- “ocean; Samudra; sea; samudra \[word\]; four.”
+------------------------------------------------------------------------
+- *ukthyam* ← *ukthya*
+- \[noun\], accusative, singular, masculine
+- “applaudable.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **सोम** त्वं **नः** अस्माकं **गवे** **शं** सुखम् **अर्ष** क्षर । अपि च **पिप्युषीं** प्रवृद्धम् **इषम्** अन्नं **धुक्षस्व** पूरय । किंच **उक्थ्यं** प्रशस्यं **समुदम्** उदकं **वर्ध** वर्धय ॥ ॥ २० ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Soma**, pour prosperity upon our cattle, milk forth (for us) nutritious food; augment the laudable water.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Rush as weal for our cow, Soma; milk out swelling refreshment.  
+Increase the sea, worthy of hymns.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Soma, pour blessings on our kine, pour forth the food that streams with milk  
+     Increase the sea that merits laud.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Fließe, o Soma, zum Heil für unser Vieh! Gib strotzende Nahrung als Milch, mehre den preislichen Ozean!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Heil ström', o Soma, unserm Vieh, ergiesse deinen fetten Trank, Vergrössre das berühmte Meer.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Теки, сома, на благо нашего скота!  
+Доись набухшей усладой!  
+Увеличивай океан, достойный гимна!
+</details>

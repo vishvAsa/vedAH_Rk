@@ -1,0 +1,130 @@
++++
+title = "005"
+devataa = "पवमानः सोमः"
+RShiH = "असितः काश्यपो देवलो वा"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+तुवं꣡ रा꣡जेव सुव्रतो꣡  
+गि꣡रः सोमा꣡ विवेशिथ  
+पुनानो꣡ वह्ने अद्भुत
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वम् । राजा॑ऽइव । सु॒ऽव्र॒तः । गिरः॑ । सो॒म॒ । आ । वि॒वे॒शि॒थ॒ ।  
+पु॒ना॒नः । व॒ह्ने॒ । अ॒द्भु॒त॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *tvaṃ* ← *tvam* ← *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *rājeva* ← *rājā* ← *rājan*
+- \[noun\], nominative, singular, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+------------------------------------------------------------------------
+- *rājeva* ← *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *suvrato* ← *suvrataḥ* ← *suvrata*
+- \[noun\], nominative, singular, masculine
+- “virtuous; tractable; severe.”
+------------------------------------------------------------------------
+- *giraḥ* ← *gir*
+- \[noun\], accusative, plural, feminine
+- “hymn; praise; voice; words; invocation; command; statement; cry;
+    language.”
+------------------------------------------------------------------------
+- *somā* ← *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *somā* ← *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *viveśitha* ← *viś*
+- \[verb\], singular, Perfect indicative
+- “enter; penetrate; settle; settle.”
+------------------------------------------------------------------------
+- *punāno* ← *punānaḥ* ← *pū*
+- \[verb noun\], nominative, singular
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *vahne* ← *vahni*
+- \[noun\], vocative, singular, masculine
+- “fire; digestion; Plumbago zeylanica; Agni; vahni; draft horse;
+    three; sacrificial fire; Vahni; gold; southeast; citron; charioteer;
+    leader.”
+------------------------------------------------------------------------
+- *adbhuta*
+- \[noun\], vocative, singular, masculine
+- “extraordinary; amazing; supernatural.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **सोम** **सुव्रतः** सुकर्मा **पुनानः** **त्वं** **राजेव** **गिरः** अस्मदीयाः स्तुतीः **आ** **विवेशिथ** आविशसि । हे **वह्ने** वोढः **अद्भुत** महन् सोम ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Purified one, doer of good deeds, you, **Soma**, enter our praises like a king, O wonderful bearer (of our offerings).”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+You well keep commandments like a king. You have entered the songs,  o Soma,  
+while being purified, o unerring draft-horse.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+Both Geldner and Renou take ab together, but I do not understand how the simile “like a king” (rā́jeva) would work with the VP (“you have entered the songs” gíraḥ … viveśitha). I have therefore taken the two pādas as separate clauses. The simile in pāda a then works well, since it makes perfect sense that a king should “possess good commandments” (suvratáḥ). The splitting of the two pādas gains further support from IX.57.3b, a pāda closely corresponding to our pāda a: íbho rā́jeva suvratáḥ, where there is no question of entering songs or any similar action and the shared quality of simile and frame must be suvratá-.
+
+For further on the expression “enter songs” in pāda b, see published introduction.
+</details>
+
+<details><summary>+Griffith</summary>
+
+As thou art cleansed, O Wondrous Steed, O Soma, thou hast entered, like  
+     A pious King, into the songs.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Du bist wie ein pflichtgetreuer König auf die Lobreden eingegangen, während du dich läuterst, du unbegreiflicher Wagenfahrer.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Du drangst gleich mächt'gem Könige, o Soma, in die Lieder ein, Gereinigt, fahrend, wunderbar.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Ты, словно царь, верный обету,  
+Вошел в песни (людей), о сома,  
+Когда ты очищаешься, о удивительный возница.
+</details>

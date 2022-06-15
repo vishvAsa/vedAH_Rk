@@ -1,0 +1,155 @@
++++
+title = "001"
+devataa = "पवमानः सोमः"
+RShiH = "कविः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अचोद꣡सो नो धनुवन्तु इ꣡न्दवः  
+प्र꣡ स्वाना꣡सो° बृह꣡द्दिवेषु ह꣡रयः  
+वि꣡ च न꣡शन् न इषो꣡ अ꣡रातयो  
+अर्यो꣡ नशन्त स꣡निषन्त नो धि꣡यः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M;; 11 = 4+7, ending HLX  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒चो॒दसः॑ । नः॒ । ध॒न्व॒न्तु॒ । इन्द॑वः । प्र । सु॒वा॒नासः॑ । बृ॒हत्ऽदि॑वेषु । हर॑यः ।  
+वि । च॒ । नश॑न् । नः॒ । इ॒षः । अरा॑तयः । अ॒र्यः । न॒श॒न्त॒ । सनि॑षन्त । नः॒ । धियः॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *acodaso* ← *acodasaḥ* ← *acodas*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *dhanvantv* ← *dhanvantu* ← *dhanv*
+- \[verb\], plural, Present imperative
+- “run.”
+------------------------------------------------------------------------
+- *indavaḥ* ← *indu*
+- \[noun\], nominative, plural, masculine
+- “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
+    juice.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *suvānāso* ← *suvānāsaḥ* ← *su*
+- \[verb noun\], nominative, plural
+- “press out; su.”
+------------------------------------------------------------------------
+- *bṛhaddiveṣu* ← *bṛhaddiva*
+- \[noun\], locative, plural, masculine
+- “Bṛhaddiva.”
+------------------------------------------------------------------------
+- *harayaḥ* ← *hari*
+- \[noun\], nominative, plural, masculine
+- “reddish brown; yellow; pale; yellow; aureate.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *naśan* ← *naś*
+- \[verb\], plural, Aorist inj. (proh.)
+- “reach; achieve; enter (a state); reach.”
+------------------------------------------------------------------------
+- *na* ← *naḥ* ← *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *iṣo* ← *iṣaḥ* ← *iṣ*
+- \[noun\], accusative, plural, feminine
+- “refreshment; enjoyment; stores.”
+------------------------------------------------------------------------
+- *arātayo* ← *arātayaḥ* ← *arāti*
+- \[noun\], nominative, plural, feminine
+- “hostility; adversity; foe; envy; stinginess.”
+------------------------------------------------------------------------
+- *'ryo* ← *aryaḥ* ← *ari*
+- \[noun\], nominative, plural, feminine
+------------------------------------------------------------------------
+- *naśanta* ← *naś*
+- \[verb\], plural, Present injunctive
+- “reach; achieve; enter (a state); reach.”
+------------------------------------------------------------------------
+- *saniṣanta* ← *san*
+- \[verb\], plural, Aorist conj./subj.
+- “win; get; gain.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *dhiyaḥ* ← *dhī*
+- \[noun\], nominative, plural, feminine
+- “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
+    knowledge.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**अचोदसः** अचोदना अनन्यप्रेरिताः **इन्दवः** सोमाः **नः** अस्माकं **प्र** **धन्वन्तु** प्रगच्छन्तु । धन्वतिर्गतिकर्मा। कुत्र। **बृहद्दिवेषु** प्रभूतदीप्तिषु यागेषु निमित्तेषु । अथवा बृहद्दिवकुलजेषु मध्ये । न इति संबन्धः । कीदृशा इन्दवः । **सुवानासः** सूयमानाः **हरयः** हरितवर्णाः । किंच **नः** अस्मभ्यं ये च **इषः** अन्नस्य **अरातयः** अदातारः सन्ति ते **च** **वि** **नशन्** विनश्यन्तु । तथा **अर्यः** अरयोऽपि **नशन्त** विनश्यन्तु। **सनिषन्त** संभजन्तु च **नो** **धियः** अस्मदीयानि कर्माणि देवा अस्मत्प्रियभूता वा ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“May the spontaneous **Soma**-juices flow to us at the brilliant (sacrifices), green-tinted, effused; may they be destroyed who are the withholders of food from us; may (our) foes be destroyed; may (the gods) enjoy our pious acts.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Without impulsion let our tawny drops run, forth to those dwelling in  lofty heaven, when they are pressed.  
+If hostilities will reach our refreshments, those of the stranger will go to  destruction. Our insightful thoughts will prevail.
+</details>
+
+<details><summary>+Griffith</summary>
+
+SPONTANEOUS let our drops of Soma juice flow on, pressed, golden-hued, among the Gods of lofty heaven.  
+     Perish among us they who give no gifts of food! perish the godless! May our prayers obtain success.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Ohne Ansporn sollen die Säfte uns rinnen, die goldgelben Falben bei den Brihaddiva´s ausgepreßt. Wenn Mißgunst unsere Speisegenüsse erreicht, unsere Gebete sollen den Gewinn davontragen.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Es mögen eilen unsre Indu's ausgepresst, die goldnen Rosse götterwärts unangespornt, Die Frevler mögen nicht erlangen unser Gut, vergehn die Feinde, unser Bitten sei erhört.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Пусть потекут к нам без понуканий капли,  
+Выжатые у (людей) Брихаддива, золотистые!  
+Если силы скупости достигнут наших жертвенных услад,  
+Наши молитвы пусть достигнут (того же) у врага, пусть одержат верх (над ним)!
+</details>

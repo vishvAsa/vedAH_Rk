@@ -1,0 +1,134 @@
++++
+title = "003"
+devataa = "इळः"
+RShiH = "वसुश्रुत आत्रेयः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+ईळितो꣡ अग्न आ꣡ वह  
+इ꣡न्द्रं चित्र꣡म् इह꣡ प्रिय꣡म्  
+सुखइ꣡ र꣡थेभिर् ऊत꣡ये
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M;; repeated line  
+genre M;; repeated line  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ई॒ळि॒तः । अ॒ग्ने॒ । आ । व॒ह॒ । इन्द्र॑म् । चि॒त्रम् । इ॒ह । प्रि॒यम् ।  
+सु॒ऽखैः । रथे॑भिः । ऊ॒तये॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *īﾱito* ← *īﾱitaḥ* ← *īḍ*
+- \[verb noun\], nominative, singular
+- “praise; invite; raise.”
+------------------------------------------------------------------------
+- *agna* ← *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *vahendraṃ* ← *vahā* ← *vah*
+- \[verb\], singular, Present imperative
+- “transport; bring; marry; run; drive; vāhay; drive; run; pull;
+    nirvāpay; blow; transport; discharge; assume; remove.”
+------------------------------------------------------------------------
+- *vahendraṃ* ← *indram* ← *indra*
+- \[noun\], accusative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *citram* ← *citra*
+- \[noun\], accusative, singular, masculine
+- “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
+    bright; bright; outstanding; agitated; aglitter(p); brilliant;
+    painted; obvious; patched; bizarre.”
+------------------------------------------------------------------------
+- *iha*
+- \[adverb\]
+- “here; now; in this world; now; below; there; here; just.”
+------------------------------------------------------------------------
+- *priyam* ← *priya*
+- \[noun\], accusative, singular, masculine
+- “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
+    good; liked; suitable; proper.”
+------------------------------------------------------------------------
+- *sukhai* ← *sukhaiḥ* ← *sukha*
+- \[noun\], instrumental, plural, masculine
+- “pleasant; easy; lukewarm; comfortable; sukha \[word\]; successful;
+    easy; content(p).”
+------------------------------------------------------------------------
+- *rathebhir* ← *rathebhiḥ* ← *ratha*
+- \[noun\], instrumental, plural, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *ūtaye* ← *ūti*
+- \[noun\], dative, singular, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **अग्ने** **ईळितः** स्तुतः सन् **आ** **वहेन्द्रं** **चित्रं** चायनीयं **प्रियम्** **इह** अस्मिन् यज्ञे **सुखैः** **रथेभिः** रथैः **ऊतये** अस्मद्रक्षणाय ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Agno, who are Īḷita, bring hither the wonderful and friendly **Indra**, with his easy going chariots for our protection.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+When invoked, o Agni, convey here dear shimmering Indra  
+with his easy running chariots, to help us.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Adored, O Agni, hither bring Indra the Wonderful, the Friend,  
+     On lightly-rolling car to aid.
+</details>
+
+<details><summary>+Oldenberg</summary>
+
+1 Agni, magnified by us, bring hither to our help the bright, beloved Indra, with easy-going chariots.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Berufen fahre du, Agni, den prächtigen lieben Indra hierher auf leichtem Wagen zur Gunsterweisung!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Gepriesner Agni fahre du den lichten, lieben Indra her Auf schnellen Wagen zum Genuss.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Призванный  
+, о Агни, привези  
+Сюда Индру, яркого, любимого,  
+На легкоходных колесницах – для поддержки!
+</details>

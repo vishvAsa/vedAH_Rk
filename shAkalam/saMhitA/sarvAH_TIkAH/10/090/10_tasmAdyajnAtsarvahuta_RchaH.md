@@ -1,0 +1,157 @@
++++
+title = "१० तस्माद्यज्ञात्सर्वहुत ऋचः"
+devataa = "पुरुषः"
+RShiH = "नारायणः"
+ChandaH = "अनुष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+त꣡स्माद् यज्ञा꣡त् सर्वहु꣡त  
+ऋ꣡चः सा꣡मानि जज्ञिरे  
+छ꣡न्दांसि जज्ञिरे त꣡स्माद्  
+य꣡जुस् त꣡स्माद् अजायत
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तस्मा॑त् । य॒ज्ञात् । स॒र्व॒ऽहुतः॑ । ऋचः॑ । सामा॑नि । ज॒ज्ञि॒रे॒ ।  
+छन्दां॑सि । ज॒ज्ञि॒रे॒ । तस्मा॑त् । यजुः॑ । तस्मा॑त् । अ॒जा॒य॒त॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *tasmād* ← *tasmāt* ← *tad*
+- \[noun\], ablative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *aśvā* ← *aśvāḥ* ← *aśva*
+- \[noun\], nominative, plural, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *ajāyanta* ← *jan*
+- \[verb\], plural, Imperfect
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+------------------------------------------------------------------------
+- *ye* ← *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *ke* ← *ka*
+- \[noun\], nominative, plural, masculine
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *cobhayādataḥ* ← *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *cobhayādataḥ* ← *ubhaya*
+- \[noun\]
+- “both(a).”
+------------------------------------------------------------------------
+- *cobhayādataḥ* ← *adataḥ* ← *ad*
+- \[verb noun\], nominative, plural
+- “eat; devour.”
+------------------------------------------------------------------------
+- *gāvo* ← *gāvaḥ* ← *go*
+- \[noun\], nominative, plural
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *ha*
+- \[adverb\]
+- “indeed; ha \[word\].”
+------------------------------------------------------------------------
+- *jajñire* ← *jan*
+- \[verb\], plural, Perfect indicative
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+------------------------------------------------------------------------
+- *tasmāt* ← *tad*
+- \[noun\], ablative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *tasmāj* ← *tasmāt* ← *tad*
+- \[noun\], ablative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *jātā* ← *jātāḥ* ← *jan*
+- \[verb noun\], nominative, plural
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+------------------------------------------------------------------------
+- *ajāvayaḥ* ← *aja*
+- \[noun\], masculine
+- “goat; Vishnu; Brahma; Shiva; Aja; aja \[word\]; Aja; aj; Ocimum
+    gratissimum; Puruṣa.”
+------------------------------------------------------------------------
+- *ajāvayaḥ* ← *avayaḥ* ← *avi*
+- \[noun\], nominative, plural, masculine
+- “sheep; avi \[word\]; menstruating woman; ewe.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**सर्वहुतः** **तस्मात्** पूर्वोक्तात् यज्ञात् **ऋचः** **सामानि** च जज्ञिरे उत्पन्नाः। **तस्मात्** यज्ञात् **छन्दांसि** गायत्र्यादीनि **जज्ञिरे**। **तस्मात्** यज्ञात् **यजुः** अपि अजायत ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+\[?\]
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+From this sacrifice, when it was offered in full, the verses and chants  were born.  
+Meters were born from it. The sacrificial formula—from it that was born.
+</details>
+
+<details><summary>+Griffith</summary>
+
+From that great general sacrifice Rcas and Sama-hymns were born:  
+     Therefrom were spells and charms produced; the Yajus had its birth from it.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Aus ihm entstanden die Rosse und alle Tiere mit doppelter Zahnreihe, aus ihm entstanden die Rinder, aus ihm sind die Ziegen und Schafe entstanden.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Aus ihm entsprangen die Rosse und alle mit zwei Zahnreihen versehenen Thiere; aus ihm entsprangen die Rinder, aus ihm die Ziegen und Schafe.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Из нее кони родились  
+И все те (животные), у которых два ряда зубов,  
+Быки родились из нее,  
+Из нее родились козы и овцы.
+</details>

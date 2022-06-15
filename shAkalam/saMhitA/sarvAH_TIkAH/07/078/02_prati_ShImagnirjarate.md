@@ -1,0 +1,162 @@
++++
+title = "002"
+devataa = "उषाः"
+RShiH = "वसिष्ठः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+प्र꣡ति षीम् अग्नि꣡र् जरते स꣡मिद्धः  
+प्र꣡ति वि꣡प्रासो मति꣡भिर् गृण꣡न्तः  
+उषा꣡ याति ज्यो꣡तिषा बा꣡धमाना  
+वि꣡श्वा त꣡मांसि दुरिता꣡प देवी꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रति॑ । सी॒म् । अ॒ग्निः । ज॒र॒ते॒ । सम्ऽइ॑द्धः । प्रति॑ । विप्रा॑सः । म॒तिऽभिः॑ । गृ॒णन्तः॑ ।  
+उ॒षाः । या॒ति॒ । ज्योति॑षा । बाध॑माना । विश्वा॑ । तमां॑सि । दुः॒ऽइ॒ता । अप॑ । दे॒वी ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *prati*
+- \[adverb\]
+- “towards; per; regarding; respectively; according to; until.”
+------------------------------------------------------------------------
+- *ṣīm* ← *sīm*
+- \[adverb\]
+------------------------------------------------------------------------
+- *agnir* ← *agniḥ* ← *agni*
+- \[noun\], nominative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *jarate* ← *jṛ*
+- \[verb\], singular, Present indikative
+- “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
+------------------------------------------------------------------------
+- *samiddhaḥ* ← *samindh* ← *√indh*
+- \[verb noun\], nominative, singular
+- “kindle; blaze.”
+------------------------------------------------------------------------
+- *prati*
+- \[adverb\]
+- “towards; per; regarding; respectively; according to; until.”
+------------------------------------------------------------------------
+- *viprāso* ← *viprāsaḥ* ← *vipra*
+- \[noun\], nominative, plural, masculine
+- “Brahmin; poet; singer; priest; guru; Vipra.”
+------------------------------------------------------------------------
+- *matibhir* ← *matibhiḥ* ← *mati*
+- \[noun\], instrumental, plural, feminine
+- “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
+    desire; wish; conviction; plan; devotion.”
+------------------------------------------------------------------------
+- *gṛṇantaḥ* ← *gṛ*
+- \[verb noun\], nominative, plural
+- “praise.”
+------------------------------------------------------------------------
+- *uṣā* ← *uṣāḥ* ← *uṣas*
+- \[noun\], nominative, singular, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *yāti* ← *yā*
+- \[verb\], singular, Present indikative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *jyotiṣā* ← *jyotis*
+- \[noun\], instrumental, singular, neuter
+- “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
+    light; sunlight.”
+------------------------------------------------------------------------
+- *bādhamānā* ← *bādh*
+- \[verb noun\], nominative, singular
+- “afflict; annoy; chase away; tease; grieve; irritate.”
+------------------------------------------------------------------------
+- *viśvā* ← *viśva*
+- \[noun\], accusative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *tamāṃsi* ← *tamas*
+- \[noun\], accusative, plural, neuter
+- “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
+    ignorance.”
+------------------------------------------------------------------------
+- *duritāpa* ← *duritā* ← *durita*
+- \[noun\], accusative, plural, neuter
+- “danger; sin; difficulty; difficulty; evil.”
+------------------------------------------------------------------------
+- *duritāpa* ← *apa*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *devī*
+- \[noun\], nominative, singular, feminine
+- “Parvati; queen; goddess; Devi.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**अग्निः** **समिद्धः** सन् **सीं** सर्वतः **प्रति** **जरते** अभिवर्धते । **विप्रासः** विप्रा मेधाविन ऋत्विजश्च **मतिभिः** स्तुतिभिरुषसं **गृणन्तः** स्तुवन्तो जरन्ते । **उषाः** च **देवी** **ज्योतिषा** **विश्वा** सर्वाणि **तमांसि** **दुरिता** अस्मद्दुरितानि **अप** **बाधमाना** **याति** ऊर्ध्वं गच्छति ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The kindled fire increases everywhere, (and) the priests, glorifying (the dawn) with hymns; the divineUṣas comes, driving away all the evil glooms by her lustre.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+In response to her the kindled fire awakens; in response (to her awaken)  the inspired poets hymning (her) with their thoughts.  
+The goddess Dawn travels, while pressing away all shades of darkness, all  difficulties with her light.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+The lexeme ápa √bādh appears, as often, in tmesis. This tmesis appears to be regular even when the lexeme appears, as here, in the participle (univerbated as apabā́dhamāna- only in the late X.103.4; in tmesis I.35.3, 90.3, V.80.5, IX.97.43 as well as here). But in our passage ápa is oddly positioned for a preverb in tmesis (which may account for Grassmann’s failure to register the preverb, as also in V.80.5): immediately following the object and not adjacent to a metrical boundary, … bā́dhamānā, víśvā támāṃsi duritā́pa devī́. Although this aberrant position might suggest that ápa is not a preverb here but a postposition or adverb, this would require separating the expression from the well-attested verbal lexeme, which I prefer not to do. I should however note that in vs. 1b bā́dhamānā támāṃsi is found without ápa.
+</details>
+
+<details><summary>+Griffith</summary>
+
+The fire well-kindIed sings aloud to greet her, and with their hymns the priests are chaming welcome.  
+     Usas approaches in her splendour, driving all evil darkness far away, the Goddess.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Heran wacht sie das entzündete Feuer, heran die Sänger, die in Gedichten das Lob verkünden. Die Göttin Usas kommt, mit dem Lichte alle Finsternis und Fährlichkeit verbannend.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Entgegen rauscht ihr das entflammte Feuer, die Sänger auch, sie grüssend mit Gebeten; Die Morgenröthe kommt mit ihrem Lichte, die Göttin, scheuchend alles Leid und Dunkel.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Навстречу ей пробуждается зажженный огонь,  
+Навстречу (ей) – поэты, воспевающие (ее) в произведениях.  
+Ушас движется, прогоняя прочь светом  
+Весь мрак (и все) опасности, (эта) богиня.
+</details>

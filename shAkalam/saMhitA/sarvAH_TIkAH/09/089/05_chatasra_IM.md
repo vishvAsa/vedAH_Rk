@@ -1,0 +1,177 @@
++++
+title = "005"
+devataa = "पवमानः सोमः"
+RShiH = "उशनाः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+च꣡तस्र ईं घृतदु꣡हः सचन्ते  
+समाने꣡ अन्त꣡र् धरु꣡णे नि꣡षत्ताः  
+ता꣡ ईम् अर्षन्ति न꣡मसा पुनाना꣡स्  
+ता꣡ ईं विश्व꣡तः प꣡रि षन्ति पूर्वीः꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+चत॑स्रः । ई॒म् । घृ॒त॒ऽदुहः॑ । स॒च॒न्ते॒ । स॒मा॒ने । अ॒न्तः । ध॒रुणे॑ । निऽस॑त्ताः ।  
+ताः । ई॒म् । अ॒र्ष॒न्ति॒ । नम॑सा । पु॒ना॒नाः । ताः । ई॒म् । वि॒श्वतः॑ । परि॑ । स॒न्ति॒ । पू॒र्वीः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *catasra* ← *catasraḥ* ← *catur*
+- \[noun\], nominative, plural, feminine
+- “four; catur \[word\].”
+------------------------------------------------------------------------
+- *īṃ* ← *īm* ← *īṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *ghṛtaduhaḥ* ← *ghṛta*
+- \[noun\], neuter
+- “ghee; fat.”
+------------------------------------------------------------------------
+- *ghṛtaduhaḥ* ← *duhaḥ* ← *duh*
+- \[noun\], nominative, plural, feminine
+- “duh.”
+------------------------------------------------------------------------
+- *sacante* ← *sac*
+- \[verb\], plural, Present indikative
+- “accompany; follow; company; obey; participate; enter.”
+------------------------------------------------------------------------
+- *samāne* ← *samāna*
+- \[noun\], locative, singular, neuter
+- “like; identical; common; like; alike(p); same; samāna \[word\];
+    akin(p); comparable; identical; mutual; equal.”
+------------------------------------------------------------------------
+- *antar*
+- \[adverb\]
+- “inside; in; antar \[word\]; midmost; between; among.”
+------------------------------------------------------------------------
+- *dharuṇe* ← *dharuṇa*
+- \[noun\], locative, singular, neuter
+- “prop; foundation.”
+------------------------------------------------------------------------
+- *niṣattāḥ* ← *niṣad* ← *√sad*
+- \[verb noun\], nominative, plural
+- “sit down; sit; put.”
+------------------------------------------------------------------------
+- *tā* ← *tāḥ* ← *tad*
+- \[noun\], nominative, plural, feminine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *īm* ← *īṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *arṣanti* ← *ṛṣ*
+- \[verb\], plural, Present indikative
+- “run.”
+------------------------------------------------------------------------
+- *namasā* ← *namas*
+- \[noun\], instrumental, singular, neuter
+- “adoration; court; namas \[word\]; bow; salute.”
+------------------------------------------------------------------------
+- *punānās* ← *punānāḥ* ← *pū*
+- \[verb noun\], nominative, plural
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *tā* ← *tāḥ* ← *tad*
+- \[noun\], nominative, plural, feminine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *īṃ* ← *īm* ← *īṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *viśvataḥ* ← *viśvatas*
+- \[adverb\]
+- “everywhere; around; about.”
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *ṣanti* ← *santi* ← *as*
+- \[verb\], plural, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *pūrvīḥ* ← *puru*
+- \[noun\], nominative, plural, feminine
+- “many; much(a); very.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**चतस्रः** **घृतदुहः** घृतदोग्ध्र्यो गावः **ईम** एनं सोमं **सचन्ते** सेवन्ते । कीदृश्यस्ताः । **समाने** एकस्मिन् **धरुणे** सर्वेषां धारकेऽन्तरिक्षे **निषत्ताः** निषण्णाः । **ताः** घृतदुहः **ईम** एनम् **अर्षन्ति** प्राप्नुवन्ति **नमसा** अन्नेन **पुनानाः** पूयमानाः सत्यः। **ताः** **पूर्वीः** बह्व्यः प्रभूता गावः **विश्वतः** सर्वतः **परि** **षन्ति** परिभवन्ति ॥  विष्टम्भो दिवो धुरुणः पृथिव्या विश्व उत क्षितयो हस्ते अस्य ।
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The four yielders of butter wait upon him, stationed in a common asylum; being purified they approach him with food, they surround him in numbers on every side.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+A common asylum: the firmament
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Set down within the same support, four, yielding ghee as their milk,  accompany him.  
+They rush, being purified with homage. They, the many, surround him  on all sides.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+The cátasraḥ … ghṛtadúhaḥ … níṣattāḥ “four (fem.), yielding ghee as milk, set down …” is highly reminiscent of IX.74.6 cátasro nā́bho níhitāḥ “four hidden (lit., ‘put down, deposited’) (streams) bursting out …” See comm. ad loc., where, flg.
+
+Geldner, I suggest that “four” is a metaphorical reference to the four teats of a cow’s udder. In our passage I don’t understand what “set down within the same support” (samāné antár dharúṇe) refers to, unless it’s the placement of the teats in/on the udder, which would be the dharúṇa- here. I also don’t know if there’s a secondary reference to some piece or pieces of ritual equipment from which (pitcher with 4 spouts? 4 pitchers?) the mixing milk is poured, or if an actual cow is stationed nearby. But here, as in IX.74.6, I think the immediate physical referent is to the streams of milk that emerge from the teats, rather than their source(s).
+
+The īm in c was omitted from the tr., where it presumably expresses the goal of arṣanti. I would now tr. “They rush to him while being purified …” The parens.
+
+around “him” in the next pāda can be erased, since that pāda also contains īm. The concentration of forms of īm in this hymn should also be noted: 2d (2x), 4c, 5a, 5c, 5d.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Four pouring out the holy oil attend him, sitting together in the same container.  
+     To him they flow, when purified, with homage, and still, from every side, are first about him.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Vier Buttermilchende geleiten ihn, auf die gleiche Unterlage niedergesetzt. Diese fließen zu ihm , ehrfürchtig sich läuternd; diese umgeben ihn allenthalben in großer Zahl.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Vier milchversehne Kühe gehen mit ihm, sich niederlassend in das gleiche Becken, Sie strömen ihm, gereinigt mit Verehrung, und sind um ihn, die vielen, allenthalben.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+За ним следуют четыре (коровы?), доящиеся жиром,  
+Усевшиеся на общую (с ним) основу внутри (чана),  
+Они текут к нему, очищаясь с поклонением.  
+Они обильные, окружают его со всех сторон.
+</details>

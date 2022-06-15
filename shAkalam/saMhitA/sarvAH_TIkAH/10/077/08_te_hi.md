@@ -1,0 +1,160 @@
++++
+title = "008"
+devataa = "मरुतः"
+RShiH = "स्यूमरश्मिर्भार्गवः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+ते꣡ हि꣡ यज्ञे꣡षु यज्ञि꣡यास ऊ꣡मा  
+आदितिये꣡न ना꣡म्ना श꣡म्भविष्ठाः  
+ते꣡ नो अवन्तु रथतू꣡र् मनीषा꣡म्  
+मह꣡श् च या꣡मन् अध्वरे꣡ चकानाः꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M;; repeated line  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ते । हि । य॒ज्ञेषु॑ । य॒ज्ञिया॑सः । ऊमाः॑ । आ॒दि॒त्येन॑ । नाम्ना॑ । शम्ऽभ॑विष्ठाः ।  
+ते । नः॒ । अ॒व॒न्तु॒ । र॒थ॒ऽतूः । म॒नी॒षाम् । म॒हः । च॒ । याम॑न् । अ॒ध्व॒रे । च॒का॒नाः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *te* ← *tad*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *yajñeṣu* ← *yajña*
+- \[noun\], locative, plural, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *yajñiyāsa* ← *yajñiyāsaḥ* ← *yajñiya*
+- \[noun\], nominative, plural, masculine
+- “sacrificial; divine; devoted.”
+------------------------------------------------------------------------
+- *ūmā* ← *ūmāḥ* ← *ūma*
+- \[noun\], nominative, plural, masculine
+- “assistant.”
+------------------------------------------------------------------------
+- *ādityena* ← *āditya*
+- \[noun\], instrumental, singular, neuter
+- “āditya.”
+------------------------------------------------------------------------
+- *nāmnā* ← *nāman*
+- \[noun\], instrumental, singular, neuter
+- “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
+    word.”
+------------------------------------------------------------------------
+- *śambhaviṣṭhāḥ* ← *śambhaviṣṭha*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *te* ← *tad*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *'vantu* ← *avantu* ← *av*
+- \[verb\], plural, Present imperative
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *rathatūr* ← *\_* ← *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *manīṣām* ← *manīṣā*
+- \[noun\], accusative, singular, feminine
+- “hymn; inspiration; idea; thinking; wish; consideration;
+    intelligence.”
+------------------------------------------------------------------------
+- *mahaś* ← *mahaḥ* ← *mahas*
+- \[noun\], accusative, singular, neuter
+- “greatness; festival; glory; reward; gladness.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *yāmann* ← *yāman*
+- \[noun\], locative, singular, neuter
+- “expedition; path; expedition; arrival.”
+------------------------------------------------------------------------
+- *adhvare* ← *adhvara*
+- \[noun\], locative, singular, masculine
+- “yajña; ceremony; adhvara \[word\].”
+------------------------------------------------------------------------
+- *cakānāḥ* ← *kan*
+- \[verb noun\], nominative, plural
+- “like; delight; desire.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**ते** **हि** ते खलु **यज्ञेषु** यागेषु **यज्ञियासः** यज्ञार्हा यष्टव्याः **ऊमाः** अवितारः **आदित्येन** **नाम्ना** आदित्यसंबन्धिनोदकेन **शंभविष्ठाः** सुखस्य भावयितारः । यद्वा । आदित्याख्येन नाम्नादित्यनामकेन देवेन सह शंभविष्ठाः । **ते** मरुतः **नः** अस्मान् **अवन्तु** । **रथतूः** रथतुरो रथस्य यशगमनसाधनस्य त्वरयितारः सन्तः **मनीषां** स्तुतिमवन्तु रक्षन्तु । कीदृशास्ते । **अध्वरे** **यामन्** यागगमने **महः** महद्धविः **चकानाः** कामयमानाः ॥ ॥ ११ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“May those protecting deities who are entitled to be worshipped at sacrifices, who under the name ofĀdityas are the bestowers of felicity, may they (the **Maruts**) accelerating their chariots, and desirous of theample (oblation), upon their arrival at the sacrificed protect our praise.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Under the name of **Ādityas**: or, by meansof the water connected with **Āditya** (the sun)
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+For they are helpers worthy to receive sacrifice at the sacrifices, the best  luck-bringers, by the Ādityan name.  
+Let them aid our inspiration, (like a horse) that outstrips chariots, as  they take pleasure in the journey of their great (host) and in the  ceremony.
+</details>
+
+<details><summary>+Griffith</summary>
+
+For these are helps adored at sacrifices, bringing good fortune by their name Adityas.  
+     Speeding on cars let them protect our praises, delighting in our sacrifice and worship.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Denn diese bei dem Opfer zu verehrenden Helfer, die heilsamsten mit dem aditischen Namen, die sollen unsere Gebete bevorzugen, die Wagen überholend und bei ihrer großen Ausfahrt am Opfer Gefallen findend.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+So mögen denn die ehrwürdigen Genossen bei dem Opfer, die durch der Aditja's Wesen am meisten Heil bringen, unser Gebet befördern, mit den Wagen herbeieilend, und rechtes Gefallen finden an dem Feste und der Opferfeier.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Ведь эти помощники на жертвоприношениях, достойные жертв,  
+Самые благотворные из-за (своего) имени Адитьев,  
+Да помогут они нашей молитве, (их толпа), обгоняющая колесницы,  
+(Они,) находящие удовольствие в обряде во время (своего) великого выезда!
+</details>

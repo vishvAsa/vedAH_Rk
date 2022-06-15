@@ -1,0 +1,140 @@
++++
+title = "007"
+devataa = "पवमानः सोमः"
+RShiH = "मनुराप्सवः"
+ChandaH = "उष्णिक्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+प꣡वस्व देव꣡वीतय  
+इ꣡न्दो धा꣡राभिर् ओ꣡जसा  
+आ꣡ कल꣡शम् म꣡धुमान् सोम नः सदः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M;; repeated line  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पव॑स्व । दे॒वऽवी॑तये । इन्दो॒ इति॑ । धारा॑भिः । ओज॑सा ।  
+आ । क॒लश॑म् । मधु॑ऽमान् । सो॒म॒ । नः॒ । स॒दः॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *pavasva* ← *pū*
+- \[verb\], singular, Present imperative
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *devavītaya* ← *deva*
+- \[noun\], masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *devavītaya* ← *vītaye* ← *vīti*
+- \[noun\], dative, singular, feminine
+------------------------------------------------------------------------
+- *indo* ← *indu*
+- \[noun\], vocative, singular, masculine
+- “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
+    juice.”
+------------------------------------------------------------------------
+- *dhārābhir* ← *dhārābhiḥ* ← *dhārā*
+- \[noun\], instrumental, plural, feminine
+- “flush; flow; current; spring; fountain.”
+------------------------------------------------------------------------
+- *ojasā* ← *ojas*
+- \[noun\], instrumental, singular, neuter
+- “strength; power; ojas; ojas \[word\]; potency; might.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *kalaśam* ← *kalaśa*
+- \[noun\], accusative, singular, masculine
+- “jar.”
+------------------------------------------------------------------------
+- *madhumān* ← *madhumat*
+- \[noun\], nominative, singular, masculine
+- “sweet; honeyed; sweet; pleasant.”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *naḥ* ← *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *sadaḥ* ← *sad*
+- \[verb\], singular, Aorist inj. (proh.)
+- “sit down; break down; slow; sink; crumble; fracture; perish; ride;
+    stop; besiege; tire.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **इन्दो** सोम **देववीतये** देवानां भक्षणाय **ओजसा** बलेन **धाराभिः** आत्मीयाभिः **पवस्व** क्षर । हे **सोम** **मधुमान्** मदकररसवांस्त्वं **नः** अस्मदीयं कलशं द्रोणाभिधानम् ॥ **आ** **सदः** । सदेर्लुङि रूपम् । आसीद ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Flow, **Indu**, in your strength with your streams for the banquet of the gods; sit down, **Soma**, who are sweet-flavoured, in our pitcher.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Purify yourself in streams, o drop, to pursue the gods with strength. Honeyed, sit in our tub, o Soma.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+On imperatival sadaḥ, see comm. ad IX.2.2.
+
+
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/07-09.md">
+<details open><summary><h2>07-09 ...{Loading}...</h2></summary>
+
+Because of the distribution of word boundaries, the first two vss. of this tṛca make a separate 4-syllable pāda impossible (7 … soma naḥ sadaḥ; 8 … amṛ̥́tāya kám papuḥ), though vs. 9 ends with the signature svarvídaḥ. Therefore this must be the 8 8 / 12 Uṣṇih variety. No striking thematic unity.
+
+</details>
+</div>
+</details>
+
+<details><summary>+Griffith</summary>
+
+O Indu, with thy streams, in might, flow for the banquet of the Gods:  
+     Rich in meath, Soma, in our beaker take thy place.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Läutere dich zur Götterladung, o Saft, mächtig in Strömen; setze dich versüßt in unseren Krug, o Soma!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+O Indu, riesle hell mit Kraft in Strömen hin zum Göttermahl, In unsern Becher, Soma, setz dich honigsüss.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Очищайся для приглашения богов,  
+О сок сомы, (своими) потоками, (своею) силой!  
+Садись, о сома, полный меда, в наш кувшин!
+</details>

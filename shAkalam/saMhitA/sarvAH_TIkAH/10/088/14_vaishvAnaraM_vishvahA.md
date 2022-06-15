@@ -1,0 +1,154 @@
++++
+title = "014"
+devataa = "सूर्यवैश्वानरोग्नी"
+RShiH = "मूर्धन्वानाङ्गिरसो वामदेव्यो वा"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+वैश्वानरं꣡ विश्व꣡हा दीदिवां꣡सम्  
+म꣡न्त्रैर् अग्निं꣡ कवि꣡म् अ꣡छा वदामः  
+यो꣡ महिम्ना꣡ परिबभू꣡व उर्वी꣡  
+उता꣡व꣡स्ताद् उत꣡ देवः꣡ पर꣡स्तात्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+popular  
+popular  
+popular  
+popular
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वै॒श्वा॒न॒रम् । वि॒श्वहा॑ । दी॒दि॒ऽवांस॑म् । मन्त्रैः॑ । अ॒ग्निम् । क॒विम् । अच्छ॑ । व॒दा॒मः॒ ।  
+यः । म॒हि॒म्ना । प॒रि॒ऽब॒भूव॑ । उ॒र्वी इति॑ । उ॒त । अ॒वस्ता॑त् । उ॒त । दे॒वः । प॒रस्ता॑त् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *vaiśvānaraṃ* ← *vaiśvānaram* ← *vaiśvānara*
+- \[noun\], accusative, singular, masculine
+- “Agni; fire; Vaiśvānara; Vaiśvānara; sacrificial fire; sun.”
+------------------------------------------------------------------------
+- *viśvahā*
+- \[adverb\]
+------------------------------------------------------------------------
+- *dīdivāṃsam* ← *dīdī*
+- \[verb noun\], accusative, singular
+- “shine; glitter.”
+------------------------------------------------------------------------
+- *mantrair* ← *mantraiḥ* ← *mantra*
+- \[noun\], instrumental, plural, masculine
+- “mantra; Mantra; consultation; advice; consultation; mantra
+    \[word\]; speech; plan.”
+------------------------------------------------------------------------
+- *agniṃ* ← *agnim* ← *agni*
+- \[noun\], accusative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *kavim* ← *kavi*
+- \[noun\], accusative, singular, masculine
+- “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
+    guru; Brahma.”
+------------------------------------------------------------------------
+- *acchā*
+- \[adverb\]
+- “towards; accha \[prefix\].”
+------------------------------------------------------------------------
+- *vadāmaḥ* ← *vad*
+- \[verb\], plural, Present indikative
+- “describe; teach; speak; tell; say; call; name; enumerate; declare;
+    diagnose; address; say; pronounce; express; instruct; order.”
+------------------------------------------------------------------------
+- *yo* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *mahimnā* ← *mahiman*
+- \[noun\], instrumental, singular, masculine
+- “greatness; power; mahiman.”
+------------------------------------------------------------------------
+- *paribabhūvorvī* ← *paribabhūva* ← *paribhū* ← *√bhū*
+- \[verb\], singular, Perfect indicative
+- “overcome; contemn; enclose; discredit; happen.”
+------------------------------------------------------------------------
+- *paribabhūvorvī* ← *urvī*
+- \[noun\], accusative, dual, feminine
+- “Earth; floor; land; heaven and earth; urvī; pṛthivī; kingdom.”
+------------------------------------------------------------------------
+- *utāvastād* ← *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *utāvastād* ← *avastāt*
+- \[adverb\]
+- “below.”
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *devaḥ* ← *deva*
+- \[noun\], nominative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *parastāt*
+- \[adverb\]
+- “above; subsequently.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**विश्वहा** सर्वदा **दीदिवांसं** दीप्तं **कविं** क्रान्तप्रज्ञं **वैश्वानरम्** **अग्निं** **मन्त्रैः** **अच्छा** **वदामः** अभिष्टुमः । **यः** वैश्वानरोऽग्निः **महिम्ना** महत्त्वेन **उर्वी** द्यावापृथिव्यौ **परिबभूव** परिभवति । **उत** अपि च अयम् **अवस्तात्** अधस्तात् तपति । **उत** अपि चायं सूर्यात्मकः **देवः** **परस्तात्** उपरिष्टाच्च तपतीत्यर्थः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“We glorify daily with praises the brilliant and sage **Agni** **Vaiśvānara**, the god who overcomes by hismight both heaven and earth, (burning) both below and above.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+With mantras we address the poet Agni Vaiśvānara shining everywhere, the god who by his greatness encompasses the two wide (worlds) from  below and from above.
+</details>
+
+<details><summary>+Griffith</summary>
+
+We call upon the Sage with holy verses, Agni Vaisvanara the ever-beaming,  
+     Who hath surpassed both heaven and earth in greatness: lie is a God below, a God above us.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Den Vaisvanara, den allezeit leuchtenden, den Agni, den Seher, rufen wir mit Dichterworten an, den Gott, der mit seiner Größe die beiden breiten Welthälften umspannt, sowohl von unten als von oben.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Den Männerhort, der Tag für Tag erstrahlet, den weisen Agni preisen wir mit Sprüchen Der beide Welten überragt an Grösse, der Gott im untern und im obern Raume.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Вайшванару, мощно пылающего все дни,  
+Агни-провидца мы призываем заклинаниями,  
+Боги, который (своим) величием охватил обе широкие (половины вселенной),  
+Как снизу, так и сверху.  
+15 Я слышал о двух путях предков:  
+(Путь) богов и (путь) смертных.  
+На этих двух (путях) сходится все то, что движется
+</details>

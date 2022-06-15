@@ -1,0 +1,171 @@
++++
+title = "012"
+devataa = "ऋभवः"
+RShiH = "दीर्घतमा औचथ्यः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+सम्मी꣡ल्य य꣡द् भु꣡वना पर्य꣡सर्पत  
+कु꣡व स्वित् तात्या꣡ पित꣡रा व आसतुः  
+अ꣡शपत यः꣡ कर꣡स्नं व आददे꣡  
+यः꣡ प्रा꣡ब्रवीत् प्रो꣡ त꣡स्मा अब्रवीतन
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+popular  
+popular  
+popular  
+popular
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स॒म्ऽमील्य॑ । यत् । भुव॑ना । प॒रि॒ऽअस॑र्पत । क्व॑ । स्वि॒त् । ता॒त्या । पि॒तरा॑ । वः॒ । आ॒स॒तुः॒ ।  
+अश॑पत । यः । क॒रस्न॑म् । वः॒ । आ॒ऽद॒दे । यः । प्र । अब्र॑वीत् । प्रो इति॑ । तस्मै॑ । अ॒ब्र॒वी॒त॒न॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *saṃmīlya* ← *sammīlay* ← *√mīl*
+- \[verb noun\]
+------------------------------------------------------------------------
+- *yad* ← *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *bhuvanā* ← *bhuvana*
+- \[noun\], accusative, plural, neuter
+- “Earth; being; world; bhuvana \[word\].”
+------------------------------------------------------------------------
+- *paryasarpata* ← *parisṛp* ← *√sṛp*
+- \[verb\], plural, Imperfect
+------------------------------------------------------------------------
+- *kva*
+- \[adverb\]
+- “wherein; how; kva \[word\].”
+------------------------------------------------------------------------
+- *svit* ← *svid*
+- \[adverb\]
+- “svid \[word\].”
+------------------------------------------------------------------------
+- *tātyā* ← *tātya*
+- \[noun\], nominative, dual, masculine
+- “fatherly.”
+------------------------------------------------------------------------
+- *pitarā* ← *pitṛ*
+- \[noun\], nominative, dual, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+------------------------------------------------------------------------
+- *va* ← *vaḥ* ← *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *āsatuḥ* ← *as*
+- \[verb\], dual, Perfect indicative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *aśapata* ← *śap*
+- \[verb\], plural, Imperfect
+- “curse; swear; affirm; promise.”
+------------------------------------------------------------------------
+- *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *karasnaṃ* ← *karasnam* ← *karasna*
+- \[noun\], accusative, singular, masculine
+- “forearm.”
+------------------------------------------------------------------------
+- *va* ← *vaḥ* ← *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *ādade* ← *ādā* ← *√dā*
+- \[verb\], singular, Perfect indicative
+- “take; take away; take out; pick; extract; drink; grasp; put;
+    collect; accept; get; choose; remove; steal; bring; press out;
+    impound; keep; eat; use; distill.”
+------------------------------------------------------------------------
+- *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *prābravīt* ← *prabrū* ← *√brū*
+- \[verb\], singular, Imperfect
+- “state; name; disclose.”
+------------------------------------------------------------------------
+- *pro* ← *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *pro* ← *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *tasmā* ← *tasmai* ← *tad*
+- \[noun\], dative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *abravītana* ← *brū*
+- \[verb\], plural, Imperfect
+- “say; tell; describe; speak; state; answer; call; explain; address;
+    proclaim; talk; talk; choose.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे ऋभवः रश्मयः यूयं **यत्** यदा **भुवना** भूतजातानि **संमील्य** संमीलनं कृत्वा जलधरपटलैराच्छाद्य **पर्यसर्पत** परितः सर्पणं कुरुथ वर्षथेत्यर्थः । **तात्या** तातौ तायमाने वृष्ट्युदके । यद्वा । तात्या तासु वर्षासु ॥ छान्दसस्त्यप्रत्ययो दकारस्यात्वं च ॥ अथवा पितृविशेषणम् । तात्या तत्कालीनौ **पितरा** जगतः पालकौ सूर्यचन्द्रमसौ **क्व** **स्वित्** **आसतुः** कुत्र खलु तिष्ठतः ॥ अस्तेर्लिटि व्यत्ययेन भूभावाभावः । यद्वा । असतेर्गत्यर्थस्य लिटि एतद्रूपम् ॥ अहोरात्रविभागेन प्रवर्षयथेत्यर्थः । किंच ईदृशान् **वः** युष्मान् **यः** कोऽपि वृष्टिप्रतिबन्धकारी राक्षसादिः **करस्नम्** । बाहुनामैतत् , ‘करस्नौ बाहू ' (नि. २. ४. ७ ) इत्युक्तत्वात् । अत्र तु अकारान्तम् । युष्मदीयं हस्तम् **आददे** गृह्णाति प्रतिरोधं करोति तम् **अशपत** नाशयथ । **यः** च **प्राब्रवीत्** प्रकर्षेण वाचा निरुन्द्धे **तस्मै** **प्रो** प्रैव **अब्रवीतन** प्रकर्षेण भर्त्सनादिशब्दं कुरुथ । यद्वा । यो नूनं स्तौति तं प्रकर्षेण स्तुतेत्यर्थः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“As you glide along enveloping the regions (in clouds); where, then, are the parents (of the world)? curse him who arrests your arm; reply sternly to him who speaks disrespectfully (to you).”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+The parents of the world: the sun and the moon, the protectors of the world, which, during the rains, are hidden by the clouds; who speaks disrespectfully: yaḥ prābravīt pra tasmā abravītana: pra prefixed to brū = either to speak harshly or kindly, to censure or to praise
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+When, having shut your eyes, you crept around the living worlds, where  were your loving parents? You cursed him who took your arm. Who made a declaration (to you),  to him you also made a declaration.
+</details>
+
+<details><summary>+Griffith</summary>
+
+As, compassing them round, ye glided through the worlds, where had the venerable Parents their abode?  
+     Ye laid a curse on him who raised his arm at you: to him who spake aloud to you ye spake again.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Als ihr mit geschlossenen Augen die Wesen umschlichet, wo waren da eure zärtlichen Eltern? Ihr fluchtet dem, der euch am Arme faßte. Wer euch anredete, dem standet ihr Rede.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Als ihr geschlossnen Auges durch die Wesen schlicht, wo weilte damals eur geliebtes Aelternpaar? Ihr fluchtet dem, der hemmend in den Arm euch fiel; dem, der euch grüsste, botet ihr den Gegengruss.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Когда с закрытыми глазами вы двигались ощупью вокруг существ,  
+Где были ваши любящие родители?  
+Вы прокляли (того,) кто взял вас за руку.  
+Кто заговорил (с вами), с тем и вы заговорили.
+</details>

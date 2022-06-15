@@ -1,0 +1,130 @@
++++
+title = "006"
+devataa = "सूर्याविवाहः"
+RShiH = "सावित्री सूर्या ऋषिका"
+ChandaH = "अनुष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+रइ꣡भी आसीद् अनुदे꣡यी  
+नाराशंसी꣡ निओ꣡चनी  
+सूर्या꣡या भद्र꣡म् इ꣡द् वा꣡सो  
+गा꣡थयैति प꣡रिष्कृतम्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)  
+popular;; epic anuṣṭubh (380)
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+रैभी॑ । आ॒सी॒त् । अ॒नु॒ऽदेयी॑ । ना॒रा॒शं॒सी । नि॒ऽओच॑नी ।  
+सू॒र्यायाः॑ । भ॒द्रम् । इत् । वासः॑ । गाथ॑या । ए॒ति॒ । परि॑ऽकृतम् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *raibhy* ← *raibhī*
+- \[noun\], nominative, singular, feminine
+------------------------------------------------------------------------
+- *āsīd* ← *āsīt* ← *as*
+- \[verb\], singular, Imperfect
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *anudeyī*
+- \[noun\], nominative, singular, feminine
+- “foster mother.”
+------------------------------------------------------------------------
+- *nārāśaṃsī*
+- \[noun\], nominative, singular, feminine
+------------------------------------------------------------------------
+- *nyocanī*
+- \[noun\], nominative, singular, feminine
+------------------------------------------------------------------------
+- *sūryāyā* ← *sūryāyāḥ* ← *sūryā*
+- \[noun\], genitive, singular, feminine
+- “Citrullus colocynthis Schrad..”
+------------------------------------------------------------------------
+- *bhadram* ← *bhadra*
+- \[noun\], nominative, singular, neuter
+- “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
+    fine-looking; beautiful.”
+------------------------------------------------------------------------
+- *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *vāso* ← *vāsaḥ* ← *vāsas*
+- \[noun\], nominative, singular, neuter
+- “clothing; fabric; garment; feather; dress; envelope.”
+------------------------------------------------------------------------
+- *gāthayaiti* ← *gāthayā* ← *gāthā*
+- \[noun\], instrumental, singular, feminine
+- “song; gāthā \[word\].”
+------------------------------------------------------------------------
+- *gāthayaiti* ← *eti* ← *i*
+- \[verb\], singular, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *pariṣkṛtam* ← *pariṣkṛ* ← *√kṛ*
+- \[verb noun\], nominative, singular
+- “decorate.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+आभिः सूर्या स्वविवाहमस्तौदित्युक्तम् । सूर्या सावित्री ब्रूते । **रैभी**। रैभ्यः काश्चनर्चः । ‘रैभीः शंसति रेभन्तो वै देवाश्चर्षयश्च स्वर्गं लोकमायन्' (ऐ. ब्रा. ६. ३२) इत्यादिब्राह्मणविहिता रैभ्यः । सा रैभी **अनुदेयी** **आसीत्** । दीयमानवधूविनोदनायानुदीयमाना वयस्यासीत् । तथा **नाराशंसी**। प्राता रत्नम् ' (ऋ. सं. १. १२५. १ ) इत्यादिका मनुष्याणां स्तुतयो नाराशंस्यः । सा नाराशंसी **न्योचनी** । उचतिः सेवाकर्मा । सा वधूशुश्रूषार्थं दीयमाना दास्यभवत् । **सूर्यायाः** मम **भद्रं** **वासः** विचित्रं दुकूलादिकमाच्छादनयोग्यं वस्त्रं **गाथया** **परिष्कृतम्** अलंकृतम् **एति** । 'गाथा गीयते' इत्यादिब्राह्मणोक्ता गाथा । तया गाथया यत्परिष्कृतमस्ति तद्वासोऽभवदिति ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Raibhi was her companion; Nārāśaṃsī her slave; **Sūrya**'s lovely dress was adorned by **Gātha**.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Raibhi, Nārāśaṃsī and **Gāthā** are person nifications of son and praise. Raibhi from rebh, to sound:**Aitareya** **Brāhmaṇa** 6.32
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Raibhī was (the female attendant) to be given along (with the bride),  Nārāśaṃsī the in-dweller.  
+Sūryā’s auspicious garment goes adorned with a song.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Raibhi was her dear bridal friend, and Narasamsi led her home.  
+     Lovely was Surya's robe: she came to that which Gatha had adorned.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Die Raibhi war die Amme, die Narasamsi die Gespielin. Das gute Kleid der Surya ist mit der Gatha ausgeputzt.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Die Raibhī-strophe war ihre Mitgift, die Nārāçansī-strophe ihr Schmuck; schön fürwahr war das Kleid der Suriā; sie erlangte das mit Gesang ausgeschmückte.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+(Песня) райбхи была дающей приданное.  
+(Песня) нарашанси – подружкой.  
+Сурьи прекрасный наряд  
+Был весь украшен напевами.
+</details>

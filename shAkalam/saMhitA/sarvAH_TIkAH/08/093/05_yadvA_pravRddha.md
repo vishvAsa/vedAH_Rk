@@ -1,0 +1,137 @@
++++
+title = "005"
+devataa = "इन्द्रः"
+RShiH = "सुकक्षः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+य꣡द् वा प्रवृद्ध सत्पते  
+न꣡ मरा इ꣡ति म꣡न्यसे  
+उतो꣡ त꣡त् सत्य꣡म् इ꣡त् त꣡व
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यत् । वा॒ । प्र॒ऽवृ॒द्ध॒ । स॒त्ऽप॒ते॒ । न । म॒रै॒ । इति॑ । मन्य॑से ।  
+उ॒तो इति॑ । तत् । स॒त्यम् । इत् । तव॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *yad* ← *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *pravṛddha* ← *pravṛdh* ← *√vṛdh*
+- \[verb noun\], vocative, singular
+- “increase; develop; advance.”
+------------------------------------------------------------------------
+- *satpate* ← *satpati*
+- \[noun\], vocative, singular, masculine
+- “Indra.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *marā* ← *marai* ← *mṛ*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “mṛ; die; disappear; go out.”
+------------------------------------------------------------------------
+- *iti*
+- \[adverb\]
+- “thus; so; iti \[word\].”
+------------------------------------------------------------------------
+- *manyase* ← *man*
+- \[verb\], singular, Present indikative
+- “think of; name; believe; teach; honor; deem; recommend; approve;
+    think; define; call; respect; believe; enumerate; understand; see;
+    describe.”
+------------------------------------------------------------------------
+- *uto* ← *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *uto* ← *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *tat* ← *tad*
+- \[noun\], nominative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *satyam* ← *satya*
+- \[noun\], nominative, singular, neuter
+- “true; real; real; faithful; good.”
+------------------------------------------------------------------------
+- *it* ← *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *tava* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+वाशब्दः समुच्चये । अपि च हे **प्रवृद्ध** स्वबलेन प्रवर्धमान **सत्पते** सतां पते स्वप्रकाशाधिक्येन सतां  नक्षत्राणां पते हे इन्द्र **न** **मरै** **इति** मनुष्यवद्वार्धक्येनाहं न म्रिय इति **यत्** यदि **मन्ये** युध्यसे। मृङ् प्राणत्यागे'। लेट्यडागमः।' वैतोऽन्यत्र' इत्यैकारः। **उतो** अपि च **तव** **तत्** न म्रिय इति मननं **सत्यमित्** यथार्थमेव । इन्द्रो न म्रियत इत्यर्थे मन्त्रान्तरं-- न ह्यस्या अपरं चन जरसा मरते पतिः' (ऋ. सं. १०. ८६. ११) इति ॥ ॥ २१ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“When, swelling in your might, lord of the good, you think, 'I shall not die', that thought of yours is indeedtrue.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Lord of the good: lord of the **nakṣatras**
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Or if, o lord of settlements grown strong, you think, “I shall not die,” just that comes true for you.
+</details>
+
+<details><summary>+Griffith</summary>
+
+When, Mighty One, Lord of the brave, thou thinkest thus, I shall not die,  
+     That thought of thine is true indeed.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Oder wenn du hochgewachsener, rechtmäßiger Gebieter denkst: " Ich werde nicht sterben", so wird auch das bei dir wahr.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Und wenn du hoch erhabner Fürst »nicht werd' ich sterben« also denkst, So ist auch dies dein Denken wahr.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

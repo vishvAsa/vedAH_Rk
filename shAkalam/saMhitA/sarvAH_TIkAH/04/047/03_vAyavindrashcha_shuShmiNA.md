@@ -1,0 +1,147 @@
++++
+title = "003"
+devataa = "इन्द्रवायू"
+RShiH = "वामदेवो गौतमः"
+ChandaH = "अनुष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+वा꣡यव् इ꣡न्द्रश् च शुष्मि꣡णा  
+सर꣡थं शवसस् पती  
+नियु꣡त्वन्ता न ऊत꣡य  
+आ꣡ यातं सो꣡मपीतये
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+वायो॒ इति॑ । इन्द्रः॑ । च॒ । शु॒ष्मिणा॑ । स॒ऽरथ॑म् । श॒व॒सः॒ । प॒ती॒ इति॑ ।  
+नि॒युत्व॑न्ता । नः॒ । ऊ॒तये॑ । आ । या॒त॒म् । सोम॑ऽपीतये ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *vāyav* ← *vāyo* ← *vāyu*
+- \[noun\], vocative, singular, masculine
+- “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
+    draft; vāyu \[word\]; Vāyu; Marut.”
+------------------------------------------------------------------------
+- *indraś* ← *indraḥ* ← *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *śuṣmiṇā* ← *śuṣmin*
+- \[noun\], nominative, dual, masculine
+- “strong; hotheaded.”
+------------------------------------------------------------------------
+- *sarathaṃ* ← *sa*
+- \[adverb\]
+- “with; little; together.”
+------------------------------------------------------------------------
+- *sarathaṃ* ← *ratham* ← *ratha*
+- \[noun\], accusative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *śavasas* ← *śavasaḥ* ← *śavas*
+- \[noun\], genitive, singular, neuter
+- “strength; power; superiority.”
+------------------------------------------------------------------------
+- *patī* ← *pati*
+- \[noun\], nominative, dual, masculine
+- “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
+    commanding officer; leader; owner; mayor; lord.”
+------------------------------------------------------------------------
+- *niyutvantā* ← *niyutvat*
+- \[noun\], nominative, dual, masculine
+------------------------------------------------------------------------
+- *na* ← *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *ūtaya* ← *ūtaye* ← *ūti*
+- \[noun\], dative, singular, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *yātaṃ* ← *yātam* ← *yā*
+- \[verb\], dual, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *somapītaye* ← *soma*
+- \[noun\], masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *somapītaye* ← *pītaye* ← *pīti*
+- \[noun\], dative, singular, feminine
+- “drinking; haritāla.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **वायो** त्वम् **इन्द्रश्च** हे **शवसस्पती** बलस्य पती **शुष्मिणा** बलवन्तौ **नियुत्वन्ता** नियुत्संज्ञकाश्ववन्तौ युवां **सरथं** समानमेव रथमारुह्येति शेषः। **न** **ऊतये** रक्षणाय **सोमपीतये** सोमपानायात्र **आ** **यातम्** आगच्छतम् । यद्वा । सरथमधितिष्ठतम् आरुह्य चायातमिति च वाक्यद्वयम् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Indra** and **Vāyu**, who are lords of strength, vigorous and drawn by the **Niyut** steeds, come (riding in) the same car; drink the **Soma** for our protection.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+O Vāyu and Indra, tempestuous ones, lords of power, on the same  chariot,  
+provided with teams, drive here to help us, to drink the soma.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+Of the two pāda-final qualifiers, śuṣmínā (a) and śavasas patī (b), the first is nom., the 2nd voc. It is not clear to me why, since, save for the accent, nom. and voc. would be identical.
+</details>
+
+<details><summary>+Griffith</summary>
+
+O Indra-Vayu, mighty Twain, speeding together, Lords of Strength,  
+     Come to our succour with your team, that ye may drink the Soma juice.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Vayu und Indra, die zwei Ungestümen, kommet auf dem gleichen Wagen, ihr Herren der Kraft, mit den Niyutgespannen, um uns die Gunst zu erweisen, zum Somatrunk!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+O Indra-Vaju, muthbegabt, auf gleichem Wagen, Herrn der Kraft, Mit Vielgespannen kommt zu uns, zur Labung und zum Somatrunk.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+О Ваю и Индра, двое неистовых,  
+На одной колеснице, о повелители силы,  
+С упряжками (-дарами) приезжайте  
+К нам на помощь, на питье сомы!
+</details>

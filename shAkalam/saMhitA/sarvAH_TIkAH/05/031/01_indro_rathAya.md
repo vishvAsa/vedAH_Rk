@@ -1,0 +1,175 @@
++++
+title = "001"
+devataa = "इन्द्रः"
+RShiH = "अवस्युरात्रेयः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+इ꣡न्द्रो र꣡थाय प्रव꣡तं कृणोति  
+य꣡म् अध्य꣡स्थान् मघ꣡वा वाजय꣡न्तम्  
+यूथे꣡व पश्वो꣡ वि꣡ उनोति गोपा꣡  
+अ꣡रिष्टो याति प्रथमः꣡ सि꣡षासन्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इन्द्रः॑ । रथा॑य । प्र॒ऽवत॑म् । कृ॒णो॒ति॒ । यम् । अ॒धि॒ऽअस्था॑त् । म॒घऽवा॑ । वा॒ज॒ऽयन्त॑म् ।  
+यू॒थाऽइ॑व । प॒श्वः । वि । उ॒नो॒ति॒ । गो॒पाः । अरि॑ष्टः । या॒ति॒ । प्र॒थ॒मः । सिसा॑सन् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *indro* ← *indraḥ* ← *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *rathāya* ← *ratha*
+- \[noun\], dative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *pravataṃ* ← *pravatam* ← *pravat*
+- \[noun\], accusative, singular, feminine
+- “slope; river.”
+------------------------------------------------------------------------
+- *kṛṇoti* ← *kṛ*
+- \[verb\], singular, Present indikative
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *yam* ← *yad*
+- \[noun\], accusative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *adhyasthān* ← *adhyasthāt* ← *adhiṣṭhā* ← *√sthā*
+- \[verb\], singular, Root aorist (Ind.)
+- “reach; board; repose on; govern; sit down; stand; prevail.”
+------------------------------------------------------------------------
+- *maghavā* ← *maghavan*
+- \[noun\], nominative, singular, masculine
+- “Indra; maghavan \[word\].”
+------------------------------------------------------------------------
+- *vājayantam* ← *vājay* ← *√vaj*
+- \[verb noun\], accusative, singular
+- “incite.”
+------------------------------------------------------------------------
+- *yūtheva* ← *yūthā* ← *yūtha*
+- \[noun\], accusative, plural, neuter
+- “herd; troop; battalion.”
+------------------------------------------------------------------------
+- *yūtheva* ← *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *paśvo* ← *paśvaḥ* ← *paśu*
+- \[noun\], genitive, singular, masculine
+- “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
+    Paśu; herd; goat.”
+------------------------------------------------------------------------
+- *vy* ← *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *unoti* ← *u*
+- \[verb\], singular, Present indikative
+------------------------------------------------------------------------
+- *gopā* ← *gopāḥ* ← *gopā*
+- \[noun\], nominative, singular, masculine
+- “herder; defender.”
+------------------------------------------------------------------------
+- *ariṣṭo* ← *ariṣṭaḥ* ← *ariṣṭa*
+- \[noun\], nominative, singular, masculine
+- “safe; unharmed.”
+------------------------------------------------------------------------
+- *yāti* ← *yā*
+- \[verb\], singular, Present indikative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *prathamaḥ* ← *prathama*
+- \[noun\], nominative, singular, masculine
+- “first; prathama \[word\]; third; young; chief(a); best;
+    antecedent.”
+------------------------------------------------------------------------
+- *siṣāsan* ← *siṣās* ← *√san*
+- \[verb noun\], nominative, singular
+- “win; gain.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**मघवा** धनवान् **इन्द्रः** **वाजयन्तम्** अन्नमिच्छन्तं **यं** रथम् अध्यस्थात् अधितिष्ठति तस्मै **रथाय** **प्रवतं** प्रवणमाजिं **कृणोति** करोति । अपि च **गोपाः** गोपालः **पश्वः** **यूथेव** पशोः पशूनां यूथानि यथा **व्युनोति** प्रेरयति तथा शत्रुसैन्यानि प्रेरयति । **अरिष्टः** शत्रुभिः स्वयमहिंसितः **प्रथमः** देवानां मुख्य इन्द्रः **सिषासन्** शत्रुधनानीच्छन् **याति** गच्छति ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Indra**, the possessor of opulence, directs downwards the car over which, intended (to receive sacrificial) viands, he presides; he proceeds unimpeded, the first of the gods, driving (his enemies before him), as a herdsman drives the herds of cattle.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Indra makes an easy slope for his chariot, the prize-seeking one, which  the bounteous one has mounted.  
+Like a herdsman separating the flocks of livestock, he keeps (his  
+chariot) separate (from the others). Invulnerable, he drives as the first  to seek winnings.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+Oldenberg is disturbed by aramṇāḥ ‘brought to peace / to a stop’, when we would expect Indra to releasing the waters to flow. I’m not sure this is a problem: since the floods were hard pressed (badbadhānā́n), Indra could be soothing and quieting the tormented waters. Cf. also in the previous hymn V.31.8 apáḥ … áramayaḥ “you brought the waters to rest,” the same sentiment with the same root. However, it could also be an example of alluding to a sub-surface word by the overt use of its opposite, like bodháya- for *svāpáya in I.103.7; see comm. ad loc. In other words, aramṇāḥ could be signaling ‘set in motion’ by opposition to its literal sense ‘bring to a stop’.
+
+In any case the expected action is expressed later in the vs.: d sṛjó ví dhā́rā(h) “you set loose the streams,” in a species of poetic repair. See also comm. on vs. 2.
+
+Note the stylistic quirk of post-verbal preverb in ásrjo ̥ [/sṛjó] ví OBJ (pādas a, d) versus ví … váḥ (c) and áva … han (d). The latter VP also contains a phonetic figure in áva dānavám.
+
+In c the usual placement of the rel. pronoun after at most one constituent is precariously observed (if at all), and in any case the yád is descriptively found deep in its clause. However, its placement (almost) conforms to the letter of the law: the voc. indra is extraclausal for these purposes, and mahā́ntam … párvatam though heavy is a single constituent. It’s the ví that may tip the balance towards noncompliance. On the other hand, the configuration PREV yá- VERB is so standard that this may determine the position of yád here.
+
+Technically speaking the opening clause of d may be part of the dependent clause in c (“when you pried apart … (and) set loose …”), with áva dānaváṃ han the sole main clause, but since in Vṛtra narratives there’s usually a cause-and-effect relationship between opening the mountain and letting the waters flow, I think the published translation is the better choice.
+</details>
+
+<details><summary>+Griffith</summary>
+
+MAGHAVAN Indra turns his chariot downward, the strength-displaying car which he hath mounted.  
+     Even as a herdsman driveth forth his cattle, he goeth, first, uninjured, fain for treasure.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Indra, der Gabenreiche, verschafft dem wetteifernden Wagen, den er bestiegen hat, den Vorsprung. Er mustert die Wagen wie der Hirt die Viehherden. Unbeschädigt fährt er an der Spitze als erster Preiskämpfer.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Es schaffet Indra schnelle Fahrt dem Wagen, der Preis gewinnt und den der Held bestiegen; Gleichwie der Hirt den Heerden rufend vorgeht, so kommt zuerst er ungehemmt, verlangend.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Для участвующей в состязании колесницы, на которую он взошел,  
+Индра, щедрый, создает отлогий путь.  
+Он погоняет (ее), словно пастух – стада скота.  
+Невредимая, идет она первой, стремясь к победе.
+</details>

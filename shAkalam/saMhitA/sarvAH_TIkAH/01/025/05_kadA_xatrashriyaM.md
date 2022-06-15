@@ -1,0 +1,131 @@
++++
+title = "005"
+devataa = "वरुणः"
+RShiH = "शुनःशेप आजीगर्तिः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+कदा꣡ क्षत्रश्रि꣡यं न꣡रम्  
+आ꣡ व꣡रुणं करामहे  
+मॄळीका꣡योरुच꣡क्षसम्+
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+क॒दा । क्ष॒त्र॒ऽश्रिय॑म् । नर॑म् । आ । वरु॑णम् । क॒रा॒म॒हे॒ ।  
+मृ॒ळी॒काय॑ । उ॒रु॒ऽचक्ष॑सम् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *kadā*
+- \[adverb\]
+- “when; kadā \[word\].”
+------------------------------------------------------------------------
+- *kṣatraśriyaṃ* ← *kṣatra*
+- \[noun\], neuter
+- “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
+------------------------------------------------------------------------
+- *kṣatraśriyaṃ* ← *śriyam* ← *śrī*
+- \[noun\], accusative, singular, masculine
+- “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
+    glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
+    \[word\]; śrī; prosperity; auspiciousness.”
+------------------------------------------------------------------------
+- *naram* ← *nara*
+- \[noun\], accusative, singular, masculine
+- “man; man; Nara; person; people; Nara; Puruṣa; nara \[word\];
+    servant; hero.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *varuṇaṃ* ← *varuṇam* ← *varuṇa*
+- \[noun\], accusative, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *karāmahe* ← *kṛ*
+- \[verb\], plural, Aorist conj./subj.
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *mṛḍīkāyorucakṣasam* ← *mṛḍīkāya* ← *mṛḍīka*
+- \[noun\], dative, singular, neuter
+- “compassion; favor.”
+------------------------------------------------------------------------
+- *mṛḍīkāyorucakṣasam* ← *uru*
+- \[noun\]
+- “wide; broad; great; uru \[word\]; much(a); excellent.”
+------------------------------------------------------------------------
+- *mṛḍīkāyorucakṣasam* ← *cakṣasam* ← *cakṣas*
+- \[noun\], accusative, singular, masculine
+- “eye; look; radiance.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**मृळीकाय** अस्मत्सुखाय **वरुणं** **कदा** कस्मिन् काले **आ** **करामहे** अस्मिन् कर्मणि आगतं करवाम । कीदृशम् । **क्षत्रश्रियं** बलसेविनं **नरं** नेतारं **उरुचक्षसं** बहूनां द्रष्टारम् । क्षत्रश्रियम् । क्षत्राणि श्रयतीति क्षत्रश्रीः । क्विब्वचि° ' ( पा. ३. २. १७८, २) इत्यादिना क्विप् दीर्घश्च । कृदुत्तरपदप्रकृतिस्वरत्वम् । नरम् ।' ऋदोरप्' इति अबन्तः आद्युदात्तः । करामहे । करोतेः व्यत्ययेन शप्। उरुचक्षसम् । ‘चक्षेर्बहुलं शिच्च' (उ. सू. ४.६७२) इत्यसुन् । शिद्वद्भावात् ख्याञादेशाभावः ॥ ॥१६॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“When for our happiness, shall we bring hither **Varuṇa**, eminent in strength, the guide (of men), the regarder of many?”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Uru-cakṣasam = bahunān draṣṭāram, the beholder of many
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+When will we attract broad-gazing Varuṇa—the superior man, glorious  in his rule—  
+to gain his mercy?
+</details>
+
+<details><summary>+Griffith</summary>
+
+When shall we bring, to be appeased, the Hero, Lord of warrior might,  
+     Him, the far-seeing Varuna?
+</details>
+
+<details><summary>+Geldner</summary>
+
+Wann werden wir den Herrn Varuna, der die Herrschaft zu Ehren bringt, zur Barmherzigkeit bewegen, den Weitschauenden ?
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Wann werden wir den Varuna, der weithin schaut und Herrschaft schmückt, Den Helden stimmen uns zur Huld?
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Когда же мужа, воплощающего блеск власти,  
+Варуну, мы побудим  
+К милосердию, (его,) далеко смотрящего?
+</details>

@@ -1,0 +1,199 @@
++++
+title = "003"
+devataa = "रक्षोहाग्निः"
+RShiH = "वामदेवो गौतमः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+प्र꣡ति स्प꣡शो वि꣡ सृज तू꣡र्णितमो  
+भ꣡वा पायु꣡र् विशो꣡ अस्या꣡ अ꣡दब्धः  
+यो꣡ नो दूरे꣡ अघ꣡शंसो यो꣡ अ꣡न्ति  
+अ꣡ग्ने मा꣡किष् टे व्य꣡थिर् आ꣡ दधर्षीत्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रति॑ । स्पशः॑ । वि । सृ॒ज॒ । तूर्णि॑ऽतमः । भव॑ । पा॒युः । वि॒शः । अ॒स्याः । अद॑ब्धः ।  
+यः । नः॒ । दू॒रे । अ॒घऽशं॑सः । यः । अन्ति॑ । अग्ने॑ । माकिः॑ । ते॒ । व्यथिः॑ । आ । द॒ध॒र्षी॒त् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *prati*
+- \[adverb\]
+- “towards; per; regarding; respectively; according to; until.”
+------------------------------------------------------------------------
+- *spaśo* ← *spaśaḥ* ← *spaś*
+- \[noun\], accusative, plural, masculine
+- “lookout; spy; spaś.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *sṛja* ← *sṛj*
+- \[verb\], singular, Present imperative
+- “create; shoot; discharge; free; cause; throw; emit; send; produce;
+    use; be born; make.”
+------------------------------------------------------------------------
+- *tūrṇitamo* ← *tūrṇitamaḥ* ← *tūrṇitama*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *bhavā* ← *bhū*
+- \[verb\], singular, Present imperative
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+------------------------------------------------------------------------
+- *pāyur* ← *pāyuḥ* ← *pāyu*
+- \[noun\], nominative, singular, masculine
+- “guard; pāyu \[word\]; Pāyu.”
+------------------------------------------------------------------------
+- *viśo* ← *viśaḥ* ← *viś*
+- \[noun\], genitive, singular, feminine
+- “people; tribe; Vaisya; national; viś; real property; Vaisya.”
+------------------------------------------------------------------------
+- *asyā* ← *asyāḥ* ← *idam*
+- \[noun\], genitive, singular, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *adabdhaḥ* ← *adabdha*
+- \[noun\], nominative, singular, masculine
+- “unfailing; unimpaired.”
+------------------------------------------------------------------------
+- *yo* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *dūre* ← *dūra*
+- \[noun\], locative, singular, neuter
+- “distance; distance; farness.”
+------------------------------------------------------------------------
+- *aghaśaṃso* ← *agha*
+- \[noun\], neuter
+- “sin; evil; impurity; agha \[word\].”
+------------------------------------------------------------------------
+- *aghaśaṃso* ← *śaṃsaḥ* ← *śaṃsa*
+- \[noun\], nominative, singular, masculine
+- “speaking.”
+------------------------------------------------------------------------
+- *yo* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *anty* ← *anti*
+- \[adverb\]
+------------------------------------------------------------------------
+- *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *mākiṣ* ← *mākir*
+- \[adverb\]
+------------------------------------------------------------------------
+- *ṭe* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *vyathir* ← *vyathiḥ* ← *vyathis*
+- \[noun\], accusative, singular, neuter
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *dadharṣīt* ← *dhṛṣ*
+- \[verb\], singular, Perfect injunctive
+- “dare; attack.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **अग्ने** **तूर्णितमः** स्वरिततमस्त्वं **स्पशः** परबाधकान् रश्मीन् चारान् वा सत्यानृतविवेकार्थं **वि** **सृज** शत्रून् **प्रति** विशेषेण प्रेरय । **अदब्धः** केनाप्यहिंसितस्त्वम् **अस्याः** त्वदीयायाः **विशः** अस्मदादिकायाः प्रजायाः **पायुः** पालकः **भव** । कस्मात्तद्रक्षणमित्यपेक्षायामाह । **नः** अस्माकं **दूरे** **यः** **अघशंसः** । अघं पापात्मकं शंसनमभिलाषः कीर्तनं वा यस्य सोऽघशंसः । **यः** च अघशंसः **अन्ति** अस्माकं समीपे तिष्ठति तस्मादुभयविधाच्छत्रोः पालको भव । किंच **ते** त्वत्संबधिनोऽस्मान् **माकिः** न कश्चिदपि **व्यथिः** बाधको राक्षसः **आ** **दधर्षीत्** आधर्षयतु । अस्माकं कश्चिदपि परिभवं मा करोत्वित्यर्थः ॥ अन्ति । अन्तिकस्य कादिलोप आद्युदात्तत्वं च । अग्ने । पादादित्वात् षाष्ठिकमाद्युदात्तत्वम् । माकिष्टे इति संहितायां ‘युष्मत्तत्ततक्षुःष्वन्तःपादम्' इति षत्वम् । दधर्षीत् ।  धृष प्रसहने । लङि  ‘ बहुलं छन्दसि ' इति शपः  श्लुः । बहुलं छन्दसि ' इति तिप ईडागमः । निघातः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Do you, who are most rapid, direct your (flames) against opposing (rays), and, unresisted, become the protector of this your people against the calumniator who is remote or who is nigh; let no malevolent (foe) prevail against us (who are) your worshippers.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Direct your flames against opposing rays: **prati** spaśo viṛja: spaśaḥ = parabādhakān raśmin; or, it may mean, caran, spies, sent to determine between true and false, satyanṛtavivekāītham; praṇidhin may also mean binders, imprisoners, bandhanakṛtāḥ
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Hurl out your spies against (the foes), as the swiftest one. Become the  undeceivable protector of this clan here.  
+Whoever curses us at a distance, who nearby, o Agni, let no one defy  your veering course.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+Geldner renders d “keiner soll es wagen, dich irrezuführen,” but vyáthiḥ ‘veering course’ is simply a description of the usual behavior of fire, amply described in vss.
+
+1-2.
+
+
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/004/02-04.md">
+<details open><summary><h2>02-04 ...{Loading}...</h2></summary>
+
+Note the preverb chaining: 2d ví sṛja, 3a práti … ví sṛja, 4b práti.
+
+</details>
+</div>
+</details>
+
+<details><summary>+Griffith</summary>
+
+Send thy spies forward, flectest in thy motion; be, ne'er deceived, the guardian of this people  
+     From him who, near or far, is bent on evil, and let no trouble sent from thee o'ercome us.
+</details>
+
+<details><summary>+Oldenberg</summary>
+
+Being the quickest, send forth thy spies against (all evildoers). Be an undeceivable guardian of this clan. He who attacks us with evil spells, far or near, may no such (foe) defy thy track.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Entsende eiligst deine Späher, sei ein unbetörbarer Schützer dieses Clans. Wer in der Ferne, wer in der Nähe Böses von uns redet, o Agni, keiner soll es wagen dich irrezuführen.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Zum Schutze sende eilig deine Späher, sei zuverläss'ger Hüter dieses Hauses; Welch bös' gesinnter nahe weilt und ferne, der mög' an deine Bahn sich nimmer wagen.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Самый стремительный, рассыпай против (врагов)-соглядатаев,  
+Будь защитником этого племени, не терпящим обмана!  
+Кто вдалеке говорит о нас злое, кто вблизи,  
+О Агни, ни один пусть не дерзнет помешать твоему метанию!
+</details>

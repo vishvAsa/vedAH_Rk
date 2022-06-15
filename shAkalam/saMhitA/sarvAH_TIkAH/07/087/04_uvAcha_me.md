@@ -1,0 +1,172 @@
++++
+title = "004"
+devataa = "वरुणः"
+RShiH = "वसिष्ठः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+उवा꣡च मे व꣡रुणो मे꣡धिराय  
+त्रिः꣡ सप्त꣡ ना꣡म अ꣡घ्निया बिभर्ति  
+विद्वा꣡न् पद꣡स्य गु꣡हिया न꣡ वोचद्  
+युगा꣡य वि꣡प्र उ꣡पराय शि꣡क्षन्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒वाच॑ । मे॒ । वरु॑णः । मेधि॑राय । त्रिः । स॒प्त । नाम॑ । अघ्न्या॑ । बि॒भ॒र्ति॒ ।  
+वि॒द्वान् । प॒दस्य॑ । गुह्या॑ । न । वो॒च॒त् । यु॒गाय॑ । विप्रः॑ । उप॑राय । शिक्ष॑न् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *uvāca* ← *vac*
+- \[verb\], singular, Perfect indicative
+- “say; describe; name; tell; address; enumerate; call; state; teach;
+    explain; say; declare; speak; define; declare; order; address;
+    recommend; answer; deem; recite; approve; proclaim; indicate;
+    determine; mention; designate.”
+------------------------------------------------------------------------
+- *me* ← *mad*
+- \[noun\], dative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *varuṇo* ← *varuṇaḥ* ← *varuṇa*
+- \[noun\], nominative, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *medhirāya* ← *medhira*
+- \[noun\], dative, singular, masculine
+- “wise; intelligent.”
+------------------------------------------------------------------------
+- *triḥ* ← *tris*
+- \[adverb\]
+- “thrice; tris \[word\].”
+------------------------------------------------------------------------
+- *sapta* ← *saptan*
+- \[noun\], accusative, singular, neuter
+- “seven; seventh.”
+------------------------------------------------------------------------
+- *nāmāghnyā* ← *nāma* ← *nāman*
+- \[noun\], accusative, singular, neuter
+- “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
+    word.”
+------------------------------------------------------------------------
+- *nāmāghnyā* ← *aghnyā*
+- \[noun\], nominative, singular, feminine
+- “cow.”
+------------------------------------------------------------------------
+- *bibharti* ← *bhṛ*
+- \[verb\], singular, Present indikative
+- “bring; hold; fill; support; wear; possess; carry; nourish; keep;
+    hire; have; satiate; follow; bear.”
+------------------------------------------------------------------------
+- *vidvān* ← *vid*
+- \[verb noun\], nominative, singular
+- “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
+    specify; watch; recognize; detect; call.”
+------------------------------------------------------------------------
+- *padasya* ← *pada*
+- \[noun\], genitive, singular, neuter
+- “word; location; foot; footprint; pada \[word\]; verse; footstep;
+    metrical foot; situation; dwelling; state; step; mark; position;
+    trace; construction; animal foot; way; moment; social station;
+    topographic point; path; residence; site; topic.”
+------------------------------------------------------------------------
+- *guhyā* ← *guhya*
+- \[noun\], accusative, plural, neuter
+- “secret; genitalia; guhyayantra; vagina.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *vocad* ← *vocat* ← *vac*
+- \[verb\], singular, Aorist inj. (proh.)
+- “say; describe; name; tell; address; enumerate; call; state; teach;
+    explain; say; declare; speak; define; declare; order; address;
+    recommend; answer; deem; recite; approve; proclaim; indicate;
+    determine; mention; designate.”
+------------------------------------------------------------------------
+- *yugāya* ← *yuga*
+- \[noun\], dative, singular, neuter
+- “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
+    \[word\]; Yuga; race.”
+------------------------------------------------------------------------
+- *vipra* ← *vipraḥ* ← *vipra*
+- \[noun\], nominative, singular, masculine
+- “Brahmin; poet; singer; priest; guru; Vipra.”
+------------------------------------------------------------------------
+- *uparāya* ← *upara*
+- \[noun\], dative, singular, neuter
+- “later(a); future(a); nether.”
+------------------------------------------------------------------------
+- *śikṣan* ← *śikṣ*
+- \[verb noun\], nominative, singular
+- “help; give.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**मेधिराय** मेधाविने **मे** मह्यं **वरुणः** **उवाच** उक्तवान् । किमुक्तवान् तदाह । **त्रिः** **सप्त** एकविंशतिसंख्याकानि नामानि **अघ्न्या** गौः **बिभर्ति** धारयतीति । वागत्र गौरुच्यते । सा च उरसि कण्ठे शिरसि च बद्धानि गायत्र्यादीनि सप्त छन्दसां नामानि बिभर्ति । यद्वा । वेदात्मिका वागेकविंशतिसंस्थानां यज्ञानां नामानि बिभर्ति धारयति । अपर आह । गौः पृथिवी । तस्याश्च  ‘ गौर्ग्मा ज्मा ' इति पठितान्येकविंशतिनामानीति । अपि च **विद्वान्** जानन **विप्रः** मेधावी स वरुणः **युगाय** युक्ताय **उपराय** उप समीपे रममाणायान्तेवासिने मह्यं **शिक्षन्** उपदिशन् **पदस्य** उत्कृष्टस्य स्थानस्य ब्रह्मलोकलक्षणस्य संबन्धीनि **गुह्या** गुह्यानि रहस्यान्युपदेशगम्यानि । नशब्दश्चार्थे । इमानि च **वोचत्** उक्तवान् । अतोऽहं वरुणस्य शिष्योऽस्मि । तस्मात् स वरुणः अस्मान् पापात् मोचयत्वित्यर्थः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Varuṇa** thus spoke to me, possessed of understanding; the cow (speech) has thrice sevenappellations; the wise and intelligent Varuṇa, giving instrumental uction to me, his worthy disciple, had declared themysteries of the plural ce (of **Brahma**).”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+The cow: aghnyā = vāk, speech;
+
+Gauḥ = aghnyā; the twenty- oneappellations are the seven metres of the **Veda**, as corresponding with the breast, throat, or head; or speech maymean the Veda; gauḥ may also mean, **pṛthivī**, earth, having also 21 synonyms
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Varuṇa said to me who am wise: “The inviolable cow bears three times  seven names.”  
+Knowing of its track, he will speak (its names) like secrets—he, the  
+inspired poet who strives on behalf of the later generation.
+</details>
+
+<details><summary>+Griffith</summary>
+
+To me who understand hath Varuna spoken, the names borne by the Cow are three times seven.  
+     The sapient God, knowing the place's secret, shall speak as 'twere to teach the race that cometh.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Mir, dem Weisen, hat Varuna kundgetan: "Die Kuh führt dreimal sieben Namen. Wer der rechten Spur des Wortes kundig ist, soll sie wie Geheimnisse lehren, wenn er dem späteren Geschlecht nützlich sein will.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Zu mir sprach Varuna, dem einsichtsvollen: »Die Weltkuh trägt der Namen dreimal sieben«, Der Weise, der des Orts Geheimniss kennet, verkünd' es nicht der Nachwelt, sie zu lehren.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Провозгласил мне, умудренному, Варуна:  
+Трижды семь имен несет корова.  
+Кто ведает знак (имен), пусть произносит (их) как сокровенные,  
+Если этот вдохновенный хочет помочь будущему поколению.
+</details>

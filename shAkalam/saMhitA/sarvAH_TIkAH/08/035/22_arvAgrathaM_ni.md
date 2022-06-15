@@ -1,0 +1,160 @@
++++
+title = "022"
+devataa = "अश्विनौ"
+RShiH = "श्यावाश्वः"
+ChandaH = "पङ्क्तिः"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अर्वा꣡ग् र꣡थं नि꣡ यछतम्  
+पि꣡बतं सोमिय꣡म् म꣡धु  
+आ꣡ यातम् अश्विना꣡ गतम्  
+अवस्यु꣡र् वाम् अहं꣡ हुवे  
+धत्तं꣡ र꣡त्नानि दाशु꣡षे
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
+genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line  
+genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line  
+genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).  
+genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒र्वाक् । रथ॑म् । नि । य॒च्छ॒त॒म् । पिब॑तम् । सो॒म्यम् । मधु॑ ।  
+आ । या॒त॒म् । अ॒श्वि॒ना॒ । आ । ग॒त॒म् । अ॒व॒स्युः । वा॒म् । अ॒हम् । हु॒वे॒ । ध॒त्तम् । रत्ना॑नि । दा॒शुषे॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *arvāg* ← *arvāk*
+- \[adverb\]
+- “here.”
+------------------------------------------------------------------------
+- *rathaṃ* ← *ratham* ← *ratha*
+- \[noun\], accusative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *yacchatam* ← *yam*
+- \[verb\], dual, Present imperative
+- “concentrate; grant; restrain; cause; control; offer; cover; raise.”
+------------------------------------------------------------------------
+- *pibataṃ* ← *pibatam* ← *pā*
+- \[verb\], dual, Present imperative
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------
+- *somyam* ← *somya*
+- \[noun\], accusative, singular, neuter
+- “saumya.”
+------------------------------------------------------------------------
+- *madhu*
+- \[noun\], accusative, singular, neuter
+- “honey; alcohol; sweet; nectar; madhu \[word\].”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *yātam* ← *yā*
+- \[verb\], dual, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *aśvinā* ← *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *gatam* ← *gam*
+- \[verb\], dual, Aorist imperative
+- “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
+    leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
+    get; come; die; drain; spread; transform; happen; discharge; ride;
+    to be located; run; detect; refer; go; shall; drive.”
+------------------------------------------------------------------------
+- *avasyur* ← *avasyuḥ* ← *avasyu*
+- \[noun\], nominative, singular, masculine
+- “seeking protection; helpless.”
+------------------------------------------------------------------------
+- *vām* ← *tvad*
+- \[noun\], accusative, dual
+- “you.”
+------------------------------------------------------------------------
+- *ahaṃ* ← *aham* ← *mad*
+- \[noun\], nominative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *huve* ← *hvā*
+- \[verb\], singular, Present indikative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *dhattaṃ* ← *dhattam* ← *dhā*
+- \[verb\], dual, Present imperative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *ratnāni* ← *ratna*
+- \[noun\], accusative, plural, neuter
+- “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
+    jewelry.”
+------------------------------------------------------------------------
+- *dāśuṣe* ← *dāś*
+- \[verb noun\], dative, singular
+- “sacrifice; give.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे अश्विनौ वां स्वीयं **रथम्** **अर्वाक्** अस्मदभिमुखं **नि** **यच्छतम्** । **सोम्यं** सोममयं **मधु** अमृतं च **पिबतम्** । यज्ञम् **आ** **यातं** च । सोमं प्रति **आ** **गतम्** आगच्छतं च । **अवस्युः** रक्षणकामः **अहं** श्यावाश्वः **वां** **हुवे** ह्वयामि । **दाशुषे** हवींषि प्रयच्छते मह्यं **रत्नानि** **धत्तं** धारयतम् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Direct your chariot downwards, drink the **Soma** nectar; come, **Aśvins**, come (here); desirous of yourprotection, I invoke you; give precious riches to the donor of the offering.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Stop your chariot nearby. Drink the somian honey.  
+– Drive here, o Aśvins; come here. Seeking help, I call to you: provide  riches for the pious man.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Drive down your chariot hitherward drink ye the Soma's savoury juice.  
+     Approach, ye Asvins, come to us: I call you, eager for your aid. Grant treasures to the worshipper.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Lenket den Wagen herwärts, trinket den somischen Süßtrank! Fahret hierher, Asvin, kommet her! Um euren Beistand bittend rufe ich euch, bringet dem Opfernden Kleinode!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Zur Einkehr lenkt den Wagen her und trinkt des Soma Süssigkeit; Fahrt her, o Ritter, kommt herbei, euch ruf' ich hülfsbegierig an, gebt Schätze dem verehrenden.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+В наши края направляйте колесницу!  
+Пейте сладость сомы!  
+Отправляйтесь, о Ашвины, приезжайте –  
+Жаждя помощи, я к вам взываю!  
+Наделите сокровищами (вашего) почитателя!
+</details>

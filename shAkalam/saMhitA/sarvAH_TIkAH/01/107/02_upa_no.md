@@ -1,0 +1,152 @@
++++
+title = "002"
+devataa = "विश्वेदेवाः"
+RShiH = "कुत्स आङ्गिरसः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+उ꣡प नो देवा꣡ अ꣡वसा꣡ गमन्तु  
+अ꣡ङ्गिरसां सा꣡मभि स्तूय꣡मानाः  
+इ꣡न्द्र इन्द्रियइ꣡र् मरु꣡तो मरु꣡द्भिर्  
+आदित्यइ꣡र् नो अ꣡दितिः श꣡र्म यंसत्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उप॑ । नः॒ । दे॒वाः । अव॑सा । आ । ग॒म॒न्तु॒ । अङ्गि॑रसाम् । साम॑ऽभिः । स्तू॒यमा॑नाः ।  
+इन्द्रः॑ । इ॒न्द्रि॒यैः । म॒रुतः॑ । म॒रुत्ऽभिः॑ । आ॒दि॒त्यैः । नः॒ । अदि॑तिः । शर्म॑ । यं॒स॒त् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *devā* ← *devāḥ* ← *deva*
+- \[noun\], nominative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *avasā* ← *avas*
+- \[noun\], instrumental, singular, neuter
+- “aid; favor; protection.”
+------------------------------------------------------------------------
+- *gamantv* ← *gamantu* ← *gam*
+- \[verb\], plural, Aorist imperative
+- “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
+    leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
+    get; come; die; drain; spread; transform; happen; discharge; ride;
+    to be located; run; detect; refer; go; shall; drive.”
+------------------------------------------------------------------------
+- *aṅgirasāṃ* ← *aṅgirasām* ← *aṅgiras*
+- \[noun\], genitive, plural, masculine
+- “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
+    Aṅgiras.”
+------------------------------------------------------------------------
+- *sāmabhi* ← *sāman*
+- \[noun\], instrumental, plural, neuter
+- “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
+------------------------------------------------------------------------
+- *stūyamānāḥ* ← *stu*
+- \[verb noun\], nominative, plural
+- “laud; praise; declare; stu.”
+------------------------------------------------------------------------
+- *indra* ← *indraḥ* ← *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *indriyair* ← *indriyaiḥ* ← *indriya*
+- \[noun\], instrumental, plural, masculine
+------------------------------------------------------------------------
+- *maruto* ← *marutaḥ* ← *marut*
+- \[noun\], nominative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *marudbhir* ← *marudbhiḥ* ← *marut*
+- \[noun\], instrumental, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *ādityair* ← *ādityaiḥ* ← *āditya*
+- \[noun\], instrumental, plural, masculine
+- “sun; Aditya; Surya; āditya \[word\].”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *aditiḥ* ← *aditi*
+- \[noun\], nominative, singular, feminine
+- “Aditi; aditi \[word\].”
+------------------------------------------------------------------------
+- *śarma* ← *śarman*
+- \[noun\], accusative, singular, neuter
+- “protection; protective covering; refuge; joy.”
+------------------------------------------------------------------------
+- *yaṃsat* ← *yam*
+- \[verb\], singular, Aorist conj./subj.
+- “concentrate; grant; restrain; cause; control; offer; cover; raise.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**देवाः** दानादिगुणयुक्ताः सर्वे देवाः **अवसा** रक्षणेनास्मभ्यं दातव्येनान्नेन वा युक्ताः **नः** अस्मान् स्तोतॄन् **उप** **आ** **गमन्तु** उपागच्छन्तु प्राप्नुवन्तु । कथंभूताः। **अङ्गिरसाम्** एतत्संज्ञकानामृषीणां संबन्धिभिः **सामभिः** प्रगीतैर्मन्त्रैः **स्तूयमानाः** । अपि च **इन्द्रः** इन्द्रियैः । धननामैतत् । स्वसंबन्धिभिरस्मभ्यं दातव्यैर्धनैः सहास्मानागच्छतु । तथा **मरुतः** सप्तगणरूपा एकोनपञ्चाशत्संख्याकाः  ‘ ईदृङ् चान्यादृङ् च ' इत्येवमादिनामानो देवाः **मरुद्भिः** स्वावयवभूतैः प्राणापानादिरूपेण वर्तमानैः वायुभिः सहास्मानागच्छन्तु। तथा **अदितिः** अखण्डनीया अदीना वा देवमाता **आदित्यैः** स्वकीयैः पुत्रैः सह **नः** अस्मभ्यं **शर्म** सुखं **यंसत्** यच्छतु ॥ गमन्तु । लोटि बहुलं छन्दसि' इति शपो लुक् ।  ‘ छन्दस्युभयथा ' इति झेः आर्धधातुकत्वेन ङित्त्वाभावात्  ‘ गमहन' इत्यादिना उपधालोपाभावः । यंसत् । यम उपरमे '। लेटि अडागमः ।' सिब्बहुलं लेटि' इति सिप् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“May the gods, who are to be lauded by the hymns of the **Aṅgirasas**, come hither for our protection; may **Indra** with his treasures, the **Maruts** with the vital airs, and **Aditi** with the **Ādityas** (come and) give us felicity.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Let the gods come close to us here with help, being praised with the  melodies of the Aṅgirases.  
+Indra with his Indrian powers, the Maruts with the Maruts, Aditi with  the Ādityas will extend shelter to us.
+</details>
+
+<details><summary>+Griffith</summary>
+
+By praise-songs of Angirases exalted, may the Gods come to us with their protection.  
+     May Indra with his powers, Maruts with Maruts, Aditi with Adityas grant us shelter.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Die Götter sollen mit ihrem Beistand zu uns kommen, mit den Weisen der Angiras´ besungen, Indra mit den Indrischen, die Marut mit den Marut, Aditi mit den Aditya´s sollen uns ihren Schutz gewähren.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Die Götter mögen hülfreich zu uns kommen, gepriesen durch der Angiras Gesänge; Uns reiche Indra Schutz mit Indrafreunden, mit den Aditja's Aditi, mit Rudra's Rudra.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Да придут к нам боги о поддержкой,  
+Прославляемые напевами Ангирасов!  
+Индра с силами Индры, Маруты с силами Марутов,  
+Адити с Адитьями пусть даруют нам защиту!
+</details>

@@ -1,0 +1,121 @@
++++
+title = "005"
+devataa = "पवमानः सोमः"
+RShiH = "चक्षुर्मानवः"
+ChandaH = "उष्णिक्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+इ꣡न्द्राय वृ꣡षणम् म꣡दम्  
+प꣡वस्व विश्व꣡दर्शतः  
+सह꣡स्रयामा पथिकृ꣡द् विचक्षणः꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M;; repeated line  
+genre M;; line affected by realignment  
+genre M;; line affected by realignment
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इन्द्रा॑य । वृष॑णम् । मद॑म् । पव॑स्व । वि॒श्वऽद॑र्शतः ।  
+स॒हस्र॑ऽयामा । प॒थि॒ऽकृत् । वि॒ऽच॒क्ष॒णः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *indrāya* ← *indra*
+- \[noun\], dative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *vṛṣaṇam* ← *vṛṣan*
+- \[noun\], accusative, singular, masculine
+- “bullocky; potent; powerful; strong; manly; aroused; potent;
+    much(a); male; large.”
+------------------------------------------------------------------------
+- *madam* ← *mada*
+- \[noun\], accusative, singular, masculine
+- “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
+    musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
+    vivification.”
+------------------------------------------------------------------------
+- *pavasva* ← *pū*
+- \[verb\], singular, Present imperative
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *viśvadarśataḥ* ← *viśva*
+- \[noun\]
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *viśvadarśataḥ* ← *darśataḥ* ← *darśata*
+- \[noun\], nominative, singular, masculine
+- “beautiful; visible; beautiful.”
+------------------------------------------------------------------------
+- *sahasrayāmā* ← *sahasra*
+- \[noun\], neuter
+- “thousand; one-thousandth; sahasra \[word\].”
+------------------------------------------------------------------------
+- *sahasrayāmā* ← *yāmā* ← *yāman*
+- \[noun\], nominative, singular, masculine
+- “expedition; path; expedition; arrival.”
+------------------------------------------------------------------------
+- *pathikṛd* ← *pathikṛt*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *vicakṣaṇaḥ* ← *vicakṣaṇa*
+- \[noun\], nominative, singular, masculine
+- “expert; wise; discerning; clear-sighted; conversant(p); bright.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे सोम त्वं **वृषणं** वर्षितारं **मदं** मदहेतुं रसम् **इन्द्राय** इन्द्रार्थं **पवस्व** क्षर । कीदृशः। **विश्वदर्शतः** सर्वैर्दर्शनीयः **सहस्रयामा** बहुमार्गः **पथिकृत्** यजमानानां सन्मार्गकरणशीलः **विचक्षणः** सर्वस्य विद्रष्टा ॥ ॥ ९ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Pour forth for **Indra** the exhilarating (juice) showering (benefits), you who are very beautiful, who have many paths, the finder of the (right) path, the observer (of all).”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+For Indra purify yourself into bullish exhilaration, as the one visible  to all,  
+possessing a thousand courses, path-making, wide-gazing.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Do thou, all-beautiful, purify for Indra's sake the mighty juice,  
+     Path-maker thou, far seeing, with a thousand ways.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Für Indra läutere den bullenartigen Rauschtrank, allsichtbar, auf tausend Bahnen als weitschauender Wegbereiter!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Dem Indra riesle starken Rausch herbei, du allbewunderter, Auf tausend Wegen Bahnen schaffend, Weiser, dir.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Для Индры очищайся, (давая) мужественный  
+Пьянящий напиток, (ты) для всех приятный на вид,  
+С тысячей дорог, создатель путей, далеко смотрящий!
+</details>

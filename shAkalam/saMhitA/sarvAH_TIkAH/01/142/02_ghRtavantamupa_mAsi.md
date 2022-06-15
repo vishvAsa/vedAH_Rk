@@ -1,0 +1,124 @@
++++
+title = "002"
+devataa = "तनूनपात्"
+RShiH = "दीर्घतमा औचथ्यः"
+ChandaH = "अनुष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+घृत꣡वन्तम् उ꣡प मासि  
+म꣡धुमन्तं तनूनपात्  
+यज्ञं꣡ वि꣡प्रस्य मा꣡वतः  
+शशमान꣡स्य दाशु꣡षः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M;; repeated line  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+घृ॒तऽव॑न्तम् । उप॑ । मा॒सि॒ । मधु॑ऽमन्तम् । त॒नू॒ऽन॒पा॒त् ।  
+य॒ज्ञम् । विप्र॑स्य । माऽव॑तः । श॒श॒मा॒नस्य॑ । दा॒शुषः॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *ghṛtavantam* ← *ghṛtavat*
+- \[noun\], accusative, singular, masculine
+- “buttery.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *māsi* ← *mā*
+- \[verb\], singular, Present indikative
+- “weigh; measure; total; last; weigh; measure; give away; transform.”
+------------------------------------------------------------------------
+- *madhumantaṃ* ← *madhumantam* ← *madhumat*
+- \[noun\], accusative, singular, masculine
+- “sweet; honeyed; sweet; pleasant.”
+------------------------------------------------------------------------
+- *tanūnapāt* ← *tanūnapād* ← *tanūnapāt*
+- \[noun\], vocative, singular, masculine
+- “Agni.”
+------------------------------------------------------------------------
+- *yajñaṃ* ← *yajñam* ← *yajña*
+- \[noun\], accusative, singular, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *viprasya* ← *vipra*
+- \[noun\], genitive, singular, masculine
+- “Brahmin; poet; singer; priest; guru; Vipra.”
+------------------------------------------------------------------------
+- *māvataḥ* ← *māvat*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *śaśamānasya* ← *śam*
+- \[verb noun\], genitive, singular
+- “calm; go out; end; die; pacify; heal; labor; make peace; rest.”
+------------------------------------------------------------------------
+- *dāśuṣaḥ* ← *dāś*
+- \[verb noun\], genitive, singular
+- “sacrifice; give.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **तनूनपात्** । तनूनपात् आज्यम्' इति कात्थक्यपक्षे तन्वो गावो भोगानां तासु जायमानत्वात्। ताभ्यः उत्पन्नं क्षीरं क्षीरात् सर्पिः इति आज्यस्य नप्तृत्वम् । तद्वान् यज्ञः । अग्निपक्षे आपस्तन्व उच्यन्ते । ताभ्यः ओषधिवनस्पतयः । तेभ्योऽग्निरिति नप्तृत्वम् । अरणीभ्यामिति भावः । एतन्नामक हे अग्ने **विप्रस्य** मेधाविनः **शशमानस्य** शंसमानस्य त्वां स्तुवतः **दाशुषः** हविर्दत्तवतः **मावतः** मत्सदृशस्य यजमानस्य ॥ ' युष्मदस्मद्भ्यां छन्दसि सादृश्ये ' इति वतुप् । 'आ सर्वनाम्नः' इति आत्वम् ॥ **घृतवन्तं** क्षरदाज्योपेतं **मधुमन्तं** माधुर्योपेतं सोमादिमधुरद्रव्येण तद्वन्तं **यज्ञम्** **उप** उपेत्य **मासि** निर्मिमीषे मितो भवसि वा । संपूर्तिपर्यन्तं तिष्ठसीत्यर्थः ॥ ‘मा माने' । आदादिकः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Tanūnapāt**, be present at this well-flavoured and cutter-fed sacrifice, (the offering) of a pious offerer (of oblations); glorifying you.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+O Tanūnapāt, measure out the ghee-filled, honey-filled  
+sacrifice of an inspired priest like me, of the pious man who labors.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Thou dealest forth, Tanunapat, sweet sacrifice enriched with oil,  
+     Brought by a singer such as I who offers gifts and toils for thee.
+</details>
+
+<details><summary>+Oldenberg</summary>
+
+Measure out, O Tanûnapât 1, the sacrifice rich in ghee, rich in honey, of a priest like me, of a sacrificer who has toiled hard.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Tanunapat! Miß das schmelzreiche, süße Opfer eines Redegwandten, wie ich es bin, zu, der den Dienst versieht und opfert.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Du aus dir selbst entsprossner, theilst das süsse fette Opfer aus, Von einem Priester so wie ich, der eifervoll dir huldiget.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Танунапат  
+, отмерь  
+Жирную, сладкую  
+Жертву у вдохновенного, вроде меня,  
+Старающегося (при обряде) почитателя!
+</details>

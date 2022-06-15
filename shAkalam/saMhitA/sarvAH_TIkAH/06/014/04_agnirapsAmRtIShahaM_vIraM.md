@@ -1,0 +1,139 @@
++++
+title = "004"
+devataa = "अग्निः"
+RShiH = "भरद्वाजो बार्हस्पत्यः"
+ChandaH = "अनुष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अग्नि꣡र् अप्सा꣡म् ऋतीष꣡हं  
+वीरं꣡ ददाति स꣡त्पतिम्  
+य꣡स्य त्र꣡सन्ति श꣡वसः  
+संच꣡क्षि श꣡त्रवो भिया꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒ग्निः । अ॒प्साम् । ऋ॒ति॒ऽसह॑म् । वी॒रम् । द॒दा॒ति॒ । सत्ऽप॑तिम् ।  
+यस्य॑ । त्रस॑न्ति । शव॑सः । स॒म्ऽचक्षि॑ । शत्र॑वः । भि॒या ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *agnir* ← *agniḥ* ← *agni*
+- \[noun\], nominative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *apsām* ← *ap*
+- \[noun\]
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *apsām* ← *sām* ← *sā*
+- \[noun\], accusative, singular, masculine
+- “winning.”
+------------------------------------------------------------------------
+- *ṛtīṣahaṃ* ← *ṛtīṣaham* ← *ṛtīṣah*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *vīraṃ* ← *vīram* ← *vīra*
+- \[noun\], accusative, singular, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+------------------------------------------------------------------------
+- *dadāti* ← *dā*
+- \[verb\], singular, Present indikative
+- “give; add; perform; put; administer; fill into; give; ignite; put
+    on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
+    drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
+    splint; poultice; create.”
+------------------------------------------------------------------------
+- *satpatim* ← *sat*
+- \[noun\]
+- “good; good; real; existent; virtuous; sat \[prefix\]; real.”
+------------------------------------------------------------------------
+- *satpatim* ← *patim* ← *pati*
+- \[noun\], accusative, singular, masculine
+- “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
+    commanding officer; leader; owner; mayor; lord.”
+------------------------------------------------------------------------
+- *yasya* ← *yad*
+- \[noun\], genitive, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *trasanti* ← *tras*
+- \[verb\], plural, Present indikative
+- “fear; tremble.”
+------------------------------------------------------------------------
+- *śavasaḥ* ← *śavas*
+- \[noun\], ablative, singular, neuter
+- “strength; power; superiority.”
+------------------------------------------------------------------------
+- *saṃcakṣi* ← *saṃcakṣ* ← *√cakṣ*
+- \[verb noun\]
+------------------------------------------------------------------------
+- *śatravo* ← *śatravaḥ* ← *śatru*
+- \[noun\], nominative, plural, masculine
+- “enemy; foe; enemy; Asura.”
+------------------------------------------------------------------------
+- *bhiyā* ← *bhī*
+- \[noun\], instrumental, singular, feminine
+- “fear; bhī; alarm.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+अयम् **अग्निः** **वीरं** पुत्रं **ददाति** स्तोतृभ्यः प्रयच्छति । कीदृशं पुत्रम् । **अप्साम्** अपामाप्तव्यानां कर्मणां सनितारं संभक्तारम् **ऋतीषहम्** ऋतीनामरातीनां सोढारमभिभवितारं **सत्पतिं** सतां कर्मणां पालयितारम् । **यस्य** वीरस्य **संचक्षि** संदर्शने सति **शवसः** बलात् **भिया** भीत्या **शत्रवः** **त्रसन्ति** उद्विजन्ते तं वीरमित्यन्वयः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Agni** bestows (upon his worshippers) a **male** descendant, (the performer of good) works, the subduer of foes, the protector of the virtuous, at whose appearance his enemies tremble through fear of his prowess.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Agni gives a hero winning the waters, vanquishing with his attack, as  lord of settlements,  
+whose rivals tremble at the full sight of his vast power, in fear.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Agni bestows the hero chief, winner of waters, firm in fray.  
+     Soon as they look upon his might his enemies tremble in alarm.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Agni schenkt einen Helden, einen rechtmäßigen Gebieter, der Wasser gewinnt, der Angriffe siegreich besteht, bei dessen Anblick aus Furcht vor seiner Stärke die Feinde erbeben.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Den starken Helden, Agni, gib, der Angriff wehrt, Erquickung beut, Vor dessen Kraft beim Anblick schon aus Furcht der Feinde Schar erbebt.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Агни дает героя, завоевывающего воды,  
+Отражающего атаки, истинного господина,  
+Перед силой которого трясутся  
+От страха при виде (него) враги.
+</details>

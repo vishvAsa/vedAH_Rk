@@ -1,0 +1,153 @@
++++
+title = "014"
+devataa = "विश्वेदेवाः इन्द्रो वा"
+RShiH = "कक्षीवान् दैर्घतमस औशिजः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+तुवं꣡ नो अस्या꣡ इन्द्र दुर्ह꣡णायाः  
+पाहि꣡ वज्रिवो दुरिता꣡द् अभी꣡के  
+प्र꣡ नो वा꣡जान् रथि꣡यो अ꣡श्वबुध्यान्  
+इषे꣡ यन्धि श्र꣡वसे सूनृ꣡तायै
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वम् । नः॒ । अ॒स्याः । इ॒न्द्र॒ । दुः॒ऽहना॑याः । पा॒हि । व॒ज्रि॒ऽवः॒ । दुः॒ऽइ॒तात् । अ॒भीके॑ ।  
+प्र । नः॒ । वाजा॑न् । र॒थ्यः॑ । अश्व॑ऽबुध्यान् । इ॒षे । य॒न्धि॒ । श्रव॑से । सू॒नृता॑यै ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *tvaṃ* ← *tvam* ← *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *asyā* ← *asyāḥ* ← *idam*
+- \[noun\], ablative, singular, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *durhaṇāyāḥ* ← *durhaṇā*
+- \[noun\], ablative, singular, feminine
+------------------------------------------------------------------------
+- *pāhi* ← *pā*
+- \[verb\], singular, Present imperative
+- “protect; govern.”
+------------------------------------------------------------------------
+- *vajrivo* ← *vajrivas* ← *vajrivat*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------
+- *duritād* ← *duritāt* ← *durita*
+- \[noun\], ablative, singular, neuter
+- “danger; sin; difficulty; difficulty; evil.”
+------------------------------------------------------------------------
+- *abhīke* ← *abhīka*
+- \[noun\], locative, singular, neuter
+- “battle; meeting.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *vājān* ← *vāja*
+- \[noun\], accusative, plural, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *rathyo* ← *rathyaḥ* ← *rathī*
+- \[noun\], accusative, plural, masculine
+------------------------------------------------------------------------
+- *aśvabudhyān* ← *aśva*
+- \[noun\], masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *aśvabudhyān* ← *budhyān* ← *budhya*
+- \[noun\], accusative, plural, masculine
+------------------------------------------------------------------------
+- *iṣe* ← *iṣ*
+- \[noun\], dative, singular, feminine
+- “refreshment; enjoyment; stores.”
+------------------------------------------------------------------------
+- *yandhi* ← *yam*
+- \[verb\], singular, Aorist imperative
+- “concentrate; grant; restrain; cause; control; offer; cover; raise.”
+------------------------------------------------------------------------
+- *śravase* ← *śravas*
+- \[noun\], dative, singular, neuter
+- “fame; glory; ear.”
+------------------------------------------------------------------------
+- *sūnṛtāyai* ← *sūnṛtā*
+- \[noun\], dative, singular, feminine
+- “liberality.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **वज्रिवः** वज्रवन् **इन्द्र** **त्वं** **दुर्हणायाः** दुःखेन हन्तव्यायाः **अस्याः** अवृत्तेर्दारिद्र्यात् **नः** अस्मान् **पाहि** रक्ष। तथा **दुरितात्** पापात् **अभीके** अभिप्राप्ते समीपवर्तिनि संग्रामे अस्मान् रक्ष । अपि च **नः** अस्मभ्यं **रथ्यः** रथयुक्तान् अश्वबुध्यान् अश्वानां बोधकान् । अश्वा यावद्भिर्लभ्यन्ते तावदित्यर्थः । यद्वा । अश्वबुध्नान् । छान्दसो वर्णविकारः । अश्वमूलान् । अश्वप्रमुखानित्यर्थः । सर्वं हि धनम् अश्वमूलं दासापवर्गम् । यथोक्तं -' दासप्रवर्गं रयिमश्वबुध्यम् ' ( ऋ. सं. १. ९२. ८ ) इति । एवंविधान् **वाजान्** धनानि **प्र** **यन्धि** प्रयच्छ । किमर्थम् । **इषे** अन्नार्थं **श्रवसे** कीत्यर्थं **सूनृतायै** । सूनृता प्रियसत्यात्मिका वाक् तदर्थं च ॥ दुर्हणायाः ।  ‘ ईषद्दुःसुषु  इति हन्तेः कर्मणि खल्। पाहि। पादादित्वात् निघाताभावः। वज्रिवः । वज्रोऽस्यास्तीति वज्री हस्तः । तद्वान् वज्रिवान् । 'छन्दसीरः' इति मतुपो वत्वम् । संबुद्धौ ‘मतुवसो रुः० ' इति नकारस्य रुत्वम् । रथ्यः ।  ‘ छन्दसीवनिपौ' इति रथशब्दात् मत्वर्थीयः ईकारः । यन्धि । 'यम उपरमे '।  ‘ बहुलं छन्दसि ' इति विकरणस्य लुक् ।  वा छन्दसि  इति हेः पित्त्वेन ङित्त्वाभावात् ' अङितश्च ॥ (पा. सू. ६. ४. १०३ ) इति हेर्धिः ॥हे **वज्रिवः** वज्रवन् **इन्द्र** **त्वं** **दुर्हणायाः** दुःखेन हन्तव्यायाः **अस्याः** अवृत्तेर्दारिद्र्यात् **नः** अस्मान् **पाहि** रक्ष। तथा **दुरितात्** पापात् **अभीके** अभिप्राप्ते समीपवर्तिनि संग्रामे अस्मान् रक्ष । अपि च **नः** अस्मभ्यं **रथ्यः** रथयुक्तान् अश्वबुध्यान् अश्वानां बोधकान् । अश्वा यावद्भिर्लभ्यन्ते तावदित्यर्थः । यद्वा । अश्वबुध्नान् । छान्दसो वर्णविकारः । अश्वमूलान् । अश्वप्रमुखानित्यर्थः । सर्वं हि धनम् अश्वमूलं दासापवर्गम् । यथोक्तं -' दासप्रवर्गं रयिमश्वबुध्यम् ' ( ऋ. सं. १. ९२. ८ ) इति । एवंविधान् **वाजान्** धनानि **प्र** **यन्धि** प्रयच्छ । किमर्थम् । **इषे** अन्नार्थं **श्रवसे** कीत्यर्थं **सूनृतायै** । सूनृता प्रियसत्यात्मिका वाक् तदर्थं च ॥ दुर्हणायाः ।  ‘ ईषद्दुःसुषु  इति हन्तेः कर्मणि खल्। पाहि। पादादित्वात् निघाताभावः। वज्रिवः । वज्रोऽस्यास्तीति वज्री हस्तः । तद्वान् वज्रिवान् । 'छन्दसीरः' इति मतुपो वत्वम् । संबुद्धौ ‘मतुवसो रुः० ' इति नकारस्य रुत्वम् । रथ्यः ।  ‘ छन्दसीवनिपौ' इति रथशब्दात् मत्वर्थीयः ईकारः । यन्धि । 'यम उपरमे '।  ‘ बहुलं छन्दसि ' इति विकरणस्य लुक् ।  वा छन्दसि  इति हेः पित्त्वेन ङित्त्वाभावात् ' अङितश्च ॥ (पा. सू. ६. ४. १०३ ) इति हेर्धिः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Indra**, bearer of the thunderbolt, preserve us from this (poverty), that is so difficult to be destroyed, and from misfortune in war; grant us riches, conspicuous for chariots, remarkable for horses, for the sake of food, of fame, and of truth.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Protect us from this evil rage and from difficulty in a close encounter, o  Indra, mace-bearer.  
+Hold out toward us prizes by the cartload, with horses as their  
+foundation—for refreshment, for fame, and for liberality.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Indra, preserve thou us from this affliction Thunder-armed, save us from the misery near us.  
+     Vouchsafe us affluence in chariots, founded on horses, for our food and fame and gladness.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Behüte du, Indra, uns vor solchem Übelwollen, vor Mißerfolg in der Entscheidungsstunde, du Keulenträger! Gewähre uns Gewinne, Wagen füllende, mit Rossen als Abschluß, zur Labung, zum Ruhm, zur Gunstbezeugung!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Beschirme uns vor diesem Unheil, Indra, und vor Gefahr behüt' uns, blitzbewehrter; An Wagen und an Rossen reiche Gaben verleihe uns zum Ruhm, zur Lust und Wonne.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Ты, о Индра, от этой беды защити  
+Нас, о громовержец, от опасности в решающую минуту!  
+Вручи нам награды, связанные с колесницами, завершающиеся конями, –  
+Для удовлетворения, для Славы, для проявления щедрости!
+</details>

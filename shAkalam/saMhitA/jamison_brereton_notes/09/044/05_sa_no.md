@@ -1,7 +1,0 @@
-+++
-title = "05"
-
-+++
-The first hemistich has no finite verb. Geldner somewhat arbitrarily supplies a verb (“empfehlen”) with which to construe the two datives bhágāya vāyáve. If we are to supply a verb, it seems best to be guided by the context in which pāda a is repeated, in IX.61.9a, where the following pāda contains pavasva. Renou’s “(qu’il se clarifie)” seems to reflect this, though he does not mention the repeated pāda in his n., where he suggests other possibilities. (That pavasva appears in the immediately preceding vs. 4 in our hymn might also support supplying it here.) The published translation simply takes ab as a nominal expression, with the datives of pāda a construed with sadā́vṛdhaḥ ‘growing ever stronger’. The drawback to my interpr. (and to Renou’s) is that there’s no clear function for naḥ, which both Renou and I fail to tr. in its hemistich (Geldner uses it as object of “empfehlen”). I take naḥ as the fronted Wackernagel-position obj. of ā́yamat in c, assuming that the whole vs. is a single clause.
-
-Geldner’s rendering of vípravīra- as “der die Männer beredt macht” cavalierly ignores both accent and the morphology of the first member. It must rather be a bahuvrīhi, as the published translation and Renou’s “qui a pour hommes-utiles les orateurs” recognize.

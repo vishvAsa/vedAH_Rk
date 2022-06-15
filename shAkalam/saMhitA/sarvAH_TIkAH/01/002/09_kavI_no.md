@@ -1,0 +1,120 @@
++++
+title = "009"
+devataa = "मित्रावरुणौ"
+RShiH = "मधुच्छन्दा वैश्वामित्रः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+कवी꣡ नो मित्रा꣡व꣡रुणा  
+तुविजाता꣡ उरुक्ष꣡या  
+द꣡क्षं दधाते अप꣡सम्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+क॒वी इति॑ । नः॒ । मि॒त्रावरु॑णा । तु॒वि॒ऽजा॒तौ । उ॒रु॒ऽक्षया॑ ।  
+दक्ष॑म् । द॒धा॒ते॒ इति॑ । अ॒पस॑म् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *kavī* ← *kavi*
+- \[noun\], nominative, dual, masculine
+- “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
+    guru; Brahma.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *mitrāvaruṇā* ← *mitrāvaruṇa*
+- \[noun\], nominative, dual, masculine
+- “Varuna; Mitra.”
+------------------------------------------------------------------------
+- *tuvijātā* ← *tuvi*
+- \[noun\]
+- “mighty; very; diverse; much(a); many.”
+------------------------------------------------------------------------
+- *tuvijātā* ← *jātā* ← *jan*
+- \[verb noun\], nominative, dual
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+------------------------------------------------------------------------
+- *urukṣayā* ← *uru*
+- \[noun\]
+- “wide; broad; great; uru \[word\]; much(a); excellent.”
+------------------------------------------------------------------------
+- *urukṣayā* ← *kṣayā* ← *kṣaya*
+- \[noun\], nominative, dual, masculine
+- “dwelling; house; kṣaya \[word\]; home; family.”
+------------------------------------------------------------------------
+- *dakṣaṃ* ← *dakṣam* ← *dakṣa*
+- \[noun\], accusative, singular, masculine
+- “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
+------------------------------------------------------------------------
+- *dadhāte* ← *dhā*
+- \[verb\], dual, Present indikative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *apasam* ← *apas*
+- \[noun\], accusative, singular, masculine
+- “busy; effective; hardworking.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+मित्रावरुणावेतौ देवौ **नः** अस्माकं **दक्षं** बलम् **अपसं** कर्म च **दधाते** पोषयतः। कीदृशौ। **कवी** मेधाविनौ। **तुविजातौ** बहूनामुपकारकतया समुत्पन्नौ । **उरुक्षया** बहुनिवासौ । ‘विप्रः धीरः' इत्यादिषु चतुर्विंशतिसंख्याकेषु मेधाविनामसु ' कविः मनीषी' ( नि. ३. १५. १०) इति पठितम् । ‘उरु तुवि ' (नि. ३. १. १, २) इत्येतौ शब्दौ द्वादशसु बहुनामसु पठितौ । ‘ओजः पाजः' इत्यादिषु अष्टाविंशति संख्याकेषु बलनामसु ‘दक्षः वीळु' (नि. २. ९. १३) इति पठितम् । अपःशब्दः षड्विंशतिसंख्याकेषु कर्मनामसु पठितः (नि. २. १. १) ॥ मित्रावरुणा । मित्रशब्दः प्रातिपदिकस्वरेणान्तोदात्तः। वरुणशब्दो नित्स्वरेणाद्युदात्तः । द्वन्द्वे देवताद्वन्द्वे च' ( पा. सू. ६. २. १४१ ) इत्युभौ अवशिष्येते । तुविजातौ । बहूनामुपकारकतया तत्संबन्धित्वेन जाताविति षष्ठीसमासे समासान्तोदात्तत्वम् । चतुर्थी समासे हि क्ते च' (पा. सू. ६. २. ४५) इति पूर्वपदप्रकृतिस्वरः स्यात् । उरूणां बहूनां क्षयौ उरुक्षयौ । ‘क्षि निवासगत्यो-' इति धातोः क्षियन्त्यस्मिन्निति क्षयः । अधिकरणे ‘एरच् ' ( पा. सू. ३. ३. ५६ ) इत्यच्प्रत्ययान्तस्य ‘चितः' ( पा. सू. ६. १, १६३) इत्यन्तोदात्तत्वे प्राप्ते 'क्षयो निवासे' (पा. सू. ६. १. २०१ ) इत्याद्युदात्तत्वं विहितम् । समासे तु ‘समासस्य' (पा. सू. ६. १. २२३ ) इत्यन्तोदात्तत्वं बाधित्वा कृदुत्तरपदप्रकृतिस्वरेण प्राप्तमुत्तरपदाद्य़ुदात्तत्वं यद्यपि थाथादिस्वरेणान्तोदात्तेन बाध्यते, तथापि ‘परादिश्छन्दसि बहुलम् । (पा. सू. ६. २. १९९) इत्युत्तरपदाद्युदात्तत्वं द्रष्टव्यम् । दक्षो दक्षतेरुत्साहकर्मणो घञ् । ञित्वादाद्युदात्तः । आप्यते फलमनेन इति अपः कर्म । ‘आपः कर्माख्यायां ह्रस्वो नुट्च वा' (उ. सू. ४. ६४७ ) इत्यसुनन्तस्य ‘अपसस्पारे' ( ऋ. सं. ६. ६९. १) इत्यादौ नित्त्वादाद्युदात्तस्यापि अपःशब्दस्य अत्र व्यत्ययेन प्रत्ययाद्युदात्तत्वम् ॥ ॥ ४ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Sapient **Mitra** and **Varuṇa**, prosper our sacrifice and increase our strength; you are born for the benefit of many, you are the refuge of multitudes.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+The two sage poets, Mitra and Varuṇa, powerfully born, having a wide  dwelling place,  
+furnish us effective skill.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Our Sages, Mitra-Varuna, wide dominion, strong by birth,  
+     Vouchsafe us strength that worketh well.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Die beiden Seher Mitra und Varuna von starker Art, mit weitem Wohnsitz, verleihen uns geschickte Wirkenskraft.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Die Seher Mitra-Varuna, weitherrschend, mächtig von Geburt, Verleihn zum Werk uns Tüchtigkeit.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Пара прозорливцев Митра-Варуна,  
+Сильного рода, с обширным жилищем  
+(Они) дают нам искусную силу действия.
+</details>

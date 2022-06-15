@@ -1,0 +1,162 @@
++++
+title = "006"
+devataa = "विश्वेदेवाः"
+RShiH = "बृहदुक्थो वामदेव्यः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+द्वि꣡धा सून꣡वो अ꣡सुरं सुवर्वि꣡दम्  
+आ꣡स्थापयन्त तृती꣡येन क꣡र्मणा  
+सुवा꣡म् प्रजा꣡म् पित꣡रः पि꣡त्रियं स꣡ह  
+आ꣡वरेषु अदधुस् त꣡न्तुम् आ꣡ततम्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+popular  
+popular  
+popular  
+popular
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+द्विधा॑ । सू॒नवः॑ । असु॑रम् । स्वः॒ऽविद॑म् । आ । अ॒स्था॒प॒य॒न्त॒ । तृ॒तीये॑न । कर्म॑णा ।  
+स्वाम् । प्र॒ऽजाम् । पि॒तरः॑ । पित्र्य॑म् । सहः॑ । आ । अव॑रेषु । अ॒द॒धुः॒ । तन्तु॑म् । आऽत॑तम् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *dvidhā*
+- \[adverb\]
+- “twofold; doubly.”
+------------------------------------------------------------------------
+- *sūnavo* ← *sūnavaḥ* ← *sūnu*
+- \[noun\], nominative, plural, masculine
+- “son; offspring.”
+------------------------------------------------------------------------
+- *'suraṃ* ← *asuram* ← *asura*
+- \[noun\], accusative, singular, masculine
+- “Asura; lord; asura \[word\]; sulfur.”
+------------------------------------------------------------------------
+- *svarvidam* ← *svar*
+- \[noun\], neuter
+- “sun; sky; sunlight.”
+------------------------------------------------------------------------
+- *svarvidam* ← *vidam* ← *vid*
+- \[noun\], accusative, singular, masculine
+- “finding.”
+------------------------------------------------------------------------
+- *āsthāpayanta* ← *āsthāpay* ← *√sthā*
+- \[verb\], plural, Imperfect
+- “āsthāpay.”
+------------------------------------------------------------------------
+- *tṛtīyena* ← *tṛtīya*
+- \[noun\], instrumental, singular, neuter
+- “third; neuter; tṛtīya \[word\]; homosexual.”
+------------------------------------------------------------------------
+- *karmaṇā* ← *karman*
+- \[noun\], instrumental, singular, neuter
+- “action; saṃskāra; ritual; procedure; karman; treatment; object;
+    function; production; job; operation; karman \[word\]; act; job;
+    passive voice; activity; consequence; function; yajña; pañcakarman;
+    cooking; occupation; profession; construction; duty; method; natural
+    process; duty; therapy.”
+------------------------------------------------------------------------
+- *svām* ← *sva*
+- \[noun\], accusative, singular, feminine
+- “own(a); respective(a); akin(p); sva \[word\]; individual;
+    present(a); independent.”
+------------------------------------------------------------------------
+- *prajām* ← *prajā*
+- \[noun\], accusative, singular, feminine
+- “people; offspring; being; national; man; prajā \[word\]; creature;
+    child; descendants; population; race; animal.”
+------------------------------------------------------------------------
+- *pitaraḥ* ← *pitṛ*
+- \[noun\], nominative, plural
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+------------------------------------------------------------------------
+- *pitryaṃ* ← *pitryam* ← *pitrya*
+- \[noun\], accusative, singular, neuter
+- “ancestral; paternal.”
+------------------------------------------------------------------------
+- *saha* ← *sahaḥ* ← *sahas*
+- \[noun\], accusative, singular, neuter
+- “force; strength; might; sahas \[word\]; conquest.”
+------------------------------------------------------------------------
+- *āvareṣv* ← *avareṣu* ← *avara*
+- \[noun\], locative, plural, masculine
+- “worst; avara \[word\]; lower; nearer; base; short; low; abject;
+    later(a); worse; antecedent.”
+------------------------------------------------------------------------
+- *adadhus* ← *adadhuḥ* ← *dhā*
+- \[verb\], plural, Imperfect
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *tantum* ← *tantu*
+- \[noun\], accusative, singular, masculine
+- “thread; fiber; lineage; cobweb; fibril; stalk.”
+------------------------------------------------------------------------
+- *ātatam* ← *ātan* ← *√tan*
+- \[verb noun\], accusative, singular
+- “expand; prolong; chant; inflate.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**सूनवः** आदित्यस्य पुत्रा देवा अङ्गिरसः ।  ‘ देवानां ह्येतत्परमं जनित्रं यत्सूर्यः' इति प्रदर्शितत्वादादित्यस्य सूनव इति गम्यते । **असुरं** बलवन्तं **स्वर्विदं** सर्वज्ञं स्वर्गस्य लम्भकं वादित्यं **तृतीयेन** **कर्मणा** प्रजोत्पत्त्याख्येन।  ‘ ब्रह्मचर्येणर्षिभ्यो यज्ञेन देवेभ्यः प्रजया पितृभ्यः' (तै. सं. ६. ३. १०. ५ ) इति श्रुतेः प्रजोत्पादनस्य तृतीयकर्मत्वम् । तेन आदित्यं **द्विधा** **आस्थापयन्त** द्विप्रकारमास्थापयन्ति । उदितं चास्तमितं च कुर्वन्ति ।' उद्ग्राभं च निग्राभं च ब्रह्म देवा अवीवृधन्' (तै. सं. १. १. १३. १ ) इति मन्त्रस्य ब्राह्मणे ' असौ वा अदित्य उद्यनुद्ग्राभ एष निम्रोचन्निग्राभः' (तै. सं. ५. ४. ६. ६ ) इति श्रुतत्वाद्देवानामादिस्यस्य द्विःस्थापनमुदयास्तमयकरणमिति गम्यते । किंच **पितरः** मदीया अङ्गिरसः **स्वां** **प्रजाम्** । उत्पाद्येति शेषः । **पित्र्यं** **सहः** पितुरादित्यस्य संबन्धिनमपराभिभवक्षमं बलम् ”अवरेषु **आ** **दधुः** निकृष्टेषु स्वप्रजाभूतेषु मनुष्येषु स्थापितवन्तः । यथा पित्र्यं धनं सम्यक् परिरक्ष्य स्वपुत्रेभ्यः प्रयच्छन्ति तद्वत्पितुरादित्यस्य प्रकाशादिबलं मनुष्येषु न्यदधुरित्यर्थः । किंच **तन्तुं** प्रजाम् **आततं** विततं कृतवन्त इति शेषः । पुत्रपौत्रादिरूपेणानवच्छिन्नां प्रजामित्यर्थः ।  ‘ अयं ह्यातततन्तुर्यत्प्रजाः' इति ब्राह्मणं  ‘ प्रजातन्तुं मा  व्यवच्छेत्सीः ' ( तै. आ. ७. ११. १ ) इति च । तन्तुं तन्वन्' ( ऋ. सं. १०. ५३. ६ ) इत्यस्य ब्राह्मणं  ‘ प्रजा वै तन्तुः' ( ऐ. ब्रा. ३. ३८ ) इति ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The sons (of **Āditya**, the **Aṅgirasas**), established by the third act of duty, the mighty, all-wise (sun) inhis two-fold (condition of rising and setting); our progenitors (having begotten) their own progeny, deposited inthe best (of them) the paternal strength, (making) an extended line (of progeny).”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+The third act of duty: there arehis duty to the gods; and the propagation of children, which is his duty to the **Pitṛs**. braṣṭvācaryeṇarṣibhyoyajñena devebhyaḥ pitṛbhyaḥ: **Taittirīya** **Saṃhitā** 6.3.10.5; **prajā** vai **tantuḥ**: **Aitareya** **Brāhmaṇa** 3.38
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Sons set up their lord [=father] as a finder of the sun in two ways by a  third action.  
+And their forefathers have established their own offspring as their  
+paternal power, as their “stretched thread” among the later  
+generations.
+</details>
+
+<details><summary>+Griffith</summary>
+
+In two ways have the sons established in his place the Asura who finds the light, by the third act,  
+     As fathers, they have set their heritage on earth, their offspring, as a thread continuously spun out.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Die Söhne haben dem sonnegewinnenden Asura durch ihr drittes Werk zweifachen Bestand gegeben. Die Väter haben ihren Nachwuchs, die väterliche Gewalt, den ausgespannten Faden in die Nachfahren gelegt.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Den Gott, der Glanz schafft, haben zwiefach festgestellt die Söhne, und beim dritten Werk befestigten Die Väter ihr Geschlecht, die väterliche Kraft, und legten in die spätern das gewebte Werk.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Асуру, нашедшего свет, сыновья двояко  
+Укрепили с помощью третьего деяния.  
+Свою смену, отчую силу, протянутую нить  
+Отцы вложили в последующие (поколения).
+</details>

@@ -1,0 +1,104 @@
++++
+title = "018"
+devataa = "पवमानः सोमः"
+RShiH = "जमदग्निः"
+ChandaH = "द्विपदा गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+ते꣡ सुता꣡सो मदि꣡न्तमाः  
+शुक्रा꣡ वायु꣡म् असृक्षत
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ते । सु॒तासः॑ । म॒दिन्ऽत॑माः । शु॒क्राः । वा॒युम् । अ॒सृ॒क्ष॒त॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *te* ← *tad*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *sutāso* ← *sutāsaḥ* ← *su*
+- \[verb noun\], nominative, plural
+- “press out; su.”
+------------------------------------------------------------------------
+- *madintamāḥ* ← *madintama*
+- \[noun\], nominative, plural, masculine
+- “exhilarating; intoxicant.”
+------------------------------------------------------------------------
+- *śukrā* ← *śukrāḥ* ← *śukra*
+- \[noun\], nominative, plural, masculine
+- “bright; clear; white; light; pure.”
+------------------------------------------------------------------------
+- *vāyum* ← *vāyu*
+- \[noun\], accusative, singular, masculine
+- “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
+    draft; vāyu \[word\]; Vāyu; Marut.”
+------------------------------------------------------------------------
+- *asṛkṣata* ← *sṛj*
+- \[verb\], plural, Athematic s aor. (Ind.)
+- “create; shoot; discharge; free; cause; throw; emit; send; produce;
+    use; be born; make.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**मदिन्तमाः** अतिशयेन मादयितारः **शुक्राः** दीप्यमानाः सुता अभिषुताः **ते** सोमाः **वायुं** शब्दम् **असृक्षत** असृजन् अकार्षुः । यद्वा वायुमेव सोमपानार्थमसृजन् । सोमेषु सुतेषु सत्सु वायुस्तत्पानार्थमागच्छति खलु ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“These effused (**Soma**-juices), brilliant and extremely exhilarating, are let forth for **Vāyu**.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Or, utter a sound;
+
+Vāyum = śabdam
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+The clear pressed soma-juices, most invigorating, have surged to Vāyu.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Brilliant, best givers of delight, these juices have sent Vayu forth.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Die ausgepreßten berauschendsten Geklärten haben den Vayu losgelassen.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Zu Vaju sind die Tränk' entsandt die hellen, die berauschendsten.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Эти выжатые (соки), самые пьянящие,  
+Чистые, выпущены течь к Ваю.
+</details>

@@ -1,0 +1,151 @@
++++
+title = "005"
+devataa = "अग्निः"
+RShiH = "सारिसृक्वः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+प्र꣡ति अस्य श्र꣡यणयो+ ददृश्र  
+ए꣡कं निया꣡नम् बह꣡वो र꣡थासः  
+बाहू꣡ य꣡द् अग्ने अनुम꣡र्मृजानो  
+नि꣡अङ्ङ् उत्ताना꣡म् अनुए꣡षि भू꣡मिम्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+popular  
+popular  
+popular  
+popular
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रति॑ । अ॒स्य॒ । श्रेण॑यः । द॒दृ॒श्रे॒ । एक॑म् । नि॒ऽयान॑म् । ब॒हवः॑ । रथा॑सः ।  
+बा॒हू इति॑ । यत् । अ॒ग्ने॒ । अ॒नु॒ऽमर्मृ॑जानः । न्य॑ङ् । उ॒त्ता॒नाम् । अ॒नु॒ऽएषि॑ । भूमि॑म् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *praty* ← *prati*
+- \[adverb\]
+- “towards; per; regarding; respectively; according to; until.”
+------------------------------------------------------------------------
+- *asya* ← *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *śreṇayo* ← *śreṇayaḥ* ← *śreṇi*
+- \[noun\], nominative, plural, masculine
+- “club; line.”
+------------------------------------------------------------------------
+- *dadṛśra* ← *dadṛśre* ← *dṛś*
+- \[verb\], plural, Perfect indicative
+- “see; observe; view; visit; look; learn; meet; read; teach; examine;
+    watch; see; notice; perceive; diagnose; travel to; show; detect;
+    know; know; understand; understand; follow.”
+------------------------------------------------------------------------
+- *ekaṃ* ← *ekam* ← *eka*
+- \[noun\], nominative, singular, neuter
+- “one; single(a); alone(p); some(a); single(a); eka \[word\];
+    alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
+    consistent; any(a); undifferentiated; disjunct.”
+------------------------------------------------------------------------
+- *niyānam* ← *niyāna*
+- \[noun\], nominative, singular, neuter
+------------------------------------------------------------------------
+- *bahavo* ← *bahavaḥ* ← *bahu*
+- \[noun\], nominative, plural, masculine
+- “many; much(a); bahu \[word\]; abundant; long; large; abounding
+    in(p); perennial.”
+------------------------------------------------------------------------
+- *rathāsaḥ* ← *ratha*
+- \[noun\], nominative, plural, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *bāhū* ← *bāhu*
+- \[noun\], accusative, dual, masculine
+- “arm; bāhu \[word\]; elbow; forefoot.”
+------------------------------------------------------------------------
+- *yad* ← *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *anumarmṛjāno* ← *anumarmṛjānaḥ* ← *anumarmṛj* ← *√mṛj*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------
+- *nyaṅṅ* ← *\_* ← *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *uttānām* ← *uttāna*
+- \[noun\], accusative, singular, feminine
+- “supine; upward; upright; skin-deep; raised; shallow.”
+------------------------------------------------------------------------
+- *anveṣi* ← *anvi* ← *√i*
+- \[verb\], singular, Present indikative
+- “follow.”
+------------------------------------------------------------------------
+- *bhūmim* ← *bhūmi*
+- \[noun\], accusative, singular, feminine
+- “floor; earth; Earth; real property; region; pṛthivī; location;
+    Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
+    distance; country; space; land; territory; topographic point.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**अस्य** अग्नेर्दहतः **श्रेणयः** ज्वालापङ्क्तयः **प्रति** ददृश्रे प्रतिदृश्यन्ते । - - -तद्वत् । अत्र सामर्थ्यादुपमानप्रतीतिः । हे **अग्ने** **बाहू** । तृतीयार्थे प्रथमा । बाहुभ्यां बाहुस्थानीयैर्ज्वालासमूहै। **अनुमर्मृजानः** सर्वं वनं मृजञ्शोधयन् । दहन्नित्यर्थः । **न्यङ्** न्यञ्चन् प्रह्वीभवन् **उत्तानाम्** ऊर्ध्वाभिमुखां भूमिं **यत्** यदा **अन्वेषि** अनुगच्छसि तदानीमस्य श्रेणयो ददृश्र  इत्यन्वयः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“His lines (of flame) are visible, like one array of many chariots, when clearing away (the forests) withyour arms (of flame) you march, **Agni**, over the prostrate earth.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+His ranks have appeared opposite—many chariots (along) a single  downward course—  
+when, o Agni, continually stroking your two arms, you go, bending  
+downward, along the upstretching earth.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Apparent are his lines as he approaches the course is single, but the cars are many,  
+     When, Agni, thou, making thine arms resplendent, advancest o'er the land spread out beneath thee.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Man sieht seine Reihen; es ist eine Anfahrt und viele Wagen, wann du, Agni, die Arme anschmiegend niedergebeugt auf der ausgestreckten Erde entlang gehst.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Es wurden sichtbar seine Wagenreihen, nur eine Strasse, aber viele Wagen; Wenn Agni du, ausstreckend deine Arme, herabkommst auf die hingestreckte Erde.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Его шеренги видны (отовсюду):  
+Один выезд, много колесниц,  
+Когда, о Агни, мощно растирая руками (землю),  
+Направленный вниз, ты движешься по простертой (под тобой) земле.
+</details>

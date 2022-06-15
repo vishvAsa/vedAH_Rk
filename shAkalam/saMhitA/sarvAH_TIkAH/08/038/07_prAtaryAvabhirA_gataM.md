@@ -1,0 +1,121 @@
++++
+title = "007"
+devataa = "इन्द्राग्नी"
+RShiH = "श्यावाश्वः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+प्रातर्या꣡वभिर् आ꣡ गतं  
+देवे꣡भिर् जेनियावसू  
+इ꣡न्द्राग्नी सो꣡मपीतये
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+प्रा॒त॒र्याव॑ऽभिः । आ । ग॒त॒म् । दे॒वेभिः॑ । जे॒न्या॒व॒सू॒ इति॑ ।  
+इन्द्रा॑ग्नी॒ इति॑ । सोम॑ऽपीतये ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *prātaryāvabhir* ← *prātaryāvabhiḥ* ← *prātaryāvan*
+- \[noun\], instrumental, plural, masculine
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *gataṃ* ← *gatam* ← *gam*
+- \[verb\], dual, Aorist imperative
+- “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
+    leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
+    get; come; die; drain; spread; transform; happen; discharge; ride;
+    to be located; run; detect; refer; go; shall; drive.”
+------------------------------------------------------------------------
+- *devebhir* ← *devebhiḥ* ← *deva*
+- \[noun\], instrumental, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *jenyāvasū* ← *jenyāvasu*
+- \[noun\], vocative, dual, masculine
+------------------------------------------------------------------------
+- *indrāgnī* ← *indra*
+- \[noun\], masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *indrāgnī* ← *agnī* ← *agni*
+- \[noun\], vocative, dual, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *somapītaye* ← *soma*
+- \[noun\], masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *somapītaye* ← *pītaye* ← *pīti*
+- \[noun\], dative, singular, feminine
+- “drinking; haritāla.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **जेन्यावसू** जेतव्यशत्रुधनौ **इन्द्राग्नी** **प्रातर्यावभिः** देवैः सह **सोमपीतये** सोमस्य पानाय **आ** **गतम्** आगच्छतम् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Rich with the spoils of victory, come, **Indra** and **Agni**, to drink of the **Soma**, with the deities astir in themorning.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Along with the early-traveling gods come here, you two of noble goods, – Indra and Agni, for soma-drinking.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+On jenya- see comm. ad I.128.7.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Come with the early-faring Gods, ye who are Lords of genuine wealth:  
+     Indra-Agni, to the Soma-draught
+</details>
+
+<details><summary>+Geldner</summary>
+
+Kommet mit den frühausfahrenden Göttern, die ihr angestammtes Gut besitzet, Indra und Agni, um Soma zu trinken.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Mit Göttern, die am Morgen gehn, kommt her, o reichbegüterte, Den Soma, Indra-Agni, trinkt.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Приезжайте вместе с рановыезжающими  
+Богами, о вы двое, у кого есть унаследованное добро,  
+О Индра-Агни, для питья сомы!
+</details>

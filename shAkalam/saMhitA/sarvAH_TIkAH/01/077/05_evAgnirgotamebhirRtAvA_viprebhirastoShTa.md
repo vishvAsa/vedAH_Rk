@@ -1,0 +1,170 @@
++++
+title = "005"
+devataa = "अग्निः"
+RShiH = "गोतमो राहूगणः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+एव꣡ अग्नि꣡र् गो꣡तमेभिर् ऋता꣡वा  
+वि꣡प्रेभिर् · अस्तोष्ट जात꣡वेदाः  
+स꣡ एषु द्युम्न꣡म् पीपयत् स꣡ वा꣡जं  
+स꣡ पुष्टिं꣡ याति जो꣡षम् आ꣡ चिकित्वा꣡न्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic on metrical evidence alone
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ए॒व । अ॒ग्निः । गोत॑मेभिः । ऋ॒तऽवा॑ । विप्रे॑भिः । अ॒स्तो॒ष्ट॒ । जा॒तऽवे॑दाः ।  
+सः । ए॒षु॒ । द्यु॒म्नम् । पी॒प॒य॒त् । सः । वाज॑म् । सः । पु॒ष्टिम् । या॒ति॒ । जोष॑म् । आ । चि॒कि॒त्वान् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *evāgnir* ← *evā* ← *eva*
+- \[adverb\]
+- “indeed; merely; thus; even; surely; same; eva \[word\];
+    successively; immediately; in truth.”
+------------------------------------------------------------------------
+- *evāgnir* ← *agniḥ* ← *agni*
+- \[noun\], nominative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *gotamebhir* ← *gotamebhiḥ* ← *gotama*
+- \[noun\], instrumental, plural, masculine
+- “Gotama; gotama \[word\].”
+------------------------------------------------------------------------
+- *ṛtāvā* ← *ṛtāvan*
+- \[noun\], nominative, singular, masculine
+- “law-abiding; faithful; righteous.”
+------------------------------------------------------------------------
+- *viprebhir* ← *viprebhiḥ* ← *vipra*
+- \[noun\], instrumental, plural, masculine
+- “eloquent; stimulated; divine.”
+------------------------------------------------------------------------
+- *astoṣṭa* ← *stu*
+- \[verb\], singular, Athematic s aor. (Ind.)
+- “laud; praise; declare; stu.”
+------------------------------------------------------------------------
+- *jātavedāḥ* ← *jātavedas*
+- \[noun\], nominative, singular, masculine
+- “Agni; fire.”
+------------------------------------------------------------------------
+- *sa* ← *saḥ* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *eṣu* ← *idam*
+- \[noun\], locative, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *dyumnam* ← *dyumna*
+- \[noun\], accusative, singular, neuter
+- “magnificence.”
+------------------------------------------------------------------------
+- *pīpayat* ← *pyā*
+- \[verb\], singular, Perfect conjunctive (subj.)
+- “swell; abound; swell.”
+------------------------------------------------------------------------
+- *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *vājaṃ* ← *vājam* ← *vāja*
+- \[noun\], accusative, singular, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *puṣṭiṃ* ← *puṣṭim* ← *puṣṭi*
+- \[noun\], accusative, singular, feminine
+- “prosperity; growth; increase; puṣṭi; luxury; wealth; comfort;
+    increase; corpulence.”
+------------------------------------------------------------------------
+- *yāti* ← *yā*
+- \[verb\], singular, Present indikative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *joṣam* ← *joṣa*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *cikitvān* ← *cit*
+- \[verb noun\], nominative, singular
+- “notice; observe; attend to; intend.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**ऋतावा** ऋतवान् यज्ञवान् **जातवेदाः** जातधनो जातप्रज्ञो वा अयम् **अग्निः** **विप्रेभिः** मेधाविभिः **गौतमेभिः** गोतमैर्ऋषिभिरेवमुक्तेन प्रकारेण **अस्तोष्ट** स्तुतोऽभूत् । स्तुतश्च **सः** अग्निः **एषु** गोतमेषु **द्युम्नं** द्योतमानं सोमं **पीपयत्** अपिबत्। यद्वा । तानृषीन् अपाययत्। तथा **सः** अग्निः **वाजं** हविर्लक्षणमन्नं पीपयदित्येव । एवं सोमलक्षणं चरुपुरोडाशादिलक्षणं हविश्च स्वीकृत्य **सः** अग्निः **जोषम्** अस्माभिः कृतं सेवनम् **आ** **चिकित्वान्** आ समन्तात् जानन् **पुष्टिं** **याति** पोषं प्राप्नोतु । यद्वा । अस्माकं धनानि पोषं प्रापयतु । गोतमेभिः।' ऋष्यन्धकवृष्णिकुरुभ्यश्च ' (पा. सू. ४. १. ११४ ) इति विहितस्य अणः ‘अत्रिभृगुकुत्सवसिष्ठगोतमाङ्गिरोभ्यश्च' (पा. सू. २. ४. ६५) इति बहुषु लुक् । अस्तोष्ट । स्तोतेः कर्मणि लुङि चिणभावश्छान्दसः । पीपयत्। 'पा पाने' ण्यन्तात् लुङि च्लेश्चङादि । जोषम् । 'जुषी प्रीतिसेवनयोः '। भावे घञ् । ञित्वादाद्युदात्तत्वम् ॥ ॥ २५ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Thus has **Agni**, the celebrator of sacrifices, and by whom all things are known, been hymned by the pious descendant of **Gotama**; to them he has given the bright **Soma** to drink, along with the sacrificial food, and gratified by our devotion, he obtains nutriment (for himself).”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Thus has Agni, the truthful one, the Jātavedas, been praised by the  Gotamas, inspired poets.  
+He will swell brilliance among them; he will swell the prize. He drives to  prosperity at his pleasure—the observant one.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Thus Agni Jatavedas, true to Order, hath by the priestly Gotamas been lauded.  
+     May he augment in them splendour and vigour: observant, as he lists, he gathers increase.
+</details>
+
+<details><summary>+Oldenberg</summary>
+
+Thus Agni, the righteous Gâtavedas, has been praised by the priestly Gotamas 1. May he augment their splendour and their strength. He the knowing one gains increase according to his desire.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Also ward Agni, der rechtmäßige Jatavedas, von den redekundigen Gotama´s gepriesen. Er möge bei Ihnen Ruhm und Lohn anschwellen lassen. Er gelangt nach Belieben zu wachsendem Wohlstand, da er sich darauf versteht.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+So ist der heil'ge Wesenkenner Agni gepriesen jetzt von Gotamern, den Sängern; Er tränke sie mit Reichthum und mit Stärke; nach Wunsch erlangt der Weise Kraft und Nahrung.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Так Агни – праведный Джатаведас  
+Восхвалялся вдохновенными из рода Готамы.  
+Пусть он сделает у них блеск набухшим, пусть – награду!  
+Он идет к процветанию по своему желанию, зная (в этом) толк,
+</details>

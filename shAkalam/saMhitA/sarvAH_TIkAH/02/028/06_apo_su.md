@@ -1,0 +1,180 @@
++++
+title = "006"
+devataa = "वरुणः"
+RShiH = "कूर्मो गार्त्समदो गृत्समदो वा"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अ꣡पो सु꣡ म्यक्ष वरुण भिय꣡सम्  
+म꣡त् स꣡म्राऌ ऋ꣡तावो꣡ ऽनु मा गृभाय  
+दा꣡मेव वत्सा꣡द् वि꣡ मुमुग्धि अं꣡हो  
+नहि꣡ त्व꣡द् आरे꣡ निमि꣡षश् चने꣡शे
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; line affected by realignment;; 12 = 5+7, ending LHX  
+genre M;; line affected by realignment  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अपो॒ इति॑ । सु । म्य॒क्ष॒ । व॒रु॒ण॒ । भि॒यस॑म् । मत् । सम्ऽरा॑ट् । ऋत॑ऽवः । अनु॑ । मा॒ । गृ॒भा॒य॒ ।  
+दाम॑ऽइव । व॒त्सात् । वि । मु॒मु॒ग्धि॒ । अंहः॑ । न॒हि । त्वत् । आ॒रे । नि॒ऽमिषः॑ । च॒न । ईशे॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *apo* ← *apa*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *apo* ← *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *myakṣa* ← *myakṣ*
+- \[verb\], singular, Present imperative
+- “be situated; attach.”
+------------------------------------------------------------------------
+- *varuṇa*
+- \[noun\], vocative, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *bhiyasam* ← *bhiyas*
+- \[noun\], accusative, singular, masculine
+- “fear.”
+------------------------------------------------------------------------
+- *mat* ← *mad*
+- \[noun\], ablative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *samrāḍ* ← *samrāj*
+- \[noun\], vocative, singular, masculine
+- “sovereign; ruler.”
+------------------------------------------------------------------------
+- *ṛtāvo* ← *ṛtāvaḥ* ← *ṛtāvan*
+- \[noun\], vocative, singular, masculine
+- “law-abiding; faithful; righteous.”
+------------------------------------------------------------------------
+- *'nu* ← *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *mā* ← *mad*
+- \[noun\], accusative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *gṛbhāya* ← *gṛbhāy* ← *√grah*
+- \[verb\], singular, Present imperative
+- “accept.”
+------------------------------------------------------------------------
+- *dāmeva* ← *dāma* ← *dāman*
+- \[noun\], accusative, singular, neuter
+- “wreath; dāman; dāman \[word\]; shackle; girdle; fetter.”
+------------------------------------------------------------------------
+- *dāmeva* ← *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *vatsād* ← *vatsāt* ← *vatsa*
+- \[noun\], ablative, singular, masculine
+- “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
+    son; male child.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *mumugdhy* ← *mumugdhi* ← *muc*
+- \[verb\], singular, Perfect imperative
+- “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
+    fill into; shoot; spill; lose; ejaculate; exclude; free; remove;
+    loosen; let go of; add; shed; want; save; defecate; heal; fart;
+    open; abandon; discard; precipitate; reject; lay; unleash; exhale;
+    discharge.”
+------------------------------------------------------------------------
+- *aṃho* ← *aṃhaḥ* ← *aṃhas*
+- \[noun\], accusative, singular, neuter
+- “trouble; sin.”
+------------------------------------------------------------------------
+- *nahi*
+- \[adverb\]
+------------------------------------------------------------------------
+- *tvad* ← *tvat* ← *tvad*
+- \[noun\], ablative, singular
+- “you.”
+------------------------------------------------------------------------
+- *āre*
+- \[adverb\]
+- “far.”
+------------------------------------------------------------------------
+- *nimiṣaś* ← *nimiṣaḥ* ← *nimiṣ*
+- \[noun\], accusative, plural, feminine
+- “blink of an eye.”
+------------------------------------------------------------------------
+- *caneśe* ← *cana*
+- \[adverb\]
+- “not even; cana \[word\].”
+------------------------------------------------------------------------
+- *caneśe* ← *īśe* ← *īś*
+- \[verb\], singular, Present indikative
+- “govern; command; master; dominate; can; reign; control; own.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हेवरुण भियसं भयं मत् मत्तः सुसुष्ठुअपोम्यक्षअपगमय हेमम्नाट् सम्यग्राजमान हेऋतावः सत्य- वन् यज्ञवन्वावरुण मामां अनुगृभाय अनुगृहाण छन्दसिशायजपीतिश्नःशायजोदेशः हृग्रहोर्भइति- भत्वम् अपिच दामेववत्सात् यथादोग्धावत्ससकाशात् बन्धनींरज्जुंविमुञ्चति तथा अंहः पापम्मत्स- काशाद्विमुमुग्धि विमुञ्च छान्दसःशपःश्लुः पृथक्कुरु त्वदारेत्वत्तोदूरदेशेवर्तमानः त्वदन्यइत्यर्थः त्व- त्तोन्यःकश्चित् निमिषश्चन निमेषस्यापि अक्षिपक्ष्मचलनस्यापि नहिईशे नेष्टे त्वमेवईश्वरइत्यर्थः लोपस्तआत्मनेपदेष्वितितलोपः ॥ ६ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Keep off all danger from me, **Varuṇa**; supreme monarch, endowed with truth, bestow your favour upon me; cast off (from me) sin, like a tether from a calf; no one rules for the twinkling of an eye, apart from you.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Unfasten fear from me, o Varuṇa! Hold me close, o truth-possessing,  universal king!  
+Like a rope from a calf, untie confining straits (from me), for I cannot  be away from you even for the blink of an eye.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Far from me, Varuna, remove all danger accept me graciously, thou Holy Sovran.  
+     Cast off, like cords that hold a calf, my troubles: I am not even mine eyelid's lord without thee.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Halte fein die Furcht von mir fern, o Varuna, nimm dich meiner an, du wahrhaftiger Allkönig ! Löse von mir die Angst, wie einen Strick vom Kalbe, denn fern von dir vermag ich auch nicht einen Augenblick zu sein.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+O Varuna, das Schreckniss strahl hinweg mir, nimm mein dich an, o heiliger Gebieter; Lös' ab das Unheil wie vom Kalb die Halfter, denn fern von dir entbehr' ich auch des Schlummers.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Прогони же, о Варуна, страх от меня!  
+Прими меня (к себе), о законный вседержитель!  
+Сними с меня узость, как веревку с теленка!  
+Вдалеке от тебя я не могу (быть) ни мгновения!
+</details>

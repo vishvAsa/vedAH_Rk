@@ -1,0 +1,139 @@
++++
+title = "004"
+devataa = "गर्भसंस्रावे प्रायश्चित्तं"
+RShiH = "रक्षोहा ब्राह्मः"
+ChandaH = "अनुष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+य꣡स् त ऊरू꣡ विह꣡रति  
+अन्तरा꣡ द꣡म्पती श꣡ये  
+यो꣡निं यो꣡ अन्त꣡र् आरे꣡ऌहि  
+त꣡म् इतो꣡ नाशयामसि
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292)  
+popular;; epic anuṣṭubh (292);; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । ते॒ । ऊ॒रू इति॑ । वि॒ऽहर॑ति । अ॒न्त॒रा । दम्प॑ती॒ इति॒ दम्ऽप॑ती । शये॑ ।  
+योनि॑म् । यः । अ॒न्तः । आ॒ऽरेळ्हि॑ । तम् । इ॒तः । ना॒श॒या॒म॒सि॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *yas* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *ta* ← *te* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *ūrū* ← *ūru*
+- \[noun\], accusative, dual, masculine
+- “thigh; ūru \[word\]; ūru; shank.”
+------------------------------------------------------------------------
+- *viharaty* ← *viharati* ← *vihṛ* ← *√hṛ*
+- \[verb\], singular, Present indikative
+- “spend; amuse; stay; separate; unfold.”
+------------------------------------------------------------------------
+- *antarā*
+- \[adverb\]
+- “inside; meanwhile; occasionally.”
+------------------------------------------------------------------------
+- *dampatī* ← *dampati*
+- \[noun\], accusative, dual, masculine
+- “couple.”
+------------------------------------------------------------------------
+- *śaye* ← *śī*
+- \[verb\], singular, Present indikative
+- “lie; sleep.”
+------------------------------------------------------------------------
+- *yoniṃ* ← *yonim* ← *yoni*
+- \[noun\], accusative, singular, feminine
+- “vagina; vulva; uterus; beginning; origin; reincarnation;
+    birthplace; family; production; cause; race; grain; raw material;
+    birth; kind; caste; kinship; bed.”
+------------------------------------------------------------------------
+- *yo* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *antar*
+- \[adverb\]
+- “inside; in; antar \[word\]; midmost; between; among.”
+------------------------------------------------------------------------
+- *āreḍhi* ← *ārih* ← *√rih*
+- \[verb\], singular, Present indikative
+- “lick.”
+------------------------------------------------------------------------
+- *tam* ← *tad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *ito* ← *itas*
+- \[adverb\]
+- “from here; therefore.”
+------------------------------------------------------------------------
+- *nāśayāmasi* ← *nāśay* ← *√naś*
+- \[verb\], plural, Present indikative
+- “cure; destroy; kill; remove; māray; obstruct; expiate; eliminate.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे योषित् **ते** तव **ऊरू** पादमूलौ **यः** राक्षसादिः **विहरति** गर्भघाताय विश्लिष्टौ करोति **दंपती** **अन्तरा** जायापत्योर्मध्ये गर्भहननार्थं यश्च **शये** शेते **यः** च **योनिम्** **अन्तः** प्रविश्य **आरेळिह** निषिक्तं रेतो जिह्वया आस्वादयति ॥ भक्षयतीत्यर्थः । ' लिह आस्वादने ' । आदादिकः । कपिलकादित्वाल्लत्वविकल्पः । ।
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“May we exterminate from hence (the evil spirit)l who separates your things, who lies betweenhusband and wife, who, entering your womb, devours (the seed).”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Who pries apart your thighs, lies between the married couple,  
+who licks within your womb, that one we banish from here.
+</details>
+
+<details><summary>+Griffith</summary>
+
+That which divides thy legs that it may lie between the married pair,  
+     That penetrates and licks thy side,-even this will we exterminate.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Der deine beiden Schenkel spreizt, zwischen den Ehegatten liegt, der den Schoß innen beleckt, den treiben wir von hinnen.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Der dir die Schenkel auseinander reisst, und sich zwischen beide Gatten legt, der deinen Schooss innen beleckt, den treiben wir fort von hier.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Кто разводит тебе бедра,  
+Лежит между супругами,  
+Кто лижет (твое) лоно изнутри,  
+Того мы гоним отсюда.
+</details>

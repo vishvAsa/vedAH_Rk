@@ -1,0 +1,168 @@
++++
+title = "006"
+devataa = "उषाः"
+RShiH = "भरद्वाजो बार्हस्पत्यः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+उछा꣡ दिवो दुहितः प्रत्नव꣡न् नो  
+भरद्वाजव꣡द् विधते꣡ मघोनि  
+सुवी꣡रं रयिं꣡ गृणते꣡ रिरीहि  
+उरुगाय꣡म् अ꣡धि धेहि श्र꣡वो नः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒च्छ । दि॒वः॒ । दु॒हि॒त॒रिति॑ । प्र॒त्न॒ऽवत् । नः॒ । भ॒र॒द्वा॒ज॒ऽवत् । वि॒ध॒ते । म॒घो॒नि॒ ।  
+सु॒ऽवीर॑म् । र॒यिम् । गृ॒ण॒ते । रि॒री॒हि॒ । उ॒रु॒ऽगा॒यम् । अधि॑ । धे॒हि॒ । श्रवः॑ । नः॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *ucchā* ← *uccha* ← *vas*
+- \[verb\], singular, Present imperative
+- “dawn; shine.”
+------------------------------------------------------------------------
+- *divo* ← *divaḥ* ← *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *duhitaḥ* ← *duhitar* ← *duhitṛ*
+- \[noun\], vocative, singular, feminine
+- “daughter; duhitṛ \[word\].”
+------------------------------------------------------------------------
+- *pratnavan* ← *pratna*
+- \[noun\]
+- “age-old; pratna \[word\].”
+------------------------------------------------------------------------
+- *pratnavan* ← *vat*
+- \[adverb\]
+- “equally; like.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *bharadvājavad* ← *bharadvāja*
+- \[noun\], masculine
+- “Bharadvāja; Droṇa; Bharadvāja; skylark.”
+------------------------------------------------------------------------
+- *bharadvājavad* ← *vat*
+- \[adverb\]
+- “equally; like.”
+------------------------------------------------------------------------
+- *vidhate* ← *vidh*
+- \[verb noun\], dative, singular
+- “worship; offer.”
+------------------------------------------------------------------------
+- *maghoni* ← *maghavan*
+- \[noun\], vocative, singular, feminine
+- “big.”
+------------------------------------------------------------------------
+- *suvīraṃ* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suvīraṃ* ← *vīram* ← *vīra*
+- \[noun\], accusative, singular, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+------------------------------------------------------------------------
+- *rayiṃ* ← *rayim* ← *rayi*
+- \[noun\], accusative, singular, masculine
+- “wealth; property.”
+------------------------------------------------------------------------
+- *gṛṇate* ← *gṛ*
+- \[verb noun\], dative, singular
+- “praise.”
+------------------------------------------------------------------------
+- *rirīhy* ← *rirīhi* ← *rā*
+- \[verb\], singular, Present imperative
+- “give; impart.”
+------------------------------------------------------------------------
+- *urugāyam* ← *urugāya*
+- \[noun\], accusative, singular, neuter
+------------------------------------------------------------------------
+- *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+------------------------------------------------------------------------
+- *dhehi* ← *dhā*
+- \[verb\], singular, Present imperative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *śravo* ← *śravaḥ* ← *śravas*
+- \[noun\], accusative, singular, neuter
+- “fame; glory; ear.”
+------------------------------------------------------------------------
+- *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **दिवो** **दुहितः** उषः **प्रत्नवत्** पुरातनेभ्य इव **नः** अस्मदर्थम् **उच्छ** तमांसि वर्जय । हे **मघोनि** **भरद्वाजवत्** **विधते** परिचरते । भरद्वाजवदिति वचनात् अन्योऽप्यस्ति भरद्वाजः । तथा च ब्राह्मणं -' प्राणो वै भरद्वाजवत्' इति । **गृणते** स्तुतिं कुर्वते मह्यं **सुवीरं** कल्याणपुत्रपौत्रादियुक्तं **रयिं** धनं **रिरीहि** देहि । किंच **नः** अस्मभ्यम् **उरुगायं** बहुभिर्गातव्यं **श्रवः** अन्नम् **अधि** **धेहि** अधिकं प्रयच्छ ॥ ॥ ६ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Verily, Uṣas, the **Aṅgirasas** through your (favour) recover the herd of cattle from the summit of the mountain; by adoration and by prayer they have divided (the rock); unfailing was the praise of the gods uttered by the oleaders (of rites).”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Dawn for us, Daughter of Heaven, as of old, for the one who does (you)  honor like Bharadvāja, o bounteous one.  
+Grant wealth in good heroes to the singer. Confer wide-ranging fame  upon us.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+With some relief we can pass on from the clotted vss. containing the Maruts’ birth story to the considerably more straightforward terrain of their adult exploits. This vs. is, however, linked to the preceding one: ugrā́ḥ in 6a picks up the last word of 5, ugrā́n. It is also barely possible that suméke ‘well-fixed’ to √mi ‘fix, implant’ resonates with staunā́ḥ in 5c, if that means ‘post’.
+
+As indicated in the published translation, the vs. is also structured by the pun on du. ródasī ‘(two) world halves’ and nom. sg. rodasī́, the PN of the Maruts’ consort, differing only by accent.
+
+As noted by Oldenberg and Renou, the simile marker ná is wrongly positioned, before the simile itself: ná rókaḥ rather than expected *róko ná. Renou suggests it is to avoid vs.-final ná. But see the disc. above of 5c, with the ref. to von Bradke’s happy observation that (ta)sthau ná here matches the hapax staunā́(ḥ) in that pāda, which can easily account for the wrong placement here: the order was adjusted to facilitate the inter-vs. echo. My tr. also reflects my interpr. of sváśociḥ at the end of previous pāda as part of the postponed simile (sváśociḥ, … ná rókaḥ# “like a self-blazing light”). Although sváśociḥ can of course modify rodasī́, to which it is adjacent, taking it with the simile would not only put ná in expected, if distant, second position, but also produces a more effective simile in my opinion: “like a light” seems pretty lame, as if Rodasī was a glorified headlight, but “like a self-blazing light” has more oomph.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Shine on us as of old, thou Child of Heaven,on him, rich Maid! who serves like Bharadvaja.  
+     Give to the singer wealth with noble heroes, and upon us bestow wide-spreading glory.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Leuchte uns auf, Himmelstochter, wie ehedem, für den, der gleich Bharadvaja dich verehrt, du Gabenreiche! Gewähre dem Sänger einen Schatz von Meistern, verleih uns sich weiterstreckenden Ruhm!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Nach alter Weise strahl uns, Himmelstochter, beim Fest, o reiche, wie dem Bharadvadscha; Verleihe Gut an Helden reich dem Sänger, und gib dazu uns Ruhm, der weit sich ausdehnt.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Зажгись для нас, о дочь неба, как прежде,  
+Для поклоняющегося (тебе), о щедрая, подобно Бхарадвадже!  
+Дай певцу богатство, состоящее из прекрасных мужей!  
+Надели нас далеко идущей славой!
+</details>

@@ -1,0 +1,123 @@
++++
+title = "011"
+devataa = "अश्विनौ"
+RShiH = "प्रस्कण्वः काण्वः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अ꣡भूद् उ पार꣡म् ए꣡तवे  
+प꣡न्था ऋत꣡स्य साधुया꣡  
+अ꣡दर्शि वि꣡ स्रुति꣡र् दिवः꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अभू॑त् । ऊं॒ इति॑ । पा॒रम् । एत॑वे । पन्थाः॑ । ऋ॒तस्य॑ । सा॒धु॒ऽया ।  
+अद॑र्शि । वि । स्रु॒तिः । दि॒वः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *abhūd* ← *abhūt* ← *bhū*
+- \[verb\], singular, Root aorist (Ind.)
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *pāram* ← *pāra*
+- \[noun\], accusative, singular, masculine
+- “shore; pāra \[word\]; end; excellence.”
+------------------------------------------------------------------------
+- *etave* ← *i*
+- \[verb noun\]
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *panthā* ← *panthāḥ* ← *pathin*
+- \[noun\], nominative, singular
+- “way; road; path \[word\]; journey; method.”
+------------------------------------------------------------------------
+- *ṛtasya* ← *ṛta*
+- \[noun\], genitive, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *sādhuyā*
+- \[adverb\]
+------------------------------------------------------------------------
+- *adarśi* ← *dṛś*
+- \[verb\], singular, Aorist passive
+- “see; observe; view; visit; look; learn; meet; read; teach; examine;
+    watch; see; notice; perceive; diagnose; travel to; show; detect;
+    know; know; understand; understand; follow.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *srutir* ← *srutiḥ* ← *sruti*
+- \[noun\], nominative, singular, feminine
+- “discharge; path; road; stream.”
+------------------------------------------------------------------------
+- *divaḥ* ← *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**ऋतस्य** सूर्यस्य **पारमेतवे** रात्रेः पारभूतमुदयाद्रिं गन्तुं **पन्थाः** मार्गः **साधुया** समीचीनः **अभूदु** निष्पन्न एव । **दिवः** द्योतनात्मकस्य सूर्यस्य **स्रुतिः** प्रसृता दीप्तिः **वि** **अदर्शि** विशेषेण दृष्टा । तस्मादश्विनौ युवाभ्यामागन्तव्यम् । एतवे । इण् गतौ'। ‘तुमर्थे सेसेन्' इति तवेन्प्रत्ययः। साधुया। ‘सुपां सुलुक्' इति विभक्तेः याजादेशः । अदर्शि। कर्मणि लुङि च्लेः चिणादेशः । ‘चिणो लुक्' (पा. सू. ६. ४. १०४ ) इति तशब्दस्य लुक् । स्रुतिः । **स्रु** गती'। ‘क्तिच्क्तौ च संज्ञायाम्' इति क्तिच् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“A fit path was made for the sun to go beyond the boundary (of night); the radiance of the luminary became visible.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+And the path of truth has come into being to lead right to the far shore. The course of heaven has appeared.
+</details>
+
+<details><summary>+Griffith</summary>
+
+The path of sacrifice was made to travel to the farther goal:  
+     The road of heaven was manifest.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Der rechte Weg ist bereitet, um glücklich ans andere Ufer zu gelangen; die Straße des Himmels ist sichtbar geworden.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Es ist des Opfers Pfad gebahnt, um bis ans Ziel auf ihm zu gehn, Und sichtbar ist des Himmels Steg.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Вот возник путь закона,  
+Чтобы прямо двигаться на тот берег.  
+Показалась тропинка неба.
+</details>

@@ -1,0 +1,123 @@
++++
+title = "005"
+devataa = "सूर्यः"
+RShiH = "चक्षुः सौर्यः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+सुसंदृ꣡शं तुवा वय꣡म्  
+प्र꣡ति पश्येम सूरिय  
+वि꣡ पश्येम नृच꣡क्षसः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+popular;; repeated line  
+popular  
+popular
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सु॒ऽस॒न्दृश॑म् । त्वा॒ । व॒यम् । प्रति॑ । प॒श्ये॒म॒ । सू॒र्य॒ ।  
+वि । प॒श्ये॒म॒ । नृ॒ऽचक्ष॑सः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *susaṃdṛśaṃ* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *susaṃdṛśaṃ* ← *saṃdṛśam* ← *saṃdṛś*
+- \[noun\], accusative, singular, masculine
+- “appearance; view; view.”
+------------------------------------------------------------------------
+- *tvā* ← *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *vayam* ← *mad*
+- \[noun\], nominative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *prati*
+- \[adverb\]
+- “towards; per; regarding; respectively; according to; until.”
+------------------------------------------------------------------------
+- *paśyema* ← *paś*
+- \[verb\], plural, Present optative
+- “see; view; watch; meet; observe; think of; look; examine; behold;
+    visit; understand.”
+------------------------------------------------------------------------
+- *sūrya*
+- \[noun\], vocative, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *paśyema* ← *paś*
+- \[verb\], plural, Present optative
+- “see; view; watch; meet; observe; think of; look; examine; behold;
+    visit; understand.”
+------------------------------------------------------------------------
+- *nṛcakṣasaḥ* ← *nṛ*
+- \[noun\], masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *nṛcakṣasaḥ* ← *cakṣasaḥ* ← *cakṣas*
+- \[noun\], nominative, plural, masculine
+- “eye; look; radiance.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **सूर्य** **सुसंदृशं** सुष्ठु संद्रष्टारं **त्वा** त्वां **वयं** **प्रति** **पश्येम** प्रत्येकं द्रष्टारो भूयास्म । तथा **नृचक्षसः** नृभिर्मनुष्यैरस्माभिर्द्रष्टव्यान् पदार्थान् **वि** **पश्येम** विद्रष्टारो भवेम । यद्वा । नृचक्षसो नृणां शत्रुमनुष्याणां हिंसकाः सन्तो वयं विशिष्टज्ञाना भवेम ॥ ॥१ ६ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“May we look upon you, **Sūrya**, the bright beholder (of all), may we look into the things which arevisible to mankind.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+May we look toward you, wholly good to see, o Sun.  
+May we, (though) we have the eyes of men [/(because) we possess the  “eye of men” (=sun)], see distinctly.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Thus, Surya, may we look on thee, on thee most lovely to behold,  
+     See clearly with the eyes of men.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Dich, Surya, der schön zu schauen, möchten wir wieder sehen, möchten wir genau sehen mit den Augen eines Herrn.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Dich lasse uns, o Sonne, schaun, dich, die du schön zu schauen bist, Mit Männeraugen lass uns schaun.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Тебе, столь приятному на вид, мы  
+Хотим смотреть в лицо, о Сурья,  
+Мы хотим рассматривать, глядя на мужей.
+</details>

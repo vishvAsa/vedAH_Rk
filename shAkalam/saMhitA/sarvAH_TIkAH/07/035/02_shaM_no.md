@@ -1,0 +1,206 @@
++++
+title = "002"
+devataa = "विश्वेदेवाः"
+RShiH = "वसिष्ठः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+शं꣡ नो भ꣡गः श꣡म् उ नः शं꣡सो अस्तु  
+शं꣡ नः पु꣡रंधिः श꣡म् उ सन्तु रा꣡यः  
+शं꣡ नः सत्य꣡स्य सुय꣡मस्य शं꣡सः  
+शं꣡ नो अर्यमा꣡ पुरुजातो꣡ अस्तु
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for non-linguistic reasons
+
+### Pāda-label
+genre D  
+genre D  
+genre D  
+genre D
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+शम् । नः॒ । भगः॑ । शम् । ऊं॒ इति॑ । नः॒ । शंसः॑ । अ॒स्तु॒ । शम् । नः॒ । पुर॑म्ऽधिः । शम् । ऊं॒ इति॑ । स॒न्तु॒ । रायः॑ ।  
+शम् । नः॒ । स॒त्यस्य॑ । सु॒ऽयम॑स्य । शंसः॑ । शम् । नः॒ । अ॒र्य॒मा । पु॒रु॒ऽजा॒तः । अ॒स्तु॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *śaṃ* ← *śam*
+- \[noun\], nominative, singular, neuter
+- “luck; well-being; fortune.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *bhagaḥ* ← *bhaga*
+- \[noun\], nominative, singular, masculine
+- “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
+    well-being; happiness; overlord.”
+------------------------------------------------------------------------
+- *śam*
+- \[noun\], nominative, singular, neuter
+- “luck; well-being; fortune.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *śaṃso* ← *śaṃsaḥ* ← *śaṃsa*
+- \[noun\], nominative, singular, masculine
+- “praise; śaṃs; recitation.”
+------------------------------------------------------------------------
+- *astu* ← *as*
+- \[verb\], singular, Present imperative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *śaṃ* ← *śam*
+- \[noun\], nominative, singular, neuter
+- “luck; well-being; fortune.”
+------------------------------------------------------------------------
+- *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *purandhiḥ* ← *puraṃdhi*
+- \[noun\], nominative, singular, feminine
+- “liberality; Puraṃdhi; munificence.”
+------------------------------------------------------------------------
+- *śam*
+- \[noun\], nominative, singular, neuter
+- “luck; well-being; fortune.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *santu* ← *as*
+- \[verb\], plural, Present imperative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *rāyaḥ* ← *rai*
+- \[noun\], nominative, plural, masculine
+- “wealth; possession; rai \[word\]; gold.”
+------------------------------------------------------------------------
+- *śaṃ* ← *śam*
+- \[noun\], nominative, singular, neuter
+- “luck; well-being; fortune.”
+------------------------------------------------------------------------
+- *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *satyasya* ← *satya*
+- \[noun\], genitive, singular, neuter
+- “truth; oath; satya \[word\]; promise.”
+------------------------------------------------------------------------
+- *suyamasya* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suyamasya* ← *yamasya* ← *yama*
+- \[noun\], genitive, singular, neuter
+- “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
+------------------------------------------------------------------------
+- *śaṃsaḥ* ← *śaṃsa*
+- \[noun\], nominative, singular, masculine
+- “praise; śaṃs; recitation.”
+------------------------------------------------------------------------
+- *śaṃ* ← *śam*
+- \[noun\], nominative, singular, neuter
+- “luck; well-being; fortune.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *aryamā* ← *aryaman*
+- \[noun\], nominative, singular, masculine
+- “Aryaman; aryaman \[word\]; sun.”
+------------------------------------------------------------------------
+- *purujāto* ← *puru*
+- \[noun\]
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *purujāto* ← *jātaḥ* ← *jan*
+- \[verb noun\], nominative, singular
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+------------------------------------------------------------------------
+- *astu* ← *as*
+- \[verb\], singular, Present imperative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**नः** अस्माकं **शं** शान्त्यै **भगः** देवः **अस्तु** भवतु । **नः** अस्माकं **शमु** शान्त्या एव **शंसः** नराशंसोऽस्तु भवतु । **नः** अस्माकं **शं** शान्त्यै **पुरंधिः** बहुधीरप्यस्तु । **रायः** धनान्यपि **शमु** शान्त्या एव **सन्तु**। **नः** अस्माकं **सुयमस्य** शोभनयमयुक्तस्य **सत्यस्य** **शंसः** वचनमपि **शम्** अस्तु । **नः** अस्माकं **शं** शान्त्यै **पुरुजातः** बहुप्रादुर्भावः **अर्यमा** देवोऽपि **अस्तु** ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“May **Bhaga** (promote) our happiness; may Śaṃsa be our happiness; may Purandhi be (with us for) ourhappiness; may riches be (a source of) happiness; may the benediction of the true and virtuous yield ushappiness; may the variously-manifested **Aryaman** be (with us) for our felicity.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Śaṃsa = Naraśaṃsa;
+
+Purandhi= the possessor of much intelligence
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Luck for us Fortune, and luck for us be Laud. Luck for us Plenitude  and luck be Riches.  
+Luck for us the Laud of what is real and easy to guide; luck for us be  Aryaman, born many times.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+In a and c the provider of luck is śáṃsaḥ ‘Laud’, a clear play on the ubiquitous śám. In c śáṃsaḥ is the head of a NP with dependent gen.: satyásya suyámasya.
+
+In d Geldner renders purujātáḥ as “der viele Nachkommen hat,” but given the form of this cmpd., this can hardly be correct. Cmpds. of the shape puru-PAST PPL (+ACCENT), like frequent puru-ṣṭutá-, puru-hutá-, mean ‘much Xed’ or ‘Xed by many’, and in cmpds. with jāta- as 2nd member, -jāta- means ‘born, generated’ not ‘offspring’. Renou, who tr. “aux nombreuses naissances,” suggests that Aryaman is so qualified because of his association with marriage.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Auspicious Friends to us be Bhaga, Sathsa, auspicious be Purandhi aid all Riches;  
+     The blessing of the true and well-conducted, and Aryaman in many forms apparent.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Zum Glück soll uns Bhaga und zum Glück uns Samsa sein, zum Glück sollen uns Purandhi, zum Glück die Reichtümer sein; zum Glück uns das Wort der lenksamen Wahrheit, zum Glück soll uns Aryaman sein, der viele Nachkommen hat.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Zum Heile sei uns Bhaga, sei uns Çansa, zum Heil die Güter und die Segensfülle, Zum Heil das Lob des wahren, leichtgelenkten; zum Heil uns Arjaman, der oft erneute.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+На счастье нам Бхага, и на счастье пусть будет нам Произнесение!  
+На счастье нам Пурамдхи, и на счастье пусть будут Богатства!  
+На счастье нам произнесение истины, легко управляемой!  
+На счастье нам пусть будет Арьяман, много раз рожденный!
+</details>

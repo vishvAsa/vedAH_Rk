@@ -1,0 +1,156 @@
++++
+title = "002"
+devataa = "अग्निः"
+RShiH = "वत्सप्रिः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+इमं꣡ विध꣡न्तो अपां꣡ सध꣡स्थे  
+पशुं꣡ न꣡ नष्ट꣡म् पदइ꣡र् अ꣡नु ग्मन्  
+गु꣡हा च꣡तन्तम् उशि꣡जो न꣡मोभिर्  
+इछ꣡न्तो धी꣡रा भृ꣡गवो अविन्दन्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
+genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”; see Oldenberg (1888) 95–8 and Arnold (1905) 238–40.  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+इ॒मम् । वि॒धन्तः॑ । अ॒पाम् । स॒धऽस्थे॑ । प॒शुम् । न । न॒ष्टम् । प॒दैः । अनु॑ । ग्म॒न् ।  
+गुहा॑ । चत॑न्तम् । उ॒शिजः॑ । नमः॑ऽभिः । इ॒च्छन्तः॑ । धीराः॑ । भृग॑वः । अ॒वि॒न्द॒न् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *imaṃ* ← *imam* ← *idam*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *vidhanto* ← *vidhantaḥ* ← *vidh*
+- \[verb noun\], nominative, plural
+- “worship; offer.”
+------------------------------------------------------------------------
+- *apāṃ* ← *apām* ← *ap*
+- \[noun\], genitive, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *sadhasthe* ← *sadhastha*
+- \[noun\], locative, singular, neuter
+- “dwelling; location; home.”
+------------------------------------------------------------------------
+- *paśuṃ* ← *paśum* ← *paśu*
+- \[noun\], accusative, singular, masculine
+- “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
+    Paśu; herd; goat.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *naṣṭam* ← *naś*
+- \[verb noun\], accusative, singular
+- “disappear; vanish; gasify; fail; perish; lose; bhasmībhū.”
+------------------------------------------------------------------------
+- *padair* ← *padaiḥ* ← *pada*
+- \[noun\], instrumental, plural, neuter
+- “word; location; foot; footprint; pada \[word\]; verse; footstep;
+    metrical foot; situation; dwelling; state; step; mark; position;
+    trace; construction; animal foot; way; moment; social station;
+    topographic point; path; residence; site; topic.”
+------------------------------------------------------------------------
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *gman* ← *gam*
+- \[verb\], plural, Aorist inj. (proh.)
+- “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
+    leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
+    get; come; die; drain; spread; transform; happen; discharge; ride;
+    to be located; run; detect; refer; go; shall; drive.”
+------------------------------------------------------------------------
+- *guhā*
+- \[adverb\]
+- “secretly.”
+------------------------------------------------------------------------
+- *catantam* ← *cat*
+- \[verb noun\], accusative, singular
+- “flee.”
+------------------------------------------------------------------------
+- *uśijo* ← *uśijaḥ* ← *uśij*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *namobhir* ← *namobhiḥ* ← *namas*
+- \[noun\], instrumental, plural, neuter
+- “adoration; court; namas \[word\]; bow; salute.”
+------------------------------------------------------------------------
+- *icchanto* ← *icchantaḥ* ← *iṣ*
+- \[verb noun\], nominative, plural
+- “desire; recommend; approve; seek; call; search; try; prefer; love;
+    commend; assent; permit; choose.”
+------------------------------------------------------------------------
+- *dhīrā* ← *dhīrāḥ* ← *dhīra*
+- \[noun\], nominative, plural, masculine
+- “expert; wise; intelligent; versed; adept.”
+------------------------------------------------------------------------
+- *bhṛgavo* ← *bhṛgavaḥ* ← *bhṛgu*
+- \[noun\], nominative, plural, masculine
+- “Bhṛgu; precipice; Bhṛgu; Bhṛgu; Venus; bhṛgu \[word\].”
+------------------------------------------------------------------------
+- *'vindan* ← *avindan* ← *vid*
+- \[verb\], plural, Imperfect
+- “find; detect; marry; get; think.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**इमम्** अग्निम् **अपाम्** उदकानां **सधस्थे** सहस्थाने मध्ये निगूढं **विधन्तः** परिचरन्त उपचारं वदन्तो वा ऋषयश्च **पदैः** पलायनमार्गव्यञ्जकैः **नष्टं** चोरादिभिरपहृतं **पशुम्** इव **अनु** **ग्मन्** अनुजग्मुः । गमेर्लुङि ‘ मन्त्रे घस' इति च्लेर्लुक् । तेषु मध्ये **गुहा** गुहायां **चतन्तम्** । चततिर्गतिकर्मा । अप्सु विलीनमित्यर्थः । **उशिजः** कामयमानाः **नमोभिः** नमस्कारैः स्तोत्रैर्वा **इच्छन्तः** आत्मन इच्छन्तः **धीराः** धीमन्तः **भृगवः** **अविन्दन्** लब्धवन्तः । अग्नेर्हविर्वोढुमसहमानस्य पलाय्याप्सु प्रवेशो देवानामन्वेषणं च ‘अग्नेस्त्रयो ज्यायांसः ' (तै. सं. २. ६. ६ ) इत्यत्र स्पष्टमाम्नातम् । अन्वेषणं कुर्वतां मध्ये भृगूणामग्निलाभः ‘इमं विधन्तो अपां सधस्थे द्वितादधुर्भृगवः' ( ऋ. सं. २. ४. २ ) इत्यत्रोक्तम् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+This one here—having done honor to him in the seat of the waters, they  followed him along his tracks like a vanished cow.  
+With reverences seeking him who was hiding in secret, the fire-priests,  the insightful Bhr̥gus found him.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Worshipping, seeking him with adoration like some lost creature followed by its footprints,  
+     Wise Bhrgus, yearning in their hearts, pursued him, and found him lurking where the floods are gathered.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Ihm zu dienen in der Gewässer Behausung gingen sie wie einem verlorenen Vieh auf seinen Spuren nach. Als er heimlich floh, fanden ihn die Usij unter Verbeugung ihn suchend, die weisen Bhrigu´s.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Ihm eilten in des Wassers Sitz die frommen mit Schritten nach wie dem verirrten Rinde; Ihn, den versteckten, fanden auf durch Andacht die weisen Bhrigu's, suchend mit Verlangen.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Служа ему в месте, где находятся воды,  
+Они пошли по (его) следам, как за потерянным скотом.  
+Ушиджи, с поклонениями ища скрывающегося в тайне,  
+Нашли (его, эти) мудрые Бхригу.
+</details>

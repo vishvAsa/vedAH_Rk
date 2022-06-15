@@ -1,0 +1,166 @@
++++
+title = "010"
+devataa = "विश्वेदेवाः"
+RShiH = "वसुकर्णो वासुक्रः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+धर्ता꣡रो दिव꣡ ऋभ꣡वः सुह꣡स्ता  
+वातापर्जन्या꣡ महिष꣡स्य तन्यतोः꣡  
+आ꣡प ओ꣡षधीः प्र꣡ तिरन्तु नो गि꣡रो  
+भ꣡गो राति꣡र् वाजि꣡नो यन्तु मे ह꣡वम्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ध॒र्तारः॑ । दि॒वः । ऋ॒भवः॑ । सु॒ऽहस्ताः॑ । वा॒ता॒प॒र्ज॒न्या । म॒हि॒षस्य॑ । त॒न्य॒तोः ।  
+आपः॑ । ओष॑धीः । प्र । ति॒र॒न्तु॒ । नः॒ । गिरः॑ । भगः॑ । रा॒तिः । वा॒जिनः॑ । य॒न्तु॒ । मे॒ । हव॑म् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *dhartāro* ← *dhartāraḥ* ← *dhartṛ*
+- \[noun\], nominative, plural, masculine
+- “supporter.”
+------------------------------------------------------------------------
+- *diva* ← *divaḥ* ← *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *ṛbhavaḥ* ← *ṛbhu*
+- \[noun\], nominative, plural, masculine
+- “Ribhus.”
+------------------------------------------------------------------------
+- *suhastā* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suhastā* ← *hastāḥ* ← *hasta*
+- \[noun\], nominative, plural, masculine
+- “hand; hand; proboscis; hasta \[word\]; autograph.”
+------------------------------------------------------------------------
+- *vātāparjanyā* ← *vātāparjanya*
+- \[noun\], nominative, dual, masculine
+------------------------------------------------------------------------
+- *mahiṣasya* ← *mahiṣa*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *tanyatoḥ* ← *tanyatu*
+- \[noun\], genitive, singular, masculine
+- “thunder.”
+------------------------------------------------------------------------
+- *āpa* ← *āpaḥ* ← *ap*
+- \[noun\], nominative, plural, neuter
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *oṣadhīḥ* ← *oṣadhī*
+- \[noun\], nominative, plural, feminine
+- “herb; plant; drug; herb.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *tirantu* ← *tṛ*
+- \[verb\], plural, Present imperative
+- “traverse; overcome; float; rescue; reach; satisfy.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *giro* ← *giraḥ* ← *gir*
+- \[noun\], accusative, plural, feminine
+- “hymn; praise; voice; words; invocation; command; statement; cry;
+    language.”
+------------------------------------------------------------------------
+- *bhago* ← *bhagaḥ* ← *bhaga*
+- \[noun\], nominative, singular, masculine
+- “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
+    well-being; happiness; overlord.”
+------------------------------------------------------------------------
+- *rātir* ← *rātiḥ* ← *rāti*
+- \[noun\], nominative, singular, masculine
+- “generous.”
+------------------------------------------------------------------------
+- *vājino* ← *vājinaḥ* ← *vājin*
+- \[noun\], nominative, plural, masculine
+- “horse; bird; seven; hero; achiever; aphrodisiac.”
+------------------------------------------------------------------------
+- *yantu* ← *i*
+- \[verb\], plural, Present imperative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *me* ← *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *havam* ← *hava*
+- \[noun\], accusative, singular, masculine
+- “invocation.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**दिवः** द्युलोकस्य **धर्तारः** धारयितारः **ऋभवः** सत्येन भासमानाः **सुहस्ताः** शोभनवजाद्यायुधयुक्तहस्ता देवास्तथा **महिषस्य** महतः **तन्यतोः** शब्दस्य ।  ‘ तनु विस्तारे ।  ‘ ऋतन्यञ्जि इति यतुच्प्रत्ययः । शब्दस्य कर्तारौ **वातापर्जन्या** वातश्च पर्जन्यश्च तत्कार्याः **आपः** **ओषधीः** ओषधयश्च **नः** अस्माकं **गिरः** स्तुतीः **प्र** **तिरन्तु** प्रवर्धयन्तु । प्रपूर्वस्तिरतिर्वृद्ध्यर्थः । तथा **रातिः** दाता **भगः** भजनीयोऽर्यमा च **वाजिनः** ।  ‘ अग्निर्वायुः सूर्यस्ते वै वाजिनः' (तै. ब्रा. १. ६. ३. ९) इति तैत्तिरीयब्राह्मणम् । एते देवाश्च **मे** मदीयं **हवम्** आह्वानं **यन्तु** अभिगच्छन्तु ॥ ॥ १३ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“May the upholders of the sky, the radiant with truth, the well-armed deities, **Vāta** and **Parjanya**, (theutterers) of the mighty thunder, the waters, the plural nts, amplify our praises; may the liberal **Bhaga** and Vājinscome to my invocation.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+The radiant with truth: **Ṛbhus**;
+
+**Suhastaḥ** = dexterous, having their **hands** furnished withgood weapons, thunderbolts and the like;
+
+**Vājins** = **Agni**;
+
+**Vāyu** = the sun: **Taittirīya** **Brāhmaṇa** 1.6.3.9
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Let the upholders of heaven, the R̥bhus with skilled hands, let Vāta and  Parjanya, (masters?) of Thunder the buffalo,  
+let the waters and plants advance our songs. Let Bhaga, Gift, and the  prizewinners come to my call.
+</details>
+
+<details><summary>+Griffith</summary>
+
+May they who bear up heaven, the Rbhus deft of hand, and Vata and Parjanya of the thundering Bull,  
+     The waters and the plants, promote the songs we sing: come Bhaga, Rati, and the Vaijns to my call.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Die Träger des Himmels, die Ribhu´s mit schönen Händen, Vata und Parjanya, die Herren des gewaltigen Donners, die Gewässer, die Pflanzen sollen unsere Reden fördern, Bhaga, der Geber, die siegreichen Renner sollen auf meinen Ruf kommen;
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Des Himmels Träger, und die Ribhus wohlgeschickt, und Wind und Wolke jenes Stiers, des Donnerers, Die Wasser, Kräuter seien unsern Liedern hold; folgt Bhaga, Rāti, und ihr Rosse meinem Ruf.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

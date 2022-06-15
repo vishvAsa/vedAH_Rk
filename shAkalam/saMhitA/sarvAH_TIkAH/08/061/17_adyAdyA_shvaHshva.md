@@ -1,0 +1,159 @@
++++
+title = "017"
+devataa = "इन्द्रः"
+RShiH = "भर्गः प्रागाथः"
+ChandaH = "बृहती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अद्य꣡-अद्या शुवः꣡-शुव  
+इ꣡न्द्र त्रा꣡स्व परे꣡ च नः  
+वि꣡श्वा च नो जरितॄ꣡न् सत्पते अ꣡हा  
+दि꣡वा न꣡क्तं च रक्षिषः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒द्यऽअ॑द्य । श्वःऽश्वः॑ । इन्द्र॑ । त्रास्व॑ । प॒रे । च॒ । नः॒ ।  
+विश्वा॑ । च॒ । नः॒ । ज॒रि॒तॄन् । स॒त्ऽप॒ते॒ । अहा॑ । दिवा॑ । नक्त॑म् । च॒ । र॒क्षि॒षः॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *adyādyā* ← *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+------------------------------------------------------------------------
+- *adyādyā* ← *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+------------------------------------------------------------------------
+- *śvaḥ* ← *śvas*
+- \[adverb\]
+- “tomorrow.”
+------------------------------------------------------------------------
+- *śva* ← *śvas*
+- \[adverb\]
+- “tomorrow.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *trāsva* ← *trā*
+- \[verb\], singular, Present imperative
+- “protect; help.”
+------------------------------------------------------------------------
+- *pare* ← *para*
+- \[noun\], locative, singular, neuter
+- “best; other; following; devoted(p); extreme; highest; otherwordly;
+    better; hostile; maximal; distant; another(a); para \[word\]; upper;
+    concluding; foreign; earlier; worse; longer; finest; excessive.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *viśvā* ← *viśva*
+- \[noun\], accusative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *jaritṝn* ← *jaritṛ*
+- \[noun\], accusative, plural, masculine
+- “singer.”
+------------------------------------------------------------------------
+- *satpate* ← *satpati*
+- \[noun\], vocative, singular, masculine
+- “Indra.”
+------------------------------------------------------------------------
+- *ahā* ← *aha*
+- \[noun\], accusative, plural, neuter
+- “day; aha \[word\]; day.”
+------------------------------------------------------------------------
+- *divā*
+- \[adverb\]
+- “by day; divā \[indecl.\].”
+------------------------------------------------------------------------
+- *naktaṃ* ← *naktam* ← *nakta*
+- \[noun\], accusative, singular, neuter
+- “night; night.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *rakṣiṣaḥ* ← *rakṣ*
+- \[verb\], singular, Aorist conj./subj.
+- “protect; guard; keep; stow; govern; guard; spare; accumulate.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**अद्याद्य** यदद्यशब्दवाच्यमहरस्ति तत्र सर्वत्र एवं **श्वःश्वः** **त्रास्व** रक्ष। तथा **परे** **च** परस्मिंस्तृतीयेऽहनि च त्रास्व । हे **सत्पते** सतां पालक **विश्वा** सर्वाण्यपि **अहा** अहानि सर्वेष्वप्यहःसु **नः** अस्मान् **जरितॄन्** **रक्षिषः** रक्षसि । तथा 'दिवा **नक्तं** **च** रक्षिषः रक्षसि रक्ष वा ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Save us, **Indra**, every today, every tomorrow, and every succeeding day; lord of the good, protect us,your praisers, in all days, by day and night.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Today after today, tomorrow after tomorrow, rescue us, o Indra—and  in the future.  
+Through all the days, by day and by night, you will guard our singers, o  lord of settlements.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Protect us, Indra, each to-day, each morrow, and each following day.  
+     Our singers, through all days, shalt thou, Lord of the brave, keep safely both by day and night.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Schütze uns jeden Tag, jeden Morgen, Indra, und künftig! Und alle Tage. Tag und Nacht, mögest du rechtmäßiger Herr uns Sänger schützen.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Uns Sänger schütz, o Indra, heut und morgen und in Zukunft auch, Und alle Tage schirme uns, o starker Held, bei Tag, bei Nacht behüte uns.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Каждый сегодняшний и каждый завтрашний день,  
+О Индра, охраняй нас, и в дальнейшем тоже!  
+И все дни, о благой повелитель, защищай нас,  
+Певцов, – днем и ночью!
+</details>

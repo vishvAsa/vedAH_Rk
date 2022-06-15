@@ -1,0 +1,161 @@
++++
+title = "002"
+devataa = "विश्वेदेवाः"
+RShiH = "कवष ऐलूषः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+प꣡रि चिन् म꣡र्तो द्र꣡विणम् ममन्याद्  
+ऋत꣡स्य पथा꣡ न꣡मसा꣡ विवासेत्  
+उत꣡ स्वे꣡न क्र꣡तुना सं꣡ वदेत  
+श्रे꣡यांसं द꣡क्षम् म꣡नसा जगृभ्यात्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+परि॑ । चि॒त् । मर्तः॑ । द्रवि॑णम् । म॒म॒न्या॒त् । ऋ॒तस्य॑ । प॒था । नम॑सा । आ । वि॒वा॒से॒त् ।  
+उ॒त । स्वेन॑ । क्रतु॑ना । सम् । व॒दे॒त॒ । श्रेयां॑सम् । दक्ष॑म् । मन॑सा । ज॒गृ॒भ्या॒त् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *cin* ← *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *marto* ← *martaḥ* ← *marta*
+- \[noun\], nominative, singular, masculine
+- “man.”
+------------------------------------------------------------------------
+- *draviṇam* ← *draviṇa*
+- \[noun\], accusative, singular, neuter
+- “wealth; property; money; jewel.”
+------------------------------------------------------------------------
+- *mamanyād* ← *mamanyāt* ← *man*
+- \[verb\], singular, Perfect optative
+- “think of; name; believe; teach; honor; deem; recommend; approve;
+    think; define; call; respect; believe; enumerate; understand; see;
+    describe.”
+------------------------------------------------------------------------
+- *ṛtasya* ← *ṛta*
+- \[noun\], genitive, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *pathā* ← *pathin*
+- \[noun\], instrumental, singular, masculine
+- “way; road; path \[word\]; journey; method.”
+------------------------------------------------------------------------
+- *namasā* ← *namas*
+- \[noun\], instrumental, singular, neuter
+- “adoration; court; namas \[word\]; bow; salute.”
+------------------------------------------------------------------------
+- *vivāset* ← *vivās* ← *√van*
+- \[verb\], singular, Present optative
+- “invite; endeavor; try for.”
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *svena* ← *sva*
+- \[noun\], instrumental, singular, masculine
+- “own(a); respective(a); akin(p); sva \[word\]; individual;
+    present(a); independent.”
+------------------------------------------------------------------------
+- *kratunā* ← *kratu*
+- \[noun\], instrumental, singular, masculine
+- “yajña; decision; plan; deliberation; intelligence; Kratu; will;
+    kratu \[word\]; desire; resoluteness; ritual.”
+------------------------------------------------------------------------
+- *saṃ* ← *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *vadeta* ← *vad*
+- \[verb\], singular, Present optative
+- “describe; teach; speak; tell; say; call; name; enumerate; declare;
+    diagnose; address; say; pronounce; express; instruct; order.”
+------------------------------------------------------------------------
+- *śreyāṃsaṃ* ← *śreyāṃsam* ← *śreyas*
+- \[noun\], accusative, singular, masculine
+- “better; preferable.”
+------------------------------------------------------------------------
+- *dakṣam* ← *dakṣa*
+- \[noun\], accusative, singular, masculine
+- “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
+------------------------------------------------------------------------
+- *manasā* ← *manas*
+- \[noun\], instrumental, singular, neuter
+- “mind; Manas; purpose; idea; attention; heart; decision; manas
+    \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
+------------------------------------------------------------------------
+- *jagṛbhyāt* ← *grah*
+- \[verb\], singular, Perfect optative
+- “take; grasp; take out; extract; perceive; pick; assume; include;
+    accept; understand; use; learn; possess; keep; choose; accept;
+    afflict; suck; paralyze; mention; mistake; eat; wear; embrace; fill
+    into; capture; eclipse; get; collect; hand down; marry; heed;
+    touch.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**मर्तः** मनुष्यः यजमानः **परि** **चित्** सर्वतः **द्रविणं** विश्वेषां देवानां यागार्थं धनं ममन्यात् । मन्यतिः कान्तिकर्मा । कामयेत लब्धुमिच्छेत् । धनं लब्ध्वा च **ऋतस्य** यज्ञस्य **पथा** मार्गेण **नमसा** हविराख्येनान्नेन **आ** **विवासेत्** परिचरेत् । **उत** अपि च **स्वेन** आत्मीयेन **क्रतुना** प्रज्ञानेन । मनसेत्यर्थः । **सं** **वदेत** । संवादोऽत्र समाध्यानमुच्यते । हविर्गृहीत्वा वषट्करिष्यन् विश्वान् देवान् मनसाध्यायेदित्यर्थः । विश्वेषां देवानां यागानन्तरं च तत्प्रसादात् **श्रेयांसम्** अतिशयेन प्रशस्यमात्मानं **दक्षं** प्रवृद्धं सर्वव्यापिनं **मनसा** ध्यानसाधनेनान्तःकरणेन **जगृभ्यात्** गृह्णीयात् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Let a mortal be ever desirous of affluence, (having acquired it), let him worship with oblations on thepath of the sacrifice; and let him with his own intellect meditate upon (the gods); let him grasp with his mind thebest and most mighty (of the universal deities).”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+A mortal should await material wealth along the path of truth; he should  seek to win it through reverence.  
+And he should consult with his own resolve and grasp better skill with  his mind.
+</details>
+
+<details><summary>+Griffith</summary>
+
+A man should think on wealth and strive to win it by adoration on the path of Order,  
+     Counsel himself with his own mental insight, and grasp still nobler vigour with his spirit.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Der Sterbliche sollte doch den Reichtum gering schätzen, er soll ihn auf dem Wege des Rechten demütig zu gewinnen suchen. Und er gehe mit seiner eigenen Einsicht zu Rate und fasse im Geiste besseren Entschluß.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Den Reichthum mag der Sterbliche erstreben, durch Andacht auf dem Opferpfad herbeiziehn, Und sich bereden mit dem eignen Herzen; dann wird im Geist er bessre Kraft erlangen.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+(Если) смертный прозевает имущество,  
+Пусть поклонением на пути закона он постарается привлечь (богов),  
+А также если он посовещается со своим разумом,  
+То мыслью схватит лучший способ действия.
+</details>

@@ -1,0 +1,133 @@
++++
+title = "002"
+devataa = "पवमानः सोमः"
+RShiH = "हिरण्यस्तूपः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+स꣡ना ज्यो꣡तिः स꣡ना सु꣡वर्  
+वि꣡श्वा च सोम सउ꣡भगा  
+अ꣡था नो व꣡स्यसस् कृधि
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सन॑ । ज्योतिः॑ । सन॑ । स्वः॑ । विश्वा॑ । च॒ । सो॒म॒ । सौभ॑गा ।  
+अथ॑ । नः॒ । वस्य॑सः । कृ॒धि॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *sanā* ← *sana* ← *san*
+- \[verb\], singular, Aorist imperative
+- “win; get; gain.”
+------------------------------------------------------------------------
+- *jyotiḥ* ← *jyotis*
+- \[noun\], accusative, singular, neuter
+- “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
+    light; sunlight.”
+------------------------------------------------------------------------
+- *sanā* ← *sana* ← *san*
+- \[verb\], singular, Aorist imperative
+- “win; get; gain.”
+------------------------------------------------------------------------
+- *svar*
+- \[adverb\]
+- “sun; sky; sunlight.”
+------------------------------------------------------------------------
+- *viśvā* ← *viśva*
+- \[noun\], accusative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *saubhagā* ← *saubhaga*
+- \[noun\], accusative, plural, neuter
+- “well-being.”
+------------------------------------------------------------------------
+- *athā* ← *atha*
+- \[adverb\]
+- “now; then; furthermore; now; then.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *vasyasas* ← *vasyasaḥ* ← *vasyas*
+- \[noun\], accusative, plural, masculine
+- “better; rich.”
+------------------------------------------------------------------------
+- *kṛdhi* ← *kṛ*
+- \[verb\], singular, Aorist imperative
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **सोम** त्वं **ज्योतिः** तेजः **सन** अस्मभ्यं प्रयच्छ । अपि च **स्वः** स्वर्गं **सन** अस्मभ्यं देहि । **विश्वा** विश्वानि **सौभगा** सौभाग्यानि **च** सन । सिद्धमन्यत् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Soma**, give us brightness, give us heaven, give us all good things; and make us happy.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Win light, win the sun, and all the gifts of good fortune, Soma.  
+– Then make us better off.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Win thou the light, win heavenly light, and, Soma, all felicities;  
+     And make us better than we are.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Gewinne das Licht, gewinne die Sonne und alle Glücksgüter, o Soma, und mach uns besser!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Gewinne Glanz, gewinne Licht, o Soma, alles hohe Glück Und mach' uns reicher nun an Gut.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Захвати свет, захвати солнце  
+И все, что приносит счастье, о сома.  
+И сделай нас лучше!
+</details>

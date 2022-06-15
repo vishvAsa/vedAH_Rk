@@ -1,0 +1,163 @@
++++
+title = "003"
+devataa = "विश्वेदेवाः"
+RShiH = "वसुकर्णो वासुक्रः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+ते꣡षां हि꣡ मह्ना꣡ महता꣡म् अनर्व꣡णां  
+स्तो꣡माँ इ꣡यर्मि ऋतज्ञा꣡ ऋतावृ꣡धाम्  
+ये꣡ अप्सव꣡म् अर्णवं꣡ चित्र꣡राधसस्  
+ते꣡ नो रासन्ताम् मह꣡ये सुमित्रियाः꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तेषा॑म् । हि । म॒ह्ना । म॒ह॒ताम् । अ॒न॒र्वणा॑म् । स्तोमा॑न् । इय॑र्मि । ऋ॒त॒ऽज्ञाः । ऋ॒त॒ऽवृधा॑म् ।  
+ये । अ॒प्स॒वम् । अ॒र्ण॒वम् । चि॒त्रऽरा॑धसः । ते । नः॒ । रा॒स॒न्ता॒म् । म॒हये॑ । सु॒ऽमि॒त्र्याः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *teṣāṃ* ← *teṣām* ← *tad*
+- \[noun\], genitive, plural, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *mahnā* ← *mahan*
+- \[noun\], instrumental, singular, neuter
+- “greatness.”
+------------------------------------------------------------------------
+- *mahatām* ← *mahat*
+- \[noun\], genitive, plural, masculine
+- “large; eminent; great; loud; dangerous; strong; long; high;
+    much(a); mahant \[word\]; ample; very; great; adult; important;
+    dark; high; abundant; violent; remarkable; mighty; big; long.”
+------------------------------------------------------------------------
+- *anarvaṇāṃ* ← *anarvaṇām* ← *anarvan*
+- \[noun\], genitive, plural, masculine
+- “unchallenged; unrivaled.”
+------------------------------------------------------------------------
+- *stomāṃ* ← *stoma*
+- \[noun\], accusative, plural, masculine
+- “hymn; Stoma; stoma \[word\].”
+------------------------------------------------------------------------
+- *iyarmy* ← *iyarmi* ← *ṛch*
+- \[verb\], singular, Present indikative
+- “enter (a state); travel; shoot; send; hit; originate; get; raise;
+    begin; harm.”
+------------------------------------------------------------------------
+- *ṛtajñā* ← *ṛta*
+- \[noun\], neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *ṛtajñā* ← *jñāḥ* ← *jñā*
+- \[noun\], nominative, singular, masculine
+- “aware(p).”
+------------------------------------------------------------------------
+- *ṛtāvṛdhām* ← *ṛtāvṛdh*
+- \[noun\], genitive, plural, masculine
+- “sincere.”
+------------------------------------------------------------------------
+- *ye* ← *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *apsavam* ← *apsava*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *arṇavaṃ* ← *arṇavam* ← *arṇava*
+- \[noun\], accusative, singular, masculine
+- “ocean; sea; four.”
+------------------------------------------------------------------------
+- *citrarādhasas* ← *citra*
+- \[noun\]
+- “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
+    bright; bright; outstanding; agitated; aglitter(p); brilliant;
+    painted; obvious; patched; bizarre.”
+------------------------------------------------------------------------
+- *citrarādhasas* ← *rādhasaḥ* ← *rādhas*
+- \[noun\], nominative, plural, masculine
+- “gift; munificence; liberality; bounty.”
+------------------------------------------------------------------------
+- *te* ← *tad*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *rāsantām* ← *rā*
+- \[verb\], plural, Aorist imperative
+- “give; impart.”
+------------------------------------------------------------------------
+- *mahaye* ← *mahay* ← *√mah*
+- \[verb\], singular, Present indikative
+- “glorify.”
+------------------------------------------------------------------------
+- *sumitryāḥ* ← *sumitrya*
+- \[noun\], accusative, plural, feminine
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**मह्ना** स्वमहत्त्वेन **महतामनर्वणाम्** अन्यस्मिन्नप्रत्यृतानां शत्रुभिरनभिगन्तव्यानाम् **ऋतावृधां** सत्यभूतेन यज्ञेन वृद्धानां **तेषाम्** अग्न्यादीनां देवानामेव **ऋतज्ञाः** यज्ञस्य ज्ञाताहं **स्तोमान्** **इयर्मि** प्रेरयामि ।  ‘ऋ  गतिप्रापणयोः '। जौहोत्यादिकः । **चित्रराधसः** चायनीयधनोपेता यद्वा पश्वादिलक्षणबहुधना: **ये** देवाः **अप्सवम्** । अप्स इति रूपनाम । रूपवन्तम् **अर्णवम्** । अर्णसः सलोपश्च ' ( का. ५. २. १०९. २ ) इति मत्वर्थीयो वप्रत्ययः । उदकवन्तं मेघं वर्षन्ति ते **सुमित्र्याः** शोभनसखिकर्माणः **ते** देवाः **नः** अस्मभ्यं **महये** जनेषु मध्ये पूजार्थं धनं **रासन्तां** प्रयच्छन्तु । ‘रासृ दाने ' ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Skilled in pious rites, I recite the praises of these (deities), mighty through (their own) might,unassailable, exalted by sacrifice; may those (gods) who possessed of various wealth, (rain down) the beautifulwater-cloud, acting in friendly wise, grant us (wealth) for our honour (among men).”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+For by the greatness of these, the great and unassailable, I, recognizing  the truth, rouse my praises for those who grow strong through truth.  
+Let those who are bringing brilliant bounties (across) the watery flood  grant them to us. I magnify the (heavenly clans) well allied (to us).
+</details>
+
+<details><summary>+Griffith</summary>
+
+Skilled in the Law I lift the hymn of praise to these, Law-strengtheners, unassailed, and great in majesty.  
+     These in their wondrous bounty send the watery sea: may they as kindly Friends send gifts to make us great.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Denn auf diese an Größe Großen und Unerreichten lasse ich die Loblieder aufsteigen, ich der Wahrheitskenner auf die Wahrheitsmehrer, die wunderbare Gaben haben, die die Wasserflut spenden, die sollen uns schenken, um unseren Mut zu erhöhen, gute Freundschaft haltend.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Denn ich erweck' mit Macht ihr Lob, der Mächtigen, rechtskundig der erhabnen, die des Rechts sich freun, Die vielfach spendend wasserreiche Flut verleihn, die mögen freundlich uns zum Glück behülflich sein.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

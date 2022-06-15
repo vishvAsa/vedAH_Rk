@@ -1,0 +1,180 @@
++++
+title = "017"
+devataa = "रथाङ्गानि"
+RShiH = "गाथिनो विश्वामित्रः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+स्थिरउ꣡ गा꣡वौ भवतां वीळु꣡र् अ꣡क्षो  
+मे꣡षा꣡ वि꣡ वर्हि मा꣡ युगं꣡ वि꣡ शारि  
+इ꣡न्द्रः पातल्ये᳡ ददतां श꣡रीतोर्  
+अ꣡रिष्टनेमे अभि꣡ नः सचस्व
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+popular  
+popular  
+popular  
+popular
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+स्थि॒रौ । गावौ॑ । भ॒व॒ता॒म् । वी॒ळुः । अक्षः॑ । मा । ई॒षा । वि । व॒र्हि॒ । मा । यु॒गम् । वि । शा॒रि॒ ।  
+इन्द्रः॑ । पा॒त॒ल्ये॒३॒॑ इति॑ । द॒द॒ता॒म् । शरी॑तोः । अरि॑ष्टऽनेमे । अ॒भि । नः॒ । स॒च॒स्व॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *sthirau* ← *sthira*
+- \[noun\], nominative, dual, masculine
+- “firm; hard; lasting; calm; stable; immovable; firm; strong; sthira
+    \[word\]; vegetable; potent; steadfast; durable; firm; trustworthy;
+    trustworthy; diligent.”
+------------------------------------------------------------------------
+- *gāvau* ← *go*
+- \[noun\], nominative, dual, masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *bhavatāṃ* ← *bhavatām* ← *bhū*
+- \[verb\], singular, Present imperative
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+------------------------------------------------------------------------
+- *vīﾱur* ← *vīﾱuḥ* ← *vīḍu*
+- \[noun\], nominative, singular, masculine
+- “hard; firm.”
+------------------------------------------------------------------------
+- *akṣo* ← *akṣaḥ* ← *akṣa*
+- \[noun\], nominative, singular, masculine
+- “axle.”
+------------------------------------------------------------------------
+- *meṣā* ← *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *meṣā* ← *īṣā*
+- \[noun\], nominative, singular, feminine
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *varhi* ← *vṛh*
+- \[verb\], singular, Aorist passive
+- “extract.”
+------------------------------------------------------------------------
+- *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *yugaṃ* ← *yugam* ← *yuga*
+- \[noun\], nominative, singular, neuter
+- “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
+    \[word\]; Yuga; race.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *śāri* ← *śṛ*
+- \[verb\], singular, Aorist passive
+- “fall off; break; disintegrate; crush; break; fracture.”
+------------------------------------------------------------------------
+- *indraḥ* ← *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *pātalye* ← *pātalya*
+- \[noun\], accusative, dual, neuter
+------------------------------------------------------------------------
+- *dadatāṃ* ← *dadatām* ← *dā*
+- \[verb\], singular, Present imperative
+- “give; add; perform; put; administer; fill into; give; ignite; put
+    on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
+    drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
+    splint; poultice; create.”
+------------------------------------------------------------------------
+- *śarītor* ← *śarītoḥ* ← *śṛ*
+- \[verb noun\]
+- “fall off; break; disintegrate; crush; break; fracture.”
+------------------------------------------------------------------------
+- *ariṣṭaneme* ← *ariṣṭa*
+- \[noun\]
+- “safe; unharmed.”
+------------------------------------------------------------------------
+- *ariṣṭaneme* ← *neme* ← *nemi*
+- \[noun\], vocative, singular, masculine
+- “rim; felloe.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *sacasva* ← *sac*
+- \[verb\], singular, Present imperative
+- “accompany; follow; company; obey; participate; enter.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+राज्ञः सुदासो यज्ञेऽवभृथं कृत्वा यज्ञशालातो निर्गन्तुमिच्छन् रथे अश्वादिकं युञ्जानो विश्वामित्रो रथाङ्गानि स्तौति । **गावौ** । गच्छत इति गावावश्वौ । **स्थिरौ** **भवताम्** । **अक्षः** च **वीळुः** दृढो भवतु । **ईषा** दण्डश्च **मा** **वि** **वर्हि** विनष्टो मा भवतु । **युगं** च **मा** **वि** **शारि** विशीर्णं मा भवतु । **इन्द्रः** **पातल्ये** पतनशीले कीलके **शरीतोः** विशरणात् प्राक् **ददतां** धारयतु । हे **अरिष्टनेमे** अहिंसितप्रधिविशिष्ट हे रथ **नः** अस्मान् **अभि** आभिमुख्येन **सचस्व** संगतो भव ॥ वि वर्हि । ' वृहि वृद्धौ । विपूर्वो वृहिर्विनाशे वर्तते । अस्मात् कर्मकर्तरि लुङि ‘चिण् भावकर्मणोः' इति चिण् । चिणो लुक्' इति तप्रत्ययस्य लुक् । निघातः । युगम् । युगशब्दे उञ्छादिषु रथाद्युपकरणेऽर्थे घञन्तत्वेन निपातनादगुणत्वम् । तत्र पाठादन्तोदात्तत्वम् । शारि । ‘ शॄ हिंसायाम्' इत्यस्य लुङि रूपम् । अरिष्टनेमे । पादादित्वात् षाष्टिकमाद्युदात्तत्वम् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“May the horse be steady, the axle be strong, the pole be not defective, the yoke not be rotten; may **Indra** preserve the two yoke-pins from decay; car with uninjured felloes, be ready for us.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+The horses: gāvau gaccheta iti gāvau aśvau: **gāvā** implies those who go, or, in this plural ce, horses; car be ready for us: **Viśvāmitra** being about to depart from the sacrifice of **Sudās**, invokes good fortune for his conveyance
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Let the two oxen be steadfast, the axle firm; let the chariot-pole not be  torn off, nor the yoke be broken off.  
+Let Indra keep the two pātalyas [=pieces of chariot?] from breaking.  You with indestructible wheel-rims, escort us.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Strong be the pair of oxen, firm the axles, let not the pole slip nor the yoke be broken.  
+     May Indra, keep the yoke-pins from decaying: attend us, thou whose fellies are uninjured.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Die beiden Rinder sollen ausdauernd sein und fest die Achse. Nicht soll die Deichsel abreißen, nicht das Joch zerbrechen. Indra soll die beiden Wagenstützen vor Bruch bewahren. Du, dessen Radfelge nicht Schaden nimmt, steh uns zur Seite!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Stark seien die Riemen, fest die Wagenachse; nicht zersplittere die Deichsel, nicht zerbreche das Joch; Indra bewahre die beiden Radbüchsen vor Zertrümmerung, du, dessen Radkränze unversehrt sind, sei uns huldreich.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Да будут крепкими два быка, прочной ось!  
+Да не сорвется дышло, не разломается ярмо!  
+Пусть Индра сохранит от поломки два (деревянных) колышка (ярма)!  
+О ты, с невредимой втулкой, заботься о нас!
+</details>

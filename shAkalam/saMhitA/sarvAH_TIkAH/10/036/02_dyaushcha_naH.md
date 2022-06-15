@@ -1,0 +1,165 @@
++++
+title = "002"
+devataa = "विश्वेदेवाः"
+RShiH = "लुशो धानाकः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+दियउ꣡श् च नः पृथिवी꣡ च प्र꣡चेतस  
+ऋता꣡वरी रक्षताम् अं꣡हसो रिषः꣡  
+मा꣡ दुर्विद꣡त्रा नि꣡रृतिर् न ईशत  
+त꣡द् देवा꣡नाम् अ꣡वो अद्या꣡ वृणीमहे
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+द्यौः । च॒ । नः॒ । पृ॒थि॒वी । च॒ । प्रऽचे॑तसा । ऋ॒तव॑री॒ इत्यृ॒तऽव॑री । र॒क्ष॒ता॒म् । अंह॑सः । रि॒षः ।  
+मा । दुः॒ऽवि॒दत्रा॑ । निःऽऋ॑तिः । नः॒ । ई॒श॒त॒ । तत् । दे॒वाना॑म् । अवः॑ । अ॒द्य । वृ॒णी॒म॒हे॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *dyauś* ← *dyauḥ* ← *div*
+- \[noun\], nominative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *pṛthivī*
+- \[noun\], nominative, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *pracetasa* ← *pracetasaḥ* ← *pracetas*
+- \[noun\], nominative, plural, masculine
+- “intelligent; mindful; attentive; wise; apt; observant.”
+------------------------------------------------------------------------
+- *ṛtāvarī* ← *ṛtāvan*
+- \[noun\], nominative, dual, feminine
+- “law-abiding; faithful; righteous.”
+------------------------------------------------------------------------
+- *rakṣatām* ← *rakṣ*
+- \[verb\], dual, Present imperative
+- “protect; guard; keep; stow; govern; guard; spare; accumulate.”
+------------------------------------------------------------------------
+- *aṃhaso* ← *aṃhasaḥ* ← *aṃhas*
+- \[noun\], ablative, singular, neuter
+- “trouble; sin.”
+------------------------------------------------------------------------
+- *riṣaḥ* ← *riṣ*
+- \[noun\], ablative, singular, feminine
+- “injury; riṣ; damage.”
+------------------------------------------------------------------------
+- *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *durvidatrā* ← *durvidatra*
+- \[noun\], nominative, singular, feminine
+------------------------------------------------------------------------
+- *nirṛtir* ← *nirṛtiḥ* ← *nirṛti*
+- \[noun\], nominative, singular, feminine
+- “destruction; Nirṛti; adversity.”
+------------------------------------------------------------------------
+- *na* ← *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *īśata* ← *īś*
+- \[verb\], singular, Present injunctive
+- “govern; command; master; dominate; can; reign; control; own.”
+------------------------------------------------------------------------
+- *tad* ← *tat* ← *tad*
+- \[noun\], accusative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *devānām* ← *deva*
+- \[noun\], genitive, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *avo* ← *avaḥ* ← *avas*
+- \[noun\], accusative, singular, neuter
+- “aid; favor; protection.”
+------------------------------------------------------------------------
+- *adyā* ← *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+------------------------------------------------------------------------
+- *vṛṇīmahe* ← *vṛ*
+- \[verb\], plural, Present indikative
+- “choose; ask.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**प्रचेतसा** सुबुद्धी **ऋतावरी** यज्ञवत्यौ सत्यवत्यौ **द्यौश्च** **पृथिवी** **च** द्यावापृथिव्यावुभे **नः** अस्मान् **रिषः** हिंसकात् **अंहसः** पापाच्च **रक्षताम्** । किंच **दुर्विदत्रा** कुत्सितज्ञाना **निर्ऋतिः** मृत्युदेवता **नः** अस्माकं **मा** **ईशत** ईश्वरी मा भूत् । किंच वयं **देवानां** संबन्धि **तत्** असाधारणम् **अवः** रक्षणम् **अद्य** अस्मिन्नहनि प्रधानयागदिवसे **वृणीमहे** प्रार्थयामहे ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“May the intelligent and truthful heaven and earth defend us from sin, and from malignant; let not themalevolent **Nirṛti** have power over us; we solicit today this protection of the gods.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Nirṛti: mṛtyudevatā, thedivinity of death
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Both Heaven and Earth—let those two discerning truthful ones guard us  from narrow straits, from harm.  
+Let Dissolution, bad to meet, not gain mastery over us. – This help of  the gods we choose today.
+</details>
+
+<details><summary>+Griffith</summary>
+
+May Dyaus and Prthivi, wise, true to Holy Law, keep us in safety from distress and injury.  
+     Let not malignant Nirrti rule over us. We crave to-day this gracious favour of the Gods.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Himmel und Erde, die weisen, die gesetzmäßigen, sollen uns vor Not und Schaden behüten, Nicht soll das unerbittliche Verderben Macht über uns haben. - Diese Gunst der Götter erbitten wir heute.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Der Himmel und die Erde, sie, die heiligen, die weisen mögen schirmen vor des Feindes Drang, Nicht soll beherrschen uns die böse Nirriti, die Gunst der Götter wünschen heute wir herbei.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Пусть Небо и Земля, мудрые,  
+Подчиняющиеся закону, защитите нас от беды (и) от вреда!  
+Да не овладеет нами недоброжелательная Гибель!  
+Сегодня мы просим об этой милости богов!
+</details>

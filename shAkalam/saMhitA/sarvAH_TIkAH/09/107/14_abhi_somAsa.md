@@ -1,0 +1,132 @@
++++
+title = "014"
+devataa = "पवमानः सोमः"
+RShiH = "सप्तर्षयः(ट् भरद्वाजो बार्हस्पत्यः, ढ् कश्यपो मारीचः, थ् गोतमो राहूगणः, ध् भौमोत्रिः, श् विश्वामित्रो गाथिनः, ६ जमदग्निर्भार्गवः, ७ मैत्रावरुणिर्वसिष्ठः)"
+ChandaH = "बृहती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अभि꣡ सो꣡मास आय꣡वः  
+प꣡वन्ते म꣡दियम् म꣡दम्  
+समुद्र꣡स्या꣡धि विष्ट꣡पि मनीषि꣡णो  
+मत्सरा꣡सः सुवर्वि꣡दः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M;; repeated line  
+genre M;; repeated line  
+genre M  
+genre M;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अ॒भि । सोमा॑सः । आ॒यवः॑ । पव॑न्ते । मद्य॑म् । मद॑म् ।  
+स॒मु॒द्रस्य॑ । अधि॑ । वि॒ष्टपि॑ । म॒नी॒षिणः॑ । म॒त्स॒रासः॑ । स्वः॒ऽविदः॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *somāsa* ← *somāsaḥ* ← *soma*
+- \[noun\], nominative, plural, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *āyavaḥ* ← *āyu*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *pavante* ← *pū*
+- \[verb\], plural, Present indikative
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *madyam* ← *mad*
+- \[verb noun\], accusative, singular
+- “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
+------------------------------------------------------------------------
+- *madam* ← *mada*
+- \[noun\], accusative, singular, masculine
+- “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
+    musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
+    vivification.”
+------------------------------------------------------------------------
+- *samudrasyādhi* ← *samudrasya* ← *samudra*
+- \[noun\], genitive, singular, masculine
+- “ocean; Samudra; sea; samudra \[word\]; four.”
+------------------------------------------------------------------------
+- *samudrasyādhi* ← *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+------------------------------------------------------------------------
+- *viṣṭapi* ← *viṣṭap*
+- \[noun\], locative, singular, feminine
+------------------------------------------------------------------------
+- *manīṣiṇo* ← *manīṣiṇaḥ* ← *manīṣin*
+- \[noun\], nominative, plural, masculine
+- “sage; expert; devout.”
+------------------------------------------------------------------------
+- *matsarāsaḥ* ← *matsara*
+- \[noun\], nominative, plural, masculine
+- “intoxicant; invigorating; hostile.”
+------------------------------------------------------------------------
+- *svarvidaḥ* ← *svar*
+- \[noun\], neuter
+- “sun; sky; sunlight.”
+------------------------------------------------------------------------
+- *svarvidaḥ* ← *vidaḥ* ← *vid*
+- \[noun\], nominative, plural, masculine
+- “finding.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**आयवः** गमनशीलाः **सोमासः** सोमाः **मद्यं** मदकरं **मदम्** आत्मीयं रसम् **अभि** **पवन्ते** । अभितो निर्गमयन्ति । कुत्रेत्युच्यते । **समुद्रस्य** अन्तरिक्षस्य **अधि** **विष्टपि** अधिकं समुच्छ्रिते पवित्रे। यद्वा । समुद्रस्य । समुद्रवन्त्यस्माद्रसाः । तस्य कलशस्याध्युपरि विष्टपि स्थाने पवित्रे निर्गमयन्ति । कीदृशाः । **मनीषिणः** मनस ईशितारः **मत्सरासः** मदकराः **स्वर्विदः** सर्वस्य लम्भकाः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The swift **Soma** send forth their inebriating juice upon the uplifted (filter) of the firmament, intelligent, exhilarating, all-acquiring.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+The soma juices, the Āyus, purify themselves into an exhilarating drink  of exhilaration—  
+they of inspired thought, bringing exhilaration and finding the sun,  
+(purify themselves) upon the surface of the sea.
+</details>
+
+<details><summary>+Griffith</summary>
+
+The living drops of Soma juice pour, as they flow, the gladdening drink,  
+     Intelligent drops above the basin of the sea, exhilarating, finding light.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Die lebensverlängernden Somasäfte klären sich zum berauschenden Rauschtrank auf der Höhe des Meeres, die Gedankenreichen, Berauschenden, die das Himmelslicht finden.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Die Soma's rieseln hell herbei den Wonnetrank, die emsigen, Hin auf des Meeres Fläche die berauschenden, die weisen, Glanz verschaffenden.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Живые соки сомы очищаются,  
+(Превращаясь) в пьянящий напиток,  
+На поверхности океана, (эти) хранители мудрости,  
+Пьянящие, находящие солнце.
+</details>

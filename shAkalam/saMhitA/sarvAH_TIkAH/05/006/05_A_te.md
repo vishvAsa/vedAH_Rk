@@ -1,0 +1,168 @@
++++
+title = "005"
+devataa = "अग्निः"
+RShiH = "वसुश्रुत आत्रेयः"
+ChandaH = "पङ्क्तिः"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+आ꣡ ते अग्न ऋचा꣡ हविः꣡  
+शु꣡क्रस्य शोचिषस् पते  
+सु꣡श्चन्द्र द꣡स्म वि꣡श्पते  
+ह꣡व्यवाट् तु꣡भ्यं हूयत  
+इ꣡षं स्तोतृ꣡भ्य आ꣡ भर
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M  
+genre M;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ । ते॒ । अ॒ग्ने॒ । ऋ॒चा । ह॒विः । शुक्र॑स्य । शो॒चि॒षः॒ । प॒ते॒ ।  
+सुऽच॑न्द्र । दस्म॑ । विश्प॑ते । हव्य॑ऽवाट् । तुभ्य॑म् । हू॒य॒ते॒ । इष॑म् । स्तो॒तृऽभ्यः॑ । आ । भ॒र॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *te* ← *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *agna* ← *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *ṛcā* ← *ṛc*
+- \[noun\], instrumental, singular, feminine
+- “Rig-Veda; Mantra; verse; ṛc \[word\]; ṛc.”
+------------------------------------------------------------------------
+- *haviḥ* ← *havis*
+- \[noun\], nominative, singular, neuter
+- “Havya; offering; ghee; havis \[word\].”
+------------------------------------------------------------------------
+- *śukrasya* ← *śukra*
+- \[noun\], genitive, singular, neuter
+- “bright; clear; white; light; pure.”
+------------------------------------------------------------------------
+- *śociṣas* ← *śocis*
+- \[noun\], genitive, singular, neuter
+- “fire; flare; burn; radiance.”
+------------------------------------------------------------------------
+- *pate* ← *pati*
+- \[noun\], vocative, singular, masculine
+- “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
+    commanding officer; leader; owner; mayor; lord.”
+------------------------------------------------------------------------
+- *suścandra* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suścandra* ← *ścandra*
+- \[noun\], vocative, singular, masculine
+- “shining; glistening; brilliant.”
+------------------------------------------------------------------------
+- *dasma*
+- \[noun\], vocative, singular, masculine
+- “overlord.”
+------------------------------------------------------------------------
+- *viśpate* ← *viśpati*
+- \[noun\], vocative, singular, masculine
+- “overlord; head.”
+------------------------------------------------------------------------
+- *havyavāṭ* ← *havyavah*
+- \[noun\], vocative, singular
+- “Agni; fire.”
+------------------------------------------------------------------------
+- *tubhyaṃ* ← *tubhyam* ← *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *hūyata* ← *hūyate* ← *hu*
+- \[verb\], singular, Indikativ Pr￤s. Passiv
+- “sacrifice; offer; pour; worship.”
+------------------------------------------------------------------------
+- *iṣaṃ* ← *iṣam* ← *iṣ*
+- \[noun\], accusative, singular, feminine
+- “refreshment; enjoyment; stores.”
+------------------------------------------------------------------------
+- *stotṛbhya* ← *stotṛbhyaḥ* ← *stotṛ*
+- \[noun\], dative, plural, masculine
+- “laudatory; worshiping.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *bhara* ← *bhṛ*
+- \[verb\], singular, Present imperative
+- “bring; hold; fill; support; wear; possess; carry; nourish; keep;
+    hire; have; satiate; follow; bear.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **शोचिषः** दीप्तेः **पते** स्वामिन् **अग्ने** **शुक्रस्य** दीप्तस्य **ते** तुभ्यम् **ऋचा** मन्त्रेण सह **हविः** हूयते । हे **सुश्चन्द्र** सुष्ठ्वाह्लादक शोभनहिरण्य वा हे **दस्म** शत्रूणामुपक्षपयितः **विश्पते** विशां प्रजानां पालक **हव्यवाट्** हविषो वोढः । इषमिति गतम् ॥ ॥ २२ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“To you, radiant **Agni**, lord of light, giver of plural asure, destroyer (of foes), protector of man, the bearer of oblations, to you the oblation is offered with the sacred verse; do you bring to your adorers.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Agni, for you the offering is poured here, accompanied by our verse, o  lord of the glistening flame,  
+beautifully shimmering, wondrous clanlord, and conveyor of oblations. – Bring refreshment for the praise singers.
+</details>
+
+<details><summary>+Griffith</summary>
+
+To thee the splendid, Lord of flame, bright, wondrous, Prince of men, is brought.  
+     Oblation with the holy verse, O Agni, bearer of our gifts.  
+     Bring food to those who sing thy praise.
+</details>
+
+<details><summary>+Oldenberg</summary>
+
+To thee 1, O Agni, our oblation is offered with a Rik, O lord of bright splendour, highly brilliant, wonderful lord of the clan, carrier of oblations! Bring food to thy praisers!
+</details>
+
+<details><summary>+Geldner</summary>
+
+Dir, o Agni, wird das Opfer mit einem Vers, du Herr der hellen Glut, schönleuchtender Meister, Stammesherr, Opferfahrer, nur dir geopfert. - Bring den Sängern gute Speise!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Mit Loblied wird dir Opferguss, o Agni, Herr des hellen Lichts, O hehrer Hausherr, leuchtender, ergossen, der du Opfer fährst; den Sängern bringe Labetrunk.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Это для тебя, о Агни, жертвенное возлияние с гимном,  
+О господин светлого пламени,  
+Ярко сияющий удивительный господин племен,  
+О увозящий жертвы, только для тебя совершается.  
+Принеси восхвалителям жертвенную усладу!
+</details>

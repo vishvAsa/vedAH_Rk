@@ -1,0 +1,114 @@
++++
+title = "003"
+devataa = "पवमानः सोमः"
+RShiH = "भरद्वाजः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+तुवं꣡ सुष्वाणो꣡ अ꣡द्रिभिर्  
+अभि꣡ अर्ष क꣡निक्रदत्  
+द्युम꣡न्तं शु꣡ष्मम् उत्तम꣡म्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वम् । सु॒स्वा॒नः । अद्रि॑ऽभिः । अ॒भि । अ॒र्ष॒ । कनि॑क्रदत् ।  
+द्यु॒ऽमन्त॑म् । शुष्म॑म् । उ॒त्ऽत॒मम् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *tvaṃ* ← *tvam* ← *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *suṣvāṇo* ← *suṣvāṇaḥ* ← *su*
+- \[verb noun\], nominative, singular
+- “press out; su.”
+------------------------------------------------------------------------
+- *adribhir* ← *adribhiḥ* ← *adri*
+- \[noun\], instrumental, plural, masculine
+- “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
+------------------------------------------------------------------------
+- *abhy* ← *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *arṣa* ← *ṛṣ*
+- \[verb\], singular, Present imperative
+- “run.”
+------------------------------------------------------------------------
+- *kanikradat* ← *kanikrad* ← *√krand*
+- \[verb noun\], nominative, singular
+- “roar; neigh.”
+------------------------------------------------------------------------
+- *dyumantaṃ* ← *dyumantam* ← *dyumat*
+- \[noun\], accusative, singular, masculine
+- “bright; brilliant; brilliant; loud.”
+------------------------------------------------------------------------
+- *śuṣmam* ← *śuṣma*
+- \[noun\], accusative, singular, masculine
+- “vigor; energy; fire; hiss; courage.”
+------------------------------------------------------------------------
+- *uttamam* ← *uttama*
+- \[noun\], accusative, singular, masculine
+- “best; excellent; highest; better; extreme; last; first; topmost;
+    chief(a); higher; highest; maximal; uttama \[word\]; prevailing;
+    finest.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे पवमान सोम **अद्रिभिः** ग्रावभिः **सुष्वाणः** सुन्वानोऽभिषूयमाणः **त्वं** **कनिक्रदत्** भृशं शब्दं कुर्वन् **अभ्यर्ष** कलशं पात्राणि वा अभिगच्छ । तथा **द्युमन्तं** दीप्तियुक्तम् **उत्तमं** **शुष्मं** शत्रूणां शोषकं बलं च प्राप्नुहि । यद्वा । एकवाक्यतया योजनीयः। सूयमानस्त्वं बलमभिगच्छेति । ‘ कदि क्रदि' आह्वाने । क्रदेर्यङ्लुकि नलोपोऽभ्यासस्य निगागमश्च ‘दाधर्तिदर्धर्ति' इति सूत्रेण सर्वं निपात्यते । तस्माच्छतृप्रत्ययः । ‘ अभ्यस्तानामादिः' इति स्वरः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Do you when effused by the stones proceed resounding (to the vessel); (grant) bright excellent strength.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+You, having been pressed by stones—rush, roaring constantly,  
+toward highest brilliant tempestuous force.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Poured forth by pressing-stones, do thou with loud roar send us in a stream  
+     Most excellent illustrious might.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Mit den Steinen ausgeschlagen rinne du brüllend zu glänzendem höchsten Ungestüm!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+O ströme wiehernd uns herbei, von Somasteinen ausgepresst, Die höchste Kraft, die glänzende.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Ты, выжатый камнями,  
+Теки, громко ревя,  
+К сверкающему высшему возбуждению!
+</details>

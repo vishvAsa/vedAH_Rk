@@ -1,0 +1,173 @@
++++
+title = "004"
+devataa = "बृहस्पतिः"
+RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+सुनीति꣡भिर् नयसि त्रा꣡यसे ज꣡नं  
+य꣡स् तु꣡भ्यं दा꣡शान् न꣡ त꣡म् अं꣡हो अश्नवत्  
+ब्रह्मद्वि꣡षस् त꣡पनो मन्युमी꣡र् असि  
+बृ꣡हस्पते म꣡हि त꣡त् ते महित्वन꣡म्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सु॒नी॒तिऽभिः॑ । न॒य॒सि॒ । त्राय॑से । जन॑म् । यः । तुभ्य॑म् । दाशा॑त् । न । तम् । अंहः॑ । अ॒श्न॒व॒त् ।  
+ब्र॒ह्म॒ऽद्विषः॑ । तप॑नः । म॒न्यु॒ऽमीः । अ॒सि॒ । बृह॑स्पते । महि॑ । तत् । ते॒ । म॒हि॒ऽत्व॒नम् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *sunītibhir* ← *sunītibhiḥ* ← *sunīti*
+- \[noun\], instrumental, plural, feminine
+- “Sunīti.”
+------------------------------------------------------------------------
+- *nayasi* ← *nī*
+- \[verb\], singular, Present indikative
+- “bring; lead; spend; decant; enter (a state); remove; take out; take
+    away; enforce; marry; carry; fill into; bring; learn; go out; add.”
+------------------------------------------------------------------------
+- *trāyase* ← *trā*
+- \[verb\], singular, Present indikative
+- “protect; help.”
+------------------------------------------------------------------------
+- *janaṃ* ← *janam* ← *jana*
+- \[noun\], accusative, singular, masculine
+- “people; national; man; relative; jan; Janaloka; person; jana
+    \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
+------------------------------------------------------------------------
+- *yas* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *tubhyaṃ* ← *tubhyam* ← *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *dāśān* ← *dāśāt* ← *dāś*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “sacrifice; give.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *tam* ← *tad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *aṃho* ← *aṃhaḥ* ← *aṃhas*
+- \[noun\], nominative, singular, neuter
+- “trouble; sin.”
+------------------------------------------------------------------------
+- *aśnavat* ← *aś*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “get; reach; enter (a state).”
+------------------------------------------------------------------------
+- *brahmadviṣas* ← *brahma* ← *brahman*
+- \[noun\], neuter
+- “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
+    emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
+------------------------------------------------------------------------
+- *brahmadviṣas* ← *dviṣaḥ* ← *dviṣ*
+- \[noun\], genitive, singular, masculine
+- “hostile; hating.”
+------------------------------------------------------------------------
+- *tapano* ← *tapanaḥ* ← *tapana*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *manyumīr* ← *manyumīḥ* ← *manyumī*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *asi* ← *as*
+- \[verb\], singular, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *bṛhaspate* ← *bṛhaspati*
+- \[noun\], vocative, singular, masculine
+- “Brihaspati; Jupiter; Bṛhaspati.”
+------------------------------------------------------------------------
+- *mahi*
+- \[noun\], nominative, singular, neuter
+- “great; firm.”
+------------------------------------------------------------------------
+- *tat* ← *tad*
+- \[noun\], nominative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *te* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *mahitvanam* ← *mahitvana*
+- \[noun\], nominative, singular, neuter
+- “greatness.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हेबृहस्पते सुनीतिभिः शोभनानीतयोतेसुनीतयः सन्मार्गाःतैर्जनन्नयसि अपेक्षितफलम्प्रापयसि त्रायसेजनमापद्भ्योरक्षसिच किञ्च योयजमानःतुभ्यं हविर्लक्षणमन्नन्दाशात् प्रयच्छेत् दाश्रृदाने लेट्या डागमः तमंहः पापम्पापरूपदारिद्र्यं वानाश्नवत् नप्राप्नुयात् अश्नोतेर्लेटिव्यत्ययेनपरस्मैपदं अडागमः ब्रह्मद्विषः ब्राह्मणानाम्मन्त्रणांवाद्वेष्टुः तपनः तापकोसि किञ्च मन्युमीः मन्योःक्रोधस्यपरेषाञ्ज्ञानस्य वाहिंसकोसि मीङ् हिंसायां क्विप् तेतवतत्तादृशं महिमहत्प्रभूतं महित्वनं माहात्म्यमस्ति ॥ ४ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“You lead men, **Bṛhaspati**, by virtuous instrumental uctions; you preserve them (from calamity); sin will never overtake him who presents (offerings) to you; you are the afflicter of him who hates (holy) prayers; you are the punisher of wrath; such is your great mightiness.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Him who hates holy prayers: brahmadviṣaḥ = those who hate either the **brāhmaṇas**,or the **mantras** or prayers
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+You guide with good guidance, and you rescue the man who will do  (ritual) service for you. Distress will not reach him.  
+Confounding his fury, you are the scorcher of him who hates the sacred  formulation. Br̥haspati, great is that greatness of yours.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Thou leadest with good guidance and preservest men; distress o'ertakes not him who offers gifts to thee.  
+     Him who hates prayer thou punishest, Brhaspati, quelling his wrath: herein is thy great mightiness.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Mit guten Weisungen leitest du, schützest du den Mann, der dir zu spenden pflegt; ihn soll keine Not treffen. Du schaffst brennende Pein, du vereitelst den bösen Eifer des Feindes des Priesterworts: Das ist deine hehre Größe, o Brihaspati.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Durch schöne Leitung leitest, rettest du den Mann; der dich verehret, nicht erreicht Bedrängniss den; Die Andachthasser brennend, hemmst du ihre Wuth; das ist, Gebets Herr, deine grosse Allgewalt.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Ты ведешь с помощью добрых указаний, ты спасаешь человека,  
+Который тебя почитает, – узость не застигнет его.  
+Испепеляя (врагов), ты уничтожаешь ярость противника молитвы –  
+О Брихаспати, в этом твое великое величие.
+</details>

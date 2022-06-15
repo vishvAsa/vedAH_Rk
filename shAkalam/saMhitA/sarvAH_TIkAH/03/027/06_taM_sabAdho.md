@@ -1,0 +1,140 @@
++++
+title = "006"
+devataa = "अग्निः"
+RShiH = "गाथिनो विश्वामित्रः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+तं꣡ सबा꣡धो यत꣡स्रुच  
+इत्था꣡ धिया꣡ यज्ञ꣡वन्तः  
+आ꣡ चक्रुर् अग्नि꣡म् ऊत꣡ये
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic on metrical evidence alone
+
+### Pāda-label
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तम् । स॒ऽबाधः॑ । य॒तऽस्रु॑चः । इ॒त्था । धि॒या । य॒ज्ञऽव॑न्तः ।  
+आ । च॒क्रुः॒ । अ॒ग्निम् । ऊ॒तये॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *taṃ* ← *tam* ← *tad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *sabādho* ← *sabādhaḥ* ← *sabādh*
+- \[noun\], nominative, plural, masculine
+- “pressing; clamant.”
+------------------------------------------------------------------------
+- *yatasruca* ← *yata* ← *yam*
+- \[verb noun\]
+- “concentrate; grant; restrain; cause; control; offer; cover; raise.”
+------------------------------------------------------------------------
+- *yatasruca* ← *srucaḥ* ← *sruc*
+- \[noun\], nominative, plural, masculine
+- “Sruc.”
+------------------------------------------------------------------------
+- *itthā*
+- \[adverb\]
+- “thus; here.”
+------------------------------------------------------------------------
+- *dhiyā* ← *dhī*
+- \[noun\], instrumental, singular, feminine
+- “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
+    knowledge.”
+------------------------------------------------------------------------
+- *yajñavantaḥ* ← *yajñavat*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *cakrur* ← *cakruḥ* ← *kṛ*
+- \[verb\], plural, Perfect indicative
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *agnim* ← *agni*
+- \[noun\], accusative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *ūtaye* ← *ūti*
+- \[noun\], dative, singular, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**सबाधः** । रक्षोघ्नमन्त्रोच्चारणेन तद्विषयबाधा सह वर्तन्ते इति सबाधः । **यज्ञवन्तः** यजनीयहविर्युक्ताः **यतस्रुचः** । यताः संयताः स्रुचो जुह्वाद्याः यैस्ते यतस्रुचः ऋत्विजः । **इत्था** इत्थमनेन प्रकारेण क्रियमाणया **धिया** स्तुत्या **तम्** एवंभूतम् अग्निमूतये राक्षसबाधात् रक्षणाय **आ** अभिमुखं **चक्रुः** कुर्वन्ति ॥ सबाधः । ‘ बाधृ विलोडने ' इत्यस्मात् क्विप् । कृदुत्तरपदस्वरः । इत्था । इदंशब्दात् प्रकारार्थे इदमस्थमुः । तस्य ' सुपां सुलुक्° ' इति डादेशः । उदात्तनिवृत्तिस्वरेणान्तोदात्तः । चक्रुः । ‘डुकृञ् करणे' इत्यस्य लिट्युसि यणादेशे कृते तस्य द्विर्वचनेऽचि' इति स्थानिवद्भावात् द्विर्वचनम् । निघातः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The exorcisers (of the demons), lifting up their ladles, and offering sacrifice, have called upon **Agni** by this ceremony for their protection.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+The exorcisers: sabādhaḥ, repelling; the disturbers of sacred rites by repeating the **mantras** or charm for their destruction, **rakṣoghna** mantroccāraṇena tadviṣayabādhaḥ
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+With their sacrificial spoons held out, bringing the sacrifice with their  insight just so, they eagerly  
+put Agni here for help.
+</details>
+
+<details><summary>+Griffith</summary>
+
+The priests with ladles lifted up, worshipping here with holy thought,  
+     Have brought this Agni for our aid.
+</details>
+
+<details><summary>+Oldenberg</summary>
+
+Holding the (sacrificial) ladles, performing the sacrifice they have with right thought pressingly brought Agni hither 1 for help.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Den Agni haben sie eifrig mit bereitgehaltenem Löffel so recht von Herzen opfernd zur Gunsterweisung bewogen.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Den Agni schaffen sich herbei mit rechter Andacht opferreich Die Löffel-Lenker eifervoll.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Настойчивые, с протянутой жертвенной ложкой,  
+Приносящие жертву вот так вместе с молитвой,  
+Они приготовили этого Агни для помощи.
+</details>

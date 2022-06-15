@@ -1,0 +1,130 @@
++++
+title = "007"
+devataa = "पूषा"
+RShiH = "भरद्वाजो बार्हस्पत्यः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+आ꣡ रिख किकिरा꣡ कृणु  
+पणीनां꣡ हृ꣡दया कवे  
+अ꣡थेम् अस्म꣡भ्यं रन्धय
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+आ । रि॒ख॒ । कि॒कि॒रा । कृ॒णु॒ । प॒णी॒नाम् । हृद॑या । क॒वे॒ ।  
+अथ॑ । ई॒म् । अ॒स्मभ्य॑म् । र॒न्ध॒य॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *rikha* ← *likh*
+- \[verb\], singular, Present imperative
+- “write; trace; describe; scarify; paint.”
+------------------------------------------------------------------------
+- *kikirā*
+- \[adverb\]
+------------------------------------------------------------------------
+- *kṛṇu* ← *kṛ*
+- \[verb\], singular, Present imperative
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *paṇīnāṃ* ← *paṇīnām* ← *paṇi*
+- \[noun\], genitive, plural, masculine
+- “niggard; paṇ.”
+------------------------------------------------------------------------
+- *hṛdayā* ← *hṛdaya*
+- \[noun\], accusative, plural, neuter
+- “heart; heart; mind; hṛdaya \[word\]; science; thorax;
+    Aṣṭāṅgahṛdayasaṃhitā; soul.”
+------------------------------------------------------------------------
+- *kave* ← *kavi*
+- \[noun\], vocative, singular, masculine
+- “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
+    guru; Brahma.”
+------------------------------------------------------------------------
+- *athem* ← *athā* ← *atha*
+- \[adverb\]
+- “now; then; furthermore; now; then.”
+------------------------------------------------------------------------
+- *athem* ← *im* ← *iṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *asmabhyaṃ* ← *asmabhyam* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *randhaya* ← *randhay* ← *√radh*
+- \[verb\], singular, Present imperative
+- “subjugate; hand over.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **कवे** प्राज्ञ पूषन् **पणीनां** वणिजां **हृदया** हृदयानि **आ** **रिख** आलिख । आलिख्य च **किकिरा** कीर्णानि प्रशिथिलानि **कृणु** कुरु । मृदूनि कुर्वित्यर्थः । अन्यद्गतम् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Abrade, wise **Pūṣan**, the hearts of the avaricious; relax (their hardness), and so render them complacent towards us.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+This shows the purpose of ārā, to abrade, to smoothen, as an abrasive
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Shred them, make them shrapnel—the hearts of the niggards, you poet. And make them subject to us.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Tear up and read in pieces, Sage, the hearts of avaricious churls,  
+     And make them subject to our will.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Ritze, kratze die Herzen der Knauser auf, du Seher, und mach die uns gefügig!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Zerreiss, zerschlitz in Fetzen nun der Geiz'gen Herzen, weiser du, Und gib sie hin in unsre Hand.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Расцарапай, разорви в клочья  
+Сердца скупцов, о поэт,  
+И отдай их нам во власть!
+</details>

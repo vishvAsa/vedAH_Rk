@@ -1,0 +1,172 @@
++++
+title = "003"
+devataa = "इन्द्रः (कपिंजलरूपी)"
+RShiH = "गृत्समद (आङ्गिरसः शौनहोत्रः पश्चाद्) भार्गवः शौनकः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अ꣡व क्रन्द दक्षिणतो꣡ गृहा꣡णां  
+सुमङ्ग꣡लो भद्रवादी꣡ शकुन्ते  
+मा꣡ न स्तेन꣡ ईशत मा꣡घ꣡शंसो  
+बृह꣡द् वदेम विद꣡थे सुवी꣡राः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+popular  
+popular  
+popular  
+popular;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अव॑ । क्र॒न्द॒ । द॒क्षि॒ण॒तः । गृ॒हाणा॑म् । सु॒ऽम॒ङ्गलः॑ । भ॒द्र॒ऽवा॒दी । श॒कु॒न्ते॒ ।  
+मा । नः॒ । स्ते॒नः । ई॒श॒त॒ । मा । अ॒घऽशं॑सः । बृ॒हत् । व॒दे॒म॒ । वि॒दथे॑ । सु॒ऽवीराः॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *ava*
+- \[adverb\]
+- “down.”
+------------------------------------------------------------------------
+- *kranda* ← *krand*
+- \[verb\], singular, Present imperative
+- “roar; neigh; cry; howl; shout.”
+------------------------------------------------------------------------
+- *dakṣiṇato* ← *dakṣiṇatas*
+- \[adverb\]
+- “right; southward.”
+------------------------------------------------------------------------
+- *gṛhāṇāṃ* ← *gṛhāṇām* ← *gṛha*
+- \[noun\], genitive, plural, neuter
+- “house; palace; temple; home; place; family; family; stable.”
+------------------------------------------------------------------------
+- *sumaṅgalo* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sumaṅgalo* ← *maṅgalaḥ* ← *maṅgala*
+- \[noun\], nominative, singular, masculine
+- “auspicious.”
+------------------------------------------------------------------------
+- *bhadravādī* ← *bhadra*
+- \[noun\]
+- “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
+    fine-looking; beautiful.”
+------------------------------------------------------------------------
+- *bhadravādī* ← *vādī* ← *vādin*
+- \[noun\], nominative, singular, masculine
+- “speaking; discussing; chatty; crying.”
+------------------------------------------------------------------------
+- *śakunte* ← *śakunti*
+- \[noun\], vocative, singular, masculine
+- “bird.”
+------------------------------------------------------------------------
+- *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *na* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *stena* ← *stenaḥ* ← *stena*
+- \[noun\], nominative, singular, masculine
+- “thief; stena \[word\].”
+------------------------------------------------------------------------
+- *īśata* ← *īś*
+- \[verb\], singular, Present injunctive
+- “govern; command; master; dominate; can; reign; control; own.”
+------------------------------------------------------------------------
+- *māghaśaṃso* ← *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *māghaśaṃso* ← *agha*
+- \[noun\]
+- “bad; dangerous; ill; iniquitous; bad.”
+------------------------------------------------------------------------
+- *māghaśaṃso* ← *śaṃsaḥ* ← *śaṃsa*
+- \[noun\], nominative, singular, masculine
+- “speaking.”
+------------------------------------------------------------------------
+- *bṛhad* ← *bṛhat* ← *bṛhant*
+- \[noun\], accusative, singular, neuter
+- “Bṛhant.”
+------------------------------------------------------------------------
+- *vadema* ← *vad*
+- \[verb\], plural, Present optative
+- “describe; teach; speak; tell; say; call; name; enumerate; declare;
+    diagnose; address; say; pronounce; express; instruct; order.”
+------------------------------------------------------------------------
+- *vidathe* ← *vidatha*
+- \[noun\], locative, singular, neuter
+- “meeting; wisdom; council.”
+------------------------------------------------------------------------
+- *suvīrāḥ* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suvīrāḥ* ← *vīrāḥ* ← *vīra*
+- \[noun\], nominative, plural, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+शकुन्ते हेकपिञ्चल त्वंसुमङ्गलोभद्रवादीचसन् गृहाणान्दक्षिणतः दक्षिणस्यान्दिशिअवक्रन्द शब्दङ्कुरु दक्षिणतः शब्दायमानःशकुन्तोमङ्गलसूचकोहि नोस्माकं स्तेनस्तस्करोमाईशतमाईशिष्ट अघशंसः अनर्थकानांशंसकोपिमेशिष्ट उत्तमःपादोव्याख्यातचरः ॥ ३ ॥प्रदक्षिणिदितितृचमेकादशंसूक्तङ्गार्त्समदञ्जागतं तथाचानुक्रान्तं—प्रदक्षिणिज्जागतम्मध्येतिशक्वर्य ष्टिर्वेति द्वितीयातिशक्वरी अष्टिर्वा इतरेजगत्यौ कपिञ्चलरूपीन्द्रोदेवता वयसाममनोज्ञांवाचंश्रु- त्वाप्रदक्षिणिदितिसूक्तञ्जपेत् सूत्रम्प्रागेवोदाह्रुतम् ।
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Bird, who are ominous of good fortune, the proclaimer of good luck, cry from the south of our dwellings; may no thief, no evil-doer prevail agains tus; that blessed with excellent descendants we may worthily praise you at this sacrifice.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Screech down to the right of the houses, as one of good omen, speaking  auspiciously, o bird.  
+Let not a thief gain mastery of us, nor an utterer of evil. – May we speak  loftily at the ritual distribution, in possession of good heroes.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+Although the published translation follows Geldner (/Witzel Gotō) in rendering dakṣiṇatáḥ as ‘to the right’, it is also possible, given 2c pítryam ánu pradíśam “in the direction of the fathers [that is, forefathers/ancestors],” that dakṣiṇatáḥ should rather be ‘to the south’, since the south is ordinarily the quarter of the Pitars.
+
+On īśata see comm. ad I.23.9.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Bringing good tidings, Bird of happy omen, call thou out loudly southward of our dwellings,  
+     So that no thief, no sinner may oppress us. Loud may we speak, with heroes, in assembly.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Schrei rechts vom Hause, von guter Vorbedeutung, Glück verheißend, o Vogel! Nicht soll ein Dieb über uns Macht haben, noch ein Übelredender. - Wir möchten das große Wort führen als Meister in der Weisheit.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Dein Schrei ertöne rechts von unsern Häusern, heilvoll und Glück verkündend, o du Häher, Nicht mög' ein Dieb, ein Flucher uns bewält'gen. Lasst laut im Chore bei dem Fest uns singen.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Кричи справа от дома,  
+Предвещая добро, глаголя счастье, о птица!  
+Да не приобретет над нами власти ни вор, ни злоречивец!  
+Мы хотим провозгласить жертвенную раздачу, (чтобы иметь) прекрасных мужей!
+</details>

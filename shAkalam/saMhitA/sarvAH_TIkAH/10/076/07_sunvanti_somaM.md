@@ -1,0 +1,161 @@
++++
+title = "007"
+devataa = "ग्रावाणः"
+RShiH = "जरत्कर्ण ऐरावतः सर्पः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+सुन्व꣡न्ति सो꣡मं रथिरा꣡सो अ꣡द्रयो  
+नि꣡र् अस्य र꣡सं गवि꣡षो दुहन्ति ते꣡  
+दुह꣡न्ति ऊ꣡धर् उपसे꣡चनाय कं꣡  
+न꣡रो हव्या꣡ न꣡ मर्जयन्त आस꣡भिः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal on metrical evidence alone
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सु॒न्वन्ति॑ । सोम॑म् । र॒थि॒रासः॑ । अद्र॑यः । निः । अ॒स्य॒ । रस॑म् । गो॒ऽइषः॑ । दु॒ह॒न्ति॒ । ते ।  
+दु॒हन्ति॑ । ऊधः॑ । उ॒प॒ऽसेच॑नाय । कम् । नरः॑ । ह॒व्या । न । म॒र्ज॒य॒न्ते॒ । आ॒सऽभिः॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *sunvanti* ← *su*
+- \[verb\], plural, Present indikative
+- “press out; su.”
+------------------------------------------------------------------------
+- *somaṃ* ← *somam* ← *soma*
+- \[noun\], accusative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *rathirāso* ← *rathirāsaḥ* ← *rathira*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *adrayo* ← *adrayaḥ* ← *adri*
+- \[noun\], nominative, plural, masculine
+- “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
+------------------------------------------------------------------------
+- *nir* ← *niḥ*
+- \[adverb\]
+- “niḥ; away; out; without.”
+------------------------------------------------------------------------
+- *asya* ← *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *rasaṃ* ← *rasam* ← *rasa*
+- \[noun\], accusative, singular, masculine
+- “mercury; juice; medicine; rasa; alchemy; liquid; Rasa; mahārasa;
+    taste; broth; elixir; resin; rasa; essence; six; water; soup; liquid
+    body substance; rasa; formulation; myrrh; rasa \[word\]; amṛta;
+    purpose; delight; solution; milk; beverage; alcohol; sap; nectar;
+    Rasātala.”
+------------------------------------------------------------------------
+- *gaviṣo* ← *gaviṣaḥ* ← *gaviṣ*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *duhanti* ← *duh*
+- \[verb\], plural, Present indikative
+- “milk.”
+------------------------------------------------------------------------
+- *te* ← *tad*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *duhanty* ← *duhanti* ← *duh*
+- \[verb\], plural, Present indikative
+- “milk.”
+------------------------------------------------------------------------
+- *ūdhar* ← *ūdhaḥ* ← *ūdhas*
+- \[noun\], accusative, singular, neuter
+- “udder; ūdhas \[word\]; night.”
+------------------------------------------------------------------------
+- *upasecanāya* ← *upasecana*
+- \[noun\], dative, singular, neuter
+------------------------------------------------------------------------
+- *kaṃ* ← *kam* ← *kaṃ*
+- \[adverb\]
+- “kaṃ \[word\].”
+------------------------------------------------------------------------
+- *naro* ← *naraḥ* ← *nṛ*
+- \[noun\], nominative, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *havyā* ← *havyāḥ* ← *hu*
+- \[verb noun\], nominative, plural
+- “sacrifice; offer; pour; worship.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *marjayanta* ← *marjayante* ← *marjay* ← *√mṛj*
+- \[verb\], plural, Present indikative
+------------------------------------------------------------------------
+- *āsabhiḥ* ← *āsan*
+- \[noun\], instrumental, plural, neuter
+- “mouth.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**रथिरासः** रथवन्तो रंहणवन्तः **अद्रयः** ग्रावाणः **सोमं** **सुन्वन्ति** । ग्रावाणः **अस्य** सोमस्य **रसं** **निः** **दुहन्ति** निःशेषेण दुहन्ति । **गविषः** स्तुतिवाचमिच्छन्तः सन्तः । दुहन्ति **ऊधः** रसं सोमसंबन्धिनम् । किमर्थम् । **उपसेचनाय** अग्नेः । **कम्** इति पादपूरणः । **नरः** नेतारोऽभिषवकर्तार ऋत्विजः **हव्या** **न** हवींषि चाग्न्युपसेचनानन्तरम् **आसभिः** स्वास्यैः **मर्जयन्ते** शोधयन्ति । शेषभक्षणेन शुद्धीकुर्वन्ति । यद्वा । अग्नौ होतुर्दशापवित्रात्पुरासभिरास्योपलक्षितैः स्तोत्रैर्मर्जयन्ते ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The swiftly-moving grinding-stones effuse the **Soma**, desiring praise, they milk forth Soma; they milkforth for the spinkling (of **Agni**); the leaders (of rites) purify the oblations with their mouths.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+With their mouths: bydevouring the refuse; or, metaphorically, by the praise of their mouths
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+The stones, the charioteers, press the soma. They milk out the juice of  him who seeks the cows.  
+They milk the udder, to pour it out. As superior men they groom (the  soma), like oblations, with their mouths.
+</details>
+
+<details><summary>+Griffith</summary>
+
+The Stones press out the Soma, swift as car-borne men, and, eager for the spoil, drain forth the sap thereof  
+     To fill the beaker, they exhaust the udder's store, as the men purify oblations with their lips.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Zu Wagen fahrend pressen die Steine den Soma aus; sie melken das Euter, um die Milch des Soma aufzugießen. Wie die Herren machen sie das Opfer mit ihren Mäulern sauber.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Die Steine pressen Soma Wagenlenkern gleich und melken beutelustig seinen Saft heraus; Zum Trunk der Götter melken sie das Euter aus; wie Männer Speisen, kau'n mit Zähnen sie das Kraut.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Выезжая на колесницах, камни выжимают сому.  
+Они выдаивают сок этого ищущего коров.  
+Они доят вымя, чтобы разлить (молоко).  
+Словно мужи, (своими) ртами они очищают возлияния.
+</details>

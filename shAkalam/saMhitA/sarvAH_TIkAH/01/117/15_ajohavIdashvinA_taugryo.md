@@ -1,0 +1,158 @@
++++
+title = "015"
+devataa = "अश्विनौ"
+RShiH = "कक्षीवान् दैर्घतमस औशिजः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+अ꣡जोहवीद् अश्विना तौग्रियो꣡ वाम्  
+प्रो꣡ऌहः समुद्र꣡म् अव्यथि꣡र् जगन्वा꣡न्  
+नि꣡ष् ट꣡म् ऊहथुः सुयु꣡जा र꣡थेन  
+म꣡नोजवसा वृषणा सुअस्ति꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+अजो॑हवीत् । अ॒श्वि॒ना॒ । तौ॒ग्र्यः । वा॒म् । प्रऽऊ॑ळ्हः । स॒मु॒द्रम् । अ॒व्य॒थिः । ज॒ग॒न्वान् ।  
+निः । तम् । ऊ॒ह॒थुः॒ । सु॒ऽयुजा॑ । रथे॑न । मनः॑ऽजवसा । वृ॒ष॒णा॒ । स्व॒स्ति ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *ajohavīd* ← *ajohavīt* ← *johav* ← *√hvā*
+- \[verb\], singular, Imperfect
+- “appeal.”
+------------------------------------------------------------------------
+- *aśvinā* ← *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *taugryo* ← *taugryaḥ* ← *taugrya*
+- \[noun\], nominative, singular, masculine
+- “Bhujyu.”
+------------------------------------------------------------------------
+- *vām* ← *tvad*
+- \[noun\], accusative, dual
+- “you.”
+------------------------------------------------------------------------
+- *proﾱhaḥ* ← *proḍhaḥ* ← *pravah* ← *√vah*
+- \[verb noun\], nominative, singular
+- “take away; issue.”
+------------------------------------------------------------------------
+- *samudram* ← *samudra*
+- \[noun\], accusative, singular, masculine
+- “ocean; Samudra; sea; samudra \[word\]; four.”
+------------------------------------------------------------------------
+- *avyathir* ← *avyathiḥ* ← *avyathi*
+- \[noun\], nominative, singular, masculine
+- “surefooted.”
+------------------------------------------------------------------------
+- *jaganvān* ← *gam*
+- \[verb noun\], nominative, singular
+- “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
+    leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
+    get; come; die; drain; spread; transform; happen; discharge; ride;
+    to be located; run; detect; refer; go; shall; drive.”
+------------------------------------------------------------------------
+- *niṣ* ← *niḥ*
+- \[adverb\]
+- “niḥ; away; out; without.”
+------------------------------------------------------------------------
+- *ṭam* ← *tam* ← *tad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *ūhathuḥ* ← *vah*
+- \[verb\], dual, Perfect indicative
+- “transport; bring; marry; run; drive; vāhay; drive; run; pull;
+    nirvāpay; blow; transport; discharge; assume; remove.”
+------------------------------------------------------------------------
+- *suyujā* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suyujā* ← *yujā* ← *yuj*
+- \[noun\], instrumental, singular, masculine
+- “amalgamated; harnessed.”
+------------------------------------------------------------------------
+- *rathena* ← *ratha*
+- \[noun\], instrumental, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *manojavasā* ← *manaḥ* ← *manas*
+- \[noun\], neuter
+- “mind; Manas; purpose; idea; attention; heart; decision; manas
+    \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
+------------------------------------------------------------------------
+- *manojavasā* ← *javasā* ← *javas*
+- \[noun\], instrumental, singular, masculine
+- “speed.”
+------------------------------------------------------------------------
+- *vṛṣaṇā* ← *vṛṣan*
+- \[noun\], vocative, dual, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *svasti*
+- \[noun\], accusative, singular, neuter
+- “prosperity; well-being; fortune; benediction; svasti \[word\];
+    well; luck.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे अश्विनौ **वां** युवां **तौग्र्यः** तुग्रपुत्रः **प्रोळ्हः** पित्रा प्रापितः **समुद्रम्** अब्धिं जगन्वान भुज्युः उदके निमग्नोऽपि **अव्यथिः** व्यथां पीडाम् अप्राप्त एव सन् **अजोहवीत्** स्तुतिभिराह्वयत् । **तम्** आह्वातारं हे **मनोजवसा** मनोवद्वेगयुक्तौ **वृषणा** कामाभिवर्षकावश्विनौ **सुयुजा** सुष्ठ्वैश्वर्ययुक्तेन **रथेन** **स्वस्ति** क्षेमं यथा भवति तथा **निरूहथुः** । जलान्निर्गमय्य युवां पितृगृहं प्रापितवन्तौ ॥ जगन्वान् । गमेर्लिटः क्वसुः । ‘विभाषा गमहनविदविशाम्' इति विकल्पनात् इडभावः । ‘भ्वोश्च' इति मकारस्य नकारः । निष्टम् । ‘युष्मत्तत्ततक्षुःष्वन्तःपादम्' इति मूर्धन्यः । मनोजवसा । मनसो जव इव जवो ययोः तौ तथोक्तौ । ‘सुपां सुलुक्' इति विभक्तेराकारः । पादादित्वात् आमन्त्रितनिघाताभावे षाष्ठिकमाद्युदात्तत्वम् ॥ ॥ १५ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Th sun of **Tugra**, brought back by you, **Aśvins**, (to his father), glorified you whenhe ahd crossed the ocean in safety, and you bore him, showerers (of benefits), with your well-harnessed car, swift as thought, to safety.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Carried forth into the sea, the son of Tugra [=Bhujyu] called upon you  again and again, having gone (to you) on an unwavering course, Aśvins. You carried him out with your chariot, swift as mind, with its good  team, o bulls, to keep him well.
+</details>
+
+<details><summary>+Griffith</summary>
+
+The son of Tugra had invoked you, Asvins; borne on he went uninjured through the ocean.  
+     Ye with your chariot swift as thought, well-harnessed, carried him off, O Mighty Ones, to safety.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Es rief euch, Asvin, laut der Tugrasohn, ins Meer getrieben, keinen Irrweg gegangen. Ihr holtet ihn heil heraus auf wohlgeschirrtem, gedankenschnellem Wagen, ihr Bullengleiche.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Euch hat gerufen Tugra's Sohn, ihr Ritter, ins Meer geführt, hineilend ohne Wanken; Ihr fuhrt heraus auf schönbespanntem Wagen gedankenschnellem ihn zum Heil, o Stiere!
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Воззвал к вам сын Тугры, о Ашвины,  
+Завезенный в море, движущийся без колебаний,  
+Вы благополучно вывезли его на колеснице,  
+Легко запрягаемой, быстрой, как мысль, о два быка.
+</details>

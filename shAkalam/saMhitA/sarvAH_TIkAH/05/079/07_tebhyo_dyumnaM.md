@@ -1,0 +1,167 @@
++++
+title = "007"
+devataa = "उषाः"
+RShiH = "सत्यश्रवा आत्रेयः"
+ChandaH = "पङ्क्तिः"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+ते꣡भ्यो द्युम्न꣡म् बृह꣡द् य꣡श  
+उ꣡षो मघोनि आ꣡ वह  
+ये꣡ नो रा꣡धांसि अ꣡श्विया  
+गव्या꣡ भ꣡जन्त सूर꣡यः  
+सु꣡जाते अ꣡श्वसूनृते
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M;; repeated line  
+genre M  
+genre M  
+genre M;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+तेभ्यः॑ । द्यु॒म्नम् । बृ॒हत् । यशः॑ । उषः॑ । म॒घो॒नि॒ । आ । व॒ह॒ ।  
+ये । नः॒ । राधां॑सि । अश्व्या॑ । ग॒व्या । भज॑न्त । सू॒रयः॑ । सुऽजा॑ते । अश्व॑ऽसूनृते ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *tebhyo* ← *tebhyaḥ* ← *tad*
+- \[noun\], dative, plural, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *dyumnam* ← *dyumna*
+- \[noun\], accusative, singular, neuter
+- “magnificence.”
+------------------------------------------------------------------------
+- *bṛhad* ← *bṛhat*
+- \[noun\], accusative, singular, neuter
+- “large; great; loud; high; much(a); exalted; abundant; intensive;
+    strong; huge.”
+------------------------------------------------------------------------
+- *yaśa* ← *yaśaḥ* ← *yaśas*
+- \[noun\], accusative, singular, neuter
+- “fame; Yaśas.”
+------------------------------------------------------------------------
+- *uṣo* ← *uṣaḥ* ← *uṣas*
+- \[noun\], vocative, singular, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *maghony* ← *maghoni* ← *maghavan*
+- \[noun\], vocative, singular, feminine
+- “big.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *vaha* ← *vah*
+- \[verb\], singular, Present imperative
+- “transport; bring; marry; run; drive; vāhay; drive; run; pull;
+    nirvāpay; blow; transport; discharge; assume; remove.”
+------------------------------------------------------------------------
+- *ye* ← *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *rādhāṃsy* ← *rādhāṃsi* ← *rādhas*
+- \[noun\], accusative, plural, neuter
+- “gift; munificence; liberality; bounty.”
+------------------------------------------------------------------------
+- *aśvyā* ← *aśvya*
+- \[noun\], accusative, plural, neuter
+- “equine.”
+------------------------------------------------------------------------
+- *gavyā* ← *gavya*
+- \[noun\], accusative, plural, neuter
+- “bovine.”
+------------------------------------------------------------------------
+- *bhajanta* ← *bhaj*
+- \[verb\], plural, Present injunctive
+- “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
+    one's share; partake; share; get; approach; love; use.”
+------------------------------------------------------------------------
+- *sūrayaḥ* ← *sūri*
+- \[noun\], nominative, plural, masculine
+- “patron.”
+------------------------------------------------------------------------
+- *sujāte* ← *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sujāte* ← *jāte* ← *jan*
+- \[verb noun\], vocative, singular
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+------------------------------------------------------------------------
+- *aśvasūnṛte* ← *aśva*
+- \[noun\], masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *aśvasūnṛte* ← *sūnṛte* ← *sūnṛta*
+- \[noun\], vocative, singular, feminine
+- “big; friendly.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **उषो** **मघोनि** त्वं **तेभ्यो** **द्युम्नं** द्योतमानं हिरण्यादिरूपं धनं **बृहद्यशः** महदन्नं महती कीर्तिं वा तेभ्यो यजमानेभ्यः **आ** **वह** । **ये** आढ्याः **नः** अस्मभ्यं **राधांसि** धनानि **अश्व्याः** अश्वैर्युक्तानि **गव्या** गोभिर्युक्तानि गोसमूहानश्वसमूहान् च **भजन्त** भजेरन् ददुः **सूरयः** दातारः॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Affluent Uṣas, bring wealth and abundant food to those who, liberal givers, bestow upon us riches with horses and cattle; bright-born goddess (who are) sincerely prised for (the gift of) horses.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+To them bring lofty brilliance and glory, o bounteous Dawn,  
+to the patrons who apportion to us benefits consisting of horses  
+and cows  
+– o well-born lady, liberal with horses.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Bring lofty and resplendent fame, O thou munificent Dawn, to these  
+     Our wealthy patrons who bestow rich gifts on us of steeds and kine, high-born! delightful with thy steeds!
+</details>
+
+<details><summary>+Geldner</summary>
+
+Ihnen bring, o gabenreiche Usas, hohen Glanz und Ruhm mit, den freigebigen Herren, die uns Geschenke von Rossen und Rindern zuteilten, du Edelgeborene, Rosseschenkende!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+O fahre Schätze, grossen Glanz, o reiche Uschas, diesen zu, Den Opferherren, die mit Ross und Rindern reichlich uns beschenkt, o edle, rossereiche du.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Великий блеск, великолепие  
+Привези, о щедрая Ушас, тем  
+Покровителям, которые наделяют нас  
+Почетными дарами, состоящими из коней, состоящими из коров,  
+О благородная, о щедро дающая коней!
+</details>

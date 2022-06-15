@@ -1,0 +1,166 @@
++++
+title = "004"
+devataa = "इन्द्रः"
+RShiH = "कृष्णः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+तुवां꣡ ज꣡ना ममसत्ये꣡षु इन्द्र  
+संतस्थाना꣡ वि꣡ ह्वयन्ते समीके꣡  
+अ꣡त्रा यु꣡जं कृणुते यो꣡ हवि꣡ष्मान्  
+ना꣡सुन्वता सखियं꣡ वष्टि शू꣡रः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+त्वाम् । जनाः॑ । म॒म॒ऽस॒त्येषु॑ । इ॒न्द्र॒ । स॒म्ऽत॒स्था॒नाः । वि । ह्व॒य॒न्ते॒ । स॒म्ऽई॒के ।  
+अत्र॑ । युज॑म् । कृ॒णु॒ते॒ । यः । ह॒विष्मा॑न् । न । असु॑न्वता । स॒ख्यम् । व॒ष्टि॒ । शूरः॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *tvāṃ* ← *tvām* ← *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *janā* ← *janāḥ* ← *jana*
+- \[noun\], nominative, plural, masculine
+- “people; national; man; relative; jan; Janaloka; person; jana
+    \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
+------------------------------------------------------------------------
+- *mamasatyeṣv* ← *mamasatyeṣu* ← *mamasatya*
+- \[noun\], locative, plural, neuter
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *saṃtasthānā* ← *saṃtasthānāḥ* ← *saṃsthā* ← *√sthā*
+- \[verb noun\], nominative, plural
+- “situate; stay; stand; die; get stale; inhere; dwell; end; happen.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *hvayante* ← *hvā*
+- \[verb\], plural, Present indikative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *samīke* ← *samīka*
+- \[noun\], locative, singular, neuter
+- “battle.”
+------------------------------------------------------------------------
+- *atrā* ← *atra*
+- \[adverb\]
+- “now; there; then; then; there; here; here; in the following;
+    alternatively; now.”
+------------------------------------------------------------------------
+- *yujaṃ* ← *yujam* ← *yuj*
+- \[noun\], accusative, singular, masculine
+- “ally; friend; pair; two; companion.”
+------------------------------------------------------------------------
+- *kṛṇute* ← *kṛ*
+- \[verb\], singular, Present indikative
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *yo* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *haviṣmān* ← *haviṣmat*
+- \[noun\], nominative, singular, masculine
+- “sacrificing.”
+------------------------------------------------------------------------
+- *nāsunvatā* ← *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *nāsunvatā* ← *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *nāsunvatā* ← *sunvatā* ← *su*
+- \[verb noun\], instrumental, singular
+- “press out; su.”
+------------------------------------------------------------------------
+- *sakhyaṃ* ← *sakhyam* ← *sakhya*
+- \[noun\], accusative, singular, neuter
+- “friendship; aid; company.”
+------------------------------------------------------------------------
+- *vaṣṭi* ← *vaś*
+- \[verb\], singular, Present indikative
+- “desire; agree; call; care; like; love.”
+------------------------------------------------------------------------
+- *śūraḥ* ← *śūra*
+- \[noun\], nominative, singular, masculine
+- “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
+    warrior; hero; attacker; lentil; wild boar; lion; dog.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **इन्द्र** **त्वां** **जनाः** **ममसत्येषु** संग्रामेषु **वि** **ह्वयन्ते** विविधमाह्वयन्ति साहाय्यार्थम् । एतदेव दर्शयति । **समीके** युद्धे **संतस्थानाः** सह तिष्ठन्तो जना वि ह्वयन्त इति । **अत्र** अस्मिन्नाह्वाने सः **शूरः** वीर इन्द्रः तं **युजं** सखायं **कृणुते** कुरुते **यो** **हविष्मान्** भवति । **असुन्वता** सोमाभिषवमकुर्वता पुरुषेण सह **सख्यं** सखित्वं **न** **वष्टि** न कामयते ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The people earnestly call upon you in battles, **Indra**, (they call upon you) when standing together inthe conflict; at this (call) Indra makes him his friend who offers oblations; the hero desires not friendship with himwho presents no libation.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+The peoples, taking their stand in conflict together, separately call upon  you in the struggle for “what’s mine.”  
+Whoever offers an oblation makes (you) his yokemate here: the  
+champion wants no fellowship with a non-presser.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Standing, in battle for their rights, together, the people, Indra, in the fray invoke thee.  
+     Him who brings gifts the Hero makes his comrade: with him who pours no juice he seeks not friendship.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Dich, Indra, rufen die Menschen im Kampfe, wann sie um das Eigentumsrecht aneinandergeraten sind, um die Wette. Da erwirbt sich der Opfernde einen Bundesgenossen; der Held wünscht keine Freundschaft mit dem, der nicht Soma auspreßt.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Dich, Indra, rufen hier und dort die Menschen, wenn sie im Kampf um Mein und Dein sich messen; Dann macht der Held den Opfrer sich zum Freunde, dem, der nicht keltert, will er nimmer Freund sein.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Люди призывают тебя, о Индра, с разных сторон,  
+Столкнувшись в борьбе за права собственности.  
+Тут обретает союзника тот, кто приносит жертвы.  
+Герой не хочет дружбы с не выжимающим (сому).
+</details>

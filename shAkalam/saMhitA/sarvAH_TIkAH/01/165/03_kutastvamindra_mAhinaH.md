@@ -1,0 +1,180 @@
++++
+title = "003"
+devataa = "मरुत्वानिन्द्रः"
+RShiH = "मरुतः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+कु꣡तस् तुव꣡म् इन्दर+ मा꣡हिनः स꣡न्न्  
+ए꣡को यासि सत्पते किं꣡ त इत्था꣡  
+स꣡म् पृछसे समराणः꣡ शुभानइ꣡र्  
+वोचे꣡स् त꣡न् नो हरिवो य꣡त् ते अस्मे꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic on metrical evidence alone
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+कुतः॑ । त्वम् । इ॒न्द्र॒ । माहि॑नः । सन् । एकः॑ । या॒सि॒ । स॒त्ऽप॒ते॒ । किम् । ते॒ । इ॒त्था ।  
+सम् । पृ॒च्छ॒से॒ । स॒म्ऽअ॒रा॒णः । शु॒भा॒नैः । वो॒चेः । तत् । नः॒ । ह॒रि॒ऽवः॒ । यत् । ते॒ । अ॒स्मे इति॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *kutas*
+- \[adverb\]
+- “how; whence; why.”
+------------------------------------------------------------------------
+- *tvam* ← *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *māhinaḥ* ← *māhina*
+- \[noun\], nominative, singular, masculine
+- “mighty; large.”
+------------------------------------------------------------------------
+- *sann* ← *san* ← *as*
+- \[verb noun\], nominative, singular
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *eko* ← *ekaḥ* ← *eka*
+- \[noun\], nominative, singular, masculine
+- “one; single(a); alone(p); some(a); single(a); eka \[word\];
+    alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
+    consistent; any(a); undifferentiated; disjunct.”
+------------------------------------------------------------------------
+- *yāsi* ← *yā*
+- \[verb\], singular, Present indikative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *satpate* ← *satpati*
+- \[noun\], vocative, singular, masculine
+- “Indra.”
+------------------------------------------------------------------------
+- *kiṃ* ← *kim* ← *ka*
+- \[noun\], nominative, singular, neuter
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *ta* ← *te* ← *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *itthā*
+- \[adverb\]
+- “thus; here.”
+------------------------------------------------------------------------
+- *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *pṛcchase* ← *pracch*
+- \[verb\], singular, Present indikative
+- “ask; ask; ask; consult; interrogate.”
+------------------------------------------------------------------------
+- *samarāṇaḥ* ← *samṛch* ← *√ṛch*
+- \[verb noun\], nominative, singular
+- “collapse.”
+------------------------------------------------------------------------
+- *śubhānair* ← *śubhānaiḥ* ← *śubhāna*
+- \[noun\], instrumental, plural, masculine
+------------------------------------------------------------------------
+- *voces* ← *voceḥ* ← *vac*
+- \[verb\], singular, Aorist optative
+- “say; describe; name; tell; address; enumerate; call; state; teach;
+    explain; say; declare; speak; define; declare; order; address;
+    recommend; answer; deem; recite; approve; proclaim; indicate;
+    determine; mention; designate.”
+------------------------------------------------------------------------
+- *tan* ← *tat* ← *tad*
+- \[noun\], accusative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *harivo* ← *harivas* ← *harivat*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------
+- *yat* ← *yad*
+- \[noun\], nominative, singular, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *te* ← *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *asme* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **इन्द्र** **सत्पते** सतां पालक **त्वं** **माहिनः** महनीयः पूजनीयः अनुचरैरनुगन्तव्य इत्यर्थः । तथाभूतः **सन्** अपि **एकः** असहायः सन् **कुतः** **यासि** कुतः कारणाद्यासि । यद्वा । कुत्र यासि । **ते** तव **इत्था** इत्थं **किम्** । किं त्वमेवमेव किं न कोऽप्यनुचरोऽस्ति । किंच त्वं **समराणः** अस्माभिः संगच्छमानः **सं** **पृच्छसे** समीचीनं पृच्छसि । हे **हरिवः** हरिभ्यां तद्वन्निन्द्र **ते** तव **अस्मे** अस्मासु **यत्** वक्तुमिष्टतममस्ति **तत्** **नः** अस्मभ्यं **शुभानैः** शोभमानैर्वचनैः **वोचेः** ब्रूहि ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“(The **Maruts**): **Indra**, lord of the good, whither do you, who are entitled to honour, proceed alone; what means this (absence of attendance); when followed (by us), you require (what is right); lord of fleet horses say to us, with plural asant words, that which you (have to say) to us.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+You require what is right: sampṛcchase = samīcīnam pṛccase
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+[Leader of the Maruts:] Why do you travel alone, Indra, although you  are great, o lord of the settlements? Is this proper for you?  
+Confronting us, are you going to negotiate with us beautiful ones? You  should tell us what you have for us, o master of the fallow bays.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Whence comest thou alone, thou who art mighty, Indra, Lord of the Brave? What is thy purpose?  
+     Thou greetest us when meeting us the Bright Ones. Lord of Bay Steeds, say what thou hast against us.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Woher kommst du, Indra, allein, der du doch ein Mächtiger bist, du rechtmäßiger Herr? Was hast du dabei für Absicht? Du willst mit uns paktieren, da du mit den Geputzten zusammengetroffen bist. Sag du uns das, o Falbenlenker, was du für uns hast.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+»Warum, o Indra, sonst dich gross erweisend, fährst du allein, o Herr, was liegt im Sinn dir? Wenn du uns prächt'ge triffst, so plauderst gern du? so sprich, was hast du wider uns, o Rossherr?«
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Откуда ты, Индра? Хоть ты и могучий,  
+А идешь один, о господин сущего. Что ж это у тебя так?  
+Хочешь поговорить, встретившись с (нами,) разукрашенными,  
+Так скажи нам, о господин буланых коней: какое (дело) у тебя к нам?  
+Индра:
+</details>

@@ -1,0 +1,138 @@
++++
+title = "023"
+devataa = "इन्द्रः"
+RShiH = "वामदेवो गौतमः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+उत꣡ नूनं꣡ य꣡द् इन्द्रियं꣡  
+करिष्या꣡ इन्द्र पउं꣡सियम्  
+अद्या꣡ न꣡किष् ट꣡द् आ꣡ मिनत्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒त । नू॒नम् । यत् । इ॒न्द्रि॒यम् । क॒रि॒ष्याः । इ॒न्द्र॒ । पौंस्य॑म् ।  
+अ॒द्य । नकिः॑ । तत् । आ । मि॒न॒त् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *nūnaṃ* ← *nūnam*
+- \[adverb\]
+- “now; surely; immediately; just.”
+------------------------------------------------------------------------
+- *yad* ← *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *indriyaṃ* ← *indriyam* ← *indriya*
+- \[noun\], accusative, singular, neuter
+- “aindra.”
+------------------------------------------------------------------------
+- *kariṣyā* ← *kariṣyāḥ* ← *kṛ*
+- \[verb\], singular, Conditional
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *pauṃsyam* ← *pauṃsya*
+- \[noun\], accusative, singular, neuter
+- “manfulness; deed; army; strength.”
+------------------------------------------------------------------------
+- *adyā* ← *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+------------------------------------------------------------------------
+- *nakiṣ* ← *nakir*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *ṭad* ← *tat* ← *tad*
+- \[noun\], accusative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *minat* ← *mī*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “transgress; damage.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**उत** अपि च हे **इन्द्र** **यत्** **पौंस्यं** त्वदीयं बलम् **इन्द्रियं** सामर्थ्योपेतं **नूनं** **करिष्याः** कृतवानसि खलु । **अद्य** अद्यतनः कश्चित् **तत्** बलं **नकिः** **आ** **मिनत्** न हिंस्यात् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“When, indeed, **Indra**, you excite your vigorous manhood, there is no one at the present time who may resist it.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+And now what masculine deed worthy of Indra you will do, o Indra, that no one shall thwart today.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+Note the rare future subjunctive kariṣyā́(ḥ), otherwise found only in corrupted form in I.165.9; see comm. there, as well as Oldenberg on our passage.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Indra, whatever deed of might thou hast this day to execute,  
+     None be there now to hinder it.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Und auch jetzt noch, wenn du, Indra, eine indrawürdige Tat tun willst, so vereitelt dir diese heute keiner.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Und welche starke Indrathat du, Indra, noch vollbringen willst, Die hindre heute keiner dir.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+И если ты теперь захочешь совершить,  
+О Индра, некий подвиг мужества, достойный Индры,  
+Никто сегодня не помешает (тебе) в этом.
+</details>

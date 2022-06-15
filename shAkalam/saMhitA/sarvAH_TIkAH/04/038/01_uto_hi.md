@@ -1,0 +1,178 @@
++++
+title = "001"
+devataa = "द्यावापृथिव्यौ"
+RShiH = "वामदेवो गौतमः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+उतो꣡ हि꣡ वां दातरा꣡ स꣡न्ति पू꣡र्वा  
+या꣡ पूरु꣡भ्यस् त्रस꣡दस्युर् नितोशे꣡  
+क्षेत्रासां᳐꣡ ददथुर् उर्वरासां꣡  
+घनं꣡ द꣡स्युभ्यो अभि꣡भूतिम् उग्र꣡म्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒तो इति॑ । हि । वा॒म् । दा॒त्रा । सन्ति॑ । पूर्वा॑ । या । पू॒रुऽभ्यः॑ । त्र॒सद॑स्युः । नि॒ऽतो॒शे ।  
+क्षे॒त्र॒ऽसाम् । द॒द॒थुः॒ । उ॒र्व॒रा॒ऽसाम् । घ॒नम् । दस्यु॑ऽभ्यः । अ॒भिऽभू॑तिम् । उ॒ग्रम् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *uto* ← *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *uto* ← *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *vāṃ* ← *vām* ← *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *dātrā* ← *dātra*
+- \[noun\], nominative, plural, neuter
+- “sickle; gift; scythe.”
+------------------------------------------------------------------------
+- *santi* ← *as*
+- \[verb\], plural, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *pūrvā* ← *pūrva*
+- \[noun\], nominative, plural, neuter
+- “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
+    pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
+    firstborn; easterly; instrumental.”
+------------------------------------------------------------------------
+- *yā* ← *yad*
+- \[noun\], accusative, plural, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *pūrubhyas* ← *pūrubhyaḥ* ← *pūru*
+- \[noun\], dative, plural, masculine
+- “Pūru; Pūru.”
+------------------------------------------------------------------------
+- *trasadasyur* ← *trasadasyuḥ* ← *trasadasyu*
+- \[noun\], nominative, singular, masculine
+- “Trasadasyu.”
+------------------------------------------------------------------------
+- *nitośe* ← *nituś* ← *√tuś*
+- \[verb\], singular, Present indikative
+------------------------------------------------------------------------
+- *kṣetrāsāṃ* ← *kṣetrāsām* ← *kṣetrāsā*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *dadathur* ← *dadathuḥ* ← *dā*
+- \[verb\], dual, Perfect indicative
+- “give; add; perform; put; administer; fill into; give; ignite; put
+    on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
+    drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
+    splint; poultice; create.”
+------------------------------------------------------------------------
+- *urvarāsāṃ* ← *urvarā*
+- \[noun\], feminine
+- “field; Urvarā.”
+------------------------------------------------------------------------
+- *urvarāsāṃ* ← *sām* ← *sā*
+- \[noun\], accusative, singular, masculine
+- “winning.”
+------------------------------------------------------------------------
+- *ghanaṃ* ← *ghanam* ← *ghana*
+- \[noun\], accusative, singular, masculine
+- “abhra; cloud; hammer; ghana; hammer; rainy season; tin; iron; ghana
+    \[word\]; ghana; nutgrass; ball; phlegm.”
+------------------------------------------------------------------------
+- *dasyubhyo* ← *dasyubhyaḥ* ← *dasyu*
+- \[noun\], dative, plural, masculine
+- “savage; outcast; mugger.”
+------------------------------------------------------------------------
+- *abhibhūtim* ← *abhibhūti*
+- \[noun\], accusative, singular, masculine
+- “superior; overpowering.”
+------------------------------------------------------------------------
+- *ugram* ← *ugra*
+- \[noun\], accusative, singular, masculine
+- “powerful; awful; dangerous; intense; mighty; potent; colicky;
+    atrocious.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**उतो** इति पूरणः । अस्या द्यावापृथिव्यत्वादत्र तद्वाचकशब्दाभावेऽपि ते एव संबोद्धव्ये । हे द्यावापृथिव्यौ **वां** युवाभ्यां सकाशात् **दात्रा** दानकर्त्रा पौरुकुत्सेन त्रसदस्युना लब्धानि **पूर्वा** पूर्वाणि पुरातनानि पूरकाणि वा धनानि **सन्ति** । **या** यानि धनानि **पूरुभ्यः** अर्थिभ्यो मनुष्येभ्यः **त्रसदस्युः** राजा **नितोशे** न्यतोशत दत्तवान् । **क्षेत्रसाम्** । क्षेत्राणि सर्वा भूमीः सनोतीति क्षेत्रसाः अश्वः । तं **ददथुः** । तथा **उर्वरासाम्** । उर्वरा सर्वसस्याढ्या भूः । तां सनोतीत्युर्वरासाः पुत्रः । तं ददथुः। **घनं** हननार्हम् आयुधं **दस्युभ्यः** दस्यूनां वधार्थं च ददथुः । कीदृशमायुधम् । **अभिभूतिम्** अभिभवितारम् **उग्रम्** उद्गूर्णबलम् । यद्वा । उत्तरार्धमेकं वाक्यम् । दातव्यानि धनान्युक्तलक्षणं पुत्रं च ददथुः । दत्तवत्यौ स्थः । तानि मह्यमपि ददाथाम् इत्यर्थः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Trasadasyu** has bestowed upon many the ancient (gifts) which were obtained by the liberal (prince) through your (favour, Heaven and Earth) you two have given a horse, a son, a weapon (for the destruction) of the **Dasyus**, fierce and foe-subduing.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Heaven and earth: the dual pronoun, vām, of you two, implies heaven and earth; you two have given a horse, a son: kṣetrāsām : from **kṣetra**, land;
+
+Urvarāsām: **urvara**, fertile soil;
+
+San = to give
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+And since the earlier gifts were from you two [=Mitra and Varuṇa], the  ones that Trasadasyu was to send spilling down for the Pūrus,  
+you have (also) given the one [=horse] who wins dwelling places, who  wins meadows, a bane for the Dasyus, overwhelming, powerful.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+Although the Anukramaṇī takes Heaven and Earth to be the deity of this vs., the unidentified duals must rather refer to Mitra and Varuṇa, as also in vs. 2. This is clear from IV.39, where Mitra and Varuṇa give Dadhikrā to the Purus (2cd, 5cd).
+
+The published translation doesn’t accurately reflect sánti in pāda a. The tr. should read “Since there are earlier gifts …” The form nitośé is much disputed. Grassmann identifies it as a 3rd sg. to the thematic pres. tośate (otherwise unaccented), but not only is there a perfectly fine -te 3rd sg.
+
+(tośate 4x) while a t-less 3rd sg. would be anomalous, but given the full-grade we would expect root accent (*nitóśe). Oldenberg vacillates but displays a weak preference for a 3rd sg. unreduplicated perfect, and Geldner, who does not comment, appears to follow him (“… ausgeschüttet hat”). Despite this scholarly pedigree, this solution appears to me to have little to recommend it: non-reduplicated perfects are quite rare. Gotō (1st Kl, 167-68) also vacillates: if it’s a verb it’s a non-redupl. pf. Or it might be the loc. of a noun nitośá-; this appears to be the view represented in Witzel Gotō. There does exist a them. noun tośá-. Renou also tentatively suggests a locative but “à nuance semiinfinitive,” tr. “pour être déversées.” I find Renou’s interpr. appealing, though, as often, somewhat cavalier about grammar. I would like to take the form directly as a dative root noun in infinitival usage, but we should probably expect *nituśé. It may have been adjusted to match the grade of tośá-, or the loc. ending -é of the them. noun may have been reinterpr. as a purpose dative. One might expect the hapax naitośá- to provide some help, but it is only found in the impenetrable Aśvin hymn X.106.6, which appears to be written in code. In any event, the point of the hemistich seems to be that Mitra and Varuṇa provided gifts to Trasadasyu, who then redistributed them to his subjects the Purus in an appropriately kingly way.
+</details>
+
+<details><summary>+Griffith</summary>
+
+FROM you two came the gifts in days aforetime which Trasadasyu granted to the Purus.  
+     Ye gave the winner of our fields and plough-lands, and the strong smiter who subdued the Dasytis.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Von euch stammen ja auch die früheren Gaben, die Trasadasyu über die Puru´s ausgeschüttet hat. Ihr beide habt den landgewinnenden, feldgewinnenden Trasadasyu geschenkt, den Hammer für die Dasyu´s, den überlegenen, gewaltigen.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Ihr beide gabt ja einst die alten Gaben, die Trasadasju dann verlieh den Menschen, Ihr gabet den, der Fluren schenkt und Felder, den Feindetilger, den gewalt'gen Sieger.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+И прежние дары исходили ведь от вас двоих –  
+(Те,) что Трасадасью (получил,) чтобы осыпать людей пуру.  
+Вы даровали завоевателя земель, завоевателя полей,  
+Молот для дасью, грозного покорителя.
+</details>

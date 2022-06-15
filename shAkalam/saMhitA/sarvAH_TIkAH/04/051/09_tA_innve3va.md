@@ -1,0 +1,162 @@
++++
+title = "009"
+devataa = "उषाः"
+RShiH = "वामदेवो गौतमः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+ता꣡ इ꣡न् नु꣡ एव꣡ समना꣡ समानी꣡र्  
+अ꣡मीतवर्णा उष꣡सश् चरन्ति  
+गू꣡हन्तीर् अ꣡भ्वम् अ꣡सितं रु꣡शद्भिः  
+शुक्रा꣡स् तनू꣡भिः शु꣡चयो रुचानाः꣡
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+ताः । इत् । नु । ए॒व । स॒म॒ना । स॒मा॒नीः । अमी॑तऽवर्णाः । उ॒षसः॑ । च॒र॒न्ति॒ ।  
+गूह॑न्तीः । अभ्व॑म् । असि॑तम् । रुश॑त्ऽभिः । शु॒क्राः । त॒नूभिः॑ । शुच॑यः । रु॒चा॒नाः ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *tā* ← *tāḥ* ← *tad*
+- \[noun\], nominative, plural, feminine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *in* ← *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *nv* ← *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *eva*
+- \[adverb\]
+- “indeed; merely; thus; even; surely; same; eva \[word\];
+    successively; immediately; in truth.”
+------------------------------------------------------------------------
+- *samanā*
+- \[adverb\]
+------------------------------------------------------------------------
+- *samānīr* ← *samānīḥ* ← *samāna*
+- \[noun\], nominative, plural, feminine
+- “like; identical; common; like; alike(p); same; samāna \[word\];
+    akin(p); comparable; identical; mutual; equal.”
+------------------------------------------------------------------------
+- *amītavarṇā* ← *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *amītavarṇā* ← *mīta* ← *mī*
+- \[verb noun\]
+- “transgress; damage.”
+------------------------------------------------------------------------
+- *amītavarṇā* ← *varṇāḥ* ← *varṇa*
+- \[noun\], nominative, plural, feminine
+- “color; caste; complexion; vowel; varṇa \[word\]; vowel; syllable;
+    appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
+------------------------------------------------------------------------
+- *uṣasaś* ← *uṣasaḥ* ← *uṣas*
+- \[noun\], nominative, plural, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *caranti* ← *car*
+- \[verb\], plural, Present indikative
+- “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
+    observe; enter (a state); observe; cause; crop; behave; practice;
+    heed; process; administer.”
+------------------------------------------------------------------------
+- *gūhantīr* ← *gūhantīḥ* ← *guh*
+- \[verb noun\], nominative, plural
+- “hide; cover; conceal; shroud; obscure.”
+------------------------------------------------------------------------
+- *abhvam* ← *abhva*
+- \[noun\], accusative, singular, neuter
+- “monstrosity; nothingness; void; force.”
+------------------------------------------------------------------------
+- *asitaṃ* ← *asitam* ← *asita*
+- \[noun\], accusative, singular, neuter
+- “black; dark; dark; black.”
+------------------------------------------------------------------------
+- *ruśadbhiḥ* ← *ruśat*
+- \[noun\], instrumental, plural, feminine
+- “white; bright; bright.”
+------------------------------------------------------------------------
+- *śukrās* ← *śukrāḥ* ← *śukra*
+- \[noun\], nominative, plural, feminine
+- “bright; clear; white; light; pure.”
+------------------------------------------------------------------------
+- *tanūbhiḥ* ← *tanū*
+- \[noun\], instrumental, plural, feminine
+- “body; self; own(a); person; form.”
+------------------------------------------------------------------------
+- *śucayo* ← *śucayaḥ* ← *śuci*
+- \[noun\], nominative, plural, feminine
+- “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
+    impeccant.”
+------------------------------------------------------------------------
+- *rucānāḥ* ← *ruc*
+- \[verb noun\], nominative, plural
+- “please; shine.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**ता:** **एव** उषसः । इदिति पूरणः । **नु** अद्य **समना** समानाः एकधेत्यर्थः । **समानीः** एकरूपाः अमीतवर्णाः अहिंसितवर्णाः अपरिमितवर्णा वा **उषसश्चरन्ति** सर्वतः । किं कुर्वत्यः । **अभ्वम्** । महन्नामैतत् । अतिमहत् **असितं** कृष्णं रूपं **गूहन्तीः** गोपयन्त्यः **रुशद्भिः** रोचमानैः **तनूभिः** स्वशरीरैः **शुक्राः** दीप्ताः **शुचयः** शुद्धाः **रुचानाः** रोचमाना रोचयन्त्यो वा ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Those Dawns proceed verily all alike, of similar form, of infinite hues, pure, bright, illumining, concealing by their radiant person ns the very great gloom.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Just these now—the same ones in the same way—with immutable  colors, the Dawns proceed,  
+hiding the black void with their bright (colors), glistening, gleaming,  shining with their own bodies.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Thus they go forth with undiminished colours, these Mornings similar, in self-same fashion,  
+     Concealing the gigantic might of darkness with radiant bodies bright and pure and shining.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Dieselben Usas´ wandeln in gleicher Weise sich gleichend mit unveränderter Farbe, indem sie das schwarze Ungeheuer mit ihren hellen Farben beseitigen, die hellen, am Leibe reinen, glänzenden.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+So wandern sie auf gleiche Art, sich ähnlich, die Morgenröthen, nicht die Farbe wechselnd, Das grause Dunkel durch die Strahlen bergend, an Leibern strahlend, schimmernd hell und glänzend.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Те же самые зори так же  
+Движутся, (они,) неизменного цвета,  
+Прячущие черную бесформенность (своими) светлыми  
+Телами, сверкающие, блистательные.
+</details>

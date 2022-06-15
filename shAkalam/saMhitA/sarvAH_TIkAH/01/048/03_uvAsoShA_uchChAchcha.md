@@ -1,0 +1,157 @@
++++
+title = "003"
+devataa = "उषाः"
+RShiH = "प्रस्कण्वः काण्वः"
+ChandaH = "बृहती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+उवा꣡सोषा꣡ उछा꣡च् च नु꣡  
+देवी꣡ जीरा꣡ र꣡थाना᳐म्  
+ये꣡ अस्या · आच꣡रणेषु दध्रिरे꣡  
+समुद्रे꣡ न꣡ श्रवस्य꣡वः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Strophic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒वास॑ । उ॒षाः । उ॒च्छात् । च॒ । नु । दे॒वी । जी॒रा । रथा॑नाम् ।  
+ये । अ॒स्याः॒ । आ॒ऽचर॑णेषु । द॒ध्रि॒रे । स॒मु॒द्रे । न । श्र॒व॒स्यवः॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *uvāsoṣā* ← *uvāsa* ← *vas*
+- \[verb\], singular, Perfect indicative
+- “dawn; shine.”
+------------------------------------------------------------------------
+- *uvāsoṣā* ← *uṣāḥ* ← *uṣas*
+- \[noun\], nominative, singular, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *ucchāc* ← *ucchāt* ← *vas*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “dawn; shine.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *devī*
+- \[noun\], nominative, singular, feminine
+- “Parvati; queen; goddess; Devi.”
+------------------------------------------------------------------------
+- *jīrā* ← *jīra*
+- \[noun\], nominative, singular, feminine
+- “agile; quick; fast.”
+------------------------------------------------------------------------
+- *rathānām* ← *ratha*
+- \[noun\], genitive, plural, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *ye* ← *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *asyā* ← *asyāḥ* ← *idam*
+- \[noun\], genitive, singular, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *ācaraṇeṣu* ← *ācaraṇa*
+- \[noun\], locative, plural, neuter
+- “action; practice; behavior; performance.”
+------------------------------------------------------------------------
+- *dadhrire* ← *dhṛ*
+- \[verb\], plural, Perfect indicative
+- “keep; put; hold; assume; wear; take; promise; stay; exist; hold;
+    begin; dip.”
+------------------------------------------------------------------------
+- *samudre* ← *samudra*
+- \[noun\], locative, singular, masculine
+- “ocean; Samudra; sea; samudra \[word\]; four.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *śravasyavaḥ* ← *śravasyu*
+- \[noun\], nominative, plural, masculine
+- “celebrated.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**उषाः** **देवी** **उवास** पुरा निवासमकरोत् प्रभातं कृतवतीत्यर्थः । **च** **नु** अद्यापि **उच्छात्** व्युच्छति प्रभातं करोति । कीदृशी देवी । **रथानां** **जीरा** प्रेरयित्री उषःकाले हि रथाः प्रेर्यन्ते । **अस्याः** उषसः **आचरणेषु** आगमनेषु **ये** रथाः **दध्रिरे** धृताः सज्जीकृता भवन्ति तेषां रथानामिति पूर्वत्रान्वयः । रथप्रेरणे दृष्टान्तः । **श्रवस्यवः** धनकामाः **समुद्रे** **न** यथा समुद्रमध्ये नावः सज्जीकृत्य प्रेरयन्ति तद्वत् ॥ उवास। ‘वस निवासे । णलि  ‘ लिट्यभ्यासस्योभयेषाम् ' (पा. सू. ६. १. १७ ) इति अभ्यासस्य संप्रसारणम् । लित्स्वरेण प्रत्ययात् पूर्वस्योदात्तत्वम् । उच्छात् । लेटि आडागमः ।  ‘ इतश्च लोप: ' इति इकारलोपः । तुदादित्वात् शप्रत्ययः । आगमानुदात्तत्वे प्रत्ययस्वरः । उषाः इत्यस्य वाक्यान्तरगतत्वात् तदपेक्षयास्य निघातो न भवति,  ‘ समानवाक्ये निघातयुष्मदस्मदादेशा वक्तव्याः ' ( पा. सू. ८. १. १८. ५) इति वचनात् । जीरा । जु इतिं गत्यर्थः सौत्रो धातुः ।  ‘ जोरी च ' ( उ. सू. २. १८१ ) इति रक्प्रत्ययः । अस्याः । इदमोऽन्वादेशे॰ ' इति अशादेशोऽनुदात्तः विभक्तिरपि सुप्त्वादनुदात्तेति सर्वानुदात्तत्वम्। आचरणेषु । चर गत्यर्थः ।  ‘ ल्युट् च ' (पा. सू. ३. ३. ११५ ) इति भावे ल्युट् । लित्स्वरेण प्रत्ययात् पूर्वस्योदात्तत्वम् । कृदुत्तरपदप्रकृति स्वरत्वम्। दध्रिरे । 'धृङ् अवस्थाने '। लिटः कित्त्वाद्गुणाभावे यणादेशः । चित्त्वादन्तोदात्तत्वम् । यच्छब्दयोगादनिघातः । श्रवस्यवः । श्रूयते इति श्रवो धनम् । असुन्। तदात्मन इच्छन्तीति श्रवस्यवः ।  ‘ सुप आत्मनः क्यच् । क्याच्छन्दसि ' इति उप्रत्ययः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The divine Uṣas has dwelt (in heaven of old); may she dawn today, the excitress of chariots which are harnessed at her coming, as those who are desirous of wealth (send ships) to sea.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Samudre na śravasyavaḥ = like those desirous of wealth for sea;
+
+Added: 'send ships'. uvāsa, uṣaḥ is explained: **purā** nivāsam akarot, she has made a dwelling formerly; an allusion to her producing the dawn, prabhātam kṛtavatī
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Dawn has dawned (before) and will dawn now—the lively goddess of the  chariots.  
+Those who hold themselves (ready [for giving]) at her approaches, as  those who seek fame on the sea hold themselves (firm),
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+Most tr. take jīrā́as agentive with an objective genitive (e.g., Geldner “die Wagen in Bewegung setzend”), but I think this unlikely because it would be the only such usage of jīrá-. (gó-jīra- in IX.110.3 is sometimes so interpreted [Geldner ‘die Kühe zutreibend’] but need not be.) Although not taking jīrā́as transitive leaves ráthānām without any clear governing word, that seems preferable to claiming a unique value for jīrá- in this passage. That Dawn may be “the lady of the chariots” is also suggested by her hundred chariots in 7c.
+
+The referent of yé in c and the affiliation of that rel. cl. are disputed. Geldner takes the rel. pronoun as referring to the ráthānām of b. This has the merit of associating the rel. with an adjacent noun in the proper number and gender and keeping the relative clause syntactically confined to the verse in which it appears. However, it affords these chariots more agency and significance than I think they deserve. Instead, the rel. cl. of cd seems to group more naturally with the identically structured yé clause in 4ab, which also has a 3rd pl. presential reflexive verb preceded by a loc. pl.
+
+and also contains a genitive referrring to Dawn. The two clauses also begin with a metrically irregular 11-syllable pāda with a rest right before the caesura, an irregularity that also speaks for their association. This pair of relative clauses is resolved by the main clause in 4cd. Such an enjambed structure is characteristic of pragāthas. (Renou also take the two verses this way.) Then there is the question of the meaning of dadhriré. It belongs to the root √dhṛ ‘hold, support’, and in this (rare) middle usage seems to have reflexive value ‘hold oneself’/‘hold oneself fast’, with the possible pregnant sense ‘hold oneself ready’ (so Renou, Witzel Gotō, Geldner n.). I take it as having slightly different meanings in simile and frame (a favored poetic strategy of Vedic bards). In the simile it depicts sailors (or some sort of boatsmen) standing firm against the rigors of the voyage, whereas in the frame the subjects (who are identified in the parallel rel. clause of 4ab as patrons) hold themselves ready to give, an action that is also the topic of that parallel rel.
+
+clause. In fact, one could almost construe (or supply) the dānā́ya of 4b with dadhriré as well as with its own clause.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Usas hath dawned, and now shall dawn, the Goddess, driver forth of cars  
+     Which, as she cometh nigh, have fixed their thought on her, like glory-seekers on the flood.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Usas ist früher aufgeleuchtet und die Göttin wird auch jetzt aufleuchten, die Wagen in Bewegung setzend, die auf ihr Kommen gewartet haben wie die auf Ruhmestaten ausgehenden Seefahrer auf die Meeresflut.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Sie hat gestrahlt und strahle nun, die Morgengöttin, Treiberin Der Wagen, die die Bahn verfolgen, wenn sie naht, wie Schatzbegier'ge auf dem Meer.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Ушас светила (всегда), и теперь она будет светить,  
+Богиня – вдохновительница колесниц,  
+Которые держались наготове к ее приходам,  
+Как жаждущие добычи (мореходы) – (к выходу) в море.
+</details>

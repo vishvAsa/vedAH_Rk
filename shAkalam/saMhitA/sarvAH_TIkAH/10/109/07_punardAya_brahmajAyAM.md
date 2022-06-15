@@ -1,0 +1,139 @@
++++
+title = "007"
+devataa = "विश्वेदेवाः"
+RShiH = "जुहूर्ब्रह्मजायोर्ध्वनाभा वा ब्राह्मः"
+ChandaH = "अनुष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+पुनर्दा꣡य ब्रह्मजायां꣡  
+कृत्वी꣡ देवइ꣡र् निकिल्बिष꣡म्  
+ऊ꣡र्जम् पृथिव्या꣡ भक्त्वा꣡य  
+उरुगाय꣡म् उ꣡पासते
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)  
+popular;; epic anuṣṭubh (424)
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+पु॒नः॒ऽदाय॑ । ब्र॒ह्म॒ऽजा॒याम् । कृ॒त्वी । दे॒वैः । नि॒ऽकि॒ल्बि॒षम् ।  
+ऊर्ज॑म् । पृ॒थि॒व्याः । भ॒क्त्वाय॑ । उ॒रु॒ऽगा॒यम् । उप॑ । आ॒स॒ते॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *punardāya* ← *punar*
+- \[adverb\]
+- “again; further; now; over and over; subsequently; repeatedly;
+    however; besides.”
+------------------------------------------------------------------------
+- *punardāya* ← *dāya* ← *dā*
+- \[verb noun\]
+- “give; add; perform; put; administer; fill into; give; ignite; put
+    on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
+    drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
+    splint; poultice; create.”
+------------------------------------------------------------------------
+- *brahmajāyāṃ* ← *brahma* ← *brahman*
+- \[noun\], masculine
+- “Brahma; Brahmin; dhak; Brahman; brahman \[word\]; Brahman; Brahmin;
+    Brahmapurāṇa; Vishnu; Brihaspati.”
+------------------------------------------------------------------------
+- *brahmajāyāṃ* ← *jāyām* ← *jāyā*
+- \[noun\], accusative, singular, feminine
+- “wife; jāyā \[word\].”
+------------------------------------------------------------------------
+- *kṛtvī* ← *kṛ*
+- \[verb noun\]
+- “make; perform; cause; produce; shape; construct; do; put; fill
+    into; use; fuel; transform; bore; act; write; create; prepare;
+    administer; dig; prepare; treat; take effect; add; trace; put on;
+    process; treat; heed; hire; act; produce; assume; eat; ignite; chop;
+    treat; obey; manufacture; appoint; evacuate; choose; understand;
+    insert; happen; envelop; weigh; observe; practice; lend; bring;
+    duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
+    utter; compose.”
+------------------------------------------------------------------------
+- *devair* ← *devaiḥ* ← *deva*
+- \[noun\], instrumental, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *nikilbiṣam* ← *nikilbiṣa*
+- \[noun\], accusative, singular, neuter
+------------------------------------------------------------------------
+- *ūrjam* ← *ūrj*
+- \[noun\], accusative, singular, feminine
+- “strength; refreshment; vigor; food; strengthening.”
+------------------------------------------------------------------------
+- *pṛthivyā* ← *pṛthivyāḥ* ← *pṛthivī*
+- \[noun\], genitive, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+------------------------------------------------------------------------
+- *bhaktvāyorugāyam* ← *bhaktvāya* ← *bhaj*
+- \[verb noun\]
+- “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
+    one's share; partake; share; get; approach; love; use.”
+------------------------------------------------------------------------
+- *bhaktvāyorugāyam* ← *urugāyam* ← *urugāya*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *upāsate* ← *upās* ← *√ās*
+- \[verb\], singular, Present indikative
+- “worship; attend; serve; get; approach; obtain; perform; expect.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+देवैः। सुपां सुपो भवन्तीति जसस्तृतीयादेशः। देवा निकिल्बिशं अर्थाभावेऽव्ययीभावः। समासस्वरः। तस्याः किल्बिशाभावं कृत्वी। स्नात्व्यादयश्चेति निपातितः। क्रुत्वा ब्रह्मजायां ब्रह्मणो ब्रुहस्पतेर्भार्यां पुनर्दाय पुनर्दत्वा। पुनश्चनसोश्छन्दसि गतिसञ्ज्ञा वक्तव्येति। पा. १-४-६०-२। पुनः शब्दस्य गतिसञ्ज्ञायां समासल्यपौ। न ल्यपि। पा. ६-४-६९। इतीत्वप्रतिषेधः। क्रुदुत्तरपदप्रकृतिस्वरत्वम् । प्रुथिव्या ऊर्जं रसभूतमन्नं हवीरूपम् भक्त्वाय। क्त्वो यक्। पा. ७-१-४७। इति यगागमः। भक्त्वा विभज्योरुगायम् बहुकीर्तिं बहुभिः स्तोतव्यं वा बार्हस्पत्यं यज्ञमुपासते। सेवन्ते॥७॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The gods having given back **Brahmā**'s wife, and made her free from sin, having partaken of the foodof the earth, sat down to (the sacrifice of) the widely hymned **Bṛhaspati**.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Having given back the Brahmin’s wife, having made expiation of offense  along with the gods,  
+having shared in the nourishment of the earth, they reverently approach  wide-ranging (space).
+</details>
+
+<details><summary>+Griffith</summary>
+
+Having restored the Brahman's wife, and freed them, with Gods' aid, from sin,  
+     They shared the fulness of the earth, and won themselves extended sway.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Nachdem sie des Brahmanen Weib zurückgegeben und durch die Götter Entsühnung erwirkt und das Mark der Erde genossen haben, machen sie dem weitschreitenden Vishnu ihre Aufwartung.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Wenn sie des Brahmanen Gattin zurückgegeben und durch die Götter ihre Entsündigung bewirkt haben, so gelangen sie, die Nahrung der Erde empfangend, zu weiter Herrschaft.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Отдав обратно жену брахмана  
+(И) с помощью богов совершив искупление греха,  
+Вкусив питательную силу земли,  
+Они приобщаются к широкому простору для движения.
+</details>

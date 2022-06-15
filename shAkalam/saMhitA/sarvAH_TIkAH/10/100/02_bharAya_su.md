@@ -1,0 +1,162 @@
++++
+title = "002"
+devataa = "विश्वेदेवाः"
+RShiH = "दुवस्युर्वान्दनः"
+ChandaH = "जगती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+भ꣡राय सु꣡ भरत भाग꣡म् ऋत्वि꣡यम्  
+प्र꣡ वाय꣡वे शुचिपे꣡ क्रन्द꣡दिष्टये  
+गौर꣡स्य यः꣡ प꣡यसः पीति꣡म् आनश꣡  
+आ꣡ सर्व꣡तातिम् अ꣡दितिं वृणीमहे
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+भरा॑य । सु । भ॒र॒त॒ । भा॒गम् । ऋ॒त्विय॑म् । प्र । वा॒यवे॑ । शु॒चि॒ऽपे । क्र॒न्दत्ऽइ॑ष्टये ।  
+गौ॒रस्य॑ । यः । पय॑सः । पी॒तिम् । आ॒न॒शे । आ । स॒र्वऽता॑तिम् । अदि॑तिम् । वृ॒णी॒म॒हे॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *bharāya* ← *bhara*
+- \[noun\], dative, singular, masculine
+- “battle; weight; foray; bhṛ; load.”
+------------------------------------------------------------------------
+- *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *bharata* ← *bhṛ*
+- \[verb\], plural, Present imperative
+- “bring; hold; fill; support; wear; possess; carry; nourish; keep;
+    hire; have; satiate; follow; bear.”
+------------------------------------------------------------------------
+- *bhāgam* ← *bhāga*
+- \[noun\], accusative, singular, masculine
+- “part; part; part; parcel; quarter; body part; location; region;
+    allotment; part; numerator; division; application; function;
+    outside; bhāga \[word\]; volume; helping.”
+------------------------------------------------------------------------
+- *ṛtviyam* ← *ṛtviya*
+- \[noun\], accusative, singular, masculine
+- “regular; punctual; timely.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *vāyave* ← *vāyu*
+- \[noun\], dative, singular, masculine
+- “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
+    draft; vāyu \[word\]; Vāyu; Marut.”
+------------------------------------------------------------------------
+- *śucipe* ← *śuci*
+- \[noun\]
+- “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
+    impeccant.”
+------------------------------------------------------------------------
+- *śucipe* ← *pe* ← *pā*
+- \[noun\], dative, singular, masculine
+- “drinking.”
+------------------------------------------------------------------------
+- *krandadiṣṭaye* ← *krandat* ← *krand*
+- \[verb noun\]
+- “roar; neigh; cry; howl; shout.”
+------------------------------------------------------------------------
+- *krandadiṣṭaye* ← *iṣṭaye* ← *iṣṭi*
+- \[noun\], dative, singular, masculine
+- “seeking.”
+------------------------------------------------------------------------
+- *gaurasya* ← *gaura*
+- \[noun\], genitive, singular, neuter
+- “white; light; gaura \[word\]; yellow.”
+------------------------------------------------------------------------
+- *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *payasaḥ* ← *payas*
+- \[noun\], genitive, singular, neuter
+- “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
+------------------------------------------------------------------------
+- *pītim* ← *pīti*
+- \[noun\], accusative, singular, feminine
+- “drinking; haritāla.”
+------------------------------------------------------------------------
+- *ānaśa* ← *ānaśe* ← *aś*
+- \[verb\], singular, Perfect indicative
+- “get; reach; enter (a state).”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *sarvatātim* ← *sarvatāti*
+- \[noun\], accusative, singular, feminine
+- “completeness; prosperity; sum.”
+------------------------------------------------------------------------
+- *aditiṃ* ← *aditim* ← *aditi*
+- \[noun\], accusative, singular, feminine
+- “Aditi; aditi \[word\].”
+------------------------------------------------------------------------
+- *vṛṇīmahe* ← *vṛ*
+- \[verb\], plural, Present indikative
+- “choose; ask.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**भराय** संग्रामकारिणे सर्वेषां पोषकाय वेन्द्राय **ऋत्वियं** काले जातं प्राप्तकालं **भागं** **सु** **भरत** सुष्ठु संपादयत हे ऋत्विजः । तथा **शुचिपे** शुद्धस्य सोमस्य पात्रे क्रन्ददिष्टये शब्दितगमनाय । वायोः शीघ्रगमने हि शब्दः प्रत्यक्षः । तादृशाय **वायवे** **देवाय** **प्र** भरत भगमिति शेषः । **यः** देवः **गौरस्य** गौरवर्णस्य पशोः **पयसः** **पीतिं** पानम् **आनशे** प्राप्नोति तस्मै वायवे । शिष्टमुक्तम् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Offer to (**Indra**) the cherisher (of all) the share suited to the season; (offer it) to **Vāyu**, the drinker ofthe pure (**Soma**), who clamours as he travels, who obtains a draught of white milk; we long for the universal **Aditi**.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Bring forward for the taking a portion at the proper time, for Vāyu who  drinks the pure soma, roaring in his quest,  
+who has attained the drinking of the gleaming milk. – We choose  
+wholeness and innocence.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Bring swift, for offering, the snare that suits the time, to the pure-drinker Vayu, roaring as he goes,  
+     To him who hath approached the draught of shining milk. We ask for freedom and complete felicity.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Bringet fein, um aufzutragen, rechtzeitig dem Vayu seinen Anteil dar, der den reinen Soma trinkt, der den brausenden Soma wünscht, der das Recht auf den Trunk der gelblichen Milch erlangt hat! - Wir erbitten Vollkommenheit von der Aditi.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Als Gabe bringet rasch den Theil, der ihm gebührt, dem Vaju dar, der reines trinkt, der brausend eilt, Der zu dem Trunk der gelben Milch gekommen ist; für uns erflehn wir unvergänglich Wohlergehn.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

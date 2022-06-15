@@ -1,0 +1,126 @@
++++
+title = "004"
+devataa = "पवमानः सोमः"
+RShiH = "अवत्सारः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+स꣡ नो वि꣡श्वा दिवो꣡ व꣡सु  
+उतो꣡ पृथिविया꣡ अ꣡धि  
+पुनान꣡ इन्दव् आ꣡ भर
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सः । नः॒ । विश्वा॑ । दि॒वः । वसु॑ । उ॒तो इति॑ । पृ॒थि॒व्याः । अधि॑ ।  
+पु॒ना॒नः । इ॒न्दो॒ इति॑ । आ । भ॒र॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *no* ← *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *viśvā* ← *viśva*
+- \[noun\], accusative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *divo* ← *divaḥ* ← *div*
+- \[noun\], ablative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *vasūto* ← *\_* ← *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *pṛthivyā* ← *pṛthivyāḥ* ← *pṛthivī*
+- \[noun\], ablative, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+------------------------------------------------------------------------
+- *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+------------------------------------------------------------------------
+- *punāna* ← *punānaḥ* ← *pū*
+- \[verb noun\], nominative, singular
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *indav* ← *indo* ← *indu*
+- \[noun\], vocative, singular, masculine
+- “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
+    juice.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *bhara* ← *bhṛ*
+- \[verb\], singular, Present imperative
+- “bring; hold; fill; support; wear; possess; carry; nourish; keep;
+    hire; have; satiate; follow; bear.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे **इन्दो** सोम **सः** अभिषुतः **पुनानः** पबमानस्त्वं **दिवः** **अधि** दिवि स्थितानि **उतो** अपि च **पृथिव्या** अधि पृथिव्यां स्थितानि । अधीति सप्तम्यार्थानुवादः । **विश्वा** विश्वानि **वसु** वसूनि **नः** अस्मभ्यम् **आ** **भर** आहर ॥ ॥ १४ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Indu**, when you are purified, bring us all the treasures that are in heaven and upon earth.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+All goods from heaven and from the earth  
+bring hither to us, while being purified, o drop.  
+1280 IX.58–59
+</details>
+
+<details><summary>+Griffith</summary>
+
+So bring thou hitherward to us, Indu, while thou art purified,  
+     All treasures both of heaven and earth.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Bring uns, o Saft, wenn du dich läuterst, alle Schätze vom Himmel und von der Erde her!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+So bringe alle Güter uns vom Himmel und der Erde her, O Indu, hell erstrahlender!
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Все блага с неба,  
+А также с земли  
+Принеси нам, о капля, очищаясь!
+</details>

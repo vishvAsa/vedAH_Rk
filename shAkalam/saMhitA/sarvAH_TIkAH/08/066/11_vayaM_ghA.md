@@ -1,0 +1,141 @@
++++
+title = "011"
+devataa = "इन्द्रः"
+RShiH = "कलिः प्रगाथः"
+ChandaH = "बृहती"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+वयं꣡ घा ते अ꣡पूर्विय  
+इ꣡न्द्र ब्र꣡ह्माणि वृत्रहन्  
+पुरूत꣡मासः पुरुहूत वज्रिवो  
+भृतिं꣡ न꣡ प्र꣡ भरामसि
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Archaic
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+व॒यम् । घ॒ । ते॒ । अपू॑र्व्या । इन्द्र॑ । ब्रह्मा॑णि । वृ॒त्र॒ऽह॒न् ।  
+पु॒रु॒ऽतमा॑सः । पु॒रु॒ऽहू॒त॒ । व॒ज्रि॒ऽवः॒ । भृ॒तिम् । न । प्र । भ॒रा॒म॒सि॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *vayaṃ* ← *vayam* ← *mad*
+- \[noun\], nominative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *ghā* ← *gha*
+- \[adverb\]
+------------------------------------------------------------------------
+- *te* ← *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *apūrvyendra* ← *apūrvya*
+- \[noun\], vocative, singular, masculine
+- “incomparable.”
+------------------------------------------------------------------------
+- *apūrvyendra* ← *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *brahmāṇi* ← *brahman*
+- \[noun\], accusative, plural, neuter
+- “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
+    emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
+------------------------------------------------------------------------
+- *vṛtrahan*
+- \[noun\], vocative, singular, masculine
+- “Indra.”
+------------------------------------------------------------------------
+- *purūtamāsaḥ* ← *purutama*
+- \[noun\], nominative, plural, masculine
+- “most(a).”
+------------------------------------------------------------------------
+- *puruhūta*
+- \[noun\], vocative, singular, masculine
+- “Indra; Vishnu.”
+------------------------------------------------------------------------
+- *vajrivo* ← *vajrivas* ← *vajrivat*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------
+- *bhṛtiṃ* ← *bhṛtim* ← *bhṛti*
+- \[noun\], accusative, singular, feminine
+- “rental; support; wage.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *bharāmasi* ← *bhṛ*
+- \[verb\], plural, Present indikative
+- “bring; hold; fill; support; wear; possess; carry; nourish; keep;
+    hire; have; satiate; follow; bear.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे इन्द्र वयङ्घ खलु ते तव अपूर्व्या नूतनानि ब्रह्माणि परिवृढानि स्तोत्राणि प्रभरामसि सम्भरामः पुरुतमासो बहुतमा वयं ऋत्विग्यजमानरूपेण वृत्रहन् वृत्रस्यहन्तः पुरुहूत बहुभिराहूत हे वज्रिवः वज्रयुक्तेन्द्र किमिव भृतिन्न भृतिमिव तां यथा नियमेन प्रयच्छन्ति तद्वत् नियमेन प्रदानता- त्पर्याद्भृतिदृष्टान्तत्वमविरुद्धम् ॥ ११ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Indra**, slayer of Vṛra, invoked of many, we, your many worshippers, offer new hymns to you, thunderer,as your wages.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Use of wages as an illustration is not inappropriate, as both the hymns and wages are given bya definite rul, niyamena
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+(Although we are) the latest of many, we present to you sacred  
+formulations without precedent, o Indra, Vr̥tra-smasher,  
+like a present, o mace-bearer invoked by many.
+</details>
+
+<details><summary>+Griffith</summary>
+
+O Indra, Vrtra-slayer, we, thy very constant worshippers,  
+     Bring prayers ne'er heard before to thee, O Much-invoked, O Thunder-armed, to be thy meed.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Wir bringen dir, Vritratöter Indra, am häufigsten noch nie dagewesene erbauliche Reden dar, gleichsam als deinen Lohn, vielgerufener Keulenträger.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Wir tragen unvergleichliche Gebete dir, o Indra, vor, O vielgerufner Vritratödter, Blitzender, wie Nahrung, wir, die emsigen.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Это же мы, о Индра, небывалые  
+Священные слова, о убийца Вритры,  
+Чаще всех, о многопризываемый громовержец,  
+Приносим тебе как подкрепление.
+</details>

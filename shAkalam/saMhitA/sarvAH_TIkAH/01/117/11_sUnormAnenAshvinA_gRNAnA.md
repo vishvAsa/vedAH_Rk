@@ -1,0 +1,145 @@
++++
+title = "011"
+devataa = "अश्विनौ"
+RShiH = "कक्षीवान् दैर्घतमस औशिजः"
+ChandaH = "त्रिष्टुप्"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+सूनो꣡र् मा꣡नेन अश्विना गृणाना꣡  
+वा꣡जं वि꣡प्राय भुरणा र꣡दन्ता  
+अग꣡स्तिये ब्र꣡ह्मणा वावृधाना꣡  
+सं꣡ विश्प꣡लां नासतियारिणीतम्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सू॒नोः । माने॑न । अ॒श्वि॒ना॒ । गृ॒णा॒ना । वाज॑म् । विप्रा॑य । भु॒र॒णा॒ । रद॑न्ता ।  
+अ॒गस्त्ये॑ । ब्रह्म॑णा । व॒वृ॒धा॒ना । सम् । वि॒श्पला॑म् । ना॒स॒त्या॒ । अ॒रि॒णी॒त॒म् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *sūnor* ← *sūnoḥ* ← *sūnu*
+- \[noun\], genitive, singular, masculine
+- “son; offspring.”
+------------------------------------------------------------------------
+- *mānenāśvinā* ← *mānena* ← *māna*
+- \[noun\], instrumental, singular, masculine
+- “arrogance; honor; reverence; obedience; notion; conceit.”
+------------------------------------------------------------------------
+- *mānenāśvinā* ← *aśvinā* ← *aśvin*
+- \[noun\], nominative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *gṛṇānā* ← *gṛ*
+- \[verb noun\], nominative, dual
+- “praise.”
+------------------------------------------------------------------------
+- *vājaṃ* ← *vājam* ← *vāja*
+- \[noun\], accusative, singular, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *viprāya* ← *vipra*
+- \[noun\], dative, singular, masculine
+- “Brahmin; poet; singer; priest; guru; Vipra.”
+------------------------------------------------------------------------
+- *bhuraṇā* ← *bhuraṇa*
+- \[noun\], vocative, dual, masculine
+------------------------------------------------------------------------
+- *radantā* ← *rad*
+- \[verb noun\], nominative, dual
+- “dig.”
+------------------------------------------------------------------------
+- *agastye* ← *agastya*
+- \[noun\], locative, singular, masculine
+- “Agastya; Sesbania grandiflora; Polaris; agastya \[word\]; Agastya.”
+------------------------------------------------------------------------
+- *brahmaṇā* ← *brahman*
+- \[noun\], instrumental, singular, neuter
+- “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
+    emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
+------------------------------------------------------------------------
+- *vāvṛdhānā* ← *vṛdh*
+- \[verb noun\], nominative, dual
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+------------------------------------------------------------------------
+- *saṃ* ← *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *viśpalāṃ* ← *viśpalām* ← *viśpalā*
+- \[noun\], accusative, singular, feminine
+------------------------------------------------------------------------
+- *nāsatyāriṇītam* ← *nāsatyā* ← *nāsatya*
+- \[noun\], vocative, dual, masculine
+- “Asvins; nāsatya \[word\].”
+------------------------------------------------------------------------
+- *nāsatyāriṇītam* ← *ariṇītam* ← *ri*
+- \[verb\], dual, Imperfect
+- “free; liberate; run; let go of.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**भुरणा** भर्तारौ पोषकौ **नासत्या** सत्यस्वभावौ हे अश्विनौ **सूनोः** कुम्भात् प्रसूतस्य अगस्त्यस्य खेलपुरोहितस्य संबन्धिना **मानेन** स्तुत्यस्य परिच्छेदकेन स्तोत्रेण **गृणाना** स्तूयमानौ **विप्राय** मेधावने भरद्वाजाय ऋषये **वाजम्** अन्नं **रदन्ता** विलिखन्तौ निष्पादयन्तौ युवां **विश्पलां** संग्रामे छिन्नजङ्घां खेलस्य संबन्धिनीं स्त्रियं **सम्** **अरिणीतं** पुनः आयस्या जङ्या समयोजयतम् । तृतीयेन पादेन प्रथमपादोक्तोऽर्थो विव्रियते । **अगस्त्ये** ऋषौ **ब्रह्मणा** मन्त्ररूपेण स्तोत्रेण **ववृधाना** प्रवर्धितौ इति ॥ गृणाना । गॄ शब्दे'। व्यत्ययेन कर्मणि कर्तृप्रत्ययः । प्वादीनां ह्रस्वः । भुरणा । ‘भुरण धारणपोषणयोः '। कण्ड्वादिः । पचाद्यच् । अतोलोपयलोपौ । ‘सुपां सुलुक्' इति विभक्तेराकारः। आमन्त्रितनिघातः । विप्राय' इत्यस्य भुरणेत्यनेन असामर्थ्यात् न पराङ्गवत्वम् । ववृधाना । वृधेर्लिटः कानच् । संहितायां छान्दसमभ्यासस्य दीर्घत्वम् । तुजादित्वे हि तूतुजान इतिवत् पदकालेऽपि स्यात् । अरिणीतम् । “ री गतिरेषणयोः'। क्रैयादिकः । प्वादीनां ह्रस्वः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“**Aśvins**, glorified by the praises of the son (of the jar), and giving food, nourishers (of men), to the sage (**Bharadvāja**), exalted by **Agastya** withprayer, you restored **Nāsatyas**, Viṣpalā.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+The son of the jar: **sunu** = son; kubhāt **prasuta**, i.e. Agastya;
+
+Viprāya = Bharadvājāya ṛṣaye
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Being sung by Sūnor Māna [=Agastya], o energetic Aśvins, digging out  victory’s prize for the inspired poet,  
+and growing strong alongside Agastya through his poetic formulation,  you draw Viśpalā back together, Nāsatyas.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Hymned with the reverence of a son, O Asvins ye Swift Ones giving booty to the singer,  
+     Glorified by Agastya with devotion, established Vispala again, Nasatyas.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Von Sunor Mana gepriesen, brachtet ihr Asvin dem Redegewaltigen den Siegerpreis, ihr Eilige; bei Agastya durch feierliche Rede erbaut, machtet ihr Nasatya´s die Vispali heil.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Gepriesen bei des Mana Sohn Agastja, o schnelle Ritter, Gut dem Sänger spendend, Verherrlichet durch seine Andachtslieder habt Viçpalā ihr hergestellt, o Treue.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Воспетые, о Ашвины, Сунор Маной,  
+Вырывающие награду для вдохновенного, о подвижные,  
+Подкрепленные молитвой у Агастьи,  
+Вы восстановили Випшалу, о Насатьи.
+</details>

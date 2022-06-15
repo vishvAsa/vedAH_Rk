@@ -1,0 +1,118 @@
++++
+title = "013"
+devataa = "आत्मस्तुतिः"
+RShiH = "लब ऐन्द्रः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+गृहो꣡ यामि अ꣡रंकृतो  
+देवे꣡भ्यो हव्यवा꣡हनः  
+कुवि꣡त् सो꣡मस्या꣡पाम् इ꣡ति
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Popular for linguistic reasons, and possibly also for non-linguistic reasons
+
+### Pāda-label
+popular  
+popular  
+popular;; repeated line
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+गृ॒हः । या॒मि॒ । अर॑म्ऽकृतः । दे॒वेभ्यः॑ । ह॒व्य॒ऽवाह॑नः ।  
+कु॒वित् । सोम॑स्य । अपा॑म् । इति॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *gṛho* ← *gṛhaḥ* ← *gṛha*
+- \[noun\], nominative, singular, masculine
+- “house; palace; temple; home; place; family; family; stable.”
+------------------------------------------------------------------------
+- *yāmy* ← *yāmi* ← *yā*
+- \[verb\], singular, Present indikative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *araṃkṛto* ← *araṃkṛtaḥ* ← *alaṃkṛ* ← *√kṛ*
+- \[verb noun\], nominative, singular
+- “decorate; prepare.”
+------------------------------------------------------------------------
+- *devebhyo* ← *devebhyaḥ* ← *deva*
+- \[noun\], dative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *havyavāhanaḥ* ← *havya*
+- \[noun\], neuter
+- “Havya; offering; havya \[word\].”
+------------------------------------------------------------------------
+- *havyavāhanaḥ* ← *vāhanaḥ* ← *vāhana*
+- \[noun\], nominative, singular, masculine
+- “bringing; carrying.”
+------------------------------------------------------------------------
+- *kuvit* ← *kuvid*
+- \[adverb\]
+- “surely; indeed.”
+------------------------------------------------------------------------
+- *somasyāpām* ← *somasya* ← *soma*
+- \[noun\], genitive, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *somasyāpām* ← *apām* ← *pā*
+- \[verb\], singular, Root aorist (Ind.)
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------
+- *iti*
+- \[adverb\]
+- “thus; so; iti \[word\].”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**गृहः** हविषां ग्रहीता **अरंकृतः** यजमानैरलंकृतोऽहं **देवेभ्यः** इन्द्रादिभ्यः **हव्यवाहनः** हविषां वोढा प्रापयिता अग्न्यात्मा सन् **यामि** हवींषि प्रापयामि ॥  ‘ या प्रापणे '। लट् ।  ‘ हव्येऽनन्तःपादम् ' इति वहेर्ञ्युट् । ञित्त्वादाद्युदात्तः । समासे कृदुत्तरपदप्रकृतिस्वरः ॥ **इति** यस्मात् **कुवित्** बहुवारं **सोमस्य** सोमम् **अपां** पीतवानस्मि । तस्मादेतान्यकार्षमितीन्द्रः स्वात्मानमेवास्तावीत् ॥ ॥ २७ ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Receiving the offering I go, graced (by the worshippers), bearing the oblation to the gods, for I haveoften drunk of the **Soma**.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+As a household that is properly equipped, I journey as the carrier of the  oblations to the gods.  
+– Have I drunk of the soma? Yes!
+</details>
+
+<details><summary>+Griffith</summary>
+
+I seek the worshipper's abode; oblation-bearer to the Gods:  
+     Have I not drunk of Soma juice?
+</details>
+
+<details><summary>+Geldner</summary>
+
+Ich gehe, ein reichausgestattetes Haus, den Göttern die Opfer bringend. - Ich merke, daß ich Soma getrunken habe.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Ich gehe als Diener bereit gemacht, indem ich den Göttern die Opferspeisen zuführe. Hat mich der Soma denn berauscht?
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Отбываю – хорошо оснащенный дом, –  
+Везя богам жертвоприношения –  
+Не напился ли я сомы?
+</details>

@@ -1,0 +1,126 @@
++++
+title = "002"
+devataa = "आपः"
+RShiH = "त्रिशिरास्त्वाष्ट्रः सिन्धुद्वीपो वांबरीषः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+यो꣡ वः शिव꣡तमो र꣡सस्  
+त꣡स्य भाजयतेह꣡ नः  
+उशती꣡र् इव मात꣡रः
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+यः । वः॒ । शि॒वऽत॑मः । रसः॑ । तस्य॑ । भा॒ज॒य॒त॒ । इ॒ह । नः॒ ।  
+उ॒श॒तीःऽइ॑व । मा॒तरः॑ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *yo* ← *yaḥ* ← *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *vaḥ* ← *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *śivatamo* ← *śivatamaḥ* ← *śivatama*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *rasas* ← *rasaḥ* ← *rasa*
+- \[noun\], nominative, singular, masculine
+- “mercury; juice; medicine; rasa; alchemy; liquid; Rasa; mahārasa;
+    taste; broth; elixir; resin; rasa; essence; six; water; soup; liquid
+    body substance; rasa; formulation; myrrh; rasa \[word\]; amṛta;
+    purpose; delight; solution; milk; beverage; alcohol; sap; nectar;
+    Rasātala.”
+------------------------------------------------------------------------
+- *tasya* ← *tad*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *bhājayateha* ← *bhājayata* ← *bhājay* ← *√bhaj*
+- \[verb\], plural, Present imperative
+- “distribute.”
+------------------------------------------------------------------------
+- *bhājayateha* ← *iha*
+- \[adverb\]
+- “here; now; in this world; now; below; there; here; just.”
+------------------------------------------------------------------------
+- *naḥ* ← *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *uśatīr* ← *uśatīḥ* ← *vaś*
+- \[verb noun\], nominative, plural
+- “desire; agree; call; care; like; love.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *mātaraḥ* ← *mātṛ*
+- \[noun\], nominative, plural, feminine
+- “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
+    Citrullus colocynthis Schrad.; cow.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+हे आपः **वः** युष्माकं स्वभूतः **यः** **रसः** **शिवतमः** सुखतमः **इह** अस्मिँल्लोके **तस्य** तं रसं **नः** अस्मान् **भाजयत** सेवयत । उपयोजयतेत्यर्थः। तत्र दृष्टान्तः । **उशतीरिव** उशत्य इव पुत्रसमृद्धिं कामयमानाः **मातरः** स्तन्यरसं यथा भाजयन्ति प्रापयन्ति तद्वत् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Give us to partake in this world of your most auspicious **Soma**, like affectionate mothers.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Your most beneficent juice—make us have a share in that here,  
+like eager mothers (their milk).
+</details>
+
+<details><summary>+Griffith</summary>
+
+Give us a portion of the sap, the most auspicious that ye have,  
+     Like mothers in their longing love.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Was euer angenehmstes Naß ist, des machet uns hier teilhaftig wie die liebevollen Mütter ihrer Milch!
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Welch segenreichster Saft euch ist, an dem lasst Theil uns haben hier, Den liebevollen Müttern gleich.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Какая у вас самая целительная влага,  
+Наделите нас ею здесь,  
+Как любящие матери!
+</details>

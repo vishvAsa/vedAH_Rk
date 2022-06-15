@@ -1,0 +1,127 @@
++++
+title = "001"
+devataa = "सूर्यः"
+RShiH = "प्रस्कण्वः काण्वः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+उ꣡द् उ त्यं꣡ जात꣡वेदसं  
+देवं꣡ वहन्ति केत꣡वः  
+दृशे꣡ वि꣡श्वाय सू꣡रियम्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Cretic
+
+### Pāda-label
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उत् । ऊं॒ इति॑ । त्यम् । जा॒तऽवे॑दसम् । दे॒वम् । व॒ह॒न्ति॒ । के॒तवः॑ ।  
+दृ॒शे । विश्वा॑य । सूर्य॑म् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *ud*
+- \[adverb\]
+- “up.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *tyaṃ* ← *tyam* ← *tya*
+- \[noun\], accusative, singular, masculine
+- “that.”
+------------------------------------------------------------------------
+- *jātavedasaṃ* ← *jātavedasam* ← *jātavedas*
+- \[noun\], accusative, singular, masculine
+- “Agni; fire.”
+------------------------------------------------------------------------
+- *devaṃ* ← *devam* ← *deva*
+- \[noun\], accusative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *vahanti* ← *vah*
+- \[verb\], plural, Present indikative
+- “transport; bring; marry; run; drive; vāhay; drive; run; pull;
+    nirvāpay; blow; transport; discharge; assume; remove.”
+------------------------------------------------------------------------
+- *ketavaḥ* ← *ketu*
+- \[noun\], nominative, plural, masculine
+- “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
+    signal; signal; luminosity.”
+------------------------------------------------------------------------
+- *dṛśe* ← *dṛś*
+- \[verb noun\]
+- “see; observe; view; visit; look; learn; meet; read; teach; examine;
+    watch; see; notice; perceive; diagnose; travel to; show; detect;
+    know; know; understand; understand; follow.”
+------------------------------------------------------------------------
+- *viśvāya* ← *viśva*
+- \[noun\], dative, singular, neuter
+- “ginger; myrrh; universe.”
+------------------------------------------------------------------------
+- *sūryam* ← *sūrya*
+- \[noun\], accusative, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**केतवः** प्रज्ञापकाः सूर्याश्वाः यद्वा सूर्यरश्मयः **सूर्यं** सर्वस्य प्रेरकमादित्यम् **उदु** **वहन्ति** ऊर्ध्वं वहन्ति । उ इति पादपूरणः । उक्तं च - ‘ मिताक्षरेष्वनर्थकाः कमीमिद्विति' (निरु. १. ९)। किमर्थम् । **विश्वाय** विश्वस्मै भुवनाय **दृशे** द्रष्टुम् । यथा सर्वे जनाः सूर्यं पश्यन्ति तथोर्ध्वं वहन्तीत्यर्थः । कीदृशं सूर्यम् । **त्यं** प्रसिद्धं **जातवेदसं** जातानां प्राणिनां वेदितारं जातप्रज्ञं जातधनं वा **देवं** द्योतमानम् । अत्र निरुक्तम् - उद्वहन्ति तं जातवेदसं देवमश्वाः केतवो रश्मयो वा सर्वेषां भूतानां संदर्शनाय सूर्यम् ' ( निरु. १२. १५) इति ॥ जातवेदसम् । जातानि वेत्तीति जातवेदाः ।  ‘ गतिकारकयोरपि पूर्वपदप्रकृतिस्वरत्वं च ' इति असुन् पूर्वपदप्रकृतिस्वरत्वं च । दृशे । 'दृशे विख्ये च (पा. सू. ३. ४. ११ ) इति तुमर्थे निपातितः । सूर्यम् ।  ‘ राजसूयसूर्यं ' इत्यादिना 'षू प्रेरणे इत्यस्मात् क्यपि रुडागमसहितो निपातितः । अतः प्रत्ययस्य पित्त्वानुदात्तत्वे धातुस्वरेणाद्युदात्तत्वम् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“His coursers bear on high the divine all-knowing Sun, that he may be seen by all (the worlds).”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Up do the beacons convey this god Jātavedas,  
+the Sun, for all to see.
+</details>
+
+<details><summary>+Griffith</summary>
+
+HIS bright rays bear him up aloft, the God who knoweth all that lives,  
+     Surya, that all may look on him.
+</details>
+
+<details><summary>+Macdonell</summary>
+
+Aloft his beams now bring the god Who knows all creatures that are born, That all may look upon the Sun.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Dort fahren den Gott Jatavedas seine Strahlen herauf, auf daß die ganze Welt den Sonnengott schaue.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Den Wesenkenner führen schon empor die Strahlen, ihn, den Gott, Dass jedermann die Sonne schau.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Вот лучи везут вверх  
+Того бога, Джатаведаса,  
+Чтобы все (существа) увидели солнце.
+</details>

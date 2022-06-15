@@ -1,0 +1,124 @@
++++
+title = "005"
+devataa = "पवमानः सोमः"
+RShiH = "रहूगणः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+स꣡ वृत्रहा꣡ वृ꣡षा सुतो꣡  
+वरिवोवि꣡द् अ꣡दाभियः  
+सो꣡मो वा꣡जम् इवासरत्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+सः । वृ॒त्र॒ऽहा । वृषा॑ । सु॒तः । व॒रि॒वः॒ऽवित् । अदा॑भ्यः ।  
+सोमः॑ । वाज॑म्ऽइव । अ॒स॒र॒त् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *sa* ← *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *vṛtrahā* ← *vṛtra*
+- \[noun\], masculine
+- “Vṛtra; vṛtra \[word\].”
+------------------------------------------------------------------------
+- *vṛtrahā* ← *hā* ← *han*
+- \[noun\], nominative, singular, masculine
+- “killing; curative; destroying; removing; māraka; stabbing.”
+------------------------------------------------------------------------
+- *vṛṣā* ← *vṛṣan*
+- \[noun\], nominative, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *suto* ← *sutaḥ* ← *su*
+- \[verb noun\], nominative, singular
+- “press out; su.”
+------------------------------------------------------------------------
+- *varivovid* ← *varivaḥ* ← *varivas*
+- \[noun\], neuter
+- “room; varivas \[word\]; space; escape.”
+------------------------------------------------------------------------
+- *varivovid* ← *vid*
+- \[noun\], nominative, singular, masculine
+- “finding.”
+------------------------------------------------------------------------
+- *adābhyaḥ* ← *adābhya*
+- \[noun\], nominative, singular, masculine
+- “trustworthy; disabused(p).”
+------------------------------------------------------------------------
+- *somo* ← *somaḥ* ← *soma*
+- \[noun\], nominative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *vājam* ← *vāja*
+- \[noun\], accusative, singular, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *ivāsarat* ← *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *ivāsarat* ← *asarat* ← *sṛ*
+- \[verb\], singular, Thematic aorist (Ind.)
+- “sṛ; liquefy; run; spread; stretch out.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**स** **वृत्रहा** **वृषा** वर्षकः **सुतः** अभिषुतः **वरिवोवित्** यष्टुर्धनस्य लम्भकः **अदाभ्यः** अन्यैरदम्भनीयः **सोमः** **वाजमिव** संग्राममश्व इव **असरत्** गच्छति कलशम् ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“The slayer of **Vṛtra**, the showerer of benefits, the giver of wealth, the invincible, the effused **Soma** proceeds (to the pitcher) as (a horse) to battle.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+He, the Vr̥tra-smasher, the bull, finding the wide realm when pressed,  undeceivable—  
+Soma has flowed as if to a prize.
+</details>
+
+<details><summary>+Griffith</summary>
+
+This Vrtra-slaying Steer, effused, Soma room-giver, ne'er deceived,  
+     Hath gone, as 'twere, to win the spoil.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Der Vritratöter, der ausgepreßte Bulle, der einen Ausweg ins Freie findet, der untrügliche Soma ist gleichsam um den Siegerpreis gelaufen.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Der Vritratödter Soma lief heilspendend, der erzeugte Hengst, Untilgbar wie zur Beute hin.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+-ru-
+</details>

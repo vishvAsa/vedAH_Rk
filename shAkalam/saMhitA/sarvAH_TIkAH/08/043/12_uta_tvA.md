@@ -1,0 +1,129 @@
++++
+title = "012"
+devataa = "अग्निः"
+RShiH = "विरूप आङ्गिरसः"
+ChandaH = "गायत्री"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+उत꣡ त्वा न꣡मसा वयं꣡  
+हो꣡तर् व꣡रेणियक्रतो  
+अ꣡ग्ने समि꣡द्भिर् ईमहे
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal on metrical evidence alone
+
+### Pāda-label
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).  
+genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+उ॒त । त्वा॒ । नम॑सा । व॒यम् । होतः॑ । वरे॑ण्यक्रतो॒ इति॒ वरे॑ण्यऽक्रतो ।  
+अग्ने॑ । स॒मित्ऽभिः॑ । ई॒म॒हे॒ ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *tvā* ← *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *namasā* ← *namas*
+- \[noun\], instrumental, singular, neuter
+- “adoration; court; namas \[word\]; bow; salute.”
+------------------------------------------------------------------------
+- *vayaṃ* ← *vayam* ← *mad*
+- \[noun\], nominative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *hotar* ← *hotṛ*
+- \[noun\], vocative, singular, masculine
+- “Hotṛ.”
+------------------------------------------------------------------------
+- *vareṇyakrato* ← *vareṇya*
+- \[noun\]
+- “excellent; desirable.”
+------------------------------------------------------------------------
+- *vareṇyakrato* ← *krato* ← *kratu*
+- \[noun\], vocative, singular, masculine
+- “yajña; decision; plan; deliberation; intelligence; Kratu; will;
+    kratu \[word\]; desire; resoluteness; ritual.”
+------------------------------------------------------------------------
+- *agne* ← *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *samidbhir* ← *samidbhiḥ* ← *samidh*
+- \[noun\], instrumental, plural
+- “firewood; kindling; fuel; fire.”
+------------------------------------------------------------------------
+- *īmahe* ← *ī* ← *√i*
+- \[verb\], plural, Present indikative
+- “beg; solicit.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**उत** अपि च हे **होतः** देवानां ह्वातः **वरेण्यक्रतो** वरणीयप्रज्ञ **अग्ने** **त्वा** त्वां **वयम्** आङ्गिरसाः **नमसा** अन्नेन हविषा **समिद्भिः** च **ईमहे** याचामहे ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“We solicit you, **Agni**, invoker of the gods, performer of sacred rites, with oblations and with fueḷ”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Performer of sacred rites: vareṇyakrato = O you, who possess desirable knowledge
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+And you, o Hotar whose resolve is worthy to be chosen, with homage and with kindling sticks do we beseech, o Agni.
+</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+īmahe is formally ambiguous and could also mean ‘approach’; Geldner’s “wir nahen dir bittend” seems to represent a blend of the two.
+
+On the cmpd. váreṇya-kratu- see comm. ad IX.98.12.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Yea, thee, O Agni, do we seek with homage and with fuel, Priest  
+     Whose wisdom is most excellent.
+</details>
+
+<details><summary>+Geldner</summary>
+
+Und wir nahen dir bittend, Agni, unter Verneigung mit Brennhölzern, du Hotri von vorzüglicher Einsicht.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+Und dir, o Agni, nahen wir, o Priester von erwünschter Kraft, In Ehrfurcht mit der Flamme Brand.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+А также к тебе мы с поклонением,  
+О хотар с избранной силой духа,  
+О Агни, приближаемся с дровами.
+</details>

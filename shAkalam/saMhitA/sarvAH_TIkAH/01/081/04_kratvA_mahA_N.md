@@ -1,0 +1,155 @@
++++
+title = "004"
+devataa = "इन्द्रः"
+RShiH = "गोतमो राहूगणः"
+ChandaH = "पङ्क्तिः"
+
++++
+
+<details><summary>+Thomson & Solcum</summary>
+
+क्र꣡त्वा महाँ꣡ अनुष्वध꣡म्  
+भीम꣡ आ꣡ वावृधे श꣡वः  
+श्रिय꣡ ऋष्व꣡ उपाक꣡योर्  
+नि꣡ शिप्री꣡ ह꣡रिवान् दधे  
+ह꣡स्तयोर् व꣡ज्रम् आयस꣡म्
+</details>
+
+<details><summary>+Vedaweb annotation</summary>
+
+### Strata
+Normal on metrical evidence alone
+
+### Pāda-label
+genre M  
+genre M  
+genre M  
+genre M  
+genre M
+</details>
+
+<details><summary>पद-पाठः</summary>
+
+क्रत्वा॑ । म॒हान् । अ॒नु॒ऽस्व॒धम् । भी॒मः । आ । व॒वृ॒धे॒ । शवः॑ ।  
+श्रि॒ये । ऋ॒ष्वः । उ॒पा॒कयोः॑ । नि । शि॒प्री । हरि॑ऽवान् । द॒धे॒ । हस्त॑योः । वज्र॑म् । आ॒य॒सम् ॥
+</details>
+
+<details><summary>+Hellwig Grammar</summary>
+
+-   *kratvā* ← *kratu*
+- \[noun\], instrumental, singular, masculine
+- “yajña; decision; plan; deliberation; intelligence; Kratu; will;
+    kratu \[word\]; desire; resoluteness; ritual.”
+------------------------------------------------------------------------
+- *mahāṃ* ← *mahat*
+- \[noun\], nominative, singular, masculine
+- “large; eminent; great; loud; dangerous; strong; long; high;
+    much(a); mahant \[word\]; ample; very; great; adult; important;
+    dark; high; abundant; violent; remarkable; mighty; big; long.”
+------------------------------------------------------------------------
+- *anuṣvadham*
+- \[adverb\]
+------------------------------------------------------------------------
+- *bhīma* ← *bhīmaḥ* ← *bhīma*
+- \[noun\], nominative, singular, masculine
+- “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *vāvṛdhe* ← *vṛdh*
+- \[verb\], singular, Perfect indicative
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+------------------------------------------------------------------------
+- *śavaḥ* ← *śavas*
+- \[noun\], accusative, singular, neuter
+- “strength; power; superiority.”
+------------------------------------------------------------------------
+- *śriya* ← *śriye* ← *śrī*
+- \[noun\], dative, singular, feminine
+- “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
+    glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
+    \[word\]; śrī; prosperity; auspiciousness.”
+------------------------------------------------------------------------
+- *ṛṣva* ← *ṛṣvaḥ* ← *ṛṣva*
+- \[noun\], nominative, singular, masculine
+- “distinguished; high; noble; enormous.”
+------------------------------------------------------------------------
+- *upākayor* ← *upākayoḥ* ← *upāka*
+- \[noun\], locative, dual, masculine
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *śiprī* ← *śiprin*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *harivān* ← *harivat*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *dadhe* ← *dhā*
+- \[verb\], singular, Perfect indicative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *hastayor* ← *hastayoḥ* ← *hasta*
+- \[noun\], locative, dual, masculine
+- “hand; hand; proboscis; hasta \[word\]; autograph.”
+------------------------------------------------------------------------
+- *vajram* ← *vajra*
+- \[noun\], accusative, singular, masculine
+- “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
+    vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
+------------------------------------------------------------------------
+- *āyasam* ← *āyasa*
+- \[noun\], accusative, singular, masculine
+- “iron; metallic.”
+------------------------------------------------------------------------
+</details>
+
+<details><summary>सायण-भाष्यम्</summary>
+
+**क्रत्वा** कर्मणा प्रज्ञया वा **महान्** सर्वाधिकः **भीमः** शत्रूणां भयंकरः इन्द्रः **अनुष्वधम्** । स्वधा इति अन्ननाम । स्वधायाम् । विभक्त्यर्थे अव्ययीभावः । सोमलक्षणस्यान्नस्य पाने सतीत्यर्थः । **शवः** आत्मीयं बलम् **आ** **ववृधे** आभिमुख्येन प्रवर्धयत् । तदनन्तरम् **ऋष्वः** दर्शनीयः **शिप्री**। शिप्रे हनू नासिके वा। तद्युक्तः **हरिवान्** हरिनामकाश्वोपेत इन्द्रः **उपाकयोः** अन्तिकनामैतत् । समीपवर्तिनोः **हस्तयोः** बाह्वोः **आयसम्** अयोमयं **वज्रं** **श्रिये** संपदर्थं **नि** **दधे** निदधाति स्थापयति। सोमपानेन हृष्टः प्रबल इन्द्रः शत्रूणां हननाय हस्ते वज्रं गृह्णातीति तात्पर्यार्थः ॥ क्रत्वा ।  ‘ जसादिषु च्छन्दसि वावचनम् ' इति नाभावस्य विकल्पितत्वादभावः । आयसम् ।  ‘ तस्य विकारः' इति अण्प्रत्ययः ॥
+</details>
+
+<details><summary>+Wilson</summary>
+
+### English translation:
+
+“Mighty through sacrifice, formidable (to foes), partaking of the sacrificial food, **Indra** has augmented his strength; plural asing in appearance, having a handsome chin, and possessing (bright) coursers, he grasps the metal thunder-bolt in his contiguous **hands** for (our) prosperity.”
+</details>
+
+<details><summary>+Jamison Brereton</summary>
+
+Through his resolve the great, fearsome one has increased his strength in  accord with his own nature.  
+For splendor the lofty belipped possessor of fallow bays has taken  
+the metal mace into his own clasped hands.
+</details>
+
+<details><summary>+Griffith</summary>
+
+Mighty through wisdom, as he lists, terrible, he hath waxed in strength.  
+     Lord of Bay Steeds, strong-jawed, sublime, he in joined hands for glory's sake hath grasped his iron thunderbolt.
+</details>
+
+<details><summary>+Geldner</summary>
+
+An Einsicht groß, hat der Furchtbare nach eigenem Ermessen seine Stärke noch erhöht. Zur Herrlichkeit hat der Recke in die beiden aneinandergeschlossenen Hände die eherne Keule genommen, der Falbenlenker mit der geöffneten Lippe.
+</details>
+
+<details><summary>+Grassmann</summary>
+
+An Stärke gross nach eigner Wahl, erwuchs zur Macht der schreckliche; Der Füchselenker, schön behelmt, erhaben nahm zum Heil den Blitz in beide Arm', den ehernen.
+</details>
+
+<details><summary>+Elizarenkova</summary>
+
+Великий силой духа, по своей воле  
+Страшный (еще) нарастил (свою) мощь.  
+Громадный, прекрасногубый, – (бог) с парой буланых коней  
+Для блеска вложил себе в сомкнутые  
+Руки железную ваджру.
+</details>
