@@ -161,6 +161,15 @@ Lead us anew to happiness, O Agni; lead us beyond all danger and affliction.
 Agni! Thou who art young, help us safely across all difficulties. Be for us a broad, large, wide stronghold, for our kith and kin, with luck and weal 1.
 </details>
 
+<details><summary>Keith</summary>
+
+O Agni, once more lead us  
+With thy favour over every trouble.  
+Be a broad, thick, wide fortress for us,  
+Health and wealth for our children and descendants. 
+</details>
+
+
 <details><summary>+Geldner</summary>
 
 Agni, geleit uns aufs neue glücklich über alle Fährlichkeiten! Sei du uns eine breite, umfangreiche, weite Burg, sei für den leiblichen Samen zum Wohl und Heil!

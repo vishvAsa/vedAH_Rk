@@ -149,6 +149,14 @@ When we most ignorant neglect the statutes of you, O Deities with whom is knowle
      Wise Agni shall correct our faults and failings, skilled to assign each God his fitting season.
 </details>
 
+<details><summary>Keith</summary>
+
+If laws of you wise ones, O gods,  
+In our ignorance we transgress,  
+May Agni make good all that,  
+He that knoweth the seasons wherein he may satisfy the gods.
+</details>
+
 <details><summary>+Geldner</summary>
 
 Wenn wir eure Gebote verfehlen sollten, die gar Unwissenden die der Wissenden, o Götter, so möge der kundige Agni das alles wieder gutmachen nach den Zeiten, auf die er die Götter verteilen wird.
