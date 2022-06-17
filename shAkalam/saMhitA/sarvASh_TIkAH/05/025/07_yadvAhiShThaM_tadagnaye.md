@@ -135,6 +135,15 @@ The mightiest song is Agni's: shine on high, thou who art rich in light.
 Sing mightily to Agni the (song) which may best bring him (to us), O (god) rich in splendour 1! From thee (proceeds) wealth (mighty) like a buffalo-cow 2; from thee proceed gains.
 </details>
 
+
+<details><summary>Keith</summary>
+
+What carrieth best is for Agni;  
+Sing aloud, O thou of brilliant radiance.  
+From thee wealth, like a cow,  
+From thee strength riseth forth.
+</details>
+
 <details><summary>+Geldner</summary>
 
 Singe dem Agni ein hohes Lied, das am meisten Zugkraft hat, o Vibhavasu. Von dir geht Reichtum aus, groß wie eine Büffelkuh, von dir die Siegerpreise.

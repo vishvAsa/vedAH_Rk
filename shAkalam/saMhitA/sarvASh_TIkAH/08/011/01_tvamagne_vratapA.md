@@ -115,6 +115,13 @@ THOU Agni, God mid mortal men, art guard of sacred rites, thou art
      To be adored at sacrifice.
 </details>
 
+<details><summary>Keith</summary>
+
+Thou, O Agni, art the guardian of law,  
+Among the gods and mortals;  
+Thou art to be invoked at the sacrifices.
+</details>
+
 <details><summary>+Geldner</summary>
 
 Du, Agni, bist der Gesetzeshüter, der Gott unter den Sterblichen, du bist bei den Opfern zu berufen.

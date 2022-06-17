@@ -167,7 +167,16 @@ Agni is the one who knows: he will perform the sacrifice; just he is the  Hotar.
 <details><summary>+Griffith</summary>
 
 To the Gods' pathway have we travelled, ready to execute what work we may accomplish.  
-     Let Agni, for he knows, complete the worship. He is the Priest: let him fix rites and seasons.
+Let Agni, for he knows, complete the worship. He is the Priest: let him fix rites and seasons.
+</details>
+
+
+<details><summary>Keith</summary>
+
+We have come to the path of the gods  
+To accomplish that which we have power to do;  
+Let wise Agni sacrifice [3], let him be Hotr  
+Let him arrange the offerings him the seasons.
 </details>
 
 <details><summary>+Geldner</summary>

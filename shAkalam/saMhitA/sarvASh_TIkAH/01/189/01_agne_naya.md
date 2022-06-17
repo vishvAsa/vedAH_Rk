@@ -150,6 +150,16 @@ BY goodly paths lead us to riches, Agni, God who knowest every sacred duty.
 Agni! Lead us to wealth on a good path, O god who knowest all rules. Drive away from us sin which leads us astray. We will offer to thee the fullest praise.
 </details>
 
+<details><summary>Keith</summary>
+
+O Agni, lead us by a fair path to wealth,  
+O god, knowing all the ways;  
+Keep away from us the sin that makes us wander;  
+We will accord to thee most abundant honour.
+</details>
+
+
+
 <details><summary>+Geldner</summary>
 
 Agni, führ uns auf gutem Wege zu Reichtum, der du alle rechten Wege kennst. O Gott! Wende von uns die Sünde ab, die auf Abwege führt! Wir wollen dir die größte Huldigungsrede recht machen.
