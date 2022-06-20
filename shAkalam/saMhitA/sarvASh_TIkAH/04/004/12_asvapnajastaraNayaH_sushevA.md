@@ -110,6 +110,15 @@ genre M
 अन्तोदात्तत्वनिपातनात् यणादेशे ( उदात्तस्वरितयो:०' इति स्वरितत्वम् । अमूर। ‘मुह वैचित्ये '। निष्ठायां ढकारस्य रेफश्छान्दसः । यद्वा ।  ‘ मृङ् बन्धने' । औणादिकः रक् ॥
 </details>
 
+<details><summary>भट्टभास्करटीका</summary>
+
+12अथ द्वादशी - अस्वप्नज इति ॥ अस्वप्नशीलः । 'स्वपितृषो र्नजिङ्' । पदकारानभिमतत्वात् अन्यथा व्याख्यायते - स्वप्नजन्मानो न भवन्तीत्यस्वप्नजाः । 'सुपां सुलुक् इति जसस्स्वादेश', सतिशिष्टत्वादव्ययपूवापदप्रकृतिस्वरत्वम् । तरणयः दुरिततरणहेतवः । तरतेरनिप्रत्ययः । सुशेवाः सुसुखाः । 'शेवायह्वा' इति निपात्यते । अतन्द्रासः अलसत्वरहिताः । 'आज्जसेरसुक्' । अवृकाः वृकत्वं हिंस्रत्वं तद्रहिताः । 'नञ्सुभ्याम्' इत्युत्तरपदान्तोदात्तत्वम् । अश्रमिष्ठाः अखेदयितृतमाः । श्रमु खेदे, तृजन्तात् 'तुश्छन्दसि' इतीष्ठन्, 'तुरिष्ठेमेयस्सु' इति लोपः ।
+
+एवंस्वभावास्ते तादृशाः हे अग्ने तव पायवः जगत्पालनशीलाः रश्मयः । 'कृपावाजि' इत्युण्प्रत्ययः । सध्रियञ्चस्सहाञ्चन्तः सम्भूयकारिणः । 'सहस्य सध्रिः' । निषद्य अस्मद्यज्ञे निषीदन्तो भूत्वा सर्वे अस्मद्यज्ञमागत्य त्वयि निषण्णास्त्वामुद्दीपयन्तः नः अस्मान् पान्तु रक्षन्तु । हे अमूर अमोहनशील । मुर्छा मोहसमुच्छ्राययोः, क्विपि 'राल्लोपः', ततो मत्वर्थीयोऽप्रत्ययः । मोहनशीलो मूरः ततोन्योऽमूरः । यद्वा - मूङ् बन्धने, औणादिको रक् । अमूर अबन्धनीय अनिग्राह्य । यद्वा - अमतेरूरन् प्रत्ययः । अमूरः अप्रतिहतगतिः ॥
+</details>
+
+
+
 <details><summary>+Wilson</summary>
 
 ### English translation:
@@ -132,6 +141,14 @@ Knowing no slumber, speedy and propitious, alert and ever friendly, most unweari
 <details><summary>+Oldenberg</summary>
 
 May those guardians of thine, infallible Agni, sitting down together protect us, the never sleeping, onward-pressing, kind, unwearied ones, who keep off the wolf, who never tire.
+</details>
+
+<details><summary>Keith</summary>
+
+Sleepless, speedy, propitious,  
+Unwearied, never hostile, unexhausted,  
+May thy guardians, O Agni, taking their places here united,  
+Protect us, O wise one.
 </details>
 
 <details><summary>+Geldner</summary>

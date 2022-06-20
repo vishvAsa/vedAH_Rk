@@ -131,6 +131,12 @@ popular;; repeated line
 **रक्षोहणं** रक्षसां हन्तारं **वाजिनं** बलवन्तमन्नवन्तं वाग्निम् **आ** **जिघर्मि** घृतेनाजुहोमि। किंच **मित्रं** यजमानानां सखायं **प्रथिष्ठ** पृथुतमं **शर्म** गृहम् **उप** **यामि** उपगच्छामि । सोऽयम् अग्निः **शिशानः** ज्वालास्तीक्ष्णीकुर्वन् **क्रतुभिः** कर्मपरैः पुरुषैः **समिद्धः** प्रज्वालितो भवति ॥ किंच **सः** अग्निः **नः** अस्मान् **दिवा** अहनि **रिषः** हिंसकाद्रक्षसः **पातु** रक्षतु । **सः** अग्निः **नक्तं** रात्रौ चास्मान्रक्षसः पातु ॥
 </details>
 
+<details><summary>भट्टभास्करटीका</summary>
+
+16अथ पुरोनुवाक्या - रक्षोहणमिति ॥ 'रक्षोघ्नी याज्यानुवाक्ये भवतः' इति च ब्राह्मणम् । रक्षसां हन्तारं वाजिनमन्नवन्तं अन्नस्य दातारं आजिघर्मि अनेन हविषा आभिमुख्येन सन्दीपयामि । घृ क्षरणदीप्त्योः । जुहोत्यादिकः, 'बहुलं छन्दसि' इत्यभ्यासस्येत्वम् । मित्रं सर्वेषां सुहृद्रूपम् । मिदो दुःखात्त्रायकं प्रथिष्ठं पृथुतमम् । यद्वा - प्रथयितृतमम् । प्रथितृशब्दात् 'तुश्छन्दसि' इतीष्ठन्, 'तुरिष्ठेमेयस्सु' इति तृलोपः । इर्दृशं तं शर्म शरणमुपयामि रक्षकं भने । स च क्रतुभिः समिद्धः प्रज्ञाभिस्सन्दीप्तः अस्मदीयैर्वा यजनैः प्रवृद्धतेजाः । अग्निः अङ्गनादिगुणयुक्तः । शिशानस्तीक्ष्णीभवन् । श्यतेर्व्यत्ययेनात्मनेपदम्म् 'बहुलं छन्दसि' इति शपश्श्लुः, अभ्यासस्येत्वम्, 'अभ्यस्तानामादिः' आद्युदात्तत्वम् । इर्दृशस्स नः अस्मान् दिवा च नक्तं च रिषः पातु दुःखाद्रक्षतु । हिंस्राद्वा रक्षःप्रभृतेरस्मान्पातु । पूर्ववद्विभक्तेरुदात्तत्वम् 'सावेकाचः' इति ॥
+</details>
+
+
 <details><summary>+Wilson</summary>
 
 ### English translation:
@@ -150,6 +156,13 @@ I BALM with oil the mighty Raksas-slayer; to the most famous Friend I come for s
      Enkindled, sharpened by our rites, may Agni protect us in the day and night from evil.
 </details>
 
+<details><summary>Keith</summary>
+
+I touch the steed that slayeth the Raksases;  
+I go for shelter to the friend most spreading;  
+May Agni, enkindled with our offerings, sharpening (his dart)  
+Guard us by day, [6] from harm and by night.
+</details>
 <details><summary>+Geldner</summary>
 
 Den Unholdtöter, den sieghaften, besprenge ich; bei dem Freunde suche ich breiteste Zuflucht. Agni soll sich scharf machen, nachdem er mit bestimmten Absichten entzündet ist, und uns am Tag und des Nachts vor Schaden bewahren!
