@@ -153,6 +153,15 @@ Loud in the heaven above be Agni's roarings with keen-edged weapons to destroy t
 And may the roarings of Agni mount up to the sky, with sharp weapons in order to kill the Rakshas. In his rapture his flames break down (everything); the godless hindrances do not hold him back.
 </details>
 
+<details><summary>Keith</summary>
+
+Let the roarings of Agni rise to the heaven,  
+Sharp weapons to slay the Raksas;  
+In the carouse his radiance bursteth forth  
+The godless assailers cannot restrain him.
+
+</details>
+
 <details><summary>+Geldner</summary>
 
 Und das Getöse des Agni soll zum Himmel dringen, um mit scharfer Waffe den bösen Geist zu töten. Wie im Rausche brechen seine Zornesgluten durch, nicht halten ihn die gottlosen Hindernisse auf.
