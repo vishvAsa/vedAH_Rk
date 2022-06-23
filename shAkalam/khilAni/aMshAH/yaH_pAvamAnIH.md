@@ -45,6 +45,6 @@ RvKh_3,10.1a [अत्र](https://archive.org/stream/RgVedaWithSayanasCommenta
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-तैत्तिरीयब्राह्मणे [ऽत्र](/vedAH_yajuH/taittirIyam/brAhmaNam/vishvAsa-prastutiH/1/4/08/) । 
+तैत्तिरीयब्राह्मणे [ऽत्र](/vedAH_yajuH/taittirIyam/brAhmaNam/Rk/vishvAsa-prastutiH/1/4/08/) । 
 </details>
 
