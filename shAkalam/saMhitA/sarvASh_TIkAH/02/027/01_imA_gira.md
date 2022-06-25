@@ -112,9 +112,28 @@ genre M
 ------------------------------------------------------------------------
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+With the juhū ladle [which is my tongue], I perpetually offer to the royal Āditya-s these ghee-dripping invocations. May each one of them, Mitra, Aryaman, Bhaga, the one with widely manifesting favor [or Vivasvān], Varuṇa, Dakṣa and Aṃśa, hear us!
+
+> imās= these [feminine accusative plural]; gira= invocations [feminine accusative plural]; ādityebhyo= for the Āditya-s; ghṛtasnūḥ= dripping with ghee [feminine accusative plural]; sanāt= always; rājabhyo= for the royal; juhvā= with the juhū ladle; juhomi= I offer; śṛṇotu = each one hears; mitraḥ; aryaman; bhagaḥ; nas= us; tuvijātaḥ= widely manifest favor; varuṇaḥ; aṃśaḥ.
+
+Before we render a translation we should note three points:
+
+1) juhū ladle: The scholar Sāyaṇa explains that as the invocations are said to be dripping with ghee, it should be understood metaphorically, with the juhū standing for the tongue that composes the said invocation.+++(5)+++
+
+2) While a plurality of Āditya-s are named, the imperative class-5 verb śṛṇotu is in the singular. Sāyaṇa explains that it implies that each one of the Āditya-s starting from Mitra are called to hear the invocation [as per Sāyaṇa: naḥ śṛṇotu -> asmadīyāstā giro mitrādayaḥ pratyekaṃ śṛṇotu] – it should be noted in this context that they are not named as a compound or with an enclitic ‘ca’ but simply as a list.
+
+3) While the names of the 6 Āditya-s are plain in this mantra, the word tuvijātaḥ is traditionally taken as an adjective for Varuṇa.+++(4)+++ Indeed, it is a fairly common adjective in the Ṛgveda for Mitra and Varuṇa, and more generally the Āditya-s as also for Indra, Bṛhaspati and Agni. Sāyaṇa explains the word as one who widely manifests his favor to many nations. Going against the grain, we suggest that it is possible that tuvijātaḥ here is another Āditya, i.e. Vivasvān.+++(4)+++
+
+The reason why the list of seven is a possibility is because elsewhere in the Ṛgveda, the number of Āditya-s is stated as eight (RV 10.72), with seven being the immortal gods and the eighth being the dead-egg Mārtāṇḍa from which the rest of the universe was fashioned.
+</details>
+
+
+
 <details><summary>सायण-भाष्यम्</summary>
 
-आदित्येभ्यः अदितेःपुत्रेभ्यः राजभ्यःराजमानेभ्यः ईश्वरेभ्योवामित्रादिभ्यः घृतस्नूः घृतप्रस्रावि- णीः घृतङ्क्षरन्तीः इमागिरः स्तुतिलक्षणावाचः सनात् सर्वदाजुह्वा वाङ्गामैतत् वागिन्द्रियेण जुहो- मि प्रयच्छामि करोमीतियावत् यद्वा जुहूस्थानीयत्वेनघृतङ्क्षरन्ति वाग्रूपाणिहवींषिजुहोमि आदि- त्यानुद्दिश्यत्यजामि मन्त्रणाम्पयोघृतादिक्षरणेहेतुत्वञ्च यदृचोधीतेपयसः कुल्याअस्येत्यादिनातैत्ति- रीयेस्पष्टमाम्नातम् नोस्मदीयास्तागिरः मित्रादयः प्रत्येकंश्रृणोतु तेचतैत्तिरीयेअष्टौपुत्रासोअदितेरि- त्युपक्रम्यस्पष्टमनुक्रान्ताः मित्रश्चवरुणश्चधाताचार्यमाचअंशुश्चभगश्चइन्द्रश्चविवस्वांश्चेत्येतइति मित्रःप्रमीतेस्त्रायकः यद्वा सर्वेषांस्निग्धः अरीन् यच्छति नियच्छतीत्यर्यमाभगोभजनीयोदेवः तुविजातः तुवीतिबहुनाम बहुषुदेशेष्वनुग्रहार्थम्प्रादुर्भूतः वरुणविशेषणमेतत्पापस्यनिवारणाद्वरुणः दक्षःसमर्थः एतच्चांशस्यविशेषणम् ॥ १ ॥ पूर्वोक्तएवपशौ इमंस्तोममित्येषावपायागस्ययाज्या सूत्रितञ्च—इमंस्तोमंसक्रतवोमेअद्यतिस्रो- भूमीर्धारयन्त्रीँ रुतद्यूनिति ।
+**आदित्येभ्यः** अदितेःपुत्रेभ्यः राजभ्यःराजमानेभ्यः ईश्वरेभ्यो वामित्रादिभ्यः **घृतस्नूः** घृतप्रस्रावि- णीः घृतङ्क्षरन्तीः इमागिरः स्तुतिलक्षणावाचः सनात् सर्वदाजुह्वा वाङ्गामैतत् वागिन्द्रियेण जुहो- मि प्रयच्छामि करोमीतियावत् यद्वा जुहूस्थानीयत्वेनघृतङ्क्षरन्ति वाग्रूपाणिहवींषिजुहोमि आदि- त्यानुद्दिश्यत्यजामि मन्त्रणाम्पयोघृतादिक्षरणेहेतुत्वञ्च यदृचोधीतेपयसः कुल्याअस्येत्यादिनातैत्ति- रीयेस्पष्टमाम्नातम् नोस्मदीयास्तागिरः मित्रादयः प्रत्येकंश्रृणोतु तेचतैत्तिरीयेअष्टौपुत्रासोअदितेरि- त्युपक्रम्यस्पष्टमनुक्रान्ताः मित्रश्चवरुणश्चधाताचार्यमाचअंशुश्चभगश्चइन्द्रश्चविवस्वांश्चेत्येतइति मित्रःप्रमीतेस्त्रायकः यद्वा सर्वेषांस्निग्धः अरीन् यच्छति नियच्छतीत्यर्यमाभगोभजनीयोदेवः **तुविजातः** तुवीति बहुनाम बहुषुदेशेष्वनुग्रहार्थम्प्रादुर्भूतः वरुणविशेषणमेतत्पापस्यनिवारणाद्वरुणः दक्षःसमर्थः एतच्चांशस्यविशेषणम् ॥ १ ॥ पूर्वोक्तएवपशौ इमंस्तोममित्येषावपायागस्ययाज्या सूत्रितञ्च—इमंस्तोमंसक्रतवोमेअद्यतिस्रो- भूमीर्धारयन्त्रीँ रुतद्यूनिति ।
 </details>
 
 <details><summary>+Wilson</summary>
