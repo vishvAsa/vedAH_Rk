@@ -126,12 +126,27 @@ genre M
 
 हे **अग्ने** **तव** संबन्धिन्या **ऊती** ऊत्या रक्षया **तं** **कामम्** **अश्याम** प्राप्नुयाम । तमेव कामं विवृणोति । हे **रयिवः** धनवन्नग्ने **सुवीरं** शोभनपुत्रादियुक्तं **रयिं** धनम् **अश्याम** प्राप्नुयाम । तथा **वाजयन्तः** वाजमन्नमात्मन इच्छन्तो वयं **वाजं** त्वया दत्तमन्नम् **अभि** आभिमुख्येन **अश्याम** प्राप्नुयाम । हे **अजर** जरारहिताग्ने **ते** त्वदीयम् **अजरं** जरारहितं **द्युम्नं** द्योतमानं यशश्च **अश्याम** प्राप्नुयाम ॥ ॥ ७ ॥
 </details>
+<details><summary>भट्टभास्करटीका</summary>
+
+ऊत्यन्तः प्रथमः पादः ॥ हे **अग्ने तं कामम् अश्याम** अश्नुवीमहि, यद्-अर्थम् आत्मा तुभ्यं निवेदितः ।  
+अशू व्याप्तौ, व्यत्ययेन परस्मैपदम्, 'बहुलं छन्दसि' इति शपो लुक्, यासुडादि ।  
+**तवोती** तव रक्षया । अवतेः क्तिनि ज्वरत्वरादिना ऊठादेशः, 'ऊतियूतिजूति' इति क्तिन उदात्तत्वं निपात्यते, तृतीयैकवचनस्य 'सुपां सुलुक्' इति पूर्वसवर्णादेशः ।  
+
+किञ्च - हे **रयिवः** रयिमन् । 'मतुवसोः' इति रुत्वम्, ' छन्दसीरः' इति मतोर्वत्वम् । **सुवीरं** रयिमश्याम प्राप्नुयाम शोभनाः वीराः पुत्रादयो यस्मिन्तं पुत्रपौत्रादिसमृद्धिहेतुं धनं प्राप्नुयाम । 'वीरवीर्यौ च' इत्युत्तरपदाद्युदात्तत्वम् ।  
+
+किञ्च - **वाजयन्तः** वाजम् अन्नम् आत्मन इच्छन्तः । क्यचि 'न छन्दस्यपुत्रस्य' इतीत्वप्रतिषेधः । यदा वयं वाजं लिप्सामहे तदा वाजमन्नं आभिमुख्येनाश्नुवीमहि लिप्सेमहि । स्वरानवग्रहौ दुर्घतौ । यद्वा - वाजमाचक्षत इति णिच् । 
+
+किञ्च - हे अजर जरारहित अजरमक्षयं द्युम्नं यशः ते त्वृत्प्रसादात् अश्याम बिभृयाम । 'नञो जरमरमित्रमृताः' इत्यजरशब्दे उत्तरपदाद्युदात्तत्वम् ॥
+</details>
 
 <details><summary>+Wilson</summary>
 
 ### English translation:
 
-“May we obtain through your protection, **Agni**, that which we desire; giver of riches, may we obtain of your riches and descendants; desiring food, may we obtain food; may we obtain, imperishable Agni, imperishable fame (through you).”
+“May we obtain through your protection, **Agni**, that which we desire;  
+giver of riches, may we obtain of your riches and descendants;  
+desiring food, may we obtain food;  
+may we obtain, imperishable Agni, imperishable fame (through you).”
 
 ### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
@@ -140,8 +155,10 @@ Yajrveda, 18.74
 
 <details><summary>+Jamison Brereton</summary>
 
-May we attain this desire, Agni, through your help. May we attain  wealth, o wealthy one, which affords good heroes.  
-May we attain the prize when we seek the prize. May we attain your  unaging brilliance, o unaging one.
+May we attain this desire, Agni, through your help.  
+May we attain  wealth, o wealthy one, which affords good heroes.  
+May we attain the prize when we seek the prize.  
+May we attain your  unaging brilliance, o unaging one.
 </details>
 
 <details><summary>+Jamison Brereton Notes</summary>
@@ -154,6 +171,15 @@ This vs. is characterized by etymological figures: b rayíṃ rayivaḥ, c vā́
 Help us, that we may gain this wish, O Agni, gain riches, Wealthy One! with store of heroes.  
      Desiring strength from thee may we be strengthened, and win, Eternal! thine eternal glory.
 </details>
+
+<details><summary>Keith</summary>
+
+May we win by thy help, O Agni, our wish,  
+Wealth with fair offspring, O wealthy one:  
+May we win booty, seeking for booty;  
+May we win, O deathless, undying glory.
+</details>
+
 
 <details><summary>+Geldner</summary>
 
