@@ -83,6 +83,10 @@ genre M
 
 हेपावकशोधकाग्ने शुचिः शुद्धोवन्द्यः नमस्कार्यःसन् महत् अत्यधिकंविरोचते विविधन्दीप्यसे यतस्त्वङ्घृतेभिः घृतैराहुतः समन्तात्सिक्तः अतोविरोचसे ॥ ४ ॥
 </details>
+<details><summary>भट्टभास्करटीका</summary>
+
+15'अग्नये रुक्मवते पुरोडाशम् अष्टाकपालं निर्वपेद् रुक्कामः' इत्यस्य पुरोनुवाक्या - शुचिरिति गायत्री । वन्द्योन्तः प्रथमः पादः ॥ हे अग्ने । पादादित्वान्न निहन्यते, षाष्ठिकमामान्त्रिताद्युदात्तत्वम् । पावक शोधक, त्वं खलु शुचिश्शुद्धः न केवलं शोधयिता वन्द्यस्स्तुत्यश्च सर्वेषाम् । 'ईडवन्दवृशंस' इत्याद्युदात्तत्वम् । स त्वं घृतेभिः घृतैः । 'बहुलं छन्दसि' इत्यैसभावः । अनेकपात्रगतत्वाद्बहुवचनम् । तैराहुतः आभिमुख्येन मर्यादया वा हुतः । 'गतिरनन्तरः' इति पूर्वपदप्रकृतिस्वरत्वम् । बृहत् भृशं विरोचसे विविधमनेकप्रकारं दीप्यसे । त्वं हि शुचित्वादिगुणैः प्रागेव रोचसे, अधुना तु घृतैरप्याहुतो बृहद्विरोचसे । स त्वमस्मिन्यजमाने रुचं देहीति भावः, शेषो वा । 'स एवास्मिन्रुचं दधाति रोचत एव'`इति ब्राह्मणम् ॥
+</details>
 
 <details><summary>+Wilson</summary>
 
@@ -106,6 +110,12 @@ Thou, Purifier Agni, high shinest forth, bright, adorable,
 <details><summary>+Oldenberg</summary>
 
 Bright, O purifier, worthy of adoration, Agni, thou shinest mightily; thou hast been worshipped by offerings of ghrita 1.
+</details>
+<details><summary>Keith</summary>
+
+Pure, O purifying one, to be lauded,  
+O Agni, mightily thou shinest,  
+To whom offering is made with ghee.
 </details>
 
 <details><summary>+Geldner</summary>
