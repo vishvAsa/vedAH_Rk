@@ -119,6 +119,11 @@ genre M
 <details><summary>+Wilson</summary>
 
 ### English translation:
+10.091.01 Damūnas, being glorified by his diligent (worshippers), desiring food upon the footmark of Iḷā, iskindled in the chamber (of sacrifice), the offerer of every oblation, the object of veneration, the lord, theresplendent, to him who desires his friendship.
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Damūnas: an epithet of **Agni**; genitive rous or submissive
 </details>
 
 <details><summary>+Jamison Brereton</summary>

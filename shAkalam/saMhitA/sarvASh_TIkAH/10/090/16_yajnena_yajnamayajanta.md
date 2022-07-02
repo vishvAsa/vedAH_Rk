@@ -122,25 +122,24 @@ popular;; repeated line
 
 <details><summary>सायण-भाष्यम्</summary>
 
-पूर्व प्रपञ्चेनोक्तमर्थं संक्षिप्यात्र दर्शयति । **देवाः** प्रजापतिप्राणरूपाः **यज्ञेन** यथोक्तेन मानसेन संकल्पेन यज्ञं यथोक्तयज्ञस्वरूपं प्रजापतिम् **अयजन्त** पूजितवन्तः । तस्मात्पूजनात **तानि** प्रसिद्धानि **धर्माणि** जगद्रूपविकाराणां धारकाणि **प्रथमानि** मुख्यानि आसन् । एतावता सृष्टिप्रतिपादकसूक्तभागार्थः संगृहीतः । अथोपासनतत्फलानुवादकभागार्थः संगृह्यते । **यत्र** यस्मिन् विराटप्राप्तिरूपे नाके **पूर्वे** **साध्याः** पुरातना विराडुपास्तिसाधकाः **देवाः** **सन्ति** तिष्ठन्ति तत् **नाकं** विराट्प्राप्तिरूपं स्वर्ग **ते** **महिमानः** तदुपासका महात्मानः **सचन्त** समवयन्ति प्राप्नुवन्ति ॥ ॥ १९ ॥ ॥ ७ ॥
+पूर्व प्रपञ्चेनोक्तमर्थं संक्षिप्यात्र दर्शयति । **देवाः** प्रजापतिप्राणरूपाः **यज्ञेन** यथोक्तेन मानसेन संकल्पेन यज्ञं यथोक्तयज्ञस्वरूपं प्रजापतिम् **अयजन्त** पूजितवन्तः । तस्मात्पूजनात् **तानि** प्रसिद्धानि **धर्माणि** जगद्-रूप-विकाराणां धारकाणि **प्रथमानि** मुख्यानि **आसन्** । एतावता सृष्टि-प्रतिपादक-सूक्त-भागार्थः संगृहीतः । 
+
+अथोपासन-तत्-फलानुवादक-भागार्थः संगृह्यते ।  
+**यत्र** यस्मिन् विराट्प्राप्ति-रूपे नाके **पूर्वे** **साध्याः** पुरातना विराड्-उपास्ति-साधकाः **देवाः** **सन्ति** तिष्ठन्ति तत् **नाकं** विराट्-प्राप्ति-रूपं स्वर्गं **ते** **महिमानः** तदुपासका महात्मानः **सचन्त** समवयन्ति प्राप्नुवन्ति ॥ ॥ १९ ॥ ॥ ७ ॥
 </details>
 
 <details><summary>+Wilson</summary>
 
 ### English translation:
 
-“By sacrifice the gods worshipped (him who is also) the sacrifice; those were the first duties. Thosegreat ones became partakers of the heaven where the ancient deities the **Sādhyas** abide. 10.091.01 Damūnas, being glorified by his diligent (worshippers), desiring food upon the footmark of Iḷā, iskindled in the chamber (of sacrifice), the offerer of every oblation, the object of veneration, the lord, theresplendent, to him who desires his friendship.”
-
-### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
-
-Damūnas: an epithet of **Agni**; genitive rous or submissive
+“By sacrifice the gods worshipped (him who is also) the sacrifice; those were the first duties. Those great ones became partakers of the heaven where the ancient deities the **Sādhyas** abide. ”
 </details>
 
 <details><summary>+Jamison Brereton</summary>
 
 With the sacrifice the gods performed the sacrifice for themselves: these  were the first foundations.  
-These, its greatness, accompanied (it) to heaven’s vault, where the  
-ancient Sādhyas and the gods are.
+These, its greatness, accompanied (it) to heaven’s vault,  
+where the ancient Sādhyas and the gods are.
 </details>
 
 <details><summary>+Griffith</summary>
