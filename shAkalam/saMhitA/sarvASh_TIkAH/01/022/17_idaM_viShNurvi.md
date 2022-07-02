@@ -10,7 +10,7 @@ ChandaH = "गायत्री"
 
 इदं꣡ वि꣡ष्णुर् वि꣡ चक्रमे  
 त्रे᳐धा꣡ नि꣡ दधे पद꣡म्  
-स꣡मूऌहम् अस्य पांसुरे꣡
+स꣡मूळ्हम् अस्य पांसुरे꣡
 </details>
 
 <details><summary>+Vedaweb annotation</summary>

@@ -10,7 +10,7 @@ ChandaH = "गायत्री"
 
 प्र꣡भर्ता र꣡थं गव्य꣡न्तम्  
 अपाका꣡च् चिद् य꣡म् अ꣡वति  
-इनो꣡ व꣡सु स꣡ हि꣡ वो꣡ऌहा
+इनो꣡ व꣡सु स꣡ हि꣡ वो꣡ळ्हा
 </details>
 
 <details><summary>+Vedaweb annotation</summary>

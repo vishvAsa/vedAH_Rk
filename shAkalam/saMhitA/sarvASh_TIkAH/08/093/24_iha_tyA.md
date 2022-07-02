@@ -10,7 +10,7 @@ ChandaH = "गायत्री"
 
 इह꣡ त्या꣡ सधमा꣡दिया  
 ह꣡री हि꣡रण्यकेशिया  
-वोऌहा꣡म् अभि꣡ प्र꣡यो हित꣡म्
+वोळ्हा꣡म् अभि꣡ प्र꣡यो हित꣡म्
 </details>
 
 <details><summary>+Vedaweb annotation</summary>

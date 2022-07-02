@@ -10,7 +10,7 @@ ChandaH = "गायत्री"
 
 अ꣡स्य घा वीर꣡ ई꣡वतो  
 अग्ने꣡र् ईशीत म꣡र्तियः  
-तिग्म꣡जम्भस्य मीऌहु꣡षः
+तिग्म꣡जम्भस्य मीळ्हु꣡षः
 </details>
 
 <details><summary>+Vedaweb annotation</summary>
