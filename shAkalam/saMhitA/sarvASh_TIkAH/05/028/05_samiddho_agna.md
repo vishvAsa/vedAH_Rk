@@ -10,7 +10,7 @@ ChandaH = "गायत्री"
 
 स꣡मिद्धो अग्न आहुत  
 देवा꣡न् यक्षि सुअध्वर  
-तुवं꣡ हि꣡ हव्यवा꣡ऌ अ꣡सि
+तुवं꣡ हि꣡ हव्यवा꣡ळ् अ꣡सि
 </details>
 
 <details><summary>+Vedaweb annotation</summary>

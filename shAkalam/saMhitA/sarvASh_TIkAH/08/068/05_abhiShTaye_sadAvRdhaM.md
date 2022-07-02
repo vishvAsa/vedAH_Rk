@@ -9,7 +9,7 @@ ChandaH = "गायत्री"
 <details><summary>+Thomson & Solcum</summary>
 
 अभि꣡ष्टये सदा꣡वृधं  
-सु꣡वर्मीऌहेषु यं꣡ न꣡रः  
+सु꣡वर्मीळ्हेषु यं꣡ न꣡रः  
 ना꣡ना ह꣡वन्त ऊत꣡ये
 </details>
 

@@ -8,7 +8,7 @@ ChandaH = "गायत्री"
 
 <details><summary>+Thomson & Solcum</summary>
 
-उपस꣡द्याय मीऌहु꣡ष  
+उपस꣡द्याय मीळ्हु꣡ष  
 आसि꣡ये जुहुता हविः꣡  
 यो꣡ नो ने꣡दिष्ठम् आ꣡पियम्
 </details>

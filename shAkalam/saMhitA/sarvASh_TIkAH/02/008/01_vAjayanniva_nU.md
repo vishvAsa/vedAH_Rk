@@ -10,7 +10,7 @@ ChandaH = "गायत्री"
 
 वाजय꣡न्न् इव नू꣡ र꣡थान्  
 यो꣡गाँ अग्ने꣡र् उ꣡प स्तुहि  
-यश꣡स्तमस्य मीऌहु꣡षः
+यश꣡स्तमस्य मीळ्हु꣡षः
 </details>
 
 <details><summary>+Vedaweb annotation</summary>
