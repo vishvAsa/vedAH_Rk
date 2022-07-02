@@ -116,9 +116,6 @@ popular;; epic anuṣṭubh (380)
 
 <details><summary>+Wilson</summary>
 
-### English translation:
-
-“When they immolated **Puruṣa**, into how many portions did they divide him? What was his mouth called, what his arms, what his thighs, what were his feet called?”
 </details>
 
 <details><summary>+Jamison Brereton</summary>

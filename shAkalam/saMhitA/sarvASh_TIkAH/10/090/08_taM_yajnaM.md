@@ -114,11 +114,11 @@ popular;; epic anuṣṭubh (380)
 
 ### English translation:
 
-“From that victim, in whom the universal oblation was offered, the mixture of curds and butter wasproduced, (then) he made those animals over whom **Vāyu** presides, those that are wild, and those that aretame.”
+“They immolated as the victim upon the sacred grass - **Puruṣa**, born before (creation); with him the deities who were **Sādhyas** and those who were Ṛṣis sacrificed.”
 
 ### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
-Vāyu: vāyuvyan: **Taittirīya** **Brāhmaṇa** 3.2.1.3; or, who are governed by instrumental nct
+**Sādhya** = competent to create, i.e.,**Prajāpati** and the rest
 </details>
 
 <details><summary>+Jamison Brereton</summary>

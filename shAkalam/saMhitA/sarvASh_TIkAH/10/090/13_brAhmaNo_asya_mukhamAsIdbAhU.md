@@ -117,11 +117,11 @@ popular;; epic anuṣṭubh (380)
 
 ### English translation:
 
-“The moon was born from his mind; the sun was born from his eye; **Indra** and **Agni** were born from his mouth, **Vāyu** from his breath.”
+“His mouth became the **Brāhmaṇa**, his arms became the **Rājanya**, his thighs became the **Vaiśya**;the **Śūdra** was born from his feet.”
 
 ### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
-Or, air and breath proceeded from his ear and fire rose from his mouth: **Yajuṣ**
+The Brāhmaṇa was his mouth; the Rājanya was made his arms; thatwhich was the Vaiśya was his thighs; the S'Ūdra sprang from his feet: Muir, **Sanskrit** Texts, vol. 1, p.9
 </details>
 
 <details><summary>+Jamison Brereton</summary>
