@@ -101,6 +101,12 @@ genre M
 हे **अग्ने** **सहस्वः** बलवन् **पृतनासहं** पृतनाः सेना अभिभवितारं **रयिं** पुत्रं त्वम् **आ** **भर** आहर । **त्वं** **हि** **सत्यः** सत्यभूतः **अद्भुतः** महान् **गोमतः** गोभिर्युक्तस्य **वाजस्य** अन्नस्य **दाता** ॥
 </details>
 
+<details><summary>भट्टभास्करटीका</summary>
+
+हे अग्ने सहस्वः महाबल । 'मतुवसोः' इति रुत्वम् । पृतनासहं सर्वशत्रुसेनाभिभवनसमर्थं तत्र पर्याप्तं रयिं धनं आभर आहर । पूर्ववद्भत्वम् । सहेः क्विप्, कृदुत्तरपदप्रकृतिस्वरत्वम् । यस्मात्त्वमेव सत्यः अवितथः अद्भुतः आश्चर्यभूतः वाजस्यान्नस्य दाता गोमतः गोसहितस्य वाजस्य दातेत्यर्थः । तस्मात्तादृशमन्नमस्मभ्यं देहि येन वयं शत्रूनभिभविष्याम इति ॥
+</details>
+
+
 <details><summary>+Wilson</summary>
 
 ### English translation:
@@ -124,6 +130,16 @@ Victorious Agni, bring to us the wealth that vanquisheth in war;
 
 O powerful Agni! Bring hither that wealth powerful in battles. For thou art the true, wonderful giver of booty rich in cows.
 </details>
+
+<details><summary>Keith</summary>
+
+O Agni, mighty one, bring to us  
+That wealth which prevaileth in contests;
+  
+For thou art true, wondrous,  
+The giver of booty of kine.
+</details>
+
 
 <details><summary>+Geldner</summary>
 
