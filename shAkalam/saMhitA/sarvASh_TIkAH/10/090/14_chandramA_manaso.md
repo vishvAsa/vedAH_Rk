@@ -111,7 +111,11 @@ popular;; epic anuṣṭubh (380)
 
 ### English translation:
 
-“From his navel came the firmament, from his head the heaven was produced, the earth from his feet,the quarters of space from his ear, so they constituted the world.”
+“The moon was born from his mind; the sun was born from his eye; **Indra** and **Agni** were born from his mouth, **Vāyu** from his breath.”
+
+### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
+
+Or, air and breath proceeded from his ear and fire rose from his mouth: **Yajuṣ**
 </details>
 
 <details><summary>+Jamison Brereton</summary>

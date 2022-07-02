@@ -125,7 +125,7 @@ popular;; repeated line
 पूर्व प्रपञ्चेनोक्तमर्थं संक्षिप्यात्र दर्शयति । **देवाः** प्रजापतिप्राणरूपाः **यज्ञेन** यथोक्तेन मानसेन संकल्पेन यज्ञं यथोक्तयज्ञस्वरूपं प्रजापतिम् **अयजन्त** पूजितवन्तः । तस्मात्पूजनात् **तानि** प्रसिद्धानि **धर्माणि** जगद्-रूप-विकाराणां धारकाणि **प्रथमानि** मुख्यानि **आसन्** । एतावता सृष्टि-प्रतिपादक-सूक्त-भागार्थः संगृहीतः । 
 
 अथोपासन-तत्-फलानुवादक-भागार्थः संगृह्यते ।  
-**यत्र** यस्मिन् विराट्प्राप्ति-रूपे नाके **पूर्वे** **साध्याः** पुरातना विराड्-उपास्ति-साधकाः **देवाः** **सन्ति** तिष्ठन्ति तत् **नाकं** विराट्-प्राप्ति-रूपं स्वर्गं **ते** **महिमानः** तदुपासका महात्मानः **सचन्त** समवयन्ति प्राप्नुवन्ति ॥ ॥ १९ ॥ ॥ ७ ॥
+**यत्र** यस्मिन् विराट्प्राप्ति-रूपे नाके **पूर्वे** **साध्याः** पुरातना विराड्-उपास्ति-साधकाः **देवाः** **सन्ति** तिष्ठन्ति तत् **नाकं** विराट्-प्राप्ति-रूपं स्वर्गं **ते** **महिमानः** तद्-उपासका महात्मानः **सचन्त** समवयन्ति प्राप्नुवन्ति ॥ ॥ १९ ॥ ॥ ७ ॥
 </details>
 
 <details><summary>+Wilson</summary>
@@ -142,10 +142,41 @@ These, its greatness, accompanied (it) to heaven’s vault,
 where the ancient Sādhyas and the gods are.
 </details>
 
+<details><summary>Whitney</summary>
+
+### Translation
+1. By the sacrifice the gods sacrificed to the sacrifice; those were  
+   the first ordinances (*dhárman*); those greatnesses attach themselves to  
+   (*sac*) the firmament, where are the ancient (*pū́rva*) perfectible  
+   (*sādhyá*) gods.
+
+### Notes
+The verse is RV. i. 164. 50,\* found also in VS. (xxxi. 16), TS. (iii.
+5. 11⁵), TA. (iii. 12. 7), MS. (iv. 10. 3), CB. (x. 2. 2³, with  
+   comment); ⌊*Kaṭha-hss.*, p. 83;⌋ the only variant is *sacante* for  
+   *sacanta* in TS.TA. 
+   
+> "This passage and vii. 79. 2 cast light upon the idea of *sādhya;* there are two kinds of gods: 
+> 
+> - those with Indra at their head and 
+> - the *sādhya* 'they who are to be won' (*sādhya* 'what is to be  
+   brought into order, under control, or into comprehension'). 
+
+> They are thus the unknown, conceived as preceding the known. Later they are worked into the ordinary classification of Vasus, Rudras, etc.; and what was formerly a serious religious problem, a hierarchy conceived as possible before the now-accepted gods (something like the pre-Olympians with the Greeks), has become an empty name." 
+> 
+> R. \*⌊Also RV. x. 90. 16.⌋
+</details>
+
+
 <details><summary>+Griffith</summary>
 
-Gods, sacrificing, sacrificed the victim these were the carliest holy ordinances.  
+Gods, sacrificing, sacrificed the victim these were the earliest holy ordinances.  
      The Mighty Ones attained the height of heaven, there where the Sidhyas, Gods of old, are dwelling.
+</details>
+
+<details><summary>Griffith - AV</summary>
+
+The Gods adored the Sacrifice with worship: these were the statutes of primeval ages. Those mighty ones attained the cope of heaven, there where the Sadhyas, Gods of old, are dwelling.
 </details>
 
 <details><summary>+Geldner</summary>

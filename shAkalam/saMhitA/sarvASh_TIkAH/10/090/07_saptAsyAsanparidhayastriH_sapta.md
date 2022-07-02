@@ -109,11 +109,11 @@ popular;; epic anuṣṭubh (380)
 
 ### English translation:
 
-“They immolated as the victim upon the sacred grass **Puruṣa**, born before (creation); with him thedeities who were **Sādhyas** and those who were Ṛṣis sacrificed.”
+“Seven were the enclosures of the sacrifice, thrice seven logs of fuel were prepared, when the gods,celebrating the rite, bound **Puruṣa** as the victim.”
 
 ### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
-**Sādhya** = competent to create, i.e.,**Prajāpati** and the rest
+Seven enclosures: sapta paridhayaḥ = seven metres, ga-yatrīetc., and also as meaning the shallow trenches, three of which were dug round the **Āhavanīya** fireplace, threeround the northern altar, and the seven ideally dug round the sun to keep off evil spirits. paridhayaḥ = moats; or,the seven oceans; thrice seven pieces of fuel = twelve months of the year, the five seasons, the **three worlds** andthe sun; or the three classes of seven metres eaach: **Taittirīya** **Saṃhitā** 5.1.10.3
 </details>
 
 <details><summary>+Jamison Brereton</summary>

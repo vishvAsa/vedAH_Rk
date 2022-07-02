@@ -109,15 +109,14 @@ popular;; epic anuṣṭubh (380)
 
 <details><summary>+Wilson</summary>
 
+
 ### English translation:
 
-“From that victim, in whom the universal oblation was offered, the ṛccas and **sāmans** were produced;from him the metres were born; from him the **yajus**. was born.”
+“From that victim, in whom the universal oblation was offered, the mixture of curds and butter was produced, (then) he made those animals over whom **Vāyu** presides, those that are wild, and those that aretame.”
 
 ### Commentary by Sāyaṇa: Ṛgveda-bhāṣya
 
-Tasmād yajñāt = from that simple portionsurnamed the universal sacrifice, sarvahūtaḥ, meaning **Puruṣa** as the world;
-
-**Yajña** = yajñasādhana, thematerial of sacrifice, i.e., the victim. Puruṣa is the spiritual cause and effect of material creation; it is from him,not from the ideal or real sacrifice, that all things originate
+Vāyu: vāyuvyan: **Taittirīya** **Brāhmaṇa** 3.2.1.3; or, who are governed by instrumental nct
 </details>
 
 <details><summary>+Jamison Brereton</summary>
