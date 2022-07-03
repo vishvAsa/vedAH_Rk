@@ -122,9 +122,7 @@ Vāyu: vāyuvyan: **Taittirīya** **Brāhmaṇa** 3.2.1.3; or, who are governed 
 <details><summary>+Jamison Brereton</summary>
 
 From that sacrifice, when it was offered in full, the clotted-butter  mixture was collected.  
-It [=the sacrifice] was made into the animals: those of the air (and  
-both) those that belong to the wilderness and those that belong to  
-the village.
+It [=the sacrifice] was made into the animals: those of the air (and both) those that belong to the wilderness and those that belong to the village.
 </details>
 
 <details><summary>+Griffith</summary>
