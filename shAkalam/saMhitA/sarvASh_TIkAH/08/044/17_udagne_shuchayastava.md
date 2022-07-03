@@ -83,6 +83,13 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 हे **अग्ने** ते **तव** **शुचयः** निर्मलाः **शुक्राः** शुक्लवर्णाः **भ्राजन्तः** दीप्यमानाः **अर्चयः** प्रभाः **तव** **ज्योतींषि** तेजांसि **उत्** **ईरते** प्रेरयन्ति ॥
 </details>
 
+<details><summary>भट्टभास्करटीका</summary>
+
+हे अग्ने तव शुक्रास्तेजोविशेषाः शुचयश्शुद्धाः भ्राजन्तो दीप्यमानाः । व्यत्ययेन परस्मैपदम् । उदीरते उद्गच्छन्ति । ईर गतौ आदादिकः अनुदात्तेत् 'आत्मनेपदेष्वनतः' इत्यदादेशः ।  
+किञ्च – तवैव स्वभूतानि सर्वाणि तानि ज्योतींषि अर्चयः अर्चिषश्च त्वदीया एव । यद्वा - तवार्चयः अर्चयितारः यागादिभिराराधयितारः ज्योतींषि भवन्ति ज्योतीरूपास्सम्पद्यन्ते । अर्चेर्ण्यन्तात् 'अच इः' इतीप्रत्ययः । यत एवं महाप्रभावस्त्वं तस्मादस्मदभिमतं शीघ्रं सम्पादयेति भावः ॥
+
+</details>
+
 <details><summary>+Wilson</summary>
 
 ### English translation:
@@ -101,6 +108,14 @@ your lights, your beams.
 Upward, O Agni, rise thy flames, pure and resplendent, blazing high,  
      Thy lustres, fair effulgences.
 </details>
+
+<details><summary>Keith</summary>
+
+O Agni, thy pure,  
+Bright, flaming (rays) arise,  
+Thy lights, thy flames.
+</details>
+
 
 <details><summary>+Geldner</summary>
 

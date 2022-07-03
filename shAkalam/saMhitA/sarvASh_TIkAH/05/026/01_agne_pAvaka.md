@@ -85,7 +85,7 @@ genre M
 
 <details><summary>सायण-भाष्यम्</summary>
 
-हे **पावक** शोधक **रोचिषा** स्वदीप्त्या **मन्द्रया** देवानां मादयित्र्या **जिह्वया** च हे **देव** द्योतमान **अग्ने** **देवान्** **आ** **वक्षि** यज्ञार्थमावह । **यक्षि** **च** । तान् यज ॥
+हे **पावक** शोधक **रोचिषा** स्वदीप्त्या **मन्द्रया** देवानां मादयित्र्या **जिह्वया** च हे **देव** द्योतमान **अग्ने** **देवान्** **आ** **वक्षि** यज्ञार्थम् आवह । **यक्षि** **च** । तान् यज ॥
 </details>
 
 <details><summary>+Wilson</summary>
@@ -112,6 +112,14 @@ O AGNI, Holy and Divine, with splendour and thy pleasant tongue
 
 Agni, purifier! With thy splendour, with thy delightful tongue, O god, bring hither the gods and perform the sacrifice.
 </details>
+
+<details><summary>Keith</summary>
+
+O Agni the purifying, with thy light,  
+0 god, with thy pleasant tongue,  
+Bring hither the gods and sacrifice.  
+</details>
+
 
 <details><summary>+Geldner</summary>
 

@@ -85,6 +85,12 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 **शुचिव्रततमः** अतिशयेन शुद्धकर्मा **शुचिः** शुद्ध एवं **विप्रः** मेधावी **शुचिः** शुद्धः सन्नेव **कविः** क्रान्तकर्मा **शुचिः** एव **आहुतः** **अग्निः** **रोचते** प्रकाशते ॥
 </details>
 
+<details><summary>भट्टभास्करटीका</summary>
+
+अयमग्निस्स्वयमेव तावत् शुचिव्रततमः शुद्धकर्मतमः शुद्धान्नतमो वा । अग्नित्वादेव सर्वमेतत्सम्बन्धि शुद्धमित्यर्थः । किङ्च - यस्मादयं विप्रः मेधावी ब्राह्मणो वा ततोपि शुचिश्शुद्धः; तदस्य द्वितीयं शुद्धिकारणमित्यर्थः । किञ्च - यतश्चायं कविः क्रान्तदर्शनः वशीकृतवाङ्मयो वा ततश्च शुचिश्शुद्धः ; तृतीयमिदं शुद्धिकारणम् । अथ चतुर्थमुच्यते - यस्मादयमाहुतः मर्यादया शास्त्रोक्तविधिना हुतस्ततोपि हेतोरिदानीं शुचिर्भूत्वा रोचते । 'गतिरनन्तरः' इति पूर्वपदप्रकृतिस्वरत्वं ॥
+</details>
+
+
 <details><summary>+Wilson</summary>
 
 ### English translation:
@@ -107,6 +113,14 @@ flaming he shines when he is bepoured.
 Agni who bears most holy sway, the holy Singer, holy Sage,  
      Shines holy when we worship him.
 </details>
+
+<details><summary>Keith</summary>
+
+Agni, of purest vows,  
+Pure sage, pure poet,  
+Shineth in purity, when offering is made.  
+</details>
+
 
 <details><summary>+Geldner</summary>
 
