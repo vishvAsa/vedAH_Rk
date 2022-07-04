@@ -83,6 +83,13 @@ genre M
 मित्रावरुणा हेमित्रावरुणौ वांयुवाभ्यां अयंसोमः सुतः अभिषुतः ऋतावृधा हेसत्यस्य यज्ञस्यवावर्धकौ ममेत् ममैवइहास्मिन्यज्ञे हवमाह्वानं श्रुतं श्रृणुतम् ॥ ४ ॥
 </details>
 
+<details><summary>भट्टभास्करटीका</summary>
+
+
+हे मित्रावरुणा मित्रावरुणौ, ऋतावृव्धा ऋतावृधौ, ऋतस्य सत्यस्य यज्ञस्य वा वर्धयितारौ । उभयत्र 'सुपां सुछुक्' इत्याकारः । 'वृधेः क्विप्' 'अन्येषामपि दृश्यते' इत्युपपदस्य दीर्घः । अयं सोमः वां युवयोः अर्थाय सुतः अभिषुतः । इदिति हेतौ । यस्मादेवं तस्मादिहास्मिन्कर्मणि मम हवमाह्वानं श्रुतं श्रुणुतम् । श्रुत्वा चागत्य सोमं पिबतमित्यर्थः । 'भावेनुपसर्गस्य' इति ह्वयतेरप्सम्प्रसारणं च । शृणोतेर्लेटि 'बहुलं छन्दसि' इति शपो लुक् ॥
+</details>
+
+
 <details><summary>+Wilson</summary>
 
 ### English translation:
@@ -101,6 +108,14 @@ Heed just my call here.
 This Soma hath been shed for you, Lawstrengtheners, Mitra-Varuna!  
      Listen ye here to this my call.
 </details>
+
+<details><summary>Keith</summary>
+
+This Soma is pressed for you, O Mitra and Varuna,  
+Who prosper holy order;  
+Hearken ye now to my supplication.
+</details>
+
 
 <details><summary>+Geldner</summary>
 
