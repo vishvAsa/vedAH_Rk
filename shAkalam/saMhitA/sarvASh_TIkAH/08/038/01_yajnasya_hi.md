@@ -106,6 +106,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 Because you two are regular offerers of the sacrifice, winners in  
 prize-contests and in (cultic/heroic) acts,  
 – Indra and Agni, take note of this.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/038/01-03.md">
+<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+
+The referent of tásya in the refrain pāda is not specified. It must fall into the cultic sphere, but could be ‘sacrifice’ or ‘hymn’ or, perhaps best, since it’s explicit in a nearby hymn by the same poet, ‘call’: VIII.35.4 bódhataṃ hávasya me.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -130,3 +140,4 @@ Ihr seid des Opfers Priester ja, in Schlacht und Opfer spendereich, O Indra-Agni
 Добывающие награду в состязаниях (и) при обрядах.  
 О Индра-Агни, помните об этом!
 </details>
+

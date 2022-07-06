@@ -103,6 +103,16 @@ genre M
 <details><summary>+Jamison Brereton</summary>
 
 He is pressed—who is the leader of goods, of riches, of Iḍā-offerings, Soma, who (is the leader) of good settlements,
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/13-14.md">
+<details open><summary><h2>13-14 ...{Loading}...</h2></summary>
+
+The main cl. in these two vss. consists of the first two words of 13, sá sunve “he is pressed,” followed by a series of rel. cl. that fill the rest of 13 (four yáḥ clauses, all nominal, with a single predicate ānetā́and four dependent genitives) and all of 14 (three yásya clause, one yéna, with one finite verb for the yásya cl. and one for the yéna).
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -127,3 +137,4 @@ Gepresst ist er der Güter bringt, der reichen Schatz und Labetränke zu uns fü
 Кто – богатств, кто – возлияний,  
 Сома, кто (поставщик) хороших поселений.
 </details>
+

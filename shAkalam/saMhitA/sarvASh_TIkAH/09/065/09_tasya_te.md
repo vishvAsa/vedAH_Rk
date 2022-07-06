@@ -99,6 +99,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 
 It’s with you—that prize-seeker who has won all the stakes—  
 that we choose partnership.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/07-09.md">
+<details open><summary><h2>07-09 ...{Loading}...</h2></summary>
+
+Again no signs of unity.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -121,3 +131,4 @@ Der du als Streitross alles Gut erbeutet hast, dich wünschen wir Uns zur Genoss
 
 -ru-
 </details>
+

@@ -126,6 +126,11 @@ genre M
 
 (Wealth) with which we will vanquish in battles those who vaunt  themselves, as we overcome the aims of the stranger.  
 Strengthen us because of our pleasing offering, o you who have the  goods of skill. Quicken our insights so they find goods.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+Geldner and Renou take vardha as intransitive/reflexive “wachse du,” “renforce toi,” but active forms of várdha- are about as reliably transitive as Vedic verbs get.
 </details>
 
 <details><summary>+Griffith</summary>
@@ -151,3 +156,4 @@ Durch den die stolzen in den Kämpfen wir zerstreun, durchkreuzend unsrer Feinde
 Расти от нашей жертвенной услады, о полный дружелюбия!  
 Вдохнови поэтические мысли, о (ты,) находящий добро!
 </details>
+

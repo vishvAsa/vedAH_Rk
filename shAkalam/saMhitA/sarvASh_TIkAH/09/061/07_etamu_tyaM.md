@@ -94,6 +94,15 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 <details><summary>+Jamison Brereton</summary>
 
 Just him do the ten fingers groom, him whose mother is the river(s). He has been reckoned among the Ādityas.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/07-09.md">
+<details open><summary><h2>07-09 ...{Loading}...</h2></summary>
+
+The tṛca is characterized by the mention of gods in all three vss. The Ādityas frame it (ādityébhiḥ 7c, mitré váruṇe ca 9c), with a more miscellaneous group in between. It is also marked by initial repetition: sám opens pādas 7c, 8a, and 8c. This is imperfectly echoed by sá n(o) opening 9a.
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -118,3 +127,4 @@ Zehn Finger läutern diesen nun, den aus dem Meer entsprungenen, Mit den Aditja'
 Пальцев, (его), чьи матери – реки.  
 Он был причислен к Адитьям.
 </details>
+

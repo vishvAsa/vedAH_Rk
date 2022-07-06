@@ -88,6 +88,15 @@ genre M
 
 Let goddess Sarasvatī, rich in prize mares, with her prizes  
 help us—the helper of visionary thoughts.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/04-06.md">
+<details open><summary><h2>04-06 ...{Loading}...</h2></summary>
+
+This tṛca is almost empty of content, in part because so much of each Gāyatrī — not a capacious meter in the first place — is occupied by repeated material: the last 6 of the 8 syllables of the 1st pāda of each vs. contain the nom. (4) or voc. (5, 6) of the NP devī́sárasvatī, and the b pādas of 4 and 6 contain responsive material: vā́jebhiḥ vājínīvatī (4) and x x vā́jeṣu vājini. Otherwise, as a helper (avitrī́) she is twice asked to help (4c avatu, 6b ávā). In the published translation these two impvs. are rendered in two different ways: “Let … help” and “aid” respectively. I would now change the 2nd to “help” as well to mark their essential identity (save for ps.). [Note that the Holland & van Nooten Rig Veda edition restoration of avitry àvatu in 4c is wrong: correct their avitrí to avitrī́.]
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -112,3 +121,4 @@ Es schirm der Andacht Schirmerin Sarasvati, die Göttin uns, Mit Kräften sie, d
 Богатая наградами, нам  
 Поможет, покровительница молитв!
 </details>
+

@@ -132,6 +132,16 @@ genre M
 
 Sing forth: let us recite to the gods. Impel Soma for great stakes.  
 The sweet one will purify himself across the sheep’s fleece. He will sit in  the tub, seeking the gods for us.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/04-06.md">
+<details open><summary><h2>04-06 ...{Loading}...</h2></summary>
+
+As Renou points out (ad vs. 6), the key to this tṛca is the dative of purpose: 4b dhánāya, 5b mádāya, 5d mahaté saúbhagāya, 6b bhárāya.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -157,3 +167,4 @@ Stimmt Lieder an, die Götter lasst uns preisen, zu grosser Beute spornet an den
 Сладкий пусть очищается через сито из овечьей шерсти!  
 Пусть усядется у нас в кувшине (этот) преданный богам!
 </details>
+

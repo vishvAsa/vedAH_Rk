@@ -129,6 +129,15 @@ genre D;; repeated line
 
 We made gruel for you who are accompanied by Pūṣan, roasted grains  for you of the fallow bay horses, accompanied by your fallow bays.  
 Eat the cake; in joint throng with the Maruts drink the soma, o hero, as  Vr̥tra-smasher and knowing one.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/052/06-07.md">
+<details open><summary><h2>06-07 ...{Loading}...</h2></summary>
+
+See the published introduction. for the thematic and lexical connections between these two vss., despite their belonging to different sections of the hymn. See there also for the connection of vs. 7 with III.31, via the identification of the current poet with the Aṅgirases, ur-sacrificers and givers of dakṣiṇās (on which see Geldner’s n. 7a).
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -154,3 +163,4 @@ Dir nebst dem Puschan haben wir die Grütze bereitet, dir und deinen Füchsen, F
 Сопровождаемый толпой Марутов, ешь хлебец!  
 Пей сому как убийца Вритры, о знаток, как герой!
 </details>
+

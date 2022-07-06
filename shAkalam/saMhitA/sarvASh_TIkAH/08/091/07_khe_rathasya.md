@@ -126,6 +126,14 @@ Thrice did you purify: **Indra** draggedher through the wide hole of his chariot
 In the nave of a chariot, in the nave of a wagon, in the nave of a yoke, o  Indra of a hundred resolves,  
 having purified Apālā three times, you made (her) sun-skinned.  
 The next three hymns, 92–94, should be grouped together, according to Oldenberg  (1888: 218).
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/091/05-07.md">
+<details open><summary><h2>05-07 ...{Loading}...</h2></summary>
+
+On the connection between hair growth and skin disease, see Jamison 1991: 146-70.</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -148,3 +156,4 @@ Du, Indra, zogest Viçpala, o starker durch drei Höhlungen Des Rades, Karrens u
 
 -ru-
 </details>
+

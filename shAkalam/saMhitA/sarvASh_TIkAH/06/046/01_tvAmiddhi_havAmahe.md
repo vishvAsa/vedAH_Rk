@@ -118,6 +118,22 @@ Kāṣṭhāsu **arvataḥ**, in the quarters or regions of the hors, where hors
 Because it is just you that we bards call upon at the winning of  the prize,  
 you, Indra, as master of settlements that our men (call upon) amid  
 obstacles, you at the finish lines of our steed,
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/01-02.md">
+<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+
+Although the presence of hí, with its generally causal value, is often a puzzle when it appears in the first pāda of a hymn, this one helps signal the conceptual unity of this opening tṛca, with vs. 1 providing the various circumstances under which we call upon Indra and vs. 2 containing the contents of our latest address to the god -- a call for additional generosity from him.
+
+The poet plays with the 2nd sg. pronoun. Historically -- and usually synchronically in the RV -- the nom. sg. tvám is disyllabic (t u vám) and the acc. sg.
+
+tvā́m is monosyllabic, with occasional distraction to two syllables in analogy to the nom. But here the 1st vs. has three distracted acc. sg. t u vā́m, prominently pāda-initial (a, c, d), while the nom. sg. at the beginning of the 2nd vs. is monosyllabic. To match disyllabic t u vā́m, in 2a the two syllables are filled out by the addition of the pleonastic+++(=redundant)+++ sá (#sá tvám), which is syntactically at home as subject marker of the 2nd sg. impv.
+
+kira (see my 1992 “Vedic ‘sá figé’: An inherited sentence connective?”). Since sá in such contexts is unnecessary, its presence draws attention to the metrical interchange between the nom. and acc. of the pronoun here.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -143,3 +159,4 @@ Dich rufen ja wir Sänger an, um zu gewinnen Siegespreis, Die Männer dich, den 
 Тебя, о Индра, истинного господина в битвах с врагами, (мы,) мужи,  
 Тебя – скакуна на беговых дорожках.
 </details>
+

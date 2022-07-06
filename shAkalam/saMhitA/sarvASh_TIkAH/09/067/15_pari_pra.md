@@ -102,6 +102,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 
 Your sap, Soma, when pressed, has surged forth and around into  the tub.  
 Like a falcon launched in flight, it rushes.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/13-15.md">
+<details open><summary><h2>13-15 ...{Loading}...</h2></summary>
+
+Little evidence of unity in the Viśvāmitra tṛca, though the falcon (śyená-) as image of Soma occurs in both 14 and 15. More generally, both 14 and 15 depict the rapid and dramatic movement of soma into the ritual receptacles.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -126,3 +136,4 @@ Rings hat ergossen sich dein Saft gepresst, o Soma, in den Krug, Er strömet wie
 Течь кругами в кувшине, выжатый (сок).  
 Он течет, как метнувшийся сокол.
 </details>
+

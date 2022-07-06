@@ -93,6 +93,14 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 
 It was for everyone to see the sun that the bird brought you as one (to be)  held in common,  
 the herdsman of truth, crossing through the airy realm.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/048/03-04.md">
+<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+
+The phrases suparṇáḥ … bharat (3c) “the falcon brought” and vír bharat (4c) “the bird brought” are directly reminiscent of IV.26, where the 3rd sg. (a)bharat occurs 4x in 4 vss. (4-7), incl. 4cd suparṇáḥ … bhárat and 5a bhárat … víḥ, with the same subjects as here.</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -115,3 +123,4 @@ Dass jeder recht die Sonne schau, so bracht' der Aar den Schirm des Rechts, Der 
 
 -ru-
 </details>
+

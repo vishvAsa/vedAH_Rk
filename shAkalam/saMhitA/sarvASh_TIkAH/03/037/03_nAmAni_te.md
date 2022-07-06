@@ -85,6 +85,16 @@ genre M
 
 We implore your names with all our songs—  
 Indra of a hundred resolves—in vanquishing hostility.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/037/03-04.md">
+<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+
+As Geldner also suggests, Indra’s names (nā́māni) in vs. 3 form a complementary pair with his hundred dhā́man- ‘forms, embodiments’ in 4.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -109,3 +119,4 @@ Wir rufen deine Namen an durch jedes Lied, viel wirkender, Zur Feindbesiegung In
 Мы произносим с мольбою во всех песнях,  
 О Индра, чтобы одолеть преследователей.
 </details>
+

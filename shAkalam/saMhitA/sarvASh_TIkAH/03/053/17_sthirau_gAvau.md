@@ -153,6 +153,15 @@ The horses: gāvau gaccheta iti gāvau aśvau: **gāvā** implies those who go, 
 
 Let the two oxen be steadfast, the axle firm; let the chariot-pole not be  torn off, nor the yoke be broken off.  
 Let Indra keep the two pātalyas [=pieces of chariot?] from breaking.  You with indestructible wheel-rims, escort us.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+As noted in the published introduction, this verse and the rest of this little section are reminiscent of the final vs. of III.33.13, against disaster on a journey, specifically there a river crossing.
+
+The hapax pātalyè is entirely unclear, besides being a dual referring to some part of the chariot.
+
+On the thematic medial stem dáda- in the sense ‘hold, keep safe’, see Gotō (1st Class, 171-72, flg. Wackernagel).
 </details>
 
 <details><summary>+Griffith</summary>
@@ -178,3 +187,4 @@ Stark seien die Riemen, fest die Wagenachse; nicht zersplittere die Deichsel, ni
 Пусть Индра сохранит от поломки два (деревянных) колышка (ярма)!  
 О ты, с невредимой втулкой, заботься о нас!
 </details>
+

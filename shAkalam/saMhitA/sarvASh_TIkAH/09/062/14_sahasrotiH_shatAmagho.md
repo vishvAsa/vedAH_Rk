@@ -90,6 +90,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 
 Possessing a thousand forms of help, a hundred bounties, measurer of  the airy realm, poet—  
 the exhilarating drink purifies himself for Indra.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/13-15.md">
+<details open><summary><h2>13-15 ...{Loading}...</h2></summary>
+
+The first two vss. contain forms of kaví-. The epithet “wide-going” (urugāyá13c) may be further specified in the phrase vimā́no rájasaḥ “measurer of the airy realm” (14b) -- in both cases probably a way of giving a cosmic dimension to the journey across the filter. The third vs. (15) does not participate in these commonalities.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -112,3 +122,4 @@ Der Trank, der tausend Hülfen beut und hundert Schätze, weisheitsvoll, Strömt
 
 -ru-
 </details>
+

@@ -88,6 +88,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 
 Smashing away demons, Soma, rush ever roaring  
 toward highest brilliant tempestuousness.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/28-30.md">
+<details open><summary><h2>28-30 ...{Loading}...</h2></summary>
+
+The páva- sequence found in the last two tṛcas is brought to an end with the alternative pres. part. punānáḥ ‘becoming purified’, which opens this last tṛca. The lexeme ápa √han also found in once each in the last two tṛcas (24a, 26c) occurs in the first two vss.: ápa … jahí (28b, c), apaghnán (29a).
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -110,3 +120,4 @@ Verjagend der Gespenster Schar, o Soma, ströme rauschend her Die höchste, glan
 
 -ru-
 </details>
+

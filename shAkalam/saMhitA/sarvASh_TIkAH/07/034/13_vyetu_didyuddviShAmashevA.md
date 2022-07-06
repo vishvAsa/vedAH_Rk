@@ -83,6 +83,16 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 
 Let the unfriendly missile of the haters go wide.  
 Keep the infirmity of bodies away, off to the side.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/034/12-13.md">
+<details open><summary><h2>12-13 ...{Loading}...</h2></summary>
+
+The 2nd pl. subjects of all the verbs but vy ètu in 13a must be the gods in general. The priests/poets who were previously unspecified 2nd pl. subjects do not command the powers to carry out the desires specified.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -105,3 +115,4 @@ Der Feinde schlimmes – Geschoss entweiche; weithin vertreibet – den Fehl der
 Пусть пройдет стороной злой выстрел ненавистников!  
 Отвратите со всех сторон повреждение (наших) тел!
 </details>
+

@@ -83,6 +83,16 @@ genre M
 
 Much-invoked, much-praised leader of song, famed of old—  
 call him, “Indra!”
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/092/02-03.md">
+<details open><summary><h2>02-03 ...{Loading}...</h2></summary>
+
+2c begins índra í(ti), while 3a begins índra í(n no).
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -105,3 +115,4 @@ Der vielgerufen, vielgelobt, Gesänge leitet weitberühmt, »Das, das ist Indra�
 
 -ru-
 </details>
+

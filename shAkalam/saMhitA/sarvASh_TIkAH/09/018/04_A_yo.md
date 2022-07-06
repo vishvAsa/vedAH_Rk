@@ -101,6 +101,22 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 
 He who holds all desirable good things in his two hands—  
 – You are the one who confers wholeness in the raptures of exhilaration.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/018/03-04.md">
+<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+
+Note the two occurrences of víśva- (3a, 4a), which contrast with the sarva- in the refrain.
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/018/04-07.md">
+<details open><summary><h2>04-07 ...{Loading}...</h2></summary>
+
+Vss. 4-6 all (save for the refrain pāda) consist of rel. clauses headed by yáḥ and couched in the 3rd ps.; the main clause appears to be vs. 7, with the resumptive prn. sá and 3rd ps. verb.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -125,3 +141,4 @@ In seine Hände sind gelegt, Die schönen Schätze allzumal; Bei den Gelagen sch
 Держит в (своих) руках, –  
 В опьянениях ты даешь все.
 </details>
+

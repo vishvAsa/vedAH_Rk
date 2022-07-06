@@ -92,6 +92,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 
 The tubs have cried out, o drop. In streams, with strength,  
 enter (them) for Indra’s drinking.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/13-15.md">
+<details open><summary><h2>13-15 ...{Loading}...</h2></summary>
+
+Again, no signs of unity.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -114,3 +124,4 @@ Erklungen, Indu, sind mit Macht die Schüsseln hier von deinem Strom, Zum Trunk 
 
 -ru-
 </details>
+

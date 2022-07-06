@@ -91,6 +91,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 
 Bring here to us, o drop, wealth in cattle and horses—  
 a hundredfold, a thousandfold, o soma.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/04-06.md">
+<details open><summary><h2>04-06 ...{Loading}...</h2></summary>
+
+The Kaśyapa tṛca: it lacks cohesion across all 3 vss., though 4 and 5 share “rushing across the fleece”; ‘rush’ (árṣa-) also provides a link to the last vs. of the preceding tṛca, 3b, as does the verb acikradat (4c), which echoes kánikradat (3b).
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -115,3 +125,4 @@ Bring', Indu, hundertfaches Gut an Rindern und an Rossen uns, O Soma, tausendfac
 Богатство, состоящее из коров (и) коней,  
 (При)неси, о сома, тысячное!
 </details>
+

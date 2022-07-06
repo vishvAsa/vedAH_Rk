@@ -136,6 +136,16 @@ popular
 Make Heaven and Earth gasp. Let the moving (world [=living  
 creatures]) dispersed in many places pay attention to you.  
 O Drum, along with Indra, with the gods, drive away the rivals farther  than far.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/26-31.md">
+<details open><summary><h2>26-31 ...{Loading}...</h2></summary>
+
+These vss. are repeated in the Aśvamedha section of several early Vedic ritual texts, directly after the 1st 14 vss. of the weapon hymn VI.75 (e.g., VS XXIX.52-57, TS IV.6.6.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -161,3 +171,4 @@ Auf, schnaube an die Erde und den Himmel, dein nehme wahr ringsum die ausgedehnt
 О барабан, вместе с Индрой (и) богами  
 Прогони врагов в самую дальнюю даль!
 </details>
+

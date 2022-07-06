@@ -90,6 +90,14 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 <details><summary>+Jamison Brereton</summary>
 
 Pleasing to Indra, exhilarating, constantly roaring—o self-purifying one, strike away all hatreds.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/013/08-09.md">
+<details open><summary><h2>08-09 ...{Loading}...</h2></summary>
+
+The impv. ápa … jahi of 8c is converted into the part. apaghnántaḥ in 9a. The sg. subj. of 8 is also replaced by a pl., but sg. sómaḥ / indo and pl. sómāḥ / índavaḥ alternate throughout the hymn.</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -114,3 +122,4 @@ Berauschend und dem Indra lieb, laut wiehernd schlag', o rieselnder, Die Feinde 
 О Павамана, громко ревущий,  
 Разбей всех врагов!
 </details>
+

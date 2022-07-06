@@ -98,6 +98,16 @@ The cow: cf. RV. 1.23.10; 2.34.2
 
 The cow herself takes suck, the fame-seeking mother of the bounteous  Maruts;  
 she is yoked as the draft-horse of their chariots,
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/094/01-02.md">
+<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+
+For the somewhat peculiar imagery of these vss., see the published introduction.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -122,3 +132,4 @@ Die Kuh, die nach der Nahrung lechzt, der reichen Maruts Mutter trinkt, Zum Zieh
 Мать щедрых Марутов,  
 Возница колесниц, запряженная (в колесницы),
 </details>
+

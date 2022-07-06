@@ -108,6 +108,16 @@ genre M
 
 You with your teams, Vāyu, come here. This clear (soma) has been held  out to you.  
 You are wont to come to the house of the presser.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/041/01-03.md">
+<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+
+This tṛca is characterized by lexical chaining. The first pāda of vs. 2 reprises niyútvān from 1c, vāyo from (accented) vā́yo (1a), and ā́gahi (1b). Vs. 3 is less closely tied to what precedes, but śukrá- ‘clear’, which characterizes the first drink of soma, offered to Vāyu, is repeated in 3a from 2b, and niyútvant- also recurs from 1c and 2a. The impv. píbatam (3c) picks up (sóma-)pītaye from 1c. More subtly, ā́yātam repeats the preverb of ā́gahi (1b, 2a) and also echoes the unrelated verb ayāmi of 2b.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -132,3 +142,4 @@ Mit Vielgespann, o Vāju, komm, hier ward dir reiner Trank gereicht, Bald kommst
 Этот прозрачный (сома) поднесен тебе.  
 Ты всегда ездишь в дом выжимающего сому.
 </details>
+

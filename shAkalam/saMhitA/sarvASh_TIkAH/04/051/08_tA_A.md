@@ -127,6 +127,14 @@ Rays: gavām sargā na raśmayaḥ: RV. 4.52.5
 
 They proceed, in the same way, from the east, spreading out from the  same place in the same way.  
 The Goddess Dawns, awakening from the seat of truth, like gushes of  cows, become wakeful.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/051/08-09.md">
+<details open><summary><h2>08-09 ...{Loading}...</h2></summary>
+
+The unbroken similarity of the dawns who just keep coming, day after day, is conveyed by the stasis of these two vss., where forms of ‘same’ (8ab samanā́ … sanānátaḥ samanyā́, 9a samanā́samānī́ḥ) and the same verb caranti (8a, 9b) bring all movement to a halt, even though the dawns are constantly on the move.</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -152,3 +160,4 @@ Sie wandern herwärts allzumal von Osten auf gleiche Weise allesammt sich breite
 Пробуждаясь с сиденья закона, богини  
 Ушас, бодры, словно выпущенное стадо коров.
 </details>
+

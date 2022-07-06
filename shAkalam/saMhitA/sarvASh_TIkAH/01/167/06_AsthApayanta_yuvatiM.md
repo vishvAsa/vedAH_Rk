@@ -122,6 +122,16 @@ genre M
 
 The youths caused the young woman to mount for beauty, she steadfast  and commingling (with them) at the ceremonies.  
 When the chant is accompanied by oblations for you, o Maruts, and the  one who has pressed soma, seeking friendship, sings the song,
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/167/03-07.md">
+<details open><summary><h2>03-07 ...{Loading}...</h2></summary>
+
+Hoffmann (Injunk., 194-97) translates and comments on these verses.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -147,3 +157,4 @@ Zum Schmucke führten sie die holde Jungfrau, die bei den Festen stark ist, sie,
 Когда (был готов) гимн с жертвенным возлиянием для вас, о Маруты,  
 (И) выжиматель сомы, служа (вам), пропел песню.
 </details>
+

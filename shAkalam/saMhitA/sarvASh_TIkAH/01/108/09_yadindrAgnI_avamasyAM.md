@@ -136,6 +136,16 @@ genre M;; repeated line
 
 When, o Indra and Agni, you are on the lowest earth, on the middle  one, and on the highest one,  
 from there, bulls—yes! drive here. Then drink of the pressed soma.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/108/09-10.md">
+<details open><summary><h2>09-10 ...{Loading}...</h2></summary>
+
+I do not see the purpose of two almost identical vss., but with the relative positions of the various earths reversed. Renou calls it a “renversement formulaire, d’un type exceptionel” (EVP XIV.122).
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -161,3 +171,4 @@ Wenn, Indra-Agni, ihr im tiefsten Weltraum, im mittelsten und höchsten auch ver
 Оттуда, о два быка, возвращайтесь вы к вам  
 И напейтесь выжатого сомы!
 </details>
+

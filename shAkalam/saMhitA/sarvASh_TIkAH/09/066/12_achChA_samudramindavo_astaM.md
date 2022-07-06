@@ -104,6 +104,16 @@ To the ocean: the wooden vessel in which the Soma is collected
 <details><summary>+Jamison Brereton</summary>
 
 Toward the sea have the drops gone, like milk-cows toward home, to the womb of truth.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/10-12.md">
+<details open><summary><h2>10-12 ...{Loading}...</h2></summary>
+
+This tṛca is thematically unified by the journey theme, reinforced by two forms of √sṛj in vss. 10 (asṛkṣata) and 11 (ásṛgram), the former in an etym. figure. Note the juxtaposition of the newer s-aor. 3rd pl. middle and the older root aorist, with no apparent functional or semantic difference. On these two formations see Narten (Sig.Aor. 270-71); she claims that they were originally differentiated functionally and still are occasionally (see IX.86.4), but in almost all occurrences this difference has been lost.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -126,3 +136,4 @@ Die Indu's sind zum Meere hin wie Kühe heimwärts in den Stall, Gelaufen in des
 
 -ru-
 </details>
+

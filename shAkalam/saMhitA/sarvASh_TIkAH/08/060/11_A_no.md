@@ -124,6 +124,15 @@ genre M
 
 (Bring) here to us praiseworthy wealth that strengthens vital force, o  pure Agni,  
 and give it to us, o apportioner—(wealth) much craved and very  glorious—with your good guidance—
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+A verb like ‘bring’ needs to be supplied with the first hemistich based on the numerous passages containing ā́bhara governing no rayím (e.g., I.79.8 ā́no agne rayím bhara); cf. also 18cd below. On upamāte see VIII.40.9.
+
+The published translation “very glorious” is a careless error for “self-glorious,” misreading sváyaśastaram as *súyaśastaram. I am evidently not alone in this, as the SV reads this instead. If this were the correct reading the accent should probably have been
+
+*suyáśastaram, given forms like suśrávas(-tama)-.
 </details>
 
 <details><summary>+Griffith</summary>
@@ -149,3 +158,4 @@ O schenke, Agni, Reichthum uns, der Macht vermehrt, o flammender, Der preisenswe
 И дай нам, о доступный просьбам, многожеланное (богатство),  
 Само приобретающее большую славу под твоим прекрасным водительством.
 </details>
+

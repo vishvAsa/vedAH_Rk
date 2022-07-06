@@ -148,6 +148,16 @@ genre M
 
 Let all the gods together come here to us: Mitra, Aryaman, and Varuṇa  in concert,  
 so that they all will become our strengtheners and will make (all things)  easy to overcome, like faltering power.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/186/01-03.md">
+<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+
+The c-pādas of all three verses consist of a yáthā purpose clause with subjunctive.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -173,3 +183,4 @@ Vereinigt mögen alle Götter kommen, Arjaman, Mitra, Varuna gemeinsam, Damit si
 Так, чтобы они все придали нам силы,  
 Чтобы сделали (все) легко одолимым, словно расходившаяся сила.
 </details>
+

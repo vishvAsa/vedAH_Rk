@@ -139,6 +139,16 @@ Niveśayan ca prasuvan ca **bhūma** = **bhūtāni** rātriṣu sve sthāpayansc
 Let god Savitar drive here, possessed of good treasure, filling the  
 midspace, journeying with his horses,  
 holding many things meant for men in his hand, bringing the world to  rest and impelling it forth.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/045/01-02.md">
+<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+
+Although Savitar’s role as god of evening, causing the world and its activities to settle down, is alluded to in 1d, his role as rouser of the world at dawn is given equal billing in that pāda (… ca … ca). The more oblique expression in 2d must also refer to this latter role. The sun “cedes his task” of waking and rousing the world to Savitar.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -164,3 +174,4 @@ Gott Savitar, der güterreiche, komme, die Luft durchdringend, mit den Rossen fa
 Держащий в руках много (даров) для мужей,  
 Успокаивающий мир и побуждающий (его).
 </details>
+

@@ -139,6 +139,11 @@ genre M
 Give us not to exhaustion, bull. Let us not come to harm in our  comradeship with you, the wealthy.  
 Many are the tributes for you among the peoples, Indra. Smite the  
 non-pressers; rip away those who don’t deliver.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+On niṣṣídh- see comm. ad III.51.5.
 </details>
 
 <details><summary>+Griffith</summary>
@@ -164,3 +169,4 @@ Gesell uns nicht dem Dürft'gen zu, o starker, nicht geh's uns schlecht in deine
 Много у тебя, Индра, обязанностей среди людей:  
 Убей не выжимающих (сому)! Искорени не жертвующих!
 </details>
+

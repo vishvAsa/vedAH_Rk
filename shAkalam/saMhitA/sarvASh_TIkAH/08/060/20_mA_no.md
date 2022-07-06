@@ -124,6 +124,11 @@ Let demonic power not enter into us, nor the sorcery of those who  deploy sorcer
 [=Pūṣan].  
 Keep thirst and hunger away, far beyond the pasture-lands; o Agni,  
 keep away those who deploy demonic power.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+The voc. āghṛṇīvaso is taken lit. by Geldner and Renou (‘Glutreicher’ and ‘riche en ardeur-de-feu’ respectively). But ā́ghr̥ṇi- is an epithet exclusively of Pūṣan, and it is highly unlikely that it would be used only here, in this awkward compound, without that reference. So it must mean ‘who has the goods of Pūṣan’ -- presumably the cows and other domestic stuff that are appropriate to this last pragātha.
 </details>
 
 <details><summary>+Griffith</summary>
@@ -149,3 +154,4 @@ Nicht dringe Unheil zu uns ein, o glühender, noch Zauberei der Zauberer; Entkr�
 Прогони прочь за пределы пастбища,  
 О Агни, хилость, голод, коварных людей!
 </details>
+

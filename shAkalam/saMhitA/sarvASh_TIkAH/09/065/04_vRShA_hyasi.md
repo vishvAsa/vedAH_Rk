@@ -88,6 +88,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 
 Because you are a bull, we, very attentive, invoke you who are brilliant  with radiance,  
 o self-purifying one.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/04-06.md">
+<details open><summary><h2>04-06 ...{Loading}...</h2></summary>
+
+No obvious signs of unity
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -110,3 +120,4 @@ Du bist an Strahlen ja ein Held, drum rufen wir dich glänzenden, O flammender, 
 
 -ru-
 </details>
+

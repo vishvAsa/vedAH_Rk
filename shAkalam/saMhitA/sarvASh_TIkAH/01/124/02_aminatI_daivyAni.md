@@ -119,6 +119,16 @@ Unimpeding: aminati ahiṃsantī, not injuring, not opposing, not unsuited to; b
 
 Not belittling the divine commandments, but diminishing human (life-) spans,  
 the last of those who, one by one, have gone, the first of those who come  hither—Dawn has flashed forth.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/124/02-03.md">
+<details open><summary><h2>02-03 ...{Loading}...</h2></summary>
+
+áminatī (2a) and ná … mināti (3d)(cf. also ná mināti I.123.9) receive different tr. here both because they have different objects and because áminatī is contrastively paired with praminatī́(2b).
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -144,3 +154,4 @@ Verkürzend nie die Ordnungen der Götter, doch kürzend stets der Menschen Lebe
 Ушас воссияла (как) последняя из прошедших, непрерывно сменяющихся,  
 (Как) первая из приходящих.
 </details>
+

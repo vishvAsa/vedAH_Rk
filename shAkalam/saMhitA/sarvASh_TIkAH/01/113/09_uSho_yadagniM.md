@@ -149,6 +149,16 @@ genre M
 
 Dawn, since you have caused the fire to be kindled, since you have  shone forth with the eye of the sun,  
 since you have awakened the sons of Manu who are about to sacrifice,  so you have made for yourself good profit among the gods.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md">
+<details open><summary><h2>07-13 ...{Loading}...</h2></summary>
+
+These verses have a surprising density of forms of ví √vas ‘dawn forth’ (7b, d, 8c, 9b, 10b [2x], 11b, 12d, 13a, b, c), whereas vss. 1-6 lack any such forms -- though there’s a teasing echo in 4b ví … āvaḥ ‘She opened, uncovered’, belonging, however, to √vṛ. See also comments on vs. 14.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -179,3 +189,4 @@ Dass, Morgenroth, den Agni du entflammtest und ihn enthülltest durch den Schein
 Что пробудила людей, которые хотят принести жертвы,  
 За это среди богов ты создала себе прекрасное достояние.
 </details>
+

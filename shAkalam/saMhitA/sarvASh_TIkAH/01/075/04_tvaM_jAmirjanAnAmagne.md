@@ -94,6 +94,16 @@ genre M
 <details><summary>+Jamison Brereton</summary>
 
 You are the kinsman of the peoples. O Agni, you are the dear envoy, a comrade for your comrades, to be reverently invoked.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/075/03-04.md">
+<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+
+As noted in the published introduction, only the first of the questions in vs. 3 is answered in vs. 4, though the latter appears to be structured as the replies.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -123,3 +133,4 @@ Der Menschen Bruder bist nur du, du, Agni, ein Genosse traut, Ein Freund dem Fre
 О Агни, ты союзник милый,  
 Друг, которого друзья должны призывать.
 </details>
+

@@ -112,6 +112,18 @@ The mongoose: kuṣumbako **nakulaḥ**, the mongoose, whose hostility to the sn
 
 Such a little teeny kuṣumbha-bug—I split that itty-bitty thing with a  rock.  
 Thence has the poison rolled forth, following channels facing away  (from us).
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/191/15-16.md">
+<details open><summary><h2>15-16 ...{Loading}...</h2></summary>
+
+The -ka- suffix is particularly prominent in these vss, appearing not only on the designation of the bug (kuṣumbhakáḥ, 2x), but also on the pronominal adj.
+
+iyattakáḥ (‘such a one’), the pronoun takám, and the participle pravartamānakáḥ.
+
+The word for ‘scorpion’, vṛ́ścika- only appears in that form, but appears to contain the -ka- suffix as well, very common in words for noxious insects (see my “-kasuffix,” IIJ 52 [2009]: 318).</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -137,3 +149,4 @@ So winzig das Giftinsekt ist, so klein es ist, ich zerschlage es mit dem Steine,
 Из него улетучился яд  
 По (разным) сторонам прочь от нас.
 </details>
+

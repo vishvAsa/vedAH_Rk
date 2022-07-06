@@ -137,6 +137,18 @@ Flow quickly into the cups: camvoḥ = adhiśavṇa phalakayoḥ; apsu is relate
 
 Now, you, o god Soma, as charioteer—flow around for us in the two  cups, while being purified,  
 sweetest in the waters, honeyed, truthful, you whose thoughts become  reality, like god Savitar’s.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/46-48.md">
+<details open><summary><h2>46-48 ...{Loading}...</h2></summary>
+
+Again very few signs of cohesion as a whole, though the 1st and last vss. have a few echoes: rathiráḥ (46c, 48a) and a satyá-X bahuvrīhi (satyá-śuṣma46c, satyá-manman- 48d), as well as camū́- (46b, 48b). Also, assuming that the “daughter” in 47b is the Daughter of the Sun (as most do), both 46 and 47 have ref.
+
+to the sun.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -162,3 +174,4 @@ Nun ströme du, Gott Soma, Wagen lenkend, hell flammend durch die Seihe in die S
 Самый вкусный в водах, полный меда, преданный закону,  
 Кто подобен богу Савитару, чья мысль истинна.
 </details>
+

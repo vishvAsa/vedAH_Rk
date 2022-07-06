@@ -135,6 +135,14 @@ genre M
 
 Just these now—the same ones in the same way—with immutable  colors, the Dawns proceed,  
 hiding the black void with their bright (colors), glistening, gleaming,  shining with their own bodies.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/051/08-09.md">
+<details open><summary><h2>08-09 ...{Loading}...</h2></summary>
+
+The unbroken similarity of the dawns who just keep coming, day after day, is conveyed by the stasis of these two vss., where forms of ‘same’ (8ab samanā́ … sanānátaḥ samanyā́, 9a samanā́samānī́ḥ) and the same verb caranti (8a, 9b) bring all movement to a halt, even though the dawns are constantly on the move.</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -160,3 +168,4 @@ So wandern sie auf gleiche Art, sich ähnlich, die Morgenröthen, nicht die Farb
 Прячущие черную бесформенность (своими) светлыми  
 Телами, сверкающие, блистательные.
 </details>
+

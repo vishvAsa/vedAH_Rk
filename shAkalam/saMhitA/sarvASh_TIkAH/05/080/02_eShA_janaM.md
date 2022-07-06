@@ -143,6 +143,16 @@ genre M
 
 She, worthy to be seen, awakening the people, making the paths easy to  travel, drives in the vanguard  
 with a lofty chariot, herself lofty, setting all in motion. Dawn extends her  light in the vanguard of the days.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/080/02-03.md">
+<details open><summary><h2>02-03 ...{Loading}...</h2></summary>
+
+Just as Savitar follows the lead (prayā́ṇam) of Dawn in 2d, the other gods follow his lead (also prayā́ṇam) in 3a. The masc. rel. prn. yásya beginning 3 makes it clear that the referent has changed -- which is not clear from the English.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -168,3 +178,4 @@ Die sehenswerthe, die den Menschen aufweckt, sie fährt voran, die Pfade gangbar
 На высокой колеснице, высокая, все приводящая в движение.  
 Ушас поддерживает свет в начале дней.
 </details>
+

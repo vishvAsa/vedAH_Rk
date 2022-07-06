@@ -85,6 +85,16 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 
 He has been brought to success, installed as Hotar, as the sun,  
 performing all the tasks to be realized.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/070/08-09.md">
+<details open><summary><h2>08-09 ...{Loading}...</h2></summary>
+
+See Proferes (pp. 47-49), esp. for the identification of the Vaiśvānara fire in particular with the sun, and the published introduction. and the art. cit, esp. for the encoding of the Vaiśvānara fire by the successive grammatical subjects víśve (9cd) and náraḥ (10ab).
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -111,3 +121,4 @@ Den vieler Nächte – Erscheinen nähre, den Sohn der Opfer, – was steht und 
 
 -ru-
 </details>
+

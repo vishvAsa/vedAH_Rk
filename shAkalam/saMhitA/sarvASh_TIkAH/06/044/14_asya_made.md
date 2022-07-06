@@ -135,6 +135,27 @@ genre M
 
 In its exhilaration, knowing many shapes, Indra smashed unopposable  obstacles.  
 Pour forth for him the honeyed soma, for the belipped hero to drink.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+As Geldner point out (n. 14a), the “many shapes” (purú várpāṃsi) that Indra knows could either be his own (given his penchant for shape-shifting) or those of the various demonic enemies he destroys. I assume that the poet meant to leave it ambiguous, though it’s worth noting that the one instance of the bahuvrīhi puruvárpas- refers to Indra (though in the late hymn X.120.6).
+
+The hapax -si impv. hoṣi has no structural support in the RV, the only aor.
+
+attested being the pass. aor. áhāvi. However, an act. s-aor. is reasonably well attested in Vedic prose, beginning with the BYV Saṃhitās (ahauṣīt, etc.); see Narten (Sig.Aor. 288). It is difficult to know whether yoṣi is indirect evidence for a s-aor.
+
+subjunctive to this aor., *hoṣat, etc., to which hoṣi would ultimately belong, or whether it was created as a nonce beside the other -si impvs. in this ritual sphere such as yákṣi, mátsi and has nothing to do with the aor. forms in prose. I weakly favor the latter explanation.
+
+
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/13-15.md">
+<details open><summary><h2>13-15 ...{Loading}...</h2></summary>
+
+Another soma tṛca.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -160,3 +181,4 @@ Im Somarausch erschlug, viel Künste kennend, die Feinde Indra, die dem Angriff 
 Возлей ему этого сладкого  
 Сомы герою прекрасногубому, чтобы он пил!
 </details>
+

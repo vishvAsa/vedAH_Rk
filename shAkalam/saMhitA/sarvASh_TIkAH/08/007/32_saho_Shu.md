@@ -101,6 +101,16 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 
 O Kaṇvas, for us I will praise Agni along with the Maruts, who have  maces in their hands,  
 who have golden axes.1044 VIII.8
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/32-33.md">
+<details open><summary><h2>32-33 ...{Loading}...</h2></summary>
+
+Note opening 32a #saho ṣu / 33a #o ṣu. Holland & van Nooten Rig Veda edition mark o in 33a as disyllabic. The agreement across vss. would be an argument against such a reading, and Oldenberg has several alternative suggestions.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -130,3 +140,4 @@ Den Agni preis', o Kanva's, ich nebst unsern Maruts, die mit Blitz und goldnem B
 (И) золотые топоры, о Канвы,  
 Я хочу хорошенько восхвалить нашего Агни.
 </details>
+

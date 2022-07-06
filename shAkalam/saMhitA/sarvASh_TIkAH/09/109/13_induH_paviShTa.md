@@ -83,6 +83,16 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 <details><summary>+Jamison Brereton</summary>
 
 The dear drop has been purified for exhilaration in the lap of the  waters, the sage poet (has been purified) for good fortune.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/13-15.md">
+<details open><summary><h2>13-15 ...{Loading}...</h2></summary>
+
+The adj. cā́ru- ‘dear’ occurs in 13 and 14. The gods as recipients of soma figure in 14-15.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -105,3 +115,4 @@ Schon strömte Indu – zum Rausch der schöne, im Schooss der Wasser – zum He
 Сок очистился, приятный для опьянения,  
 В лоне вод, поэт, для (нашей) счастливой доли.
 </details>
+

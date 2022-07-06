@@ -95,6 +95,15 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 In purifying yourself, o Soma, bring wealth in thousands and an  
 abundance of good heroes;  
 secure our claims to fame for us.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/01-03.md">
+<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+
+No particular signs of unity, though the dat. índrāya in 2b anticipates the three datives índrāya víṣṇave … vāyáve in vs. 3.
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -117,3 +126,4 @@ O riesle tausendfaches Gut und Heldenkraft, o Soma, her, Uns reiche hohe Schätz
 
 -ru-
 </details>
+

@@ -138,6 +138,16 @@ Navel of the earth: yajñamāhu bhuvanasya nābhim: **Taittirīya** **Saṃhitā
 
 The king plunges through the sea, the rivers. Fixed in the streams he  accompanies the wave of waters.  
 The self-purifying one has mounted upon the sheep’s back, on the navel  of the earth, as buttress of great heaven.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/07-09.md">
+<details open><summary><h2>07-09 ...{Loading}...</h2></summary>
+
+The beginning and end of this tṛca echo the preceding one: ketúḥ in 7a picks up the pl. ketávaḥ in 5-6, and the end of vs. 9, kaláśeṣu sīdati, is identical to the end of 6. The tṛca traces a trajectory from the ritual journey—the filter and the cask in 7—to a cosmic one, with Soma as king (8a) traversing first earthly natural features (seas, rivers, streams, waves 8ab) and then bridging the distance between earth and heaven (8d, 9ab), ending back on the ritual ground (9d). Of course the equivalence of the ritual and cosmic features is always in the foreground, as when in 8c he mounts the sheep’s back (=the filter), which is immediately (8d) then identified as “the navel of the earth” (nā́bhā pṛthivyā́ḥ), with the same word for ‘back’ (sā́nu) used in 8c for the filter and in 9a for heaven.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -160,3 +170,4 @@ Der König taucht sich in die Ströme, in das Meer, in Flüssen schwimmend geht 
 
 -ru-
 </details>
+

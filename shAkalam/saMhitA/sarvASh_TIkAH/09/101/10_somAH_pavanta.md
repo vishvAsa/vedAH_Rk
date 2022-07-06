@@ -100,6 +100,15 @@ genre M
 <details><summary>+Jamison Brereton</summary>
 
 The soma drops purify themselves, as best pathfinders for us, allies, unblemished, rich in purpose, finding the sun, when they are  being pressed.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/10-12.md">
+<details open><summary><h2>10-12 ...{Loading}...</h2></summary>
+
+Again no particular signs of cohesion, save for the X-víd- ‘finding X’ cmpds in 10b, 10d, and 11d.
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -125,3 +134,4 @@ Die Somatropfen rieseln hell, die uns das höchste Glück ersehn, Erzeugt als Fr
 (Которые,) когда они выжаты, беспорочные друзья,  
 Благожелательные, находящие небо.
 </details>
+

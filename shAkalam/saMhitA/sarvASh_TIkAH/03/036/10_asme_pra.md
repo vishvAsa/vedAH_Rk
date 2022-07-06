@@ -135,6 +135,14 @@ genre M
 Offer us (a portion) of abundant, all-desirable wealth, o bounteous  Indra of the silvery drink.  
 Provide a hundred autumns for us to live; (provide) for us ever new  
 heroes, o Indra of the lips.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/036/09-10.md">
+<details open><summary><h2>09-10 ...{Loading}...</h2></summary>
+
+Note that the vocabulary of the beginning of the hymn is being turned around reciprocally at the end: bhara (9a) and prá yandhi (9d, 10a) are imperatives addressed to Indra, urging him to bring/offer things to us, whereas in 1a prábhṛtim (at least in my interpr.) and 2c prayamyámānān the same lexical expressions refer to things we offer to Indra. Other ring compositional echoes are the dhāḥ + datival infinitive (1a sātáye dhāḥ and 10c jīváse dhāḥ) and the stem śáśvat- (1b, 10d).</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -160,3 +168,4 @@ Uns reiche dar, vordringender, gewalt'ger, viel Gut, o Indra, reich an allen Gab
 Нам положи сотню осеней для жизни,  
 Нам – непрерывную череду мужей, о Индра прекрасногубый!
 </details>
+

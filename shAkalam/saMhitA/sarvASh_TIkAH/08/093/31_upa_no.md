@@ -100,6 +100,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 
 Right up to our pressed soma with your fallow bays—drive, o lord of  exhilarating drinks—  
 right up to our pressed soma with your fallow bays.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/31-33.md">
+<details open><summary><h2>31-33 ...{Loading}...</h2></summary>
+
+As noted in the published introduction, the first pāda of the first verse of this tṛca provides its refrain, a slightly odd effect. Only in 31 is the refrain syntactically integrated into the verse. There are also echoes of previous verses: śatakrato, which ends 27b and 28b, appears as nom. śatákratuḥ at the end of 32b. The voc. vṛtrahantama of 30a is echoed by nom. vṛtrahántamaḥ in 32a and voc. vṛtrahan in the same metrical position in 33a. The end of this hymn is very tightly constructed.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -122,3 +132,4 @@ O komme mit den Füchsen her, zum Soma, Herr der Tränke du, Mit Füchsen komm z
 
 -ru-
 </details>
+

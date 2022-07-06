@@ -149,6 +149,15 @@ popular
 [The Sun:] “O Atri, let him not, deceived by jealousy and fear, swallow  me, who am one of yours.  
 You are an ally whose bounty is real; do you and King Varuṇa help  
 me here.”
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+On this speech of the Sun’s, see Hyenas 281-88.
+
+This vs. is usually taken as evidence for the “eclipse” theory of the Svarbhānu story, which aligns it with the later Rāhu myth in which Rāhu swallows the sun. But there is no other evidence for this connection in Vedic, and ‘swallow’ can be accounted for by inner-Vedic parallels. See the cited disc. in Hyenas.
+
+Although Atri is usually considered the addressee of the entire vs., for reasons having to do with the Vāyav Indraś ca construction in cd, I suggest (Hyenas 284-86) that Indra is the referent of the 2nd ps. in c, conjoined with Varuṇa in d.
 </details>
 
 <details><summary>+Griffith</summary>
@@ -174,3 +183,4 @@ Surya: "Nicht soll er mich, der ich dein bin, o Atri, falsch von Neid und Furcht
 Ты друг, чье расположение истинно.  
 Вы двое (ты и) царь Варуна помогите мне здесь!
 </details>
+

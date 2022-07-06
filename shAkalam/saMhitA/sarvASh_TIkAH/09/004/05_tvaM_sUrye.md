@@ -112,6 +112,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 
 Give us a share in the sun through your resolve and your help.  
 – Then make us better off.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/004/05-06.md">
+<details open><summary><h2>05-06 ...{Loading}...</h2></summary>
+
+These two vss. share not only the refrain pāda (c) found throughout the hymn, but another one (5b = 6a), as well as a common focus on the sun.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -136,3 +146,4 @@ O schenke du uns Sonnenlicht, durch deine Kraft und deine Gunst Und mach' uns re
 С помощью твоей силы духа, твоих поддержек  
 И сделай нас лучше!
 </details>
+

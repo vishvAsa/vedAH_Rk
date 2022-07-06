@@ -132,6 +132,16 @@ genre M
 
 Might we be in the favor of him who deserves the sacrifice, in his  propitious benevolence.  
 Let Indra of good protection, of good help to us keep hatred away even  from a distance.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/11-13.md">
+<details open><summary><h2>11-13 ...{Loading}...</h2></summary>
+
+The first pāda of 12 recasts that of 11: with sutrā́mā matching trātā́ram and s u vávām̐ávobhiḥ matching avitā́ram; 13a then repeats sutrā́mā su vávān. The connections between 12-13 and neighboring vss. in this hymn make it less likely (at least to me) that they are direct evidence of the Sautrāmaṇī ritual here, instead of being pressed into service of that ritual later. See published introduction.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -157,3 +167,4 @@ Wir mögen stehn in deiner Huld, des Heil'gen, in segensvollem Glücke fest gegr
 Этот прекрасный спаситель, прекрасный помощник Индра для нас  
 Еще издалека пусть прогонит ненависть далеко прочь!
 </details>
+

@@ -101,6 +101,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 
 The pressed juices rush along their own realm, the brown ones,  
 the drops, going to Indra.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/04-06.md">
+<details open><summary><h2>04-06 ...{Loading}...</h2></summary>
+
+Thematically somewhat unified by the journey theme.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -123,3 +133,4 @@ Die rothen Indu's ausgepresst, ergiessen durch den eignen Raum Der Luft zu Indra
 
 -ru-
 </details>
+

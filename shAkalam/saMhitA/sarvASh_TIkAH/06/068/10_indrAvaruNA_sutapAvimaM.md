@@ -128,6 +128,16 @@ genre M
 
 O Indra and Varuṇa, soma-drinkers—drink this exhilarating pressed  soma here, o you of steadfast commandments.  
 Your chariot drives to the ceremony for attracting the gods, (as if) to  good pasture to drink.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/068/09-11.md">
+<details open><summary><h2>09-11 ...{Loading}...</h2></summary>
+
+On the annunciatory forms of ayám in these three vss., see published introduction.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -153,3 +163,4 @@ So trinkt, ihr Somatrinker, Indra, Varuna, den Somasaft, den Rauschtrank, die ih
 Ваша колесница приближается к жертве (в ответ) на приглашение богов  
 Для питья (сомы,) (как коровы направляются) в сторону пастбища.
 </details>
+

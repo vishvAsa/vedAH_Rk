@@ -94,6 +94,15 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 
 Becoming purified, make wide space and nourishment for the people, o  you who long for song,  
 when you are released into the milk-mixture, o tawny one.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/13-15.md">
+<details open><summary><h2>13-15 ...{Loading}...</h2></summary>
+
+Again, each vs. has a form of √pū, for what that’s worth (pavasva 13a, punānáḥ 14a, 15a). In 15a devá-vītaye links to the rt. noun cmpd devā́-vī́- (deva-vī́tama- in the previous tṛca, 11b, 12b).
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -116,3 +125,4 @@ Gereinigt schaffe freien Raum und Kraft den Menschen, Liederfreund, Entsandt, o 
 
 -ru-
 </details>
+

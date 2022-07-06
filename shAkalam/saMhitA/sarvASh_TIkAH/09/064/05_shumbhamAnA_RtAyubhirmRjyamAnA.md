@@ -76,6 +76,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 <details><summary>+Jamison Brereton</summary>
 
 Being beautified by those who seek truth, being groomed in the two hands, they purify themselves in the sheep’s fleece.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/04-06.md">
+<details open><summary><h2>04-06 ...{Loading}...</h2></summary>
+
+No strong signs of unity. Vs. 4 does link to vs. 3 in the preceding tṛca through the mention of cows and horses. The c pādas of 5 and 6 both begin with a finite form of páva-.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -98,3 +108,4 @@ Sie rieseln hin aufs Widderhaar, von frommen Männern ausgeschmückt, Mit beiden
 
 -ru-
 </details>
+

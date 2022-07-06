@@ -147,6 +147,17 @@ Since you have slain the father: yat prākṣiṇāḥ pitaram pādagṛhya; cf.
 
 Who made your mother a widow? Who tried to smash you as you lay,  as you wandered?  
 What god was merciful toward you when you destroyed your father,  having grasped him by the foot?
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/018/12-13.md">
+<details open><summary><h2>12-13 ...{Loading}...</h2></summary>
+
+See the published introduction. for uncertainties about the interpr. of these vss. In some sense they seem to enlarge on the theme of “Indra’s disgrace” (índrasyāvadyám) in 7b -- the blood guilt Indra incurs from even sanctioned killing, made far worse by the intra-family slaughter depicted in vs. 12. Which leads to Indra’s extreme loss of status, isolation, and shunning by the other gods in the final vs. ### 12
+In light of d, which describes Indra’s killing his father, the question in a, “who made your mother a widow,” can only be answered “you did!” The final word of the vs. pādagṛ́hya ‘having grasped him by the foot’ is puzzling. It might seem to exclude Vṛtra as the victim (and as Indra’s father) since, as a snake, he has no feet -- though it might be a way of indicating picking up a snake by its tail. The only other occurrence of this cmpd gerund is in the desperately difficult hymn X.27, vs. 4, where the context is similar and the referent does seem to be Vṛtra.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -173,3 +184,4 @@ Wer machte einst zur Witwe deine Mutter? wer wollte dich im Ruh'n, im Wandern t�
 Когда ты уничтожил отца, схватив (его) за ногу?  
 Индра:
 </details>
+

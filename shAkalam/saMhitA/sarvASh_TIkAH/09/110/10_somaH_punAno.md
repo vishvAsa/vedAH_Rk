@@ -107,6 +107,16 @@ genre M;; repeated line
 
 Self-purifying Soma, being purified in the sheep’s fleece, has streamed,  playing like a child—  
 the drop possessing a thousand streams and a hundred prizes.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/10-12.md">
+<details open><summary><h2>10-12 ...{Loading}...</h2></summary>
+
+This very straightforward final tṛca concerning the ritual preparation of soma harps on the root √pū, with punānáḥ 10a, pávamānaḥ 10b, punānáḥ 11a, pavate 11b, and pavasva 12a.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -131,3 +141,4 @@ Sich klärend rann hell rieselnd Soma, hüpfend jetzt wie ein Füllen durch des 
 Павамана потек, играя, как ребенок,  
 Сок в тысячу потоков, приносящий сто наград.
 </details>
+

@@ -123,6 +123,15 @@ genre M;; repeated line
 
 Indra, angered, having attacked the back of raging Vr̥tra with his mace, keeps smashing him downward, spurring the waters to flow.  
 – They cheer on your sovereign power.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/080/05-06.md">
+<details open><summary><h2>05-06 ...{Loading}...</h2></summary>
+
+I don’t see any real difference between áva jighnate (5) and ní jighnate (6) that could account for difference in case frame: acc. in 5, loc. in 6.
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -149,3 +158,4 @@ Des wilden Vritra Scheitel schlägt hinschreitend Indra mit dem Blitz In jähem 
 Побуждая воды к течению.  
 Да воспоют они (твое) собственное царство!
 </details>
+

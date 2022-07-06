@@ -82,6 +82,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 <details><summary>+Jamison Brereton</summary>
 
 These soma juices, while being hymned, have surged for great fame in a stream of most exhilarating (soma).
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/22-24.md">
+<details open><summary><h2>22-24 ...{Loading}...</h2></summary>
+
+gṛṇāná- is found in the first and last vs. (22b, 24c); vss. 23 and 24 contain forms of árṣa-, pári, and cows. In addition vs. 22 seems to chain with the final vs. of the previous tṛca, 21: 22a asṛkṣata picks up 21b sṛjátā, and 22b śrávase echoes (deva)śrút(tamam) in 21c, while madíntama- (22b) contains the same splv. suffix as mádhumattama (21b), (deva)śrúttama- (21c).
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -104,3 +114,4 @@ Ergossen sind die Soma's hier gepriesen nun zu hohem Ruhm, Im Strome des berausc
 
 -ru-
 </details>
+

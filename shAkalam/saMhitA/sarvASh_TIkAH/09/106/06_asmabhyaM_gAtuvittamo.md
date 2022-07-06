@@ -89,6 +89,15 @@ genre M;; line affected by realignment
 
 The best finder of the way for us, most honeyed for the gods,  
 drive along your thousand paths, ever roaring.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/04-06.md">
+<details open><summary><h2>04-06 ...{Loading}...</h2></summary>
+
+Oldenberg classifies this tṛca as a third variety of Uṣṇih in which the last four syllables are technically separable but form part of a larger Jagatī pāda with the 8 syllables that precede. Although there is not the same semantic or syntactic distance as with some Uṣṇih vss., I’m not sure that Oldenberg’s distinction between the two types is nec. As for tṛca unity, all three vss. concern themselves with Soma’s ritual journey and the paths he takes. See esp. pathi- in 5c and 6c and the deconstruction of the bahuvrīhi sahásra-yāman- in 5c into the VP sahásraṃ yāhi, with the addition of pathíbhiḥ to substitute for the noun yā́man-. In this figure there's a nice little phonological interchange: sahásrayāmā : sahásraṃyāhi The dat. índrāya is also found in both 4b and 5a.
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -113,3 +122,4 @@ Der du uns freiste Bahn verschaffst, und schönsten Meth der Götterschar, Auf t
 Самый богатый медом для богов,  
 Двигайся тысячей путей, громко ревя!
 </details>
+

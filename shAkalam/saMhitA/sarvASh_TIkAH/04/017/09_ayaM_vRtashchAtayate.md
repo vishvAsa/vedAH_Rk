@@ -128,6 +128,16 @@ genre M
 
 This one forces his united opponents into hiding, he who alone is famed  as the bounteous one in contests.  
 This one brings the prize that he wins. Might we be dear to him in his  partnership.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/09-10.md">
+<details open><summary><h2>09-10 ...{Loading}...</h2></summary>
+
+This sequence of vss. is marked by initial ayám ‘this one here’ (9a, 9c, 10a, 10b; cf. also asyá 9d). This near-deictic pronoun may indicate that Indra is currently present at the sacrifice. These vss. are also marked by present tense verbs describing Indra’s characteristic and habitual activities -- in contrast to vs. 11, which opens with an imperfect (sám … ajayat).
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -153,3 +163,4 @@ Er ist's, der forttreibt die gescharten Feinde, der als der einz'ge Held im Kamp
 Он приносит добычу, которую захватывает.  
 Мы хотим быть приятными ему в дружбе!
 </details>
+

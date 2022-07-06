@@ -125,6 +125,16 @@ Nṛn = yoddhā, warriors
 
 Quicken our lordly power and quicken our men. – Smite demons; keep  away diseases.  
 In concert with Dawn and the Sun, (drink) the soma of the presser, o  Aśvins.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/035/16-18.md">
+<details open><summary><h2>16-18 ...{Loading}...</h2></summary>
+
+A verb needs to be supplied with the d pādas of this tṛca (sómaṃ sunvató aśvinā). On both general grounds and the d pādas of vss. 1-3 (sómam pibatam aśvinā)(see also 22b píbatam somyám mádhu), ‘drink’ makes the most sense, though ‘drive to’, which dominates the middle part of the hymn, is certainly possible.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -150,3 +160,4 @@ Die Herrschaft segnet und die Mannen segnet auch, Gespenster schlaget, wehret al
 Единодушные с Ушас и Сурьей,  
 (Пейте) сому у выжимающего (его), о Ашвины!
 </details>
+

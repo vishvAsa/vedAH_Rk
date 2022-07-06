@@ -126,6 +126,18 @@ Abiding in fixed habitations: dhruvakṣemāsaḥ niścalasthānaḥ, those of f
 
 Let the bullish mountains with stable dwelling places hear us, as they  become exhilarated on the refreshing drink.  
 Let Aditi with the Ādityas hear us. Let the Maruts extend to us  beneficial shelter.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/054/19-20.md">
+<details open><summary><h2>19-20 ...{Loading}...</h2></summary>
+
+The call to the gods to hear us, found first in vs. 1, returns here at almost the end of the hymn (19c, 20a, 20c). Note that in 19c the verb is sg. (śṛṇótu) with a series of sg. subjects (and one pl., ā́paḥ, in the middle), while in 20a it is pl.
+
+(śṛṇvantu) with a grammatically pl. subj. In 20c a sg. nom. with an instr. pl. of accompaniment (rather like the construction I suggested in 17c) takes a sg. verb, which suggests that my suggestion for 17c is incorrect.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -151,3 +163,4 @@ Die starken Berge mögen uns erhören, die festgegründet sich des Trunks erfreu
 Да услышит нас Адити с Адитьями!  
 Да пожалуют нам Маруты счастливое убежище!
 </details>
+

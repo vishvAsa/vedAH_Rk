@@ -101,6 +101,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 <details><summary>+Jamison Brereton</summary>
 
 The good one will not hold back his gift of a prize of cattle when he will hear these songs.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/22-24.md">
+<details open><summary><h2>22-24 ...{Loading}...</h2></summary>
+
+This tṛca concerns itself with cows, picking up gómadbhir gopate from the end of the preceding tṛca (21c). In particular 23b vā́jasya gómataḥ “prize of cows” reprises 21bc vā́jebhiḥ … gómadbhiḥ and is then echoed by vrajáṃ gómantam “enclosure of cows” in 24ab.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -125,3 +135,4 @@ Nicht hält der herrliche zurück die Gabe rinderreichen Guts, Sobald er diese L
 Дара в виде награды из коров,  
 Как только он услышит хвалебные песни.
 </details>
+

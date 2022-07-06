@@ -115,6 +115,16 @@ May you: may you quickly become worthy of the sacrifice,(as bearing our oblation
 
 Because all the gods, altogether, made you their messenger,  
 by harkening (to them), o god, you became the first one worthy of the  sacrifice.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/023/18-19.md">
+<details open><summary><h2>18-19 ...{Loading}...</h2></summary>
+
+Just as vs. 16 provides an ancestral pattern for the poet to gain goods from Agni and/or his patron, these vss. take the gods’ establishment of Agni as their messenger as the prototype for mortals’ doing the same.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -139,3 +149,4 @@ Denn alle Götter setzten dich vereint zu ihrem Boten ein, Du warst sogleich der
 Сделали тебя вестником.  
 Благодаря твоей готовности, о бог, ты стал первым достойным жертв.
 </details>
+

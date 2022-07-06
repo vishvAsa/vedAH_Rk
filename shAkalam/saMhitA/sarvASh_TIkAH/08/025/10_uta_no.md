@@ -90,6 +90,16 @@ genre M
 <details><summary>+Jamison Brereton</summary>
 
 And let the goddess Aditi, let the two Nāsatyas [=Aśvins] give us room; let the Maruts, whose strength has increased, give room.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/025/10-12.md">
+<details open><summary><h2>10-12 ...{Loading}...</h2></summary>
+
+This tṛca takes a break from Mitra and Varuṇa, introducing a somewhat random collection of other protective divinities. See also vs. 14.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -114,3 +124,4 @@ Uns schaff die Göttin Aditi, die treuen Ritter weiten Raum, Und weiten Raum die
 Создаст широкий простор (и) Насатьи!  
 Пусть создадут широкий простор Маруты, возросшие силой!
 </details>
+

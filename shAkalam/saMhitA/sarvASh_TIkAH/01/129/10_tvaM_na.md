@@ -194,6 +194,16 @@ immortal one.
 Another one than us—any one—should you harm, o possessor of  
 the stone—(anyone) who (himself) intends harm, o possessor of  
 the stone.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/129/09-10.md">
+<details open><summary><h2>09-10 ...{Loading}...</h2></summary>
+
+Note identical openings to these two vss: tváṃ na indra rāyā́…, with the final word of the pādas showing very close phonological patterning: párīṇasā / tárūṣasā The standard tr. construe e with fg, such that rátham of e is the referent of anyám in f. But this seriously violates the structure of Atyaṣṭi, where de always constitute a unit. Moreover, “another chariot than us” would be a strange expression; we expect the anyám to refer to an animate opponent in such a construction, esp. if it is “intending harm” (rírikṣantam). I therefore generate a verbal form ‘help’ from the agent noun voc. ávitar that ends d: √av + rátham is found elsewhere (I.102.3, 112.12, etc.).
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -223,3 +233,4 @@ Mit Reichthum komm, o Indra, der uns Sieg verleiht; zum Beistand folge dir, dem 
 Любую порази, о хозяин давильных камней,  
 Если она стремится поразить (нас), о хозяин давильных камней!
 </details>
+

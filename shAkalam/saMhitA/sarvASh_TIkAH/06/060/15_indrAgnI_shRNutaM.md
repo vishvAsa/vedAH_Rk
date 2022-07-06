@@ -109,6 +109,16 @@ genre M
 <details><summary>+Jamison Brereton</summary>
 
 O Indra and Agni, hear the call of the sacrificer who presses (soma). Pursue his oblations: come here, drink the somian honey.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/060/13-15.md">
+<details open><summary><h2>13-15 ...{Loading}...</h2></summary>
+
+On the connection of these vss. to the hymn, see published introduction. For the ring composition between the 1st tṛca and this one, note the verbal responsion vasavyà- (1, 14), rā́dhas- (3, 13), vājayántā (1) and vā́jasya sātáye (14).
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -134,3 +144,4 @@ O Indra, Agni, hört den Ruf des Opferers, der Soma braut, und trinkt den süsse
 Радостно примите жертвы! Придите!  
 Пейте сладость сомы!
 </details>
+

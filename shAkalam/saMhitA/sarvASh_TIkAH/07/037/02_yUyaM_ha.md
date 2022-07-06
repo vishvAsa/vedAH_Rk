@@ -127,6 +127,16 @@ genre M
 
 You confer a treasure on the bounteous (patrons), you R̥bhukṣans of  sunlike sight—(a treasure) indestructible.  
 Drink together at the sacrifices, autonomous ones. Apportion rewards to  us in accordance with our thoughts.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/037/01-02.md">
+<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+
+The stationing of the adj. ámṛkta- ‘indestructible’ at the end of the b pādas of both vss., in each case some distance from its noun, is clearly deliberate, but I’m not sure what it’s signaling.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -152,3 +162,4 @@ Ihr gebt den Mächt'gen unversehrte Schätze, die Himmelslicht ihr schaut, o Rib
 Пейте вместе на жертвоприношениях, о самовластные!  
 Распределяйте дары по нашим молитвам!
 </details>
+

@@ -101,6 +101,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 <details><summary>+Jamison Brereton</summary>
 
 Bring great wealth here to us, self-purifying one; smash the scorners. Give glory in heroes, o drop.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/25-27.md">
+<details open><summary><h2>25-27 ...{Loading}...</h2></summary>
+
+This tṛca focuses even more strongly on combat, with forms of √han in 25 and 26 and ‘do battle’ (makhasyá-) in 27. Generosity is also a topic.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -125,3 +135,4 @@ Bring' grosse Schätze uns herbei, die Feinde schlag', o flammender, Gib, Indu, 
 О Павамана, убей презирающих (нас)!  
 Даруй, о капля, блеск, заключенный в мужах!
 </details>
+

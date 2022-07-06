@@ -99,6 +99,16 @@ genre M
 
 Soma, we who know speech strengthen you with our hymns.  
 Very compassionate to us, enter us.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/091/11-12.md">
+<details open><summary><h2>11-12 ...{Loading}...</h2></summary>
+
+The two alliterative root noun compounds vacovíd- (11b) and vasuvíd- (12b) nonetheless contain the two synchronically separate roots, ‘know’ and ‘find’.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -123,3 +133,4 @@ Wir redekund'gen stärken dich, o Soma, durch der Lieder Schall, Komm reich an G
 Мы усиливаем тебя, сведущие в речи.  
 Сочувственный войди в нас!
 </details>
+

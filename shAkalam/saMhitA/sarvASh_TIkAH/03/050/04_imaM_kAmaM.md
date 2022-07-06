@@ -130,6 +130,14 @@ genre M;; repeated line
 
 Invigorate this desire with cows, with horses, with recompense in gold,  and you will (further) spread it out.  
 Seeking the sun, the inspired poets, the Kuśikas, have made with their  thoughts a (ritual) conveyance for you, for Indra.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/050/04-05.md">
+<details open><summary><h2>04-05 ...{Loading}...</h2></summary>
+
+On the sequence of two repeated vss. see published introduction.</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -155,3 +163,4 @@ Befried'ge diesen Wunsch durch Ross und Rinder, und mach ihn weit durch glänzen
 Стремясь к солнечному свету, вдохновенные люди из рода Кушики  
 (Своими) молитвами тебе, Индре, создали средство для езды.
 </details>
+

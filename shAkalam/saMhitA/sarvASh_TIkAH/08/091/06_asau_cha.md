@@ -139,6 +139,14 @@ Crop: i.e., make them all hairy, romaśani
 
 “That field of ours, this body of mine,  
 and my Papa’s head—make all these hairy.”
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/091/05-07.md">
+<details open><summary><h2>05-07 ...{Loading}...</h2></summary>
+
+On the connection between hair growth and skin disease, see Jamison 1991: 146-70.</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -161,3 +169,4 @@ Hier dieses unser Ackerland, dazu auch meinen eignen Leib, Und dann den Kopf des
 
 -ru-
 </details>
+

@@ -124,6 +124,16 @@ Enter into the heart of Indra, the repository of soma, like rivers into  the sea
 being pleasing to Mitra, to Varuṇa, to Vāyu, the highest prop of  
 heaven.  
 Hymns in Assorted Meters: 109–114
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/15-16.md">
+<details open><summary><h2>15-16 ...{Loading}...</h2></summary>
+
+No particular signs of cohesion, but see the ring compositional elements connecting vs. 15 to the 1st vs. of the hymn.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -149,3 +159,4 @@ In Indra's Leib, der Soma aufnimmt, gehe ein, so wie die Ströme in das Meer, Er
 Привлекательный для Митры, Варуны, Ваю,  
 Высшая опора неба!
 </details>
+

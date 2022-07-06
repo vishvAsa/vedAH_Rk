@@ -120,6 +120,16 @@ genre M
 
 Wearing auspicious festival garments, as a great poet pronouncing  enigmas,  
 coil yourself into the two cups while being purified, wide-gazing and  watchful in the pursuit of the gods.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/01-03.md">
+<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+
+No obvious cohesion in this tṛca, though it ends with a clan refrain.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -145,3 +155,4 @@ Gehüllt in schöne, festliche Gewänder, als hoher Seher deine Sprüche sagend;
 Скачи галопом в двух чанах, очищаясь,  
 Смотрящий далеко, бодрствующий – для приглашения богов!
 </details>
+

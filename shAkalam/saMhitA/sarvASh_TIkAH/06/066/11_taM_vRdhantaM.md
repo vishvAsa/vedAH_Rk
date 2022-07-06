@@ -140,6 +140,13 @@ Divaḥ = stotuḥ, of the praiser or worshipper;
 
 This Marut(-troop) grown strong, with flashing spears, the son(s) of  Rudra I seek to entice here with an invocation.  
 For (the favor of) the troop of heaven the gleaming inspired thoughts,  mighty like mountains or waters, have contended (with each other).
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+Note the fairly common bhrā́jad-ṛṣti- in a immediately following the identically formed hapax bhrā́jaj-janman- in 10d.
+
+The final pāda has attracted more concerned comment than I think it deserves; see esp. the great fuss Oldenberg makes about it. The issue is what to do with the simile containing two nominatives giráyo nā́paḥ (= ná ā́paḥ), lit. “like mountains, waters.” The consensus seems to be that the two noms. convey a single image, with a more complex structure underlying it: namely the waters (of) the mountains, mountain water, Bergwasser. I don’t see why this is necessary; instead I think the thoughts are being compared both with moutains and with waters, which are both ugrá- in different ways. (Oldenberg allows this possibility.) Note that the adjectives qualifying the inspired thoughts, śúci- and ugrá-, were used of the Maruts earlier in the hymn, in 4c and 5c, 6a respectively.
 </details>
 
 <details><summary>+Griffith</summary>
@@ -165,3 +172,4 @@ Die Marutschar, mit Lanzen funkelnd, wachsend, des Rudra Volk lock' ich herbei d
 Чистые слова мудрости ради толпы неба  
 Состязаются, словно грозные воды с гор.
 </details>
+

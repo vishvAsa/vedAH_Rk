@@ -93,6 +93,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 
 You, Agni, do the very attentive mortals reverently invoke as god at the  sacrifices,  
 to pursue the gods.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/07-09.md">
+<details open><summary><h2>07-09 ...{Loading}...</h2></summary>
+
+This tṛca likewise has a form of the 2nd sg. prn. beginning each vs. (7 t(u)vā́m, 8 táva, 9 t(u)vám), again all different.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -117,3 +127,4 @@ Dich, Agni, laden andachtsvoll zum Göttermahl die Sterblichen Bei ihren Opfern 
 Смертные, о бог, для приглашения богов  
 Зовут на жертвоприношения.
 </details>
+

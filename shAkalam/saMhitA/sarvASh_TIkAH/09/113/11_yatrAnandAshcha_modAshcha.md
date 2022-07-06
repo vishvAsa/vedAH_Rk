@@ -153,6 +153,15 @@ The wishes of the wisher: the desired god
 Where joys and delights, elations and exaltations dwell,  
 where the desires of desire are obtained, there make me immortal.  
 – O drop, flow around for Indra.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/113/08-11.md">
+<details open><summary><h2>08-11 ...{Loading}...</h2></summary>
+
+In addition to the fifth pāda refrain found throughout the hymn (as well as IX.112 and 114), these four vss. add a refrain in the fourth pāda: tátra mā́m amṛ́taṃ kṛdhi “there make me immortal,” each time serving as the main clause for a set of yátra clauses.
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -175,3 +184,4 @@ Wo Freude, Lust und Wonne thront, wo Fröhlichkeit und Seligkeit, Wo sich der Lu
 
 -ru-
 </details>
+

@@ -96,6 +96,16 @@ You proceed: added, 'from the wagon whence they are taken by the priests to the 
 
 You run forth, self-purifying Soma, for Indra to drink.  
 Held by men, you are led through (the filter).
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/024/01-03.md">
+<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+
+The first 3 vss. are united by the use of the (secondary) root √dhanv ‘run’, with the 3rd pl. -iṣ-aor. adhanviṣuḥ (found only here in the RV) in vss. 1 and 2, with the complementary subjects soma drops (1) and cows (2)(or so I think: see below), and the 2nd sg. pres. dhanvasi in 3.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -120,3 +130,4 @@ Du strömest vor, o rieselnder, zum Trunk dem Indra, Soma du, Gelenkt von Männe
 О сома, Индре для питья.  
 Направленный мужами, ты отводишься (в цедилку).
 </details>
+

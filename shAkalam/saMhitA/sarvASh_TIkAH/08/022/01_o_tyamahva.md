@@ -126,6 +126,16 @@ On the path to battle: rudravartani = having a pathwhich causes weeping in battl
 I have called here this most wondrous chariot for help today,  
 the one that you mounted for Sūryā, o Aśvins easy to call, you who  
 follow the course of the Rudras [=Maruts]—
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/022/01-02.md">
+<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+
+This pragātha contains poetic self-address at a distance. Vs. 1 begins ā́ … have “I have called here …,” while 2c ends with the voc. sobhare. (On poetic selfaddress see Jamison [Fs. Skjaervø, 2009].)
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -151,3 +161,4 @@ Herbei ruf euren Wagen ich zur Hülfe heut, den kräftigsten, Den, Ritter, ihr g
 На которую, о легко призываемые, следующие сверкающим путем Ашвины,  
 Вы взошли для Сурьи,
 </details>
+

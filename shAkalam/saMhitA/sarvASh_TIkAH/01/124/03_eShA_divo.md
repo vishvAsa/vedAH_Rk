@@ -132,6 +132,16 @@ genre M
 
 This Daughter of Heaven has appeared opposite, dressed in light, in the  same way (as the others), from the east.  
 She follows along the path of truth, straight to the goal. Like one who  knows the way, she does not confound the directions.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/124/02-03.md">
+<details open><summary><h2>02-03 ...{Loading}...</h2></summary>
+
+áminatī (2a) and ná … mināti (3d)(cf. also ná mināti I.123.9) receive different tr. here both because they have different objects and because áminatī is contrastively paired with praminatī́(2b).
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -157,3 +167,4 @@ Es lässt sich blicken diese Himmelstochter im Osten, ganz in Lichtgewand geklei
 Она правильно следует дорогой закона;  
 Как знающая наперед, она не путает направлений.
 </details>
+

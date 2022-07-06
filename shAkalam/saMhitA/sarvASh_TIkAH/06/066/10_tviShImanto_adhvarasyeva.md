@@ -117,6 +117,15 @@ genre M
 
 Flaring like the dart of the ceremony [=ritual fire], stirring thirstily like  tongues of fire,  
 chanting like boisterous heroes, the Maruts with their flashing birth are  unassailable.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+The comparison of the Maruts to fires in 2a (yé agnáyo ná śóśucann idhānā́ḥ “those who kept blazing up like fires being kindled”) returns here in the first hemistich with more contorted imagery. In the similes of both a and b the Maruts are compared not directly to fire, but to something that is a metaphor for fire: “the dart of the ceremony” (a) and the more familiar “tongues of fire” (b). The somewhat unexpected invocation of Agni in the last pāda of the preceding vs. (9d) prepares the way for these similes.
+
+In d I have followed Geldner and Renou in selecting the final word, ádhṛṣtāḥ ‘unassailable’, as the predicate. But given that the first 5 vss. of the hymn concern the Maruts’ birth and that the 1st half of this vs. compares them to fire, I wonder if the predicate is rather bhrā́jajjanmānaḥ ‘of flashing birth’, as von Bradke takes it: “…...
+
+leuchtend ist die Geburt der unwiderstehlichen Marut.” The striking phonology (…j …jj) of the cmpd certainly draws attention to it.
 </details>
 
 <details><summary>+Griffith</summary>
@@ -142,3 +151,4 @@ Hell strahlend wie des Opfers Feuerflamme, voll Gier sich regend wie des Agni Zu
 Поющие, словно буйные герои,  
 Маруты, сияющие от рождения, неодолимы.
 </details>
+

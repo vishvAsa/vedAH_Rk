@@ -154,6 +154,16 @@ The thunder entering into all beings,becomes the speaker of moral truth, eṣā 
 <details><summary>+Jamison Brereton</summary>
 
 The gods begat goddess Speech. The beasts of all forms speak her. Gladdening, milking out refreshment and nourishment for us, let  Speech, the milk-cow, come well praised to us.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/10-11.md">
+<details open><summary><h2>10-11 ...{Loading}...</h2></summary>
+
+For the possible mythological background of these verses, as adumbrated by Oldenberg, see the published introduction.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -180,3 +190,4 @@ Die Göttin Vāk haben die Götter erzeugt, die vielgestaltigen Thieren reden si
 Доящаяся отрадой, питательной силой, пусть придет к нам, прекрасно восхваленная!  
 Индра:
 </details>
+

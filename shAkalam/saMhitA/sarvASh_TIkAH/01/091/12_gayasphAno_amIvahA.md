@@ -101,6 +101,16 @@ genre M
 
 Fattening the livestock, smiting afflictions, finding goods, increasing  prosperity,  
 Soma, be a good ally to us.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/091/11-12.md">
+<details open><summary><h2>11-12 ...{Loading}...</h2></summary>
+
+The two alliterative root noun compounds vacovíd- (11b) and vasuvíd- (12b) nonetheless contain the two synchronically separate roots, ‘know’ and ‘find’.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -125,3 +135,4 @@ Den Hausstand mehr', vertreibe Leid, die Nahrung mehre, schenke Gut, Sei, Soma, 
 Находящий добро, усиливающий процветание,  
 Будь ты нам, Сома, добрым другом!
 </details>
+

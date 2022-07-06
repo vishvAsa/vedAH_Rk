@@ -86,6 +86,16 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 <details><summary>+Jamison Brereton</summary>
 
 With the sap of honey they anoint him, the drop for Indra the bull, for  exhilaration.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/19-21.md">
+<details open><summary><h2>19-21 ...{Loading}...</h2></summary>
+
+No particular signs of cohesion, though assembled from the usual assortment of soma clichés.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -108,3 +118,4 @@ Sie salben diesen – mit süssem Safte, dem Stiere Indra – zum Rausch den Ind
 Его умащают лучшим (, что есть) в меде,  
 Для Индры-быка, сок сомы – для опьянения.
 </details>
+

@@ -103,6 +103,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 
 By purifying themselves, let them bring here to us rain from heaven and  an abundance of heroes—  
 the gods, the drops, being pressed.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/22-24.md">
+<details open><summary><h2>22-24 ...{Loading}...</h2></summary>
+
+As noted in the published introduction, this tṛca is thematically unified by a listing of the many place in which soma can be pressed in 22-23; all these clauses share a single verb sunviré in 22b. The two vss. are followed by a summary vs. (24) expressing the hope that all these diverse soma types will bring good things to us. The tṛca also shows signs of formal cohesion that are rare in these Gāyatrī assemblages: vss. 22-23 consist of six pāda-length rel. cl., all introduced by yé, with disjunctive vā found in both c pādas, while 24 begins with the resumptive and summarizing correlative té.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -125,3 +135,4 @@ Die mögen Regen strömen uns vom Himmel hell und Heldenkraft, Die Götter Indu'
 
 -ru-
 </details>
+

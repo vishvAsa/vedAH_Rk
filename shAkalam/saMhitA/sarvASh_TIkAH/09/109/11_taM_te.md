@@ -89,6 +89,15 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 <details><summary>+Jamison Brereton</summary>
 
 The pressers purify that sap of yours for exhilaration, the soma for  great heavenly brilliance.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/10-12.md">
+<details open><summary><h2>10-12 ...{Loading}...</h2></summary>
+
+Once again, three different forms of the root √pū: 10 pávasva, 11 punánti, 12 pavítre, all hemistich-initial. The washing/grooming of Soma as horse is found in vss. 10 and 12. The phrase krátve dákṣāya (10) is repeated from vs. 2, though in different metrical position.
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -111,3 +120,4 @@ Dir klären Presser – den Saft zum Rausche, den hellen Soma – zu grossem Rei
 Этот сок твой выжиматели очищают  
 Для опьянения, сому для великого блеска.
 </details>
+

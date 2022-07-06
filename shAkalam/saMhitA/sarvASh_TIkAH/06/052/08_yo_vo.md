@@ -98,6 +98,16 @@ genre M
 <details><summary>+Jamison Brereton</summary>
 
 The one who attends to you with a ghee-backed oblation, o gods— you all come close to him.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/07-12.md">
+<details open><summary><h2>07-12 ...{Loading}...</h2></summary>
+
+These two tṛcas (7-9, 10-12) are in Gāyatrī, and the first tṛca esp. is an elementary production, with almost no tricks (though see vs. 9). One wonders whether great swaths of RV-period poetry were similarly lackluster and therefore not generally preserved.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -122,3 +132,4 @@ Wer, Götter, euch mit Opfer schmückt, das Butter auf dem Rücken trägt, Zu de
 Жирноспинной жертвой,  
 К тому вы приходите!
 </details>
+

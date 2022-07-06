@@ -100,6 +100,15 @@ genre M
 <details><summary>+Jamison Brereton</summary>
 
 Who with his beauty is proclaimed in the houses at evening and at dawn, whose commandment is not confounded,
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/008/01-04.md">
+<details open><summary><h2>01-04 ...{Loading}...</h2></summary>
+
+The #ya(śástamasya) that opens 1c anticipates the forms of the relative pronoun yá- in the next 3 vss. (2a #yáḥ, 3a #yá(h), 3c #yásya, with the last, 4a #ā́ yáḥ, no longer in initial position), though of course it is entirely unrelated to the relative. The referent of all those rel. pronouns is Agni, who is also the referent of yaśástamasya. Phonology and syntax are thus wedded.
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -129,3 +138,4 @@ Und in den Häusern spät und früh durch schönen Glanz verherrlicht wird, Und 
 Прославляется вечером и утром,  
 Чей обет не нарушается,
 </details>
+

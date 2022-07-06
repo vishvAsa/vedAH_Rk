@@ -135,6 +135,16 @@ genre D;; repeated line
 
 In the middle of which King Varuṇa travels, looking down upon the  truth and falsehood of the peoples,  
 those, clear and pure, that drip honey—let those waters, goddesses, help  me here.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/049/02-03.md">
+<details open><summary><h2>02-03 ...{Loading}...</h2></summary>
+
+Pādas 2c and 3c contain the same three words after the caesura, but with the first two flipped: 2c yā́ḥ śúcayaḥ pāvakā́ḥ and 3c śúcayo yā́ḥ pāvakā́ḥ (with the last word to be read *pavākā̇́ḥ in both instances, of course). I do not understand the motivation for the permutation, although each order has a positive and negative feature: 2c puts the rel. prn. in the more usual 2nd position in the pāda, as opposed to 3c, where it is 3rd (though both positions are syntactically acceptable), but the break in 2c (-⏑⏑) is decidedly less common than the one in 3c (⏑⏑ -)(see Arnold, Vedic Metre, 188).
+
+[VII.50-52 JPB]</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -165,3 +175,4 @@ In deren Flut Varuna fährt, der König, der Menschen Recht und Unrecht übersch
 (Те,) что медом сочатся, прозрачные, чистые,  
 Эти божественные воды пусть мне здесь помогут!
 </details>
+

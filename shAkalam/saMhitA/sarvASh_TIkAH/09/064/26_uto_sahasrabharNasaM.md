@@ -92,6 +92,17 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 
 And speech bringing a thousand presents, ready for combat [/bounty],  o Soma—  
 becoming purified, o drop, bring that hither.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/064/25-27.md">
+<details open><summary><h2>25-27 ...{Loading}...</h2></summary>
+
+The unusual acc. expression vā́cam … sahásrabharṇasam is found in both 25 and 26 (in different order). For sahásra-bharṇas- see comm. ad IX.60.2. All three vss.
+
+contain the nom. sg. masc. punānáḥ.
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -114,3 +125,4 @@ Das Lied, was tausend Gaben beut, o Soma, den Triumphgesang, Bring', Indu, her, 
 
 -ru-
 </details>
+

@@ -147,6 +147,16 @@ genre M
 
 The fires shone out, out the sun, out the soma, the Indrian sap.  
 You blew the great serpent out from the midspace: that manly act did  you perform, Indra.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/003/19-20.md">
+<details open><summary><h2>19-20 ...{Loading}...</h2></summary>
+
+The preverb níḥ is the theme of this pragātha, with seven occurrences, six pāda-initial, in eight pādas, with a variety of different verbs.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -172,3 +182,4 @@ Es leuchteten die Feuer auf, der Sonne Glanz, der Somasaft, des Indra Trank; Du 
 Ты сдул змея прочь из воздушного пространства –  
 Совершил ты, о Индра, этот подвиг мужества.
 </details>
+

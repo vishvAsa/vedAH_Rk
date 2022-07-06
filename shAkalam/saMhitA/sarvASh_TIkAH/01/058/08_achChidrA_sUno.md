@@ -128,6 +128,16 @@ genre M
 
 O son of strength with the might of Mitra, today hold out unbroken  shelters to us, your praisers.  
 O Agni, child of nourishment, deliver the singer from narrow straits,  with your metal strongholds.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/058/08-09.md">
+<details open><summary><h2>08-09 ...{Loading}...</h2></summary>
+
+Vs. 9 is essentially a paraphrase of vs. 8, with several parallel expressions.
+
+And the final pāda of 9 is the Nodhas refrain.</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -158,3 +168,4 @@ O Sohn der Kraft, o freundereicher Agni, verleihe sichern Schutz den Sängern he
 О Агни, создай воспевающему (тебя) широту против узости,  
 О потомок мощи, с помощью железных крепостей!
 </details>
+

@@ -141,6 +141,16 @@ genre M
 Br̥haspati and Indra, drink the soma, becoming exhilarated at this  sacrifice here, you who have bullish goods.  
 Let the drops that stand by you enter you. In us deposit wealth  
 consisting of hale heroes.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/09-10.md">
+<details open><summary><h2>09-10 ...{Loading}...</h2></summary>
+
+This last section consisting of two vss. introduces Indra by name for the first time in the hymn. The two divine figures are carefully balanced, as the address to them shows: vs. 10 opens with the name Indra in a reverse Vāyav Indraś ca construction, índraś ca … bṛhaspate, while two independent vocatives open vs. 11, this time with Bṛhaspati first: bṛhaspata indra.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -171,3 +181,4 @@ Den Soma trinkt, o Indra und Brihaspati, bei diesem Opfer hocherfreut, ihr helde
 Да войдут в вас полезные капли!  
 Нам пожалуйте богатство – одних только сыновей!
 </details>
+

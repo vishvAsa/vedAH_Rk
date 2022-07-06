@@ -80,6 +80,16 @@ genre M
 We magnify (him) through the hundred embodiments of the  
 much-praised one,  
 of Indra, the supporter of the settled domains.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/037/03-04.md">
+<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+
+As Geldner also suggests, Indra’s names (nā́māni) in vs. 3 form a complementary pair with his hundred dhā́man- ‘forms, embodiments’ in 4.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -104,3 +114,4 @@ Mit hundert Liedern rühmen wir, wie das der vielgepriesene, Der Volkbeschützer
 Многопрославленного Индры,  
 Поддерживающего народы, мы возвеличиваем (его).
 </details>
+

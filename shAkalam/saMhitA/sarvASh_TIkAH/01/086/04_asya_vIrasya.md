@@ -92,6 +92,16 @@ genre M
 
 Of that hero here the soma has been pressed at the rituals of day(break)  on his ritual grass;  
 his solemn speech and exhilarating drink are being announced.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/086/04-05.md">
+<details open><summary><h2>04-05 ...{Loading}...</h2></summary>
+
+As indicated in the published introduction, the genitive of the human worshiper is continued in these verses, though with the demonstrative, not relative pronoun.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -116,3 +126,4 @@ Und solches Mannes Somasaft, der auf der Streu bei Festen steht, Sein Spruch und
 Выжат сома для жертвоприношений (этого) дня,  
 Произносится гимн и (пьется) хмельной напиток.
 </details>
+

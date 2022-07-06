@@ -131,6 +131,16 @@ Made his form obedient to his will: According to **sūkta** 3.8, rūpam rūpam *
 
 Strong, overcoming the powerful, of overwhelming strength—he made  his body as he wished.  
 Having overwhelmed Tvaṣṭar at his birth, Indra, having stolen the soma,  drank it in the cups.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/048/03-04.md">
+<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+
+I assume that purudhá-pratīka- in 3d refers to Indra’s shape-shifting powers; the cmpd seems to be “unpacked” in 4b “he made this body as he wished” (yathāvaśáṃ tanvàṃ cakra eṣáḥ).
+
+These two vss. are noteworthy for containing 3 gerunds, upasthā́ya, abhibhū́ya, and āmúṣyā. The quest of the poet(s) of the Indra hymns in III to find a way to express anteriority (see disc. ad III.32.9-10, 33.11) is successful at least in this passage.</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -156,3 +166,4 @@ Schnellsiegend, mächtig, übergross an Stärke gestaltete den Leib er ganz nach
 По природе (своей) подчинив (себе) Тваштара,  
 Похитив сому, Индра пил (его) из чаш.
 </details>
+

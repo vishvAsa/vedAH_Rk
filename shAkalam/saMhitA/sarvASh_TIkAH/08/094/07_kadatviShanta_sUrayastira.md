@@ -89,6 +89,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 
 Have the patrons [=Maruts] grown excited? Like the waters they rush  beyond failures,  
 the (Maruts) of refined skill.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/094/07-08.md">
+<details open><summary><h2>07-08 ...{Loading}...</h2></summary>
+
+I take the initial kád in both verses as a question particle, introducing a rhetorical question. Geldner, Renou, and Etter (p. 236) take the kád in 8 as a neut. acc. interrogative adj. modifing ávaḥ (“which help?”), though they all take the kád in 7 as a question particle. I do not see the justification for violating the evident parallelism of the two verses, and I also wonder if we get a choice of the kind of help the gods are going to provide us.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -113,3 +123,4 @@ Was regten sich die glänzenden? die reingesinnten strömen hin Wie Wasser durch
 Они мчатся, как воды, минуя  
 Неудачи, наделенные чистой силой действия.
 </details>
+

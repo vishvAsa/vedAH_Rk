@@ -102,6 +102,16 @@ genre M;; line affected by realignment;; repeated line
 
 (That) by which you impel the great waters forth to the Sindhu like  chariots  
 to travel the path of truth—for that we beg.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/01-03.md">
+<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+
+This tṛca is unified by a series of relative clauses (mostly introduced by yéna) whose antecedent in the main clause is the tám that opens the refrain. The presumed referent of all the relative pronouns (and the tám’s) is mádaḥ in 1b, although it could be any power or capacity of Indra’s that comes to mind.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -126,3 +136,4 @@ Durch den du vorwärtstriebst den Strom, die grossen Wasser Wagen gleich, Dass s
 Великие воды, словно колесницы,  
 Чтоб они текли правильным путем – мы просим о нем.
 </details>
+

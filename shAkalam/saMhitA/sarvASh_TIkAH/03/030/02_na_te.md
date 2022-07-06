@@ -154,6 +154,16 @@ genre M
 
 Even the farthest dusky realms are not at a distance for you. But drive  here with your two fallow bays, bay-horsed one.  
 It is for (you), the sturdy bull, that these pressings here were made and  the pressing stones yoked when the fire was being kindled.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/030/02-03.md">
+<details open><summary><h2>02-03 ...{Loading}...</h2></summary>
+
+The next two vss. develop the theme sounded in pāda d of vs. 1.: Indra’s absence. In vs. 2 we point out that for Indra nothing is very far away, so he could, and should, easily come here, where the sacrifice is invitingly set out for him. In vs. 3 we provide a flattering description of Indra’s great powers and then plaintively ask where these powers are now.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -179,3 +189,4 @@ Nicht ferne sind dir auch die höchsten Räume, auf, Herr der Rosse, komm mit de
 Для крепкого быка сделаны эти выжимания (сомы),  
 Запряжены давильные камни при зажженном огне.
 </details>
+

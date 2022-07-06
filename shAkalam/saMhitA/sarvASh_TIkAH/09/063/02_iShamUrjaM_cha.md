@@ -90,6 +90,15 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 <details><summary>+Jamison Brereton</summary>
 
 You swell refreshment and nourishment; most exhilarating for Indra, you sit down here in the cups.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/01-03.md">
+<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+
+No particular signs of unity, though the dat. índrāya in 2b anticipates the three datives índrāya víṣṇave … vāyáve in vs. 3.
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -112,3 +121,4 @@ Du lässest schwellen Kraft und Saft dem Indra, o berauschendster, In Schalen l�
 
 -ru-
 </details>
+

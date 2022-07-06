@@ -104,6 +104,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 
 Smashing Vr̥tra the hostile, winning the prize every day,  
 you are a winner of cows and of horses.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/19-21.md">
+<details open><summary><h2>19-21 ...{Loading}...</h2></summary>
+
+Little evidence of unity, though 19 and 20 share ‘smashing’ and 20 and 21 cows.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -128,3 +138,4 @@ Erschlagend den verhassten Feind und Labung spendend Tag für Tag Verleihst du R
 Захватывающий награду день за днем,  
 Ты – захватчик коров и захватчик коней.
 </details>
+

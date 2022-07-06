@@ -92,6 +92,16 @@ When you conduct to the limit: yam nayatha pāram, whom you ledto the opposite b
 
 O you Ādityas without deceit—the mortal whom you lead to the  far shore—  
 you who are the best givers among all the generous—
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/019/34-35.md">
+<details open><summary><h2>34-35 ...{Loading}...</h2></summary>
+
+These two vss. are so interrupted by heavy voc. phrases addressed to the Ādityas that it is difficult to follow the thread. The poet identifies a mortal who is especially favored by the Ādityas (34b) and who therefore holds power among men (35b) and then expresses the hope that “we” might be “they” (vayám té … syā́ma, 35cd), that is, the fortunate man just identified. The switch in numbers is somewhat disconcerting, but can presumably be ascribed to attraction to the 1st pl. pronoun: “might we be he/that one” doesn’t work well in either Sanskrit or English.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -116,3 +126,4 @@ Welche Sterblichen ihr, o wohlwollende, gabenreiche Aditja's, über alle Gewalth
 Перевозите на другой берег,  
 С прекрасными дарами среди всех щедрых покровителей...
 </details>
+

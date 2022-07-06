@@ -103,6 +103,11 @@ The Viśvāmitras: The **bharatas**, or descendants of **Bharata**, are descenda
 
 The Viśvāmitras have given the formulation to Indra who bears  the mace.  
 He will make us well rewarded.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+The tr. of the last pāda might better begin “Just he will make …” to reflect the íd.
 </details>
 
 <details><summary>+Griffith</summary>
@@ -127,3 +132,4 @@ Des Viçvamitra Nachkommen weihten Gebet dem Blitz tragenden Indra; er mache uns
 Заклинание Индре – носителю ваджры.  
 Пусть и он нас сделает обладателями прекрасных даров!
 </details>
+

@@ -121,6 +121,15 @@ genre M
 
 Bring forward a brilliant chant for the singing, swift, self-strong  Marut(-troop).  
 Those who overpower powers with power, before (those) combatants  the earth trembles, o Agni.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+For the switch between singular reference to the Marut collectivity in ab and plural reference to the same group in cd, see disc. ad 3cd.
+
+A particularly insistent etym. figure in c: sáhāṃsi sáhasā sáhante. The metrical irreg. of the pāda, with a likely rest at 5 (so Holland & van Nooten Rig Veda edition), after sáhāṃsi, may draw attention to it.
+
+On the address to Agni in d, see comm. ad 10.
 </details>
 
 <details><summary>+Griffith</summary>
@@ -146,3 +155,4 @@ Ein glänzend Lied tragt vor der Schar der Maruts, der jubelnden, urkräftigen, 
 (Марутам,) которые силой осиливают силы.  
 Дрожит, о Агни, земля перед резвыми (Марутами).
 </details>
+

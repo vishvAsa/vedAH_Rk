@@ -104,6 +104,18 @@ This shows the purpose of ārā, to abrade, to smoothen, as an abrasive
 <details><summary>+Jamison Brereton</summary>
 
 Shred them, make them shrapnel—the hearts of the niggards, you poet. And make them subject to us.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/053/07-08.md">
+<details open><summary><h2>07-08 ...{Loading}...</h2></summary>
+
+These vss. contains the delightful phrase ā́rikha kikirā́krṇ̥ u, whose playful sonic effects I endeavored to capture in my anachronistic tr. The word kikirā is of course a hapax (though cf. YV kikkiṭā́), and I doubt if a lexical meaning is to be sought for it.
+
+I do wonder whether the original phrase read *kuru for *kṛṇu. The former is, of course, a late form, belonging to the irregular paradigm karóti, kuruté that will replace the well-behaved 5th cl. kṛṇóti after the RV. The impv. kuru is found in only two passages in the late RV, but in a colloquial hymn like this it would be at home, and the phonological patterning would be improved: ā́rikha kikirā́*kuru, with CV syllables containing repeated high vowels and a consonantal r in each word, in addition to the k’s. This *kuru would have been replaced redactionally by the kṛṇu standard in RVic discourse on the basis of kṛṇuhi in 10c. Vs. 10 displays a more formal level of discourse and imitates the final hymn-summary vss. found through the RV, and the standard RVic form of the pres. of √kṛ is in order there.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -128,3 +140,4 @@ Zerreiss, zerschlitz in Fetzen nun der Geiz'gen Herzen, weiser du, Und gib sie h
 Сердца скупцов, о поэт,  
 И отдай их нам во власть!
 </details>
+

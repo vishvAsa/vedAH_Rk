@@ -111,6 +111,17 @@ Mātariśvan = Va+yu, because it breathes in the atmosphere, antarikṣe śvasit
 
 Whoever studies the “Self-Purifying” (verses), the sap assembled by  the seers,  
 that one eats the whole purified (sap), sweetened by Mātariśvan.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/31-32.md">
+<details open><summary><h2>31-32 ...{Loading}...</h2></summary>
+
+On the import of these two vss., see published introduction. They are obviously secondary additions to the hymn, promising great benefits to anyone who studies the previous vss. of the hymn.
+
+Commentary IX.68-114
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -136,3 +147,4 @@ Wer die von dem Pavamāna [dem rieselnden Soma] handelnden Verse liest, die von 
 Тот вкушает только чистое,  
 Сделанное Матаришваном вкусным.
 </details>
+

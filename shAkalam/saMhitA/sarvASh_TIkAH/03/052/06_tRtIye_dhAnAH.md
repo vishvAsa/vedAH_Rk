@@ -117,6 +117,15 @@ genre D
 At the Third Pressing, our roasted grains, our offering cake bepoured  (with ghee)—grant them to yourself, much-praised one.  
 Might we, dispensing ritual delights, entice you here with our hymnic  visions, o poet—you accompanied by the R̥bhus, provided with  
 prizes.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/052/06-07.md">
+<details open><summary><h2>06-07 ...{Loading}...</h2></summary>
+
+See the published introduction. for the thematic and lexical connections between these two vss., despite their belonging to different sections of the hymn. See there also for the connection of vs. 7 with III.31, via the identification of the current poet with the Aṅgirases, ur-sacrificers and givers of dakṣiṇās (on which see Geldner’s n. 7a).
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -142,3 +151,4 @@ Bei der dritten Spende erfreue dich an dem Körnerbrei und an dem begossenen Kuc
 Тебя, о поэт, окруженного Рибху, несущего награды,  
 Мы с жертвенными усладами хотим привлечь поэтическими мыслями.
 </details>
+

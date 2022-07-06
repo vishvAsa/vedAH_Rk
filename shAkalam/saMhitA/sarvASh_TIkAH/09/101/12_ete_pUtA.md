@@ -101,6 +101,15 @@ genre M
 <details><summary>+Jamison Brereton</summary>
 
 These purified soma juices, attentive to poetic inspiration, mixed with curds, are worthy to be seen like suns, mobile yet fixed in the ghee.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/10-12.md">
+<details open><summary><h2>10-12 ...{Loading}...</h2></summary>
+
+Again no particular signs of cohesion, save for the X-víd- ‘finding X’ cmpds in 10b, 10d, and 11d.
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -126,3 +135,4 @@ Die Somatränke, hell geklärt, mit Milch gemischt, begeistrungsvoll Wie helle S
 Приятны на вид, словно солнца,  
 (Эти) спешащие, (чтобы) прочно (устроится) в жире.
 </details>
+

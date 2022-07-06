@@ -89,6 +89,16 @@ genre M
 
 O self-purifying one, it was certainly you as the most brilliant who made  the heavenly races heed  
 for the sake of immortality,
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/03-04.md">
+<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+
+Vs. 4 is clearly syntactically dependent on vs. 3, with a series of three rel. cl. introduced by yéna referring to Soma, the 2nd ps. subj. of 3.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -113,3 +123,4 @@ Denn du fürwahr, o glänzendster, du hast der Götter Stämme all, o flammender
 Самый сверкающий, призываешь божественные  
 Роды к бессмертию.
 </details>
+

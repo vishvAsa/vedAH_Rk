@@ -141,6 +141,20 @@ genre M
 When the prize-seekers have come to the rite of distribution, the inspired  poets with their visionary thoughts seeking your solicitude,  
 like steeds reaching the finish line, the men ever calling on Indra  
 and Agni—
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/093/03-04.md">
+<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+
+There is no main clause in vs. 3: the three co-referential participial phrases (… ichámānāḥ b, … nákṣamānāḥ c, … jóhuvataḥ …d) all simply expanding on the dependent cl. of pāda a, úpo ha yád … gúḥ “When they have come”).
+
+However, the first pāda of vs. 4 echoes 3b exactly, save for number: 3b … víprāḥ prámatim ichámānāḥ (pl.) versus 4a … vípraḥ prámatim ichámānaḥ (sg.), vs. 4 seems to continue vs. 3. Interestingly enough, it is not possible to determine whether his new start in 4 is a main clause or continues the dependent cl. in vs. 3 -- though Geldner, Renou, and I all take it as an independent cl. The problem is that the finite verb ī́ṭṭe opens the second pāda; its accent then can be owing to its metrical position and it can be a main-cl. verb (as we all interpret it). However, the accent could also signal that it’s the verb of a dependent cl., and the whole complex of vss. 34 could be interpr.
+
+“When the prize seekers have come …., (when) the inspired poet … invokes …, (then,) o Indra and Agni, further us …” -- in other words 4cd would supply the main cl. for all of 3-4ab.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -166,3 +180,4 @@ Wenn opferreich zum Feste gehn die Sänger, mit frommen Bitten eure Huld erflehe
 Словно скаковые кони, берущие (решающий) барьер,  
 Эти мужи, громко зовущие Индру-Агни:
 </details>
+

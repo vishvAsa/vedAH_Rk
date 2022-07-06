@@ -98,6 +98,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 
 You are the Hotar established by Manu, the conveyor (of oblations)  with your mouth, the very wise one.  
 Agni, sacrifice to the clans of heaven.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/016/07-09.md">
+<details open><summary><h2>07-09 ...{Loading}...</h2></summary>
+
+This tṛca likewise has a form of the 2nd sg. prn. beginning each vs. (7 t(u)vā́m, 8 táva, 9 t(u)vám), again all different.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -122,3 +132,4 @@ Des Himmels Stämme ehre du, den Manu sich zum Priester nahm, Darbringend, Agni,
 Уводящий (жертву) ртом, знающий более других.  
 О Агни, почти племена неба!
 </details>
+
