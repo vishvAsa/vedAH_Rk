@@ -26,3 +26,12 @@ sibilities. Although triṣadhasthá characterizes various gods, in X.61.14 and
 In the first verse the reference to the “day-old” soma places this hymn in the  morning of the day following the pressing day in an Atirātra or “overnight” soma  ritual. The soma offerings in the morning are a continuation of the offerings of  the Third Pressing. If recited at the end of the rite, it is no wonder that the poet  emphasizes the goods that he hopes that the Aśvins will bring on their chariot (3c,  6a, 9bc)—the chariot that is both the vehicle on which the Aśvins ride and the  sacrifice itself. These are the goods that should come to the sacrificers as a result of  their completed sacrifice.  
 In verse 7 the poet calls on the Aśvins to come whether they are far away or with  Turvaśa. The Kaṇva poets of the VIIIth maṇḍala suggest their alliance with the Turvaśa and Yadu tribes (e.g., VIII.4.1 and 4.7; 7.18; 9.14; 10.5; 45.27). Since our  poet is a Kaṇva as well, Turvaśa represents an ally, perhaps the people of the sacrifi cer for whom the hymn was composed. The point is therefore that the Aśvins should  come to this sacrifice whether are far away or close by, among this very people.
 </details>
+
+<details>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/044-049.md">
+  <details open><summary><h2>44-49 ...{Loading}...</h2></summary>
+
+For illuminating remarks on the rhetorical and grammatical connections among these hymns, see Jesse Lundquist 2014 (25th UCLA IE Conf., Proceedings).
+  </details>
+</div>
+</details>
