@@ -87,6 +87,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 <details><summary>+Jamison Brereton</summary>
 
 Seeking to gain all the brilliant things of humans from the stranger, with it we shall win them.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/10-12.md">
+<details open><summary><h2>10-12 ...{Loading}...</h2></summary>
+
+It is difficult to discern any particular unity in this tṛca.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -111,3 +121,4 @@ Hier wünschen wir ergebene der Menschen Güter alle uns, Sie zu erlangen strebe
 Все великолепие у чужого, у людей (вообще),  
 Стремясь к захвату.
 </details>
+

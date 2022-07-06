@@ -101,6 +101,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 
 I, like Kaṇva, beautify my songs with an age-old thought—  
 just the one with which Indra acquired his unbridled force.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/006/10-12.md">
+<details open><summary><h2>10-12 ...{Loading}...</h2></summary>
+
+This tṛca is characterized by emphatic pronominals: initial ahám 10a, 10c, 11a; tvā́m 12a; máma 12c.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -125,3 +135,4 @@ Nach alter Weise schmücke ich nach Kanva's Art die Lieder aus, Durch welche Ind
 Украшаю (свои) песни в духе Канвов,  
 Силой которого Индра обрел мужество.
 </details>
+

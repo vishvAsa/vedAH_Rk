@@ -140,6 +140,11 @@ Let your course be without antelopes, o Maruts, also without horses— the cours
 Without halt, without reins as it crosses the dusky realm, it travels  
 through the two world-halves along its paths, heading toward  
 its goal.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+Both Geldner and Renou take pathyā̀as the obj. of sā́dhan (e.g., “… die rechten Wege nehmend”), but since the former is regularly used, with or without ánu, to express extent of space and since the latter can be used absolutely, I prefer my rendering.
 </details>
 
 <details><summary>+Griffith</summary>
@@ -165,3 +170,4 @@ Auch ohne Hirsche, ohne Rosse, Maruts, durchfährt eur Wagen, den kein Lenker tr
 Без остановки, без поводьев преодолевающий пространство.  
 Он движется через две половины вселенной, следуя правильными путями.
 </details>
+

@@ -130,6 +130,16 @@ genre D
 
 I keep gazing upon them, who are like maidens smearing on unguent to  go to their wedding.  
 Where the soma is pressed, where the sacrifice (is performed), toward  that do the streams of ghee go purifying themselves.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/058/05-10.md">
+<details open><summary><h2>05-10 ...{Loading}...</h2></summary>
+
+Each of these 6 vss. contains the phrase ghrtásya dh ̥ ā́rāḥ (or equiv.: ūrmáyo ghrtásya ̥ in 6c).
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -155,3 +165,4 @@ Ich sehe sie wie Mädchen, die mit Salben sich schminken, um zur Hochzeit hinzug
 Где выжимается сома, где (происходит) жертвоприношение,  
 Там очищаются потоки жира.
 </details>
+

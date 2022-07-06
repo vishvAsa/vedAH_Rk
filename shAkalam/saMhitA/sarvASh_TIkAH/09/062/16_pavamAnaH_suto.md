@@ -88,6 +88,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 <details><summary>+Jamison Brereton</summary>
 
 Purifying himself, pressed by men, Soma has flowed, as if to a prize, to sit in the cups, through his mastery.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/16-18.md">
+<details open><summary><h2>16-18 ...{Loading}...</h2></summary>
+
+Several elements link at least two of the vss. in the tṛca: the presence of vā́jain 16 and 18 (vā́jam 16b, vā́jāya 18b, vājínam 18c) and the dat. inf. yā́tave in 17b and 18b.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -110,3 +120,4 @@ Gepresst von Männern, flammend hat der Soma Labung hergeströmt, Setzt kräftig
 
 -ru-
 </details>
+

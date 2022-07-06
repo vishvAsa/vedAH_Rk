@@ -98,6 +98,16 @@ genre M;; line affected by realignment;; repeated line
 
 When, o mace-bearer, with your vast power you smashed Vr̥tra who was  blocking the rivers,  
 just after that your two beloved fallow bays waxed strong.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/25-28.md">
+<details open><summary><h2>25-28 ...{Loading}...</h2></summary>
+
+The phonetic figure noted in VIII.6.36 dominates the next four verses: haryatā́hárī.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -122,3 +132,4 @@ Als du den Stromverschliessenden, den Vritra blitzend schlugst mit Macht, Da wuc
 Ты убил (своей) силой, о громовержец,  
 Только тогда пара твоих любимых буланых коней возросла.
 </details>
+

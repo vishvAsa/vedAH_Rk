@@ -116,6 +116,16 @@ Cows: or, voice of praise
 
 Together the dear ones have cried out to him, the cows avid for  exhilaration.  
 The soma drinks make their own paths, the self-purifying drops.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/07-09.md">
+<details open><summary><h2>07-09 ...{Loading}...</h2></summary>
+
+Again, quite straightforward and not particularly cohesive.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -141,3 +151,4 @@ Ihm jauchzten jetzt die Stiere zu, die nach dem Rausche lüsternen, Die Soma's b
 Соки сомы создают себе пути,  
 (Эти) очищающиеся капли.
 </details>
+

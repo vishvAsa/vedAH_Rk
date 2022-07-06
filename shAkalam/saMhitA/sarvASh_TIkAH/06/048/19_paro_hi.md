@@ -132,6 +132,16 @@ genre M
 <details><summary>+Jamison Brereton</summary>
 
 For you are beyond mortals and equal with the gods in your splendor. Keep an eye on us in our battles, Pūsan. Help us now, just as before.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/14-19.md">
+<details open><summary><h2>14-19 ...{Loading}...</h2></summary>
+
+On these Pūṣan vss., see published introduction.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -157,3 +167,4 @@ Denn hoch ragst über Menschen du, den Göttern gleich bist du an Pracht; O Pusc
 Наблюдай ты за нами, о Пушан, в сражениях!  
 Помогай сейчас, как раньше!
 </details>
+

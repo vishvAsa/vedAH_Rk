@@ -92,6 +92,16 @@ genre M;; line affected by realignment;; repeated line
 <details><summary>+Jamison Brereton</summary>
 
 This one enjoy, o you who yearn for songs—it swells like the sea. O Indra, with all your forms of help you have waxed strong.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/05-06.md">
+<details open><summary><h2>05-06 ...{Loading}...</h2></summary>
+
+The verbal form that constitutes the refrain, vavákṣitha ‘you have waxed strong’, is accented. Oldenberg plausibly attributes the accent to its position as a semiindependent refrain (Anhang), so that it is not necessary either to supply a subordinator or to take the verb as an independent clause. Geldner, by contrast, supplies a subordinator, flg. Sāyaṇa (see Geldner n.).
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -116,3 +126,4 @@ Dies Lob, o der du Lieder liebst, gleich einem Meere schwillt es an; Durch all d
 Оно прибывает, словно море.  
 О Индра, благодаря всем поддержкам ты возрос.
 </details>
+

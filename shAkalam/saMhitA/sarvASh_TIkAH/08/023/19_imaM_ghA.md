@@ -100,6 +100,16 @@ genre M
 <details><summary>+Jamison Brereton</summary>
 
 This same immortal should the mortal, the hero, make his messenger— the pure one of extensive power whose course is black.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/023/18-19.md">
+<details open><summary><h2>18-19 ...{Loading}...</h2></summary>
+
+Just as vs. 16 provides an ancestral pattern for the poet to gain goods from Agni and/or his patron, these vss. take the gods’ establishment of Agni as their messenger as the prototype for mortals’ doing the same.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -124,3 +134,4 @@ Ihn mach zum Boten sich der Held, unsterblichen der sterbliche, Ihn, welcher fla
 Бессмертного сделает себе вестником,  
 (Его,) очищающего, с черным следом, огромного!
 </details>
+

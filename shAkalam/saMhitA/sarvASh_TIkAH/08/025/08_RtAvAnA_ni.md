@@ -102,6 +102,15 @@ Vigour: **kṣatriyā** kṣatram āśatuḥ = balavantau balamvyāpnutaḥ
 
 Truth-possessing, strong-willed, the two took their place for sovereign  kingship.  
 Their commandments upheld, the rulers attained their rule.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/025/08-09.md">
+<details open><summary><h2>08-09 ...{Loading}...</h2></summary>
+
+Both these verses have a subject / VP construction that’s an etymological figure: 8c … kṣatríyā kṣatrám āśatuḥ, 9c … nicirā́ní cikyatuḥ. The latter is reinforced phonologically by the pāda-opening ní cin miṣántā. The unusual tmesis of preverb and participle, interrupted by the particle cid, may be (partly) accounted for by the desire to produce a ni ci- sequence matching the two that follow in that pāda.
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -126,3 +135,4 @@ Zur Weltregierung setzten sich die weisen, die gerechten hin, Die Herrscher habe
 Для высшего господства, (они) с прекрасной силой духа.  
 (Эти) двое, чей завет прочен, предназначенные для власти, достигли власти.
 </details>
+

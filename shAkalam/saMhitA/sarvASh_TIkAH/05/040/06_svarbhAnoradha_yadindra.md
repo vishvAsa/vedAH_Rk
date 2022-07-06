@@ -131,6 +131,15 @@ I.e., by the four stanzas of this **sūkta** from the fifth to the eighth
 
 Then, o Indra, when you smashed down from heaven the circling magic  spells of Svarbhānu,  
 Atri with the fourth formulation found the sun, hidden by darkness  because of (an act) contrary to commandment.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+On the “fourth formulation,” see Hyenas 251-60.
+
+The “circling magic spells” (māyā́ḥ … vártamānāḥ) of Svarbhānu are the plumes of Agni’s smoke rising to heaven and obscuring the Sun’s light (Hyenas 271- 73).
+
+ápavratena ‘against commandment’ is generally taken to refer to the darkness deployed by Svarbhānu, but I argue (Hyenas 297-300) that it actually refers to the Sun’s original action, incest with his daughter, that led to his punishment by Agni Svarbhānu.
 </details>
 
 <details><summary>+Griffith</summary>
@@ -153,3 +162,4 @@ Als, Indra, du des Suarbhanu Zauber vernichtetest, die her vom Himmel rollten, F
 
 -ru-
 </details>
+

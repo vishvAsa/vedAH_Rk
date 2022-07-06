@@ -106,6 +106,16 @@ I.e. as a hero resolutely stands among the enemy's cattle, so the **Soma** resol
 
 Pressed, entering the tub, rushing to all that is glorious,  
 he stands among the cows like a champion.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/19-21.md">
+<details open><summary><h2>19-21 ...{Loading}...</h2></summary>
+
+There is some chaining between vss. (cows/milk in 19, 20; mádhu in 20, 21 and two mentions of gods in pāda c in 20, 21, incl. dat. pl. devébhyaḥ in each). In addition, all three vss. begin with the preverb ā́(univerbated and therefore accentless in 19a).
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -128,3 +138,4 @@ Der Saft, der in den Becher dringt, der alle Schätze uns ergiesst, Steht unter 
 
 -ru-
 </details>
+

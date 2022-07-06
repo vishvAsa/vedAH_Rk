@@ -175,6 +175,16 @@ These soma drinks were pressed here in the waters for you two. Being  carried, t
 gleaming (soma drinks) have been guided.  
 They have surged toward you two, swift across the filter,  
 seeking you two beyond the sheep’s fleece—the soma drinks beyond the  sheep’s (fleece).
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/135/04-06.md">
+<details open><summary><h2>04-06 ...{Loading}...</h2></summary>
+
+As indicated in the published introduction, this tṛca is constructed in parallel to 1-3, but addressed to the two gods Vāyu and Indra rather than Vāyu alone. I will not call attention to the pervasively parallel phraseology: a simple skimming of the two sets of verses will amply demonstrate it.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -204,3 +214,4 @@ Im Wasser sind die Soma's hier euch ausgepresst, gebracht von Dienern sind sie h
 Любя вас, – через овечьи шерстинки,  
 Соки сомы-через овечьи.
 </details>
+

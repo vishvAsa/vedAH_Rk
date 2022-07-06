@@ -118,6 +118,16 @@ genre M
 
 O Maruts, with your chariot with its bullish horses, bullish breath,  bullish wheel-naves,  
 come here at will, like winged falcons, to pursue our oblations, o men.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/020/09-10.md">
+<details open><summary><h2>09-10 ...{Loading}...</h2></summary>
+
+The ‘bull’ stem (vṛ́ṣa(n)-) is dominant in these verses (9b, 9c, 10a [twice], 10b), with this sequence phonologically inaugurated in 9a with vṛṣad(-añji-) ‘raining unguents’, a synchronically distinct word.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -143,3 +153,4 @@ Mit stierbespanntem Wagen kommt, o Maruts, her, der stark an Naben, stark sich z
 С готовностью, как крылатые коршуны, мчитесь,  
 О мужи, чтобы вкусить наши возлияния!
 </details>
+

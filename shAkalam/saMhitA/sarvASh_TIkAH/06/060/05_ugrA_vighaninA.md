@@ -95,6 +95,16 @@ genre M;; repeated line
 
 The two strong ones who hew apart the negligent, Indra and Agni, do  we call upon.  
 They will be gracious to such as us.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/060/04-05.md">
+<details open><summary><h2>04-05 ...{Loading}...</h2></summary>
+
+Note the phonological (and partly etymological) figure mardh(ataḥ) (4c), mṛ́dh(aḥ) (5a), mṛḷ(ātaḥ) (5c).
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -119,3 +129,4 @@ Die starken, Feind erschlagenden, Indra und Agni rufen wir, Hold sei'n sie solch
 Индру-Агни мы призываем.  
 Пусть они смилуются над такими, как мы!
 </details>
+

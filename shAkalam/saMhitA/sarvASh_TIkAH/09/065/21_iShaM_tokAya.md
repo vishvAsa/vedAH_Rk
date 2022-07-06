@@ -91,6 +91,15 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 
 Establishing refreshment for our offspring and for us on all sides,  o Soma,  
 by purifying yourself bring thousandfold (wealth) here.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/19-21.md">
+<details open><summary><h2>19-21 ...{Loading}...</h2></summary>
+
+No clear cohesion, though vss. 19 and 20 both contain a form of √ṛṣ.
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -113,3 +122,4 @@ Erquickung spendend unserm Stamm und uns, o Soma, überall Ström' her uns tause
 
 -ru-
 </details>
+

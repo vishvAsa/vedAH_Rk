@@ -82,6 +82,17 @@ genre M
 
 Take delight in the most extensive speech, which affords most delight to  the gods,  
 while pouring the oblations into your own mouth.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/075/01-02.md">
+<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+
+Note the play between the two final words of these verses: āsáni / sānasí.
+
+The two verses also contain four superlatives in -tama-, each to a stem ending in -as.
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -111,3 +122,4 @@ Nimm an das Lied, das weit erschallt, der Götter schönstes Labsal ist, Den Tra
 Речь, больше всех служащую к усладе богов,  
 Когда ты совершаешь устами жертвенные возлияния!
 </details>
+

@@ -97,6 +97,20 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 <details><summary>+Jamison Brereton</summary>
 
 In crossing, the invigorating one runs, the stream of the pressed stalk. – In crossing, the invigorating one runs.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/058/01-03.md">
+<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+
+The first word of the refrain, tárat, is grammatically ambiguous. It can be a 3rd sg. injunc. and is so taken by, e.g., Grassmann, Geldner, Lubotsky, and Lowe (Part. 281); certainly the same form in the same position in IX.107.15 tárat samudrám “he crosses the sea” is most probably a finite injunc. However, flg. one of Oldenberg’s possibilities, with AiG II.2.164 and apparently Renou (judging from his tr. “en traversant”) I prefer to take it as a neut. sg. pres.
+
+part. in adverbial usage, in part because beginning and ending this short pāda-length refrain with two finite verbs, one injunc., one pres. indic., seems clunky: tárat sá mandī́dhāvati.
+
+For another pāda-initial form in -at that I take as a participle see disc. of bhárat ad IX.52.1.
+
+As to what Soma is crossing, it is most likely the waters (cf. ap-túr- IX.61.13, 63.5, 21), as suggested by Geldner, Renou, et al. - in this case perhaps the waters with which the stalk is swelled. Or, given IX.59.3b víśvāni duritā́tara in the immediately following hymn, it could be “all difficult passages.”</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -119,3 +133,4 @@ Er drang hindurch, der erfreuende strömt im Strome des gepressten Krautes; er d
 
 -ru-
 </details>
+

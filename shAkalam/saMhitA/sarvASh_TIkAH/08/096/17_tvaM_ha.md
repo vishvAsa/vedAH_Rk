@@ -137,6 +137,16 @@ genre M
 
 You then—emboldened, you smote the power without counterpart with  your mace, mace-bearer.  
 You brought low (the power) of Śuṣṇa with your murderous weapons.  You found the cows just with your skill, Indra.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/16-18.md">
+<details open><summary><h2>16-18 ...{Loading}...</h2></summary>
+
+These three vss. begin tváṃ ha tyád. As elsewhere with this configuration (2ND SG. PRN ha tyád), with a neut. tyád without a neut. referent, ha tyád seems to be strongly emphatic (see a similar sequence in I.63.4-7 and comm. ad loc. as well as ad VI.18.3). I would now be inclined to change the tr. of the three vss. here to “It was just you who …”
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -159,3 +169,4 @@ Du zeigtest jene unerreichte Stärke, als kühn du Blitzer mit dem Blitze schlug
 
 -ru-
 </details>
+

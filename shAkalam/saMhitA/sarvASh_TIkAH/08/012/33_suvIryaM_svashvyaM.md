@@ -111,6 +111,16 @@ genre M;; line affected by realignment;; repeated line
 
 Indra, give to us the possession of good heroes, of good horses, of  good cows,  
 like a Hotar, (for us) to be first in your thought, while the ceremony is  pro(ceeding).
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/31-33.md">
+<details open><summary><h2>31-33 ...{Loading}...</h2></summary>
+
+This tṛca is unified by the 4-syllable pāda prā́dhvaré. This pāda appears also in VIII.46.18 and IX.102.8, always as the final pāda of Uṣṇih (or the equivalent: in 46.18 Upariṣṭādbṛhatī). I interpr. it in the context of the fairly frequent fuller expression prayaty àdhvaré, a loc. absol. meaning “while the ceremony is proceeding,” which is esp. common in VIII: I.16.3 = VIII.3.5, V.28.6 = VIII.71.12, VIII.7.6, VIII.13.30, X.21.6; cf. also VI.10.1). I take prā́dhvaré as a truncated version of this loc. absol. and tr. it “while the ceremony is pro(ceeding).”
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -135,3 +145,4 @@ So gib uns, Indra, reiche Schar an Söhnen, Rossen, Rindern auch Auf ersten Wuns
 Прекрасными коровами даруй нам, Индра,  
 Чтобы прежде всего обдумать, как хотар во время обряда.
 </details>
+

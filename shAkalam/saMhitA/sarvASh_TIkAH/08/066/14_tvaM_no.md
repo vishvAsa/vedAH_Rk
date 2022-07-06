@@ -133,6 +133,13 @@ O **Maghavan**: śaciṣṭha (RV 4.20.9): atiśayena **prajña**; (RV4.43.3): �
 
 You—rescue us from this neglect and hunger, from their curse.  
 You—because of our brilliant insight, do your best for us with your  help, most able one, as the way-finder.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+citráyā dhiyā́ occurs also in 8d, and the tr. should have been harmonized.
+
+As in vs. 8, I take the dhī́- to be ours, rather than Indra’s, as Geldner takes it.
 </details>
 
 <details><summary>+Griffith</summary>
@@ -158,3 +165,4 @@ Errette du aus dieser Noth uns und Gefahr, beschütz vor Hunger uns und Fluch, M
 Ты нас своею помощью, ярким намерением  
 Поддержи, о самый могучий, находящий выход!
 </details>
+

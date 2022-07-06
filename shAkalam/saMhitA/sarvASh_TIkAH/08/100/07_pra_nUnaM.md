@@ -124,6 +124,16 @@ That enemy who was running forward and stayed not apart and didnot hinder you-- 
 
 [Singer:] “‘Now, (waters,) run forth each separately: he who obstructed  you is not here.  
 Indra has let fly his mace down onto Vr̥tra’s mortal place.’
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/07-09.md">
+<details open><summary><h2>07-09 ...{Loading}...</h2></summary>
+
+I take these three Anuṣṭubh verses as the singer’s performance of the recital of deeds promised in 6ab, but cast in the language of dramatic immediacy - almost “you are there” - with the singer himself as the supposed witness, addressing the waters in 7ab. Geldner (in his introduction.) also seems to assign the verses to the singer, while Oldenberg (1885: 57 n. 2) refuses to speculate.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -149,3 +159,4 @@ Strömt nun hervor [ihr Wasser] hier und dort; er ist nicht mehr da, der euch so
 В уязвимое место Вритры  
 Индра запустил дубиной.
 </details>
+

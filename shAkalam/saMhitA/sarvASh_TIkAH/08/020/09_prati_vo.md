@@ -96,6 +96,16 @@ genre M
 
 O you who rain unguents, present oblations to your own bullish  Marutian troop  
 whose leader is a bull [=Indra].
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/020/09-10.md">
+<details open><summary><h2>09-10 ...{Loading}...</h2></summary>
+
+The ‘bull’ stem (vṛ́ṣa(n)-) is dominant in these verses (9b, 9c, 10a [twice], 10b), with this sequence phonologically inaugurated in 9a with vṛṣad(-añji-) ‘raining unguents’, a synchronically distinct word.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -120,3 +130,4 @@ Auf bringt, o Salben-regnende, nun eurer starken Marutschar die Opfer dar, ihr, 
 Принесите бычьей стае марутовой  
 Жертвенные возлияния – (этой) мощно выезжающей!
 </details>
+

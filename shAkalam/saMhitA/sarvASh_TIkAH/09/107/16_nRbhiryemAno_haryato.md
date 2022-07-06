@@ -76,6 +76,16 @@ genre M
 
 Being guided by men, the delightful, wide-gazing king and god  
 belonging to the sea.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/14-16.md">
+<details open><summary><h2>14-16 ...{Loading}...</h2></summary>
+
+Like vss. 1-3, this pragātha has a two-pāda addition (vs. 16), also 12 8. Both 14 and 15 contain the part. pávamāna-; all three vss. contain forms of samudrá-, samudríya-, while 16 repeats the phrase rā́jā deváḥ from 15b. In 16 haryatáḥ recalls the same word in 13a, and vicakṣaṇáḥ those in 3b, 5d. The voc. of this stem is found in vs. 24.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -98,3 +108,4 @@ Von den Männern gelenkt der liebliche, weitschauende, der König, des Meeres Go
 Направленный мужами, желанный, смотрящий далеко,  
 Царь, бог морской:
 </details>
+

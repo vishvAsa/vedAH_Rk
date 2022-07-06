@@ -101,6 +101,16 @@ genre M
 <details><summary>+Jamison Brereton</summary>
 
 This lofty Indrian power of yours, your unbridled force and resolve, and the mace worthy to be chosen—these does the Holy Place sharpen.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/015/07-10.md">
+<details open><summary><h2>07-10 ...{Loading}...</h2></summary>
+
+Every half-verse in this tṛca but 7c and 10c opens with a form of the 2nd sg. pronoun.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -125,3 +135,4 @@ Sie, deine grosse Indramacht und deine Kraft und Tüchtigkeit, Den Blitz auch sc
 Твое неистовство и силу духа,  
 (Твою) выдающуюся ваджру заостряет Дхишана.
 </details>
+

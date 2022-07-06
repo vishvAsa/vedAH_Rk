@@ -96,6 +96,16 @@ genre M;; Trochaic gāyatrī; see Oldenberg (1888) 25 and Vedic Metre (Arnold, 1
 <details><summary>+Jamison Brereton</summary>
 
 The praises that strengthen you for great generosity and manly action, o Indra, strengthening (you) as the decisive victor,
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/002/29-30.md">
+<details open><summary><h2>29-30 ...{Loading}...</h2></summary>
+
+Verse 29 consists of a relative clause (beginning stútaś ca yā́ḥ) conjoined with the relative clause of 30 (beginning with parallel gíraś ca yā́ḥ), but the rest of verse 30 causes some syntactic problems. The main clause appears to consist of the end of 30b: túbhyaṃ tā́ni, but pāda c contains an accented verb dadhiré, which appears to continue the interrupted relative clause beginning in pāda a. The result is what looks like an embedded main clause, a syntactic anomaly. I am not happy with this syntactic arrangement, but if we read dadhiré, there seems no way to escape it. As Geldner points out in his n., the Indian Pp. and Max Müller’s 1877 edition read the verb without accent, but as Geldner says, “dadhiré ist doch wohl die richtige Lesung.”
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -120,3 +130,4 @@ Die Gesänge, die dich stärken, grosse Manneskraft zu schenken, Mögen deinen S
 На великое дарение, на мужественное деяние,  
 О Индра, вдохновляющие (также) певца,
 </details>
+

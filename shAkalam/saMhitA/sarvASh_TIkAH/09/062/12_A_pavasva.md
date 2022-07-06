@@ -85,6 +85,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 <details><summary>+Jamison Brereton</summary>
 
 In purifying yourself bring wealth in thousands of cows and of horses, much gleaming, much craved.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/10-12.md">
+<details open><summary><h2>10-12 ...{Loading}...</h2></summary>
+
+In this tṛca all three vss. have a form of med. páva-: pávamānaḥ 10b, 11b, (ā́) pavasva 12a. This is scarcely surprising in the Soma Pavamāna maṇḍala, but in fact this stem has not yet appeared in the hymn.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -107,3 +117,4 @@ O riesle tausendfachen Schatz herbei, der reich an Rind und Ross, Sehr glänzend
 
 -ru-
 </details>
+

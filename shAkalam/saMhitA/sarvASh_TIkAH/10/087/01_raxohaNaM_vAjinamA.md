@@ -162,7 +162,8 @@ I touch the steed that slayeth the Raksases;
 I go for shelter to the friend most spreading;  
 May Agni, enkindled with our offerings, sharpening (his dart)  
 Guard us by day, [6] from harm and by night.
-</details>
+꣡</details>
+
 <details><summary>+Geldner</summary>
 
 Den Unholdtöter, den sieghaften, besprenge ich; bei dem Freunde suche ich breiteste Zuflucht. Agni soll sich scharf machen, nachdem er mit bestimmten Absichten entzündet ist, und uns am Tag und des Nachts vor Schaden bewahren!

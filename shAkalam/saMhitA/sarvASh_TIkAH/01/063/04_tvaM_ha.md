@@ -153,6 +153,16 @@ Dasyus are enemies of **Kutsa**: kutsasyopakṣayatāraḥ
 
 You then, Indra, as partner provided the spur, when you knotted up  Vr̥tra, you mace-bearer of bullish deeds,  
 when, you champion of bullish mind, you cut apart the Dasyus in their  womb far away, as one who is victorious at will.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/063/04-07.md">
+<details open><summary><h2>04-07 ...{Loading}...</h2></summary>
+
+tváṃ ha tyád provides the opening of the next four verses. Although tyád is a neut. pronoun and in 4a could function as the object of the otherwise object-less codīḥ, in the following verses it does not have pronominal function; the expression X ha tyád is a way of providing emphasis, particular of the 2nd ps. pronoun (cf., e.g., VII.19.2, VIII.96.16-18). I would now be inclined to tr. the vss. in this sequence with “It was just you who …” rather than the rather recessive “You then, …”
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -179,3 +189,4 @@ Das auch betriebst als Freund du eifrig, Indra, dass Vritra du bezwangst mit Bli
 Когда, о герой отважный, как бык, далеко-далеко,  
 В (их) лоне, ты, легко побеждая, изувечил дасью.
 </details>
+

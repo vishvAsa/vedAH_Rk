@@ -119,6 +119,16 @@ Destroyer of the unseen: adṛṣṭhā may also mean the dissipator of darkness
 
 Up from the east comes the Sun—the smasher of the no-see-ums, seen  by all,  
 crushing all the no-see-ums and all the sorceries.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/191/08-09.md">
+<details open><summary><h2>08-09 ...{Loading}...</h2></summary>
+
+The rising of the sun may reflect the fact, mentioned above, that many bugs feed at twilight (dawn and dusk), and sunrise portends the end of the (pre-)dawn feeding frenzy.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -144,3 +154,4 @@ Vor euch geht die Sonne auf, die alles bemerkt und das unbemerkte Gewürm tödte
 Загрызающее всех невидимых  
 И всех колдуний.
 </details>
+

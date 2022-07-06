@@ -94,6 +94,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 <details><summary>+Jamison Brereton</summary>
 
 When you are purifying yourself, o king, your sap, the exhilarating  drink that brings no misfortune, rushes through the sheep’s fleece.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/16-18.md">
+<details open><summary><h2>16-18 ...{Loading}...</h2></summary>
+
+This tṛca is unified by the simple device of stationing a form of pávamāna- at the beginning of each vs. (16a, 17a, 18a). Note also the two forms of rása- ‘sap’ in 17a and 18a (the two pādas are scramblings of each other: 17a pávamānasya te rásaḥ, 18a pávamāna rásas táva, with different case forms of pávamāna- and enclitic versus full form of the gen. sg. 2nd ps. prn.). And 16c jyótir vaiśvānarám … matched by 18c jyótir víśvam …
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -118,3 +128,4 @@ Dein Saft, dein segensreicher Trank, o König, der du hell erstrahlst, Ergiesst 
 Опьянение, устраняющее беду, о царь,  
 Течет через сито из овечьей шерсти.
 </details>
+

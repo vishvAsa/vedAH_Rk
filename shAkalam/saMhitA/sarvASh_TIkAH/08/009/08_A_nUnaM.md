@@ -114,6 +114,20 @@ genre M
 <details><summary>+Jamison Brereton</summary>
 
 Here and now you two will mount the swift-tracked chariot, o Aśvins. Here should these praise songs of mine move you, like a cloud.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/009/08-09.md">
+<details open><summary><h2>08-09 ...{Loading}...</h2></summary>
+
+With Kümmel (181-82), I assign the curious paired reduplicated med. opt.
+
+forms (ā́…) cucyavīrata (8) and ācucyuvīmáhi (9) to the caus. reduplicated aorist, which is otherwise only active. I have no explanation for the difference in the grade of the root syllable (-cyav- vs. -cyuv-); no morphological or metrical factors can explain the variation between these two almost adjacent forms. Possibly the 3rd pl.
+
+has full grade in some kind of imitation of the full grade of act. 3rd pl. imperfects to redupl. presents (type ájuhavur vs. ájuhuma), but that is found only in the active voice and not in the optative, so it would be a bizarre and tenuous imitation indeed.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -139,3 +153,4 @@ Besteigt den Wagen, Ritter, nun, der schnell auf seinem Wege rollt, Lasst diese 
 Эти мои восхваления  
 Пусть прогонят вас, как (ветер) облако.
 </details>
+

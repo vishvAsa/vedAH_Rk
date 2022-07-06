@@ -125,6 +125,16 @@ genre M
 
 The exhilarating drinks here, when drunk, make you grow loftily  brilliant, o autonomous Indra;  
 the invigorating drinks continually excite (you who are) great, without  deficiency, powerful, distinguished, conquering—
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/017/03-05ab.md">
+<details open><summary><h2>03-05ab ...{Loading}...</h2></summary>
+
+mándatu tvā in 3a inaugurates a 3-vs. sequence chained together by the root √ma(n)d ‘exhilarate’, a sequence whose 1st vs. (3) overlaps with the last vs. of the initial triad. The other representatives also occur in the 1st pāda: mádāḥ in 4a and mandasānáḥ in 5a. Cf. also matsarā́saḥ in 4d. The conceptual unity of the sequence is underlined by the fact that 5ab is a rel. clause that must hang off the previous vs. The 2nd hemistich of 5 marks a sharp break.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -150,3 +160,4 @@ Dich, Indra, stärkten mächtig diese Tränke, selbstherrlicher, den lichten die
 Великого, совершенного, сильного, могущественного,  
 Хмельные (соки) пусть возбудят победоносного;
 </details>
+

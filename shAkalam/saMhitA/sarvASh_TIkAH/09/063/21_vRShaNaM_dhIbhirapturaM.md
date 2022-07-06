@@ -92,6 +92,18 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 To the water-crossing bull, Soma, in a stream of truth  
 have the inspired poets cried out in unison with their insights, their  
 thought.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/19-21.md">
+<details open><summary><h2>19-21 ...{Loading}...</h2></summary>
+
+This tṛca has more internal unity, as well as connection to the preceding tṛca, than usual. For its external connections, see 19a vā́je ná vājayúm picking up the vāj- forms just noted, mádhumattamam in 19c matching the same word (in the nom.) in 16a, and 20a kavím mṛjanti echoing 17a tám ī mṛjanti (note the identical vowel pattern in kavím / tám ī).
+
+As for internal connections, see dhībhíḥ (20b, 21a), víprāḥ (20b, 21c), and vṛ́ṣā (20c), vṛ́ṣaṇam (221a).
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -114,3 +126,4 @@ Mit Andacht und Gebet besang der Sänger Schar den thät'gen Stier, Den Soma in 
 
 -ru-
 </details>
+

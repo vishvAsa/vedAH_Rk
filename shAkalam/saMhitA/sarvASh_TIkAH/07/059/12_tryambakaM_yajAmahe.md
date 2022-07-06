@@ -118,6 +118,16 @@ Sugandhim = **divya** gandhopetam, of celestial fragrance (yathāvṛkṣasya sa
 
 We sacrifice to Tryambaka the fragrant, increaser of prosperity.  
 Like a cucumber from its stem, might I be freed from death, not from  deathlessness.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/09-12.md">
+<details open><summary><h2>09-12 ...{Loading}...</h2></summary>
+
+For the Sākamedha rites reflected in these vss., see published introduction. and, e.g., ŚB II.5.3, esp. 3ff.; ĀpŚS VIII.9; sec. lit. including Hillebrandt, Ritual-Litteratur, 117-19; Keith, Religion and Philosophy, 322-23, etc.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -143,3 +153,4 @@ Den Triambaka verehren wir, den schönduftenden, Nahrung mehrenden. Wie eine Kü
 Как тыква от (своей) ножки,  
 Я хотел бы избавиться от смерти – не от бессмертия!
 </details>
+

@@ -130,6 +130,16 @@ genre M
 
 Your honeyed streams have surged forth, when, purified, you go across  the sheep’s fleece.  
 Self-purifying one, purify yourself as the domain for the cows. On being  born, you swelled the sun with rays [/chants].
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/31-33.md">
+<details open><summary><h2>31-33 ...{Loading}...</h2></summary>
+
+The first vs. of the tṛca contains a form of √sṛj, thus concatenating with the previous tṛca. Both the first (31) and last (33) vss. contain a reference to the sun, and I see one in the middle vs. as well; see comm. ad 32.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Jamison Brereton Notes</summary>
@@ -164,3 +174,4 @@ Ergossen sind jetzt deine, süssen Ströme, da du gereinigt durch die Wolle schr
 О Павамана, ты очищаешься как местопребывание коров.  
 (Едва) родившись, ты пропитал солнце лучами.
 </details>
+

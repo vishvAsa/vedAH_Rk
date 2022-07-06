@@ -108,6 +108,16 @@ genre M;; repeated line
 
 All you gods, come here. Hear this call of mine.  
 Sit down here on this ritual grass.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/07-12.md">
+<details open><summary><h2>07-12 ...{Loading}...</h2></summary>
+
+These two tṛcas (7-9, 10-12) are in Gāyatrī, and the first tṛca esp. is an elementary production, with almost no tricks (though see vs. 9). One wonders whether great swaths of RV-period poetry were similarly lackluster and therefore not generally preserved.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -132,3 +142,4 @@ Ihr Götter alle, kommt herbei, vernehmet diesen meinen Ruf Und setzet euch auf 
 Услышьте этот мой зов!  
 Сядьте на эту солому!
 </details>
+

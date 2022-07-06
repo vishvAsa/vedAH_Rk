@@ -122,6 +122,16 @@ Protecting hostws: the **Maruts**
 
 O Indra—cleansed, come here to us; (come) cleansed with cleansed help. Cleansed, lay down a foundation of wealth; cleansed, become  
 exhilarated as the one deserving of soma.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/095/07-09.md">
+<details open><summary><h2>07-09 ...{Loading}...</h2></summary>
+
+See the introduction. for the curious density in this tṛca of the ppl. śuddhá- ‘cleansed’, which is not normal soma vocabulary. I do not understand what ritual or conceptual feature is at issue. Geldner cites Sāyaṇa’s story about the purification of Indra after his killing of Vṛtra. This may be relevant, but there is no reference to Indra’s deeds or activities in this tṛca, save for the final hemistich in vs. 9, where we find vṛtrā́ṇi jighnase “you keep smashing obstacles” - an allusion to Vṛtra but couched in present time and plural number.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -147,3 +157,4 @@ Du, reiner Indra, komm zu uns, mit reinen Hülfen, reiner du, Du reiner, schenke
 Чистый, даруй, (нам) богатство!  
 Чистый, опьяняйся как достойный сомы!
 </details>
+

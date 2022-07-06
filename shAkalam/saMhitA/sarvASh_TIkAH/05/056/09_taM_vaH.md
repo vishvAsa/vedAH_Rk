@@ -124,6 +124,20 @@ The rain-bestowing goddess: mīḷhuṣī is another name of **Rodasi**, the wif
 
 This troop of yours, beauty on the chariot, vibrant, inviting admiration  do I call here,  
 in which the noble, well-portioned (Rodasī) shows her greatness, the  generous one in company with the Maruts.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/056/08-09.md">
+<details open><summary><h2>08-09 ...{Loading}...</h2></summary>
+
+These two vss. essentially duplicate each other The main verbs of the two vss., ā́huvāmahe (8b) and ā́huve (9b) resonate with the verb in the 1st vs. (ā́…) áva hvaye.
+
+The battered-woman Earth who received presents (mīḷhúṣmatī) in 3ab is balanced here by the glorious Rodasī, standing in apparently equality with the Maruts, dispensing presents herself (8c suráṇāni bíbhratī, 9d mīḷhuṣī́). I see no merit on flg.
+
+Geldner’s acceptance of Sāyaṇa.’s interpr. of mīḷhuṣī́as the name of the wife of Rudra.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -149,3 +163,4 @@ Ich rufe eure schnelle Schar, die schöne wagenglänzende, Bei der die holde, ho
 Среди которой благородная, дающая счастье (Родаси)  
 Пользуется уважением у Марутов, (она,) щедрая.
 </details>
+

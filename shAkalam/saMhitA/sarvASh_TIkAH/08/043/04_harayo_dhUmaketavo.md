@@ -94,6 +94,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 
 The fallow bays with smoke as their beacon, sped by the wind up  toward heaven,  
 take up opposing positions—the fires.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/043/04-05.md">
+<details open><summary><h2>04-05 ...{Loading}...</h2></summary>
+
+vṛ́thak is found only in these two vss. It is generally considered to be a formal cross of vṛ́thā ‘at will’ with pṛ́thak ‘separately’ (see EWA s.v., AiG III.231, Renou ad loc.), a form of which appears in repeated pādas later in the hymn (18b=29b), and to maintain the semantics of the former (Geldner ‘jäh’ [‘precipitously’ -- a rather extended sense], Renou ‘à leur gré’). Sāyaṇa, however, simply glosses it as pṛthak. I am reluctantly sympathetic to Sāyaṇa’s opinion, as ‘at will’ does not fit the contexts well, esp. 5a. (Both Geldner and Renou tr. it with pāda b in 4, not in its proper place.) X.91.7 ā́te yatante rathyò yáthā pṛ́thak, adduced by Geldner, echoes our 4c. The published translation reflects the Sāyaṇa gloss. However, on returning to this passage, I find the Sāyaṇa solution too convenient and entirely unmotivated, but still remain unsatisfied with the connection with vṛ́thā and its suggested crossing with pṛ́thak. That the formation of both vṛ́thā and prthak ̥́ is murky does not help. I do not have anything resembling a solution, but I’m inclined to think that ví ‘apart’ is somehow implicated. Perhaps via an (unfortunately unattested) -añc-stem, *vi yañc- ‘facing separate directions’, whose neut. adv. *vi yak could have been assimilated to pṛ́thak given their similiarity of meaning. Cf. the similarly formed víṣvañc- ‘facing in separate directions’, whose neut. appears two hymns later in a suggestive collocation, VIII.45.8 … víṣvag yáthā.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -118,3 +128,4 @@ Die Flammen rings von Rauch umwallt die goldnen ziehn mit Lust dahin Zum Himmel 
 Гонимые ветром, по доброй воле  
 Выстраиваются, приближаясь к нему.
 </details>
+

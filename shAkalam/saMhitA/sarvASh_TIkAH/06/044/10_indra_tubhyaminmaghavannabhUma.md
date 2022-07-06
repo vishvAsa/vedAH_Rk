@@ -140,6 +140,13 @@ genre M
 
 Indra, we have become ready just for you, the giver, you generous  possessor of the fallow bays. Do not lose the track.  
 No one has shown himself as our friend among mortals. Do they not  call you a rouser (even) of the weak?
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+I am not sure of the exact nuance of √bhū + DAT. Grassmann takes it as meaning ‘angehören, eigen sein’, with a rare dat. here, instead of the gen. usual in this idiom (his no. 13). Geldner renders it thus (“dir … haben wir uns zu eigen gegeben”). Even with the gen., Grassmann identifies very few passage with this value, and most of these should be otherwise interpr., and I also wonder about an augmented aor. in such a sense. The published translation is by contrast “we have become ready for you,” and I think something like this is the intention (perhaps “we are here for you”). We are awaiting his advent at the ritual and the generosity he will display there, but there is some worry that he will fail to show up, as the 2nd clause of the 1st hemistich shows.
+
+Note that the fairly rare root √ven appears here soon after the appearance of its deriv. venyá- in 8d. It is possible that this lexical association led to the grafting of this tṛca onto the previous one in this loose collection of short hymns.
 </details>
 
 <details><summary>+Griffith</summary>
@@ -165,3 +172,4 @@ Wir sind zu eigen, Indra, dir, dem Geber; nicht kehr dich ab, o mächt'ger Rosse
 Никакого друга не видно среди смертных.  
 Почему же тебя называют вдохновителем слабого)
 </details>
+

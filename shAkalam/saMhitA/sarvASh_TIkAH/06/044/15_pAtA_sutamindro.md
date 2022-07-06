@@ -137,6 +137,22 @@ genre M
 
 Let Indra be the one who drinks the pressed soma, who smashes the  obstacle [/Vr̥tra] with his mace in his exhilaration,  
 who goes to the sacrifice, even from far away, who is the good helper of  insights, providing nourishment to the bard.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+The vs. is characterized by three root-accented agent nouns (pā́tā a, hántā b, gántā c), all pāda-initial, all with acc. obj./goal. Then in d the pattern is switched: a suffix-accented agent noun (avitā́), interior in its pāda (immed. after caesura) with (objective) gen. complement. All of them are presumably predicates of astu in pāda a. I consider this simply an instance of the RVic tendency to shake up established patterns; I doubt that the poet is attempting to draw a distinction between Indra’s habitual roles as drinker, smiter, and goer, in contrast to a situational role as helper, as Tichy claims (Die Nomen agentis auf -tar- im Vedischen, 298-99; cf. 257 and passim). Among other things, “help” is one of the most frequent things we ask Indra to do for us; it is surely one of his standard, habitual roles. It happens that there is no root-accented *ávitar-, though avitár- is extremely common, and so no such form was available to match the first three -tar- stems in this vs. I do not know if the gap is accidental or systemic.
+
+Note that kārúdhāyas-, a rare bv., reappears here from 12 -- again, a possible reason for attaching this tṛca to the preceding one.
+
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/13-15.md">
+<details open><summary><h2>13-15 ...{Loading}...</h2></summary>
+
+Another soma tṛca.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -162,3 +178,4 @@ Es trinke Indra den gepressten Soma, erquickt nun schlag' er mit dem Blitz den V
 Пусть даже издалека приходит на жертвоприношение,  
 Добрый покровитель молитв, кормилец поэта!
 </details>
+

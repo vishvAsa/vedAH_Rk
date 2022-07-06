@@ -98,6 +98,14 @@ popular;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 
 What the little termite eats, what the ant creeps over,  
 let all that be ghee for you.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/102/19-22.md">
+<details open><summary><h2>19-22 ...{Loading}...</h2></summary>
+
+See published introduction. for my general interpr. of these verses.</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -122,3 +130,4 @@ Was die weibliche Ameise verzehrt, über was die männliche kriecht, das alles s
 По чему ползает муравей,  
 Все это пусть будет тебе жиром!
 </details>
+

@@ -112,6 +112,16 @@ genre M
 You kicked Vr̥tra out from the lofty steppes, Indra.  
 You drove (the cows) of Arbuda and the tricky Mr̥gaya out, out the  
 cows of Parvata.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/003/19-20.md">
+<details open><summary><h2>19-20 ...{Loading}...</h2></summary>
+
+The preverb níḥ is the theme of this pragātha, with seven occurrences, six pāda-initial, in eight pādas, with a variety of different verbs.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -137,3 +147,4 @@ Den Vritra stiessest, Indra, du, herab von hoher Wolkenburg; Des Arbuda, des rä
 Ты выгнал коров Арбуды,  
 Колдуна Мригайи, Горы.
 </details>
+

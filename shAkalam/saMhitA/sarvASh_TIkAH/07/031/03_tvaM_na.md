@@ -89,6 +89,18 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 
 You, Indra, are seeking spoils for us; you are seeking cows, o you of a  hundred resolves;  
 you are seeking gold, o good one.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/031/03-04.md">
+<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+
+Although these verses straddle a tṛca boundary, they are neatly responsive. The repeated tvám of vs. 3 is matched by the initial vayám of vs. 4, and the repeated -yú- (‘seeking X’) adjectives of 3 are again matched by the tvāyú- ‘seeking you’ of 4a. The final word of both verses is the voc. vaso. Even the gavyú- ‘seeking cows’ of 3b has its complement in 4b vṛṣan ‘o bull’.
+
+There is no obvious noun to supply with asyá ‘of this’ in c. Geldner supplies “Schrei,” and my “cry” follow him; Klein (I.175) instead “act.” The phraseology reminds us of the refrain of I.105 vittám me asyá rodasī, which I tr. “Take heed of this (speech) of mine, you two world-halves.”
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -113,3 +125,4 @@ O Indra, hundertwirkender, o guter, du erstrebst für uns Viel Nahrung, Rindbesi
 Ты – приносящий коров, о стоумный,  
 Ты – приносящий золото, о благой.
 </details>
+

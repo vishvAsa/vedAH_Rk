@@ -84,6 +84,15 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 <details><summary>+Jamison Brereton</summary>
 
 Run forth and around for Indra, o Soma, sweet for Mitra, Pūṣan,  and Bhaga.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/01-03.md">
+<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+
+No particular signs of cohesion, beyond the mention of Soma’s divine recipients in vss. 1-2. Vs. 3 begins with a possibly summary evā́.
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -106,3 +115,4 @@ Ringsum entströme – dem Indra, Soma, dem Mitra lieblich – dem Puschan, Bhag
 Беги вперед кругами, о сома, для Индры,  
 Вкусный для Митры, Пушана, Бхаги!
 </details>
+

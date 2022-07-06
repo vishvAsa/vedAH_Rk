@@ -124,6 +124,14 @@ genre M;; repeated line
 
 She, the dappled one, becomes doubly exalted as she reveals her body in  the east.  
 She follows along the path of truth, straight to the goal. Like one who  knows the way, she does not confound the directions.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/080/04-05.md">
+<details open><summary><h2>04-05 ...{Loading}...</h2></summary>
+
+4b and 5d are entirely parallel in structure: 4b utá mitró bhavasi deva dhármabhiḥ 5d utá pūṣā́bhavasi deva yā́mabhiḥ This strict parallelism should extend to the two final instr. pls. -- that is, Savitar should become the god in question by virtue of a quality/entity held in common and expressed in the instr. I therefore think it unlikely that dhármabhiḥ is the vague “nach deinen Eigenschaften” of Geldner or “par (tes) dispositions-naturelles” of Renou; it needs to refer to an actual thing, like Pūṣan’s journeys. In the published translation I render it as ‘supports’ (sim. Witzel Gotō “durch deine Unterstützungen”), keeping in mind that Savitar often holds up his arms, which may function as literal supports. But it may rather be something like ‘institutes, ordinances’, referring to the regulation of time and activity that Savitar performs.</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -149,3 +157,4 @@ Zwiefach an Grösse wird sie prächtig schimmernd, wenn sie den Leib enthüllt v
 Она правильно следует по пути закона.  
 Подобно знающей путь, она не путает направлений.
 </details>
+

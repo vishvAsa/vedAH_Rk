@@ -84,6 +84,16 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 <details><summary>+Jamison Brereton</summary>
 
 Gleaming, purify yourself for the gods, o Soma, for heaven, for earth,  and as weal for offspring.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/04-06.md">
+<details open><summary><h2>04-06 ...{Loading}...</h2></summary>
+
+All three vss. contain the impv. pavasva. Vss. 5-6 both contain śukrá-, also found in 3. And pīyū́ṣaḥ in 6 reprises the same word at the end of 3.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -106,3 +116,4 @@ Du lichter, riesle – den Göttern, Soma! – der Erd', dem Himmel, – den Wes
 Светлый, очищайся для богов, о сома,  
 для неба, земли и счастья для потомства!
 </details>
+

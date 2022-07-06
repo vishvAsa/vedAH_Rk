@@ -152,6 +152,16 @@ genre M
 
 The many do not overpower him, nor the few. Aditi will hold out wide  shelter for him.  
 Dear to Indra is the good performer (of sacrifice), dear the zealous man,  dear the hard-striver, dear the provider of soma.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/025/05-06.md">
+<details open><summary><h2>05-06 ...{Loading}...</h2></summary>
+
+For suprāvī́-/duṣprāvī́- see comm. ad I.34.4.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -177,3 +187,4 @@ Nicht wenige bezwingen den, nicht viele, und weiten Schutz wird Aditi ihm reiche
 Приятен творящий благое, приятен Индре молящийся,  
 Приятен хорошо приглашающий, приятен ему (тот,) у кого сома.
 </details>
+

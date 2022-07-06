@@ -83,6 +83,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 
 The soma juices have run forth, the self-purifying drops.  
 Brought to readiness, they have been groomed in the waters.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/024/01-03.md">
+<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+
+The first 3 vss. are united by the use of the (secondary) root √dhanv ‘run’, with the 3rd pl. -iṣ-aor. adhanviṣuḥ (found only here in the RV) in vss. 1 and 2, with the complementary subjects soma drops (1) and cows (2)(or so I think: see below), and the 2nd sg. pres. dhanvasi in 3.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -108,3 +118,4 @@ Die Soma's sind hervorgeströmt, die milchgemischten, rieselnden, Zur Reinigung 
 Паваманы, капли.  
 Украшенные (молоком), они начищаются в водах.
 </details>
+

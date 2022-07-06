@@ -89,6 +89,18 @@ Heroic: i.e., the instrumental gator of everybody's good actions (sacrifice)
 
 The rosy (fingers) impel the sun; to the self-purifying one, dripping  with honey,  
 they cry out in unison with a song.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/07-09.md">
+<details open><summary><h2>07-09 ...{Loading}...</h2></summary>
+
+Elementary sign of cohesion in the Gotama tṛca: a form of páva- in every vs. ### 09
+On úsrayaḥ as ‘rosy (fingers)’ see comm. ad IV.65.1.
+
+The published translation contains a grammatical error: asvaran should of course be ‘they cried’ not ‘they cry’.
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -113,3 +125,4 @@ Die Sonne treiben strahlend sie die flammende, die Honig trieft, Und rauschen ih
 Паваману, испускающего сладость.  
 (Все) вместе они зазвучали (ему) песней.
 </details>
+

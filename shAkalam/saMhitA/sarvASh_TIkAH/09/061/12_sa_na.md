@@ -99,6 +99,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 
 Flow around for worshipful Indra, for Varuṇa, for the Maruts,  
 finding a wide realm for us.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/10-12.md">
+<details open><summary><h2>10-12 ...{Loading}...</h2></summary>
+
+It is difficult to discern any particular unity in this tṛca.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -123,3 +133,4 @@ So ströme Segen spendend uns dem hochverehrten Indra nun, Dem Varuna, der Marut
 Для Варуны, для Марутов  
 Теки кругами, находя широкий простор!
 </details>
+

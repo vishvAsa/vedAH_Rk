@@ -94,6 +94,14 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 <details><summary>+Jamison Brereton</summary>
 
 Those who make the mountains swing, across the undulating sea— with the Maruts, o Agni, come hither.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/019/07-08.md">
+<details open><summary><h2>07-08 ...{Loading}...</h2></summary>
+
+Geldner (sim. Renou) supplies a verb (“kommen”) with 7b. I am, as usual, reluctant to do so, but as Elizabeth Tucker points out, swinging the mountains across the sea is a very peculiar image. I would prefer to supply the ‘stretch’ (ā́… tánvanti) of the next verse, since the b pādas of 7-8 are structually identical, producing a tr. of 7ab “Those who make the mountains swing, (as they stretch) across the undulating sea.” However, Geldner/Renou don’t construe the ‘stretch’ verb with 8b either.</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -118,3 +126,4 @@ Die durch des Meeres Wogenflut, die Wellenberge schaukelnd wehn, Mit diesen Maru
 Через бурное море (приходят к нам) –  
 С Марутами приди, о Агни!
 </details>
+

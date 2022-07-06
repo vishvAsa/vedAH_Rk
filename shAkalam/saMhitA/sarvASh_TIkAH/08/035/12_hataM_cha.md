@@ -139,6 +139,16 @@ genre M;; uneven lyric; see Arnold (1905) 154, 244 (Appendix III).;; repeated li
 
 Smite rivals and arrange allies in their place. – Provide progeny and  provide property.  
 In concert with Dawn and the Sun, provide nourishment for us, o  Aśvins.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/035/10-12.md">
+<details open><summary><h2>10-12 ...{Loading}...</h2></summary>
+
+The first hemistichs of the three verses in this tṛca are excessively provided with ca’s, as well as 2nd du. act. impvs in -tam. Cf., e.g., 10ab píbataṃ ca tṛpṇutáṃ cā́ca gachatam, prajā́ṃ ca dhattám dráviṇaṃ ca dhattam.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -164,3 +174,4 @@ Erschlagt die Feinde, einigt die Verbündeten, und schenket Kinder, schenket rei
 Единодушные с Ушас и Сурьей,  
 Наделите нас питательной силой, о Ашвины!
 </details>
+

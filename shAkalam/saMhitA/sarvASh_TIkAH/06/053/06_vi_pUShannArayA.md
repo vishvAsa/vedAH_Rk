@@ -99,6 +99,17 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 
 Thrust through (them) with an awl, Pūṣan. Seek what is dear to the  heart of the niggard.  
 And make him subject to us.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/053/05-06.md">
+<details open><summary><h2>05-06 ...{Loading}...</h2></summary>
+
+On ā́rā- see EWA s.v. It is difficult to determine exactly what tool it was, but it seems to have had a sharp point, at least later means ‘awl’, and means ‘awl’ in cognate languages. In any case it is the sort of utilitarian implement that we would not expect to find in the hands of, say, Indra, but that is appropriate to the more down-to-earth handyman Pūṣan. The word is found in Vedic only in this hymn (vss.
+
+5, 6, 8). Renou’s ‘lance’ seems entirely too elevated; Geldner’s ‘Stachel’ is a better fit.
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -123,3 +134,4 @@ Durchstich sie, Puschan, mit dem Spiess, nimm, was des Knausers Herz erfreut, Un
 Ищи, что дорого, в сердце скупца,  
 И отдай это нам во власть!
 </details>
+

@@ -96,6 +96,15 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 
 Pounded by the stone, bepraised, you go to the filter, o Soma,  
 establishing for the praiser an abundance of heroes.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/19-21.md">
+<details open><summary><h2>19-21 ...{Loading}...</h2></summary>
+
+This is the last tṛca of the hymn, attributed to Vasiṣṭha. The 1st two vss. are variants of each, couched in 2nd and 3rd ps. respectively: their first pādas differ only in their initial disyllable, with the rest identical: … tunnó abhíṣṭutaḥ; their second pādas both depict the journey to and across the filter, both beginning pavítram. The third vs. stands apart, though the identification of Soma as ‘demon-smasher’ in 20c is thematically linked to the plea in 21 that Soma “smash away” peril.
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -120,3 +129,4 @@ Vom Stein gestossen, Soma, gehst besungen du zur Seihe hin, Dem Sänger schenken
 Ты движешься, о сома, к цедилке,  
 Даря восхвалителю обилие мужей.
 </details>
+

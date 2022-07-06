@@ -128,6 +128,16 @@ Um = son of Dānu; both are epithets of Śambara
 Who in the fortieth autumn discovered Śambara dwelling in the  mountains,  
 who smashed the serpent displaying its strength, the son of Dānu,  
 (thereby) lying (dead) – he, o peoples, is Indra.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/012/09-11.md">
+<details open><summary><h2>09-11 ...{Loading}...</h2></summary>
+
+Note the phonological sequence, with several different interlocking repetitions: 9c yó víśvasya 10a yáḥ śaśvato … śaru vā 10c yáḥ śardhate … śṛdhyā́m 11a yáḥ śambaram … śarádi
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -158,3 +168,4 @@ Der Çambara, den auf den Bergen ruhnden, im viermalzehnten Herbste endlich auff
 Кто убил змея, выставлявшего (напоказ) свою силу,  
 Дану лежавшего – тот, о люди, Индра!
 </details>
+

@@ -121,7 +121,8 @@ VASU, thou most youthful God, Bharata, Agni, bring us wealth,
 <details><summary>+Oldenberg</summary>
 
 Bring us, O youngest god, Bhârata 1, Agni, the best, resplendent, much-desired wealth, O Vasu 2!
-</details>
+꣡</details>
+
 <details><summary>Keith</summary>
 
 O Agni, of the Bharatas, youngest,  

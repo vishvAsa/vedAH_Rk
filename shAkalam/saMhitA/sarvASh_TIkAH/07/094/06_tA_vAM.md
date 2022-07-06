@@ -89,6 +89,18 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 
 You two we invoke, expressing admiration with our hymns, dispensing  ritual delight,  
 seeking to win at the contest for wisdom.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/094/05-06.md">
+<details open><summary><h2>05-06 ...{Loading}...</h2></summary>
+
+Both vss. begin with the dual pronoun tā́, but the first is 3rd ps. (“these two”) and object of a 3rd ps. verb (īḷate … víprāsaḥ “the inspired poets invoke those two”), while the 2nd, followed by 2nd ps. enclitic vām, has switched reference to 2nd ps.
+
+and is object of a 1st ps. verb (havāmahe “we call upon you two”) -- thus effecting a relationship of considerably more intimacy.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -113,3 +125,4 @@ Drum rufen wir mit Liedern euch voll Preislust Opfer bringend an, Verlangend bei
 Мы зовем, приготовив жертвенную усладу, –  
 Для приобретения мудрости, (мы,) стремящиеся (ее) приобрести.
 </details>
+

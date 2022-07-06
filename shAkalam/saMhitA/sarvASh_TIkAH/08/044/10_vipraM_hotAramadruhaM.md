@@ -89,6 +89,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 
 The inspired poet, Hotar without deceit, whose beacon is smoke, with  far-radiant goods,  
 the beacon of the sacrifices do we implore:
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/044/10-11.md">
+<details open><summary><h2>10-11 ...{Loading}...</h2></summary>
+
+The contents of the imploring mentioned in 10c seems to be given in direct speech in 11.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -113,3 +123,4 @@ Den weisen holden Opferer, den rauchumwallten, strahlenden, Des Opfers Fahne geh
 Чье знамя дым, блистательного,  
 Знамя жертв – мы умоляем (его).
 </details>
+

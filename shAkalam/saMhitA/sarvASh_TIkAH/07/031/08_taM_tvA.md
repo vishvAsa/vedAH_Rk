@@ -99,6 +99,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 
 The choir of Maruts, your fellow travelers, surrounds you,  
 reaching you all together throughout the days.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/031/07-08.md">
+<details open><summary><h2>07-08 ...{Loading}...</h2></summary>
+
+Echo between 7b svadhā́varī and 8b sayā́varī, though they occupy different metrical positions.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -123,3 +133,4 @@ Drum sei um dich der Lieder Klang, fortschreitend mit der Marutschar, Vordringen
 Хор, появляющийся вместе (с тобой),  
 Возникающий в начале дня.
 </details>
+

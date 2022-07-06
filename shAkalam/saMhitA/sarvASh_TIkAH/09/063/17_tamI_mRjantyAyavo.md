@@ -93,6 +93,15 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 
 Him do the Āyus groom in the rivers, the tawny prize-seeker,  
 the drop exhilarating to Indra.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/16-18.md">
+<details open><summary><h2>16-18 ...{Loading}...</h2></summary>
+
+No evidence of unity, beyond vājínam (17b), vā́jaṃ (18c), and the vss. are quite hackneyed, even for Soma Gāyatrī hymns.
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -114,3 +123,4 @@ Es striegeln ihn die eifrigen, in Strömen ihn, das schnelle Ross, Den Indu, Ind
 
 -ru-
 </details>
+

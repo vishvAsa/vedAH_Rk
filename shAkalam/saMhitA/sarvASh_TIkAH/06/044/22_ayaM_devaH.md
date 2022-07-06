@@ -122,6 +122,23 @@ genre M
 <details><summary>+Jamison Brereton</summary>
 
 This god here, being born with strength, with Indra as his yokemate,  blocked the Paṇi [/niggard]. This one here, the drop, stole the weapons of his own father, the tricks  of the unkindly one.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+As just noted, índuḥ ‘drop’ opening pāda b firmly identifies the subject as Soma, but the common word play between phonologically similar índu- and índra-, found esp. in Maṇḍala IX, underlines the permeable boundary just noted between Indra and Soma in this tṛca.
+
+The brief narrative allusion in pāda c (“stole the weapons of his own father”) sounds like a fractured version of the just-born Indra stealing the soma from Tvaṣṭar, but it is hard to know how to square that tale with this formulation.
+
+
+
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/043/22-24.md">
+<details open><summary><h2>22-24 ...{Loading}...</h2></summary>
+
+As noted in the published introduction, repetition also characterizes this tṛca: the ayám that opens every hemistich, along with two other pādas (23b, 24b). In all instances the referent is Soma, whose name, however, does not appear until the opening of the last pāda, 24d (though the reliable synonym índu- ‘drop’ is found in 22d). The beginning of the first vs., 22a, identifies the subject as a god (ayáṃ deváḥ), and the tṛca attributes powerful agency to him, including deeds generally associated with Indra, such as the defeat of the Paṇi (22b), the placing of light in the sun (23b), and the propping apart of the two worlds (24a). It is only the specification of Indra (in an oblique case) as the “yokemate” of “this god” early in the tṛca (22b índreṇa yujā́) that prevents the audience from assuming that ayáṃ deváḥ refers to Indra (who is, after all, the dedicand of the hymn). Nonetheless, the virtual identification of Soma with Indra is clear.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -147,3 +164,4 @@ Indu, der Gott, er, der durch Kraft geborne, er fesselte den Dieb im Bund mit In
 Этот сок у своего отца похитил  
 Оружие – колдовские силы враждебного.
 </details>
+

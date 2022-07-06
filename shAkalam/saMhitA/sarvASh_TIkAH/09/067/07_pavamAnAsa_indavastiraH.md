@@ -84,6 +84,18 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 
 The self-purifying drops, swift across the filter,  
 have reached Indra on their journeys.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/07-09.md">
+<details open><summary><h2>07-09 ...{Loading}...</h2></summary>
+
+Elementary sign of cohesion in the Gotama tṛca: a form of páva- in every vs. ### 09
+On úsrayaḥ as ‘rosy (fingers)’ see comm. ad IV.65.1.
+
+The published translation contains a grammatical error: asvaran should of course be ‘they cried’ not ‘they cry’.
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -108,3 +120,4 @@ Die schnellen Indu's haben schon, hinrieselnd durch das Somasieb, Indra erreicht
 Быстрые, (пройдя) сквозь цедилку,  
 Достигли Индры в (своих) странствиях.
 </details>
+

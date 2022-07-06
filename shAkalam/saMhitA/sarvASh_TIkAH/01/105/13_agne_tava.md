@@ -139,6 +139,22 @@ O Agni, it exists: this friendship of yours among the gods, worthy to be  hymned
 
 Seated here, sacrifice to the gods for us as you did for Manu—as the  one who knows better.  
 – Take heed of this (speech) of mine, you two world-halves.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/105/12-15.md">
+<details open><summary><h2>12-15 ...{Loading}...</h2></summary>
+
+This set of verses forms a small internal ring: 12 and 15 contain ṛtám and návyam / návyaḥ (though not to the same stem: návya- in 12, the comparative návyas- in 15, both neut. sg.), while 13-14 contain the responsive sattó (…) manuṣvád ā́, devā́n … vidúṣtaraḥ.
+
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/105/13-14.md">
+<details open><summary><h2>13-14 ...{Loading}...</h2></summary>
+
+I do not know why 13cd and 14ab are virtually identical. Perhaps it shows that the poet/sacrificer can now make the ritual happen. The yakṣi of the 13d is a praiṣa of sorts, and then the poet somewhat triumphantly reports that his command worked.
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -165,3 +181,4 @@ Preiswerth ist deine Brüderschaft, o Agni, mit der Götterschar, Drum setz dich
 Принеси жертву богам, как самый сведущий!  
 О Небо и Земля, узнайте обо мне (в таком положении)!
 </details>
+

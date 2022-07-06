@@ -87,6 +87,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 <details><summary>+Jamison Brereton</summary>
 
 You fixed this fast in the black (cows) and in the reddish ones, and in the gray ones—the gleaming white milk.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/13-15.md">
+<details open><summary><h2>13-15 ...{Loading}...</h2></summary>
+
+The connection among the verses in this tṛca eludes me, though the fact that they are all set in an apparent mythic past and are joined by logical and/or temporal connectors (14a ádha, 15a ā́d u) suggests that they should form a thematic unit.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -109,3 +119,4 @@ Du setztest diese helle Milch in schwarz und rothe Küh' hinein Und in die buntg
 
 -ru-
 </details>
+

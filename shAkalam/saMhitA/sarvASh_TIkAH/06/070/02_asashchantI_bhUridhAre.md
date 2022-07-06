@@ -136,6 +136,18 @@ genre M
 Never drying up, with abundant streams, rich in milk, they milk  out ghee for the good performer (of rituals), the two of pure  
 commandments.  
 Ruling over this creation, you two World-Halves, for us pour the semen,  as was established by Manu.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/070/01-02.md">
+<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+
+As noted in the published introduction, the focus here is on the various liquids associated with Heaven and Earth and their sheer moisture. Vs. 1 has ghee, honey, milk (by implication, in the compd. madhu-dúghe), and semen; in vs. 2 they are said never to dry up (ásaścantī) and possess streams, milk, ghee, and semen. The cmpd.
+
+madhu-dúgha- ‘milking out honey’ in 1b is reprised by the VP ghṛtáṃ duhāte in 2b (with a diff. obj.). Another responsion is bhúvanānām ‘creatures’ (1a) and (asyá) bhúvanasya ‘(this) creation’ in 2c.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -161,3 +173,4 @@ Ihr unvergleichlich, reich an Strömen, milchversehn, ergiesset Fett dem Frommen
 О два мира, царящие над этой вселенной,  
 Излейте нам семя, которое установлено Манусом!
 </details>
+

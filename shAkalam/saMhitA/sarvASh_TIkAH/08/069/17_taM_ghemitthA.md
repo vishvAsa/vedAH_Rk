@@ -127,6 +127,14 @@ His horses: or, their praises
 Bringing homage, they reverently approach him, their sovereign king,  just so.  
 Just this is his well-set goal when they turn him here to come and  
 to give.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/069/17-18.md">
+<details open><summary><h2>17-18 ...{Loading}...</h2></summary>
+
+Note the responsion of 17b … āsate# and 18d … āśata#.</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -149,3 +157,4 @@ Denn ihn vor allem, den selbststrahlenden [Indra] verehren die Anbetungsvollen; 
 
 -ru-
 </details>
+

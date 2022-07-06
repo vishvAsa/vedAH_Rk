@@ -134,6 +134,16 @@ genre M
 The ten fingers groom the steed in the tub. The thoughts, the words of  the inspired poets press forward.  
 Purifying themselves, they rush to the lovely praise hymn. The  
 exhilarating drops enter Indra.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/07-08.md">
+<details open><summary><h2>07-08 ...{Loading}...</h2></summary>
+
+Pādas 7c and 8a have almost identical structure: pávamānā abhy àrṣanti su(ṣṭutím) pávamāno abhy àrṣā su(vī́ryam) which effects the transition from 3rd pl. to 2nd sg.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -159,3 +169,4 @@ Zehn Finger striegeln in dem Krug das schnelle Ross; der Sänger Lieder und Gebe
 Паваманы текут навстречу прекрасной хвале.  
 Пьянящие капли входят в Индру.
 </details>
+

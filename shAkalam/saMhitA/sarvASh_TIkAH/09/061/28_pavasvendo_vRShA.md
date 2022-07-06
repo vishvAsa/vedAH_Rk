@@ -110,6 +110,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 
 Purify yourself, o drop, when you, the bull, are pressed. Make us  glorious among the people.  
 Smash away all hatreds.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/28-30.md">
+<details open><summary><h2>28-30 ...{Loading}...</h2></summary>
+
+The last tṛca continues the concentration on combat and victory.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -134,3 +144,4 @@ O Indu riesle, starker Saft, im Volke mache uns berühmt Und jage alle Hasser fo
 Сделай нас блистательными среди народа!  
 Порази всех ненавистников!
 </details>
+

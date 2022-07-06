@@ -121,6 +121,16 @@ genre M;; repeated line
 
 Come here close to us with bovine and equine goods.  
 The two partners, the two gods who are luck itself, Indra and Agni, do  we call on for partnership.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/060/13-15.md">
+<details open><summary><h2>13-15 ...{Loading}...</h2></summary>
+
+On the connection of these vss. to the hymn, see published introduction. For the ring composition between the 1st tṛca and this one, note the verbal responsion vasavyà- (1, 14), rā́dhas- (3, 13), vājayántā (1) and vā́jasya sātáye (14).
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -146,3 +156,4 @@ Kommt her zu uns mit reichen Schätzen an Rindern und an Rossen, die Götter, di
 Двоих друзей, богов Индру-Агни,  
 Этих благодатных, для дружбы мы призываем.
 </details>
+

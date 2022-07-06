@@ -107,6 +107,16 @@ genre M
 With those come here, you superior men, up to this pressing  
 pressed here,  
 o Indra and Agni, for soma-drinking.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/060/08-09.md">
+<details open><summary><h2>08-09 ...{Loading}...</h2></summary>
+
+8c and 9a differ minimally from each other, and it is difficult to see an aspectual (or other) distinction between root aor. impv. ā́gatam and pres. impv. ā́ gachatam -- though of course there may be a nuance we cannot catch. Note also 14b úpa gachatam and 15c ā́gatam.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -131,3 +141,4 @@ Mit denen, Indra-Agni, kommt zu diesem ausgepressten Saft, O Männer, her zum So
 На это жертвоприношение выжатого (сока),  
 О Индра-Агни, для питья сомы!
 </details>
+

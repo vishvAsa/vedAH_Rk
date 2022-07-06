@@ -101,6 +101,15 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 <details><summary>+Jamison Brereton</summary>
 
 Clear out the paths for prize-winning; smash away the negligent. Let our poetic visions reach their goal, o strong one.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/053/03-04.md">
+<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+
+Note ví mrada (3c), ví mṛ́dhaḥ (4b).
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -125,3 +134,4 @@ Zur Guterringung bahne uns die Pfade, tilg die Feinde aus, Erfüll, o starker, u
 Рас(сей) врагов (и) разбей их!  
 Пусть наши молитвы достигнут цели, о грозный!
 </details>
+

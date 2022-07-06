@@ -94,6 +94,16 @@ Radiance: śācigo: śaktā gāvo yasya, he whose cattle are strong;
 
 Śācigu, Śācipūjana, this has been pressed for your joy.  
 Ākhaṇḍala, you are called forth.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/017/12-13.md">
+<details open><summary><h2>12-13 ...{Loading}...</h2></summary>
+
+Contains a number of PNs, whose exact identity eludes us. See Geldner’s nn., Mayrhofer PN s.vv.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -118,3 +128,4 @@ Der stark du schreitest, Stärke ehrst, zur Lust ist dieser dir gebraut, Dich, o
 Этот (сома) выжат тебе на радость.  
 О Акхандала, тебя призывают.
 </details>
+

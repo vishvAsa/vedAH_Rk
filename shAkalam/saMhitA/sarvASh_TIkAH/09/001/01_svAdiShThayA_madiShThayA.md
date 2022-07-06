@@ -85,6 +85,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 
 Purify yourself in the sweetest, most exhilarating stream, Soma,  
 when you are pressed for Indra to drink.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/001/01-02.md">
+<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+
+After establishing the Soma Pavamāna theme in the 2nd pāda of the 1st vs., with the command pávasva soma “purify yourself, Soma,” in the 2nd vs. the poet presents Soma in an expansive role, as demon-smasher (rakṣohán-) and belonging to all domains (viśvácarṣani-), while at the same time precisely locating him in his seat on the ritual ground. This juxtaposition of hyper-local, ritually defined technical details and the grandiosely universal is typical of the entire IXth Maṇḍala.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -110,3 +120,4 @@ Im Strom, o Soma, riesle hin, im lieblichsten, im süssesten, Dem Indra zum Genu
 Потоком очищайся, о сома,  
 Выжатый Индре для питья!
 </details>
+

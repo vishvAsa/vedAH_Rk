@@ -96,6 +96,15 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 <details><summary>+Jamison Brereton</summary>
 
 All the gods, joined in fellowship, have attained the drinking of you. – You are the one who confers wholeness in the raptures of exhilaration.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/018/03-04.md">
+<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+
+Note the two occurrences of víśva- (3a, 4a), which contrast with the sarva- in the refrain.
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -120,3 +129,4 @@ Die Götter alle im Verein, sie haben deinen Trunk erlangt; Bei den Gelagen sche
 Получили твое питье.  
 В опьянениях ты даешь все.
 </details>
+

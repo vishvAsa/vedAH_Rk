@@ -119,6 +119,16 @@ genre M;; repeated line
 Before whom the communities tremble, as he performs (deeds) to be  constantly acclaimed,  
 the one who by himself wins thousands as if at the winning of  
 wisdom—serve Agni with insightful thoughts.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/103/03-04.md">
+<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+
+In both these vss. tmánā ‘by himself’ contrasts with the vast number (thousands) that the action of this sole individual wins or prospers.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -144,3 +154,4 @@ Vor welchem bebt der Völker Schar, wenn seine Werke er vollbringt, Der wie beim
 Почитайте поэтическими мыслями Агни,  
 Завоевывающего тысячу, словно себе самому добычу в виде мудрости!
 </details>
+

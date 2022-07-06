@@ -134,6 +134,16 @@ genre M
 
 And let those not suffer harm who (approach you) with invitations here  in sundry ways, o good Agni.  
 For even a weakling reverently invokes you for a mission if he is a man  of good ceremony who has bestowed the oblation.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/103/12-13.md">
+<details open><summary><h2>12-13 ...{Loading}...</h2></summary>
+
+Both vss. end identically with svadhvaráḥ, but in 12c it refers to Agni, in 13d to the weakling (kīrí-) who is offering homage to Agni. The use of the same term for both of course implicitly spreads the power and prestige of Agni to his worshiper.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -159,3 +169,4 @@ O guter Agni, nimmer lass beschädigt sein, die dir mit Anrufungen nahn; Denn je
 Ведь даже бедный просит тебя стать вестником,  
 Приносящий жертвы, прекрасный исполнитель обряда.
 </details>
+

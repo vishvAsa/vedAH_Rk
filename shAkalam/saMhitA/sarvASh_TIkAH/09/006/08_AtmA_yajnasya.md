@@ -91,6 +91,18 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 
 The embodiment of the sacrifice, the pressed soma, having been pressed,  purifies himself at speed.  
 He protects the age-old poetic skill.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/006/08-09.md">
+<details open><summary><h2>08-09 ...{Loading}...</h2></summary>
+
+As noted in the published introduction, the theme of poetry appears in these last two vss., and I think it likely that Soma’s “protecting poetic skill” and “making the hidden hymns his own” refer to the inspiration Soma, and the soma sacrifice, provide to the poets. What it means to “protect” kā́vya (8c) is not entirely clear to me, but the preverb ní with pāti may suggest protection that involves hiding or depositing the thing in question, thus matching the hidden hymns in 9c. (pāti may also pun on √pā ‘drink’, of much more common occurrence in the Soma maṇḍala.) As I suggested in the published introduction, I think the hymns are “hidden” deep within the poets and are stimulated and evoked by Soma and the ritual in his honor.
+
+Note also that in the next hymn (IX.7.4a) Soma the poet clothes himself (vásānaḥ) in (pl.) kā́vyā.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -115,3 +127,4 @@ Als Opfers Seele rieselt er in Eile, der gepresste Trank, Er schützt die alte S
 Выжатый, очищается сома.  
 Он охраняет древнее поэтическое искусство.
 </details>
+

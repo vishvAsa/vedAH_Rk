@@ -102,6 +102,16 @@ genre M
 <details><summary>+Jamison Brereton</summary>
 
 The two grandsons of great strength, the sons of skill, strong-willed, possessing fat drops, dwell in the house of refreshment.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/025/05-06.md">
+<details open><summary><h2>05-06 ...{Loading}...</h2></summary>
+
+The usual problem with (-)dānu-: ‘gift’ or ‘drop’ or both? In this case the first cmpd member sṛpra- ‘fatty, luscious’, the dwelling “in the house of refreshment” (in vs. 5), and the refreshments and rains (in vs. 6) favor ‘drop’, though both Geldner and Renou opt for ‘gift’ (Geldner with an outdated rendering of sṛprá- as ‘ausgedehnt’). On sṛprá- see comm. ad I.96.3.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -126,3 +136,4 @@ Die Enkel grosser Allgewalt, die weisen Söhne hoher Kraft, Die Thau hinträufel
 Два сына Дакши, (они) с прекрасной силой духа,  
 С распространившимися дарами, обитают на месте жертвенной услады.
 </details>
+

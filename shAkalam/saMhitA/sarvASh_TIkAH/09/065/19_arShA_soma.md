@@ -95,6 +95,15 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 
 Rush, o Soma, most brilliant, to the wooden vessels, constantly  bellowing,  
 sitting like a falcon in your womb.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/19-21.md">
+<details open><summary><h2>19-21 ...{Loading}...</h2></summary>
+
+No clear cohesion, though vss. 19 and 20 both contain a form of √ṛṣ.
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -117,3 +126,4 @@ O Soma, ström' in hellstem Glanz laut rauschend auf die Kufen hin, Und setz dic
 
 -ru-
 </details>
+

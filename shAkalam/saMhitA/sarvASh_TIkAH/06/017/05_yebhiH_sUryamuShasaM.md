@@ -136,6 +136,16 @@ genre M
 
 Becoming exhilarated on which, you made the sun and dawn to shine, as  you shattered the strongholds.  
 You shoved the great, immoveable rock that was enclosing the cattle  from its own seat, Indra.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/017/03-05ab.md">
+<details open><summary><h2>03-05ab ...{Loading}...</h2></summary>
+
+mándatu tvā in 3a inaugurates a 3-vs. sequence chained together by the root √ma(n)d ‘exhilarate’, a sequence whose 1st vs. (3) overlaps with the last vs. of the initial triad. The other representatives also occur in the 1st pāda: mádāḥ in 4a and mandasānáḥ in 5a. Cf. also matsarā́saḥ in 4d. The conceptual unity of the sequence is underlined by the fact that 5ab is a rel. clause that must hang off the previous vs. The 2nd hemistich of 5 marks a sharp break.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -161,3 +171,4 @@ Durch die erquickt, die Sonn' und Morgenröthen erhellt du hast, zersprengend al
 Огромную скалу, о Индра, заключавшую в себе коров,  
 Ты столкнул неподвижную со своего места.
 </details>
+

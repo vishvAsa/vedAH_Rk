@@ -124,6 +124,16 @@ As it drops:**gharma** = earthen pot called **mahāvīra**, also signifies the m
 <details><summary>+Jamison Brereton</summary>
 
 Drink the honeyed hot milk, o Aśvins; sit here on the ritual grass, o men. Reaching exhilaration here in the dwelling of Manu, protect our vital  energy along with our property.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/087/01-02.md">
+<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+
+The d pādas of these two vss. apparently begin with the same verb: 1d pātám, 2d ní pātam, but these two almost certainly belong to the two homonymous roots √pā ‘drink’ and √pā ‘protect’ respectively, pace Geldner Renou’s arg. that the latter belongs to ‘protect’ seems pretty decisive: ni √pā ‘drink’ is not found till the Rām., whereas ní √pā ‘protect’ is quite well attested in the RV. I imagine the poet signaled the change of root by including this preverb while enjoying the etymological play (see also píbatam beginning 2a, 4a, as well as pātam 5d).
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -149,3 +159,4 @@ Die honigsüsse Brühe trinkt, o Ritter, ihr, o Männer, setzt euch auf die Stre
 Радуясь в доме у человека,  
 Умело храните (нашу) телесную силу!
 </details>
+

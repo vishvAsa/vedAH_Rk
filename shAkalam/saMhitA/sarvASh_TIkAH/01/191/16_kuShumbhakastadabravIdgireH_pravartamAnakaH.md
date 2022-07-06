@@ -103,6 +103,18 @@ popular;; epic anuṣṭubh (525)
 
 The little teeny kuṣumbha-bug said this, as it made its teeny turn forth  from the mountain:  
 “Without juice is the poison of the little scorpion, without juice is your  poison, little scorpion.”
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/191/15-16.md">
+<details open><summary><h2>15-16 ...{Loading}...</h2></summary>
+
+The -ka- suffix is particularly prominent in these vss, appearing not only on the designation of the bug (kuṣumbhakáḥ, 2x), but also on the pronominal adj.
+
+iyattakáḥ (‘such a one’), the pronoun takám, and the participle pravartamānakáḥ.
+
+The word for ‘scorpion’, vṛ́ścika- only appears in that form, but appears to contain the -ka- suffix as well, very common in words for noxious insects (see my “-kasuffix,” IIJ 52 [2009]: 318).</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -128,3 +140,4 @@ Das winzige Giftinsekt, als es vom Berge herab sich wandte, sprach dies Wort: Da
 Яд скорпиона лишен сока.  
 Лишен сока, скорпион, твой яд.
 </details>
+

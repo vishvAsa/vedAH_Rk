@@ -86,6 +86,15 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 <details><summary>+Jamison Brereton</summary>
 
 Thus, for immortality and for great peaceful dwelling, rush gleaming as  the heavenly beestings.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/01-03.md">
+<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+
+No particular signs of cohesion, beyond the mention of Soma’s divine recipients in vss. 1-2. Vs. 3 begins with a possibly summary evā́.
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -108,3 +117,4 @@ So ström', o heller – zu hoher Herrschaft, ihm, der unsterblich, – du Milch
 Так теките для бессмертия, для великого жилья,  
 Светлые небесные сливки!
 </details>
+

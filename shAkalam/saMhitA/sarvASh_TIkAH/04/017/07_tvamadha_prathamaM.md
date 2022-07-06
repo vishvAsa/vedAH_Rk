@@ -130,6 +130,16 @@ genre M
 
 And on first being born, you placed all the separate peoples in (the path  of) your onslaught, Indra.  
 With your mace you hewed apart the serpent who was lying against the  (mountain) slopes, o bounteous one.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/06-07.md">
+<details open><summary><h2>06-07 ...{Loading}...</h2></summary>
+
+I take the idiom found in 6d and 7b, LOC. ACC. adhithāḥ, as meaning ‘put s.o. in the path/way of s.th. The middle voice of adhithāḥ signals that the entity in the loc. belongs to the subject, namely Indra -- in the first case his generosity (just celebrated in 5d), in the second his power of attack. Although Geldner recognizes the similarity of these constructions, with identical subjects and objects (see his n. 6d), he renders them quite differently. For áme √dhā in 7b, see also I.63.1, 67.3.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -155,3 +165,4 @@ Als, Indra, du zuerst geboren wurdest, da setztest du in Schrecken alle Völker;
 Змея, запрудившего сток (вод),  
 Ты разрубил ваджрой, о щедрый.
 </details>
+

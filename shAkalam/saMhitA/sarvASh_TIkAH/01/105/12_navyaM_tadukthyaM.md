@@ -135,6 +135,16 @@ Commended vigour: **bala** = strength, which is ukthyam (praiseworthy)
 Anew has this (speech) been established worthy to be spoken, good to  proclaim, o gods.  
 The rivers stream truth; the sun stretches through the real.  
 – Take heed of this (speech) of mine, you two world-halves.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/105/12-15.md">
+<details open><summary><h2>12-15 ...{Loading}...</h2></summary>
+
+This set of verses forms a small internal ring: 12 and 15 contain ṛtám and návyam / návyaḥ (though not to the same stem: návya- in 12, the comparative návyas- in 15, both neut. sg.), while 13-14 contain the responsive sattó (…) manuṣvád ā́, devā́n … vidúṣtaraḥ.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -161,3 +171,4 @@ Preiswürdig ist dies neue Werk, o Götter, und des Rühmens werth, Die Flüsse 
 Правду протянуло солнце.  
 О Небо и Земля, узнайте обо мне (в таком положении)!
 </details>
+

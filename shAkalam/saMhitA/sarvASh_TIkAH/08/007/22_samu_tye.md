@@ -114,6 +114,16 @@ Vṛtra: they have plural nted thethunderbolt in (Vṛtra's) every limb
 
 They put together the great waters, together the two “opponents”  [=heaven and earth], together the sun,  
 together the mace, joint by joint.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/22-23.md">
+<details open><summary><h2>22-23 ...{Loading}...</h2></summary>
+
+The insistently repeated sám in vs. 22 (4x in 3 pādas) is complemented by its opposite ví in 23, though ví needs only two occurrences to continue the pattern.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -143,3 +153,4 @@ Die grossen Wasser fügten sie, das Weltenpaar, der Sonne Ball, Den Blitz zusamm
 Вместе – два войска, вместе – солнце,  
 Вместе – ваджру по суставам.
 </details>
+

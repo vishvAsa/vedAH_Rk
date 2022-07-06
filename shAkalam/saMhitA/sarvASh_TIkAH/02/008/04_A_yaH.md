@@ -96,6 +96,22 @@ genre M
 <details><summary>+Jamison Brereton</summary>
 
 Who, like the sun with its radiance, shines forth bright with his flame, anointing himself with his own unaging (flames).
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/008/04-06.md">
+<details open><summary><h2>04-06 ...{Loading}...</h2></summary>
+
+As the just-mentioned structural device expires in 4a, another takes its place. An unbroken alliterative string runs from the end of 4b through the beginning of 5: … arcíṣa / añjānó ajárair abhí // átrim ánu …, and the first words of the most of the remaining pādas also start with a- (5b agním, 6a agnér, 6c áriṣyantaḥ, 6d abhí). Since ádhi is the 2nd word in 5c, only 6b is not part of the chain. ### 04-05 On the disguised Svarbhānu myth in these two vss., see published introduction. Most tr./comm. are puzzled by the appearance of Atri here, and Geldner and Oldenberg in particular speculate on possible emendations. But the presence of the Svarbhānu formula guarantees that the text is genuine, in my opinion.
+
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/008/01-04.md">
+<details open><summary><h2>01-04 ...{Loading}...</h2></summary>
+
+The #ya(śástamasya) that opens 1c anticipates the forms of the relative pronoun yá- in the next 3 vss. (2a #yáḥ, 3a #yá(h), 3c #yásya, with the last, 4a #ā́ yáḥ, no longer in initial position), though of course it is entirely unrelated to the relative. The referent of all those rel. pronouns is Agni, who is also the referent of yaśástamasya. Phonology and syntax are thus wedded.
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -125,3 +141,4 @@ Der wie die Sonne hell erstrahlt mit seinem Licht und Feuerglanz, Geschmückt mi
 Далеко сверкает пламенем, яркий,  
 Помазанный (маслом), с нестареющими (языками пламени)!
 </details>
+

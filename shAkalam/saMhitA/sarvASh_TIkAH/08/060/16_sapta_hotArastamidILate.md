@@ -147,6 +147,11 @@ Janām = asmān, proceed to the gods with theoblation, having left us behind
 
 The seven Hotars reverently invoke just you, o Agni, the unabashed one  displaying great abandon.  
 You split apart the rock with your heat and your flame. Agni, stand out  beyond the peoples.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+The sense of sutyájam is disputed. I ascribe to it the same metaphorical meaning as ‘abandon’ acquires in English, namely acting without constraint. This fits nicely with áhrayas- ‘unabashed, immoderate, unrestrained’. A fire blazing up out of control is presumably meant; in the next pāda it manages to split a rock -- a sudden glancing allusion to the Vala myth, in which Agni usually has no role.
 </details>
 
 <details><summary>+Griffith</summary>
@@ -172,3 +177,4 @@ Als solchen preisen, Agni, sieben Priester dich, den kecken, tücht'gen Schleude
 Ты раскалываешь скалу жаром, пламенем.  
 Агни, двигайся вперед, за пределы людей!
 </details>
+

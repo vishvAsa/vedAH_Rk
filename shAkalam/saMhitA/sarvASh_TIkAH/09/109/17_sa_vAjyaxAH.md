@@ -85,6 +85,16 @@ genre M;; pentad (decasyllabic), including Arnold’s “pure” and “mixed”
 <details><summary>+Jamison Brereton</summary>
 
 The prizewinner has streamed in a thousand spurts, being groomed  with waters, being prepared with cows.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/16-18.md">
+<details open><summary><h2>16-18 ...{Loading}...</h2></summary>
+
+Vss. 16 and 17 contain the sequence akṣāḥ sahásra(-dhāraḥ / -retaḥ) in the same position in the vs. All 3 vss. concern Soma’s journey. The various phrases with agentive instr. in 17 and 18 reprise and reshuffle those in 15: góbhiḥ śrītásya (15) is echoed by góbhiḥ śrīṇānaḥ (17); nṛ́bhiḥ sutásya (15) gets divided and refitted into two phrases, nṛ́bhiḥ yemānáḥ and ádribhiḥ sutáḥ (18).
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -107,3 +117,4 @@ Und schnell nun rann er – mit tausend Samen, geklärt vom Wasser, – gemischt
 Потек этот захватчик награды с тысячным семенем,  
 Начищаемый водами, смешиваемый с молоком.
 </details>
+

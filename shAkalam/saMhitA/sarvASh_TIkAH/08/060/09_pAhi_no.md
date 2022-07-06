@@ -123,6 +123,13 @@ Four: ṛk, **yajuṣ**, **sāman** and **nigada**
 
 Protect us with one, Agni, and protect us with a second.  
 Protect us with three hymns, o lord of nourishments; protect us with  four, o good one.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+I am a little uncertain why/how Agni protects us with hymn(s) (gír-), which are what we usually offer to him. Geldner and Renou soften the expression by tr.
+
+‘word(s)’, but that is not what gír- means. Perhaps Agni’s “hymns” are the crackling noises of the fire, or else the instrumentals express cause: “protect us by reason of (our) hymns.” I prefer the former of these solutions. (See 18a below.) The various instrumentals cannot directly take up the pāyúbhiḥ of 8d, because pāyú- is masc. and all four number instrumentals (ékayā, etc.) are unambiguously feminine, as is gírwhen it finally shows up in c.
 </details>
 
 <details><summary>+Griffith</summary>
@@ -148,3 +155,4 @@ O Agni, schütz mit einer Burg und schütze mit der zweiten uns, Mit dreien Burg
 Защити тремя словами, о господин питательных сил,  
 Защити четырьмя, о Васу!
 </details>
+

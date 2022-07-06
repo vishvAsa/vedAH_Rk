@@ -89,6 +89,15 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).;; repeated li
 <details><summary>+Jamison Brereton</summary>
 
 We who have pressed soma call upon just you, best smiter of Vr̥tra, when you will show us mercy, Indra.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/093/28-30.md">
+<details open><summary><h2>28-30 ...{Loading}...</h2></summary>
+
+A variant of the final pāda of the last tṛca (27c stotṛ́bhya indra mṛḷaya) becomes the refrain of this tṛca (yád indra mṛḷáyāsi naḥ).
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -111,3 +120,4 @@ Ja dich, o Feind vertilgender, dich rufen Soma bringend wir, O sei du, Indra, gn
 
 -ru-
 </details>
+

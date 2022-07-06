@@ -96,6 +96,16 @@ Shedder: viṣṇor mīḷhuṣām = vyāptasya eṣaṇīyasya vṛṣṭyudaka
 
 For we know the mighty forcefulness of the Rudrian Maruts, the  strenuous ones,  
 of quick Viṣṇu, of the ones who grant rewards.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/020/03-04.md">
+<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+
+Pādas 3a, 3c, and 4a all begin with vi, with the last example doubled ví (d)vī. This sequence is anticipated by 2a vī.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -120,3 +130,4 @@ Wir kennen ja die starke Kraft der regen Rudra's, der gewog'nen Marutschar, Des 
 Пыл сыновей Рудры, порывистых Марутов,  
 Стремительного Вишну (и этих) щедрых (богов).
 </details>
+

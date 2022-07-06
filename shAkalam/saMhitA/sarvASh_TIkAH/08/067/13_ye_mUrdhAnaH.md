@@ -88,6 +88,16 @@ genre M;; Oldenberg's gāyatrī-corpus, cf. Oldenberg (1888: 9f.).
 <details><summary>+Jamison Brereton</summary>
 
 They who, as heads of the settled peoples, untrickable, self-glorious, without deceit, guard their commandments—
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/067/12-13.md">
+<details open><summary><h2>12-13 ...{Loading}...</h2></summary>
+
+The correlative of yé in 13 is té in 14, but this unremarkable pairing actually conceals a bit of trickery: yé has 3rd ps. reference, but té has 2nd ps. reference, with the impv. mumócata -- with a change in person in midstream that is not evident until the verb is reached at the end of pāda b.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -112,3 +122,4 @@ Die aller Menschen Häupter sind, untrüglich, herrlich durch sich selbst Und tr
 С собственным блеском,  
 Безгрешные, охраняют заветы, –
 </details>
+

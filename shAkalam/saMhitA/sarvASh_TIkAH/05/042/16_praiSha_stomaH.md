@@ -143,6 +143,16 @@ genre M
 
 May this praise reach to earth, to the midspace, to the trees, to the  plants, for wealth.  
 Let every god be easy for me to invoke. Let Mother Earth not set us in  disfavor.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/042/14-16.md">
+<details open><summary><h2>14-16 ...{Loading}...</h2></summary>
+
+This trio of vss. echoes vs. 1 and ring-compositionally seems to bring the hymn to a close, with the single pāda of 17 and the final vs. 18 tacked on (and indeed the 2nd hemistich of 16: see below). The template is prá [HYMN, etc.] [GOD] nūnám aśyāḥ, realized in 1ab as “May the hymn (gī́ḥ) now reach Varuṇa (etc.).” In 14ab we again have all the elements, while 15ab omits the initial preverb prá in favor of úd immediately preceding the verb and omits nūnám entirely and 16ab reinstates prá but still lacks nūnám: 1ab prá … váruṇam (etc.)… gī́r … nūnám aśyāḥ 14ab prá suṣṭutíḥ … iḷás pátim … nūnám aśyāḥ 15ab eṣá stómo mā́rutaṃ śárdhaḥ (etc.)… úd aśyāḥ 16ab praíṣá stómaḥ pṛthivī́m (etc.) … aśyāḥ The impression given by this sequence of syntactic and lexical parallels -- that this is the finale of the hymn -- is supported by the fact that the rest of the hymn, 16cd-18, is repeated as15cd-17 in the next hymn, V.43.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -168,3 +178,4 @@ Die Erde, Luft, die Bäume und die Kräuter erreiche dieses Loblied, Reichthum s
 Пусть каждый бог будет для меня легкопризываемым!  
 Мать-земля да не поместит нас в немилость!
 </details>
+

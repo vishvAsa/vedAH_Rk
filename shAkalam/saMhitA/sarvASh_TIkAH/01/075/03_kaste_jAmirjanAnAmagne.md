@@ -101,6 +101,16 @@ genre M
 
 Who is the kinsman of your peoples? O Agni, who holds the pious  ceremony?  
 Who are you and fixed in what?
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/075/03-04.md">
+<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+
+As noted in the published introduction, only the first of the questions in vs. 3 is answered in vs. 4, though the latter appears to be structured as the replies.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -130,3 +140,4 @@ Wer ist der Menschen Bruder dir? wer, Agni, ist's, der Opfer weiht? Wer ist's? m
 О Агни, кто почтительно совершает обряд?  
 Кто же он? У кого ты находишься?
 </details>
+

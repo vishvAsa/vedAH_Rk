@@ -131,6 +131,15 @@ Khayar and śiśu: khadirasya sāram is the text;
 
 Engird yourself in the hardwood of the acacia tree; place strength in the  śiṃśapā(-wood) in its recoil.  
 O Axle, you who are firm and were made firm, stay firm. Don’t make us  leave off from this journey.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+
+On abhí vyayasva see comm. ad VII.33.4. I assume ‘engird’ refers to the ends of the axle being embedded in the wheel hub.
+
+The loc. spandané is generally taken as a third type of wood (besides khadiráand śiṃśápā-), but while the other two words are standard designations of trees, spandaná- is ordinarily not, but rather refers to a type of motion -- jerking or kicking.
+
+I take it to refer here to the elasticity or flexibility of Dalbergia sissoo (śiṃsapā-), a quality it has (at least acdg. to the internet).
 </details>
 
 <details><summary>+Griffith</summary>
@@ -156,3 +165,4 @@ Hülle dich ein in das Mark der Saft-Akazie, setze in das Fuhrwerk die Kraft des
 О прочная, сделанная прочной ось, оставайся прочной!  
 Сделай, чтоб мы не отбились от этого похода!
 </details>
+

@@ -96,6 +96,16 @@ genre M
 Purify yourself as the most honeyed for Indra, o Soma, as the  
 exhilarating drink that best finds resolve,  
 greatly, as the exhilarating drink that best rules heaven,
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/01-02.md">
+<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+
+There is syntactic dependence between the two vss., at least by my reading: 2ab depends on vs. 1, while 2cd consists of a new cl., with a change of person. The Anukr. attributes the two vss. to Gaurivīti Śāktya; there is some support for this, in that V.29 (one of the three other hymns attributed to him [also X.73-74]) has an allusion to the myth involving Etaśa, the sun’s horse (V.29.5), who appears in our 2d.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -120,3 +130,4 @@ Dem Indra ström, o Soma, hell, als süssestes, als kraftverleihendstes Getränk
 Для Индры, о сома, лучше всех создающий силу духа пьянящий напиток,  
 Мощно, больше всего прибывающий на небе пьянящий напиток!
 </details>
+

@@ -106,6 +106,16 @@ Product: or, belongs to the sacrifice, yajñasya **sambandhi** **bhavati**
 <details><summary>+Jamison Brereton</summary>
 
 And Aditi gave birth to the praise song for Indra, the sovereign king, (the song) proclaimed by many for his help—(the song) that belongs  to truth.
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/012/13-15.md">
+<details open><summary><h2>13-15 ...{Loading}...</h2></summary>
+
+Lüders (Varuṇa 450) comments about the tṛca that it concerns only the songs sung to Indra; therefore in the refrain ṛtá- can only refer to “die Wahrheit des Liedes,” and the refrain ṛtásya yád is paraphrase for “das Lied.” I agree that the refrain refers to the verbal product offered to Indra, but prefer to supply ukthá- ‘(solemn) speech’, extracted from ukthá-vāhas- in 13a for 13c and 14c.
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -130,3 +140,4 @@ Und Indra, dem selbstleuchtenden hat Lobsang Aditi erzeugt; Zur Wonne, vielgepri
 Индры создала восхваление  
 Ради (его) помощи, многопрославленную (речь), которая истинна.
 </details>
+

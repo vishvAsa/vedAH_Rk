@@ -130,6 +130,20 @@ Taken from those: yena yatibhyo **dhane** hite: yatibhyaḥ = karmasu uparatebhy
 
 I beg you for a mass of good heroes and for the sacred formulation to  be first in your thought.  
 That with which, when the stake was set, (you were there) for the Yatis  and for Bhr̥gu, with which you helped Praskaṇva,
+꣡</details>
+
+<details><summary>+Jamison Brereton Notes</summary>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled="" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/003/09-10.md">
+<details open><summary><h2>09-10 ...{Loading}...</h2></summary>
+
+Although Geldner takes the second hemistich as dependent on the first, because of the parallel yénā clause opening vs. 10, I prefer to take 9cd and 10a as dependent on 10b, with the yénā’s of 9c, 9d, and 10a all referring to śávaḥ in 10b.
+
+But this sequence can also be seen as a type of modulation: the hearer is invited to assume that the yénā’s of 9c and 9d have 9b bráhma as their antecedent, but the opening of the next verse can cause reanalysis and a refocusing on śávaḥ in 10b.
+
+In 9c a verb needs to be supplied. Although the sentiment seems to be essentially identical to 9d (“you helped X”), the root √av ‘help’ does not take a dative recipient. I therefore supply a form of √as or √bhū with the meaning “be there for…” Geldner rather “zu Hilfe kamst.”
+
+</details>
+</div>
 </details>
 
 <details><summary>+Griffith</summary>
@@ -155,3 +169,4 @@ Dich bitt' ich um die Heldenkraft, um die Begeisterung zuerst, Mit der du einst 
 (Слове,) с которым (ты пришел на помощь) к Яти, к Бхригу, когда была установлена ставка,  
 Которым ты помог Прасканве.
 </details>
+
